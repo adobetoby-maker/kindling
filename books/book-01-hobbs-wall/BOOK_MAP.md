@@ -45,8 +45,8 @@ confirmation of the items marked new below.
 | Garrick Voss | To get Senna to treatment; to pass the Satori on before it's too late | That the myth is a curse disguised as a gift | — | Dies in the opening ambush; entry pressure for the whole book | `CANON` |
 | Senna Voss | To survive long enough to see Toren grown | Being the reason her family dies reaching her cure | — | Gravely wounded in the ambush; survival is in tension with the road now being Rook's, not a direct route | `POSSIBLE` |
 | Dessa Cole | To be useful, to be trusted with something real | Being seen as just another kid who needs protecting | — | First to touch Satori briefly, under Rook's instruction; becomes his practical second | `POSSIBLE` |
-| Milo Faust | For the group to stay a family under Rook, not survivors he's stuck with | That grief will make everyone stop looking at each other as people | — | Keeps the group's grief human across the book; candidate to survive intact | `POSSIBLE` |
-| Wyck Tanner | To not owe his life, twice, to people he didn't choose | Being irrelevant to a group built around two people stronger than him | Believes Rook's teaching is favoritism toward Toren specifically | Candidate for the book's costliest loss | `POSSIBLE` |
+| Milo Faust | For the group to stay a family under Rook, not survivors he's stuck with | That grief will make everyone stop looking at each other as people | — | Keeps the group's grief human across the book; **confirmed as the book's costliest loss in Movement 5** (reversed from the earlier "survives intact" default — see Open decisions) | `POSSIBLE` |
+| Wyck Tanner | To not owe his life, twice, to people he didn't choose | Being irrelevant to a group built around two people stronger than him | Believes Rook's teaching is favoritism toward Toren specifically | **Arc resolved non-lethally in Ch. 17** — sets the "all five at once" term, then freely takes Rook's watch so he can finally sleep. No longer the costliest-loss candidate (see Open decisions) | `POSSIBLE` |
 | Cinder Company | Unclear if they know what the Satori is; know Rook is hunting them | Being caught by Rook, whom at least some of them know they wronged | — | Converges with the road in the back half, forcing Rook's central choice | `POSSIBLE` |
 
 ## Opposition and off-page motion
@@ -98,7 +98,7 @@ confirmation of the items marked new below.
 | 2 — What He Won't Teach Yet | 7–12 | Drilling continues, more serious, still unexplained | Dessa is first to touch Satori, once, briefly — Rook's own wall cracks on the page, and he begins actually teaching the Path rather than only drilling survival; real training arc follows, hard lessons and real wounds, Satori glimpsed by other students with mixed success | A first Cinder Company trace surfaces (wreckage, a dropped name) and Rook's reaction to it is the first crack the *group* can see, not just the reader | `clean` and `learning` mixed, one `learning-deception` beat | `POSSIBLE` — rebalanced this pass; absorbs what was originally Movement 3's front half (see Retired alternatives) |
 | 3 — The Same Force | 13–14 | Cinder Company trace deepens; the training has visibly stopped being generic survival drilling | Wyck's resentment of perceived favoritism finally boils over in the open | The group becomes a unit — not because the friction resolves cleanly, but because it's said out loud for the first time | `clean` | `POSSIBLE` — shortened this pass, carries only the friction turn into Movement 4's campfire |
 | 4 — Homura | 15–18 | Rook's private dream comes closer to the surface, and three movements of drilling without explanation have earned the whole clan the standing to finally push back | At a campfire, the group — not just Toren — corners him and gets the full account out of him at once: Homura, Vera, the Ember's true owner. Hearing it is what turns Dessa's Movement 2 spark into a stable Ember rank, the same way loving Vera once turned Rook's own understanding from theory into fact | Rook chooses the fork that keeps Senna's timeline alive over the fork that closes on Cinder Company faster | `clean` — the campfire scene is carried by voice and revelation, not staging | `POSSIBLE` |
-| 5 — Cinder | 19–23 | Cinder Company stops being a rumor | A direct clash; the book's costliest loss lands here | Rook has Cinder Company in reach and chooses the clan instead, at real and immediate cost | `arsenal-climax` | `POSSIBLE` |
+| 5 — Cinder | 19–23 | Cinder Company stops being a rumor — the party is found rather than doing the finding, since Rook chose Senna's timeline over the hot lead at Movement 4's close | A direct clash; Milo Faust is the book's costliest loss | Rook has Cinder Company (and the man responsible) in reach and chooses the clan instead, at real and immediate cost; his real name lands, given to Wyck first per the Ch. 17 promise | `arsenal-climax` | `POSSIBLE` |
 | 6 — Meridian | 24–28 | Final approach through the worst Riftspawn territory yet, grief still raw | A larger Riftspawn set piece tied to wormhole instability near Meridian — Toren's proof-of-growth beat: blends Edge and Stride for the first time, under real pressure | Arrival; Senna's treatment; Meridian's authority reacts to Kindled refugees with unexpected wariness; one real piece of disk-truth surfaces from Meridian's own archives | `tactical-climax-learning` for the set piece; `clean` for arrival/resolution | `POSSIBLE` |
 
 Six movements, roughly twenty-eight chapters. Movement 3 is deliberately the
@@ -170,10 +170,22 @@ Meridian's suspicion of what they now are opens Book 2's changed world.
   for distinct things. Neither appears in Movement 1 prose yet, so nothing already
   locked needs revision.
 
-**Still open (carried from the parallel run, unaffected by Movement 1):**
+**Resolved at the Movement 5 dispatch point:**
+- **Costliest loss reassigned from Wyck to Milo.** Wyck's "owed his life twice,
+  resented both times, converts to loyalty" arc completed non-lethally on the
+  page in Ch. 17 (the watch-taking) — killing him in Movement 5 would re-spend an
+  arc that already paid out rather than complete one. Milo is the remaining clan
+  member whose death is both earned (bread-ritual, light-ability, faithful
+  calling — all planted and paid forward across Ch. 4–17) and costly (he is
+  explicitly the group's emotional ballast). Dessa and Senna are excluded by
+  their own plot-mandated survival (Dessa's rank must prove reliable at this
+  climax per the plant/payoff map; Senna must reach Meridian per the book's
+  ending promise). A second, optional loss within Cinder Company's ranks — someone
+  Rook recognizes and can't save either, landing cost on his side of the ledger —
+  remains available to Movement 5's packet as a bonus beat, not a requirement.
+
+**Still open (carried from the parallel run, unaffected by Movement 1–4):**
 - Senna's exact cost of survival at Meridian.
-- The book's second named loss, if any beyond Wyck — strongest candidate remains
-  someone within Cinder Company's ranks Rook recognizes and can't save either.
 - Series and Book 1 titles — open for the naming round, none structural.
 - The Hoid figure's separate, brief, unexplained cameo — placement within Book 1
   not yet chosen; does not affect Movement 1.
