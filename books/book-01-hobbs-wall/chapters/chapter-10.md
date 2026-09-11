@@ -84,7 +84,7 @@ That was the shape of the next four minutes. A Stilt at the end of a row was a s
 
 Wyck killed the first one with the bar across the knee of its left leg while it stood picking its way through the geometry, and the whole creature went down like a stepladder coming apart.
 
-Toren killed the second one badly and in three goes, and would have been in trouble if Rook had not come through the row behind him with no warning at all and taken its other leg off.
+Toren killed the second one poorly and in three goes, and would have been in trouble if Rook had not come through the row behind him with no warning at all and taken its other leg off.
 
 "Trunks," Rook said, and was gone.
 

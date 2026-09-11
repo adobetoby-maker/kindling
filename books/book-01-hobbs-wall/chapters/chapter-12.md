@@ -184,7 +184,7 @@ The fire ticked.
 
 "You've got an enormous face," said Wyck, "and everybody in this camp can read it, including the mule."
 
-Toren laughed before he could stop himself, and it came out badly, and after it there was a silence that was almost comfortable, and that was somehow the most alarming thing that had happened in three days.
+Toren laughed before he could stop himself, and it came out poorly, and after it there was a silence that was almost comfortable, and that was somehow the most alarming thing that had happened in three days.
 
 "Here's the thing, though," Wyck said.
 

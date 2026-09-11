@@ -164,4 +164,4 @@ Rook glanced at him. It was the first time all day that the man had looked direc
 
 "You keep that thing in your hand," he said, "and you don't ask it for anything clever."
 
-They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there any more, and Toren did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back, and it would take him most of a year to find out how badly that particular decision worked.
+They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there any more, and Toren did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back, and it would take him most of a year to find out how poorly that particular decision worked.

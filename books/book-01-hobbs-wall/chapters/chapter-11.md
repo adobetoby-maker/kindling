@@ -44,7 +44,7 @@ She was somewhere past fifty, small and sinewy, with a salvager's hands and a sa
 
 "Two Ember," said Milo, with dignity.
 
-"Oh, well, *two Ember*." She jerked her chin at Wyck's bound arm. "That one's Ember, is he? Ember's a lovely thing. Ember stops you being frightened of the dark and gets you killed at about nineteen." She put the crossbow down, which was the first real thing she did. "You can have the north side of the yard. There's dry under the tank shadow and you'll not get it anywhere else in this rain. I'm working the hut and the middle tank and I've been working them nine days and I'd take it badly."
+"Oh, well, *two Ember*." She jerked her chin at Wyck's bound arm. "That one's Ember, is he? Ember's a lovely thing. Ember stops you being frightened of the dark and gets you killed at about nineteen." She put the crossbow down, which was the first real thing she did. "You can have the north side of the yard. There's dry under the tank shadow and you'll not get it anywhere else in this rain. I'm working the hut and the middle tank and I've been working them nine days and I'd take it poorly."
 
 "We won't touch the hut," said Rook.
 

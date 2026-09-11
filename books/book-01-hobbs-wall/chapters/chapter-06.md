@@ -12,7 +12,7 @@ That was the thing. Every drill, every evening, every time they set a line: *Tor
 
 Rook's drills had gotten worse in the specific way that meant they were getting better.
 
-He made them do everything tired. He would let them make camp, let them get the boots off, and then walk over and say "up" and run the whole line for forty minutes in the dark. He made Wyck learn to fight left-handed, badly, on the grounds that Wyck's right arm was going to get opened sooner or later and it would be nice if the surprise came in advance. He made Milo call. Endlessly. Milo's whole job, in every drill, was to stand behind somebody's shoulder and say out loud where things were, and Rook was harder on Milo about that than he was on anyone about anything.
+He made them do everything tired. He would let them make camp, let them get the boots off, and then walk over and say "up" and run the whole line for forty minutes in the dark. He made Wyck learn to fight left-handed, poorly, on the grounds that Wyck's right arm was going to get opened sooner or later and it would be nice if the surprise came in advance. He made Milo call. Endlessly. Milo's whole job, in every drill, was to stand behind somebody's shoulder and say out loud where things were, and Rook was harder on Milo about that than he was on anyone about anything.
 
 "Left, two, coming — left, two — left, *one*, the other one's stopped—"
 
