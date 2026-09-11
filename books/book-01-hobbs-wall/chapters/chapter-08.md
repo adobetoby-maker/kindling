@@ -262,7 +262,7 @@ Toren, lying down, saw him out there against the last of the sky at the top of t
 
 ---
 
-In the morning Rook ran the wall drill again and Wyck came across it badly and got fouled on his own bar for the fourth day running.
+In the morning Rook ran the wall drill again and Wyck came across it poorly and got fouled on his own bar for the fourth day running.
 
 "Again," said Rook.
 

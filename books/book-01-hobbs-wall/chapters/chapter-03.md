@@ -98,7 +98,7 @@ Toren understood it perfectly and instantly and he would think about it for year
 
 His father came out of the bend.
 
-He came out at a run with the axe down at his side and half the haft slick and dark, and he was moving badly, and Toren saw the reason before he understood he was seeing it: the whole left side of Garrick's coat was wrong, hanging heavy and open, and there was too much of it.
+He came out at a run with the axe down at his side and half the haft slick and dark, and he was moving poorly, and Toren saw the reason before he understood he was seeing it: the whole left side of Garrick's coat was wrong, hanging heavy and open, and there was too much of it.
 
 "Move them," Garrick said, going past. "Move them, Tor."
 
@@ -108,7 +108,7 @@ He came out at a run with the axe down at his side and half the haft slick and d
 
 The bend was open. That was what his father had spent two minutes buying, and Toren did not understand until much later that his father had been standing in it after it was already won, on legs that had stopped being able to carry him anywhere else, waiting for somebody to come and take the road off him.
 
-The cart went for it. Dessa had Pitch's head down and was hauling him bodily and Wyck was at the wheel and Milo was still in the bed with both hands on Senna's shoulder and his face turned away from where his mother had been, and Toren ran alongside with the spike out and killed one more, badly, on the third try.
+The cart went for it. Dessa had Pitch's head down and was hauling him bodily and Wyck was at the wheel and Milo was still in the bed with both hands on Senna's shoulder and his face turned away from where his mother had been, and Toren ran alongside with the spike out and killed one more, poorly, on the third try.
 
 Garrick did not go with them.
 
@@ -138,7 +138,7 @@ Toren stared at the back of the man's head.
 
 "Yes," said Toren.
 
-The first one came off the rock about fifteen feet up and landed badly, on the road, eight paces behind the stranger's braced boots — past the shut place, past the narrow place where Garrick was, past everything, with nothing between it and the cart but Toren.
+The first one came off the rock about fifteen feet up and landed poorly, on the road, eight paces behind the stranger's braced boots — past the shut place, past the narrow place where Garrick was, past everything, with nothing between it and the cart but Toren.
 
 Toren went at it before it finished getting up, and did not think about the shape, and put the crooked spike through it under the arm the way he had the first one, and it came apart, and he had one enormous and entirely unearned second of believing he was the sort of person this happened easily for.
 

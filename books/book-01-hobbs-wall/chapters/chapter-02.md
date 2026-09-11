@@ -6,7 +6,7 @@ Toren counted them, because counting was something to do with the part of his he
 
 At four hundred, the first one came over the guardrail.
 
-It didn't jump the rail. It came *through* the gap where a length of it had rotted out, and it did that badly, catching a foot and going down on the shoulder gravel and getting up again without any of the pause a person would have taken. That was the first thing Toren understood about them, before he understood anything else: it fell down, and it did not care that it had fallen down.
+It didn't jump the rail. It came *through* the gap where a length of it had rotted out, and it did that poorly, catching a foot and going down on the shoulder gravel and getting up again without any of the pause a person would have taken. That was the first thing Toren understood about them, before he understood anything else: it fell down, and it did not care that it had fallen down.
 
 It was about the size of a man. It had been, maybe. Grey-brown, the color of a wasp nest, and dried-looking, with the skin drawn tight over everything so you could see how it was put together underneath, and it was put together nearly right and not quite. The arms were long. The head sat forward. There was no face on it that Toren could find, and he looked, and afterward he wished he hadn't looked.
 

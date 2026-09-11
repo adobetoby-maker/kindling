@@ -106,7 +106,7 @@ Toren did not say anything.
 
 What Toren did that day was carry a sack of milled corn up and down four hundred yards of towpath with the spike out in his right hand and Milo's calls coming at him from behind, and count them out loud.
 
-It was the most stupid thing he had ever done in his life. The sack weighed about forty pounds and the towpath was uneven and the spike stuck out in front of him like a badly held candle and Milo, who had been given free rein for the first time since Sallow Creek, was calling positions for imaginary husks with escalating creative enthusiasm.
+It was the most stupid thing he had ever done in his life. The sack weighed about forty pounds and the towpath was uneven and the spike stuck out in front of him like a poorly held candle and Milo, who had been given free rein for the first time since Sallow Creek, was calling positions for imaginary husks with escalating creative enthusiasm.
 
 "Two left — one's at nine feet — three left, one's *behind* you—"
 
