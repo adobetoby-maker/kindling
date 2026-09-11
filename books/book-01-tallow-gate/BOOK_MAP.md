@@ -61,7 +61,7 @@ See `CHARACTERS.md`.
 | 2 — What He Won't Teach Yet | 7–8 | Drilling continues, more serious than before, still no explanation of why | Dessa is first to reach Flame, briefly, under Rook's direct instruction — real, sustained manifestation, not the Ember-stage fumbling the others are still doing | The group starts to sense Rook is teaching toward something specific, not just survival — he still won't say what; Yield and flame-ladder vocabulary enters dialogue naturally here for the first time (Rook or Dessa using the words, not narration explaining them) | `clean` and `learning` — training beats, not one set piece | `DRAFTED` — pending editorial pass |
 | 3 — The Same Force | 9–14 | Rook starts actually teaching the Path — the core lesson that Ember and magic are one thing, not two | Real training arc: hard lessons, real wounds, multiple students climbing toward Flame with mixed success; Toren starts to understand intellectually but can't yet act on it under pressure; Cinder Company trace (wreckage, a dropped name, Rook's reaction) | Wyck bristles at what reads as favoritism toward Toren; the group starts to become a unit rather than survivors Rook is stuck with | `clean` and `learning` mixed across the movement — training beats, not one set piece | `DRAFTED` — pending editorial pass |
 | 4 — Homura | 15–18 | Rook's private dream comes closer to the surface; something about the Satori, or about Toren himself, finally makes him say the rest out loud | Rook tells Toren — alone, deliberately, once — the full account: Homura, Vera, the Ember's true owner, and why the findings that could have unified the fractured world never reached anyone | Rook chooses the fork that keeps Senna's timeline alive over the fork that would let him close on Cinder Company faster — his first visible, costly turn away from pure revenge, now legible against everything the reader just learned he's actually avenging | `clean` — pressure carried by choice, consequence, and the weight of a story finally told, not a set piece | `DRAFTED` — pending editorial pass |
-| 5 — Cinder | 19–23 | Cinder Company stops being a rumor | A direct clash; the book's costliest loss lands here (see Open Decisions) | Rook has Cinder Company in reach and chooses the clan instead, at real and immediate cost | `arsenal-climax` — the group's distinct tools/skills (Ember configurations, magic, Rook's full unbound range) under real, irreversible pressure | `POSSIBLE` |
+| 5 — Cinder | 19–23 | Cinder Company stops being a rumor | A direct clash at the old weir on the Reave; **Milo Faust dies** (killed by rifle) — the book's costliest loss, resolved | Rook has all of Cinder Company in reach (five survivors, no captain, four days from finishing a contract) and chooses the clan instead, at real and immediate cost; **Elias Marsh** lands, given away by a survivor first, then given freely by Rook himself | `arsenal-climax` — Rook's full Blaze range, the group's trained capability, and human antagonists (not Riftspawn) under real, irreversible pressure | `DRAFTED` — pending editorial pass |
 | 6 — Meridian | 24–28 | Final approach through the worst Riftspawn territory yet, grief still raw from Movement 5 | A larger Riftspawn set piece tied to wormhole instability near the enclave — this is where a Breach (Barrel-grade, see `UNIVERSE_BIBLE.md` "Yield") makes its first appearance in the book, not before. Toren's proof-of-growth beat: he blends Edge and Stride for the first time, under real pressure, not drilled | Arrival; Senna's treatment; Meridian's authority reacts to Kindled refugees with a wariness the group didn't expect; one real piece of disk-truth surfaces from Meridian's own archives | `tactical-climax-learning` for the Riftspawn set piece; `clean` for the arrival/resolution beats | `POSSIBLE` |
 
 Six movements, roughly twenty-eight chapters. Movement 3 is deliberately the longest —
@@ -99,13 +99,15 @@ proceed on these unless redirected)
    ease moving through all three regional cultures — the destination survives the
    restructure without requiring a direct-route framing. Senna survives treatment, at
    a cost still to be named.
-2. **The costliest loss.** Recommended: Wyck's friction arc resolves in sacrifice
-   during the Movement 5 Cinder Company confrontation — the clearest way to convert
-   "owed his life twice, resented both times" into something finally given freely. If
-   the owner wants a second loss beyond Garrick and Wyck to fully honor "close
-   friends will die" (plural), the strongest second candidate is someone within
-   Cinder Company's ranks who Rook recognizes and can't save either — landing the
-   cost on Rook's side of the ledger, not just the youths'.
+2. **The costliest loss — RESOLVED, Movement 5.** Not Wyck — his arc resolved
+   non-lethally by Ch. 18 (restraint chosen as the harder path) and was proven
+   again under maximum stakes at the weir, so killing him would have spent an arc
+   already paid off. **Milo Faust died instead** (Ch. 21–22, killed by rifle) —
+   his death is caused by his own specific growth (the unattended-light skill),
+   completes the bread-ritual plant running since Ch. 4, and costs the book its
+   lightness rather than a logistical hole. Full reasoning in `STATE_LEDGER.md`'s
+   Movement 5 close entry. This satisfies "close friends will die" alongside
+   Garrick (Movement 1) — no second loss required for Book 1.
 3. **Rook's private dream vs. the cross-series Dream-Covenant.** Currently scoped as
    two related but distinct things — see `UNIVERSE_BIBLE.md`. Recommended: keep them
    deliberately ambiguous in Book 1; do not resolve whether they're the same event.
