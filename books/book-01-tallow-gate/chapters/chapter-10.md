@@ -130,7 +130,7 @@ He had understood the room for three days. He had thought about the room constan
 
 He had not gone in.
 
-And the reason he had not gone in, the real reason, the one that arrived all at once and unwelcome, was that the room had opened on the night his father knelt down in the dirt in front of him, and the last time he had been all the way inside it there had been two people alive who were dead now, and there was some part of him that had been very carefully not going back in there since the fifth of the month.
+And the reason he had not gone in, the real reason, the one that arrived all at once and unwelcome, was that the room had opened on the night his father knelt down in the dirt in front of him. The last time he had been all the way inside it, there had been two people alive who were dead now, and there was some part of him that had been very carefully not going back in there since the fifth of the month.
 
 "Again," Rook said.
 

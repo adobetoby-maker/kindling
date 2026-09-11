@@ -94,7 +94,7 @@ Toren had the Ember in his hand before he knew he had reached for it.
 
 "Right." Rook did not smile. There was nothing in his face at all. "Now leave the asking out of it and tell me what it feels like from the inside. Not what you want. What happens in you when it works."
 
-And Toren opened his mouth to say *I don't know* and instead, without any warning at all, was back in wet grass under a broken overpass with his hands closing on a warm grey rod and a door coming off its latch at the back of his own head.
+Toren opened his mouth to say *I don't know*. Instead, without any warning at all, he was back in wet grass under a broken overpass, his hands closing on a warm grey rod, a door coming off its latch at the back of his own head.
 
 "There's a room," he said.
 

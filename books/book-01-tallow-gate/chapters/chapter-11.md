@@ -130,7 +130,7 @@ Milo, who asked everything, and who had asked a man on a road how his own mule h
 
 Rook took the tally-board off the wall.
 
-He did it with no ceremony at all. He got a thumb behind the frame at the top corner and worked it, and the whole thing came off the stone with a crack and a fall of old plaster, and he turned it face-in against his chest and carried it out into the yard, and over his shoulder he said:
+He did it with no ceremony at all. He got a thumb behind the frame at the top corner and worked it, and the whole thing came off the stone with a crack and a fall of old plaster. He turned it face-in against his chest and carried it out into the yard, and over his shoulder he said:
 
 "Get the water on."
 

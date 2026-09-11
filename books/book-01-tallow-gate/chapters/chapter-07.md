@@ -86,7 +86,7 @@ That last was the answer and Toren knew it was the answer. He walked along the t
 
 Rook drilled them at midday, and it was not like the yard at Tallow Gate.
 
-In the yard it had been the diamond, over and over, turning and stopping, a thing you could do badly and be shouted at about. Out here he split them up.
+In the yard it had been the diamond, over and over, turning and stopping, a thing you could do poorly and be shouted at about. Out here he split them up.
 
 "Cole. Fifty paces ahead, on the bank, and I want you holding it — not checking it, holding it — until I call you. Faust, with her, no light. Voss, back down the grade two hundred, sit on the top of the cut where you can see both ways, and if you see anything you don't understand you don't shout, you come and tell me." He set the shafts down. "Tanner. Out of the cart."
 
@@ -104,7 +104,7 @@ Wyck looked at him.
 
 Toren sat on the lip of the cutting two hundred paces back with his knees up and the country going away in both directions and nothing at all happening in it, and discovered that this was the hardest thing anyone had asked him to do since the road.
 
-There was nothing to look at. That was the trouble. There was grass and there was wind in the grass and there was a hawk working the far side of the ridge in long slow passes, and after a while his eyes started sliding off all of it and going back down the grade to where he could see the others as four dark marks against the sky, and he had to haul them back and start again. Twice he caught himself thinking about his father's hands and had to stop.
+There was nothing to look at. That was the trouble. There was grass and there was wind in the grass and there was a hawk working the far side of the ridge in long slow passes. After a while his eyes started sliding off all of it and going back down the grade to where he could see the others as four dark marks against the sky, and he had to haul them back and start again. Twice he caught himself thinking about his father's hands and had to stop.
 
 He was still up there when the sun came off the vertical and Rook whistled him in.
 

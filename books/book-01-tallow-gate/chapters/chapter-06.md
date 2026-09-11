@@ -92,7 +92,7 @@ Toren got his own Ember lit and it stayed a rod, and he thought about a blade so
 
 He did the loose thing.
 
-He had been doing the loose thing for three days on Rook's orders, over and over in the yard, badly. He rolled the shaft in his fingers, and stopped picturing anything at all, and thought *please* — and got a foot of white light, and it stayed.
+He had been doing the loose thing for three days on Rook's orders, over and over in the yard, poorly. He rolled the shaft in his fingers, and stopped picturing anything at all, and thought *please* — and got a foot of white light, and it stayed.
 
 It stayed. He put it through the thing's foreleg fold and the creature came apart and the light was *still there*, burning steady out of the end of the shaft, twelve inches of it, and he had time to see it and to feel the enormous stupid joy of it go through him from his heels up.
 
@@ -160,7 +160,7 @@ Milo put his hand out and made the little useless plum of pale light and held it
 
 Rook took the Ember out of his coat, rolled it once against his palm, and laid it flat along the length of the wound with both hands over it.
 
-He did not put a hand in any ash. There was ash on the water all around them, a slick grey film of it going soft and coming apart, and he did not touch it, and Toren — kneeling in the water with his own arm still cramping and his heart going like a hammer — noticed that and filed it, the way he had filed *he doesn't have the Ember* on the road, in the place where things go that you cannot use yet.
+He did not put a hand in any ash. There was ash on the water all around them, a slick grey film of it going soft and coming apart, and he did not touch it. Toren — kneeling in the water with his own arm still cramping and his heart going like a hammer — noticed that and filed it, the way he had filed *he doesn't have the Ember* on the road, in the place where things go that you cannot use yet.
 
 At the end of it Wyck's leg had stopped bleeding and was closed along most of its length and was still, unmistakably, a leg that had been opened from above the knee to the hip.
 

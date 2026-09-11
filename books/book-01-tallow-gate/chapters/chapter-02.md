@@ -78,7 +78,7 @@ He would think about that later too. He would think about it constantly, in the 
 
 He ran toward it instead, and the second one came out of the scrub eight feet in front of him.
 
-It was smaller than the first. It was still bigger than he was. It unfolded up out of the thorn with its head low and its seam banked down to an ember-glow, and it looked at him — it had no eyes he could find and it absolutely, unmistakably looked at him — and its head tracked, very slightly, down, to the lit thing in his fist.
+It was smaller than the first. It was still bigger than he was. It unfolded up out of the thorn with its head low and its seam banked down to an ember-glow. It looked at him — it had no eyes he could find and it absolutely, unmistakably looked at him — and its head tracked, very slightly, down, to the lit thing in his fist.
 
 *It's looking at the Ember.*
 
@@ -118,7 +118,7 @@ There were four of them on it now. The big one had the cart — it was up agains
 
 Toren had no time for that thought either. It went in and lodged somewhere and waited.
 
-Nell Tanner was on the upslope with the children behind her — Milo, Dessa, Wyck, all three of them scrambling for the high ground with Ilsa hauling at their coats — and Nell had a bill-hook off the cart and she was standing across the line of the bank, and she was fifty-one years old and had run a tannery, and she planted her feet and swung at the thing coming up at her and connected, and it did not matter.
+Nell Tanner was on the upslope with the children behind her — Milo, Dessa, Wyck, all three of them scrambling for the high ground with Ilsa hauling at their coats — and Nell had a bill-hook off the cart and she was standing across the line of the bank. She was fifty-one years old and had run a tannery, and she planted her feet and swung at the thing coming up at her and connected, and it did not matter.
 
 Toren saw the whole of it. That was the worst part. He was forty feet away with a dead rod in his hand and he saw the entire thing happen from beginning to end with perfect clarity and it took less than two seconds and he could not have crossed forty feet in two seconds if he had been the fastest thing alive.
 

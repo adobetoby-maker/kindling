@@ -150,7 +150,7 @@ Rook looked at her.
 
 They started a little after seven in the morning, in a grey light with the rain still deciding.
 
-They had one shovel, four bundles, a splinted grandmother, a bill-hook, a splitting axe, three Embers between five people and only two people who could do anything with one, and a man in a re-sewn grey coat walking forty feet out in front of them and never once looking back to see if they were keeping up, which they were, because he had set the pace to the slowest of them without ever saying that was what he was doing.
+They had one shovel, four bundles, a splinted grandmother, a bill-hook, a splitting axe, three Embers between five people and only two people who could do anything with one. And they had a man in a re-sewn grey coat walking forty feet out in front of them, never once looking back to see if they were keeping up, which they were, because he had set the pace to the slowest of them without ever saying that was what he was doing.
 
 Toren walked at the head of the litter poles with his father's Ember in his coat pocket and his hand around it.
 

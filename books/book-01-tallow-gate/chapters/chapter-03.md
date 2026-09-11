@@ -52,7 +52,7 @@ Toren's father stepped off the cart step into the road and met them with a split
 
 Garrick Voss had been an Ember-user for twenty-six years. He had held three feet of light on the wall at Coldwater and Toren had watched him do it. And last night at a fire under a broken overpass he had put the thing into his son's hands, because that was what you did on the day, because he had thought there were eleven quiet days of road left, and this morning he had walked out onto it with a tool for cutting firewood.
 
-The axe was not nothing. That was the thing. Toren's father was a big man who had swung that axe every winter of his adult life and he knew exactly what the head weighed and exactly where it wanted to go, and he took the first one across the throat-joint and it came apart in ash, and he stepped through the drift of it and took the second one low, in the fold of a limb, and it went down and did not get up.
+The axe was not nothing. That was the thing. Toren's father was a big man who had swung that axe every winter of his adult life and he knew exactly what the head weighed and exactly where it wanted to go. He took the first one across the throat-joint and it came apart in ash, and he stepped through the drift of it and took the second one low, in the fold of a limb, and it went down and did not get up.
 
 The third one put him against the cart.
 

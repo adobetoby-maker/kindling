@@ -10,7 +10,7 @@ Dessa sat on the canvas in the grass with her boots off and her hands loose on h
 
 Toren did not understand at first what he was watching, because there was nothing to watch. A girl sat down in the grass. The girl's face did what a face does when someone is doing arithmetic they are not good at. That was the whole of it, and it went on for a very long time.
 
-He took a turn on the shafts and gave it back to Milo and took it again, and the cut walls fell away on both sides and the grade came out into an open country of low hills with standing water in the bottoms of them, and behind him a girl sat in the grass with her eyes open and her hands on her knees, moving perhaps once in a hundred paces.
+He took a turn on the shafts and gave it back to Milo and took it again, and the cut walls fell away on both sides and the grade came out into an open country of low hills with standing water in the bottoms of them. Behind him a girl sat in the grass with her eyes open and her hands on her knees, moving perhaps once in a hundred paces.
 
 At something past eleven in the morning she stood up, walked six steps to the edge of the bank, and was sick into the grass.
 
