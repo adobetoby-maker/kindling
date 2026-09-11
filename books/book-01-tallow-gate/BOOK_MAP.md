@@ -62,7 +62,7 @@ See `CHARACTERS.md`.
 | 3 — The Same Force | 9–14 | Rook starts actually teaching the Path — the core lesson that Ember and magic are one thing, not two | Real training arc: hard lessons, real wounds, multiple students climbing toward Flame with mixed success; Toren starts to understand intellectually but can't yet act on it under pressure; Cinder Company trace (wreckage, a dropped name, Rook's reaction) | Wyck bristles at what reads as favoritism toward Toren; the group starts to become a unit rather than survivors Rook is stuck with | `clean` and `learning` mixed across the movement — training beats, not one set piece | `DRAFTED` — pending editorial pass |
 | 4 — Homura | 15–18 | Rook's private dream comes closer to the surface; something about the Satori, or about Toren himself, finally makes him say the rest out loud | Rook tells Toren — alone, deliberately, once — the full account: Homura, Vera, the Ember's true owner, and why the findings that could have unified the fractured world never reached anyone | Rook chooses the fork that keeps Senna's timeline alive over the fork that would let him close on Cinder Company faster — his first visible, costly turn away from pure revenge, now legible against everything the reader just learned he's actually avenging | `clean` — pressure carried by choice, consequence, and the weight of a story finally told, not a set piece | `DRAFTED` — pending editorial pass |
 | 5 — Cinder | 19–23 | Cinder Company stops being a rumor | A direct clash at the old weir on the Reave; **Milo Faust dies** (killed by rifle) — the book's costliest loss, resolved | Rook has all of Cinder Company in reach (five survivors, no captain, four days from finishing a contract) and chooses the clan instead, at real and immediate cost; **Elias Marsh** lands, given away by a survivor first, then given freely by Rook himself | `arsenal-climax` — Rook's full Blaze range, the group's trained capability, and human antagonists (not Riftspawn) under real, irreversible pressure | `DRAFTED` — pending editorial pass |
-| 6 — Meridian | 24–28 | Final approach through the worst Riftspawn territory yet, grief still raw from Movement 5 | A larger Riftspawn set piece tied to wormhole instability near the enclave — this is where a Breach (Barrel-grade, see `UNIVERSE_BIBLE.md` "Yield") makes its first appearance in the book, not before. Toren's proof-of-growth beat: he blends Edge and Stride for the first time, under real pressure, not drilled | Arrival; Senna's treatment; Meridian's authority reacts to Kindled refugees with a wariness the group didn't expect; one real piece of disk-truth surfaces from Meridian's own archives | `tactical-climax-learning` for the Riftspawn set piece; `clean` for the arrival/resolution beats | `POSSIBLE` |
+| 6 — Meridian | 24–28 | Final approach through the worst Riftspawn territory yet, grief still raw from Movement 5 | A larger Riftspawn set piece tied to wormhole instability near the enclave — a Breach (Barrel-grade, see `UNIVERSE_BIBLE.md` "Yield") makes its first appearance in the book at a flooded quarry crossing called "the Drownings." Toren's proof-of-growth beat: he blends Edge and Stride for the first time, under real pressure, not drilled | Arrival and intake; Senna admitted to Meridian's long ward; Meridian's authority (Proctor Nye, Registrar Helen Quist) reacts to the group with real, consequential wariness — the no-worked-power-inside-the-wall rule, the group registered as a liable "working company," not a rescue party; one real piece of disk-truth surfaces from Meridian's own 61-year-old archives (Hester Voss of Wealdon) — documented, not resolved | `tactical-climax-learning` for the Riftspawn set piece; `clean` for the arrival/resolution beats | `DRAFTED — pending editorial pass` |
 
 Six movements, roughly twenty-eight chapters. Movement 3 is deliberately the longest —
 this book's engine is the tutelage itself, not just the road. Adjustable once
@@ -72,15 +72,15 @@ Movement 1 is drafted and the Light author's actual pacing is known.
 
 | Plant | First fair appearance | Apparent meaning | Intended payoff | Status |
 |---|---|---|---|---|
-| Garrick's myth-warning ("a curse disguised as a gift") | Movement 1 | Fatherly caution | Recontextualized at Meridian when the archives suggest the myth may be literally true | `POSSIBLE` |
+| Garrick's myth-warning ("a curse disguised as a gift") | Movement 1 | Fatherly caution | Recontextualized at Meridian (Ch. 28) — Hester Voss's 61-year-old intake record shows the myth is documented across generations, not family folklore; still not confirmed true or false | `PAYOFF DELIVERED` |
 | Rook's callsign, not his birth name | Movement 1 | Mentor's mystery | His real name lands when he chooses the clan over Cinder Company in Movement 5 | `POSSIBLE` |
 | Rook reacts to the Satori without explaining why | Movement 2 | Unexplained mentor behavior | Full account in Movement 4: Homura, Vera, the Ember's true owner, his private dream | `POSSIBLE` |
 | The Ember Rook carries is never explained as anyone's but his own | Movement 1–3 (background detail, never remarked on) | An ordinary tool | Recontextualized entirely in Movement 4 — it was Vera's | `POSSIBLE` |
 | Cinder Company's name dropped and left alone | Movement 3 | Background texture, personal grudge only | Movement 4 reveals they also destroyed Homura — the same company, two wounds, one root cause; direct clash in Movement 5 | `POSSIBLE` |
 | Wyck's resentment of perceived favoritism | Movement 3 | Friction/relatable conflict | Converts to earned loyalty — likely at the cost of his life — in Movement 5 (owner confirmation open, see `CHARACTERS.md`) | `POSSIBLE` |
 | Dessa banks her power once, briefly, in Movement 2 | Movement 2 | Isolated success, not yet reflex | Becomes reliable by Movement 5's climax — she's the party's second proof that the Path can be trained, ahead of Toren's own | `POSSIBLE` |
-| The Satori's nine channels, never explained | Movement 1 (inherited), referenced lightly through the book | Family heirloom with a myth attached | Reserved past Book 1 — no full reveal; matches the cross-series Artifact rule that no series ever explains true origin | `POSSIBLE` |
-| Meridian's institutional wariness of the Kindled | Movement 6 | Relief at arrival, undercut | Book 2's opening pressure | `POSSIBLE` |
+| The Satori's nine channels, never explained | Movement 1 (inherited), referenced lightly through the book | Family heirloom with a myth attached | Reserved past Book 1 — Movement 6's archive discovery (Ch. 28) deepens the mystery (documented 61 years ago, twice tested as "an empty tray") without resolving it; matches the cross-series Artifact rule that no series ever explains true origin | `DELIVERED — reserved` |
+| Meridian's institutional wariness of the Kindled | Movement 6 | Relief at arrival, undercut | Landed concrete in Ch. 27–28: no-worked-power rule, group registered as a liable working company, setter-line assessment offered to Dessa, company name field left blank at 30-day ultimatum. Book 2's opening pressure | `PAYOFF DELIVERED` |
 
 ## Ending proof
 
@@ -94,11 +94,14 @@ real clue. Meridian's suspicion of what they now are opens Book 2's changed worl
 ## Open decisions requiring owner confirmation (recommended defaults stated; will
 proceed on these unless redirected)
 
-1. **Senna's fate and the route.** Recommended: Rook's road can reasonably pass near
-   or through Meridian's territory regardless of his own quest, given his established
-   ease moving through all three regional cultures — the destination survives the
-   restructure without requiring a direct-route framing. Senna survives treatment, at
-   a cost still to be named.
+1. **Senna's fate and the route — RESOLVED, Movement 6.** Senna survives the
+   eighteen-month treatment course's dangerous first nine days (Ch. 28). Named
+   cost: permanent deafness in the left ear, roughly a third of hearing left in
+   the right, a fine steady hand tremor she never regains full control of, and
+   the certainty that she will never travel again — nine of the eighteen
+   months bedbound in Meridian's ward, the rest confined inside the wall. The
+   cost is physical and irreversible, not financial or narrative-only, per
+   Physician Kell's on-page account.
 2. **The costliest loss — RESOLVED, Movement 5.** Not Wyck — his arc resolved
    non-lethally by Ch. 18 (restraint chosen as the harder path) and was proven
    again under maximum stakes at the weir, so killing him would have spent an arc
