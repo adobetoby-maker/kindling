@@ -229,6 +229,22 @@ unassisted: shedding the only blood a body has ever run on, all at once, is not
 something anyone has done alone. It is lent — the same borrowed-and-repaid economy
 that sustains the light itself, above.
 
+**Blaze has its own room to grow (`CANON`, owner-directed expansion).** The three
+known doors this world actually has — the Ember, the rift-granted magic tradition,
+and disciplined internal cultivation (all three named in "The Kindling," above) —
+give "more than one door" real graduated texture instead of a single leap from
+Torch straight into full unbound. A two-door Blaze draws on two of the three at
+will; a three-door Blaze has genuinely mastered all three known traditions; and
+full unbound — "any door needed" — is the further step past even that: no longer
+limited to reaching only through the three traditions anyone's named, able to reach
+for whatever a moment actually requires. This carries the same duration/control-
+vs-breadth split already established for the single-door rungs one level higher,
+and it leaves real, visible room for a Blaze-rank character to keep growing on the
+page rather than the rank reading as a ceiling. Rook is Blaze; exactly where he
+sits within it (two doors, three, or reaching past the known three already) is a
+question his own account of himself can answer on the page rather than this
+document deciding it in advance.
+
 **The Reading** stays as the formal, rare Homura-tradition diagnostic — a
 deliberate, felt self-assessment used for precision or dispute, expressed as a
 plain fraction or band a character would actually say aloud ("maybe a fifth of the
