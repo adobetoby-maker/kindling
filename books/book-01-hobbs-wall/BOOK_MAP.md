@@ -60,7 +60,7 @@ confirmation of the items marked new below.
   |---|---|---|---|---|---|---|
   | **Husks** | Handful | Low individual threat, swarm in numbers, attack on sight, no real tactics | None — they're the baseline, not the trap | Fall fast to any solid hit; the danger is volume, not skill | Attrition — stamina and concentration, not injury | Movement 1, ambush (Ch. 2–3) |
   | **Verge-hounds** | Flask | Pack hunters; feint stillness before committing through the quietest flank, not the loudest one | A trainee reads stillness as disengagement or hesitation — it is actually the wind-up | Committed to one flank once they move; a called flank can be countered if named before contact | Real injury if the feint is misread; the pack does not stop because one hound is down | Movement 1, Ch. 6 skirmish (the fair false read Rook corrects only in debrief) |
-  | **A Breach** | Barrel | Solitary apex threat — behavior reserved, not invented ahead of need | — | — | Reserved for Movement 6's wormhole-instability set piece; do not spend early | Movement 6 |
+  | **A Breach** | Barrel | Solitary apex threat — the book's first double echo: it carries something like an Edge (a limb that holds a crude, involuntary blade-shape under stress) *and* something like a Stride (bursts of speed no body its size should have) at once, uncoordinated and feral, the way Husks and Verge-hounds each echo only one worked-power expression | The blend is real but unowned — it doesn't choose between the two the way a person does, so it telegraphs which one is about to fire in the instant before it commits | No clean weakness invented ahead of need — Movement 6 is where it's earned on the page | A structural rhyme, not an accident: a Breach embodies in raw, chaotic, soulless form the exact capability (blending Edge and Stride) Toren is about to prove he can do on purpose | Movement 6 |
 
   Further Riftspawn types are freely inventable from Movement 2 onward, consistent
   with this table's tone (genuine physical threat, not video-game formality), and
@@ -87,7 +87,7 @@ confirmation of the items marked new below.
 | Movement | Chapters | Entry pressure | Escalation | Turn | Set piece / stack | Status |
 |---|---:|---|---|---|---|---|
 | 1 — The Kindling Road | 1–6 | Toren's Kindling, mid-journey with his family toward Meridian for Senna | Riftspawn ambush hits the party; Garrick dies protecting them; Rook — already on his own road — is pulled into responsibility for the survivors against every instinct he has; tries to hand them off at the first safe waypoint and can't | First real lesson, live-fire, deliberately incomplete. Wyck's friction with Toren's presumed authority surfaces. Closes on Rook's private dream stirring when he finally sees the Satori up close | Ch. 1–2: `learning`. Ch. 5–6: `learning-deception` (Verge-hound flank misread) | `POSSIBLE` |
-| 2 — What He Won't Teach Yet | 7–8 | Drilling continues, more serious, still unexplained | Dessa is first to touch Satori, once, briefly | The group senses Rook is teaching toward something specific | `clean` and `learning` | `POSSIBLE` |
+| 2 — What He Won't Teach Yet | 7–8 | Drilling continues, more serious, still unexplained | Dessa is first to touch Satori, once, briefly | The group senses Rook is teaching toward something specific — and, off the group's radar but on the page, this is where Rook's own wall cracks (see Rook's turn, below) | `clean` and `learning` | `POSSIBLE` |
 | 3 — The Same Force | 9–14 | Rook starts teaching the Path directly | Real training arc; Satori glimpsed by multiple students with mixed success; Cinder Company trace (wreckage, a dropped name, Rook's reaction) | Wyck bristles at perceived favoritism; the group becomes a unit | `clean` and `learning` mixed | `POSSIBLE` |
 | 4 — Homura | 15–18 | Rook's private dream comes closer to the surface | Rook tells Toren — alone, once — the full account: Homura, Vera, the Ember's true owner | Rook chooses the fork that keeps Senna's timeline alive over the fork that closes on Cinder Company faster | `clean` | `POSSIBLE` |
 | 5 — Cinder | 19–23 | Cinder Company stops being a rumor | A direct clash; the book's costliest loss lands here | Rook has Cinder Company in reach and chooses the clan instead, at real and immediate cost | `arsenal-climax` | `POSSIBLE` |
@@ -96,6 +96,24 @@ confirmation of the items marked new below.
 Six movements, roughly twenty-eight chapters. Movement 3 is deliberately the
 longest — the book's engine is the tutelage itself, not just the road. Adjustable
 once Movement 1 is drafted and this run's own pacing is known.
+
+**Rook's turn — why the walls come down (new this pass, owner-directed).** Movement
+2 is where survival drilling becomes real teaching, and it needs an on-page reason,
+not just a chapter boundary. The trigger: watching Dessa's first Satori touch (Ch.
+7–8), Rook doesn't see a girl getting lucky with a borrowed door — he sees the same
+thing he saw in Vera at Homura, the thing the station's findings were actually
+about and never got to say out loud: that the door doesn't care which tradition
+raised you, and that teaching someone who wasn't handed the "right" starting
+interface is the whole proof, not an exception to it. Dessa being Kindled to
+nothing and reaching Satori anyway is, to Rook specifically, Homura's argument
+completing itself in front of him for the first time since the station burned.
+That's the crack. He doesn't announce it — nothing in him works that way — but
+Movement 3's shift from drilling survival to teaching the Path directly is Rook
+choosing, not just a scene transition, and the choice happens here, privately, and
+should be legible on the page as a change in how he teaches (specific correction
+instead of withheld explanation; naming what a student did right, not only what
+they did wrong) without ever being explained in dialogue until Movement 4 gives it
+its full account.
 
 **Passive-protagonist check (new this pass):** Rook drives most Movement 1
 decisions (the rescue, the failed hand-off, the drilling). Movement 1's chapter

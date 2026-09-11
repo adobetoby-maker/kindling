@@ -104,14 +104,51 @@ the Ember's two hard-edged configurations don't cover. Unbound mastery means hol
 or blending both configurations at once — the clearest visible proof a person has
 internalized the Path rather than performed competence with a device.
 
-## Riftspawn — general concept (`CANON`; Book 1 roster is `POSSIBLE`, see `BOOK_MAP.md`)
+## Riftspawn — what they are, and why their ash refills a soul (`CANON`, deepened
+this pass, owner-directed)
 
-Creatures that arrive through unstable wormholes; dissolve into magic reserves when
-defeated (the loot mechanic). Specific species behavior/weakness/cost is not
-predetermined at the series level — it is established per-book and then held as
-canon. See `BOOK_MAP.md` → Opposition and off-page motion for Book 1's locked roster
-(closes the gap left open in the parallel run, where this stayed unresolved into
-drafting).
+Creatures that arrive through unstable wormholes; dissolve into a reserve-ash on
+defeat (the loot mechanic). Specific species behavior/weakness/cost is established
+per-book and held as canon — see `BOOK_MAP.md` → Opposition and off-page motion for
+Book 1's locked roster.
+
+**Working theory — Homura's own, measured but never proven beyond doubt, the
+thread cut short when the station fell. Rook teaches it because it's the best
+account anyone ever gave him, not because he can prove it, and this is the correct
+epistemic register for any character repeating it on the page.**
+
+Riftspawn are not creatures that came through the wormholes so much as *matter*
+that did — raw, unfiltered source-power snagged loose by an unstable tear and given
+monstrous shape by nothing more than the hostility of a world it doesn't belong in.
+It never passed through a door. No Kindling shaped it, no soul organizes it, no
+Ember or magic-tradition gave it a discipline to hold itself together with. It is
+power with no one home to hold it — which is exactly why it comes apart into ash
+the instant something interrupts whatever crude shape it was wearing, and exactly
+why that ash is such clean fuel. A person's own expended reserve has to be borrowed
+from another *person* and repaid, with interest, because it already belongs to
+someone (see "The soul," above). Riftspawn ash belongs to no one. That is the whole
+difference, and it is why hunting is the frontier's actual economy, not just its
+danger — and, in the oldest tellings that touch the Mother and the Father below,
+why a wormhole is described less as a door and more as a wound: something the
+world's own making leaking back out through a tear that was never supposed to open.
+
+**Variation — the different Riftspawn are different raw expressions of the same
+force (owner-directed, the "fun twist"):** if a Riftspawn is raw power wearing a
+shape with nobody home, then different Riftspawn are echoes of different worked-
+power expressions gone feral — the same underlying force the Ember, magic, and the
+soul itself all reach for, showing up unshaped and undirected. Husks are the
+plainest echo: mass without a door at all, aggression with nothing behind it.
+Verge-hounds echo something closer to sensing — pack timing that reads, to a
+trained eye, uncannily like Dessa's own thirty-foot awareness, just feral and
+untaught. Further types, invented as needed past Book 1, should each echo one
+recognizable expression of worked power gone feral — an Edge-echo that grows
+something like a blade out of raw aggression, a Stride-echo that moves faster than
+its body should carry it, a ward-echo that shrugs off blows the way Marta's wall
+does, even (unsettling, worth holding in reserve for a later book) a sustain-echo
+that patches other Riftspawn the way healing patches a person, with no mercy behind
+it because there is no one home to mean it. This is a rule new types get checked
+against, not a bestiary to fill in wholesale ahead of need. Book 1's own first use
+of it is **a Breach** — see `BOOK_MAP.md`.
 
 ## The split world (`CANON`)
 
