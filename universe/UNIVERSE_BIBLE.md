@@ -169,6 +169,29 @@ stakes, interpretation, or emotion, never on a timer or as an overlay.
 | **Blaze** | Where it stops staying inside one door — unbound's threshold. Heat becomes visible light for the first time, which means it draws a Riftspawn's attention the same way any other worked power does (see "they come at worked power," already established Riftspawn behavior). This is Rook's rank. |
 | **Glory** | The apex — "god level," already on the series HORIZON in `SERIES_MAP.md`, where the Satori a person carries stops being necessary and dissolves. So bright it cannot be looked at directly. The transition into it cannot be self-sustained: it has to be *lent* — sustained by someone already carrying it, or by a bonded pair through Heartfire — the same borrow-and-repay economy the soul already runs on elsewhere in this document. A person at Glory has to consciously bank their own light to stand in a room with anyone below it — not a courtesy, a survival requirement for whoever they're standing near. |
 
+**What "immortality" actually means, mechanistically — the shedding (`CANON`,
+owner-directed).** Every rank transition above happens in a change, not a slope —
+real and embodied, not gradual drift. What the change costs and does scales with
+the rank, and only the last one completes it. Ordinary mortality, underneath
+everything else already established about the soul, runs on the same clock every
+human body has always run on: the oxygen free radicals ordinary blood carries as a
+byproduct of being alive, doing slow accumulating damage to the body's own DNA
+across a lifetime until the body fails. This is not a new mechanism — it's the same
+"soul fills narrow and slow before Satori, deep and fast after" scaling already
+established above, named down to its actual biological floor. Homura's instruments
+measured the correlation, indirectly: practitioners who'd taken a genuine jump in
+rank tested lower afterward for exactly that kind of cellular damage — a finding
+nobody at the station lived long enough to carry further before Cinder Company
+ended the work along with everything else it took. Every rank up pushes back
+against that clock a little; this is the mechanism behind the faster healing
+already established as recovery scales with rank. **At Glory, for the first time,
+the clock does not slow — it stops.** The ordinary blood of mortality is shed, and
+what fills a person in its place carries none of that damage forward. This is why
+Glory alone is spoken of as immortality, and why the transition can't be survived
+unassisted: shedding the only blood a body has ever run on, all at once, is not
+something anyone has done alone. It is lent — the same borrowed-and-repaid economy
+that sustains the light itself, above.
+
 **The Reading** stays as the formal, rare Homura-tradition diagnostic — a
 deliberate, felt self-assessment used for precision or dispute, expressed as a
 plain fraction or band a character would actually say aloud ("maybe a fifth of the
@@ -199,6 +222,63 @@ kill is worth (Yield, container words) versus how much of a person is lit (Rank,
 fire words). Keeping the word-sets distinct is the point: a fight where someone
 asks "Handful or Flask?" is asking about the monster, not the person standing next
 to them, and the two questions should never be answerable with the same word.
+
+## The Mother and the Father — the Makers (`CANON`, owner-directed, deep-`RESERVED`)
+
+**Clean-room note first:** this is a structural idea, not a borrowed one. Where the
+touchstone genre convention runs to a large, populated pantheon of higher beings
+(many named figures, a Greco-Roman-style divine cast), the owner's explicit
+direction narrows this series to two: a Mother and a Father, and nothing between
+them and the Kindled. No tier names, deity names, or specific invented terminology
+are imported from any published work — the ladder above (Kindled through Glory) is
+this series' own, and the two Makers are this series' own.
+
+**The myth, as it's actually held in-world:** somewhere behind everything — the
+Fall, the wormholes, the Kindling itself — the oldest half-remembered tellings hold
+that there were, and are, two: a Mother and a Father, the Makers of the universe.
+Not a court, not a pantheon, not a bureaucracy of lesser gods — two. Every Kindled
+person is, in the oldest tellings, an unfinished child of theirs, and the whole
+climb from Kindled up through Glory is understood — where it's believed at all — as
+the Path leading back toward what the Makers already are. This is **myth, held with
+varying literalness by different people and regions**, not an authorially confirmed
+fact — consistent with how Rook's private Satori theory is handled elsewhere in
+this document: a belief a character can hold and teach as true without the text
+itself confirming it.
+
+**Working default for how it touches the world-building already in place:** the
+Kindling wakes "a residual, mostly-unused portion of the human genome/brain" — the
+myth's answer to *why that door exists in anyone at all* is that the Makers put it
+there, or left it there, when they first drew off enough of what other series' own
+mythologies call the Source to make mortals who could someday walk the same road
+they did. Whether that's literally true, a later civilization's story about
+something stranger and colder, or pure comfort invented after the Fall the way
+Senna describes the Kindling ceremony itself being invented — **stays open, on
+purpose, indefinitely.** Tech-zones like Meridian default to treating it as folk
+religion; magic-saturated regions are more likely to hold it as living belief. This
+gives later books room to texture different settlements differently without any of
+it being decided yet.
+
+**Naming default:** "the Mother" and "the Father" — plain functional titles, in
+keeping with this series' own naming convention (the Path, the Kindling, the
+Ember, the Source are all titled the same way). No personal names are assigned.
+Open for the owner to override if proper names are wanted instead of or alongside
+the titles.
+
+**Reserved status — this is deep HORIZON, not Book 1 material.** It does not
+appear on the page as doctrine, explanation, or confirmed fact anywhere in Book 1.
+The only permitted surface in Book 1 is incidental, unexplained folk texture if a
+scene calls for it — an oath, a curse, a phrase a background character uses without
+comment ("Mother's mercy," "by the Father's word") — never spoken by Rook, never
+glossed, never connected on the page to the Kindling, the Path, or Glory. Anything
+beyond incidental color is a Book 2+ decision.
+
+**Relationship to the shared cross-series Source:** this stays this series' own
+myth for now, exactly like the Satori-object theory above — it is *not* written
+into `craft/connections/CONNECTIONS_BIBLE.md` and makes no claim on what any other
+series' cosmology is. If the owner later wants to propose the Mother and Father as
+this series' own name for the shared Source, that proposal goes through the same
+discrete approval pass already required for any other `CONNECTIONS_BIBLE.md` edit —
+not folded in silently here.
 
 ## Non-negotiable canon
 

@@ -5,8 +5,8 @@
 - Series: untitled post-apocalyptic LitRPG / progression fantasy — working
   constellation name "Kindling" (directory name only, not a locked title)
 - Genre seat: post-apocalyptic progression fantasy — Earth-based near-future SF/
-  fantasy hybrid; rank/Reading growth in place of a game-HUD LitRPG register (see
-  `CANON.md`, Progression convention)
+  fantasy hybrid; the flame-ladder Rank system in place of a game-HUD LitRPG
+  register (see `CANON.md`, Rank — the flame ladder)
 - Intended length: `OPEN` — multi-book, matching the owner's stated horizon of "the
   day's challenges and future coming challenges"
 - Status: `POSSIBLE`
@@ -53,13 +53,20 @@ later book at a genuinely high-pressure moment — not Book 1. Rook's private
 premonition stays deliberately ambiguous as to whether it is the same event.
 
 **The series endpoint (`CANON`, far horizon):** Rook's private theory describes a
-tier beyond unbound — "god level," complete mastery of every power set — at which
-the Satori a person carries is no longer necessary and dissolves, being (in his
-belief) a record of a soul not yet finished becoming what it was reaching for. Long-
-term promise arc: individual power (Book 1) → community power (the clan, Book 1's
-close) → world-altering power (uniting the fractured world against Riftspawn) →
-eventually, far beyond any currently planned book, the "god level" tier. Maps onto
-`CONNECTIONS_BIBLE.md`'s Cosmic Arc Map rungs. Nothing here is scheduled.
+tier beyond unbound — Glory, "god level," complete mastery of every power set — at
+which the Satori a person carries is no longer necessary and dissolves, being (in
+his belief) a record of a soul not yet finished becoming what it was reaching for.
+The deep-reserved myth of the Mother and the Father (see `CANON.md`) gives that
+endpoint a name it doesn't have on the page yet: in the oldest tellings, Glory is
+not the top of the ladder, only the last rung anyone still calls a rung — the Path
+beyond it leads toward what the two Makers already are. Long-term promise arc:
+individual power (Book 1) → community power (the clan, Book 1's close) →
+world-altering power (uniting the fractured world against Riftspawn) → eventually,
+far beyond any currently planned book, Glory and whatever the myth means by asking
+whether a person can actually walk the rest of that road. Maps onto
+`CONNECTIONS_BIBLE.md`'s Cosmic Arc Map rungs. Nothing here is scheduled or
+confirmed as fact within the story — see `CANON.md` for how deliberately unresolved
+this stays.
 
 **Cross-property ambition (`CANON`):** intended, over multiple books and explicitly
 not forced into Book 1, as connective tissue toward the owner's existing cosmology
