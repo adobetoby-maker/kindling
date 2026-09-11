@@ -2,7 +2,7 @@
 
 "I was born at a place called Lowry Bend," said Rook, "which is about four hundred miles south and east of here, in country you've never heard of and wouldn't like, and there were a hundred and forty of us in it, and my mother did nothing with her hands.
 
-"I'll explain that. In your part of the world, you've got eleven stones for four hundred people, and every one of them's got a history attached, and a person who hasn't got one and can't get one is a person nothing happened to. Where I'm from there wasn't a stone within sixty miles. Nobody had one. Nobody had ever had one, and if you'd put one on the table at Lowry Bend, the general opinion would have been that it was a clever bit of old-world rubbish and a poor substitute for doing the thing properly.
+"I'll explain that. In your part of the world, you've got eleven stones for four hundred people, and every one of them's got a history attached, and a person who hasn't got one and can't get one is a person nothing happened to. Where I'm from, there wasn't a stone within sixty miles. Nobody had one. Nobody had ever had one, and if you'd put one on the table at Lowry Bend, the general opinion would have been that it was a clever bit of old-world rubbish and a poor substitute for doing the thing properly.
 
 "We did it with our hands. That's all it is. You've seen it — the woman in the cut with the wall, that's the same trade, that's my whole village. My mother could put her hands on a rip in a cow and have it hold for a week. My grandmother could do a wall about eight feet across and hold it for four minutes, which in my family made her the greatest woman who ever lived, and I was raised on stories about that wall the way this one" — he tipped his head at Toren without looking at him — "was raised on stories about a disk.
 
@@ -138,7 +138,7 @@ Dessa shifted on her stone and did not say anything.
 
 "She'd had it a year before I did, at thirteen, on her own, in a barn, and nobody had believed her.
 
-"And she gave me the word in a corridor at about the ninth hour, when they finally let me in and she was grey and furious and stitched from hip to knee, and I sat down and said a thing I don't remember, and she looked at me and said: *oh — you've had it.*
+"And she gave me the word in a corridor at about the ninth hour, when they finally let me in, and she was grey and furious and stitched from hip to knee, and I sat down and said a thing I don't remember, and she looked at me and said: *oh — you've had it.*
 
 "And then she told me what it was called, because she'd been waiting two years for somebody to say it to."
 
@@ -172,7 +172,7 @@ Wyck said, "That's you."
 
 "The third word is a Reading, and it's a small one, and it's practical, and I'll come back to it tomorrow because one of you is going to need it.
 
-"At the station they had machines. Out here nobody's got machines. So they'd trained a thing to go with the machines — a way of sitting down and taking honest stock of yourself from the inside, so that when you told somebody how much you had left, it was a number and not a boast. You say it as a fraction. *A fifth of the room's lit.* *Half.* *I'm out.*
+"At the station, they had machines. Out here nobody's got machines. So they'd trained a thing to go with the machines — a way of sitting down and taking honest stock of yourself from the inside, so that when you told somebody how much you had left, it was a number and not a boast. You say it as a fraction. *A fifth of the room's lit.* *Half.* *I'm out.*
 
 "It sounds like nothing. It is the single most useful thing that place ever gave me, and it's the only thing I do every day that came out of that valley and has nothing to do with anybody being dead."
 
@@ -218,7 +218,7 @@ Milo was crying without any noise at all.
 
 "I didn't get the papers out. I got about sixty feet from the records hut, and the roof came in. I went back at first light with two others, and there was nothing there at all — not burnt paper, nothing, and I've had eleven years to think about what that means, and the only thing it can mean is that somebody carried them out before it went up.
 
-"So they didn't come to kill children. That's the thing I want said at this fire, because it's the thing that makes them what they are and not just a bad lot with a wagon. They came for a stack of paper that proved the world was arguing about nothing. They took it and then they burned the house down around it so that nobody would go looking for a second copy.
+"So they didn't come to kill children. That's the thing I want said at this fire, because it's the thing that makes them what they are and not just a bad lot with a wagon. They came for a stack of paper that proved the world was arguing about nothing. They took it, and then they burned the house down around it so that nobody would go looking for a second copy.
 
 "Somebody paid them to do it. Somebody with something to lose if four hundred settlements stopped sorting people by which door they fell through." He put another stick on. "I don't know who, and I've asked in about sixty places, and I've got nothing, and that's the honest state of it."
 

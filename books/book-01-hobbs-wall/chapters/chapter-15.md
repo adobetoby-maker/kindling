@@ -112,7 +112,7 @@ He folded the paper up.
 
 Rook went over on the twenty-seventh, at the midday halt, sitting against the cart wheel with his back to the spokes.
 
-Toren looked up from the strap and the man was asleep.
+Toren looked up from the strap, and the man was asleep.
 
 It was the most shocking thing he had seen in a month, and it took him a moment to work out why. It was not that Rook slept; he must sleep, everybody slept, they had all seen him lie down at some point in the small hours and had all assumed he did something in those hours that resembled sleeping. It was the *posture*. He had gone over sitting up with his chin down on his chest and one boot out at an angle that no one would ever choose, and his hands had come open in his lap, and Rook's hands were never open.
 

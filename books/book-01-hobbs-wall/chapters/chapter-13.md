@@ -12,7 +12,7 @@ By the third hour of the march, Toren understood that he had been an idiot, and 
 
 They found it at midday, and they found it because Rook turned off the road for it.
 
-He had been walking out ahead all morning — thirty or forty yards, which he did when the country opened out — and a little after noon he stopped in the middle of a perfectly ordinary stretch of hedged road and stood there with his head turned to the left, and then went through a gap in the thorn and did not come back for four minutes.
+He had been walking out ahead all morning — thirty or forty yards, which he did when the country opened out — and a little after noon, he stopped in the middle of a perfectly ordinary stretch of hedged road and stood there with his head turned to the left, and then went through a gap in the thorn and did not come back for four minutes.
 
 "What's he doing?" said Milo.
 
@@ -22,7 +22,7 @@ He had been walking out ahead all morning — thirty or forty yards, which he di
 
 "I can count, Milo."
 
-When Rook came back through the gap he did it without hurrying, and he came up to the cart and put his hand flat on the shaft, and said, "Bring it in. Mule off the road, behind the thorn, and Senna stays in the cart."
+When Rook came back through the gap, he did it without hurrying, and he came up to the cart and put his hand flat on the shaft, and said, "Bring it in. Mule off the road, behind the thorn, and Senna stays in the cart."
 
 "Is it—" Milo started.
 
@@ -150,7 +150,7 @@ It was the single strangest ninety seconds of Toren's life, and it went in three
 
 For the first twenty seconds, it was nothing. It was two boys shuffling at each other in a field with everybody watching, and Milo laughed once and then stopped laughing on his own, and Toren got the spike out and held it low and pointed away, because he was not going to put a length of lit anything near Wyck Tanner, and Wyck knew that, and both of them knew that both of them knew it.
 
-For the next thirty seconds, it was a game. Wyck went left, and Toren went with him, and Wyck came back and got a fistful of Toren's coat and Toren twisted out of it, and it was — and Toren hated this afterward more than any other part of it — it was *fun*, for about eight seconds, the two of them grinning at each other in the grass like a pair of dogs.
+For the next thirty seconds, it was a game. Wyck went left, and Toren went with him, and Wyck came back and got a fistful of Toren's coat, and Toren twisted out of it, and it was — and Toren hated this afterward more than any other part of it — it was *fun*, for about eight seconds, the two of them grinning at each other in the grass like a pair of dogs.
 
 Then Wyck said, "Sorry," quite quietly, and hooked his boot behind Toren's ankle and put him on his back in the wet grass and knelt on his chest and took the Ember out of his coat pocket.
 

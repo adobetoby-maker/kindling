@@ -2,7 +2,7 @@
 
 They came back onto the road on the seventeenth day, in rain, with three people in a cart that was built for two and a mule who had opinions about all of it.
 
-Toren's Ember had been cold for two days and then had come back, the way Rook said it would, in a way that was so gradual it was almost insulting. On the first day he could not bring the spike out at all and cried about it once, briefly, behind the cart, and thought nobody saw. On the second it came out and lasted about eleven seconds. On the third he could hold it for four or five minutes if he was not being shoved, and it was warm, and he spent most of that day with his hand in his coat pocket around it like a man checking a coin was still there.
+Toren's Ember had been cold for two days and then had come back, the way Rook said it would, in a way that was so gradual it was almost insulting. On the first day, he could not bring the spike out at all and cried about it once, briefly, behind the cart, and thought nobody saw. On the second, it came out and lasted about eleven seconds. On the third, he could hold it for four or five minutes if he was not being shoved, and it was warm, and he spent most of that day with his hand in his coat pocket around it like a man checking a coin was still there.
 
 Wyck's arm was bad. It knitted the way Rook had said it would, ugly, along a line from the elbow to the wrist, and he could not close the fingers properly for a week, and he did not once say so out loud, and Rook made him say it out loud twice a day anyway, at the same times, like a toll.
 
@@ -18,7 +18,7 @@ It was a fuel relay from the old days: three steel tanks the size of houses, set
 
 It had burned in the spring.
 
-Not all of it. That was the first strange thing. The hut had gone entirely and the gantry had gone and the gate had gone, and two of the tanks were scorched black up one side, and the third was not touched at all. The rain had been getting into it for four months, and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
+Not all of it. That was the first strange thing. The hut had gone entirely, and the gantry had gone, and the gate had gone, and two of the tanks were scorched black up one side, and the third was not touched at all. The rain had been getting into it for four months, and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
 
 "Riftspawn don't burn things," Dessa said.
 
@@ -156,7 +156,7 @@ A circle, and inside the circle a shape he took at first for a leaf and then und
 
 "What's this?"
 
-Ott, behind them, holding the lamp she had not needed to bring and had brought anyway, put her hand out and he gave it to her and she turned it over twice.
+Ott, behind them, holding the lamp she had not needed to bring and had brought anyway, put her hand out, and he gave it to her, and she turned it over twice.
 
 "Company chit," she said. "That's pay. That's how a company pays a man who signs on with it — you get a handful of these instead of coin, and then you buy your food off the company and your boots off the company and your ash off the company, and you hand the chits straight back, and at the end of two years, you've earned nothing, and you've eaten the whole of it." She flicked it, and it spun, and she caught it. "It's a clever thing. It's the cleverest thing anybody's done since the Fall, and every company does it now, and they all learned it off the same one."
 
@@ -214,7 +214,7 @@ Dessa found Toren at the tailgate.
 
 "I saw all of it."
 
-"Not that." She kept her voice right down. "When she said the name. I was looking at the fire and I saw him in the corner of my eye and I thought, he's stopped, that's nothing, everybody stops — and then he came over and he asked her *how about*." She looked at Toren. "He doesn't ask that. He never asks anybody anything. In seventeen days I have watched that man refuse to ask a question he was *dying* to ask about four separate—"
+"Not that." She kept her voice right down. "When she said the name. I was looking at the fire and I saw him in the corner of my eye and I thought, he's stopped, that's nothing, everybody stops — and then he came over and he asked her *how about*." She looked at Toren. "He doesn't ask that. He never asks anybody anything. In seventeen days, I have watched that man refuse to ask a question he was *dying* to ask about four separate—"
 
 "He asked me where I got the disk," said Toren.
 

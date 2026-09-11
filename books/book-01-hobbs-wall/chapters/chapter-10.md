@@ -10,7 +10,7 @@ What Rook had told them, at the fire, the night before, with a stick in his hand
 
 "So don't watch them. Watch the *lines*.
 
-"They go in straight lines, and they can't bend one once they're in it. They have to stop to choose again, and when they stop they're worth nothing, and that's the whole of your chance. The orchard's planted in rows across the slope. A row is a line. The ditch at the bottom of the orchard is a line. The gap where the fence is down is a line. Anywhere you can see a long way, something can come the whole way in no time at all; anywhere there's a tree trunk between you and it, it has to stop first.
+"They go in straight lines, and they can't bend one once they're in it. They have to stop to choose again, and when they stop, they're worth nothing, and that's the whole of your chance. The orchard's planted in rows across the slope. A row is a line. The ditch at the bottom of the orchard is a line. The gap where the fence is down is a line. Anywhere you can see a long way, something can come the whole way in no time at all; anywhere there's a tree trunk between you and it, it has to stop first.
 
 "Stand where the trees are. Never stand at the end of a row. If you find yourself looking down a long clear stretch of anything, you are already in the wrong place, and you should move before you finish the thought."
 
@@ -80,7 +80,7 @@ He had heard it exactly once before, coming down a rock face forty feet above a 
 
 Then the row discipline worked, and it worked so well that it was almost boring.
 
-That was the shape of the next four minutes. A Stilt at the end of a row was a straight line, and a straight line was a killing thing, so they did not stand in rows. They stood *across* them, in the thick of the trunks where the old trees had grown into each other, and every time one of the things wanted to reach them it had to stop out in the open to choose a new line, and the instant it stopped it was a two-legged thing standing on the grass doing nothing.
+That was the shape of the next four minutes. A Stilt at the end of a row was a straight line, and a straight line was a killing thing, so they did not stand in rows. They stood *across* them, in the thick of the trunks where the old trees had grown into each other, and every time one of the things wanted to reach them, it had to stop out in the open to choose a new line, and the instant it stopped, it was a two-legged thing standing on the grass doing nothing.
 
 Wyck killed the first one with the bar across the knee of its left leg while it stood picking its way through the geometry, and the whole creature went down like a stepladder coming apart.
 
@@ -152,7 +152,7 @@ Two of them, inside the line, between the line and the press-house steps, and on
 
 Toren did not decide anything.
 
-That was what he told Dessa afterward and it was true and it was not the whole truth. He did not decide; but for four days he had been carrying around a thing he had been told to carry — *stop auditing it* — and for two weeks he had been carrying a thing he had watched: a girl on the other side of a fire with a stone going warm in her hands, saying *it's not in the stone*.
+That was what he told Dessa afterward, and it was true, and it was not the whole truth. He did not decide; but for four days, he had been carrying around a thing he had been told to carry — *stop auditing it* — and for two weeks, he had been carrying a thing he had watched: a girl on the other side of a fire with a stone going warm in her hands, saying *it's not in the stone*.
 
 What he did was stop asking.
 
@@ -204,7 +204,7 @@ He worked on it for a long time. He had Dessa hold the lamp — she had come dow
 
 Then he sat back on his heels and got the flat tin flask out and looked at what was in it and drank all of it.
 
-"That's not fixed," he said. "That's slowed. It wants stitching, and I haven't got the thread for a cut that long, so it's going to knit ugly and it's going to be stiff and you're going to have it for the rest of your life." He wound the rag. "You'll use that hand tomorrow. Not well. Tomorrow."
+"That's not fixed," he said. "That's slowed. It wants stitching, and I haven't got the thread for a cut that long, so it's going to knit ugly, and it's going to be stiff, and you're going to have it for the rest of your life." He wound the rag. "You'll use that hand tomorrow. Not well. Tomorrow."
 
 "Right," said Wyck.
 

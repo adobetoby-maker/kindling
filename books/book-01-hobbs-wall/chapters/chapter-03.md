@@ -200,7 +200,7 @@ Milo nodded. Milo did not appear to be entirely present.
 
 The man took a grey slab out of his coat pocket — an Ember, ordinary, worn smooth on the corners, and it looked a shade small in his hand — and set it flat against Senna's collarbone, and put his other palm over the wound, and shut his eyes.
 
-Nothing happened that Toren could see. Senna's breathing changed, that was all. It went from the shallow snatching thing it had been to something slower and deeper, and some of the grey came off her face, and after perhaps a minute, the man opened his eyes and looked considerably worse than he had a minute earlier.
+Nothing happened that Toren could see. Senna's breathing changed, that was all. It went from the shallow snatching thing it had been to something slower and deeper, and some of the grey came off her face, and after perhaps a minute the man opened his eyes and looked considerably worse than he had a minute earlier.
 
 "That's not fixed," he said. "That's borrowed. She needs a bed and she needs it in days, not weeks." He put the Ember away. "And that's not the thing that's actually killing her. Was she sick before today?"
 

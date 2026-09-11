@@ -2,7 +2,7 @@
 
 Toren started keeping a tally on the fourth day of it, on the back of his father's paper, under the column of days.
 
-The paper had bridge tolls on the front in Garrick's blocky hand, and on the back, in the same hand, a column of numbers counting down to Meridian that stopped at eighteen because the man who had been keeping it had stopped. Toren had taken it out of the coat at the road cut and had not been able to make himself throw it away, and somewhere north of Hobb's Wall he had begun writing in it, in his own smaller, worse hand, underneath.
+The paper had bridge tolls on the front in Garrick's blocky hand, and on the back, in the same hand, a column of numbers counting down to Meridian that stopped at eighteen because the man who had been keeping it had stopped. Toren had taken it out of the coat at the road cut and had not been able to make himself throw it away, and somewhere north of Hobb's Wall, he had begun writing in it, in his own smaller, worse hand, underneath.
 
 What he wrote now was not days. It was a five-bar gate.
 
@@ -14,7 +14,7 @@ Each mark was a reason.
 
 *Because if you're going to lie to me about how tired you are, lie about something I can't check. I can see your feet.*
 
-*Because Milo calls where it is and you call what we're doing about it, and those are two different jobs, and if one voice tries to do both of them the second one gets thin.*
+*Because Milo calls where it is and you call what we're doing about it, and those are two different jobs, and if one voice tries to do both of them, the second one gets thin.*
 
 Four marks in four days. Then, on the fifth day, six marks before noon, and Toren stopped writing them down because there was no longer any point in keeping a tally of the weather.
 
@@ -40,7 +40,7 @@ He did not say he did not like it. What he did was start putting his shoulder in
 
 "He's making a decent job of it."
 
-"He's angry that she's got a job," said Dessa, "and I've got a job, and Milo's got a job, and you've got a job, and it's the middle, and what he's got is *being strong*, which isn't a job, it's a fact, and he's had it his whole life, and nobody's ever once had to teach him anything about it." She shrugged. "He's fifteen and he's watching the rest of us learn things. I'd be unbearable."
+"He's angry that she's got a job," said Dessa, "and I've got a job, and Milo's got a job, and you've got a job, and it's the middle, and what he's got is *being strong*, which isn't a job, it's a fact, and he's had it his whole life, and nobody's ever once had to teach him anything about it." She shrugged. "He's fifteen, and he's watching the rest of us learn things. I'd be unbearable."
 
 ---
 
@@ -66,13 +66,13 @@ Milo said, "*Wyck.*"
 
 He walked back down the towpath and stood at the water end and looked at it for a second.
 
-"Two reasons and you're not going to like the second one," he said. "First: a man can only be flanked from the sides he's got. On this path you've got one. That's the cheapest thing I can give anybody and I give it to whoever's holding longest, and on a line that's you, because you plant and you don't move, and you've done it since the tailgate in the cut and nobody taught you that and I haven't got the first idea where you got it.
+"Two reasons and you're not going to like the second one," he said. "First: a man can only be flanked from the sides he's got. On this path you've got one. That's the cheapest thing I can give anybody, and I give it to whoever's holding longest, and on a line that's you, because you plant and you don't move, and you've done it since the tailgate in the cut, and nobody taught you that, and I haven't got the first idea where you got it.
 
 "Second: you're the only one of the four who'll go in."
 
 Wyck looked at him.
 
-"If it takes you off the path you'll come up swinging, and if it takes Milo off the path Milo will drown, because he's nine stone and can't swim and he'd have a light in his hands. So I put the end that touches the water next to the one who can survive touching it. That's all of it. That's the entire reasoning and it took me about a second and a half and I've been doing it for six days."
+"If it takes you off the path, you'll come up swinging, and if it takes Milo off the path, Milo will drown, because he's nine stone and can't swim and he'd have a light in his hands. So I put the end that touches the water next to the one who can survive touching it. That's all of it. That's the entire reasoning, and it took me about a second and a half, and I've been doing it for six days."
 
 He went back up the line.
 
@@ -90,7 +90,7 @@ The thing with the Ember happened on the seventh day, and it was, in the end, co
 
 Rook had spent three days stripping the problem down.
 
-"You've proved holding it harder puts it out. Good. Now here's the next bit and you're going to hate it: stop holding it at all."
+"You've proved holding it harder puts it out. Good. Now here's the next bit, and you're going to hate it: stop holding it at all."
 
 "Then it goes out."
 
@@ -98,7 +98,7 @@ Rook had spent three days stripping the problem down.
 
 "At Milo."
 
-"No, you weren't. Milo was on the ground with a husk on him and you were looking at *your hand*." He said it without any particular emphasis. "You looked down to check that you still had it, and that was the instant. I watched you do it. You've done it eleven times since and I've counted every one of them."
+"No, you weren't. Milo was on the ground with a husk on him, and you were looking at *your hand*." He said it without any particular emphasis. "You looked down to check that you still had it, and that was the instant. I watched you do it. You've done it eleven times since, and I've counted every one of them."
 
 Toren did not say anything.
 
@@ -148,7 +148,7 @@ Rook crouched down in front of him.
 
 "That's—"
 
-"That's the rank. That's the word people will use about you now and they'll be right. Kindled's a door standing open. Ember is the first thing that stays lit when you stop looking at it." He held out a hand, and Toren, without thinking, put the spike out to him, and Rook pushed it aside impatiently and got hold of his wrist instead, two fingers on the inside of it, the way he had done with Senna at the cut. He held it for three seconds and let go. "Yes. All right."
+"That's the rank. That's the word people will use about you now, and they'll be right. Kindled's a door standing open. Ember is the first thing that stays lit when you stop looking at it." He held out a hand, and Toren, without thinking, put the spike out to him, and Rook pushed it aside impatiently and got hold of his wrist instead, two fingers on the inside of it, the way he had done with Senna at the cut. He held it for three seconds and let go. "Yes. All right."
 
 "What did I do?"
 
@@ -156,7 +156,7 @@ Rook crouched down in front of him.
 
 "That's not —"
 
-"I said you wouldn't like it." Rook stood up. "You spent four days trying to find out where the power *is*, and the answer's the same as it was in the field and it'll be the same in a year, and every time somebody hands it to you in words you'll nod and it won't take. So we do it the other way round. You'll do it first and get told after." He looked down. "It went warm."
+"I said you wouldn't like it." Rook stood up. "You spent four days trying to find out where the power *is*, and the answer's the same as it was in the field, and it'll be the same in a year, and every time somebody hands it to you in words, you'll nod and it won't take. So we do it the other way round. You'll do it first and get told after." He looked down. "It went warm."
 
 "Yes."
 
@@ -174,7 +174,7 @@ At the fire, Milo said, "So what's everybody, then?"
 
 "No, properly. If we're saying the words now. What is everybody."
 
-Rook did not look up from the flask. "You're all Kindled except him and he went up this afternoon."
+Rook did not look up from the flask. "You're all Kindled except him, and he went up this afternoon."
 
 "And Dessa?"
 
@@ -184,7 +184,7 @@ There was a short silence of the kind Milo walked into about twice a week.
 
 "But you—"
 
-"I did a thing for four seconds once and I haven't been able to do it since," said Dessa. "I've sat on six banks. I'm Kindled. When I'm something else you'll know because I'll be insufferable about it, like Toren's grandfather."
+"I did a thing for four seconds once, and I haven't been able to do it since," said Dessa. "I've sat on six banks. I'm Kindled. When I'm something else, you'll know because I'll be insufferable about it, like Toren's grandfather."
 
 "He was *dreadful*," said Senna, from inside the cart, sounding perfectly delighted.
 

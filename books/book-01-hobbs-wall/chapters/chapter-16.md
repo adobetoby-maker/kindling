@@ -82,7 +82,7 @@ Toren, watching it from eleven feet away with his cheek on his coat, had seen th
 
 "Yes."
 
-"You stood eight feet from somebody who couldn't stop you and you took something off him."
+"You stood eight feet from somebody who couldn't stop you, and you took something off him."
 
 "*Yes*," said Milo, and his voice cracked straight down the middle of it, "and I've felt sick about it since about one o'clock this afternoon, and I'd do it again, and that's the worst part, so you can say the rest of it if you want because I've already said all of it to myself."
 

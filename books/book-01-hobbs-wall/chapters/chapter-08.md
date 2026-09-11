@@ -30,7 +30,7 @@ It had been a farmhouse and three sheds around a yard. The house was down to two
 
 "Are we going to —"
 
-"You're going to. The doorway's four foot wide and there's no other way out of that shed, and there's nothing behind you but the yard, and I'll be standing in the yard." He looked at Toren. "Set it."
+"You're going to. The doorway's four foot wide, and there's no other way out of that shed, and there's nothing behind you but the yard, and I'll be standing in the yard." He looked at Toren. "Set it."
 
 Toren looked at the shed.
 
@@ -102,7 +102,7 @@ By the end of it Toren's jaw hurt from the top of his skull to the base of his t
 
 "I held it as hard as I —"
 
-"Yes," said Rook. "Good. Now you've got evidence. Your answer's wrong and you know it's wrong because you tested it properly and it got worse, and that's worth more than four days of me telling you." He let go of Toren's hand. "Holding it harder is the thing that puts it out. Every time. That's real and you found it, and it's going to be a month before you can do anything with it."
+"Yes," said Rook. "Good. Now you've got evidence. Your answer's wrong, and you know it's wrong because you tested it properly and it got worse, and that's worth more than four days of me telling you." He let go of Toren's hand. "Holding it harder is the thing that puts it out. Every time. That's real, and you found it, and it's going to be a month before you can do anything with it."
 
 "Then what do I —"
 
@@ -238,7 +238,7 @@ She tried for an hour. She tried it the way she had done it, and then she tried 
 
 "I nearly had it that time, I could feel where it—"
 
-"You could feel where it was two hours ago," said Rook. "That's not the same thing and it's the exact thing that will keep you from it for a month. Enough."
+"You could feel where it was two hours ago," said Rook. "That's not the same thing, and it's the exact thing that will keep you from it for a month. Enough."
 
 She handed him back his Ember. Her hands were shaking, and she was angry about that too.
 
@@ -274,7 +274,7 @@ Wyck stopped, with his jaw set, waiting for the *no* — because that was the sh
 
 Rook walked over and put two fingers on Wyck's left forearm.
 
-"That's right," he said. "That arm. Don't change that, whatever else you change — you've been putting that arm across the top of the wall for four days and every one of you has been doing it wrong except you, and it's the only reason you haven't gone over head first. Keep it." He stepped back. "Now the bar's in the wrong hand, and it's in the wrong hand because you're strong enough to get away with it on a two-foot wall and you won't be on a five-foot one. Swap it and go again and it'll be terrible, and it'll be terrible for three days, and then it won't."
+"That's right," he said. "That arm. Don't change that, whatever else you change — you've been putting that arm across the top of the wall for four days, and every one of you has been doing it wrong except you, and it's the only reason you haven't gone over head first. Keep it." He stepped back. "Now the bar's in the wrong hand, and it's in the wrong hand because you're strong enough to get away with it on a two-foot wall and you won't be on a five-foot one. Swap it and go again and it'll be terrible, and it'll be terrible for three days, and then it won't."
 
 Wyck stood there.
 

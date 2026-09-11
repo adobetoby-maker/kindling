@@ -158,7 +158,7 @@ She said it to the grass in front of her.
 
 ---
 
-On the twenty-second night, the fire got low and Milo went to sleep in the middle of the fifth verse and Dessa went and lay down alongside the cart where she could hear Senna's chest, and Rook did what he had done every night since the Drum, which was take the first watch and the second watch and most of the third.
+On the twenty-second night, the fire got low, and Milo went to sleep in the middle of the fifth verse, and Dessa went and lay down alongside the cart where she could hear Senna's chest, and Rook did what he had done every night since the Drum, which was take the first watch and the second watch and most of the third.
 
 Toren lay with the disk on his breastbone under his shirt and did not sleep, and across the ashes Wyck lay on his back with his bad arm on his chest and did not sleep either, and eventually, without either of them acknowledging the other one was awake, Wyck said:
 

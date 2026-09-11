@@ -8,7 +8,7 @@ Milo stopped dead in the road and said, "*People*," in a voice with about nine d
 
 Two days had cost them a great deal.
 
-The fuel station had cost them a night nobody slept. The river road had cost them the good wheel, which went out of true and had to be nursed for six miles with Wyck's shoulder against it, and Wyck now had a torn hand and a way of holding his arm that he thought nobody had noticed. Senna had cost them four stops, and on the last one, Rook had put the Ember against her collarbone again and afterward had gone off up the bank and sat down for a quarter of an hour with his forearms on his knees, and had come back and said nothing.
+The fuel station had cost them a night nobody slept. The river road had cost them the good wheel, which went out of true and had to be nursed for six miles with Wyck's shoulder against it, and Wyck now had a torn hand and a way of holding his arm that he thought nobody had noticed. Senna had cost them four stops, and on the last one Rook had put the Ember against her collarbone again and afterward had gone off up the bank and sat down for a quarter of an hour with his forearms on his knees, and had come back and said nothing.
 
 Toren had asked him about it on the first night. He had worked up to it for two hours.
 
@@ -216,7 +216,7 @@ He made all four of them shout. That was the strangest part of the whole hour. N
 
 "Why?" Dessa said.
 
-"Because in about a week, something is going to come at you from the side, and you will see it three seconds before anyone else does, and you will not say anything, because you'll be busy being frightened, and those three seconds are the only useful thing you'll have." He looked down the line at them. "So you're going to learn to make a noise on purpose while you're frightened. That's tonight. That's all of tonight."
+"Because in about a week something is going to come at you from the side, and you will see it three seconds before anyone else does, and you will not say anything, because you'll be busy being frightened, and those three seconds are the only useful thing you'll have." He looked down the line at them. "So you're going to learn to make a noise on purpose while you're frightened. That's tonight. That's all of tonight."
 
 "That's not fighting," said Wyck.
 

@@ -2,7 +2,7 @@
 
 He did it at the drill, which Toren thought afterward was the only place he could have done it, and which he was fairly sure Wyck had worked out in advance.
 
-The morning had gone on in the ordinary way for an hour and a half. They had come up out of the fold onto a green lane with good footing, and Rook had stopped them on it at about nine o'clock and put them across it, and they had done the thing they now did instead of the wall drill, which was the man drill, and it was the second time and it was worse than the first.
+The morning had gone on in the ordinary way for an hour and a half. They had come up out of the fold onto a green lane with good footing, and Rook had stopped them on it at about nine o'clock and put them across it, and they had done the thing they now did instead of the wall drill, which was the man drill, and it was the second time, and it was worse than the first.
 
 He made Dessa be the man, because Dessa could not run, and a man who cannot run has to be clever, and Dessa was clever in a way that turned out to be genuinely upsetting: she walked straight up to Milo with both hands empty and said "Milo, your bootlace," and Milo looked down.
 
@@ -28,7 +28,7 @@ Rook did not sigh and did not fold his arms and did not do any of the things a m
 
 "What am I standing in a line for?"
 
-The lane was very quiet. Down at the bottom of it Pitch pulled at something in the hedge and the cart shifted six inches and stopped.
+The lane was very quiet. Down at the bottom of it, Pitch pulled at something in the hedge and the cart shifted six inches and stopped.
 
 "I've thought about how to ask it properly for about three weeks," Wyck said, "and that's the best I've got, and I know it sounds like a boy being difficult, so I'm going to say the rest of it, and then you can answer whichever bit you want.
 
