@@ -162,7 +162,7 @@ Rook took the Ember out of his coat, rolled it once against his palm, and laid i
 
 He did not put a hand in any ash. There was ash on the water all around them, a slick grey film of it going soft and coming apart, and he did not touch it. Toren — kneeling in the water with his own arm still cramping and his heart going like a hammer — noticed that and filed it, the way he had filed *he doesn't have the Ember* on the road, in the place where things go that you cannot use yet.
 
-At the end of it Wyck's leg had stopped bleeding and was closed along most of its length and was still, unmistakably, a leg that had been opened from above the knee to the hip.
+At the end of it, Wyck's leg had stopped bleeding and was closed along most of its length and was still, unmistakably, a leg that had been opened from above the knee to the hip.
 
 "That's the ends together," Rook said. His hands had started shaking about four minutes in and had not stopped. "The rest is you. Six weeks. You'll walk on it in three if you're an idiot and in five if you're not, and it will hurt every single day, and there is nothing else and nobody has anything else. Do you understand me?"
 

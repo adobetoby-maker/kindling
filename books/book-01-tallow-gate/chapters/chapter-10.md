@@ -2,7 +2,7 @@
 
 The grade climbed for two days after the rain, so gradually that you could only tell by looking back, and on the third morning it came out on a shoulder of open hill where the wind never stopped and somebody had once laid four miles of dead-straight track across the top of the world.
 
-Up here the grass had never taken. The ballast lay bare from edge to edge — a wide stone bed of fist-sized grey rock, every piece of it broken and angular, laid down by hand seventy years before anyone in the party had been born.
+Up here, the grass had never taken. The ballast lay bare from edge to edge — a wide stone bed of fist-sized grey rock, every piece of it broken and angular, laid down by hand seventy years before anyone in the party had been born.
 
 Rook walked out onto it, turned around, and said, "This'll do."
 
@@ -232,7 +232,7 @@ They came off the ballast at dusk and made camp in the lee of the bank.
 
 Toren could not use his right hand for anything. He sat by the fire and let Milo cut his food for him and did not have the energy to be embarrassed about it, and his eye closed completely somewhere around nine at night and stayed closed for two days.
 
-Before he lay down he went out past the cart to where Rook was doing something to the axle by feel in the dark.
+Before he lay down, he went out past the cart to where Rook was doing something to the axle by feel in the dark.
 
 "Can I ask one thing?"
 

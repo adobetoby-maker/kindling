@@ -110,7 +110,7 @@ Dessa leaned in and put her face close to the slate. "It's — fourth month. Fou
 
 Rook stood looking at the board.
 
-Toren was three feet away and watching him, and this was not the sluice. At the sluice the man's hands had gone and his breathing had stopped and everything about him had changed while his face did nothing. Here his hands were perfectly still. His breathing was ordinary. He read the board the way a man reads a notice about a bridge closure, top to bottom, twice.
+Toren was three feet away and watching him, and this was not the sluice. At the sluice, the man's hands had gone and his breathing had stopped and everything about him had changed while his face did nothing. Here his hands were perfectly still. His breathing was ordinary. He read the board the way a man reads a notice about a bridge closure, top to bottom, twice.
 
 And then he said, "Four months," in a voice with nothing in it whatsoever, and Toren understood, with a small cold shock, that the flatness was the tell. That the man was doing arithmetic. That the arithmetic had come out to a number he did not like, and that the number was *how far away*.
 

@@ -192,7 +192,7 @@ Dessa found Toren at the water, later, filling the cans.
 
 "That's what I said." Dessa threw the stone into the black water. "He said, until it's boring."
 
-They carried the cans back up the grade together. Behind them the cut went away south-east in a straight black line toward the country they had come out of, and ahead of them it went away north-west toward country nobody had told them the name of, and Toren realized, somewhere in the middle of that walk, that in four days of drilling at Tallow Gate he had believed, without ever once checking, that they were being taught how to stay alive on a road.
+They carried the cans back up the grade together. Behind them, the cut went away south-east in a straight black line toward the country they had come out of, and ahead of them it went away north-west toward country nobody had told them the name of, and Toren realized, somewhere in the middle of that walk, that in four days of drilling at Tallow Gate he had believed, without ever once checking, that they were being taught how to stay alive on a road.
 
 Nobody was teaching them a road. There was no road.
 

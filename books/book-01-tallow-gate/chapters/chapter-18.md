@@ -148,7 +148,7 @@ Somebody was farming out there. Somebody was farming within a mile of this bank.
 
 Dessa said "clear" every ten minutes in her flat voice and did not speak to him.
 
-At about four she fell back and walked beside him for a hundred paces without saying anything, and then said, "I'm not angry at you."
+At about four, she fell back and walked beside him for a hundred paces without saying anything, and then said, "I'm not angry at you."
 
 "You are."
 

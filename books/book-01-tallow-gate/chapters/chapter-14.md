@@ -36,7 +36,7 @@ It was a considerable piece of work.
 
 That was the first thing about it, and it was the thing Toren had not expected. He had been thinking of a fork in the way you think of a fork in a road — a place where the ruts divide and somebody has scratched an arrow on a stone. This was a shape somebody had built. The single bank came up onto a broad flat and opened out into a triangle of level ground the size of the whole of Coldwater, all of it raised, all of it hand-laid, and at the far corners of the triangle two banks went out — the left one holding north-west, the right one swinging east in a curve so long and so gradual that you could stand in the middle of it and believe you were still going straight.
 
-In the middle of the triangle there was a brick box with no roof on it.
+In the middle of the triangle, there was a brick box with no roof on it.
 
 Along the east side there was a round stone pad thirty feet across with four bolt-stumps standing out of it, and a shallow basin in the ground beside that, filled with water and green weed, that had been something before it was a pond.
 
@@ -156,7 +156,7 @@ He did not turn round. Toren stopped six feet short of him and stood there, and 
 
 Toren stood there a moment longer.
 
-He had known this man for thirty-four days. In that time he had seen him refuse a warden, dig three graves, carry an old woman out of thornbrush, put his hands inside a boy's leg for eleven minutes, cross a flooded building faster than a thought, burn a piece of slate that would not burn, and say *I don't know* twice, both times about things that mattered.
+He had known this man for thirty-four days. In that time, he had seen him refuse a warden, dig three graves, carry an old woman out of thornbrush, put his hands inside a boy's leg for eleven minutes, cross a flooded building faster than a thought, burn a piece of slate that would not burn, and say *I don't know* twice, both times about things that mattered.
 
 He had never once seen him look like a man with nowhere to put his hands.
 
