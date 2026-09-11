@@ -149,34 +149,56 @@ same company that had already taken Vera and buried the research.
 Teaching the Path — finishing, in a living student, what Homura's paperwork never
 got to say — avenges what they actually destroyed.
 
-## Progression convention — how numbers appear on the page (`POSSIBLE` — new)
+## Rank — the flame ladder (`CANON`, owner-directed — supersedes the earlier
+generic "Kindled → trained → unbound" placeholder)
 
-**Gap closed:** the parallel run named "numbers going up" as a core reader pleasure
-but never defined what a level, threshold, or on-page display actually looks like.
-Default, per `craft/modules/litrpg.md`'s diegetic rule (system information belongs to
-a perceiving character at an in-world moment; surface it when it changes choice,
-stakes, interpretation, or emotion — not on a timer):
+**No floating HUD/status window.** This world's power system is explicitly internal
+and felt (soul-filling), not software. Rank is spoken, not displayed — per
+`craft/modules/litrpg.md`'s diegetic rule, it surfaces when it changes choice,
+stakes, interpretation, or emotion, never on a timer or as an overlay.
 
-- **No floating HUD/status window.** This world's power system is explicitly
-  internal and felt (soul-filling), not software. A game-style overlay would fight
-  the tone `UNIVERSE_BIBLE`-equivalent canon above establishes.
-- **The numbers are diegetic and rare: a Reading.** Homura-tradition practitioners
-  (and Rook, who learned it there) can take a **Reading** — a brief, deliberate,
-  felt self-assessment of how much of a person's soul is actively connected,
-  expressed as a plain fraction or rough band a character would actually say aloud
-  ("maybe a fifth of the room's lit," not a percentage readout). Rook administers
-  or teaches this at meaningful checkpoints — after a real fight, after a lesson
-  lands — never mid-combat, never as page furniture.
-  - **Rank words, not level numbers, are the primary visible currency:** Kindled →
-    trained (can reliably use one door) → **unbound** (blends doors). A Reading is
-    the rare, earned confirmation of movement between them, not a running counter.
-  - Riftspawn loot (dissolving into magic reserves) is a resource with a felt
-    weight and a practical use (fuels Ember/magic sustain) — tracked in prose as
-    a resource characters manage and argue over, not a numeric inventory line.
-- This keeps the "numbers going up" promise (rank change is real, earned, and
-  legible) without importing a videogame register that would undercut the soul/
-  Homura material's seriousness. Open for owner override if a more literal
-  HUD-style display is actually wanted.
+**The ladder, in order:**
+
+| Rank | What it is |
+|---|---|
+| **Kindled** | The door's open, nothing shaped yet. Everyone's starting point the moment the Kindling happens. Dessa's exact case — "Kindled to nothing" — is a Kindled practitioner whose door never opened onto a working interface; she is Kindled and stays there until Movement 2's Satori touch. |
+| **Ember** | Glows, warms, stays contained. Where most of the cast sits through early Movement 1 — the deliberate pun on the device's own name is intentional: an Ember-rank person and an Ember the object share a name because early power *is* small, held, private. |
+| **Flame** | Catches and holds on its own for the first time — the threshold state, the first time a person's fire sustains itself without them white-knuckling it. |
+| **Fire** | Real output, drives real work — the fire a camp actually gathers around, not just a candle a person carries. |
+| **Torch** | Fire made portable and chosen, not merely endured. **The ceiling of single-door mastery.** Garrick is Torch: thirty-one years, genuinely skilled, and never higher, because Torch is as far as one door goes. Rank (breadth: how much of you is lit) and skill (how well you control what's already lit) are different axes — a highly skilled Torch is still a Torch. |
+| **Blaze** | Where it stops staying inside one door — unbound's threshold. Heat becomes visible light for the first time, which means it draws a Riftspawn's attention the same way any other worked power does (see "they come at worked power," already established Riftspawn behavior). This is Rook's rank. |
+| **Glory** | The apex — "god level," already on the series HORIZON in `SERIES_MAP.md`, where the Satori a person carries stops being necessary and dissolves. So bright it cannot be looked at directly. The transition into it cannot be self-sustained: it has to be *lent* — sustained by someone already carrying it, or by a bonded pair through Heartfire — the same borrow-and-repay economy the soul already runs on elsewhere in this document. A person at Glory has to consciously bank their own light to stand in a room with anyone below it — not a courtesy, a survival requirement for whoever they're standing near. |
+
+**The Reading** stays as the formal, rare Homura-tradition diagnostic — a
+deliberate, felt self-assessment used for precision or dispute, expressed as a
+plain fraction or band a character would actually say aloud ("maybe a fifth of the
+room's lit"), never mid-combat, never as page furniture. The ladder words above are
+what people actually say to size each other up in ordinary dialogue; a Reading is
+for when the word alone isn't enough.
+
+Nothing here is written into prose yet — none of these words appear in the locked
+Movement 1 chapters, so this is forward-compatible with what already exists on the
+page.
+
+## Yield — Riftspawn threat grading (`POSSIBLE` — adopted from the parallel
+kindling-project session, monster-side only, distinct axis from Rank)
+
+Riftspawn already dissolve into a reserve-ash resource on defeat (the loot
+mechanic). A frontier hunting economy would naturally grade threats in the same
+units it trades that ash in, rather than an arbitrary level number:
+
+| Yield | What it marks | Book 1 roster |
+|---|---|---|
+| **Handful** | Swarm-tier — volume is the danger, not individual grade | Husks |
+| **Flask** | Baseline pack/solo threat | Verge-hounds |
+| **Barrel** | A solitary apex threat, reserved for a first appearance, not spent early — this series' name for it is **a Breach** | Reserved for the Movement 6 wormhole-instability set piece near Meridian |
+| **Well** | Collapse-scale | `HORIZON`, not Book 1 |
+
+Yield and Rank are deliberately separate vocabularies for separate things — what a
+kill is worth (Yield, container words) versus how much of a person is lit (Rank,
+fire words). Keeping the word-sets distinct is the point: a fight where someone
+asks "Handful or Flask?" is asking about the monster, not the person standing next
+to them, and the two questions should never be answerable with the same word.
 
 ## Non-negotiable canon
 

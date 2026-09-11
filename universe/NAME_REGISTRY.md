@@ -44,7 +44,10 @@ Kes-of-Nine, Adeyemi) — no collisions.
 | Satori | State (the realization) and object (the disk) — one word, deliberately | `CANON` |
 | Heartfire | Soul-bond phenomenon | `CANON` |
 | Riftspawn | Wormhole creatures; dissolve into magic reserves on defeat | `CANON` |
-| a Reading | New this pass — the diegetic progression-display convention; see `CANON.md` | `POSSIBLE` |
+| a Reading | The formal diagnostic self-assessment practice; see `CANON.md` | `POSSIBLE` |
+| Kindled · Ember · Flame · Fire · Torch · Blaze · Glory | The rank ladder for people, owner-directed; see `CANON.md`, Rank — the flame ladder | `CANON` |
+| Handful · Flask · Barrel · Well | The Yield ladder for Riftspawn threat/ash grading; see `CANON.md`, Yield | `POSSIBLE` |
+| a Breach | This series' Barrel-tier apex Riftspawn, reserved for Movement 6 | `POSSIBLE` |
 
 ## Reserved exclusions
 

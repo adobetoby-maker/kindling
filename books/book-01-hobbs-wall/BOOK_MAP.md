@@ -17,12 +17,13 @@ confirmation of the items marked new below.
   stakes that are actually real. Every lesson costs something. Rook's internal arc
   (relenting a revenge road for a mentorship he didn't choose) carries equal weight
   to Toren's growth arc.
-- Repeating reader pleasures: rank/Reading growth read against real stakes each time
-  (see `CANON.md`, Progression convention — replaces the earlier, now-retired
+- Repeating reader pleasures: rank growth along the flame ladder — Kindled, Ember,
+  Flame, Fire, Torch, Blaze, Glory — read against real stakes each time (see
+  `CANON.md`, Rank — the flame ladder; replaces the earlier, now-retired
   "Levels/Brand growth" phrasing); live-fire training beats where the wounds are
   real; the found-family clan forming under a mentor who resists the role even as
-  he fills it; monster-hunting as both threat and currency; the slow-burn mystery of
-  the Satori and Rook's private dream.
+  he fills it; monster-hunting as both threat and currency (Yield: Handful, Flask,
+  Barrel, Well); the slow-burn mystery of the Satori and Rook's private dream.
 - Ending promise: the group reaches Meridian, Senna's fate resolved; Cinder
   Company's immediate threat is answered; Rook chooses the mission (and the clan)
   over the kill at real cost; at least one close friend does not survive the book;
@@ -55,14 +56,24 @@ confirmation of the items marked new below.
   tied to wormhole instability near Meridian. **Book 1 roster locked below**
   (closes the gap the parallel run left open into drafting).
 
-  | Type | Behavior | Fair "tell" a trainee could misread | Weakness | Cost of engaging | First appearance |
-  |---|---|---|---|---|---|
-  | **Husks** | Low individual threat, swarm in numbers, attack on sight, no real tactics | None — they're the baseline, not the trap | Fall fast to any solid hit; the danger is volume, not skill | Attrition — stamina and concentration, not injury | Movement 1, ambush (Ch. 2–3) |
-  | **Verge-hounds** | Pack hunters; feint stillness before committing through the quietest flank, not the loudest one | A trainee reads stillness as disengagement or hesitation — it is actually the wind-up | Committed to one flank once they move; a called flank can be countered if named before contact | Real injury if the feint is misread; the pack does not stop because one hound is down | Movement 1, Ch. 6 skirmish (the fair false read Rook corrects only in debrief) |
+  | Type | Yield | Behavior | Fair "tell" a trainee could misread | Weakness | Cost of engaging | First appearance |
+  |---|---|---|---|---|---|---|
+  | **Husks** | Handful | Low individual threat, swarm in numbers, attack on sight, no real tactics | None — they're the baseline, not the trap | Fall fast to any solid hit; the danger is volume, not skill | Attrition — stamina and concentration, not injury | Movement 1, ambush (Ch. 2–3) |
+  | **Verge-hounds** | Flask | Pack hunters; feint stillness before committing through the quietest flank, not the loudest one | A trainee reads stillness as disengagement or hesitation — it is actually the wind-up | Committed to one flank once they move; a called flank can be countered if named before contact | Real injury if the feint is misread; the pack does not stop because one hound is down | Movement 1, Ch. 6 skirmish (the fair false read Rook corrects only in debrief) |
+  | **A Breach** | Barrel | Solitary apex threat — behavior reserved, not invented ahead of need | — | — | Reserved for Movement 6's wormhole-instability set piece; do not spend early | Movement 6 |
 
   Further Riftspawn types are freely inventable from Movement 2 onward, consistent
   with this table's tone (genuine physical threat, not video-game formality), and
-  should be added to this table once used so later chapters stay consistent.
+  should be added to this table (with a Yield tier) once used so later chapters
+  stay consistent. See `CANON.md`, Yield, for the full tier definitions.
+
+- **Rank reference (Book 1 cast, at Movement 1 open):** Garrick — Torch (thirty-one
+  years, single-door ceiling, dies at this rank). Rook — Blaze (unbound's
+  threshold). Toren, Wyck — Kindled moving toward Ember across Movement 1. Dessa —
+  Kindled to nothing (no working interface yet; her Movement 2 Satori touch is the
+  first crack in that). Milo — Kindled, functional but minor interface (a light
+  with no other use yet). No one in Book 1 reaches Blaze on the page except Rook;
+  Glory is HORIZON, not a Book 1 event for anyone.
 
 - **Cinder Company** — human antagonist, personally tied to Rook's grief, not to any
   tech/magic/Ember allegiance. Off-page through the first half (rumor, wreckage, a
@@ -127,6 +138,11 @@ Meridian's suspicion of what they now are opens Book 2's changed world.
   no carve-out needed for this book's death count.
 - Passive-protagonist risk in Movement 1 — flagged and assigned a fix at the
   movement-packet level (Toren gets one clearly his choice in Ch. 5).
+- Rank ladder for people (Kindled/Ember/Flame/Fire/Torch/Blaze/Glory, owner-
+  directed) and Yield ladder for Riftspawn threat (Handful/Flask/Barrel/Well,
+  adopted from the parallel run) — both locked in `CANON.md`, distinct vocabularies
+  for distinct things. Neither appears in Movement 1 prose yet, so nothing already
+  locked needs revision.
 
 **Still open (carried from the parallel run, unaffected by Movement 1):**
 - Senna's exact cost of survival at Meridian.
