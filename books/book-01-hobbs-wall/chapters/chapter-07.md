@@ -1,6 +1,6 @@
 # Chapter Seven
 
-The fire had been out since before midnight and nobody had put it back on, so the ninth morning north of Hobb's Wall began in the cold, which Toren decided later was the point.
+The fire had been out since before midnight, and nobody had put it back on, so the ninth morning north of Hobb's Wall began in the cold, which Toren decided later was the point.
 
 Rook came down the bridge at grey light and said one word, and the word was "Up," and there was nothing in his voice about the night before. He had sat against the cart wheel for seven hours. He looked exactly as he had at dusk. That was somehow the worst part of it — Toren had spent most of the night working out what he was going to say about the disk, and the man had gone ahead and made the whole subject not exist.
 
@@ -70,7 +70,7 @@ Rook watched all of it from twenty feet back and did not say one word about any 
 
 They set the line eleven more times before noon.
 
-By the eighth Toren had stopped hearing his own voice as an announcement. That was Dessa's doing, from the cart, on the second attempt, when he had called the shape of it and Milo had opened his mouth at the same time and shut it again.
+By the eighth Toren had stopped hearing his own voice as an announcement. That was Dessa's doing, from the cart, on the second attempt, when he had called the shape of it, and Milo had opened his mouth at the same time and shut it again.
 
 "Milo first," Dessa said. "Every time. He says it, you say it after him. That's the arrangement."
 
@@ -90,7 +90,7 @@ He walked off up the road.
 
 ---
 
-The country north of the creek changed that afternoon. The stubble went out and low hills came in, and with the hills came old field systems — stone walls two feet high running for half a mile in perfectly straight lines across country that had nothing to do with them any more, and the shells of steadings at the corners where the walls met. Somebody had farmed all of this with machines, once. Now there were thorn trees standing in the middle of the fields in the exact pattern of a thing that had been planted and then forgotten about for sixty years.
+The country north of the creek changed that afternoon. The stubble went out, and low hills came in, and with the hills came old field systems — stone walls two feet high running for half a mile in perfectly straight lines across country that had nothing to do with them any more, and the shells of steadings at the corners where the walls met. Somebody had farmed all of this with machines, once. Now there were thorn trees standing in the middle of the fields in the exact pattern of a thing that had been planted and then forgotten about for sixty years.
 
 It was good country to drill in and bad country to walk in, and Rook drilled them in it until dark.
 
@@ -102,7 +102,7 @@ Milo blinked. "It's not—"
 
 "Light."
 
-Milo put his hands together and opened them, and there it was: a soft, unsteady, greenish glow about the size and brightness of a jar of fireflies, sitting in his cupped palms and going up onto everybody's faces from underneath. It was not enough to see by. It had never been enough to see by. In Sallow Creek it had been the thing Milo Faust could do and it had been worth exactly one round of laughter at every gathering for four years, and Milo had learned to do the laughing first.
+Milo put his hands together and opened them, and there it was: a soft, unsteady, greenish glow about the size and brightness of a jar of fireflies, sitting in his cupped palms and going up onto everybody's faces from underneath. It was not enough to see by. It had never been enough to see by. In Sallow Creek, it had been the thing Milo Faust could do, and it had been worth exactly one round of laughter at every gathering for four years, and Milo had learned to do the laughing first.
 
 "Higher," said Rook.
 
@@ -122,7 +122,7 @@ Milo held it over his head for eleven minutes, shaking by the end, and they foug
 
 Toren looked up.
 
-"Oren. Thirty years married to him. He got to Fire when he was about forty and he was insufferable about it for the rest of his life." She poked at the corn mush in her bowl. "There's a way men have of standing when they've gone up a rung. He had it. His brother never got past Ember and pretended not to care, and the two of them had one argument about it in 2109 and then didn't have it again for twenty-two years, which is its own kind of having it."
+"Oren. Thirty years married to him. He got to Fire when he was about forty, and he was insufferable about it for the rest of his life." She poked at the corn mush in her bowl. "There's a way men have of standing when they've gone up a rung. He had it. His brother never got past Ember and pretended not to care, and the two of them had one argument about it in 2109 and then didn't have it again for twenty-two years, which is its own kind of having it."
 
 "What's Fire?" said Milo.
 
@@ -144,7 +144,7 @@ Wyck said, "What was Toren's dad?"
 
 "He was Torch?"
 
-"Thirty-one years," Senna said. "He was as good as anybody I ever saw with that stone and he never went up past it once, and he knew by the time he was thirty that he wasn't going to, and he never once said a word about it to anybody including me." She scraped the bowl. "So don't let anyone tell you the rungs are the whole story. He held a bend for two minutes with a brush hook. That's not a rung. That's a man."
+"Thirty-one years," Senna said. "He was as good as anybody I ever saw with that stone, and he never went up past it once, and he knew by the time he was thirty that he wasn't going to, and he never once said a word about it to anybody including me." She scraped the bowl. "So don't let anyone tell you the rungs are the whole story. He held a bend for two minutes with a brush hook. That's not a rung. That's a man."
 
 Nobody said anything for a while.
 
@@ -180,7 +180,7 @@ He stopped six feet away and stood looking at Toren with an expression that Tore
 
 "What?"
 
-"On the gravel bar, the first night out of the wall. You said those exact words to me and I said *remember you said that*." He tipped his head very slightly. "Have you remembered it?"
+"On the gravel bar, the first night out of the wall. You said those exact words to me, and I said *remember you said that*." He tipped his head very slightly. "Have you remembered it?"
 
 "I —"
 
@@ -188,11 +188,11 @@ He stopped six feet away and stood looking at Toren with an expression that Tore
 
 Toren put the grey slab in his palm.
 
-Rook closed his fist round it and held it out at arm's length between them, and nothing happened, because nothing was going to happen; it was a stone in a stranger's hand and everybody in that field knew it. He held it up anyway for a good five seconds so that they all had to look at it.
+Rook closed his fist round it and held it out at arm's length between them, and nothing happened, because nothing was going to happen; it was a stone in a stranger's hand, and everybody in that field knew it. He held it up anyway for a good five seconds so that they all had to look at it.
 
 Then he opened his hand and gave it back.
 
-"Nothing," he said. "That's what a woman with a book told you in a weigh-yard and she was right about everything she knew. Take it."
+"Nothing," he said. "That's what a woman with a book told you in a weigh-yard, and she was right about everything she knew. Take it."
 
 Toren took it. It was cool, the way it had been cool his whole life.
 
@@ -200,7 +200,7 @@ Toren took it. It was cool, the way it had been cool his whole life.
 
 "Where what went?"
 
-"The thing that isn't there when I'm holding it and is there when you are. Where does it go while I'm holding it? Does it wait in the stone? Does it follow you around the field?" He watched Toren's face. "Don't answer. You'll say something stupid and then you'll defend it for a week. Just carry the question."
+"The thing that isn't there when I'm holding it and is there when you are. Where does it go while I'm holding it? Does it wait in the stone? Does it follow you around the field?" He watched Toren's face. "Don't answer. You'll say something stupid, and then you'll defend it for a week. Just carry the question."
 
 He walked away four paces and turned around.
 
@@ -212,7 +212,7 @@ The twelfth time it held for a quarter of an hour, and Toren could not have said
 
 ---
 
-Dessa's leg was worse in the evenings. That was the pattern. It was fine by lunch, and then the afternoon in the cart stiffened it, and by dusk she could not put weight through the calf at all without her whole face changing. She had worked out a way of going up onto her toe on that side and pushing off the stick that let her cross a camp without it showing, provided the light was bad and nobody watched her do it twice.
+Dessa's leg was worse in the evenings. That was the pattern. It was fine by lunch, and then the afternoon in the cart stiffened it, and by dusk she could not put weight through the calf at all without her whole face changing. She had worked out a way of going up onto her toe on that side and pushing off the stick that let her cross a camp without it showing, provided the light was bad, and nobody watched her do it twice.
 
 Toren watched her do it twice.
 
@@ -224,11 +224,11 @@ Toren watched her do it twice.
 
 "That's just—"
 
-"I *know* what it is. That's not the part." She pulled her sleeve down over the bad forearm. "The part is that I've been in that cart for two days now and in two more days I'll have been in it four, and this morning I watched all three of you learn a thing about a wall, and by the time I can stand on this leg you'll all know eleven things I don't, and you won't have done it to me on purpose and I'll still be the one at the back."
+"I *know* what it is. That's not the part." She pulled her sleeve down over the bad forearm. "The part is that I've been in that cart for two days now, and in two more days I'll have been in it four, and this morning I watched all three of you learn a thing about a wall, and by the time I can stand on this leg you'll all know eleven things I don't, and you won't have done it to me on purpose, and I'll still be the one at the back."
 
 "That's not —"
 
-"It absolutely is. That's exactly what it is, it's arithmetic, don't be nice about it." Her voice had gone tight. "I was the one who got Pitch through the cut. I was on the bad side because he gave it to me by name and I stayed on it. I'm not *frightened* of it. I'm frightened of getting back on my feet in a month and finding out that the month happened without me."
+"It absolutely is. That's exactly what it is, it's arithmetic, don't be nice about it." Her voice had gone tight. "I was the one who got Pitch through the cut. I was on the bad side because he gave it to me by name, and I stayed on it. I'm not *frightened* of it. I'm frightened of getting back on my feet in a month and finding out that the month happened without me."
 
 "He knows that."
 
@@ -244,7 +244,7 @@ Rook came over an hour later.
 
 He did not say anything for a while. He stood at the tailgate with his hands in his coat looking north up the black line of the field wall, and Toren, who had been about to leave and had then found himself not leaving, sat where he was on the cart step with a strap and an awl and pretended to be working.
 
-"That leg," Rook said at last, "is three weeks from carrying you and about eight from carrying you in a hurry. I've told you that and you've decided I'm wrong. You're not wrong to decide that, everybody your age does, and it doesn't change the leg."
+"That leg," Rook said at last, "is three weeks from carrying you and about eight from carrying you in a hurry. I've told you that, and you've decided I'm wrong. You're not wrong to decide that, everybody your age does, and it doesn't change the leg."
 
 "I know how long it is."
 

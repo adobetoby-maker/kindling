@@ -60,7 +60,7 @@ It went out the way a candle goes out in a draught — completely, instantly, be
 
 He hit it with his own fist. He hit it with the Ember. He hit it four times before Wyck got the bar under its chin and hauled it off and stood on it, and it came apart, and the grey ran out across the beaten earth of the yard and went into the seams.
 
-Milo sat up. He had a long red scrape from his ear to his collarbone and he was going to have a magnificent bruise and he was otherwise entirely fine, and he held up both hands and said, in a cracked voice, "I kept it lit."
+Milo sat up. He had a long red scrape from his ear to his collarbone, and he was going to have a magnificent bruise, and he was otherwise entirely fine, and he held up both hands and said, in a cracked voice, "I kept it lit."
 
 "You did," said Rook, from the gate, where he had not moved.
 
@@ -80,7 +80,7 @@ They were sitting on the yard wall. Rook had let them collect the ash themselves
 
 Toren looked at the stone.
 
-"Because I get frightened," he said. "It goes out when I'm frightened, and I've got to stop being frightened, or — no. All right. Not stop. I've got to hold it harder when I'm frightened. It's a thing you hold. So when the rest of me goes I have to hold it harder, and that's the whole skill, and that's what I haven't got."
+"Because I get frightened," he said. "It goes out when I'm frightened, and I've got to stop being frightened, or — no. All right. Not stop. I've got to hold it harder when I'm frightened. It's a thing you hold. So when the rest of me goes, I have to hold it harder, and that's the whole skill, and that's what I haven't got."
 
 "Good," said Rook. "Test it."
 
@@ -90,7 +90,7 @@ Toren looked at the stone.
 
 He did that for forty minutes.
 
-It was not cruel and it was not a game. He walked Toren up and down the yard with the spike out and did things to him: threw a stone past his ear without warning; kicked the loose wall down behind him; came at him out of the shed doorway at a dead run and stopped four feet away; and twice, without announcing it, put a hand on his shoulder from behind when Toren did not know he was there.
+It was not cruel, and it was not a game. He walked Toren up and down the yard with the spike out and did things to him: threw a stone past his ear without warning; kicked the loose wall down behind him; came at him out of the shed doorway at a dead run and stopped four feet away; and twice, without announcing it, put a hand on his shoulder from behind when Toren did not know he was there.
 
 The spike went out every single time.
 
@@ -172,7 +172,7 @@ It was smaller than Toren's. He had noticed that in the cut and had never though
 
 She sat.
 
-It went on for a long while. Long enough that Toren finished the strap. Long enough that the fire needed feeding and nobody fed it. Wyck came back from the latrine trench and stopped at the edge of the firelight and looked, and then went and sat down without saying anything, which from Wyck was the same as clearing a room.
+It went on for a long while. Long enough that Toren finished the strap. Long enough that the fire needed feeding, and nobody fed it. Wyck came back from the latrine trench and stopped at the edge of the firelight and looked, and then went and sat down without saying anything, which from Wyck was the same as clearing a room.
 
 Dessa's face did not do anything interesting. That was what Toren kept telling people afterward, when he tried to describe it, and nobody ever believed him: she just sat there with her bad leg out straight and her hands in her lap and her chin slightly down, breathing, the way you sit when you have been sitting for a while. Once she scratched her nose.
 
@@ -186,7 +186,7 @@ Toren felt it before he saw it, in his back teeth, in the door at the bottom of 
 
 Then he saw it, because everybody saw it.
 
-Light came up out of the grey slab in Dessa Cole's hands. Not much of it. It was the colour of the inside of a coal at the bottom of a fire that has been banked properly and left, and it did not flare and it did not flicker, and it did not come off the stone and go anywhere. It stayed exactly where it was, a little steady warmth held in two hands, about as bright as Milo's light and about a hundred times more solid.
+Light came up out of the grey slab in Dessa Cole's hands. Not much of it. It was the colour of the inside of a coal at the bottom of a fire that has been banked properly and left, and it did not flare, and it did not flicker, and it did not come off the stone and go anywhere. It stayed exactly where it was, a little steady warmth held in two hands, about as bright as Milo's light and about a hundred times more solid.
 
 Pitch went sideways on the hobble and made a noise.
 
@@ -202,7 +202,7 @@ Nobody said anything.
 
 "It's not in the stone," she said.
 
-She was not talking to any of them. She had her hands still cupped and she was staring into them and her voice had gone small and fast, the way it went when she was working something and the working was ahead of the words. "It's not — I thought it was a *place*, I thought you go and you — it's not in the stone, the stone's just somewhere to put your hands, it's like. It's like counting on your fingers." She looked up. "Why is it like counting on your fingers?"
+She was not talking to any of them. She had her hands still cupped, and she was staring into them, and her voice had gone small and fast, the way it went when she was working something and the working was ahead of the words. "It's not — I thought it was a *place*, I thought you go and you — it's not in the stone, the stone's just somewhere to put your hands, it's like. It's like counting on your fingers." She looked up. "Why is it like counting on your fingers?"
 
 Toren looked at Rook.
 
@@ -228,7 +228,7 @@ Rook stood up.
 
 She could not do it again.
 
-She tried for an hour. She tried it the way she had done it and then she tried it seven other ways, and about the fourth time she started swearing under her breath in a steady unbroken murmur, and by the ninth she had gone white around the mouth, and Milo had woken up and come and sat next to her without saying anything, which was becoming the thing Milo did.
+She tried for an hour. She tried it the way she had done it, and then she tried it seven other ways, and about the fourth time she started swearing under her breath in a steady unbroken murmur, and by the ninth she had gone white around the mouth, and Milo had woken up and come and sat next to her without saying anything, which was becoming the thing Milo did.
 
 "Enough," Rook said, eventually.
 
@@ -240,7 +240,7 @@ She tried for an hour. She tried it the way she had done it and then she tried i
 
 "You could feel where it was two hours ago," said Rook. "That's not the same thing and it's the exact thing that will keep you from it for a month. Enough."
 
-She handed him back his Ember. Her hands were shaking and she was angry about that too.
+She handed him back his Ember. Her hands were shaking, and she was angry about that too.
 
 "Was that it?" she said.
 
@@ -262,7 +262,7 @@ Toren, lying down, saw him out there against the last of the sky at the top of t
 
 ---
 
-In the morning Rook ran the wall drill again and Wyck came across it poorly and got fouled on his own bar for the fourth day running.
+In the morning Rook ran the wall drill again, and Wyck came across it poorly and got fouled on his own bar for the fourth day running.
 
 "Again," said Rook.
 
@@ -280,6 +280,6 @@ Wyck stood there.
 
 "Go on."
 
-He swapped the bar and went at the wall again and it was terrible.
+He swapped the bar and went at the wall again, and it was terrible.
 
 Toren, waiting his turn, found that he had stopped breathing for a moment, and could not have told anybody why, except that he had been counting the man's sentences for thirteen days the way you count coins, and that was more words about how to do a thing than Rook had spent on any of them since the road cut.

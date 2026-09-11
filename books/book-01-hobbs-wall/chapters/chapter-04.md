@@ -2,33 +2,33 @@
 
 His father was already dead when Toren got to him.
 
-He had spent the whole walk around the bend deciding what he would say, and the deciding had been the only thing holding him upright, and then he came round the rock and there was nothing to say anything to. Garrick Voss was sitting with his back against the rock face where he had put it at the start, the brush axe across his knees. His eyes were open, looking at the far wall of the cut with mild interest, as though somebody had just told him a price he was considering.
+He had spent the whole walk around the bend deciding what he would say, and the deciding had been the only thing holding him upright, and then he came round the rock, and there was nothing to say anything to. Garrick Voss was sitting with his back against the rock face where he had put it at the start, the brush axe across his knees. His eyes were open, looking at the far wall of the cut with mild interest, as though somebody had just told him a price he was considering.
 
 Toren stood there for a while.
 
-He wanted, badly, to have been given something. A sentence. A hand on the neck. Even a look. He was thirteen and he had not yet learned that this is what everyone wants, and that almost nobody gets it. The last real thing his father had said to him had already happened, in a road cut, at a run, with the world coming apart: *keep the ugly shape, stop trying to be good at it.*
+He wanted, badly, to have been given something. A sentence. A hand on the neck. Even a look. He was thirteen, and he had not yet learned that this is what everyone wants, and that almost nobody gets it. The last real thing his father had said to him had already happened, in a road cut, at a run, with the world coming apart: *keep the ugly shape, stop trying to be good at it.*
 
 He would take that out and look at it about four thousand times over the next year.
 
-He closed his father's eyes, because he had seen it done and it seemed to be a thing you did. It was harder than it looked. Then he sat down beside him on the road bed with his shoulder against the same rock and put his hands over his face and stayed there until Dessa came and got him.
+He closed his father's eyes, because he had seen it done, and it seemed to be a thing you did. It was harder than it looked. Then he sat down beside him on the road bed with his shoulder against the same rock and put his hands over his face and stayed there until Dessa came and got him.
 
 ---
 
 You cannot dig a grave in a road.
 
-That was the practical fact of the afternoon, and it was the kind of fact that grief does not care about and that has to be dealt with anyway. Sixty years of frost had cracked the old road bed but it had not softened it, and the shoulders were gravel over hardpan, and there was nothing in the cart to dig with but a fire shovel and a broken mattock head.
+That was the practical fact of the afternoon, and it was the kind of fact that grief does not care about and that has to be dealt with anyway. Sixty years of frost had cracked the old road bed, but it had not softened it, and the shoulders were gravel over hardpan, and there was nothing in the cart to dig with but a fire shovel and a broken mattock head.
 
 "Rock," Wyck said.
 
 So they built with rock.
 
-There was plenty of it. The eastern wall had shed half a hillside into the cut over the decades and it lay along the base in a long ridge, everything from head-sized down. They carried it. That was the afternoon: four young people and a man none of them knew, carrying rock two hundred paces up a road cut, one armload at a time, and laying it over three people until the shapes underneath stopped being shapes.
+There was plenty of it. The eastern wall had shed half a hillside into the cut over the decades, and it lay along the base in a long ridge, everything from head-sized down. They carried it. That was the afternoon: four young people and a man none of them knew, carrying rock two hundred paces up a road cut, one armload at a time, and laying it over three people until the shapes underneath stopped being shapes.
 
 Nobody talked. Milo cried for the first hour without any sound and without any apparent awareness that he was doing it, and Dessa walked next to him the whole time carrying half of what she was capable of carrying so she would have a hand free.
 
 The man worked harder than any of them and did not once say anything comforting.
 
-At the end he stood over Marta Faust's cairn and looked at Milo and said, "She held that wall while you had your hands on the old woman. She could have dropped it and turned round. She'd have had time. She didn't, because she'd told you not to lift your hands and she wasn't going to make a liar of herself." He said it like a man reading a weight off a scale. "I don't know what she was to you. But that's what she did, and I watched her do it, and it's not going to sound better in a year."
+At the end he stood over Marta Faust's cairn and looked at Milo and said, "She held that wall while you had your hands on the old woman. She could have dropped it and turned round. She'd have had time. She didn't, because she'd told you not to lift your hands, and she wasn't going to make a liar of herself." He said it like a man reading a weight off a scale. "I don't know what she was to you. But that's what she did, and I watched her do it, and it's not going to sound better in a year."
 
 Milo looked up at him.
 
@@ -42,7 +42,7 @@ He turned around and went back to the cart, and Milo stood by the stones another
 
 There was a great deal of practical business, and doing it was the only thing that made the hours pass.
 
-Senna was conscious and lucid by late afternoon and immediately became the worst patient anyone had ever had. Her left arm was strapped across her chest and the shoulder was packed and bound and she had been told four times not to use the hand.
+Senna was conscious and lucid by late afternoon and immediately became the worst patient anyone had ever had. Her left arm was strapped across her chest, and the shoulder was packed and bound, and she had been told four times not to use the hand.
 
 "Where's my son," she said.
 
@@ -88,7 +88,7 @@ He had been going along the cut with the flat tin flask, working the last of the
 
 Dessa Cole was fourteen and had spent two years being told, kindly, that there was nothing on the other side of her door. She had developed, in that time, an approach to being brushed off that consisted of standing very still and waiting.
 
-The man finished the seam. Then he screwed the cap down and said, without looking up, "It's fuel. It's the only thing in the world that is. Everything anybody does with a wall or a wound or an Ember comes out of somewhere, and when you've spent it you're empty, and a mouthful of that puts a little back in. Your healer would have had a flask. Go and look in her kit and if there's one in it, it's yours now, and don't let anybody see you carrying it at a gate."
+The man finished the seam. Then he screwed the cap down and said, without looking up, "It's fuel. It's the only thing in the world that is. Everything anybody does with a wall or a wound or an Ember comes out of somewhere, and when you've spent it, you're empty, and a mouthful of that puts a little back in. Your healer would have had a flask. Go and look in her kit and if there's one in it, it's yours now, and don't let anybody see you carrying it at a gate."
 
 Dessa didn't move.
 
@@ -110,7 +110,7 @@ He tried to leave them about an hour after that.
 
 Toren was almost sure of it afterward, though the man never announced it. He simply began doing the things a person does before walking away: he split the cart's load and put the useful half within reach, he tied a strap on Pitch's collar that had been fraying, he set out the road ahead of them in words, twice, until Dessa could say it back.
 
-"North two miles and the cut lets out. Stay on the road bed, not the verge — the verge is where they lie up. Six or seven miles on there's a burnt-out fuel station with the roof still on and you can hold that overnight if you have to. Then the road bends west along the river and you follow the river until you see a wall. You'll know it. It's forty feet of stacked wrecks and slag and it goes right across the valley. That's Hobb's Wall. Two days at your pace. They take people in, if the people are worth something to them."
+"North two miles and the cut lets out. Stay on the road bed, not the verge — the verge is where they lie up. Six or seven miles on, there's a burnt-out fuel station with the roof still on and you can hold that overnight if you have to. Then the road bends west along the river, and you follow the river until you see a wall. You'll know it. It's forty feet of stacked wrecks and slag, and it goes right across the valley. That's Hobb's Wall. Two days at your pace. They take people in, if the people are worth something to them."
 
 "And Senna?" said Dessa.
 
@@ -134,13 +134,13 @@ Toren watched a grown man be caught by a fourteen-year-old and stand there and t
 
 "You wouldn't reach the fuel station."
 
-Nobody said anything. Milo had stopped where he was with an armful of blankets. Wyck was standing at the tailgate with the empty shotgun and his face was doing something ugly and Toren realized with a jolt that Wyck had known this for an hour and had decided not to say it out loud, and had been carrying it around by himself.
+Nobody said anything. Milo had stopped where he was with an armful of blankets. Wyck was standing at the tailgate with the empty shotgun, and his face was doing something ugly, and Toren realized with a jolt that Wyck had known this for an hour and had decided not to say it out loud, and had been carrying it around by himself.
 
-Rook looked north up the cut, at the two hours of road he had been intending to put behind him before dark. Toren watched him look at it. It was the most naked thing the man did that entire day and he did not appear to know he was doing it.
+Rook looked north up the cut, at the two hours of road he had been intending to put behind him before dark. Toren watched him look at it. It was the most naked thing the man did that entire day, and he did not appear to know he was doing it.
 
 Then he turned around and pointed at each of them in order, the way you'd count sacks.
 
-"Two days," he said. "To the wall. That is the whole thing I'm agreeing to, and I want all four of you to hear me say it, because I don't want an argument at the end of it. I walk you to Hobb's Wall. I put you in front of the people there. After that you are theirs and you are not mine, and I have somewhere to be, and I have been late to it for a long time."
+"Two days," he said. "To the wall. That is the whole thing I'm agreeing to, and I want all four of you to hear me say it, because I don't want an argument at the end of it. I walk you to Hobb's Wall. I put you in front of the people there. After that you are theirs, and you are not mine, and I have somewhere to be, and I have been late to it for a long time."
 
 "Fine," said Wyck.
 
@@ -152,7 +152,7 @@ Then he turned around and pointed at each of them in order, the way you'd count 
 
 "*Fine,*" said Wyck.
 
-Rook looked at him for a second longer than was comfortable. Then he picked up the cart shafts himself, on the near side, next to the mule, which was not a thing Toren had ever seen a grown man do, and said, "We're not sleeping in this cut. Two miles. Now, while there's light. Girl — Dessa — you're on the head. Boy with the bar, you're behind the cart and you don't get to look at anything except behind the cart. Little one—"
+Rook looked at him for a second longer than was comfortable. Then he picked up the cart shafts himself, on the near side, next to the mule, which was not a thing Toren had ever seen a grown man do, and said, "We're not sleeping in this cut. Two miles. Now, while there's light. Girl — Dessa — you're on the head. Boy with the bar, you're behind the cart, and you don't get to look at anything except behind the cart. Little one—"
 
 "Milo."
 

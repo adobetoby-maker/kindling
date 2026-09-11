@@ -4,7 +4,7 @@ They came back onto the road on the seventeenth day, in rain, with three people 
 
 Toren's Ember had been cold for two days and then had come back, the way Rook said it would, in a way that was so gradual it was almost insulting. On the first day he could not bring the spike out at all and cried about it once, briefly, behind the cart, and thought nobody saw. On the second it came out and lasted about eleven seconds. On the third he could hold it for four or five minutes if he was not being shoved, and it was warm, and he spent most of that day with his hand in his coat pocket around it like a man checking a coin was still there.
 
-Wyck's arm was bad. It knitted the way Rook had said it would, ugly, along a line from the elbow to the wrist, and he could not close the fingers properly for a week and he did not once say so out loud and Rook made him say it out loud twice a day anyway, at the same times, like a toll.
+Wyck's arm was bad. It knitted the way Rook had said it would, ugly, along a line from the elbow to the wrist, and he could not close the fingers properly for a week, and he did not once say so out loud, and Rook made him say it out loud twice a day anyway, at the same times, like a toll.
 
 Dessa was off the stick by the seventeenth day. She limped. She would go on limping. She had worked out how to walk a quarter of a mile at the cart's pace without her face doing anything, and had started walking the last quarter of every day's march instead of riding it. Rook had watched her do it for three days and then simply started putting her on the head of the mule, which was the job she had done all the way from Sallow Creek — and nobody said anything about it, and everybody understood that something had been given back.
 
@@ -18,7 +18,7 @@ It was a fuel relay from the old days: three steel tanks the size of houses, set
 
 It had burned in the spring.
 
-Not all of it. That was the first strange thing. The hut had gone entirely and the gantry had gone and the gate had gone, and two of the tanks were scorched black up one side and the third was not touched at all. The rain had been getting into it for four months, and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
+Not all of it. That was the first strange thing. The hut had gone entirely and the gantry had gone and the gate had gone, and two of the tanks were scorched black up one side, and the third was not touched at all. The rain had been getting into it for four months, and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
 
 "Riftspawn don't burn things," Dessa said.
 
@@ -36,7 +36,7 @@ There was a hand-cart in the yard with a tarpaulin over it, and a small fire und
 
 ---
 
-Her name was Ott and she had been picking the Drum for nine days, and it took about a quarter of an hour to get to that, because the first quarter of an hour was entirely about who was allowed to stand where.
+Her name was Ott, and she had been picking the Drum for nine days, and it took about a quarter of an hour to get to that, because the first quarter of an hour was entirely about who was allowed to stand where.
 
 She was somewhere past fifty, small and sinewy, with a salvager's hands and a salvager's coat — every pocket on it added afterward by somebody who knew exactly what they wanted to carry. She looked at the five of them for a long time, and she looked at the cart, and she looked at Senna in the cart, and something in her went down about half a notch.
 
@@ -44,7 +44,7 @@ She was somewhere past fifty, small and sinewy, with a salvager's hands and a sa
 
 "Two Ember," said Milo, with dignity.
 
-"Oh, well, *two Ember*." She jerked her chin at Wyck's bound arm. "That one's Ember, is he? Ember's a lovely thing. Ember stops you being frightened of the dark and gets you killed at about nineteen." She put the crossbow down, which was the first real thing she did. "You can have the north side of the yard. There's dry under the tank shadow and you'll not get it anywhere else in this rain. I'm working the hut and the middle tank and I've been working them nine days and I'd take it poorly."
+"Oh, well, *two Ember*." She jerked her chin at Wyck's bound arm. "That one's Ember, is he? Ember's a lovely thing. Ember stops you being frightened of the dark and gets you killed at about nineteen." She put the crossbow down, which was the first real thing she did. "You can have the north side of the yard. There's dry under the tank shadow, and you'll not get it anywhere else in this rain. I'm working the hut and the middle tank, and I've been working them nine days, and I'd take it poorly."
 
 "We won't touch the hut," said Rook.
 
@@ -60,15 +60,15 @@ Rook said nothing whatsoever.
 
 ---
 
-They were three hours in the yard before the name came up, and when it came up it came up in a list.
+They were three hours in the yard before the name came up, and when it came up, it came up in a list.
 
-It came up because Dessa had gone over to the fire to trade — which was Dessa all over, and which Rook allowed, and which Toren had begun to understand was not permission so much as a man declining to stand in a doorway. They had corn and they had no salt and Ott had salt and eleven pounds of dried apple and no grain at all, and the two of them sat down at the fire and got on with it in the businesslike way of two people who were each fairly sure they were going to win.
+It came up because Dessa had gone over to the fire to trade — which was Dessa all over, and which Rook allowed, and which Toren had begun to understand was not permission so much as a man declining to stand in a doorway. They had corn, and they had no salt, and Ott had salt and eleven pounds of dried apple and no grain at all, and the two of them sat down at the fire and got on with it in the businesslike way of two people who were each fairly sure they were going to win.
 
 Toren sat within earshot with a warm stone in his pocket and pretended to be minding his grandmother.
 
 "What's the ash like up here?" said Dessa.
 
-"Thin. It's a thin year and it's a thin road." Ott spat into the fire. "Husks, mostly, and husks are Handfuls and it takes nine Handfuls to make anything you can sell. Hounds are a Flask a head at any wall between here and the coast and don't let a weighmaster tell you it's less, they'll all try. There's a long-legged thing come into this country in the last two years that's a Flask and a half and worth every bit of it, and if you meet one you'll know, because you'll be dead."
+"Thin. It's a thin year and it's a thin road." Ott spat into the fire. "Husks, mostly, and husks are Handfuls, and it takes nine Handfuls to make anything you can sell. Hounds are a Flask a head at any wall between here and the coast and don't let a weighmaster tell you it's less, they'll all try. There's a long-legged thing come into this country in the last two years that's a Flask and a half and worth every bit of it, and if you meet one, you'll know, because you'll be dead."
 
 "Stilts," said Dessa.
 
@@ -76,13 +76,13 @@ Toren sat within earshot with a warm stone in his pocket and pretended to be min
 
 "What happened here?"
 
-It was not even a clever question. It was the obvious question and Dessa had been sitting on it for three hours out of politeness.
+It was not even a clever question. It was the obvious question, and Dessa had been sitting on it for three hours out of politeness.
 
 Ott turned the apple bag over in her hands.
 
-"Same as happened at Barrow Gate and at the two farms in the bottom," she said. "People came through in the spring. Mid-spring, before the thaw was finished, and they weren't a convoy and they weren't scavengers, and they bought everything the Drum had — bought it, mind, paid for it, coin on the board, a fair price and better — and then they came back four days later and burned it.
+"Same as happened at Barrow Gate and at the two farms in the bottom," she said. "People came through in the spring. Mid-spring, before the thaw was finished, and they weren't a convoy, and they weren't scavengers, and they bought everything the Drum had — bought it, mind, paid for it, coin on the board, a fair price and better — and then they came back four days later and burned it.
 
-"Nobody knows why. That's the thing about them, and I've asked in six places. There's never a why anybody can find. Somebody didn't say something they were supposed to say, or said something they weren't. There's nine people who lived here and there's two of them at Barrow Gate now and they won't talk about it, and the rest are wherever the rest are."
+"Nobody knows why. That's the thing about them, and I've asked in six places. There's never a why anybody can find. Somebody didn't say something they were supposed to say, or said something they weren't. There's nine people who lived here, and there's two of them at Barrow Gate now, and they won't talk about it, and the rest are wherever the rest are."
 
 "Who were they?"
 
@@ -92,7 +92,7 @@ Toren, afterward, was fairly sure he had heard it go quiet before he heard anyth
 
 The rain went on. The mule shifted. Forty feet away in the yard, Rook stopped doing the unnecessary thing to the wheel — stopped absolutely, not slowing, not turning, going from doing a thing to complete stillness in the space of a breath, with his hand still flat on the tyre.
 
-Dessa did not turn round. Toren watched her not turn round, and watched her eyes go somewhere else for a quarter of a second and come back, and understood that she had seen it in the corner of her eye and had decided, instantly, that whatever happened next she was not going to be the one who made him know he had been watched.
+Dessa did not turn round. Toren watched her not turn round, and watched her eyes go somewhere else for a quarter of a second and come back, and understood that she had seen it in the corner of her eye and had decided, instantly, that whatever happened next, she was not going to be the one who made him know he had been watched.
 
 "Never heard of them," said Dessa.
 
@@ -102,7 +102,7 @@ Dessa did not turn round. Toren watched her not turn round, and watched her eyes
 
 He came over about a minute later.
 
-He came over slowly and he came over from the wrong side, so that he arrived at the fire the way a man arrives who has been walking past anyway, and he crouched down on his heels outside the circle with his forearms on his knees.
+He came over slowly, and he came over from the wrong side, so that he arrived at the fire the way a man arrives who has been walking past anyway, and he crouched down on his heels outside the circle with his forearms on his knees.
 
 "You said mid-spring," he said.
 
@@ -138,7 +138,7 @@ He stopped the way a man stops when he has heard his own voice from the outside,
 
 She looked at him for a while.
 
-"Well," she said, "there's nothing here worth four questions, and you can pick over what I've turned out same as anybody, because I've had nine days of it and there's nothing in it but tins and a lot of melted nothing."
+"Well," she said, "there's nothing here worth four questions, and you can pick over what I've turned out same as anybody, because I've had nine days of it, and there's nothing in it but tins and a lot of melted nothing."
 
 ---
 
@@ -158,7 +158,7 @@ A circle, and inside the circle a shape he took at first for a leaf and then und
 
 Ott, behind them, holding the lamp she had not needed to bring and had brought anyway, put her hand out and he gave it to her and she turned it over twice.
 
-"Company chit," she said. "That's pay. That's how a company pays a man who signs on with it — you get a handful of these instead of coin, and then you buy your food off the company and your boots off the company and your ash off the company, and you hand the chits straight back, and at the end of two years you've earned nothing and you've eaten the whole of it." She flicked it, and it spun, and she caught it. "It's a clever thing. It's the cleverest thing anybody's done since the Fall, and every company does it now and they all learned it off the same one."
+"Company chit," she said. "That's pay. That's how a company pays a man who signs on with it — you get a handful of these instead of coin, and then you buy your food off the company and your boots off the company and your ash off the company, and you hand the chits straight back, and at the end of two years, you've earned nothing, and you've eaten the whole of it." She flicked it, and it spun, and she caught it. "It's a clever thing. It's the cleverest thing anybody's done since the Fall, and every company does it now, and they all learned it off the same one."
 
 "Which one?"
 
@@ -240,11 +240,11 @@ Senna, who had been apparently asleep under the boards, said, from inside the ca
 
 "Gran—"
 
-"Because I'll tell you now, for nothing, from seventy-three years and thirty of them married: don't. Not this week." She coughed, and got it under control, and went on in the same conversational register. "I've seen a man carry a name like that before. Your great-uncle had one. It sits in the middle of him like a stone in a boot and every so often he'll walk on it wrong in front of you, and you'll think, *there, now — now he'll say it* — and he won't, and if you push him on the day he walks on it he'll say something he can't take back and then he'll have to leave, because a man like that would rather go than be seen."
+"Because I'll tell you now, for nothing, from seventy-three years and thirty of them married: don't. Not this week." She coughed, and got it under control, and went on in the same conversational register. "I've seen a man carry a name like that before. Your great-uncle had one. It sits in the middle of him like a stone in a boot, and every so often he'll walk on it wrong in front of you, and you'll think, *there, now — now he'll say it* — and he won't, and if you push him on the day he walks on it, he'll say something he can't take back and then he'll have to leave, because a man like that would rather go than be seen."
 
 "So we say nothing," said Dessa.
 
-"I didn't say nothing. I said not this week." There was a rustle of blankets. "He'll have to say it eventually. He's teaching you. You can't teach four children for a year and stay a stranger to them, it isn't possible, the arithmetic doesn't work. Every day he stands in a field and corrects somebody's arm he gets a little bit closer to the day he has to explain what he's building. And when that day comes it won't be you that makes him, Toren, and it won't be the clever one at the mule's head either."
+"I didn't say nothing. I said not this week." There was a rustle of blankets. "He'll have to say it eventually. He's teaching you. You can't teach four children for a year and stay a stranger to them, it isn't possible, the arithmetic doesn't work. Every day he stands in a field and corrects somebody's arm, he gets a little bit closer to the day he has to explain what he's building. And when that day comes, it won't be you that makes him, Toren, and it won't be the clever one at the mule's head either."
 
 Toren said, "Then who?"
 
@@ -256,4 +256,4 @@ He woke twice in the night.
 
 The first time, the rain had stopped, and Rook was sitting on the top of the bank with the road going south in front of him, facing the way they had come.
 
-The second time it was nearly light, and the man had not moved, and the piece of brass was turning over and over in his fingers, and Toren lay in the wet grass and watched it catch what there was of the sky and understood — properly, for the first time, with the same cold clarity he had felt in the weigh-yard at Hobb's Wall — that whatever road they had been walking, the man walking it with them had just been handed a different one, and that he had not told them, and that he was not going to.
+The second time, it was nearly light, and the man had not moved, and the piece of brass was turning over and over in his fingers, and Toren lay in the wet grass and watched it catch what there was of the sky and understood — properly, for the first time, with the same cold clarity he had felt in the weigh-yard at Hobb's Wall — that whatever road they had been walking, the man walking it with them had just been handed a different one, and that he had not told them, and that he was not going to.

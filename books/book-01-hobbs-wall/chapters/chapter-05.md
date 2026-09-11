@@ -2,13 +2,13 @@
 
 They saw Hobb's Wall from four miles out, which was the point of it.
 
-The river came down out of the hills and the valley pinched between two shoulders of rock, and somebody, a long time ago and with an enormous amount of patience, had filled the pinch. It was made of wrecks: cars, trucks, a bus on its side, two shipping containers laid end to end, stacked four and five deep and then poured full of slag and rubble and whatever else came to hand, until the whole thing had stopped being a heap and become a piece of geography. Forty feet at the middle. There were people on top of it walking a plank road, and smoke going up behind it in a dozen threads, and a gate at the bottom made out of a container with both ends cut off.
+The river came down out of the hills, and the valley pinched between two shoulders of rock, and somebody, a long time ago and with an enormous amount of patience, had filled the pinch. It was made of wrecks: cars, trucks, a bus on its side, two shipping containers laid end to end, stacked four and five deep and then poured full of slag and rubble and whatever else came to hand, until the whole thing had stopped being a heap and become a piece of geography. Forty feet at the middle. There were people on top of it walking a plank road, and smoke going up behind it in a dozen threads, and a gate at the bottom made out of a container with both ends cut off.
 
 Milo stopped dead in the road and said, "*People*," in a voice with about nine days of held breath in it.
 
 Two days had cost them a great deal.
 
-The fuel station had cost them a night nobody slept. The river road had cost them the good wheel, which went out of true and had to be nursed for six miles with Wyck's shoulder against it, and Wyck now had a torn hand and a way of holding his arm that he thought nobody had noticed. Senna had cost them four stops, and on the last one Rook had put the Ember against her collarbone again and afterward had gone off up the bank and sat down for a quarter of an hour with his forearms on his knees, and had come back and said nothing.
+The fuel station had cost them a night nobody slept. The river road had cost them the good wheel, which went out of true and had to be nursed for six miles with Wyck's shoulder against it, and Wyck now had a torn hand and a way of holding his arm that he thought nobody had noticed. Senna had cost them four stops, and on the last one, Rook had put the Ember against her collarbone again and afterward had gone off up the bank and sat down for a quarter of an hour with his forearms on his knees, and had come back and said nothing.
 
 Toren had asked him about it on the first night. He had worked up to it for two hours.
 
@@ -28,7 +28,7 @@ Rook had been eating. "Both what."
 
 The weighmaster of Hobb's Wall was a small, broad woman of about sixty named Nell Quill, and she kept a book.
 
-That was the first thing about her and it turned out to be the only thing. She met them in the weigh-yard inside the gate, which was a flat apron of poured concrete with a beam scale sunk into it and a table under an awning, and she had the book open on the table before she had finished looking at them, and everything that happened in the next half hour happened in relation to that book.
+That was the first thing about her, and it turned out to be the only thing. She met them in the weigh-yard inside the gate, which was a flat apron of poured concrete with a beam scale sunk into it and a table under an awning, and she had the book open on the table before she had finished looking at them, and everything that happened in the next half hour happened in relation to that book.
 
 She looked at Rook and said, "Rook."
 
@@ -48,19 +48,19 @@ She went and looked at Senna, and she was not unkind about it; she was thorough,
 
 She said yes to almost all of it. Piece by piece. On terms.
 
-"Sick-house has four beds and there are five in them, which tells you how that's going. I'll not put her in a bed I haven't got. What I have is a cot in the yard-shed, dry, out of the wind, and a woman who comes twice a day, and that's eight a week or the equivalent in trade." She ran a finger down a column. "That'll hold her. It won't fix her. Meridian's a hundred and ten miles and there's no traffic on that road worth the name until the spring convoy, which is five months out. I'd not send her up it before then in a cart and I'd not send four young ones up it at all."
+"Sick-house has four beds, and there are five in them, which tells you how that's going. I'll not put her in a bed I haven't got. What I have is a cot in the yard-shed, dry, out of the wind, and a woman who comes twice a day, and that's eight a week or the equivalent in trade." She ran a finger down a column. "That'll hold her. It won't fix her. Meridian's a hundred and ten miles, and there's no traffic on that road worth the name until the spring convoy, which is five months out. I'd not send her up it before then in a cart, and I'd not send four young ones up it at all."
 
 "Five months," Toren said.
 
-Nell looked at him. She had grey eyes and they were not cruel and that was somehow worse.
+Nell looked at him. She had grey eyes, and they were not cruel, and that was somehow worse.
 
 "That's what I've got, lad."
 
-She turned back to Rook. "Now. Intake. I take minors as bonded apprentices, five years, against a sponsor's signature, and only where the board has a placement, because I'll not feed an unplaced mouth through a winter and pretend it's charity." She turned the book around so he could see it, which was a courtesy, and which was also the whole argument. "I have two placements. Tally room wants someone who can do sums in their head — that's the girl, if she can. Scale house wants small hands and a good memory and they want them now, because the last one broke his arm. That's the little one."
+She turned back to Rook. "Now. Intake. I take minors as bonded apprentices, five years, against a sponsor's signature, and only where the board has a placement, because I'll not feed an unplaced mouth through a winter and pretend it's charity." She turned the book around so he could see it, which was a courtesy, and which was also the whole argument. "I have two placements. Tally room wants someone who can do sums in their head — that's the girl, if she can. Scale house wants small hands and a good memory, and they want them now, because the last one broke his arm. That's the little one."
 
 "And the other two?"
 
-"I've no placement for two more." She shut the book on her finger. "There's road crew on the north face and I'll take the big one for that, but I'll be honest with you and with him: the north face is where this wall loses people, and he's not fifteen and marked, he's fifteen and nothing, so he'd go on at the bottom of it. And the one with the Ember I'd have gladly, but 'gladly' isn't a placement either, and the board sits in eleven days."
+"I've no placement for two more." She shut the book on her finger. "There's road crew on the north face, and I'll take the big one for that, but I'll be honest with you and with him: the north face is where this wall loses people, and he's not fifteen and marked, he's fifteen and nothing, so he'd go on at the bottom of it. And the one with the Ember I'd have gladly, but 'gladly' isn't a placement either, and the board sits in eleven days."
 
 She said it all in the same tone. Cot, bed, sums, small hands, north face. It went into the book at the same speed.
 
@@ -72,7 +72,7 @@ And Toren waited eleven days for a board.
 
 None of them would be in the same building by spring.
 
-He felt something happen in his chest that he did not recognize and would later learn to recognize very well. It was not grief and it was not fear. It was much colder and much more useful than either.
+He felt something happen in his chest that he did not recognize and would later learn to recognize very well. It was not grief, and it was not fear. It was much colder and much more useful than either.
 
 "No," he said.
 
@@ -94,9 +94,9 @@ Rook did not look at him. "Nell. What does the yard-shed cost for the winter, al
 
 Toren took his father's Ember out of his coat pocket and put it down on the table on top of the open book.
 
-It made a small flat sound on the wood. Everything in the yard stopped for a second — the two men at the scale, Dessa, everybody — because there were eleven of them in a settlement of four hundred and nobody had ever seen one put down on a table like a bag of grain.
+It made a small flat sound on the wood. Everything in the yard stopped for a second — the two men at the scale, Dessa, everybody — because there were eleven of them in a settlement of four hundred, and nobody had ever seen one put down on a table like a bag of grain.
 
-"For the shed," Toren said. "And the woman twice a day. And a place on the spring convoy for all five of us." His voice came out steadier than he expected and he kept going before it stopped doing that. "It's a Voss Ember. It's been in my family five generations. It's worth more than sixty."
+"For the shed," Toren said. "And the woman twice a day. And a place on the spring convoy for all five of us." His voice came out steadier than he expected, and he kept going before it stopped doing that. "It's a Voss Ember. It's been in my family five generations. It's worth more than sixty."
 
 Nell Quill looked at it.
 
@@ -108,13 +108,13 @@ It was pity. Brief, and immediately put away, and unmistakable.
 
 "Mine. It came to me four days ago, my father —"
 
-"That's what I'm asking." She did not touch it. "It's yours. That's the whole of what's wrong with it. Put it in my hand and it's a grey stone. Put it in his hand" — she tipped her chin at Rook — "and it's a grey stone. There's a man in Coldwater buys them off estates and he pays what the metal's worth and the metal's worth about two weeks of grain, and he does it because every so often a child turns thirteen and takes to one that's been sitting in a drawer, and he can sell it on to a family for a year's work. That's the trade. That's the entire trade." She pushed it back across the book towards him with two fingers. "I'd be taking a dead thing off a boy who doesn't know it's dead. I've done worse. Not that."
+"That's what I'm asking." She did not touch it. "It's yours. That's the whole of what's wrong with it. Put it in my hand, and it's a grey stone. Put it in his hand" — she tipped her chin at Rook — "and it's a grey stone. There's a man in Coldwater buys them off estates, and he pays what the metal's worth, and the metal's worth about two weeks of grain, and he does it because every so often a child turns thirteen and takes to one that's been sitting in a drawer, and he can sell it on to a family for a year's work. That's the trade. That's the entire trade." She pushed it back across the book towards him with two fingers. "I'd be taking a dead thing off a boy who doesn't know it's dead. I've done worse. Not that."
 
 Toren stood with his hand on it.
 
-He had not known. That was the part that went through him. He had watched his father hold it and get nothing and he had *seen* that and he had not understood what he was looking at, and he had walked a hundred and some miles with the only thing he owned in his pocket believing it was money.
+He had not known. That was the part that went through him. He had watched his father hold it and get nothing, and he had *seen* that, and he had not understood what he was looking at, and he had walked a hundred and some miles with the only thing he owned in his pocket believing it was money.
 
-Somewhere behind him Wyck let out a slow breath through his nose.
+Somewhere behind him, Wyck let out a slow breath through his nose.
 
 Toren picked the Ember up and closed his fist on it, and it was cool, and the door at the bottom of his head was still open, and he was still standing in a weigh-yard where the arithmetic came out the same as it had a minute ago.
 
@@ -124,9 +124,9 @@ So he changed the arithmetic.
 
 ---
 
-He did not look at Rook when he said it, because he knew that if he looked at Rook he wouldn't get through it.
+He did not look at Rook when he said it, because he knew that if he looked at Rook, he wouldn't get through it.
 
-"Two days ago in the Coldwater cut we got hit by husks. Forty of them. Fifty. Nobody counted, there wasn't time. There were eight of us and we lost three and we'd have lost all eight, and then that man came down the rock face and shut the road." He put his hand flat on the table. "He *shut the road*, ma'am. Wall to rail. He put his hand down on the road bed and nothing came through it, and he held it there with thirty of them stacked against it while we got a cart up the road. I watched him do it, and so did all three of them, and you can ask them separately if you think I'm lying."
+"Two days ago in the Coldwater cut, we got hit by husks. Forty of them. Fifty. Nobody counted, there wasn't time. There were eight of us, and we lost three, and we'd have lost all eight, and then that man came down the rock face and shut the road." He put his hand flat on the table. "He *shut the road*, ma'am. Wall to rail. He put his hand down on the road bed, and nothing came through it, and he held it there with thirty of them stacked against it while we got a cart up the road. I watched him do it, and so did all three of them, and you can ask them separately if you think I'm lying."
 
 Nell Quill's finger had come off the column of the book.
 
@@ -160,7 +160,7 @@ He said it to her, and then he turned around and said it to Toren, and his voice
 
 "I wasn't—"
 
-"You put a year of my life on a table in front of a woman with a book. That's what you just did. Whatever else you thought you were doing, that's what happened." He was not shouting. It would have been easier if he had been. "I told all four of you at the cut. Two days. To the wall. In front of the people here. I have been late to something for a long time and you don't know what it is and you had no right to price it."
+"You put a year of my life on a table in front of a woman with a book. That's what you just did. Whatever else you thought you were doing, that's what happened." He was not shouting. It would have been easier if he had been. "I told all four of you at the cut. Two days. To the wall. In front of the people here. I have been late to something for a long time, and you don't know what it is, and you had no right to price it."
 
 "I know," said Toren.
 
@@ -170,9 +170,9 @@ He said it to her, and then he turned around and said it to Toren, and his voice
 
 And there it was, out in the yard, and he could not take it back and did not want to.
 
-"My father put us on this road. He gave me a stone and a — he gave me a stone, and then he stood in a bend so the cart could go past a man's hand, and he didn't look back, and he *knew* he wasn't going to." His eyes were streaming and his voice was not shaking, and he registered the split as something curious happening to somebody else. "He didn't do that so we could be split up in a yard four days later. He didn't do it so Milo goes in a scale house and Dessa goes in a tally room and Wyck goes out that gate on his own, and my grandmother dies in a shed in the spring with a woman coming twice a day.
+"My father put us on this road. He gave me a stone and a — he gave me a stone, and then he stood in a bend so the cart could go past a man's hand, and he didn't look back, and he *knew* he wasn't going to." His eyes were streaming, and his voice was not shaking, and he registered the split as something curious happening to somebody else. "He didn't do that so we could be split up in a yard four days later. He didn't do it so Milo goes in a scale house and Dessa goes in a tally room and Wyck goes out that gate on his own, and my grandmother dies in a shed in the spring with a woman coming twice a day.
 
-"You can go. Nobody's stopping you and nobody's owed you. But you don't get to hand us to somebody with a book and call that the same thing as putting us somewhere." He swallowed. "And I'm not signing. And they're not staying if I'm not, and you can ask them, and you'll find out I'm right, and I don't much like that I know that."
+"You can go. Nobody's stopping you, and nobody's owed you. But you don't get to hand us to somebody with a book and call that the same thing as putting us somewhere." He swallowed. "And I'm not signing. And they're not staying if I'm not, and you can ask them, and you'll find out I'm right, and I don't much like that I know that."
 
 Nobody said anything.
 
@@ -204,7 +204,7 @@ She caught his sleeve at the gate. "Lad."
 
 ---
 
-Rook took them out beyond the wall an hour before dark and made them stand in a line on a gravel bar in the river bend, and the first lesson lasted about forty minutes and Toren could not have told anybody afterward what it had been about.
+Rook took them out beyond the wall an hour before dark and made them stand in a line on a gravel bar in the river bend, and the first lesson lasted about forty minutes, and Toren could not have told anybody afterward what it had been about.
 
 It was not about fighting. That was the confusing part. It was about where your feet went. He made them stand, and then he walked down the line and pushed each of them, hard, in the shoulder, and three of them fell over. Then he made them stand differently and did it again, and only Wyck fell over, and Wyck went a color.
 
@@ -216,7 +216,7 @@ He made all four of them shout. That was the strangest part of the whole hour. N
 
 "Why?" Dessa said.
 
-"Because in about a week something is going to come at you from the side and you will see it three seconds before anyone else does and you will not say anything, because you'll be busy being frightened, and those three seconds are the only useful thing you'll have." He looked down the line at them. "So you're going to learn to make a noise on purpose while you're frightened. That's tonight. That's all of tonight."
+"Because in about a week, something is going to come at you from the side, and you will see it three seconds before anyone else does, and you will not say anything, because you'll be busy being frightened, and those three seconds are the only useful thing you'll have." He looked down the line at them. "So you're going to learn to make a noise on purpose while you're frightened. That's tonight. That's all of tonight."
 
 "That's not fighting," said Wyck.
 
@@ -232,7 +232,7 @@ Milo went white. "Out loud?"
 
 "Every second," said Rook. "That's why we shouted."
 
-He did not draw anything. He stood eight feet behind them with his arms folded and let it happen, and it was the longest ninety seconds of Toren's life so far, longer than the cut, because in the cut there had been no time to be afraid in an orderly way.
+He did not draw anything. He stood eight feet behind them with his arms folded and let it happen, and it was the longest ninety seconds of Toren's life so far, longer than the cut, because in the cut, there had been no time to be afraid in an orderly way.
 
 They killed both of them. Barely. Wyck took a raking cut across the forearm that bled a lot and mattered little, and Toren's spike went out twice and came back twice, and Milo called the second husk's position eleven times in a voice like a cracked bell and got it right every single time.
 

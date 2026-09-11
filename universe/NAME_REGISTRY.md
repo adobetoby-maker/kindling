@@ -35,6 +35,9 @@ Kes-of-Nine, Adeyemi) — no collisions.
 | **Orrin Vell** | Homura's lead researcher | `CANON` (locked, Ch. 17) |
 | **Dee Wren** | Homura survivor Rook walked to safety; not otherwise active in Book 1 | `CANON` (locked, Ch. 17) |
 | **Ander Croft** | Second confirmed pre-Dessa Satori case; died at Homura, age 11 | `CANON` (locked, Ch. 17) |
+| **Tull** | Cinder Company — counted survivors out of the long-room door at Homura; also on the north line at Lowry Bend. Both griefs, one man. Released alive by Rook, Ch. 22 | `CANON` (locked, Ch. 22) |
+| **Hoyle** | Cinder Company's current authority figure; holds the paybook; receives Tull back at the arch | `CANON` (locked, Ch. 22) |
+| **the Level** | An eleven-mile raised causeway over drowned catchment, site of the Movement 5 clash; one brick arch, a ruined engine house, a stone sluice wall | `CANON` (locked, Ch. 19–22) |
 
 ## Terms
 

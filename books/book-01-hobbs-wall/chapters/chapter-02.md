@@ -22,7 +22,7 @@ The rock face on the eastern side began to move.
 
 Not all at once. That was almost worse. They came down in ones and threes, sliding, tumbling, some of them landing wrong and getting up wrong, spilling gravel ahead of them in a long dirty rattle, and there were more coming through the rail gaps at road level, and more further up, and Toren stopped being able to count at somewhere past twenty and started just seeing *many*, which is what the eye does when the number stops being useful.
 
-They did not organize. He noticed that even then. They didn't flank, they didn't wait, they didn't do the thing wolves did in the stories or the thing men did on the practice ground at Sallow Creek. Every single one of them came straight at the nearest living thing at the fastest speed it could manage, and if it fell, it got up, and if it hit the cart it clawed the cart.
+They did not organize. He noticed that even then. They didn't flank, they didn't wait, they didn't do the thing wolves did in the stories or the thing men did on the practice ground at Sallow Creek. Every single one of them came straight at the nearest living thing at the fastest speed it could manage, and if it fell, it got up, and if it hit the cart, it clawed the cart.
 
 Garrick had the brush axe off the cart rail. He put himself at Pitch's shoulder, which was the only place to put himself, because a panicked mule in a stone corridor kills more people than anything with claws.
 
@@ -60,7 +60,7 @@ He looked down at his own hand as though his hand had betrayed him. Grey slab. C
 
 He looked up, and a husk came off the top of the guardrail at him.
 
-He didn't decide anything. His left arm went up because arms do that, and he got it across his own face, and the thing hit him high and they went down together into the gravel with the whole weight of it on his chest. It smelled like a dry cellar. It had no face and it was trying very hard to get its arms past his arm, and it was not strong, that was the strange part, it was not much stronger than Wyck, it was only *relentless*, it had no idea at all that it might stop.
+He didn't decide anything. His left arm went up because arms do that, and he got it across his own face, and the thing hit him high, and they went down together into the gravel with the whole weight of it on his chest. It smelled like a dry cellar. It had no face, and it was trying very hard to get its arms past his arm, and it was not strong, that was the strange part, it was not much stronger than Wyck, it was only *relentless*, it had no idea at all that it might stop.
 
 And the Ember in his right fist went hot.
 
@@ -76,19 +76,19 @@ Here is what Toren decided, in the ninety seconds after that, while running besi
 
 The Ember had done it.
 
-It made sense. It made perfect sense and it fit everything. He had begged for a blade and gotten nothing. He had not asked for anything at all and it had given him a spike, and the spike had saved his life. He had thought it was a tool. It wasn't a tool. It was something closer to an animal, and it had decided, and the decision had been the right one, and his own opinion in the matter had been worth exactly nothing.
+It made sense. It made perfect sense, and it fit everything. He had begged for a blade and gotten nothing. He had not asked for anything at all, and it had given him a spike, and the spike had saved his life. He had thought it was a tool. It wasn't a tool. It was something closer to an animal, and it had decided, and the decision had been the right one, and his own opinion in the matter had been worth exactly nothing.
 
 That thought settled into him in the middle of the worst thing that had ever happened to him, and it settled deep, the way things do when they arrive with your heart going like that. It would be a long time before anybody got it out of him.
 
 So he stopped asking.
 
-He ran with his fist out and the spike out ahead of it and he did not think about the shape at all, and it held, and when a husk came off the eastern bank he did not aim, he put his arm out the way you put an arm out to stop a door, and it went through and the thing dropped.
+He ran with his fist out and the spike out ahead of it, and he did not think about the shape at all, and it held, and when a husk came off the eastern bank he did not aim, he put his arm out the way you put an arm out to stop a door, and it went through, and the thing dropped.
 
 Then he got excited, and thought *yes, that, again, bigger*, and the spike guttered and shrank and went out and was a grey slab in his fist, and a husk hit him in the hip and knocked him into the wheel.
 
 "Toren!" Milo, from the cart bed, both hands full of Senna's blankets. "*Toren!*"
 
-He got up. His hip didn't work right. He got the Ember out in front of him, and he thought, very deliberately, about nothing, and after two seconds that lasted a year the spike came back — smaller. Uglier. But out.
+He got up. His hip didn't work right. He got the Ember out in front of him, and he thought, very deliberately, about nothing, and after two seconds that lasted a year, the spike came back — smaller. Uglier. But out.
 
 *It decides,* he thought. *Fine. Fine. Then I'll shut up.*
 
@@ -96,13 +96,13 @@ He got up. His hip didn't work right. He got the Ember out in front of him, and 
 
 Bram Sark fired four more times, and Toren heard him counting them out loud each time — "three," "two," "one" — not for anyone else. For himself. For the arithmetic.
 
-At *one* the cut narrowed, and the cart's near wheel went into a break in the road bed, and everything stopped.
+At *one*, the cut narrowed, and the cart's near wheel went into a break in the road bed, and everything stopped.
 
 "Push!" Garrick was already at the wheel. "Wyck! On the spokes, *lift* —"
 
-Wyck was there before the sentence finished, which Toren remembered afterward and never told him. Big hands on the spokes, back into it, boots skidding. Milo threw himself off the cart to make it lighter and Senna said something furious about being carried and nobody had time for her.
+Wyck was there before the sentence finished, which Toren remembered afterward and never told him. Big hands on the spokes, back into it, boots skidding. Milo threw himself off the cart to make it lighter, and Senna said something furious about being carried, and nobody had time for her.
 
-Marta's wall was eleven or twelve feet behind them and the husks were stacking against it, three and four deep now, climbing over their own fallen, and Toren watched the woman's face and saw what it was costing her. There was sweat standing out on her upper lip in the cold. Her hands had started to shake.
+Marta's wall was eleven or twelve feet behind them, and the husks were stacking against it, three and four deep now, climbing over their own fallen, and Toren watched the woman's face and saw what it was costing her. There was sweat standing out on her upper lip in the cold. Her hands had started to shake.
 
 "Bram," said Garrick. "*Bram.*"
 
@@ -116,9 +116,9 @@ He set it down on the road, upright against the guardrail, the way you set a too
 
 "You've got the old woman and four kids, Garrick. Get the wheel out."
 
-He was a hired man. He had been with them twelve days. Toren had exchanged perhaps forty words with him in that time and about thirty of them had been about the weather.
+He was a hired man. He had been with them twelve days. Toren had exchanged perhaps forty words with him in that time, and about thirty of them had been about the weather.
 
-The husks came around Marta's wall on both sides, the way water comes around a stone, and Bram Sark went into them with a hand axe. He was good, he was *good* — he put down four of them in the first ten seconds with short economical strokes like a man splitting kindling. Then the fifth one got his arm and the sixth got his leg, and he went down in the middle of the road, and the rest went over him the way they went over the guardrail, without any pause at all.
+The husks came around Marta's wall on both sides, the way water comes around a stone, and Bram Sark went into them with a hand axe. He was good, he was *good* — he put down four of them in the first ten seconds with short economical strokes like a man splitting kindling. Then the fifth one got his arm, and the sixth got his leg, and he went down in the middle of the road, and the rest went over him the way they went over the guardrail, without any pause at all.
 
 Dessa screamed. Not a word. Just the sound.
 

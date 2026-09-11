@@ -6,9 +6,9 @@ Not a large thing. He put them across a lane that had a five-bar gate at the end
 
 "What's wrong with—"
 
-"Nothing's wrong with it," said Rook. "There's a gate at the end of it and I've had you standing on a line for twenty minutes and I put you there."
+"Nothing's wrong with it," said Rook. "There's a gate at the end of it, and I've had you standing on a line for twenty minutes, and I put you there."
 
-He did not explain further. He did not have to; Toren had it about four seconds later and wished he hadn't, because a gate is a gap and a gap is a line, and you did not stand in a lane with one open end when your whole afternoon had been about a thing that came in straight lines at no notice at all, and Rook had spent three days making sure that none of them would ever do that again, and had then done it himself in front of all four of them.
+He did not explain further. He did not have to; Toren had it about four seconds later and wished he hadn't, because a gate is a gap, and a gap is a line, and you did not stand in a lane with one open end when your whole afternoon had been about a thing that came in straight lines at no notice at all, and Rook had spent three days making sure that none of them would ever do that again, and had then done it himself in front of all four of them.
 
 "It's been three weeks since we've seen a Stilt," Milo offered.
 
@@ -26,7 +26,7 @@ Toren had known that in a general way for some days and now began keeping it the
 
 *Twenty-fifth — walked out past the mule twice. Once for about an hour.*
 
-He had always done some of this. That was the trouble with the column; there was no clean line in it. The man had taken three watches a night since the Drum and he had done it without any visible cost, and Toren had folded it into the general category of things Rook could do that other people could not, along with crossing forty feet of ground without appearing to travel through any of it.
+He had always done some of this. That was the trouble with the column; there was no clean line in it. The man had taken three watches a night since the Drum, and he had done it without any visible cost, and Toren had folded it into the general category of things Rook could do that other people could not, along with crossing forty feet of ground without appearing to travel through any of it.
 
 What was different was small and was everywhere. He asked Milo to say a call again, twice in a morning, when Milo had not got a call wrong in twenty days. He put his hand on the cart shaft going uphill, which he never did. Once, on the road, walking, he stopped for no reason whatsoever and stood for about four seconds and then went on, and when Dessa said, "What was it?" he said, "Nothing," and it was not the flat *nothing* he used to close a conversation. It was a man answering a question honestly and being unhappy with the answer.
 
@@ -50,7 +50,7 @@ It came out of him like a door shutting.
 
 "I wasn't—"
 
-"You were reading me. You've been doing it for a week, all four of you have, and I've let it run because it's a good skill and I taught you most of it, and I am telling you now to take it off me and put it back on the country where it belongs." He had not raised his voice at all. It was worse than if he had. "You've got no idea what you're looking at. You'll build a whole man out of four days of watching a face and you'll be wrong in every particular, and then you'll act on it, and you'll do it at exactly the wrong moment because you'll have had a fortnight of being right about husks."
+"You were reading me. You've been doing it for a week, all four of you have, and I've let it run because it's a good skill, and I taught you most of it, and I am telling you now to take it off me and put it back on the country where it belongs." He had not raised his voice at all. It was worse than if he had. "You've got no idea what you're looking at. You'll build a whole man out of four days of watching a face, and you'll be wrong in every particular, and then you'll act on it, and you'll do it at exactly the wrong moment because you'll have had a fortnight of being right about husks."
 
 Milo's face did what Milo's face did, which was everything at once and immediately.
 
@@ -92,11 +92,11 @@ Afterward Rook sat back on the boards with his forearm across his knee and got t
 
 "Is she—" Milo, from somewhere in the dark.
 
-"She's the same as she was yesterday," said Rook. "That's the honest answer and I want you to hear the whole of it. She's the same as she was yesterday, and yesterday she was worse than she was at Hobb's Wall, and the reason she's the same as yesterday is that I've just spent something on it. That's what that was. It isn't medicine. I'm not a healer and I've never claimed to be one; I can hold a gate shut for a night and I can't fix a single thing that's actually wrong with her."
+"She's the same as she was yesterday," said Rook. "That's the honest answer, and I want you to hear the whole of it. She's the same as she was yesterday, and yesterday she was worse than she was at Hobb's Wall, and the reason she's the same as yesterday is that I've just spent something on it. That's what that was. It isn't medicine. I'm not a healer, and I've never claimed to be one; I can hold a gate shut for a night, and I can't fix a single thing that's actually wrong with her."
 
 He screwed the cap down.
 
-"There's a wall at the other end of this road with people who can," he said. "That's all there is. That's the whole of the plan and there was never a better one."
+"There's a wall at the other end of this road with people who can," he said. "That's all there is. That's the whole of the plan, and there was never a better one."
 
 ---
 
@@ -170,7 +170,7 @@ He looked at the sun for a long moment.
 
 "Everybody's."
 
-He did not thank anybody. He got the cart moving with his shoulder against the shaft and they made four miles before dark, which was nothing, and he did not run a drill that evening, which had happened twice in twenty-seven days and both of the other times somebody had been bleeding.
+He did not thank anybody. He got the cart moving with his shoulder against the shaft, and they made four miles before dark, which was nothing, and he did not run a drill that evening, which had happened twice in twenty-seven days, and both of the other times somebody had been bleeding.
 
 ---
 
@@ -178,7 +178,7 @@ They did it at the fire, after he had gone up the bank.
 
 It was Dessa who started it, and she started it in the least dramatic way available, by saying, "Right," and putting a stick across her knees.
 
-"I'm going to say a thing and I want everybody to have a go at it," she said. "Wyck, you especially, because you've got a rule about this and I'm not going round the back of it."
+"I'm going to say a thing, and I want everybody to have a go at it," she said. "Wyck, you especially, because you've got a rule about this, and I'm not going round the back of it."
 
 "Go on," said Wyck.
 
@@ -186,7 +186,7 @@ It was Dessa who started it, and she started it in the least dramatic way availa
 
 Toren looked at Milo. Milo was already looking at Toren.
 
-"Two of you heard it," said Dessa. "Tor's known since midday because I can read him like a signboard, and Milo's been about to burst since the halt, and he hasn't burst, which I want noted, because that's the hardest thing Milo Faust has ever done." Milo made a small grateful noise. "I don't want to hear the name. Don't say it. Not because I'm being noble, but because I think if that name gets said at this fire by one of us instead of by him it'll go wrong in a way we can't take back."
+"Two of you heard it," said Dessa. "Tor's known since midday because I can read him like a signboard, and Milo's been about to burst since the halt, and he hasn't burst, which I want noted, because that's the hardest thing Milo Faust has ever done." Milo made a small grateful noise. "I don't want to hear the name. Don't say it. Not because I'm being noble, but because I think if that name gets said at this fire by one of us instead of by him, it'll go wrong in a way we can't take back."
 
 "Then what are we—"
 
@@ -194,7 +194,7 @@ Toren looked at Milo. Milo was already looking at Toren.
 
 She turned the stick over.
 
-"He's coming apart," she said. "Slowly, and quietly, and in a way you'd only see if you'd been four feet from him every day for a month, which we all have been. He got the lane wrong. He bit Milo's head off for nothing and then said sorry, and he doesn't say sorry, he says *that was mine and not yours* about nine days after the fact, if ever. He's been facing east for three nights. He hasn't slept properly in a week and today he went over sitting up in the middle of the day like a man who's fallen off a wall.
+"He's coming apart," she said. "Slowly, and quietly, and in a way you'd only see if you'd been four feet from him every day for a month, which we all have been. He got the lane wrong. He bit Milo's head off for nothing and then said sorry, and he doesn't say sorry, he says *that was mine and not yours* about nine days after the fact, if ever. He's been facing east for three nights. He hasn't slept properly in a week, and today he went over sitting up in the middle of the day like a man who's fallen off a wall.
 
 "And I don't think it started at the camp in the field. I think it started at the Drum ten days ago when Ott said the name, and I think everything since then has been him holding a lid down with both hands, and I think the lid's going."
 
@@ -202,19 +202,19 @@ Nobody argued.
 
 "So," said Dessa. "Two roads.
 
-"One: we leave it alone. That's what Senna said at the Drum and Senna's usually right. We say nothing and we do the drill and we wait for him to be ready, and that's a real choice and it might be the kind one.
+"One: we leave it alone. That's what Senna said at the Drum, and Senna's usually right. We say nothing and we do the drill and we wait for him to be ready, and that's a real choice and it might be the kind one.
 
 "Two: we push."
 
 "He said he'd tell us," said Milo. "He said it in the lane."
 
-"He said he wasn't ready. He didn't say when. That was three days ago and he's further off it now than he was then."
+"He said he wasn't ready. He didn't say when. That was three days ago, and he's further off it now than he was then."
 
 Wyck said, "That's not true."
 
 Everybody looked at him.
 
-"He's not further off it," said Wyck. "He's closer, and that's what's wrong with him. A man who's got a thing locked up and means to keep it locked up doesn't lose sleep over it; he's had it locked up for years and it's a room he doesn't go in. This is what it looks like when a man's started going in the room." He flexed the fingers of his left hand. "My mother's the same about my father. Eleven years, and she's fine, and then somebody asks her one civil question at a wake and she's finished for a month, and it isn't because she's forgotten him, it's because she'd just about got to the point of being able to say his name in the kitchen."
+"He's not further off it," said Wyck. "He's closer, and that's what's wrong with him. A man who's got a thing locked up and means to keep it locked up doesn't lose sleep over it; he's had it locked up for years, and it's a room he doesn't go in. This is what it looks like when a man's started going in the room." He flexed the fingers of his left hand. "My mother's the same about my father. Eleven years, and she's fine, and then somebody asks her one civil question at a wake, and she's finished for a month, and it isn't because she's forgotten him, it's because she'd just about got to the point of being able to say his name in the kitchen."
 
 He looked up.
 
@@ -222,7 +222,7 @@ He looked up.
 
 "He wouldn't," said Milo.
 
-"He offered it out loud, Milo. He offered it three days ago as a solution to exactly this problem and none of you seem to have noticed that he meant it as a *kindness*." Wyck put another stick on. "He'll walk us to the gate and he'll go. And it'll be the worst thing that ever happens to the five of us and he'll think he's done us a favour, and the maddening thing is he'll have taught us everything he knows on the way, in full, without missing a day, because that's the sort of man he is."
+"He offered it out loud, Milo. He offered it three days ago as a solution to exactly this problem, and none of you seem to have noticed that he meant it as a *kindness*." Wyck put another stick on. "He'll walk us to the gate, and he'll go. And it'll be the worst thing that ever happens to the five of us, and he'll think he's done us a favour, and the maddening thing is he'll have taught us everything he knows on the way, in full, without missing a day, because that's the sort of man he is."
 
 ---
 
@@ -240,9 +240,9 @@ The fire went down to the red of it.
 
 Wyck was quiet for a moment.
 
-"I said I wasn't going to ask him again," he said. "And I'm not. I've had my go and I meant it and I'm not going back on it in a fortnight like a child.
+"I said I wasn't going to ask him again," he said. "And I'm not. I've had my go, and I meant it, and I'm not going back on it in a fortnight like a child.
 
-"But I never said anything about the rest of you, and I'm not going to stand there and pretend I'm not in it. So here's what I'll do: I'll be there. I'll stand in it. And I won't open my mouth unless he asks me something directly, and if he tries to walk out of it I'll be standing where he'd walk."
+"But I never said anything about the rest of you, and I'm not going to stand there and pretend I'm not in it. So here's what I'll do: I'll be there. I'll stand in it. And I won't open my mouth unless he asks me something directly, and if he tries to walk out of it, I'll be standing where he'd walk."
 
 "That's not asking," said Dessa.
 
@@ -252,13 +252,13 @@ She nodded slowly.
 
 "Then it's tonight," she said. "Not tomorrow. Tomorrow he'll have had a night on the bank to get the lid back on, and we've all seen how good he is at that.
 
-"He'll come down off the bank when the fire needs feeding — he always does, he does it at about the third hour, and he thinks nobody's noticed he does it. That's when. And he'll be standing up and we'll be sitting down and the fire'll be between him and the road, and that's not an accident, and I want everybody to be honest with themselves about the fact that we are, right now, setting a line."
+"He'll come down off the bank when the fire needs feeding — he always does, he does it at about the third hour, and he thinks nobody's noticed he does it. That's when. And he'll be standing up, and we'll be sitting down, and the fire'll be between him and the road, and that's not an accident, and I want everybody to be honest with themselves about the fact that we are, right now, setting a line."
 
 Toren looked at the four of them around the low red fire and thought, with a lurch, that she was entirely right, and that they had learned it from the man they were about to use it on, and that he was going to know that the instant he saw it.
 
 "And who says it?" he said. "When he comes down. Who actually—"
 
-"Not you," said Dessa. "You've got the disk and he'll think it's about the disk and then it's a different conversation. Not me, because I'm the one he watches, and not Wyck, because Wyck's given his word and I'd rather he kept it."
+"Not you," said Dessa. "You've got the disk, and he'll think it's about the disk, and then it's a different conversation. Not me, because I'm the one he watches, and not Wyck, because Wyck's given his word, and I'd rather he kept it."
 
 The three of them turned their heads at the same time.
 

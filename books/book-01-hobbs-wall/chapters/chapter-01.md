@@ -2,7 +2,7 @@
 
 The wood was wet, and it was Toren's job to make it burn anyway.
 
-He had gathered it the night before off the slope above the road, and he had known it was wet then, and he had taken it anyway because the dry stuff was another two hundred paces up and it had been getting dark. Now it was dawn and he was on his knees in the gravel with his face down near the ground, blowing into a nest of shredded cattail fluff that kept going orange and then going out.
+He had gathered it the night before off the slope above the road, and he had known it was wet then, and he had taken it anyway because the dry stuff was another two hundred paces up and it had been getting dark. Now it was dawn, and he was on his knees in the gravel with his face down near the ground, blowing into a nest of shredded cattail fluff that kept going orange and then going out.
 
 "You'll want to build it looser," Senna said from the cart.
 
@@ -12,7 +12,7 @@ He had gathered it the night before off the slope above the road, and he had kno
 
 She was sitting up with the blankets to her chin and her breath going out white, which meant she'd been awake a while and hadn't said anything, which meant her chest was bad this morning. Toren didn't turn around to check her face. He'd stopped doing that where she could see it.
 
-He pulled the sticks apart and started over, and this time he shaved a curl off the dry inside of the biggest one with his knife, and the fluff caught the shaving and the shaving caught the splinters, and the little flame stood up and stayed standing. He fed it. He did not look at his grandmother. He listened to her not say anything, which was how she said things.
+He pulled the sticks apart and started over, and this time he shaved a curl off the dry inside of the biggest one with his knife, and the fluff caught the shaving, and the shaving caught the splinters, and the little flame stood up and stayed standing. He fed it. He did not look at his grandmother. He listened to her not say anything, which was how she said things.
 
 They had camped in the cut, which was what everyone called that kind of place — a road driven straight through a hill by people who had owned machines that could do that, the rock face gone sheer and orange-streaked on both sides, the road bed cracked but flat, the old guardrail still running along the shoulder in rusted lengths like a fence for a field nobody remembered. Twelve days out of Sallow Creek. Nineteen more to Meridian if the bridges at Coldwater were still standing and if Pitch didn't go lame and if the weather held, which was three ifs, which Toren's father called a lot of ifs to hang an old woman's life on.
 
@@ -24,9 +24,9 @@ Marta Faust came down the line of the cart with the kettle, saw the fire, and se
 
 "Mm," said Marta, and went to check Senna's chest.
 
-Milo was still asleep under the cart. Dessa was not; she was at Pitch's off foreleg with the hoof up on her thigh, picking gravel out of the frog with a bent nail and murmuring to him in the low, insulting voice that was the only thing the mule respected. Wyck had the tailgate down and was reloading it, which he did every morning whether it needed it or not, because Wyck's passage on this trip had been paid by somebody else and he had decided very early that he was going to work it off in front of witnesses.
+Milo was still asleep under the cart. Dessa was not; she was at Pitch's off foreleg with the hoof up on her thigh, picking gravel out of the frog with a bent nail and murmuring to him in the low, insulting voice that was the only thing the mule respected. Wyck had the tailgate down and was reloading it, which he did every morning whether it needed it or not, because Wyck's passage on this trip had been paid by somebody else, and he had decided very early that he was going to work it off in front of witnesses.
 
-Up on the embankment, above the guardrail, Bram Sark stood with the shotgun broken open over his forearm and looked north up the road at nothing. He'd been hired at Sallow Creek for the whole run and he had spent twelve days demonstrating that he intended to earn it by standing in cold places.
+Up on the embankment, above the guardrail, Bram Sark stood with the shotgun broken open over his forearm and looked north up the road at nothing. He'd been hired at Sallow Creek for the whole run, and he had spent twelve days demonstrating that he intended to earn it by standing in cold places.
 
 It was, in every way Toren could see, an ordinary morning.
 
@@ -38,7 +38,7 @@ There was not much to it. That was the part nobody told you.
 
 Toren had built it in his head for four years into something with a shape — words, maybe, a circle of people, some proper occasion. What actually happened was that his father set the Ember in the coals with a pair of tongs, and everybody stopped what they were doing and came and stood around a fire in a road cut at seven in the morning. Milo had to be woken up and came out from under the cart with his hair pushed flat on one side.
 
-The Ember lay in the coals and did not glow. That was the thing about it. Everything else in the fire went orange and it stayed the same flat, water-grey it had always been, a slab about the size of Toren's palm and about as thick as three fingers stacked, rounded at the corners from being carried. It looked like a river stone that somebody had gotten halfway through squaring off and then quit on.
+The Ember lay in the coals and did not glow. That was the thing about it. Everything else in the fire went orange, and it stayed the same flat, water-grey it had always been, a slab about the size of Toren's palm and about as thick as three fingers stacked, rounded at the corners from being carried. It looked like a river stone that somebody had gotten halfway through squaring off and then quit on.
 
 "Say them," Senna said.
 
@@ -52,11 +52,11 @@ Milo laughed. Wyck didn't.
 
 Toren put his hands out. His father lifted the Ember out of the coals with the tongs and turned it once so the ashes fell off, and set it down flat across both of Toren's palms, and it was not hot.
 
-That was the first wrong thing. It had been sitting in a fire and it was cool, cooler than the morning, cool the way the inside of a well is cool, and Toren's whole body tried to flinch and had nowhere to go with it.
+That was the first wrong thing. It had been sitting in a fire, and it was cool, cooler than the morning, cool the way the inside of a well is cool, and Toren's whole body tried to flinch and had nowhere to go with it.
 
 Then it opened.
 
-Later he would spend a long time trying to say what that was like and he would never get it right, and eventually he'd stop trying. It wasn't heat and it wasn't light and it wasn't strength. The nearest he ever got was this: all his life he had been standing in a room, and he had thought it was the only room, and something had just quietly informed him that there was a door in the wall behind him, and that there had always been a door in the wall behind him, and that it was slightly open, and that it went down.
+Later he would spend a long time trying to say what that was like, and he would never get it right, and eventually he'd stop trying. It wasn't heat and it wasn't light and it wasn't strength. The nearest he ever got was this: all his life he had been standing in a room, and he had thought it was the only room, and something had just quietly informed him that there was a door in the wall behind him, and that there had always been a door in the wall behind him, and that it was slightly open, and that it went down.
 
 He heard himself make a noise.
 
@@ -96,11 +96,11 @@ She never talked about it. Toren had watched her watch him take the Ember. He un
 
 ---
 
-His father found him an hour later, out past the fire, where the cut opened up and you could see the flat grey country going north.
+His father found him an hour later, out past the fire, where the cut opened up, and you could see the flat grey country going north.
 
 "Walk with me."
 
-They walked. Behind them the camp made the sounds of a camp coming apart — the tailgate, the kettle, Wyck and Milo arguing about the rope. Garrick had his hands in his coat and he walked the way he always walked, like the road had personally agreed to a pace with him beforehand.
+They walked. Behind them the camp made the sounds of a camp coming apart — the tailgate, the kettle, Wyck and Milo arguing about the rope. Garrick had his hands in his coat, and he walked the way he always walked, like the road had personally agreed to a pace with him beforehand.
 
 "That's the Ember," he said. "It's a tool. It'll take you ten years to be honest with it and about nine to stop lying to yourself about how good you are with it. We'll start tomorrow. One shape. You'll hate the shape."
 
@@ -114,7 +114,7 @@ They walked another twenty paces. Then his father stopped, and took his hands ou
 
 It was a disk. Dark, near-black, about the width of two thumbs, thin as a coin but heavier than a coin should be, on a cord of braided boot-lace. There were grooves cut into the face of it, fine as scratches, running from the center out to the rim. Toren counted them without deciding to. Nine.
 
-"This isn't a Voss thing," Garrick said. "It came into the family. Nobody's sure how. Tam had it and Tam said his mother had it, and his mother said something that got repeated wrong for sixty years, so you can throw all of that out." He turned it over in his fingers. The other face had the same nine grooves. "What got repeated right is the warning, because warnings survive. You want to hear it?"
+"This isn't a Voss thing," Garrick said. "It came into the family. Nobody's sure how. Tam had it, and Tam said his mother had it, and his mother said something that got repeated wrong for sixty years, so you can throw all of that out." He turned it over in his fingers. The other face had the same nine grooves. "What got repeated right is the warning, because warnings survive. You want to hear it?"
 
 "Yes."
 
@@ -124,7 +124,7 @@ Toren looked at it. It was extremely unimpressive. It looked like something you'
 
 "That's not a gift," he said.
 
-"No," his father agreed. "That's the part I wanted you to get today, so listen. Some things come to you wearing a gift's coat and they are not gifts, and you don't get to hand them back, and the coat is the worst part, because it makes you feel ungrateful for being afraid of it." He lifted the cord. "A curse in a gift's coat. That's what my grandfather called it. He wore it forty years and he never once let anyone see it."
+"No," his father agreed. "That's the part I wanted you to get today, so listen. Some things come to you wearing a gift's coat, and they are not gifts, and you don't get to hand them back, and the coat is the worst part, because it makes you feel ungrateful for being afraid of it." He lifted the cord. "A curse in a gift's coat. That's what my grandfather called it. He wore it forty years, and he never once let anyone see it."
 
 "Then why give it to me?"
 
@@ -144,7 +144,7 @@ They made eleven miles that day, which was good, and Senna coughed less than usu
 
 Toren carried the Ember in his coat pocket and put his hand on it about every forty steps, and got nothing, and put his hand on it again. Wyck watched him do it for six or seven miles and finally said, "You're going to wear it out," and Toren said, "It's not a soap," and Wyck laughed, actually laughed, and for a stretch after that they walked together and argued about whether Meridian had electric light in the streets or only in the buildings. Wyck said only in the buildings. Wyck had never seen Meridian either. Wyck said things like a man closing a ledger.
 
-That night, camped in a fold below the road with no fire because Bram didn't like the country, Toren asked the Ember for a blade forty or fifty times and it did nothing every single time, and he fell asleep with his fist around it and dreamed about doors.
+That night, camped in a fold below the road with no fire because Bram didn't like the country, Toren asked the Ember for a blade forty or fifty times, and it did nothing every single time, and he fell asleep with his fist around it and dreamed about doors.
 
 The second day was better and worse. Better, because Garrick spent the morning teaching him to hold the thing without demanding anything of it — "It's not a mule, you don't *drive* it, you just carry it and let it get used to being carried" — and by noon Toren had felt something answer, once, a kind of low tug like a fish looking at bait. Worse, because Senna could not get comfortable, and by afternoon Marta was walking beside the cart with her hand on the old woman's back and not saying anything, and Garrick had gotten out the folded paper he kept the bridge tolls on and was doing sums on it that he did not read out to anybody.
 

@@ -40,7 +40,7 @@ He did not say he did not like it. What he did was start putting his shoulder in
 
 "He's making a decent job of it."
 
-"He's angry that she's got a job," said Dessa, "and I've got a job, and Milo's got a job, and you've got a job and it's the middle, and what he's got is *being strong*, which isn't a job, it's a fact, and he's had it his whole life and nobody's ever once had to teach him anything about it." She shrugged. "He's fifteen and he's watching the rest of us learn things. I'd be unbearable."
+"He's angry that she's got a job," said Dessa, "and I've got a job, and Milo's got a job, and you've got a job, and it's the middle, and what he's got is *being strong*, which isn't a job, it's a fact, and he's had it his whole life, and nobody's ever once had to teach him anything about it." She shrugged. "He's fifteen and he's watching the rest of us learn things. I'd be unbearable."
 
 ---
 
@@ -86,7 +86,7 @@ He was quiet for the rest of the morning, but it was a different quiet, and Tore
 
 ---
 
-The thing with the Ember happened on the seventh day and it was, in the end, completely undramatic, which Toren resented for about a year afterward.
+The thing with the Ember happened on the seventh day, and it was, in the end, completely undramatic, which Toren resented for about a year afterward.
 
 Rook had spent three days stripping the problem down.
 
@@ -148,7 +148,7 @@ Rook crouched down in front of him.
 
 "That's—"
 
-"That's the rank. That's the word people will use about you now and they'll be right. Kindled's a door standing open. Ember is the first thing that stays lit when you stop looking at it." He held out a hand and Toren, without thinking, put the spike out to him and Rook pushed it aside impatiently and got hold of his wrist instead, two fingers on the inside of it, the way he had done with Senna at the cut. He held it for three seconds and let go. "Yes. All right."
+"That's the rank. That's the word people will use about you now and they'll be right. Kindled's a door standing open. Ember is the first thing that stays lit when you stop looking at it." He held out a hand, and Toren, without thinking, put the spike out to him, and Rook pushed it aside impatiently and got hold of his wrist instead, two fingers on the inside of it, the way he had done with Senna at the cut. He held it for three seconds and let go. "Yes. All right."
 
 "What did I do?"
 
