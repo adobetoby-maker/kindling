@@ -36,7 +36,7 @@ Then his father came down the cut with an armload of the dry wood from two hundr
 
 There was not much to it. That was the part nobody told you.
 
-Toren had built it in his head for four years into something with a shape — words, maybe, a circle of people, some proper occasion — and what actually happened was that his father set the Ember in the coals with a pair of tongs and everybody stopped what they were doing and came and stood around a fire in a road cut at seven in the morning, and Milo had to be woken up and came out from under the cart with his hair pushed flat on one side.
+Toren had built it in his head for four years into something with a shape — words, maybe, a circle of people, some proper occasion. What actually happened was that his father set the Ember in the coals with a pair of tongs, and everybody stopped what they were doing and came and stood around a fire in a road cut at seven in the morning. Milo had to be woken up and came out from under the cart with his hair pushed flat on one side.
 
 The Ember lay in the coals and did not glow. That was the thing about it. Everything else in the fire went orange and it stayed the same flat, water-grey it had always been, a slab about the size of Toren's palm and about as thick as three fingers stacked, rounded at the corners from being carried. It looked like a river stone that somebody had gotten halfway through squaring off and then quit on.
 
@@ -92,7 +92,7 @@ Dessa Cole had turned fourteen the winter before last. Her family had no Ember. 
 
 Kindled to nothing. That's what people said. They said it kindly. It was still what they said.
 
-She never talked about it. Toren had watched her watch him take the Ember and he understood, distantly, that he had been given a thing in front of her, and that she had come over and knocked his shoulder anyway, and he thought that was probably the more impressive of the two events that morning.
+She never talked about it. Toren had watched her watch him take the Ember. He understood, distantly, that he had been given a thing in front of her, and that she had come over and knocked his shoulder anyway. He thought that was probably the more impressive of the two events that morning.
 
 ---
 

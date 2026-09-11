@@ -142,7 +142,7 @@ Toren dug the Ember out of his coat and handed it over, and Dessa took it in bot
 
 She sat with it for a long time. Twenty minutes, by the fire. The wood settled twice.
 
-Nothing happened, because nothing was going to happen. The Ember lay in her hands and stayed the flat water-grey it had been in the coals at Sallow Creek and in Nell Quill's weigh-yard and in Rook's own fist in a mown field, and after twenty minutes Dessa opened her eyes and looked down at it and said, without any particular heat, "It's a rock."
+Nothing happened, because nothing was going to happen. The Ember lay in her hands and stayed the flat water-grey it had been in the coals at Sallow Creek, in Nell Quill's weigh-yard, in Rook's own fist in a mown field. After twenty minutes Dessa opened her eyes, looked down at it, and said, without any particular heat, "It's a rock."
 
 "It is."
 
@@ -158,7 +158,7 @@ She gave it back.
 
 And then Rook took his own Ember out of his coat pocket and put it into her hands.
 
-Toren, afterward, would be able to account for every second of the next four minutes, and would never be able to account for that one. There was no reason for it. There was no lesson in it that was not already in the first one. Rook did it quickly — took it out, leaned across, set it flat in her palms, sat back — and the whole thing took less than three seconds and he did not say anything while he did it, and Toren, who had watched the man put that stone against his grandmother's collarbone and against Dessa's shin and had never once seen it leave his hand otherwise, sat in the grass with an awl in his fist and could not have explained why his mouth had gone dry.
+Toren, afterward, would be able to account for every second of the next four minutes, and would never be able to account for that one. There was no reason for it. There was no lesson in it that was not already in the first one. Rook did it quickly — took it out, leaned across, set it flat in her palms, sat back. The whole thing took less than three seconds, and he did not say anything while he did it. Toren, who had watched the man put that stone against his grandmother's collarbone and against Dessa's shin and had never once seen it leave his hand otherwise, sat in the grass with an awl in his fist and could not have explained why his mouth had gone dry.
 
 It was smaller than Toren's. He had noticed that in the cut and had never thought about it. It sat in Dessa's hands as though it had been cut for them.
 

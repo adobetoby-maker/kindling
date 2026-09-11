@@ -134,7 +134,7 @@ She got the hatchet into the first one. She got her forearm up for the second, w
 
 The third one hit her below the knee and drove her off her feet sideways into the parapet.
 
-Rook was there before she finished falling — Toren never saw him cross the ground, there was a crack of the struts and a scatter of grit and the man was simply in a different place — and he killed all three of them in the mouth of the bridge in about four seconds, and there was nothing careful about it, and then he turned and put himself between the poplars and the cart and stood there while the remaining hound in the field decided whether it wanted any of this.
+Rook was there before she finished falling — Toren never saw him cross the ground, there was a crack of the struts and a scatter of grit and the man was simply in a different place — and he killed all three of them in the mouth of the bridge in about four seconds, and there was nothing careful about it. Then he turned and put himself between the poplars and the cart and stood there while the remaining hound in the field decided whether it wanted any of this.
 
 It didn't. It went.
 
@@ -144,7 +144,7 @@ The fog closed over the stubble and the noise stopped and Dessa was making a sou
 
 Rook said nothing about it.
 
-That was the thing Toren could not get past, in the twenty minutes that followed. He said nothing. He knelt in the road with his knee braced against Dessa's hip and got the sleeve off her arm with a knife and told Milo, calmly, exactly where to hold and how hard, and told Wyck to bring the lamp closer and then closer than that, and told Toren to get the flask out of his coat and open it and hold it where he could reach it — and he did not say one single word about what had just happened.
+That was the thing Toren could not get past, in the twenty minutes that followed. He said nothing. He knelt in the road with his knee braced against Dessa's hip and got the sleeve off her arm with a knife. He told Milo, calmly, exactly where to hold and how hard, and told Wyck to bring the lamp closer and then closer than that, and told Toren to get the flask out of his coat and open it and hold it where he could reach it — and he did not say one single word about what had just happened.
 
 Dessa's forearm was bad. Her calf was worse. Rook put his Ember against her shin and his palm over the wound and shut his eyes and the bleeding slowed the way water slows when someone upstream shuts a gate part of the way, and afterward he sat back on his heels and drank two swallows out of the flat tin flask and looked, briefly, about ten years older.
 

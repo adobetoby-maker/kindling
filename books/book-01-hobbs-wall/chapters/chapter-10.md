@@ -200,7 +200,7 @@ Milo's light was still up.
 
 The ash ran down the mown grass and pooled in the shallow places and Rook let it lie for eleven minutes, which nobody had ever seen him do, because he was working on Wyck's arm.
 
-He worked on it for a long time. He had Dessa hold the lamp — she had come down the steps on the stick without asking anybody and had got herself onto one knee in the grass and stayed there — and Milo with two hands where he was put, and he had Wyck's arm across his own knee and his Ember against the inside of the elbow and his palm flat over the length of the cut, and after a while the bleeding slowed the way water slows when somebody upstream shuts a gate part of the way.
+He worked on it for a long time. He had Dessa hold the lamp — she had come down the steps on the stick without asking anybody and had got herself onto one knee in the grass and stayed there — and Milo with two hands where he was put. He had Wyck's arm across his own knee, his Ember against the inside of the elbow, his palm flat over the length of the cut, and after a while the bleeding slowed the way water slows when somebody upstream shuts a gate part of the way.
 
 Then he sat back on his heels and got the flat tin flask out and looked at what was in it and drank all of it.
 
@@ -258,7 +258,7 @@ Then he said, thickly, "Toren went first."
 
 Toren could not stand until nearly dark.
 
-That was the part nobody talked about on the way back, and it was the part he hated most. He lay in the orchard grass with the whole of the hillside going on around him — the ash being lifted, the mule being calmed, his grandmother's voice going up and down over the press-house wall in a register of pure fury — and could not get his arms to do anything, and when he finally got up he had to be walked to the cart with Dessa's shoulder under one arm and Milo's under the other, which was, as Milo pointed out, the single most humiliating configuration available to any of the three of them.
+That was the part nobody talked about on the way back, and it was the part he hated most. He lay in the orchard grass with the whole of the hillside going on around him — the ash being lifted, the mule being calmed, his grandmother's voice going up and down over the press-house wall in a register of pure fury — and could not get his arms to do anything. When he finally got up he had to be walked to the cart with Dessa's shoulder under one arm and Milo's under the other, which was, as Milo pointed out, the single most humiliating configuration available to any of the three of them.
 
 They put him in the cart. With the two invalids.
 

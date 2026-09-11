@@ -30,7 +30,7 @@ It began as a practical matter — she could not drill, she was sitting on the b
 
 "Either. Both. Tell me what you see and don't tell me what you think it means."
 
-She told him. She was very good at it, and got better within about an hour, and by the afternoon Rook had stopped asking and had simply started running the drill with his back to half of it, and twice Toren heard the man say "Say again?" up the bank, and heard Dessa say it again, and watched him change the drill on the strength of it.
+She told him. She was very good at it, and got better within about an hour. By the afternoon Rook had stopped asking and had simply started running the drill with his back to half of it, and twice Toren heard the man say "Say again?" up the bank, and heard Dessa say it again, and watched him change the drill on the strength of it.
 
 Wyck did not like that.
 
@@ -140,7 +140,7 @@ It was warm now, the way a cup is warm through a glove. It went on being warm.
 
 "Oh," Toren said.
 
-He sat down on the towpath with a sack of corn across his knees and held out his own hand and looked at it, and the light off the canal came up under the spike and it was the least impressive thing anybody had ever seen, and he could feel it in his palm like something breathing.
+He sat down on the towpath with a sack of corn across his knees and held out his own hand and looked at it. The light off the canal came up under the spike, and it was the least impressive thing anybody had ever seen, and he could feel it in his palm like something breathing.
 
 Rook crouched down in front of him.
 

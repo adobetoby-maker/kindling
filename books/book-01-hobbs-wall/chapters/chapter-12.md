@@ -2,7 +2,7 @@
 
 The road north of the Drum went up out of the watercourse and ran for three days through country that had nothing in it, and those were, Toren thought afterward, the best three days of the whole first year.
 
-Nothing happened. That was the whole of it. The rain went off and the light came back thin and yellow and the hedges were full of haws, and Pitch found a stretch of good verge and ate his way along it for eleven miles in a state of visible contentment, and Milo taught them all a counting song from Sallow Creek that had four verses and then made up a fifth that was about Rook, and got two lines into performing it before losing his nerve, and was tormented about it for the rest of the week.
+Nothing happened. That was the whole of it. The rain went off and the light came back thin and yellow and the hedges were full of haws. Pitch found a stretch of good verge and ate his way along it for eleven miles in a state of visible contentment, and Milo taught them all a counting song from Sallow Creek that had four verses — and then made up a fifth that was about Rook, and got two lines into performing it before losing his nerve, and was tormented about it for the rest of the week.
 
 Nobody bled. Nothing came out of a ditch.
 
@@ -32,7 +32,7 @@ Wyck could. Wyck brought it up twice.
 
 On the nineteenth day Toren finally answered the question.
 
-It had been sitting in him for twelve days like a stone in a pocket — *where does it go while I'm holding it, does it wait in the stone, does it follow you around the field* — and he had been turning it over for twelve days and had not said one word about it to anybody, partly because he had been told not to and mostly because every answer he came up with sounded stupid the moment he tried it out in his own head.
+It had been sitting in him for twelve days like a stone in a pocket — *where does it go while I'm holding it, does it wait in the stone, does it follow you around the field* — and he had been turning it over for twelve days without saying one word about it to anybody. Partly because he had been told not to, and mostly because every answer he came up with sounded stupid the moment he tried it out in his own head.
 
 They were on a bare hillside above the road and Rook had him doing the thing he now did most evenings, which was standing about with the spike out while other people threw things at him.
 

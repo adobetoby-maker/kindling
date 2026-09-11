@@ -6,7 +6,7 @@ Toren's Ember had been cold for two days and then had come back, the way Rook sa
 
 Wyck's arm was bad. It knitted the way Rook had said it would, ugly, along a line from the elbow to the wrist, and he could not close the fingers properly for a week and he did not once say so out loud and Rook made him say it out loud twice a day anyway, at the same times, like a toll.
 
-Dessa was off the stick by the seventeenth day. She limped. She would go on limping. She had worked out how to walk a quarter of a mile at the cart's pace without her face doing anything, and had started walking the last quarter of every day's march instead of riding it, and Rook had watched her do it for three days and then simply started putting her on the head of the mule, which was the job she had done all the way from Sallow Creek, and nobody said anything about it and everybody understood that something had been given back.
+Dessa was off the stick by the seventeenth day. She limped. She would go on limping. She had worked out how to walk a quarter of a mile at the cart's pace without her face doing anything, and had started walking the last quarter of every day's march instead of riding it. Rook had watched her do it for three days and then simply started putting her on the head of the mule, which was the job she had done all the way from Sallow Creek — and nobody said anything about it, and everybody understood that something had been given back.
 
 She sat on a bank every evening. She had not done it again.
 
@@ -18,7 +18,7 @@ It was a fuel relay from the old days: three steel tanks the size of houses, set
 
 It had burned in the spring.
 
-Not all of it. That was the first strange thing. The hut had gone entirely and the gantry had gone and the gate had gone, and two of the tanks were scorched black up one side and the third was not touched at all, and the rain had been getting into it for four months and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
+Not all of it. That was the first strange thing. The hut had gone entirely and the gantry had gone and the gate had gone, and two of the tanks were scorched black up one side and the third was not touched at all. The rain had been getting into it for four months, and there was a smell coming off the whole yard of wet ash and old fire that was different from the smell Rook lifted out of road seams with two fingers, and Toren's back teeth did not hum at any of it.
 
 "Riftspawn don't burn things," Dessa said.
 

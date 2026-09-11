@@ -126,7 +126,7 @@ So he changed the arithmetic.
 
 He did not look at Rook when he said it, because he knew that if he looked at Rook he wouldn't get through it.
 
-"Two days ago in the Coldwater cut we got hit by husks. Forty of them. Fifty. Nobody counted, there wasn't time. There were eight of us and we lost three and we'd have lost all eight, and then that man came down the rock face and shut the road." He put his hand flat on the table. "He *shut the road*, ma'am. Wall to rail. He put his hand down on the road bed and nothing came through it and he held it there with thirty of them stacked against it while we got a cart up the road, and I watched him do it, and so did all three of them, and you can ask them separately if you think I'm lying."
+"Two days ago in the Coldwater cut we got hit by husks. Forty of them. Fifty. Nobody counted, there wasn't time. There were eight of us and we lost three and we'd have lost all eight, and then that man came down the rock face and shut the road." He put his hand flat on the table. "He *shut the road*, ma'am. Wall to rail. He put his hand down on the road bed and nothing came through it, and he held it there with thirty of them stacked against it while we got a cart up the road. I watched him do it, and so did all three of them, and you can ask them separately if you think I'm lying."
 
 Nell Quill's finger had come off the column of the book.
 
@@ -194,7 +194,7 @@ Nell Quill looked at him for a long moment, and then she closed the book, which 
 
 ---
 
-She sold them a wheel at cost, and a sack of milled corn, and four days of dried fish, and she let Senna have the yard-shed for two nights on the promise of it rather than the coin, and she did not once say *I told you so*, which Toren thought about for a long time afterward as a thing a person could choose not to say.
+She sold them a wheel at cost, a sack of milled corn, and four days of dried fish, and she let Senna have the yard-shed for two nights on the promise of it rather than the coin. She did not once say *I told you so* — which Toren thought about for a long time afterward, as a thing a person could choose not to say.
 
 She caught his sleeve at the gate. "Lad."
 

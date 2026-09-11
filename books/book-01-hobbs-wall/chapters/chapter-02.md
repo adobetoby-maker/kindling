@@ -64,7 +64,7 @@ He didn't decide anything. His left arm went up because arms do that, and he got
 
 And the Ember in his right fist went hot.
 
-Not warm. Hot, and long, and it came out of the bottom of his hand in a shape he had not asked for — not a blade, nothing like a blade, a crooked spike about the length of his forearm with a bad thick heel to it — and because his right arm was already swinging in blind panic, the spike went into the husk under the arm and out the other side and the thing came apart on it like wet paper.
+Not warm. Hot, and long. It came out of the bottom of his hand in a shape he had not asked for — not a blade, nothing like a blade, a crooked spike about the length of his forearm with a bad thick heel to it. Because his right arm was already swinging in blind panic, the spike went into the husk under the arm and out the other side, and the thing came apart on it like wet paper.
 
 It fell off him. He lay there. The spike was still out.
 
@@ -118,7 +118,7 @@ He set it down on the road, upright against the guardrail, the way you set a too
 
 He was a hired man. He had been with them twelve days. Toren had exchanged perhaps forty words with him in that time and about thirty of them had been about the weather.
 
-The husks came around Marta's wall on both sides, the way water comes around a stone, and Bram Sark went into them with a hand axe, and he was good, he was *good*, he put down four of them in the first ten seconds with short economical strokes like a man splitting kindling, and the fifth one got his arm and the sixth got his leg and he went down in the middle of the road and the rest went over him the way they went over the guardrail, without any pause at all.
+The husks came around Marta's wall on both sides, the way water comes around a stone, and Bram Sark went into them with a hand axe. He was good, he was *good* — he put down four of them in the first ten seconds with short economical strokes like a man splitting kindling. Then the fifth one got his arm and the sixth got his leg, and he went down in the middle of the road, and the rest went over him the way they went over the guardrail, without any pause at all.
 
 Dessa screamed. Not a word. Just the sound.
 

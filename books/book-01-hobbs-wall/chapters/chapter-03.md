@@ -46,7 +46,7 @@ It came down the cut ahead of them: a series of hard flat cracks, spaced, like a
 
 He did not fall. That was the first wrong thing.
 
-He came down the face in three long strides, and each one hit the rock and pushed off it, and the pushing off made the flat cracking sound, and there was something on his legs — struts, a frame, thin bright lines of it running down the outside of each thigh and shin like a splint made of light — and he crossed the last thirty feet of open air in a single flat leap and landed in the middle of the road with his knees bent, square in the middle of the ones that had spilled past Garrick out of the bend and were coming down on the cart.
+He came down the face in three long strides, and each one hit the rock and pushed off it, and the pushing off made the flat cracking sound. There was something on his legs — struts, a frame, thin bright lines of it running down the outside of each thigh and shin like a splint made of light. He crossed the last thirty feet of open air in a single flat leap and landed in the middle of the road with his knees bent, square in the middle of the ones that had spilled past Garrick out of the bend and were coming down on the cart.
 
 And there was a blade in his right hand.
 
@@ -180,7 +180,7 @@ They came at the man's line until there were no more of them coming, and he took
 
 The bodies went to dust.
 
-Toren had heard about that. Everybody had heard about that — it was the one thing every story about Riftspawn agreed on, that they did not leave bodies. Seeing it was different: the husks sagged where they lay and lost their edges and came apart into a fine drifting grey that did not blow away, that pooled and ran down the camber of the road like water finding a low place, and where enough of it collected it thickened into something with a shine on it, a slow slick of it in the seams of the old road bed, and it made Toren's back teeth hum the same way the wall had.
+Toren had heard about that. Everybody had heard about that — it was the one thing every story about Riftspawn agreed on, that they did not leave bodies. Seeing it was different: the husks sagged where they lay and lost their edges and came apart into a fine drifting grey that did not blow away, that pooled and ran down the camber of the road like water finding a low place. Where enough of it collected it thickened into something with a shine on it, a slow slick of it in the seams of the old road bed, and it made Toren's back teeth hum the same way the wall had.
 
 The man walked back down the line of it with a flat tin flask and crouched at each of the good seams and drew it up into the flask with two fingers, unhurried, the way you'd skim cream.
 

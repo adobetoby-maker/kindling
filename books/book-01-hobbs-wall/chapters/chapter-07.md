@@ -60,7 +60,7 @@ Toren said, "Line across the mouth of the lane, cart behind us, Milo up on the l
 
 "The bridge went great," said Wyck.
 
-It was not said hotly. It was said in the flat, even, reasonable voice he had been using since the parapet, and it went into Toren like a splinter going in sideways, and there was nothing at all to take hold of in it, because it was true.
+It was not said hotly. It was said in the flat, even, reasonable voice he had been using since the parapet, and it went into Toren like a splinter going in sideways. There was nothing at all to take hold of in it, because it was true.
 
 Milo looked at the ground. Dessa said, "Wyck," and Wyck said, "What? It did," and shrugged, and went and stood on the left of the lane mouth without being told, which was where he was supposed to be.
 
@@ -212,7 +212,7 @@ The twelfth time it held for a quarter of an hour, and Toren could not have said
 
 ---
 
-Dessa's leg was worse in the evenings. That was the pattern. It was fine by lunch and then the afternoon in the cart stiffened it and by dusk she could not put weight through the calf at all without her whole face changing, and she had worked out a way of going up onto her toe on that side and pushing off the stick that let her cross a camp without it showing, provided the light was bad and nobody watched her do it twice.
+Dessa's leg was worse in the evenings. That was the pattern. It was fine by lunch, and then the afternoon in the cart stiffened it, and by dusk she could not put weight through the calf at all without her whole face changing. She had worked out a way of going up onto her toe on that side and pushing off the stick that let her cross a camp without it showing, provided the light was bad and nobody watched her do it twice.
 
 Toren watched her do it twice.
 

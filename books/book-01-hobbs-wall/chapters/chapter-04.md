@@ -2,11 +2,11 @@
 
 His father was already dead when Toren got to him.
 
-He had spent the whole walk around the bend deciding what he would say, and the deciding had been the only thing holding him upright, and then he came round the rock and there was nothing to say anything to. Garrick Voss was sitting with his back against the rock face where he had put it at the start, and the brush axe was across his knees, and his eyes were open and looking at the far wall of the cut with mild interest, as though somebody had just told him a price he was considering.
+He had spent the whole walk around the bend deciding what he would say, and the deciding had been the only thing holding him upright, and then he came round the rock and there was nothing to say anything to. Garrick Voss was sitting with his back against the rock face where he had put it at the start, the brush axe across his knees. His eyes were open, looking at the far wall of the cut with mild interest, as though somebody had just told him a price he was considering.
 
 Toren stood there for a while.
 
-He wanted, badly, to have been given something. A sentence. A hand on the neck. Even a look. He was thirteen and he had not yet learned that this is what everyone wants and that almost nobody gets it, and that the last real thing his father had said to him had already happened, in a road cut, at a run, with the world coming apart: *keep the ugly shape, stop trying to be good at it.*
+He wanted, badly, to have been given something. A sentence. A hand on the neck. Even a look. He was thirteen and he had not yet learned that this is what everyone wants, and that almost nobody gets it. The last real thing his father had said to him had already happened, in a road cut, at a run, with the world coming apart: *keep the ugly shape, stop trying to be good at it.*
 
 He would take that out and look at it about four thousand times over the next year.
 
