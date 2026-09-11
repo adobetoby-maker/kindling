@@ -114,7 +114,7 @@ The rest broke off the road and went for the bank, for the high grass, for the t
 
 Nothing came out of his hand. That was what Toren's eye insisted on, and his eye was wrong. The *air* changed. Fifty feet of hillside went hard and thick and wrong, the grass all leaning at once as if a wind had come from directly above it, and the things on the slope stopped as though they had run into a wall that had always been there.
 
-It lasted about three seconds. Toren counted them without meaning to.
+It lasted about three seconds.
 
 In the third second the man's arm began to shake.
 
@@ -170,7 +170,7 @@ Toren couldn't make words.
 
 "Nine," Toren said. "Eight. Nine with — the guide. Odo."
 
-The man's eyes went up the hill, where Dessa was coming down through the grass with Milo behind her and Wyck behind Milo, all three of them moving like people underwater. He counted them. Toren watched him do it. He watched the man's mouth move very slightly, counting, and then stop.
+The man's eyes went up the hill, where Dessa was coming down through the grass with Milo behind her and Wyck behind Milo, all three of them moving like people underwater. He counted them, watching them come down through the grass, and then stopped.
 
 "That's four of you," the man said.
 

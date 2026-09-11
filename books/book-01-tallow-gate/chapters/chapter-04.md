@@ -36,7 +36,7 @@ Rook put one hand flat on the road, in the ash.
 
 Toren saw it happen and never once, in all the months after, worked out what he had actually seen. The drift under the man's palm went dim. Not scattered — *dim*, the crawling light in it dulling out from his hand in a slow spreading circle a foot across, and everything that had been in it going somewhere, and the somewhere was Rook's arm. And then his other hand, the one on Senna's shin, got faintly warm-looking around the edges the way air over a fire does, and Senna Voss said one flat syllable through her teeth and gripped the road with both hands.
 
-It took a long time. Toren counted at first and stopped somewhere past four hundred. The ash under Rook's left hand went from grey to a colorless nothing that the wind, finally, picked up and took.
+It took a long time. The ash under Rook's left hand went from grey to a colorless nothing that the wind, finally, picked up and took.
 
 "That's the ends together," Rook said, sitting back. "The rest is you and it's going to take six weeks and it's going to hurt every day of it. Do you understand me?"
 
