@@ -80,7 +80,7 @@ He looked at Rook.
 
 Rook had picked up the pen. He was holding it the way you hold a tool you have used ten thousand times, loosely, between two fingers, and he was looking at the ruled line, and his hand was perfectly steady, and he did not move.
 
-Ten seconds. Toren counted them, because counting was the only thing he had.
+Ten seconds. Toren counted them.
 
 "No," Rook said.
 
@@ -108,7 +108,7 @@ They got in a line.
 
 "Tanner. Ember out."
 
-Wyck lit it. Three feet of white, clean, steady, and he held it, and Toren watched him hold it and knew he was counting under his breath — and Wyck got past forty and kept going, jaw locked, and got to somewhere around fifty-five before the light guttered and he shook his hand out.
+Wyck lit it. Three feet of white, clean, steady, and he held it, and Toren watched him hold it — and Wyck got past forty and kept going, jaw locked, and got to somewhere around fifty-five before the light guttered and he shook his hand out.
 
 "That's good," said Rook.
 

@@ -96,7 +96,7 @@ He had been doing the loose thing for three days on Rook's orders, over and over
 
 It stayed. He put it through the thing's foreleg fold and the creature came apart and the light was *still there*, burning steady out of the end of the shaft, twelve inches of it, and he had time to see it and to feel the enormous stupid joy of it go through him from his heels up.
 
-Eight seconds. He knew because he counted, and he counted because Wyck counted, and he had been listening to Wyck count for three days.
+Eight seconds. Longer than he'd ever held it before.
 
 Then it guttered and went out and he nearly fell over.
 

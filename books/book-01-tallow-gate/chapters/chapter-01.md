@@ -44,7 +44,7 @@ And Wyck Tanner was up on the concrete, twenty feet above the fire, sitting on t
 
 Wyck did not come down from there.
 
-He was fifteen. He had been Kindled two years, and he had an Ember, and he was, on the strength of those two facts, the most important person in the traveling party as far as Wyck Tanner was concerned. Toren had watched him work it that morning while the others were breaking camp: standing off in the wet grass with the thing lit in his fist, running it out into a blade as long as his arm and holding it, holding it, holding it, jaw set, until the light guttered and he had to shake his hand out. Forty seconds. He'd counted under his breath and Toren had heard him counting.
+He was fifteen. He had been Kindled two years, and he had an Ember, and he was, on the strength of those two facts, the most important person in the traveling party as far as Wyck Tanner was concerned. Toren had watched him work it that morning while the others were breaking camp: standing off in the wet grass with the thing lit in his fist, running it out into a blade as long as his arm and holding it, holding it, holding it, jaw set, until the light guttered and he had to shake his hand out. Forty seconds, and then nothing.
 
 "He's going to fall off there," Dessa said, arriving at Toren's elbow with the tin of apple.
 
