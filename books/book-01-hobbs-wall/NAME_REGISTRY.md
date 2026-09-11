@@ -52,6 +52,9 @@ Kes-of-Nine, Adeyemi) — no collisions.
 | Heartfire | Soul-bond phenomenon | `CANON` |
 | Riftspawn | Wormhole creatures; dissolve into magic reserves on defeat | `CANON` |
 | a Reading | The formal diagnostic self-assessment practice; see `CANON.md` | `POSSIBLE` |
+| Ward | Magic's native domain: defense/shields (Marta's wall, Rook's "shut the road") | `CANON` |
+| Sustain | Magic's other native domain: healing and sensing | `CANON` |
+| Resilience | Disciplined cultivation's native domain: a body that doesn't move when struck (Wyck's third-door ability, Ch. 10) | `CANON` |
 | Kindled · Ember · Flame · Fire · Torch · Blaze · Glory | The rank ladder for people, owner-directed; see `CANON.md`, Rank — the flame ladder | `CANON` |
 | Handful · Flask · Barrel · Well | The Yield ladder for Riftspawn threat/ash grading; see `CANON.md`, Yield | `POSSIBLE` |
 | a Breach | This series' Barrel-tier apex Riftspawn, reserved for Movement 6 | `POSSIBLE` |

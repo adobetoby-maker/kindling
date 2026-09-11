@@ -89,7 +89,7 @@ more legitimate; that refusal to pick a side is itself part of the lesson.
 The soul-bond phenomenon between two people, indifferent to which door either reaches
 power through. Not chosen — recognized. Rook and Vera's bond (see Homura, below).
 
-## The Ember (`CANON`)
+## The Ember (`CANON`, expanded this pass — growing arsenal, owner-directed)
 
 Personal conduit artifact granted at Kindling. Two configurations, never both at once
 below unbound mastery:
@@ -99,10 +99,57 @@ below unbound mastery:
 - **Stride** — transport extension; reinforced limb-struts or a light frame for burst
   speed, hard leaps, a short glide.
 
-Magic is the party's primary answer for sustain (healing, sensing, wards) — the gap
-the Ember's two hard-edged configurations don't cover. Unbound mastery means holding
-or blending both configurations at once — the clearest visible proof a person has
-internalized the Path rather than performed competence with a device.
+**Edge's shape-repertoire is rank-gated, not a menu open from day one.** This closes
+a gap the manuscript already implied (why Rook keeps telling Toren to "keep the ugly
+shape, stop trying to be good at it") without changing a line of locked prose:
+
+| Rank | What Edge can hold |
+|---|---|
+| Kindled / Ember | One shape, usually whatever the user's instinct reaches for under real pressure rather than one they've chosen — the "ugly," unrefined default. Trying to hold something more deliberate before this is earned is exactly what puts it out. |
+| Flame / Fire | One *chosen*, refined shape becomes reliable and can be re-summoned with confidence — the difference between a shape happening to you and a shape you've picked. |
+| Torch | The single-door ceiling of Edge mastery: multiple distinct shapes held and switched between at will (blade, spear-point, twin knives) — full command of one door's weapon repertoire, and as far as that repertoire alone ever goes. |
+
+Unbound mastery (Blaze and up) does not add more Edge shapes on top of Torch's
+repertoire — it adds *other doors' domains entirely*, which is a different kind of
+growth. See below.
+
+## Three doors, three native domains (`CANON`, new this pass)
+
+Each of the Kindling's three doors has its own native expression, matching what
+the manuscript has already shown on the page rather than inventing new mechanics:
+
+- **The Ember's domain: Edge (offense) and Stride (mobility).** Established above.
+- **Magic's domain: Ward (defense) and Sustain (healing, sensing).** This is
+  Marta Faust's wall in Ch. 2, and it is what Rook does at the pinch in Ch. 3 when
+  Toren recognizes it as "Marta's thing" — a shield/barrier effect, not a weapon
+  and not speed. Also covers the healing arts already established (topping up
+  another person's soul from outside).
+- **Disciplined cultivation's domain: Resilience.** Not a shape and not a shield —
+  a body that has decided, over years, not to be moved. This is exactly Wyck's
+  third-door manifestation in Ch. 10 ("two of them hit you at full run and you're
+  standing where you were standing"), now given its formal name.
+
+**A single-door practitioner only ever has their own door's domain(s).** This is
+why the found-family group needs each other — an Ember-only fighter genuinely
+cannot ward, the way Marta could and Toren can't. It is *not* a gap in the Ember;
+it is the reason competence is distributed across people rather than concentrated
+in one.
+
+**Opening a second door (the graduated Blaze structure, above) means gaining access
+to that door's native domain too, blended with what you already had — not a new
+tier of your original door's power, a genuinely different kind of ability.** This
+is what "more than a stride and a sword" actually means as a person grows: the
+arsenal widens by doors opening, not by one door's menu getting longer forever.
+
+**Rook, worked example:** born magic-tradition (Lowry Bend, a hand-mending village
+whose trade is exactly the Ward domain — see Homura below), and learned Ember at
+the station through Vera. He is therefore at minimum a confirmed **two-door Blaze**: Edge and
+Stride natively from the Ember, Ward natively from the door he was born to — which
+is exactly why Ch. 3's "shut the road" reads as the same kind of thing Marta's
+wall was, and why he can blend Edge, Stride, *and* Ward in the same fight without
+it being unbound's outer ceiling. Whether he has ever opened the third door
+(Resilience) is not yet established and does not need to be — it stays open for a
+later book.
 
 ## Riftspawn — what they are, and why their ash refills a soul (`CANON`, deepened
 this pass, owner-directed)
@@ -290,10 +337,11 @@ limited to reaching only through the three traditions anyone's named, able to re
 for whatever a moment actually requires. This carries the same duration/control-
 vs-breadth split already established for the single-door rungs one level higher,
 and it leaves real, visible room for a Blaze-rank character to keep growing on the
-page rather than the rank reading as a ceiling. Rook is Blaze; exactly where he
-sits within it (two doors, three, or reaching past the known three already) is a
-question his own account of himself can answer on the page rather than this
-document deciding it in advance.
+page rather than the rank reading as a ceiling. See "Three doors, three native
+domains," above, for what a door actually grants once it's open — Rook is now
+confirmed (Ch. 3, Ch. 17) as at minimum a two-door Blaze (Ember + his native
+magic-tradition), with the third door and full unbound both still open questions
+for a later book.
 
 **The Reading** stays as the formal, rare Homura-tradition diagnostic — a
 deliberate, felt self-assessment used for precision or dispute, expressed as a
