@@ -60,19 +60,25 @@ confirmation of the items marked new below.
   |---|---|---|---|---|---|---|
   | **Husks** | Handful | Low individual threat, swarm in numbers, attack on sight, no real tactics | None — they're the baseline, not the trap | Fall fast to any solid hit; the danger is volume, not skill | Attrition — stamina and concentration, not injury | Movement 1, ambush (Ch. 2–3) |
   | **Verge-hounds** | Flask | Pack hunters; feint stillness before committing through the quietest flank, not the loudest one | A trainee reads stillness as disengagement or hesitation — it is actually the wind-up | Committed to one flank once they move; a called flank can be countered if named before contact | Real injury if the feint is misread; the pack does not stop because one hound is down | Movement 1, Ch. 6 skirmish (the fair false read Rook corrects only in debrief) |
-  | **A Breach** | Barrel | Solitary apex threat — the book's first double echo: it carries something like an Edge (a limb that holds a crude, involuntary blade-shape under stress) *and* something like a Stride (bursts of speed no body its size should have) at once, uncoordinated and feral, the way Husks and Verge-hounds each echo only one worked-power expression | The blend is real but unowned — it doesn't choose between the two the way a person does, so it telegraphs which one is about to fire in the instant before it commits | No clean weakness invented ahead of need — Movement 6 is where it's earned on the page | A structural rhyme, not an accident: a Breach embodies in raw, chaotic, soulless form the exact capability (blending Edge and Stride) Toren is about to prove he can do on purpose | Movement 6 |
+  | **Stilts** | Flask (and a half, per Hobb's Wall trade custom) | Stride-echo: nothing in them has to gather before moving, so stopped and going flat out are the same state with no instant in between — they travel in dead-straight lines and must stop, exposed, to choose a new one | Reading a stop as a wind-up (learned correctly from Verge-hounds) when it's actually just the choosing-pause — the *tell* is right, the *timing model* transfers wrong under real pressure | Anywhere with a clear straight sightline is already the wrong place to stand; cover (trunks, corners) forces the stop | Devastating if caught in the open on a line; the four-second choosing-pause is the only exploitable window | Movement 2, Ch. 9–10 (invented by the Light author within stated freedom, echo principle applied correctly — folded into canon here) |
+  | **A Breach** | Barrel | Solitary apex threat — the book's first double echo: it carries something like an Edge (a limb that holds a crude, involuntary blade-shape under stress) *and* something like a Stride (bursts of speed no body its size should have) at once, uncoordinated and feral, the way other types each echo only one worked-power expression | The blend is real but unowned — it doesn't choose between the two the way a person does, so it telegraphs which one is about to fire in the instant before it commits | No clean weakness invented ahead of need — Movement 6 is where it's earned on the page | A structural rhyme, not an accident: a Breach embodies in raw, chaotic, soulless form the exact capability (blending Edge and Stride) Toren is about to prove he can do on purpose | Movement 6 |
 
   Further Riftspawn types are freely inventable from Movement 2 onward, consistent
   with this table's tone (genuine physical threat, not video-game formality), and
   should be added to this table (with a Yield tier) once used so later chapters
   stay consistent. See `CANON.md`, Yield, for the full tier definitions.
 
-- **Rank reference (Book 1 cast, at Movement 1 open):** Garrick — Torch (thirty-one
-  years, single-door ceiling, dies at this rank). Rook — Blaze (unbound's
-  threshold). Toren, Wyck — Kindled moving toward Ember across Movement 1. Dessa —
-  Kindled to nothing (no working interface yet; her Movement 2 Satori touch is the
-  first crack in that). Milo — Kindled, functional but minor interface (a light
-  with no other use yet). No one in Book 1 reaches Blaze on the page except Rook;
+- **Rank reference (Book 1 cast):** Garrick — Torch (thirty-one years, single-door
+  ceiling, dies at this rank). Rook — Blaze (unbound's threshold). **Toren and
+  Wyck cross Kindled → Ember on the page in Movement 2** (Ch. 9 and Ch. 10
+  respectively — Toren via a warm, sustained spike on the canal towpath; Wyck via
+  the third door, disciplined internal cultivation, named explicitly by Rook and
+  back-dated to his tailgate stand in Ch. 3). Dessa — Kindled to nothing; her
+  Movement 2 Satori touch (via Rook's own Ember, Ch. 8) is a single, unrepeatable
+  four-second event, explicitly not a stabilized rank change — that payoff is
+  reserved for Movement 4's campfire. Milo — Kindled, functional but minor
+  interface (a light with no other use yet). No one in Book 1 reaches Blaze on the
+  page except Rook;
   Glory is HORIZON, not a Book 1 event for anyone.
 
 - **Cinder Company** — human antagonist, personally tied to Rook's grief, not to any
