@@ -77,8 +77,10 @@ confirmation of the items marked new below.
   Movement 2 Satori touch (via Rook's own Ember, Ch. 8) is a single, unrepeatable
   four-second event, explicitly not a stabilized rank change — that payoff is
   reserved for Movement 4's campfire. Milo — Kindled, functional but minor
-  interface (a light with no other use yet). No one in Book 1 reaches Blaze on the
-  page except Rook;
+  interface (a light with no other use yet). **Dessa's Ember rank stabilizes on
+  the page in Ch. 18**, confirmed via an on-page Reading — the Movement 2 spark
+  is no longer an isolated event. No one in Book 1 reaches Blaze on the page
+  except Rook;
   Glory is HORIZON, not a Book 1 event for anyone.
 
 - **Cinder Company** — human antagonist, personally tied to Rook's grief, not to any

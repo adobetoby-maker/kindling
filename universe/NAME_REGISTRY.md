@@ -31,6 +31,10 @@ Kes-of-Nine, Adeyemi) — no collisions.
 | **Cinder Company** | Antagonist band | `CANON` |
 | **Meridian** | Destination; hardened medical-tech enclave | `CANON` |
 | **Homura** | Destroyed research facility | `CANON` (locked) |
+| **Lowry Bend** | Rook's home village, hand-tradition (magic), no Ember history | `CANON` (locked, Ch. 17) |
+| **Orrin Vell** | Homura's lead researcher | `CANON` (locked, Ch. 17) |
+| **Dee Wren** | Homura survivor Rook walked to safety; not otherwise active in Book 1 | `CANON` (locked, Ch. 17) |
+| **Ander Croft** | Second confirmed pre-Dessa Satori case; died at Homura, age 11 | `CANON` (locked, Ch. 17) |
 
 ## Terms
 

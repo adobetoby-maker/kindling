@@ -163,28 +163,78 @@ Rook moves easily between tech-, magic-, and Ember-dominant regions — a demons
 expression of the Path: not loyal to one interface, so no region reads him as an
 outsider on that basis.
 
-## Homura and Vera — `RESERVED`, do not reveal before Movement 4 (`CANON`)
+## Homura and Vera — released at Movement 4's campfire (Ch. 17), `CANON`, now
+locked in full detail
 
-Rook — born to a magic-tradition family — was recruited as a test subject at Homura,
-a research site studying the awakened brain across every tradition without
-prejudice. He was promised protection and medical resources for his home village.
-There he met Vera Kess, an Ember-tradition subject from a Japanese-descended clan
-that carried its traditions (including the word "Satori") into the post-collapse
-world. They caught Heartfire. Loving her, not the instruments, is what first showed
-Rook the two traditions were one thing wearing two coats. The Ember he now carries
-and teaches with is hers.
+**Rook's home:** Lowry Bend, ~400 miles south-east of the Hobb's Wall region — a
+hand-tradition (magic) village with no stone-tradition (Ember) history at all.
+His mother's hand-mending trade was the village's whole model of power; Rook
+himself was doorless for eleven months after his own Kindling at thirteen before
+anything worked.
 
-Homura's findings — every tradition draws on the same force, provable in brain
-scans — could have ended the split world's mutual suspicion. It never reached anyone.
-Working default: Cinder Company was hired to hit the station (by whoever benefits
-from the fracture staying open — deliberately open, a Book 2+ question). Vera died
-there. Rook survived. Later, Cinder Company's friendly fire during a defense action
-killed his home-village family too — he did not realize until much later it was the
-same company that had already taken Vera and buried the research.
+**Homura:** a research valley built deliberately at a fracture (a place of
+constant tearing/wormhole activity), ~200 miles north of Lowry Bend. Run by
+**Orrin Vell** (five foot nothing, universally feared, the station's lead
+researcher). About sixty people, forty of them subject-children pulled from nine
+different traditions on purpose, paired cross-tradition for every test so no one
+could hide inside their own door's assumptions. Paid subjects' families in kind
+(a doctor twice a year, medicine, a standing debt) rather than coin — this is how
+Rook was recruited at fourteen, to buy his mother medical care she never actually
+lived to use much of.
+
+**Vera Kess**, fifteen, stone-tradition (Ember), eight generations of a clan that
+had kept more of its original vocabulary than most — including the word
+"Satori." She and Rook despised each other for roughly a year (his hand-
+tradition vs. her stone-tradition, the oldest argument in the world, re-fought
+in miniature). It broke when she was badly hurt defending two younger children
+from a Riftspawn incursion into the valley and there was no healer among the
+station's own children young enough to help her — Rook sat outside her sickroom
+for nine hours and stopped being able to locate the argument at all. She gave
+him the word "Satori" in that same conversation — her own realization had come
+a year earlier, alone, unbelieved.
+
+**The findings:** four years of matched instrument readings across nine
+traditions, converging on identical patterns regardless of door — the actual,
+provable end of the tradition/door argument, two years from being published
+Compact-wide when the station was destroyed.
+
+**The attack:** Cinder Company came over the wire on the night of the eleventh
+of the ninth month (a fixed in-world date, usable for future continuity),
+organized and deliberate, not a Riftspawn-style rush — took the gate first to
+prevent escape, not entry. They came for the records specifically, not simply to
+kill; Rook has never found the second copy or learned who commissioned the
+destruction (deliberately open, a Book 2+ question). Vera held a doorway shape
+for eleven children for as long as she could and died there, spending her last
+minutes making Rook promise to save the papers — a promise he could not keep.
+Eleven of sixty escaped over the west wire; nine were children, including a girl
+named **Dee Wren**, whom Rook personally walked to safety over two months. A boy
+named **Ander Croft**, eleven, is the only other confirmed Satori case before
+Dessa — died the same night as everyone else.
+
+**The Ember Rook carries is Vera's** — recovered off the floor of the room where
+she died, carried every day since, "cut for a fifteen-year-old girl with small
+hands." He has never told anyone this in eleven years.
+
+**The lane:** two years of grief-numbed withdrawal at Lowry Bend after Homura,
+ended when the same or an affiliated Cinder Company crew, hired as village
+defense against a fracture incursion, killed Rook's mother and both brothers
+through friendly fire in the dark. The company paid compensation and claimed the
+responsible man was "put off the books." Rook did not connect this to Homura for
+six years — the two griefs were "two entirely separate holes" until a bootmaker
+selling salvaged company pay-chits turned one over in front of him five years
+ago and they became one hole. He has spent six years since hunting the company
+(eleven chits bought as tracking/trade currency, four remaining), finding their
+camp cold twice before the current pursuit.
 
 **Why this changes the revenge arc:** killing Cinder Company avenges the people.
 Teaching the Path — finishing, in a living student, what Homura's paperwork never
-got to say — avenges what they actually destroyed.
+got to say — avenges what they actually destroyed. Rook names this explicitly at
+the Ch. 17 campfire as the reason he began teaching the clan on purpose, the
+morning after Dessa's Movement 2 Satori spark: a second, slower way of answering
+for Homura that doesn't require the killing to matter.
+
+**Rook's real name stays reserved** — promised to Wyck specifically, first,
+when Cinder Company is settled (Movement 5).
 
 ## Rank — the flame ladder (`CANON`, owner-directed — supersedes the earlier
 generic "Kindled → trained → unbound" placeholder)
