@@ -210,6 +210,29 @@ Rook moves easily between tech-, magic-, and Ember-dominant regions — a demons
 expression of the Path: not loyal to one interface, so no region reads him as an
 outsider on that basis.
 
+**A failing filter (`POSSIBLE`, owner-directed, adopted from the parallel run
+— unconfirmed in-world theory, not authorial fact).** Homura-era theorists
+suspected the 2080 detonations did not only cause the EMP and tech collapse
+already established — they may have damaged something underneath the world
+that other series in the shared cosmology would call a filter on the Source.
+On this theory, the Mars disk's activation and the wormholes were not an
+independent, coincidental trigger — they were a *consequence* of that damage,
+the door opening because something holding it shut had already cracked.
+**This is one-directional and ongoing, not a single event: the filter keeps
+failing, magic-saturated territory keeps expanding at tech-zones' expense, and
+Well-tier collapses (see Yield, above) are its leading edge, not independent
+capstone disasters — expect them to recur across the series at escalating
+severity.** This reframes any future "unite the fractured world" arc as a race
+against a real deadline, not a one-time political achievement. It also gives
+an in-world reason (never stated as confirmed) for two things that would
+otherwise read as unearned creep across a long series: later generations of
+Kindled sometimes reaching further, faster, than earlier ones under
+comparable training; and Riftspawn types diversifying and growing larger
+across decades rather than holding to a fixed bestiary. Both are the same
+door sitting more open over time. Held at the same epistemic register as the
+Riftspawn-echo theory above — a working suspicion, not a fact the text ever
+confirms.
+
 ## Homura and Vera — released at Movement 4's campfire (Ch. 17), `CANON`, now
 locked in full detail
 

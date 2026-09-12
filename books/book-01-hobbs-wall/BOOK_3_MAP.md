@@ -63,7 +63,13 @@ second one turns out to be.
   likely to produce feral echoes of *combined* worked-power expressions at a
   scale Book 1's single Breach never approached. Specific creature/phenomenon
   design deferred to closer drafting — freely inventable within the existing
-  Yield/echo framework.
+  Yield/echo framework. **Per the failing-filter theory (`CANON.md`), this
+  should not be staged as a freak, isolated disaster — someone in-world (a
+  Homura-adjacent theorist, an old record, Rook himself) should be able to
+  say, correctly if unprovably, that this is the leading edge of a trend, not
+  a capstone.** That reframing is what should make institutions finally take
+  joint structure seriously — a one-off can be weathered separately; a trend
+  can't.
 - **Cinder Company's remnant**, reformed off-page since Book 2, intersects
   this book's crisis in a way that is edition-specific — may be caught in the
   collapse zone themselves, may attempt to exploit the chaos, may simply be
