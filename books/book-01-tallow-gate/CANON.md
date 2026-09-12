@@ -273,6 +273,37 @@ of a full-speed glide, for instance — which is the single clearest, most visib
 in a fight that someone has actually internalized the Path rather than just
 performing competence with a device.
 
+**Edge's shape-repertoire is rank-gated, not open from day one (`OWNER`, adopted
+from the parallel Hobb's Wall draft — kept identical by agreement, since this is
+part of the shared doors/Blaze framework).** A person doesn't earn access to
+every blade shape at once just by reaching Ember:
+
+- **Ember** — one instinctive shape, whatever the mind reaches for under real
+  pressure the first time, not chosen deliberately.
+- **Flame / Fire** — one *chosen* shape, made reliable through repetition —
+  Rook's coaching pattern of telling a student to keep an "ugly" shape rather
+  than switch is exactly this: reliability at this stage beats range.
+- **Torch** — the full held-and-switched repertoire (blade, spear-point,
+  twin-blades) becomes available, switchable mid-engagement. This is the
+  single-door ceiling's actual content, not just "more power" — Torch is where
+  versatility, not just strength, becomes possible.
+
+**Each of the three doors has a named native domain (`OWNER`, adopted, same
+source).** Opening a second door doesn't hand a person a second, separate
+skillset — it blends that door's domain into the practitioner's own, which is
+the real mechanism of growth past a single door's Torch ceiling, not an
+ever-longer menu bolted onto the first door:
+
+- **The Ember's domain: Edge + Stride** — offense and transport.
+- **Magic's domain: Ward + Sustain** — defense and restoration (healing,
+  shielding, sensing falls under Sustain's broader reach).
+- **Disciplined cultivation's domain: Resilience** — endurance, recovery,
+  the body and soul's own capacity to keep taking the work.
+
+A two-door Blaze draws on both domains at will, blended rather than switched
+between — this is what "holding both at once" (above) actually means
+mechanically, not just narratively.
+
 Magic, by contrast, is the party's primary answer for sustain — healing, sensing,
 wards — filling the gap the Ember's two hard-edged configurations don't cover.
 Combined, Ember and magic give a practitioner the full kit: offense, transportation,
@@ -437,13 +468,26 @@ not a retrofit onto Movement 1.
 world actually has — the Ember, the rift-granted magic tradition, and disciplined
 internal cultivation, all named under "The Kindling" above — give "more than one
 door" real graduated texture instead of a single leap from Torch straight into
-full unbound. A two-door Blaze draws on two of the three at will; a three-door
-Blaze has genuinely mastered all three known traditions; full unbound — any door
-needed — is the further step past even that, no longer limited to the three
-traditions anyone's named. This leaves real, visible room for a Blaze-rank
-character to keep growing on the page rather than the rank reading as a ceiling.
-Exactly where Rook sits within it is a question his own account of himself can
-answer on the page, not something this document decides in advance.
+full unbound. A two-door Blaze draws on two of the three at will (their two
+domains blended, per "The Ember" above — Edge+Stride merged with whichever of
+Ward+Sustain or Resilience the second door brings); a three-door Blaze has
+genuinely mastered all three known traditions and their domains; full
+unbound — any door needed — is the further step past even that, no longer
+limited to the three traditions anyone's named. This leaves real, visible room
+for a Blaze-rank character to keep growing on the page rather than the rank
+reading as a ceiling.
+
+**Rook is a confirmed two-door Blaze — Ember and magic (`OWNER`, locked, no
+retcon).** He tells Meridian's intake officer exactly this at Book 1's close
+("Ember and magic. Both," Ch. 27), and the magic-door ability has already been
+on the page since Movement 1: the ash-draw healing method, described since
+Chapter 4 as a way of drawing a defeated Riftspawn's residue up through a flat
+palm and redirecting it, distinct from and shown alongside his Ember-contact
+healing method. That ash-draw method is his door's native **Sustain** — the
+same unlabeled-until-now pattern the parallel Hobb's Wall draft used for its
+own Rook's Ch. 3 "shut the road" (now labeled Ward). Nothing about this
+requires touching locked manuscript prose; it only formalizes what was already
+shown.
 
 **What "immortality" actually means, mechanistically — the shedding (`OWNER`,
 adopted, deep-`HORIZON`).** Every rank transition happens in a change, not a

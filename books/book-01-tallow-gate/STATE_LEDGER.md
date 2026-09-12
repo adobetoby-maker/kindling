@@ -593,3 +593,34 @@ Kindled as a bound unit, the setter-line assessment decision (Dessa, 30 days),
 the blank company-name field (30 days), Senna's eighteen-month course
 in progress, Rook's choice not to pursue Cinder Company at Meridian, and the
 Hester Voss / Wealdon thread as the disk mystery's next fair thread to pull.
+
+---
+
+## POST-BOOK-1 CANON ADDITION — the doors/Blaze arsenal framework, owner-confirmed
+
+**Source:** proposed by the parallel Hobb's Wall session as a shared-mechanic
+formalization (part of the doors/Blaze framework both editions agreed to keep
+identical), relayed cross-session, adopted as-is on direct owner confirmation.
+No manuscript prose changed — this only formalizes `UNIVERSE_BIBLE.md`.
+
+**Edge's shape-repertoire is now rank-gated:** one instinctive shape at Ember,
+one chosen-and-reliable shape at Flame/Fire, the full held-and-switched
+repertoire (blade/spear/twin-blades) only at Torch. Explains, retroactively
+and without contradiction, Rook's established coaching pattern of telling a
+student to keep an "ugly" shape rather than switch (reliability over range at
+that stage).
+
+**Each of the three doors now has a named native domain, blended (not
+menu-added) on opening a second door:** Ember = Edge + Stride; magic = Ward +
+Sustain; disciplined cultivation = Resilience. This is now the book's actual
+mechanism for growth past a single door's Torch ceiling.
+
+**Rook confirmed as a two-door Blaze (Ember + magic), no retcon required.**
+His already-established ash-draw healing method (on the page since Ch. 4,
+described since Movement 1's close as distinct from his Ember-contact
+healing) is now formally his door's Sustain ability. This is directly
+supported by his own Ch. 27 intake statement, "Ember and magic. Both."
+
+Updated: `UNIVERSE_BIBLE.md` ("The Ember" and "The flame ladder" sections),
+`NAME_REGISTRY.md` (Ward/Sustain, Resilience added as terms), `CHARACTERS.md`
+(Rook's row). Pushed to the shared repo as `books/book-01-tallow-gate/CANON.md`.

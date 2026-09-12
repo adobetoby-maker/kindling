@@ -89,6 +89,8 @@ antagonist band — the dark mirror: what's left when the fire goes out).
 | **Handful / Flask / Barrel / Well** | The Yield grading scale — monsters only. Named by container, tied to how much reserve-ash a Riftspawn yields. See `UNIVERSE_BIBLE.md` "Yield" | `OWNER` — locked |
 | **Kindled → Ember → Flame → Fire → Torch → Blaze → Glory** | The flame ladder — fighter-grading scale, people only, separate from Yield. Retires the earlier numbered "Tier" system (collision risk with the disk's nine grooves). Matched deliberately to the identical scale in the parallel Hobb's Wall draft. See `UNIVERSE_BIBLE.md` "The flame ladder" | `OWNER` — locked |
 | **a Breach** | Barrel-grade Riftspawn tier — solitary apex threat, an echo of Rook's own ash-drawing heal turned feral (confirmed on-page Ch. 26). Deployed at the Drownings, closed by Toren's first Edge/Stride blend | `OWNER` — deployed, Ch. 26 |
+| **Ward / Sustain** | Magic-door's native domain (defense / restoration) — matched identically to the parallel Hobb's Wall draft. Rook's ash-draw healing (on-page since Ch. 4) is formally his Sustain ability, confirming him as a two-door Blaze | `OWNER` — locked, post-Book-1 canon addition |
+| **Resilience** | Disciplined-cultivation door's native domain (endurance/recovery) — not yet demonstrated on the page by any named character | `OWNER` — locked, undeployed |
 
 ## Retired
 
