@@ -31,22 +31,35 @@ about the power system is also an answer about what actually happened in 2080.
 
 | Book | Distinct promise | Character turn | Ending change | Status |
 |---|---|---|---|---|
-| 1 | Toren gets Senna to Meridian and becomes someone people follow; Rook chooses the clan over the kill | Led → leads (Toren); revenge-driven → chosen mentor (Rook) | Clan formed at real cost; Meridian's wariness opens Book 2 | `POSSIBLE` |
-| 2 | `HORIZON` — Meridian's institutional pressure on the Kindled | `OPEN` | `OPEN` | `HORIZON` |
-| 3 | `HORIZON` | `OPEN` | `OPEN` | `HORIZON` |
+| 1 | Toren gets Senna to Meridian and becomes someone people follow; Rook chooses the clan over the kill | Led → leads (Toren); revenge-driven → chosen mentor (Rook) | Clan formed at real cost; Meridian's wariness opens Book 2 | `CANON` — complete |
+| 2 | Community power tested against institutional power: can the clan's bonds extend to Kindled people who aren't theirs? | Chosen family → chosen responsibility (Rook and Toren both); Dessa's growth becomes visible past her own rank | Meridian's Kindled win a real but incomplete accord; Cinder Company's remnant re-forms elsewhere, opening Book 3's larger canvas | `POSSIBLE` |
+| 3 | World-altering power: a collapse-scale wormhole event forces tech/magic/Ember cultures into cooperation that has never happened before | Local leadership → regional legitimacy; the clan becomes a working model other zones borrow from, not just a found family | The immediate crisis is answered through unprecedented cross-tradition cooperation; the myth deepens (a surviving second copy of Homura's records is found, or its absence confirmed) | `POSSIBLE` |
+| 4 | Approaching the deep mystery without arriving: someone close to the clan nears real multi-door mastery and the Mother/Father myth stops being dismissible | Rook or another Blaze-rank character tested against a ceiling they haven't faced before | The myth is confirmed as *something*, not resolved as *everything*; series endpoint (Glory, the Makers) stays properly far off | `POSSIBLE` |
 
 ## NOW — current book
 
-Book 1, per `BOOK_MAP.md`.
+Book 1, per `BOOK_MAP.md`. Complete.
 
-## NEXT — following two books
+## NEXT — following two books (2 and 3)
 
-Silhouette only: Book 2 opens inside Meridian's suspicion of Kindled refugees; the
-Satori's myth advances by one more real, costly clue (not a full reveal); Rook's
-converted loyalty is tested by whatever the clan owes Meridian for Senna's treatment.
-Book 3 horizon entirely `OPEN`.
+See `BOOK_2_MAP.md` and `BOOK_3_MAP.md` for movement-level architecture. Book 2
+opens directly from Book 1's own planted hooks (the Director's office summons,
+Rook's four-season ash-lifting debt for Senna's residency, Cinder Company's
+remnant left alive and re-forming) rather than a time-skip past them. Book 3
+escalates from a single Breach (Book 1's apex threat) to a **Well-tier
+collapse event** — CANON.md's reserved collapse-scale Yield tier — large enough
+to force cooperation across tech-zone, magic-zone, and Ember-dominant regions
+for the first time. Both books are developed jointly with the Tallow Gate/Undern
+authoring session per the same shared-mechanics agreement as Book 1 — see each
+book map's own provenance note for what's shared vs. edition-specific.
 
-## HORIZON — later-book silhouettes
+## HORIZON — later-book silhouettes (Book 4 and beyond)
+
+See `BOOK_4_MAP.md` for Book 4's silhouette. Book 4 is where the Mother/Father
+myth (see `CANON.md`) first becomes impossible to dismiss as folklore for at
+least one point-of-view character — not resolved, not confirmed as literal
+cosmology, just no longer deniable. This is deliberately still short of the
+series endpoint below.
 
 The Dream-Covenant mechanism (`CONNECTIONS_BIBLE.md` Mechanism 1) is reserved for a
 later book at a genuinely high-pressure moment — not Book 1. Rook's private
@@ -78,26 +91,29 @@ is this series' distinct contribution to the shared cosmology.
 
 ## Character trajectories
 
-| Character | Current state | Direction | Next costly choice | Status |
+| Character | Current state (post–Book 1) | Direction | Next costly choice | Status |
 |---|---|---|---|---|
-| Toren | Un-Kindled, ordinary | Toward earned clan leadership | Whatever Meridian demands in exchange for Senna's treatment | `POSSIBLE` |
-| Rook | Solo, revenge-driven | Toward chosen family over vengeance | Living with having chosen the clan over the kill | `POSSIBLE` |
-| Dessa | Not yet Kindled-tested | Toward Rook's practical second, provable Path-training success ahead of Toren's own | Whether her earned reliability outpaces Toren's before the climax | `POSSIBLE` |
-| Wyck | Resents unearned authority around him | Toward earned loyalty, likely at ultimate cost | Whether the loyalty converts before or only through sacrifice | `POSSIBLE` |
+| Toren | Ember rank, one earned Edge+Stride blend proven under pressure; carries the disk and a records-office summons | Toward teaching others what Rook taught him — the first sign of becoming a mentor, not just a student | Whatever the Director's office actually wants from him and Rook, and what it costs to answer honestly | `POSSIBLE` |
+| Rook | Real name known (Elias Marsh); signed four seasons of ash-lifting for Senna's Meridian residency; Tull alive, company re-forming elsewhere | Chosen family tested against institutional debt and a threat he let live | Whether protecting *this* clan can coexist with standing up for Kindled people who aren't his | `POSSIBLE` |
+| Dessa | Ember rank confirmed via a Reading; Rook's practical second in fact, not just function | Toward visible leadership of her own, not just reliability | Whether she leads on her own initiative before Book 2 forces it | `POSSIBLE` |
+| Wyck | Ember rank; broken wrist/dead fingers healing; knows Rook's name, gave it space rather than demanding it | Toward using his hard-won standing to protect others the way it was never offered to him | Whether he extends the same patience to someone who hasn't earned it yet | `POSSIBLE` |
+| Senna | Alive at real cost — bound to Meridian, losing feeling in hands and feet | From cargo to institutional memory — she's seen more of the world than anyone left in the clan | What she does with the years she wasn't supposed to get | `POSSIBLE` |
 
 ## Relationship trajectories
 
-| Pair/group | Current state | Pressure | Intended movement | Status |
+| Pair/group | Current state (post–Book 1) | Pressure | Intended movement | Status |
 |---|---|---|---|---|
-| Toren / Rook | Not yet met | Reluctant guardian dynamic | Earned mutual trust by Book 1's end | `POSSIBLE` |
-| Toren / Wyck | Not yet met | Friction over unearned authority | Conversion to loyalty, possibly through sacrifice | `POSSIBLE` |
-| Rook / Cinder Company | Adversarial, off-page for most of Book 1 | Rook's whole revenge road | Converges Movement 5; Rook chooses the clan over the kill | `POSSIBLE` |
+| Toren / Rook | Earned mutual trust, real name known | Institutional pressure at Meridian; Rook's debt is partly Toren's to answer for too | Tested by whether they answer the Director's summons the same way | `POSSIBLE` |
+| Toren / Wyck | Loyalty converted, standing settled | Both now have something to lose at Meridian | Wyck extending to others what he once had to earn himself | `POSSIBLE` |
+| Rook / Cinder Company | Tull released alive; the company will re-form under another name | Rook's own six-year hunt, now deliberately unfinished by his own choice | Whether the remnant becomes Book 2's threat or is held in reserve for Book 3's larger canvas | `POSSIBLE` |
 
 ## Antagonist motion off-page
 
-Cinder Company operates independently of Toren's party through most of Book 1,
-converging in the back half. Their knowledge of the Satori's myth, if any, is
-`OPEN` — a Book 2+ question, not required for Book 1.
+Cinder Company's remnant re-forms under a new name after Tull's release (Book 1,
+Ch. 22) — Rook's own choice, not a defeat. Whether they resurface as Book 2's
+direct threat or stay off-page building toward a larger Book 3 role is `OPEN` —
+see `BOOK_2_MAP.md`. Who originally commissioned the attack on Homura remains
+unresolved and is explicitly meant to deepen, not close, across several books.
 
 ## Promise and payoff ledger
 
