@@ -76,6 +76,12 @@ There was a shovel. It was the only thing in the wreck that came out unbroken.
 
 They buried three people in the long grass above the road because the roadbed was too hard and the scrub was full of thorn, and it took the rest of the day and most of what any of them had left. Rook dug. He did not ask any of them to and he did not stop any of them when they took turns, and Wyck took a turn that went on far too long, and nobody said anything about that either.
 
+The light went by the third grave — the flat grey nothing under an overcast, which is not dark and is no use to anybody. Rook kept digging, the way a man goes on with a thing when stopping costs more than finishing, and the shovel started coming up with earth he could not see.
+
+Milo Faust got up off the grass and came over and stood at the lip of the hole and put his hand out.
+
+The light sat up in his palm, pale, about the size of a plum, and it lit four feet of turned earth and absolutely nothing else. It was the only thing he had. He did not say anything about it and he did not look at anybody, and he did not move his arm, and Rook glanced up at him once and went back to digging and finished the grave by it.
+
 Odo Prentice they never found. Rook went into the scrub twice, the second time for the better part of an hour, and came back out and shook his head once, and set the man's staff upright in the ground at the end of the row and drove it in with a stone. Eleven notches, and the fresh gouge across all of them.
 
 Toren's father went in the first grave. His grandmother sat on the ground beside it the whole time with her splinted leg out in front of her and her hand flat on the turned earth, and she did not cry, and Toren, who was crying so hard he could not see, understood dimly that this was a thing she was doing on purpose and would pay for later.

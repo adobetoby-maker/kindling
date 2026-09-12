@@ -673,3 +673,65 @@ a read of this pilot in context.
 Locked through: Book 1, Movement 3/4 (Chapters 15–18) — hybrid revision
 adopted, replacing the prior draft. Audio export regenerated (83,385 words,
 28 chapters). Pushed to the shared repo.
+
+---
+
+## POST-BOOK-1 REVISION — Movement 1 hybrid pass (Ch. 1–6), light touch, owner-confirmed
+
+**Scope:** owner directed the hybrid project be extended to the rest of the
+book, movement by movement, per the original architecture table. Movement 1
+was assessed first for the specific gap the brief calls out ("small moments
+showing Milo, Dessa and Wyck reacting independently — not merely following
+Rook"). Wyck already had this at full strength (Ch. 6's confrontation).
+Dessa and Milo mostly reacted rather than initiated. Dispatched a
+LIGHT-TOUCH pass (not a restructuring) to Opus with the same locked-facts
+discipline as every prior dispatch.
+
+**What changed — two additions, four chapters untouched:**
+- **Ch. 3** (~150 words): during the ambush, Dessa stops fighting Milo's
+  restraining hold, reads the ground with her established thirty-foot sense,
+  and pulls both of them sideways into a water-cut fold that the next wave
+  of Riftspawn passes over without slowing. Her own initiative, no adult
+  instruction, uses only already-established ability. Sets up her Ch. 6
+  "Seven. Maybe eight. They're spread all around the low end" as a skill
+  she's used before, not one she's discovering live.
+- **Ch. 4** (~145 words): at the graves, when the light fails during the
+  third burial, Milo gets up unasked and holds his palm-light over the hole
+  until Rook finishes digging by it. Nearly wordless, not a joke. Retroactively
+  explains Rook's otherwise-unexplained "Huh" reaction in Ch. 5 when Milo
+  mentions his light can hold "an hour, more" — Rook had already seen it used
+  for something practical, not just as a curiosity.
+- Chapters 1, 2, 5, 6 verified byte-identical to the prior draft — no
+  compression, no line edits, Wyck's Ch. 6 confrontation completely untouched.
+
+**Verified personally before adoption:** diffed all six files against the
+prior draft (confirmed 1/2/5/6 identical, 3/4 changes exactly as reported);
+grep-checked for reserved-fact leakage (Homura, Vera, Satori, Cinder Company,
+the Path, Elias Marsh, Ward/Sustain/Resilience, the Mother/Father myth) —
+zero genuine hits, all matches were false positives on "toward/afterward";
+confirmed the Ch. 5 ledger-refusal-before-Ch.6-disk-discovery sequence is
+untouched (this ordering is load-bearing for Movement 4's already-published
+reveal that the refusal was Rook's own free choice).
+
+**Length:** 17,390 words against a prior 17,101 (+1.7%) — appropriately
+minimal for a light-touch pass, well inside any reasonable band.
+
+**Assessment of Movements 2 and 3 (Ch. 7–14):** read in full before deciding
+whether to dispatch a rewrite. Concluded no hybrid work is needed — these
+chapters already deliver exactly what the brief asks for natively. Ch. 7–8
+("What He Won't Teach") is built entirely around Dessa's own breakthrough:
+her independent "no, I'm done" refusal, her unprompted initiative testing
+her sense through a wall, her own theorizing about what changed in her — and
+its visible effect on Rook (he sits up alone at night watching her). Ch. 9–14
+("The Same Force") already gives Wyck sustained, escalating independent
+conflict with the group's hierarchy (his flat refusal to "play the game" in
+Ch. 9, the full point-confrontation and mature reasoning closing Ch. 12).
+Dispatching a rewrite here would have been padding, not improvement, and
+risked diluting scenes already at or above the standard the hybrid project
+is trying to reach. Skipped by deliberate choice, not oversight.
+
+Locked through: Book 1, Movement 1 (Chapters 1–6) — hybrid light-touch pass
+adopted. Movements 2–3 assessed and left as-is. Movement 5 ("Cinder,"
+Chapters 19–23) is next, per the architecture table's actual remaining gap:
+preserving ensemble bonds so Milo's death lands on relationships, not just
+plot function.

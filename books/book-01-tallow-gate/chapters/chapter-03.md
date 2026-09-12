@@ -22,6 +22,14 @@ Dessa was screaming from the upper slope. Milo had both arms around her waist an
 
 They kept coming anyway. They were already coming. Momentum is not attention.
 
+Dessa did not go up.
+
+Toren saw it from the road and could not make sense of it. She stopped fighting Milo's arms and went still instead, and shut her eyes — shut them, on an open hillside, with everything coming — and put one hand out flat, the way you feel for a wall in the dark. Two seconds. Then she opened her eyes and got a fistful of Milo Faust's coat and hauled him *sideways*, across the face of the slope, down into a shallow fold where the hill's own water had cut a trench nobody had ever bothered to name.
+
+"Down. Get *down*—"
+
+They went down in it. And the four that came up the grass a moment later came up the exact line the two of them had been standing on, and went over the fold without once slowing, and kept going up, and neither of them was touched.
+
 Toren looked away.
 
 He did not decide to. His body did it, turned his head hard down and to the left, and by the time he could make himself look back there was warm grey ash coming down through the grass in a slow drift and Wyck Tanner was on his knees in it with both hands pressed flat to the ground.
