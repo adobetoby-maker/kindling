@@ -15,6 +15,16 @@ than the original if Tallow Gate continues to be revised independently —
 resync from `books/book-01-tallow-gate/` before doing further reconstruction
 work if meaningful time has passed.
 
+**Distinct from Tallow Gate's own Ch. 15–18 hybrid pass.** The Tallow Gate
+session independently ran the same brief against its own manuscript and
+adopted its own result directly into `books/book-01-tallow-gate/` — that
+version keeps Rook's disclosure private (Toren alone), with ensemble agency
+built in around the edges, because restaging it as a group scene would have
+contradicted that edition's own characterization of Rook. Undern's Movement 4
+(below) is a separately-built attempt at the same brief that *does* stage the
+full group confrontation. **The two are independent hybrid attempts, not
+copies of one another** — do not assume they match if comparing the two.
+
 **Current status: only Movement 4 (Ch. 15–18) has been reconstructed.**
 Chapters 1–14 and 19–28 are Tallow Gate's original, unmodified text. This is
 intentional and matches the piloted, phased approach below — do not treat the
