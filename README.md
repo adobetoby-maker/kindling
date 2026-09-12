@@ -4,10 +4,10 @@
 **Protagonist:** Toren Voss, 13 at the series open
 **World:** Earth, 2150 — seventy years after the Fall, wormhole-borne power waking
 a residual, dormant part of the human brain
-**Status:** Book 1 exists in three editions (see below) — Hobb's Wall through
-Movement 5 (Ch. 1–23, Movement 6 pending), Tallow Gate complete (Ch. 1–28), and
-Undern, a hybrid of the two (Tallow's chassis, Movement 4 reconstructed with
-Hobb's Wall's ensemble technique, Movements 1–3/5–6 pending the same pass).
+**Status:** Book 1 exists in three editions (see below) — Hobb's Wall complete
+(Ch. 1–28), Tallow Gate complete (Ch. 1–28), and Undern, a hybrid of the two
+(Tallow's chassis, Movement 4 reconstructed with Hobb's Wall's ensemble
+technique, Movements 1–3/5–6 pending the same pass).
 
 ---
 
@@ -36,8 +36,8 @@ movements have been reconstructed and the full import plan for the rest.
 
 | Edition | Directory | Distinguishing choices | Chapters | Words |
 |---|---|---|---|---|
-| **Hobb's Wall** | `books/book-01-hobbs-wall/` | Riftspawn taxonomy: Husks, Verge-hounds, Stilts, a Breach; Toren's Ch. 5 waypoint stand; the costliest loss (Milo) dies drawing fire off the cart on his own judgment; Rook gets his griefs' author under a knife and lets him go to hold the arch instead | 1–23 (Movements 1–5 locked, Movement 6 pending) | ~78,000 |
-| **Tallow Gate** | `books/book-01-tallow-gate/` | Single Riftspawn species; Toren's Ch. 6 pumphouse stand; same costliest-loss choice (Milo), reached independently; Rook has the whole company in reach and declines to pursue any of it | 1–28 (complete) | — |
+| **Hobb's Wall** | `books/book-01-hobbs-wall/` | Riftspawn taxonomy: Husks, Verge-hounds, Stilts, a Breach; Toren's Ch. 5 waypoint stand; the costliest loss (Milo) dies drawing fire off the cart on his own judgment; Rook gets his griefs' author under a knife and lets him go to hold the arch instead; Toren proves the Edge+Stride blend by refusing to audit the changeover, structurally rhymed with a Breach's soulless version of the same thing; Meridian's archive reframes the family myth as a report, not a warning — the disk already "saved a world and ended one," tense unknown to anyone alive | 1–28 (complete) | 105,882 |
+| **Tallow Gate** | `books/book-01-tallow-gate/` | Single Riftspawn species; Toren's Ch. 6 pumphouse stand; same costliest-loss choice (Milo), reached independently; Rook has the whole company in reach and declines to pursue any of it | 1–28 (complete) | 83,988 |
 | **Undern** | `books/book-01-undern/` | Tallow Gate's text throughout, except Movement 4 (Ch. 15–18), reconstructed so Homura/Vera/Cinder Company are disclosed to the whole group at once (Hobb's Wall's technique) rather than privately to Toren, while keeping Tallow's own facts and voice — no Tull, no Hoyle, no Lowry Bend | 1–28 (Movement 4 reconstructed, Movements 1–3/5–6 still pure Tallow Gate pending the same pass) | 86,571 |
 
 **Neither is canon.** Each edition's own canon — including named characters,
@@ -68,6 +68,9 @@ in place for history rather than deleted; do not write to them going forward.
 
 ## Scale
 
-- 1 book, three editions (two independent, one hybrid reconstruction of a third)
-- 79 chapters total across all three (51 independently authored, 28 in Undern,
-  of which 4 are newly reconstructed and 24 are copied from Tallow Gate)
+- 1 book, three complete-length editions (two independently authored and
+  finished, one hybrid reconstruction of the third, partially complete)
+- 84 chapters total across all three (56 independently authored across Hobb's
+  Wall and Tallow Gate, 28 in Undern, of which 4 are newly reconstructed and
+  24 are copied from Tallow Gate pending their own pass)
+- 276,441 words total across all three editions (105,882 + 83,988 + 86,571)
