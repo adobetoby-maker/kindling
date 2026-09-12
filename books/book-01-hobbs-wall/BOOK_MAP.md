@@ -1,9 +1,12 @@
 # Living book map — Book 1
 
 Working title: `OPEN` (not structural, deferred).
-Status: `POSSIBLE` — architecture absorbed from the parallel kindling-project run,
-challenged, and reconciled in this showrunner pass. Promoted to `PLANNED` on owner
-confirmation of the items marked new below.
+Status: **`CANON` — Book 1 complete.** All 28 chapters (Movements 1–6) are
+drafted and locked: `books/book-01/manuscript/chapter-01.md` through
+`chapter-28.md`. Architecture below is now a record of what was built, not a
+plan awaiting promotion. Remaining `POSSIBLE` markers on individual rows below
+flag places where the *next book's* direction is still open, not this book's
+text.
 
 ## Book promise
 
@@ -187,8 +190,33 @@ Meridian's suspicion of what they now are opens Book 2's changed world.
   Rook recognizes and can't save either, landing cost on his side of the ledger —
   remains available to Movement 5's packet as a bonus beat, not a requirement.
 
-**Still open (carried from the parallel run, unaffected by Movement 1–4):**
-- Senna's exact cost of survival at Meridian.
+**Resolved at Book 1's close (Movement 6, Ch. 27–28):**
+- **Senna's cost of survival, named on the page in her own words (Ch. 28):**
+  the marrow-support treatment ties her permanently to Meridian (a machine on
+  an eleven-day cycle, no travel ever again — Sallow Creek, Hobb's Wall, the
+  Level, all closed to her); the course itself takes the nerves in her hands
+  and feet permanently (she'll move them, never feel them; won't walk by
+  spring). She calls it worth it, immediately, without weighing — eight years
+  against a five-week death sentence. Closes an item open since Movement 1.
+- **Toren's Edge+Stride blend, the book's central promise, delivered in Ch. 26**
+  — a chosen refusal to audit the changeover ("he did not answer it... nothing
+  was put down, and nothing was picked up"), structurally rhymed with a
+  Breach's soulless version of the same blend, at real cost (a broken arm, the
+  Ember going cold afterward with no guarantee it returns — it does, on the
+  book's final page).
+- **Garrick's Ch. 1 myth-warning recontextualized, not resolved (Ch. 28):**
+  Meridian's own sixty-one-year-old depot record shows "a curse in a gift's
+  coat" was never a Voss family phrase — it travelled with the disk. The
+  record reframes the family's five-generation fear as aimed at the wrong
+  tense: "it has already saved a world and it has already ended one. It will
+  not do either again." The disk's true nature stays permanently unexplained,
+  per the cross-series Artifact rule — this deepens the mystery, it does not
+  close it.
+- **Meridian's institutional wariness, established and left open (Ch. 27–28):**
+  bureaucratic and procedural, not hostile — Rook's own name already in the
+  intake book from eleven years prior; a joint summons naming both the south
+  approach kill and the records consultation, "attendance not compulsory."
+  Opens Book 2 per `SERIES_MAP.md`'s NEXT horizon.
 - Series and Book 1 titles — open for the naming round, none structural.
 - The Hoid figure's separate, brief, unexplained cameo — placement within Book 1
   not yet chosen; does not affect Movement 1.
