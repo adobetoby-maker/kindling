@@ -24,6 +24,48 @@ Milo went and did it further away from him, which was the closest thing to a kin
 
 ---
 
+Dessa came down off the line at two with her hands shaking from holding and sat in the grass next to Wyck, who had his leg out in front of him and was not looking at it.
+
+"Two hundred and forty feet," she said.
+
+"Congratulations."
+
+"It isn't a congratulations." She pulled a stalk of grass and started stripping it down. "He's never once asked me for a number past two hundred. Two hundred's the number. He said it the second week and he's said it every week since — two hundred and hold it and don't reach, because reaching is how people get hurt. And this morning he said out to two hundred and then out past it, and he said it like he was—"
+
+She stopped.
+
+"Like he was writing it down," said Wyck.
+
+"Yes."
+
+Wyck moved the leg with both hands, an inch, and put it back exactly where it had been.
+
+"He watched the whole of mine," he said. "Both ways round, the better part of an hour, and he never corrected me once. He's corrected me every time I've picked that stick up since the road. Today he stood there and watched me do it wrong twice and said nothing whatsoever, and then he said *that'll carry*, and went back up the bank."
+
+"That'll carry."
+
+"That's what he said."
+
+Dessa finished the stalk and threw it away.
+
+"He's finding out what we can do without him," she said.
+
+"I know."
+
+"You got there first."
+
+"I got there at about half past nine," said Wyck, "and I've been sitting here since working out whether to say it to anybody, and I'd got as far as no."
+
+"Why?"
+
+"Because Faust would take it apart out loud for four hours and be no happier at the end of it. And because I might be wrong." He shifted the leg again. "And because if I'm not wrong, there's nothing in it for any of us to do except the work he set. So we might as well do the work."
+
+Dessa sat there a while with her hands still going.
+
+Then she got up and went back out on the line.
+
+---
+
 Senna got hold of Toren in the middle of the afternoon by the simple method of telling him to bring her the water can and then not letting go of his wrist.
 
 "Sit down."
@@ -44,7 +86,7 @@ His grandmother had her leg out straight along the boards and the blanket up to 
 
 "What pen?"
 
-"At the Gate. That woman put a ledger on a desk and put a pen on top of it and he picked the pen up." She resettled her hands. "He held it for a good while. He held it long enough that I had time to work out what it would mean for me if he signed it, which is that I'd have been left in that yard, and four days after that I'd have been left on the road outside it, and I made my peace with that in about the time it takes to boil water, because I'm eighty-one years old and I've had practice."
+"At the Gate. That woman put a ledger on a desk and put a pen on top of it and he picked the pen up." She resettled her hands. "He held it for a good while. He held it long enough that I had time to work out what it would mean for me if he signed it, which is that I'd have been left in that yard, and four days after that I'd have been left on the road outside it, and I made my peace with that in about the time it takes to boil water, because I've had practice."
 
 Toren's throat closed.
 
@@ -178,9 +220,23 @@ Dessa said, "How long?"
 
 Dessa nodded once and went and sat down by Senna and did not look at him again.
 
+His coat was on the tailboard where he had left it at noon, and it was not as he had left it at noon. It was folded. The wet had been beaten out of the shoulders. When he put it on there was a weight in the right-hand pocket that had not been there before, and he put his hand in and found two flat cakes off the stone wrapped in a cloth, still warm.
+
+Across the fire Milo had his back turned and did not turn it.
+
+Dessa did not look up from the blanket she was tucking round Senna's foot.
+
+"Take the small can," she said, to the fire. "It's filled."
+
+It was standing by itself on the end of the tailboard with the stopper already in.
+
+---
+
 Wyck was at the top of the camp with his stick, standing.
 
-Toren went past him because there was no way out of the corner except along the grade and Wyck was on it, and he had got two steps past when Wyck said, quietly, "Voss."
+He had not been there a quarter of an hour ago. A quarter of an hour ago he had been down by the stove with the leg out in front of him, and getting up off the ground was a thing that took him two goes and cost him both times, and the top of the camp was forty feet up a slope he did not like. He had gone up it anyway and he was standing on the one strip of ground a man had to cross to get out of that corner.
+
+Toren went past him and got two steps by before Wyck said, quietly, "Voss."
 
 He stopped.
 

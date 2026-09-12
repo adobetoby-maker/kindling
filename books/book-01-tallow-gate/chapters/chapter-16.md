@@ -28,11 +28,11 @@ He started with the buildings.
 
 "They had power?"
 
-"They had power. Not much and not all the time. They ran the instruments in the morning because that's when the head was highest in the tank."
+"Not much and not all the time. They ran the instruments in the morning because that's when the head was highest in the tank."
 
 "What instruments?"
 
-"Machines that look at the inside of a head," Rook said. "There were three that worked. You lay on your back on a table and they ran you into a tube about so wide" — he put his hands up, a little wider than his own shoulders — "and you stayed there for the better part of an hour and it was very loud and very cold and nothing hurt and nothing happened, and then you got up and went and had your breakfast, and somewhere on the other side of the wall there was a picture of the inside of you with something lit up in it."
+"Machines that look at the inside of a head," Rook said. "There were three that worked. You lay on your back on a table and they ran you into a tube about so wide" — he put his hands up, a little wider than his own shoulders — "and you stayed there the better part of an hour and it was very loud and very cold and nothing hurt and nothing happened, and then you got up and went and had your breakfast, and somewhere on the other side of the wall there was a picture of the inside of you with something lit up in it."
 
 Toren sat with that.
 
@@ -58,11 +58,7 @@ Toren did not say anything.
 
 He was thirteen years old and he had been on a road for five weeks with a dying woman in a cart, and the shape of what he had just been handed arrived in him whole and did not need any explaining at all: a family at the far end of something, and a person who had gone and done a thing they did not want to do, so that somebody at that far end could have a doctor.
 
-"That's the same," he said.
-
-Rook did not answer.
-
-"That's the same thing we were doing. That's exactly the — my father and Odo and all of us, we were eleven days out from Meridian because there's a machine there that can see the whole of her at once. That's the same thing."
+"That's the same," he said. "That's exactly the — my father and Odo and all of us, we were eleven days out from Meridian because there's a machine there that can see the whole of her at once. That's the same thing."
 
 "Yes."
 
@@ -98,7 +94,7 @@ He had not known that somebody had photographed it.
 
 "What else did they have?"
 
-"Theories. Some of them good." He shrugged one shoulder. "They had a decent one about why the ash burns clean. You know how it works — you can't take power off a person and put it in a lamp, because it's already somebody's, and it has to be lent and it has to go back, and it always costs more going back than it did coming out. Rift-things aren't anybody's. Nobody's home in them. That's the whole of the difference and it's why hunting is what everybody does for a living out here instead of just what kills them." He paused. "They had more than that. They had the beginning of a thing about how much of a person is lit and what it buys. I'm not giving you that one tonight."
+"Theories. Some of them good." He shrugged one shoulder. "They had a decent one about why the ash burns clean. You know the shape of it — you can't take power off a person and put it in a lamp, because it's already somebody's, and it has to be lent, and it costs more going back than it did coming out. Rift-things aren't anybody's. Nobody's home in them. That's the whole of the difference, and it's why hunting is what everybody does for a living out here instead of just what kills them." He paused. "They had more than that. They had the beginning of a thing about how much of a person is lit and what it buys. I'm not giving you that one tonight."
 
 "Why not?"
 
@@ -112,7 +108,7 @@ The wind came round the corner of the brick box and Toren pulled his coat in, an
 
 "Was what me."
 
-"You said they found one thing and they were certain of it. And you said you were there six years, and you're the only person I've ever met who can — " He stopped. He tried again. "You do both of them. Everybody says one at a time. You came down a hill with light round your legs and a spear in your hand and I've been thinking about that since the day it happened, and nobody I've ever asked has heard of it. Was that them? Did they do that to you?"
+"You said they found one thing and they were certain of it. And you said you were there six years, and you're the only person I've ever met who can—" He stopped. He tried again. "You do both of them. Everybody says one at a time. You came down a hill with light round your legs and a spear in your hand and I've been thinking about that since the day it happened, and nobody I've ever asked has heard of it. Was that them? Did they do that to you?"
 
 Rook laughed.
 

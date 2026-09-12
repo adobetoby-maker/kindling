@@ -624,3 +624,52 @@ supported by his own Ch. 27 intake statement, "Ember and magic. Both."
 Updated: `UNIVERSE_BIBLE.md` ("The Ember" and "The flame ladder" sections),
 `NAME_REGISTRY.md` (Ward/Sustain, Resilience added as terms), `CHARACTERS.md`
 (Rook's row). Pushed to the shared repo as `books/book-01-tallow-gate/CANON.md`.
+
+---
+
+## POST-BOOK-1 REVISION — Chapters 15–18 hybrid rewrite (pilot), owner-confirmed
+
+**Source:** owner-directed editorial pilot testing whether Tallow Gate's pace/
+voice could carry Hobb's Wall's ensemble-agency pattern without becoming a
+two-voice Franken-draft. Scope: Movement 3/4 close, Chapters 15–18 only
+("A Mile Short," "Homura," "Hers," "East"). Dispatched to Opus (Fable
+unavailable, out of credits, per pattern all session) with the full existing
+chapter text plus an explicit locked-facts inventory (every Homura/Vera/Cinder
+Company/dream/bread-ritual/ledger/point fact already established, all
+reserved facts that must not surface). Personally verified against the
+locked-facts table and grep-checked for reserved-fact leakage before
+adoption — all clean.
+
+**What changed:** the disclosure mechanism itself is untouched — Rook still
+tells Toren alone, privately, at the junction, exactly as before. Added:
+Dessa and Wyck each independently diagnosing Rook's destabilization from
+their own vantage before Toren says anything (Ch. 15); a wordless
+care-gesture from Milo and Dessa when Toren leaves for the junction (folded
+coat, warm bread, filled water can — Ch. 15); Dessa asking Rook directly what
+her own Flame-progress is costing her, and getting a real answer ("every
+door... doesn't shut afterward" — Ch. 18); Wyck taking an unassigned watch as
+a wordless loyalty gesture (Ch. 18); and Milo confronting Rook directly about
+the bread ritual, asking only whether it's "all right that I do it" — never
+what it means, so the Movement 5 payoff (he dies never knowing) survives
+intact (Ch. 18).
+
+**Emergent, unplanned resonance worth noting:** Dessa's new "cost of Flame"
+exchange in Ch. 18 ("you will see more than you want to for the rest of your
+life... there is no version of this where you get the holding and not that")
+retroactively deepens her already-published sensing-overwhelmed beat near
+Meridian (Movement 6, Ch. 25) into a fulfilled warning rather than an
+unexplained cost — the drafting agent produced this without being told about
+Ch. 25's content.
+
+**Length:** 14,191 words against a prior 13,240 (+7.2%, within the ±15% band
+set for the pilot). Original pre-hybrid chapter files preserved as
+`chapter-1[5-8].md.pre-hybrid.bak` for rollback.
+
+**Scope discipline:** this is a single-movement pilot, not a commitment to
+revise the rest of the book. Per owner instruction, pausing here — Movements
+1, 2, 3(front half), 5, and 6 are NOT scheduled for hybrid treatment pending
+a read of this pilot in context.
+
+Locked through: Book 1, Movement 3/4 (Chapters 15–18) — hybrid revision
+adopted, replacing the prior draft. Audio export regenerated (83,385 words,
+28 chapters). Pushed to the shared repo.

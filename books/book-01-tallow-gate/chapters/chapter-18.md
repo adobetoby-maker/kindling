@@ -32,7 +32,7 @@ Toren walked about ten paces.
 
 "Right," said Milo. "Right. Okay."
 
-And he stayed at the back with him the rest of the way, talking about absolutely nothing, about a heron he had seen and about whether you could eat a heron and about whether you would want to even if you could, and Toren understood exactly what was being done for him and did not have anywhere to put it.
+And he stayed at the back with him the rest of the way, talking about absolutely nothing, about a heron he had seen and about whether you could eat a heron and about whether you would want to even if you could, and Toren understood exactly what was being done for him and had nowhere to put it.
 
 ---
 
@@ -50,7 +50,7 @@ Nobody said anything at all.
 
 He let that sit.
 
-Toren watched the four of them take it. He watched it go into Milo, who opened his mouth and closed it. He watched Dessa's head come round. He watched Senna Voss, in the barrow, lift her chin off her blanket and look at the right-hand bank with an expression he had never seen on her face in thirteen years and never afterward forgot, because it was not hope. It was a woman doing arithmetic about her own body and getting an answer.
+Toren watched the four of them take it. He watched it go into Milo, who opened his mouth and closed it. He watched Dessa's head come round. He watched Senna Voss, in the barrow, lift her chin off her blanket and look at the right-hand bank with an expression he had never seen on her face in thirteen years and never afterward forgot, because it was not hope. It was a woman measuring a distance against what she had left, and getting an answer.
 
 And he watched Wyck Tanner, who had not moved at all, and who was looking at the left-hand line.
 
@@ -148,7 +148,37 @@ Somebody was farming out there. Somebody was farming within a mile of this bank.
 
 Dessa said "clear" every ten minutes in her flat voice and did not speak to him.
 
-At about four, she fell back and walked beside him for a hundred paces without saying anything, and then said, "I'm not angry at you."
+Then, at about two, she came up the off side and walked at the shaft.
+
+"I've got a question and it's mine," she said. "It isn't about last night."
+
+"Ask it."
+
+"The night I got to Flame. On watch." Her eyes were front. "You said it would settle and it has. I held two hundred and forty feet yesterday, and a fortnight ago I couldn't hold two hundred. So whatever you're doing to me is working."
+
+"Yes."
+
+"Then what does it cost." She kept walking. "You've taught me every day since the loop road and you've never once said what any of it took off you to learn. I've watched you for two days and I think the answer's a great deal, and I think you've decided we don't need it. And it's going in *me*. I'd like to know what I'm carrying."
+
+Rook walked a while with the shafts in his hands.
+
+"It costs," he said.
+
+"That's not an answer."
+
+"No. It's the true half of one, and it's the half you can use." He shifted his grip. "Every single thing I've put into you is a door into the inside of your own head. The cost of a door is that it doesn't shut afterward. You will see more than you want to see for the rest of your life, and there is no version of this where you get the holding and not that, and you have already been charged for it."
+
+Dessa walked about twenty paces with that.
+
+"You could have said."
+
+"I've just said," said Rook.
+
+She went back up the off side, and that was the first thing anybody had got out of the man all day.
+
+---
+
+At about four she fell back and walked beside Toren for a hundred paces without saying anything, and then said, "I'm not angry at you."
 
 "You are."
 
@@ -180,11 +210,59 @@ Then he handed the rest round in his order. Senna. Wyck, because of the leg. Who
 
 He did it the way he put the lid back on a crock.
 
-Toren sat with his bread in his hands and looked at the piece on the rock.
+Rook set the watches after, the way he did every night, and when he said Cole for the first, Wyck said, "I've got it."
+
+Rook looked at him.
+
+"You're second," said Dessa.
+
+"I've got the first as well."
+
+"That's the whole of the dark on that leg, and you were on your feet all—"
+
+"I've got it," said Wyck, and got his stick under him in the two careful parts it took, and went up the bank.
+
+Nobody said anything else about it. Rook watched him go the whole way up. Then he put another stick on the fire and let it stand.
+
+---
+
+Milo brought the water can round the fire afterward and stood in front of Rook with it and did not put it down.
+
+"You're tired," he said.
+
+Rook looked up.
+
+"I'm not saying it to be rude, I'm saying it because everybody else has decided not to and I think that's daft." Milo set the can down. "You've not slept for two nights. You've had the shafts the whole way down off that flat and you wouldn't give them up when Dessa asked. If you go over, we're four people and a cart in a field, and I'd rather say it now while it's a small thing than in a fortnight when it isn't."
+
+"Noted," said Rook.
+
+"That's not really a—"
+
+"It's noted, Faust. I'll sleep tonight." He got his boot off and turned it over and knocked it out against the stone. "Was there another one?"
+
+Milo shifted his feet.
+
+"The bread," he said.
+
+Rook did not move.
+
+"I've been doing it. The bit off the corner, on the stone. I didn't decide to — I put my hand out one night about a week back and it had already gone and done it, and I stood there like an idiot working out why." He was not looking at Rook and he was not looking away either; he was doing the thing he did, which was running straight at it. "I know it's yours. I'm not asking what it's for. I asked that the first night and you said it wasn't for anything, and I've thought about it since and I've decided that was a lie, but a polite one, and you're allowed one. I'm asking whether it's all right that I do it. That's the whole of the question. Because if it isn't, I'll stop."
+
+The fire moved.
+
+"It's all right that you do it," said Rook.
+
+"Right," said Milo. "Good."
+
+And he picked the can up and went and put it where the can went, and sat down and ate his supper and started telling Senna about the heron.
+
+---
+
+Toren had been sitting six feet away with his bread in his hands the entire time.
 
 He knew what it was now. He knew whose it was and what clan it had come out of and that a woman had asked her own grandmother about it once and been given nothing, and had stopped asking at about eleven, and had gone on doing it anyway for the whole of a life that had ended in a room under a hill on the sixteenth of the eighth month, nine years ago, at about half past three in the afternoon.
 
-And Milo Faust, who was thirteen and three months and had not the faintest idea, did it every night because he had watched somebody do it and his hands had picked it up on their own.
+And Milo Faust, who was thirteen and three months and had just stood in front of the only man alive who could have told him, and had asked the one question that was not it, did it every night because he had watched somebody do it and his hands had picked it up on their own.
 
 Across the fire, Rook looked at the piece of bread on the rock.
 
@@ -196,7 +274,7 @@ He went out past the fire at nine to drill and got nothing at all.
 
 Not four inches. Not a flicker. He stood in the dark grass with his father's Ember in his fist and went to the back of the house and the house was shut, and he stood there for a quarter of an hour and then came back in.
 
-Rook was at the tailboard with a boot off.
+Rook was at the tailboard with the other boot off.
 
 "Nothing," Toren said.
 
@@ -216,7 +294,7 @@ Rook stopped.
 
 "No."
 
-"Not any of it. Not the — not even the part about the bread." Toren's voice had gone somewhere strange. "Milo does it every night. He's been doing it for a fortnight. I could tell him what it is in one sentence and it'd cost nobody anything, and I can't, because the second I give him one true thing he'll want the next one and I'll have to start lying to him, and then it's — "
+"Not any of it. Not even the part about the bread." Toren's voice had gone somewhere strange. "He stood right there and asked you and you could have — I could tell him what it is in one sentence and it'd cost nobody anything, and I can't, because the second I give him one true thing he'll want the next one and I'll have to start lying to him, and then it's—"
 
 "Then it's what he's got," said Rook. "Instead of what he had."
 
@@ -230,7 +308,7 @@ Rook stopped.
 
 ---
 
-Wyck was on the first watch at the top of the bank, sitting on his coat with his leg out and his stick across his knees, and Toren went and sat down next to him because there was nowhere else in the world to go.
+Wyck was on the top of the bank on a watch that was not his, sitting on his coat with his leg out and his stick across his knees, and Toren went and sat down next to him because there was nowhere else in the world to go.
 
 They sat for a while with the hay-smell coming up and the fire behind them going down.
 
@@ -261,5 +339,9 @@ He got his stick under him and stood up, the careful way, in two parts, and look
 "But you're going to be carrying it on your own from here," he said, "and I've done five weeks of that, and it's worse than the not knowing. I'd tell you to put it down if there were anywhere to put it."
 
 He went off along the top of the bank to walk the line.
+
+Toren stayed where he was.
+
+A long time later the fire was nothing but a red seam in the ash, and the middle of the night came and went, and Dessa's watch came and went with it, and nobody woke her; and up along the top of the bank a man with a stick went on walking it out to the end and back at the pace of a man who could not walk it any faster.
 
 Toren Voss sat in the grass with his hand flat over two rows of stitches and the hay-smell coming up out of the fields and a piece of bread going cold on a stone by a dying fire, and did not put it down, and did not take his hand away.

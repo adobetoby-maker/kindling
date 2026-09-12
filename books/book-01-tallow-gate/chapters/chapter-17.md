@@ -42,7 +42,7 @@ Toren did not move.
 
 "It took about forty minutes. I'm telling you that because everybody always thinks it takes longer.
 
-"I was outside. I came up out of the water room into the yard about two minutes in, and I got as far as the top of the steps, and after that I was in it, and I can't give you the order of it. I've tried. I've had nine years and I can't. I've got about eleven things and none of them join up."
+"I was outside. I came up out of the water room into the yard about two minutes in, and I got as far as the top of the steps, and after that I was in it, and I can't give you the order of it. I've tried. I've had nine years and I can't. I've got pieces of it and none of them join up."
 
 "You don't have to—"
 
@@ -70,7 +70,7 @@ He said it in the same voice, and it took Toren a moment to hear that something 
 
 "That's the part I'd get wrong if I let myself. They didn't take it. If they'd taken it, somebody would have it, and paper in somebody's hands is paper that can be got at again. They pulled it off the shelves and stacked it in the corridor and burned it in the corridor, which is a thing you do when you have been told to.
 
-"Eleven years. Nine thousand pictures and the notes that went with them and four people's whole working lives. The only proof anybody has ever assembled that the two halves of this world are the same thing wearing two coats, and it went up in a passage under a hill, and there has not been one page of it anywhere on this continent since the sixteenth of the eighth month, nine years ago."
+"Eleven years. Nine thousand pictures and the notes that went with them and four people's whole working lives. The only proof anybody has ever assembled that the two halves of this world are the same thing wearing two coats, and it went up in a passage under a hill, and there has not been one page of it anywhere on this continent since."
 
 Toren said, "Who?"
 
@@ -194,7 +194,7 @@ He said the next part very plainly.
 
 ---
 
-"You came up the hill with your hand in your pocket," Rook said, "and you put your hand in your pocket and there was a hole in it, and you went straight back down into a flooded building on the worst day of that boy's life, alone, four days after I'd told all four of you that nobody goes anywhere alone. And I went after you to haul you out by the collar.
+"You came up the hill with your hand in your pocket," Rook said, "and there was a hole in it, and you went straight back down into a flooded building on the worst day of that boy's life, alone, four days after I'd told all four of you that nobody goes anywhere alone. And I went after you to haul you out by the collar.
 
 "And I came up out of that sluice with it on my hand and I couldn't make my hands stop, and I'd have told you it was the water and the cold and eleven minutes inside a leg, and you were three feet away and you'd been watching me for four days and you knew it wasn't."
 
@@ -234,7 +234,7 @@ The wind dropped, the way it does an hour or two before light, and the flat went
 
 "You've been asking all night. Ask it."
 
-"If you catch them." Toren had his arms round his knees again. "If you get all the way down that line and you catch them and it goes the way you want it to. Does that — "
+"If you catch them." Toren had his arms round his knees again. "If you get all the way down that line and you catch them and it goes the way you want it to. Does that—"
 
 He stopped, because he could not find the end of the sentence.
 
