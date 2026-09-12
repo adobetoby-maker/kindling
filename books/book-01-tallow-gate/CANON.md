@@ -383,7 +383,7 @@ same way a butcher grades a carcass.
 | **Handful** | Barely worth collecting individually | Husks | Weak alone, numerous, mindless. The swarm tier — volume is the actual danger, not individual grade. A hundred Handfuls kill you as dead as one Barrel. |
 | **Flask** | A meaningful, tradeable draw | Verge-hounds / baseline Riftspawn | Mid-tier, pack-tactical or individually competent. What both drafts' second skirmish featured. |
 | **Barrel** | Rare, dangerous to harvest, genuinely valuable | *New this pass:* **a Breach** | Solitary apex threat from a major tear. The first tier where a fight isn't a foregone conclusion even for someone unbound. Reserved for the Movement 6 set piece already planned near Meridian — do not spend a Breach earlier than that. |
-| **Well** (`HORIZON`, not Book 1) | Catastrophic, tied to an actual wormhole *collapse* rather than a tear | Unnamed | Series-endgame scale. No Book 1 or Book 2 event should reach this without a specific decision to spend it. |
+| **Well** (`HORIZON`, not Book 1–2; first spent Book 3, owner-confirmed) | Catastrophic, tied to an actual wormhole *collapse* rather than a tear | Unnamed | Not a single unrepeatable series-capstone — see "The failing filter" under "The split world" below: Well-tier collapses are the leading edge of an ongoing, one-directional process (the world's filter against the source degrading over time), so more than one can and should occur across the series at escalating severity. Book 3 spends the first one as its central set piece (forcing tech-zone/magic-zone/Ember-dominant cooperation); this does not exhaust the scale or foreclose a larger one later. Treat each Well-tier event as a real, distinct catastrophe with its own local cause and cost, not a repeated beat. |
 
 **Volume is a separate axis from grade, deliberately.** A Handful-grade swarm is
 still an apocalypse-epic set piece — the scale grades the individual, not the
@@ -609,6 +609,77 @@ should not be resolved casually in Book 1 prose.
   into any of them — is a direct, demonstrated expression of the Path: he isn't
   loyal to one interface, so no region's culture reads him as an outsider on that
   basis.
+
+**The failing filter (`OWNER`, series-level mechanism, confirmed Book 3
+planning pass).** The split world is not a stable, static patchwork — it is
+the visible symptom of an ongoing, one-directional process: whatever
+originally separated this world from the source the wormholes reach into is
+degrading, not holding steady. This is the same "filter" vocabulary already
+used cosmologically elsewhere in this document (a Kindled person's own
+Kindling is a filtered understanding; Satori is what's left when a person's
+own filter comes down) — the world itself has a filter, at a civilizational
+scale, and it is failing the same way an individual's false model eventually
+gives way, except nobody is teaching the world's filter to come down on
+purpose, and nothing is training it to survive the change.
+
+**Consequence, mechanistic and one-way:** magic-saturated territory does not
+hold at a fixed boundary — it expands, slowly, as the filter degrades further.
+Tech-zones are not a permanent parallel option to magic-saturated ones; they
+are the shrinking side of a trend. Well-tier wormhole collapses (see "Yield"
+above) are not random catastrophes visited on an otherwise-stable world — they
+are the leading edge of the same failure, each one a local, sudden acceleration
+of a process that is otherwise slow enough to live inside without noticing day
+to day. This is why more than one Well-tier event can and should occur across
+the series at escalating severity: they are symptoms of a single ongoing
+process, not independent disasters. **This reframes the series' "uniting the
+fractured world" endgame promise from a political achievement alone into a
+race against an actual deadline** — every region's own comfortable specialization
+(tech-dominant, magic-dominant, Ember-dominant) is a stance the failing filter
+will eventually make untenable everywhere, whether or not anyone chooses to
+unite first.
+
+**Deliberately unresolved, matching the disk's own reserved status:** what the
+filter originally was, who or what maintained it, whether the Mars disk's
+activation caused the failure or merely coincided with an already-failing
+system, and whether the process can be stopped, slowed on purpose, or only
+adapted to — all open, all `RESERVED` past any currently-planned book. Treat
+it exactly like the Artifact's true origin: a mechanism characters can observe,
+suffer from, and theorize about, never one the text confirms from outside a
+character's own belief.
+
+**A working suspicion, held in-world, never authorially confirmed (`OWNER`,
+series-level mechanism):** the leading theory among whoever still studies this
+— Homura's own scientists, before the station fell, and anyone descended from
+that work since — is that the 2080 stratospheric detonations themselves
+damaged the filter, not merely triggered the Fall's technological collapse.
+On this theory, the filter was already compromised by the blasts before the
+Mars disk ever activated; the disk's activation and the wormholes that
+followed may be a consequence of that damage rather than an independent cause
+running in parallel. Radiation from the original detonations and the
+accumulating stress of seventy years of wormhole activity are, on this
+account, the same slow injury compounding on itself — each rift that opens
+and each Well-tier collapse both a symptom of the damage and a further wound
+to whatever is already failing. **This is presented in-world as a suspicion,
+sourced to incomplete Homura-era science, not a confirmed mechanism** — nobody
+who held this theory survived long enough to test it further, and it competes
+with other explanations (that the disk's activation was the sole first cause,
+that the detonations were themselves caused by something already leaking
+through) without the text ever adjudicating between them.
+
+**What this suspicion is used to explain, if held as true by a character or a
+culture:** why later generations of the Kindled sometimes reach further than
+earlier ones did at the same age or the same training — more of the filter
+gone means more of the source reachable, not because anyone got better at
+teaching, but because the door itself sits more open than it used to. And why
+Riftspawn diversify and grow larger over successive decades rather than
+holding at a fixed bestiary — see "What Riftspawn are" above: if they are raw
+source-power given shape by nothing but hostility, then a wider failure in
+whatever holds worked expressions of that power apart from raw leakage would
+produce exactly this pattern, stranger and larger echoes becoming possible as
+more of the underlying force gets loose to be echoed. **Author's discretion,
+book to book, on how explicitly any character voices this theory** — it should
+read as a real, held belief with real explanatory power, not as the text's own
+verdict on why the numbers are going up.
 
 ## Meridian
 
