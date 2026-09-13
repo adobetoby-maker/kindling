@@ -89,7 +89,14 @@ advance, it needs a reason better than "the politics needed a scene."
   working candidate **Director Corliss** — administers it, believes it keeps
   both Meridian and its Kindled residents safer than the alternative, and is
   not lying about the numbers. The book's antagonism is structural, not
-  personal, until a specific case (see Movement 4) makes it personal.
+  personal, until a specific case (see Movement 4) makes it personal. **The
+  mechanism, worked out in full in `CANON.md`'s "Sag line and ash-lifting"
+  section:** medicine and residency are separate gates at Meridian; medicine
+  can be freely given while residency is reviewed on household "worth," and
+  ash-lifting (Rook's own Ch. 28 debt) is the specific contract the station
+  extracts from a Kindled resident whose only asset is a combat-capable door.
+  Movement 5's named injustice should be someone who took the equivalent deal
+  without a found family able to absorb the cost when it went wrong.
 - **Cinder Company's remnant** — off-page all book, per the shared agreement
   with the other edition. Reforms under a new name (edition-specific which)
   somewhere in the book's back half, confirmed only through rumor/trace, never
@@ -103,7 +110,7 @@ advance, it needs a reason better than "the politics needed a scene."
 
 | Movement | Rough chapters | Entry pressure | Escalation | Turn | Status |
 |---|---:|---|---|---|---|
-| 1 — The North Yard | 1–5 | Toren and Rook answer the Director's summons; Rook's ash-lifting debt becomes daily, dangerous, physical work the whole team ends up drawn into | The yard's Riftspawn-clearing work is genuinely hazardous — real fights, real close calls, and the institutional wariness toward Kindled residents is felt rather than explained | Toren, training on his own, tries to reach the towpath blend deliberately for the first time — and can't | `POSSIBLE` |
+| 1 — The North Yard | 1–5 | Toren and Rook answer the Director's summons; Rook's ash-lifting debt becomes daily, dangerous, physical work the whole team ends up drawn into | The Sag line's Riftspawn-clearing work is genuinely hazardous — Rook holds the road shut with a sustained Ward-family barrier while the crew works behind him, and a lapse costs seconds nobody has; real fights, real close calls, and the institutional wariness toward Kindled residents is felt rather than explained | Toren, training on his own, tries to reach the towpath blend deliberately for the first time — and can't | `POSSIBLE` |
 | 2 — What Dessa Did | 6–10 | A yard accident goes wrong fast; Dessa has no weapon and no time, and gets between someone and a blow with nothing but her Stride and instinct | Her strut-frame locks rigid mid-motion instead of failing — an accident, not a technique, and it holds | Rook has never seen it before either. The book's real engine opens: what was that, and can it be done on purpose | `POSSIBLE` |
 | 3 — The Empty Mind, the Open Door | 11–15 | The team pushes Dessa to reproduce it and mostly fails; frustration and real injury mount | Rook, cornered by his own not-knowing, finally tells a flashback he held back the first time — a deeper account of the soul/mind connection from Homura, incomplete even to him until now | The account reframes the accident as method, not luck — the team starts training Guard on purpose, and Wyck is named as someone whose third door goes further than he's ever tested | `POSSIBLE` |
 | 4 — Held | 16–20 | Deliberate training arc: Guard trained, broken, and rebuilt through real failure; Toren reaches for Edge+Guard together, not just Edge+Stride-as-speed | A real fight — Riftspawn or otherwise — forces the technique to work under stakes no drill can fake; someone gets hurt when it fails at the wrong moment | Toren gets it to hold on purpose for the first time, and immediately has to teach it to someone else under pressure, with no time to have taught it well first | `POSSIBLE` |

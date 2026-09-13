@@ -244,6 +244,64 @@ it because there is no one home to mean it. This is a rule new types get checked
 against, not a bestiary to fill in wholesale ahead of need. Book 1's own first use
 of it is **a Breach** — see `BOOK_MAP.md`.
 
+## The Sag line and ash-lifting — the settled economy's version of hunting
+(`POSSIBLE`, Book 2 development, extends the Ch. 28 plant)
+
+If hunting is the frontier's economy (above), ash-lifting is the same economy
+run inside a station's walls, bureaucratized. Reserve-ash is still ownerless,
+clean fuel — but where the frontier lets whoever kills a Riftspawn simply take
+what's left of it, a settlement with something to protect turns the same
+resource into a controlled, contracted extraction job, and that job becomes a
+lever on the people who have nothing else to trade.
+
+**The Sag line** is a stretch of berm-edge road at Meridian's north yard that
+has never fully settled since 2130 — a known local weak point in whatever
+usually keeps wormhole activity rare this close to the station (consistent
+with the failing-filter theory: a trend shows first at its weakest points,
+long before anyone agrees to call it a trend). Riftspawn come through there
+more often than anywhere else near Meridian, which means reserve-ash actually
+accumulates there in usable quantity — real fuel, sitting exposed — provided
+something holds the source down long enough to gather it before it disperses
+or is scavenged.
+
+**The technique.** Ash-lifting is not labor a strong back can perform alone.
+It requires holding the road shut for the whole shift — the same Ward-family
+barrier Marta used at the cut in Book 1, sustained rather than thrown in a
+single crisis — while other laborers move behind the line and sack the ash. A
+lapse of even a few seconds can mean a fresh Riftspawn body between the
+line-holder and the crew. This is a narrow, specific qualification: it needs
+someone with a working defensive door, or (like Rook) enough Ward-adjacent
+instinct to fake it under real strain, and almost nobody at Meridian without
+formal magic-tradition training can do it at all. That scarcity is the whole
+reason the job exists as a contract rather than an open trade.
+
+**The trade mechanism.** Meridian keeps two gates deliberately separate:
+medicine, and residency. A course of treatment can be — as Senna's is —
+unconditional, cleared at the gate, owed to no one, and the station is telling
+the truth when it says so. Residency inside the berm is a different gate
+entirely, *reviewed*, and a household's standing is assessed on what the
+station reckons it contributes, not on what it needs. A household with
+nothing to trade does not get to live near medicine that was never being
+withheld from it. Ash-lifting is the specific contract Meridian will accept
+from a Kindled resident whose only asset is a combat-capable door: four
+seasons on the worst-paid, most dangerous work on the books, in exchange for a
+line item on a residency review rather than a wage that reflects the risk.
+The low pay is not an oversight — the wage is a rounding error beside the real
+price, which is measured in years of a specific person's risk that the
+station extracts because there is no one else positioned to refuse it.
+
+**Why this is the book's structural antagonist, not a villain.** This is the
+mechanism Director Corliss's broader Kindled registration and labor system
+runs on, generalized past any one contract: unaffiliated Kindled residents are
+sorted into whatever labor category their door qualifies them for, paid in
+scraps of currency and reviewed access rather than fair value, and told —
+correctly, by the numbers — that the alternative (no system, no station, no
+protection) would cost more. It is defensible on its own terms and still
+prices desperation. Rook's debt is the sympathetic, personal-stakes version
+the reader already has reason to feel. Movement 5's named injustice should be
+someone who took the equivalent contract without a found family able to
+absorb the cost when it went wrong.
+
 ## The split world (`CANON`)
 
 - **Tech-zones** — regions that retained functioning hardware; Meridian is one.
