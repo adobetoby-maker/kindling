@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-hobbs-wall/chapters/chapter-01.md",
+  "sourceSha256": "a63b3ad64fd8a41c5040adbfc5355f1cdb7f991c6581e4c6c7a556923f40b490",
+  "defaultPerformance": "neutral",
+  "director": {
+    "backend": "ollama",
+    "model": "qwen3.5:35b-a3b-q4_K_M",
+    "effort": "high",
+    "generatedAt": "2026-09-13T22:23:53.030169+00:00",
+    "chapterArc": "mundane survival -> ceremony failure/shame -> burden transfer -> primal alertness",
+    "restraintNote": "Maintain adult narrator distance; do not adopt Toren's teenage panic or Senna's frailty as the base voice. Character color is temporary.",
+    "coach": {
+      "name": "Calder measured audiobook coach",
+      "version": "1.0.0",
+      "path": "/Users/drive/kindling-narrator-stage/docs/audio-coaching/calder-delivery-coach.v1.json",
+      "sha256": "051ea3ada202cd1f699241f1cbcd909246c077f8eade2b4fac78dd27ee0f20e9"
+    },
+    "bookContext": {
+      "path": "/Users/drive/kindling-narrator-stage/public/manuscripts/books/book-01-hobbs-wall/performance/chapter-01.context.md",
+      "sha256": "e62f184f4f5779b1b0ad372836c2c5bb761e1ee5c18830969ad2631cf67d7f84"
+    }
+  },
+  "cues": [
+    {
+      "performance": "whisper",
+      "intensity": "low",
+      "delivery": "Senna's dialogue should be breathy and dry, cutting through the morning silence with ironic authority rather than complaint.",
+      "returnToBaseAfter": true,
+      "from": "\"You'll want to build it looser,\" Senna said from the cart.",
+      "through": "\"Then build one.\"",
+      "paragraphs": [
+        4,
+        6
+      ],
+      "reason": "Character distinction for Senna; fragile but sharp."
+    },
+    {
+      "performance": "neutral",
+      "intensity": "medium",
+      "delivery": "Shift to staccato internal rhythm during the ceremony. The Ember's failure must feel like a physical shock, not magical wonder.",
+      "returnToBaseAfter": true,
+      "from": "Then his father came down the cut with an armload of the dry wood from two hundred paces up, and dropped it by the fire, and said, \"Now.\"",
+      "through": "Toren put his hands out. His father lifted the Ember out of the coals with the tongs and turned it once so the ashes fell off, and set it down flat across both of Toren's palms, and it was not hot.",
+      "paragraphs": [
+        17,
+        26
+      ],
+      "reason": "Scene turn: Ceremony begins and fails."
+    },
+    {
+      "performance": "neutral",
+      "intensity": "medium",
+      "delivery": "Narrative description of the 'door' opening should be cognitive and terrifyingly quiet. No wonder tone.",
+      "returnToBaseAfter": true,
+      "from": "Then it opened.",
+      "through": "\"Breathe,\" his father said. \"It's not doing anything to you. Breathe.\"",
+      "paragraphs": [
+        28,
+        31
+      ],
+      "reason": "Internal realization; treat as physical sensation."
+    },
+    {
+      "performance": "neutral",
+      "intensity": "low",
+      "delivery": "Toren's shame is internalized. Dessa's intervention should be factual and grounded, not sentimental.",
+      "returnToBaseAfter": true,
+      "from": "He hated, for one hot second, all of them.",
+      "through": "She never talked about it. Toren had watched her watch him take the Ember. He understood, distantly, that he had been given a thing in front of her, and that she had come over and knocked his shoulder anyway. He thought that was probably the more impressive of the two events that morning.",
+      "paragraphs": [
+        43,
+        47
+      ],
+      "reason": "Emotional shift from isolation to shared burden."
+    },
+    {
+      "performance": "neutral",
+      "intensity": "medium",
+      "delivery": "Father's explanation of the disk requires a grounded, heavy cadence. The 'curse' is delivered as plain information.",
+      "returnToBaseAfter": true,
+      "from": "It was a disk. Dark, near-black, about the width of two thumbs, thin as a coin but heavier than a coin should be, on a cord of braided boot-lace. There were grooves cut into the face of it, fine as scratches, running from the center out to the rim. Toren counted them without deciding to. Nine.",
+      "through": "Toren carried the Ember in his coat pocket and put his hand on it about every forty steps, and got nothing, and put his hand on it again. Wyck watched him do it for six or seven miles and finally said, \"You're going to wear it out,\" and Toren said, \"It's not a soap,\" and Wyck laughed, actually laughed, and for a stretch after that they walked together and argued about whether Meridian had electric light in the streets or only in the buildings. Wyck said only in the buildings. Wyck had never seen Meridian either. Wyck said things like a man closing a ledger.",
+      "paragraphs": [
+        56,
+        70
+      ],
+      "reason": "Transfer of burden; shift from ceremony to threat."
+    },
+    {
+      "performance": "neutral",
+      "intensity": "high",
+      "delivery": "Silence as a physical weight. Bram's observation and Marta's command must be delivered with immediate danger but no panic.",
+      "returnToBaseAfter": true,
+      "from": "Toren noticed the quiet about a quarter mile in.",
+      "through": "Marta had come forward. She stood very still with her hands at her sides in the way she had, and after a moment she said, in a voice Toren had never once heard her use, \"Turn the cart around.\"",
+      "paragraphs": [
+        74,
+        85
+      ],
+      "reason": "Scene turn: Discovery of threat."
+    }
+  ],
+  "pauses": [
+    {
+      "paragraph": 37,
+      "after": "The Ember did nothing at all.",
+      "milliseconds": 650,
+      "reason": "Completed thought; silence after failure allows the shame to land before Wyck's snort breaks it."
+    },
+    {
+      "paragraph": 42,
+      "after": "That got Milo laughing again, and Marta took her hand off Toren's back, and the moment let go of him, and Toren stood there in the gravel with his ears burning and thirteen years old and holding a stone.",
+      "milliseconds": 900,
+      "reason": "Major emotional landing. The moment of acceptance and shared burden needs space for Toren to breathe again."
+    },
+    {
+      "paragraph": 58,
+      "after": "\"Yes.\"",
+      "milliseconds": 650,
+      "reason": "Speaker reset after the father's heavy revelation about the disk; allows listener to process the 'curse' weight."
+    },
+    {
+      "paragraph": 71,
+      "after": "That night, camped in a fold below the road with no fire because Bram didn't like the country, Toren asked the Ember for a blade forty or fifty times, and it did nothing every single time, and he fell asleep with his fist around it and dreamed about doors.",
+      "milliseconds": 450,
+      "reason": "Light continuation. Transition from daily routine back into the night scene before the next day's escalation."
+    },
+    {
+      "paragraph": 83,
+      "after": "The harness traces hung down from the shafts, and they had been cut.",
+      "milliseconds": 650,
+      "reason": "Speaker reset and dramatic landing on 'cut traces'. The silence here signals immediate danger without shouting."
+    }
+  ]
+}
