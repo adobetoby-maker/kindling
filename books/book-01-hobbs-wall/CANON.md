@@ -247,6 +247,13 @@ of it is **a Breach** — see `BOOK_MAP.md`.
 ## The Sag line and ash-lifting — the settled economy's version of hunting
 (`POSSIBLE`, Book 2 development, extends the Ch. 28 plant)
 
+**Confirmed Hobb's-Wall-specific, not shared.** The other edition's Ch. 27-28
+stages the arrangement differently — the whole group registered as a liable
+"working company" under conditional residence with Embers held under receipt,
+rather than an individual bought-labor debt — and has no equivalent of a
+Sag-line-style contract at all. Same pattern as the Homura-second-copy
+divergence: developed here, does not travel.
+
 If hunting is the frontier's economy (above), ash-lifting is the same economy
 run inside a station's walls, bureaucratized. Reserve-ash is still ownerless,
 clean fuel — but where the frontier lets whoever kills a Riftspawn simply take
