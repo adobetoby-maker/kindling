@@ -22,7 +22,7 @@ Toren looked up.
 
 Toren sat with his hands around a tin cup and thought about it, and the rain came down at both ends of the arch, and he found that he was frightened, which made no sense at all.
 
-"Why do they come at worked power," he said. "Ember or magic. No difference. That's what you said at Tallow Gate — you said *Ember, magic, doesn't matter which*, and nobody asked you about it, because it's a rule and rules are just true." He turned the cup around. "But it shouldn't work. Wyck's Ember is a piece of metal his aunt bought off a hunter. Dessa hasn't got anything. Milo's light comes out of his hand. Those are three completely different things and something with no eyes is coming at all three of them like they're the same thing."
+"Why do they come at worked power?" he said. "Ember or magic. No difference. That's what you said at Tallow Gate — you said *Ember, magic, doesn't matter which*, and nobody asked you about it, because it's a rule and rules are just true." He turned the cup around. "But it shouldn't work. Wyck's Ember is a piece of metal his aunt bought off a hunter. Dessa hasn't got anything. Milo's light comes out of his hand. Those are three completely different things and something with no eyes is coming at all three of them like they're the same thing."
 
 Nobody moved.
 

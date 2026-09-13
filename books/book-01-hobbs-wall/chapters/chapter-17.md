@@ -74,7 +74,7 @@ The fire had got to the good stage, the one it never reached on a road night, wh
 
 "Vera Kess," he said. "Fifteen. Stone tradition, eight generations of it, out of a clan up in the north-east that had kept hold of more of what it came from than anybody else I've ever met — they'd kept their own words for things, which nobody has, and I'll come back to that because it matters later.
 
-"She was better than me at everything. That is not a soft thing to say about somebody, it's a fact, and it was the central fact of the first two years. She'd had a stone in her hand since she was thirteen and could do things with it I hadn't known were in the world, and she could hold a shape for an hour, and she was clever, and she was the sort of person who's been told all her life she's the best of her generation and has decided that the only sane response is to be unbearable about it.
+"She was better than me at everything. That is not a soft thing to say about somebody; it's a fact, and it was the central fact of the first two years. She'd had a stone in her hand since she was thirteen and could do things with it I hadn't known were in the world, and she could hold a shape for an hour, and she was clever, and she was the sort of person who's been told all her life she's the best of her generation and has decided that the only sane response is to be unbearable about it.
 
 "We despised each other for about eleven months."
 
@@ -198,7 +198,7 @@ He was quiet for a moment.
 
 Toren heard the fire tick. He heard Pitch shift on the hobble. He found that he had put his hand flat on the ground beside him.
 
-"I'll tell you the part you need, and I won't tell you the rest, and that's not me protecting you, it's me." Rook's voice had not changed at all, which was the worst of it. "Here's the part you need.
+"I'll tell you the part you need, and I won't tell you the rest, and that's not me protecting you; it's me." Rook's voice had not changed at all, which was the worst of it. "Here's the part you need.
 
 "They didn't come like Riftspawn. That's what I've been teaching you for four days, and that's why. Riftspawn come *at* you. A husk sees a living thing and goes at it and cannot have a second idea, and everything I taught you in the first eight days works because of that, and none of it worked that night, because men don't do that.
 

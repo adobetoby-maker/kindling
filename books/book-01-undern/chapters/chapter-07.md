@@ -182,15 +182,15 @@ Dessa found Toren at the water, later, filling the cans.
 
 "What wall thing?"
 
-"At Tallow Gate. He told me on the first night — try it through a wall and tell me tomorrow." She crouched on the stones with her arms around her shins. "I didn't tell him tomorrow. I told him this morning, in the tunnel, while she was weighing the jars."
+"At Tallow Gate. He told me on the first night — ‘Try it through a wall and tell me tomorrow.’" She crouched on the stones with her arms around her shins. "I didn't tell him tomorrow. I told him this morning, in the tunnel, while she was weighing the jars."
 
 "Does it work through a wall?"
 
-"It works through a wall. It works through two walls and a tank. It doesn't care about walls at all, and I've had this thing for a year and a half and I never tried it once because when they gave it to me in Coldwater they said *she can feel where people are*, and I decided that meant line of sight, and then I stopped thinking." She dug a stone out of the gravel and turned it over. "He didn't even look pleased. He said, all right, that's the wall. Now hold it."
+"It works through a wall. It works through two walls and a tank. It doesn't care about walls at all, and I've had this thing for a year and a half and I never tried it once because when they gave it to me in Coldwater they said *she can feel where people are*, and I decided that meant line of sight, and then I stopped thinking." She dug a stone out of the gravel and turned it over. "He didn't even look pleased. He said, ‘All right, that's the wall. Now hold it.’"
 
 "Hold it how long?"
 
-"That's what I said." Dessa threw the stone into the black water. "He said, until it's boring."
+"That's what I said." Dessa threw the stone into the black water. "He said, ‘Until it's boring.’"
 
 They carried the cans back up the grade together. Behind them, the cut went away south-east in a straight black line toward the country they had come out of, and ahead of them it went away north-west toward country nobody had told them the name of, and Toren realized, somewhere in the middle of that walk, that in four days of drilling at Tallow Gate he had believed, without ever once checking, that they were being taught how to stay alive on a road.
 

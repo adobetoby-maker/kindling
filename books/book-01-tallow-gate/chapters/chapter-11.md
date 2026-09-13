@@ -152,7 +152,7 @@ Toren did not have anything to say to that.
 
 ---
 
-Milo cooked. He had taken the cooking over somewhere in the last four days without anybody deciding it, and he was better at it than he had any business being, and he had gotten into the habit of handing things round in a particular order — Senna, then Wyck because of the leg, then whoever was on watch, then everybody else.
+Milo cooked. He had taken the cooking over somewhere in the last four days without anybody deciding it, and he was better at it than he had any business being, and he had gotten into the habit of handing things round in a particular order: Senna, then Wyck because of the leg, then whoever was on watch, then everybody else.
 
 Toren sat by the fire with his cut eye and his bad hand and ate, and did not notice for some time that the tally-board was not leaning against the cart where Rook had set it down.
 

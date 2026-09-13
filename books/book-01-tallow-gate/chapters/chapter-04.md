@@ -130,7 +130,7 @@ They were all looking at him. He was standing with his back to them, feeding the
 
 Nobody spoke.
 
-"I'm not going to Meridian," Rook said. "I'm not on that road. I was never on that road, I was crossing it, and I was a mile and a half out when I heard your mule, and I came because I was close enough to." He turned around. His face had nothing on it at all. "That's the whole of it. I want you to have it plain now instead of getting it in pieces over two days and thinking I'm working up to something."
+"I'm not going to Meridian," Rook said. "I'm not on that road. I was never on that road; I was crossing it, and I was a mile and a half out when I heard your mule, and I came because I was close enough to." He turned around. His face had nothing on it at all. "That's the whole of it. I want you to have it plain now instead of getting it in pieces over two days and thinking I'm working up to something."
 
 "You're leaving us at a wall," said Wyck.
 

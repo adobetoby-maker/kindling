@@ -216,6 +216,6 @@ There was a fresh gouge in it. Not a notch. A gouge, four parallel lines the dep
 
 Toren became aware, slowly, of a thing he had been hearing for some time without hearing it. He turned his head. He looked up the hill, and down the road, and out across the whole broad bright valley falling away to the south, and there was wind in the grass and there was Patience shifting her feet in the traces and there was nothing else at all.
 
-"Where are the birds," he said.
+"Where are the birds?" he said.
 
 Nobody answered him. Down the road, in the dry scrub, something clicked twice and stopped.

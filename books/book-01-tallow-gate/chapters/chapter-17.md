@@ -238,7 +238,7 @@ The wind dropped, the way it does an hour or two before light, and the flat went
 
 He stopped, because he could not find the end of the sentence.
 
-"Does it what," said Rook.
+"Does it what?" said Rook.
 
 "I don't know. Does it fix any of it?"
 

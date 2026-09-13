@@ -210,7 +210,7 @@ Wyck made a noise that was almost a laugh and was mostly not.
 
 "Nothing," said Wyck. "What would I say? He didn't want anything said, he wanted it *heard*. He'd been carrying it about for eleven years like a stone in a boot." He looked at his own strapped wrist for a moment. "I asked him why now. Because it's not over. He said when it was finished I'd have it, and it isn't finished, it's been put down, and that's not the same and I wasn't going to pretend it was.
 
-"And he said: no. It isn't finished, it's abandoned, and a man who abandons a thing doesn't get to pay out of that account. He said he was paying out of a different one." Wyck's voice had gone a little rough and he carried on regardless, in the manner of somebody walking over a bad patch of road without slowing down. "He said, *I gave a boy four words in a field about a straw coat and he did them exactly the way I taught him and it cost him everything, and if I'm handing out what I've got left I'd rather do it while there's still somebody here to hand it to.*"
+"And he said: 'No. It isn't finished, it's abandoned, and a man who abandons a thing doesn't get to pay out of that account.' He said he was paying out of a different one." Wyck's voice had gone a little rough and he carried on regardless, in the manner of somebody walking over a bad patch of road without slowing down. "He said, *I gave a boy four words in a field about a straw coat and he did them exactly the way I taught him and it cost him everything, and if I'm handing out what I've got left I'd rather do it while there's still somebody here to hand it to.*"
 
 ---
 

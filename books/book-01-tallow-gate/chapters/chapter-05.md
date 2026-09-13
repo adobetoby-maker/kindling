@@ -18,7 +18,7 @@ It had taken them two and a half days, not two, because Senna Voss on a litter w
 
 Milo had asked. Of course. "How many?"
 
-"One," Rook had said. "One is plenty. One is how everybody dies. Nobody ever gets killed by a hundred of them, they get killed by one they didn't count."
+"One," Rook had said. "One is plenty. One is how everybody dies. Nobody ever gets killed by a hundred of them; they get killed by one they didn't count."
 
 Milo had turned that over for about a mile.
 
@@ -160,7 +160,7 @@ He did it again. Three inches. Then nothing, four times running. Then five inche
 
 "Does it."
 
-"It — yes. It does it when it wants to. On the road it did the same thing, it wouldn't do anything when I needed it and then it just —" Toren heard himself and pushed on anyway, because it was the only explanation that fit and he had been building it for three days. "It decided. That's what it feels like. Like it's got its own opinion and sometimes you're lucky."
+"It — yes. It does it when it wants to. On the road, it did the same thing. It wouldn't do anything when I needed it, and then it just —" Toren heard himself and pushed on anyway, because it was the only explanation that fit and he had been building it for three days. "It decided. That's what it feels like. Like it's got its own opinion and sometimes you're lucky."
 
 He waited for Rook to correct him.
 

@@ -130,7 +130,7 @@ It came up the way weather comes up, as the thing everybody had already been not
 
 "You'll not go up past the quarry," he said. "Not the north side. Not for a fortnight yet."
 
-"Why's that," said Rook.
+"Why's that?" said Rook.
 
 "Tear." Hoy said it the way a man says *rats*. "Opened in the spring up in the old cut, and we had a bad summer off it — lost two off the top field in the sixth month and near lost the whole of the hay. So we put in for a company."
 

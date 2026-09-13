@@ -182,7 +182,7 @@ The fire popped. Out at the top of the yard Wyck shifted his weight off the bad 
 
 "Toren," Dessa said. "When you found that thing in the sluice — when he found it — what did he say to you?"
 
-"He said sew your pocket."
+"He said, 'Sew your pocket.'"
 
 "That's all?"
 

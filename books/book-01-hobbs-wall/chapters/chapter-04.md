@@ -120,7 +120,7 @@ Toren was almost sure of it afterward, though the man never announced it. He sim
 
 Rook stopped tying the strap.
 
-"She can't walk," Dessa said. "She rides, which means the cart goes, which means the cart goes at a mule's pace with one wheel that's already broken once today. There's four of us. One Ember and he got it this morning. A bar and a shovel. No shells. And that stuff you're pouring in your flask —" she pointed at the seams in the road bed, at the long grey slick of it "— that's a smell, isn't it. That's why you're taking it up. It brings more."
+"She can't walk," Dessa said. "She rides, which means the cart goes, which means the cart goes at a mule's pace with one wheel that's already broken once today. There's four of us. One Ember and he got it this morning. A bar and a shovel. No shells. And that stuff you're pouring in your flask —" She pointed at the seams in the road bed, at the long grey slick of it. "— that's a smell, isn't it. That's why you're taking it up. It brings more."
 
 "It brings more," Rook agreed.
 

@@ -8,7 +8,7 @@ Rook went up to the top field at first light and looked at the graves for about 
 
 "She could have two. He offered. He said—"
 
-"I know what he offered." Rook was rolling the canvas. "Get her down the stair with Faust on the other side and don't let her do the last three steps herself, she'll try."
+"I know what he offered." Rook was rolling the canvas. "Get her down the stair with Faust on the other side and don't let her do the last three steps herself; she'll try."
 
 That was all he said about it. Toren, who had watched this man refuse a warden and burn a slate that would not burn, went and got the honey jar off the loft shelf and did not ask. He had learned about four weeks ago that there was a particular flatness the man used when a thing was already decided, and a different one he used when it wasn't. This was not the second one.
 

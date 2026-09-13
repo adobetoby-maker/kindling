@@ -140,7 +140,7 @@ Toren got down in the gravel.
 
 "Dad—"
 
-"She's in the scrub and she's alive, I heard her, and you're going to go and get her out. That's the job." Garrick's eyes came around and found him, and focused, with visible effort. "Where's your Ember."
+"She's in the scrub and she's alive, I heard her, and you're going to go and get her out. That's the job." Garrick's eyes came around and found him, and focused, with visible effort. "Where's your Ember?"
 
 "I've got it."
 
@@ -170,11 +170,11 @@ He was not old. He was somewhere in the country between thirty and fifty where r
 
 He looked at Garrick Voss for a while. He did not say anything about him.
 
-"How many of you," he said.
+"How many of you?" he said.
 
 Toren couldn't make words.
 
-"Boy. How many of you were there."
+"Boy. How many of you were there?"
 
 "Nine," Toren said. "Eight. Nine with — the guide. Odo."
 
@@ -186,7 +186,7 @@ The man's eyes went up the hill, where Dessa was coming down through the grass w
 
 Something went across the man's face, fast, and was gone. He did not look pleased about it.
 
-"Any grown," he said. "Any grown at all. An uncle. Anyone with a claim on you."
+"Any grown?" he said. "Any grown at all? An uncle? Anyone with a claim on you?"
 
 Dessa reached the road. She stood at the edge of it with her arms wrapped around her own ribs and her mother's ash in the weave of her coat and she said, in a voice that was almost normal, "No."
 
@@ -196,7 +196,7 @@ The man stood in the middle of the road with his hands in his pockets and his sh
 
 He turned and went down the shoulder into the thornbrush after the cart without another word, and eleven minutes later he came back up carrying Senna Voss in both arms, and her leg was broken in two places and there was ash all through her white hair, and she was awake, and she was looking at him with a very strange expression.
 
-"What's your name," she said.
+"What's your name?" she said.
 
 "Rook."
 

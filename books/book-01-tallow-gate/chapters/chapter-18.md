@@ -86,7 +86,7 @@ Senna said, "Put me down."
 
 Everybody turned.
 
-"I'm not being dramatic, I'm being practical, and I'd like it heard by everyone standing here so that nobody has to have it out with me later." She had both hands on the front board and she had pushed herself up straighter than Toren had seen her sit in three weeks. "That right-hand line is nineteen days of walking that you don't want to do and it is entirely about me. There's no other reason for it. The boy's not sick. Tanner's leg is closing. Nobody in this barrow needs a machine except the woman in it.
+"I'm not being dramatic; I'm being practical, and I'd like it heard by everyone standing here so that nobody has to have it out with me later." She had both hands on the front board and she had pushed herself up straighter than Toren had seen her sit in three weeks. "That right-hand line is nineteen days of walking that you don't want to do and it is entirely about me. There's no other reason for it. The boy's not sick. Tanner's leg is closing. Nobody in this barrow needs a machine except the woman in it.
 
 "So put me down. Not here — take me down the east line as far as the river, and there'll be a place on a river, there always is, and leave me at it the way you were going to leave all of us at Tallow Gate. I'd have a roof. I'd have a winter. It's a better end than most people get and considerably better than I had coming to me on the fifth of the month."
 
@@ -158,7 +158,7 @@ Then, at about two, she came up the off side and walked at the shaft.
 
 "Yes."
 
-"Then what does it cost." She kept walking. "You've taught me every day since the loop road and you've never once said what any of it took off you to learn. I've watched you for two days and I think the answer's a great deal, and I think you've decided we don't need it. And it's going in *me*. I'd like to know what I'm carrying."
+"Then what does it cost?" She kept walking. "You've taught me every day since the loop road and you've never once said what any of it took off you to learn. I've watched you for two days and I think the answer's a great deal, and I think you've decided we don't need it. And it's going in *me*. I'd like to know what I'm carrying."
 
 Rook walked a while with the shafts in his hands.
 
@@ -182,7 +182,7 @@ At about four she fell back and walked beside Toren for a hundred paces without 
 
 "You are."
 
-"I'm angry, and it isn't at you, and it took me all day to get those two things apart so don't make me do it again." She had her hands in her pockets and her eyes front. "I'm angry because he took you out there and not me. And I've had all day to look at that and it's the ugliest thing I've ever found in myself, because my mother went up a bank for a boy who isn't you and I've never once been angry about that, and I've been angry about this since dusk yesterday."
+"I'm angry, and it isn't at you, and it took me all day to get those two things apart, so don't make me do it again." She had her hands in her pockets and her eyes front. "I'm angry because he took you out there and not me. And I've had all day to look at that and it's the ugliest thing I've ever found in myself, because my mother went up a bank for a boy who isn't you and I've never once been angry about that, and I've been angry about this since dusk yesterday."
 
 "Dessa—"
 

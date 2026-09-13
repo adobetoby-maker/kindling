@@ -106,7 +106,7 @@ The wind came round the corner of the brick box and Toren pulled his coat in, an
 
 "Was it you?" he said.
 
-"Was what me."
+"Was what me?"
 
 "You said they found one thing and they were certain of it. And you said you were there six years, and you're the only person I've ever met who can—" He stopped. He tried again. "You do both of them. Everybody says one at a time. You came down a hill with light round your legs and a spear in your hand and I've been thinking about that since the day it happened, and nobody I've ever asked has heard of it. Was that them? Did they do that to you?"
 
@@ -128,7 +128,7 @@ The wind went over the top of the brick box.
 
 ---
 
-"There were sixty of us. About a third were magic, about a third Ember, and about a third were the other kind — people with no device and no rift in them at all who'd sat down at nineteen and started working on the inside of their own head and had got somewhere by being extremely stubborn for a decade. They're rarer than either of the other two and they're the ones nobody ever talks about, and Homura had eleven of them, which as far as I know is the most that have ever been in one building."
+"There were sixty of us. About a third were magic, about a third Ember, and about a third were the other kind — people with no device and no rift in them at all who'd sat down at nineteen and started working on the inside of their own head and had got somewhere by being extremely stubborn for a decade. They're rarer than either of the other two and they're the ones nobody ever talks about, and Homura had eleven of them, which, as far as I know, is the most that have ever been in one building."
 
 "Which were you?"
 
@@ -154,7 +154,7 @@ He put both elbows on his knees and held the Ember out in front of him in both h
 
 He stopped.
 
-"And the man said, what's that supposed to mean. And she said, it means you've read the same nine thousand pictures I have and you've decided you didn't. And the man laughed and it turned into an argument, and the argument was the usual one and it went round the usual six corners and got nowhere, and I sat there through the whole of it not saying anything, because I had also read them, and I had also decided I hadn't."
+"And the man said, 'What's that supposed to mean?' And she said, 'It means you've read the same nine thousand pictures I have and you've decided you didn't.' And the man laughed and it turned into an argument, and the argument was the usual one and it went round the usual six corners and got nowhere, and I sat there through the whole of it not saying anything, because I had also read them, and I had also decided I hadn't."
 
 The wind moved the grass out on the flat.
 
@@ -212,6 +212,6 @@ He said it perfectly evenly, and he did not look up from his hands, and Toren wa
 
 Toren sat in the cold with his arms round his knees.
 
-"There's more of that," he said. "Isn't there. Things you do that we all think are just how you are."
+"There's more of that," he said. "Isn't there? Things you do that we all think are just how you are."
 
 "Most of it," said Rook.

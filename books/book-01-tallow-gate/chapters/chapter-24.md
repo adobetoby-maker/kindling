@@ -84,7 +84,7 @@ Toren looked up.
 
 ---
 
-"How long," said Wyck.
+"How long?" said Wyck.
 
 He said it to Rook, not to her, and everybody understood why, and Senna let him.
 
@@ -112,7 +112,7 @@ Senna Voss said, "That's the first sensible thing anybody's said on this road in
 
 They went on, and made four more miles before dark, and camped in the lee of a bank where the road had been cut through a rise.
 
-It was a better evening than it had any right to be. That was the thing Toren could not account for afterward. Dessa got the stove going and did not do it in Milo's order and did not do it in her own, she did it in the order that was fastest, and complained about the wind; and Wyck said something about her cooking that was genuinely unkind and genuinely funny; and Senna made all four of them tell her what the road had looked like that day, one at a time, because she had been facing backward in a barrow since the fifth of the month and had seen the whole of this journey going away from her.
+It was a better evening than it had any right to be. That was the thing Toren could not account for afterward. Dessa got the stove going and did not do it in Milo's order and did not do it in her own: she did it in the order that was fastest, and complained about the wind; and Wyck said something about her cooking that was genuinely unkind and genuinely funny; and Senna made all four of them tell her what the road had looked like that day, one at a time, because she had been facing backward in a barrow since the fifth of the month and had seen the whole of this journey going away from her.
 
 Toren sat with his back against the bank and found, at about nine in the evening, that his chest had come loose for the first time in five days, and that he did not have to decide whether that was allowed.
 
@@ -140,7 +140,7 @@ Toren's mouth went dry.
 
 "Why now?"
 
-"Because it doesn't sit in your hand," Rook said. "Edge sits in your hand, and when you drop it, you've dropped a light. Stride sits in your legs. When you drop that you go down at whatever speed you were doing, on whatever's under you, and if you happen to be eleven feet in the air at the time you go down from eleven feet.
+"Because it doesn't sit in your hand," Rook said. "Edge sits in your hand, and when you drop it, you've dropped a light. Stride sits in your legs. When you drop that, you go down at whatever speed you were doing, on whatever's under you, and if you happen to be eleven feet in the air at the time you go down from eleven feet.
 
 "There is no version of putting that in a boy who loses the first one when a bird gets up. So I've had it in my pocket for seven weeks waiting on you, and at that weir you held two feet of white through the worst ninety minutes of your life and did not put it out one single time, and that's the whole of the reason it's tonight and not tomorrow and not in the spring."
 

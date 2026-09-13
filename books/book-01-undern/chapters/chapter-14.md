@@ -162,6 +162,6 @@ He had never once seen him look like a man with nowhere to put his hands.
 
 "All right," Toren said, and went back down the bank, and lay on his side in the grass with his coat over him, and did not sleep for a long time either.
 
-When he did sleep the man was still up there.
+When he did sleep, the man was still up there.
 
 When he woke at first light, he was still up there, and the fire was cold, and the barrow had not been loaded, and nobody was going anywhere.

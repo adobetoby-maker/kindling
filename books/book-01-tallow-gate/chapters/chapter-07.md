@@ -2,7 +2,7 @@
 
 Warden Braid came out to the tank tunnel at first light to weigh Rook's ash, and she did it herself, on her own scale, in front of everybody, which Toren understood later was the point.
 
-She had the balance set up on a barrel head just inside the doors, out of the wind. Rook set the jars on the table one after another and she unstoppered each one and looked into it before she weighed it, tipping the mouth toward the lamp so the light could get down into the grey, and the grey moved.
+She had the balance set up on a barrel head just inside the doors, out of the wind. Rook set the jars on the table one after another, and she unstoppered each one and looked into it before she weighed it, tipping the mouth toward the lamp so the light could get down into the grey, and the grey moved.
 
 "Flask," she said. "Flask. Flask. That one's short."
 
@@ -58,7 +58,7 @@ Wyck did not answer that, but Toren, taking up the near shaft to help push the t
 
 Warden Ottoline Braid walked them to the outside of the doors and no further.
 
-"The page is closed," she said. "I want you to hear the exact shape of that. It's closed, it isn't torn out. If any one of you comes back through this gate in a year, or five, and wants it opened, I'll open it and I'll honor what's on it. That's not me being kind. That's me telling you the terms don't expire, so that none of you spends a winter somewhere worse thinking you burned your bridge here at thirteen."
+"The page is closed," she said. "I want you to hear the exact shape of that. It's closed; it isn't torn out. If any one of you comes back through this gate in a year, or five, and wants it opened, I'll open it and I'll honor what's on it. That's not me being kind. That's me telling you the terms don't expire, so that none of you spends a winter somewhere worse thinking you burned your bridge here at thirteen."
 
 "Not all of us," said Milo. "Wyck's fifteen."
 
@@ -74,7 +74,7 @@ The bank was a railway.
 
 It took Toren most of a mile to be sure, because there were no rails and no ties and hardly any stone left proud of the grass, and because he had never seen one. But the shape of it was unarguable once you were up on top: a raised bed thirty feet wide running dead straight across country, holding its level where the land fell away and cutting down into the land where the land rose, so that it went through a low ridge in a trench with rock walls instead of going over the top. Somebody had spent an unimaginable amount of somebody else's labor on making one line of ground refuse to go up or down.
 
-"They took the iron off it," Rook said, when Milo asked. "Everybody did, everywhere, in the first ten years. There's not a mile of rail left standing between here and the coast."
+"They took the iron off it," Rook said when Milo asked. "Everybody did, everywhere, in the first ten years. There's not a mile of rail left standing between here and the coast."
 
 "Then what's it for?"
 
@@ -88,7 +88,7 @@ Rook drilled them at midday, and it was not like the yard at Tallow Gate.
 
 In the yard it had been the diamond, over and over, turning and stopping, a thing you could do poorly and be shouted at about. Out here he split them up.
 
-"Cole. Fifty paces ahead, on the bank, and I want you holding it — not checking it, holding it — until I call you. Faust, with her, no light. Voss, back down the grade two hundred, sit on the top of the cut where you can see both ways, and if you see anything you don't understand you don't shout, you come and tell me." He set the shafts down. "Tanner. Out of the cart."
+"Cole. Fifty paces ahead, on the bank, and I want you holding it — not checking it, holding it — until I call you. Faust, with her, no light. Voss, back down the grade two hundred. Sit on the top of the cut where you can see both ways, and if you see anything you don't understand, you don't shout; you come and tell me." He set the shafts down. "Tanner. Out of the cart."
 
 "You said—"
 
@@ -110,7 +110,7 @@ He was still up there when the sun came off the vertical and Rook whistled him i
 
 He came down the grade at a jog and found Wyck sitting on the bundle in the grass with sweat running off his jaw and three feet of white light standing steady out of his fist, and Rook crouched on his heels eight feet away watching it the way a man watches a pot.
 
-"How long," Toren said.
+"How long?" Toren said.
 
 "Don't talk to him."
 
@@ -130,7 +130,7 @@ Wyck's head came up.
 
 Toren, watching, saw the whole thing arrive in the boy's face — saw it land, and saw what it landed on, and saw Wyck decide in about a second and a half to be furious about it instead of pleased.
 
-"What's *Flame*."
+"What's *Flame*?"
 
 "A rung."
 
@@ -140,7 +140,7 @@ Toren, watching, saw the whole thing arrive in the boy's face — saw it land, a
 
 "Hey," said Milo, obscurely delighted.
 
-"What are *you*," said Wyck.
+"What are *you*?" said Wyck.
 
 Rook put the shafts on his shoulders and leaned into them and the cart came up out of the grass, and he was twenty feet down the grade before he answered, and he did not turn around to do it.
 

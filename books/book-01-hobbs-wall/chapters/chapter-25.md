@@ -22,7 +22,7 @@ Senna they took out of the cart, which she hated, and set on a blanket in the an
 
 He stopped.
 
-"You've a hole through your back," said Senna Voss, "and I can hear it in your voice at forty feet, and I am going to say this once because I'm not going to get another clean run at it. Whatever it is you're about to do out there, do the version of it that has you in the road afterward, because these four have had one funeral and they are not — " she took a breath she had to go some distance for " — they are not good at them yet."
+"You've a hole through your back," said Senna Voss, "and I can hear it in your voice at forty feet, and I am going to say this once because I'm not going to get another clean run at it. Whatever it is you're about to do out there, do the version of it that has you in the road afterward, because these four have had one funeral and they are not — " She took a breath she had to go some distance for. " — they are not good at them yet."
 
 Rook stood with his hand on the cart rail.
 

@@ -110,7 +110,7 @@ He gave it ground. He did it exactly as he had been told, without one instant of
 
 And then it went past him.
 
-Toren saw it happen from eleven feet away with the shafts in his hands. The thing came round the tailboard and it did not follow Wyck at all, it went in over the tailboard, and there was an old woman in a barrow with a splinted leg and no way of getting anywhere, and she was the nearest thing in the world with nothing in front of her.
+Toren saw it happen from eleven feet away with the shafts in his hands. The thing came round the tailboard and it did not follow Wyck at all; it went in over the tailboard, and there was an old woman in a barrow with a splinted leg and no way of getting anywhere, and she was the nearest thing in the world with nothing in front of her.
 
 Wyck Tanner put three feet of white light through it from below the ribs.
 
@@ -150,7 +150,7 @@ The pan opened.
 
 It did not come up the way the others came up.
 
-The others came out of water or out of cover, folding, one part of them at a time, and you could watch it happen and know what you were looking at before it finished. This did not arrive. Sixty feet off the left side of the barrow a circle of the grey floor about four yards across went soft, and sank, and then stood up.
+The others came out of water or out of cover, folding, one part of them at a time, and you could watch it happen and know what you were looking at before it finished. This did not arrive. Sixty feet off the left side of the barrow, a circle of the grey floor about four yards across went soft, and sank, and then stood up.
 
 It stood up grey-white, the colour of the ground, and it kept standing up, and by the time it had stopped it was higher than the barrow was long.
 
@@ -358,7 +358,7 @@ Wyck Tanner had come up the ramp behind him on a stick and got both hands on the
 
 ---
 
-The last of it happened sixty yards away and Toren watched it lying on his side on a quarry ramp with his cheek on the stone.
+The last of it happened sixty yards away and Toren watched it, lying on his side on a quarry ramp with his cheek on the stone.
 
 The Breach came up the tip road and Rook did not let it past.
 

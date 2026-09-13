@@ -40,7 +40,7 @@ Rook turned around.
 
 Wyck stood there with his jaw working.
 
-"Is there a reason," he said, "or is that just how it is."
+"Is there a reason," he said, "or is that just how it is?"
 
 "That's just how it is," said Rook.
 
@@ -222,7 +222,7 @@ He was looking at Toren.
 
 He said it in an absolutely reasonable voice, from the ground, with his leg out straight in front of him, and he did not raise it at all.
 
-"You made a call," he said. "Nobody gave you the call. He put you at point and you took it like it was yours and you made a call and it went through my leg. And tomorrow he's going to put you at point again, isn't he. And you know what the worst part is? You're going to let him."
+"You made a call," he said. "Nobody gave you the call. He put you at point and you took it like it was yours and you made a call and it went through my leg. And tomorrow he's going to put you at point again, isn't he? And you know what the worst part is? You're going to let him."
 
 Toren said, "Wyck—"
 
@@ -252,7 +252,7 @@ His hands began to shake.
 
 They had been steady all the way through the pumphouse until four minutes into Wyck's leg. They had been steady coming up the hill. They started now, holding a warm dark disk in a quarry sluice with nothing in front of him at all, and they got worse for about five seconds and then Rook noticed Toren watching and put a stop to it in the way you stop a shiver, by force.
 
-"Where did you get this," he said.
+"Where did you get this?" he said.
 
 "My father."
 
@@ -272,7 +272,7 @@ Then he reached out and put it into Toren's hands and closed both of the boy's f
 
 "Sew your pocket."
 
-"You're not going to tell me anything, are you," Toren said. "Not what it is, not why you looked at it like that, not why you put me at point when Wyck's better than me. Not one thing."
+"You're not going to tell me anything, are you?" Toren said. "Not what it is, not why you looked at it like that, not why you put me at point when Wyck's better than me. Not one thing."
 
 Rook stood up out of the water.
 

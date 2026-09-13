@@ -38,7 +38,7 @@ He got two, which was worse than the first time, and he said so, and Rook said *
 
 By the middle of the morning, he had worked out what was happening and he had worked out a way around it, and he was very pleased with himself for about an hour.
 
-What was happening was this: when he walked, he had to look at the ground. When he looked at the ground he came out of the room to look, the same way he had come out of the room to look at a stick swinging toward his head, and the light went with him. So he stopped looking at the ground. He picked a line of flat grass with nothing in it, and he put his eyes on a fence post two hundred paces off, and he shut the whole of the rest of the field out of his head, and he walked.
+What was happening was this: when he walked, he had to look at the ground. When he looked at the ground, he came out of the room to look, the same way he had come out of the room to look at a stick swinging toward his head, and the light went with him. So he stopped looking at the ground. He picked a line of flat grass with nothing in it, and he put his eyes on a fence post two hundred paces off, and he shut the whole of the rest of the field out of his head, and he walked.
 
 He got to the water with twenty inches of Edge still burning.
 
@@ -86,7 +86,7 @@ Rook finished his bread and wiped his hands on his coat.
 
 Toren stood there with the bread in his hand.
 
-"Is that good," he said.
+"Is that good?" he said.
 
 "That's good," said Rook, and put the shafts on his shoulders.
 
@@ -140,7 +140,7 @@ He got another eighty paces before he noticed.
 
 When he did notice, it went out at once, and he stopped dead in the middle of the grade and said a word that his grandmother would have had opinions about.
 
-"How long," he said. "How long was that."
+"How long?" he said. "How long was that?"
 
 "You don't want to know," said Wyck.
 

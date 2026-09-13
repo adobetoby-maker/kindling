@@ -68,7 +68,7 @@ Milo sat up. He had a long red scrape from his ear to his collarbone, and he was
 
 "Why does it go out?"
 
-They were sitting on the yard wall. Rook had let them collect the ash themselves for the first time — three seams' worth, which in the flat tin flask came to about two fingers, and Rook had looked at it and said "a Handful, maybe, if you sold it at a wall, and don't ever let them tell you it's less."
+They were sitting on the yard wall. Rook had let them collect the ash themselves for the first time — three seams' worth, which in the flat tin flask came to about two fingers, and Rook had looked at it and said, "A Handful, maybe, if you sold it at a wall, and don't ever let them tell you it's less."
 
 "Why does it go out," Toren said again.
 

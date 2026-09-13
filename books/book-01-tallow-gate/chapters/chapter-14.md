@@ -22,7 +22,7 @@ It took him a while, and then he could not stop seeing it. Past the willows the 
 
 He had stopped in the middle of the grade with his stick planted. He was looking at it the way he looked at things: for longer than anyone else, with his head slightly down, as though the country were a page of writing that could be gotten wrong.
 
-"What's at the bottom of it," he said.
+"What's at the bottom of it?" he said.
 
 Nobody answered him. Toren turned around, which was what he had already done with the front half of himself, and Rook was thirty paces back with the shafts of the barrow on his shoulders and his eyes on the willows, and he had stopped walking.
 

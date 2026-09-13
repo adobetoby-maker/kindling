@@ -148,7 +148,7 @@ And Toren saw the shaft move, and the room went away, and the light went out, an
 
 "Cole?"
 
-"He's all right." Dessa's voice, from a long way off, and then much closer, and then her hands on his jaw turning his head. "It's the eyebrow. It's just the eyebrow, they bleed like that. Nothing's broken. His hand's bad."
+"He's all right." Dessa's voice, from a long way off, and then much closer, and then her hands on his jaw turning his head. "It's the eyebrow. It's just the eyebrow. They bleed like that. Nothing's broken. His hand's bad."
 
 "How bad."
 
@@ -206,7 +206,7 @@ Rook sat down on the ballast beside him, which he had not done before.
 
 Toren sat on the stones with the wind going over and thought about that.
 
-"How long," he said.
+"How long?" he said.
 
 "Don't ask that."
 

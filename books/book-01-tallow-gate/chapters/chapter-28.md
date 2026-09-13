@@ -16,11 +16,11 @@ Nobody said anything.
 
 "And the two things will not run together. To start ours she has to come off theirs, entirely, and once she's off it there is no going back onto it, because the thing that's holding her is holding her in one place and when you take it away the thing moves, and where it goes is not up to any of us."
 
-"How many," said Rook, from the bench.
+"How many?" said Rook, from the bench.
 
 "Eleven, in nineteen years. Seven are alive."
 
-"Of the four."
+"Of the four?"
 
 "Two were older than her," said Physician Kell, "and one was not."
 
@@ -206,7 +206,7 @@ He had been wrong about the first half and exactly right about the second, and h
 
 ---
 
-"Have you heard the name," Toren said.
+"Have you heard the name?" Toren said.
 
 He said it loudly, sitting on the edge of his grandmother's bed that evening, and when she did not get it the first time he wrote it on the back of a requisition slip with a pencil and held it up.
 
@@ -318,7 +318,7 @@ There were about forty of them and they came out through the gate yard in twos a
 
 Toren Voss stood against the wall of the yard with his hands in his pockets and watched them go.
 
-He had, in one pocket, a paper receipt for a grey rod the length of his forearm with four generations of Voss thumbs worn into a band round the middle of it. He had, in the other, under two rows of stitches, a flat dark thing with nine cuts across the face of it, which had been put through the best instruments on this continent twice, sixty-one years ago, and had come back both times as an empty tray; and which a man with no name had put into the hands of a woman nobody in his family had ever spoken of, along with a sentence about the end of the world.
+He had, in one pocket, a paper receipt for a grey rod the length of his forearm with four generations of Voss thumbs worn into a band round the middle of it. He had, in the other, under two rows of stitches, a flat dark thing with nine cuts across the face of it, which had been put through the best instruments on this continent twice, sixty-one years ago, and had come back both times as an empty tray, and which a man with no name had put into the hands of a woman nobody in his family had ever spoken of, along with a sentence about the end of the world.
 
 He did not know what it was.
 

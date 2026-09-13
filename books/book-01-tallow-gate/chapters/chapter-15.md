@@ -92,7 +92,7 @@ Toren's throat closed.
 
 "Gran—"
 
-"Don't. I'm not asking you for anything, I'm telling you something." She turned her head and looked at him. "He put the pen down. He didn't sign it and he didn't explain it and he's never once mentioned it since, and I have thought about that pen every single day for a month. Whatever's going on up on that bank, boy — whatever it is — it's the same thing as the pen. I'd put money on it if I had any."
+"Don't. I'm not asking you for anything. I'm telling you something." She turned her head and looked at him. "He put the pen down. He didn't sign it and he didn't explain it and he's never once mentioned it since, and I have thought about that pen every single day for a month. Whatever's going on up on that bank, boy — whatever it is — it's the same thing as the pen. I'd put money on it if I had any."
 
 ---
 
@@ -126,7 +126,7 @@ Rook had not moved.
 
 The wind came across the flat and moved the grass on the bank and went on.
 
-"When did he tell you that," Rook said.
+"When did he tell you that?" Rook said.
 
 "The night I was Kindled. The same night he gave me the Ember." Toren's arm was still out. He could not seem to put it down. "He said it isn't a gift, it's a debt. He said somebody handed it to us and nobody's ever been able to put it down. And he said if it ever came to a choice between that and me, I should put it in a river and not tell anybody where."
 
@@ -220,7 +220,7 @@ Dessa said, "How long?"
 
 Dessa nodded once and went and sat down by Senna and did not look at him again.
 
-His coat was on the tailboard where he had left it at noon, and it was not as he had left it at noon. It was folded. The wet had been beaten out of the shoulders. When he put it on there was a weight in the right-hand pocket that had not been there before, and he put his hand in and found two flat cakes off the stone wrapped in a cloth, still warm.
+His coat was on the tailboard where he had left it at noon, and it was not as he had left it at noon. It was folded. The wet had been beaten out of the shoulders. When he put it on, there was a weight in the right-hand pocket that had not been there before, and he put his hand in and found two flat cakes off the stone wrapped in a cloth, still warm.
 
 Across the fire Milo had his back turned and did not turn it.
 

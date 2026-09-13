@@ -18,7 +18,7 @@ Rook went out fifteen feet and stopped in the same place he had stopped two nigh
 
 "I'll say it before anything else," said Whitlow. "I've come for the bodies."
 
-"They're up above the flood line under canvas. You'll want four men and a hurdle for Orsk, he's heavy."
+"They're up above the flood line under canvas. You'll want four men and a hurdle for Orsk; he's heavy."
 
 Whitlow's head went back very slightly.
 
@@ -94,7 +94,7 @@ He stopped.
 
 ---
 
-"Why," said Wyck Tanner.
+"Why?" said Wyck Tanner.
 
 It came out of him flat and fast and everybody heard exactly how long it had been sitting there, and Toren realized, with a jolt, that he had heard it before — in a yard in front of a burned wayhouse, in another life, about who stood at point.
 
@@ -130,7 +130,7 @@ He came back with four of them and a hurdle and they did it in two trips and the
 
 "He was there. He'd have known who paid—"
 
-"He'd have known nothing." Rook was coiling the canvas cord round his hand. "A man that age in a company that size doesn't get told who bought the contract, he gets told where to stand. But he'd have given me a name, because I was standing over him on a walkway and he had five people up a valley, and a man will hand you a name to keep his teeth.
+"He'd have known nothing." Rook was coiling the canvas cord round his hand. "A man that age in a company that size doesn't get told who bought the contract; he gets told where to stand. But he'd have given me a name, because I was standing over him on a walkway and he had five people up a valley, and a man will hand you a name to keep his teeth.
 
 "And then I'd have had it. I'd have had a name I could not check, off a frightened man, for the rest of my life, and I would have gone and found whoever it belonged to." He put the cord in the barrow. "I told you on a step at a junction. I don't know their name. I'm not going to. That's not me being noble, Voss. That's me knowing exactly what I'm like."
 
