@@ -12,44 +12,62 @@ Company's remnant re-forming off-page rather than being resolved. **Edition-
 specific:** the exact antagonist figures, scene staging, and how directly
 Cinder Company's remnant intrudes on this book vs. staying reserved for Book 3.
 
-## Book promise
+## Book promise — course-corrected this pass (owner-directed)
 
-- **Protagonists and immediate lack:** Toren and Rook return from Book 1 with
-  real standing (a name, a rank, a debt, a residency) but no idea what
-  Meridian actually wants from them — the summons that opens this book answers
-  that question, and the answer is worse than either of them expected: not
-  punishment, not gratitude, but *use*.
-- **Story engine:** an institution, not a road. Book 1's engine was travel;
-  Book 2's is a fixed place with fixed rules that turn out to bend differently
-  for people who are useful than for people who aren't. Rook chose his own
-  four-season debt; most Kindled residents at Meridian don't get a choice at
-  all, and the book is about what the clan does once they notice that.
-- **Repeating reader pleasures:** the found-family's bonds tested against a
-  system that doesn't want to fight them, just *file* them; Dessa's leadership
-  becoming visible and self-initiated rather than earned-in-crisis; Rook
-  teaching someone who isn't Toren for the first time; a bureaucracy that is
-  fair by its own lights and still doing real harm — the Nell Quill/Warden
-  Braid pattern from Book 1, now the whole opposition rather than one scene.
-- **Ending promise:** a real, named injustice in how Meridian treats
-  unaffiliated Kindled residents gets exposed and partially fixed — not solved
-  system-wide, a specific accord for specific people, won at real cost. Cinder
-  Company's remnant, held off-page all book, re-forms into something with a
-  name, closing this book's own question while opening Book 3's larger canvas.
-- **Book-level irreversible change:** Rook and Toren stop being useful
-  individuals Meridian tolerates and become people Meridian has to negotiate
-  with — a different kind of standing than Book 1 ended on, and a more
-  dangerous one.
+**Load-bearing note:** an earlier pass over-weighted this book toward
+institutional/political material and under-weighted the genre's actual
+engine. Correction: **the repeating reader pleasure is growth, powers, and
+fights — the societal material is real pressure sitting underneath that, not
+the spine.** Meridian's Kindled system stays in the book as backdrop, stakes,
+and eventually the climax's occasion — it does not replace training, discovery,
+and combat as what most chapters are actually about. If a chapter card for
+this book doesn't deliver a training beat, a fight, or a rank/technique
+advance, it needs a reason better than "the politics needed a scene."
+
+- **Protagonists and immediate lack:** the team has real standing now but has
+  quietly stopped growing — Book 1 proved what they could do under Rook's
+  direct teaching; Book 2 opens with each of them privately suspecting
+  they've gone as far as their own door goes, and being wrong.
+- **Story engine:** *the team learning their own craft past what they
+  believed was its ceiling.* Concretely: an accident under real pressure
+  reveals that Stride can do something nobody has ever taught, because
+  nobody ever needed to look — and chasing that discovery down, deliberately,
+  training it, breaking it, teaching it to each other, is what most of this
+  book's chapters are actually about. Meridian's ash-lifting work is where the
+  accident happens and where the training gets its real stakes; the
+  institutional pressure is the reason the discovery matters to more people
+  than the clan, not the reason for making it.
+- **Repeating reader pleasures:** the specific mechanical thrill of a new
+  technique nobody has ever had (Stride's brace — see `CANON.md`) being found,
+  broken, and rebuilt by trial; each teammate hitting and then breaking a
+  belief about their own ceiling; real fights where the new technique is
+  tested under stakes, not drilled safely; Rook learning something from his
+  own students for the first time; the found-family's bonds tested against
+  institutional power as a real but secondary pressure.
+- **Ending promise:** the team's whole toolkit is measurably wider than it
+  was on the first page — Edge+Stride-as-brace trained and reliable for at
+  least one teammate beyond Toren, individual rank movement earned through
+  training and combat, not narration. Layered under that: a real, named
+  injustice in how Meridian treats unaffiliated Kindled residents gets
+  exposed and partially fixed, at real cost, using the team's new capability
+  as the actual instrument of that fix — not a separate plot resolved by
+  talking. Cinder Company's remnant re-forms into something with a name,
+  opening Book 3's larger canvas.
+- **Book-level irreversible change:** the ceiling Book 1 seemed to set — "the
+  Ember does one thing at a time, until unbound" — turns out to have been
+  nobody's actual limit, just nobody's attempt. That discovery, not the
+  accord, is the book's real irreversible change.
 - **Status:** `POSSIBLE`
 
-## Character pressure
+## Character pressure — each carries a private "I've gone as far as this goes"
 
-| Character | Wants | Fears/avoids | False or incomplete model | Costly change | Status |
-|---|---|---|---|---|---|
-| Toren | To understand what the summons actually wants before it costs Rook anything | Being used the way Meridian used Rook at nineteen, without noticing until it's too late | Believes standing (a rank, a kill, a name) protects the people he loves from institutions — Book 1 already cracked this once and Book 2 breaks it further | Chooses to teach someone else the Path for the first time, at real cost to his own safety | `POSSIBLE` |
-| Rook | To honor his four-season debt cleanly and keep his household small and safe | Becoming, without meaning to, the kind of institutional asset Homura once made him | Believes a debt honestly signed is a debt fully paid — Book 2 shows him debts can be called in ways he never agreed to | Has to choose between the letter of what he signed and the people it's actually costing | `POSSIBLE` |
-| Dessa | To be trusted with something real that isn't reactive — not called on, calling the shot | Being useful only in a crisis, the way she was on the road | Believes leadership has to be earned through emergency, the way hers was | Acts on her own initiative before anyone hands her permission, and it costs her standing with the institution before it earns her any | `POSSIBLE` |
-| Wyck | To use what he fought for to protect someone who hasn't fought for anything yet | Becoming the kind of person who pulls the ladder up once he's climbed it | Believes his hard-won standing is his to keep quiet about, the way Rook kept quiet about his | Extends patience and protection to a stranger who hasn't earned it, the way it was never offered to him | `POSSIBLE` |
-| Senna | To be more than a patient in a building she can't leave | Becoming a burden the clan stays in Meridian to manage | — | Uses her position (permanent resident, institutional memory, nothing left to lose institutionally) to do something none of the others can | `POSSIBLE` |
+| Character | Wants | The ceiling they believe is real | Costly change | Status |
+|---|---|---|---|---|
+| Toren | To find out whether the towpath breakthrough was a fluke or a door | Believes Edge+Stride was a one-time, adrenaline-only event he can't reliably reach again | Trains the blend deliberately for the first time, fails publicly and often, and is the one who first gets the brace to hold on purpose, not by accident | `POSSIBLE` |
+| Rook | To teach what he already knows without having to learn anything new himself | Believes two doors, Edge, Stride, and Ward-adjacent instinct are the whole of what he has to offer as a teacher | Is taught something by a student for the first time in his life, and has to be honest about how that feels | `POSSIBLE` |
+| Dessa | To be trusted with something real, not called on only in a crisis | Believes her sensing is a support skill, permanently secondary to whoever's actually fighting | Discovers the brace *first*, by accident, protecting someone with her body when she had no weapon to protect them with — proof her door was never only support | `POSSIBLE` |
+| Wyck | To use what he fought for to protect someone who hasn't fought for anything yet | Believes his resilience (the third door) is a fixed, personal trait — something he *is*, not a technique that can be trained further | Rook names, in the new flashback, that resilience has its own further reach — Wyck spends the book chasing it and gets partway there, publicly, for the first time | `POSSIBLE` |
+| Senna | To be more than a patient in a building she can't leave | — | Uses her position (permanent resident, institutional memory, nothing left to lose institutionally) to do something none of the others can, at the book's institutional climax | `POSSIBLE` |
 
 ## Opposition and off-page motion
 
@@ -70,47 +88,55 @@ Cinder Company's remnant intrudes on this book vs. staying reserved for Book 3.
   interest in the object (it came out of *their* depot) is a second reason the
   Director's office keeps an eye on Toren specifically.
 
-## Movement architecture
+## Movement architecture — growth and combat carry the chapters; the ledger runs underneath
 
 | Movement | Rough chapters | Entry pressure | Escalation | Turn | Status |
 |---|---:|---|---|---|---|
-| 1 — The Summons | 1–5 | Toren and Rook answer the Director's office card; Rook's ash-lifting debt becomes daily, physical reality | The Director wants more than an accounting of the Breach kill — an ongoing arrangement, framed reasonably, that would make Toren a resource the same way Rook already is one | Toren notices the same offer, differently worded, has already been made to Kindled residents with no standing to refuse it | `POSSIBLE` |
-| 2 — Yard C | 6–11 | Settling into Meridian life; Dessa navigates the station's systems faster than anyone; Wyck takes on real work | Toren meets a Kindled family/child with no advocate and no choice in their own registration — the disparity stops being abstract | Dessa acts on it before anyone asks her to, and it costs her standing with the yard office | `POSSIBLE` |
-| 3 — What's Owed | 12–16 | The clan disagrees internally about how far to push — Rook's residency and Senna's care are real, immediate leverage against acting | A first trace of Cinder Company's remnant reaches Meridian (a name, a rumor, a piece of brass) — reminder that the outside world hasn't stopped being dangerous while they've been safe | Rook has to decide whether protecting his own household means staying quiet, and chooses not to, at cost | `POSSIBLE` |
-| 4 — The Case | 17–21 | A specific, named injustice — a Kindled worker hurt or killed under conditions Rook's own voluntary debt doesn't carry — makes the system's harm personal, not structural | The Director's office is not a villain about it; Corliss's own reasoning is exposed as coherent and still wrong | The clan commits to a real confrontation, knowing it risks everything Book 1 won them | `POSSIBLE` |
-| 5 — Reckoning | 22–26 | Direct confrontation with Meridian's institutional power — a hearing, a public reckoning, or an act of open refusal, not a fight; this book's climax should be a different register from Book 1's arsenal-climax | Toren teaches the Path to someone who isn't his to teach, in public, as an act of defiance and proof at once | A real, specific, incomplete accord is won — not systemic reform, a named fix for named people | `POSSIBLE` |
-| 6 — The Remnant | 27–30ish | Aftermath; the clan's new, more dangerous standing at Meridian | Confirmation that Cinder Company has re-formed under a new name, somewhere else, with resources | Closes Book 2's own promise while opening Book 3's larger canvas | `POSSIBLE` |
+| 1 — The North Yard | 1–5 | Toren and Rook answer the Director's summons; Rook's ash-lifting debt becomes daily, dangerous, physical work the whole team ends up drawn into | The yard's Riftspawn-clearing work is genuinely hazardous — real fights, real close calls, and the institutional wariness toward Kindled residents is felt rather than explained | Toren, training on his own, tries to reach the towpath blend deliberately for the first time — and can't | `POSSIBLE` |
+| 2 — What Dessa Did | 6–10 | A yard accident goes wrong fast; Dessa has no weapon and no time, and gets between someone and a blow with nothing but her Stride and instinct | Her strut-frame locks rigid mid-motion instead of failing — an accident, not a technique, and it holds | Rook has never seen it before either. The book's real engine opens: what was that, and can it be done on purpose | `POSSIBLE` |
+| 3 — The Empty Mind, the Open Door | 11–15 | The team pushes Dessa to reproduce it and mostly fails; frustration and real injury mount | Rook, cornered by his own not-knowing, finally tells a flashback he held back the first time — a deeper account of the soul/mind connection from Homura, incomplete even to him until now | The account reframes the accident as method, not luck — the team starts training the brace on purpose, and Wyck is named as someone whose third door goes further than he's ever tested | `POSSIBLE` |
+| 4 — Held | 16–20 | Deliberate training arc: the brace trained, broken, and rebuilt through real failure; Toren reaches for Edge+brace together, not just Edge+Stride-as-speed | A real fight — Riftspawn or otherwise — forces the technique to work under stakes no drill can fake; someone gets hurt when it fails at the wrong moment | Toren gets it to hold on purpose for the first time, and immediately has to teach it to someone else under pressure, with no time to have taught it well first | `POSSIBLE` |
+| 5 — Reckoning | 21–25 | The institutional plot resurfaces at full weight: a specific, named injustice — a Kindled worker hurt or killed under conditions Rook's own voluntary debt doesn't carry — forces a real confrontation with the Director's office | The confrontation is won or forced through demonstrated action, not argument alone — the team's new capability is what makes the case, publicly, that Kindled residents are worth more than their labor | A real, specific, incomplete accord is won — not systemic reform, a named fix for named people | `POSSIBLE` |
+| 6 — What's Wider Now | 26–30ish | Aftermath and consolidation — rank movement and the brace confirmed reliable for at least one teammate beyond Toren | Confirmation that Cinder Company has re-formed under a new name, somewhere else, with resources | Closes Book 2's own promise (the team's toolkit measurably wider) while opening Book 3's larger canvas | `POSSIBLE` |
 
 ## Plant and payoff map (seeds for this book, from Book 1)
 
 | Plant | Established in Book 1 | Intended Book 2 payoff | Status |
 |---|---|---|---|
-| The Director's joint summons ("attendance not compulsory") | Ch. 28 | Opens Movement 1 directly | `POSSIBLE` |
-| Rook's four-season ash-lifting debt "for her address" | Ch. 28 | Becomes the book's central leverage point in Movement 3 | `POSSIBLE` |
-| "Released to bearer," no name attached | Ch. 28 | Meridian's own institutional interest in the disk, a second thread pulling Toren into the Director's attention | `POSSIBLE` |
-| Tull alive, company "will re-form under another name" | Ch. 22 | Confirmed off-page in Movement 6, opens Book 3 | `POSSIBLE` |
-| Dessa's confirmed Ember rank, practical leadership | Ch. 18, 26 | Becomes self-initiated rather than reactive in Movement 2 | `POSSIBLE` |
-| Wyck's new bar, relearning left-handed | Ch. 28 | His protection of a stranger in Movement 2 mirrors what was never offered to him | `POSSIBLE` |
+| "Everybody's mostly right about most things" / "you did both" (Ch. 5) — Toren already asked Rook about blending, once | Movement 1 | Book 1 (Ch. 26) plant of the actual mechanism ("the changeover isn't a distance, it's a question") is what Rook finally teaches forward, now as a repeatable lesson instead of a one-time crisis answer | `POSSIBLE` |
+| The Director's joint summons ("attendance not compulsory") | Ch. 28 | Opens Movement 1 directly; the ash-lifting work it leads to is where the accident happens | `POSSIBLE` |
+| Rook's four-season ash-lifting debt "for her address" | Ch. 28 | The daily danger of that work is Movement 1–2's real backdrop, not just leverage | `POSSIBLE` |
+| Dessa's confirmed Ember rank, thirty-foot sensing | Ch. 18, 26 | She's the one who discovers the brace by accident — proof her door was never only support | `POSSIBLE` |
+| Wyck's third door (Resilience), named but never tested past its ceiling | Ch. 10, 17 | The new flashback (Movement 3) names that resilience has further reach; Wyck spends the book chasing it | `POSSIBLE` |
+| Tull alive, company "will re-form under another name" | Ch. 22 | Confirmed off-page in Movement 6, opens Book 3 — kept as backdrop, not the engine | `POSSIBLE` |
+| "Released to bearer," no name attached | Ch. 28 | Meridian's institutional interest in the disk stays a live, secondary thread — not required to pay off this book | `POSSIBLE` |
 
 ## Ending proof
 
-Book 2 resolves its own central pressure — can the clan's bonds extend past
-themselves — by winning a real, incomplete accord for specific Kindled
-residents at real cost to the clan's own hard-won safety. It creates Book 3's
-changed world by confirming Cinder Company's remnant has re-formed with
-resources, and by establishing the clan's new standing at Meridian as
+Book 2 resolves its own central pressure — has the team actually gone as far
+as they believed, or was that belief just untested — by producing a real,
+trained, repeatable technique (the brace) that at least two teammates can use
+reliably under pressure by the book's end, earned through failure and real
+combat rather than narrated as a given. Layered under that, a real but
+incomplete accord for Meridian's unaffiliated Kindled is won using that new
+capability as the actual instrument, not a separate resolution. It creates
+Book 3's changed world by confirming Cinder Company's remnant has re-formed
+with resources, and by establishing the clan's new standing at Meridian as
 something dangerous rather than merely earned.
 
 ## Open decisions
 
-- Exact identity/fate of the Kindled family/child at the center of Movement 4's
-  case — freely inventable, needs to be specific enough to carry the book's
-  emotional weight.
+- Exact identity/fate of the Kindled family/child affected by Movement 5's
+  named injustice — freely inventable, needs to be specific enough to carry
+  the book's emotional weight without becoming the book's main plot.
 - Whether Director Corliss becomes a recurring Book 3 figure (ally, obstacle,
   or both) or is fully resolved within Book 2.
-- Exact form of Movement 5's climax register — a hearing, a public act of
-  teaching, an organized refusal — needs a concrete choice before this promotes
-  past `POSSIBLE`.
+- **The brace's exact name and mechanism are being compared with the other
+  authoring session before either side locks terminology** — see `CANON.md`
+  for the current working definition (a second Stride *shape*, structural,
+  explicitly not Ward) and the open question of whether the other edition's
+  reading (a third Ember configuration reaching into Ward's own territory
+  through single-door depth) should be reconciled or allowed to diverge.
 - Whether Cinder Company's new name/shape is revealed on-page in Movement 6 or
   held for Book 3's opening instead.
 

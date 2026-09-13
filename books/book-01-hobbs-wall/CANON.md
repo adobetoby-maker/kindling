@@ -84,6 +84,20 @@ heals at ordinary human speed. Rook can top someone else's soul up from outside 
 ways — magic-adjacent healing arts and Ember-boosted recovery — and treats neither as
 more legitimate; that refusal to pick a side is itself part of the lesson.
 
+**A deeper soul/mind connection, reserved for a Book 2 flashback (`POSSIBLE`,
+owner-directed).** Book 1 established the mechanism at the level Rook himself
+understood it at Homura. Book 2 should go one layer further, through a new
+flashback — not Rook's own retelling of the same material again, but a piece
+he either withheld the first time because he hadn't finished understanding it
+himself, or one that only makes sense to tell once the team is far enough
+along to test it. The natural content: what "an empty mind and an open soul,
+connected" actually feels like from the inside, in enough concrete, trainable
+detail that it can motivate the team's own breakthroughs in this book (the
+brace, above; individual rank movement) rather than staying descriptive. This
+mirrors Book 1's own successful pattern exactly — Ch. 17's campfire flashback
+directly preceded Ch. 18's rank payoff — and should be built the same way:
+revelation first, capability second, not the other way round.
+
 ## Heartfire (`CANON`)
 
 The soul-bond phenomenon between two people, indifferent to which door either reaches
@@ -112,6 +126,39 @@ shape, stop trying to be good at it") without changing a line of locked prose:
 Unbound mastery (Blaze and up) does not add more Edge shapes on top of Torch's
 repertoire — it adds *other doors' domains entirely*, which is a different kind of
 growth. See below.
+
+**Stride's second shape — the brace (`POSSIBLE`, owner-directed, Book 2's
+central discovery, not Book 1 material).** Stride has always been described as
+transport only — burst speed, hard leaps, a glide. Nothing in Book 1
+establishes that as a hard ceiling; it was simply never pushed. Book 2's
+actual engine is the team discovering that Stride's strut-frame can be held in
+a second configuration: locked rigid and angled outward instead of loaded for
+motion, taking a hit meant for a person instead of moving them out of its way.
+**This is not a third door and it is not Ward** — Ward is a field/barrier
+effect projected outward (Marta's wall, Rook's "shut the road"), a magic-
+tradition expression. The brace is a *structural* answer using the same
+strut hardware Stride already runs on: the device doing something closer to
+armor than to a spell, because it never needed the magic door's field-logic to
+begin with — the Ember-lineage device answering a problem the old world would
+have called engineering, not magic, using the same interface most people
+already think of as purely mechanical.
+
+**Why this matters for Edge+Stride together:** a practitioner who can already
+blend Edge and Stride (Blaze-adjacent breadth, first proven by Toren in Book 1
+under pressure, not yet a repeatable technique) can, once the brace is known
+and trained, run Edge for offense and Stride-as-brace for defense
+*simultaneously* — the same blended state, a different pair of expressions
+than the speed+weapon combination Book 1 proved. This does not require a
+second door. It requires knowing the brace exists, which nobody in this book
+has known to look for, matching Homura's own oldest lesson: the truth was
+available the whole time; nobody had gone and tried it.
+
+**Discovery, not invention — this should read as found, not built.** The
+most satisfying version is an accident under real pressure (someone's Stride
+locks wrong in the middle of a fall or a block and holds instead of failing)
+that then gets deliberately reproduced and taught, mirroring exactly how Vera
+found Satori and how Rook learned it from her — the discovery always comes
+from someone under real stakes, not from a workshop.
 
 ## Three doors, three native domains (`CANON`, new this pass)
 
