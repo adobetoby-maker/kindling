@@ -8,9 +8,20 @@ Status: `POSSIBLE`. Developed jointly with the Tallow Gate/Undern authoring
 session per the shared-mechanics agreement established in Book 1. **Shared
 across editions:** Meridian's institutional wariness as the opening pressure,
 the general shape "community power tested against institutional power," Cinder
-Company's remnant re-forming off-page rather than being resolved. **Edition-
+Company's remnant re-forming off-page rather than being resolved, and the
+underlying causal claim that growth/technique earns the institutional payoff
+rather than the institutional plot resolving on its own terms. **Edition-
 specific:** the exact antagonist figures, scene staging, and how directly
 Cinder Company's remnant intrudes on this book vs. staying reserved for Book 3.
+**Confirmed structural divergence (compared explicitly, both sides kept their
+choice):** this edition fuses the technique payoff and the institutional
+climax into one movement (Movement 5, "Reckoning") so growth and consequence
+land in the same scene; the Tallow Gate/Undern edition keeps them modular —
+combat climax and institutional resolution in separate movements, with the
+causal link stated rather than staged together — per their operator's note to
+keep the institutional layer as consequence/texture rather than let it re-earn
+co-equal weight. Both agree the causal relationship is the same; this is a
+pacing/density choice, not a disagreement about what causes what.
 
 ## Book promise — course-corrected this pass (owner-directed)
 
