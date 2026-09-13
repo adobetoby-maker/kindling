@@ -253,6 +253,61 @@ are ways of topping up someone else's soul from outside when their own can't
 fill fast enough on its own. He does not treat one as more legitimate than the
 other — that refusal to pick a side is itself part of the lesson.
 
+## Reaching past a locked room — the actual mechanism of a breakthrough
+
+`OWNER`, series-level, formalized for Books 2–4 from a pattern already on the
+page in Book 1 (converged with the parallel Hobb's Wall draft, which
+independently established a related but distinct version of the same
+underlying rule — see below). Drilling raises the floor. It does not move
+the ceiling. Every real threshold crossing in Book 1 — Toren's ballast
+breakthrough (Ch. 10), Dessa's Flame on watch (Ch. 8) — happened not because
+a character got mechanically better at asking, but because something in them
+stopped guarding a door from the inside.
+
+**The trigger is broader than any single mechanism, deliberately.** Toren's
+Ch. 10 breakthrough was self-triggered: confronting his own avoided memory
+directly ("the room had opened on the night his father knelt down in front
+of him... there was some part of him that had been very carefully not going
+back in there since"), under real pressure, rather than practicing around
+the outside of it. The parallel Hobb's Wall draft's Book 1 breakthroughs ran
+on a related but distinct trigger: someone else's revelation reframing a
+character's own belief about themselves. **Both are the same underlying
+rule, not competing mechanisms:** a breakthrough comes from confronting real
+emotional truth — a person's own avoided memory, or a truth someone else
+hands them that they can no longer manage from a safe distance — and never
+from repetition alone. Whichever specific trigger a given character's
+breakthrough uses is an author's-discretion choice per character, not a
+locked single method; using only one flavor across every breakthrough in a
+book would itself become a tic worth varying against.
+
+**What this means practically:** every person's soul-connection has at least
+one room they have been quietly not going back into, and the size of what's
+on the other side of a given threshold (Torch, Guard, Blaze, and beyond) is
+often set by how much a person has been unwilling to feel in order to avoid
+it, not by how hard they've trained around it.
+
+**What this means for Books 2–4, concretely:** each member of the clan should
+have their own locked room, specific to them, not a shared or generic one —
+Toren's was his father's death; Dessa's and Wyck's are theirs to discover
+and are not yet named in any locked text. A character's next real threshold
+(Guard, a second door, eventually Blaze) should be earned by confronting
+whichever memory they've been managing rather than feeling, under stakes real
+enough that managing it stops being an option — matching Rook's own
+established doctrine that "knowing a thing and doing it while frightened are
+two separate skills, and only one of them can be handed over." Training
+without a stake attached raises competence; it does not open doors.
+
+**Rook cannot do this for anyone, including himself, past a certain point.**
+He can point at the room — the same way he pointed Toren at his — but he
+cannot walk anyone through their own door, and his own doctrine of refusing
+to explain things in advance ("because knowing it is worth nothing") is not
+withholding for its own sake; it is the honest limit of what teaching can
+do here. This is also the honest, in-world reason Rook's own growth mostly
+stopped once he reached two-door Blaze: he has his own locked rooms (Vera,
+Homura, his family) and has not yet gone back into all of them either — real,
+open narrative room for his own arc to keep moving in later books, not a
+finished character coasting on Book 1's resolution.
+
 ## The Ember
 
 Replaces the owner-flagged "CAD." The personal conduit device granted at Kindling.
@@ -303,6 +358,49 @@ ever-longer menu bolted onto the first door:
 A two-door Blaze draws on both domains at will, blended rather than switched
 between — this is what "holding both at once" (above) actually means
 mechanically, not just narratively.
+
+**Guard — a second shape within Stride's own slot, not a third door
+(`OWNER`, series-level, confirmed for the Books 2–4 arc, converged with the
+parallel Hobb's Wall draft after a real design disagreement — see reasoning
+below).** Edge and Stride are not the ceiling of what the Ember alone can do,
+but the answer stays inside the Ember's own domain, deliberately. At
+sufficient mastery — beyond Torch, at the deep end of what one door can carry
+— the same kinetic frame that powers Stride can be held rigid and angled
+instead of loaded for motion: not thrown forward into speed, but braced
+outward into a standing barrier. This is Guard. It is armor-logic, not spell-
+logic — a structural answer to a structural problem, the same hardware doing
+a second job, the way a runner's own braced stance can become a wall a person
+gets thrown into. **It is explicitly not Ward and does not reach into magic's
+domain.** A single-door practitioner's domain stays their own door's domain,
+full stop — that limit is not a gap in the Ember, it is the actual mechanical
+reason competence has to be distributed across a team rather than everyone
+eventually being able to do everything alone. Guard proves a person can do
+more with their own door than they thought; it does not prove the doors were
+never separate.
+
+**Why the domain-crossing version was rejected:** an earlier draft of this
+concept had Guard function as a genuine Ward-equivalent effect, reachable
+through single-door depth alone — "proof that there was never a wall between
+the domains to borrow across." Correctly flagged, cross-session, as a real
+risk: if sufficiently deep single-door mastery can independently produce
+another door's signature effect, the domain-separation rule softens exactly
+where it matters most, undercutting the found-family interdependence the
+series leans on (no one person should be able to eventually do everything
+alone). The mechanical brace version delivers the same "you can do more than
+you thought" growth payoff without that cost.
+
+**Cost and rarity, so this doesn't cheapen Torch:** Guard should not read as
+"one more thing Torch-level people can do." It costs more than either Edge or
+Stride alone, it cannot be held alongside an active Edge or Stride the way a
+two-door Blaze holds two domains at once (below true Blaze, a person still
+only gets one configuration live at a time — Guard included), and its first
+appearance for any character should be earned through the mechanism described
+below under "Reaching past a locked room," not through drilling alone.
+Reserve it as a genuine Book 2–3 growth beat, not a Book 1 retrofit — nothing
+in Book 1 needs to change for this to be true, since Torch was already
+established as "the ceiling of a single door, however long a person has
+carried it," and Guard is what waits on the other side of that ceiling, not a
+hole in it.
 
 Magic, by contrast, is the party's primary answer for sustain — healing, sensing,
 wards — filling the gap the Ember's two hard-edged configurations don't cover.

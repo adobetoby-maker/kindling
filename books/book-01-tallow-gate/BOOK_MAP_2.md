@@ -1,161 +1,167 @@
 # Book 2 Map — Living Document
 
-Status: `POSSIBLE` — full architecture developed, awaiting owner confirmation
-before promotion to `PLANNED`. Working title: OPEN (not structural, deferred).
+Status: `POSSIBLE` — rebuilt after owner course-correction. Previous draft
+tried to run five or six co-equal arcs (institutional politics, Cinder
+Company's return, the disk mystery, Dessa's vocation, Wyck's identity,
+company-naming) at once — correctly diagnosed by the owner as "looking like a
+whole series from an arc perspective." Rebuilt around one engine. Working
+title: OPEN.
+
+## The correction this draft is built on
+
+The societal/institutional material (Meridian's wariness, the setter-line
+system, the company's liability status) is **texture and pressure, not the
+engine.** The engine — the reason this is fun to read, not just thoughtful —
+is the same one Book 1 ran on: real growth, real powers, real fights. What's
+new in Book 2 is the *shape* of the growth: not "learn the basics under a
+mentor on a road," but **each member of the clan individually breaking a
+ceiling they didn't know was self-imposed**, using the mechanism formalized
+in `UNIVERSE_BIBLE.md`'s "Reaching past a locked room" — Toren's Ch. 10
+ballast breakthrough was never just his moment, it's the pattern. Meridian's
+no-power-inside-the-wall rule does real structural work here: it's the reason
+the only place any of them can actually grow is out on a real call-out, which
+is also the reason the institutional material stays load-bearing without
+becoming the plot.
 
 ## Book promise
 
-- **Protagonists and immediate lack:** Toren Voss is no longer un-Kindled and
-  powerless — he's Flame, trusted, and carries a disk with one more real clue
-  attached to it. But the clan he's part of has no name, no clear place, and a
-  mentor who chose them over his revenge road without yet knowing what that
-  choice is actually *for*. Rook relented a kill; he has not yet built a
-  purpose to replace it. The clan is bound to Meridian by call-out liability —
-  survivors, not citizens, not yet a company in anything but Registrar Quist's
-  filing threat.
-- **Story engine:** Institutional pressure, not road pressure. Book 1's engine
-  was survival-and-tutelage on the move; Book 2's is earning legitimacy inside
-  a system built to distrust exactly the cohesion that makes the clan
-  valuable. Every lesson Rook has ever taught assumed real stakes and real
-  wounds; Meridian's whole doctrine is the opposite — no worked power inside
-  the wall, safety over reflex. That collision is the book's actual engine,
-  not a subplot to a return of Cinder Company.
-- **Repeating reader pleasures:** The different flavor of progression-fantasy
-  payoff — earning standing inside a system instead of surviving a road;
-  Dessa's setter-line vocation as a real, named, dangerous career choice with
-  its own visible cost structure (established vividly in Book 1's closing
-  chapters); Toren's Edge/Stride blend tested deliberately for the first time
-  rather than happening once under duress; the slow unspooling of the Satori's
-  myth by one more real, costly clue, never a full reveal.
-- **Ending promise:** the clan chooses its own name, refusing the auto-fill
-  Quist threatened them with — the book's clearest proof that survivors have
-  become a self-determined unit. Meridian's wariness resolves to a real,
-  specific, conditional trust — not full acceptance, since the series needs
-  that tension to persist into Book 3 and beyond. Rook's Book 1 choice (not
-  pursuing Cinder Company) is tested by the remnant's return, converts into an
-  act of mercy or repair rather than a rematch, and holds — proving the change
-  was real, not a one-book cost.
-- **Book-level irreversible change:** the clan stops being "survivors granted
-  conditional residence" and becomes a named unit with its own chosen
-  identity, however provisionally recognized. Rook stops being defined by
-  either revenge or reluctant guardianship and starts being defined by an
-  actual chosen purpose — teaching, said out loud, to an audience beyond his
-  own four students, for the first time in his life.
-- **Status:** `POSSIBLE` — full movement architecture below, awaiting owner
-  confirmation before promotion to `PLANNED`.
+- **Protagonists and immediate lack:** Toren, Dessa, and Wyck are all Flame —
+  real, dependable, and each quietly capped in a way they've mistaken for a
+  talent ceiling rather than a door they haven't gone back through. Rook has
+  no revenge road left and hasn't yet found what replaces it as his own
+  reason to keep teaching past the basics.
+- **Story engine:** Meridian's liability clause means the company still gets
+  called out for real threats despite the wall's no-power doctrine — every
+  call-out is a real fight with real stakes, and every real fight is where an
+  actual threshold gets crossed, never in supervised drilling. Three
+  call-outs, three breakthroughs, each earned by a specific character
+  confronting a specific memory they've been managing instead of feeling.
+- **Repeating reader pleasure:** the LitRPG payoff Book 1 ran on — power
+  measured against real cost, growth that shows up in a fight rather than a
+  training montage — now multiplied across three characters instead of
+  mainly one, plus a genuinely new mechanical possibility (**Guard** — see
+  `UNIVERSE_BIBLE.md`, "The Ember" — Stride's own kinetic frame held rigid
+  instead of loaded for motion, armor-logic rather than a crossing into
+  magic's domain) giving the book its own distinct power fantasy beyond "more
+  of Book 1's Edge/Stride," without softening the domain-separation rule that
+  keeps the team mechanically dependent on each other.
+- **Ending promise:** the team that leaves Meridian at the book's close is
+  mechanically and emotionally a different unit than the one that arrived —
+  not just stronger, but carrying fewer rooms they're managing instead of
+  living in. The institutional wrapper (a chosen name, conditional trust,
+  Dessa's setter-line decision) resolves as the *consequence* of what the
+  team became, not as its own separate plot to service.
+- **Book-level irreversible change:** the clan stops training like students
+  and starts fighting like a company that has each individually paid for
+  what they can do — the actual mechanical and emotional distinction between
+  Flame and whatever each of them reaches by the book's end.
+- **Status:** `POSSIBLE` — full movement architecture below.
 
 ## Character pressure
 
-See `CHARACTERS.md` for Book 1 baseline. Book 2 additions:
-
-- **Toren** — wants to prove the Edge/Stride blend wasn't a one-time event
-  under duress; fears it was. Carries the Hester Voss thread as unfinished
-  business he owes his father's silence an answer to, even a partial one.
-- **Dessa** — the setter-line assessment is a real vocational fork: dangerous,
-  sanctioned, and structurally similar to what killed Milo. Her arc is
-  choosing it (or refusing it) with full knowledge of the cost, not
-  discovering the cost after the fact the way Milo never got to.
-- **Wyck** — no longer defined by resentment (resolved Book 1) or by combat
-  alone (his cap is real and known). Book 2 gives him an administrative or
-  leadership foothold inside Meridian's structure — a new identity built on
-  competence Rook never had to teach him.
-- **Rook / Elias Marsh** — the revenge road is gone; what replaces it is the
-  book's real question. Meridian's doctrine forces him to articulate his
-  teaching philosophy to an institutional audience for the first time — a
-  genuine character stretch for a man who has never had to justify himself to
-  anyone but himself.
-- **Senna** — increasingly physically sidelined by her own treatment (9 of 18
-  months bedbound), but retains full narrative and emotional weight as the
-  clan's moral anchor, per her established voice.
+- **Toren** — wants to prove the Edge/Stride blend from Book 1's close wasn't
+  a fluke; the real work is Guard, which requires going back into the same
+  room (his father) at a deeper layer than the ballast breakthrough touched,
+  since Guard demands more than Torch did.
+- **Dessa** — her own locked room is not yet named in any locked text
+  (author's discretion at drafting) — something distinct from Toren's grief,
+  likely tied to her mother Ilsa's death or to a fear about what her own
+  competence costs the people who rely on it. Confronting it should open
+  something on the Sustain/Ward side, matching her established sensing gift.
+- **Wyck** — his three-feet-standing/five-feet-sitting cap (Book 1) was never
+  confirmed as a hard biological ceiling — just observed, never diagnosed.
+  Book 2's reveal: it's a locked-room ceiling like anyone else's, not a talent
+  limit. What he's been managing instead of feeling (candidate: something
+  about his aunt Nell's death, or a fear that being reliable is the only
+  thing that makes him worth keeping around) is specific to him and should
+  land as a real surprise, not a retroactive excuse for the cap.
+- **Rook / Elias Marsh** — per `UNIVERSE_BIBLE.md`'s new note: he cannot walk
+  any of them through their own door, and his own growth has plateaued at
+  two-door Blaze because he has locked rooms of his own (Vera, Homura, his
+  family) he hasn't gone back into either. This should surface as a real
+  limitation on his teaching, not just a character beat — he can point, and
+  it should occasionally not be enough, which is new information about him.
 
 ## Opposition and off-page motion
 
-- **Meridian's institutional apparatus** — not violent, genuinely obstructive:
-  Registrar Helen Quist, Proctor Nye, and a Book 2-new authority (a licensing
-  board or council deciding call-out policy) capable of real damage — denying
-  care, restricting movement, conscripting Dessa against her will if she
-  doesn't act first, revoking the clan's provisional status. This is the
-  book's primary, on-page antagonist force.
-- **Cinder Company's remnant** — five survivors (Whitlow among them) per
-  Book 1's Ch. 23, off-page for most of the book, converging in the back half
-  by circumstance — a contract, a message, an accidental crossing during a
-  Meridian call-out — never by Rook's own pursuit. His Book 1 refusal to
-  chase them is tested, not reversed.
-- **The still-unnamed conspiracy** (who hired Cinder Company to hit Homura,
-  deliberately `OPEN` since Book 1) — stays entirely off-page in Book 2. Any
-  surface is incidental: an institutional reluctance to investigate Homura's
-  destruction, a bureaucratic dead end that plants suspicion without
-  confirming anything. Not a Book 2 reveal.
+- **Meridian's institutional apparatus** — Registrar Helen Quist, Proctor
+  Nye — stays real and consequential but is now explicitly structural
+  pressure (the reason the team can't train freely, the reason call-outs are
+  the only path to growth), not the book's antagonist in the dramatic sense.
+- **Real threats, on-page, per call-out** — three distinct monster
+  encounters (author's discretion on specifics), each escalating, each the
+  venue for one character's breakthrough. These carry the book's actual
+  action weight.
+- **Cinder Company's remnant** — kept, but compressed to a single movement's
+  complication rather than a two-movement arc: they resurface during one of
+  the three call-outs (not as their own separate plot), testing Rook's Book 1
+  choice economically rather than at length.
+- **The disk mystery** — one real, costly clue, landed in a single movement,
+  not spread across the book.
 
 ## Movement architecture
 
 | Movement | Entry pressure | Escalation | Turn | Status |
 |---|---|---|---|---|
-| 1 — The Roll | The two 30-day clocks start immediately (Dessa's setter-line decision, the company-name auto-fill); the clan is confined inside the wall, no worked power allowed, while Senna begins her nine-month bedbound phase | Rook's real-stakes teaching philosophy collides immediately with Meridian's safety-first doctrine — he is not permitted to train the way he always has | Toren breaks the no-power rule for a defensible reason (testing the Edge/Stride blend at real risk, or helping someone), forcing the institutional-vs-real-stakes tension into the open early rather than letting it simmer | `POSSIBLE` |
-| 2 — What the Wall Costs | Dessa begins shadowing actual setters — the real, sanctioned version of the risk that killed Milo, seen up close before she has to decide anything | Wyck finds an administrative or leadership foothold inside Meridian's own structure — competence that isn't about combat, and isn't something Rook taught him | The clan's first real internal disagreement about what they're willing to become to keep Meridian's trust | `POSSIBLE` |
-| 3 — What's Written Down | An archivist or researcher (new character) helps Toren pursue the Hester Voss / Wealdon thread — a second historical data point on the disk, real and costly, resolving nothing | Dessa's setter-line decision reaches its climax | She decides — take the assessment or refuse it — with full knowledge of the cost, unlike Milo, who never got to choose | `POSSIBLE` |
-| 4 — The Name on the List | Cinder Company's remnant resurfaces by circumstance — a call-out, a message from Whitlow, an accidental crossing — not by Rook's pursuit | Rook's Book 1 refusal ("I don't know their name. I'm not going to.") is tested under new, real pressure | Rook has to decide, again, in front of the clan, whether the choice he made at the weir still holds | `POSSIBLE` |
-| 5 — What's Owed | Confrontation with Cinder Company's remnant — deliberately NOT a kill-them-all rematch, which would undo Book 1's whole point | Whitlow, who gave Rook his name back for nothing in Book 1, is owed something in return | Rook extends mercy or repair rather than violence — the clearest possible proof his Book 1 turn was permanent, not a one-book cost | `POSSIBLE` — `arsenal-climax` likely wrong stack; probably `clean` or `tactical-climax-learning` carried by choice, not combat volume |
-| 6 — A Name of Our Own | The 30-day auto-fill deadline arrives | The clan chooses its own name, refusing Quist's threatened default | Meridian's wariness resolves to real, specific, conditional trust — not full acceptance; the clan's status changes enough to leave the wall on missions; the Wealdon thread is planted as Book 3's destination | `POSSIBLE` |
+| 1 — The Liability Clause | The two 30-day clocks start; the clan is wall-confined, no worked power allowed; the first call-out arrives — a real threat Meridian is contractually obligated to send them at | Toren attempts Guard for the first time in the field, under real pressure, and fails — establishing on the page that the ceiling isn't strength, it's something he hasn't gone back into | Rook names the mechanism directly for the first time — not a lesson, a diagnosis: "You're not stuck because you're not strong enough" | `POSSIBLE` |
+| 2 — What Wyck Won't Feel | Second call-out, harder than the first; Wyck's cap becomes a real liability in the fight, not just an observed fact | Something forces Wyck to confront whatever he's been managing instead of feeling since Nell's death (or an equivalent, author's discretion) | Wyck breaks past Flame — the book's first real threshold crossing, earned specifically through him, not handed to Toren first this time | `POSSIBLE` |
+| 3 — What Dessa Carries | Dessa's own locked room surfaces, forced open by the same second call-out's aftermath or a distinct third pressure | Her breakthrough opens something on the Sustain/Ward side of her sensing gift — the book's proof that this mechanism isn't Ember-specific | Dessa reaches her own next threshold; the three of them are now visibly, mechanically different than the team that arrived at Meridian | `POSSIBLE` |
+| 4 — The Name on the List, Compressed | Cinder Company's remnant resurfaces during a third call-out — circumstance, not Rook's pursuit — as a real complication inside an already-dangerous fight, not its own separate confrontation | Rook's Book 1 refusal is tested inside real combat pressure rather than a standalone dialogue scene | He holds to it under the worst possible conditions to hold to anything — proof by fire, not by conversation | `POSSIBLE` |
+| 5 — Guard | Toren returns to his own room at the depth Guard actually requires — deliberately, not accidentally, this time | The book's central action set piece — hardest fight yet, and the first time the whole team's individual breakthroughs combine as a genuinely different unit than Book 1's diamond | Toren reaches Guard; the fight is won by three people who each paid a real, specific cost to be able to do what they just did, not by one person carrying the others | `POSSIBLE` — `tactical-climax-learning`, the book's primary combat stack |
+| 6 — A Name of Our Own | The 30-day auto-fill deadline arrives; the disk mystery lands its one real clue in the same movement | The clan chooses its own name; Meridian's wariness resolves to conditional trust as a direct consequence of the call-out record they've just built, not a separate negotiation | Dessa's setter-line decision resolves naturally, informed by everything that's already happened rather than requiring its own dedicated arc; the Wealdon thread is planted as Book 3's destination | `POSSIBLE` |
 
-Six movements, roughly matching Book 1's scale. Adjustable once Movement 1 is
-drafted and pacing is known, per this project's own established discipline.
+Six movements, same scale as Book 1, but with one engine (real-stakes
+call-outs → individual breakthroughs) instead of five parallel plots. The
+institutional and mystery threads are load-bearing consequences of that
+engine, not co-equal arcs competing for movement-count.
 
 ## Plant and payoff map
 
 | Plant | Source | Intended payoff | Status |
 |---|---|---|---|
-| Dessa's setter-line assessment offer (Book 1, Ch. 27) | Book 1 | Her real vocational choice, Movement 3 | `POSSIBLE` |
-| The blank company-name field, 30-day auto-fill (Book 1, Ch. 28) | Book 1 | The clan's chosen name, Movement 6 | `POSSIBLE` |
-| Hester Voss / Wealdon archive discovery (Book 1, Ch. 28) | Book 1 | A second, still-non-resolving disk clue, Movement 3 | `POSSIBLE` |
-| Rook's declined pursuit of Cinder Company (Book 1, Ch. 28) | Book 1 | Tested and held, Movements 4–5 | `POSSIBLE` |
-| Toren's Edge/Stride blend, unconfirmed whether it "comes back where it was" (Book 1, Ch. 28) | Book 1 | Deliberately re-tested, Movement 1 | `POSSIBLE` |
-| Senna's 18-month treatment clock, 9 months bedbound (Book 1, Ch. 28) | Book 1 | Runs underneath the whole book as a persistent, non-dramatic pressure — not resolved in Book 2 | `POSSIBLE` |
-| "Who benefits from the fracture staying open" (`UNIVERSE_BIBLE.md`, deliberately `OPEN` since Book 1) | Book 1 | Incidental surface only — an institutional reluctance to investigate, no reveal | `RESERVED` for Book 3+ |
+| Toren's ballast breakthrough as a named mechanism, not a one-off (Book 1, Ch. 10) | Book 1 | Formalized as "Reaching past a locked room" in `UNIVERSE_BIBLE.md`; the book's actual engine | `POSSIBLE` |
+| Wyck's unexplained Edge cap (Book 1, Ch. 10, three feet standing / five sitting) | Book 1 | Recontextualized as a locked-room ceiling, not a talent limit — Movement 2 | `POSSIBLE` |
+| Dessa's sensing gift, established but never pushed past its Book 1 range | Book 1 | Her own threshold crossing, Movement 3 | `POSSIBLE` |
+| Toren's Edge/Stride blend, unconfirmed whether it "comes back where it was" (Book 1, Ch. 28) | Book 1 | Confirmed early (Movement 1), then exceeded — Guard, Movement 5 | `POSSIBLE` |
+| Rook's own growth plateau at two-door Blaze | New, series-level (`UNIVERSE_BIBLE.md`) | Established as his own unresolved locked-room situation — open narrative room for a later book, not resolved here | `POSSIBLE` |
+| Dessa's setter-line assessment, the company-name auto-fill, Rook's declined pursuit of Cinder Company, the Hester Voss/Wealdon thread (all Book 1, Ch. 27–28) | Book 1 | All retained, all compressed to consequences of the main engine rather than separate arcs | `POSSIBLE` |
 
 ## Ending proof
 
-The clan resolves its own central pressure on two fronts: institutional
-legitimacy (a chosen name, conditional trust, freedom to leave the wall) and
-Rook's converted loyalty (his Book 1 turn tested by Cinder Company's remnant
-and proven permanent through mercy rather than violence). The disk yields one
-more real, costly clue, pointing the group toward Wealdon. Meridian's
-suspicion doesn't disappear — it becomes something the clan can live inside on
-its own terms, which is the actual shape of "community power" the series
-promises at this stage.
+The book resolves its central pressure through demonstrated, earned,
+individual growth — three real fights, three real breakthroughs, one shared
+climax where the team is mechanically different than the one Book 1 closed
+on. The institutional wrapper (name, trust, Dessa's vocation) resolves as a
+direct, economical consequence rather than its own competing plot. Guard
+gives the book its own distinct power-fantasy identity rather than
+re-running Book 1's Edge/Stride growth at a slightly higher number.
 
 ## Open decisions requiring owner confirmation
 
-1. **The new archivist/researcher character** (Movement 3) — invented to
-   carry the Hester Voss / Wealdon thread forward; name, manner, and exact
-   relationship to Meridian's authority all open.
-2. **What Meridian's call-out actually asks of the clan** in Movement 4 that
-   brings them into circumstantial contact with Cinder Company's remnant —
-   several options (a contract Meridian holds jointly with a settlement near
-   Cinder's operating territory; a diplomatic/escort task; a monster-hunting
-   assignment that happens to cross paths) — author's discretion pending a
-   concrete Movement 1 packet.
-3. **Dessa's setter-line decision** — recommended default: she takes it, but
-   transforms the role rather than simply accepting its risk — e.g., pushes
-   for a paired-setter system or a warning protocol Meridian doesn't currently
-   have, converting personal risk into structural leadership. Open for owner
-   confirmation; refusing it is a legitimate alternative that would redirect
-   her Book 2–3 arc toward a different kind of leadership.
-4. **Whether Wyck's new foothold is administrative (registry, logistics) or a
-   trainer/instructor role** (teaching newer Kindled arrivals the diamond and
-   the basics Rook taught him) — the second option pays off his own arc more
-   directly (student becomes teacher, mirroring Rook) but risks crowding
-   Toren's eventual teaching arc reserved for Book 4. Recommend administrative
-   for Book 2, leaving the instructor beat for Wyck open to a later book.
+1. **The specific content of Wyck's and Dessa's locked rooms** — sketched
+   above as candidates (Wyck: Nell's death or a fear about his own
+   reliability; Dessa: Ilsa's death or a fear about the cost of her
+   competence), genuinely open pending drafting. These should be specific
+   and surprising, not generic "everyone grieves" beats.
+2. **The three call-out threats themselves** — entirely open; author's
+   discretion on what kind of encounters best showcase each breakthrough,
+   subject to the design rule that new Riftspawn types should read as
+   variations on the existing worked-power-echo principle, not an unrelated
+   bestiary.
+3. **Whether Guard's inverse (a magic-tradition practitioner reaching
+   something like Edge or Stride from the Ward/Sustain side) appears in
+   Book 2 at all**, or is reserved for a later book/another character
+   entirely. Recommend reserving it — Book 2 is already introducing one new
+   mechanical concept; a second in the same book risks diluting Guard's
+   impact as *the* headline new idea.
 
 ## Retired alternatives
 
-- **A kill-them-all rematch with Cinder Company's remnant as Movement 5's
-  climax** — retired. Would functionally undo Book 1's central proof (Rook
-  choosing the clan over the kill) by giving him the kill anyway, just later.
-  The mercy/repair version preserves the cost of the Book 1 choice instead of
-  quietly refunding it.
-- **A full reveal of who hired Cinder Company to hit Homura** — retired for
-  Book 2. Too early; the series needs this to deepen gradually across several
-  books, and Book 1 explicitly scoped it as a Book 2+ question, not a Book 2
-  answer.
+- **The five-to-six-parallel-arc structure from the previous draft** —
+  retired per direct owner correction. Institutional politics, Cinder
+  Company's return, the disk mystery, Dessa's vocation, and Wyck's identity
+  were each being run as co-equal movement-level arcs; this read as a
+  compressed series rather than one book. Retained every actual plant, cut
+  the structure that gave each one its own dedicated real estate.
+- **A kill-them-all rematch with Cinder Company's remnant** — still retired,
+  same reasoning as the prior draft: would undo Book 1's central proof.
