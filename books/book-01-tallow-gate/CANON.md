@@ -328,6 +328,27 @@ of a full-speed glide, for instance — which is the single clearest, most visib
 in a fight that someone has actually internalized the Path rather than just
 performing competence with a device.
 
+**The drop — a Stride entrance technique, established capability for a
+Torch-or-above Stride user (`OWNER`, cross-edition, adopted from the
+Hobb's Wall draft's Book 1 opening: Rook coming off a rock face in three
+controlled strides, each one pushing off the wall itself, to land already
+moving in the middle of a fight).** Converting a fall from real height into a
+controlled combat entrance is a precision application of the same frame
+Stride always uses for a hard leap or a short glide — the difference is
+timing and control under a genuinely unforgiving margin, not a separate
+technique. A user has to be actively braking and redirecting the frame
+against the wall or rock face on the way down, in stages, rather than simply
+falling and catching themselves once at the bottom — get one stage wrong and
+the frame doesn't have room left to correct before the ground does. This is
+why it reads as dramatic rather than routine even for someone who can do it
+reliably: the margin for error stays real no matter how practiced the user
+is. **Available to Rook from Book 1 onward** (retroactively — nothing in
+Tallow Gate's published Ch. 1–28 shows or contradicts this, so it requires no
+revision to existing text), reserved as a vivid entrance beat for Book 2 or
+later rather than needing to be spent immediately. Not exclusive to Rook —
+any Torch-or-above Stride user could in principle attempt it, at
+correspondingly higher risk the less mastery they have.
+
 **Edge's shape-repertoire is rank-gated, not open from day one (`OWNER`, adopted
 from the parallel Hobb's Wall draft — kept identical by agreement, since this is
 part of the shared doors/Blaze framework).** A person doesn't earn access to

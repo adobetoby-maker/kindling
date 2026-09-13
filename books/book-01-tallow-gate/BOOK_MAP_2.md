@@ -154,6 +154,13 @@ re-running Book 1's Edge/Stride growth at a slightly higher number.
    entirely. Recommend reserving it — Book 2 is already introducing one new
    mechanical concept; a second in the same book risks diluting Guard's
    impact as *the* headline new idea.
+4. **Where "the drop" (see `UNIVERSE_BIBLE.md`, "The Ember") lands as an
+   on-page beat.** Recommend Movement 1's call-out: Rook re-entering real
+   combat for the first time since Meridian's wall closed around the clan,
+   after weeks of institutional confinement, is a strong, uncrowded moment
+   for a dramatic entrance — and keeps it clear of Movement 5's climax, which
+   already belongs to Toren's Guard reveal and shouldn't share its spotlight
+   with a Rook set piece.
 
 ## Retired alternatives
 
