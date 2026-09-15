@@ -260,7 +260,7 @@ Then Senna said, from the cart, in a perfectly ordinary voice, "And what have yo
 
 "How?"
 
-"Badly," said Rook. "I'll tell you how badly, because it's the least flattering thing about me, and you may as well have all of it in one night. Six years. I've been in about ninety settlements. I've bought eleven chits, and I've got four of them left. I have been in the same country as that company twice, and both times I found the camp cold, and the second time I was four days behind them, and I walked into a burnt yard at a fuel relay north of the Drum on a road I had no business being on, because a woman at a wall had told me they'd been through in the spring.
+"Poorly," said Rook. "I'll tell you how poorly, because it's the least flattering thing about me, and you may as well have all of it in one night. Six years. I've been in about ninety settlements. I've bought eleven chits, and I've got four of them left. I have been in the same country as that company twice, and both times I found the camp cold, and the second time I was four days behind them, and I walked into a burnt yard at a fuel relay north of the Drum on a road I had no business being on, because a woman at a wall had told me they'd been through in the spring.
 
 "And then a road cut had four children and an old woman in it, and I stopped."
 

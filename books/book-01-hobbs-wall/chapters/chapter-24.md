@@ -148,7 +148,7 @@ Toren counted it. He did it eleven times, standing on a verge in the wrong-lit a
 
 Toren waited.
 
-"You'll spend a year on that," said Rook. "Everybody does. Everybody stands on a verge and decides the answer is to be quicker at the changeover, and the good ones get quick enough that it takes eleven years to find out it was the wrong question, and I have been letting you think it because it's the only thing I've got that I can teach off the flat of my back." He looked up at the sky. "There's another way and it isn't a road lesson, and I'm not going to say it to you badly the day before something, because if I say it badly you'll do it badly, and the doing badly would be my fault and the cost would be yours."
+"You'll spend a year on that," said Rook. "Everybody does. Everybody stands on a verge and decides the answer is to be quicker at the changeover, and the good ones get quick enough that it takes eleven years to find out it was the wrong question, and I have been letting you think it because it's the only thing I've got that I can teach off the flat of my back." He looked up at the sky. "There's another way and it isn't a road lesson, and I'm not going to say it to you poorly the day before something, because if I say it poorly you'll do it poorly, and the doing poorly would be my fault and the cost would be yours."
 
 "That's not—"
 

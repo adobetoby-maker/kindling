@@ -6,7 +6,7 @@ Rook told him the other thing at first light, sitting on the ground with his bac
 
 "You've never—"
 
-"Don't talk. I'm going to say it badly anyway and I'd like it to be short.
+"Don't talk. I'm going to say it poorly anyway and I'd like it to be short.
 
 "Dessa asked me on a bridge what it was called and I said it isn't called anything and then I was rude to her, and the first part was true and the second part was mine. It isn't called anything. There's nothing to name. It is not a third thing you do instead of the two. *It's what's there when you stop doing the two.*
 
@@ -172,7 +172,7 @@ It came into the grip after him. It could not get properly into a three-foot cut
 
 And the root of the limb was six inches from Toren Voss's face.
 
-He had no struts. He had no light. He had one arm that worked and about as much left in him as a wet sack has, and he got his right hand up out of the water with the spike in it — it had gone into the grass beside his head, which was luck, and he had always said so — and he put it in with the whole of his shoulder behind it, once, ugly and crooked and badly, exactly the way his father had told him to on the second of the month in a road cut, keeping the ugly shape and not trying to be good at it.
+He had no struts. He had no light. He had one arm that worked and about as much left in him as a wet sack has, and he got his right hand up out of the water with the spike in it — it had gone into the grass beside his head, which was luck, and he had always said so — and he put it in with the whole of his shoulder behind it, once, ugly and crooked and poorly, exactly the way his father had told him to on the second of the month in a road cut, keeping the ugly shape and not trying to be good at it.
 
 Something in there let go.
 

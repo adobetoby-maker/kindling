@@ -138,7 +138,7 @@ Then they did the other thing, and the other thing took an hour.
 
 "What you get for it is a residence band with a red thread in it, which gets you the same as everybody else's band and also gets you through the north yard, which nobody else can use, and which is where the work is.
 
-"What it costs you is that you notify. If you go up a rank you tell this window within seven days. If you leave the line you tell this window. If you're going to do anything on a public street that a person who isn't Kindled would find remarkable, you tell this window first, and I'll tell you honestly that nobody does, and I'll tell you equally honestly that the two times in nine years that somebody really needed to have done, it went extremely badly for them at a hearing."
+"What it costs you is that you notify. If you go up a rank you tell this window within seven days. If you leave the line you tell this window. If you're going to do anything on a public street that a person who isn't Kindled would find remarkable, you tell this window first, and I'll tell you honestly that nobody does, and I'll tell you equally honestly that the two times in nine years that somebody really needed to have done, it went extremely poorly for them at a hearing."
 
 "And if we decline," said Dessa.
 

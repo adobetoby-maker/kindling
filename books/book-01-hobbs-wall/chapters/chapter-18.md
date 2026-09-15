@@ -214,7 +214,7 @@ That was the thing Toren never forgot about the next ten minutes: he did it out 
 
 "Two," said Rook. "I can do it in two.
 
-"That's two days out. Then whatever happens at the other end takes as long as it takes, and I'd give it a day, and then it's three days back at a walk if I come back the same way, and I might not be able to come back the same way. Call it six days minimum and eight if it goes badly, and it will go badly, because it's forty men in a walled yard, and I'm one."
+"That's two days out. Then whatever happens at the other end takes as long as it takes, and I'd give it a day, and then it's three days back at a walk if I come back the same way, and I might not be able to come back the same way. Call it six days minimum and eight if it goes poorly, and it will go poorly, because it's forty men in a walled yard, and I'm one."
 
 "You said you've been six years arranging this," said Wyck.
 

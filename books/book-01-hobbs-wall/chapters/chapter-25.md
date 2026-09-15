@@ -22,7 +22,7 @@ Senna they took out of the cart, which she hated, and set on a blanket in the an
 
 He stopped.
 
-"You've a hole through your back," said Senna Voss, "and I can hear it in your voice at forty feet, and I am going to say this once because I'm not going to get another clean run at it. Whatever it is you're about to do out there, do the version of it that has you in the road afterward, because these four have had one funeral and they are not — " She took a breath she had to go some distance for. " — they are not good at them yet."
+"You've a hole through your back," said Senna Voss, "and I can hear it in your voice at forty feet, and I am going to say this once because I'm not going to get another clean run at it. Whatever it is you're about to do out there, do the version of it that has you in the road afterward, because these four have had one funeral and they are not — " she took a breath she had to go some distance for " — they are not good at them yet."
 
 Rook stood with his hand on the cart rail.
 
@@ -168,7 +168,7 @@ And this one put down whatever it was not going to use.
 
 Toren went out into the gap.
 
-He did it badly and he did it anyway, which he understood later was the entire content of the afternoon. He went out past the cracked fourth block with the spike out in his right hand and his left hand empty and nothing at all in his head except a girl's voice saying *the thing that goes quiet is the thing that isn't coming*, and he stood in eleven feet of grass in front of a thing the size of a cart and a mule and made himself look at the wrong half.
+He did it poorly and he did it anyway. He went out past the cracked fourth block with the spike out in his right hand and his left hand empty and nothing at all in his head except a girl's voice saying *the thing that goes quiet is the thing that isn't coming*, and he stood in eleven feet of grass in front of a thing the size of a cart and a mule and made himself look at the wrong half.
 
 It came round.
 

@@ -6,7 +6,7 @@ The man on the ground did not say anything for a while, and the reeds burned, an
 
 "I know what you're called."
 
-"Then you know it's on a table at Barrow Gate and it's been on a table somewhere for nineteen years, and I've never once hidden it, and a man who's been looking for me for eleven years has been looking for me badly." He lay still under the knee on his chest. He did not thrash, and he did not beg, and he spoke like a man conducting the last piece of business in a long day. "Homura. That's the valley up north with the wire round it."
+"Then you know it's on a table at Barrow Gate and it's been on a table somewhere for nineteen years, and I've never once hidden it, and a man who's been looking for me for eleven years has been looking for me poorly." He lay still under the knee on his chest. He did not thrash, and he did not beg, and he spoke like a man conducting the last piece of business in a long day. "Homura. That's the valley up north with the wire round it."
 
 "Yes."
 

@@ -48,7 +48,7 @@ Dessa said, "It's noticed."
 
 "So in about four months I will not be able to feel anything with these." She turned the hand over. "I'll be able to move them. I'll be able to pick things up, if I look at them while I'm doing it. I won't know I'm holding them.
 
-"And I won't walk. I can walk now, badly, as far as that door. In the spring I shall not, and that's the feet, and that one's simple and there's nothing to discuss about it."
+"And I won't walk. I can walk now, poorly, as far as that door. In the spring I shall not, and that's the feet, and that one's simple and there's nothing to discuss about it."
 
 Toren said, "Gran—"
 
@@ -76,7 +76,7 @@ Wyck slept eleven hours the first night and woke up at the eighth hour in a rage
 
 "No," Dessa agreed. "It isn't."
 
-He got a new bar on the fourth day. He went to the yard office and asked whether there was work and was told there was always work, and came back with eighteen inches of square-section steel out of a scrap bin that a man had cut down for him for nothing, and he spent the next four evenings sitting on the step of hut eleven turning it over in his left hand, badly, dropping it, and picking it up, and dropping it.
+He got a new bar on the fourth day. He went to the yard office and asked whether there was work and was told there was always work, and came back with eighteen inches of square-section steel out of a scrap bin that a man had cut down for him for nothing, and he spent the next four evenings sitting on the step of hut eleven turning it over in his left hand, poorly, dropping it, and picking it up, and dropping it.
 
 "Say it," said Toren, on the third evening.
 
@@ -102,7 +102,7 @@ He said it on his own on the sixth day, in the hut, at the eleventh hour, with t
 
 Rook stood with his back to the stove because he could not sit down and get up again in one evening.
 
-"I'm going to do this badly," he said, "and I'm going to do it in one go, because there's a rule in this room about all of us at once and nobody finding out second, and it was set by somebody in a lane four months ago and it is the best rule anybody has ever given me.
+"I'm going to do this poorly," he said, "and I'm going to do it in one go, because there's a rule in this room about all of us at once and nobody finding out second, and it was set by somebody in a lane four months ago and it is the best rule anybody has ever given me.
 
 "On the lane I said I'd walk you to Meridian, and I said that when you were through the gate and she was in front of instruments, I'd go. I meant it entirely. I had it worked out. There was a version of this week in my head where I stood at that gate on the day she went in, and shook four hands, and went east, and I have been carrying that version about with me since before any of you were hurt and it has been a great comfort to me and I'd like to put it down now."
 
@@ -280,7 +280,7 @@ Nobody said anything.
 
 They did the bread that night, because Dessa said the day had to have a halt in it, and because Senna was in the hut in the chair with the wheels on it and would have to go back at the tenth hour.
 
-It was Meridian bread, which was grey and even and came in a wrapper with a number printed on it, and Dessa cut it badly, in slabs, on the top of the stove-box, with a lot of concentration.
+It was Meridian bread, which was grey and even and came in a wrapper with a number printed on it, and Dessa cut it poorly, in slabs, on the top of the stove-box, with a lot of concentration.
 
 "I know the order," she said.
 

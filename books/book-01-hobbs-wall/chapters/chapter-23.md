@@ -54,7 +54,7 @@ He did not say anything about it and nobody asked him to, and it stayed in that 
 
 They did the bread at the halt, because the day had to have a halt in it.
 
-Dessa cut it. She did it badly, in slabs, on the tailgate, with a lot of concentration, and then she stood there with the knife in her hand and the cloth in front of her and did not move for a while.
+Dessa cut it. She did it poorly, in slabs, on the tailgate, with a lot of concentration, and then she stood there with the knife in her hand and the cloth in front of her and did not move for a while.
 
 "Go on," said Senna.
 

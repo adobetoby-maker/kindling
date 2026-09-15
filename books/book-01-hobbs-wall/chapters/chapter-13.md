@@ -232,7 +232,7 @@ Rook picked up his coat.
 
 ---
 
-They ate late and badly. Dessa had the fire small, and Senna went to sleep early, and afterward the four of them sat round it in a shape that had got wrong somehow, and Toren could not work out what had moved until he looked at the ground and saw it.
+They ate late and poorly. Dessa had the fire small, and Senna went to sleep early, and afterward the four of them sat round it in a shape that had got wrong somehow, and Toren could not work out what had moved until he looked at the ground and saw it.
 
 They had all sat down facing outward. Not one of them had done it on purpose. Milo was turned a quarter to the hedge, and Dessa had her back to the bank, and Wyck was sitting where he could see the gap they had come in by, and Toren realised that he himself had chosen his stone because it was the one you could see the top of the field from, and that he had chosen it without any thought at all.
 
