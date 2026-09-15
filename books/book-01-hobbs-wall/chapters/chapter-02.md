@@ -158,7 +158,7 @@ Then he let go and turned around and went back three steps and took the brush ax
 
 They had come up the other way while everyone was watching the wall.
 
-Not tactics. Toren would understand that much later, and it would matter: they hadn't *planned* it. They'd simply spilled down into the cut from both ends because that was where the noise was, and the noise was in the middle, and the middle was seven people and a mule.
+Not tactics. They hadn't *planned* it. They'd simply spilled down into the cut from both ends because that was where the noise was, and the noise was in the middle, and the middle was seven people and a mule.
 
 Marta's wall broke behind them with a sound like a held breath letting go, and she staggered, and Milo caught her arm.
 

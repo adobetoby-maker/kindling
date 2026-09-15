@@ -80,7 +80,7 @@ The thing hit it and stopped.
 
 ---
 
-Toren was forty yards east in the grass and everything from there on happened in a sequence he could describe exactly for the rest of his life and could never once make sound as fast as it had been.
+Toren was forty yards east in the grass, and everything from there on happened in a sequence exact enough to describe and too fast for any description of it to sound true.
 
 He saw Rook's hand go down. He saw the thing check, and turn, and put its head against twelve feet of held air, and push with its three legs the way a bullock pushes a gate, and he saw, past it, Rook's arm shaking from the wrist to the shoulder in the road with an old woman under him.
 
@@ -138,7 +138,7 @@ And the question came up out of him the way it had come up ten thousand times on
 
 He did not answer it.
 
-That was all it was. He would try for years to make it into something bigger, for Dessa and for a room full of people at a table and once, badly, for a man who was writing it down, and it never got any bigger. He had somewhere to be. He wanted to be past that edge and inside it and he wanted it with the whole of himself and he did not have the time or the interest to stop and find out which half of him was going to do the carrying, so he did not stop, and nothing was put down, and nothing was picked up.
+That was all it was. He had somewhere to be. He wanted to be past that edge and inside it and he wanted it with the whole of himself and he did not have the time or the interest to stop and find out which half of him was going to do the carrying, so he did not stop, and nothing was put down, and nothing was picked up.
 
 The struts came up the outside of both legs in thin uneven lines of light, the left one late the way it always was, and the spike was in his fist, and neither of them had waited for the other.
 

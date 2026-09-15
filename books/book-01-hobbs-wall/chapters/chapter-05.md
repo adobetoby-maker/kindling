@@ -44,7 +44,7 @@ She looked at Rook and said, "Rook."
 
 "Mm," said Nell, and wrote something.
 
-She went and looked at Senna, and she was not unkind about it; she was thorough, and she asked good questions, and she got answers out of Senna that Toren had never managed to get. Then she came back and stood at her table and did the thing that Toren would remember about Hobb's Wall for the rest of his life, which was that she did not say no to anything.
+She went and looked at Senna, and she was not unkind about it; she was thorough, and she asked good questions, and she got answers out of Senna that Toren had never managed to get. Then she came back and stood at her table and did the thing that mattered most: she did not say no to anything.
 
 She said yes to almost all of it. Piece by piece. On terms.
 

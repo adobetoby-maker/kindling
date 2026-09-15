@@ -1,6 +1,6 @@
 # Chapter Twenty-Seven
 
-The gate took twenty-six minutes, and Toren spent years afterward trying to decide whether that had been cruelty, and never got anywhere with it, and in the end took Rook's answer, which was that above a certain size a place stops having the sort of insides where the difference can be found.
+The gate took twenty-six minutes, and Toren could not decide whether that was cruelty or just what happened to a place above a certain size — whether it stopped having the sort of insides where the difference could still be found.
 
 They counted it because Dessa counted it. She sat down on the wet road at the ninety-foot mark with her leg out and her boots full of ash and said, "Right, I'm timing this," in a voice with something badly wrong in it, and then she timed it, out loud, in minutes, the whole way.
 
@@ -38,7 +38,7 @@ And Senna said, "2130."
 
 "Which fence line?"
 
-"The old plant at Caul Hill. I was — " She took the breath she had to go some distance for. " — I was fifty-three and I went in for the copper, and I knew what was in there, and so did every other soul on that crew, and we went in anyway because it was copper."
+"The old plant at Caul Hill. I was — " she took the breath she had to go some distance for " — I was fifty-three and I went in for the copper, and I knew what was in there, and so did every other soul on that crew, and we went in anyway because it was copper."
 
 The woman in the grey coat wrote it down. Then she said, "You've been carried a long way, haven't you," and Senna said, "By a great many people who could have done something else," and that was the last thing Toren heard her say for two days.
 

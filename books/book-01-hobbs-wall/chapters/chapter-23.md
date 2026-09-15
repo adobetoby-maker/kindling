@@ -48,7 +48,7 @@ Toren carried it over and put it in Rook's hand.
 
 Rook looked at it for a long moment. Then he opened his coat, one-handed, slowly, because of his back, and put it in with the other four.
 
-He did not say anything about it and nobody asked him to, and it stayed in that coat, and Toren would see it again years later, in a room a long way north of there, under circumstances neither of them could have imagined on that bank.
+He did not say anything about it and nobody asked him to, and it stayed in that coat.
 
 ---
 
@@ -210,7 +210,7 @@ Wyck made a noise that was almost a laugh and was mostly not.
 
 "Nothing," said Wyck. "What would I say? He didn't want anything said, he wanted it *heard*. He'd been carrying it about for eleven years like a stone in a boot." He looked at his own strapped wrist for a moment. "I asked him why now. Because it's not over. He said when it was finished I'd have it, and it isn't finished, it's been put down, and that's not the same and I wasn't going to pretend it was.
 
-"And he said: 'No. It isn't finished, it's abandoned, and a man who abandons a thing doesn't get to pay out of that account.' He said he was paying out of a different one." Wyck's voice had gone a little rough and he carried on regardless, in the manner of somebody walking over a bad patch of road without slowing down. "He said, *I gave a boy four words in a field about a straw coat and he did them exactly the way I taught him and it cost him everything, and if I'm handing out what I've got left I'd rather do it while there's still somebody here to hand it to.*"
+"And he said: no. It isn't finished, it's abandoned, and a man who abandons a thing doesn't get to pay out of that account. He said he was paying out of a different one." Wyck's voice had gone a little rough and he carried on regardless, in the manner of somebody walking over a bad patch of road without slowing down. "He said, *I gave a boy four words in a field about a straw coat and he did them exactly the way I taught him and it cost him everything, and if I'm handing out what I've got left I'd rather do it while there's still somebody here to hand it to.*"
 
 ---
 
@@ -252,7 +252,7 @@ Rook stood very still.
 
 They went north at about the third hour.
 
-Dessa had the mule's head. Wyck walked at the off-side wheel with the bar hooked through his belt because he could not carry it in his hand any more, and he would learn to use it left-handed over the following winter, poorly, and then less poorly. Rook was in the cart bed with Senna, on his good side, because he could not walk two miles and had said so out loud without being asked, which was new. Toren walked at the near-side wheel with the spike cold in his coat pocket and the disk cold against his breastbone, and there was nobody behind the cart, and there was nobody ahead of it, and for the first mile he kept turning round.
+Dessa had the mule's head. Wyck walked at the off-side wheel with the bar hooked through his belt because he could not carry it in his hand any more. Rook was in the cart bed with Senna, on his good side, because he could not walk two miles and had said so out loud without being asked, which was new. Toren walked at the near-side wheel with the spike cold in his coat pocket and the disk cold against his breastbone, and there was nobody behind the cart, and there was nobody ahead of it, and for the first mile he kept turning round.
 
 At the top of the rise where the embankment began to come down into the grazing again, the road bent, and the engine house went behind a stand of willow, and the stones on the spur went out of sight.
 

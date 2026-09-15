@@ -252,7 +252,7 @@ He stopped.
 
 Toren looked up.
 
-Afterward he would try to describe what he saw and would not be able to do it, and it would bother him for years, because he was ordinarily good at describing things. The best he ever managed was this: Rook did not react. That was the whole of it. A man walks up on something, and his face does something — surprise, interest, greed, anything — and Rook's face did nothing at all, and everything else about him stopped. His breathing stopped. The hand with the flask in it stopped halfway to being put down. He stood on the gravel four feet away with the lamplight going up under his jaw, and he became, for about three full seconds, an object.
+There was no describing it properly, not even to himself, not even as it was happening. The nearest he could get was this: Rook did not react. That was the whole of it. A man walks up on something, and his face does something — surprise, interest, greed, anything — and Rook's face did nothing at all, and everything else about him stopped. His breathing stopped. The hand with the flask in it stopped halfway to being put down. He stood on the gravel four feet away with the lamplight going up under his jaw, and he became, for about three full seconds, an object.
 
 Then he crouched, slowly, the way you crouch near something you do not want to startle, and he reached out.
 

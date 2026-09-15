@@ -66,7 +66,7 @@ Toren stood on a bare hillside with a warm crooked spike in his hand, and said, 
 
 "Yes," said Rook.
 
-He came over and stood in front of Toren and took the spike between his thumb and forefinger, right at the ugly crooked end of it, and held it there — which was a thing Toren had not known anybody could do, and which he never forgot, because the stone in his own fist did not go out, and there were suddenly two people holding it.
+He came over and stood in front of Toren and took the spike between his thumb and forefinger, right at the ugly crooked end of it, and held it there — which was a thing Toren had not known anybody could do, because the stone in his own fist did not go out, and there were suddenly two people holding it.
 
 "Now here's the part you'll refuse for about a year," said Rook, "so I'm going to say it plainly, and then I'm not going to argue with you about it, and in a year you can come back and tell me I was right.
 

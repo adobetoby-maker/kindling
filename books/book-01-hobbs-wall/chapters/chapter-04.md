@@ -120,7 +120,7 @@ Toren was almost sure of it afterward, though the man never announced it. He sim
 
 Rook stopped tying the strap.
 
-"She can't walk," Dessa said. "She rides, which means the cart goes, which means the cart goes at a mule's pace with one wheel that's already broken once today. There's four of us. One Ember and he got it this morning. A bar and a shovel. No shells. And that stuff you're pouring in your flask —" She pointed at the seams in the road bed, at the long grey slick of it. "— that's a smell, isn't it. That's why you're taking it up. It brings more."
+"She can't walk," Dessa said. "She rides, which means the cart goes, which means the cart goes at a mule's pace with one wheel that's already broken once today. There's four of us. One Ember and he got it this morning. A bar and a shovel. No shells. And that stuff you're pouring in your flask —" she pointed at the seams in the road bed, at the long grey slick of it "— that's a smell, isn't it. That's why you're taking it up. It brings more."
 
 "It brings more," Rook agreed.
 
@@ -164,4 +164,4 @@ Rook glanced at him. It was the first time all day that the man had looked direc
 
 "You keep that thing in your hand," he said, "and you don't ask it for anything clever."
 
-They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there any more, and Toren did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back, and it would take him most of a year to find out how poorly that particular decision worked.
+They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there any more, and Toren did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back.

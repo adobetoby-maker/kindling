@@ -166,7 +166,7 @@ She took one hand out of her pocket.
 
 Rook turned round.
 
-Toren was ten feet behind, and the light was bad, and he could not see the man's face properly, and he was, for the rest of his life, grateful about that.
+Toren was ten feet behind, and the light was bad, and he could not see the man's face properly, and he was grateful for that.
 
 "Because you weren't the first one," said Rook.
 
@@ -226,7 +226,7 @@ He went on toward the fire.
 
 ---
 
-They came back into the light, and the other three were exactly where they had been left, and not one of them had said a word, and Milo's face when he saw all three of them coming was a thing Toren thought about for years.
+They came back into the light, and the other three were exactly where they had been left, and not one of them had said a word, and Milo's face when he saw all three of them coming was not something Toren had a word for.
 
 Rook went to the woodpile and began, without any comment at all, to build the fire properly — the way none of them had built it in twenty-seven days, because wood was time and time was miles: the ring opened out, the big stuff broken down, a proper flat bed laid and the sticks stood up round it in a cone the way you do it when you intend the fire to still be there in four hours' time.
 

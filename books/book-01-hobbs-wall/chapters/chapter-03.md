@@ -34,7 +34,7 @@ She said it perfectly calmly. Then she turned around to face back down the cut, 
 
 Nothing came around the wall. They came over the rail.
 
-Toren saw it happen, and it was three steps away, and he could not get there. He would go over those three steps for the rest of his life, and there was never any version of them where he got there.
+Toren saw it happen, and it was three steps away, and he could not get there. There was no version of it, run any way he tried to run it, where he got there.
 
 Marta Faust went down under it, and the wall went out like a lamp, and Milo made a sound that Toren had no name for and did not let go of his grandmother's shoulder, because his mother had told him not to.
 
@@ -90,7 +90,7 @@ The man said nothing for a second, and his left hand stayed flat on the road, an
 
 "Then get the cart north and go through the bend and don't stop in it," he said. "I can hold one end. Do you understand what I'm telling you? *One end.*"
 
-Toren understood it perfectly and instantly, and he would think about it for years.
+Toren understood it perfectly and instantly.
 
 "*Dessa!*" he shouted. "North — get him moving north, *go!*"
 

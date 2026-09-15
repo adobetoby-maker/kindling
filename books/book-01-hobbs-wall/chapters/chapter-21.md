@@ -1,6 +1,6 @@
 # Chapter Twenty-One
 
-There were four hours of nothing first, and Toren was grateful for them for the rest of his life, and could not think about them at all for about two years.
+There were four hours of nothing first, and Toren was grateful for every one of them.
 
 They sat on the spur behind the engine house in the dark with the cart across the neck of it and the mule tied to the wheel, and there was no fire, and there was no moon, and the water went out around them in every direction with nothing on it. Wyck stood at the corner of the brick where he could see the neck. Dessa sat with her back against the wheel and her hands open on her knees and did not move for four hours and did not once stop being lit. Senna lay in the bed and was awake and said nothing.
 
