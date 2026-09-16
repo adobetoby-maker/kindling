@@ -1,8 +1,11 @@
-# Living book map — Book 1: Ember
+# Living book map — Book 1
 
-Title: **Ember** (owner-named). "Hobb's Wall" and "Tallow Gate" are edition/
-draft labels for two parallel treatments of this same book, not separate
-titles — see `SERIES_MAP.md`.
+Working title: `OPEN`. Two parallel drafted editions stand for comparison —
+"Hobb's Wall" and "Tallow Gate" — each with its own name and chapter set.
+**Ember** is a third, newer edition: Movement 1 redone fresh under the
+Monroe 1.3 doctrine (full worldbuilding/combat synthesis, no-run-on
+punctuation standard). It sits alongside the other two for comparison, not
+in place of them — see `SERIES_MAP.md`.
 Status: **`CANON` — Book 1 complete.** All 28 chapters (Movements 1–6) are
 drafted and locked: `books/book-01/manuscript/chapter-01.md` through
 `chapter-28.md`. Architecture below is now a record of what was built, not a
