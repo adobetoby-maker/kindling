@@ -1,0 +1,419 @@
+# Chapter 24 — Six Pieces
+
+Dessa cut the bread into six on the forty-fourth day, the same as she had cut it into six on the forty-third and the forty-second and every day since the platform.
+
+There were five of them. Everybody knew there were five of them. Nobody had ever once suggested cutting it into five.
+
+"Senna."
+
+"Thank you, love."
+
+"Wyck. Toren." She did not hurry any of it. She went round with her bad leg under her and said each name out loud when she put the piece in the hand, because that was the rule, and the rule was that a thing given without a name is only a thing put down.
+
+"Me," she said, and took her own.
+
+Then she went to the flat stone at the edge of the fire that she had chosen an hour earlier while she was gathering thorn, because she chose one every evening and never made any announcement about it.
+
+"Milo," said Dessa Cole, and set the fifth piece down, and turned it a quarter so the flat side faced the sky.
+
+Then she turned round.
+
+"And him last."
+
+---
+
+Toren had watched this happen nine times now and it had not got easier and it had not got worse. It had got *usual*, which was a different and much stranger thing.
+
+That was the part nobody warns you about. On the platform it had been an act. Nine days later it was simply what happened in the evening, between the water and the rota, the way the strapping got checked and the cans got stowed. Milo Faust had become a thing they did at about six o'clock.
+
+Toren ate his piece and looked at the piece on the stone and understood that in a year it would be a thing they had once done, and could not decide whether he would let that happen or not, and knew already that letting it happen was not something a person got to decide.
+
+---
+
+They came off the Level on the thirty-sixth day at about four in the afternoon, and the north ramp went down into country that none of them had ever seen.
+
+It was better country. That was the first surprise and it took a full day for any of them to trust it. There were hedges with things living in them. There were three separate places in eleven miles where water came out of a bank and ran clean, and Dessa tasted each one and wrote what she thought of it on the slate. On the second day they walked past a field that had been ploughed inside the last two years, in strips, by hand, by somebody who had not wanted to be seen doing it and had done it anyway.
+
+The road was called the Ninety. Nobody knew why. The signs that survived said it in green and white at intervals of about a mile, with arrows and place names that had stopped meaning anything. There were forty-one of them still standing between the Level and the Thirl and eleven of those were face down in the verge, which Toren privately thought ought to be worth less.
+
+Seventy miles. They did it in nine days.
+
+Nine days of a hand cart and five people, two of whom should have been in the cart themselves, and an old woman in it who got quieter every morning.
+
+---
+
+Here is what nine days looks like from the inside.
+
+Wyck pulled the near shaft from first light and did not put it down until the halt. His ribs made him breathe in a shape that Toren could hear from ten feet away. If anybody offered to take it off him he said, "I've got it," in a voice that ended the conversation without any rudeness in it at all.
+
+Dessa walked when she could and rode on the tailgate when she could not, and the ratio got worse. She wrote the ratio on the slate herself, because she had decided that anything she would not write down was a thing she was hiding.
+
+Rook walked on the near side at the pace of the slowest of them.
+
+He was not getting better. Toren watched for it every day and every day it was not there. The forearm had been laid open from the wrist to halfway to the elbow by a boarding axe on a brick road. It had been bound in a strip of his own shirt at six in the morning eleven days ago. It had been re-bound eight times since, in whatever was cleanest. It was not closing. On the fifth day out it went red for four inches above the binding, and Rook looked at it for a while and said, "That's the road, not the arm," which was not an explanation of anything.
+
+He could put his hand out. He could not close it hard. On the seventh day Toren watched him fail to get the lid off a water can and watched him not say one word about it, and watched Dessa arrive at his elbow inside two seconds with the can already turning in her own hands and her eyes somewhere else entirely, as though she had come over for a different reason and had merely happened to be holding it.
+
+Nobody talked about the Reading. Dessa did it every third evening with two fingers above his wrist, and she gave the fraction out loud, because that had been the arrangement since the steading.
+
+The fraction went a quarter. Then a quarter. Then a quarter.
+
+"It's not going up," she said, on the eighth day.
+
+"It's not going down either," said Rook. "That's the whole of what I'd ask for out of this week."
+
+---
+
+Toren asked him about strides on the third day.
+
+He had been working out how to ask it for about a fortnight. He had a version of the question that was about the road and a version that was about Senna and a version that had a reason bolted onto the front of it, and in the end what came out was the plain one, on the shafts, at nine in the morning.
+
+"Teach me the other shape."
+
+Rook walked four paces.
+
+"No," he said.
+
+"Why?"
+
+"Because you're an Ember, and an Ember gets one, and the one you've got is a good one and it comes when it's called." He did not look over. "And because the last man who taught you anything about shapes told you to pick one and then never think about the other one again. He was right. He is also under a cairn two hundred miles south of here."
+
+"That isn't a reason. That's two things that are true."
+
+Rook did look over then.
+
+"Say the actual question," he said.
+
+Toren pulled the shaft for about thirty yards.
+
+"On the arch," he said. "You had the struts down your legs and a blade off your hand at the same time. In the cut, on the first day, with Husks coming at my father. I saw it. I was nine feet away on a road on the Level and I saw it again eleven days ago and I have not been able to put it down since."
+
+"And?"
+
+"And my father told me nobody does that. He told me that thirty-six hours before he died and he told it to me like a thing that had been true since before anybody kept a record, and then a man walked past me doing it."
+
+"Your father was right," Rook said.
+
+"You *do it.*"
+
+"Your father was right about your father, and about every man and woman at Sallow Creek, and about ninety-nine people out of a hundred who will ever hold one of these." Rook shifted the pack on his shoulder, left-handed and poorly. "He was telling you the thing that will keep you alive. I am not going to stand on a road and make him a liar for you."
+
+---
+
+He gave it to him that evening anyway, at the halt, which was Rook all over.
+
+He got Toren out onto the hardpan of a lay-by with the light going and stood him on the white paint of an old road marking.
+
+"Hook."
+
+Toren put the hook out. It came, ugly and lopsided off the back of his knuckles, the way it had come for forty-four days.
+
+"Now put it away and put a strut down your right leg."
+
+"I don't know how to —"
+
+"You do. It's the same stone and the same warmth and the same not-letting-go, and the only difference is where you send it. You have known how to do it since your Kindling. You have simply been told nine hundred times not to." Rook folded his arms, which cost him something on the left side. "Go on."
+
+Toren put the hook away.
+
+Then he stood on a white line in a lay-by and reached for the warmth under his breastbone and asked it to go somewhere it had never been.
+
+It took him four seconds and it came out wrong.
+
+There was a single strut, about nine inches of it, lying down the outside of his right thigh and not reaching anything at either end. It sat there for about a second and a half. It did not connect to his hip. It did not connect to his knee. When he tried to lean any weight onto it the whole thing thinned out and went.
+
+"Again."
+
+He did it eleven times. On the fourth he got it from hip to knee. On the seventh he got it from hip to ankle on one side with nothing up the back, and took one step, and went over onto the hardpan on his hands.
+
+"That's a strut," said Rook. "It is not a stride. A stride is two struts a side and a rib either side of the spine and every one of them arriving in the same instant, because the moment one of them is late your own leg is a lever with your weight on the wrong end of it." He put his good hand down and got Toren up off the road. "Now do the thing I actually brought you out here for. Put the hook out."
+
+Toren put the hook out.
+
+"Now the strut. Same leg. Go."
+
+---
+
+Here is what a changeover is, and Toren Voss found out about it in a lay-by on the Ninety on the thirty-eighth day with a man counting out loud behind him.
+
+You do not simply have the other one. You put down the thing you are holding first. And putting it down is not nothing — it is a whole act, done deliberately, with your attention on it, the way a man takes one hand off a rail before he moves the other one. And then, with nothing in either hand and nothing on either leg, you go and find the warmth again and ask it for something else.
+
+"One," said Rook. "Two. Three. Four. That's the hook gone. Five. Six. Seven. Eight. Nine. Ten — that's the strut. Ten seconds."
+
+"That's not —"
+
+"Do it again."
+
+He did it eleven more times over three evenings and got it to four. Four seconds, from hook to strut, on flat ground, at rest, with nobody in front of him.
+
+On the last one Rook said nothing at all for about ten seconds afterward, and then said:
+
+"Four seconds is your whole life."
+
+"I know."
+
+"You don't yet. You will." Rook crouched and picked up the pack. "A man comes out of a hedge at eight feet. You have got a hook on the end of your arm and you decide you'd rather have your legs. You put the hook down. Now count to four in your head at ordinary speed and tell me where he is."
+
+Toren counted to four in his head at ordinary speed.
+
+"Yes," said Rook. "That's the rule your father gave you and it is the correct rule and I would give it to you again in the same words. One shape. One job. Pick the job that keeps the most of you standing."
+
+Toren stood in a lay-by with his heart going.
+
+"Then how do *you* —"
+
+"I don't know," said Rook.
+
+---
+
+It was not the answer Toren had been braced for and it took him a second to understand that it was not a refusal.
+
+"You don't know."
+
+"I know what it isn't. It isn't rank. People will tell you it's rank and they're wrong, and I've been wrong about it myself for eleven years in both directions." Rook looked out at the road going north in the last of the light. "There's a thing everybody does in the middle. It's small and it takes no time at all and nobody has ever noticed themselves doing it, because it feels exactly like ordinary sense. You go in and you check that the first one's actually gone before you ask for the second.
+
+"That's the whole of the four seconds. It isn't the putting-down. It's the *looking.*
+
+"And one day at Homura I was fifteen years old and very frightened and somebody I could not afford to lose was on the wrong side of a thing, and I did not look. I have never been able to get back to how. I have tried to teach it four times to four people and it has not worked once, and Vera could not teach it either, and she was better at teaching than I have ever been at anything."
+
+He shouldered the pack.
+
+"So no. I'm not teaching you strides. I'm teaching you that there is a four-second hole in the middle of you, so that when something finds it you'll at least know its name."
+
+---
+
+The water happened on the forty-third day.
+
+There was nothing to it. They halted at a beck under a broken bridge with two hours of light left, and he picked up the horn scoop and the near can and walked down the bank the way he had walked down eleven banks in nine days.
+
+He got the can under the water and filled it and lifted it out.
+
+And then he was on his knees in four inches of a beck with both hands flat on the gravel. The can was going over on its side beside him. He was making a noise he had never made in his life.
+
+It went on for a long time. He knew, distantly, that the others could hear him. He could not do one single thing about that, and after a while he stopped trying.
+
+When he got his face up out of it, Rook was sitting on the gravel about six feet away with his back against the abutment and his forearms on his knees, looking at the water.
+
+He had not come down to do anything. He had come down and sat.
+
+"How long have you been there?"
+
+"About four minutes."
+
+Toren wiped his face with his wrist. "You could have —"
+
+"I could have," said Rook. "I didn't, because there is nothing to do and I'm not going to insult you by pretending there's a technique for it." He turned his head. "You've been doing the water every evening for nine days."
+
+"Somebody has to."
+
+"Somebody has to do the water. Nobody has to do it on their own at the far end of a bank where the rest of us can't see." Rook got up. It took him two goes, and Toren looked away, and Rook let him. "Tomorrow you'll take Wyck with you and one of you will carry the can and the other one will carry nothing, and you'll swap over at the halfway, and neither of you will say a word about why."
+
+"That's stupid."
+
+"It's completely stupid," Rook agreed. "It's also what I'd have done for him. Go and sit with your grandmother, she's been awake for the whole of this and she hasn't said anything and it's costing her."
+
+---
+
+Senna was awake.
+
+She had her hands folded on the blanket the way she always had them, and her chin was up. Her eyes had gone a different colour in the last week. Toren had noticed it on the thirty-ninth day and had not told anybody.
+
+He sat on the tailgate.
+
+"Well," she said.
+
+"Grandmother."
+
+"That was a good one. That was the one you've been saving since the platform and I was beginning to wonder whether you'd ever get round to it." She got one hand off the blanket and onto his arm. "You're not to apologise to me about it. I'll be extremely cross."
+
+"I wasn't going to."
+
+"You were rehearsing it. I could hear you rehearsing it from up here." She shut her eyes. "How far?"
+
+Toren did the sums, because the sums were the handrail.
+
+"Twenty-three miles," he said. "Three days. Four if the ground's bad."
+
+"And what does he say about that?"
+
+"He says three."
+
+"Then it's three," said Senna Voss, "because that man has not once told me a number he did not believe, and I have been a considerable nuisance to him about it."
+
+She was quiet for a while.
+
+"Toren. I want to say a thing and then I want it never said again, and I have chosen this evening on purpose because you have already cried and it seemed wasteful to make you do it twice."
+
+"Grandmother —"
+
+"You carried me. All of you carried me. There was an arrangement on that bank where a woman offered to put me in a two-wheel cart and have me at a gate in five days. You all stood in a road and decided against it. I was not asked. I have thought about that every single day since, and I have decided I am not angry about it." Her hand tightened a little, which was not much. "I'd have taken it. That's the thing I want said. I'd have got in that cart, because I am frightened and I am seventy-three and I would very much like to see the spring. You five were braver than I was, and I want somebody to know it before we get where we're going."
+
+Toren sat on the tailgate of a hand cart with his grandmother's hand on his arm and could not find anything to say at all.
+
+"Right," said Senna. "That's done. Go and see to your friend's ribs — he's been breathing like a bellows since noon and he won't say so."
+
+---
+
+The Thirl started on the forty-fifth day and it announced itself about four miles before they got to it.
+
+The first thing was the birds, and Toren caught it himself, which he was quietly and shamefully pleased about for a full hour.
+
+"There's birds," he said.
+
+Dessa looked up.
+
+"There's birds *going over*," Toren said. "All morning. Four lots, all four going east, none of them coming back, and none of them stopping."
+
+"Five lots," said Dessa. "You missed one before you were up." She had the slate out already. "And they're going round something. They come up the line of the road and then they bend, about a mile ahead, and they pick it up again on the far side. I've been watching where they bend."
+
+Rook came back down the line.
+
+"Show me," he said.
+
+---
+
+Then it was the ground.
+
+The Ninety came down off a low shoulder onto the floor of a shallow basin about a mile and a half across, and the surface of the road, which had been cracked and grassed and perfectly reliable for seventy miles, began to *dip*.
+
+Not subside. Dip. There were places in it, roughly circular, ten to thirty feet across, where the whole made surface of the road had gone down into the ground by a foot or eighteen inches without breaking up — the tarmac sagging into a bowl like a sheet over a hole, with the white line still running across the middle of it, unbroken, curved.
+
+Wyck stopped the cart at the first one and looked at it for a while.
+
+"That's not a sinkhole," he said. "A sinkhole's got edges."
+
+"No," said Rook.
+
+"So what is it?"
+
+"It's where something underneath stopped being there." Rook walked round the rim of it without putting a foot on it. "Keep the cart off every one of these. Not near them. Off them. If the ground's low, it's low for a reason, and I don't want anybody finding out what the reason is with a wheel."
+
+---
+
+Then it was the light.
+
+Toren noticed it going wrong at about eleven in the morning and spent an hour failing to say what was wrong with it.
+
+The sky was ordinary. That was the difficulty. It was a flat pale overcast with no sun in it anywhere, the same sky they had walked under for four days. But the shadows on the basin floor were not where the sky said they should be. The dead orchard off to the west threw its rows of thin shadows out to the north-east, faintly, at a slant, as though there were a sun low in the sky at Toren's left shoulder. There was no sun anywhere.
+
+He checked it three times against the cart, against a fence post, against his own boots.
+
+"Dessa."
+
+"I know. I've had it since the second sag." She did not look away from the orchard. "Don't say it out loud with Senna awake."
+
+"It's shadows."
+
+"It's shadows that don't agree," said Dessa Cole. "Which is either the light being wrong or the world being wrong, and I would like it very much if we could all keep walking and not decide which."
+
+---
+
+And then it was the disk.
+
+It happened once, in the middle of the afternoon, and Toren never told a single person about it as long as he lived.
+
+He had carried it under his shirt for forty-five days. On the first night his father had put it in his hand on a road, and it had been cold for a moment, and then it had stopped being cold. It had not gone warm either. It had simply stopped being a temperature at all and started being a weight. That was what it had been for six and a half weeks — a weight the width of his palm, with nine channels in it that did not reach the middle.
+
+On the floor of the Thirl, about two hundred yards past the fourth sag, it went cold.
+
+It went cold the way a stone goes cold, all at once, straight through his shirt, hard enough that his hand came up to it before he had decided to move his hand. He stopped in the middle of the road with his fingers flat on his own chest.
+
+It lasted about nine seconds.
+
+Then it was a weight again.
+
+Toren stood on a made road under a sky with the wrong shadows in it and waited to feel something else happen. Nothing else happened. After a while Wyck said, "You coming?" and he said, "Yes," and picked up the shaft.
+
+*Not in five generations,* his father had said.
+
+Toren walked four miles with his father's voice in his head and his own arithmetic underneath it, and by the halt he had talked himself most of the way into weather.
+
+---
+
+They saw Meridian at about five o'clock from the north rim of the basin, and it stopped every one of them dead in the road.
+
+It was two and a half miles off and it sat up on a rise with the country falling away from it on three sides, and the first thing about it was not a wall or a gate or a tower.
+
+It was a straight line.
+
+There was a bank of earth running east and west across the whole of the north skyline, twenty-five feet of it, with a flat top and a graded face and a ditch under it, and it did not wander by a yard in a mile and a half. Somebody had built it. Somebody had built it recently enough that the grass on the face was still in stripes where it had been laid.
+
+Behind the bank there were roofs. Long ones, low, in rows, and a squat grey drum of a thing with pipework on the outside of it, and two chimneys with nothing coming out of them, and one mast.
+
+And on the top of the bank, at intervals of about a hundred yards, there were poles.
+
+"What are the poles for?" said Milo.
+
+Nobody answered him, because Milo had been dead for eleven days, and Toren's whole chest went through the floor, and it was a second and a half before he understood that he had said it himself, out loud, in Milo's exact words, in his own voice.
+
+Wyck put a hand on the back of his neck without saying anything and took it away again.
+
+"Lamps," said Rook. "They'll be lamps."
+
+"At the top of a bank?"
+
+"That's a tech-zone. They've got light they don't have to carry." He was not looking at the poles. He was looking at the basin floor between here and there, at the dead orchard and the sags and the long low ruined line of glass frames running east from the orchard's end. "Senna. Are you awake?"
+
+"I have been awake for some time and I have been waiting for somebody to be interesting," said Senna from the cart.
+
+"There's a wall and a gate and a light on the far side of this bottom, and we'll be under it by noon tomorrow."
+
+Senna Voss was quiet for a moment.
+
+"Say it again, please," she said.
+
+"By noon tomorrow."
+
+"Thank you," said Senna. "Now don't say it a third time, because I shall start believing it, and I'm not ready."
+
+---
+
+They found it half a mile on, in the last of the light, where the road ran along the top edge of the orchard.
+
+Dessa saw it first. She had gone about twenty feet off the road to look at a gate. She stopped. She did not call out, which was how they all knew.
+
+Toren came up beside her.
+
+There was a furrow across the ploughed-down grass of the old orchard headland. It started at the far hedge, two hundred yards west, and it came toward them dead straight, without one deviation. It was about four feet wide and about a foot deep. The turf lay rolled back off it on both sides in a continuous unbroken lip, the way the ground rolls off a plough.
+
+It did not curve anywhere. It crossed a drainage grip without noticing it. It went through a dry-stone field wall — not over it, through it — and the stones from the wall lay out on the far side in a fan.
+
+And a hundred and ten yards from where they stood, it stopped.
+
+It stopped the way a thrown thing stops when it hits a wall, except that there was no wall. Full furrow to no furrow, in a foot, with the turf still lying rolled on either side of the last of it.
+
+"That's a stilt," said Wyck. "That's what a stilt does."
+
+"No," said Rook.
+
+He had gone past them. He went out along the line of it at a walk, and he did not stop at the end of the furrow. He went on eleven more feet, to the apple tree standing on the headland at the top of the slope, and he stood under it and put his head back.
+
+The tree was sixty years old and about fourteen inches through the trunk. It was dead, and it had been dead for years.
+
+It had been cut off eight feet up.
+
+The top of it lay behind it in the grass with its branches still in the shape they had grown in. The cut was not a break and it was not a tear. It was a single flat face, slightly rising, from one side of the trunk to the other, so clean that the grain stood out on it like a sawn board.
+
+Nobody said anything.
+
+Toren walked out along the furrow and stood beside him and looked up at it, and then back along a hundred and ten yards of dead straight rolled turf, and then up again.
+
+"It ran," he said. "It ran all the way from that hedge. And then it stopped. And then it —"
+
+"Yes."
+
+"At the same place. Rook, it's the *same place.* It stopped here and it cut this here."
+
+"Within about a second," said Rook, "and I'd say less."
+
+He put his good hand flat on the cut face of the trunk and left it there.
+
+"Say the word," said Dessa, from the road, in the voice she used for reading out the number of crows in an elm.
+
+Rook took a long time.
+
+"There's a word above Flask," he said. "I've used it twice in my life and both times I was wrong and glad to be. It's *Barrel.*"
+
+He turned round.
+
+"Get the cart off this headland and into the lee of that wall. Do it now. Do it without anybody standing up straight."

@@ -12,11 +12,11 @@ The fire had gone to a red seam in a bed of ash. He fed it a handful of dry thor
 
 "Day six," he said to the mule, because the mule did not care and would not tell anyone. "Thirty-one miles. About."
 
-It was not about. It was thirty-one and a half by his own count of paces against the road stones. He had checked it twice against the mile markers that still stood, and the markers agreed with him wherever they hadn't been knocked flat. He liked knowing. Knowing was a thing you could hold when nothing else would sit still.
+It was not about. It was thirty-one and a half, paced off against the road stones. He had checked it twice against the mile markers that still stood, and the markers agreed with him wherever they hadn't been knocked flat. He liked knowing. Knowing was a thing you could hold when nothing else would sit still.
 
 Behind him the canvas moved and his father came out of the cart's lee, already dressed, already looking north.
 
-Garrick Voss was a wide, unhurried man who had spent nineteen years on Sallow Creek's gate and had the habit of counting bodies before he said good morning. He counted them now: Senna in the cart, Marta and Milo Faust in the blanket-roll on the fire's warm side, Dessa Cole where she always slept, which was sitting up against the wheel with her boots on, and Wyck Tanner a little apart from all of them because that was where Wyck put himself.
+Garrick Voss was a wide, unhurried man who had spent nineteen years on Sallow Creek's gate and had the habit of counting bodies before he said good morning. He did it now: Senna in the cart, Marta and Milo Faust in the blanket-roll on the fire's warm side, Dessa Cole where she always slept, which was sitting up against the wheel with her boots on, and Wyck Tanner a little apart from all of them because that was where Wyck put himself.
 
 "She's worse," Toren said.
 
@@ -90,7 +90,7 @@ That was the thing about Dessa. She never said *I told you*. She just made sure,
 
 ---
 
-They stopped short of the fourteen. Twelve and a bit, by Toren's count, at a place where the road ran along the bottom of a shallow bowl and a ring of old foundation stones sat off to one side — a house once, or a shed, or a signal hut. Whatever it had been, it had left behind a low horseshoe of cut stone that broke the wind, and Garrick walked the ground twice and said it would do.
+They stopped short of the fourteen. Twelve and a bit, by Toren's reckoning, at a place where the road ran along the bottom of a shallow bowl and a ring of old foundation stones sat off to one side — a house once, or a shed, or a signal hut. Whatever it had been, it had left behind a low horseshoe of cut stone that broke the wind, and Garrick walked the ground twice and said it would do.
 
 Toren spent the last hour of light not thinking about it.
 
@@ -114,7 +114,7 @@ Toren made himself look at her. "I'm sorry."
 
 "Dessa —"
 
-"It's not a sad story, Toren, it's just a story. It happens to about one in nine." She said the number the way he said his mile counts, like a thing she had gone and found so she would not have to wonder about it. "So. Or you won't. And if you don't, I'll be the one who already knows how the evening goes, and I'll get you through it, and nobody else will have to be clever about it." She shrugged. "That's the whole offer. Take it or don't."
+"It's not a sad story, Toren, it's just a story. It happens to about one in nine." She said the number the way he said his distances, like a thing she had gone and found so she would not have to wonder about it. "So. Or you won't. And if you don't, I'll be the one who already knows how the evening goes, and I'll get you through it, and nobody else will have to be clever about it." She shrugged. "That's the whole offer. Take it or don't."
 
 Toren discovered that his throat had closed. "Take it," he said.
 
@@ -140,7 +140,7 @@ Milo, quietly and with total sincerity: "I think it's a very good ceremony."
 
 "Thank you, Milo. It is." Senna put her hands out. "Give me the fire."
 
-Toren had carried the whistle in his coat since Sallow Creek. He had cut it from elder wood when he was nine, badly, with a knife he had not been allowed to use. It had never made more than one note. The note had been wrong. He had kept it for four years anyway. He had no idea why, and he understood, holding it over the flame, that he had been keeping it exactly for this, without knowing, the way you keep a coin in a drawer for a road you haven't been told about yet.
+Toren had carried the whistle in his coat since Sallow Creek. He had cut it from elder wood when he was nine, poorly, with a knife he had not been allowed to use. It had never made more than one note. The note had been wrong. He had kept it for four years anyway. He had no idea why, and he understood, holding it over the flame, that he had been keeping it exactly for this, without knowing, the way you keep a coin in a drawer for a road you haven't been told about yet.
 
 He put it in the fire. The elder wood caught fast and went up green at the edges.
 
@@ -246,7 +246,7 @@ Toren wiped his face with the back of his wrist, above the Ember, where the skin
 
 Later, when the others had eaten and the fire had gone low and Milo was already asleep sitting up with his bowl still in his hands, Garrick walked Toren out past the stone wall to where the road ran pale in the dark.
 
-He didn't say anything for a hundred paces. Toren counted them.
+He didn't say anything for a hundred paces.
 
 "Hold your hand out," his father said.
 
@@ -296,7 +296,7 @@ Toren noticed it the way you notice a clock you have stopped hearing. He had bee
 
 "Since when?"
 
-"Since we broke camp." She turned then. Her face was doing the flat thing. "There were crows in the elms last night. I counted nine. There's nothing in those elms now and nothing's gone over us all morning."
+"Since we broke camp." She turned then. Her face was doing the flat thing. "There were crows in the elms last night. Nine of them. There's nothing in those elms now and nothing's gone over us all morning."
 
 Garrick came back down the line at a walk that was not quite a walk.
 
