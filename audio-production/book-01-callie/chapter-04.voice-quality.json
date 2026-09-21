@@ -1,0 +1,553 @@
+{
+  "schemaVersion": 1,
+  "record": "/Users/drive/kindling-narrator-stage/audio/book-01-callie/chapter-04.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 24,
+      "minimum": 0.9053,
+      "median": 0.9453,
+      "maximum": 0.9612,
+      "threshold": 0.5
+    },
+    "fear": {
+      "segments": 11,
+      "minimum": 0.905,
+      "median": 0.9411,
+      "maximum": 0.9524,
+      "threshold": 0.5
+    },
+    "humor": {
+      "segments": 1,
+      "minimum": 0.9328,
+      "median": 0.9328,
+      "maximum": 0.9328,
+      "threshold": 0.5
+    },
+    "care": {
+      "segments": 1,
+      "minimum": 0.9233,
+      "median": 0.9233,
+      "maximum": 0.9233,
+      "threshold": 0.5
+    },
+    "yell": {
+      "segments": 2,
+      "minimum": 0.8693,
+      "median": 0.8912,
+      "maximum": 0.9131,
+      "threshold": 0.5
+    },
+    "awe": {
+      "segments": 11,
+      "minimum": 0.9297,
+      "median": 0.9387,
+      "maximum": 0.9526,
+      "threshold": 0.5
+    },
+    "grief": {
+      "segments": 1,
+      "minimum": 0.9339,
+      "median": 0.9339,
+      "maximum": 0.9339,
+      "threshold": 0.5
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 18.0,
+      "similarity": 0.9433,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 2,
+      "role": "fear",
+      "durationSec": 27.6,
+      "similarity": 0.9411,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 12.16,
+      "similarity": 0.9594,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 4,
+      "role": "humor",
+      "durationSec": 5.6,
+      "similarity": 0.9328,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 6,
+      "role": "neutral",
+      "durationSec": 20.4,
+      "similarity": 0.9408,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 7,
+      "role": "neutral",
+      "durationSec": 12.56,
+      "similarity": 0.9575,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 26.16,
+      "similarity": 0.9612,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 16.08,
+      "similarity": 0.9467,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 11,
+      "role": "care",
+      "durationSec": 38.0,
+      "similarity": 0.9233,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 13,
+      "role": "neutral",
+      "durationSec": 19.6,
+      "similarity": 0.9272,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 23.04,
+      "similarity": 0.9206,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 16,
+      "role": "fear",
+      "durationSec": 27.52,
+      "similarity": 0.9524,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 15.12,
+      "similarity": 0.9604,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 19,
+      "role": "neutral",
+      "durationSec": 16.08,
+      "similarity": 0.9445,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 20,
+      "role": "neutral",
+      "durationSec": 14.32,
+      "similarity": 0.9463,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 22,
+      "role": "yell",
+      "durationSec": 4.88,
+      "similarity": 0.9131,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 28.08,
+      "similarity": 0.9414,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 24,
+      "role": "awe",
+      "durationSec": 12.96,
+      "similarity": 0.937,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 25,
+      "role": "awe",
+      "durationSec": 22.88,
+      "similarity": 0.9476,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 26,
+      "role": "awe",
+      "durationSec": 31.68,
+      "similarity": 0.9422,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 27,
+      "role": "yell",
+      "durationSec": 4.32,
+      "similarity": 0.8693,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 28,
+      "role": "neutral",
+      "durationSec": 21.44,
+      "similarity": 0.946,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 30,
+      "role": "neutral",
+      "durationSec": 17.52,
+      "similarity": 0.9513,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 31,
+      "role": "fear",
+      "durationSec": 22.0,
+      "similarity": 0.9257,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 32,
+      "role": "fear",
+      "durationSec": 19.44,
+      "similarity": 0.9165,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 33,
+      "role": "fear",
+      "durationSec": 16.0,
+      "similarity": 0.9326,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 34,
+      "role": "neutral",
+      "durationSec": 12.88,
+      "similarity": 0.921,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 36,
+      "role": "fear",
+      "durationSec": 14.08,
+      "similarity": 0.9338,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 37,
+      "role": "fear",
+      "durationSec": 18.72,
+      "similarity": 0.9419,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 38,
+      "role": "fear",
+      "durationSec": 20.56,
+      "similarity": 0.9418,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 39,
+      "role": "neutral",
+      "durationSec": 19.44,
+      "similarity": 0.9461,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 41,
+      "role": "fear",
+      "durationSec": 22.32,
+      "similarity": 0.905,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 42,
+      "role": "fear",
+      "durationSec": 21.92,
+      "similarity": 0.9498,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 43,
+      "role": "neutral",
+      "durationSec": 3.12,
+      "similarity": 0.9078,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 44,
+      "role": "awe",
+      "durationSec": 17.76,
+      "similarity": 0.9326,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 45,
+      "role": "awe",
+      "durationSec": 20.96,
+      "similarity": 0.9367,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 7.76,
+      "similarity": 0.9497,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 47,
+      "role": "awe",
+      "durationSec": 23.68,
+      "similarity": 0.9387,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 49,
+      "role": "neutral",
+      "durationSec": 17.04,
+      "similarity": 0.9492,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 50,
+      "role": "awe",
+      "durationSec": 35.92,
+      "similarity": 0.9297,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 51,
+      "role": "awe",
+      "durationSec": 21.6,
+      "similarity": 0.9526,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 52,
+      "role": "neutral",
+      "durationSec": 35.76,
+      "similarity": 0.9384,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 54,
+      "role": "neutral",
+      "durationSec": 18.16,
+      "similarity": 0.9331,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 55,
+      "role": "neutral",
+      "durationSec": 16.16,
+      "similarity": 0.9431,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 57,
+      "role": "neutral",
+      "durationSec": 15.04,
+      "similarity": 0.9603,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 58,
+      "role": "awe",
+      "durationSec": 18.16,
+      "similarity": 0.9439,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 59,
+      "role": "awe",
+      "durationSec": 21.44,
+      "similarity": 0.9488,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 60,
+      "role": "awe",
+      "durationSec": 13.04,
+      "similarity": 0.9356,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 62,
+      "role": "fear",
+      "durationSec": 12.96,
+      "similarity": 0.9436,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 63,
+      "role": "neutral",
+      "durationSec": 2.0,
+      "similarity": 0.9053,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 64,
+      "role": "grief",
+      "durationSec": 20.32,
+      "similarity": 0.9339,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 19.44,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 8,
+      "role": "neutral",
+      "durationSec": 25.84,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 12,
+      "role": "neutral",
+      "durationSec": 18.16,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 15,
+      "role": "neutral",
+      "durationSec": 17.440041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 18,
+      "role": "neutral",
+      "durationSec": 34.88,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 21,
+      "role": "neutral",
+      "durationSec": 16.000041666666668,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 29,
+      "role": "neutral",
+      "durationSec": 23.92,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 35,
+      "role": "neutral",
+      "durationSec": 18.16,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 40,
+      "role": "neutral",
+      "durationSec": 17.28,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 48,
+      "role": "neutral",
+      "durationSec": 1.36,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 53,
+      "role": "neutral",
+      "durationSec": 20.24,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 56,
+      "role": "neutral",
+      "durationSec": 21.440041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 61,
+      "role": "neutral",
+      "durationSec": 25.84,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": []
+}
