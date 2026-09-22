@@ -1,0 +1,56 @@
+{
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-hobbs-wall/chapters/chapter-21.md",
+  "sourceSha256": "13a6be2edccc8fe714e288e8bf9054a1a3feeba5199b57bf4dc52c8dee70f007",
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-21/chapter-21.repaired-v2.mp3",
+  "sha256": "0f8307f82ebeda3600abd45f309120051d12405f7e1dc69579388fed7fc89e0a",
+  "automatedPass": true,
+  "checks": [
+    {
+      "check": "verify-local-tts.sh",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-21/chapter-21.repaired-v2.verification.json"
+    },
+    {
+      "check": "verify-audio-master.sh",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-21/chapter-21.repaired-v2.mastering.json"
+    },
+    {
+      "check": "voice-quality",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-21/base-090.voice-quality.json"
+    },
+    {
+      "check": "naturalness",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-21/base-090.naturalness.json"
+    },
+    {
+      "check": "silence",
+      "passed": true
+    }
+  ],
+  "humanListening": "pending",
+  "timingPolicy": "450/800 ms targets at safe boundaries; natural delivery retained elsewhere",
+  "retainedNativeBoundaries": 57,
+  "fullPauseScoreApplied": false,
+  "durationSec": 1445.844,
+  "overallWordsPerMinute": 172.3,
+  "profile": {
+    "name": "Calder HQ \u2014 0.90 / 450 / 800",
+    "version": "2026-09-20.1",
+    "engine": "qwen-clone-hq",
+    "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+    "playbackRate": 0.9,
+    "commaMs": 450,
+    "sentenceMs": 800,
+    "paragraphMs": 800,
+    "breathMs": 450,
+    "finalMs": 900,
+    "pausePolicy": "Final-audio minimum rests, not additional silence on top of existing pauses. Preserve longer natural or directed landings. Pause placement occurs AFTER stretching. No per-comma TTS restarts.",
+    "authority": "Owner explicitly requested standard Calder HQ stretched to .9, commas 450 ms, periods 800 ms. This overrides historical no-stretch instructions for this run only.",
+    "publication": "Keep previous audio until replacement passes objective checks. Human listening approval remains separate; do not label automated QA human-approved."
+  },
+  "updated": "2026-09-22T05:06:13.236178+00:00",
+  "publication": "not automatically published"
+}
