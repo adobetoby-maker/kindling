@@ -1,0 +1,39 @@
+{
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-hobbs-wall/chapters/chapter-18.md",
+  "sourceSha256": "c83c091db3d37f335242ed6d6b4ecfd48fc45bd1a5603488d1e031fe013b3ddd",
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-18/chapter-18.calder-hq-090-450-800.mp3",
+  "sha256": "fd91170f28505ffd2ac38fc54a62cdbf153dffea11af09734793033f76ee327a",
+  "profile": {
+    "name": "Calder HQ \u2014 0.90 / 450 / 800",
+    "version": "2026-09-20.1",
+    "engine": "qwen-clone-hq",
+    "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+    "playbackRate": 0.9,
+    "commaMs": 450,
+    "sentenceMs": 800,
+    "paragraphMs": 800,
+    "breathMs": 450,
+    "finalMs": 900,
+    "pausePolicy": "Final-audio minimum rests, not additional silence on top of existing pauses. Preserve longer natural or directed landings. Pause placement occurs AFTER stretching. No per-comma TTS restarts.",
+    "authority": "Owner explicitly requested standard Calder HQ stretched to .9, commas 450 ms, periods 800 ms. This overrides historical no-stretch instructions for this run only.",
+    "publication": "Keep previous audio until replacement passes objective checks. Human listening approval remains separate; do not label automated QA human-approved."
+  },
+  "automatedPass": true,
+  "failures": [],
+  "voiceAndNaturalnessScope": "native speech segments; not proof of final accent or timing quality",
+  "humanListening": "pending",
+  "punctuationTiming": "alignment estimates; full listening pending",
+  "durationSec": 1559.171,
+  "updated": "2026-09-22T04:48:36.430791+00:00",
+  "resolvedFailures": [
+    {
+      "command": [
+        "/Users/drive/kindling-narrator-stage/scripts/verify-local-tts.sh",
+        "/Users/drive/kindling-repo-stage/books/book-01-hobbs-wall/chapters/chapter-18.md",
+        "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-18/chapter-18.calder-hq-090-450-800.mp3"
+      ],
+      "exitCode": 2
+    }
+  ],
+  "coverageAdjudication": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-18/chapter-18.calder-hq-090-450-800.verification-review.json"
+}
