@@ -1,0 +1,57 @@
+{
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-hobbs-wall/chapters/chapter-28.md",
+  "sourceSha256": "9ef781b33ee866cf54eda8c8f9605449b09b3c71d627162dea43f49279fea8ed",
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/chapter-28.repaired-v2.mp3",
+  "sha256": "e7cfa380fa7295d6bbe98014b54acaf9404051073a8b8e9365532bbd5bb14a54",
+  "automatedPass": true,
+  "checks": [
+    {
+      "check": "verify-local-tts.sh",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/chapter-28.repaired-v2.verification.json",
+      "adjudication": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/chapter-28.repaired-v2.verification-review.json"
+    },
+    {
+      "check": "verify-audio-master.sh",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/chapter-28.repaired-v2.mastering.json"
+    },
+    {
+      "check": "voice-quality",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/base-090.voice-quality.json"
+    },
+    {
+      "check": "naturalness",
+      "passed": true,
+      "report": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-hobbs-wall/chapter-28/base-090.naturalness.json"
+    },
+    {
+      "check": "silence",
+      "passed": true
+    }
+  ],
+  "humanListening": "pending",
+  "timingPolicy": "450/800 ms targets at safe boundaries; natural delivery retained elsewhere",
+  "retainedNativeBoundaries": 87,
+  "fullPauseScoreApplied": false,
+  "durationSec": 1931.394,
+  "overallWordsPerMinute": 172.6,
+  "profile": {
+    "name": "Calder HQ \u2014 0.90 / 450 / 800",
+    "version": "2026-09-20.1",
+    "engine": "qwen-clone-hq",
+    "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+    "playbackRate": 0.9,
+    "commaMs": 450,
+    "sentenceMs": 800,
+    "paragraphMs": 800,
+    "breathMs": 450,
+    "finalMs": 900,
+    "pausePolicy": "Final-audio minimum rests, not additional silence on top of existing pauses. Preserve longer natural or directed landings. Pause placement occurs AFTER stretching. No per-comma TTS restarts.",
+    "authority": "Owner explicitly requested standard Calder HQ stretched to .9, commas 450 ms, periods 800 ms. This overrides historical no-stretch instructions for this run only.",
+    "publication": "Keep previous audio until replacement passes objective checks. Human listening approval remains separate; do not label automated QA human-approved."
+  },
+  "updated": "2026-09-22T05:26:36.694088+00:00",
+  "publication": "not automatically published"
+}

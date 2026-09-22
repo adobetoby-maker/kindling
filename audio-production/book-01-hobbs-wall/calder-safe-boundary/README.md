@@ -42,6 +42,11 @@ present; this document is not itself a claim that all chapters have landed.
 - Chapter 25: long-form/gap-recovery ASR falsely duplicated the spike sentence;
   focused transcription found it once. One pause flag was invented punctuation
   and another was timestamp drift with a real waveform-confirmed pause.
+- Chapter 26: focused unprompted final-audio transcription recovered the complete
+  flagged passage; the surrounding matched excerpt had 100% coverage after
+  normalizing only the spelling of grey/gray and Toren/Torrin.
+- Chapter 28: ASR invented a sentence ending after “line”; the source and focused
+  final-audio transcript both have a continuous clause there.
 
 Chapter 18's separate original-profile directory retains its own duplicate-ASR
 adjudication; its MP3 was not changed during this repair pass.
@@ -58,6 +63,12 @@ Every unmodified unsafe boundary is listed in the chapter record. UTMOS and voic
 identity are sampled objective checks, not human listening or DMOS ratings.
 Human listening approval and physical iPhone background-playback verification
 remain separate from automated release checks.
+
+The deployed library already contained separate wording edits in chapters 16–18
+and 20–23 compared with this saved canonical narration source. This audio-repair
+pass does not overwrite those edits. The app manifest records both manuscript
+hashes and an explicit match flag. Chapters 19 and 24–28 match the narration
+source exactly; these hashes distinguish edition drift from a TTS omission.
 
 Scripts are in `/Users/drive/kindling-narrator-stage/scripts/`:
 `apply-aligned-pause-score.py`, `repair-pause-alignment.py`,
