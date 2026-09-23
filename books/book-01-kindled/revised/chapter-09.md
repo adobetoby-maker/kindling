@@ -18,7 +18,7 @@ They had camped in the cut, which was what everyone called that kind of place �
 
 Nobody said that part out loud where Senna could hear it. Senna said it herself, about twice a week, and then laughed until she coughed.
 
-Marta Faust came down the line of the cart with the kettle, saw the fire, and set the kettle on it without comment, which from Marta was praise. She was a short, heavy-shouldered woman with a healer's flat, unhurried way of touching people, and she was not from Sallow Creek — she'd come to the settlement eight years ago from somewhere south and east where they did it differently, and she had never once in eight years pretended that the way Sallow Creek did it was better. She warmed her hands over Toren's fire and said, "Big day."
+Marta Faust came down the line of the cart with the kettle, saw the fire, and set the kettle on it without comment, which from Marta was praise. She was a short, heavy-shouldered woman with a healer's flat, unhurried way of touching people. She was not from Sallow Creek. She'd come to the settlement eight years ago from somewhere south and east where they did it differently, and in eight years she had never once pretended Sallow Creek's way was better. She warmed her hands over Toren's fire and said, "Big day."
 
 "It's just a day."
 
@@ -148,7 +148,7 @@ That night, camped in a fold below the road with no fire because Bram didn't lik
 
 The second day was better and worse. Better, because Garrick spent the morning teaching him to hold the thing without demanding anything of it — "It's not a mule, you don't *drive* it, you just carry it and let it get used to being carried" — and by noon Toren had felt something answer, once, a kind of low tug like a fish looking at bait. Worse, because Senna could not get comfortable, and by afternoon Marta was walking beside the cart with her hand on the old woman's back and not saying anything, and Garrick had gotten out the folded paper he kept the bridge tolls on and was doing sums on it that he did not read out to anybody.
 
-In the late afternoon of that second day, the road climbed out of the flats and went into a cut — longer than the one they'd camped in; the rock walls higher and closer; and the sun went off the road floor while it was still bright on the top of the western wall.
+Late on the second afternoon, the road climbed out of the flats into a cut longer than the one where they'd camped. The rock walls were higher and closer. The sun left the road floor while it was still bright on top of the western wall.
 
 Toren noticed the quiet about a quarter mile in.
 

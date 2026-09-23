@@ -124,7 +124,7 @@ Toren waited. The cart creaked. Somewhere behind them Milo was singing the fourt
 
 "A longer one," said Rook.
 
-And that was all of it, and Toren put it on the pile, which was getting to be an interesting pile: a man who knew what a disk was and would not say; a name off a piece of brass that was worth half a flask; a road a hundred and eighty miles long that was supposed to be a hundred and ten; and a lesson on a bare hillside about doors that Toren had not been able to sleep properly since.
+And that was all of it, and Toren put it on the pile, which was getting to be an interesting pile: a man who knew what a disk was and would not say; a name stamped on a piece of brass that had cost a Flask and a half; a road a hundred and eighty miles long that was supposed to be a hundred and ten; and a lesson on a bare hillside about doors that had kept Toren from sleeping properly since.
 
 ---
 

@@ -18,7 +18,7 @@ It took them most of the day. Nobody talked much. The reed fire had burned itsel
 
 In the middle of the afternoon Rook made them go along the neck of the spur and do the other thing.
 
-There were seven of them on that piece of ground and one more in the reeds below the bank, and the company had taken their own wounded and had not been able to take these, and the morning had got warm.
+There were seven of them on that piece of ground and one more in the reeds below the bank, beyond anything the five of them could safely reach. The company had taken their own wounded and had not been able to take these, and the morning had got warm.
 
 "You don't have to look at faces," Rook said. "You do have to do it. I'm not going to make anybody, and I'm going to tell you why you'd want to, once, and then it's yours.
 

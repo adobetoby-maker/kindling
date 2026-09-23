@@ -1,10 +1,13 @@
-# Hobb's Wall → Kindled Monroe 1.3 listening revision
+# Hobb's Wall → Kindled Monroe 1.3 substantive revision
 
 ## Role
 
-Act as the Monroe 1.3 book editor, not a replacement author. This is a finished
-story whose strengths must survive. Repair only prose that creates a real
-listener consequence.
+Act as the Monroe 1.3 book editor with the owner's explicit permission to make
+real prose edits. This is a finished story whose strengths must survive, but
+the wording is not locked. Improve both silent reading and one-pass listening.
+
+The earlier word-locked pass was a diagnostic baseline, not the finished
+Monroe 1.3 edition. Do not limit this pass to punctuation.
 
 ## Files and edition boundary
 
@@ -18,6 +21,27 @@ listener consequence.
   accepted punctuation change only when it actually improves oral meaning.
 - Write the assigned group's revision cards and change log under
   `editor/revision-cards/`.
+
+## Owner-authorized edit permissions
+
+You may:
+
+1. add, remove, replace, or reorder words;
+2. split, combine, or rebuild sentences and paragraphs;
+3. cut redundant explanation, repeated setup, or accidental restatement;
+4. add short connective, sensory, reaction, or consequence beats when the
+   scene currently jumps past information a reader needs;
+5. clarify action geography, agency, pronouns, causality, and chronology;
+6. strengthen weak transitions and chapter handoffs created by the
+   three-protagonist weave;
+7. expand a moment that is currently summarized too quickly to land;
+8. compress a passage whose repetition stalls the movement.
+
+There is no word lock and no requirement to preserve the old word count. There
+is also no expansion quota. Add length only where it buys clarity, character,
+tension, wonder, humor, or consequence. The roughly 25,000-word difference
+between Hobb's Wall and Ember is evidence that the two author systems made
+different scene-level choices; it is not a target to pad toward.
 
 ## Editorial standard
 
@@ -35,20 +59,36 @@ Locate and repair:
 5. repeated information that makes the listener think the scene has restarted;
 6. a join or transition that no longer works in the three-road compilation.
 
-Prefer punctuation, sentence boundaries, paragraph breaks, and very small
-word-order repairs. Reword only when punctuation cannot fix the meaning. Do not
-normalize every long sentence. Do not polish away purposeful `and ... and ...`
-cadence, fragments, jokes, or plain diction. Do not invent scenes, lore, powers,
-motives, or emotional explanations.
+Also locate and repair:
+
+7. summary where a decisive emotional or tactical beat should be experienced;
+8. underwritten reactions or consequences that make the next scene feel
+   disconnected;
+9. repetitive explanation that states an already demonstrated fact;
+10. sentences whose meaning remains difficult even after punctuation repair;
+11. thin action beats that need physical setup, choice, reversal, or aftermath;
+12. generic phrasing that weakens the manuscript's otherwise specific voice.
+
+Use the minimum effective substantive edit. Reword when the existing wording
+does not carry the scene clearly. Do not normalize every long sentence. Do not
+polish away purposeful `and ... and ...` cadence, fragments, jokes, bluntness,
+or plain diction. Do not invent new powers, lore, motives, outcomes, or major
+events. If a genuine story-level change appears necessary, record it as a
+proposal instead of silently changing canon.
+
+Read the entire assigned movement before editing its first chapter. Edit in
+reading order, then reread the movement continuously. A repaired paragraph must
+work with the paragraphs before and after it; a repaired chapter must hand its
+pressure and emotional residue into the next chapter.
 
 ## Revision cards
 
-Give every assigned chapter one disposition: `KEEP`, `TIGHTEN`, or `REPAIR`.
-Use `KEEP` when only safe punctuation is incorporated. For every changed
-chapter, record the located problem, the bounded fix, and what was protected.
-End the group report with a concise list of changed files and any remaining
-meaning-level questions. Do not hide an unresolved story question inside TTS
-markup.
+Give every assigned chapter one disposition: `KEEP`, `TIGHTEN`, `REPAIR`, or
+`EXPAND`. For every changed chapter, record the located problem, the bounded
+fix, what was protected, and the before/after word count. End the group report
+with total words added and removed, a concise list of changed files, and any
+remaining meaning-level questions. Do not hide an unresolved story question
+inside TTS markup.
 
 ## Assigned groups
 
@@ -59,7 +99,9 @@ markup.
 
 ## Completion check
 
-Compare every edited file to its frozen `chapters/` counterpart. Confirm that
-all changes are editorial, that no scene was silently removed, and that the
-chapter still ends on the same narrative beat unless a revision card explicitly
-documents why a boundary changed.
+Compare every edited file to its frozen `chapters/` counterpart and to the
+word-locked baseline commit. Confirm that every material change has a reader
+benefit, no scene was silently removed, canon is intact, and the chapter still
+ends on the same narrative beat unless a revision card explicitly documents
+why a boundary changed. Run a separate word-locked narration-preparation pass
+only after this prose edition is accepted.

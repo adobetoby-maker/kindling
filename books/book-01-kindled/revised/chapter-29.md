@@ -38,7 +38,7 @@ They turned right. Wyck planted — which, for Wyck, meant that he did not step 
 
 The verge-hound came out of the thorn in a flat silent rush at the exact angle Toren had called. It met four people already facing it. It met Rook on its third stride.
 
-Toren caught that part in pieces, out of order, and had to sort them afterward. Rook's weight had already gone onto the forward foot before the hound cleared the hedge. The light came out along the outside of his right forearm and took its edge on the way, from the wrist outward, the way a crack takes across ice. Then the arm went across at hip height. Once. Level. Without hurry.
+Toren caught that part in pieces, out of order, and had to sort them afterward. Rook's weight had already gone onto the forward foot before the hound cleared the hedge. The metal came out along the outside of his right forearm. A thin line of light kindled along its working edge, from the wrist outward, the way a crack takes across ice. Then the arm went across at hip height. Once. Level. Without hurry.
 
 The hound's front leg came off at the shoulder. It ran three more steps on what it had already spent, turned over, slid, and went to ash in the dock leaves.
 
@@ -100,7 +100,7 @@ He had heard it exactly once before, coming down a rock face forty feet above a 
 
 "Two in the row, one at forty," Toren said after him, and got the spike out.
 
-It came up the way it always came up: a small pull behind his sternum, a door on a hinge giving an inch, no more. The light ran out past his knuckles and took its edge on the way, and stopped — as long as his forearm, thick at the root, blunt-looking, an ugly tool. It came out warm. It had been coming out warm since about four o'clock yesterday afternoon, and he still noticed, every time, for about half a second.
+It came up the way it always came up: a small pull behind his sternum, a door on a hinge giving an inch, no more. The metal ran out past his knuckles and stopped — as long as his forearm, thick at the root, blunt-looking, an ugly tool. A thin light kindled along its edge. It came out warm. It had been coming out warm since about four o'clock yesterday afternoon, and he still noticed, every time, for about half a second.
 
 Then the row discipline worked, and it worked so well that it was almost boring.
 
@@ -174,7 +174,7 @@ Rook took the second one in the air.
 
 Toren had not known that was possible. He could never get it back in order afterward, only in pieces, and the pieces would not add up to enough time. The thing came out of the mouth of the ditch on a line for the steps. Rook went to meet it, and the going was the part that would not make sense, because Rook did not run. He took two ordinary steps up onto the coping stone at the ditch lip — ordinary, unhurried, a man stepping up onto a kerb. The struts fired under him, one flat report. He came up off the stone already turned and already at the height the thing's body rode at, with no part of the movement spent getting there.
 
-His arms stayed down until the last half of it. Then the light came out along the outside of his right forearm, taking its edge from the wrist outward, and he put it through the hip joints on the way past and landed facing back the way he had come.
+His arms stayed down until the last half of it. Then the metal came out along the outside of his right forearm, a thin line of light kindling along its working edge from the wrist outward, and he put it through the hip joints on the way past and landed facing back the way he had come.
 
 The legs ran two more strides with nothing on top of them.
 
@@ -218,7 +218,7 @@ He did not ask the Ember for anything. He did not hold it harder. He did not loo
 
 The spike changed.
 
-He felt it go. It ran out of his fist in one clean movement — thinner, half again as long, the edge arriving before the length had finished arriving — and it was not ugly at all. The light did not stop at his knuckles this time. It went back up over his wrist and took the whole of his forearm, and the world went very simple.
+He felt it go. The metal ran out of his fist in one clean movement — thinner, half again as long, the edge arriving before the length had finished arriving — and it was not ugly at all. This time the metal did not stop at his knuckles. It ran back over his wrist and took the whole of his forearm; a line of light kindled along the working edge, and the world went very simple.
 
 He put it through the first Stilt lengthwise, in under the body and out through the far shoulder of it, and did not slow down for the resistance, because there was no resistance. The second one came off the steps at him with its point already set. He took both legs off it on the backswing, at the same height, one pass, and neither of them touched the ground before he had turned for a third.
 

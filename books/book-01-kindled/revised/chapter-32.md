@@ -146,11 +146,11 @@ There was a pause of about a second.
 
 "Anything. His stone, his coat, the spike, whichever one of those you can get. He's going to stop you. You're going to try. Nobody puts anything in anybody's face, and nobody goes for a head, and if either of you does it, we stop for the night, and it'll be a poor night." Rook folded his arms. "Go on."
 
-It was the single strangest ninety seconds of Toren's life, and it went in three distinct stages.
+It was the single strangest thirty seconds of Toren's life, and it went in three distinct stages.
 
 For the first twenty seconds, it was nothing. It was two boys shuffling at each other in a field with everybody watching, and Milo laughed once and then stopped laughing on his own, and Toren got the spike out and held it low and pointed away, because he was not going to put a length of lit anything near Wyck Tanner, and Wyck knew that, and both of them knew that both of them knew it.
 
-For the next thirty seconds, it was a game. Wyck went left, and Toren went with him, and Wyck came back and got a fistful of Toren's coat, and Toren twisted out of it, and it was — and Toren hated this afterward more than any other part of it — it was *fun*, for about eight seconds, the two of them grinning at each other in the grass like a pair of dogs.
+Then it was a game. Wyck went left, and Toren went with him, and Wyck came back and got a fistful of Toren's coat, and Toren twisted out of it, and it was — and Toren hated this afterward more than any other part of it — it was *fun*, for about eight seconds, the two of them grinning at each other in the grass like a pair of dogs.
 
 Then Wyck said, "Sorry," quite quietly, and hooked his boot behind Toren's ankle and put him on his back in the wet grass and knelt on his chest and took the Ember out of his coat pocket.
 
@@ -176,7 +176,7 @@ They sat down. Nobody else said anything. Milo had not made a sound since the la
 
 Rook crouched on his heels in front of the pair of them and put his forearms on his knees.
 
-"Right," he said. "Toren. You had a lit Ember in your hand, and you were on your back in nine seconds. Why?"
+"Right," he said. "Toren. You had a lit Ember in your hand, and you were on your back in thirty seconds. Why?"
 
 "Because he's twice my—"
 

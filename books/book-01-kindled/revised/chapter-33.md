@@ -32,7 +32,7 @@ The lane was very quiet. Down at the bottom of it, Pitch pulled at something in 
 
 "I've thought about how to ask it properly for about three weeks," Wyck said, "and that's the best I've got, and I know it sounds like a boy being difficult, so I'm going to say the rest of it, and then you can answer whichever bit you want.
 
-"You taught us survival. Eight days, shoving and shouting, and it was good, and I'm not stupid, I know I'd be dead four times over. But you finished that. You finished it before Hobb's Wall, and you've been doing something else since, and it's got — it's got *stages* to it. You do a thing, and then two days later you do a thing that only works if we did the first one. That's not a man keeping some children alive on a road. That's a course. My father put me through one of those to lay a hedge, and it took a year, and he told me at the start what I'd be able to do at the end of it.
+"You taught us survival. Eight days, shoving and shouting, and it was good, and I'm not stupid, I know I'd be dead four times over. But you finished that. You finished it before we left Hobb's Wall, and you've been doing something else since, and it's got — it's got *stages* to it. You do a thing, and then two days later you do a thing that only works if we did the first one. That's not a man keeping some children alive on a road. That's a course. My father put me through one of those to lay a hedge, and it took a year, and he told me at the start what I'd be able to do at the end of it.
 
 "Yesterday you taught us where a person keeps the parts of him you'd cut, and you did it standing over a coat full of straw with the throat out of it, and then you put me on top of Toren in a field and made me take his Ember off him.
 

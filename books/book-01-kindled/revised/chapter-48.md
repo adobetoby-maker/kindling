@@ -178,7 +178,7 @@ Nobody helped him. That was the thing he thought about afterward, lying awake: t
 
 Dessa came back up. "It's walkable," she said. "It's walkable because I'm going to say it's walkable, and I'll go first, and if I'm wrong I'll be wet."
 
-They walked it. It was walkable. It took nine minutes and it was the longest nine minutes of the day, and Toren went through it with his hand out flat against wet brick on the right-hand side and the spike out in his left where it gave off exactly no light at all, and had never given off any light at all, and never would, because it was an Edge and an Edge is a thing you put into something, and the boy who had carried the light through Coldwater and the orchard and the reed beds and out along a sluice wall in the dark on his own judgement had been dead for sixteen days.
+They walked it. It was walkable. It took nine minutes and it was the longest nine minutes of the day. Toren went through with his right hand flat against wet brick and the spike out in his left, its edge left dark. Lit, it would have made one thin line — enough to betray them and not enough to show him where to put his feet — because an Edge is a thing you put into something, not a lamp. The boy who had carried the light through Coldwater and the orchard and the reed beds and out along a sluice wall in the dark on his own judgement had been dead for sixteen days.
 
 ---
 
@@ -291,4 +291,3 @@ Rook sat in the cart bed with the flyover's shadow coming across him and his han
 They got the cart in behind the concrete in about forty minutes, and it rained a little and then stopped, and the wrong light came and went twice along the top of the embankment, and nobody ate anything.
 
 Toren went back out once, at the end of it, on his own, and stood at the foot of the pier with his hands at his sides and looked at four bright cuts going four inches into sixty-year-old concrete, at the height of his own head; and then north, up the crash rail, where a girl's paces had stopped at ninety-one — four months and three hundred miles from a road cut where the same four marks had been eight feet apart, the whole visible length of the rail, as regular as a fence-mender's work, made by a thing that had walked.
-

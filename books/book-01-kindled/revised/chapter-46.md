@@ -100,7 +100,7 @@ Rook did not move for one second.
 
 Toren was ten feet away and he was watching the man's hands and not his face, which is the only reason he can say what happened, and he has said it the same way every time he has ever been asked, which has been many times, because he was the only one who saw it.
 
-The knife did not come out. It went in a little further. There was a second, one whole second, in which Toren was entirely certain he was about to watch a man die on a road, and in which the man on the ground was entirely certain of it too, and had shut his eyes and stopped talking and gone still in the way that people do.
+The knife did not come out. It went in a little further. For one whole second, Toren was certain he was about to watch a man die on a road. The man on the ground was certain of it too. He had shut his eyes and stopped talking and gone still in the way that people do.
 
 Then Rook took the knife away.
 
@@ -146,7 +146,7 @@ Then the air across the neck of the arch went the way air goes over a fire, a so
 
 Toren ran.
 
-He ran the two hundred feet of road bed north, with the cart coming up out of the dark in front of him and Dessa's voice going steadily over the top of everything — *two at the wheel; one behind you, Wyck; he's on your left, and he's low* — and Wyck Tanner standing across the neck of the road in front of a cart with a dead boy in it, with the bar in both hands and his left arm bent the wrong way at the wrist, hitting men.
+He ran the two hundred feet of road bed north. The cart came up out of the dark in front of him, and Dessa's voice went steadily over the top of everything — *two at the wheel; one behind you, Wyck; he's on your left, and he's low*. Wyck Tanner stood across the neck of the road in front of a cart with a dead boy in it, hitting men with the bar in both hands and his left arm bent the wrong way at the wrist.
 
 There were six and then there were four.
 

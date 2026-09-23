@@ -36,7 +36,7 @@ Milo, sitting up, blanket round his shoulders, on the near side.
 
 Dessa, on the low stone, with her bad leg out, on the fire's other side.
 
-Wyck, standing — he had got up about a minute before, without being told to; and he was standing by the cart wheel with the bar in his left hand and his weight even; and he was standing in the gap between the fire and the road.
+Wyck, standing. He had got up about a minute before, without being told to. Now he stood by the cart wheel, the bar in his left hand and his weight even, in the gap between the fire and the road.
 
 Senna, up against the boards with the blanket round her, awake, watching.
 
@@ -174,7 +174,7 @@ Dessa did not move.
 
 "Say that again."
 
-"You weren't the first one I've watched do it." His voice had gone somewhere Toren had never heard it go. "I have seen it happen to exactly three people in my life, including me, and the other two are dead, and one of them was — "
+"You weren't the first one I've watched do it." His voice had gone somewhere Toren had never heard it go. "I have seen it happen to exactly three people besides me. You are one of them. The other two are dead, and one of them was — "
 
 He stopped.
 
@@ -228,7 +228,7 @@ He went on toward the fire.
 
 They came back into the light, and the other three were exactly where they had been left, and not one of them had said a word, and Milo's face when he saw all three of them coming was not something Toren had a word for.
 
-Rook went to the woodpile and began, without any comment at all, to build the fire properly — the way none of them had built it in twenty-seven days, because wood was time and time was miles: the ring opened out; the big stuff broken down; a proper flat bed laid; and the sticks stood up round it in a cone the way you do it when you intend the fire to still be there in four hours' time.
+Rook went to the woodpile and began, without any comment at all, to build the fire properly — the way none of them had built it in twenty-seven days, because wood was time and time was miles. He opened the ring, broke down the big stuff, laid a proper flat bed, and stood the sticks up round it in a cone the way you do it when you intend the fire to still be there in four hours' time.
 
 Wyck came and crouched down and started handing him sticks, and neither of them said anything about it.
 

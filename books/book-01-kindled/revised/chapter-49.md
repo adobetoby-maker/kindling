@@ -198,7 +198,7 @@ But it was wrong now. Its near foreleg came down on the turn and it came down *f
 
 ---
 
-It broke off at the twelfth hour.
+It broke off the attack at the twelfth hour.
 
 There was no reason anybody on that ground could see. It stood in the gap for a while with its ruined limb down and its head going from side to side, and Toren stood eleven feet from it with nothing in his hands and did not move, and it looked at him or at something behind him or at nothing.
 
@@ -216,11 +216,11 @@ Toren got him sitting up against the sixth block. Getting the coat off him was a
 
 "Then you'll lie down," said Senna.
 
-"Then we'll all lie down," said Rook, "in a concrete pen, four miles from a wall, with a Barrel on the flat that has learned this morning that we can hurt it. Have you ever sold ash?"
+"Then we'll all lie down," said Rook, "in a concrete pen, four miles from a wall, with that thing on the flat knowing we can hurt it. Have you ever sold ash?"
 
 "No."
 
-"A Barrel's what they call one of those. There isn't a weighmaster in this country who'd put a price on one, because it's never been anybody's problem to price. You'd want a wall to weigh it and a wall's got no use for it." He let his head back against the concrete. "There's four or five hundred pounds of good ash walking about out there on three legs. Ott would cry."
+"A Breach. That's what they'd call one of those. Barrel yield, if anybody ever manages to kill one. There isn't a weighmaster in this country who'd put a price on it, because it's never been anybody's problem to price. You'd want a wall to weigh it and a wall's got no use for it." He let his head back against the concrete. "There's four or five hundred pounds of good ash walking about out there on three legs. Ott would cry."
 
 Nobody laughed, and it had not quite been a joke, and it had been about a quarter of one.
 

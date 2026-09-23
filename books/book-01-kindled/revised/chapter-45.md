@@ -48,7 +48,7 @@ It came up on the water side, south of the sluice, in a long bank of dry standin
 
 "That's a man who's done this before doing the thing I'd have done and I'd like it noted that I didn't think of it, because I'm slow tonight." He was already moving along the wall. "Wyck. They're coming at the neck and they're coming now, while the light's behind them and in our eyes. Dessa, don't look at it. Don't look at it once, look at the ground and the dark and use your ears, you've got thirty feet and I need every foot of it."
 
-The flat black water became a sheet of moving orange, and the reed beds nearest them stood up out of it in black lines, and the whole spur, the cart, the brick wall, the mule, the five of them — all of it came up lit, and their shadows went out enormous across the bank and lay down on the burning water.
+The flat black water became a sheet of moving orange, and the reed beds nearest them stood up out of it in black lines, and the whole spur, the cart, the brick wall, the mule, all six of them — all of it came up lit. Their shadows went out enormous across the bank and lay down on the burning water.
 
 Milo opened his hands, and closed them again, and looked at the light in them, which was a soft greenish nothing in the middle of all that, and Toren watched him understand.
 
@@ -64,7 +64,7 @@ Toren fought where he was put. That was the whole of his night and he could not 
 
 They got Wyck's bar away from him at the second push.
 
-Three of them had it at once and one of them simply walked backward with it, and Wyck let it go rather than be pulled off his feet, and stood in a thirty-foot gap in front of a cart with an old woman in it and nothing in his hands at all. Somebody came at him with a spear and he took it on his forearms — the bad one and the good one — and turned it, and got both hands on the shaft above the head, and then would not let go of it, and for about five seconds there were two men at the other end of a spear trying to move Wyck Tanner and failing, and Toren came across and put the spike through the shaft and it broke and all three of them went down in the road.
+Three of them had it at once, and one of them simply walked backward with it. Wyck let it go rather than be pulled off his feet and stood in a thirty-foot gap in front of a cart with an old woman in it, with nothing in his hands at all. Somebody came at him with a spear. He took it on his forearms — the bad one and the good one — and turned it, got both hands on the shaft above the head, and then would not let go. For about five seconds there were two men at the other end of a spear trying to move Wyck Tanner and failing. Toren came across and put the spike through the shaft. It broke, and all three of them went down in the road.
 
 "Bar," Wyck said, from underneath somebody.
 
@@ -72,7 +72,7 @@ Three of them had it at once and one of them simply walked backward with it, and
 
 "*Bar.*"
 
-Milo got it. He went out into the neck of the spur on his hands and knees between men's legs, took the bar off the ground where it had been dropped, and came back with it, and put it in Wyck's hand, and got kicked in the ribs on the way and did not make any noise about it.
+Milo got it. He went out into the neck of the spur on his hands and knees between men's legs and took the bar off the ground where it had been dropped. He came back with it, put it in Wyck's hand, and got kicked in the ribs on the way and did not make any noise about it.
 
 They came again a quarter of an hour later and it went on for a long time, and at the end of it there were five men down in the neck of the spur and two of them were moving and the company went back thirty yards and stood in the light of the burning reeds and looked at them.
 
@@ -92,7 +92,7 @@ Toren got up into the bed and got his hands under his grandmother's shoulders an
 
 "Take her out of it."
 
-They took her out of it. Dessa had her legs and Toren had her under the arms and they got her down onto the bank behind the wheel with the blankets round her, and Senna Voss, who had not once complained on any road in a month, made a sound that Toren had to put away somewhere and not look at for a long time afterward.
+They took her out of it. Dessa had her legs and Toren had her under the arms. They got her down onto the bank behind the wheel with the blankets round her. Senna Voss, who had not once complained on any road in a month, made a sound that Toren had to put away somewhere and not look at for a long time afterward.
 
 Rook came round the wheel with his hand pressed under his ribs.
 
@@ -202,9 +202,9 @@ Somebody on the south bank was screaming at somebody else. Toren heard it over t
 
 ---
 
-They put him in the cart bed on the north side of the arch, and Senna, who had been on the ground behind a wheel four minutes before, got herself up into that bed on one arm with nobody helping her and nobody daring to stop her, and got Milo's head and shoulders into her lap.
+They put him in the cart bed on the north side of the arch. Senna, who had been on the ground behind a wheel four minutes before, got herself up into that bed on one arm with nobody helping her and nobody daring to stop her. She got Milo's head and shoulders into her lap.
 
-There was a bolt in him under the collarbone on the left side and about four inches of it standing out, and he was breathing wrong. Toren had never heard anybody breathe like that and did not need to be told what it meant, and understood in the first half second, the way you understand a step that is not there.
+There was a bolt in him under the collarbone on the left side, with about four inches of it standing out. He was breathing wrong. Toren had never heard anybody breathe like that and did not need to be told what it meant. He understood in the first half second, the way you understand a step that is not there.
 
 Rook got up into the bed.
 
@@ -242,7 +242,7 @@ Dessa made a sound and put both hands over her mouth.
 
 "Senna, me, Wyck, him, Tor, you."
 
-"Tor's last," said Milo. "I'm last. That's the actual order and you've had it wrong for a month."
+"Tor's next to last," said Milo. "I'm last. That's the actual order and you've had it wrong for a month."
 
 Rook had not moved. He was kneeling in the cart bed with his ruined side and his hands open on his knees.
 

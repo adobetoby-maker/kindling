@@ -16,7 +16,7 @@ Dessa had the mule's head. She did not turn round.
 
 "Is he—"
 
-"He's doing exactly what he told us he'd be doing," said Dessa, "which is being worth about what Milo's worth, and he told us that to our faces four nights ago, in advance, in daylight, and everybody nodded and then went straight back to expecting him to be up the road."
+"He's doing exactly what he told us he'd be doing," said Dessa, "which is being worth about what Milo's worth, and he told us that to our faces three nights ago, in advance, in daylight, and everybody nodded and then went straight back to expecting him to be up the road."
 
 Behind them Milo said, cheerfully, "I'm worth a great deal."
 
@@ -210,7 +210,9 @@ It was the widest sky Toren had ever stood under. It had not one single thing in
 
 "Don't look at it like that," said Rook, behind him. "You're reading it as open. It isn't open. Open is a field where a man can come at you from any point on a circle. This is a corridor with water for walls, and there are exactly two ends to it, and that's the only good news there's going to be for about a day, so hold on to it."
 
-The engine house came up on their left when the light was nearly gone: a squat brick block sitting out on a spur of the bank with a fallen chimney beside it and a doorway with no door; and the whole of the top storey gone, so that the last of the sky showed through the upper windows. Below it, the bank was cut clean through by a sluice — a stone channel forty feet long with four gates in it; three of them rotted down to their frames and one still standing; and the water going through the gaps with a low continuous sucking noise that Toren's ears never once stopped hearing for the next two days. The road crossed the sluice on a brick arch about twelve feet wide with no parapet on the water side, because the parapet had gone into the channel a long time ago and was still down there, humped and green.
+The engine house came up on their left when the light was nearly gone: a squat brick block on a spur of the bank, with a fallen chimney beside it and a doorway with no door. The whole of the top storey was gone, and the last of the sky showed through the upper windows.
+
+Below it, a sluice cut the bank clean through. The stone channel ran for forty feet and had four gates in it, three rotted down to their frames and one still standing. Water went through the gaps with a low continuous sucking noise that Toren's ears never once stopped hearing for the next two days. The road crossed the channel on a brick arch about twelve feet wide. It had no parapet on the water side; the parapet had gone into the channel a long time ago and was still down there, humped and green.
 
 Rook stopped the cart on the near side of the arch, and stood on the crown of it and looked north along the road, and then south along the road, and then down into the channel for a long moment.
 

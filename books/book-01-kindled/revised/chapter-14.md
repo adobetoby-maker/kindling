@@ -128,15 +128,17 @@ Toren turned to the field.
 
 So did Wyck, because Toren had said it, and because Toren was in the middle, and because for eight days the middle had been where the calls came from.
 
-Dessa did not turn. Dessa was on the poplar side, and Dessa had been given the bad side by name, and she stayed on it, alone, facing forty feet of ditch and fog with a hatchet, and three hounds came out of the poplars at her in complete silence, which is what they had been getting ready to do since the first one stopped.
+Dessa did not turn. She was on the poplar side, and she had been given the bad side by name, and she stayed on it. Alone, she faced forty feet of ditch and fog with a hatchet.
+
+Three hounds came out of the poplars at her in complete silence. They had been getting ready to do it since the first one stopped.
 
 She got the hatchet into the first one. She got her forearm up for the second, which is what you do, which is what everyone does, and it took her forearm.
 
 The third one hit her below the knee and drove her off her feet sideways into the parapet.
 
-Rook was there before she finished falling — Toren never saw him cross the ground, there was a crack of the struts and a scatter of grit, and the man was simply in a different place — and he killed all three of them in the mouth of the bridge in about four seconds, and there was nothing careful about it. Then he turned and put himself between the poplars and the cart and stood there while the remaining hound in the field decided whether it wanted any of this.
+Rook was there before she finished falling — Toren never saw him cross the ground, there was a crack of the struts and a scatter of grit, and the man was simply in a different place — and he killed all three of them in the mouth of the bridge in about four seconds, and there was nothing careful about it. Then he turned and put himself between the poplars and the cart and stood there while the hounds remaining in the field decided whether they wanted any of this.
 
-It didn't. It went.
+They didn't. They went.
 
 The fog closed over the stubble, and the noise stopped, and Dessa was making a sound against the stone.
 

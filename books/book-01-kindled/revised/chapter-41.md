@@ -42,7 +42,7 @@ It was the first thing anybody had said, and Rook did not look annoyed about it.
 
 "They paid," he said. "They paid in what a family like mine actually wanted, which wasn't coin. A doctor twice a year at Lowry Bend, for everybody, as long as I was there. Medicine off the wagon. A name on a list somewhere that meant if the fracture threw something big at us, somebody who owed us would come.
 
-"I went in the autumn I turned fourteen, and my mother stood at the top of the lane and did not cry until I was out of sight, and I know that because my brother told me nine years later, and it is one of about four things I have left of her."
+"I went in the autumn I turned fourteen, and my mother stood at the top of the lane and did not cry until I was out of sight, and I know that because my brother told me when I came home five years later, and it is one of about four things I have left of her."
 
 Milo made a small sound.
 
@@ -158,7 +158,7 @@ Nobody moved.
 
 He turned his head.
 
-"And the other thing it does is that you stop being stuck with the one door. Which is the part everybody actually wants and the part that means nothing on its own. There's a word for a person who's got there — they call it unbound, and it's a poor word, and it makes people think of a chain coming off, and it's more like finding out a wall you'd been leaning on was a curtain."
+"And the other thing it does is take the lock off the one door. It does not open another one for you. It means you can learn to reach past the door you were given, which is the part everybody actually wants and the part that means nothing without the work. Some people open a second door. Some go further. They call that unbound, and it's a poor word, and it makes people think of a chain coming off, and it's more like finding out a wall you'd been leaning on was a curtain."
 
 Wyck said, "That's you."
 
@@ -166,7 +166,7 @@ Wyck said, "That's you."
 
 "You do the wall and the stone and the running thing."
 
-"I do the wall and the stone and the running thing," said Rook, "and there's a fourth, and I haven't got it, and there's people who'd tell you there's further to go after that, and I don't know, and I've stopped needing to."
+"I do the wall and the stone and the running thing," said Rook. "That's two doors. There's a third. And there's people who'd tell you there's further to go after that, and I don't know where it ends, and I've stopped needing to."
 
 ---
 
@@ -192,7 +192,7 @@ He stopped and put a stick on the fire and pushed it in with his boot, and Toren
 
 He was quiet for a moment.
 
-"Cinder Company came over the wire on the eleventh of the ninth month, at about two in the morning, and burned the whole of it, and everyone in it."
+"Cinder Company came over the wire on the eleventh of the ninth month, at about two in the morning, and burned the whole of it, and killed nearly everyone in it."
 
 ---
 
@@ -248,7 +248,7 @@ He looked up.
 
 "I found out five years ago," he said. "In a weigh-yard, off a piece of brass exactly like the one in my coat, from a man who was selling boots.
 
-"Eleven years since the valley. Nine since the lane. And for the first six of them, I was a man carrying two entirely separate holes, and then a bootmaker put a chit on a table and turned it over, and they were one hole, and they had been one hole the whole time, and I had been living next to it for six years like a man sleeping in a house with a body in it."
+"Eleven years since the valley. Nine since the lane. For six years after the first, and four after the second, I thought they were separate things. Then a bootmaker put a chit on a table and turned it over, and they were one hole, and they had been one hole the whole time, and I had been living next to it for six years like a man sleeping in a house with a body in it."
 
 ---
 
@@ -282,7 +282,7 @@ Her voice was not steady, and she used it anyway.
 
 "Yes."
 
-"You said I wasn't the first," said Dessa. "You said you'd seen it happen to three people including you, and the other two are dead. So one of them's her. Who's the third?"
+"You said I wasn't the first," said Dessa. "You said you'd seen it happen to three people besides you, and I was one, and the other two are dead. So one of them's her. Who's the third?"
 
 "A boy called Ander Croft," said Rook, "who was eleven, and who got it on a Tuesday in front of the whole station because two of the little ones dared him to hold his hand in a lamp, and who died on the same night as everybody else. He's not important to your question. I only ever counted him because Vera made me count him."
 
@@ -332,7 +332,7 @@ The fire went down. Wyck fed it without being asked and sat back down.
 
 "I'll do the last part quickly," said Rook, "because it's the part that's about the five of you, and you've earned it in front of the rest.
 
-"What was taken at that station wasn't forty people. Forty people were taken, and that's the thing I think about at three in the morning, and it's not what was *destroyed*. What was destroyed was a piece of paper that would have told four hundred settlements that they've been sorting their children wrong since the Fall.
+"What Cinder took at that station wasn't only the people. The people are what I think about at three in the morning. What they destroyed with them was a piece of paper that would have told four hundred settlements that they've been sorting their children wrong since the Fall.
 
 "I can kill the men who did it. I've spent six years arranging to, and I'm going to.
 

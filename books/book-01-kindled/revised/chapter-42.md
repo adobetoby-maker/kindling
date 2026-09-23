@@ -140,7 +140,7 @@ Dessa did.
 
 She had her hands round a mug, and she said it to the fire.
 
-"That's all it was. I've been sitting down every night for a fortnight trying to find out whether the four seconds belonged to me or to his stone or to the weather, and every single night the entire exercise was a girl auditing herself. And then last night a man told me I was the third person he's ever seen do it and that one of the other two is dead and that I am, personally, on my own, sitting on a stone with a bad leg, the proof of the thing she died holding on to." She turned the mug round. "And this morning I got up, and it was just — settled. It's mine. Somebody who'd know said so. And then there was nothing left to check, and I sat down at four o'clock to do the nothing, and I did the nothing properly for the first time in my life, and it took about a minute."
+"That's all it was. I've been sitting down every night for a fortnight trying to find out whether the four seconds belonged to me or to his stone or to the weather, and every single night the entire exercise was a girl auditing herself. And then last night a man told me I was the third person he's ever seen do it and that the other two are dead and that I am, personally, on my own, sitting on a stone with a bad leg, the proof of the thing she died holding on to." She turned the mug round. "And this morning I got up, and it was just — settled. It's mine. Somebody who'd know said so. And then there was nothing left to check, and I sat down at four o'clock to do the nothing, and I did the nothing properly for the first time in my life, and it took about a minute."
 
 Rook was looking into the fire and did not say anything for a moment.
 
@@ -336,4 +336,4 @@ Rook did not answer that for a while.
 
 "Go to sleep," he said, at last — and it was the same two words he had used on a bridge and at a field wall and on a gravel bar at midnight, and this time he moved over about a foot to make room on the bank, and did not say anything about having done it.
 
-They sat there together in the dark facing east, the man and the boy, until the grey came up behind them on the road they were going to walk instead.
+They sat there together in the dark facing east, the man and the boy, until the grey came up in front of them over the country Rook had chosen not to cross. Behind them lay the road they were going to walk instead.

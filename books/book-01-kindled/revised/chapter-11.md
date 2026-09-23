@@ -154,11 +154,11 @@ Toren felt the shut place open above him the way you feel a window go up in anot
 
 It was a second and a half. Perhaps two.
 
-Four husks came through the open place in that second and a half. They went up the road on the rail side at a dead sprint, past the stranger, past Garrick's shoulder — because Garrick could only stand in one place and had chosen the place that mattered — and they did not stop for any of it, because the cart was the nearest living thing, and the cart was what they wanted, and Toren rolled over on the road and screamed a warning that was too late to be a warning.
+Four husks came through the open place in that second and a half. They went up the road on the rail side at a dead sprint, past the stranger and past Garrick's shoulder. Garrick could only stand in one place and had chosen the place that mattered. The husks did not stop for any of it. The cart was the nearest living thing, and the cart was what they wanted, and Toren rolled over on the road and screamed a warning that was too late to be a warning.
 
 Wyck Tanner met the first one at the tailgate with a length of rebar and did not step back.
 
-The second one he took across the knuckles. The third one Dessa turned Pitch into, deliberately — a nine-hundred-pound mule pivoted on a cheek strap by a fourteen-year-old girl who had spent twelve days learning exactly where his feet went — and the husk went under and did not come out.
+Wyck took the second one across the knuckles. Dessa turned Pitch into the third, deliberately — a nine-hundred-pound mule pivoted on a cheek strap by a fourteen-year-old girl who had spent twelve days learning exactly where his feet went — and the husk went under and did not come out.
 
 The fourth one reached the cart bed and got one arm over the side rail before Milo Faust — who had not lifted his hands off Senna's shoulder, who did not lift them then — kicked it in the head twice with both heels and screamed at it until Wyck got there.
 
@@ -184,7 +184,7 @@ Toren had heard about that. Everybody had heard about that — it was the one th
 
 The man walked back down the line of it with a flat tin flask and crouched at each of the good seams and drew it up into the flask with two fingers, unhurried, the way you'd skim cream.
 
-He did four before he said anything.
+He worked four seams before he said anything.
 
 "Anyone still bleeding?"
 

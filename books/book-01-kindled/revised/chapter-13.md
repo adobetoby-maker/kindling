@@ -160,7 +160,7 @@ He said it to her, and then he turned around and said it to Toren, and his voice
 
 "I wasn't—"
 
-"You put a year of my life on a table in front of a woman with a book. That's what you just did. Whatever else you thought you were doing, that's what happened." He was not shouting. It would have been easier if he had been. "I told all four of you at the cut. Two days. To the wall. In front of the people here. I have been late to something for a long time, and you don't know what it is, and you had no right to price it."
+"You put a season of my life on a table in front of a woman with a book. That's what you just did. Whatever else you thought you were doing, that's what happened." He was not shouting. It would have been easier if he had been. "I told all four of you at the cut. Two days. To the wall. In front of the people here. I have been late to something for a long time, and you don't know what it is, and you had no right to price it."
 
 "I know," said Toren.
 
@@ -182,7 +182,7 @@ Milo said, "I'm not staying."
 
 Wyck said nothing at all. Toren registered that and did not have room for it and would have to have room for it later.
 
-Rook stood in the weigh-yard of Hobb's Wall — with a woman holding a pen and a place in the world he had been walking toward for years — and looked at four young people who had, between the road cut and the gate, quietly stopped being cargo.
+Rook stood in the weigh-yard of Hobb's Wall with Nell's pen waiting over the book and his unfinished road still beyond the gate. He looked at four young people who had, between the road cut and the gate, quietly stopped being cargo.
 
 Toren watched him take the whole thing in and find no door out of it.
 

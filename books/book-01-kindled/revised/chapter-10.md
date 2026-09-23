@@ -94,7 +94,7 @@ He got up. His hip didn't work right. He got the Ember out in front of him, and 
 
 ---
 
-Bram Sark fired four more times, and Toren heard him counting them out loud each time — "three," "two," "one" — not for anyone else. For himself. For the arithmetic.
+Bram Sark fired four more times, and Toren heard him count each one out loud — "four," "three," "two," "one" — not for anyone else. For himself. For the arithmetic.
 
 At *one*, the cut narrowed, and the cart's near wheel went into a break in the road bed, and everything stopped.
 
@@ -122,7 +122,7 @@ The husks came around Marta's wall on both sides, the way water comes around a s
 
 Dessa screamed. Not a word. Just the sound.
 
-The wheel came out of the break with a crack and the cart lurched forward and Toren was running again with his hip on fire and his hand out, and he did not look back, because his father had said don't stop for me and it had not been his father who said it and he was already old enough to know the difference and not old enough to bear it.
+The wheel came out of the break with a crack, and the cart lurched forward, and Toren was running again with his hip on fire and his hand out. He did not look back. His father had said those words before — *don't stop for me* — but this time it had not been his father who said them, and Toren was already old enough to know the difference and not old enough to bear it.
 
 ---
 

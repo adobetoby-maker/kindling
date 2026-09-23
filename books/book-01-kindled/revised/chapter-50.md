@@ -2,7 +2,7 @@
 
 Rook told him the other thing at first light — sitting on the ground with his back against the sixth block — in about two minutes, and did not look at him once while he said it.
 
-"You asked me at a fire," he said. "Thirteen days old, with a bowl in your hands. You said *you did both*, and I said everybody's mostly right about most things, and I told you to eat your food. I've thought about that four hundred times since and I've never once been sorry, because you'd have spent the whole summer trying to do it, and you'd have put it out, and you'd have decided it wasn't for you, and it *is* for you, and I'd have taken it off you with one sentence on a riverbank in the dark."
+"You asked me at a fire," he said. "Your Ember was thirteen days old, and you had a bowl in your hands. You said *you did both*, and I said everybody's mostly right about most things, and I told you to eat your food. I've thought about that four hundred times since and I've never once been sorry, because you'd have spent the whole summer trying to do it, and you'd have put it out, and you'd have decided it wasn't for you, and it *is* for you, and I'd have taken it off you with one sentence on a riverbank in the dark."
 
 "You've never—"
 

@@ -2,13 +2,13 @@
 
 The thing began to come apart on the twenty-sixth day, and it began with Rook getting something wrong.
 
-Not a large thing. He put them across a lane that had a five-bar gate at the end of it and did not say anything about the gate, and they drilled for twenty minutes with a gate at the end of the lane, and at the end of twenty minutes he stopped in the middle of a sentence, looked at it, and said, "Off. Now. All of you, off the lane and behind the hedge."
+Not a large thing. He put them across a lane that had a five-bar gate at the end of it and did not say anything about the gate. They drilled there for twenty minutes. Then he stopped in the middle of a sentence, looked at it, and said, "Off. Now. All of you, off the lane and behind the hedge."
 
 "What's wrong with—"
 
 "Nothing's wrong with it," said Rook. "There's a gate at the end of it, and I've had you standing on a line for twenty minutes, and I put you there."
 
-He did not explain further. He did not have to; Toren had it about four seconds later and wished he hadn't, because a gate is a gap, and a gap is a line, and you did not stand in a lane with one open end when your whole afternoon had been about a thing that came in straight lines at no notice at all, and Rook had spent three days making sure that none of them would ever do that again, and had then done it himself in front of all four of them.
+He did not explain further. He did not have to. Toren had it about four seconds later and wished he hadn't. A gate is a gap, and a gap is a line, and you did not stand in a lane with one open end when your whole afternoon had been about a thing that came in straight lines at no notice at all. Rook had spent three days making sure that none of them would ever do that again, and had then done it himself in front of all four of them.
 
 "It's been three weeks since we've seen a Stilt," Milo offered.
 
@@ -76,7 +76,7 @@ Nobody said anything for a long time. It was the first time in twenty-six days t
 
 Senna had a bad night.
 
-It came on at about the second hour, the way the bad ones did, and it was not dramatic; it was the absence of drama that frightened Toren every time. She simply stopped being able to get enough of a breath to finish a sentence, and then to start one, and she lay in the cart with her hand on Dessa's wrist and worked at it, patiently, the way she worked at everything, and Toren sat on the tailgate with his back to the boards because she had told him years ago that she could not be doing with being looked at.
+It came on at about the second hour, the way the bad ones did, and it was not dramatic; it was the absence of drama that frightened Toren every time. She simply stopped being able to get enough of a breath to finish a sentence, and then to start one. She lay in the cart with her hand on Dessa's wrist and worked at it, patiently, the way she worked at everything. Toren sat on the tailgate with his back to the boards because she had told him years ago that she could not be doing with being looked at.
 
 Rook was there before anyone called him. He did not ask what was happening. He got up into the cart bed, which he almost never did, and got his knee under her shoulders and got her sitting up against him, and put two fingers on the inside of her wrist and held them there a long time.
 
@@ -114,7 +114,7 @@ Rook went over on the twenty-seventh, at the midday halt, sitting against the ca
 
 Toren looked up from the strap, and the man was asleep.
 
-It was the most shocking thing he had seen in a month, and it took him a moment to work out why. It was not that Rook slept; he must sleep, everybody slept, they had all seen him lie down at some point in the small hours and had all assumed he did something in those hours that resembled sleeping. It was the *posture*. He had gone over sitting up with his chin down on his chest and one boot out at an angle that no one would ever choose, and his hands had come open in his lap, and Rook's hands were never open.
+It was the most shocking thing he had seen in a month, and it took him a moment to work out why. It was not that Rook slept. He must sleep; everybody slept. They had all seen him lie down at some point in the small hours and had all assumed he did something in those hours that resembled sleeping. It was the *posture*. He had gone over sitting up with his chin down on his chest and one boot out at an angle that no one would ever choose. His hands had come open in his lap, and Rook's hands were never open.
 
 Dessa came round the cart with the nosebag and stopped dead.
 

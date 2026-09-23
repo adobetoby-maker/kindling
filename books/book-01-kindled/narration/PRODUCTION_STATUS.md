@@ -22,8 +22,10 @@
 - The first Hobb's Wall/Toren listening pass is complete: 197 word-locked
   punctuation, capitalization, and paragraph-boundary repairs across the 26
   retained chapters.
-- That pass is now the recoverable baseline. The owner has authorized a second,
-  substantive Monroe 1.3 prose edit before narration is frozen.
+- That pass is now the recoverable baseline. The owner-authorized substantive
+  Monroe 1.3 prose edit is complete across all 26 retained Hobb's Wall chapters:
+  474 words added, 519 removed or replaced, net -45. It is awaiting owner
+  review before narration is frozen.
 - Full production audio is intentionally held until revised chapter hashes are
   frozen. This prevents spending hours rendering prose that is still changing.
 

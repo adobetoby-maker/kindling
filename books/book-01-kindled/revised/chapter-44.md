@@ -22,7 +22,7 @@ Dessa woke them before light with one word.
 
 "Up."
 
-She had not raised her voice and she was not looking at anything. She was sitting exactly where she had sat, cross-legged with the bad leg out, hands open on her knees, and her face had the look it had worn in the grass four nights ago, which was the look of somebody listening in a room with no sound in it.
+She had not raised her voice and she was not looking at anything. She was sitting exactly where she had sat, cross-legged with the bad leg out, hands open on her knees, and her face had the look it had worn in the grass five nights ago, which was the look of somebody listening in a room with no sound in it.
 
 "North," she said. "Across the arch. Two on the road bed at twenty-eight, and something on the water side of the bank below them that isn't standing up. They came past me while it was still dark and I had them and I let them, because there was nothing to be done about two men at four in the morning and I wanted to know if there'd be more."
 
@@ -90,7 +90,7 @@ Toren had seen him do it on a press-house step in the dark with a bad arm, and i
 
 The second one saw it happen and did not commit.
 
-That was the moment Rook had been waiting for, and Toren only understood it afterward. The man checked — a half step, a shortening, the ordinary human instant of wanting to see how a thing went before being in it — and Rook went past Toren's shoulder at a walk and took him off his feet with a shoulder and an elbow and put him down on his back in the ruts and stood on his wrist and said, without any heat at all, "Stay down, son, you've had your morning," and left him there, alive, shouting.
+That was the moment Rook had been waiting for, and Toren only understood it afterward. The man checked — a half step, a shortening, the ordinary human instant of wanting to see how a thing went before being in it. Rook went past Toren's shoulder at a walk, took him off his feet with a shoulder and an elbow, and put him down on his back in the ruts. He stood on the man's wrist and said, without any heat at all, "Stay down, son, you've had your morning," and left him there, alive, shouting.
 
 Which left the third.
 
@@ -136,7 +136,7 @@ Dessa was standing on the cart step with one hand on the rail.
 
 "She hasn't got nine, she's counted the reeds going over," said Rook, "and she's right, and get on the arch."
 
-And Milo — who had had four minutes, and had had them alone, and had not had any help, and who had spent the first three of them doing exactly what he had been drilled to do eleven times on a flat by a gate — had set his light down.
+Milo had had four minutes alone, without help. He had spent the first three doing exactly what he had been drilled to do eleven times on a flat by a gate. He had set his light down.
 
 He had set it down on the road bed on the south side of the arch, out in the open, ten feet from the cart and twelve feet from where he was standing, and he was standing in the last of the dark in the lee of the wheel with his hands empty.
 
@@ -158,7 +158,9 @@ And then it would come again, in a rush of eleven seconds, and stop.
 
 They came at the arch four times.
 
-The first time was eight of them up the road bed from the south, shoulder to shoulder with three spears in front, and Rook put the cart across the road behind the arch with the mule out of the shafts and the tail to them, and Wyck stood in the twelve-foot gap on the crown with the sluice going underneath him, and the eight of them came up the slope of it and broke on him the way water breaks on a stone, and it was the most frightening thing Toren had ever watched, because three of them got their hands on Wyck Tanner at once and he did not go backward and he did not go forward, and Toren fought over his left shoulder where the bad arm was, which is where they all came, and put the spike through a man's hand on a spear shaft and heard the man scream and did not look at it.
+The first time was eight of them up the road bed from the south, shoulder to shoulder with three spears in front. Rook put the cart across the road behind the arch, with the mule out of the shafts and the tail toward them. Wyck stood in the twelve-foot gap on the crown with the sluice going underneath him. The eight came up the slope and broke on him the way water breaks on a stone.
+
+It was the most frightening thing Toren had ever watched, because three of them got their hands on Wyck Tanner at once and he did not go backward and he did not go forward. Toren fought over his left shoulder, where the bad arm was and where they all came, and put the spike through a man's hand on a spear shaft and heard the man scream and did not look at it.
 
 Then somebody down the slope shouted a name and they all went back twenty feet, in order, and stood there breathing, and one of them said something and two of them laughed.
 
@@ -166,7 +168,9 @@ Then somebody down the slope shouted a name and they all went back twenty feet, 
 
 "They're frightened," said Rook. "So are you. You've gone the other way about it, that's all."
 
-The second time they came at the water side, four of them up the bank slope onto the spur below the engine house where the ground was flat, and that was Dessa's, entirely. She called them out of the reeds one at a time while they were still crawling — "One at the sluice head, he's low, he's at the third gate — two more behind him on the stone — the far one's stopped, he's stopped, he's waiting for the other two" — and Rook went down the inside of the bank and met the first man at the sluice head before the man had got his feet under him, and that was the end of that, and it was fast and it was ugly and Toren, above on the arch, made himself watch it and wished, watching it, that he hadn't.
+The second time they came at the water side, four of them up the bank slope onto the flat spur below the engine house. That was Dessa's, entirely. She called them out of the reeds one at a time while they were still crawling: "One at the sluice head, he's low, he's at the third gate — two more behind him on the stone — the far one's stopped, he's stopped, he's waiting for the other two."
+
+Rook went down the inside of the bank and met the first man at the sluice head before the man had got his feet under him. That was the end of that. It was fast and it was ugly, and Toren, above on the arch, made himself watch it and wished, watching it, that he hadn't.
 
 The third time they did not come at all. They came halfway and made a great deal of noise and went back, and while everybody's eyes were south a man got up the north slope on his own with a hooked pole and cut the mule's hobble and tried to drive Pitch off the bank.
 

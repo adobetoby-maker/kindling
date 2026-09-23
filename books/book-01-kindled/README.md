@@ -19,6 +19,12 @@ belong to Book Two.
 - `editor/` contains movement verdicts, listening findings, and repair records.
 - `SOURCE_MAP.md` records every compiled chapter's provenance.
 
+The first substantive Monroe 1.3 pass over the 26 retained Hobb's Wall chapters
+is complete and awaiting owner review. It changed 22 chapters, adding 474 words
+and removing or replacing 519 (net -45). The small net change reflects bounded
+prose repair, not a word lock; see `editor/substantive/SUMMARY.md` for the
+movement-by-movement audit.
+
 The first assembly contains 53 chapters and 212,412 whitespace-delimited words
 including Markdown chapter headings. The three retained source portions total
 212,306 words before their headings are renumbered. No substantive seam rewrite
