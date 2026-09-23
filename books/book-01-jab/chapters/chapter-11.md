@@ -1,0 +1,349 @@
+# Chapter Eleven
+
+Three hundred and forty paces, the girl had said, and Jab counted them, because his head would not do anything else.
+
+They went along the east shoulder in a line with two lamps, the big boy called Otto pulling a two-wheeled barrow with a folded blanket on the boards and a four-year-old lying on it, and the small woman walking at the barrow's head with one hand on the rim, not holding, only there. Jab walked at the side with his brother's hand in his.
+
+The verge was exactly where the girl had said it was, and exactly as wide, and when it ran out she said "up here" without turning round and they came up onto the made surface at a place where the ditch shallowed, and after that it was flat hard stone and the barrow stopped jolting.
+
+"How's the head end," said Otto, over his shoulder. He was very large and he was pulling with a strap over one shoulder and the far handle braced somewhere about his hip, and he said it the way a man says a thing he has been taught to say.
+
+"He's talking," said the small woman.
+
+"I'm not," said Tonk.
+
+"There you are," she said. "He's talking."
+
+Tonk's hand was small and hot and it had a wooden fish in it as well as Jab's fingers, and it would not let go of either.
+
+"Jab."
+
+"Mm."
+
+"Is it the place?"
+
+"It's the place."
+
+"It's got a *light* on it."
+
+"I told you," said Jab. "Thousands of them."
+
+"That's one," said Tonk, with the last of what he had, and Jab laughed, and somewhere ahead of them a slab of steel began to come open in the side of an earth bank with a flat white lamp burning over it in the middle of the night.
+
+---
+
+He said it before they had got the barrow level with the gate.
+
+"*Clinical.*"
+
+Four grey coats came out at a fast walk in a line, hooded, with flat clear panels in front of their faces, and behind them came a bin on two wheels with a clamp on the lid. They went past Jab entirely. They went past Otto and the barrow. They went to the crate lashed on the back of the barrow with five sacks in it, and one of them said, "Ma'am, I need you to step away from that," to the small woman, in a voice with nothing in it at all.
+
+"Clinical," said Jab, louder. "There's a boy on this barrow and he's four years old and it's clinical."
+
+The grey coat nearest him turned his flat panel round. Jab could see his own face in it, small and grey and streaked with something.
+
+"Say that again."
+
+"Clinical," said Jab. "Now, and not after the boots."
+
+There was a pause of about two seconds in which he understood that he had said exactly the right words in exactly the right order, and that the man in front of him had been going to get there anyway and had now got there faster, and that the carter with the broken chair on his cart had bought him about a minute and had known precisely what he was buying.
+
+"Right," said the grey coat, and turned round and shouted one word at the gate, and things began to happen very fast and entirely without reference to Jab.
+
+---
+
+The woman came out through the gate without a bin.
+
+She was in a grey coat with the hood down and no panel in front of her face, about sixty, with short white hair and a lined brown face and small quick hands, and she did not run and she did not dawdle. She came straight to the barrow and looked at Tonk from the top for about four seconds without touching him, and then put two fingers on his neck and looked away over the fields while she counted.
+
+"Hello, my love," she said. "What's your name?"
+
+"Tonk."
+
+"That's a very good name. I'm going to look at your leg and I'm not going to move it."
+
+"It's *broken*," said Tonk.
+
+"I know it is," said the woman, unwrapping. "Everybody's told me."
+
+Nobody had told her anything. She had been out of the gate for eleven seconds.
+
+She got the wrapping off and looked at it for a moment in the lamplight and did not make any face whatsoever, and then she said, over her shoulder, in a completely level voice, "Stretcher, and go and wake Sowerby, and tell him it's a fracture at seven weeks with a sinus and he'll want Keel."
+
+"Wake him?"
+
+"Wake him," said the woman.
+
+Then she turned round and looked at Jab properly for the first time.
+
+"And who are you?"
+
+"I'm his brother."
+
+"Have you been carrying him?"
+
+"Sixteen days," said Jab.
+
+Something went across the woman's face that he could not read at all and did not have room to think about.
+
+"Then you'll want to hear this from me and not from a door," she said. "He's going in now. Not in the morning. Now. And you are not coming with him, and I'm going to tell you why, and then I'm going to go, because I haven't got time to be kind about it twice.
+
+"You're carrying road dirt and you're carrying ash and you've got an open wound on that arm that hasn't been looked at, and that boy is going into a room where people are going to open him up. Everything that comes through that gate gets stripped and washed and written down, and that takes twenty minutes, and he hasn't got twenty minutes to spare and you have."
+
+"I promised him," said Jab.
+
+"I know," said the woman.
+
+"No," said Jab. "You don't understand. I *promised* him. He asked me if I'd be there and I said they'd have to carry me out."
+
+The woman put her hand on his arm, above the bandage, and left it there, and did not agree with him.
+
+"Then you'll be there for the next one," she said. "There's going to be more than one. Say goodnight to him properly. Don't say it fast, and don't lie to him, and then let go of his hand, because if you make me take it off you he'll remember that instead."
+
+---
+
+He said goodnight to his brother in a road in the lamplight with two people standing by holding a stretcher and waiting for him to finish.
+
+"They're taking you in without me."
+
+Tonk's face did a thing. His hand went tight.
+
+"I'll come after. It's twenty minutes and then I'll come after. That's not a maybe." He got his own hand round the small one properly, all of it. "They're going to look at your leg tonight, and there's going to be a doctor, and everybody in there is better at all of this than I am."
+
+"You're not *better* than them?"
+
+"I'm not better than them," said Jab. "I'm not even close, and I've been telling you I was for seven weeks."
+
+Tonk absorbed this. Then, with a four-year-old's terrible instinct for the softest place available:
+
+"You *lied*."
+
+"I did," said Jab. "That one I did. I'm sorry."
+
+"Is it the *only* one?"
+
+"It's the only one."
+
+His brother looked up at him from the boards of a barrow with a wooden fish in his fist.
+
+"All right," he said. "You have to *come after*."
+
+"I'll come after."
+
+He let go of the hand. He made himself do it in one movement and not in stages, because stages would have been worse, and then he stood in the middle of a made road with his hands at his sides and watched two strangers lift his brother onto a stretcher and carry him in through a hole in an earth bank, and the light over the gate went out of his eyes for a moment and came back.
+
+He did not fall down. He noticed that with a certain distant surprise.
+
+---
+
+Then they took everything else.
+
+They took the five sacks and clamped them in the bin. They took Otto's barrow to be hosed and Katori's crate and the two lamps and the coats off four people's backs. They took Jab's boots, which had been on his feet since the home valley and had one short lace, and they took the pack and the hide cover and the blanket and the water skins, and they took the broken frame — he had not even seen who had carried it down the road, and somebody had, and it went into a bin in two pieces.
+
+And then a grey coat held his hand out for the metal.
+
+"That's on a cord round your neck," he said. "Under the shirt. I need it."
+
+Jab stood in the road in his socks.
+
+"It's not ash," he said.
+
+"No, sir. It's a conduit and it's got ash all over it and it's been in something tonight." The grey coat's voice was not unkind and it was not asking. "It goes in its own bin. It gets washed and tagged and you get it back at the hatch. Nobody's keeping it."
+
+"You don't understand what it is."
+
+"I've took eleven hundred of them, sir," said the grey coat.
+
+Jab put his hand up under his collar. The cord had been there for four years. It had been there through nine days of a fish run, and a summer on a jam, and a bridge, and a gravel bar with his brother's blood on his hands, and sixteen days of road, and he had not once, since he was thirteen years old, gone to sleep without the small hard warmth of it lying in the hollow of his throat.
+
+He lifted it over his head and put it in a stranger's glove.
+
+It weighed nothing at all. That was the thing he had never noticed. He watched it go into a small bin with a clamp on it, and watched a man tie a paper tag to the handle and write on the tag, and he stood there in the road with his collar open and one hand still up at the place where it had been, and he thought, with a kind of blank wonder: *well. Now I've got nothing at all.*
+
+Then they hosed him down.
+
+The water was warm. Nobody had told him it would be warm. He stood in it with his eyes shut and his face up and he did not cry, because there were six other people standing in the road doing the same thing, and because he had got out of the habit somewhere north of the creek, and because the water was warm.
+
+---
+
+The reception yard was a pen of poured concrete forty feet by twenty with a drain in the middle and a bench along one wall and a hatch at the far end.
+
+There were pipes running along the wall behind the bench and the pipes were hot. Jab sat down on the bench and put his back against them and did not move for a long time.
+
+"Oh," said Otto, two places down, in a voice of total collapse.
+
+"Yes," said Jab.
+
+Above them there was a light in a fitting behind a cage of wire. It was small and flat and white and it had no flame in it anywhere, and it did not move and it did not flicker, and Jab looked up at it and thought about a boy holding a hand out flat for snow at the top of a ridge and saying *thousands*.
+
+"Don't look at it long," said the girl with the scar, without opening her eyes. "It makes the rest of the room go dark. It took me two days to work that out and nobody told me."
+
+"How long have you been here?"
+
+"Three weeks and a bit."
+
+"Where were you before?"
+
+"Four hundred miles south," said the girl, "on a wagon, with my mother on the back of it." She opened her eyes and looked at the ceiling. "Callie."
+
+"Jab."
+
+"I know," she said. "Your brother said it about ninety times."
+
+---
+
+The man behind the hatch was about forty-five with a grey cardigan under an oilskin and a pen on a string round his neck, and he had come across the whole station in the middle of the night and had a good deal to say about that to the young man beside him before he noticed that the pen was full.
+
+"Ivor Hallet," he said, through the window. "I'm going to do this in the order it's got to be done in, and I'd ask you to let me, because out of order means starting again and it's the eleventh hour. Persons in party."
+
+"Two," said Jab.
+
+Hallet looked up. He looked past him at a bench with five people on it.
+
+"There's a party of five in this yard, sir, that came in with you."
+
+"They're not mine. They found me on the road." Jab put his hands flat on the ledge. "Two. Me and my brother. He went in through the gate about twenty minutes ago and he's four and he's called Tonk, and he's in the party."
+
+The pen stopped for about a second and a half.
+
+"Two," said Ivor Hallet. "One clinical, admitted at the north gate tonight." He wrote it. "That's correct, and I'd rather have it that way than the other. Name as you'd want it written."
+
+Jab told him.
+
+"Age."
+
+"Seventeen."
+
+"Household?"
+
+"Him and me."
+
+"Head of household?"
+
+There was a silence in the pen that went on slightly too long.
+
+"Me," said Jab.
+
+"Yes," said Hallet, writing. "I'm sorry, sir. It's only a column."
+
+---
+
+"Declaration of capability," said Hallet, and laid a buff card on the ledge inside the window, and did not push it through.
+
+He said the whole thing. Meridian kept a register of Kindled persons inside the line; there were about eleven hundred names on it; it was not a secret register and you could go and look at your own entry on a Tuesday. On the card went your name, your rank if you had a word for it, and a plain description of what you could actually do — not what you would like to do; what you would do at four in the morning if a wall came down. What you got for it was a band with a red thread in it, which got you through the north yard, where the work was. What it cost was that you told this window things: if you went up, if you left, if you were going to do anything in a public street that a person who was not Kindled would find remarkable.
+
+"And if I don't?"
+
+"Transient. Fourteen days, a grey band, no north yard, and a review, and I don't sit on the review." Hallet looked at him. "I'll save you the next question, because the whole of that bench asked it a fortnight ago and I've heard it four hundred times in nine years. Your brother's admission is clinical. It went through at the gate. It is not conditional on this card, or on your band, or on one single thing you do or don't do while you're in this station, and if anybody in here ever tells you otherwise you will come back down to this window and say so to me, and I will make it the worst fortnight of that person's life. That's not procedure. That's mine."
+
+Jab stood at the hatch with his hands on the ledge.
+
+"Then what is the card for," he said.
+
+"Where you sleep," said Ivor Hallet.
+
+---
+
+"There's two gates at this station and we keep them apart on purpose," said Hallet. "Medicine's one. It's not withheld from anybody and it never has been and I'd put my hand in a fire on it.
+
+"Residence is the other. Residence is reviewed. Fourteen days, and then a board looks at a household and decides what that household's worth to the station, and I want you to hear the word I used, because it isn't *needs*." He put the pen down. "I'm not going to dress it up for you at eleven at night. A household with nothing on the paper does not get to live next door to medicine that was never being kept from it. That's the shape of it. I've said it out loud at this window about nine hundred times and it has not got better with practice."
+
+"How long will he be in there? My brother."
+
+"That's a doctor's question and I'm not one."
+
+"How long do people stay? With a leg like that."
+
+Hallet looked at him for a moment through the glass.
+
+"Months," he said.
+
+Jab stood very still and watched the whole of the next year arrive in front of him on the other side of a pane of glass, laid out in its correct order, with a column for everything.
+
+"Right," he said. "Give me the card."
+
+---
+
+He wrote it on the bench with his back against a hot pipe and a pencil that had been pushed through the hatch after the card.
+
+It was buff and it was the size of his hand and it had lines printed on it: *NAME*, and *RANK (if known)*, and *CAPABILITY*, and under that a great deal of empty space.
+
+He wrote his name.
+
+Under *RANK* he sat for a while. At home they had had the words the same as anywhere else — you heard them at the racks and on the jam and in arguments about whose cousin was better at what — and his father's aunt had used one about him at fifteen and then never again, because in her opinion saying it twice made a boy tiresome.
+
+He wrote *Flame*, and then, because it was not the whole truth, he added: *that's what they'd have said at home. I don't know what you'd say here.*
+
+Then he sat with the pencil over the empty space for a long time.
+
+He thought about a woman leaning past his father on a gravel bar with a baby on her back, looking at the ugliest blade anybody had ever pulled out of a river stone, and saying the only thing anybody said that night that he had kept whole.
+
+*Well, it looks like you. That's the whole of it.*
+
+He wrote it.
+
+*One shape. It's a fish knife — heavy, fat in the belly, hook on the end. I've had it four years. I can hold it all day and I can light it when I need it sharp, and the light sticks at the belly every time and always has.*
+
+*I've used it on wood, rope, hide, fish, snow, and a log jam.*
+
+*Tonight I used it on a hound. That's the first time I've ever used it on anything that was coming at me, and I got most of it wrong, and a woman who knew what she was doing killed four while I was killing one.*
+
+*The light doesn't make them come. It makes them go the other way. I found that out tonight and somebody here probably knew it already.*
+
+He read it back. Then he turned the card over, because there was no room left on the front, and wrote on the back:
+
+*There's a second thing and I haven't got a word for it.*
+
+*It tells me when my brother's worse. It's right about four times in five and it's wrong in the direction I want, so I don't ask it when I want an answer.*
+
+*Twice it's done more than tell me. Once in the snow and once tonight. Both times it came on its own and both times I couldn't do it again afterward and I can't do it now.*
+
+*It does not touch his leg. I want that written down, because somebody's going to ask me and the answer's no. It has never gone within a hand's breadth of the bone and it never will.*
+
+He took it up to the window.
+
+---
+
+Ivor Hallet read the front of it. Then he turned it over, which Jab had not expected, and read the back, and then went back to the top and read the whole of it again.
+
+He did not look up for some time.
+
+"Sir," he said at last.
+
+"Yes."
+
+"This second thing. Has anybody taught you anything about it?"
+
+"There's nobody to teach me," said Jab. "Where I'm from there's four people with a door open and all four of them have got this one." He put his hand flat on his own breastbone, over the empty place where the cord had been. "Nobody in my valley has ever had two."
+
+Hallet laid the card down on the desk in front of him, face up, square to the edge.
+
+"I'm going to have to have somebody else look at this," he said.
+
+"I thought you might."
+
+"Most people say something else at that point."
+
+"Most people haven't just handed you a piece of paper saying they can't do the only thing on it," said Jab, and Ivor Hallet made a small sound and wrote something in his book that Jab could not see.
+
+Then he pushed a paper band through the hatch. It went round the wrist and fastened, and there was a red thread run through the paper.
+
+"Conditional admittance. Fourteen days, reviewable, and a household with a clinical admission comes up faster than most, because the station likes to know where it stands." He said it flatly. "Yard C, second row. There's a hut with a bed going in it and I'll write you into it tonight, and the bathhouse is shut but there's hot water at the pump end and nobody will stop you. Visiting at the long building is in the afternoons."
+
+"No," said Jab.
+
+Hallet looked at him.
+
+"My brother's going into a room tonight," said Jab. "I'm not sleeping in a hut in the second row. Who do I talk to?"
+
+"That's not how—"
+
+"I'm not asking you to let me in," said Jab. "I know you can't. I'm asking who I talk to."
+
+Ivor Hallet sat behind his window with a pen on a string round his neck and looked at a boy of seventeen standing in his socks with a paper band on his wrist and a hole in his forearm and his collar open where something had been taken off him twenty minutes ago.
+
+"The woman at the desk inside the doors of the long building," he said. "Her name's Mrs Lask, and she'll tell you visiting's in the afternoons, and she'll mean it, and she has said it to four hundred people and never once enjoyed it." He picked up the pen. "And then you'll ask her the same question you just asked me. And she'll tell you it's Doctor Sowerby. And you will not get Doctor Sowerby tonight, because he's going to be busy, and you'll ask her who else, and eventually somebody will get tired of the sound of you and sit you on a bench inside the doors instead of outside them, and the bench inside is warm."
+
+He wrote one line in his book and blotted it.
+
+"North up the main street to the end," said Ivor Hallet. "Four hundred yards. There's three lamps on it and they go off at the first hour, and you're going to be under them when they do, so don't be frightened by it. There's a written reason."
