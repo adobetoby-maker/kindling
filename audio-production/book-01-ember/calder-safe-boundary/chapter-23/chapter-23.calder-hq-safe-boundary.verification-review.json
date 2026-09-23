@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-tail-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-23.md",
+  "sourceSha256": "18b34e8d21e2ddca7861ef04332c9b91b54601a9dc5a24dbbebbe73d19477399",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-23/chapter-23.calder-hq-safe-boundary.mp3",
+  "audioSha256": "a9559fb7e66afbd837a320ec227c1a586e37373cfc5ba661fe77c26807de2e1e",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-23/chapter-23.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "6b895888e28340c6135adb516148a715789f794d6cfe73633dfb6bbcc186c92d",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "suspiciousAddition",
+    "afterSourceWord": 4087,
+    "transcribedWords": "was of the two the and is is the of the"
+  },
+  "focusedEvidence": {
+    "segmentIds": [203, 204, 205, 206, 207, 208, 209, 210],
+    "startSec": 1244.96,
+    "endSec": 1289.92,
+    "finalTranscript": "And then there were only five people and a handcart going north up a raised road across eleven miles of drowned country in the early morning, with the water flat and bright on both hands, and a brick heap somewhere behind them on a platform, with the flat side of a piece of bread facing the sky.",
+    "sourceFinalWordsPresent": true,
+    "speechAfterSourceFinalWord": false,
+    "trailingSilenceMs": 1226,
+    "longTranscriptHallucinationRejectedByCachedSegments": true
+  },
+  "finding": "The cached word-timestamp transcription ends cleanly on the source's final word. The alleged addition exists only in the long-form transcript's hallucinated tail and is not supported by timed speech segments.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T06:45:43Z"
+}

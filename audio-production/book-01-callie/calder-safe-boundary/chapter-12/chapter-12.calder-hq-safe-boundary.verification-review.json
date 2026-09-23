@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-invented-punctuation-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-12.md",
+  "sourceSha256": "f695a6efc3b1c39bf87dc90cc9e5f8822e5483dd828ae3b8f149076d6ac47a92",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-12/chapter-12.calder-hq-safe-boundary.mp3",
+  "audioSha256": "88917dc9f0529f4a7d9c6e34374631b6fe7406c71f4f40aa7c76b588c1db8415",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-12/chapter-12.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "1f14c16af70fc68cf3e4693556ad624bb9c6bbad4b23a74558d07bd9114b9488",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailures": [
+    {
+      "type": "short-transition",
+      "after": "hasn't.",
+      "before": "It",
+      "atSec": 1200.34,
+      "acousticQuietMs": 74
+    }
+  ],
+  "focusedEvidence": {
+    "sourcePhrase": "It hasn't got a column for you.",
+    "asrSegmentId": 160,
+    "asrStartSec": 1057.76,
+    "asrEndSec": 1063.7,
+    "asrTranscript": "It hasn't got a column for you. Nobody has. And the kind of people who make columns don't like a",
+    "requiredPhrasePresent": true,
+    "noSpeechProbability": 1.507135562184292e-12
+  },
+  "finding": "The long-form verifier transcript duplicated 'It hasn't.' and invented a sentence boundary before the source phrase. The canonical source and timed ASR cache contain the continuous phrase 'It hasn't got a column for you.' in full and in order, so no sentence-pause requirement applies at the alleged boundary.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T11:01:30Z"
+}

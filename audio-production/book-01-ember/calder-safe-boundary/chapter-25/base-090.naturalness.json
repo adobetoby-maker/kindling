@@ -1,0 +1,538 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-25/base-090.json",
+  "model": "UTMOSv2",
+  "pass": true,
+  "use": "regression-and-outlier-detection-only",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "referenceMos": 3.4474,
+      "segments": 24,
+      "minimum": 3.5686,
+      "mean": 3.969
+    },
+    "whisper": {
+      "referenceMos": 3.6318,
+      "segments": 3,
+      "minimum": 3.9572,
+      "mean": 4.0538
+    },
+    "yell": {
+      "referenceMos": 3.5337,
+      "segments": 7,
+      "minimum": 3.9684,
+      "mean": 4.1208
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 17.12,
+      "mos": 3.8801,
+      "floor": 3.15
+    },
+    {
+      "index": 2,
+      "role": "whisper",
+      "durationSec": 25.36,
+      "mos": 4.1869,
+      "floor": 3.1818
+    },
+    {
+      "index": 3,
+      "role": "whisper",
+      "durationSec": 21.68,
+      "mos": 3.9572,
+      "floor": 3.1818
+    },
+    {
+      "index": 4,
+      "role": "whisper",
+      "durationSec": 17.6,
+      "mos": 4.0175,
+      "floor": 3.1818
+    },
+    {
+      "index": 6,
+      "role": "neutral",
+      "durationSec": 18.8,
+      "mos": 3.8069,
+      "floor": 3.15
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 23.12,
+      "mos": 4.2055,
+      "floor": 3.15
+    },
+    {
+      "index": 12,
+      "role": "neutral",
+      "durationSec": 13.92,
+      "mos": 4.1958,
+      "floor": 3.15
+    },
+    {
+      "index": 15,
+      "role": "neutral",
+      "durationSec": 19.12,
+      "mos": 4.3677,
+      "floor": 3.15
+    },
+    {
+      "index": 18,
+      "role": "neutral",
+      "durationSec": 2.48,
+      "mos": 3.5686,
+      "floor": 3.15
+    },
+    {
+      "index": 21,
+      "role": "neutral",
+      "durationSec": 24.48,
+      "mos": 3.8499,
+      "floor": 3.15
+    },
+    {
+      "index": 24,
+      "role": "neutral",
+      "durationSec": 19.68,
+      "mos": 4.1676,
+      "floor": 3.15
+    },
+    {
+      "index": 26,
+      "role": "neutral",
+      "durationSec": 11.84,
+      "mos": 3.862,
+      "floor": 3.15
+    },
+    {
+      "index": 28,
+      "role": "yell",
+      "durationSec": 19.28,
+      "mos": 4.0087,
+      "floor": 3.15
+    },
+    {
+      "index": 29,
+      "role": "yell",
+      "durationSec": 13.92,
+      "mos": 4.3448,
+      "floor": 3.15
+    },
+    {
+      "index": 30,
+      "role": "yell",
+      "durationSec": 21.36,
+      "mos": 4.031,
+      "floor": 3.15
+    },
+    {
+      "index": 31,
+      "role": "yell",
+      "durationSec": 23.68,
+      "mos": 4.1323,
+      "floor": 3.15
+    },
+    {
+      "index": 34,
+      "role": "neutral",
+      "durationSec": 23.84,
+      "mos": 4.2135,
+      "floor": 3.15
+    },
+    {
+      "index": 37,
+      "role": "neutral",
+      "durationSec": 24.4,
+      "mos": 4.05,
+      "floor": 3.15
+    },
+    {
+      "index": 38,
+      "role": "yell",
+      "durationSec": 14.72,
+      "mos": 4.2287,
+      "floor": 3.15
+    },
+    {
+      "index": 39,
+      "role": "yell",
+      "durationSec": 18.4,
+      "mos": 4.1318,
+      "floor": 3.15
+    },
+    {
+      "index": 40,
+      "role": "yell",
+      "durationSec": 16.32,
+      "mos": 3.9684,
+      "floor": 3.15
+    },
+    {
+      "index": 43,
+      "role": "neutral",
+      "durationSec": 21.52,
+      "mos": 4.0133,
+      "floor": 3.15
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 24.8,
+      "mos": 3.8629,
+      "floor": 3.15
+    },
+    {
+      "index": 49,
+      "role": "neutral",
+      "durationSec": 19.2,
+      "mos": 3.7915,
+      "floor": 3.15
+    },
+    {
+      "index": 52,
+      "role": "neutral",
+      "durationSec": 12.24,
+      "mos": 4.0773,
+      "floor": 3.15
+    },
+    {
+      "index": 55,
+      "role": "neutral",
+      "durationSec": 19.84,
+      "mos": 3.8912,
+      "floor": 3.15
+    },
+    {
+      "index": 57,
+      "role": "neutral",
+      "durationSec": 21.12,
+      "mos": 3.8459,
+      "floor": 3.15
+    },
+    {
+      "index": 60,
+      "role": "neutral",
+      "durationSec": 24.24,
+      "mos": 3.7656,
+      "floor": 3.15
+    },
+    {
+      "index": 63,
+      "role": "neutral",
+      "durationSec": 16.8,
+      "mos": 3.8367,
+      "floor": 3.15
+    },
+    {
+      "index": 66,
+      "role": "neutral",
+      "durationSec": 12.16,
+      "mos": 4.1334,
+      "floor": 3.15
+    },
+    {
+      "index": 69,
+      "role": "neutral",
+      "durationSec": 23.36,
+      "mos": 4.0956,
+      "floor": 3.15
+    },
+    {
+      "index": 72,
+      "role": "neutral",
+      "durationSec": 19.84,
+      "mos": 3.9541,
+      "floor": 3.15
+    },
+    {
+      "index": 75,
+      "role": "neutral",
+      "durationSec": 16.72,
+      "mos": 4.0459,
+      "floor": 3.15
+    },
+    {
+      "index": 78,
+      "role": "neutral",
+      "durationSec": 17.36,
+      "mos": 3.7737,
+      "floor": 3.15
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 27,
+      "role": "yell",
+      "durationSec": 1.04,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 27.36,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 7,
+      "role": "neutral",
+      "durationSec": 16.48,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 8,
+      "role": "neutral",
+      "durationSec": 9.84,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 22.88,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 11,
+      "role": "neutral",
+      "durationSec": 24.64,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 13,
+      "role": "neutral",
+      "durationSec": 11.04,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 3.44,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 16,
+      "role": "neutral",
+      "durationSec": 17.040041666666667,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 16.48,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 19,
+      "role": "neutral",
+      "durationSec": 30.8,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 20,
+      "role": "neutral",
+      "durationSec": 17.68,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 22,
+      "role": "neutral",
+      "durationSec": 31.12,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 17.68,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 25,
+      "role": "neutral",
+      "durationSec": 19.280041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 32,
+      "role": "neutral",
+      "durationSec": 4.800041666666667,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 33,
+      "role": "neutral",
+      "durationSec": 14.4,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 35,
+      "role": "neutral",
+      "durationSec": 20.72,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 36,
+      "role": "neutral",
+      "durationSec": 14.64,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 41,
+      "role": "neutral",
+      "durationSec": 26.72,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 42,
+      "role": "neutral",
+      "durationSec": 21.68,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 44,
+      "role": "neutral",
+      "durationSec": 30.32,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 45,
+      "role": "neutral",
+      "durationSec": 23.68,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 47,
+      "role": "neutral",
+      "durationSec": 27.92,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 48,
+      "role": "neutral",
+      "durationSec": 23.52,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 50,
+      "role": "neutral",
+      "durationSec": 19.280041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 51,
+      "role": "neutral",
+      "durationSec": 24.32,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 53,
+      "role": "neutral",
+      "durationSec": 16.56,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 54,
+      "role": "neutral",
+      "durationSec": 6.000041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 56,
+      "role": "neutral",
+      "durationSec": 15.6,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 58,
+      "role": "neutral",
+      "durationSec": 25.76,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 59,
+      "role": "neutral",
+      "durationSec": 22.08,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 61,
+      "role": "neutral",
+      "durationSec": 19.36,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 62,
+      "role": "neutral",
+      "durationSec": 36.08,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 64,
+      "role": "neutral",
+      "durationSec": 15.44,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 65,
+      "role": "neutral",
+      "durationSec": 23.84,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 67,
+      "role": "neutral",
+      "durationSec": 24.48,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 68,
+      "role": "neutral",
+      "durationSec": 20.4,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 70,
+      "role": "neutral",
+      "durationSec": 17.52,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 71,
+      "role": "neutral",
+      "durationSec": 18.24,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 73,
+      "role": "neutral",
+      "durationSec": 34.4,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 74,
+      "role": "neutral",
+      "durationSec": 26.56,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 76,
+      "role": "neutral",
+      "durationSec": 5.76,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 77,
+      "role": "neutral",
+      "durationSec": 15.6,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": []
+}

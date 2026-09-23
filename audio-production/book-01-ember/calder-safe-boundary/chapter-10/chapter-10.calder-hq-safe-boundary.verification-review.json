@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-10.md",
+  "sourceSha256": "7169cd57d8d42e12877eee407f46e6ef52788399aa33f52f9f26f1dc5f488fca",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-10/chapter-10.calder-hq-safe-boundary.mp3",
+  "audioSha256": "f0292ec42b656d9585e948db0681358a74a499987a070ed18c7ec491852bcaa4",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-10/chapter-10.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "0295805ed8c8e33965fb30984d1fdf287893d49af19bd8edb679633ff0dd44b0",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "suspiciousOmission",
+    "sourceWordStart": 5530,
+    "sourceWords": "your arm which is toren's and it's"
+  },
+  "focusedEvidence": {
+    "segmentIds": [1265, 1266, 1267, 1268, 1269, 1270, 1271],
+    "startSec": 1832.16,
+    "endSec": 1837.92,
+    "transcript": "There's a stone in your arm which is Torrin's and it's the one everybody's heard of because it's the one you can see.",
+    "expectedSource": "There's a stone in your arm, which is Toren's, and it's the one everybody's heard of because it's the one you can see.",
+    "requiredPhrasePresent": true,
+    "namedEntityAsrVariant": "Torrin's",
+    "noSpeechProbability": 1.8429556925686486e-12
+  },
+  "finding": "The allegedly omitted passage is present in full and in order. Whisper spelled the spoken name Toren as Torrin, and the long-form diff aligned the repeated construction to the later Marta clause.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T05:05:32Z"
+}

@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-24.md",
+  "sourceSha256": "af923baec455a5c2b8cf54139e4e170ad5e9f48a347307d49bb99844c118b726",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-24/chapter-24.calder-hq-safe-boundary.mp3",
+  "audioSha256": "7803107cffe31bf70b4cb942928fb3b7eb523669d2d33734c2c142d51bbca6f2",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-24/chapter-24.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "5f0fa4a69f9606b67bfc4a9d31aaef0fffc026e682b8e77d96d2b5807607d9e1",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "suspiciousAddition",
+    "afterSourceWord": 4914,
+    "transcribedWords": "it without anybody standing up straight"
+  },
+  "focusedEvidence": {
+    "segmentId": 258,
+    "startSec": 1605.04,
+    "endSec": 1610.52,
+    "transcript": "cart off this headland and into the lee of that wall. Do it now. Do it without anybody standing up straight.",
+    "expectedSource": "Get the cart off this headland and into the lee of that wall. Do it now. Do it without anybody standing up straight.",
+    "requiredPhrasePresentOnceInSourcePosition": true,
+    "noSpeechProbability": 2.3439481692394404e-12
+  },
+  "finding": "The phrase marked as added is the exact source phrase in its expected position. The long-form diff misaligned the repeated 'Do it' construction.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T06:45:43Z"
+}

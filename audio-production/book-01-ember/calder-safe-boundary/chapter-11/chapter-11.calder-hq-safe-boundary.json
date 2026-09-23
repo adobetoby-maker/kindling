@@ -1,0 +1,5945 @@
+{
+  "productionPipeline": {
+    "name": "Monroe Audio",
+    "version": "2026-09-20.1",
+    "profile": "Calder HQ 0.90 / comma 450 / sentence 800"
+  },
+  "input": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-11.md",
+  "inputSha256": "ad72d48c8d313ef2936c5f5dba383a49fcad52902f1b5b5e85a979cbd4518410",
+  "engine": "qwen-clone-hq",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit",
+  "voice": "cloned",
+  "language": "English",
+  "speed": 1.0,
+  "instruct": "Calder base narrator: mature Australian-English literary audiobook delivery, grounded, measured, observant, and restrained. Read slowly and with complete command of the sentence. Let punctuation and paragraph turns breathe. Prepare the emotional intention of the next sentence before beginning it. Character color is temporary and must never alter the narrator's underlying pitch center, resonance, cadence, or accent placement. Keep the performance intimate, never sing-song, hesitant, childish, Americanized, or announcer-like.",
+  "baseResetInstruct": "BASE NARRATOR RESET. Begin from the locked neutral reference, not from the previous take. Restore the approved narrator's normal pitch center, resonance, cadence, accent placement, and emotional distance. Carry over none of the previous character, action, grief, whisper, urgency, or sentence ending.",
+  "referenceAudio": null,
+  "referenceText": null,
+  "performanceTrack": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/performance.json",
+  "performanceTrackSha256": "e4fabf662a71bbdfedf5e2f26eaae057e7dd3ab21584b1964fd851feae5a9edb",
+  "performancePalette": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/palette.json",
+  "performancePaletteSha256": "6192b25f63d83d2d20378ba9eee8c300e437557d21bf513e62d66f0d299ff522",
+  "maxChars": 480,
+  "pauseMs": 340,
+  "paletteMode": "performance",
+  "playbackRate": 0.9,
+  "finalPauseMs": 900,
+  "edgeSilenceMs": 120,
+  "edgeFadeMs": 12,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "sourceWords": 3672,
+  "chunkCount": 57,
+  "performances": [
+    "care",
+    "neutral"
+  ],
+  "durationSec": 1356.342,
+  "bytes": 21702573,
+  "sha256": "9158bd6cfc58a79de47da637064cc5c169bd4884c8d1c1e0d3b24af410a52808",
+  "elapsedSec": 440.97,
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/chapter-11.calder-hq-safe-boundary.mp3",
+  "master": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/chapter-11.calder-hq-safe-boundary.master.wav",
+  "segments": [
+    {
+      "index": 1,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0001.wav",
+      "textSha256": "896b660e5e33fa7889a177de8c84b4aaab27d3563db2c95447d580bf5b963b3e"
+    },
+    {
+      "index": 2,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0002.wav",
+      "textSha256": "5c0becdeb446929db233ad0af849a399f6e86fa1410c444a34968e85b43c0658"
+    },
+    {
+      "index": 3,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0003.wav",
+      "textSha256": "6d2c329db7883527e8ddd94980a2fd61a0c4121f92400c7d783d2abd3ac3ada1"
+    },
+    {
+      "index": 4,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0004.wav",
+      "textSha256": "cafbcf67ab11eb3ce862c8c6b616cc6bd0fb7c385dd95e430ac14e6378f44d25"
+    },
+    {
+      "index": 5,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0005.wav",
+      "textSha256": "a9793b53bd0e915a230cbf1735027005d66bac36fe3a9709905b9940fc501918"
+    },
+    {
+      "index": 6,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0006.wav",
+      "textSha256": "a856fb4f4a45fbae90015a8b72184f2014dcc4da60df96c1dac0cf5e260a07a3"
+    },
+    {
+      "index": 7,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0007.wav",
+      "textSha256": "c08e039e4f2c54f43c6c1bff93f8082a982e9878a145cfae71878fc11ba80f5f"
+    },
+    {
+      "index": 8,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0008.wav",
+      "textSha256": "d07f46b62805847922d2363a921c7826f6d0c8dab127a056e68da58175c4a598"
+    },
+    {
+      "index": 9,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0009.wav",
+      "textSha256": "c32c5979badd70ddf0acdb063a2bedffade10c23c2ae129f91f6848af89adbfd"
+    },
+    {
+      "index": 10,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0010.wav",
+      "textSha256": "39431a8b2e621819cecb78a5fb8ab2b70c15d4717fe0b2f873fa7d5428bee22e"
+    },
+    {
+      "index": 11,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0011.wav",
+      "textSha256": "290932a6b806e5da657ec003874d33fdeeae8b48fb6109a28e2402f0e93db137"
+    },
+    {
+      "index": 12,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0012.wav",
+      "textSha256": "13249be36bd0dbcc7e40be50e3cdcfb22f5d19004e9edc38cc97a7fdd4c9fce1"
+    },
+    {
+      "index": 13,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0013.wav",
+      "textSha256": "a196fea4cbc01bda555055a37a6a4ca3d320233d9b9a29601d0f9ab0c3900dad"
+    },
+    {
+      "index": 14,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0014.wav",
+      "textSha256": "33d9a17da352eaa21a09f77b2fceef516b174f34fe394901aaa0a8bd819a9e71"
+    },
+    {
+      "index": 15,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0015.wav",
+      "textSha256": "92cf676250952dd882efe1be9266955f450fb3388c161da16ff6b13947da91fa"
+    },
+    {
+      "index": 16,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0016.wav",
+      "textSha256": "c39d18e6953b31a8be76ac05356b23d6267b593a3387efae86933446ca6da91e"
+    },
+    {
+      "index": 17,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0017.wav",
+      "textSha256": "f5faeef10f13bb11c31c9a91bd488b24270dfa32252a914d8c774e79b4896314"
+    },
+    {
+      "index": 18,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0018.wav",
+      "textSha256": "bd0d30aa0c5cf7807d0964ffa76e0477a30a5bd408de682d8c26eccf0c201b47"
+    },
+    {
+      "index": 19,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0019.wav",
+      "textSha256": "aff6ac8138de125ba1ac3ac3e196a1a880ff165edd4cca49174824fc6f4b8146"
+    },
+    {
+      "index": 20,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0020.wav",
+      "textSha256": "db013ea7ae960c19c1be92642acaba2a670267f36a87cf22490615e8e1c9782a"
+    },
+    {
+      "index": 21,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0021.wav",
+      "textSha256": "796c43fc40b5f2c305acfc9df60741862ccfdf72dea704901ab7ea847dbe9350"
+    },
+    {
+      "index": 22,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0022.wav",
+      "textSha256": "c5bb43d78dc6bcb5a96890e2be153f4cdfce5a041701a3d68cf01f5064577114"
+    },
+    {
+      "index": 23,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0023.wav",
+      "textSha256": "3f5a9b8f1166a6676bc6a873849754fe1fc3ccf53d6d8a49bec5cc3e99ffdcc9"
+    },
+    {
+      "index": 24,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0024.wav",
+      "textSha256": "801b58c02e9157337b09597e2907af100c93b5bf1cdd29aa526a107e7cd8d1f0"
+    },
+    {
+      "index": 25,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0025.wav",
+      "textSha256": "b092a7e995abb51b69aa17a1f3aa027c55f95baa3b5f3ffbc52519e2267a36c9"
+    },
+    {
+      "index": 26,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0026.wav",
+      "textSha256": "3d864a2a04bdfc46cab41e09c7500bd739d631067ef42f8125539e18ad88eeb9"
+    },
+    {
+      "index": 27,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0027.wav",
+      "textSha256": "d0aae18a29718818e290c8e56f126e70363d0a63b414fef06af6558cca2ee42e"
+    },
+    {
+      "index": 28,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0028.wav",
+      "textSha256": "142cd8b54af9128eba8b1a2f69200eaf6c9a28678f6bc9108db942f1727be7c7"
+    },
+    {
+      "index": 29,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0029.wav",
+      "textSha256": "44c58e24062e505525e2ed8c0f9a03cd2325076a52e263ff411bc486b0f4d013"
+    },
+    {
+      "index": 30,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0030.wav",
+      "textSha256": "40966f2f3c73ad6e354704d268ec9f9ce2f1eb1d1048397505f0901580a29109"
+    },
+    {
+      "index": 31,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0031.wav",
+      "textSha256": "812c0bf8d2e0a0cf9a98a156072ccd40b7c9df8cdac1a3c64939e214b20b2c71"
+    },
+    {
+      "index": 32,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0032.wav",
+      "textSha256": "e325355d6999be959b5f0f2ea256fb692177f823eb966428cc37f717cb0343cd"
+    },
+    {
+      "index": 33,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0033.wav",
+      "textSha256": "c9bc34654d327630b033fed608ac003f2a4a57a667ff74a0a0ad7b79401c7358"
+    },
+    {
+      "index": 34,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0034.wav",
+      "textSha256": "e25c930ed0f9057ffcd73f3e1ea104cce49e090b8f10ac52cfb8eff3b3e64959"
+    },
+    {
+      "index": 35,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0035.wav",
+      "textSha256": "949d2e4e2e5fa1fe0fe208cac13216a6f22bd5f8f241b5a26a2d626a0b34e853"
+    },
+    {
+      "index": 36,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0036.wav",
+      "textSha256": "5ef92f14abdb4971738ce95425f6f3a2b69204eea1b5015ded912210c1deba47"
+    },
+    {
+      "index": 37,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0037.wav",
+      "textSha256": "66961e27255cf868e2da602e399e8b24a465dcc951f615863c7e752e031fa8f3"
+    },
+    {
+      "index": 38,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0038.wav",
+      "textSha256": "97c3e3e173811fff2fe775d36b51d8d7fa913955522429b24c262836fba9f52e"
+    },
+    {
+      "index": 39,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0039.wav",
+      "textSha256": "fb5b89d2656f088fa1b0c60d4fd4bdb53331b57d29ed33ae9185db6e65b8daf3"
+    },
+    {
+      "index": 40,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0040.wav",
+      "textSha256": "3f3760790324aa9c6cd0c8df0ee35c89cbbcd03d0be10b85164d944b81316356"
+    },
+    {
+      "index": 41,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0041.wav",
+      "textSha256": "409232ff357ae40e6d070b659b698ff5bcdde8d177bf9f7f1a584f11eb15c518"
+    },
+    {
+      "index": 42,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0042.wav",
+      "textSha256": "e523a18d4df47fe2ba1c8c5334160f697933db406197fc065faa573aa1bbca3b"
+    },
+    {
+      "index": 43,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0043.wav",
+      "textSha256": "804b46de2313dc15cdf3f4b2d8cf43e63100848af09fbb9a1106e7fb6ce2d4a3"
+    },
+    {
+      "index": 44,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0044.wav",
+      "textSha256": "a808b5b8703244d35a9ddba49642c98a1daca1accf720a3dfde79623b2cffa0a"
+    },
+    {
+      "index": 45,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0045.wav",
+      "textSha256": "b98a2085810d214bb93810a459e51db56fb949ce570670ef70c3f4e723a04158"
+    },
+    {
+      "index": 46,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0046.wav",
+      "textSha256": "37ca6391412052e65cbda2c19406b547cf3ca7a8bdf0d4eaa4fb2e959281d311"
+    },
+    {
+      "index": 47,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0047.wav",
+      "textSha256": "536d92e825da6c79e48106ba9a05b6736d6f6fc6080b75533ca12a78fa569b17"
+    },
+    {
+      "index": 48,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0048.wav",
+      "textSha256": "e834b312318359b051bb37531c833ea970b41ced7a3bb3e07499848a27570a4c"
+    },
+    {
+      "index": 49,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0049.wav",
+      "textSha256": "f871bea8db04d90220699add321f77a7dbbd614224b58d89990df505ba654ef2"
+    },
+    {
+      "index": 50,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0050.wav",
+      "textSha256": "73952bb6d4662a6ef18b226b058ed9d76f7e4bfd92a783db290382f94ea33a87"
+    },
+    {
+      "index": 51,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0051.wav",
+      "textSha256": "827fdff60f30a10454ffd1fba2e5c9f9d93ffe11b90f06206d0e107596897287"
+    },
+    {
+      "index": 52,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0052.wav",
+      "textSha256": "5f7ae15bea619ae941cffc06ac5ba185b48e6fb7cf70281c409bf8ef9095f267"
+    },
+    {
+      "index": 53,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0053.wav",
+      "textSha256": "d9d0faa77ecbebe021e85a82979dfca715c11ed3fae561c717c8aef549bb8250"
+    },
+    {
+      "index": 54,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0054.wav",
+      "textSha256": "fea3444529e88b8a73a408123200236e281f469c0a1f65a45aa44d12b5fc8e77"
+    },
+    {
+      "index": 55,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0055.wav",
+      "textSha256": "b2a75b6cfb655dc2a152fe51876ffc4dcd729636ffab3cc36a0179deb7c4797a"
+    },
+    {
+      "index": 56,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0056.wav",
+      "textSha256": "656f3e7d3c8f82694254f7805050d1346a1b7a68d4b5e55f8c25294e5c4e2b62"
+    },
+    {
+      "index": 57,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/4d347959942b24ee1e23ec6c/0057.wav",
+      "textSha256": "0d63bcc5fe38355fb4e3cfc403fa4bb963b0f6dcece2b30c188daa74daa0b733"
+    }
+  ],
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-11.md",
+  "sourceSha256": "ad72d48c8d313ef2936c5f5dba383a49fcad52902f1b5b5e85a979cbd4518410",
+  "continuousSourceAudio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/base-090.mp3",
+  "continuousSourceAudioSha256": "658b19362063f5e12e74bfc5e21bdae37e5d85baedeb82575b9f899b47e57221",
+  "score": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/punctuation-score.json",
+  "alignmentCoverage": 0.9824,
+  "alignmentRepairs": [
+    {
+      "afterWord": 2,
+      "startSec": 0.0,
+      "endSec": 5.4,
+      "sourceStart": 0,
+      "sourceEnd": 7,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3,
+      "startSec": 0.0,
+      "endSec": 5.6000000000000005,
+      "sourceStart": 0,
+      "sourceEnd": 8,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 3.07
+    },
+    {
+      "afterWord": 33,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 12.497166666666667
+    },
+    {
+      "afterWord": 74,
+      "startSec": 24.9,
+      "endSec": 29.1,
+      "sourceStart": 68,
+      "sourceEnd": 79,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 106,
+      "startSec": 33.92,
+      "endSec": 39.599999999999994,
+      "sourceStart": 100,
+      "sourceEnd": 111,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 106,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 36.81
+    },
+    {
+      "afterWord": 231,
+      "startSec": 74.8,
+      "endSec": 79.4,
+      "sourceStart": 225,
+      "sourceEnd": 236,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 251,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 83.04
+    },
+    {
+      "afterWord": 376,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 130.92054166666668
+    },
+    {
+      "afterWord": 407,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 146.26754166666666
+    },
+    {
+      "afterWord": 413,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 148.518375
+    },
+    {
+      "afterWord": 652,
+      "startSec": 227.35999999999999,
+      "endSec": 233.28,
+      "sourceStart": 646,
+      "sourceEnd": 657,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 652,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 228.80797916666666
+    },
+    {
+      "afterWord": 654,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 230.19
+    },
+    {
+      "afterWord": 765,
+      "startSec": 274.1,
+      "endSec": 279.22,
+      "sourceStart": 759,
+      "sourceEnd": 770,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 765,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 275.929625
+    },
+    {
+      "afterWord": 826,
+      "startSec": 293.56,
+      "endSec": 300.92,
+      "sourceStart": 820,
+      "sourceEnd": 831,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 826,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 296.67
+    },
+    {
+      "afterWord": 827,
+      "startSec": 294.06,
+      "endSec": 301.06,
+      "sourceStart": 821,
+      "sourceEnd": 832,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 949,
+      "startSec": 338.58,
+      "endSec": 343.46,
+      "sourceStart": 943,
+      "sourceEnd": 954,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 949,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 341.34147916666666
+    },
+    {
+      "afterWord": 1074,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 382.37927083333335
+    },
+    {
+      "afterWord": 1186,
+      "startSec": 418.86,
+      "endSec": 424.48,
+      "sourceStart": 1180,
+      "sourceEnd": 1191,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1186,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 421.32585416666666
+    },
+    {
+      "afterWord": 1436,
+      "startSec": 507.38,
+      "endSec": 511.58,
+      "sourceStart": 1430,
+      "sourceEnd": 1441,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1436,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 509.16897916666665
+    },
+    {
+      "afterWord": 1648,
+      "startSec": 574.5,
+      "endSec": 580.22,
+      "sourceStart": 1642,
+      "sourceEnd": 1653,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1648,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 577.25
+    },
+    {
+      "afterWord": 2030,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 700.7482708333333
+    },
+    {
+      "afterWord": 2041,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 705.6262291666667
+    },
+    {
+      "afterWord": 2092,
+      "startSec": 719.64,
+      "endSec": 724.04,
+      "sourceStart": 2086,
+      "sourceEnd": 2097,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2092,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 721.4489791666666
+    },
+    {
+      "afterWord": 2341,
+      "startSec": 797.6,
+      "endSec": 801.88,
+      "sourceStart": 2335,
+      "sourceEnd": 2346,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2341,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 799.03
+    },
+    {
+      "afterWord": 2458,
+      "startSec": 835.12,
+      "endSec": 839.62,
+      "sourceStart": 2452,
+      "sourceEnd": 2463,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2458,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 836.77525
+    },
+    {
+      "afterWord": 2578,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 876.1852083333333
+    },
+    {
+      "afterWord": 2611,
+      "startSec": 886.14,
+      "endSec": 890.94,
+      "sourceStart": 2605,
+      "sourceEnd": 2616,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2611,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 887.67
+    },
+    {
+      "afterWord": 2622,
+      "startSec": 890.48,
+      "endSec": 894.88,
+      "sourceStart": 2616,
+      "sourceEnd": 2627,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2622,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 891.87
+    },
+    {
+      "afterWord": 2638,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 897.19
+    },
+    {
+      "afterWord": 2871,
+      "startSec": 966.04,
+      "endSec": 970.36,
+      "sourceStart": 2865,
+      "sourceEnd": 2876,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 2871,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 967.3049791666666
+    },
+    {
+      "afterWord": 3028,
+      "startSec": 1015.72,
+      "endSec": 1020.62,
+      "sourceStart": 3022,
+      "sourceEnd": 3033,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3028,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1018.5752291666666
+    },
+    {
+      "afterWord": 3029,
+      "startSec": 1016.24,
+      "endSec": 1020.96,
+      "sourceStart": 3023,
+      "sourceEnd": 3034,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3074,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1035.7647916666667
+    },
+    {
+      "afterWord": 3087,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1039.13
+    },
+    {
+      "afterWord": 3107,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1044.6051458333334
+    },
+    {
+      "afterWord": 3161,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1060.8845
+    },
+    {
+      "afterWord": 3163,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1061.8891875
+    },
+    {
+      "afterWord": 3170,
+      "startSec": 1062.3200000000002,
+      "endSec": 1067.04,
+      "sourceStart": 3164,
+      "sourceEnd": 3177,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3170,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1064.120875
+    },
+    {
+      "afterWord": 3480,
+      "startSec": 1163.3200000000002,
+      "endSec": 1168.08,
+      "sourceStart": 3474,
+      "sourceEnd": 3485,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3480,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1165.23
+    },
+    {
+      "afterWord": 3639,
+      "startSec": 1211.68,
+      "endSec": 1216.9199999999998,
+      "sourceStart": 3633,
+      "sourceEnd": 3644,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 3639,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1214.4686666666666
+    }
+  ],
+  "fullPauseScoreApplied": false,
+  "retainedNativeBoundaries": [
+    {
+      "afterWord": 2,
+      "after": "11",
+      "before": "coldharbour",
+      "previous": {
+        "word": "11",
+        "start": 0.84,
+        "end": 1.28,
+        "probability": 0.46659383177757263
+      },
+      "following": {
+        "word": "coldharbour",
+        "start": 1.28,
+        "end": 2.96,
+        "probability": 0.3987823724746704
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 23,
+      "after": "woman",
+      "before": "a",
+      "previous": {
+        "word": " woman,",
+        "start": 8.74,
+        "end": 9.04,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " a",
+        "start": 9.18,
+        "end": 9.28,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 26,
+      "after": "can",
+      "before": "a",
+      "previous": {
+        "word": " can,",
+        "start": 9.58,
+        "end": 9.88,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " a",
+        "start": 9.98,
+        "end": 10.1,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 32,
+      "after": "ribs",
+      "before": "and",
+      "previous": {
+        "word": " ribs,",
+        "start": 11.22,
+        "end": 11.6,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and,",
+        "start": 11.62,
+        "end": 12.36,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 41,
+      "after": "four",
+      "before": "under",
+      "previous": {
+        "word": " four,",
+        "start": 13.96,
+        "end": 14.28,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " under",
+        "start": 14.5,
+        "end": 14.62,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 68,
+      "after": "can",
+      "before": "senna",
+      "previous": {
+        "word": " can,",
+        "start": 24.58,
+        "end": 24.88,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " Senna.",
+        "start": 25.02,
+        "end": 25.28,
+        "probability": 0.982421875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 74,
+      "after": "can",
+      "before": "wyck",
+      "previous": {
+        "word": "can",
+        "start": 26.68,
+        "end": 27.02,
+        "probability": 0.8972018957138062
+      },
+      "following": {
+        "word": "wyck",
+        "start": 27.02,
+        "end": 27.439999999999998,
+        "probability": 0.33877283334732056
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 231,
+      "after": "session",
+      "before": "toren",
+      "previous": {
+        "word": "session",
+        "start": 76.16,
+        "end": 76.52,
+        "probability": 0.9809204339981079
+      },
+      "following": {
+        "word": "toren",
+        "start": 76.52,
+        "end": 77.67999999999999,
+        "probability": 0.476795494556427
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 257,
+      "after": "same",
+      "before": "he",
+      "previous": {
+        "word": " same,",
+        "start": 85.68,
+        "end": 86.04,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " he",
+        "start": 86.2,
+        "end": 86.32,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 288,
+      "after": "thing",
+      "before": "do",
+      "previous": {
+        "word": " thing.",
+        "start": 95.68,
+        "end": 95.92,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " Do",
+        "start": 96.04,
+        "end": 96.12,
+        "probability": 0.99658203125
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 292,
+      "after": "milo",
+      "before": "from",
+      "previous": {
+        "word": " Milo,",
+        "start": 97.96000000000001,
+        "end": 98.48,
+        "probability": 0.99560546875
+      },
+      "following": {
+        "word": " from",
+        "start": 98.6,
+        "end": 98.68,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 396,
+      "after": "forward",
+      "before": "and",
+      "previous": {
+        "word": " forward,",
+        "start": 140.28,
+        "end": 140.78,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 140.78,
+        "end": 141.02,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 438,
+      "after": "weathered",
+      "before": "in",
+      "previous": {
+        "word": " weathered",
+        "start": 159.16,
+        "end": 159.64,
+        "probability": 0.99853515625
+      },
+      "following": {
+        "word": " in",
+        "start": 159.64,
+        "end": 159.8,
+        "probability": 0.77978515625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 491,
+      "after": "ordway",
+      "before": "she",
+      "previous": {
+        "word": " Ordway,",
+        "start": 174.98,
+        "end": 175.46,
+        "probability": 0.970703125
+      },
+      "following": {
+        "word": " she",
+        "start": 175.54,
+        "end": 175.7,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 523,
+      "after": "ago",
+      "before": "down",
+      "previous": {
+        "word": " ago,",
+        "start": 187.18,
+        "end": 187.46,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " down.",
+        "start": 187.6,
+        "end": 187.82,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 587,
+      "after": "afterward",
+      "before": "hah",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 588,
+      "after": "hah",
+      "before": "it",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 660,
+      "after": "kiln",
+      "before": "halloran's",
+      "previous": {
+        "word": " kiln,",
+        "start": 233.38,
+        "end": 233.88,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " Halloran's",
+        "start": 234.12,
+        "end": 234.66,
+        "probability": 0.9912109375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 723,
+      "after": "sorry",
+      "before": "love",
+      "previous": {
+        "word": " Sorry,",
+        "start": 257.18,
+        "end": 257.74,
+        "probability": 0.99609375
+      },
+      "following": {
+        "word": " love,",
+        "start": 257.84,
+        "end": 258.08,
+        "probability": 0.998046875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 827,
+      "after": "toren",
+      "before": "afterward",
+      "previous": {
+        "word": "toren",
+        "start": 296.56,
+        "end": 298.72,
+        "probability": 0.5219889879226685
+      },
+      "following": {
+        "word": "afterward",
+        "start": 298.72,
+        "end": 299.3,
+        "probability": 0.9852758646011353
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 836,
+      "after": "nothing",
+      "before": "probably",
+      "previous": {
+        "word": " Nothing,",
+        "start": 302.02,
+        "end": 302.58,
+        "probability": 0.998046875
+      },
+      "following": {
+        "word": " probably.",
+        "start": 302.76,
+        "end": 303.14,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 841,
+      "after": "name",
+      "before": "and",
+      "previous": {
+        "word": " name",
+        "start": 304.24,
+        "end": 304.62,
+        "probability": 0.998046875
+      },
+      "following": {
+        "word": " and",
+        "start": 304.62,
+        "end": 304.92,
+        "probability": 0.95703125
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 884,
+      "after": "rolling",
+      "before": "and",
+      "previous": {
+        "word": " rolling",
+        "start": 317.74,
+        "end": 318.14,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 318.14,
+        "end": 318.36,
+        "probability": 0.5849609375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 993,
+      "after": "before",
+      "before": "and",
+      "previous": {
+        "word": " before,",
+        "start": 355.38,
+        "end": 355.82,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 355.82,
+        "end": 356.64,
+        "probability": 0.55078125
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1081,
+      "after": "shed",
+      "before": "rook",
+      "previous": {
+        "word": " shed,",
+        "start": 386.32,
+        "end": 386.68,
+        "probability": 0.97216796875
+      },
+      "following": {
+        "word": " Rook",
+        "start": 386.8,
+        "end": 386.98,
+        "probability": 0.9951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1298,
+      "after": "count",
+      "before": "friend",
+      "previous": {
+        "word": " count,",
+        "start": 460.0,
+        "end": 460.26,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " friend.",
+        "start": 460.26,
+        "end": 460.58,
+        "probability": 0.96630859375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1540,
+      "after": "necessary",
+      "before": "and",
+      "previous": {
+        "word": " necessary",
+        "start": 543.08,
+        "end": 543.7,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 543.7,
+        "end": 544.2,
+        "probability": 0.865234375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2022,
+      "after": "them",
+      "before": "by",
+      "previous": {
+        "word": " them",
+        "start": 698.52,
+        "end": 698.7,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " by",
+        "start": 698.7,
+        "end": 698.88,
+        "probability": 0.9990234375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2145,
+      "after": "day",
+      "before": "in",
+      "previous": {
+        "word": " day,",
+        "start": 739.96,
+        "end": 740.3,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " in",
+        "start": 740.46,
+        "end": 740.6,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2214,
+      "after": "way",
+      "before": "rook",
+      "previous": {
+        "word": " way,",
+        "start": 760.82,
+        "end": 761.16,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " Rook",
+        "start": 761.28,
+        "end": 761.46,
+        "probability": 0.990234375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2249,
+      "after": "before",
+      "before": "he",
+      "previous": {
+        "word": " before,",
+        "start": 771.24,
+        "end": 771.64,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " he",
+        "start": 771.76,
+        "end": 771.88,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2271,
+      "after": "shed",
+      "before": "where",
+      "previous": {
+        "word": " shed",
+        "start": 779.24,
+        "end": 779.6,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " where",
+        "start": 779.6,
+        "end": 779.86,
+        "probability": 0.9970703125
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2282,
+      "after": "them",
+      "before": "in",
+      "previous": {
+        "word": " them,",
+        "start": 783.52,
+        "end": 783.76,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " in",
+        "start": 783.92,
+        "end": 783.98,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2285,
+      "after": "row",
+      "before": "under",
+      "previous": {
+        "word": " row,",
+        "start": 784.08,
+        "end": 784.36,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " under",
+        "start": 784.52,
+        "end": 784.76,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2356,
+      "after": "travels",
+      "before": "dark",
+      "previous": {
+        "word": " travels",
+        "start": 805.3,
+        "end": 805.8,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " dark",
+        "start": 805.8,
+        "end": 806.24,
+        "probability": 0.900390625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2404,
+      "after": "middle",
+      "before": "and",
+      "previous": {
+        "word": " middle,",
+        "start": 818.66,
+        "end": 818.94,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " and",
+        "start": 819.1,
+        "end": 819.2,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2541,
+      "after": "places",
+      "before": "in",
+      "previous": {
+        "word": " places,",
+        "start": 861.06,
+        "end": 861.5,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " in",
+        "start": 861.5,
+        "end": 862.12,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2581,
+      "after": "around",
+      "before": "and",
+      "previous": {
+        "word": " around",
+        "start": 876.86,
+        "end": 877.28,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 877.28,
+        "end": 877.88,
+        "probability": 0.982421875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2711,
+      "after": "thin",
+      "before": "square",
+      "previous": {
+        "word": " thin,",
+        "start": 917.8,
+        "end": 918.22,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " square,",
+        "start": 918.46,
+        "end": 918.82,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2712,
+      "after": "square",
+      "before": "with",
+      "previous": {
+        "word": " square,",
+        "start": 918.46,
+        "end": 918.82,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " with",
+        "start": 919.04,
+        "end": 919.1,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2735,
+      "after": "face",
+      "before": "4",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 2767,
+      "after": "poorly",
+      "before": "off",
+      "previous": {
+        "word": " poorly",
+        "start": 936.28,
+        "end": 936.84,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " off",
+        "start": 936.84,
+        "end": 937.18,
+        "probability": 0.99560546875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2769,
+      "after": "center",
+      "before": "by",
+      "previous": {
+        "word": "-center",
+        "start": 937.18,
+        "end": 937.5,
+        "probability": 0.92041015625
+      },
+      "following": {
+        "word": " by",
+        "start": 937.5,
+        "end": 937.76,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2805,
+      "after": "this",
+      "before": "i",
+      "previous": {
+        "word": " this,",
+        "start": 947.76,
+        "end": 948.14,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " I",
+        "start": 948.24,
+        "end": 948.36,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2897,
+      "after": "knee",
+      "before": "he",
+      "previous": {
+        "word": " knee.",
+        "start": 975.78,
+        "end": 976.12,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " He",
+        "start": 976.12,
+        "end": 976.98,
+        "probability": 0.99755859375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3012,
+      "after": "kiln",
+      "before": "he",
+      "previous": {
+        "word": " kiln,",
+        "start": 1011.72,
+        "end": 1012.16,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " he",
+        "start": 1012.24,
+        "end": 1012.36,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3029,
+      "after": "toren",
+      "before": "you",
+      "previous": {
+        "word": "toren",
+        "start": 1018.52,
+        "end": 1018.94,
+        "probability": 0.39118918776512146
+      },
+      "following": {
+        "word": "you",
+        "start": 1018.94,
+        "end": 1019.86,
+        "probability": 0.9781286120414734
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3219,
+      "after": "company",
+      "before": "wyck",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 3292,
+      "after": "know",
+      "before": "wyck",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 3445,
+      "after": "stones",
+      "before": "looking",
+      "previous": {
+        "word": " stones,",
+        "start": 1153.72,
+        "end": 1154.26,
+        "probability": 0.9951171875
+      },
+      "following": {
+        "word": " looking",
+        "start": 1154.26,
+        "end": 1154.98,
+        "probability": 0.98291015625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3466,
+      "after": "outside",
+      "before": "north",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 3471,
+      "after": "morning",
+      "before": "he",
+      "previous": {
+        "word": " morning,",
+        "start": 1161.82,
+        "end": 1162.12,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " he",
+        "start": 1162.16,
+        "end": 1162.32,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3630,
+      "after": "knees",
+      "before": "facing",
+      "previous": {
+        "word": " knees,",
+        "start": 1210.48,
+        "end": 1210.9,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " facing",
+        "start": 1211.14,
+        "end": 1211.44,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3650,
+      "after": "afternoon",
+      "before": "and",
+      "previous": {
+        "word": " afternoon,",
+        "start": 1217.8,
+        "end": 1218.28,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 1218.28,
+        "end": 1218.92,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3684,
+      "after": "do",
+      "before": "he",
+      "previous": {
+        "word": " do.",
+        "start": 1228.18,
+        "end": 1228.4,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " He",
+        "start": 1228.4,
+        "end": 1229.32,
+        "probability": 0.6552734375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    }
+  ],
+  "words": 3692,
+  "overallWordsPerMinute": 163.3,
+  "postRenderTimeStretch": true,
+  "additionalTimeStretchDuringPausePass": false,
+  "pauseTimingDomain": "final playback timeline, after any base tempo change",
+  "pausePolicy": "safe-boundary minimum rests; native delivery retained at explicitly reported unsafe boundaries",
+  "joinFadeMs": 3,
+  "silenceInsertionVersion": 2,
+  "safeSplicePolicy": "exact neighboring words plus at least 20 ms of waveform-confirmed quiet; no voiced zero-crossing cuts",
+  "silenceReport": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-11/chapter-11.calder-hq-safe-boundary.silence.json",
+  "continuousPerformancePreserved": true,
+  "phraseBoundaries": [
+    {
+      "afterWord": 3,
+      "after": "coldharbour",
+      "before": "the",
+      "splitSec": 3.07,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written paragraph landing"
+    },
+    {
+      "afterWord": 16,
+      "after": "can",
+      "before": "and",
+      "splitSec": 7.303,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 33,
+      "after": "and",
+      "before": "for",
+      "splitSec": 12.497,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 43,
+      "after": "protest",
+      "before": "a",
+      "splitSec": 15.184,
+      "existingGapMs": 100,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 350,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 52,
+      "after": "poorly",
+      "before": "move",
+      "splitSec": 17.94,
+      "existingGapMs": 1640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 55,
+      "after": "elbow",
+      "before": "that's",
+      "splitSec": 20.35,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 59,
+      "after": "elbow",
+      "before": "then",
+      "splitSec": 21.854,
+      "existingGapMs": 300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 500,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 64,
+      "after": "is",
+      "before": "it's",
+      "splitSec": 23.631,
+      "existingGapMs": 200,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 600,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 69,
+      "after": "senna",
+      "before": "then",
+      "splitSec": 25.436,
+      "existingGapMs": 200,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 600,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 76,
+      "after": "tanner",
+      "before": "and",
+      "splitSec": 27.916,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 82,
+      "after": "legs",
+      "before": "because",
+      "splitSec": 29.613,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 104,
+      "after": "them",
+      "before": "it",
+      "splitSec": 35.3,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 106,
+      "after": "was",
+      "before": "toren",
+      "splitSec": 36.81,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 108,
+      "after": "thought",
+      "before": "on",
+      "splitSec": 37.951,
+      "existingGapMs": 420,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 30,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 111,
+      "after": "shafts",
+      "before": "in",
+      "splitSec": 39.026,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 114,
+      "after": "rain",
+      "before": "the",
+      "splitSec": 40.19,
+      "existingGapMs": 460,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 125,
+      "after": "days",
+      "before": "they",
+      "splitSec": 44.052,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 142,
+      "after": "ate",
+      "before": "and",
+      "splitSec": 49.903,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 151,
+      "after": "promised",
+      "before": "he",
+      "splitSec": 52.97,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 167,
+      "after": "it",
+      "before": "he",
+      "splitSec": 57.71,
+      "existingGapMs": 540,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 260,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 184,
+      "after": "other",
+      "before": "he",
+      "splitSec": 62.178,
+      "existingGapMs": 720,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 80,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 192,
+      "after": "still",
+      "before": "the",
+      "splitSec": 64.783,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 204,
+      "after": "it",
+      "before": "if",
+      "splitSec": 68.069,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 212,
+      "after": "breath",
+      "before": "the",
+      "splitSec": 70.987,
+      "existingGapMs": 360,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 90,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 219,
+      "after": "them",
+      "before": "and",
+      "splitSec": 72.861,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 224,
+      "after": "again",
+      "before": "they",
+      "splitSec": 74.226,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 250,
+      "after": "then",
+      "before": "sullenly",
+      "splitSec": 82.021,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 251,
+      "after": "sullenly",
+      "before": "steadily",
+      "splitSec": 83.04,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 252,
+      "after": "steadily",
+      "before": "less",
+      "splitSec": 83.59,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 253,
+      "after": "less",
+      "before": "it's",
+      "splitSec": 84.4,
+      "existingGapMs": 800,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 263,
+      "after": "morning",
+      "before": "you're",
+      "splitSec": 87.666,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 269,
+      "after": "stick",
+      "before": "it's",
+      "splitSec": 89.413,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 276,
+      "after": "all",
+      "before": "it",
+      "splitSec": 91.415,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 278,
+      "after": "isn't",
+      "before": "rook",
+      "splitSec": 92.698,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 280,
+      "after": "agreed",
+      "before": "it's",
+      "splitSec": 93.754,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 291,
+      "after": "again",
+      "before": "milo",
+      "splitSec": 97.27,
+      "existingGapMs": 1380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 295,
+      "after": "side",
+      "before": "how",
+      "splitSec": 99.47,
+      "existingGapMs": 500,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 302,
+      "after": "for",
+      "before": "a",
+      "splitSec": 101.883,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 304,
+      "after": "month",
+      "before": "a",
+      "splitSec": 103.39,
+      "existingGapMs": 940,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 306,
+      "after": "month",
+      "before": "and",
+      "splitSec": 105.13,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 317,
+      "after": "dead",
+      "before": "rook",
+      "splitSec": 108.789,
+      "existingGapMs": 440,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 10,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 319,
+      "after": "said",
+      "before": "go",
+      "splitSec": 109.705,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 320,
+      "after": "go",
+      "before": "they",
+      "splitSec": 111.42,
+      "existingGapMs": 1400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 328,
+      "after": "afternoon",
+      "before": "a",
+      "splitSec": 114.827,
+      "existingGapMs": 440,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 10,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 334,
+      "after": "aqueduct",
+      "before": "and",
+      "splitSec": 117.027,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 339,
+      "after": "it",
+      "before": "there",
+      "splitSec": 119.164,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 344,
+      "after": "them",
+      "before": "coming",
+      "splitSec": 120.675,
+      "existingGapMs": 340,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 110,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 361,
+      "after": "own",
+      "before": "they",
+      "splitSec": 125.704,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 369,
+      "after": "there",
+      "before": "the",
+      "splitSec": 128.671,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 376,
+      "after": "back",
+      "before": "and",
+      "splitSec": 130.921,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 382,
+      "after": "dead",
+      "before": "far",
+      "splitSec": 133.4,
+      "existingGapMs": 1600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 384,
+      "after": "enough",
+      "before": "she",
+      "splitSec": 135.549,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 386,
+      "after": "called",
+      "before": "rook",
+      "splitSec": 137.102,
+      "existingGapMs": 780,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 20,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 394,
+      "after": "sides",
+      "before": "palms",
+      "splitSec": 139.54,
+      "existingGapMs": 360,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 90,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 398,
+      "after": "stopped",
+      "before": "six",
+      "splitSec": 141.592,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 401,
+      "after": "us",
+      "before": "he",
+      "splitSec": 143.285,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 403,
+      "after": "said",
+      "before": "two",
+      "splitSec": 144.47,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 405,
+      "after": "hurt",
+      "before": "one",
+      "splitSec": 145.45,
+      "existingGapMs": 460,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 407,
+      "after": "old",
+      "before": "going",
+      "splitSec": 146.268,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 409,
+      "after": "north",
+      "before": "you're",
+      "splitSec": 147.116,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 413,
+      "after": "north",
+      "before": "we'll",
+      "splitSec": 148.518,
+      "existingGapMs": 80,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 720,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 417,
+      "after": "that",
+      "before": "what's",
+      "splitSec": 150.046,
+      "existingGapMs": 220,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 580,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 420,
+      "after": "you",
+      "before": "the",
+      "splitSec": 151.425,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 430,
+      "after": "again",
+      "before": "she",
+      "splitSec": 155.71,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 435,
+      "after": "five",
+      "before": "small",
+      "splitSec": 158.11,
+      "existingGapMs": 540,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 453,
+      "after": "it",
+      "before": "with",
+      "splitSec": 163.501,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 470,
+      "after": "touch",
+      "before": "the",
+      "splitSec": 168.094,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 489,
+      "after": "arrived",
+      "before": "cass",
+      "splitSec": 174.044,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 493,
+      "after": "said",
+      "before": "this",
+      "splitSec": 176.121,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 496,
+      "after": "pell",
+      "before": "what's",
+      "splitSec": 177.566,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 499,
+      "after": "you",
+      "before": "verge",
+      "splitSec": 179.15,
+      "existingGapMs": 820,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 508,
+      "after": "back",
+      "before": "five",
+      "splitSec": 182.534,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 511,
+      "after": "them",
+      "before": "all",
+      "splitSec": 183.68,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 513,
+      "after": "down",
+      "before": "a",
+      "splitSec": 184.503,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 524,
+      "after": "down",
+      "before": "we",
+      "splitSec": 188.029,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 533,
+      "after": "it",
+      "before": "rook",
+      "splitSec": 191.138,
+      "existingGapMs": 680,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 120,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 539,
+      "after": "hands",
+      "before": "the",
+      "splitSec": 192.786,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 542,
+      "after": "clear",
+      "before": "the",
+      "splitSec": 194.19,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 553,
+      "after": "arch",
+      "before": "and",
+      "splitSec": 196.998,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 561,
+      "after": "lock",
+      "before": "cass",
+      "splitSec": 199.206,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 566,
+      "after": "that",
+      "before": "a",
+      "splitSec": 201.43,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 568,
+      "after": "stilt",
+      "before": "she",
+      "splitSec": 202.95,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 570,
+      "after": "said",
+      "before": "you",
+      "splitSec": 203.724,
+      "existingGapMs": 240,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 560,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 581,
+      "after": "woman",
+      "before": "they",
+      "splitSec": 207.194,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 593,
+      "after": "laugh",
+      "before": "it",
+      "splitSec": 211.67,
+      "existingGapMs": 140,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 660,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 605,
+      "after": "up",
+      "before": "she",
+      "splitSec": 214.686,
+      "existingGapMs": 220,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 580,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 619,
+      "after": "her",
+      "before": "and",
+      "splitSec": 217.986,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 633,
+      "after": "side",
+      "before": "which",
+      "splitSec": 222.299,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 642,
+      "after": "stand",
+      "before": "right",
+      "splitSec": 225.6,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 643,
+      "after": "right",
+      "before": "then",
+      "splitSec": 226.568,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 652,
+      "after": "it",
+      "before": "coldharbour's",
+      "splitSec": 228.808,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 654,
+      "after": "gone",
+      "before": "the",
+      "splitSec": 230.19,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 656,
+      "after": "wharf",
+      "before": "the",
+      "splitSec": 232.09,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 658,
+      "after": "wharf",
+      "before": "the",
+      "splitSec": 233.245,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 663,
+      "after": "outfit",
+      "before": "she",
+      "splitSec": 235.555,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 667,
+      "after": "flatly",
+      "before": "the",
+      "splitSec": 237.327,
+      "existingGapMs": 340,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 110,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 679,
+      "after": "times",
+      "before": "four",
+      "splitSec": 241.138,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 682,
+      "after": "back",
+      "before": "seven",
+      "splitSec": 243.185,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 688,
+      "after": "wharf",
+      "before": "six",
+      "splitSec": 245.25,
+      "existingGapMs": 540,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 693,
+      "after": "girl",
+      "before": "and",
+      "splitSec": 246.996,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 708,
+      "after": "there",
+      "before": "milo",
+      "splitSec": 251.311,
+      "existingGapMs": 740,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 60,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 713,
+      "after": "sound",
+      "before": "cass",
+      "splitSec": 254.153,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 722,
+      "after": "all",
+      "before": "sorry",
+      "splitSec": 256.893,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 724,
+      "after": "love",
+      "before": "she",
+      "splitSec": 258.201,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 726,
+      "after": "said",
+      "before": "it's",
+      "splitSec": 259.051,
+      "existingGapMs": 200,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 600,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 736,
+      "after": "it",
+      "before": "riftspawn",
+      "splitSec": 261.8,
+      "existingGapMs": 1000,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 737,
+      "after": "riftspawn",
+      "before": "said",
+      "splitSec": 263.109,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 739,
+      "after": "rook",
+      "before": "no",
+      "splitSec": 264.575,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 740,
+      "after": "no",
+      "before": "nobody",
+      "splitSec": 265.89,
+      "existingGapMs": 1900,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 746,
+      "after": "second",
+      "before": "no",
+      "splitSec": 269.46,
+      "existingGapMs": 840,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 747,
+      "after": "no",
+      "before": "cass",
+      "splitSec": 270.708,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 750,
+      "after": "again",
+      "before": "that's",
+      "splitSec": 271.996,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 765,
+      "after": "cart",
+      "before": "it",
+      "splitSec": 275.93,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 768,
+      "after": "spawn",
+      "before": "spawn",
+      "splitSec": 277.836,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 807,
+      "after": "bins",
+      "before": "her",
+      "splitSec": 288.294,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 811,
+      "after": "thin",
+      "before": "it",
+      "splitSec": 290.273,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 814,
+      "after": "men",
+      "before": "which",
+      "splitSec": 291.374,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 816,
+      "after": "men",
+      "before": "the",
+      "splitSec": 292.648,
+      "existingGapMs": 240,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 560,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 823,
+      "after": "company",
+      "before": "said",
+      "splitSec": 295.212,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 826,
+      "after": "ordway",
+      "before": "toren",
+      "splitSec": 296.67,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 828,
+      "after": "afterward",
+      "before": "could",
+      "splitSec": 299.56,
+      "existingGapMs": 560,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 835,
+      "after": "expected",
+      "before": "nothing",
+      "splitSec": 301.757,
+      "existingGapMs": 480,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 320,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 837,
+      "after": "probably",
+      "before": "it",
+      "splitSec": 303.35,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 848,
+      "after": "names",
+      "before": "and",
+      "splitSec": 306.525,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 864,
+      "after": "two",
+      "before": "what",
+      "splitSec": 311.729,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 870,
+      "after": "cart",
+      "before": "he",
+      "splitSec": 314.001,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 878,
+      "after": "hands",
+      "before": "and",
+      "splitSec": 316.641,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 887,
+      "after": "stopped",
+      "before": "that",
+      "splitSec": 318.943,
+      "existingGapMs": 300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 500,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 890,
+      "after": "all",
+      "before": "it",
+      "splitSec": 320.511,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 898,
+      "after": "stopped",
+      "before": "and",
+      "splitSec": 323.29,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 920,
+      "after": "way",
+      "before": "rook",
+      "splitSec": 330.481,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 929,
+      "after": "standing",
+      "before": "his",
+      "splitSec": 333.78,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 941,
+      "after": "forward",
+      "before": "nothing",
+      "splitSec": 337.707,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 946,
+      "after": "changed",
+      "before": "the",
+      "splitSec": 339.72,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 949,
+      "after": "noise",
+      "before": "toren",
+      "splitSec": 341.341,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 952,
+      "after": "later",
+      "before": "was",
+      "splitSec": 342.454,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 956,
+      "after": "it",
+      "before": "there",
+      "splitSec": 343.684,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 967,
+      "after": "on",
+      "before": "the",
+      "splitSec": 347.32,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 973,
+      "after": "pack",
+      "before": "water",
+      "splitSec": 349.637,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 977,
+      "after": "canal",
+      "before": "a",
+      "splitSec": 351.407,
+      "existingGapMs": 440,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 10,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 984,
+      "after": "hedge",
+      "before": "and",
+      "splitSec": 353.227,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1025,
+      "after": "forward",
+      "before": "how",
+      "splitSec": 365.21,
+      "existingGapMs": 740,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 60,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1029,
+      "after": "they",
+      "before": "rook",
+      "splitSec": 367.169,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1031,
+      "after": "said",
+      "before": "nine",
+      "splitSec": 368.47,
+      "existingGapMs": 1300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1034,
+      "after": "ten",
+      "before": "pell",
+      "splitSec": 370.649,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1047,
+      "after": "eye",
+      "before": "which",
+      "splitSec": 373.804,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1054,
+      "after": "at",
+      "before": "the",
+      "splitSec": 376.046,
+      "existingGapMs": 300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 500,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1057,
+      "after": "end",
+      "before": "up",
+      "splitSec": 377.7,
+      "existingGapMs": 220,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 580,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1061,
+      "after": "lane",
+      "before": "not",
+      "splitSec": 378.834,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1065,
+      "after": "water",
+      "before": "did",
+      "splitSec": 379.934,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1074,
+      "after": "it",
+      "before": "cass",
+      "splitSec": 382.379,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1078,
+      "after": "narrowed",
+      "before": "what",
+      "splitSec": 384.945,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1079,
+      "after": "what",
+      "before": "the",
+      "splitSec": 385.91,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1083,
+      "after": "said",
+      "before": "and",
+      "splitSec": 387.375,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1087,
+      "after": "house",
+      "before": "did",
+      "splitSec": 388.824,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1100,
+      "after": "them",
+      "before": "they",
+      "splitSec": 392.05,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1104,
+      "after": "them",
+      "before": "there's",
+      "splitSec": 394.118,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1112,
+      "after": "all",
+      "before": "bar",
+      "splitSec": 396.48,
+      "existingGapMs": 480,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1115,
+      "after": "stove",
+      "before": "she",
+      "splitSec": 398.176,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1122,
+      "after": "now",
+      "before": "they",
+      "splitSec": 400.513,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1137,
+      "after": "ring",
+      "before": "and",
+      "splitSec": 404.546,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1142,
+      "after": "ash",
+      "before": "nine",
+      "splitSec": 406.39,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1144,
+      "after": "weeks",
+      "before": "four",
+      "splitSec": 407.602,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1157,
+      "after": "off",
+      "before": "and",
+      "splitSec": 411.835,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1162,
+      "after": "it",
+      "before": "and",
+      "splitSec": 413.536,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1169,
+      "after": "out",
+      "before": "the",
+      "splitSec": 415.925,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1181,
+      "after": "there",
+      "before": "it",
+      "splitSec": 419.57,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1186,
+      "after": "words",
+      "before": "toren",
+      "splitSec": 421.326,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1197,
+      "after": "words",
+      "before": "it",
+      "splitSec": 425.824,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1213,
+      "after": "it",
+      "before": "not",
+      "splitSec": 429.602,
+      "existingGapMs": 380,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 70,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1215,
+      "after": "raised",
+      "before": "not",
+      "splitSec": 431.12,
+      "existingGapMs": 480,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1217,
+      "after": "hurried",
+      "before": "but",
+      "splitSec": 432.373,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1244,
+      "after": "days",
+      "before": "cass",
+      "splitSec": 439.98,
+      "existingGapMs": 1000,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1251,
+      "after": "away",
+      "before": "seven",
+      "splitSec": 443.57,
+      "existingGapMs": 900,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1255,
+      "after": "wharf",
+      "before": "she",
+      "splitSec": 445.842,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1258,
+      "after": "slowly",
+      "before": "five",
+      "splitSec": 447.023,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1261,
+      "after": "stones",
+      "before": "me",
+      "splitSec": 449.122,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1287,
+      "after": "lane",
+      "before": "then",
+      "splitSec": 456.06,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1292,
+      "after": "counted",
+      "before": "there",
+      "splitSec": 458.194,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1299,
+      "after": "friend",
+      "before": "no",
+      "splitSec": 461.003,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1300,
+      "after": "no",
+      "before": "rook",
+      "splitSec": 462.11,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1302,
+      "after": "said",
+      "before": "there",
+      "splitSec": 462.822,
+      "existingGapMs": 220,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 580,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1305,
+      "after": "is",
+      "before": "he",
+      "splitSec": 464.39,
+      "existingGapMs": 780,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 20,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1310,
+      "after": "down",
+      "before": "cass",
+      "splitSec": 466.987,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1327,
+      "after": "seconds",
+      "before": "and",
+      "splitSec": 471.408,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1345,
+      "after": "for",
+      "before": "you've",
+      "splitSec": 476.06,
+      "existingGapMs": 840,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1350,
+      "after": "questions",
+      "before": "she",
+      "splitSec": 478.49,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1352,
+      "after": "said",
+      "before": "and",
+      "splitSec": 479.193,
+      "existingGapMs": 120,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 330,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1364,
+      "after": "taking",
+      "before": "silence",
+      "splitSec": 483.04,
+      "existingGapMs": 880,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1365,
+      "after": "silence",
+      "before": "that's",
+      "splitSec": 484.313,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1369,
+      "after": "asks",
+      "before": "cass",
+      "splitSec": 486.501,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1371,
+      "after": "said",
+      "before": "every",
+      "splitSec": 487.475,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1381,
+      "after": "days",
+      "before": "it's",
+      "splitSec": 490.791,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1385,
+      "after": "greed",
+      "before": "it's",
+      "splitSec": 492.424,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1392,
+      "after": "does",
+      "before": "and",
+      "splitSec": 494.792,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1402,
+      "after": "at",
+      "before": "rook",
+      "splitSec": 497.73,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1406,
+      "after": "pack",
+      "before": "water's",
+      "splitSec": 499.682,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1412,
+      "after": "lock",
+      "before": "he",
+      "splitSec": 501.308,
+      "existingGapMs": 80,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 370,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1414,
+      "after": "said",
+      "before": "under",
+      "splitSec": 501.864,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1417,
+      "after": "beam",
+      "before": "not",
+      "splitSec": 503.284,
+      "existingGapMs": 420,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 30,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1422,
+      "after": "pound",
+      "before": "safe",
+      "splitSec": 504.708,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1424,
+      "after": "road",
+      "before": "and",
+      "splitSec": 505.616,
+      "existingGapMs": 160,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 640,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1436,
+      "after": "word",
+      "before": "toren",
+      "splitSec": 509.169,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1444,
+      "after": "yards",
+      "before": "cass",
+      "splitSec": 512.74,
+      "existingGapMs": 880,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1455,
+      "after": "go",
+      "before": "with",
+      "splitSec": 516.713,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1462,
+      "after": "arm",
+      "before": "and",
+      "splitSec": 518.96,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1475,
+      "after": "answering",
+      "before": "they",
+      "splitSec": 522.725,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1497,
+      "after": "anybody",
+      "before": "and",
+      "splitSec": 529.89,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1518,
+      "after": "there",
+      "before": "the",
+      "splitSec": 536.16,
+      "existingGapMs": 960,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1545,
+      "after": "basin",
+      "before": "a",
+      "splitSec": 545.565,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1557,
+      "after": "turn",
+      "before": "with",
+      "splitSec": 549.109,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1574,
+      "after": "above",
+      "before": "there",
+      "splitSec": 553.95,
+      "existingGapMs": 1060,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1579,
+      "after": "kiln",
+      "before": "it",
+      "splitSec": 556.455,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1587,
+      "after": "wharf",
+      "before": "a",
+      "splitSec": 558.659,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1600,
+      "after": "base",
+      "before": "with",
+      "splitSec": 562.662,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1617,
+      "after": "it",
+      "before": "and",
+      "splitSec": 566.95,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1626,
+      "after": "century",
+      "before": "there",
+      "splitSec": 569.853,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1644,
+      "after": "bins",
+      "before": "the",
+      "splitSec": 575.735,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1648,
+      "after": "full",
+      "before": "toren",
+      "splitSec": 577.25,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1673,
+      "after": "roof",
+      "before": "with",
+      "splitSec": 585.977,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1687,
+      "after": "down",
+      "before": "and",
+      "splitSec": 590.183,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1707,
+      "after": "him",
+      "before": "he",
+      "splitSec": 595.655,
+      "existingGapMs": 680,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 120,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1734,
+      "after": "take",
+      "before": "they",
+      "splitSec": 604.29,
+      "existingGapMs": 1380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1738,
+      "after": "it",
+      "before": "he",
+      "splitSec": 606.47,
+      "existingGapMs": 100,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 350,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1740,
+      "after": "said",
+      "before": "yes",
+      "splitSec": 607.457,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1741,
+      "after": "yes",
+      "before": "rook",
+      "splitSec": 608.19,
+      "existingGapMs": 460,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1743,
+      "after": "said",
+      "before": "he",
+      "splitSec": 609.38,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1758,
+      "after": "loud",
+      "before": "which",
+      "splitSec": 613.542,
+      "existingGapMs": 260,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 190,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1764,
+      "after": "thing",
+      "before": "and",
+      "splitSec": 615.398,
+      "existingGapMs": 280,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 170,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1782,
+      "after": "given",
+      "before": "he",
+      "splitSec": 620.794,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1787,
+      "after": "lane",
+      "before": "there",
+      "splitSec": 622.66,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1792,
+      "after": "here",
+      "before": "the",
+      "splitSec": 624.595,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1796,
+      "after": "stood",
+      "before": "the",
+      "splitSec": 626.92,
+      "existingGapMs": 360,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 90,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1807,
+      "after": "inside",
+      "before": "off",
+      "splitSec": 630.983,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1812,
+      "after": "inward",
+      "before": "so",
+      "splitSec": 633.02,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1816,
+      "after": "pushed",
+      "before": "and",
+      "splitSec": 634.397,
+      "existingGapMs": 100,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 350,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1824,
+      "after": "side",
+      "before": "that's",
+      "splitSec": 636.693,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1836,
+      "after": "else",
+      "before": "because",
+      "splitSec": 640.964,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1860,
+      "after": "it",
+      "before": "they",
+      "splitSec": 648.12,
+      "existingGapMs": 1120,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1865,
+      "after": "front",
+      "before": "said",
+      "splitSec": 650.329,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1867,
+      "after": "dessa",
+      "before": "they",
+      "splitSec": 651.37,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1877,
+      "after": "front",
+      "before": "rook",
+      "splitSec": 654.59,
+      "existingGapMs": 860,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1882,
+      "after": "post",
+      "before": "look",
+      "splitSec": 656.58,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1887,
+      "after": "here",
+      "before": "there's",
+      "splitSec": 658.453,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1901,
+      "after": "it",
+      "before": "in",
+      "splitSec": 662.192,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1907,
+      "after": "gap",
+      "before": "and",
+      "splitSec": 663.956,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 1919,
+      "after": "puddle",
+      "before": "everybody",
+      "splitSec": 667.061,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1926,
+      "after": "moving",
+      "before": "these",
+      "splitSec": 669.507,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1929,
+      "after": "weren't",
+      "before": "why",
+      "splitSec": 670.924,
+      "existingGapMs": 240,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 560,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1943,
+      "after": "through",
+      "before": "rook",
+      "splitSec": 674.904,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1948,
+      "after": "that",
+      "before": "he",
+      "splitSec": 676.9,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1959,
+      "after": "shed",
+      "before": "they",
+      "splitSec": 679.97,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1965,
+      "after": "properly",
+      "before": "everything's",
+      "splitSec": 682.13,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 1977,
+      "after": "sorted",
+      "before": "there's",
+      "splitSec": 685.59,
+      "existingGapMs": 260,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 190,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 1990,
+      "after": "pile",
+      "before": "which",
+      "splitSec": 688.965,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2003,
+      "after": "light",
+      "before": "he",
+      "splitSec": 693.117,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2015,
+      "after": "height",
+      "before": "tally",
+      "splitSec": 696.517,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2019,
+      "after": "here",
+      "before": "four",
+      "splitSec": 697.759,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2030,
+      "after": "squares",
+      "before": "gone",
+      "splitSec": 700.748,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2031,
+      "after": "gone",
+      "before": "they",
+      "splitSec": 701.262,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2035,
+      "after": "boards",
+      "before": "said",
+      "splitSec": 702.83,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2037,
+      "after": "milo",
+      "before": "they",
+      "splitSec": 704.01,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2041,
+      "after": "boards",
+      "before": "and",
+      "splitSec": 705.626,
+      "existingGapMs": 40,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 410,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2048,
+      "after": "that",
+      "before": "rook",
+      "splitSec": 707.788,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2056,
+      "after": "beam",
+      "before": "where",
+      "splitSec": 710.735,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2073,
+      "after": "dust",
+      "before": "that's",
+      "splitSec": 716.09,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2076,
+      "after": "book",
+      "before": "that's",
+      "splitSec": 717.309,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2092,
+      "after": "time",
+      "before": "toren",
+      "splitSec": 721.449,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2109,
+      "after": "wall",
+      "before": "and",
+      "splitSec": 727.326,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2119,
+      "after": "sill",
+      "before": "and",
+      "splitSec": 730.388,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2126,
+      "after": "been",
+      "before": "what",
+      "splitSec": 732.824,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2131,
+      "after": "it",
+      "before": "where",
+      "splitSec": 734.67,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2134,
+      "after": "hunted",
+      "before": "said",
+      "splitSec": 736.29,
+      "existingGapMs": 540,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2136,
+      "after": "rook",
+      "before": "what",
+      "splitSec": 737.681,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2142,
+      "after": "ground",
+      "before": "on",
+      "splitSec": 739.509,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2148,
+      "after": "numbers",
+      "before": "a",
+      "splitSec": 741.413,
+      "existingGapMs": 620,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 180,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2165,
+      "after": "isn't",
+      "before": "and",
+      "splitSec": 746.423,
+      "existingGapMs": 120,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 330,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2185,
+      "after": "years",
+      "before": "he",
+      "splitSec": 751.045,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2192,
+      "after": "hand",
+      "before": "it's",
+      "splitSec": 753.383,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2203,
+      "after": "anything",
+      "before": "so",
+      "splitSec": 756.95,
+      "existingGapMs": 1180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2209,
+      "after": "for",
+      "before": "they",
+      "splitSec": 759.728,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2216,
+      "after": "said",
+      "before": "and",
+      "splitSec": 761.928,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2221,
+      "after": "book",
+      "before": "and",
+      "splitSec": 763.479,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2234,
+      "after": "off",
+      "before": "he",
+      "splitSec": 767.247,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2245,
+      "after": "while",
+      "before": "they",
+      "splitSec": 770.208,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2251,
+      "after": "said",
+      "before": "and",
+      "splitSec": 772.33,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2256,
+      "after": "again",
+      "before": "and",
+      "splitSec": 773.869,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2265,
+      "after": "for",
+      "before": "the",
+      "splitSec": 777.15,
+      "existingGapMs": 900,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2279,
+      "after": "be",
+      "before": "five",
+      "splitSec": 782.39,
+      "existingGapMs": 940,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2287,
+      "after": "stones",
+      "before": "with",
+      "splitSec": 785.478,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2317,
+      "after": "time",
+      "before": "rook",
+      "splitSec": 793.03,
+      "existingGapMs": 1140,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2332,
+      "after": "while",
+      "before": "then",
+      "splitSec": 796.684,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2341,
+      "after": "coat",
+      "before": "toren",
+      "splitSec": 799.03,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2348,
+      "after": "him",
+      "before": "it",
+      "splitSec": 802.46,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2352,
+      "after": "bread",
+      "before": "the",
+      "splitSec": 804.295,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2366,
+      "after": "fist",
+      "before": "and",
+      "splitSec": 808.777,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2380,
+      "after": "coat",
+      "before": "then",
+      "splitSec": 813.347,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2400,
+      "after": "it",
+      "before": "square",
+      "splitSec": 817.806,
+      "existingGapMs": 260,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 190,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2412,
+      "after": "level",
+      "before": "nobody",
+      "splitSec": 821.32,
+      "existingGapMs": 200,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 600,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2417,
+      "after": "all",
+      "before": "he",
+      "splitSec": 823.73,
+      "existingGapMs": 1540,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2434,
+      "after": "cut",
+      "before": "nineteen",
+      "splitSec": 829.014,
+      "existingGapMs": 340,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 110,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2437,
+      "after": "ago",
+      "before": "for",
+      "splitSec": 830.552,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2444,
+      "after": "met",
+      "before": "with",
+      "splitSec": 832.665,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2458,
+      "after": "at",
+      "before": "toren",
+      "splitSec": 836.775,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2485,
+      "after": "do",
+      "before": "he",
+      "splitSec": 844.238,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2496,
+      "after": "stone",
+      "before": "it",
+      "splitSec": 847.43,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2502,
+      "after": "turn",
+      "before": "it",
+      "splitSec": 849.87,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2508,
+      "after": "anything",
+      "before": "it",
+      "splitSec": 852.01,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2519,
+      "after": "either",
+      "before": "it",
+      "splitSec": 856.245,
+      "existingGapMs": 780,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 20,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2545,
+      "after": "order",
+      "before": "with",
+      "splitSec": 863.072,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2549,
+      "after": "hands",
+      "before": "i",
+      "splitSec": 865.14,
+      "existingGapMs": 1280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2553,
+      "after": "them",
+      "before": "rook",
+      "splitSec": 867.708,
+      "existingGapMs": 340,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 110,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2555,
+      "after": "said",
+      "before": "he",
+      "splitSec": 868.747,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2561,
+      "after": "else",
+      "before": "he",
+      "splitSec": 870.874,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2573,
+      "after": "while",
+      "before": "and",
+      "splitSec": 874.698,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2578,
+      "after": "up",
+      "before": "and",
+      "splitSec": 876.185,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2588,
+      "after": "him",
+      "before": "milo",
+      "splitSec": 880.19,
+      "existingGapMs": 1100,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2597,
+      "after": "it",
+      "before": "which",
+      "splitSec": 883.338,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2604,
+      "after": "at",
+      "before": "how",
+      "splitSec": 885.59,
+      "existingGapMs": 560,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 240,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2611,
+      "after": "that",
+      "before": "toren",
+      "splitSec": 887.67,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2613,
+      "after": "said",
+      "before": "rook",
+      "splitSec": 889.23,
+      "existingGapMs": 940,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2622,
+      "after": "water",
+      "before": "toren",
+      "splitSec": 891.87,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2638,
+      "after": "kiln",
+      "before": "he",
+      "splitSec": 897.19,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2644,
+      "after": "anything",
+      "before": "he",
+      "splitSec": 899.485,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2672,
+      "after": "him",
+      "before": "there",
+      "splitSec": 906.159,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2688,
+      "after": "down",
+      "before": "something",
+      "splitSec": 910.746,
+      "existingGapMs": 700,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 100,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2698,
+      "after": "else",
+      "before": "it",
+      "splitSec": 914.01,
+      "existingGapMs": 620,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 180,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2710,
+      "after": "thumbnail",
+      "before": "thin",
+      "splitSec": 917.592,
+      "existingGapMs": 440,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 10,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2717,
+      "after": "off",
+      "before": "there",
+      "splitSec": 920.479,
+      "existingGapMs": 620,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 180,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2745,
+      "after": "had",
+      "before": "and",
+      "splitSec": 930.044,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2752,
+      "after": "number",
+      "before": "the",
+      "splitSec": 932.15,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2762,
+      "after": "it",
+      "before": "it",
+      "splitSec": 935.202,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2778,
+      "after": "ago",
+      "before": "and",
+      "splitSec": 939.705,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2792,
+      "after": "pocket",
+      "before": "he",
+      "splitSec": 944.318,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2802,
+      "after": "palm",
+      "before": "look",
+      "splitSec": 947.041,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2808,
+      "after": "it's",
+      "before": "rook",
+      "splitSec": 949.1,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written paragraph landing"
+    },
+    {
+      "afterWord": 2815,
+      "after": "hand",
+      "before": "he",
+      "splitSec": 951.44,
+      "existingGapMs": 880,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2831,
+      "after": "wait",
+      "before": "he",
+      "splitSec": 956.177,
+      "existingGapMs": 520,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 280,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2847,
+      "after": "palm",
+      "before": "and",
+      "splitSec": 960.899,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2871,
+      "after": "it",
+      "before": "toren",
+      "splitSec": 967.305,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2879,
+      "after": "days",
+      "before": "he",
+      "splitSec": 971.43,
+      "existingGapMs": 300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 500,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2928,
+      "after": "hurry",
+      "before": "he",
+      "splitSec": 984.397,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2944,
+      "after": "somebody",
+      "before": "rook",
+      "splitSec": 989.19,
+      "existingGapMs": 1420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2950,
+      "after": "once",
+      "before": "the",
+      "splitSec": 992.209,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2957,
+      "after": "wharf",
+      "before": "down",
+      "splitSec": 994.688,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 2971,
+      "after": "noise",
+      "before": "and",
+      "splitSec": 998.907,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2980,
+      "after": "shed",
+      "before": "and",
+      "splitSec": 1002.105,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 2994,
+      "after": "on",
+      "before": "then",
+      "splitSec": 1005.859,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3007,
+      "after": "button",
+      "before": "set",
+      "splitSec": 1010.0,
+      "existingGapMs": 1160,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3014,
+      "after": "said",
+      "before": "not",
+      "splitSec": 1012.836,
+      "existingGapMs": 240,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 560,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3018,
+      "after": "yard",
+      "before": "not",
+      "splitSec": 1014.235,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3022,
+      "after": "shed",
+      "before": "what",
+      "splitSec": 1015.474,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3025,
+      "after": "it",
+      "before": "above",
+      "splitSec": 1016.959,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3028,
+      "after": "kiln",
+      "before": "toren",
+      "splitSec": 1018.575,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3035,
+      "after": "coat",
+      "before": "i",
+      "splitSec": 1021.29,
+      "existingGapMs": 460,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 340,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3040,
+      "after": "did",
+      "before": "it's",
+      "splitSec": 1022.98,
+      "existingGapMs": 840,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3050,
+      "after": "it",
+      "before": "that",
+      "splitSec": 1026.762,
+      "existingGapMs": 360,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 440,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3055,
+      "after": "ground",
+      "before": "i",
+      "splitSec": 1028.57,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3058,
+      "after": "it",
+      "before": "what",
+      "splitSec": 1029.705,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3061,
+      "after": "it",
+      "before": "is",
+      "splitSec": 1030.753,
+      "existingGapMs": 220,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 230,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3064,
+      "after": "theirs",
+      "before": "is",
+      "splitSec": 1031.936,
+      "existingGapMs": 340,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 110,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3067,
+      "after": "a",
+      "before": "put",
+      "splitSec": 1033.24,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written paragraph landing"
+    },
+    {
+      "afterWord": 3073,
+      "after": "kiln",
+      "before": "please",
+      "splitSec": 1035.254,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3074,
+      "after": "please",
+      "before": "rook",
+      "splitSec": 1035.765,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3076,
+      "after": "said",
+      "before": "and",
+      "splitSec": 1036.359,
+      "existingGapMs": 180,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 270,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3087,
+      "after": "bins",
+      "before": "because",
+      "splitSec": 1039.13,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3107,
+      "after": "road",
+      "before": "and",
+      "splitSec": 1044.605,
+      "existingGapMs": 40,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 410,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3117,
+      "after": "dark",
+      "before": "they",
+      "splitSec": 1048.03,
+      "existingGapMs": 860,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3132,
+      "after": "once",
+      "before": "afterward",
+      "splitSec": 1053.66,
+      "existingGapMs": 800,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3161,
+      "after": "dark",
+      "before": "and",
+      "splitSec": 1060.884,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3163,
+      "after": "ate",
+      "before": "and",
+      "splitSec": 1061.889,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3170,
+      "after": "much",
+      "before": "wyck",
+      "splitSec": 1064.121,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3187,
+      "after": "legs",
+      "before": "he",
+      "splitSec": 1069.47,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3196,
+      "after": "towpath",
+      "before": "he",
+      "splitSec": 1072.247,
+      "existingGapMs": 220,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 580,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3200,
+      "after": "now",
+      "before": "that's",
+      "splitSec": 1073.76,
+      "existingGapMs": 640,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 160,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3211,
+      "after": "time",
+      "before": "the",
+      "splitSec": 1077.209,
+      "existingGapMs": 600,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 200,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3217,
+      "after": "noises",
+      "before": "cinder",
+      "splitSec": 1080.17,
+      "existingGapMs": 860,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3221,
+      "after": "said",
+      "before": "you",
+      "splitSec": 1082.741,
+      "existingGapMs": 320,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 480,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3239,
+      "after": "went",
+      "before": "which",
+      "splitSec": 1087.784,
+      "existingGapMs": 260,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 190,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3250,
+      "after": "of",
+      "before": "or",
+      "splitSec": 1091.072,
+      "existingGapMs": 160,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 290,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3254,
+      "after": "worth",
+      "before": "which",
+      "splitSec": 1092.428,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3264,
+      "after": "not",
+      "before": "and",
+      "splitSec": 1095.355,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3282,
+      "after": "fire",
+      "before": "rook",
+      "splitSec": 1100.064,
+      "existingGapMs": 540,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 260,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3287,
+      "after": "fire",
+      "before": "so",
+      "splitSec": 1101.85,
+      "existingGapMs": 740,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 60,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3294,
+      "after": "said",
+      "before": "not",
+      "splitSec": 1104.815,
+      "existingGapMs": 440,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 360,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3299,
+      "after": "it",
+      "before": "i'd",
+      "splitSec": 1106.804,
+      "existingGapMs": 400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 400,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3316,
+      "after": "toward",
+      "before": "dessa",
+      "splitSec": 1112.55,
+      "existingGapMs": 860,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3321,
+      "after": "still",
+      "before": "which",
+      "splitSec": 1115.183,
+      "existingGapMs": 320,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 130,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3334,
+      "after": "it",
+      "before": "rook",
+      "splitSec": 1119.46,
+      "existingGapMs": 740,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 60,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3342,
+      "after": "time",
+      "before": "we're",
+      "splitSec": 1121.87,
+      "existingGapMs": 980,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3350,
+      "after": "morning",
+      "before": "he",
+      "splitSec": 1124.47,
+      "existingGapMs": 140,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 310,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3354,
+      "after": "last",
+      "before": "off",
+      "splitSec": 1125.745,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3357,
+      "after": "canal",
+      "before": "there's",
+      "splitSec": 1127.229,
+      "existingGapMs": 500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 300,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3389,
+      "after": "miles",
+      "before": "that's",
+      "splitSec": 1136.382,
+      "existingGapMs": 660,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 140,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3394,
+      "after": "asked",
+      "before": "i",
+      "splitSec": 1137.946,
+      "existingGapMs": 140,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 660,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3396,
+      "after": "know",
+      "before": "is",
+      "splitSec": 1138.953,
+      "existingGapMs": 280,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 520,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3404,
+      "after": "them",
+      "before": "said",
+      "splitSec": 1141.342,
+      "existingGapMs": 140,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 660,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3406,
+      "after": "dessa",
+      "before": "rook",
+      "splitSec": 1142.73,
+      "existingGapMs": 1500,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3417,
+      "after": "boot",
+      "before": "which",
+      "splitSec": 1146.184,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3427,
+      "after": "would",
+      "before": "and",
+      "splitSec": 1148.894,
+      "existingGapMs": 200,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 250,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3473,
+      "after": "said",
+      "before": "everybody",
+      "splitSec": 1162.702,
+      "existingGapMs": 300,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 500,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3475,
+      "after": "sleeps",
+      "before": "i'll",
+      "splitSec": 1164.07,
+      "existingGapMs": 180,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 620,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3480,
+      "after": "watch",
+      "before": "toren",
+      "splitSec": 1165.23,
+      "existingGapMs": 0,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 800,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3505,
+      "after": "ground",
+      "before": "three",
+      "splitSec": 1173.122,
+      "existingGapMs": 760,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 40,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3515,
+      "after": "move",
+      "before": "everybody",
+      "splitSec": 1176.632,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3519,
+      "after": "moving",
+      "before": "why",
+      "splitSec": 1178.209,
+      "existingGapMs": 420,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 380,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3534,
+      "after": "through",
+      "before": "he",
+      "splitSec": 1182.355,
+      "existingGapMs": 580,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 220,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3542,
+      "after": "midnight",
+      "before": "lying",
+      "splitSec": 1184.953,
+      "existingGapMs": 380,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 70,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3555,
+      "after": "kiln",
+      "before": "and",
+      "splitSec": 1188.74,
+      "existingGapMs": 120,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 330,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3567,
+      "after": "down",
+      "before": "you",
+      "splitSec": 1191.864,
+      "existingGapMs": 480,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 320,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3580,
+      "after": "out",
+      "before": "there",
+      "splitSec": 1195.183,
+      "existingGapMs": 260,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 540,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3588,
+      "after": "out",
+      "before": "you",
+      "splitSec": 1197.64,
+      "existingGapMs": 480,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 320,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3605,
+      "after": "it",
+      "before": "he",
+      "splitSec": 1202.28,
+      "existingGapMs": 1400,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 0,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3624,
+      "after": "away",
+      "before": "upright",
+      "splitSec": 1208.38,
+      "existingGapMs": 560,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 0,
+      "reason": "written breath landing"
+    },
+    {
+      "afterWord": 3625,
+      "after": "upright",
+      "before": "hands",
+      "splitSec": 1209.262,
+      "existingGapMs": 360,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 90,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3634,
+      "after": "lane",
+      "before": "not",
+      "splitSec": 1212.357,
+      "existingGapMs": 300,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 150,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3636,
+      "after": "moving",
+      "before": "he",
+      "splitSec": 1213.244,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3639,
+      "after": "that",
+      "before": "toren",
+      "splitSec": 1214.469,
+      "existingGapMs": 0,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 450,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3641,
+      "after": "thought",
+      "before": "he",
+      "splitSec": 1215.377,
+      "existingGapMs": 340,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 460,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3663,
+      "after": "mud",
+      "before": "and",
+      "splitSec": 1221.509,
+      "existingGapMs": 240,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 210,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3670,
+      "after": "that",
+      "before": "and",
+      "splitSec": 1223.907,
+      "existingGapMs": 380,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 420,
+      "reason": "written sentence landing"
+    },
+    {
+      "afterWord": 3673,
+      "after": "that",
+      "before": "colder",
+      "splitSec": 1225.523,
+      "existingGapMs": 400,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 50,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3674,
+      "after": "colder",
+      "before": "arriving",
+      "splitSec": 1226.245,
+      "existingGapMs": 360,
+      "targetGapMs": 450,
+      "insertedSilenceMs": 90,
+      "reason": "written comma landing"
+    },
+    {
+      "afterWord": 3689,
+      "after": "out",
+      "before": "he",
+      "splitSec": 1230.271,
+      "existingGapMs": 240,
+      "targetGapMs": 800,
+      "insertedSilenceMs": 560,
+      "reason": "written sentence landing"
+    }
+  ],
+  "authoredPauseTotalMs": 123800,
+  "finalHold": {
+    "existingMs": 1042,
+    "targetMs": 900,
+    "insertedMs": 0
+  }
+}

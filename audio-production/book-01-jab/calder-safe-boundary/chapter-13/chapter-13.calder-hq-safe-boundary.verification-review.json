@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-abbreviation-punctuation-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-jab/chapters/chapter-13.md",
+  "sourceSha256": "75f7a16284bbf0ebe95831ddf2c1adaa15ffb466cadb4577a9ae66a4f8a4921d",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/jab-tonk-calder-090-450-800-20260922/book-01-jab/chapter-13/chapter-13.calder-hq-safe-boundary.mp3",
+  "audioSha256": "a1eaf2863c191695283b177ba8ab7c66799f6f9663317ea121e925712fa55af8",
+  "verification": "/Volumes/Drive 2/monroe-ai/productions/jab-tonk-calder-090-450-800-20260922/book-01-jab/chapter-13/chapter-13.calder-hq-safe-boundary.verification.json",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailures": [
+    {
+      "type": "short-transition",
+      "after": "Dr.",
+      "before": "Kiel",
+      "atSec": 1356.1,
+      "acousticQuietMs": 62
+    }
+  ],
+  "focusedEvidence": {
+    "sourceForms": [
+      "Doctor Keel",
+      "said Doctor Keel"
+    ],
+    "transcribedForm": "Dr. Kiel",
+    "nameWordContinuous": true
+  },
+  "finding": "Whisper normalized the title 'Doctor' to the abbreviation 'Dr.' and misspelled Keel as Kiel. The period belongs to the abbreviation, not a source sentence ending, so no sentence-pause requirement applies between the title and name.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T11:01:30Z"
+}

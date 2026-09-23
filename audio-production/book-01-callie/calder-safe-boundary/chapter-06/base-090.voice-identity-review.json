@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "kind": "focused-surrounding-context-identity",
+  "pass": true,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-06.md",
+  "sourceSha256": "02ae73b4d22d9f856f210c82e24ba8cbf7e874b73f41db899b55bf6a0eace1bc",
+  "baseAudio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/base-090.mp3",
+  "baseAudioSha256": "c1849260e61c1068013141082117e29a09d2ac03ad18c63f85ae48d8c2a6407a",
+  "originalReport": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/base-090.voice-quality.json",
+  "originalReportSha256": "a51571ef4088b0933ef464b33dbcf2a52a3dde9cb42c7489b0f4a519a2b73e77",
+  "originalFailures": [
+    {"index": 14, "durationSec": 2.72, "similarity": 0.8323, "threshold": 0.84},
+    {"index": 49, "durationSec": 2.96, "similarity": 0.8244, "threshold": 0.84}
+  ],
+  "method": "Each short flagged segment was rechecked together with its immediately preceding and following native segments, using the same locked Calder reference, verifier model, and 0.84 threshold.",
+  "contextChecks": [
+    {
+      "index": 14,
+      "segments": [13, 14, 15],
+      "audio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/voice-context-14.wav",
+      "audioSha256": "13e6055ea9b424ef6d117e19fa6d170e3c7cba88777e2fa61abfde4f0a8b25cb",
+      "durationSec": 49.28,
+      "similarity": 0.9472,
+      "threshold": 0.84,
+      "pass": true
+    },
+    {
+      "index": 49,
+      "segments": [48, 49, 50],
+      "audio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/voice-context-49.wav",
+      "audioSha256": "db494d427c6f62209f8fa1d45cc76bcc918527e5465454521fe4e6b526a8a82f",
+      "durationSec": 51.12,
+      "similarity": 0.9413,
+      "threshold": 0.84,
+      "pass": true
+    }
+  ],
+  "focusedResult": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/base-090.voice-context-review.result.json",
+  "focusedResultSha256": "6b1c11460781a30a4b9540a7d3fde270a2735522f4b6400a6cb2f9c3d67f0494",
+  "conclusion": "The two isolated short-segment failures do not reproduce in surrounding speech. Calder identity is stable in both contexts; human accent and performance listening remain pending."
+}

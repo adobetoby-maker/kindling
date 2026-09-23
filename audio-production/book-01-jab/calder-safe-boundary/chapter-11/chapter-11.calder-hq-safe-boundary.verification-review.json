@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-numeric-and-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-jab/chapters/chapter-11.md",
+  "sourceSha256": "6be07efbb7ebb6df9456b5f6b37299dedb215f577ddb57649cfa2c1181090c3d",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/jab-tonk-calder-090-450-800-20260922/book-01-jab/chapter-11/chapter-11.calder-hq-safe-boundary.mp3",
+  "audioSha256": "2360db072adcad92b488bfb11073a391b3cd203ddfb876b2105c0da9f9f9dfef",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/jab-tonk-calder-090-450-800-20260922/book-01-jab/chapter-11/chapter-11.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "32d5c73e10c5eabb296a72787604e13c111479dd4cc48e471acaaeaaa447d5f1",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailures": [
+    {
+      "type": "replace",
+      "sourceWordStart": 1,
+      "sourceWords": "eleven three hundred and forty",
+      "transcribedWords": "11 340"
+    },
+    {
+      "type": "delete",
+      "sourceWordStart": 2850,
+      "sourceWords": "give me the card he"
+    }
+  ],
+  "focusedEvidence": {
+    "openingSegmentId": 0,
+    "openingTranscript": "Chapter 11. 340 paces, the girl had said, and Jab counted them because his head would not do anything else.",
+    "openingFinding": "The chapter number and written number are present as equivalent spoken numerals.",
+    "dialogueSegmentId": 150,
+    "dialogueStartSec": 929.74,
+    "dialogueEndSec": 936.54,
+    "dialogueTranscript": "laid out in its correct order, with a column for everything. Right, he said. Give me the card.",
+    "expectedDialogue": "laid out in its correct order, with a column for everything. Right, he said. Give me the card.",
+    "requiredDialoguePresent": true,
+    "noSpeechProbability": 1.573541644206422e-12
+  },
+  "finding": "Both alleged omissions are verifier normalization/alignment errors: Arabic numerals match the spoken source, and the dialogue plus attribution is present in full and in order.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T09:55:26Z"
+}

@@ -1,0 +1,414 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-12/base-090.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": false,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 24,
+      "minimum": 0.8094,
+      "median": 0.9425,
+      "maximum": 0.9557,
+      "threshold": 0.84
+    },
+    "care": {
+      "segments": 6,
+      "minimum": 0.9403,
+      "median": 0.9482,
+      "maximum": 0.9648,
+      "threshold": 0.84
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 1.6,
+      "similarity": 0.8094,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 2,
+      "role": "care",
+      "durationSec": 23.44,
+      "similarity": 0.9474,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 36.32,
+      "similarity": 0.9418,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 17.36,
+      "similarity": 0.95,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 7,
+      "role": "care",
+      "durationSec": 11.92,
+      "similarity": 0.9486,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 8,
+      "role": "care",
+      "durationSec": 18.88,
+      "similarity": 0.9403,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 24.08,
+      "similarity": 0.9297,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 11,
+      "role": "care",
+      "durationSec": 16.48,
+      "similarity": 0.9507,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 12,
+      "role": "care",
+      "durationSec": 17.6,
+      "similarity": 0.9648,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 13,
+      "role": "care",
+      "durationSec": 16.64,
+      "similarity": 0.9477,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 26.48,
+      "similarity": 0.9431,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 16,
+      "role": "neutral",
+      "durationSec": 13.36,
+      "similarity": 0.9548,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 18,
+      "role": "neutral",
+      "durationSec": 24.0,
+      "similarity": 0.9368,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 20,
+      "role": "neutral",
+      "durationSec": 22.24,
+      "similarity": 0.9434,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 22,
+      "role": "neutral",
+      "durationSec": 19.6,
+      "similarity": 0.9503,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 24,
+      "role": "neutral",
+      "durationSec": 6.32,
+      "similarity": 0.9387,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 26,
+      "role": "neutral",
+      "durationSec": 18.72,
+      "similarity": 0.9318,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 28,
+      "role": "neutral",
+      "durationSec": 32.8,
+      "similarity": 0.9547,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 30,
+      "role": "neutral",
+      "durationSec": 26.4,
+      "similarity": 0.9368,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 32,
+      "role": "neutral",
+      "durationSec": 27.36,
+      "similarity": 0.9447,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 34,
+      "role": "neutral",
+      "durationSec": 35.68,
+      "similarity": 0.9203,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 36,
+      "role": "neutral",
+      "durationSec": 28.96,
+      "similarity": 0.9406,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 38,
+      "role": "neutral",
+      "durationSec": 23.6,
+      "similarity": 0.9478,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 40,
+      "role": "neutral",
+      "durationSec": 27.28,
+      "similarity": 0.9543,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 42,
+      "role": "neutral",
+      "durationSec": 21.76,
+      "similarity": 0.9328,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 44,
+      "role": "neutral",
+      "durationSec": 29.44,
+      "similarity": 0.944,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 7.36,
+      "similarity": 0.9359,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 48,
+      "role": "neutral",
+      "durationSec": 16.72,
+      "similarity": 0.9557,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 50,
+      "role": "neutral",
+      "durationSec": 18.4,
+      "similarity": 0.9418,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 52,
+      "role": "neutral",
+      "durationSec": 25.92,
+      "similarity": 0.9513,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 4,
+      "role": "neutral",
+      "durationSec": 16.08,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 6,
+      "role": "neutral",
+      "durationSec": 4.88,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 21.52,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 15,
+      "role": "neutral",
+      "durationSec": 18.32,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 15.12,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 19,
+      "role": "neutral",
+      "durationSec": 24.000041666666668,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 21,
+      "role": "neutral",
+      "durationSec": 17.92,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 20.72,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 25,
+      "role": "neutral",
+      "durationSec": 14.16,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 27,
+      "role": "neutral",
+      "durationSec": 31.6,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 29,
+      "role": "neutral",
+      "durationSec": 37.2,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 31,
+      "role": "neutral",
+      "durationSec": 18.08,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 33,
+      "role": "neutral",
+      "durationSec": 21.12,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 35,
+      "role": "neutral",
+      "durationSec": 13.6,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 37,
+      "role": "neutral",
+      "durationSec": 21.440041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 39,
+      "role": "neutral",
+      "durationSec": 17.360041666666667,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 41,
+      "role": "neutral",
+      "durationSec": 23.68,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 43,
+      "role": "neutral",
+      "durationSec": 10.0,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 45,
+      "role": "neutral",
+      "durationSec": 27.12,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 47,
+      "role": "neutral",
+      "durationSec": 25.92,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 49,
+      "role": "neutral",
+      "durationSec": 24.800041666666665,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 51,
+      "role": "neutral",
+      "durationSec": 20.24,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 1.6,
+      "similarity": 0.8094,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0,
+      "reason": "below-role-threshold"
+    }
+  ]
+}

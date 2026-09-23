@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-05.md",
+  "sourceSha256": "16113f0ae0c5dae2da3ca85bdc05f692ed86eff13a8a1687c0755cc8eea14ac9",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-05/chapter-05.calder-hq-safe-boundary.mp3",
+  "audioSha256": "cfb9444de0f5eebe4d79dce7abe0a905906f2c50a19ff308a6b13d2603457a62",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-05/chapter-05.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "5054793fac1fa2b2cb5de7541926c2a512d1c0501f915a4e3ff663b3fe737303",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "replace",
+    "sourceWordStart": 850,
+    "sourceWords": "accurately she did not look up we are two",
+    "transcribedWords": "to it and you i i'll tell you what i have"
+  },
+  "focusedEvidence": {
+    "segmentIds": [45, 46, 47, 48],
+    "startSec": 278.36,
+    "endSec": 303.64,
+    "transcript": "think of it, and neither of us will waste the other's afternoon. I have three places. Not five. Three. And I'll tell you exactly why there are three. Because you're going to be unhappy about it, and I'd rather you were unhappy accurately. She did not look up. We are two hundred and four people behind a stockade made of railway sleepers. We put up eleven tons of grain this year,",
+    "requiredPhrase": "unhappy accurately. She did not look up. We are two hundred and four people",
+    "requiredPhrasePresent": true,
+    "noSpeechProbabilityMaximum": 2.353111846001288e-12
+  },
+  "finding": "The allegedly replaced source passage is present in full and in order. The long-form diff crossed a repeated 'I'll tell you' phrase from the preceding paragraph and emitted a false replacement.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T05:05:32Z"
+}

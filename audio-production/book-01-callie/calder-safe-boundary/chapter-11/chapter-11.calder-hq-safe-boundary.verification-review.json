@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-11.md",
+  "sourceSha256": "e525451f7bbd18d5f3f7d455619445a0f605b7e209c5f40305926f5f5e202b4a",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-11/chapter-11.calder-hq-safe-boundary.mp3",
+  "audioSha256": "5fd534d192d1cb8ad9625ce6c75ad5c47c94868fc5cf5956956a8ad1af998740",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-11/chapter-11.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "eb306a945ca67da4b4ef73cd2351fd08c06d95041e8c5f3699fbfea9393377e7",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "suspiciousOmission",
+    "sourceWords": "she's all right look at her she's moving",
+    "sourceWordStart": 3556
+  },
+  "focusedEvidence": {
+    "segmentId": 190,
+    "startSec": 1200.82,
+    "endSec": 1206.14,
+    "transcript": "she's all right. She's moving. She's all right. Look at her. She's moving.",
+    "expectedSource": "she's all right, she's moving, she's all right, look at her, she's moving",
+    "minimumWordProbability": 0.5771484375,
+    "medianWordProbability": 1.0,
+    "noSpeechProbability": 2.1009251196385526e-12,
+    "avgLogProbability": -0.1260322513002338
+  },
+  "finding": "The allegedly omitted repeated passage is present in full and in order. The long-form SequenceMatcher aligned the repeated phrase to the wrong occurrence and emitted a false deletion.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T04:32:00Z"
+}

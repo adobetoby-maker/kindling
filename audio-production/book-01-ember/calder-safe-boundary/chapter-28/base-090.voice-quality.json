@@ -1,0 +1,536 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-28/base-090.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 24,
+      "minimum": 0.9176,
+      "median": 0.9415,
+      "maximum": 0.9544,
+      "threshold": 0.84
+    },
+    "care": {
+      "segments": 24,
+      "minimum": 0.9125,
+      "median": 0.94,
+      "maximum": 0.9559,
+      "threshold": 0.84
+    },
+    "humor": {
+      "segments": 1,
+      "minimum": 0.9422,
+      "median": 0.9422,
+      "maximum": 0.9422,
+      "threshold": 0.84
+    },
+    "awe": {
+      "segments": 7,
+      "minimum": 0.9258,
+      "median": 0.9395,
+      "maximum": 0.9613,
+      "threshold": 0.84
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 25.68,
+      "similarity": 0.9298,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 2,
+      "role": "neutral",
+      "durationSec": 16.16,
+      "similarity": 0.9439,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 16.8,
+      "similarity": 0.9504,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 4,
+      "role": "neutral",
+      "durationSec": 27.6,
+      "similarity": 0.9334,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 6,
+      "role": "care",
+      "durationSec": 13.28,
+      "similarity": 0.94,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 7,
+      "role": "care",
+      "durationSec": 23.36,
+      "similarity": 0.9515,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 8,
+      "role": "care",
+      "durationSec": 29.92,
+      "similarity": 0.9509,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 24.0,
+      "similarity": 0.9433,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 13.92,
+      "similarity": 0.9379,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 11,
+      "role": "care",
+      "durationSec": 19.92,
+      "similarity": 0.9279,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 12,
+      "role": "care",
+      "durationSec": 22.8,
+      "similarity": 0.9303,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 13,
+      "role": "care",
+      "durationSec": 27.6,
+      "similarity": 0.9401,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 14,
+      "role": "care",
+      "durationSec": 25.28,
+      "similarity": 0.9465,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 15,
+      "role": "care",
+      "durationSec": 22.4,
+      "similarity": 0.9369,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 16,
+      "role": "care",
+      "durationSec": 15.04,
+      "similarity": 0.9559,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 17,
+      "role": "care",
+      "durationSec": 21.6,
+      "similarity": 0.9445,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 18,
+      "role": "care",
+      "durationSec": 17.36,
+      "similarity": 0.9411,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 19,
+      "role": "care",
+      "durationSec": 10.88,
+      "similarity": 0.9462,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 20,
+      "role": "care",
+      "durationSec": 26.96,
+      "similarity": 0.9125,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 21,
+      "role": "care",
+      "durationSec": 24.08,
+      "similarity": 0.9276,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 22,
+      "role": "care",
+      "durationSec": 16.88,
+      "similarity": 0.94,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 9.12,
+      "similarity": 0.9544,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 24,
+      "role": "humor",
+      "durationSec": 23.68,
+      "similarity": 0.9422,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 26,
+      "role": "care",
+      "durationSec": 22.16,
+      "similarity": 0.9298,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 27,
+      "role": "care",
+      "durationSec": 24.72,
+      "similarity": 0.9472,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 28,
+      "role": "care",
+      "durationSec": 23.44,
+      "similarity": 0.9378,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 29,
+      "role": "care",
+      "durationSec": 29.76,
+      "similarity": 0.9265,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 30,
+      "role": "care",
+      "durationSec": 24.0,
+      "similarity": 0.9379,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 31,
+      "role": "care",
+      "durationSec": 23.2,
+      "similarity": 0.9372,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 32,
+      "role": "neutral",
+      "durationSec": 19.6,
+      "similarity": 0.928,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 33,
+      "role": "neutral",
+      "durationSec": 27.36,
+      "similarity": 0.9411,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 34,
+      "role": "neutral",
+      "durationSec": 20.08,
+      "similarity": 0.926,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 36,
+      "role": "neutral",
+      "durationSec": 19.76,
+      "similarity": 0.9508,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 37,
+      "role": "neutral",
+      "durationSec": 16.48,
+      "similarity": 0.9455,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 38,
+      "role": "neutral",
+      "durationSec": 24.88,
+      "similarity": 0.9482,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 39,
+      "role": "neutral",
+      "durationSec": 30.88,
+      "similarity": 0.9419,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 41,
+      "role": "awe",
+      "durationSec": 12.64,
+      "similarity": 0.9532,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 42,
+      "role": "neutral",
+      "durationSec": 21.68,
+      "similarity": 0.9266,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 43,
+      "role": "neutral",
+      "durationSec": 17.84,
+      "similarity": 0.9369,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 44,
+      "role": "neutral",
+      "durationSec": 22.32,
+      "similarity": 0.9378,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 33.6,
+      "similarity": 0.9492,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 47,
+      "role": "awe",
+      "durationSec": 8.24,
+      "similarity": 0.9395,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 48,
+      "role": "awe",
+      "durationSec": 17.12,
+      "similarity": 0.9613,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 49,
+      "role": "awe",
+      "durationSec": 20.56,
+      "similarity": 0.9258,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 50,
+      "role": "awe",
+      "durationSec": 18.16,
+      "similarity": 0.9361,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 51,
+      "role": "awe",
+      "durationSec": 21.92,
+      "similarity": 0.9404,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 52,
+      "role": "awe",
+      "durationSec": 30.4,
+      "similarity": 0.9311,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 53,
+      "role": "neutral",
+      "durationSec": 26.32,
+      "similarity": 0.9435,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 54,
+      "role": "neutral",
+      "durationSec": 19.84,
+      "similarity": 0.9176,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 56,
+      "role": "neutral",
+      "durationSec": 12.64,
+      "similarity": 0.9213,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 57,
+      "role": "neutral",
+      "durationSec": 14.8,
+      "similarity": 0.948,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 58,
+      "role": "neutral",
+      "durationSec": 25.36,
+      "similarity": 0.9356,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 60,
+      "role": "neutral",
+      "durationSec": 13.44,
+      "similarity": 0.9533,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 61,
+      "role": "care",
+      "durationSec": 23.28,
+      "similarity": 0.9477,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 62,
+      "role": "care",
+      "durationSec": 24.64,
+      "similarity": 0.9328,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 63,
+      "role": "care",
+      "durationSec": 19.76,
+      "similarity": 0.944,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 18.56,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 25,
+      "role": "neutral",
+      "durationSec": 17.76,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 35,
+      "role": "neutral",
+      "durationSec": 18.32,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 40,
+      "role": "neutral",
+      "durationSec": 22.240041666666666,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 45,
+      "role": "neutral",
+      "durationSec": 19.6,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 55,
+      "role": "neutral",
+      "durationSec": 25.12,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 59,
+      "role": "neutral",
+      "durationSec": 22.88,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": []
+}

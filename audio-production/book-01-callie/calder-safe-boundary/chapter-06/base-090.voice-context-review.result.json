@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-06/base-090.voice-context-review.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 2,
+      "minimum": 0.9413,
+      "median": 0.9443,
+      "maximum": 0.9472,
+      "threshold": 0.84
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 49.28,
+      "similarity": 0.9472,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 49,
+      "role": "neutral",
+      "durationSec": 51.12,
+      "similarity": 0.9413,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    }
+  ],
+  "skippedShortSegments": [],
+  "failures": []
+}

@@ -1,0 +1,359 @@
+{
+  "productionPipeline": {
+    "name": "Monroe Audio",
+    "version": "2026-09-20.1",
+    "profile": "Calder HQ 0.90 / comma 450 / sentence 800"
+  },
+  "input": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-12.md",
+  "inputSha256": "f695a6efc3b1c39bf87dc90cc9e5f8822e5483dd828ae3b8f149076d6ac47a92",
+  "engine": "qwen-clone-hq",
+  "model": "mlx-community/Qwen3-TTS-12Hz-1.7B-Base-8bit",
+  "voice": "cloned",
+  "language": "English",
+  "speed": 1.0,
+  "instruct": "Calder base narrator: mature Australian-English literary audiobook delivery, grounded, measured, observant, and restrained. Read slowly and with complete command of the sentence. Let punctuation and paragraph turns breathe. Prepare the emotional intention of the next sentence before beginning it. Character color is temporary and must never alter the narrator's underlying pitch center, resonance, cadence, or accent placement. Keep the performance intimate, never sing-song, hesitant, childish, Americanized, or announcer-like.",
+  "baseResetInstruct": "BASE NARRATOR RESET. Begin from the locked neutral reference, not from the previous take. Restore the approved narrator's normal pitch center, resonance, cadence, accent placement, and emotional distance. Carry over none of the previous character, action, grief, whisper, urgency, or sentence ending.",
+  "referenceAudio": null,
+  "referenceText": null,
+  "performanceTrack": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-12/performance.json",
+  "performanceTrackSha256": "238cb5013eceb217a6a4f702a6a66c414c6e528b7c17127d3000c9dc34241030",
+  "performancePalette": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/palette.json",
+  "performancePaletteSha256": "6192b25f63d83d2d20378ba9eee8c300e437557d21bf513e62d66f0d299ff522",
+  "maxChars": 480,
+  "pauseMs": 340,
+  "paletteMode": "performance",
+  "playbackRate": 0.9,
+  "finalPauseMs": 900,
+  "edgeSilenceMs": 120,
+  "edgeFadeMs": 12,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "sourceWords": 3574,
+  "chunkCount": 52,
+  "performances": [
+    "care",
+    "neutral"
+  ],
+  "durationSec": 1228.26,
+  "bytes": 19653165,
+  "sha256": "72764fb044d3488197cdcaa3b9258ba462c6cc4c36d7f83a5baf9c66ea5fcf28",
+  "elapsedSec": 431.14,
+  "output": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-12/base-090.mp3",
+  "master": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/master.wav",
+  "segments": [
+    {
+      "index": 1,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0001.wav",
+      "textSha256": "c134b5a2ea37d38b411d35d43e5020faf38f392f290e1422f4f49beaa5619b80"
+    },
+    {
+      "index": 2,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0002.wav",
+      "textSha256": "52def56b2b4c60296825d400d9730800466a2e11e3585a7a74a59c3e2446923e"
+    },
+    {
+      "index": 3,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0003.wav",
+      "textSha256": "c3811820779dc0fd1aa18a800ab516add0fff86ebf09131c6767b0ebac2d689b"
+    },
+    {
+      "index": 4,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0004.wav",
+      "textSha256": "cf14df22ced0d51384becf07f6ec0c7a2738cb2ad20c8caa5d78e4fdd783e92a"
+    },
+    {
+      "index": 5,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0005.wav",
+      "textSha256": "65a1024da502c4def2da6b4bc0239222a7295be61f07d1c76812bbf4328c7a5c"
+    },
+    {
+      "index": 6,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0006.wav",
+      "textSha256": "e1ee8627063b29afa534cf4bb527e0e3eaf6f19505b2f0cea59089b22728c71d"
+    },
+    {
+      "index": 7,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0007.wav",
+      "textSha256": "2f7dd729459589ed6afb80a1447a6ba250d6778b9c08d597a8369f6d845df5a4"
+    },
+    {
+      "index": 8,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0008.wav",
+      "textSha256": "c76a0df35b32c4dadc01d5fdf1c65574262823a10a5f9720012538ddf79ee8ef"
+    },
+    {
+      "index": 9,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0009.wav",
+      "textSha256": "973466af9d021746b12b6d319ec0c1790921a3970c9873d7a8fa315c65526086"
+    },
+    {
+      "index": 10,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0010.wav",
+      "textSha256": "e82f8ae07f79ae131eb95e256eaaceed73da76ed27171d6cf2a87e9bd0710637"
+    },
+    {
+      "index": 11,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0011.wav",
+      "textSha256": "fe6eed271ac3d764d0ce12611ea556224d95224c3daba812d1687375cdc67b88"
+    },
+    {
+      "index": 12,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0012.wav",
+      "textSha256": "b6b3520c6fc3c6ade56bcab395d3a32276d42b060bcbbcffd62b7d60a3ef230e"
+    },
+    {
+      "index": 13,
+      "performance": "care",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0013.wav",
+      "textSha256": "d5a6586987ee212efd8e2284ae51c67154673629256233f660cfcf42a6c8fad0"
+    },
+    {
+      "index": 14,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0014.wav",
+      "textSha256": "59da1a22ce3f826fb1cdf544045bc584da6d1bebce1b4755acc33f2ae8a29e6c"
+    },
+    {
+      "index": 15,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0015.wav",
+      "textSha256": "f3b7c604f02c1db020df73cc27e6e3914984103277814003ebec52325d2c839c"
+    },
+    {
+      "index": 16,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0016.wav",
+      "textSha256": "0b8696c196eec048c2082c46484385f510905a63c95c251d6f897d00bd340f8d"
+    },
+    {
+      "index": 17,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0017.wav",
+      "textSha256": "8becac5ccae270dd104456b7560b3ab0f47b0c1c0ab02d796d0a6a4ef5a66b6e"
+    },
+    {
+      "index": 18,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0018.wav",
+      "textSha256": "a7b5a4e64bbcd6752dbfe6456aac791fa93db2fc01dc5fe0666f1e3621da2e7a"
+    },
+    {
+      "index": 19,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0019.wav",
+      "textSha256": "f7836c778c51470ef60cf16484629c2d1fa3ab5a1cce77720453bd15c23043b0"
+    },
+    {
+      "index": 20,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0020.wav",
+      "textSha256": "fa1d6ff108351437ebb3e9f39fcc99146a3fa4b4f73e81d3aed3f735c8e129c5"
+    },
+    {
+      "index": 21,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0021.wav",
+      "textSha256": "743739a1d7d4573d0fd6691bdae5629f4e5b06f3cf72c8b67f46649e98a2126e"
+    },
+    {
+      "index": 22,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0022.wav",
+      "textSha256": "b8a16b692fc0537296dd235ae4dbaae7197e83f695a2df9a6bd48a758da16a49"
+    },
+    {
+      "index": 23,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0023.wav",
+      "textSha256": "a56b6b1bf40b2c92dbd434154504004d0f4f43cd80bb607c0734c6f5ca0e2b43"
+    },
+    {
+      "index": 24,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0024.wav",
+      "textSha256": "e7610a36a1170c8282bd3b9cd6288823cfb99921f0e9839560d31d669e9d65cf"
+    },
+    {
+      "index": 25,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0025.wav",
+      "textSha256": "99151082a7d5bc483def207b32281f062266335cb3565c92d9746feca006814a"
+    },
+    {
+      "index": 26,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0026.wav",
+      "textSha256": "e82ef2e982ced38fdb4516fa061f7c86b824cb9c2f0dd2b44bf2f69eee130f55"
+    },
+    {
+      "index": 27,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0027.wav",
+      "textSha256": "de65c1e39bbf86a551b42e4148f16bdd48d509842a20bd001d64d5e1cfdefa22"
+    },
+    {
+      "index": 28,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0028.wav",
+      "textSha256": "dea76a50e931b7ea14151183a30c8b6fde5d82537708be784f076611da2805cc"
+    },
+    {
+      "index": 29,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0029.wav",
+      "textSha256": "9efc2491c04f5a27c199a658a23c9143fb317d5a2ff702e4594a891dc840bedd"
+    },
+    {
+      "index": 30,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0030.wav",
+      "textSha256": "d73abb9c9312a0560b77ac42d17f75f0fe07840b9ecabf97167fd8870eee1c74"
+    },
+    {
+      "index": 31,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0031.wav",
+      "textSha256": "9c73a744e9b554ad1b2091a9aa36c378d2d60be926de328d861670af7b3cdb15"
+    },
+    {
+      "index": 32,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0032.wav",
+      "textSha256": "f29c04a151f1c1da5024d7255095e8a613b1b620dd504c200f29e3130a8cb64a"
+    },
+    {
+      "index": 33,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0033.wav",
+      "textSha256": "05fd8658b897a81fd1ef40f2b1baa1365fa47eb5c1580345331545e744be71e9"
+    },
+    {
+      "index": 34,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0034.wav",
+      "textSha256": "463eed59e8cf44c2dfba0804fabed3cf9e51af36efcf8a68e50e019006c3b62b"
+    },
+    {
+      "index": 35,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0035.wav",
+      "textSha256": "12e778ba707458dab824188429504d13fd755a3d19fa5f2556f61bb4ea5dbb18"
+    },
+    {
+      "index": 36,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0036.wav",
+      "textSha256": "fbc1c0654ff95e9550121a0609f34da81b1e4bd8290008d23c60dea78e649acc"
+    },
+    {
+      "index": 37,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0037.wav",
+      "textSha256": "3c5a8b50b41746fcc0f62a779901612d59b3529c13e87dc6167dda244304cf87"
+    },
+    {
+      "index": 38,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0038.wav",
+      "textSha256": "0b982188d623aa41f7a4c5375f8030936c8945eed0e1d95953b639969e1993b4"
+    },
+    {
+      "index": 39,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0039.wav",
+      "textSha256": "31aa605bfae7357d72daee4e34173308ac46013c6263fd17fcd5e5aa1bfd6886"
+    },
+    {
+      "index": 40,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0040.wav",
+      "textSha256": "84dfb042f1d8e390976383845081868ba11c4c58e82d4fc3fc546872fe60ac83"
+    },
+    {
+      "index": 41,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0041.wav",
+      "textSha256": "80a1b7ee7c549489870aebc38d0beaa6e5cd17ba722262cffe2fea82707585e4"
+    },
+    {
+      "index": 42,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0042.wav",
+      "textSha256": "c5967491317a4c49223a16a74e1749316ebebde341b8860242e0f7c1e5556ddf"
+    },
+    {
+      "index": 43,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0043.wav",
+      "textSha256": "248391605c35548787f5dc5303664289dca21c83b486b4882e82f0d8bf2d8a26"
+    },
+    {
+      "index": 44,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0044.wav",
+      "textSha256": "77505ebe3a1de18bae6998d82da26d157cdcd8beea27ce627979472be93e210e"
+    },
+    {
+      "index": 45,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0045.wav",
+      "textSha256": "a1298b9d6302fafd4987448e261ee67a1c4b94d0d921df986762ca89d0573adf"
+    },
+    {
+      "index": 46,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0046.wav",
+      "textSha256": "09da3d870611db604aeeab80a5d9468faf5c4c5050e188892454a8ccae69e44f"
+    },
+    {
+      "index": 47,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0047.wav",
+      "textSha256": "4ad4a20ee7cf83cdb7f42ed45f93d0e94c8db1c9cd1dccae65b7817f2d1f65cb"
+    },
+    {
+      "index": 48,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0048.wav",
+      "textSha256": "f8e675a5935efef11f99b2405123fc1a762fb3c1970bb8e6b62e6167ed07605d"
+    },
+    {
+      "index": 49,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0049.wav",
+      "textSha256": "7f1f07efc64879b1de124f18d8cf706480e442ae6b7718f6d14085de74db70c3"
+    },
+    {
+      "index": 50,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0050.wav",
+      "textSha256": "cd839166634a5683e075b12a681f1c62fd0b66881731269f629ba56d69538f3b"
+    },
+    {
+      "index": 51,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0051.wav",
+      "textSha256": "3338445ee20e94e08a6bc915ca75d33763f8481f43a63b11f30decc5ae9af90e"
+    },
+    {
+      "index": 52,
+      "performance": "neutral",
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/168287c375bb7a9928d778d1/0052.wav",
+      "textSha256": "70204ca1399cfc94cbf6f2d07c51a3ab49cf9cc0eaa25ce5c579715bdda31b47"
+    }
+  ]
+}

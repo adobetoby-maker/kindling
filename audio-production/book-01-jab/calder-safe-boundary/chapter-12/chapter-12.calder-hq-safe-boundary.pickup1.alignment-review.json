@@ -1,0 +1,882 @@
+{
+  "sourceSha256": "6570e909b2fb444309e58a5a59e827ace07c8305f9d5bf634759a2f3afc5b7b1",
+  "audioSha256": "b10c0ae0018980bf35d586dcdfbc497b787eee49aed14dd515d5f1549da2d587",
+  "asrCoverage": 0.9899843505477308,
+  "requested": 419,
+  "resolved": 378,
+  "repairs": [
+    {
+      "afterWord": 2,
+      "startSec": 0.0,
+      "endSec": 3.94,
+      "sourceStart": 0,
+      "sourceEnd": 7,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 76,
+      "startSec": 22.08,
+      "endSec": 29.2,
+      "sourceStart": 70,
+      "sourceEnd": 81,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 152,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 52.54997916666667
+    },
+    {
+      "afterWord": 320,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 107.82814583333334
+    },
+    {
+      "afterWord": 321,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 108.24727083333333
+    },
+    {
+      "afterWord": 407,
+      "startSec": 136.79999999999998,
+      "endSec": 141.94,
+      "sourceStart": 401,
+      "sourceEnd": 412,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 644,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 212.10877083333332
+    },
+    {
+      "afterWord": 707,
+      "startSec": 229.38,
+      "endSec": 233.3,
+      "sourceStart": 701,
+      "sourceEnd": 712,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 707,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 230.94941666666668
+    },
+    {
+      "afterWord": 886,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 282.47
+    },
+    {
+      "afterWord": 929,
+      "startSec": 296.92,
+      "endSec": 302.02,
+      "sourceStart": 923,
+      "sourceEnd": 934,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1016,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 323.71
+    },
+    {
+      "afterWord": 1052,
+      "startSec": 336.62,
+      "endSec": 341.64,
+      "sourceStart": 1046,
+      "sourceEnd": 1057,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1052,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 339.51
+    },
+    {
+      "afterWord": 1172,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 373.96679166666667
+    },
+    {
+      "afterWord": 1384,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 447.36872916666664
+    },
+    {
+      "afterWord": 1580,
+      "startSec": 504.92,
+      "endSec": 508.74,
+      "sourceStart": 1574,
+      "sourceEnd": 1585,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1793,
+      "startSec": 572.56,
+      "endSec": 575.88,
+      "sourceStart": 1787,
+      "sourceEnd": 1798,
+      "method": "local Whisper cross-attention alignment"
+    },
+    {
+      "afterWord": 1968,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 629.93
+    },
+    {
+      "afterWord": 2046,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 656.5095833333334
+    },
+    {
+      "afterWord": 2461,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 779.99
+    },
+    {
+      "afterWord": 2931,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 931.6842291666667
+    },
+    {
+      "afterWord": 3021,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 959.2123541666666
+    },
+    {
+      "afterWord": 3193,
+      "method": "waveform-confirmed quiet within 120 ms of word boundary",
+      "splitSec": 1018.8430625
+    }
+  ],
+  "unresolved": [
+    {
+      "afterWord": 2,
+      "after": "twelve",
+      "before": "mrs",
+      "previous": {
+        "word": "twelve",
+        "start": 0.84,
+        "end": 1.3,
+        "probability": 0.5838450789451599
+      },
+      "following": {
+        "word": "mrs",
+        "start": 1.3,
+        "end": 2.32,
+        "probability": 0.9311445951461792
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 76,
+      "after": "jab",
+      "before": "doctor",
+      "previous": {
+        "word": "jab",
+        "start": 23.54,
+        "end": 23.86,
+        "probability": 0.9835373759269714
+      },
+      "following": {
+        "word": "doctor",
+        "start": 23.86,
+        "end": 24.759999999999998,
+        "probability": 0.11222920566797256
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 107,
+      "after": "else",
+      "before": "she",
+      "previous": {
+        "word": " else,",
+        "start": 37.04,
+        "end": 37.3,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " she",
+        "start": 37.4,
+        "end": 37.5,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 115,
+      "after": "visiting",
+      "before": "said",
+      "previous": {
+        "word": " Visiting,",
+        "start": 40.02,
+        "end": 40.46,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " said",
+        "start": 40.64,
+        "end": 40.78,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 124,
+      "after": "know",
+      "before": "said",
+      "previous": {
+        "word": " know,",
+        "start": 43.86,
+        "end": 44.14,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " said",
+        "start": 44.28,
+        "end": 44.46,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 205,
+      "after": "doors",
+      "before": "she",
+      "previous": {
+        "word": " doors,",
+        "start": 68.2,
+        "end": 68.52,
+        "probability": 0.9794921875
+      },
+      "following": {
+        "word": " she",
+        "start": 68.54,
+        "end": 68.76,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 222,
+      "after": "wall",
+      "before": "which",
+      "previous": {
+        "word": " wall,",
+        "start": 75.5,
+        "end": 75.88,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " which",
+        "start": 76.1,
+        "end": 76.72,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 407,
+      "after": "jab",
+      "before": "doctor",
+      "previous": {
+        "word": "jab",
+        "start": 138.38,
+        "end": 138.7,
+        "probability": 0.8655301928520203
+      },
+      "following": {
+        "word": "doctor",
+        "start": 138.7,
+        "end": 140.49999999999997,
+        "probability": 0.20190323889255524
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 427,
+      "after": "bench",
+      "before": "he",
+      "previous": {
+        "word": " bench.",
+        "start": 144.96,
+        "end": 145.28,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " He",
+        "start": 145.28,
+        "end": 146.06,
+        "probability": 0.98779296875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 451,
+      "after": "immediately",
+      "before": "because",
+      "previous": {
+        "word": " immediately,",
+        "start": 152.34,
+        "end": 152.84,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " because",
+        "start": 152.84,
+        "end": 153.34,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 551,
+      "after": "alive",
+      "before": "doctor",
+      "reason": "Focused boundary has insufficient acoustic confidence"
+    },
+    {
+      "afterWord": 914,
+      "after": "anything",
+      "before": "how",
+      "previous": {
+        "word": " anything,",
+        "start": 294.3,
+        "end": 294.64,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " how",
+        "start": 294.82,
+        "end": 294.94,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 929,
+      "after": "jab",
+      "before": "doctor",
+      "previous": {
+        "word": "jab",
+        "start": 299.32,
+        "end": 299.66,
+        "probability": 0.9877485632896423
+      },
+      "following": {
+        "word": "doctor",
+        "start": 299.66,
+        "end": 300.7,
+        "probability": 0.2430962771177292
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1159,
+      "after": "things",
+      "before": "and",
+      "previous": {
+        "word": " things",
+        "start": 370.36,
+        "end": 370.72,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 370.72,
+        "end": 370.92,
+        "probability": 0.55078125
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1166,
+      "after": "medicine",
+      "before": "that",
+      "previous": {
+        "word": " medicine,",
+        "start": 372.06,
+        "end": 372.4,
+        "probability": 0.9990234375
+      },
+      "following": {
+        "word": " that",
+        "start": 372.4,
+        "end": 372.66,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1195,
+      "after": "fraction",
+      "before": "said",
+      "previous": {
+        "word": " fraction,",
+        "start": 382.02,
+        "end": 382.54,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " said",
+        "start": 382.76,
+        "end": 382.92,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1220,
+      "after": "five",
+      "before": "most",
+      "previous": {
+        "word": " five,",
+        "start": 392.32,
+        "end": 392.62,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " most",
+        "start": 392.78,
+        "end": 392.94,
+        "probability": 0.9990234375
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1281,
+      "after": "it",
+      "before": "when",
+      "previous": {
+        "word": " it,",
+        "start": 410.26,
+        "end": 410.46,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " when?",
+        "start": 410.58,
+        "end": 410.76,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1308,
+      "after": "words",
+      "before": "it",
+      "previous": {
+        "word": " words,",
+        "start": 420.88,
+        "end": 421.36,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " it",
+        "start": 421.36,
+        "end": 421.56,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1323,
+      "after": "operation",
+      "before": "the",
+      "previous": {
+        "word": " operation,",
+        "start": 428.24,
+        "end": 428.78,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " the",
+        "start": 429.04,
+        "end": 429.16,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1325,
+      "after": "frame",
+      "before": "the",
+      "previous": {
+        "word": " frame,",
+        "start": 429.16,
+        "end": 429.58,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " the",
+        "start": 429.76,
+        "end": 429.88,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1327,
+      "after": "medicine",
+      "before": "the",
+      "previous": {
+        "word": " medicine,",
+        "start": 429.88,
+        "end": 430.3,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " the",
+        "start": 430.52,
+        "end": 430.62,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1336,
+      "after": "months",
+      "before": "are",
+      "previous": {
+        "word": " months",
+        "start": 432.62,
+        "end": 432.94,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " are",
+        "start": 432.94,
+        "end": 433.14,
+        "probability": 0.90625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1580,
+      "after": "months",
+      "before": "keel",
+      "previous": {
+        "word": "months",
+        "start": 506.12,
+        "end": 506.52000000000004,
+        "probability": 0.9943603873252869
+      },
+      "following": {
+        "word": "keel",
+        "start": 506.52000000000004,
+        "end": 507.5,
+        "probability": 0.5064162015914917
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1650,
+      "after": "shorter",
+      "before": "and",
+      "previous": {
+        "word": " shorter,",
+        "start": 525.48,
+        "end": 525.92,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 526.08,
+        "end": 526.26,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1667,
+      "after": "operation",
+      "before": "and",
+      "previous": {
+        "word": " operation,",
+        "start": 530.18,
+        "end": 530.82,
+        "probability": 0.998046875
+      },
+      "following": {
+        "word": " and",
+        "start": 530.82,
+        "end": 531.12,
+        "probability": 0.97900390625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1769,
+      "after": "here",
+      "before": "said",
+      "previous": {
+        "word": " Here,",
+        "start": 567.0,
+        "end": 567.48,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " said",
+        "start": 567.7,
+        "end": 567.84,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1793,
+      "after": "keel",
+      "before": "and",
+      "previous": {
+        "word": "keel",
+        "start": 574.26,
+        "end": 574.68,
+        "probability": 0.9881783723831177
+      },
+      "following": {
+        "word": "and",
+        "start": 574.68,
+        "end": 574.8599999999999,
+        "probability": 0.7824856042861938
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 1978,
+      "after": "family",
+      "before": "and",
+      "previous": {
+        "word": " family,",
+        "start": 633.52,
+        "end": 633.9,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 633.9,
+        "end": 634.22,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2062,
+      "after": "hour",
+      "before": "which",
+      "previous": {
+        "word": " hour,",
+        "start": 661.86,
+        "end": 662.3,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " which",
+        "start": 662.52,
+        "end": 662.62,
+        "probability": 0.99951171875
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2134,
+      "after": "gown",
+      "before": "in",
+      "previous": {
+        "word": " gown,",
+        "start": 684.62,
+        "end": 685.06,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " in",
+        "start": 685.32,
+        "end": 685.46,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2151,
+      "after": "him",
+      "before": "his",
+      "previous": {
+        "word": " him,",
+        "start": 691.52,
+        "end": 691.7,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " his",
+        "start": 691.86,
+        "end": 691.98,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2220,
+      "after": "jab",
+      "before": "who",
+      "previous": {
+        "word": " Jab,",
+        "start": 709.84,
+        "end": 710.16,
+        "probability": 0.97802734375
+      },
+      "following": {
+        "word": " who",
+        "start": 710.38,
+        "end": 710.52,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2454,
+      "after": "running",
+      "before": "and",
+      "previous": {
+        "word": " running",
+        "start": 777.76,
+        "end": 778.08,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 778.08,
+        "end": 778.32,
+        "probability": 0.90869140625
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2615,
+      "after": "mine",
+      "before": "and",
+      "previous": {
+        "word": " mine,",
+        "start": 838.82,
+        "end": 839.18,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " and",
+        "start": 839.18,
+        "end": 839.44,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2850,
+      "after": "decided",
+      "before": "and",
+      "previous": {
+        "word": " decided,",
+        "start": 909.52,
+        "end": 909.96,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " and",
+        "start": 910.16,
+        "end": 910.22,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 2965,
+      "after": "yes",
+      "before": "said",
+      "previous": {
+        "word": " Yes,",
+        "start": 942.86,
+        "end": 943.32,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " said",
+        "start": 943.44,
+        "end": 943.62,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3000,
+      "after": "day",
+      "before": "which",
+      "previous": {
+        "word": " day,",
+        "start": 953.28,
+        "end": 953.54,
+        "probability": 0.99951171875
+      },
+      "following": {
+        "word": " which",
+        "start": 953.72,
+        "end": 953.84,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3036,
+      "after": "after",
+      "before": "he",
+      "previous": {
+        "word": " after,",
+        "start": 965.68,
+        "end": 966.0,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " he",
+        "start": 966.1,
+        "end": 966.18,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3090,
+      "after": "was",
+      "before": "for",
+      "previous": {
+        "word": " was,",
+        "start": 983.82,
+        "end": 984.24,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " for",
+        "start": 984.4,
+        "end": 984.46,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    },
+    {
+      "afterWord": 3129,
+      "after": "gate",
+      "before": "he",
+      "previous": {
+        "word": " gate,",
+        "start": 998.54,
+        "end": 998.8,
+        "probability": 1.0
+      },
+      "following": {
+        "word": " he",
+        "start": 998.92,
+        "end": 999.02,
+        "probability": 1.0
+      },
+      "reason": "No waveform-confirmed quiet splice point: hold this pause for a pickup"
+    }
+  ],
+  "note": "Source-conditioned alignment is timing evidence only; independent content verification is required."
+}

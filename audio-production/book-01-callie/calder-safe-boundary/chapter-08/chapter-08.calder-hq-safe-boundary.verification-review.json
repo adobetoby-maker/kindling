@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "kind": "focused-trailing-silence-hallucination",
+  "pass": true,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-08.md",
+  "sourceSha256": "635e7ad6e132d30a1afa3d8e400de6c1355f7b45d32f838ce19a77df3bd722a8",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-08/chapter-08.calder-hq-safe-boundary.mp3",
+  "audioSha256": "0c19c998abe861f8c7968188468d4915c59961faffe90a9657c9461a45a016c8",
+  "originalReport": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-08/chapter-08.calder-hq-safe-boundary.verification.json",
+  "originalReportSha256": "1a4d0d3d9d1879eb581325aea5663186adef923a4b328ee8b5f6a647e998c5f7",
+  "originalFailure": {
+    "operation": "insert",
+    "afterSourceWord": 4190,
+    "sourceWords": "",
+    "transcribedWords": "to the that time it's the"
+  },
+  "focusedClip": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-08/focused-review-1494-1584.wav",
+  "focusedClipSha256": "d3917749d72f7c3da3cc7e060359e2ae6c28ca5434b44c50f4a80f67b0c7e780",
+  "focusedTranscript": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-08/focused-review-1494-1584.json",
+  "focusedTranscriptSha256": "191f9ede74d1097d3d936f3976cc7e1b15eaacbecd1b521d62a7ca29ffcda46a",
+  "focusedSourceWordRange": [3941, 4190],
+  "coverage": 0.9879518072289156,
+  "similarity": 0.9879518072289156,
+  "suspiciousChanges": [],
+  "trailingHallucination": {
+    "words": "Read the",
+    "startSecInClip": 89.1,
+    "firstWordProbability": 0.00016450881958007812,
+    "location": "after the final source word in trailing audio"
+  },
+  "otherOriginalFailures": [],
+  "humanListening": "pending",
+  "resolvedFailure": "Focused unprompted final-audio ASR reaches the exact final source phrase. The only post-source output is a near-zero-confidence Whisper hallucination in trailing audio; no added speech is established. Audio unchanged."
+}

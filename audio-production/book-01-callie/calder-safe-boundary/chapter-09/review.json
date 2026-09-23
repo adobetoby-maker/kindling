@@ -1,0 +1,36 @@
+{
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-callie/chapters/chapter-09.md",
+  "sourceSha256": "aa17a7cf324aa65ceaf66df93daf4948e71052e305247e420623f1219d401c36",
+  "output": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-09/chapter-09.calder-hq-safe-boundary.pickup2.mp3",
+  "sha256": "ed70f2c7a28149904baf87df741ce2a76efe3f6960f5eccd796a40294295a91d",
+  "profile": {
+    "name": "Calder HQ \u2014 0.90 / 450 / 800",
+    "version": "2026-09-20.1",
+    "engine": "qwen-clone-hq",
+    "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+    "playbackRate": 0.9,
+    "commaMs": 450,
+    "sentenceMs": 800,
+    "paragraphMs": 800,
+    "breathMs": 450,
+    "finalMs": 900,
+    "pausePolicy": "Final-audio minimum rests, not additional silence on top of existing pauses. Preserve longer natural or directed landings. Pause placement occurs AFTER stretching. No per-comma TTS restarts.",
+    "authority": "Owner explicitly requested standard Calder HQ stretched to .9, commas 450 ms, periods 800 ms. This overrides historical no-stretch instructions for this run only.",
+    "publication": "Keep previous audio until replacement passes objective checks. Human listening approval remains separate; do not label automated QA human-approved."
+  },
+  "automatedPass": true,
+  "failures": [],
+  "pickup": {
+    "segments": [36, 37],
+    "reason": "Restore sentence landings in the repeated 'going' passage.",
+    "preservedOriginal": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-09/pre-pickup-20260923T1101Z",
+    "preservedFirstPickup": "/Volumes/Drive 2/monroe-ai/productions/callie-calder-090-450-800-20260921/book-01-callie/chapter-09/pre-pickup2-20260923T1101Z"
+  },
+  "voiceAndNaturalnessScope": "native speech segments; not proof of final accent or timing quality",
+  "humanListening": "pending",
+  "punctuationTiming": "450/800 ms targets at waveform-safe boundaries; native delivery retained elsewhere",
+  "fullPauseScoreApplied": false,
+  "retainedNativeBoundaries": 64,
+  "durationSec": 1673.847,
+  "updated": "2026-09-23T11:01:30+00:00"
+}

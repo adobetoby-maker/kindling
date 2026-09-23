@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "reviewType": "focused-asr-diff-adjudication",
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-ember/chapters/chapter-27.md",
+  "sourceSha256": "ee10c3f367fb39d3ca1508b7e584cd00fb08448cdf3e508f8975424bf0224497",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-27/chapter-27.calder-hq-safe-boundary.mp3",
+  "audioSha256": "aca2f30bb32d814a7a9e235753ee094cc0df36714c2173019688962492e6ef76",
+  "asrCache": "/Volumes/Drive 2/monroe-ai/productions/kindled-calder-090-450-800-20260920/book-01-ember/chapter-27/chapter-27.calder-hq-safe-boundary.asr-cache.json",
+  "asrCacheSha256": "6662897b93512f1675ff7b3bcc02bbca56db1b21d0e5ef7ec3a6610214aaefa2",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "originalFailure": {
+    "type": "replace",
+    "sourceWordStart": 3169,
+    "sourceWords": "toren about that card then",
+    "transcribedWords": "torrin"
+  },
+  "focusedEvidence": {
+    "segmentId": 190,
+    "startSec": 1056.72,
+    "endSec": 1060.72,
+    "transcript": "Nobody said one word to Torrin about that card, then or ever.",
+    "expectedSource": "Nobody said one word to Toren about that card, then or ever.",
+    "requiredPhrasePresent": true,
+    "namedEntityAsrVariant": "Torrin",
+    "noSpeechProbability": 1.981376651291611e-12
+  },
+  "finding": "The allegedly replaced passage is present in full and in order. Whisper spelled the spoken name Toren as Torrin; the remaining words are timestamped with high confidence.",
+  "suspiciousChanges": [],
+  "otherOriginalFailures": [],
+  "automatedPass": true,
+  "humanListening": "pending",
+  "reviewedAt": "2026-09-23T06:45:43Z"
+}
