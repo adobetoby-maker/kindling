@@ -1,0 +1,239 @@
+# Chapter 24 — Jab
+
+The half dose did not hold the morning, and he had known it would not, and knowing had turned out to be no help whatsoever.
+
+He gave it at first light, tipping half the shaved bark into the cup and folding the paper back over the rest, and Tonk drank it and made the face and said the thing about the spoon, and for an hour it was a morning like any other. Then the ground tilted up into the last of the high country, and the frame began doing what the frame did on a climb, which was to press the seat board against the back of Tonk's thighs at every step, and by the second rest his brother had stopped talking.
+
+By the fourth he was crying steadily with his face against Jab's shoulder strap, not loudly, the way a person cries when it has gone on long enough to be ordinary.
+
+Jab kept walking. That was the whole of what he did, for two hours, with a sound like that going on behind his ear. He stopped when stopping would help and went on when it would not, and did not give the second half, because the second half was the night's and the night was the one that could not be gone without.
+
+"Tell me about the jay," Tonk said at one point, thickly.
+
+"You tell me."
+
+"I can't. *You* tell me."
+
+"He's got a brother," Jab said. "Did you know that?"
+
+"No."
+
+"He does. His brother's worse than him."
+
+Tonk laughed, and the laugh ran straight into the crying again and came apart, and Jab put his hand back over his shoulder and found his brother's hand and held it, walking, for another mile.
+
+---
+
+He had the spring trip in his head all morning, and he was too tired to keep it out.
+
+It would have gone in the second week of the thaw, when the passes opened. Six of them, maybe eight. A sled over the last of the snow and then hand-carts on the dry road, and two men on the poles at all times and two spare, and the Elder's own apprentice along with a proper box of medicine — a full box, with three kinds in it and a set of scales — and the pace set by whoever was carrying rather than by a seventeen-year-old's pride. Fourteen days instead of eighteen, because eight people made their own bridges. Somebody else to sit up at night. Somebody to talk to.
+
+He could see it very clearly. He had been seeing it very clearly for nine days.
+
+He had heard them argue about it through a wall.
+
+That was the thing he had never told anyone and was not going to. He had been outside the long house in the dark with an armful of split ash lattice, coming back from the shed, and he had stopped because his own name was in the air.
+
+It had not been a shouting argument. His people did not do that often; what they did instead was worse, which was to go on being reasonable at each other for a very long time. One of the lineage-heads — a man Jab had worked beside on the racks every autumn of his life, a good man, a careful one — had been saying that a spring trip was a trip and an autumn trip was a funeral, and that the child would be no less broken in five months than he was now, and that the community had already put two adults in the water this month and could not spare another to a road.
+
+And somebody had said: *He wouldn't be going with an adult. He'd be going alone. He's seventeen.*
+
+And the careful man had said: *Then he'd be going alone, and that's the argument, isn't it. We'd be sending a boy out to do a thing in the winter because we haven't got anyone to send with him. Say that part out loud and see how it sounds.*
+
+It had sounded bad. Even from the dark, with his arms full of lattice, it had sounded bad, and Jab had stood there and felt the whole room agree with him.
+
+Then the Elder had spoken. He had not been able to hear all of it. He had heard the end.
+
+*I've told you what I think and none of you have moved me off it. The bone's dying. If it goes on dying he'll go in six weeks and it'll be eight before the snow's off the pass. You can call that an argument about the trip if it makes it easier. It isn't one. It's an argument about whether we're going to be a people who sat down in the autumn and did the arithmetic.*
+
+Nobody had said anything for a while after that.
+
+And then somebody — he never knew who, and had spent six weeks not wanting to know — had said, quietly: *We're asking the boy to carry it because we don't want to carry it.*
+
+And the Elder had said: *He's already carrying it. He's been carrying it since the water. All we're deciding is whether he does it with medicine.*
+
+Jab had gone round the back of the house with his lattice and sat down against the wall in the cold until his arms stopped.
+
+What he had taken from it — what he took from it still, on a climb, eleven days out, with his brother crying against his shoulder — was not the guilt. The guilt was old furniture by now and he could walk through the room in the dark without hitting it.
+
+What he had taken was that the careful man had been right about the shape of it and wrong about the answer, and that both of those things could be true at once, and that there had been one person in that room who could count.
+
+---
+
+He made the mistake at the fourth rest of the afternoon.
+
+There was nothing remarkable about the place. It was a flat shelf of ground under a leaning rock with old snow in the shade of it, and he got Tonk out of the frame and laid him on the hide and got his back against the pack with his own legs out straight, and shut his eyes while the water warmed at the edge of a fire too small to be worth the name.
+
+He did not decide to sleep. He had been deciding not to sleep for eleven days and had got rather good at it.
+
+What happened was that his eyes were shut and then they were open, and the light had moved.
+
+It had moved a long way. The shadow of the leaning rock had gone from his boots to past his shoulder, and the little fire was a grey pad of ash, and his brother was leaning as far out of the hide as the leg would let him with both hands on Jab's forearm, shaking it, and saying his name in a voice that had gone past frightened into something flat and hoarse.
+
+"*Jab. Jab. Jab.* Wake up. *Wake up.*"
+
+"I'm awake." He was upright with no memory of getting there. "I'm here. I'm awake. I'm here."
+
+"You wouldn't wake up."
+
+"I'm awake now."
+
+"You *wouldn't wake up*," Tonk said, and then he did not say anything else at all, because he had started crying in the hard shuddering way that took his whole chest, and Jab got him up against his shoulder and held him and looked over the top of his head at the sky.
+
+An hour and a half. Maybe more.
+
+An hour and a half of the best light of the day, gone, on ground where he had planned to make the top of the ridge and get the long descent done in daylight, because a descent in the dark with a frame and a rail was exactly the kind of thing that had put them on a log over a flood three days ago.
+
+And his brother had lain beside him for all of it, unable to stand, unable to crawl, unable to reach anything but Jab's arm, shaking it.
+
+"How long were you calling?"
+
+"I don't *know.*"
+
+"All right."
+
+"I *don't know*," Tonk said furiously, as if he had been accused of something, and then, into Jab's collarbone: "I thought you'd gone."
+
+"I hadn't."
+
+"I thought you'd *gone.*"
+
+"I know." Jab held the back of his brother's head. His own voice came out perfectly level, which was its own kind of lie and the only one he was prepared to tell. "That was my fault. Not yours. I went to sleep and I shouldn't have, and you did exactly right, and you shouted for as long as it took. That's the job. You did the job."
+
+"I don't want that job."
+
+"No," Jab said. "I don't blame you."
+
+He got them moving inside ten minutes and did not make the ridge. They got two-thirds of the way up it in the last of the light and he stopped where there was water and a stand of small fir, because going on would have been going on out of anger, and he had a rule about that too.
+
+---
+
+At dark he took out the birch paper, and his brother said no.
+
+"Night bark," Jab said, holding out the cup.
+
+"No."
+
+"Tonk."
+
+"*No.*" Tonk had his mouth shut and his chin down and both hands on the hide, and the look on his face was one Jab had seen exactly twice — once over a bowl of fish-head broth at the age of three, and once when their mother had tried to cut his hair.
+
+Jab sat back on his heels.
+
+His first thought was that this was the taste, and that he could cover it with the last of the spruce seed mashed up in water. His second was that it was the cup, because the cup had got a crack and a new smell. His third, which arrived on top of the first two and shoved them both out of the way, was that his brother had not said *I don't want it*. He had said *no*, which was a different word, and he had said it with his hands braced.
+
+"All right," Jab said. "Tell me why. Properly. I'm not going to talk you out of it, I'm just going to know."
+
+Tonk's face worked.
+
+"It makes me go away," he said.
+
+"Go away."
+
+"It makes me go away and then things happen and I'm not *there*." His voice climbed. "And you went away too. And I was calling and you didn't wake up, and if I have the bark I go away and then if you go away there's *nobody*."
+
+Jab sat very still with a cup of bark water in his hand and thirteen days of being the only adult in the world coming down on him all at once.
+
+It was, he understood, a completely sound argument. It was, in fact, the same argument he had been having with himself every night since the seventh day, in a bigger vocabulary and with worse reasoning.
+
+"Right," he said. "Here's what I've got. You're not going to like all of it."
+
+Tonk watched him.
+
+"I can't promise you I won't fall asleep again. I've been trying not to for eleven days and today I lost. That's the truth and if I promised you the other thing you'd find out I was a liar and then you'd have nobody worth listening to." He set the cup down on a stone. "So here's what I can do instead."
+
+He took the length of hide cord off the frame's spare lashing — twelve feet, the one piece he had been saving — and tied one end round his own left wrist with a knot that would not draw, and put the other end into his brother's hand, and closed the fingers over it.
+
+"That's on my arm all night, every night, from now to the end of the road. You pull it, I'm awake. You don't have to shout and you don't have to reach. You could be half asleep and pull it and I'd be up."
+
+Tonk looked at the cord in his fist.
+
+"Test it," Jab said.
+
+Tonk pulled. Jab's arm jumped and he sat up straight as if something had bitten him, which was partly theatre and mostly not.
+
+"See?"
+
+"Do it again."
+
+Jab let him do it four times, and let it be funnier each time, and on the fourth his brother laughed — one short surprised bark of a laugh — and that was the first one since the crossing.
+
+"So," Jab said. "The bark."
+
+Tonk's face shut again. "No."
+
+And Jab, who had two and a half days of medicine in his coat and a boy in front of him who would be in the worst hours of his life before morning, heard himself say: "All right."
+
+"All right?"
+
+"You're the one it happens to," he said. "It's your night. I'll leave it in the cup and it'll be here."
+
+---
+
+It was a very bad night, and he had known it would be, and he had said all right anyway, and he sat in it for four hours and did not once tell his brother that he had been wrong.
+
+The big one came at the usual hour and it came without anything in front of it. Tonk went rigid and then began to thrash the way he did when it got past what a small body could hold still through, and thrashing moved the leg, and moving the leg made it worse, and there was no bottom to that particular stair. Jab got him braced — one hand under the thigh to keep the leg out of it, his own knee behind Tonk's back, his forearm across for him to grip — and held him through it and talked the whole time, and in the middle of it his brother bit down on his sleeve hard enough to bruise the arm underneath.
+
+He did not offer the cup. He had said it was his night.
+
+At some point past the middle of it Tonk let go of the sleeve and said, in a small flattened voice with nothing in it: "I want it."
+
+"You're sure?"
+
+"*I want it.*"
+
+He had it ready. He had had it ready for three hours. He gave him the whole twist and not the half, and it took twenty minutes to do anything at all, and then his brother's breathing changed and his hand loosened on the cord and he went, at last, away.
+
+Jab sat with his wrist tied to a sleeping child and watched the fire.
+
+Five and a half twists. Two and three-quarter days at the true rate, which was the rate he was actually using and not the rate he had planned.
+
+And it had not been a mistake to let him refuse. He turned that over carefully, several times, looking for the place where it was self-justification, and did not find it. His brother had spent six weeks being carried, lifted, wrapped, dosed, turned, strapped and set down by somebody else's decision, at somebody else's hour. He had almost nothing left that was his. He had a wooden fish and a name for a rock and the word *no*.
+
+A person who took the last one off him to save a twist of bark would be saving the wrong thing.
+
+"Your night," Jab said quietly. "You get one."
+
+Then he put his hand flat on his brother's chest, the way he had done every night for six weeks, and let his mind go flat, and asked without caring.
+
+*Up*, it said. Not the crest and not the fall. Climbing, and still climbing, and higher at the bottom than it had been.
+
+He had got better at this. He had not got better at anything else.
+
+That was the part he could not put down, now, in the small hours, with the fire going and his wrist tied to a cord. Twelve days ago he had not known the thing existed. Now he could tell the direction of his brother's fever from three feet away with his eyes shut, four times out of five, and the difference between the pain that meant *the leg has been moved* and the pain that meant *something has turned in there*, and he had begun to know an hour before the bad hour that the bad hour was coming.
+
+All of it was knowing. None of it was doing.
+
+He had tried the pushing twice more since the fir stand — carefully, on himself first, the way he had sworn — and had got the same nothing for it, and had paid for it both times in an hour of gray-edged exhaustion he could not afford. Whatever was opening in him opened like an ear. It did not open like a hand.
+
+His father's aunt would have had something to say about that. She had said a version of it at every Kindling he had ever watched, standing on the gravel with her arms folded while some thirteen-year-old wept over the wrong shape: *It came out of you, so it's the shape you are. Go and be that shape at something.*
+
+"And what do I do," Jab said to the fire, "with a thing that only tells me what's happening."
+
+The fire had no opinion. The cord went slack and tight and slack on his wrist as his brother breathed.
+
+He got four hours, in pieces, and every piece of it was better than the night before, because for the first time in eleven days he did not have to keep half of himself awake listening. The cord did the listening. It pulled twice before dawn and he was up both times before he knew he was moving.
+
+---
+
+In the morning the sky had gone the color of a fish's belly and there was no wind at all, and he smelled it as soon as he came out from under the hide.
+
+He had grown up in a valley where knowing the difference between a snow that came in on wind and a snow that came down out of a still sky was a thing you learned before you learned to read water. The first kind went sideways and stopped by noon. The second kind sat down on the country and did not get up.
+
+He stood there in the fir stand with his breath going straight up in front of his face and did the arithmetic one final time.
+
+Two and a half days of bark. Four days of food if he ate. Three days of road, at his pace, on ground he had been promised was easier — the Elder's stick on the table: *after the last ridge it falls away and the road is a road, and you'll make double what you made in the hills.*
+
+And a sky like that.
+
+He went and knelt by his brother and shook him gently awake, and got the half dose into him early, which made five, and lifted him into the frame before the boy was properly conscious, which was the only mercy available.
+
+"It's still dark," Tonk complained.
+
+"It's not. Look at the sky."
+
+Tonk looked at the sky, which had begun, very lightly, almost politely, to let fall the first of it.
+
+"Snow," he said, and put his hand out flat, and a flake came down into it and lay there without melting, which told Jab everything he needed to know about how cold his brother's hands had got in the night.
+
+"Snow," Jab agreed, and closed his own hand round the little one, and started up the last of the ridge.

@@ -1,0 +1,287 @@
+# Chapter 25 — Jab
+
+The snow came down out of the still sky all day and did not stop, and by dark there was six inches of it on the road and no road.
+
+They got over the ridge in the morning while it was still thin enough to see the ground, and after that the country did what he had been promised it would do: it fell away to the south in long shoulders of open hill, and the old road came out of the hills onto those shoulders and ran straight, and it was a road — a real one, a made one, with a raised bed and a ditch either side and, under the snow, a hard surface that had not been laid by anybody's grandfather.
+
+He could feel it through his boots and it did something to him that he was not expecting. Twelve days of picking his way over root and rock and slump, and now there was a flat firm thing under him going where he was going. He made better miles in the afternoon than he had made in any two days in the hills, and he made them with the snow filling in his own tracks behind him.
+
+It also took the last of everything he had.
+
+Snow was not the same as cold. Cold you could dress against. Snow got into the frame and melted on Tonk and refroze; snow made every rest into a job of clearing a place to put him down; snow turned six inches of level ground into a guess. Jab stopped twice an hour to get his hands inside his coat, and then three times, and then he stopped counting because the counting was costing him too.
+
+Tonk went quiet in the afternoon in a way that frightened him.
+
+"Talk to me."
+
+"I'm cold."
+
+"I know you are. Talk anyway. Tell me about the squirrel."
+
+"I told you about the squirrel."
+
+"Tell me the end again."
+
+"He was *furious*," Tonk said, and then said nothing else for a long time.
+
+Jab made camp early. He made it while there was still light enough to do it properly, which was a decision that cost him two miles and was the best one he made all day.
+
+He found a place where the road cut into a bank and the bank had a lip of fir along the top, and he dug down through the snow to the frozen ground with his hands and the flat of the blade and threw the snow up into a wall on the windward side. Then he cut fir and laid a bed of it a foot and a half deep, because six inches of fir under a body was worth more than any blanket ever made, and pitched the shortened hide over a low ridge pole set against the bank at an angle that would shed a night's fall.
+
+Then fire, and fire took him three-quarters of an hour and most of the light, because there was nothing dry in the world any more. He got it in the end out of the underside of a leaning dead fir, splitting in toward the heart with the blade dark and shaving the pale inside wood into curls with the edge lit, and he built it on a platform of green split rounds so that it did not simply melt its way down into the snow and drown.
+
+He got his brother dry and got him fed and got warm water into him. He got his own boots off and his socks changed, which was the discipline that had kept his feet on him for fourteen days, and looked at his hands in the firelight for the first time in a week. The blisters at the base of the fingers had gone through the stage of being blisters some days ago. The hip was the hip.
+
+Seven fish, four and a half twists of bark, three days of hare left, and a sky that had not finished.
+
+"Two days," he told Tonk. "Maybe three with this on the ground. And then there's a doctor, and a room with a stove in it, and a bed with a proper mattress, and I'm going to sleep for one whole day and you're not allowed to wake me."
+
+"I'm allowed."
+
+"You're allowed," Jab agreed. He held up his left wrist with the cord on it. "You're always allowed."
+
+Tonk thought about it. He was very far away today, and it took him a while to come back for things.
+
+"Will they mend my leg?"
+
+That was the first time he had ever asked it.
+
+"Yes," said Jab.
+
+"Will it hurt?"
+
+"Yes."
+
+"A lot?"
+
+"For a while. Not forever."
+
+"Will you be there?"
+
+"I'll be there," Jab said. "That one's easy. They'd have to carry me out."
+
+---
+
+The fever came up at the usual hour and went higher than it had been, and then, at the bottom of the night, it let go.
+
+It let go all at once. Jab had his hand on his brother's chest when it happened and he felt the heat go out of the skin under his palm like a stone taken off a fire, and Tonk's hair went wet through in a matter of minutes and his shirt with it, and the shaking started — the big shaking, the whole-body kind, hard enough to knock his heels on the fir.
+
+For about four heartbeats Jab let himself think it had broken.
+
+Then he remembered the Elder's kitchen, and her hands counting twists of bark onto the table between them, forty of them in eight rows of five, and her voice going on in exactly the same tone she used for everything else.
+
+*Two a day. Morning and dark. Not more, unless it's a bad turn, and you'll know a bad turn, and don't lie to yourself about it to save one.*
+
+And then, without any change of tone at all, the thing he had made her say twice:
+
+*Now the other one. There'll come a night when the fever goes out of him fast and he stops being hot and he goes quiet and easy on you. You'll want that to be him mending. It isn't. When the heat leaves a sick child quick like that, it's leaving because the fight's going out of him, and a child that's gone quiet and easy in the cold is a child two hours from the end of it. You keep him warm. You get him warm from the outside, you get warm into his middle, and you do not stop and you do not sleep and you do not tell yourself he's resting.*
+
+He had asked her, at the table, what happened if he did all that and it did not work.
+
+She had put the last twist down on the last row and said: *Then you'll have done it. Now say the whole of it back to me.*
+
+Jab had his hands moving before the memory finished.
+
+He got Tonk's wet shirt off him and threw it into the snow and got the dry one on — the spare, the last dry cloth in his possession. He got the hide off the shelter roof and brought it inside and wrapped it round the both of them, and then he opened his own coat and his own shirt and put his brother against his bare chest, skin to skin, and pulled everything closed over him. He built the fire up until it was too big, and then bigger. He put four stones in the edge of it, and when they were hot he wrapped them in the fir boughs he had cut for bedding and packed them round his brother's back and under his good side and at the soles of his feet. He kept the water hot and got it into him a mouthful at a time, warm, sweetened with the last of the spruce seed mashed in it, because warm into the middle was worth three blankets.
+
+He did it all correctly. He did it in the right order and he did not stop.
+
+The shaking went on for half an hour and then it began to go, and that was the wrong thing for it to do.
+
+It did not go the way shaking goes when a body has got what it needed. It went the way a sound goes when a person loses interest in making it. It got smaller, and then it came in little separate bursts with long flat gaps between them, and then the gaps got longer than the bursts, and Tonk's head went back against Jab's forearm and his hands, which had been fists, came open.
+
+"Tonk."
+
+His brother's eyes were open. Half open. Looking at nothing much, in a peaceful sort of way.
+
+"Tonk. Look at me."
+
+"'M all right," Tonk said, and smiled a little, and that was the worst thing that had happened in fourteen days.
+
+Jab went on doing everything. He did all of it again, from the top, in the right order. He got another stone in. He rubbed his brother's hands between his own and his brother's hands stayed cool and limp and did not grip. He talked to him. He asked him about the jay and the squirrel and the Sitting Man and the four verses, and his brother answered two of the questions from somewhere a long way under, and then stopped answering, and his breathing went shallow and lost its rhythm — three quick, a pause, two slow, a pause that went on too long.
+
+Jab held his brother against his chest in the snow and the firelight and understood that he was doing everything and that everything was not going to be enough.
+
+So he stopped.
+
+Not the stones and not the fire. He stopped *pushing*. He had spent eleven days pushing at a door — leaning on it, hauling at it, dragging at the small warmth under his breastbone and trying to force it down his arm and out through his palm like a man trying to make a river run up a hill — and it had never once given him anything except an emptied-out body and an hour he could not get back.
+
+He had learned one thing in eleven days and he had learned it in the fir stand with the fire going down: *don't ask it when you want an answer.*
+
+He was not going to get to not want this. But he could do the other half. He could stop asking.
+
+Jab shut his eyes and let his arms go slack around his brother and let his chest go soft, and stopped trying to send anything anywhere, and simply opened — the way you open when you are listening for a sound out in the dark that you are not sure was a sound.
+
+The small low warmth sat where it always sat, under the breastbone, a finger's width behind.
+
+And it leaned.
+
+It had been leaning for twelve days. It had leaned every single time his hand had been on his brother at the bottom of a bad night, and every time he had noticed it he had grabbed at it, and grabbing had put it out the way a hand grabbing at a candle puts it out. He did not grab. He sat in the snow with his eyes shut and his brother's cold face against his collarbone and let the thing in his chest lean the way it wanted to lean, and did not do anything about it at all.
+
+It went.
+
+He felt it go the way he had felt the metal go on a gravel bar when he was thirteen — the same movement, out of the same place, with the same total absence of permission. Except the metal had gone down his arm and out to his fist, and this went forward, out of his chest into the chest that was against it, and it was not a blade and it was not a shape and it had no edge at all.
+
+It was warmth. That was all it was. It was the plainest thing in the world.
+
+The effect, when it came, was small.
+
+Tonk shuddered. Then he shuddered again, harder, and then the big shaking came back all at once and ran through him from his shoulders to his heels, and his hands closed, and he made a cross, complaining noise into Jab's chest.
+
+*Shaking is the body fighting*, the Elder had said, in the kitchen. *Be glad when it shakes.*
+
+"Good," Jab said. His voice came out strange. "That's it. Be cross. Be as cross as you like."
+
+It lasted about the length of four verses.
+
+He knew that because he sang them, quietly, over and over, into his brother's hair, with his eyes shut and his chest open and that warmth going out of him in a slow unstoppable pour, and somewhere in the third time through he began to understand what it was costing.
+
+It was not like holding the blade. Holding the blade for an afternoon left him hollow behind the eyes and hungry and stupid. This was the same coin spent faster. The cold came in through his hands and feet first, and then his arms stopped being arms, and then the thing that had been leaning stopped leaning and there was nothing there at all — and his brother's breathing, which had come up deep and regular and beautiful, began to flatten out again.
+
+He had to find it a second time.
+
+That was harder, because now he wanted it, and wanting it was the exact thing that closed it. He sat with his brother going quiet against him and made himself let go of the wanting — which was not a thing a person could do, and he did it anyway, badly, in pieces, by going through the four verses again and putting his whole attention on the words.
+
+It came. It went out of him. The shaking came back.
+
+The third time he could not find it at all, and by then his brother was shaking on his own, and the stones were warm at his back, and the breathing had a rhythm in it a person could set a step to.
+
+Jab tried to put another piece of wood on the fire and found that his hand would not close.
+
+He looked at his hand with some interest. Then the fire went a long way off and came back, and he understood that he had to lie down before he fell down, and that falling down with his brother strapped against his chest was not permitted.
+
+He got them both over sideways onto the fir bed, slowly, in about four separate decisions, and got the hide back over them with the heel of his hand because the fingers had stopped taking instruction. He lay on his side in the snow shelter with his brother shaking against his chest and the four warm stones at his back and the fire eight feet away with two hours of wood on it, and he was colder than he had ever been in his life, and he could not move, and he was not frightened at all — which was, he thought distantly, probably the thing to be frightened about.
+
+Tonk pulled the cord.
+
+Jab's arm jumped. It jumped without asking him, the way it had every time for two nights, and the jerk of it brought him back up through something he had been on his way down into.
+
+"Awake," he said. "I'm awake."
+
+"You're *cold*," Tonk said, accusingly, into his chest.
+
+"I know."
+
+"You're colder than *me.*"
+
+"I know. Go to sleep."
+
+"You go to sleep."
+
+"I will," Jab said. "In a minute. Pull it again if I don't answer."
+
+His brother pulled it twice more before morning. Both times, his arm came up.
+
+---
+
+The leg was exactly the same.
+
+He made himself look at it in the grey first light, before anything else, before the fire and the water and the count — because he had lain awake in the last hour of the night with one thought going round and round in the emptied-out space where the rest of him usually was, and the thought had been *what if.*
+
+He unwrapped it and looked at it in the snow-light with his hands shaking, and it was the same. The shape was the same wrong shape. The swelling was as hard and hot as it had been, and the place low on the outside where the skin had opened over the bone was, if anything, worse than yesterday, and the smell of it had not changed. Whatever he had poured into his brother in the night had gone into the cold and the shaking and the breathing and had not gone within a hand's breadth of the bone.
+
+He sat back on his heels in the snow and found that he was almost glad, in a bleak way, because at least he now knew the size of what he had.
+
+Then he tried to do it again.
+
+He did it deliberately, in daylight, with his brother asleep and warm and no crisis anywhere. He put his hand flat on Tonk's chest and made himself go loose and opened up the way he had opened in the night and waited for the small warmth to lean.
+
+Nothing happened.
+
+He tried for a quarter of an hour. He tried not wanting it, which was easier now, and he tried the four verses, and he tried the thing his father's aunt had taught him about breathing all the way out and then not.
+
+Nothing happened at all, and at the end of the quarter of an hour he was tireder than when he had started and no further forward than he had been on the first night in the fir stand.
+
+"So it isn't mine," he said.
+
+He turned it over while he built the fire back up one-handed, since the fingers of the right hand had come back and the left were still slow. Not a tool. Not a thing he owned and could pick up. Four years he had spent knowing exactly what he could do — reach, open, blade, light, cut, and never once a surprise — and now there was a second thing in him that came when it was not asked and would not come when it was, and had spent him down to the boards in a quarter of an hour, and had not touched the injury it had been summoned for.
+
+It had kept his brother in the world for one night.
+
+He sat in the snow with that for a moment, with his hands out to the flames, and decided that he was not going to make the mistake of calling it small.
+
+He gave the morning half dose, which made four twists left. He melted snow and made the hare and the last two mushrooms into something hot, and ate his own share, all of it, which he had not done in five days, because a man who was about to carry a child fifteen miles through snow on an empty body was not being noble, he was being stupid.
+
+Then he loaded his brother into the frame, and checked every strap from the bottom, and stood up out of his knees into the weight.
+
+His legs took it. He stood there for a second, mildly astonished by them.
+
+"Ready?" he said.
+
+"Ready," said Tonk.
+
+---
+
+The snow stopped at the middle of the morning and the sky opened behind it, and two hours later the road came round the shoulder of the last hill and showed him the whole of the country at once.
+
+Jab stopped in the middle of the road.
+
+It fell away in front of him for five or six miles, down and down, out of the white hills into a broad flat valley the color of old iron, with a river coming into it from the east in long shining bends. The snow had not held down there. He could see bare brown fields and the black lines of hedges and, out along the river, the grid.
+
+It was a grid. That was the thing his eye could not get past. From up here it was a dark rectangle laid on the valley floor with lines ruled through it — long straight lines crossing other long straight lines at square corners, and along them, packed tight, more roofs than Jab had seen in his life put together. A low earth wall went round the whole of it with a ditch outside, and at the northwest corner of the wall there was a gap, and out of that gap the road came, and the road ran up the valley toward him.
+
+Smoke stood over it. Not one smoke and not two. Dozens of them, going up dead straight in the still air after the snow, so that the whole place seemed to be standing under a grey wood.
+
+And on the road, small as seeds, things were moving. Carts. A dark clot of them at the gate that could only be a line of people waiting.
+
+"Tonk."
+
+"Mm."
+
+"Wake up. Look."
+
+Tonk came up out of the heavy sleep the way he did, badly, in stages, and Jab turned so that his brother's face came round over his shoulder and pointed with his chin because his hands were full of frame.
+
+"That's it," he said. "That's Meridian."
+
+Tonk was quiet for a long moment.
+
+"It's *big*," he said.
+
+"It is."
+
+"How many people is that?"
+
+"I don't know. Thousands."
+
+"What's *thousands*?"
+
+"More than all the fish on the racks," Jab said, and his brother made a small awed sound behind his ear that was the best thing he had heard in fourteen days.
+
+He stood there a while longer than he needed to.
+
+Two days. It was two days at the pace he had, and one and a half if the road stayed clear, and a day and a bit if he did to himself on this road what he had done to himself on the ridge. Two days, four twists of bark, seven fish, a leg that had got worse in the night.
+
+And then the road would be over.
+
+That was the part he had not let himself think about since the crossing, and standing on the shoulder of the last hill with the whole valley laid out in front of him he could not keep it out any longer. For fourteen days the problem had been the road. Everything — the bark, the fish, the frame, the ford, the snow, the sleeping and the not sleeping — had been the road, and the road was a thing he knew how to do. He had been doing it. He was, he thought without any particular pride, quite good at it.
+
+In two days the road would stop, and the problem would still be there, and it would be a problem he had no skill in whatsoever.
+
+There would be a man at that gate whose job was to ask him what he had.
+
+And Jab had nothing. He had no fish, no hides, no cords, no standing, no household, no name anybody down there had ever heard, and nothing at all to put on a table in exchange for a stranger opening his brother's leg with a knife. He had four twists of somebody else's medicine and a frame he had built himself and a story about a bridge.
+
+He had a piece of river metal at his throat that came out as a blade.
+
+He had a thing under his breastbone that he could not summon, could not explain, and had no word for — and which had, one time, in the snow, at a price he had not finished paying, kept a child breathing.
+
+He looked down at the smoke standing over the grid and thought about what he was going to say at that gate, and how much of it he was going to say, and to whom.
+
+"Jab," said Tonk.
+
+"Mm."
+
+"Has it got a name?"
+
+"I told you. Meridian."
+
+"No." Tonk's hand came over his shoulder and pointed, vaguely, at the whole valley, the smoke, the wall, the thousands of roofs, the thing too big to have one name and therefore, in his brother's view of the world, unfinished. "*It.*"
+
+Jab looked at it for a second.
+
+"No," he said. "Not yet. You'll want to see it up close first. You can't name a thing from this far off."
+
+"All right," said Tonk. "Go faster, then."
+
+So he did.

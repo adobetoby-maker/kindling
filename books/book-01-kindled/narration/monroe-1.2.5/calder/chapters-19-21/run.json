@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "pipeline": "Monroe Book Narrator",
+  "pipelineVersion": "1.2.5",
+  "createdAt": "2026-09-23T16:45:10.200828+00:00",
+  "title": "Kindled",
+  "audience": "adult",
+  "bookRoot": "/Users/drive/git-backups/kindling/books/book-01-kindled",
+  "runRoot": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21",
+  "voiceKey": "calder",
+  "voice": {
+    "displayName": "Calder",
+    "aliases": [
+      "calder-original",
+      "calder-hq-original"
+    ],
+    "provider": "Local Qwen",
+    "voiceId": "calder-original-fifteen-anchor-v1",
+    "localNarration": {
+      "entrypoint": "/Users/drive/kindling-narrator-stage/scripts/render-calder-narrator.sh",
+      "profile": "/Users/drive/git-backups/boundary-universe-cc/scripts/calder-narrator.profile.json",
+      "defaultEngine": "fish-s2",
+      "identity": "original-calder-source",
+      "acceptedWordsPerMinute": {
+        "minimum": 120,
+        "maximum": 150
+      },
+      "paceAuthority": "Owner preference, 2026-09-15: let it land; 120–150 WPM is fine.",
+      "publicationStatus": "human-listening-required",
+      "note": "This local profile supersedes the legacy coach pace for this lane; existing approved masters are retained. Fish commercial distribution requires appropriate license terms."
+    },
+    "anchorProvider": "ElevenLabs",
+    "anchorVoiceId": "RlfxsxhjN7XADVcW1TiO",
+    "anchorModel": "eleven_v3",
+    "nativeSpeed": 1.0,
+    "coach": "/Users/drive/kindling-narrator-stage/docs/audio-coaching/calder-delivery-coach.v1.json",
+    "palette": "/Users/drive/.local/share/monroe-tts/anchor-builds/calder-eleven-original-v1/calder-eleven-15.candidate-palette.json",
+    "approvedMaster": "/Users/drive/kindling-narrator-stage/public/audio/local/voices/monroe-australian-qwen.wav",
+    "use": "Original warm Australian-English Hobb's Wall narrator, anchored directly to the approved source recording so expressive changes do not replace his identity."
+  },
+  "workflow": "/Users/drive/penname/pennamecodexv3/workflows/book-narrator-1.2.5.md",
+  "claritySchema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+  "performanceDirectory": null,
+  "chapters": [
+    {
+      "number": 19,
+      "source": "/Users/drive/git-backups/kindling/books/book-01-kindled/revised/chapter-19.md",
+      "sourceSha256": "85f25a606c33011281a3461f1f839f928e5aa8dc798f2c21e4871763b4908bfb",
+      "prepared": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/chapter-19.narration.md",
+      "clarityReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/clarity-review.jsonl",
+      "performanceChoices": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/performance-choices.md",
+      "writingFeedback": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/writing-monroe-feedback.md",
+      "performanceTrack": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/chapter-19.performance.json",
+      "audio": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/chapter-19.calder.mp3",
+      "listeningReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-19/listening-review.md",
+      "bookContext": null
+    },
+    {
+      "number": 20,
+      "source": "/Users/drive/git-backups/kindling/books/book-01-kindled/revised/chapter-20.md",
+      "sourceSha256": "e5c0360bb81021cb2577e7f30b71524288a6c69f650972834047e423005b6d2e",
+      "prepared": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/chapter-20.narration.md",
+      "clarityReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/clarity-review.jsonl",
+      "performanceChoices": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/performance-choices.md",
+      "writingFeedback": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/writing-monroe-feedback.md",
+      "performanceTrack": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/chapter-20.performance.json",
+      "audio": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/chapter-20.calder.mp3",
+      "listeningReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-20/listening-review.md",
+      "bookContext": null
+    },
+    {
+      "number": 21,
+      "source": "/Users/drive/git-backups/kindling/books/book-01-kindled/revised/chapter-21.md",
+      "sourceSha256": "50ab44b9f0653b697324979abf8591603da53d3fb46c936c359ab22a5375cae4",
+      "prepared": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/chapter-21.narration.md",
+      "clarityReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/clarity-review.jsonl",
+      "performanceChoices": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/performance-choices.md",
+      "writingFeedback": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/writing-monroe-feedback.md",
+      "performanceTrack": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/chapter-21.performance.json",
+      "audio": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/chapter-21.calder.mp3",
+      "listeningReview": "/Users/drive/git-backups/kindling/books/book-01-kindled/narration/monroe-1.2.5/calder/chapters-19-21/chapter-21/listening-review.md",
+      "bookContext": null
+    }
+  ]
+}
