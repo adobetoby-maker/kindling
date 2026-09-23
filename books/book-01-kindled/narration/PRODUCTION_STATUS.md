@@ -26,6 +26,11 @@
   Monroe 1.3 prose edit is complete across all 26 retained Hobb's Wall chapters:
   474 words added, 519 removed or replaced, net -45. It is awaiting owner
   review before narration is frozen.
+- A targeted Monroe 1.3 expansion of Milo's death arc now supersedes the earlier
+  text in Chapters 44–48. It adds a net 2,226 words, including a plain spatial
+  map of the bridge and water channel, the full crossing and recovery, and the
+  practical aftermath. Those chapter hashes changed again and require owner
+  review before narration markup or rendering.
 - Full production audio is intentionally held until revised chapter hashes are
   frozen. This prevents spending hours rendering prose that is still changing.
 

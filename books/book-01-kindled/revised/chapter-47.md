@@ -10,6 +10,10 @@ There was rock. There was a great deal of it, and it was thirty feet away, and i
 
 They got it out of the channel a block at a time, standing in water to the thigh, passing it up hand to hand — Toren and Wyck in the channel; Dessa on the stone kerb where she could stand on the good leg and take the weight on her arms; Rook sitting on the bank with his back against the brick, because he could not lift anything and had been told so by all three of them at once.
 
+The first block nearly went back in. Wyck lifted before Toren had his hands under it, Dessa reached before Wyck had turned, and all three of them shouted a different useless word while the stone slid down their forearms and struck the kerb. Milo had always counted a lift. Toren had never noticed that he did it until there was a block between three people and no count.
+
+After that Toren counted. He was bad at it at first and too fast when the weight came onto him, and Wyck said, "Again," and they put the block back into the water and lifted it again on three.
+
 They built it up on the spur below the engine house, on the flat piece where the ground was dry, facing west over eleven miles of water.
 
 It took them most of the day. Nobody talked much. The reed fire had burned itself out along the south beds in the night and left a long black scar on the water that would be there for a year, and the smell of it was in everything, and twice Toren caught himself looking round for Milo to say something about the smell, because Milo would have said something about the smell, and that was the shape the whole day had: a series of small ordinary moments arriving one after another with nobody in them.
@@ -55,6 +59,8 @@ He did not say anything about it and nobody asked him to, and it stayed in that 
 They did the bread at the halt, because the day had to have a halt in it.
 
 Dessa cut it. She did it poorly, in slabs, on the tailgate, with a lot of concentration, and then she stood there with the knife in her hand and the cloth in front of her and did not move for a while.
+
+She had cut the sixth slab before she remembered. Then she counted them with the point of the knife. Six slabs in front of five people. The end crust was where Milo always put it, nearest Senna.
 
 "Go on," said Senna.
 
@@ -253,6 +259,8 @@ Rook stood very still.
 They went north at about the third hour.
 
 Dessa had the mule's head. Wyck walked at the off-side wheel with the bar hooked through his belt because he could not carry it in his hand any more. Rook was in the cart bed with Senna, on his good side, because he could not walk two miles and had said so out loud without being asked, which was new. Toren walked at the near-side wheel with the spike cold in his coat pocket and the disk cold against his breastbone, and there was nobody behind the cart, and there was nobody ahead of it, and for the first mile he kept turning round.
+
+The cup had been tied to the front rail where anyone could find it. The bread knife was in Dessa's coat. Toren had the mule brush through his belt and did not know how it had become his. Those were three of Milo's jobs, apparently. There would be more of them. The road would tell them one at a time.
 
 At the top of the rise where the embankment began to come down into the grazing again, the road bent, and the engine house went behind a stand of willow, and the stones on the spur went out of sight.
 

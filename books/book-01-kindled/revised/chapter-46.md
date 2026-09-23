@@ -210,6 +210,10 @@ There was a silence.
 
 "I should think so," said Senna Voss from the cart, in a voice like a dry stick breaking. "I'd have been very annoyed to be carried over an arch by a lot of children and then wasted."
 
+"Water," she said after a moment.
+
+All four of them moved. Dessa went to the front bag, Wyck reached under the rail, Toren turned toward the tailgate, and Rook tried to get one knee under himself before his body reminded him what had happened to it. The cup was under the folded blanket where Milo had put it after the last halt. Dessa found it. Toren held it while Senna drank. Nobody said that this had been Milo's job, because until there was nobody to do it, none of them had known it was a job.
+
 ---
 
 Toren said, "Why?"

@@ -148,6 +148,32 @@ The first one went past the light and into the road bed and stood up out of the 
 
 "Yes," said Rook, going past him. "Pick it up and put it out. It's daylight and you've spent it."
 
+Milo got two steps and stopped.
+
+"They didn't shoot at me."
+
+"No."
+
+"The first one shot where a person would have had to stand to hold it. The second one saw there wasn't a person and shot at the light anyway."
+
+Rook came back one pace.
+
+"Yes."
+
+"So he knew it wasn't in anybody's hand."
+
+"By the second shot."
+
+"And he still put a bolt through it."
+
+"Yes."
+
+Milo looked at the green thing sitting by itself in the ruts, and then past it to the reeds where the two bolts had come from. He had stopped grinning. "Because he'd already chosen what he was shooting at."
+
+"Because men shoot at what they can see," said Rook. "Once six men turn their heads, the seventh turns before he knows why. Useful isn't safe. Confuse the two and I'll explain it while we're both dead. Pick it up."
+
+Milo picked it up. The light folded between his hands and was gone, and he went straight to the cart instead of looking to see whether anybody had noticed him do it.
+
 ---
 
 What followed was an hour and it was not like anything.
@@ -175,6 +201,14 @@ Rook went down the inside of the bank and met the first man at the sluice head b
 The third time they did not come at all. They came halfway and made a great deal of noise and went back, and while everybody's eyes were south a man got up the north slope on his own with a hooked pole and cut the mule's hobble and tried to drive Pitch off the bank.
 
 Pitch, who had been through a road cut and a bridge in fog and an orchard in the dark, and who had a low and entirely accurate opinion of people, put his head down and hit the man with his shoulder and stood on his foot, and the man went off the bank backward, and Milo laughed with his whole body for about four seconds and then stopped and sat down on the road and put his hands over his face.
+
+When he got up again, he pulled both bolts out of the road and laid them beside the wheel. "The first two came close together. After that, they shot five and then six."
+
+"You counted."
+
+"There wasn't anything else I could do."
+
+"Counting was the right thing."
 
 The fourth time they got Rook.
 

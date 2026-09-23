@@ -16,7 +16,7 @@ Rook was sitting on the ground with his back against the wheel hub and his left 
 
 "The brothers thing." Milo had his knees up. "You said a month. It's eight days. I've counted them, I've counted them a lot, and I know it's eight, and I'm asking now, and if you say no I'll say all right and I won't do a face."
 
-There was a long pause with the sluice in it.
+There was a long pause with the water running through the channel in it.
 
 "Two," said Rook. "Arn was four years older than me and he was the best hedger in that valley and he knew it, and he was the sort of man who'd take an hour to lay eight feet of hedge and then stand and look at it for ten minutes with his hands on his hips. He was dull. I want to be honest about him, because everybody gets made clever afterward and he wasn't clever, he was dull and kind and enormous and he could carry a sheep under each arm.
 
@@ -40,7 +40,7 @@ Milo said, "Thank you."
 
 They fired the reeds at about the sixth hour.
 
-It came up on the water side, south of the sluice, in a long bank of dry standing reed two hundred yards off — a small yellow crawl at the bottom of it first, and then a run of light going sideways along the edge faster than a man walks, and then the whole bed went up with a noise like cloth tearing, and the heat came across the water and hit Toren in the face from two hundred yards.
+It came up on the water side, south of the channel, in a long bank of dry standing reed two hundred yards off — a small yellow crawl at the bottom of it first, and then a run of light going sideways along the edge faster than a man walks, and then the whole bed went up with a noise like cloth tearing, and the heat came across the water and hit Toren in the face from two hundred yards.
 
 "Ah," said Rook, getting up. "Yes. That's good."
 
@@ -100,7 +100,9 @@ Rook came round the wheel with his hand pressed under his ribs.
 
 "They've stopped trying to get onto this spur. They've worked out they don't need to. They've got a lit bank and eleven crossbows and the whole night, and they will stand out there in the dark and put bolts into thirty feet of ground until there's nothing left on it that's standing up, and it will cost them nothing at all.
 
-"So we can't stay. We have to go north over the arch, tonight, with the cart, and the arch is twelve feet wide with no parapet and it is the brightest piece of ground on this bank."
+"So we can't stay. We have to go north over the brick bridge, tonight, with the cart, and it is twelve feet wide with no parapet and it is the brightest piece of ground on this bank."
+
+The shape of it was simple when Toren made himself look. The cart was on the south side of the water channel, boxed onto the engine-house spur, with the company farther south beyond the narrow neck. The road escaped straight north across the bridge. At the bridge's south end, a low stone wall ran sideways from the road along one edge of the channel: forty feet of narrow stone going out over black water, away from both the cart and the road. The cart had to go north. A person on that wall would be moving sideways, alone, into the open.
 
 "How long?" said Wyck.
 
@@ -118,6 +120,26 @@ Toren said, "We need them looking at something else."
 
 "Yes," said Rook. "And there's nothing on this bank to give them."
 
+"Turn the cart sideways," said Dessa. "Boards toward them. We walk it over behind the bed."
+
+"A bolt came through both boards and stopped where Toren's back had been," said Rook. "And sideways it takes the whole bridge. One wheel slips and we don't have a cart or a road."
+
+Wyck said, "We go at them. Eleven bows don't help at arm's length."
+
+"Forty yards of open ground helps them a great deal before arm's length, and you'd have to cross it with one good arm."
+
+"The water," said Toren. "Under the bridge."
+
+Rook looked at him. "With her?"
+
+Toren looked at Senna on the ground behind the wheel and said nothing.
+
+"We could wait for the reeds to go down," said Dessa.
+
+"They've got dry reed for a mile and daylight in four hours."
+
+Nobody said anything for three or four seconds. Rook looked from the bridge to the wall of flame and then along the low stone wall beside the water channel, and Toren watched him do the sum again, slower, as though a different speed might produce a different answer.
+
 ---
 
 Milo said, "There's me."
@@ -126,7 +148,7 @@ He said it from about four feet away, in a perfectly ordinary voice, the way he 
 
 "Don't," said Dessa.
 
-"The sluice wall goes out forty feet from the far side of the arch," said Milo. "I've been looking at it since the afternoon. It's stone the whole way and it's wide enough to walk on and it comes off the bank on the *south* side, which is the way they're all facing, and if somebody goes out along it with a light over his head he'll be the only thing they can see and he will be forty feet further away from the arch every step he takes."
+"That low wall starts beside the south end of the bridge and goes forty feet out along the water channel," said Milo. "I've been looking at it since the afternoon. It's stone the whole way and it's wide enough to walk on, and the south end is the way they're all facing, and if somebody goes out along it with a light over his head he'll be the only thing they can see and he'll be farther away from the bridge every step he takes."
 
 "Milo—"
 
@@ -140,19 +162,47 @@ He said it from about four feet away, in a perfectly ordinary voice, the way he 
 
 "No," Milo agreed. "It isn't."
 
+"How many shoot together?" said Rook.
+
+"Five and six. Not eleven. Five, then six while the first five wind."
+
+"How long between?"
+
+"Long enough to take four steps if I don't hurry. Three if I do, because I put my feet wrong when I hurry."
+
+Rook looked at him for a long moment. "And when the cart is across?"
+
+"Put the light down. Come back dark."
+
+"Which side of the wall?"
+
+"The upstream edge. The other one's broken about twenty feet out."
+
+He had been looking at it since the afternoon as a piece of ground: where it started, where it broke, which edge would take a foot, how a man with a crossbow south of the bridge would see it against fire. Toren knew that because it was exactly how Rook made all of them look at ground, and because Milo was frightened enough that the words came out clipped and correct and without one extra thing in them.
+
 Toren discovered that he had got hold of Milo's sleeve. He did not remember doing it. Milo looked down at his hand and then up at him with the most patient face Toren had ever seen on him.
 
 "Tor," he said. "There's your gran on the ground behind a wheel."
 
 "I'll go."
 
-"You can't. You're the only one who can kill anything and they're going to be on the arch behind us." He said it without any drama at all, as a piece of ordinary arithmetic that he had done some time ago and had been carrying around. "And Dessa can't run, and Wyck has to hold the neck, and he's got a hole in him and he can't do the fast thing and everybody's known it for four days.
+"You can't. You're the only one who can kill anything and they're going to be on the bridge behind us." He said it without any drama at all, as a piece of ordinary arithmetic that he had done some time ago and had been carrying around. "And Dessa can't run, and Wyck has to hold the neck, and Rook's got a hole in him and he can't do the fast thing and everybody's known it for four days.
 
 "It's me. It's been me since about the sixth hour. I've been sitting there working out how to say it so nobody'd argue, and I couldn't think of a way. So I'm just going to go, because if we do this for two more minutes, somebody's going to say something kind and I'll stop being able to."
 
 Rook said, "Milo."
 
 "You said it this afternoon. You said the boy with the light is the most important person on this bank, and everybody's going to have to live with it, including him." Milo's chin had gone, but his voice held. "Well. I've lived with it for about six hours. That's what it turned out to be."
+
+Rook looked at Wyck. "Can you get the bad wheel over if it catches?"
+
+"Once."
+
+"Dessa, good side. Keep the bed off the missing parapet and call the wheel, not the men. Toren has Pitch. I take the tail. We put Senna in before the light comes up, and nobody starts because they're frightened and nobody stops for anything they hear behind them. Milo, you don't wait for us to tell you the cart is over. You'll hear the back tyre come off brick. That's your mark."
+
+"I know the tyre."
+
+"I know you do."
 
 "Come back along the wall the moment the cart's across," said Rook. "The moment. Not one second after. Put the light down on the stone and come back in the dark and I will be at the end of that wall with my hand out."
 
@@ -162,25 +212,41 @@ Rook said, "Milo."
 
 "Put it down and come back in the dark," said Milo, "and you'll be at the end of the wall."
 
-He turned round and hugged Toren — hard, with both arms, the way he had at Hobb's Wall when they had decided not to be split up — and said something into his shoulder that Toren did not catch, and did not ask him to repeat, and would have given anything afterward to have heard.
+They got Senna back into the bed behind the wheel. It took all four of them and she bit down on the blanket and made no sound at all. Wyck put his shoulder under the bad side of the axle once to learn where it took him. Dessa walked the near edge of the bridge in the dark and came back to say the fourth pace was loose underfoot. Toren took Pitch's head and turned him toward the brick.
 
-Then he went across the arch in the dark, on his own, with his hands empty and shut.
+Only then did Milo turn round and hug Toren — hard, with both arms, the way he had at Hobb's Wall when they had decided not to be split up — and say something into his shoulder that Toren did not catch, and did not ask him to repeat, and would have given anything afterward to have heard.
+
+Then he went past the cart to the south end of the bridge, on his own, with his hands empty and shut. He stepped sideways off the road there onto the narrow stone wall beside the water channel, and waited in the dark for Rook to say his name.
 
 ---
 
 The rest of it took a minute and a half.
 
-Toren had the mule's head. That was his job and he did it and he has never been able to remember one single detail of the cart going over that arch, not the sound of the wheel on the brick, not where his hands were.
+Toren had the mule's head. Dessa had the cart's near side, the side away from the missing parapet. Wyck was at the bad wheel, Rook at the tail, and Senna was flat in the bed with one hand through the rail. Those were the jobs. Rook said, "Milo," and every one of them did his.
 
-What he remembers is the light coming up out on the water on his left.
+The light came up out on the water on Toren's left.
 
-It came up small and green at the top of the sluice wall forty feet out from the bank, and it lifted, and went on lifting, until it was over the head of a boy walking out along a stone wall in the middle of a sheet of burning water with his arms straight up, and it was the least bright thing on that whole flat, and every man on that bank looked at it.
+It came up small and green fifteen feet out along the channel wall, off to the left of the bridge, and it lifted, and went on lifting, until it was over the head of a boy walking sideways away from the road on a strip of stone in the middle of a sheet of burning water with his arms straight up. It was the least bright thing on that whole flat, and every man in the company line south of the bridge looked at it.
 
-He heard the first bolt go. It went somewhere into the channel.
+The shouting changed first — the pitch of it, right along the bank, the note men's voices make when they all turn at once — and somebody a long way off bellowed, "*Left, on the wall, on the wall—*" and somebody else shouted a range.
 
-He heard the shouting change — the pitch of it, right along the south bank, the note men's voices make when they all turn at once — and somebody a long way off bellowing "*Left, on the wall, on the wall—*" and somebody else shouting a range.
+"Walk," said Rook.
 
-And Milo Faust walked out along the sluice wall in the dark with a light over his head, at a steady pace, not hurrying, the way he had held it up over a wall in an orchard for eleven minutes with his arms shaking, and he got twenty feet, and thirty, and then he went down on the stone.
+Pitch put his first forefoot onto the bridge and stopped. The water channel was loud under him, fire moved on the water to either side, and there was no wall between his left shoulder and the drop. Toren got both hands close under the cheek strap and said, "Come on," once, because there was no time to plead with a mule. Pitch came. The shafts struck the bed behind his flanks, the front wheels came up onto the brick, and the cart followed.
+
+The first bolt went somewhere into the channel. The second struck the stone wall behind Milo and broke. Milo did not hurry. He took the four steps he had said he could take and then four more, steady as a person crossing a room with a cup filled to the lip.
+
+"Twenty," said Rook behind the cart. He had been counting under his breath since the light came up, putting the number underneath every other order. The mule was at the crown. The front axle was over. Dessa had one hand on the rail and one out toward the dark drop and was saying, "Near wheel good. Near wheel good. Wyck, yours is coming to the join."
+
+The bad wheel hit the join and stopped.
+
+The whole cart checked hard enough to throw Senna against the boards. Pitch leaned into the collar and his hind feet slipped on the brick. Wyck went down beside the axle with the bar across his thighs, got his good shoulder under the rail, and said, "Again."
+
+Out on the wall Milo had reached thirty feet. He heard the wheel stop; Toren knew he heard it because his head turned half an inch toward the road. He had been told to put the light down when the back tyre came off brick. The tyre had not come off. Milo turned his face toward the crossbows south of the bridge again, kept the light high, and took one more step away from them.
+
+The next five bolts came badly because five men had all been given the same small thing to shoot at. One went high. Two struck stone. One went through the light and did nothing to it. The fifth hit Milo under the left collarbone and turned him halfway round.
+
+He went down on the stone on one knee and then onto his side.
 
 The light did not go out.
 
@@ -188,11 +254,19 @@ The light did not go out.
 
 "*Keep going,*" Rook was shouting. "Keep the cart going. Get it off the brick. Get it *off*—"
 
-Wyck was already past them.
+Wyck heaved once. The bad wheel climbed the join, came down crooked, and rolled. Rook kept the tail from slewing. Dessa kept the good wheel inside the brick. Toren pulled Pitch the last six paces, and the front of the cart came off the north end onto the road bed.
 
-He went back across the arch the other way, into it, with the burning water on his right hand, and out along the sluice wall in the open with bolts going into the stone around him, and he did not run, because Wyck Tanner did not run, and he picked Milo up off the wall with both arms and the bad one held, and he turned round and came back.
+Rook's count reached fifty-three. Wyck was already past them.
 
-Somebody on the south bank was screaming at somebody else. Toren heard it over the water and over the reeds and over his own blood in his ears, a man's voice gone completely out of shape: "*He's a boy — he's a boy, you've shot a—*"
+He left the bad wheel while it was still on the bridge and went back the other way, with the burning water on his right hand and bolts going into the stone around him. He did not run, because Wyck Tanner did not run, but he covered the brick and the first length of wall with the bar gone from his hands and his body pitched forward as far as it would go without becoming a run.
+
+Rook and Dessa got the back wheel off the brick between them. The instant it dropped onto road, Rook let go and turned, but he had one hand pressed under his ribs and there was nowhere in his body left for speed.
+
+Wyck reached Milo at thirty feet. He put one knee on the wall, got his good arm under Milo's knees and the bad one across his back, and stood. The bad arm held. Toren watched it hold from the mule's head and understood that if it had not, Wyck would have picked him up some other way.
+
+He turned round and came back.
+
+Somebody in the company line south of the bridge was screaming at somebody else. Toren heard it over the water and over the reeds and over his own blood in his ears, a man's voice gone completely out of shape: "*He's a boy — he's a boy, you've shot a—*"
 
 "Reload."
 
@@ -200,17 +274,27 @@ Somebody on the south bank was screaming at somebody else. Toren heard it over t
 
 "*Reload.*"
 
+The light lay where Milo had fallen, still burning on the stone. Every new bolt went toward it and toward Wyck carrying him.
+
+Wyck carried Milo the thirty feet back along the narrow wall to the place where it joined the south end of the bridge. Rook had crossed the cleared brick to meet him there. He got his good fist into the back of Milo's coat and pulled Milo's shoulders inward while Wyck turned from the wall onto the bridge; without that pull, Milo's shoulders would have swung out over the water. Rook could not lift him. He stayed beside Wyck with the coat twisted around his fist, holding Milo against Wyck's chest while Wyck carried the weight north over the bridge.
+
+Toren left Pitch standing on the north road and met them at the last bricks. He got both arms under Milo's shoulders. Rook let go of the coat. Toren walked backward, Wyck came forward, and between them they carried Milo off the bridge and onto the road beside the cart.
+
+That was the minute and a half. At the end of it the cart was north of the water channel, the mule was north of it, all six of them were north of it, and the small green light was still thirty feet out on the wall behind them with nobody there to put it down.
+
 ---
 
-They put him in the cart bed on the north side of the arch. Senna, who had been on the ground behind a wheel four minutes before, got herself up into that bed on one arm with nobody helping her and nobody daring to stop her. She got Milo's head and shoulders into her lap.
+They put him in the cart bed on the north side of the bridge. Senna, who had been on the ground behind a wheel four minutes before and flat in that bed through the crossing, got herself upright on one arm with nobody helping her and nobody daring to stop her. She got Milo's head and shoulders into her lap.
 
-There was a bolt in him under the collarbone on the left side, with about four inches of it standing out. He was breathing wrong. Toren had never heard anybody breathe like that and did not need to be told what it meant. He understood in the first half second, the way you understand a step that is not there.
+There was a bolt in him under the collarbone on the left side, with about four inches of it standing out. Nobody touched it. He was breathing wrong — a small breath that stopped, and then a longer one his whole body had to find. Toren had never heard anybody breathe like that and did not need to be told what it meant. He understood in the first half second, the way you understand a step that is not there.
 
 Rook got up into the bed.
 
 He put his hand flat on Milo's chest and held it there, and shut his eyes, and Toren watched the man's whole face go still in the way it went still when he was doing the thing nobody could see.
 
 Then he took his hand away.
+
+Milo's shirt moved at the ribs and did not move again for long enough that Toren thought it had stopped, and then moved. His fingers were cold when Dessa found them. She rubbed them between both of hers until Senna told her, very quietly, not to make him spend breath telling her to stop.
 
 "Milo," he said.
 
@@ -246,15 +330,15 @@ Dessa made a sound and put both hands over her mouth.
 
 Rook had not moved. He was kneeling in the cart bed with his ruined side and his hands open on his knees.
 
-"Milo Faust," he said. "Listen to me, because I want to do this properly and I haven't got it in me to do it twice.
+"Milo Faust," he said. "Listen to me. I want to do this properly and I haven't got it in me to do it twice.
 
-"You went out on a stone wall in front of eleven crossbows with a light over your head, on your own judgment, having thought about it for six hours and told nobody, and you took every man on that bank off a cart with an old woman in it for as long as it took to get her across. I watched you do it. There were five of us on the wrong side of that arch and there are five of us on this side and it is because of you, and it is not going to sound better in a year—"
+"The bad wheel caught. You heard it and you stayed out there. You kept them off the cart until Wyck got the wheel over, and there were five of us on the wrong side of that bridge, and there are five of us on this side, and—"
 
 He stopped.
 
 Toren, on the tailgate, watched a man get to the end of a sentence he had said once before over a cairn in a road cut and find that it would not come out.
 
-"—it's not going to sound better in a year," Rook said. "I've said that to you before about somebody else and I was right and it was the only thing I had, and I have not got anything better tonight, and I'm sorry."
+"You made the choice," Rook said. "It was the right one. It's not going to sound better in a year. I've said that to you before about somebody else, and it was the only thing I had then, and I haven't got anything better tonight. I'm sorry. That's not proper. I know it isn't."
 
 "You did say it," Milo said. "At the stones. You said it like you were reading a weight off a scale." He was smiling, or his mouth was. "I've thought about that about four hundred times. It was the best thing anybody said to me the whole—"
 
@@ -270,7 +354,13 @@ Milo said, "Don't stop saying it."
 
 He did not finish it.
 
-He was there for a little while after that and not able to talk, and Senna held his head and talked to him steadily and quietly about nothing whatever — about a wedding in 2112, about a dog her mother had owned, about the price of salt — in a low, warm, entirely unhurried voice, until at some point in the middle of a sentence about salt she stopped, and put her hand over his eyes, and left it there.
+Senna said, "Marta Faust. Milo Faust."
+
+His fingers moved once inside Dessa's hands. It might have been for one name or both and nobody tried to decide.
+
+He was there for a little while after that and not able to talk, and Senna kept saying the names, and between them she talked to him steadily and quietly about nothing whatever — about a wedding in 2112, about a dog her mother had owned, about the price of salt — in a low, warm, entirely unhurried voice. His breaths got farther apart. At some point in the middle of a sentence about salt there was not another one, and Senna waited through the space where it ought to have been, and then put her hand over his eyes and left it there.
+
+By the time Toren looked back at the narrow wall beside the channel, the small green light was gone. He had not seen when it happened. There was only the reed fire.
 
 ---
 
@@ -282,11 +372,11 @@ He did it slowly, with his left hand under his ribs and his right on the rail. H
 
 Rook did not answer her.
 
-He walked back toward the arch, the way they had all just come, into the light of the burning reeds, and his shadow went out in front of him along the road bed forty feet long, and Wyck said "Rook," and he did not stop, and Dessa said "*Rook*," and he did not stop.
+He walked back toward the bridge, the way they had all just come, into the light of the burning reeds, and his shadow went out in front of him along the road bed forty feet long, and Wyck said "Rook," and he did not stop, and Dessa said "*Rook*," and he did not stop.
 
 Toren went after him.
 
-He did it without deciding to, and he had no weapon in his hand, and he was thirteen years old, and he crossed that arch at a run with his heart going and the heat of two hundred yards of burning reed coming up off the water into his face, and he came off the south end of it onto the spur where the neck was, where the five men had gone down an hour ago, and stopped.
+He did it without deciding to, and he had no weapon in his hand, and he was thirteen years old, and he crossed that bridge at a run with his heart going and the heat of two hundred yards of burning reed coming up off the water into his face, and he came off the south end of it onto the spur where the neck was, where the five men had gone down an hour ago, and stopped.
 
 There were men on the far side of the neck, back down the bank in the dark, thirty or forty of them, and not one of them was coming forward, because of what was happening in the open ground in front of them.
 

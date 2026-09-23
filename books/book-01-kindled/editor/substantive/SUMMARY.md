@@ -23,6 +23,21 @@ deliberately kept. The near-flat net count does not mean the pass was
 word-locked: 474 words were added and 519 were removed or replaced. The pass
 used bounded revision rather than expansion for its own sake.
 
+## Targeted Milo death-arc expansion
+
+A later owner-directed Monroe 1.3 `EXPAND/REPAIR` pass supersedes the first-pass
+handling of Chapters 44–48. It adds a net 2,226 words against commit `400cffb`,
+bringing those five chapters from 19,420 to 21,646 words and the 26-chapter
+Hobb's Wall section from 97,612 to 99,838 words.
+
+The new material earns Milo's decision through his earlier decoy test and his
+count of the crossbow cadence; tests the group's rejected alternatives; maps
+the cart, bridge, water channel, crossbow line, and narrow channel-side wall in
+plain language; renders the full ninety-second crossing; and shows exactly how
+Wyck, Rook, and Toren recover Milo. Chapters 46–48 then carry the absence through
+water, lifting counts, bread portions, watches, provisions, and overlooked road
+jobs. The full audit is in `milo-death-arc.revision-card.md`.
+
 ## What changed
 
 - Rebuilt sentences and paragraphs whose action, agency, chronology, or spatial
@@ -34,7 +49,9 @@ used bounded revision rather than expansion for its own sake.
 - Repaired the Homura explanation, Rook's demonstrated two-door status, and the
   distinction between a Breach creature and Barrel ash yield.
 - Preserved the road arithmetic, dry humor, long-breath cadence where it works,
-  Milo's sacrifice, grief aftermath, training plants/payoffs, and all outcomes.
+  Milo's choice and all of its outcomes, the grief aftermath, and the existing
+  training plants/payoffs. The later targeted pass expands this material
+  without changing canon.
 
 ## Still unresolved
 

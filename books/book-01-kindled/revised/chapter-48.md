@@ -16,6 +16,10 @@ It gave. Not like mud and not like rot. It went down about two inches under his 
 
 They took the grass. It cost them the rest of the morning, and the wheel did not like the camber, and Wyck walked at the high side of it with his good shoulder against the rail and his strapped wrist tucked in his coat, and by noon they had made perhaps a mile and a half and could still see the place where they had left the road.
 
+By then the jobs had settled, though none of them had settled where they had been. Dessa did the bread and sometimes still had to fold a sixth slab back into the cloth. Toren filled the cups, brushed Pitch, checked the tail rope, and forgot one of the three every morning. Wyck took the first watch and the third because the watch divided badly now and because no one could persuade him that sleep was work. Rook, flat in the bed, had taken to saying out loud whenever the road changed, even when what he had to say was only *I don't know*, because silence had become too easy and because the person who used to spend it for them was not there.
+
+The provisions lasted longer. That was the worst practical fact and therefore the one Toren noticed most often. A loaf went half a day farther. The water skin had to be filled less. There was room under the tailgate for the tool roll without anybody moving his feet. Rook put each fact into the road arithmetic. Toren hated him for about a second every time and then carried the answer.
+
 Rook had them halt on the shoulder and got himself up onto his elbow and looked back at it for a long time.
 
 "That's the Sag," he said.
