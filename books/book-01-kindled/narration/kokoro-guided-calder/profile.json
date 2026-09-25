@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "name": "Kokoro-Guided Original Calder",
+  "version": "2026-09-24.1",
+  "defaultEngine": "fish-s2",
+  "referenceAudio": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+  "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+  "paletteVoiceId": "RlfxsxhjN7XADVcW1TiO",
+  "referenceText": "The leak was just the announcement. The marriage was the problem. Dale set the wrench down and listened to the old house settle around him.",
+  "instruction": "Keep the exact original Calder speaker identity and Australian-English accent. Read as controlled, intelligent long-form audiobook narration. Prepare the complete thought before beginning it. Preserve tactical clarity, understated humor, and emotional restraint. Use the supplied performance anchors only as temporary colors, then return fully to Calder. Never rush, become theatrical, sing-song, childish, Americanized, or announcer-like.",
+  "pronunciationInstruction": "Pronounce Callie as CAL-ee, Katori as kuh-TOR-ee, Meridian as muh-RID-ee-un, and husk exactly as written.",
+  "targets": {
+    "overallWordsPerMinute": {
+      "minimum": 120,
+      "preferred": 140,
+      "maximum": 150
+    },
+    "minimumVoiceSimilarity": 0.84
+  },
+  "deliveryReference": {
+    "engine": "mlx-community/Kokoro-82M-bf16",
+    "voice": "bm_fable",
+    "sourceSha256": "fe3f8c1ef25d4a0bf2a87894db7f91a0ae8c285e9ff6be5adaf50f7d05420c09",
+    "overallWordsPerMinute": 222.7,
+    "pauseMedianMs": 530,
+    "pauseP75Ms": 670,
+    "pauseP90Ms": 900,
+    "policy": "Transfer thought separation and landing distribution, not Kokoro voice identity or its overly fast speech rate."
+  },
+  "pauseMs": 530,
+  "finalPauseMs": 900,
+  "postStretchRate": 1.0,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "engines": {
+    "fish-s2": {
+      "temperature": 0.58,
+      "maxChars": 700,
+      "maxAudioTokens": 2048,
+      "license": "Fish Audio Research License; commercial use requires separate terms"
+    },
+    "qwen-clone-hq": {
+      "temperature": 0.72,
+      "maxChars": 650,
+      "maxAudioTokens": 2048,
+      "license": "Apache-2.0"
+    },
+    "chatterbox-turbo": {
+      "temperature": 0.8,
+      "maxChars": 420,
+      "maxAudioTokens": 800,
+      "license": "MIT"
+    },
+    "moss-local": {
+      "temperature": 1.2,
+      "maxChars": 900,
+      "maxAudioTokens": 2048,
+      "targetWpm": 140,
+      "license": "Apache-2.0"
+    }
+  }
+}
+

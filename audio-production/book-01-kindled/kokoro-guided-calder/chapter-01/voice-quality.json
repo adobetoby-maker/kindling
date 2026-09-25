@@ -1,0 +1,386 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/auditions/kindled-book-one-kokoro-guided-calder/chapter-01.kokoro-guided-calder-fish.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 7,
+      "minimum": 0.9537,
+      "median": 0.9597,
+      "maximum": 0.9732,
+      "threshold": 0.46
+    },
+    "dry_humor": {
+      "segments": 2,
+      "minimum": 0.9492,
+      "median": 0.9495,
+      "maximum": 0.9498,
+      "threshold": 0.46
+    },
+    "reflective": {
+      "segments": 10,
+      "minimum": 0.9425,
+      "median": 0.9574,
+      "maximum": 0.9609,
+      "threshold": 0.46
+    },
+    "curiosity": {
+      "segments": 6,
+      "minimum": 0.9452,
+      "median": 0.9499,
+      "maximum": 0.9632,
+      "threshold": 0.46
+    },
+    "suspense": {
+      "segments": 8,
+      "minimum": 0.9415,
+      "median": 0.9512,
+      "maximum": 0.9596,
+      "threshold": 0.46
+    },
+    "urgent_action": {
+      "segments": 5,
+      "minimum": 0.9432,
+      "median": 0.9541,
+      "maximum": 0.9597,
+      "threshold": 0.46
+    },
+    "intimate_care": {
+      "segments": 2,
+      "minimum": 0.943,
+      "median": 0.9478,
+      "maximum": 0.9527,
+      "threshold": 0.46
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 34.18,
+      "similarity": 0.9631,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9551
+    },
+    {
+      "index": 2,
+      "role": "neutral",
+      "durationSec": 25.31,
+      "similarity": 0.9613,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.9547
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 12.492,
+      "similarity": 0.9576,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9526
+    },
+    {
+      "index": 4,
+      "role": "dry_humor",
+      "durationSec": 37.105,
+      "similarity": 0.9498,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9574
+    },
+    {
+      "index": 5,
+      "role": "dry_humor",
+      "durationSec": 31.161,
+      "similarity": 0.9492,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9441
+    },
+    {
+      "index": 6,
+      "role": "reflective",
+      "durationSec": 37.338,
+      "similarity": 0.9583,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.957
+    },
+    {
+      "index": 7,
+      "role": "reflective",
+      "durationSec": 18.53,
+      "similarity": 0.958,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.963
+    },
+    {
+      "index": 8,
+      "role": "reflective",
+      "durationSec": 20.944,
+      "similarity": 0.9425,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9524
+    },
+    {
+      "index": 9,
+      "role": "reflective",
+      "durationSec": 28.7,
+      "similarity": 0.9464,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9467
+    },
+    {
+      "index": 10,
+      "role": "reflective",
+      "durationSec": 21.084,
+      "similarity": 0.95,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.95
+    },
+    {
+      "index": 11,
+      "role": "curiosity",
+      "durationSec": 5.712,
+      "similarity": 0.9601,
+      "closestOtherRole": "fear",
+      "closestOtherSimilarity": 0.9424
+    },
+    {
+      "index": 12,
+      "role": "curiosity",
+      "durationSec": 34.969,
+      "similarity": 0.9452,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9238
+    },
+    {
+      "index": 13,
+      "role": "curiosity",
+      "durationSec": 34.366,
+      "similarity": 0.9485,
+      "closestOtherRole": "fear",
+      "closestOtherSimilarity": 0.9272
+    },
+    {
+      "index": 14,
+      "role": "curiosity",
+      "durationSec": 17.369,
+      "similarity": 0.9507,
+      "closestOtherRole": "fear",
+      "closestOtherSimilarity": 0.9312
+    },
+    {
+      "index": 15,
+      "role": "curiosity",
+      "durationSec": 30.743,
+      "similarity": 0.9491,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9285
+    },
+    {
+      "index": 16,
+      "role": "curiosity",
+      "durationSec": 10.542,
+      "similarity": 0.9632,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9469
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 31.254,
+      "similarity": 0.9538,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9547
+    },
+    {
+      "index": 18,
+      "role": "neutral",
+      "durationSec": 38.731,
+      "similarity": 0.9537,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9532
+    },
+    {
+      "index": 19,
+      "role": "neutral",
+      "durationSec": 39.567,
+      "similarity": 0.9597,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9613
+    },
+    {
+      "index": 20,
+      "role": "neutral",
+      "durationSec": 11.378,
+      "similarity": 0.9732,
+      "closestOtherRole": "grief",
+      "closestOtherSimilarity": 0.9702
+    },
+    {
+      "index": 21,
+      "role": "suspense",
+      "durationSec": 33.715,
+      "similarity": 0.954,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9504
+    },
+    {
+      "index": 22,
+      "role": "suspense",
+      "durationSec": 31.115,
+      "similarity": 0.9504,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9457
+    },
+    {
+      "index": 23,
+      "role": "suspense",
+      "durationSec": 34.598,
+      "similarity": 0.9532,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.952
+    },
+    {
+      "index": 24,
+      "role": "suspense",
+      "durationSec": 32.183,
+      "similarity": 0.949,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9574
+    },
+    {
+      "index": 25,
+      "role": "suspense",
+      "durationSec": 14.443,
+      "similarity": 0.9596,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9527
+    },
+    {
+      "index": 26,
+      "role": "urgent_action",
+      "durationSec": 20.201,
+      "similarity": 0.9489,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9581
+    },
+    {
+      "index": 27,
+      "role": "urgent_action",
+      "durationSec": 33.808,
+      "similarity": 0.9541,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.963
+    },
+    {
+      "index": 28,
+      "role": "urgent_action",
+      "durationSec": 31.904,
+      "similarity": 0.9569,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.969
+    },
+    {
+      "index": 29,
+      "role": "urgent_action",
+      "durationSec": 24.149,
+      "similarity": 0.9597,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9693
+    },
+    {
+      "index": 30,
+      "role": "urgent_action",
+      "durationSec": 28.468,
+      "similarity": 0.9432,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9566
+    },
+    {
+      "index": 31,
+      "role": "reflective",
+      "durationSec": 25.96,
+      "similarity": 0.9521,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9558
+    },
+    {
+      "index": 32,
+      "role": "reflective",
+      "durationSec": 25.913,
+      "similarity": 0.9579,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.961
+    },
+    {
+      "index": 33,
+      "role": "reflective",
+      "durationSec": 18.019,
+      "similarity": 0.9598,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9652
+    },
+    {
+      "index": 34,
+      "role": "reflective",
+      "durationSec": 29.443,
+      "similarity": 0.9568,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9599
+    },
+    {
+      "index": 35,
+      "role": "reflective",
+      "durationSec": 26.982,
+      "similarity": 0.9609,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9625
+    },
+    {
+      "index": 36,
+      "role": "suspense",
+      "durationSec": 35.619,
+      "similarity": 0.9415,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9468
+    },
+    {
+      "index": 37,
+      "role": "suspense",
+      "durationSec": 22.013,
+      "similarity": 0.9519,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9465
+    },
+    {
+      "index": 38,
+      "role": "suspense",
+      "durationSec": 30.093,
+      "similarity": 0.9446,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9447
+    },
+    {
+      "index": 39,
+      "role": "intimate_care",
+      "durationSec": 29.768,
+      "similarity": 0.943,
+      "closestOtherRole": "whisper_secret",
+      "closestOtherSimilarity": 0.9501
+    },
+    {
+      "index": 40,
+      "role": "intimate_care",
+      "durationSec": 26.239,
+      "similarity": 0.9527,
+      "closestOtherRole": "whisper_secret",
+      "closestOtherSimilarity": 0.9501
+    }
+  ],
+  "skippedShortSegments": [],
+  "failures": []
+}
