@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "status": "audition-needs-human-listening",
+  "status": "owner-approved-production-default",
   "publishedAt": "2026-09-24T20:28:46-06:00",
   "bookId": "book-01-kindled",
   "bookTitle": "Kindled — Book One",
@@ -42,7 +42,14 @@
       150
     ],
     "objectivePass": false,
-    "humanListening": "pending",
-    "reviewNote": "Published as a comparison audition, not a production-cleared master. Whisper found no suspicious omissions or additions; reported substitutions are primarily proper-name, numeral, spelling, and homophone normalizations. Pace and several naturalness segments still require human judgment."
+    "humanListening": "approved",
+    "humanApprovedAt": "2026-09-26",
+    "humanApproval": "This is the best reading so far. Make that the new default.",
+    "humanOverride": true,
+    "productionTargetWpmRange": [
+      195,
+      215
+    ],
+    "reviewNote": "Promoted by owner listening as the production default. Whisper found no suspicious omissions or additions; reported substitutions are primarily proper-name, numeral, spelling, and homophone normalizations. The automated naturalness comparison remains preserved as evidence rather than rewritten after approval."
   }
 }
