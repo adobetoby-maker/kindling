@@ -267,6 +267,7 @@ def direct(job: dict, chapter_dir: Path, log) -> Path:
             and previous.get("director", {}).get("backend") == "codex"
         )
     if not reusable:
+        effort = str(job.get("directorEffort", DIRECTOR_EFFORT))
         command = [
             str(PYTHON),
             str(DIRECTOR),
@@ -277,7 +278,7 @@ def direct(job: dict, chapter_dir: Path, log) -> Path:
             "--model",
             MODEL,
             "--effort",
-            DIRECTOR_EFFORT,
+            effort,
             "--audience",
             "adult",
             "--coach",
@@ -440,6 +441,7 @@ def main() -> int:
     parser.add_argument("--wait-and-launch", type=int, choices=[1, 2], help=argparse.SUPPRESS)
     parser.add_argument("--limit-per-worker", type=int)
     parser.add_argument("--retry-attention", action="store_true")
+    parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
     args = parser.parse_args()
     initialize()
     if args.retry_attention:
@@ -451,8 +453,18 @@ def main() -> int:
                     direction = Path(str(job.get("direction", "")))
                     render_failed = str(job.get("error", "")).startswith("Fish render failed")
                     job["status"] = "directed" if render_failed and direction.is_file() else "queued"
+                    if str(job.get("error", "")).startswith("Codex direction failed"):
+                        job["directorEffort"] = "low"
                     job.pop("error", None)
         with_queue_lock(retry)
+    if args.retry_directing:
+        def retry_directing(queue: dict) -> None:
+            for job in queue["jobs"]:
+                if job["status"] == "directing":
+                    job["status"] = "queued"
+                    job["directorEffort"] = "low"
+                    job.pop("error", None)
+        with_queue_lock(retry_directing)
     if args.status:
         status()
         return 0
