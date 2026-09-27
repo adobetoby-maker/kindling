@@ -502,6 +502,20 @@ def status() -> None:
     print(json.dumps({"run": str(RUN), "counts": counts, "jobs": queue["jobs"]}, indent=2))
 
 
+def plan_pickups() -> None:
+    queue = load_queue()
+    for job in queue["jobs"]:
+        if job["status"] != "needs-pickups":
+            continue
+        chapter = int(job["chapter"])
+        output = Path(job["audio"])
+        try:
+            plan = build_pickup_plan(chapter, output)
+            update(chapter, pickupPlan=str(plan), pickupAttempts=int(job.get("pickupAttempts", 0)))
+        except Exception as error:
+            update(chapter, status="needs-attention", error=f"Pickup planning failed: {error}")
+
+
 def launch_workers(count: int, limit: int | None, prepare_only: bool) -> None:
     processes = []
     for number in range(1, count + 1):
@@ -554,6 +568,7 @@ def wait_and_launch(count: int) -> None:
         if not any(job["status"] in {"queued", "directed", "directing", "rendering"} for job in queue["jobs"]):
             break
         time.sleep(30)
+    plan_pickups()
     launch_workers(count, None, False)
 
 
@@ -594,17 +609,7 @@ def main() -> int:
                     job.pop("error", None)
         with_queue_lock(retry_directing)
     if args.plan_pickups:
-        queue = load_queue()
-        for job in queue["jobs"]:
-            if job["status"] != "needs-pickups":
-                continue
-            chapter = int(job["chapter"])
-            output = Path(job["audio"])
-            try:
-                plan = build_pickup_plan(chapter, output)
-                update(chapter, pickupPlan=str(plan), pickupAttempts=int(job.get("pickupAttempts", 0)))
-            except Exception as error:
-                update(chapter, status="needs-attention", error=f"Pickup planning failed: {error}")
+        plan_pickups()
     if args.status:
         status()
         return 0
