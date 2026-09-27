@@ -115,7 +115,7 @@ def initialize() -> None:
             "paletteSha256": sha(PALETTE),
             "modelCachePolicy": "one shared Hugging Face download; one in-memory load per worker",
             "createdAt": now(),
-            "publication": "QA-cleared chapters still require the owner's full listen before Finished",
+            "publication": "Rolling PWA review publication begins at qa-cleared; owner full listen is still required before Finished",
             "jobs": jobs,
         },
     )
