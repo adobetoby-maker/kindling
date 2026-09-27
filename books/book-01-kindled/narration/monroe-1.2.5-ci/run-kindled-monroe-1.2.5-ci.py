@@ -584,6 +584,7 @@ def main() -> int:
     parser.add_argument("--limit-per-worker", type=int)
     parser.add_argument("--retry-attention", action="store_true")
     parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
+    parser.add_argument("--retry-rendering", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--plan-pickups", action="store_true")
     args = parser.parse_args()
     initialize()
@@ -608,6 +609,14 @@ def main() -> int:
                     job["directorEffort"] = "low"
                     job.pop("error", None)
         with_queue_lock(retry_directing)
+    if args.retry_rendering:
+        def retry_rendering(queue: dict) -> None:
+            for job in queue["jobs"]:
+                if job["status"] == "rendering":
+                    direction = Path(str(job.get("direction", "")))
+                    job["status"] = "directed" if direction.is_file() else "queued"
+                    job.pop("error", None)
+        with_queue_lock(retry_rendering)
     if args.plan_pickups:
         plan_pickups()
     if args.status:
