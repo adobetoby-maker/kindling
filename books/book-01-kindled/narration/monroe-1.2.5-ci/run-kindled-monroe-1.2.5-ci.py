@@ -446,7 +446,11 @@ def main() -> int:
         def retry(queue: dict) -> None:
             for job in queue["jobs"]:
                 if job["status"] == "needs-attention":
-                    job["status"] = "queued"
+                    # Keep a completed direction pass when only Fish rendering
+                    # failed. Re-directing would overwrite a repaired cue plan.
+                    direction = Path(str(job.get("direction", "")))
+                    render_failed = str(job.get("error", "")).startswith("Fish render failed")
+                    job["status"] = "directed" if render_failed and direction.is_file() else "queued"
                     job.pop("error", None)
         with_queue_lock(retry)
     if args.status:
