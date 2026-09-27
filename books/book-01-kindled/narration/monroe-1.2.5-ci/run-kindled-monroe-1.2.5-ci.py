@@ -398,6 +398,37 @@ def launch_workers(count: int, limit: int | None, prepare_only: bool) -> None:
     print(json.dumps({"run": str(RUN), "workers": processes}, indent=2))
 
 
+def defer_workers_until_current_renders_finish(count: int) -> None:
+    """Keep the queue moving after a bounded concurrency benchmark."""
+    log_path = RUN / "deferred-launch.log"
+    command = [
+        "/usr/bin/caffeinate",
+        "-i",
+        sys.executable,
+        str(Path(__file__).resolve()),
+        "--wait-and-launch",
+        str(count),
+    ]
+    with log_path.open("a", encoding="utf-8") as log:
+        process = subprocess.Popen(
+            command,
+            stdin=subprocess.DEVNULL,
+            stdout=log,
+            stderr=subprocess.STDOUT,
+            start_new_session=True,
+        )
+    print(json.dumps({"pid": process.pid, "log": str(log_path), "workers": count}, indent=2))
+
+
+def wait_and_launch(count: int) -> None:
+    while True:
+        queue = load_queue()
+        if not any(job["status"] == "rendering" for job in queue["jobs"]):
+            break
+        time.sleep(30)
+    launch_workers(count, None, False)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--status", action="store_true")
@@ -405,6 +436,8 @@ def main() -> int:
     parser.add_argument("--limit", type=int)
     parser.add_argument("--prepare-only", action="store_true")
     parser.add_argument("--launch-workers", type=int, choices=[1, 2])
+    parser.add_argument("--defer-workers", type=int, choices=[1, 2])
+    parser.add_argument("--wait-and-launch", type=int, choices=[1, 2], help=argparse.SUPPRESS)
     parser.add_argument("--limit-per-worker", type=int)
     parser.add_argument("--retry-attention", action="store_true")
     args = parser.parse_args()
@@ -418,6 +451,12 @@ def main() -> int:
         with_queue_lock(retry)
     if args.status:
         status()
+        return 0
+    if args.wait_and_launch:
+        wait_and_launch(args.wait_and_launch)
+        return 0
+    if args.defer_workers:
+        defer_workers_until_current_renders_finish(args.defer_workers)
         return 0
     if args.launch_workers:
         launch_workers(args.launch_workers, args.limit_per_worker, args.prepare_only)

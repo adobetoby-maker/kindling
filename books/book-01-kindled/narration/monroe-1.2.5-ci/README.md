@@ -40,3 +40,10 @@ Continue the complete book after checking aggregate throughput:
 ```bash
 python3 run-kindled-monroe-1.2.5-ci.py --launch-workers 2
 ```
+
+After a bounded benchmark is already rendering, schedule the full two-worker
+queue to begin as soon as those current renders finish:
+
+```bash
+python3 run-kindled-monroe-1.2.5-ci.py --defer-workers 2
+```
