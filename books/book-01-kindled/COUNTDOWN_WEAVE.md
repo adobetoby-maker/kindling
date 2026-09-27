@@ -12,6 +12,11 @@ untouched; Monroe 1.3 editorial work occurs only under `revised/`.
 
 ## Locked structural direction
 
+- Book One opens with a short historical prologue: the Fall in 2080, an early
+  local fracture/awakening circa 2090, then **Sixty years later / Nineteen days
+  to Meridian** before Callie's current Chapter 1. See `PROLOGUE_PLAN.md`. The
+  prologue does not renumber the 53-chapter assembly or resolve the Fall/disk
+  mysteries.
 - Book One is one braided novel following **Callie, Jab, and Toren** on three
   independent roads toward Meridian.
 - Once all three roads are active, viewpoint blocks rotate in the preferred
@@ -74,7 +79,7 @@ the time references needed to make that map true.
 
 ### Opening entry relay
 
-The drafts already contain a nearly perfect three-part introduction:
+The historical prologue hands to the drafts' existing three-part introduction:
 
 1. **Callie:** her fifteen-day private calculation is challenged by Pell's
    nineteen-day freight calculation and twenty-two-day bad-weather estimate.

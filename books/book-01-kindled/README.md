@@ -19,6 +19,12 @@ belong to Book Two.
 - `editor/` contains movement verdicts, listening findings, and repair records.
 - `SOURCE_MAP.md` records every compiled chapter's provenance.
 
+An owner-directed historical prologue is now planned in `PROLOGUE_PLAN.md`: the
+Fall in 2080, an early local fracture/awakening circa 2090, then a sixty-year
+cut into Callie's existing opening. It has not yet been drafted because the
+O'Connor workflow requires an explicit Opus-or-Fable selection and owner approval
+of the two historical character names and the early child's door.
+
 The first substantive Monroe 1.3 pass over the 26 retained Hobb's Wall chapters
 is complete and awaiting owner review. It changed 22 chapters, adding 474 words
 and removing or replacing 519 (net -45). The small net change reflects bounded
@@ -46,7 +52,7 @@ objective gates and a human listening pass clear.
 
 ## Structural rule
 
-The visible travel estimates act as the handoff mechanism. Each protagonist's
+After the planned two-scene historical prologue, the visible travel estimates act as the handoff mechanism. Each protagonist's
 road arithmetic introduces or returns us to that viewpoint. Movement blocks
 shrink as Meridian approaches. The final three blocks are Toren's arrival,
 Callie's arrival and first contact with Toren, and Jab's north-road fight where
