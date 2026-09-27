@@ -133,12 +133,19 @@ def with_queue_lock(action):
 def claim(worker: str, prepare_only: bool = False) -> dict | None:
     def operation(queue: dict) -> dict | None:
         for job in queue["jobs"]:
-            eligible = {"queued"} if prepare_only else {"queued", "directed"}
+            eligible = {"queued"} if prepare_only else {"queued", "directed", "needs-pickups"}
             if job["status"] in eligible:
+                if job["status"] == "needs-pickups":
+                    plan = Path(str(job.get("pickupPlan", "")))
+                    if not plan.is_file() or int(job.get("pickupAttempts", 0)) >= 3:
+                        continue
+                claim_kind = "pickup" if job["status"] == "needs-pickups" else "standard"
                 job["status"] = "directing" if job["status"] == "queued" else "rendering"
                 job["worker"] = worker
                 job["claimedAt"] = now()
-                return dict(job)
+                claimed = dict(job)
+                claimed["claimKind"] = claim_kind
+                return claimed
         return None
 
     return with_queue_lock(operation)
@@ -151,6 +158,108 @@ def update(chapter: int, **changes) -> None:
         job["updatedAt"] = now()
 
     with_queue_lock(operation)
+
+
+def read_json(path: Path) -> dict:
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
+def normalized_words(text: str) -> list[str]:
+    return re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)?", text.lower().replace("’", "'"))
+
+
+def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Path:
+    """Map objective QA failures back to the smallest cached Fish segments."""
+    chapter_dir = output.parent
+    plan_path = chapter_dir / f"chapter-{chapter:02d}.pickup-plan.json"
+    if plan_path.exists() and not overwrite:
+        return plan_path
+    record = read_json(output.with_suffix(".json"))
+    verification = read_json(output.with_suffix(".verification.json"))
+    naturalness = read_json(output.with_suffix(".naturalness.json"))
+    identity = read_json(output.with_suffix(".voice-quality.json"))
+    profile = read_json(PROFILE)
+    ranges: list[tuple[int, int, int]] = []
+    cursor = 0
+    for item in record.get("segments", []):
+        count = len(normalized_words(str(item.get("text", ""))))
+        ranges.append((cursor, cursor + count, int(item["index"])))
+        cursor += count
+
+    def at(position: int) -> int | None:
+        if not ranges:
+            return None
+        bounded = max(0, min(position, max(0, cursor - 1)))
+        return next((index for start, end, index in ranges if start <= bounded < end), ranges[-1][2])
+
+    text_segments: set[int] = set()
+    for failure in verification.get("suspiciousOmissions", []):
+        start = int(failure.get("sourceWordStart", 0))
+        length = max(1, len(normalized_words(str(failure.get("sourceWords", "")))))
+        for seg_start, seg_end, index in ranges:
+            if seg_start < start + length and start < seg_end:
+                text_segments.add(index)
+        for position in (start - 1, start + length):
+            index = at(position)
+            if index is not None:
+                text_segments.add(index)
+    for failure in verification.get("suspiciousAdditions", []):
+        position = int(failure.get("sourceWordAfter", 0))
+        for nearby in (position - 1, position):
+            index = at(nearby)
+            if index is not None:
+                text_segments.add(index)
+
+    naturalness_segments = {
+        int(item["index"])
+        for item in naturalness.get("failures", [])
+        if item.get("reason") == "naturalness-outlier"
+    }
+    floor = float(profile["targets"]["minimumVoiceSimilarity"])
+    identity_segments = {
+        int(item["index"])
+        for item in identity.get("checkedSegments", [])
+        if float(item.get("similarity", 1.0)) < floor
+    }
+    force_segments = sorted(text_segments | naturalness_segments | identity_segments)
+    if not force_segments:
+        raise RuntimeError(f"Chapter {chapter} failed QA without a segment-level pickup")
+    save(
+        plan_path,
+        {
+            "schemaVersion": 1,
+            "chapter": chapter,
+            "audioStatus": "needs-pickups",
+            "preserveAcceptedSegments": True,
+            "forceSegments": force_segments,
+            "reasons": {
+                "textCoverage": sorted(text_segments),
+                "naturalnessOutlier": sorted(naturalness_segments),
+                "voiceIdentityBelowFloor": sorted(identity_segments),
+            },
+            "notes": "Regenerate only the listed cached takes, rebuild, and rerun every objective check.",
+        },
+    )
+    return plan_path
+
+
+def adjudicate_word_evidence(output: Path, report: dict) -> dict:
+    """Treat benign ASR substitutions as evidence, while omissions/additions still fail."""
+    verification = read_json(output.with_suffix(".verification.json"))
+    evidence_pass = (
+        not verification.get("suspiciousOmissions")
+        and not verification.get("suspiciousAdditions")
+        and float(verification.get("orderedWordCoverage", 0.0)) >= 0.94
+    )
+    if evidence_pass and "words" in report.get("checks", {}):
+        report["checks"]["words"]["pass"] = True
+        report["checks"]["words"]["adjudication"] = (
+            "No suspicious omission or addition; remaining ASR substitutions are non-gating evidence."
+        )
+    report["automatedPass"] = all(item.get("pass") is True for item in report.get("checks", {}).values())
+    report["status"] = "awaiting-listening" if report["automatedPass"] else "needs-pickups"
+    save(output.with_suffix(".narrator.json"), report)
+    return report
 
 
 def unique_suffix(text: str, end: int) -> str:
@@ -318,6 +427,10 @@ def render(job: dict, chapter_dir: Path, performance: Path, log) -> tuple[Path, 
         "--palette",
         str(PALETTE),
     ]
+    if job.get("claimKind") == "pickup":
+        plan = read_json(Path(job["pickupPlan"]))
+        for index in plan.get("forceSegments", []):
+            command.extend(["--force-segment", str(index)])
     started = time.monotonic()
     completed = subprocess.run(command, stdout=log, stderr=subprocess.STDOUT)
     elapsed = round(time.monotonic() - started, 2)
@@ -352,7 +465,17 @@ def worker(name: str, limit: int | None, prepare_only: bool) -> int:
                 output, result, render_seconds = render(job, chapter_dir, performance, log)
             report = output.with_suffix(".narrator.json")
             report_payload = json.loads(report.read_text(encoding="utf-8")) if report.exists() else {}
-            status = "qa-cleared" if result == 0 else "needs-pickups"
+            report_payload = adjudicate_word_evidence(output, report_payload)
+            status = "qa-cleared" if report_payload.get("automatedPass") else "needs-pickups"
+            pickup_attempts = int(job.get("pickupAttempts", 0))
+            pickup_plan: Path | None = None
+            if status == "needs-pickups":
+                if job.get("claimKind") == "pickup":
+                    pickup_attempts += 1
+                if pickup_attempts >= 3:
+                    status = "needs-attention"
+                else:
+                    pickup_plan = build_pickup_plan(chapter, output, overwrite=True)
             update(
                 chapter,
                 status=status,
@@ -362,6 +485,8 @@ def worker(name: str, limit: int | None, prepare_only: bool) -> int:
                 automatedPass=bool(report_payload.get("automatedPass")),
                 humanListening="pending",
                 renderSeconds=render_seconds,
+                pickupAttempts=pickup_attempts,
+                pickupPlan=str(pickup_plan) if pickup_plan else job.get("pickupPlan"),
             )
         except Exception as error:
             update(chapter, status="needs-attention", error=str(error), log=str(log_path))
@@ -424,7 +549,9 @@ def defer_workers_until_current_renders_finish(count: int) -> None:
 def wait_and_launch(count: int) -> None:
     while True:
         queue = load_queue()
-        if not any(job["status"] == "rendering" for job in queue["jobs"]):
+        # Start the pickup-capable workers only after the original render-only
+        # processes have drained every queued/directed chapter and exited.
+        if not any(job["status"] in {"queued", "directed", "directing", "rendering"} for job in queue["jobs"]):
             break
         time.sleep(30)
     launch_workers(count, None, False)
@@ -442,6 +569,7 @@ def main() -> int:
     parser.add_argument("--limit-per-worker", type=int)
     parser.add_argument("--retry-attention", action="store_true")
     parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
+    parser.add_argument("--plan-pickups", action="store_true")
     args = parser.parse_args()
     initialize()
     if args.retry_attention:
@@ -465,6 +593,18 @@ def main() -> int:
                     job["directorEffort"] = "low"
                     job.pop("error", None)
         with_queue_lock(retry_directing)
+    if args.plan_pickups:
+        queue = load_queue()
+        for job in queue["jobs"]:
+            if job["status"] != "needs-pickups":
+                continue
+            chapter = int(job["chapter"])
+            output = Path(job["audio"])
+            try:
+                plan = build_pickup_plan(chapter, output)
+                update(chapter, pickupPlan=str(plan), pickupAttempts=int(job.get("pickupAttempts", 0)))
+            except Exception as error:
+                update(chapter, status="needs-attention", error=f"Pickup planning failed: {error}")
     if args.status:
         status()
         return 0
