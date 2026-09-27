@@ -591,6 +591,37 @@ Nothing here is written into prose yet — none of these words appear in the loc
 Movement 1 chapters, so this is forward-compatible with what already exists on the
 page.
 
+## Meridian training-yard lineage (`HORIZON`, owner-directed 2026-09-27)
+
+**Meridian is the geographic and institutional home of the planned 2680-era
+story.** The present series is in 2150, so Book Two plants a lineage capable of
+surviving roughly 530 years; it does not pretend the eventual academies already
+exist.
+
+The seed is the north yard in Book Two: marked practice lanes, shared equipment,
+field rotations, and an append-only record of exercises, observed failures,
+injuries, reserve use, recovery time, and repeatable results. Three approaches
+begin beside one another rather than as rival institutions:
+
+1. **Rook's mixed-door field method** — solve one real problem through the door
+   and personal expression a practitioner actually has; compare outcomes rather
+   than forcing identical shapes. Toren becomes an early recorder and teacher of
+   this method, not a pre-declared legendary founder.
+2. **Wyck's Resilience/body discipline** — stance, contact, load, safe failure,
+   and the hard distinction between tolerating pain and avoiding damage.
+3. **The Homura medical line** — Ward, Sustain, ash working-depth, rotation,
+   radiation recall, and the rule that a healer who ignores the abort line becomes
+   the next patient.
+
+Rift-response fighters remain the field expression connecting all three. Dessa's
+written ledger and Senna's oral histories are the mechanism by which knowledge can
+outlive the first cohort. A future Touren lineage, Wyck's school, and an independent
+rift-fighter tradition may grow from these roots. Their later names, charters,
+rivalries, curricula, and founder histories remain **provisional horizon
+material** until the 2680 proposal is reconciled against the completed Kindled
+books. Book Two may plant records and habits; it must not import future claims as
+present-day fact.
+
 ## Yield — Riftspawn threat grading (`POSSIBLE` — adopted from the parallel
 kindling-project session, monster-side only, distinct axis from Rank)
 

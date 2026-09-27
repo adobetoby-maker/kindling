@@ -27,6 +27,29 @@ prose drafting.
   nothing. Callie's Ward isolates the current, Toren's Guard/Edge creates and
   holds the opening, and Jab's Sustain identifies and interrupts the renewal
   pulse.
+- Every ill or injured person has an on-page progression ledger. Tilda, Tonk,
+  and Senna are primary medical clocks; Rook, Dessa, Wyck, Toren, and Callie
+  retain their Book One injuries until shown recovering. The mission does not
+  reset bodies between books. Tilda is not falsely made dependent on Senna's
+  eleven-day machine cycle: her care is palliative medicine for swelling and
+  fits. The failing machine remains vital to Senna and to Meridian's only
+  advanced treatment/imaging capacity, which diagnosed Tilda and Tonk.
+- The Caul Hill departure carries a double separation: Tonk is medically unable
+  to go and must release Jab for the first time since the accident; Tilda has a
+  bad morning that makes Callie choose to stay until Tilda herself sends her.
+  Senna equips Toren for the return to Caul Hill, the road she can never walk.
+  The struggle to leave supplies the heart-string; no patient is killed merely
+  to launch the mission.
+- Ember training explicitly compares personal expressions of the same domain.
+  Jab has a four-year-stable fish-knife shape and deliberate edge-light; Toren
+  can learn edge-light but must light his own ugly spike rather than copy Jab's
+  shape; Callie already has a curved blade expression through her hook and must
+  refine it before a new straight shape can be earned.
+- Meridian's north yard is the seed of the 2680 setting. Three practical lanes
+  begin here—mixed-door field work, Resilience/body discipline, and
+  Ward/Sustain medicine—along with Dessa's training ledger and Senna's oral
+  histories. It is not yet a chartered academy. Later school names and exact
+  founder claims remain horizon material until continuity is reconciled.
 
 ## Structural result
 
@@ -34,7 +57,9 @@ The Caul Hill sequence is the book's primary climax. A shorter return hold at
 the Sag demonstrates publicly what the team became, but does not try to outscale
 or repeat the Caul Hill battle. The repaired machine, recovered ash, Jab's chosen
 recruitment terms, and the team's coordinated defense produce the residency and
-company-name consequences.
+company-name consequences. The patient recoveries and setbacks continue through
+all six movements, and the yard's surviving methods/records provide Book Two's
+longest-range consequence: the believable beginning of Meridian's future schools.
 
 ## Still open
 
@@ -44,4 +69,3 @@ company-name consequences.
   and the Homura medic travel for the Sustain rotation.
 - The named household used to embody the residency injustice.
 - The exact staging of Senna naming or confirming Caul Hill.
-
