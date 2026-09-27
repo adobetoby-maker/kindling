@@ -72,6 +72,7 @@ in place for history rather than deleted; do not write to them going forward.
 
 | Document | What it contains |
 |---|---|
+| `NARRATION_METHODS.md` | Stable narration naming: process, performance method, engine, voice, and finish state; detailed Directed-Paced and Directed-Native recipes |
 | `books/book-01-kindled/README.md` + `SOURCE_MAP.md` | Selected three-protagonist Book One, provenance, edition boundary, and production status |
 | `books/book-01-kindled/COUNTDOWN_WEAVE.md` | Travel-clock architecture and implemented Meridian convergence |
 | `books/book-01-kindled/performance/book-performance-bible.md` | Whole-book Calder narration direction for all three protagonists |
