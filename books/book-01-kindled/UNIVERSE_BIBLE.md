@@ -100,6 +100,16 @@ heals at ordinary human speed. Rook can top someone else's soul up from outside 
 ways — magic-adjacent healing arts and Ember-boosted recovery — and treats neither as
 more legitimate; that refusal to pick a side is itself part of the lesson.
 
+**Ash capacity and usable working depth (`CANON`, owner ruling 2026-09-27).**
+The soul holds absorbed reserve-ash; there is no second storage organ and no new
+"bank" vocabulary. A trained practitioner can learn to use more of the depth already
+present: absorb clean ash, let it settle, spend it through a door, vent what the work
+cannot safely retain, rest, and refill. This increases safe *working capacity*, not
+rank and not the metaphysical size of the soul. Forced intake causes spill, false
+fullness, loss of control, or overdraw even while physical ash remains available.
+Homura had repeatable cross-medical methods for teaching this; Rook knows pieces by
+experience, not the complete protocol.
+
 **A deeper soul/mind connection, reserved for a Book 2 flashback (`POSSIBLE`,
 owner-directed).** Book 1 established the mechanism at the level Rook himself
 understood it at Homura. Book 2 should go one layer further, through a new
@@ -224,6 +234,33 @@ tier of your original door's power, a genuinely different kind of ability.** Thi
 is what "more than a stride and a sword" actually means as a person grows: the
 arsenal widens by doors opening, not by one door's menu getting longer forever.
 
+### Sustain and radiation recall (`CANON`, owner ruling 2026-09-27)
+
+Sustain can read and recall an *active radiological burden* from a living body.
+It does not reverse old tissue damage once that damage has fixed, restore destroyed
+marrow, or make exposure harmless. The practitioner senses what is still acting on
+the body, draws that burden through contact, spends source-power to separate it from
+the person, and vents it before it lodges in the practitioner instead. Physical
+contamination controls and ordinary medicine remain necessary.
+
+Radiation recall is expensive. Clean reserve-ash can pay the source-power cost,
+which is why a deep-zone expedition needs large measured stores and trained healer
+rotation rather than one heroic effort. Running out of ash forces the healer onto
+personal reserve; continuing past that point can make the healer the next casualty.
+The technique therefore has five visible constraints: exposure time, ash quantity,
+safe working depth, venting/rotation, and the difference between active burden and
+damage already done.
+
+**Rook:** confirmed Sustain practitioner through his native magic door. He can teach
+the embodied act of reading and recall, but not Homura's complete capacity protocol.
+
+**Jab (`CANON` capability; Book Two mastery `PLANNED`):** his Book One "second
+thing"—sensing Tonk's decline and supporting his failing body—is Sustain, not a
+separate danger power. In Book Two he learns deliberate radiation recall and
+ash-funded rotation. Meridian identifies the rarity immediately and targets him as
+a primary medical recruit. Recruitment creates an obligation conflict; it does not
+transfer ownership of Jab's gift or erase his duty to Tonk.
+
 **Twin-Kindled (`CANON`, owner ruling 2026-09-20).** The rare, anomalous case
 of a Kindling that opens two doors from two *different* traditions at once,
 at rank one, before any training or earned advancement — not to be confused
@@ -296,11 +333,18 @@ untaught. Further types, invented as needed past Book 1, should each echo one
 recognizable expression of worked power gone feral — an Edge-echo that grows
 something like a blade out of raw aggression, a Stride-echo that moves faster than
 its body should carry it, a ward-echo that shrugs off blows the way Marta's wall
-does, even (unsettling, worth holding in reserve for a later book) a sustain-echo
-that patches other Riftspawn the way healing patches a person, with no mercy behind
-it because there is no one home to mean it. This is a rule new types get checked
-against, not a bestiary to fill in wholesale ahead of need. Book 1's own first use
-of it is **a Breach** — see `BOOK_MAP.md`.
+does, or a sustain-echo that patches other Riftspawn the way healing patches a
+person, with no mercy behind it because there is no one home to mean it. This is a
+rule new types get checked against, not a bestiary to fill in wholesale ahead of
+need. Book 1's own first use of it is **a Breach** — see `BOOK_MAP.md`.
+
+**Book Two sustain-echo (`PLANNED`, owner ruling 2026-09-27).** The new,
+more-dangerous Caul Hill rip produces a Riftspawn that recalls loose ash toward
+itself and uses that current to reconstitute damaged spawn. It does not create ash
+from nothing. Its renewal can be broken only by a team solution: Ward isolates the
+ash-current, Guard/Edge opens and holds a physical route, and Sustain senses and
+interrupts the renewal pulse. The creature's final name, anatomy, and exact visual
+design remain drafting decisions; the mechanic and team requirement are locked.
 
 ## The Sag line and ash-lifting — the settled economy's version of hunting
 (`POSSIBLE`, Book 2 development, extends the Ch. 28 plant)
