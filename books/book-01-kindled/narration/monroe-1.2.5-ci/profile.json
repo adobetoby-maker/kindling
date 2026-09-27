@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "name": "Monroe 1.2.5-CI Directed-Paced Original Calder",
+  "methodId": "monroe-1.2.5-ci-directed-paced",
+  "defaultEngine": "fish-s2",
+  "referenceAudio": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+  "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+  "paletteVoiceId": "RlfxsxhjN7XADVcW1TiO",
+  "referenceText": "The leak was just the announcement. The marriage was the problem. Dale set the wrench down and listened to the old house settle around him.",
+  "instruction": "Keep the exact Original Calder speaker identity and Australian-English accent. Read as controlled, intelligent long-form audiobook narration. Prepare the complete thought before beginning it. Preserve tactical clarity, understated humor, and emotional restraint. Use supplied performance anchors only as temporary colors, then return fully to Calder. Never rush, become theatrical, sing-song, childish, Americanized, or announcer-like.",
+  "pronunciationInstruction": "Use the Kindled pronunciation dictionary and chapter context. Never infer a different accent or narrator identity from a character name.",
+  "targets": {
+    "overallWordsPerMinute": {
+      "minimum": 120,
+      "preferred": 140,
+      "maximum": 150
+    },
+    "minimumVoiceSimilarity": 0.84
+  },
+  "paceAuthority": "Owner instruction: Directed-Paced is the only production method; let it land between 120 and 150 WPM.",
+  "pauseMs": 1550,
+  "finalPauseMs": 2100,
+  "postStretchRate": 1.0,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "engines": {
+    "fish-s2": {
+      "temperature": 0.62,
+      "maxChars": 700,
+      "maxAudioTokens": 2048,
+      "license": "Fish Audio Research License; commercial use requires separate terms"
+    }
+  }
+}

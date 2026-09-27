@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "name": "Monroe 1.2.5-CI Directed-Paced Calder coach",
+  "version": "2026-09-27.1",
+  "identityPolicy": {
+    "preserve": [
+      "Original Calder — warm Australian-English, mature, grounded, restrained"
+    ]
+  },
+  "targets": {
+    "overallWordsPerMinute": {
+      "minimum": 120,
+      "preferred": 140,
+      "maximum": 150
+    },
+    "pauseDistributionMs": {
+      "sentence": 1550,
+      "paragraphOrSpeakerReset": 2100,
+      "writtenSceneBreak": 2700,
+      "preWordPreparation": "320–340"
+    }
+  },
+  "directorPrompt": [
+    "Read the complete chapter and rolling book context before directing it.",
+    "Direct intention, subtext, status, tactical clarity, humor, and emotional restraint; never direct generic excitement.",
+    "Keep every temporary color inside Original Calder and return completely to his base narrator identity afterward.",
+    "Do not solve pace with model speed or waveform stretching. The Directed-Paced compiler authors the chapter clock after semantic direction.",
+    "Choose only consequential pre-word preparations. Ordinary sentence, paragraph, speaker, and scene landings are compiled separately.",
+    "Keep action spatially intelligible. Urgency never means rushing.",
+    "The canonical words are locked. Direction may not add, remove, replace, or reorder them."
+  ]
+}

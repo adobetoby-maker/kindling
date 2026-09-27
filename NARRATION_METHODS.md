@@ -22,17 +22,19 @@ The five layers mean:
 5. **Finish state** — whether the file is an experiment, has passed objective
    checks, or has also passed the owner's complete listen.
 
-The process for both methods below is **Monroe Book Narrator 1.2.5**.
+The active production process is **Monroe Book Narrator 1.2.5-CI (Codex
+Integrated)**. CI means Codex reads the book context and authors the structured
+performance direction before the local voice model renders it.
 
 ## Method A — Directed-Paced
 
 ### Official label
 
-**Monroe 1.2.5 · Directed-Paced · Fish S2 Pro · Original Calder · Finished**
+**Monroe 1.2.5-CI · Directed-Paced · Fish S2 Pro · Original Calder · Finished**
 
 Short UI label: **Calder Directed-Paced — Fish S2 Pro**
 
-Stable method ID: `monroe-1.2.5-directed-paced`
+Stable method ID: `monroe-1.2.5-ci-directed-paced`
 
 Reference master:
 
@@ -40,8 +42,8 @@ Reference master:
 
 ### What “Directed-Paced” means
 
-The model reads the words, but it does not decide the whole performance or the
-chapter clock. The narration director prepares the book context, selects
+Fish reads the words, but it does not decide the whole performance or the
+chapter clock. Codex prepares the book context, selects
 performance spans, divides the chapter into complete speakable thoughts, and
 writes an explicit pause score. The engine performs each prepared take at
 native speed. The final pace comes from the performed takes plus authored quiet,
@@ -101,17 +103,17 @@ thought has a prepared start and a complete landing. Fish still supplies the
 voice and micro-prosody, but the director—not the model's default streaming
 rhythm—controls the larger musical structure and clock.
 
-## Method B — Directed-Native
+## Archived comparison — Directed-Native
 
 ### Official label
 
-**Monroe 1.2.5 · Directed-Native · Qwen3-TTS 1.7B · Clear Calder · Audition**
+**Monroe 1.2.5 · Directed-Native · Qwen3-TTS 1.7B · Clear Calder · Archived Audition**
 
 Short UI label: **Clear Calder Directed-Native — Qwen3**
 
 Stable method ID: `monroe-1.2.5-directed-native`
 
-Current Kindled comparison candidate:
+Historical Kindled comparison candidate:
 
 `/Volumes/Drive 2/monroe-ai/auditions/kindled-book-one-kokoro-guided-calder-qwen/chapter-01.mp3`
 
@@ -157,12 +159,13 @@ The current Kindled Chapter 1 Qwen candidate used:
 
 ### Current status
 
-The Qwen candidate passes technical mastering and Calder identity. Its text
-check found no suspicious omission or added passage on adjudicated review. It is
-not `Finished`: two curiosity takes remain below the current automated
-naturalness reference floor, and its measured pace is just above the current
-Directed-Native target ceiling. Human comparison is still useful, but the
-evidence must remain attached to the audition.
+This lane is not eligible for new production. The Qwen candidate passes
+technical mastering and Calder identity. Its text check found no suspicious
+omission or added passage on adjudicated review. It is not `Finished`: two
+curiosity takes remain below the current automated naturalness reference floor,
+and its measured pace is just above the current Directed-Native target ceiling.
+Human comparison is still useful, but the evidence must remain attached to the
+audition.
 
 ## The practical distinction
 

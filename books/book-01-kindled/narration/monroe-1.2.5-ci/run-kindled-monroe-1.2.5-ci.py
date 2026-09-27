@@ -1,0 +1,429 @@
+#!/usr/bin/env python3
+"""Codex-direct and locally render Kindled with Directed-Paced Fish/Calder."""
+
+from __future__ import annotations
+
+import argparse
+import fcntl
+import hashlib
+import json
+import os
+from pathlib import Path
+import re
+import subprocess
+import sys
+import time
+from datetime import datetime, timezone
+
+
+HERE = Path(__file__).resolve().parent
+BOOK = HERE.parents[1]
+PROFILE = HERE / "profile.json"
+COACH = HERE / "director-coach.json"
+DIRECTOR = Path("/Users/drive/kindling-narrator-stage/scripts/direct-tts-chapter.py")
+RENDERER = Path("/Users/drive/kindling-narrator-stage/scripts/render-calder-narrator.sh")
+PALETTE = Path(
+    "/Users/drive/.local/share/monroe-tts/anchor-builds/"
+    "calder-eleven-original-v1/calder-eleven-15.candidate-palette.json"
+)
+PYTHON = Path("/Users/drive/.local/share/monroe-tts/venv/bin/python")
+RUN = Path(
+    os.environ.get(
+        "KINDLED_MONROE_CI_RUN",
+        "/Volumes/Drive 2/monroe-ai/productions/"
+        "kindled-monroe-1.2.5-ci-directed-paced",
+    )
+)
+QUEUE = RUN / "queue.json"
+QUEUE_LOCK = RUN / "queue.lock"
+METHOD_ID = "monroe-1.2.5-ci-directed-paced"
+MODEL = "gpt-5.6-sol"
+DIRECTOR_EFFORT = "medium"
+
+
+def now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def sha(path: Path) -> str:
+    with path.open("rb") as handle:
+        return hashlib.file_digest(handle, "sha256").hexdigest()
+
+
+def clean_markdown(raw: str) -> str:
+    """Mirror the production renderer's spoken-text normalization."""
+    text = raw.replace("\r\n", "\n").replace("\r", "\n")
+    text = re.sub(r"\A---\n.*?\n---\n", "", text, flags=re.S)
+    text = re.sub(r"\n---\s*\n(?:\*?End of Chapter.*)?\Z", "", text, flags=re.I | re.S)
+    text = re.sub(r"^#{1,6}\s+", "", text, flags=re.M)
+    text = re.sub(r"^\s*(?:---+|\*\*\*+|___+)\s*$", "", text, flags=re.M)
+    text = re.sub(r"!\[([^]]*)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"\[([^]]+)\]\([^)]+\)", r"\1", text)
+    text = re.sub(r"(?<!\w)[*_]{1,3}|[*_]{1,3}(?!\w)", "", text)
+    text = re.sub(r"^\s*>\s?", "", text, flags=re.M)
+    text = re.sub(r"^\s*[-+*]\s+", "", text, flags=re.M)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text.strip()
+
+
+def save(path: Path, payload: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_name(path.name + f".{os.getpid()}.tmp")
+    temporary.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    temporary.replace(path)
+
+
+def load_queue() -> dict:
+    return json.loads(QUEUE.read_text(encoding="utf-8"))
+
+
+def initialize() -> None:
+    RUN.mkdir(parents=True, exist_ok=True)
+    if QUEUE.exists():
+        return
+    if sha(PROFILE) == "" or not PALETTE.is_file():
+        raise RuntimeError("Production profile or Calder palette is missing")
+    jobs = []
+    for number in range(1, 54):
+        source = BOOK / "revised" / f"chapter-{number:02d}.md"
+        context = BOOK / "performance" / f"chapter-{number:02d}.context.md"
+        if not source.is_file() or not context.is_file():
+            raise RuntimeError(f"Missing canonical source/context for chapter {number}")
+        jobs.append(
+            {
+                "chapter": number,
+                "source": str(source),
+                "sourceSha256": sha(source),
+                "context": str(context),
+                "contextSha256": sha(context),
+                "status": "queued",
+            }
+        )
+    save(
+        QUEUE,
+        {
+            "schemaVersion": 1,
+            "book": "Kindled — Book One",
+            "process": "Monroe Book Narrator 1.2.5-CI",
+            "methodId": METHOD_ID,
+            "engine": "mlx-community/fish-audio-s2-pro-8bit",
+            "voice": "Original Calder",
+            "director": {"provider": "Codex", "model": MODEL, "effort": DIRECTOR_EFFORT},
+            "profile": str(PROFILE),
+            "profileSha256": sha(PROFILE),
+            "palette": str(PALETTE),
+            "paletteSha256": sha(PALETTE),
+            "modelCachePolicy": "one shared Hugging Face download; one in-memory load per worker",
+            "createdAt": now(),
+            "publication": "QA-cleared chapters still require the owner's full listen before Finished",
+            "jobs": jobs,
+        },
+    )
+
+
+def with_queue_lock(action):
+    with QUEUE_LOCK.open("a", encoding="utf-8") as lock:
+        fcntl.flock(lock, fcntl.LOCK_EX)
+        queue = load_queue()
+        result = action(queue)
+        save(QUEUE, queue)
+        return result
+
+
+def claim(worker: str, prepare_only: bool = False) -> dict | None:
+    def operation(queue: dict) -> dict | None:
+        for job in queue["jobs"]:
+            eligible = {"queued"} if prepare_only else {"queued", "directed"}
+            if job["status"] in eligible:
+                job["status"] = "directing" if job["status"] == "queued" else "rendering"
+                job["worker"] = worker
+                job["claimedAt"] = now()
+                return dict(job)
+        return None
+
+    return with_queue_lock(operation)
+
+
+def update(chapter: int, **changes) -> None:
+    def operation(queue: dict) -> None:
+        job = next(item for item in queue["jobs"] if item["chapter"] == chapter)
+        job.update(changes)
+        job["updatedAt"] = now()
+
+    with_queue_lock(operation)
+
+
+def unique_suffix(text: str, end: int) -> str:
+    """Return a unique selector ending exactly at a compiled pause boundary."""
+    floor = max(0, end - 360)
+    starts = [match.start() for match in re.finditer(r"(?<!\S)\S", text[floor:end])]
+    for relative in reversed(starts):
+        start = floor + relative
+        selector = text[start:end]
+        if len(selector) >= 18 and text.count(selector) == 1:
+            return selector
+    selector = text[floor:end]
+    if text.count(selector) != 1:
+        raise RuntimeError(f"Could not make a unique pause selector at character {end}")
+    return selector
+
+
+def written_scene_breaks(raw: str, clean: str) -> set[int]:
+    positions: set[int] = set()
+    marker = re.compile(r"^\s*(?:---+|\*\*\*+|___+)\s*$", re.M)
+    for match in marker.finditer(raw):
+        prefix = clean_markdown(raw[: match.start()])
+        if prefix and clean.startswith(prefix) and len(prefix) < len(clean):
+            positions.add(len(prefix))
+    return positions
+
+
+def compile_directed_pacing(source: Path, raw_track: Path, output: Path) -> None:
+    raw = source.read_text(encoding="utf-8")
+    clean = clean_markdown(raw)
+    directed = json.loads(raw_track.read_text(encoding="utf-8"))
+    scene_positions = written_scene_breaks(raw, clean)
+    paragraph_positions = {
+        match.start() for match in re.finditer(r"\n{2,}", clean) if 0 < match.start() < len(clean)
+    }
+    sentence_positions = set()
+    for match in re.finditer(r"[.!?]+[\"'”’]*(?=\s|$)", clean):
+        end = match.end()
+        if end >= len(clean) or end in paragraph_positions:
+            continue
+        if clean[end:].startswith("\n\n"):
+            continue
+        sentence_positions.add(end)
+
+    structural = {position: 1550 for position in sentence_positions}
+    structural.update({position: 2100 for position in paragraph_positions})
+    structural.update({position: 2700 for position in scene_positions})
+    pauses = [
+        {
+            "after": unique_suffix(clean, position),
+            "milliseconds": milliseconds,
+            "reason": (
+                "Written scene break and full restart."
+                if milliseconds == 2700
+                else "Prepared paragraph/speaker/subject reset."
+                if milliseconds == 2100
+                else "Prepared sentence or complete-thought landing."
+            ),
+        }
+        for position, milliseconds in sorted(structural.items())
+    ]
+
+    used_preword: set[str] = set()
+    preword_count = 0
+    for item in directed.get("pauses", []):
+        phrase = item.get("before")
+        if not phrase or clean.count(phrase) != 1 or phrase in used_preword or preword_count >= 8:
+            continue
+        position = clean.index(phrase)
+        if any(not clean[min(position, other):max(position, other)].strip() for other in structural):
+            continue
+        used_preword.add(phrase)
+        preword_count += 1
+        pauses.append(
+            {
+                "before": phrase,
+                "milliseconds": 340 if preword_count % 3 == 0 else 320,
+                "reason": item.get("reason", "Codex-selected pre-word preparation."),
+                "kind": "pre-word preparation",
+            }
+        )
+
+    result = dict(directed)
+    result["source"] = str(source.resolve())
+    result["sourceSha256"] = sha(source)
+    result["methodId"] = METHOD_ID
+    result["director"] = {
+        **directed.get("director", {}),
+        "role": "semantic performance direction",
+        "pacingCompiler": "Monroe 1.2.5-CI",
+    }
+    result["pacing"] = {
+        "speechSpeed": "native",
+        "sentenceLandingMs": 1550,
+        "paragraphSpeakerSubjectResetMs": 2100,
+        "writtenSceneBreakMs": 2700,
+        "preWordPreparationMs": [320, 340],
+        "waveformTimeStretch": False,
+    }
+    result["pauses"] = pauses
+    save(output, result)
+
+
+def direct(job: dict, chapter_dir: Path, log) -> Path:
+    chapter = int(job["chapter"])
+    raw_track = chapter_dir / f"chapter-{chapter:02d}.codex-raw.performance.json"
+    performance = chapter_dir / f"chapter-{chapter:02d}.directed-paced.performance.json"
+    started = time.monotonic()
+    reusable = False
+    if raw_track.exists():
+        previous = json.loads(raw_track.read_text(encoding="utf-8"))
+        reusable = (
+            previous.get("sourceSha256") == job["sourceSha256"]
+            and previous.get("director", {}).get("backend") == "codex"
+        )
+    if not reusable:
+        command = [
+            str(PYTHON),
+            str(DIRECTOR),
+            job["source"],
+            str(raw_track),
+            "--backend",
+            "codex",
+            "--model",
+            MODEL,
+            "--effort",
+            DIRECTOR_EFFORT,
+            "--audience",
+            "adult",
+            "--coach",
+            str(COACH),
+            "--book-context",
+            job["context"],
+        ]
+        completed = subprocess.run(command, stdout=log, stderr=subprocess.STDOUT)
+        if completed.returncode:
+            raise RuntimeError(f"Codex direction failed with exit code {completed.returncode}")
+    else:
+        print(f"Reuse hash-matched Codex direction: {raw_track}", file=log, flush=True)
+    compile_directed_pacing(Path(job["source"]), raw_track, performance)
+    update(
+        chapter,
+        status="directed",
+        direction=str(performance),
+        directionSha256=sha(performance),
+        directionSeconds=round(time.monotonic() - started, 2),
+    )
+    return performance
+
+
+def render(job: dict, chapter_dir: Path, performance: Path, log) -> tuple[Path, int, float]:
+    chapter = int(job["chapter"])
+    output = chapter_dir / f"chapter-{chapter:02d}.calder-directed-paced.mp3"
+    command = [
+        str(RENDERER),
+        job["source"],
+        str(output),
+        "--engine",
+        "fish-s2",
+        "--profile",
+        str(PROFILE),
+        "--performance",
+        str(performance),
+        "--palette",
+        str(PALETTE),
+    ]
+    started = time.monotonic()
+    completed = subprocess.run(command, stdout=log, stderr=subprocess.STDOUT)
+    elapsed = round(time.monotonic() - started, 2)
+    if completed.returncode not in {0, 2}:
+        raise RuntimeError(f"Fish render failed with exit code {completed.returncode}")
+    return output, completed.returncode, elapsed
+
+
+def worker(name: str, limit: int | None, prepare_only: bool) -> int:
+    completed_jobs = 0
+    while limit is None or completed_jobs < limit:
+        job = claim(name, prepare_only=prepare_only)
+        if not job:
+            break
+        chapter = int(job["chapter"])
+        chapter_dir = RUN / f"chapter-{chapter:02d}"
+        chapter_dir.mkdir(parents=True, exist_ok=True)
+        log_path = chapter_dir / f"worker-{name}.log"
+        try:
+            if sha(Path(job["source"])) != job["sourceSha256"]:
+                raise RuntimeError("Canonical source changed after the queue was initialized")
+            with log_path.open("a", encoding="utf-8") as log:
+                print(f"[{now()}] worker={name} chapter={chapter}", file=log, flush=True)
+                if job["status"] == "directing":
+                    performance = direct(job, chapter_dir, log)
+                    if prepare_only:
+                        completed_jobs += 1
+                        continue
+                    update(chapter, status="rendering")
+                else:
+                    performance = Path(job["direction"])
+                output, result, render_seconds = render(job, chapter_dir, performance, log)
+            report = output.with_suffix(".narrator.json")
+            report_payload = json.loads(report.read_text(encoding="utf-8")) if report.exists() else {}
+            status = "qa-cleared" if result == 0 else "needs-pickups"
+            update(
+                chapter,
+                status=status,
+                audio=str(output),
+                audioSha256=sha(output),
+                narratorReport=str(report),
+                automatedPass=bool(report_payload.get("automatedPass")),
+                humanListening="pending",
+                renderSeconds=render_seconds,
+            )
+        except Exception as error:
+            update(chapter, status="needs-attention", error=str(error), log=str(log_path))
+        completed_jobs += 1
+    return 0
+
+
+def status() -> None:
+    queue = load_queue()
+    counts: dict[str, int] = {}
+    for job in queue["jobs"]:
+        counts[job["status"]] = counts.get(job["status"], 0) + 1
+    print(json.dumps({"run": str(RUN), "counts": counts, "jobs": queue["jobs"]}, indent=2))
+
+
+def launch_workers(count: int, limit: int | None, prepare_only: bool) -> None:
+    processes = []
+    for number in range(1, count + 1):
+        name = f"w{number}"
+        log_path = RUN / f"{name}.launcher.log"
+        command = [sys.executable, str(Path(__file__).resolve()), "--worker", name]
+        if limit is not None:
+            command.extend(["--limit", str(limit)])
+        if prepare_only:
+            command.append("--prepare-only")
+        with log_path.open("a", encoding="utf-8") as log:
+            process = subprocess.Popen(
+                ["/usr/bin/caffeinate", "-i", *command],
+                stdin=subprocess.DEVNULL,
+                stdout=log,
+                stderr=subprocess.STDOUT,
+                start_new_session=True,
+            )
+        processes.append({"worker": name, "pid": process.pid, "log": str(log_path)})
+    print(json.dumps({"run": str(RUN), "workers": processes}, indent=2))
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--status", action="store_true")
+    parser.add_argument("--worker")
+    parser.add_argument("--limit", type=int)
+    parser.add_argument("--prepare-only", action="store_true")
+    parser.add_argument("--launch-workers", type=int, choices=[1, 2])
+    parser.add_argument("--limit-per-worker", type=int)
+    parser.add_argument("--retry-attention", action="store_true")
+    args = parser.parse_args()
+    initialize()
+    if args.retry_attention:
+        def retry(queue: dict) -> None:
+            for job in queue["jobs"]:
+                if job["status"] == "needs-attention":
+                    job["status"] = "queued"
+                    job.pop("error", None)
+        with_queue_lock(retry)
+    if args.status:
+        status()
+        return 0
+    if args.launch_workers:
+        launch_workers(args.launch_workers, args.limit_per_worker, args.prepare_only)
+        return 0
+    return worker(args.worker or "foreground", args.limit, args.prepare_only)
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
