@@ -330,7 +330,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         pacing_override = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
         palette = read_json(PALETTE)
         correction = (
-            " Pace correction: sustain an unhurried 150–160 spoken words per minute "
+            " Pace correction: sustain an unhurried 140–148 spoken words per minute "
             "before the supplied structural pauses. Do not accelerate through long syntax."
         )
         for performance in palette.get("performances", {}).values():
