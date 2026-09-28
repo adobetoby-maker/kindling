@@ -12,7 +12,9 @@ from pathlib import Path
 import re
 import subprocess
 import sys
+import tempfile
 import time
+import wave
 from datetime import datetime, timezone
 
 
@@ -27,6 +29,7 @@ PALETTE = Path(
     "calder-eleven-original-v1/calder-eleven-15.candidate-palette.json"
 )
 PYTHON = Path("/Users/drive/.local/share/monroe-tts/venv/bin/python")
+WORD_VERIFIER = Path("/Users/drive/git-backups/boundary-universe-cc/scripts/verify-local-tts.py")
 RUN = Path(
     os.environ.get(
         "KINDLED_MONROE_CI_RUN",
@@ -168,6 +171,106 @@ def normalized_words(text: str) -> list[str]:
     return re.findall(r"[a-z0-9]+(?:'[a-z0-9]+)?", text.lower().replace("’", "'"))
 
 
+def suspect_segment_indices(record: dict, verification: dict) -> list[int]:
+    """Map whole-chapter ASR anomalies to the exact cached Fish takes."""
+    ranges: list[tuple[int, int, int]] = []
+    cursor = 0
+    for item in record.get("segments", []):
+        count = len(normalized_words(str(item.get("text", ""))))
+        ranges.append((cursor, cursor + count, int(item["index"])))
+        cursor += count
+
+    def at(position: int) -> int | None:
+        if not ranges:
+            return None
+        bounded = max(0, min(position, max(0, cursor - 1)))
+        return next((index for start, end, index in ranges if start <= bounded < end), ranges[-1][2])
+
+    selected: set[int] = set()
+    for failure in verification.get("suspiciousOmissions", []):
+        start = int(failure.get("sourceWordStart", 0))
+        length = max(1, len(normalized_words(str(failure.get("sourceWords", "")))))
+        for seg_start, seg_end, index in ranges:
+            if seg_start < start + length and start < seg_end:
+                selected.add(index)
+    for failure in verification.get("suspiciousAdditions", []):
+        index = at(int(failure.get("sourceWordAfter", 0)))
+        if index is not None:
+            selected.add(index)
+    return sorted(selected)
+
+
+def targeted_word_evidence(output: Path, verification: dict) -> dict | None:
+    """Recheck only suspicious takes so long-form Whisper drift cannot fail good audio."""
+    record = read_json(output.with_suffix(".json"))
+    selected = suspect_segment_indices(record, verification)
+    if not selected:
+        return None
+    by_index = {int(item["index"]): item for item in record.get("segments", [])}
+    items = [by_index[index] for index in selected]
+    report_path = output.with_suffix(".targeted-words.json")
+    with tempfile.TemporaryDirectory(prefix="kindled-word-evidence-") as directory:
+        temporary = Path(directory)
+        source = temporary / "selected-segments.md"
+        audio = temporary / "selected-segments.wav"
+        source.write_text("\n\n".join(str(item["text"]) for item in items) + "\n", encoding="utf-8")
+
+        parameters: tuple[int, int, int, str, str] | None = None
+        frames: list[bytes] = []
+        for item in items:
+            wav_path = Path(item["wav"])
+            with wave.open(str(wav_path), "rb") as reader:
+                current = (
+                    reader.getnchannels(),
+                    reader.getsampwidth(),
+                    reader.getframerate(),
+                    reader.getcomptype(),
+                    reader.getcompname(),
+                )
+                if parameters is None:
+                    parameters = current
+                elif current != parameters:
+                    raise RuntimeError("Targeted word evidence found incompatible cached WAV formats")
+                frames.append(reader.readframes(reader.getnframes()))
+        assert parameters is not None
+        channels, sample_width, frame_rate, compression, compression_name = parameters
+        silence = b"\0" * (round(frame_rate * 0.35) * channels * sample_width)
+        with wave.open(str(audio), "wb") as writer:
+            writer.setnchannels(channels)
+            writer.setsampwidth(sample_width)
+            writer.setframerate(frame_rate)
+            writer.setcomptype(compression, compression_name)
+            for position, item_frames in enumerate(frames):
+                writer.writeframes(item_frames)
+                if position + 1 < len(frames):
+                    writer.writeframes(silence)
+
+        completed = subprocess.run(
+            [str(PYTHON), str(WORD_VERIFIER), str(source), str(audio), "--strict"],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+        )
+        if completed.returncode not in {0, 2}:
+            raise RuntimeError(f"Targeted word verification failed with exit code {completed.returncode}")
+        evidence = read_json(audio.with_suffix(".verification.json"))
+
+    evidence["evidenceType"] = "targeted-segment-recheck"
+    evidence["fullChapterVerification"] = str(output.with_suffix(".verification.json"))
+    evidence["selectedSegments"] = [
+        {"index": int(item["index"]), "text": str(item["text"]), "audioSha256": sha(Path(item["wav"]))}
+        for item in items
+    ]
+    evidence["targetedEvidencePass"] = (
+        not evidence.get("suspiciousOmissions")
+        and not evidence.get("suspiciousAdditions")
+        and float(evidence.get("orderedWordCoverage", 0.0)) >= 0.94
+    )
+    evidence["source"] = str(record.get("input", ""))
+    evidence["audio"] = str(output)
+    save(report_path, evidence)
+    return evidence
+
+
 def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Path:
     """Map objective QA failures back to the smallest cached Fish segments."""
     chapter_dir = output.parent
@@ -192,23 +295,11 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         bounded = max(0, min(position, max(0, cursor - 1)))
         return next((index for start, end, index in ranges if start <= bounded < end), ranges[-1][2])
 
+    targeted_path = output.with_suffix(".targeted-words.json")
+    targeted = read_json(targeted_path) if targeted_path.is_file() else {}
     text_segments: set[int] = set()
-    for failure in verification.get("suspiciousOmissions", []):
-        start = int(failure.get("sourceWordStart", 0))
-        length = max(1, len(normalized_words(str(failure.get("sourceWords", "")))))
-        for seg_start, seg_end, index in ranges:
-            if seg_start < start + length and start < seg_end:
-                text_segments.add(index)
-        for position in (start - 1, start + length):
-            index = at(position)
-            if index is not None:
-                text_segments.add(index)
-    for failure in verification.get("suspiciousAdditions", []):
-        position = int(failure.get("sourceWordAfter", 0))
-        for nearby in (position - 1, position):
-            index = at(nearby)
-            if index is not None:
-                text_segments.add(index)
+    if not targeted.get("targetedEvidencePass"):
+        text_segments.update(suspect_segment_indices(record, verification))
 
     naturalness_segments = {
         int(item["index"])
@@ -251,11 +342,21 @@ def adjudicate_word_evidence(output: Path, report: dict) -> dict:
         and not verification.get("suspiciousAdditions")
         and float(verification.get("orderedWordCoverage", 0.0)) >= 0.94
     )
+    targeted = None if evidence_pass else targeted_word_evidence(output, verification)
+    if targeted and targeted.get("targetedEvidencePass"):
+        evidence_pass = True
     if evidence_pass and "words" in report.get("checks", {}):
         report["checks"]["words"]["pass"] = True
-        report["checks"]["words"]["adjudication"] = (
-            "No suspicious omission or addition; remaining ASR substitutions are non-gating evidence."
-        )
+        if targeted:
+            report["checks"]["words"]["targetedReport"] = str(output.with_suffix(".targeted-words.json"))
+            report["checks"]["words"]["adjudication"] = (
+                "Whole-chapter ASR anomalies were absent when the exact implicated cached takes "
+                "were independently rechecked; remaining substitutions are non-gating evidence."
+            )
+        else:
+            report["checks"]["words"]["adjudication"] = (
+                "No suspicious omission or addition; remaining ASR substitutions are non-gating evidence."
+            )
     report["automatedPass"] = all(item.get("pass") is True for item in report.get("checks", {}).values())
     report["status"] = "awaiting-listening" if report["automatedPass"] else "needs-pickups"
     save(output.with_suffix(".narrator.json"), report)
@@ -516,6 +617,40 @@ def plan_pickups() -> None:
             update(chapter, status="needs-attention", error=f"Pickup planning failed: {error}")
 
 
+def recheck_attention() -> None:
+    """Rerun objective evidence adjudication without replacing accepted audio."""
+    queue = load_queue()
+    for job in queue["jobs"]:
+        if job["status"] != "needs-attention":
+            continue
+        chapter = int(job["chapter"])
+        output = Path(str(job.get("audio", "")))
+        report_path = output.with_suffix(".narrator.json")
+        if not output.is_file() or not report_path.is_file():
+            continue
+        try:
+            report = adjudicate_word_evidence(output, read_json(report_path))
+            if report.get("automatedPass"):
+                update(
+                    chapter,
+                    status="qa-cleared",
+                    automatedPass=True,
+                    humanListening="pending",
+                    error=None,
+                )
+                continue
+            plan = build_pickup_plan(chapter, output, overwrite=True)
+            update(
+                chapter,
+                status="needs-pickups",
+                pickupPlan=str(plan),
+                pickupAttempts=0,
+                error=None,
+            )
+        except Exception as error:
+            update(chapter, status="needs-attention", error=f"Objective recheck failed: {error}")
+
+
 def accept_title_only_source_updates() -> None:
     """Rebase cached narration when canon changed only the spoken H1 title."""
     repository = BOOK.parents[1]
@@ -652,6 +787,7 @@ def main() -> int:
     parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--retry-rendering", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--plan-pickups", action="store_true")
+    parser.add_argument("--recheck-attention", action="store_true")
     parser.add_argument("--accept-title-only-source-updates", action="store_true")
     args = parser.parse_args()
     initialize()
@@ -686,6 +822,8 @@ def main() -> int:
         with_queue_lock(retry_rendering)
     if args.plan_pickups:
         plan_pickups()
+    if args.recheck_attention:
+        recheck_attention()
     if args.accept_title_only_source_updates:
         accept_title_only_source_updates()
     if args.status:
