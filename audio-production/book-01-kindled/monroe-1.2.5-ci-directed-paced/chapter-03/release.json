@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "status": "objective-cleared-awaiting-human-listening",
+  "publishedAt": "2026-09-27T21:41:34-06:00",
+  "bookId": "book-01-kindled",
+  "bookTitle": "Kindled — Book One",
+  "chapter": 3,
+  "chapterTitle": "Callie: Twenty-Three Days to Meridian",
+  "source": "books/book-01-kindled/revised/chapter-03.md",
+  "sourceSha256": "134743a9174ff4ef759d0df5a82948cafc116d7b381d840c05e5dbac37e474a1",
+  "audio": "audio/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03.mp3",
+  "audioSha256": "e944c6b79626beb817b67a601952493799b21a75b39a084f8ff4b86f174ff933",
+  "bytes": 23693229,
+  "durationSec": 1480.766,
+  "writer": {
+    "publicAuthor": "Monroe Jackson",
+    "authorSeat": "Monroe 1.3 canonical assembly",
+    "authorModel": "not recorded"
+  },
+  "reader": {
+    "voice": "Original Calder",
+    "engine": "Local Fish Audio S2 Pro 8-bit",
+    "model": "mlx-community/fish-audio-s2-pro-8bit",
+    "language": "Australian English",
+    "pipeline": "Monroe Book Narrator 1.2.5-CI",
+    "methodId": "monroe-1.2.5-ci-directed-paced",
+    "director": "Codex gpt-5.6-sol",
+    "direction": "Codex-directed, Directed-Paced",
+    "speechSpeed": "native",
+    "timeStretch": false,
+    "localOnly": true
+  },
+  "pacing": {
+    "sentenceLandingMs": 1550,
+    "paragraphSpeakerSubjectResetMs": 2100,
+    "writtenSceneBreakMs": 2700,
+    "preWordPreparationMs": [
+      320,
+      340
+    ],
+    "measuredWpm": 144.98,
+    "targetWpmRange": [
+      120,
+      150
+    ]
+  },
+  "quality": {
+    "objectivePass": true,
+    "wordEvidence": "targeted segment recheck cleared whole-chapter ASR drift",
+    "masteringPass": true,
+    "voiceIdentityPass": true,
+    "naturalnessPass": true,
+    "pacingPass": true,
+    "humanListening": "pending"
+  },
+  "evidence": {
+    "narrator": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/narrator.json",
+    "verification": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/verification.json",
+    "targetedWords": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/targeted-words.json",
+    "mastering": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/mastering.json",
+    "voiceIdentity": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/voice-quality.json",
+    "naturalness": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/naturalness.json",
+    "dnsmos": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/dnsmos.json",
+    "direction": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/direction.json",
+    "production": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-03/production.json"
+  }
+}
