@@ -52,7 +52,8 @@ across three protagonists plus a defender cohort. The owner then joined the
 two proposed outward objectives into one load-bearing mission: the team must
 recover the failing treatment-machine part at Caul Hill **and** reach and
 secure the new ash-rich rip there. The large ash reserve is not bonus loot; it
-is the fuel that lets Rook, Jab, and a surviving Homura cross-medic recall the
+is the fuel that lets Rook, Jab, and **Dee Wren**, the canon Homura survivor,
+recall the
 radiation burden from exposed bodies long enough for the party to enter, work,
 fight, and come back alive. `OWNER`.
 
@@ -71,8 +72,8 @@ for cases such as Tilda's and Tonk's—needs a part from the irradiated plant
 beside it. Reaching the part and securing the rip are one mission. The team must carry large stores of
 graded ash because Sustain can recall active radiation from a living body only
 while someone keeps paying for the work. That necessity turns three separated
-arrivals into one company: Callie, Jab, and Toren go with Rook and the Homura
-cross-medic, while their coaches and cohort make the expedition possible.
+arrivals into one company: Callie, Jab, and Toren go with Rook and Dee Wren,
+while their coaches and cohort make the expedition possible.
 Training, combat, ash economics, and found-family bonding all happen because
 the mission must be prepared for, survived, and paid for. Institutional
 politics supplies pressure and consequence. It does not replace the adventure.
@@ -131,7 +132,7 @@ The objectives cannot be separated:
 1. Carry enough clean, graded ash from Meridian to fund the approach and the
    first radiation-recall cycles. The team cannot count on ash it has not yet
    won.
-2. Cross the contaminated approach while Rook, Jab, and `[HOMURA MEDIC]`
+2. Cross the contaminated approach while Rook, Jab, and Dee Wren
    rotate Sustain duty, recalling active radiological burden before it fixes
    into lasting tissue damage.
 3. Reach the calibration assembly and recover the compatible part.
@@ -192,7 +193,7 @@ book's other threads have taught. The team carries large stores of lifted,
 graded ash as fuel, not as trade cargo and not as a lucky find. Toren's Guard
 and Callie's widened Ward protect the Sustain rotation. Jab senses changes in
 the bodies under his care and learns to recall radiation deliberately. Rook
-teaches him the lived technique; `[HOMURA MEDIC]` teaches the repeatable
+teaches him the lived technique; Dee teaches the repeatable
 capacity discipline: take ash in, settle it without confusing it for personal
 reserve, spend it through Sustain, vent the harmful load, and refill before
 the soul bottoms out. The defender cohort covers the gap at Meridian while
@@ -271,7 +272,7 @@ future without turning the present-day cast into an academy imitation:
   actually possess. Toren records the combined-field method rather than being
   crowned its founder in advance.
 - Wyck's safe Resilience/contact practice develops beside it as a distinct
-  body-discipline lane. The Homura medic's Ward/Sustain and ash-capacity work
+  body-discipline lane. Dee's Ward/Sustain and ash-capacity work
   becomes the medical lane. Rift-response rotations remain a field tradition,
   not a classroom.
 - Dessa starts the first append-only training ledger: exercise, observed
@@ -289,14 +290,14 @@ future without turning the present-day cast into an academy imitation:
 | Teacher | Domain taught | Method | Where it disagrees with the others | Status |
 |---|---|---|---|---|
 | **Rook / Elias Marsh** | Edge, Stride, Ward, Sustain, and the Path in general | Teaches Jab radiation recall by feel and consequence: read the body, draw only what is still active, stop before the healer begins taking the burden personally, and use ash before personal reserve | Distrusts drilling for its own sake; knows the technique but not the complete Homura capacity method, which gives him a real reason to learn beside Jab | `CANON` (method and Sustain), radiation-recall role `OWNER` |
-| **Katori** | Field/combat judgment, reading terrain and people under pressure | Teaches by trusting a student with real responsibility before they feel ready, then debriefing hard afterward | Clashes with Pell's slower, written-record discipline; also tests `[HOMURA MEDIC]`'s reserve-safety doctrine, since Katori's judgment calls sometimes require spending past the safe line on purpose | `CANON` (established, Book 1), Book 2 role `POSSIBLE` |
+| **Katori** | Field/combat judgment, reading terrain and people under pressure | Teaches by trusting a student with real responsibility before they feel ready, then debriefing hard afterward | Clashes with Pell's slower, written-record discipline; also tests Dee Wren's reserve-safety doctrine, since Katori's judgment calls sometimes require spending past the safe line on purpose | `CANON` (established, Book 1), Book 2 role `POSSIBLE` |
 | **Pell** | Ground-reading, cartographic/logistics discipline, the arithmetic of a road | Teaches by writing everything down and making a student defend the number, not the feeling | The most cautious of the group's own teachers; likely to be the one voice arguing against the Caul Hill mission's risk math, which gives the mission's departure real friction instead of easy consensus | `CANON` (established, Book 1), Book 2 role `POSSIBLE` |
 | **The Elder (carried teaching)** | Practical craft and communal ethic — the valley's whole model of shared obligation, which is where Jab's caregiving logic comes from | Not present in person; **her** teaching is inherited and re-applied by Jab under new pressure, and should deepen through contact with Meridian's found-family rather than be replaced by it | The gentlest and least institutional of the teaching traditions; her ethic is what lets Jab resist becoming Meridian property when recruitment begins | `CANON` (Book 1 source pool), Book 2 deepening `POSSIBLE` |
-| **`[HOMURA MEDIC]`** | Cross-tradition medicine, Sustain, access/control across multiple doors, and safe ash capacity | A surviving Homura cross-medic teaches the part neither Rook nor Meridian's labor system knows how to formalize: increasing the soul's *usable working depth* so a Kindled person can absorb, settle, hold, spend, vent, and replenish more ash without confusing capacity with rank. Their drills are controlled; their field method is rotation, measurement, and stopping before a healer becomes the next patient | They respect Rook's instincts but reject his willingness to discover limits in crisis. Rook knows how to save the person in front of him; the medic knows how to keep three healers functional through a six-hour contaminated operation. Their disagreement produces a better mission protocol, not a winner | Homura survival and cross-medical role `OWNER`; name and personal history remain owner-supplied placeholders |
+| **Dee Wren** | Cross-tradition medicine, Sustain, access/control across multiple doors, and safe ash capacity | The Homura survivor whom Rook walked to safety teaches the part neither Rook nor Meridian's labor system knows how to formalize: increasing the soul's *usable working depth* so a Kindled person can absorb, settle, hold, spend, vent, and replenish more ash without confusing capacity with rank. Dee's drills are controlled; the field method is rotation, measurement, and stopping before a healer becomes the next patient | Dee respects Rook's instincts but rejects his willingness to discover limits in crisis. Rook knows how to save the person in front of him; Dee knows how to keep three healers functional through a six-hour contaminated operation. Their disagreement produces a better mission protocol, not a winner | Name and Homura survival `CANON`; cross-medical teaching role `OWNER`; age and exact door count remain undisclosed |
 
 **Where the disagreement should surface on the page:** during preparation,
 Rook wants Jab trained against a real body because Sustain is relational and
-cannot be learned from an empty cot. `[HOMURA MEDIC]` insists on ash-budgeted
+cannot be learned from an empty cot. Dee insists on ash-budgeted
 cycles, a hard rotation, and an abort line. The mission proves both are right:
 Jab needs Rook's feel to find the burden, and the medic's discipline to come
 back from finding it.
@@ -318,7 +319,7 @@ back from finding it.
   Meridian local, invented at drafting, who has no Book One history and
   therefore reacts to everything (the ash economy, the found-family's
   closeness, Rook's method) the way a reader coming in cold might.
-- **Adult safeguards:** `[HOMURA MEDIC]` oversees formal reserve and Sustain drills; Rook
+- **Adult safeguards:** Dee Wren oversees formal reserve and Sustain drills; Rook
   oversees live Sag-line rotations; no cohort member holds a line alone
   without an adult in immediate support distance; injuries and overdraws are
   logged and reviewed, mirroring the station's own paperwork culture (a
@@ -328,7 +329,7 @@ back from finding it.
   an adult's held line → controlled short holds under direct supervision →
   full rotations with an adult in support range → the Caul Hill mission as
   the first expedition beyond Meridian's support perimeter. It is not an
-  unsupervised youth test: Rook and `[HOMURA MEDIC]` travel, while Katori and
+  unsupervised youth test: Rook and Dee travel, while Katori and
   Pell divide field/navigation coaching and the defense of the people left
   behind.
 - **Moral pressure:** the book should not resolve whether this is right. The
@@ -387,7 +388,7 @@ exactly that kind of scene, not through explanation.
    Ash does not become a second organ or named storage tank; the soul holds
    it as usable reserve. Rushing intake causes spill, nausea, false fullness,
    or a lock that prevents clean spending.
-6. **Increasing usable working depth.** `[HOMURA MEDIC]` teaches that a
+6. **Increasing usable working depth.** Dee teaches that a
    Kindled soul does not become metaphysically larger in a week; the person
    learns to use more of the depth already present. Intake, settle, spend,
    vent, rest, repeat. Capacity is measured by clean cycles and recovery, not
@@ -418,12 +419,12 @@ direction to draft in 6–8-chapter runs later.
 
 | Movement | Chapters | Dominant POV balance | Entry state | Training/progression | Human pressure | Action set piece | Turn | Carried injuries/resources | Exit state |
 |---|---:|---|---|---|---|---|---|---|---|
-| **1 — Three Roads, One Wall** | 7–8 | Even rotation, Callie → Jab → Toren, redrafted from the Ch. 27–28/18–20/11–14 source pool as one shared opening | The joined rescue is just over; all three households are inside the gate, conditional, unreviewed | Cards, declarations, first ash-lifting exposure (the Rook ash-collection scene lands here); no deliberate technique training yet | Diagnoses land for Senna, Tilda, and Tonk in the same movement, cross-cut for the first time instead of stacked; grief for Milo; Rook's and Katori's Satori recognition | None major — this movement's "action" is institutional and medical, matching the source material's own register | The shared treatment shed is revealed to be single-point-of-failure infrastructure (a line added, not invented, extending Doctor Sowerby's "one machine... I don't know of another within four hundred miles") | Establish every medical baseline in §4: Tilda's palliative medicines, Tonk's infection clock/frame, Senna's eleven-day cycle and nerve loss, plus the returning party's injuries; everyone also has a residency clock | All three households conditionally admitted; no training begun; the machine's fragility is known only to the reader and a few adults |
-| **2 — The North Yard** | 6–7 | Toren-leaning, with Callie and Jab both present and load-bearing | Cohort forms; `[HOMURA MEDIC]` recognizes Jab's second door and Meridian marks him as a primary medical recruit | Ash ladder stages 1–4; the first same-obstacle/three-answers drill contrasts Jab's lit fish knife, Toren's ugly spike, and Callie's hooked Ward/Edge; Toren's first failed deliberate Guard; Callie's first supervised wider Ward; Jab learns that sensing and healing are both Sustain | Recruitment threatens to turn Jab's gift into another debt contract; Katori, Pell, Rook, and the medic disagree about safe training | **Sag-line failure** (action sequence #1): a supervised hold breaks; Jab senses the injury before he sees it and stabilizes the casualty, but empties himself doing it | Rook identifies the instinct; the medic gives it a name and demonstrates that ash, correctly held, can fund it | Tonk's fever/infection answer approaches; Tilda has an uneven response to medicine; Senna loses more sensation; Wyck and Rook learn that grit cannot substitute for healing | The mission becomes necessary; Jab becomes indispensable and institutionally visible; the north yard's three lanes and first ledger page exist |
-| **3 — Working Depth** | 6–7 | Jab-leaning, Callie and Toren co-equal | The Director's office refuses the Caul Hill operation; Rook and the medic begin preparing anyway | Ash ladder stages 5–9: absorption, usable working depth, radiation recall, rotation, venting, and overdraw limits; Jab coaches edge-light economy, Callie trains Ward-to-Edge handoff, Toren works toward Guard | Jab must accept training from the same institution trying to claim his labor; Rook must admit Homura knew a reproducible method he never mastered | A controlled exposure exercise becomes a real emergency when a sealed sample or contaminated worker breaches protocol; Jab and Rook perform the first paired recall | The team proves radiation recall works, but also proves it consumes ash too quickly for an improvised trip | The required ash budget, healer rotation, exposure window, abort line, and coach assignments are calculated; Tonk achieves one small independent movement while Tilda has the bad morning that nearly keeps Callie home | Departure is approved informally or undertaken against a formal refusal; Tonk releases Jab to go, Tilda sends Callie, and Senna sends Toren toward the road she cannot walk |
-| **4 — The Rip Road** | 7–8 | Callie-leaning, Jab and Toren co-equal | The team carries a finite ash reserve beyond the Sag's support perimeter toward Caul Hill | Callie widens Ward around moving people; Toren makes Guard reproducible; Jab completes short recall cycles and returns cleanly to reserve | Every delay now has two prices: the machine clock at Meridian and ash consumed protecting exposed bodies | **Approach fight** (action sequence #2): radiation, unstable ground, and lesser spawn force the first full three-protagonist combination before the party reaches the plant | Jab's sense detects that the new rip is pulsing with a Sustain-like rhythm and that something at its center is recalling loose ash | Ash below plan; at least one carried injury; route home threatened | The part and the rip are confirmed to occupy the same tactical problem; there is no clean salvage-only option |
-| **5 — Caul Hill** | 7–8 | True three-way rotation: Callie owns access, Jab owns survival, Toren owns the moving defense | The party enters with a finite number of Sustain cycles and no guaranteed ash beyond the enemy | Radiation recall, Ward-at-scale, Guard, and ash rotation all operate under live failure conditions | Rook and `[HOMURA MEDIC]` must trust the younger team to act while they keep exposed bodies alive | **Primary climax — the new Riftspawn:** a Sustain-echo creature at the rip recalls scattered ash and reconstitutes damaged spawn, making ordinary attrition useless. Callie contains its ash-current with Ward, Toren anchors and severs its physical routes with Guard/Edge, and Jab identifies and interrupts the renewal pulse so the team can kill it together | The creature dies only when all three capabilities land in sequence; its ash replenishes the exhausted Sustain rotation after, never before, the decisive exchange | The machine part, a large but costly ash recovery, injuries that cannot be hand-waved away, and proof the rip is changing | Turn for home with the mission won but the ash ledger and bodies showing its cost |
-| **6 — What We Brought Home** | 6–7 | Even rotation, all three | Return under reduced reserves; the machine and patients are still on the clock | Each protagonist proves the new capability outside the climax: Callie holds others, Jab recalls and rotates without self-erasure, Toren leads without replacing his team | The part repairs the shed; the ash haul and recruit record force Meridian to negotiate residency and defender status from a new position | **Return hold** (action sequence #3, shorter than Caul Hill): the cohort and returning party jointly contain a Sag surge caused by the distant rip's collapse | Demonstrated capability—not a speech—wins a specific, incomplete accord; Jab chooses terms of service instead of being assigned them | The part installed; Tonk's infection state and Tilda's symptom response are shown rather than summarized; Senna continues her cycle; mission injuries require recovery; ash is apportioned and obligations recorded | The company takes its name; the three protagonists remain together for Book Three; the north-yard ledger and three practice lanes remain after them as the first seed of the future schools; Cinder's remnant and one disk clue stay as horizon threads |
+| **1 — Three Roads, One Wall** | 8 | Even rotation, Callie → Jab → Toren, redrafted from the Ch. 27–28/18–20/11–14 source pool as one shared opening | The joined rescue is just over; all three households are inside the gate, conditional, unreviewed | Cards, declarations, first ash-lifting exposure (the Rook ash-collection scene lands here); no deliberate technique training yet | Diagnoses land for Senna, Tilda, and Tonk in the same movement, cross-cut for the first time instead of stacked; grief for Milo; Rook's and Katori's Satori recognition | None major — this movement's "action" is institutional and medical, matching the source material's own register | The shared treatment shed is revealed to be single-point-of-failure infrastructure (a line added, not invented, extending Doctor Sowerby's "one machine... I don't know of another within four hundred miles") | Establish every medical baseline in §4: Tilda's palliative medicines, Tonk's infection clock/frame, Senna's eleven-day cycle and nerve loss, plus the returning party's injuries; everyone also has a residency clock | All three households conditionally admitted; no training begun; the machine's fragility is known only to the reader and a few adults |
+| **2 — The North Yard** | 8 | Toren-leaning, with Callie and Jab both present and load-bearing | Cohort forms; Dee Wren recognizes Jab's second door and Meridian marks him as a primary medical recruit | Ash ladder stages 1–4; the first same-obstacle/three-answers drill contrasts Jab's lit fish knife, Toren's ugly spike, and Callie's hooked Ward/Edge; Toren's first failed deliberate Guard; Callie's first supervised wider Ward; Jab learns that sensing and healing are both Sustain | Recruitment threatens to turn Jab's gift into another debt contract; Katori, Pell, Rook, and Dee disagree about safe training | **Sag-line failure** (action sequence #1): a supervised hold breaks; Jab senses the injury before he sees it and stabilizes the casualty, but empties himself doing it | Rook identifies the instinct; Dee gives it a name and demonstrates that ash, correctly held, can fund it | Tonk's fever/infection answer approaches; Tilda has an uneven response to medicine; Senna loses more sensation; Wyck and Rook learn that grit cannot substitute for healing | The mission becomes necessary; Jab becomes indispensable and institutionally visible; the north yard's three lanes and first ledger page exist |
+| **3 — Working Depth** | 8 | Jab-leaning, Callie and Toren co-equal | The Director's office refuses the Caul Hill operation; Rook and Dee begin preparing anyway | Ash ladder stages 5–9: absorption, usable working depth, radiation recall, rotation, venting, and overdraw limits; Jab coaches edge-light economy, Callie trains Ward-to-Edge handoff, Toren works toward Guard | Jab must accept training from the same institution trying to claim his labor; Rook must admit Homura knew a reproducible method he never mastered | A controlled exposure exercise becomes a real emergency when a sealed sample or contaminated worker breaches protocol; Jab and Rook perform the first paired recall | The team proves radiation recall works, but also proves it consumes ash too quickly for an improvised trip | The required ash budget, healer rotation, exposure window, abort line, and coach assignments are calculated; Tonk achieves one small independent movement while Tilda has the bad morning that nearly keeps Callie home | Departure is approved informally or undertaken against a formal refusal; Tonk releases Jab to go, Tilda sends Callie, and Senna sends Toren toward the road she cannot walk |
+| **4 — The Rip Road** | 8 | Callie-leaning, Jab and Toren co-equal | The team carries a finite ash reserve beyond the Sag's support perimeter toward Caul Hill | Callie widens Ward around moving people; Toren makes Guard reproducible; Jab completes short recall cycles and returns cleanly to reserve | Every delay now has two prices: the machine clock at Meridian and ash consumed protecting exposed bodies | **Approach fight** (action sequence #2): radiation, unstable ground, and lesser spawn force the first full three-protagonist combination before the party reaches the plant | Jab's sense detects that the new rip is pulsing with a Sustain-like rhythm and that something at its center is recalling loose ash | Ash below plan; at least one carried injury; route home threatened | The part and the rip are confirmed to occupy the same tactical problem; there is no clean salvage-only option |
+| **5 — Caul Hill** | 8 | True three-way rotation: Callie owns access, Jab owns survival, Toren owns the moving defense | The party enters with a finite number of Sustain cycles and no guaranteed ash beyond the enemy | Radiation recall, Ward-at-scale, Guard, and ash rotation all operate under live failure conditions | Rook and Dee must trust the younger team to act while they keep exposed bodies alive | **Primary climax — the new Riftspawn:** a Sustain-echo creature at the rip recalls loose ash and reconstitutes damaged spawn, making ordinary attrition useless. Callie contains its ash-current with Ward, Toren anchors and severs its physical routes with Guard/Edge, and Jab identifies and interrupts the renewal pulse so the team can kill it together | The creature dies only when all three capabilities land in sequence; its ash replenishes the exhausted Sustain rotation after, never before, the decisive exchange | The machine part, a large but costly ash recovery, injuries that cannot be hand-waved away, and proof the rip is changing | Turn for home with the mission won but the ash ledger and bodies showing its cost |
+| **6 — What We Brought Home** | 8 | Even rotation, all three | Return under reduced reserves; the machine and patients are still on the clock | Each protagonist proves the new capability outside the climax: Callie holds others, Jab recalls and rotates without self-erasure, Toren leads without replacing his team | The part repairs the shed; the ash haul and recruit record force Meridian to negotiate residency and defender status from a new position | **Return hold** (action sequence #3, shorter than Caul Hill): the cohort and returning party jointly contain a Sag surge caused by the distant rip's collapse | Demonstrated capability—not a speech—wins a specific, incomplete accord; Jab chooses terms of service instead of being assigned them | The part installed; Tonk's infection state and Tilda's symptom response are shown rather than summarized; Senna continues her cycle; mission injuries require recovery; ash is apportioned and obligations recorded | The company takes its name; the three protagonists remain together for Book Three; the north-yard ledger and three practice lanes remain after them as the first seed of the future schools; Cinder's remnant and one disk clue stay as horizon threads |
 
 ## 9. Three substantial action sequences
 
@@ -495,7 +496,7 @@ direction to draft in 6–8-chapter runs later.
 | Jab's "second thing," unnamed, unreliable, and already capable of sensing and stabilizing Tonk | Jab 3, 7, 11–14 | Named as Sustain; trained into deliberate sensing, radiation recall, and ash-funded medical rotation; makes Jab Meridian's primary recruit |
 | Toren's Edge+Stride blend, unconfirmed whether repeatable (Ch. 26, prior book) | Prior book | Confirmed, then exceeded — Guard |
 | Sustain-echo Riftspawn held in reserve in the universe rules | `UNIVERSE_BIBLE.md` | The Caul Hill creature recalls loose ash to repair itself and other spawn; defeated only by coordinated Ward, Guard/Edge, and Sustain timing |
-| The soul holds source-power; ash is ownerless clean fuel | `UNIVERSE_BIBLE.md` | `[HOMURA MEDIC]` teaches increased usable working depth: more safe ash cycles, not an instant rank increase or a separate storage organ |
+| The soul holds source-power; ash is ownerless clean fuel | `UNIVERSE_BIBLE.md` | Dee teaches increased usable working depth: more safe ash cycles, not an instant rank increase or a separate storage organ |
 | "Released to bearer," no name attached (Ch. 28) | Ch. 28 | One clue, landed in Movement 5 or 6, not the book's engine |
 | Rook's four-season ash-lifting debt (Ch. 28) | Ch. 28 | The daily stakes underneath Movements 1–2; his refusal of a shortcut is tested again at Caul Hill |
 | Tull alive, Cinder Company "will re-form under another name" (prior book) | Prior book | Confirmed off-page in Movement 6, opening Book 3 |
@@ -572,10 +573,10 @@ the recovering party. Do not let a chapter silently reset a body to healthy.
 
 ## 12. Owner decisions still genuinely required
 
-1. **`[HOMURA MEDIC]`'s name, age, exact door count, and personal history.**
-   Their Homura survival, cross-medical training, wider door access, and
-   working-depth expertise are owner direction; personal identity remains an
-   owner-named placeholder under the O'Connor seat rules.
+1. **Dee Wren's age and exact door count.** Dee is already canonically the
+   Homura survivor Rook walked to safety. Book Two uses Dee as the cross-medical
+   teacher rather than inventing a second survivor. Keep age and exact door
+   count undisclosed until the owner sets them or the story truly requires them.
 2. **Who first identifies Caul Hill.** The destination and merged mission are
    now owner-selected. Recommend Senna name the place herself so the story
    does not use her history without her agency, but the scene staging remains
@@ -596,14 +597,11 @@ the recovering party. Do not let a chapter silently reset a body to healthy.
 
 ## 13. Recommended final book length
 
-**Recommend approximately 155,000–170,000 words.** Reasoning: Book One ran
-roughly 200,000–212,000 words across ten movements and three geographically
-separate roads that needed independent establishment. Book Two is
-structurally denser but geographically simpler — one location (Meridian) plus
-one outward arc — across six movements rather than ten. Using this project's
-own established chapter-length convention (roughly 3,500–4,500 words per
-chapter, drawn from the existing movement tables in `COUNTDOWN_WEAVE.md` and
-both prior Book 2 drafts) and six movements of 6–8 chapters each (roughly
-40–44 chapters total), the book lands naturally in this range without padding
-the institutional material or shortchanging the three protagonists' training
-and combat space the owner has ruled must stay the engine.
+**Owner target: approximately 300,000 words.** Movement One established the
+actual scale at 39,707 words across eight chapters. Keep six major movements,
+use eight-chapter creative runs for Movements Two through Six, and allow the
+remaining movements approximately 48,000–55,000 words each when their scenes
+earn that room. The resulting forty-eight-chapter book should land roughly in
+the 285,000–315,000-word range. This is an allocation, not a padding quota:
+spend the added room on developed teaching, medical progression, relationships,
+travel consequence, and trackable action rather than repeated explanation.
