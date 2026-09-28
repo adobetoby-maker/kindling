@@ -22,6 +22,7 @@ HERE = Path(__file__).resolve().parent
 BOOK = HERE.parents[1]
 PROFILE = HERE / "profile.json"
 COACH = HERE / "director-coach.json"
+SCORE_REVISIONS = HERE / "directed-score-revisions.json"
 DIRECTOR = Path("/Users/drive/kindling-narrator-stage/scripts/direct-tts-chapter.py")
 RENDERER = Path("/Users/drive/kindling-narrator-stage/scripts/render-calder-narrator.sh")
 PALETTE = Path(
@@ -177,6 +178,60 @@ def update(chapter: int, **changes) -> None:
 
 def read_json(path: Path) -> dict:
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+def apply_directed_score_revision(chapter: int, source: Path, performance: Path) -> bool:
+    """Apply a versioned, word-locked pacing repair without stretching audio."""
+    if not SCORE_REVISIONS.is_file() or not performance.is_file():
+        return False
+    revisions = read_json(SCORE_REVISIONS)
+    revision = revisions.get("chapters", {}).get(str(chapter))
+    if not revision:
+        return False
+    score = read_json(performance)
+    revision_id = str(revision["revisionId"])
+    if score.get("scoreRevision", {}).get("revisionId") == revision_id:
+        return False
+    clean = clean_markdown(source.read_text(encoding="utf-8"))
+    existing_after = {
+        str(item["after"])
+        for item in score.get("pauses", [])
+        if item.get("after")
+    }
+    additions = []
+    for landing in revision.get("thoughtLandings", []):
+        selector = str(landing["after"])
+        milliseconds = int(landing.get("milliseconds", 1550))
+        if clean.count(selector) != 1:
+            raise RuntimeError(
+                f"Chapter {chapter} score-revision selector is not unique: {selector!r}"
+            )
+        if milliseconds != 1550:
+            raise RuntimeError("Directed score revisions may only add 1,550 ms thought landings")
+        if selector in existing_after:
+            continue
+        additions.append(
+            {
+                "after": selector,
+                "milliseconds": milliseconds,
+                "reason": str(landing["reason"]),
+                "kind": "Codex-directed complete-thought landing",
+            }
+        )
+    if not additions:
+        return False
+    score.setdefault("pauses", []).extend(additions)
+    score["scoreRevision"] = {
+        "revisionId": revision_id,
+        "reason": str(revision["reason"]),
+        "addedThoughtLandings": len(additions),
+        "nativeSpeechSpeed": True,
+        "waveformTimeStretch": False,
+        "revisionFile": str(SCORE_REVISIONS),
+        "revisionFileSha256": sha(SCORE_REVISIONS),
+    }
+    save(performance, score)
+    return True
 
 
 def normalized_words(text: str) -> list[str]:
@@ -614,6 +669,7 @@ def direct(job: dict, chapter_dir: Path, log) -> Path:
     else:
         print(f"Reuse hash-matched Codex direction: {raw_track}", file=log, flush=True)
     compile_directed_pacing(Path(job["source"]), raw_track, performance)
+    apply_directed_score_revision(chapter, Path(job["source"]), performance)
     update(
         chapter,
         status="directed",
@@ -755,6 +811,40 @@ def recheck_attention() -> None:
                     error=None,
                 )
                 continue
+            performance = Path(str(job.get("direction", "")))
+            score_changed = apply_directed_score_revision(
+                chapter,
+                Path(job["source"]),
+                performance,
+            )
+            if score_changed:
+                plan = RUN / f"chapter-{chapter:02d}" / f"chapter-{chapter:02d}.pickup-plan.json"
+                plan_payload = {
+                    "schemaVersion": 1,
+                    "chapter": chapter,
+                    "audioStatus": "needs-pickups",
+                    "preserveAcceptedSegments": True,
+                    "forceSegments": [],
+                    "reasons": {"directedScoreRevision": []},
+                    "notes": (
+                        "Recompile the hash-bound Codex-directed score with added 1,550 ms "
+                        "complete-thought landings. Reuse every compatible native Fish take; "
+                        "render only cache misses, rebuild, and rerun all objective checks."
+                    ),
+                }
+                pace_palette = RUN / f"chapter-{chapter:02d}" / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+                if pace_palette.is_file():
+                    plan_payload["paletteOverride"] = str(pace_palette)
+                save(plan, plan_payload)
+                update(
+                    chapter,
+                    status="needs-pickups",
+                    directionSha256=sha(performance),
+                    pickupPlan=str(plan),
+                    pickupAttempts=0,
+                    error=None,
+                )
+                continue
             plan = build_pickup_plan(chapter, output, overwrite=True)
             update(
                 chapter,
@@ -800,6 +890,7 @@ def accept_title_only_source_updates() -> None:
         raw["sourceSha256"] = current_sha
         save(raw_track, raw)
         compile_directed_pacing(source, raw_track, performance)
+        apply_directed_score_revision(chapter, source, performance)
 
         audio = Path(str(job.get("audio", "")))
         changes: dict[str, object] = {
