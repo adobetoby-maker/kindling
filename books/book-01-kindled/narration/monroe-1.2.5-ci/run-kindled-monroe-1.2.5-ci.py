@@ -313,11 +313,41 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         if float(item.get("similarity", 1.0)) < floor
     }
     force_segments = sorted(text_segments | naturalness_segments | identity_segments)
+    pacing_override: Path | None = None
+    narrator_path = output.with_suffix(".narrator.json")
+    narrator = read_json(narrator_path) if narrator_path.is_file() else {}
+    pacing = narrator.get("checks", {}).get("pacing", {})
+    maximum_wpm = float(profile["targets"]["overallWordsPerMinute"]["maximum"])
+    pacing_too_fast = (
+        pacing.get("pass") is False
+        and float(pacing.get("actualWpm", 0.0)) > maximum_wpm
+    )
+    if not force_segments and pacing_too_fast:
+        # Fish cloning stays at native speed. For a chapter whose long syntax still
+        # runs above the approved range after structural pauses, regenerate its
+        # native takes with an explicit cadence instruction instead of stretching
+        # the finished waveform.
+        pacing_override = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+        palette = read_json(PALETTE)
+        correction = (
+            " Pace correction: sustain an unhurried 170–180 spoken words per minute "
+            "before the supplied structural pauses. Do not accelerate through long syntax."
+        )
+        for performance in palette.get("performances", {}).values():
+            instruction = str(performance.get("instruct", "")).rstrip()
+            if correction.strip() not in instruction:
+                performance["instruct"] = instruction + correction
+        palette["paceCorrection"] = {
+            "chapter": chapter,
+            "reason": f"Measured {float(pacing['actualWpm']):.2f} WPM above {maximum_wpm:.0f} WPM ceiling",
+            "nativeGeneration": True,
+            "waveformTimeStretch": False,
+        }
+        save(pacing_override, palette)
+        force_segments = [int(item["index"]) for item in record.get("segments", [])]
     if not force_segments:
         raise RuntimeError(f"Chapter {chapter} failed QA without a segment-level pickup")
-    save(
-        plan_path,
-        {
+    plan = {
             "schemaVersion": 1,
             "chapter": chapter,
             "audioStatus": "needs-pickups",
@@ -327,10 +357,17 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 "textCoverage": sorted(text_segments),
                 "naturalnessOutlier": sorted(naturalness_segments),
                 "voiceIdentityBelowFloor": sorted(identity_segments),
+                "pacingAboveCeiling": force_segments if pacing_too_fast else [],
             },
-            "notes": "Regenerate only the listed cached takes, rebuild, and rerun every objective check.",
-        },
-    )
+            "notes": (
+                "Regenerate every native Fish take with the chapter pace correction; do not time-stretch."
+                if pacing_override
+                else "Regenerate only the listed cached takes, rebuild, and rerun every objective check."
+            ),
+        }
+    if pacing_override:
+        plan["paletteOverride"] = str(pacing_override)
+    save(plan_path, plan)
     return plan_path
 
 
@@ -515,6 +552,11 @@ def direct(job: dict, chapter_dir: Path, log) -> Path:
 def render(job: dict, chapter_dir: Path, performance: Path, log) -> tuple[Path, int, float]:
     chapter = int(job["chapter"])
     output = chapter_dir / f"chapter-{chapter:02d}.calder-directed-paced.mp3"
+    palette = PALETTE
+    plan = None
+    if job.get("claimKind") == "pickup":
+        plan = read_json(Path(job["pickupPlan"]))
+        palette = Path(str(plan.get("paletteOverride", PALETTE)))
     command = [
         str(RENDERER),
         job["source"],
@@ -526,10 +568,9 @@ def render(job: dict, chapter_dir: Path, performance: Path, log) -> tuple[Path, 
         "--performance",
         str(performance),
         "--palette",
-        str(PALETTE),
+        str(palette),
     ]
-    if job.get("claimKind") == "pickup":
-        plan = read_json(Path(job["pickupPlan"]))
+    if plan is not None:
         for index in plan.get("forceSegments", []):
             command.extend(["--force-segment", str(index)])
     started = time.monotonic()
