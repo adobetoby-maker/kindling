@@ -119,7 +119,7 @@ politics supplies pressure and consequence. It does not replace the adventure.
 ### One mission: the part and the rip (`OWNER`)
 
 The former Options A and B are now one operation. Senna's treatment shed runs
-on a single, sixty-year-old machine (`CANON.md`, Ch. 27–28), and a part in its
+on a single, pre-Fall machine at least seventy years old (`CANON.md`, Ch. 27–28), and a part in its
 calibration train is failing. The only known compatible salvage is at Caul Hill
 — the irradiated pre-Fall plant where Senna received her original exposure.
 A new and more dangerous rip has opened at or beneath the same complex. It has

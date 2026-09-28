@@ -67,7 +67,7 @@ visibly do: draw on any interface freely.
 
 ## Satori — realization and disk (`CANON`, load-bearing)
 
-**Satori** (state) is Rook's word, inherited from Satori Kess herself — her own
+**Satori** (state) is Rook's word, inherited from Vera Kess herself — her own
 clan's word, given to both the thing and the state on purpose, per Ch. 17 — for
 the realization itself —
 the moment the door disappears and what's behind every door turns out to be the same
@@ -127,7 +127,7 @@ revelation first, capability second, not the other way round.
 ## Heartfire (`CANON`)
 
 The soul-bond phenomenon between two people, indifferent to which door either reaches
-power through. Not chosen — recognized. Rook and Satori's bond (see Homura, below).
+power through. Not chosen — recognized. Rook and Vera's bond (see Homura, below).
 
 ## The Ember (`CANON`, expanded this pass — growing arsenal, owner-directed)
 
@@ -195,7 +195,7 @@ available the whole time; nobody had gone and tried it.
 **Discovery, not invention — this should read as found, not built.** The
 most satisfying version is an accident under real pressure (someone's Stride
 locks wrong in the middle of a fall or a block and holds instead of failing)
-that then gets deliberately reproduced and taught, mirroring exactly how Satori
+that then gets deliberately reproduced and taught, mirroring exactly how Vera
 found Satori and how Rook learned it from her — the discovery always comes
 from someone under real stakes, not from a workshop.
 
@@ -338,6 +338,15 @@ person, with no mercy behind it because there is no one home to mean it. This is
 rule new types get checked against, not a bestiary to fill in wholesale ahead of
 need. Book 1's own first use of it is **a Breach** — see `BOOK_MAP.md`.
 
+**Worked-power response is species-specific (`CANON`, Book 1 Ch. 53).** Worked
+power generally attracts Riftspawn attention, but that is not a universal rule
+that overrides observed species behavior. Verge-hounds treat the visible light
+of Jab's lit Edge as a boundary: they turn away from the light and drive at the
+dark gap. Jab can therefore steer them by placing light where he does not want
+them to go. The light is a fence, not a lure or a killing effect. Preserve this
+exception when Book 2 records Jab's capability; do not generalize it to every
+Riftspawn species.
+
 **Book Two sustain-echo (`PLANNED`, owner ruling 2026-09-27).** The new,
 more-dangerous Caul Hill rip produces a Riftspawn that recalls loose ash toward
 itself and uses that current to reconstitute damaged spawn. It does not create ash
@@ -466,7 +475,7 @@ could hide inside their own door's assumptions. Paid subjects' families in kind
 Rook was recruited at fourteen, to buy his mother medical care she never actually
 lived to use much of.
 
-**Satori Kess**, fifteen, stone-tradition (Ember), eight generations of a clan that
+**Vera Kess**, fifteen, stone-tradition (Ember), eight generations of a clan that
 had kept more of its original vocabulary than most — including the word
 "Satori." She and Rook despised each other for roughly a year (his hand-
 tradition vs. her stone-tradition, the oldest argument in the world, re-fought
@@ -487,7 +496,7 @@ of the ninth month (a fixed in-world date, usable for future continuity),
 organized and deliberate, not a Riftspawn-style rush — took the gate first to
 prevent escape, not entry. They came for the records specifically, not simply to
 kill; Rook has never found the second copy or learned who commissioned the
-destruction (deliberately open, a Book 2+ question). Satori held a doorway shape
+destruction (deliberately open, a Book 2+ question). Vera held a doorway shape
 for eleven children for as long as she could and died there, spending her last
 minutes making Rook promise to save the papers — a promise he could not keep.
 Eleven of sixty escaped over the west wire; nine were children, including a girl
@@ -495,7 +504,7 @@ named **Dee Wren**, whom Rook personally walked to safety over two months. A boy
 named **Ander Croft**, eleven, is the only other confirmed Satori case before
 Dessa — died the same night as everyone else.
 
-**The Ember Rook carries is Satori's** — recovered off the floor of the room where
+**The Ember Rook carries is Vera's** — recovered off the floor of the room where
 she died, carried every day since, "cut for a fifteen-year-old girl with small
 hands." He has never told anyone this in eleven years.
 
@@ -537,7 +546,7 @@ stakes, interpretation, or emotion, never on a timer or as an overlay.
 | **Flame** | Catches and holds on its own for the first time — the threshold state, the first time a person's fire sustains itself without them white-knuckling it. |
 | **Fire** | Real output, drives real work — the fire a camp actually gathers around, not just a candle a person carries. |
 | **Torch** | Fire made portable and chosen, not merely endured. **The ceiling of single-door mastery.** Garrick is Torch: thirty-one years, genuinely skilled, and never higher, because Torch is as far as one door goes. Rank (breadth: how much of you is lit) and skill (how well you control what's already lit) are different axes — a highly skilled Torch is still a Torch. |
-| **Blaze** | Where it stops staying inside one door — unbound's threshold. Heat becomes visible light for the first time, which means it draws a Riftspawn's attention the same way any other worked power does (see "they come at worked power," already established Riftspawn behavior). This is Rook's rank. |
+| **Blaze** | Where it stops staying inside one door — unbound's threshold. Heat becomes visible light for the first time, which generally draws Riftspawn attention like other worked power. Species-specific responses still govern: Verge-hounds treat Jab's lit Edge as a boundary and attack the dark gap instead (Book 1 Ch. 53). This is Rook's rank. |
 | **Glory** | The apex — "god level," already on the series HORIZON in `SERIES_MAP.md`, where the Satori a person carries stops being necessary and dissolves. So bright it cannot be looked at directly. The transition into it cannot be self-sustained: it has to be *lent* — sustained by someone already carrying it, or by a bonded pair through Heartfire — the same borrow-and-repay economy the soul already runs on elsewhere in this document. A person at Glory has to consciously bank their own light to stand in a room with anyone below it — not a courtesy, a survival requirement for whoever they're standing near. |
 
 **What "immortality" actually means, mechanistically — the shedding (`CANON`,

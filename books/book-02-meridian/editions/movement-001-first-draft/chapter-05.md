@@ -1,0 +1,479 @@
+# Chapter 5 — Jab: Four Pins
+
+He sat on the corridor floor with his back against the wall. There was no bench on that side, and he was not going to go and find one.
+
+The doors were eleven feet away. They were double doors with a round window in each and a strip of rubber down the join. Every so often somebody went through them and the air moved. Every time, his whole body came up off the wall. Then it went back down again.
+
+Dessa Cole arrived at about the quarter hour with a wooden chair. She dragged it the last twenty feet, because carrying it was not available to her. She set it down against the opposite wall. Then she did not sit in it. She lowered herself onto the floor beside him with the bad leg out straight, put her back against the concrete, and looked at the doors.
+
+"You're going to want to know," she said. "So I'm going to tell you. I'll tell you the dull bits as well. If I only say something when something happens, you'll go mad between them."
+
+Jab did not trust his voice. He nodded.
+
+"Six people in there," said Dessa. "He's on the far side, about twenty-two feet. He's the only one lying down. Four of them are standing round him. Two of them are close in. One's moving about. That'll be somebody fetching. Nobody's fast."
+
+"Is that good?"
+
+"I don't know what's good," said Dessa. "I know what's fast. I've been in a room where people got fast." She shifted the leg. "Nobody's fast."
+
+---
+
+They were there for two hours and ten minutes. Dessa talked for most of it, in a flat voice, about very small things.
+
+Nobody moved for a long time. Then somebody stepped back from the table and stood still for about forty seconds and stepped in again. Then two people swapped places. Dessa said that was the sort of thing people did when they were being careful about where their hands went. Jab decided to believe her.
+
+At the hour and a quarter, somebody went out through a door on the far side and came back with a fifth person. Jab's stomach turned over.
+
+"Don't," said Dessa. "Everything in a place like this is somebody fetching somebody. If it were bad, they'd fetch fast. And they'd fetch from this side, because this side's where the rest of the building is."
+
+"How do you know that?"
+
+"My grandmother's been in this building five days," said Dessa, "and I've spent all five of them sitting in corridors. I count everything. I'm the only person here who knows which way the bad news walks."
+
+She said *my grandmother*. Jab had thought, in the ward, that the old woman belonged to the boy with the sling. Perhaps she belonged to all four of them. He did not ask. He thought Dessa had decided the word a long time ago and was not going to discuss it.
+
+At the hour and a half, Wyck came and sat down on his other side without saying anything at all. He turned a piece of squared steel bar over and over in his left hand. He dropped it twice on the concrete. He picked it up.
+
+At the hour and three quarters, Otto came with a paper cup of tea. He gave it to Jab and went away again, going red.
+
+At two hours, Katori came.
+
+She did not sit down. She stood against the far wall with her cap in her hands and did not speak. Jab looked at her once. Her face was the same flat careful face it always was. But she was standing the way you stand when you have come from somewhere else that was bad, and have put it down outside the door, and can still feel the weight in your arms.
+
+He did not ask. He was learning.
+
+At two hours and ten minutes, the doors opened.
+
+---
+
+Doctor Keel came out with her sleeves down and her arms scrubbed pink to the elbow. There was something folded over her forearm. Jab was on his feet with no memory of standing up.
+
+"He's alive and he's asleep and he's got both legs," she said.
+
+Then she waited about four seconds while that went in. Jab understood, distantly, that she said those words first on purpose. That she did it every time. That somebody had once taught her to.
+
+"Now the rest of it. It's long, and there's a chair behind you. Sit down or don't, but don't stand there swaying at me.
+
+"It was worse inside than it looked in the picture. That's usual. The dead piece was longer than I'd hoped. About as long as my thumb. But it was loose, which is the one bit of luck in the whole business. Loose means it came out whole, and I didn't have to go chasing bits. I took it out. I took out a good deal of the muck round it. I've washed that leg out with more fluid than you'd think a leg could hold.
+
+"I've taken the bad join apart and set it straight. It's the straightest that leg's been since the day it broke. It's held by four pins through the bone and a bar on the outside. It's the ugliest object you'll ever see on a child, and it stays on him until the spring.
+
+"That's the good half. Here's the rest, in order.
+
+"There's a gap in the bone where the dead piece was. That's expected. There's a way of dealing with it. It's slow, and it involves him being in that frame a long time, and it involves me.
+
+"The infection. I've taken out what it was living in, and he's on the medicine. In two weeks we'll know whether it's gone out of him or whether I'm going in again. I told you four in five. It's still four in five. It doesn't become five in five because I've had a good morning."
+
+"And the growing," said Jab.
+
+Keel looked at him.
+
+"You've got a memory on you," she said. "Yes. The growing. I could see it. The place that leg grows from has been out in the weather for two months, and it's damaged. Not gone. Damaged. So it'll grow, and it won't grow as fast as the other one. I can't tell you today by how much. Anybody who does tell you is guessing.
+
+"So he'll walk with a limp. He'll have one boot built up. I'll measure him every year until he stops growing. And somewhere in the middle of that, I'll very likely have him back on a table.
+
+"That's the whole of the bill. He'll be asleep another two hours. Then he'll wake up and he'll be sick and he'll be extremely angry. The anger's the best sign in the world, and I want you to enjoy it."
+
+---
+
+She took the folded thing off her arm. It was a cloth with something in it.
+
+"He asked me for this at the door," she said. "It went in with him. I put it in his hand myself, like I said I would. It's been on his chest for two hours. I've had to wash it. The nurse says if I don't hand it to you personally, there'll be a row."
+
+The wooden fish was as long as Jab's thumb. It had been smoked black by a lifetime of hanging near a fire. One fin had broken off before Tonk was born.
+
+Jab took it.
+
+He turned round and put his forehead against the corridor wall. He stood there with his back to all of them for about a minute.
+
+Nobody in that corridor said one word, to him or to each other, until he had finished.
+
+---
+
+Tonk woke at the middle of the afternoon, and was sick, and was extremely angry.
+
+He was angry about being sick. He was angry about the bar on his leg, which he could see, and which he described in detail to everybody who came near the bed. He was angry about the tube in his hand. He was angry that Jab had not been there when he woke. Jab had been there. Tonk had been asleep for it. It did not matter in the slightest.
+
+"You *weren't*."
+
+"I was."
+
+"You *weren't*, and it was ages, and nobody *told* me—"
+
+"All right," said Jab. "I wasn't."
+
+Tonk lay back on the pillow, satisfied and exhausted.
+
+"It's got a *bar*," he said.
+
+"I saw."
+
+"It's got a bar, and it's got *nails in my leg*."
+
+"Four of them."
+
+"*Four?*"
+
+"Four," said Jab. "I counted them."
+
+His brother looked at the ceiling of a long white room and thought about this for a while. Jab sat in the chair and watched the whole of it turning behind a four-year-old's face.
+
+"It's the rail," Tonk said at last.
+
+"What is?"
+
+"The bar." Tonk moved one hand, vaguely, at the leg in its cradle. "It's the rail. Like on the frame. So it doesn't *hang*."
+
+Jab looked at the thing bolted through his brother's shin. He did not say anything for a moment, because his throat had shut.
+
+"Yes," he said. "That's exactly what it is."
+
+"They did it *inside*," said Tonk, with enormous scorn, and went to sleep.
+
+---
+
+The cord came back from the hatch that evening with everything else, washed and tagged.
+
+Jab tied one end round his own left wrist with a knot that would not draw. He looked for somewhere to put the other end. There was a rail on the side of the bed, painted white. He tied it to the rail. Then he untied it again and put the end into his brother's hand instead, and closed the fingers over it. Tonk's fist shut on it in his sleep without waking.
+
+"He won't need that in a week," said the young woman in white, going past with a tray. It was the one who had stitched his arm on the bench. "There's a bell on a string."
+
+"I know," said Jab.
+
+She stopped.
+
+"I'm not telling you to take it off," she said.
+
+"I know," said Jab.
+
+Senna, in the next bed, did not open her eyes. But Jab heard her let her breath out, slowly, the way a person does when a thing has gone the right way.
+
+---
+
+Otto moved into hut twelve on the third morning.
+
+He arrived at the door with his blanket rolled under his good arm and a bowl of something hot in the other hand, and stood on the step radiating anxiety until Jab opened his eyes.
+
+"Katori says," said Otto. "They're bringing Callie's mum home today. To fourteen. There's four beds in fourteen and there'll be six of them, and Pell says he'll sleep on the floor, but Pell's back is worse than he says. So Katori says I'm to come here, because you've got four beds and one of you." He held out the bowl. "And she says you're to eat that. And I'm to wake you at the eighth hour every day. Properly."
+
+"How properly?"
+
+"She said I'd know," said Otto, and went red.
+
+Jab ate it. It was porridge, and it was good. Otto watched him eat the whole of it, the way a man watches a fire he has lit to make sure it catches.
+
+There was a buff card on the table under the bowl. It had come under the door yesterday afternoon while Jab was in the corridor. He had read it last night by the stove and then turned it face down.
+
+*Requested at the Director's office, concerning the north road incident. Attendance is not compulsory.*
+
+"Callie got one," said Otto, seeing him look. "And the boy in eleven. And the man with the back. All for the same hour." He looked at the card and then away from it. "Pell says they've joined you all up. He says he'd want a column for that."
+
+---
+
+The man in the long coat came at the middle of the morning.
+
+He was tall and thin, about fifty, with a close grey beard and a quiet face. He asked for Jab by name, which he had off a card. He did not give his own.
+
+"I'm from the yard office," he said. "I've read your declaration."
+
+"All of it?"
+
+"Both sides." He had a folded paper in one hand and did not offer it. "I'll tell you what I came to say, and then I'll say the other things. There's a Flask of ash on the board in your name."
+
+Jab stood in the doorway.
+
+"The hound at the culvert head," said the man. "The one you killed. The Sag crew lifted it the same night, with the rest. There was a disagreement at the yard office about whose name it went against. I'm told it lasted some time. It was settled by a small woman in a cap who doesn't raise her voice." He almost smiled. "It's yours. Less station, as everything is. It isn't a great deal. It's more than nothing, and it'll be on the paper at your review. I'd rather you heard about it from a person than found it on a wall."
+
+"I didn't kill it for money."
+
+"No," said the man. "Nobody's ever killed one for money in the whole history of this station. They kill it and then there's money. That's a different sentence. It took me about nine years to learn to say it the right way round." He put his hands behind his back. "Now the rest.
+
+"Your household's reviewed in eleven days. You and a child in a bed. On the paper there's a Flask of ash and a red thread and nothing else. I won't pretend that's a strong sheet.
+
+"Your brother's care doesn't depend on it. You've been told that. It's true. What depends on it is whether you go on sleeping inside this berm, four hundred yards from him. Or whether you're outside, coming in on a pass on visiting days."
+
+"And what puts something on the sheet?"
+
+"Work," said the man in the long coat. "There's all kinds. Most of it's ordinary and pays ordinary and counts ordinary." He paused for exactly as long as it takes to change the subject without seeming to. "And there's the north yard."
+
+---
+
+He explained it standing on the step, without any dressing on it at all.
+
+There was a stretch of road at the edge of the north yard that had never settled. The Sag. Things came through there more than anywhere else near Meridian. The station kept a line on it, and somebody to hold that line shut, and a crew behind to lift what was left of whatever came through. What was left was reserve-ash. Reserve-ash was fuel, and money, and the reason anybody went near the place.
+
+"You've seen the Sag," said the man. "You walked through it the night before last with lamps in it."
+
+"I saw the lamps."
+
+"Holding the line is a narrow trade. Almost nobody here can do it. You can't. Your card says so, and I believe it.
+
+"What you can do is the other job. When the line goes down—and it goes down; it went down four times last winter and twice this autumn—the people sacking the ash are on their knees with their backs to whatever's just arrived. Somebody has to be standing over them with something sharp until the line comes back. At the moment there isn't a somebody. There's the holder, and he has to try to do both. The holder who's just signed on is the man in eleven, with a hole in his back."
+
+Jab said nothing.
+
+"It's the worst work in this station," said the man. "It pays like a joke. Everyone involved knows it pays like a joke. It pays like that because the people who take it have got nothing else to put on a review." He held up the folded paper, briefly, and put it back in his coat. "Four seasons. It's a thing you sign.
+
+"And it would count. I'll be honest about that, because if I'm vague you'll find out in eleven days and think I was clever. It would count heavier than anything else you could put on that sheet. It would very likely settle where you sleep for the next four years. By my arithmetic, that's about a third of the time your brother has to keep coming through those doors."
+
+"You've done that arithmetic," said Jab.
+
+"I do it every time. I'd be no use here if I didn't." He looked at Jab levelly. "And I'll tell you the thing I'm supposed to tell you. This is a request. You can say no."
+
+"Do people say no?"
+
+"Most people don't," said the man in the long coat.
+
+---
+
+He turned round at the end of the row.
+
+"There's one more thing. The second thing on your card. The one you haven't got a word for."
+
+Jab said nothing.
+
+"There's a column for it," said the man. "It's a wide column and there's very little in it. Nobody's going to take you anywhere. Nobody's going to ask you to do it in a yard for an audience. If anybody does, you may tell them I said they weren't to." He paused. "But you wrote it down, and you didn't have to. I'd like you to know a person read it. We'd like to understand what's on the register. That's the whole sentence. There's no second half."
+
+"It doesn't come when I call it," said Jab.
+
+"No," said the man. "It says that on the card. In three separate places, which I noticed."
+
+Then he went away down the row, past the door of eleven. A man was sitting on that step with his coat over his knees, turning something small and flat over in his fingers. He did not look up.
+
+---
+
+Rook was still there an hour later.
+
+Jab had not meant to go and stand in front of him. He had walked the length of the row twice, and then a third time. On the third time the man on the step said, without raising his voice:
+
+"You've been up and down four times. Sit down or go in. Don't wear the path out. It's the only one I've got."
+
+Jab sat down on the step of twelve, which was his own, one door along.
+
+They did not say anything for a while. Down at the end of the row the lamp on its pole was not lit yet.
+
+"He came to you as well, then," said Rook.
+
+"This morning."
+
+"Long coat. Grey beard. Doesn't give a name. It isn't a trick. He genuinely doesn't think it's relevant." Rook turned the flat grey stone over in his fingers. "He's not lying to you. I want to start there, because a lot of people would rather he was. Everything he told you is true. He told it in the right order. He didn't leave the worst of it out."
+
+"He said most people don't say no."
+
+"He says that to everybody. He said it to me on this step a few days ago, in the rain. And then I signed, standing up, at a counter. I haven't once decided it was the wrong thing. I haven't once felt clean about it either."
+
+"Why did you?"
+
+"Because there's a woman in that long building who has to be within a mile of a machine in a shed every eleven days for the rest of her life." Rook looked at the unlit lamp. "Her medicine was never the station's to sell. They never tried to sell it. They didn't have to. They own the ground the shed stands on, and a bed is a different window. It's an extremely good arrangement. It's the best I've ever seen. Nobody in it is even doing anything wrong."
+
+"That's the part I can't get round," said Jab.
+
+"No," Rook agreed. "Nor me."
+
+---
+
+"How old are you?"
+
+"Seventeen."
+
+"And the boy's four. And there's nobody else."
+
+"There's nobody else," said Jab.
+
+Rook nodded slowly. He did not say any of the eleven things people had been saying to Jab since the gate.
+
+"Then I'll tell you one thing, and it's the only thing I've got that's worth anything. Somebody had to say it to me twice before it went in. You can say no.
+
+"That's all. I'm not telling you to. I'm not telling you not to. If you came to me in a week and said you'd signed, I'd not say one word about it. I'd have no standing to, and I'd understand exactly why." He put the stone away in his coat. "I'm telling you it's allowed. People muddle that with being told what to do. They're different things. Nobody says the first one out loud in this place, because everybody's busy being reasonable at each other."
+
+"What happens if I say no?"
+
+"Then you're reviewed on a Flask of ash and a red thread. I don't sit on the review, and neither does he. And I won't lie to you about which way it goes."
+
+"Then it isn't a choice."
+
+"It's a choice with a price on it," said Rook. "That's what a choice is. The other kind's a menu." He got his breath. "And here's the last of it. Don't decide tonight. There's eleven days. Everything in this station is shaped so you decide it at three in the morning on the second night, when you've just come off a road and you're frightened and you'd sign anything to stop the feeling. That isn't anybody's plan. It's what the shape of the place does to people. The only defence is to know it's happening."
+
+---
+
+Jab sat on his step and looked at his hands.
+
+"Can I ask you something?"
+
+"You can ask."
+
+"At the culvert." He kept his eyes on his hands. "After. When he'd gone off, and I put my hand on him. You were there. You'd sat down on the wall."
+
+Rook did not say anything.
+
+"You saw it," said Jab.
+
+"I saw it."
+
+"Do you know what it is?"
+
+Rook was quiet for a long time. The lamp at the end of the row came on, flat and white.
+
+"I know what it looks like from the outside," he said at last. "I've done a thing that rhymes with it. Not the same thing. It rhymes." He looked at the lamp. "And I'm not going to put a word on yours tonight. Not because I'm being careful with you. Because a word's a thing you carry, and you've got enough on your back. And because I'd want to be sure, and I'm not."
+
+"It doesn't come when I call it."
+
+"No. I read that in your face at the culvert. You didn't call it. You stopped wanting it to do anything, and it went." Rook looked at him sideways. "That's not nothing. That's the hardest part of anything I know how to do. Most people spend years on it. You did it in a ditch with a child going grey under your hand."
+
+Jab did not answer. He could not.
+
+"Ask me again in a while," said Rook, and got himself up off the step in three movements with his hand on the door frame. "Not tonight. I've a girl of fifteen who counts how long I sit out here in the cold, and she's going to come out in about a minute and say a number at me."
+
+The door of eleven opened. Dessa stood in it.
+
+"Forty minutes," she said.
+
+"There," said Rook. "What did I tell you."
+
+---
+
+Wyck came to the ward on the fourth afternoon.
+
+He came in at the start of visiting with his right arm strapped across his chest and the iron bar in his left hand. The nurse told him to leave the bar at the desk. He did not leave it. He stood at the foot of Tonk's bed and looked at him without any expression.
+
+"You're the one that shouted," he said.
+
+"You're the one that didn't *move*," said Tonk.
+
+Wyck considered this.
+
+"No," he agreed.
+
+"It ran at you. It ran at you and you went like *this*—" Tonk did a thing with his shoulders that cost him and that he did anyway, four inches of shoulder and then nothing "—and it went in the *wall*."
+
+"That's about what happened."
+
+"*Why* didn't you move?"
+
+"I don't fall over," said Wyck.
+
+Jab watched his brother take this in. He watched him file it, permanently, wherever a four-year-old keeps the dozen facts that are going to build him.
+
+"Wyck," said Wyck, to Jab, as an afterthought. He pulled the chair round with his foot and sat on it backward with the bar across his knees, and stayed an hour and a half.
+
+---
+
+He was not good with children. Jab watched him and did not entirely understand it. He did not soften his voice. He did not ask bright questions. Twice he said things that would have made an aunt at home put her hands on her hips.
+
+"That's going to hurt worse tomorrow than it does now."
+
+"*Wyck*," said Jab.
+
+"He knows," said Wyck, without turning round. "He's had it seven weeks. He knows what it does. He doesn't know what tomorrow's going to do. If I tell him it'll be fine, he'll find out at the second hour in the dark that I'm a liar. Then he won't have anybody."
+
+And Tonk, in the bed, said: "Does it *stop*?"
+
+"Yes."
+
+"When?"
+
+"Ages. And it doesn't stop all at once. It stops a bit at a time. One day you notice you've gone a whole morning and not thought about it. That's the day it starts being ordinary." Wyck held up his right hand, out of the strapping. He moved three of the fingers. The last two did not move. "These don't work. They haven't since the spring. I dropped everything I picked up for two months, and I was extremely unpleasant about it."
+
+Tonk's eyes went very round.
+
+"Can I *touch* them?"
+
+"If you like."
+
+Tonk pinched the two dead fingers, hard, with great concentration, watching Wyck's face. Wyck looked back at him with an entirely level expression.
+
+"Nothing," he said.
+
+"*Nothing?*"
+
+"Nothing at all."
+
+"Do it *again*," said Tonk, delighted and appalled, and Jab put his head down on the edge of the bed and laughed until his stitches pulled.
+
+---
+
+Tonk asked about the squirrel on the fifth day.
+
+He asked it out of nowhere, in the afternoon, lying flat with the bar on his leg and the ceiling to look at. They had been talking about something else entirely.
+
+"When we go back," he said, "I'm putting the thing on the heap."
+
+Jab was folding a blanket. He went on folding it.
+
+"You said," Tonk went on, with the confidence of a man quoting a signed agreement. "You said when my leg's mended I walk up there with a pocket full of something, and I do it *myself*, and you'd show me the tree. You *said*."
+
+"I did say that."
+
+"So when's my leg mended?"
+
+Jab put the blanket down. He sat on the edge of the chair and looked at his brother. He made himself do the thing he had made a rule about seven weeks ago, and had kept, every single time, even when it cost him a night.
+
+"Your leg's going to mend," he said. "It'll take until the spring before you stand on it. A while after that before you walk properly. And it's never going to be quite the same as the other one. That's all true, and you'd have got it out of somebody here by the end of the week anyway.
+
+"And we're not going back."
+
+Tonk's face did not do anything. That was what it did.
+
+"Not ever?"
+
+"Not to live. It's eighteen days of road, and you've got to come to this building every year till you're grown. I'm not going to tell you a story about it. That's what it is."
+
+"But the *heap*."
+
+"I know."
+
+"You *said*." His voice went up and broke. "You said I could *put it back*—"
+
+"I know what I said. I meant it when I said it. I can't do it, and I'm not going to pretend I can." Jab took his brother's hand, the one without the needle. "So here's what I've got instead. You can tell me it's not as good. It isn't.
+
+"That squirrel got robbed by me. Not you. You never took anything off anybody in your life. So it was always me who owed him. And what I owe him I can't pay, because he's four hundred miles north. He's either got through his winter or he hasn't."
+
+"Then it doesn't *count*," said Tonk, furiously.
+
+"It counts," said Jab. "That's the whole trouble with it. It counts, and I can't pay it where I took it." He looked out of the window over the bed, at a turf roof and a grey sky. "So I'll have to put it back here."
+
+"*Here?*"
+
+"Here. Somewhere in this place. To somebody. I don't know who yet, or what with." He heard himself say it. He heard what it meant about four minutes after his mouth had finished. "That's what it is when you can't get back to the heap. You don't get out of owing. You just have to find a different heap."
+
+Tonk lay and thought about this a long time, with his brows down. He was doing the arithmetic of a four-year-old. It was not the same arithmetic. It was not nothing either.
+
+"All right," he said at last. "But *I'm* doing it. Not you."
+
+"You're doing it."
+
+"*Me.*"
+
+"You," said Jab.
+
+---
+
+The light through the window had the thin quality that made everybody in the ward look underwater. In the next bed, Senna was asleep, or pretending. Across the ward, the fourth bed on the left was empty now, and made up tight. Callie's mother had gone home two days ago, in a barrow.
+
+"Jab."
+
+"Mm."
+
+"You know when we were on the hill."
+
+"Which hill?"
+
+"The *last* one." Tonk's hand moved on the blanket. "With the smoke. You showed me, and I said what's it called, and you said Meridian. And I said no, *it*."
+
+Jab put the cup down.
+
+"I remember."
+
+"And you said I had to see it up close first."
+
+"I did."
+
+"I've seen it," said Tonk.
+
+He had. He had seen a gate come open in an earth bank at night with a lamp burning over it. He had seen a room with a light in the ceiling that did not move. He had been inside a machine that knocked like a man mending a roof. He had had a piece of his own bone taken out of him by a woman with her sleeves rolled up. He had had a rail bolted on the outside of his leg, so it did not hang, and a wooden fish put in his hand by somebody who had not had to.
+
+"Well, then," said Jab. "Has it got a name?"
+
+Tonk looked at the ceiling for a long moment.
+
+"Not yet," he said.

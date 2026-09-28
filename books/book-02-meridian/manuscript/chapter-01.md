@@ -1,0 +1,557 @@
+# Chapter 1 — Callie: Persons in Party
+
+Three hundred and forty paces. Callie had said it, so Callie counted it.
+
+She walked at the front with the lamp held low on her left side, over the verge. She had no use for the lamp herself, because she had come up this shoulder at dusk, going the other way, fast, with ditch water over her boots and five sets of hound sign in the mud in front of her. She knew where the good ground was. The lamp was for the people behind her.
+
+*Twelve. Thirteen.*
+
+Otto had the barrow. He had the strap over his good shoulder and the far handle braced against his hip, and he was pulling it the way he did everything, carefully, with his tongue between his teeth. The boy lay on the folded blanket on the boards. Katori walked at the barrow's head with one hand on the rim. She was not holding it. She was only there.
+
+The brother walked beside it with the boy's hand in his.
+
+Callie had told him to do that. She had not expected him to do it.
+
+*Thirty.*
+
+"Verge ends at the second lamp," she said, without turning round. "Nine feet of hard ground after, then up."
+
+"I heard you the first time," said the brother.
+
+"I know. I'm saying it again because you're tired."
+
+He did not answer. She heard the barrow wheel find a stone and ride over it, and the boy made a small sound, and the brother said something to him too low to catch. It was the voice people used on horses in a bad stall. Callie knew that voice. She had used it on her mother on the plain.
+
+*Fifty-one.*
+
+---
+
+Behind the barrow came everybody else, and they came badly.
+
+The big boy from hut eleven walked with his one good arm hanging and the other tucked in his coat, strapped from the collarbone down to the wrist. Wyck, his name was. He had stood in the gap by the bank and let two hounds run into him, one after the other, and he had not gone back a step. Now he was walking as if every step were a separate decision.
+
+Dessa limped beside him. She had her hand on the back of Toren's coat.
+
+Toren was the one Callie kept looking back at.
+
+He was the boy from the step. Last night he had sat two doors down from her in the dark with his arm in a sling and told her the lamps had a written reason. Tonight he had come past the big boy faster than a person could run, with struts of light up his legs and something crooked and grey lit in his good fist. He had gone through two hounds before his feet went out from under him on the slabs and he landed on the strapped arm.
+
+He was grey now. He held the arm against his chest with his other hand. His right hand was wrapped in white and there was blood coming through the white.
+
+Every so often his wrapped hand went to his coat pocket. It stopped there. Then it came away again.
+
+Callie knew what that was. She had done it with her hook on a hill.
+
+*Eighty.*
+
+At the very back came the man with the wrong shoulders. Rook, the others called him. He walked about as fast as a very old man, with one hand out to nothing, as if he expected a wall to be there. He had held the road shut, and Callie had seen only what that did, not how: a hound going at the empty air beside him and never arriving. Now he looked like somebody had wrung him out and hung him up wet.
+
+Nobody offered him an arm. Callie noticed that. Dessa had looked back at him twice and not offered, and she thought that probably meant he had refused it, and they had had that argument before.
+
+*A hundred and six.*
+
+---
+
+The lamps in the Sag were behind them now.
+
+The station's night crew had been down there in the dip when all this started, and they were still there, with their lamps on poles and a barrow and a scale, walking the road bed where the hounds had come apart. Somebody was calling out a number. Somebody else was calling it back.
+
+"They'll have that," said Katori quietly, not to anyone. "All of it. Every grain off that road."
+
+"Does it matter?" said Otto.
+
+"It matters to somebody," said Katori. "It always does."
+
+Callie looked back once. There was ash in the lamplight, lying in long grey ropes down the joints of the slabs. Five hounds. A Flask each, if they were ordinary hounds, and they had not seemed ordinary. That was a winter for somebody. She did not know whose.
+
+She turned round again and kept counting.
+
+*A hundred and fifty.*
+
+At two hundred the verge ran out, exactly where she had said it would. She stopped at the second lamp and held her own up so the others could see the nine feet of hard ground, and then the place where the ditch shallowed, and the made road beyond it.
+
+"Up here," she said.
+
+They came up onto the made road one at a time. The barrow stopped jolting. The boy on the boards let his breath out in a long shudder, the way a person does when a pain stops for the first time in hours.
+
+"Jab," he said.
+
+"Mm."
+
+"Is it the place?"
+
+"It's the place."
+
+"It's got a *light* on it."
+
+Callie looked ahead. It did. The north gate stood in the dark bank a hundred and forty paces off, a slab of plate steel with a lamp over it. The lamp was small and flat and white, and it never moved at all.
+
+"I told you," said the brother. "Thousands of them."
+
+The boy considered this.
+
+"That's one," he said.
+
+Jab laughed. It was not a big laugh. It came out of him as if something had knocked it loose. Callie heard Otto laugh too, surprised, and Katori did not laugh, but her hand moved on the barrow rim.
+
+*Two hundred and twenty.*
+
+---
+
+At three hundred and twenty the gate began to open.
+
+The brother said a word before the barrow was level with it. He said it loudly and he said it first.
+
+"*Clinical.*"
+
+Four grey coats came out at a fast walk, hooded, with the flat clear panels in front of their faces. Behind them came a bin on two wheels. Callie knew the bin. She had watched one like it swallow four hundred miles of ash yesterday morning at the south gate. The grey coats went past the brother. They went past the barrow. They went to the ash on Katori's coat and the hound ash on Callie's sleeves and the ash crusted in the cracks of Otto's boots.
+
+"Ma'am, I need you to step away from—"
+
+"*Clinical*," said the brother again. Louder. "There's a boy on this barrow and he's four years old and it's clinical. Now. Not after the boots."
+
+The nearest grey coat turned his flat panel round. Callie could see the brother's face in it, small and grey and streaked.
+
+There was a pause. It lasted about two seconds.
+
+Callie watched it happen. She watched the grey coat decide. She thought: *Somebody told him that word. Somebody told him it on the road, and told him to say it first.* She did not know who. She wished she could thank them.
+
+"Right," said the grey coat, and turned and shouted one word through the gate.
+
+---
+
+The woman came out without a bin.
+
+Callie knew her at once. She was about sixty, with short white hair and a lined brown face and small quick hands. Yesterday morning she had stood in front of the tailboard at the south gate and said *All right, my love, what's happened to you?* Then she had put her hand under Callie's mother's elbow, not holding, and walked her forty paces in.
+
+Now she went straight to the barrow. She looked at the boy for about four seconds without touching him. Then she put two fingers on his neck and looked away over the dark fields while she counted.
+
+"Hello, my love," she said. "What's your name?"
+
+"Tonk."
+
+"That's a very good name. I'm going to look at your leg and I'm not going to move it."
+
+"It's *broken*," said Tonk.
+
+"I know it is," said the woman, unwrapping. "Everybody's told me."
+
+Nobody had told her anything. She had been out of the gate for about eleven seconds.
+
+She got the wrapping off and looked at the leg in the lamplight. Callie looked too. She had not meant to, but she always looked, and she saw it for about as long as it takes to breathe in before she turned her eyes to the gate lamp instead and held her breath until the picture went.
+
+The woman's face did nothing at all.
+
+"Stretcher," she said over her shoulder, in a level voice. "And go and wake Sowerby. Tell him it's a fracture at seven weeks with a sinus, and he'll want Keel."
+
+"Wake him?"
+
+"Wake him."
+
+Then she turned and looked at the brother properly.
+
+"And you?"
+
+"His brother."
+
+"Have you been carrying him?"
+
+"Eighteen days."
+
+Something went across the woman's face. Callie saw it and could not read it, and she was good at faces.
+
+"Then you'll want this from me and not from a door," the woman said. "He goes in now. You don't. You're carrying road dirt and ash, and you've got an open wound on that arm, and he's going into a room where people will open him up. Everything that comes through this gate gets washed and written down. That takes twenty minutes. He hasn't got twenty minutes. You have."
+
+"I promised him," said Jab.
+
+"I know."
+
+"You don't. I promised him. He asked if I'd be there, and I said they'd have to carry me out."
+
+The woman put her hand on his arm, above the bandage, and left it there. She did not agree with him.
+
+"Then you'll be there for the next one," she said. "There'll be more than one. Say goodnight to him properly. Don't say it fast, and don't lie. Then let go of his hand, because if I have to take it off you, that's the thing he'll remember."
+
+---
+
+Callie turned away. It was not hers to watch.
+
+She could still hear it. She heard the boy's voice go up, and the brother's voice stay level. She heard *twenty minutes* and *I'll come after*, and *that's not a maybe*. She heard the boy say *You lied*, with a four-year-old's terrible aim, and the brother say *That one I did. I'm sorry.*
+
+Katori was standing beside her. Katori was not watching either. She was looking at the berm.
+
+"He'll be all right," said Callie. She did not know which of them she meant.
+
+"One of them will," said Katori. "Tonight."
+
+Then two people went past carrying a stretcher, and the gate took the boy in, and the brother stood in the middle of the made road with his hands at his sides. The light over the gate seemed to go out of his eyes for a moment. Then it came back.
+
+He did not fall down. Callie watched for it, and it did not happen.
+
+---
+
+Then they took everything else.
+
+They took the boots. They took Otto's barrow to be hosed and the two lamps and the coats off five backs. They took the brother's pack and his hide cover and the two halves of the broken carrying frame. Callie had not seen who carried the frame down the road. Somebody had. It went into a bin in two pieces, and the curved rail of it stuck up over the rim.
+
+A grey coat held out a hand to Callie.
+
+"The hook, miss."
+
+She had had it back since the eighth hour this morning. They had given it to her at the hatch, washed, with a paper tag on the handle. The black husk smear down the inside of the curve had been gone. She had stood at the window holding clean steel and not known what to do with it.
+
+Now there was hound ash in the curve again, grey and fine.
+
+"Twice in two days," she said.
+
+"Yes, miss," said the grey coat. "Some people make a habit of it."
+
+She gave it to him. He took it by the conduit, not the curve. She noticed that, the same as she had yesterday. Somebody here taught them how to hold things.
+
+Katori put her Ember in a glove without a word. It was the flat grey slab she turned over in her fingers when she was thinking. Callie had seen her hand it over yesterday at the south gate too. Katori's face had not changed then either.
+
+Toren took his out of his coat pocket.
+
+He looked at it before he handed it over. It was a stone. Just a stone, dark, a little bigger than an egg. He held it for a second in his wrapped hand and his thumb moved on it once, the way you touch a stove to see if it has gone cold. Then he put it in the glove. Callie saw his mouth go flat.
+
+*Cold*, she thought. *It's cold again.*
+
+Rook came last. He took something small out of an inside pocket and held it out on his palm. It was a flat grey stone, much smaller than Katori's, rounded at the corners. His hand was too big for it, and his fingers went round it rather than closing over it, as if they had learned to.
+
+The grey coat took it. Rook's hand stayed where it was for a moment, still shaped round nothing. Then he put it in his pocket.
+
+And the brother—Jab—put his hand up under his collar.
+
+---
+
+Callie watched this one. She could not help it.
+
+There was a cord round his neck, under the shirt. He lifted it over his head. On the end of it was a thumb-length of dull metal, river-worn. It did not look like anything. He held it out, and the grey coat's glove took it, and Jab's hand stayed up at his throat where it had been.
+
+"It's not ash," he said.
+
+"No, sir. It's a conduit and it's got ash on it, and it's been in something tonight. It'll be washed and tagged. You'll have it back at the hatch."
+
+"You don't understand what it is."
+
+"I've took eleven hundred of them, sir," said the grey coat. He was not unkind. He said it the way you say the road goes left.
+
+The metal went into a small bin. Somebody tied a paper tag to the handle and wrote on it.
+
+Jab stood in the road in his socks with his collar open and one hand still at his throat. He looked, Callie thought, like somebody who had set a thing down at the edge of a river and turned round to find the river gone.
+
+She had stood exactly like that yesterday with her hands empty.
+
+---
+
+Then they hosed them down.
+
+The water came out of a long canvas hose, and it was warm. It had been warm yesterday too. Callie still had not got used to it. Otto shut his eyes and turned his face up into it and said nothing at all. Wyck stood in it like a post. Dessa said, "Oh, that's *disgusting*," about the ash coming off her, and meant the ash and not the water.
+
+Jab stood in it with his face up and his eyes shut. He did not cry. Callie looked away before she could find out whether he was going to.
+
+Rook sat down in the road to be hosed. He did it in three movements. A grey coat said *sir* and Rook said, "I'll get up again in a minute. Let me be wet sitting down first."
+
+The gate nurse came back out while the water was still running. She looked at Toren's wrapped hand and unwrapped it and wrapped it again. She put her fingers along the splint on his arm, slowly, from the wrist to the elbow, while he looked at the sky.
+
+"Did you land on it?"
+
+"Yes."
+
+"Hard?"
+
+"Yes."
+
+"Well, it hasn't come through," she said. "If you've shifted it, you'll know by morning. You'll know by the noise you make." She looked up at him. "You're one of Sowerby's. From the south gate. Two days ago."
+
+"Yes."
+
+"He told you to lie down."
+
+"He did," said Toren.
+
+"And you went out through the north yard in the dark instead, and did something with your legs." She sighed. "I'll tell him. He'll enjoy it."
+
+---
+
+The reception pen at the north gate was the same as the one at the south. Callie had not known they would build two the same. It was poured concrete, forty feet by twenty, with a drain in the middle and a bench along one wall. There were hot pipes behind the bench and a hatch at the far end with a window in it.
+
+The window was dark.
+
+"Oh," said Otto, when his back found the pipes.
+
+"Yes," said Callie. She had said *oh* herself yesterday. Everybody said it.
+
+Ines was on the other side of the pen gate. Callie heard her before she saw her. Ines and Pell had stayed at the north yard gate with a lamp, because somebody had had to stand there and argue with the gate crew about keeping it open. Pell had done the arguing. Ines had done the standing.
+
+"Is that all of you?" Ines called through the bars. Flat, the way she said everything.
+
+"It's all of us," said Katori.
+
+"How many?"
+
+Dessa put her head back against the hot pipes and shut her eyes.
+
+"Five," she said. "Five hounds. Four in the road and one in the pipe. And the last one didn't get to be the last one." She paused. "I was told to tell you."
+
+There was a silence on the other side of the gate.
+
+"Good," said Ines, at last. "Good. I'll write that down."
+
+"You can't write," said Pell's voice.
+
+"Then you'll write it down," said Ines, "and I'll watch you."
+
+---
+
+Jab sat on the bench two places down from Callie, with his back against the pipes and his hands on his knees, and looked up.
+
+There was a light in the ceiling. It was in a fitting behind a cage of wire. It was flat and white and small, and it did not flicker.
+
+"Don't look at it long," said Callie. She said it without opening her eyes. "It makes the rest of the room go dark. It took me a whole day to work that out, and nobody told me."
+
+He looked down again.
+
+"How long have you been here?"
+
+"Since yesterday morning."
+
+"That's all?"
+
+"That's all." Callie opened her eyes and looked at the drain. "Four hundred miles on a wagon, with my mother on the back of it. She's in the long building. At the north end." She thought about saying more and did not. "Callie."
+
+"Jab."
+
+"I know," she said. "Your brother said it about ninety times."
+
+He made a sound that was nearly the laugh from the road.
+
+"He says everything about ninety times," he said.
+
+"He counted the lamps in the dip. Out loud. I heard him from the shoulder." Callie turned her head. "He got five. There were seven."
+
+"He'll want to know that," said Jab. "He'll want to argue about it."
+
+"Tell him I said seven."
+
+"He'll say you're wrong."
+
+"I'm not wrong," said Callie. "Tell him that too."
+
+---
+
+Ivor Hallet came through the door behind the hatch at about the twelfth hour, and he was not pleased.
+
+He had a grey cardigan on under his oilskin, buttoned wrong. His pen hung on its string round his neck. A young man with a cough came in behind him carrying a lamp and a ledger, and Hallet said several things to the young man about the time of night and the distance from Yard A to the north gate. He said them quietly. He said them at length. Then he sat down at the desk behind the window, and pulled the ledger toward him, and saw who was sitting on the bench.
+
+He looked along the row of them for a long time.
+
+"Right," he said. "I was in my bed. I'd like that noted somewhere, and there's no column for it, so I'm saying it. I'm going to do this in the order it's got to be done in. I'd ask you all to let me, because if I do it out of order I have to start again, and it's past midnight."
+
+Nobody said anything.
+
+"Two things," said Hallet. "The first is a party, and I'll come to it. The second is the rest of you." He did not look at any one of them. "There are eight persons in this pen. Seven of them went out through the north yard gate tonight, past a gate crew who told them not to, onto a public road outside the line. The eighth came in off that road, and he's the first thing, so he waits. And I'm told by three different people that some of you did things on that road which a person who isn't Kindled would find remarkable."
+
+"Yes," said Katori.
+
+"You didn't notify this window."
+
+"There was a child on the road," said Katori.
+
+"I know," said Hallet. "That's going on the sheet as well. I'm going to put it first." He picked up the pen. "The sheet goes upstairs by the sixth hour, and I'd like it to be a true one. So I'm going to go along that bench by your bands. You'll give me one line each. What you did. Not what you'd like me to write. What you did."
+
+---
+
+He went along the bench from the far end.
+
+Katori held up her wrist with the red thread in the paper band.
+
+"I cut them," she said. "Four. Maybe five. I didn't count, and I'd rather not say five if it was four."
+
+Hallet wrote.
+
+Otto held up a band with no thread. "I pulled a barrow," he said, and went red.
+
+"That's not remarkable, sir."
+
+"No," said Otto. "It's the only thing I did."
+
+"Then I'll write it down anyway," said Hallet, "because I'd like one line on this sheet that nobody upstairs can argue with."
+
+Callie held up hers. The red thread was dark with wet.
+
+"I read the ground," she said. "That's all. I'm dry. I couldn't have done the rest if I'd wanted to."
+
+Hallet looked at her through the glass for a moment. Something moved at the corner of his mouth.
+
+"That's your first line," he said.
+
+"It's the true one."
+
+"I know it is, miss. I've still got the card on my desk." He wrote. "Next."
+
+Dessa said, "I told them where things were. I didn't move. I can't really move." She held up her band. "Put down *I can't really move*. Since you're writing."
+
+Wyck said, "I stood in a gap."
+
+"Did anything move you?"
+
+"No."
+
+"Did anything try?"
+
+"Two," said Wyck. "One after the other." He looked at the drain. "They went into the wall."
+
+Hallet wrote that down without any expression.
+
+---
+
+Then he came to Toren.
+
+"Mr Voss," he said. "Two days ago you sat on that bench at the other gate and wrote me a card. It said your Ember was out at present, and you didn't know when it was coming back."
+
+"It was out," said Toren.
+
+"And tonight?"
+
+Toren was quiet. Callie watched his wrapped hand move toward his pocket, and stop, because there was nothing in the pocket now. They had taken it at the gate.
+
+"Stride," he said. "And the spike, lit. At the same time."
+
+The pen was very quiet.
+
+"For how long?"
+
+"About a minute," said Toren. "Then I fell over. Then it went."
+
+"Went where?"
+
+"I don't know," said Toren Voss. "That's the trouble with it."
+
+Hallet held the pen above the paper. Then he wrote. It took a while.
+
+"I'll put *about a minute*," he said. "It's a true card, Mr Voss. It's just got a new line on it. They do that."
+
+---
+
+He looked at the last band.
+
+He did not ask for a name. He looked down at the ledger instead, and ran the pen along a line, and then looked up through the glass.
+
+"Mr Marsh," he said.
+
+Callie did not know who he meant.
+
+Then Rook said, "Present, Mr Hallet," from the far end of the bench, in a voice that had not changed at all.
+
+"Elias Marsh," said Hallet. He said it the way you read a thing back to make sure you have it right. "Out of Lowry Bend. Admitted two days ago, south gate, as a clinical outpatient, with a puncture wound through the back." He turned a page. "Doctor Sowerby's note says you're not to stand for more than a few minutes at a time for a fortnight. It's underlined twice."
+
+"I didn't stand," said Rook. "I was held up. It's different."
+
+"What held you up?"
+
+"The road," said Rook, "mostly."
+
+Callie had heard everybody call him Rook. The girl with the limp. The big boy. Katori, on the road, once, sharply. Callie turned and looked at Toren, because she could not help it.
+
+Toren was not surprised. He knew the name. Callie could see that at once. But he was looking at Rook the way you look at somebody while a stranger takes a coat off them. As if a thing that belonged to Rook was being taken out and hung on a hook in front of everybody, and Toren did not like it, and could not stop it.
+
+Rook's eyes were shut. His back was against the pipes.
+
+"One line, Mr Marsh," said Hallet. His voice had gone a little quieter.
+
+"I shut the road," said Rook. "Either side of me. For about as long as it took. Then I sat down on a wall." He opened his eyes. "Write that it was a good road, Mr Hallet. It held."
+
+Hallet wrote it. He wrote the whole of it, as far as Callie could tell. Then he blotted the page and closed the ledger on it and put his hand flat on the cover.
+
+"That's the second thing," he said. "Now the first."
+
+---
+
+He looked at Jab.
+
+"You, sir," he said, "are the reason all of this is on my desk at midnight. I'll do yours properly. Persons in party."
+
+"Two," said Jab.
+
+Hallet looked past him at the bench, at eight wet people with their backs against the pipes.
+
+"There's rather more than two in this pen, sir."
+
+"They're not mine," said Jab. "They came out to the road and got me." He stood up. He went to the window and put his hands flat on the ledge. "Two. Me and my brother. He went in through the gate about twenty minutes ago. He's four and he's called Tonk. He's in the party."
+
+The pen stopped for about a second and a half.
+
+Callie knew what came next. She had stood at the other window yesterday morning and said *six* when there were five of them, and made the man write down her mother. She watched Hallet's face now. She watched it do the thing it had done for her.
+
+"Two," said Ivor Hallet. "One clinical, admitted at the north gate tonight." He wrote it. "That's correct. I'd rather have it that way than the other. Name as you'd want it written."
+
+Jab told him.
+
+"Age?"
+
+"Seventeen."
+
+"Household?"
+
+"Him and me."
+
+"Head of household?"
+
+There was a silence that went on slightly too long.
+
+"Me," said Jab.
+
+"Yes," said Hallet, writing. "I'm sorry, sir. It's only a column."
+
+Callie shut her eyes. She had said *I'm thirteen* to that, yesterday. She had thought it was the worst thing anybody had ever written down about her. She thought now that she had been lucky. At least there had been somebody in her column besides herself.
+
+---
+
+"Declaration of capability," said Hallet.
+
+He laid a buff card on the ledge inside the window. He did not push it through.
+
+He said the whole thing. Callie had heard it yesterday and she heard it again, and she found she could say it along with him in her head. Meridian kept a register of Kindled persons inside the line. About eleven hundred names. Not secret. Your name, your rank if you had a word for it, and what you could do. Not what you would like to do. What you would do at four in the morning if a wall came down. A band with a red thread. The north yard, where the work was. And you told this window things.
+
+"And if I don't?"
+
+"Transient. Fourteen days, a grey band, no north yard, and a review. I don't sit on the review." Hallet looked at him. "I'll save you the next question. Your brother's admission is clinical. It went through at the gate. It isn't conditional on this card, or on your band, or on one single thing you do or don't do in this station. If anybody here ever tells you different, you come down to this window and say so to me. I'll make it the worst fortnight of that person's life."
+
+He said it more quietly than the rest.
+
+"That's not procedure," he said. "That's mine."
+
+Jab stood at the hatch with his hands on the ledge. Callie watched his back. It was very straight.
+
+"Then what's the card for?" he said.
+
+"Where you sleep," said Ivor Hallet.
+
+---
+
+He pushed the card through, and a pencil after it.
+
+Jab brought them back to the bench. He sat down in the place he had been, two along from Callie, with the card on his knee. He looked at it for a long time. Callie knew what it said at the top. *NAME. RANK (if known). CAPABILITY.* And then a great deal of empty space.
+
+He wrote his name. His hand was not steady. He went over one of the letters again to make it neat.
+
+Then he stopped, with the pencil above the next line.
+
+His other hand went up to his collar. It did it by itself. It went to the hollow of his throat where the cord had been for however many years, and it found nothing there, and it stayed.
+
+Callie looked at the drain.
+
+"They give it back," she said. "At the hatch. In the morning. Washed."
+
+He turned his head.
+
+"Mine came back this morning," said Callie. "Clean. Somebody had got four hundred miles off it." She thought about the hound ash in the curve, and the grey coat's glove. "Then I took it out on a road tonight and they took it off me again."
+
+Jab looked at her for a moment.
+
+"That's a lot of washing," he said.
+
+"They don't seem to mind," said Callie. "They've got a bin for it."
+
+He almost laughed. Then he looked down at the card again, at *RANK (if known)*, and put his hand back on his knee, and began to write.
