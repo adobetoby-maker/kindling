@@ -28,6 +28,10 @@ PALETTE = Path(
     "/Users/drive/.local/share/monroe-tts/anchor-builds/"
     "calder-eleven-original-v1/calder-eleven-15.candidate-palette.json"
 )
+CADENCE_ANCHOR_METADATA = Path(
+    "/Users/drive/.local/share/monroe-tts/anchor-builds/"
+    "calder-ci-cadence-v1/anchor.json"
+)
 PYTHON = Path("/Users/drive/.local/share/monroe-tts/venv/bin/python")
 WORD_VERIFIER = Path("/Users/drive/git-backups/boundary-universe-cc/scripts/verify-local-tts.py")
 RUN = Path(
@@ -330,10 +334,11 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         # runs above the approved range after structural pauses, regenerate its
         # native takes with an explicit cadence instruction instead of stretching
         # the finished waveform.
-        if existing_pace_palette and existing_pace_stage >= 2:
+        if existing_pace_palette and existing_pace_stage >= 3:
             raise RuntimeError(
                 f"Chapter {chapter} native Fish cadence plateaued above {maximum_wpm:.0f} WPM "
-                "after instruction and slow-anchor correction; revise its Directed-Paced score"
+                "after instruction, slow-anchor, and QA-cleared cadence-anchor correction; "
+                "revise its Directed-Paced score"
             )
         pacing_override = pace_palette_path
         palette = read_json(PALETTE)
@@ -344,7 +349,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 "before the supplied structural pauses. Do not accelerate through long syntax."
             )
             strategy = "native-cadence-instruction"
-        else:
+        elif stage == 2:
             # Fish cloning follows its acoustic reference more reliably than a numeric
             # instruction.  The approved relief/hope anchor is the slowest intact
             # Original Calder performance (about 145 WPM), so use its identity and
@@ -359,6 +364,27 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 "full articulation and no acceleration through long syntax."
             )
             strategy = "slow-original-calder-cadence-anchor"
+        else:
+            if not CADENCE_ANCHOR_METADATA.is_file():
+                raise RuntimeError("The QA-cleared Original Calder cadence anchor is missing")
+            cadence_anchor = read_json(CADENCE_ANCHOR_METADATA)
+            cadence_audio = Path(cadence_anchor["referenceAudio"])
+            if (
+                not cadence_audio.is_file()
+                or sha(cadence_audio) != cadence_anchor["referenceAudioSha256"]
+                or cadence_anchor.get("sourceChapterStatus") != "qa-cleared"
+                or cadence_anchor.get("waveformTimeStretch") is not False
+            ):
+                raise RuntimeError("The QA-cleared Original Calder cadence anchor failed provenance checks")
+            for performance in palette.get("performances", {}).values():
+                performance["referenceAudio"] = str(cadence_audio)
+                performance["referenceText"] = cadence_anchor["referenceText"]
+            correction = (
+                " Pace correction: match the supplied hash-bound Original Calder audiobook "
+                "cadence. Preserve each directed intention, but keep the same measured thought "
+                "preparation, articulation, and unhurried sentence movement."
+            )
+            strategy = "qa-cleared-original-calder-cadence-anchor"
         for performance in palette.get("performances", {}).values():
             instruction = str(performance.get("instruct", "")).rstrip()
             if correction.strip() not in instruction:
@@ -373,7 +399,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         }
         save(pacing_override, palette)
         force_segments = [int(item["index"]) for item in record.get("segments", [])]
-    elif existing_pace_palette.get("paceCorrection", {}).get("stage") == 2:
+    elif int(existing_pace_palette.get("paceCorrection", {}).get("stage", 0)) >= 2:
         # Keep the slow cadence anchor for later naturalness or identity pickups;
         # falling back to the base palette would silently undo the pace repair.
         pacing_override = pace_palette_path
