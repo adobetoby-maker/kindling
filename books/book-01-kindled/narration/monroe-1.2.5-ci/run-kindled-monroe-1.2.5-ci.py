@@ -893,15 +893,37 @@ def main() -> int:
     if args.retry_attention:
         def retry(queue: dict) -> None:
             for job in queue["jobs"]:
-                if job["status"] == "needs-attention":
-                    # Keep a completed direction pass when only Fish rendering
-                    # failed. Re-directing would overwrite a repaired cue plan.
-                    direction = Path(str(job.get("direction", "")))
-                    render_failed = str(job.get("error", "")).startswith("Fish render failed")
-                    job["status"] = "directed" if render_failed and direction.is_file() else "queued"
-                    if str(job.get("error", "")).startswith("Codex direction failed"):
-                        job["directorEffort"] = "low"
+                if job["status"] != "needs-attention":
+                    continue
+                error = str(job.get("error", ""))
+                direction = Path(str(job.get("direction", "")))
+                if error.startswith("Fish render failed") and direction.is_file():
+                    plan_path = Path(str(job.get("pickupPlan", "")))
+                    if plan_path.is_file():
+                        # A transient Metal/Fish failure during a pickup leaves
+                        # valid hash-keyed takes behind. Keep the pickup palette,
+                        # stop forcing already attempted segments, and let the
+                        # renderer fill only genuinely missing cache entries.
+                        plan = read_json(plan_path)
+                        forced = [int(index) for index in plan.get("forceSegments", [])]
+                        if forced:
+                            plan["interruptedForceSegments"] = forced
+                            plan["forceSegments"] = []
+                            plan["notes"] = (
+                                "Resume an interrupted hash-matched pickup from cached takes; "
+                                "generate only missing segments, then rerun every objective check."
+                            )
+                            save(plan_path, plan)
+                        job["status"] = "needs-pickups"
+                    else:
+                        job["status"] = "directed"
                     job.pop("error", None)
+                elif error.startswith("Codex direction failed"):
+                    job["status"] = "queued"
+                    job["directorEffort"] = "low"
+                    job.pop("error", None)
+                # Quality-gate attention is intentionally left in place. It
+                # needs a score or source repair, not a blind full retry.
         with_queue_lock(retry)
     if args.retry_directing:
         def retry_directing(queue: dict) -> None:
