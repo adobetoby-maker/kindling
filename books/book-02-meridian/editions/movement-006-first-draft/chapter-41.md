@@ -1,0 +1,637 @@
+# Chapter 41 — Jab: In Pieces
+
+Jab woke in the dark at the mouth of the cut and knew where everybody was before he opened his eyes.
+
+He had not always been able to do that. He could now, if they were near and he knew them. Pell was on the cart, awake, and trying not to move his leg. Dee was sitting up. Callie was standing, the way she stood every night now because lying down hurt more. Toren was asleep with his face in his good arm. Rook was on the canvas by the wheel.
+
+Rook was hot.
+
+Not the way he had been at the pump house on the first morning. Less than that. But it had come up in the night, the way a fire you have banked comes up again when the wind turns. Jab could feel it from where he lay. It was all through Rook, not in bits. It was him, fighting.
+
+It was not a thing Jab could draw. He lay and felt it anyway, because he could not stop himself.
+
+Then he felt for the other thing. He put his left hand flat on his coat, over the left side, and felt the shape through the cloth. The body. The tail. The place where the fin had been.
+
+He got up.
+
+---
+
+The wind was down.
+
+Callie said so before anybody asked. She was standing at the mouth of the cut with her arm strapped across her side under her coat and the hook in her other hand for a stick, looking east along the embankment. The sky over the marsh was going grey at the bottom. There was no sound at all from the reeds.
+
+"It's down," she said. "It's been down since the fourth hour. I've been watching the reeds. They've not moved."
+
+"And the drifts?" said Dee.
+
+"Still." Callie did not look round. "I watched them too. They were still all night. Then about an hour ago the one nearest the gap slid. A hand's width. Not at a ten. Not at anything." She was quiet. "Then it lay still again."
+
+Dee came and stood beside her.
+
+"Once?"
+
+"Once that I saw."
+
+Dee looked at the drifts for a while. They lay along the north side of the embankment in the grey light, long and soft and pale, heaped against the bank like snow against a wall. Nothing moved on them.
+
+"Write it," she said. "Then measure yourself. Then come and be measured."
+
+---
+
+She measured them at the cart, two fingers on each wrist.
+
+"A hand and a bit," she said to Jab. "Floor's a finger." She turned his right hand over and looked at the heel of it by the first light. The white place was the size of a coin. The red round it had gone darker in the night, and the blister at its edge had filled. She had put a square of clean rag over it the evening before and tied it with thread. The rag was still clean. "Can you draw round it?"
+
+"I did last night. On Duchess."
+
+"I know you did. I was watching." She let go. "Round it. Not with it."
+
+She did Callie, and told her three parts, and told her the ribs were not a thing she could measure with two fingers. She did Toren.
+
+Toren had settled a Handful at the fire the night before, out of the lifter's second jar. Jab had watched him do it. He had sat with his palm flat on the square of paper for most of an hour, with his eyes shut, and let it come at the rate it came for him, which was slow. It had been full dark when the paper was clean.
+
+"Stone's full," said Dee. "Your own's two turns. You've the bit back."
+
+"I did nothing yesterday."
+
+"You carried nothing yesterday," said Dee. "That's not the same thing, but it's near enough." She did her own last and did not say it, and wrote it.
+
+"Say it," said Toren.
+
+Dee looked at him.
+
+"You said we'd say everything," said Toren. "Yours as well."
+
+Dee was quiet for a moment.
+
+"Two fingers," she said. "Over my floor. I can watch. I can draw leftovers off one person, once. I can't work." She shut the book. "That's what there is, Toren. It's not what I'd like."
+
+"Then that's what we price," said Toren.
+
+---
+
+The gap was seventy paces from the mouth of the cut.
+
+They walked out to look at it in the grey light, all of them but Pell, who looked at it from the cart. The embankment ran east from the cut, four paces wide on top, packed stone, with the drifts heaped up against its north side and the marsh standing black and still against its south. Iron posts stood along the north edge every twenty paces. Most of them leaned.
+
+Then the embankment stopped.
+
+It stopped the way a loaf stops where somebody has cut a slice out of it. The bed ran to an edge, and past the edge there was air, and then, four paces off, the bed began again. Between the two edges the bank went down on each side in a slope of loose stuff, stone and earth and grey, to the bottom. At the bottom the wash ran through, shallow and quick, from the drift side under where the arch had been, out to the marsh side. The arch was down in it. The stones of the crown lay in the water in a heap, and the water went white round them.
+
+Lying across the bottom of the gap, half in the water and half out, was the iron post.
+
+It had gone down with the crown. It lay at a slant from the foot of the near bank to the foot of the far one, with its lead collar still round it like a ring on a finger. The water ran under it.
+
+Callie held the counter out over the edge at the length of her arm and waited ten breaths.
+
+"Forty," she said. "Here. On the lip." She moved along the edge and held it out again, lower, over the slope. "Eighty. The bank. It's got grey drifted into it." She moved again. "A hundred. There. Where the drift comes into the gap from the north side. Where the crown went in."
+
+Jab looked where she was looking. On the north side the drift came right down to the water. It had spilled into the gap when the crown fell, and it lay against the foot of both banks in a soft grey bank of its own, knee high, running up into the great heaps beyond.
+
+"Seventy," said Callie. "At the water. The water's running. It takes it down."
+
+Toren stood at the very edge with his left arm in its cuff against his chest and looked at all of it. He looked for a long time. Jab watched him look. It was the way he had looked at the rack in the north yard when Rook first put it in front of him, as weight, and where it went.
+
+"Pell," said Toren, without turning round. "Say it again. How it goes."
+
+Pell said it again from the cart, the way he had said it at the pump house. Wheels, axle, bed, shafts, the carrier on its board. Down one side on a rope round something that doesn't move. Up the other on a rope. Nobody below it.
+
+"And the horse," said Pell. "The horse is the thing that lifts. Not you. None of you can lift anything this morning, and she can lift the lot. You put her on the top of the far side with a rope, and she walks away from the gap, and whatever's on the other end of the rope comes up. That's what a horse is for."
+
+"And the near side?"
+
+"The near side lets it down," said Pell. "Round a post. Slow."
+
+Toren looked back along the embankment at the posts.
+
+"Eight paces back," he said. "That one. It's standing straight." He looked across the gap. "And that one over there. Eleven."
+
+"That'll do," said Pell.
+
+---
+
+Toren said who did what.
+
+He did it at the cart, standing by the wheel with the paper in his hand, and he said it slowly, one name at a time, the way Dee said the rules at a gate. Jab listened to him do it. He had heard Toren give orders before. He had not heard him do this.
+
+"I go first," said Toren. "Down the bank on steps, across on the post, up the other side on steps. I take the long rope over. I tie it round the post on the far side. Then there's a rope across, for hands."
+
+"You'll be in the bottom," said Dee.
+
+"I'll be in the bottom the most. That's mine. Somebody has to put a strut under things at the post, and that's me." He did not look at her. "Callie reads the banks for me. From the lip. Stone, soft, hollow. I don't set anywhere she hasn't said."
+
+"Stone, soft, hollow," said Callie.
+
+"Then Callie goes over with Duchess. Once. She leads her. Duchess knows her." He looked at Callie. "You don't come back. You stay on the far side with the horse and the counter, and you read the far bank for the loads. You don't lift. You don't take the rope."
+
+Callie opened her mouth.
+
+"I'll not lift," she said.
+
+"Then Jab," said Toren. "With the frame. All the ash goes over on Jab. He stays on the far lip. That's where everybody comes up, and that's where everybody gets drawn." He looked at Jab. "You're the jar and the work. Dee's the watch. From here."
+
+"From here?" said Jab.
+
+"She can't be drawing and drawing," said Toren. "She's got two fingers. She stays on this side and lets the loads down round the post, and calls the glass. Nobody's in the bottom longer than she says." He looked at Dee. "And when the loads are over, she comes across with Rook. Last. And draws your leftovers. Once."
+
+Dee did not say anything for a moment.
+
+"That's right," she said. She wrote it.
+
+"Rook," said Toren.
+
+Rook was lying on the canvas with his eyes open.
+
+"You're off," said Toren. "You come over at the end with Dee, on the steps, on the rope. You don't hold a load. You don't hold a rope. You don't help."
+
+"I could sit on the post and count," said Rook. "Counting's not helping. It's counting."
+
+"Then count," said Toren.
+
+"And me," said Pell.
+
+"You come over on the shafts," said Toren. "Like you said. On the canvas between them, with the horse pulling." He looked at the cart, at the rack behind the driver's bench. "And the home three with you. In your lap. You're sitting on them."
+
+Pell looked at the three jars in the rack, grey to the shoulder.
+
+"I'm sitting on them," he said.
+
+---
+
+Taking the cart apart took most of an hour.
+
+Pell told them how from the boards. They set the axle up on two stones from the edge of the bed, one under each end, and knocked the linchpins out. Pell took the linchpins himself and put them in his coat pocket and buttoned it. "There's no finding a pin in grey," he said. They got the wheels off.
+
+A wheel was as high as Callie's shoulder. It was ash wood with an iron tyre round it, and it was heavier than it looked. Jab walked the first one along the bed with his hands on the tyre, rolling it, and felt it try to go its own way at every stone.
+
+They had the bed off the axle with Duchess on a rope, sideways, the way Pell said, and it came off with a groan and lay upside down on the embankment like a boat on a beach. The axle lay on its stones. The shafts came off their pins.
+
+Pell watched them do all of it. He had his leg out on the canvas and his hands flat on his knees. When they lifted the shafts off, he took the canvas from under himself and folded it in four on his lap. Then he told Jab and Toren how to lash it between the two shafts, at the wide end, with the long sides round the poles and a rope through the eyelets.
+
+"There," he said. "That's a bed and two poles and a bit of canvas. I said so."
+
+"You said you'd not say anything about the camber," said Rook.
+
+"I'll not," said Pell. "There's no camber on a drift."
+
+They got him onto it. It took Jab and Toren and Dee, with Pell holding his own leg by the splint and saying *easy* and *easy* and *there*. When he was down, Toren brought the three home jars out of the rack one at a time. He put them into Pell's hands.
+
+Pell set them round himself, one on each side of his hips and one between his knees, and put a rope round all three and round himself, and tied it.
+
+"If I go in the wash," he said, "they go with me."
+
+"If you go in the wash," said Dee, "I'll write it."
+
+The carrier sat on its tailboard sledge on the embankment, with the lid in its groove. Jab stood and looked at it. Two boxes in it. The whole reason for everything.
+
+"That comes after me," said Pell. "Not before. If something goes wrong on the first load, it wants to be me that it goes wrong with." He looked at the carrier. "Not that."
+
+---
+
+Toren went down first.
+
+Jab watched him from the lip. He watched Callie crouch at the edge of the bank with the counter in her strapped arm and the hook's end out flat over the slope, pointing, the way she pointed at the ground in the north yard.
+
+"Stone," she said. "There. Under a hand of grey. It's the edge of the old bed, where it was built up." She moved the hook. "Soft. Soft. Not there." She moved it again. "Stone. That's a block off the crown. It's sitting on something."
+
+Toren set.
+
+He put the foot of a strut down on the stone she had pointed at, under its hand of grey, and let it come up flat, a step, pale and hard, at the height of his knee. He put his boot on it. He stood on it for one breath, and it held him, and he stepped down onto the next one, which was already there, because he had set it while he stood on the first.
+
+*Set. Step.*
+
+He went down the bank that way, on steps nobody else could have stood on, with the long rope over his good shoulder, paying out behind him from the post. Each step went out when he left it. At the bottom he stepped off the last one onto the iron post where it lay across the water, and stood on the post, and the water ran under him.
+
+"Eighty," said Callie, reading him from the lip. "A hundred, if you go to the north end of the post. Don't."
+
+He did not. He walked the post to its far end, one-handed, with the rope going across behind him. Then he set steps up the far bank on the stones she called for him across the gap, and went up them, and stood on the far lip.
+
+He tied the rope round the far post. He did it one-handed, slowly, with his teeth for the knot at the end.
+
+Then he looked back across the gap at them. Jab could see his face. It was grey, the way it went when he had been paying.
+
+"There's a rope," said Toren.
+
+---
+
+Callie took Duchess over.
+
+She did not lead her down the steps. There were no steps for a horse. There was the bank, and it was loose, and Duchess put her front feet on it at the top and stopped, and put her ears back, and blew through her nose at the grey.
+
+"She'll not," said Pell, from the shafts.
+
+"She will," said Callie.
+
+She stood below the mare on the slope. She did not pull the rope. She had her strapped arm across her side and the rope loose in her right hand, and she talked to Duchess. Jab could not hear what she said. It was low and flat, the voice she used for a number.
+
+Duchess put one foot down. Then the other. Then she came down the bank the way a horse comes down a bank it does not like, sitting back on her haunches, in a slide of stone and grey. Callie went down in front of her, backward, reading every step, and did not once let the rope go tight.
+
+At the water Duchess stopped again.
+
+It was not the water. Jab saw that. It was the drift. The grey came down to the water on the north side of the post, a pace from her nose, and at the moment she reached it the edge of it slid. A hand's width, toward the water, and stopped. Not at a ten. At nothing.
+
+Duchess threw her head up. The rope came tight all at once, and Jab saw Callie's arm go out after it, the right one, and her body turn with it.
+
+She let go.
+
+She opened her hand and the rope went out of it, and she stood in the bottom of the gap with her empty hand in front of her and her strapped arm across her side, and did not grab again.
+
+Duchess stood with her head up and the rope hanging. She did not run. There was nowhere to run in the bottom of a gap. She stood and blew, with her eyes white.
+
+"Let it run," said Callie, to nobody. "Lead's cheaper than you."
+
+"*Horse*," said Pell. "She's a horse. Not lead."
+
+"It's the same rule," said Callie.
+
+She picked the rope up out of the water slowly, and talked to the mare again. After a while Duchess put her head down and followed her across the post-side stones and up the far bank in a scramble of hooves. Toren stood at the top with his good hand out, not on the rope, only there.
+
+Callie came up after her on Toren's steps. At the top she stood with her hand on the mare's neck. She had her other arm tight across her ribs, and her face was the colour of the drift.
+
+"I let go," she said to Toren. Jab heard it across the gap. "It pulled, and I let go."
+
+"Good," said Toren.
+
+---
+
+Jab went over with the frame.
+
+He went down Toren's steps with his hand on the rope. They came up one at a time in front of him, pale and hard, and went out behind him. Toren was on the far lip setting them, calling *step* for each one. Jab put his boot on them and they held him, and he did not look down at the grey.
+
+He felt the bottom as he came into it.
+
+It was not like Caul Hill. There was no pull in it. There was nothing under the grey drawing at anything. It lay there, the whole soft heap of it on the north side of the post, loose and cold and busy with the hill, and did nothing. It did not want him. It did not want anything.
+
+He was glad of it. He had not known how much he would be.
+
+On the post he stopped for a breath. He did not know why. He stood on the iron with the water running under him and the frame on his back, with every jar they had in it, and looked north along the wash at the drifts going away toward the hill, and at the edge of the sky over it.
+
+It was thickening and thinning. It had no count.
+
+"Jab," said Toren, from above. "Step."
+
+He went up.
+
+---
+
+The far lip was the station.
+
+That was what Toren called it, and Jab did not argue. He stood on the embankment at the top of the far bank, four paces back from the edge, with the frame on his back and nothing to rest it on. The tailboard was on the other side of the gap under the carrier. So he stood.
+
+Callie read the ground under him. "Forty," she said. "Clean enough. It's the road's."
+
+"Then I vent into the road," said Jab.
+
+"Not into my floor," said Callie. Somebody had to say it. Dee was on the other side.
+
+He had the lifter's second jar, and the first. He took the second out of the rack by the neck and pulled the stopper and held it in the crook of his left arm, against his palm. Three and a half in it. It was the lifter's. It was cold, all of it, with nobody in it.
+
+He drew Toren first.
+
+Toren came and stood in front of him on the lip with his arms at his sides, the good one and the cuffed one, and Jab put his right hand flat on his chest, round the white place, and felt.
+
+"Busy," he said. It was the bottom, and the steps, and the bank. It was in the chest and a little in the legs, where the grey had come up off the bank as Toren walked in it. Warm grit. The hill.
+
+He drew. It came up into his palm. The clean cold came through him from the jar into his left hand and held it off his wrist, and he held it high, and turned, and put his palm flat on the stones of the road and let it go down out of him.
+
+"Clean," he said.
+
+"How much?"
+
+Jab weighed the jar on his palm, the way Callie did.
+
+"A quarter," he said. "And the vent."
+
+"That's one crossing," said Toren. He looked back across the gap at the carrier on its board and the bed upside down and the axle on its stones and the two wheels and Pell on his canvas between the shafts. "There's nine more."
+
+---
+
+The wheels went first, because Pell wanted to see how a load behaved before it was him.
+
+Dee let them down. She had the long rope round the near post twice. Jab could see her across the gap, standing back from the post with the rope over her hip and her feet set, the way she had stood at the rail's post on the landing with the ramp going down in front of her. Rook sat on the embankment beside the post with his knees up and his coat over his shoulders.
+
+"One," he called. Jab heard it across the gap. "One wheel. Going down."
+
+The wheel went down the bank on the rope, rolling, with Dee paying out slow. At the bottom it came up against the post, and Toren was there. He had gone back down his steps to the post, and he stood on it and put a strut under the rim of the wheel where it met the iron. It came up at a slant, a short ramp, and the wheel went up it and over the post and down onto the stones on the far side.
+
+"Rolling," called Pell.
+
+Then Callie walked Duchess away from the far lip along the embankment, east, with the other end of the rope on the mare's collar, and the wheel came up the far bank behind her. It came up the whole slope, bumping, rolling where it could and sliding where it could not, with Jab at the top guiding the rope off the edge. It came over the lip onto the bed. Callie stopped the mare.
+
+"One," said Jab.
+
+It had worked. He saw Toren see that it had worked, down in the bottom on the post. He saw him breathe out.
+
+The second wheel went wrong.
+
+It went wrong halfway down the near bank. The rim hit a buried stone that Callie had called *stone* and meant for a boot, not a wheel, and it jumped. It came off the ground and turned in the air and came down on its edge, and the rope jerked round the post, and Jab saw Dee go forward a step with it and set her feet.
+
+The wheel twisted on the rope. It came round broadside. Its weight went sideways off the line of the rope, and the rope slipped up the post, off the stone it had been sitting on.
+
+"Let it run," said Pell. He said it loud.
+
+Dee let it run.
+
+She opened her hands on the rope, and it went out round the post with a hiss, and the wheel went down the rest of the bank on its own. It went fast. It came off the bottom of the slope and hit the stones of the fallen crown, and bounced, and went over the water and over the end of the post. It went into the drift on the north side.
+
+It went in three paces, and fell over on its side, and lay there in the grey with half its spokes showing.
+
+Nobody said anything.
+
+"A hundred and ten," said Callie, beside Jab, with the counter held out over the edge. "Where it's lying."
+
+---
+
+Toren was on the post.
+
+Jab saw him look at the wheel. He saw him look at the grey round it, knee deep and soft, and at the far end of the post, and at his own boots.
+
+Then he saw Toren look up at the far lip. At Jab.
+
+"It's a wheel," said Toren. "We can't go home on one wheel."
+
+"No," said Pell.
+
+"Who goes in?" said Toren.
+
+He did not say *I'll go*. Jab heard him not say it. He heard it the way he heard Callie not say a number when she did not like it. Toren stood on the post and asked it, out loud, to everybody.
+
+"You're in the bottom already," said Dee, from the near lip. "You're the one that's in it."
+
+"I'm in it at eighty," said Toren. "That's a hundred and ten."
+
+"Callie," said Dee. "Read it."
+
+Callie crouched on the far lip. She held the counter out, and looked for a long time at the grey on the north side of the post, the way she looked at a floor. Jab watched her read it.
+
+"The water's in it," she said. "At the edge. Look." She pointed with the hook's end. "Where the drift comes down to the stream, it's dark. It's wet. The stream's been running into the foot of it all night. The wet grey doesn't lift. It's like wet flour. It lies." She moved the hook along. "There's a line of it. Wet. From the end of the post along the water to where the wheel is. A pace wide. If you walk in the wet, you're walking in the stream's side of it, not the drift's."
+
+"How much?" said Toren.
+
+"Eighty on the wet," said Callie. "A hundred and ten on the dry. Don't touch the dry."
+
+"How long?"
+
+"As long as it takes you to put a rope through a wheel with one hand," said Callie.
+
+Toren looked at the wheel.
+
+"Jab," he said. "Throw me the other rope."
+
+---
+
+Jab threw it.
+
+It was the back rope off the carrier's sledge. Pell had had them take it off. It went out over the gap and Toren caught the end of it one-handed against his chest and looked at it.
+
+Then he stepped off the post into the stream.
+
+Jab watched him walk the wet line. It was a pace wide, as Callie had said, a dark band along the foot of the drift where the stream had soaked it. He walked in the water where he could and in the dark grey where he could not. He did not touch the pale grey above it. He went slowly. He went the way Rook had gone up to the drift on the forty-fifth to look, alone, and been told off for it after.
+
+"Glass," said Rook, from the near lip. Jab heard him say it. "Somebody's got the glass."
+
+"I've got it," said Dee. "One."
+
+At the wheel Toren stopped. He was in the stream to his shins. The wheel lay on its side a pace from him, half in the wet grey and half in the dry. He bent. He could not kneel. He put the rope through between two spokes near the hub, one-handed, and brought the end back, and put it through again. Then he stood up and held the end in his teeth and tied it round itself with his good hand.
+
+It took a long time.
+
+"Two," said Dee.
+
+"It's through," said Toren round the rope. He let go of it with his teeth. "It's tied. Take it."
+
+Callie turned Duchess and walked her away along the embankment.
+
+The rope came up tight over the lip beside Jab. It came tight down the far bank, across the stream, to the wheel. The wheel moved. It dragged out of the grey on its side, plowing a furrow through the wet edge, and came across the water and up against the foot of the far bank. Jab went to the edge and guided the rope off the stones as it came.
+
+It came up the bank on its side, like a sledge. It came over the lip.
+
+"Two," said Jab.
+
+"Three turns," said Dee, across the gap. "Toren. Out."
+
+Toren came out. He came up the far bank on his own steps, slowly. At the top he stood in front of Jab without being asked.
+
+"Busy," said Jab, with his palm on his chest.
+
+It was. It was more than the first time. It was in the chest and the belly and the legs to the knee. The drift had come up off the wet edge onto him after all, the way it always did, a little, however careful you were.
+
+He drew it. He held it high and vented into the road, and drew again.
+
+"How much?" said Toren.
+
+"Three quarters," said Jab. "That was a Handful, that wheel."
+
+"That wheel's the way home," said Toren.
+
+Jab weighed the jar.
+
+"Two and a quarter in it," he said. "Out of three and a half."
+
+---
+
+The axle went down and across and up. Then the bed, upside down, on two ropes, with the horse pulling it up the far bank like a sledge and its planks grating on the stones. Then the carrier.
+
+Pell would not let anybody hurry the carrier.
+
+"Slow," he called, from his canvas on the near lip. "Slower than that. It's lead. It doesn't care. Let it not care slowly."
+
+It came down the near bank on its board with Dee paying out round the post, and at the bottom Toren put a strut under the front of the board at the post, a ramp, and it went up and over the iron, and the horse took it up the far side. Jab went to the lip and guided the rope, and did not put his hands on the board, and it came over.
+
+He looked at it on the bed of the embankment. The carrier, grey and dull, with the lid in its groove. Two boxes in it.
+
+"That's the boxes," he said, to nobody.
+
+"That's the boxes," said Callie, beside him. She had the counter out at it. "Nine. At a hand. Same as it was."
+
+He drew Toren again after the carrier, because Toren had been on the post for it. He did not say how much. He weighed the jar and said a number, and Callie said it back.
+
+"One and a half," she said. "In the second."
+
+---
+
+Pell came last of the loads.
+
+He came down the near bank on the shafts with the canvas slung between them and the three home jars roped round him. Dee let the shafts down on the rope, butt end first, and the canvas went down the slope behind them with Pell in it, holding his splinted leg up off the stones with both hands, and saying things.
+
+"*Easy*," he said. "Easy. Easy. *There*."
+
+At the bottom the butts came up against the post. Toren set the strut. The shafts went up the pale ramp of it and over the iron, and Pell went over the iron after them. The water ran under him. He looked down at it as he went over and said, "Wash," to nobody.
+
+Then Duchess took him up.
+
+She took him up the far bank the way Pell had said a horse would, walking away from the gap along the embankment with her head down and the rope on her collar, and the shafts came up the slope behind her with the canvas between them and Pell in the canvas. He came over the lip with his leg held up in both hands and his face grey and wet and the three jars still roped round him.
+
+"Stop the horse," he said. "Please."
+
+Callie stopped the horse.
+
+Pell lay on the canvas on the embankment and breathed for a while. Then he put his hands on the three jars one at a time, one on each side of his hips and one between his knees, the way you touch your pockets after a crowd.
+
+"Home," he said. "Three. Not touched."
+
+"Not touched," said Callie.
+
+Jab knelt by the canvas and put his palm flat on Pell's chest. He could kneel here. It was the road's.
+
+"Busy," he said.
+
+---
+
+The jar went dry on Pell.
+
+Jab said *jar* before it did. He heard himself say it and felt it go thin in his left palm, the pour at the bottom of the jug, and he took his hand off Pell and held the last of the draw high and vented it into the road. Then he sat back on his heels.
+
+"That's the second," he said. "The lifter's second. Done."
+
+"Say what it went on," said Callie. She had the book. It was Dee's book. Dee had given it to her across the gap on the end of the rope with the canvas bag, before the loads.
+
+"A Handful into Toren last night, for the steps," said Jab. "That's out of the four and a half." He counted on his fingers, with the white place on the heel of the right one catching the light. "Toren three times. Pell. The vent. That's the rest."
+
+"Three and a half," said Callie. "Out of the second. And the Handful he settled." She wrote it. "Open the first."
+
+He opened the lifter's first jar. Eight in it. Jab's first, lifted off the floor of a room under a hill where it had been cold all through with nobody in it. He put it against his left palm.
+
+"Jar," said Callie. "The first. Open. Eight in it."
+
+He drew Pell the rest of the way. He drew Duchess, with his palm flat on her neck where the collar had been, while she stood with her head down and let him. He drew Callie last of the far side, standing, with his hand flat on the inside of her wrist because the ribs were where the rest of it would have been.
+
+Then he stood on the lip with the open jar against his palm and waited for the last two.
+
+---
+
+Dee and Rook came over at the end.
+
+They came down the near bank on Toren's steps, with Toren standing on the post calling *step* up to them one at a time. Rook came first. He came down very slowly, with one hand on the rope and the other at his side, and his face grey and wet under his hat. He did not touch anything that was not the rope or a step. Dee came behind him with the glass in her fist and her eyes on his back.
+
+On the post Rook stopped.
+
+He stopped the way Jab had stopped, with the water running under him. He stood on the iron and looked down at the stream, at the heap of stones that had been the crown, and at the lead collar round the post under his boots.
+
+"I sat in its lap for an hour," he said. "On the forty-sixth. With a hole in my back." He looked at the collar. "It was standing up then."
+
+"Rook," said Dee. "Walk."
+
+He walked. He came up the far bank on Toren's steps, one at a time, slowly, and at the top he stood on the embankment and did not sit down. He was shaking. Jab could see it from four paces off. It was all through him. It was the fever, and the cold, and the bank.
+
+"Come here," said Jab.
+
+Rook came. He stood in front of Jab and let Jab put a palm flat on his chest.
+
+It was two things. Jab could feel them both. There was the grey off the bank, a little, busy, in the chest and legs. He could draw that. And under it, all through, hot, not in bits, there was Rook. There was the thing in his back that was not grey at all, and Rook fighting it.
+
+He drew what he could draw. He did not touch the rest. It was not his.
+
+"It's not yours," said Rook. He said it quietly, looking down at Jab's hand. "You know that."
+
+"I know."
+
+"It's Sowerby's. It's five days." Rook's teeth were together to stop them going. "Five days and a cot and a man shouting at me. That's all it is."
+
+Jab took his hand away. He held the draw high and vented it into the road.
+
+He did not know why he did the next thing. He put his left hand inside his coat, on the left side, and undid the button, and took out the fish.
+
+He had not taken it out since the gate. He had felt it through the cloth every day, and every night, and in the sink, and in the fight. He had not once taken it out to look at it. It lay on his palm now, small and dark and smooth, with its tail and the place where the fin had been. It was the room, Dee had said, at the pump house, with the counter. It was clean.
+
+Rook looked at it.
+
+"He said he's minding me," said Jab. "On the hill. That was his job." He looked at it. "The hill's done. He's only borrowed. I've to bring him back."
+
+"Then that's five days as well," said Rook.
+
+"Five days."
+
+"And don't eat inside," said Rook.
+
+Jab looked up at him. Rook's mouth had moved at the corner.
+
+"He told you that," said Jab.
+
+"He told the whole ward," said Rook. "Twice. Senna told me at the gate, word for word. She said it was the best thing anybody had said in that ward all winter." He looked away east along the embankment, toward the end of it, and the slope beyond, and the road going away over the grey country toward the old north road and the Sag and the gate. "He's four. He'll be doing that chair on his own by now, and ordering the nurses about. You'll come in and he'll not look up."
+
+"I know," said Jab.
+
+He put the fish back inside his coat, on the left side, and buttoned it. He could feel it through the cloth. Home was not a direction. It was four years old and it had a cord wound round its fist, and it was waiting to see if he was asleep.
+
+---
+
+Dee came last.
+
+She came up Toren's steps to the far lip and stood in front of Jab with the glass in her fist. She held out her hand, palm up, for the jar. He gave it to her.
+
+"Stand still," she said.
+
+He stood still. She put her palm flat on his chest and the jar against her other hand, and he felt her find what was in him. It was the leftovers, the little warm grit that had come into his wrists from every draw. It was not much. She drew it, and held it high, and turned, and put her palm on the road.
+
+"Clean," she said.
+
+He watched her face. It had been white for three days, and it was white now. She took her fingers and put them on her own wrist, the crooked one, and looked at nothing.
+
+"A finger and a bit," she said. "Over." She let go of her wrist. "That's once. That's what I had."
+
+"Toren," said Jab.
+
+Toren came up out of the gap last of all.
+
+He came up the far bank on his own steps with nobody to call them. Each one came up in front of him, pale and short, and he put his boot on it and stood for a breath, and it went out behind him. At the top he stood on the lip and looked back down into the gap at the post, and the water, and the drift with the furrow in it where the wheel had been dragged out.
+
+Jab drew him one more time. He did not ask. Toren stood.
+
+"Busy," said Jab. And then, after a while, "Clean."
+
+"How much?" said Toren.
+
+"Callie," said Jab.
+
+Callie had the book on her knee on Pell's canvas. She did not have to weigh the jar. She had been counting the whole time.
+
+"The second's done," she said. "Three and a half out of it, and Toren's Handful for the steps last night. The first's open. It had eight." She looked at the jar in Dee's hand. "It's got two left. Six out of it. On Pell, and Duchess, and me, and Rook, and Toren, and Jab, and the vents."
+
+"Say the whole of it," said Toren.
+
+"Ten and a half," said Callie. "For the wash." She wrote it. "I said ten, maybe twelve."
+
+"You said an hour."
+
+"I said an hour," said Callie. She looked at the sun. It was well up over the marsh now, and yellow. "It was an hour and three quarters. The wheel."
+
+"Then write that," said Toren. "The price was right. The time wasn't."
+
+---
+
+They looked at it for a while, all of them, the way you look at a thing you have done before you believe it.
+
+The gap in the embankment, four paces wide, with the post lying across the bottom of it and the water running under. The furrow in the drift. The near lip, with nobody on it now, and the near post with the rope still round it, twice, going across to the far post. The mouth of the cut beyond, seventy paces off. And beyond the cut, over the ridge, a mile off, the pump house, and the river, and the bridge with two poles on it, and the gate with a twist of green wire through its chain, and the hill.
+
+Over the hill the sky thickened and thinned. It had no count.
+
+"The rope," said Pell. "We'll want that."
+
+Toren looked at it going across the gap.
+
+"We'll want it," he agreed. He did not move.
+
+"I'll get it," said Jab.
+
+"No," said Toren. He said it quietly. "Nobody goes back down there for a rope." He looked at the far post. "Cut it at this end. Leave the other."
+
+Jab looked at him.
+
+"It's a rope," said Toren. "Somebody might want it. Coming the other way."
+
+Jab cut it at the far post with his own knife, not the other one. The long end fell down the far bank into the gap and lay there across the stones. The short end stayed round the post in its knot.
+
+Toren took the paper out of his coat. He wrote on the back of it, standing on the embankment with the paper against his cuffed arm.
+
+*50th. The wash, in pieces. Out: 6. In: 6. And a horse. And the boxes. 10½ of the lifter's (the price). 1¾ hours (not the price).*
+
+He looked at it. Then he looked at all of them, one at a time, the way he did.
+
+Pell on the canvas between the shafts, with his hands on three jars nobody had opened. Dee with the glass, white. Rook, shaking, standing up because nobody had told him he could sit. Callie on the canvas beside Pell with the book on her knee and her arm across her side. Duchess with her head down, eating nothing, because there was nothing to eat on an embankment.
+
+And Jab, with the frame on his back and a fish buttoned over his heart.
+
+"Six," said Toren. "And a horse."
+
+"Now put it back together," said Pell.

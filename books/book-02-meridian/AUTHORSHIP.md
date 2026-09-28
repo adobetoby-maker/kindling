@@ -449,3 +449,197 @@ itself as the prose author.
 
 Codex orchestrates the run and repository work. Codex does not substitute
 itself as the prose author.
+
+## Movement Six — What We Brought Home
+
+- Status: **repaired (2026-09-28) after the movement-level cold read and editorial
+  review; acceptance pending the targeted recheck.** The first draft stays frozen. See
+  "Movement Six — consolidated same-author repair" below.
+- Seat: Monroe Jackson 1.3.0, O'Connor seat 1.3.0 (progression-adventure)
+- Selected author: Opus
+- Requested model alias: `claude-opus-5-5`
+- Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as
+  reported by the runtime environment.
+  - It was one continuous session, and every manuscript sentence was written in it.
+  - No subagents and no Agent tool were used, for research or for prose. No skills
+    were invoked.
+  - No other model wrote or revised prose.
+- Session architecture:
+  - The author read the compiled prompt in full. That includes the packet, the embedded
+    Chapter 40, the book map, the source pool, the M5 and M3 checkpoints, and the owner voice.
+  - It then read Chapters 33–39 in full (Chapter 40 was read in the prompt).
+  - To verify facts, it read the M4 and M2 checkpoints and targeted excerpts:
+    - ch 24 (the departure, the Sag and the home line);
+    - ch 17 (the watch's lamps and dark lane);
+    - ch 9 (the rack, the reference boxes, the "month's work");
+    - greps of chs 1–40 for the disk, Satori, Cinder, the stone, the plate and the hour
+      convention;
+    - Book One (`book-01-kindled/revised/`) greps for the disk and for Cinder Company's
+      brass chits;
+    - `book-01-hobbs-wall/chapters/chapter-28.md` (the *released to bearer* record).
+  - It drafted chapters 41–48 in order with the file-writing tool, one connected run,
+    with no per-chapter scoring, approval or editing gate.
+  - It then checked the run in order for blocking contradictions and corrected them with
+    exact-string edits (listed below). It wrote the continuity checkpoint and froze a copy
+    of the first draft.
+- Provider: Anthropic, via Claude Code (Agent SDK harness)
+- Movement packet: `packets/MOVEMENT-006.md`
+  (SHA-256 `bc9f80625cd10b2fbb34ce9234b691e9a3b7774f7f5dd48b10633f957ef4b3b0`)
+- Compiled prompt: `editor/MOVEMENT-006-OPUS-5-5.prompt.md`
+  (SHA-256 `ed1f5bb179816ca237ce3258edb17a01f38ef439c0ecf66b96536110f0150d05`)
+- Numerical formula: `/Users/drive/penname/research/ironprince-craft-formula.md`,
+  SHA-256 `9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8`,
+  matching the prompt's recorded hash; re-verified at the end of the run.
+- Edition: Book Two, Movement Six, first draft (2026-09-28)
+- Manuscript and SHA-256 at the end of the run:
+
+  | File | POV | Words (`wc -w`) | SHA-256 |
+  |---|---|---:|---|
+  | `manuscript/chapter-41.md` | Jab | 7,541 | `746bf38967d68d837f58484744164770e7b1ddc5c15f57d03b4fb9420cd5696d` |
+  | `manuscript/chapter-42.md` | Toren | 5,061 | `506993400938e9c55cd46560be8ac1835f1da03ec825f75092f3e8d6fa4e755f` |
+  | `manuscript/chapter-43.md` | Callie | 7,133 | `2db993d2c10c5b23ad2e85ff0be005cae2ba85d1ee30ad99cf3930aa39d7c63e` |
+  | `manuscript/chapter-44.md` | Jab | 4,530 | `f2d7751b68402c19ca987ff307280442779f33669143ef111e1eff08e8c6530f` |
+  | `manuscript/chapter-45.md` | Toren | 6,994 | `52f1c9bea0fb405182b81ccae5f95aed478e039b3e1bba50cb52ca1c7ba1a542` |
+  | `manuscript/chapter-46.md` | Callie | 5,299 | `5e107656fafc07037762e345f363c672b40e2c724637b913173b7cccc40b4752` |
+  | `manuscript/chapter-47.md` | Jab | 5,294 | `ee606f691c4c90625b14b6162c5130e5577bbaae627d78d7f6abab24aac7600f` |
+  | `manuscript/chapter-48.md` | Toren | 5,470 | `2874a54367063ad41ae173e54ce5e3314b4fedfaf3326463a81053889eed750c` |
+
+  Each chapter has a single viewpoint. Jab has three chapters, Toren three and Callie two,
+  as the packet directed.
+- Drafted length: **47,322 words** (`wc -w`). That is **over** the packet's approximate
+  36,000–42,000 by about 13%. No scene was padded, and none was compressed to fit.
+- Book Two total after this movement: **317,709 words**. The packet projected
+  306,000–312,000.
+- Viewpoint share:
+  - Movement Six: Toren 37.0%, Jab 36.7%, Callie 26.3%.
+  - Cumulative, whole book: **Toren 33.9%, Callie 33.3%, Jab 32.8%**. This is the
+    near-even finish the packet asked for.
+- Frozen first draft: `editions/movement-006-first-draft/` (with `README.md` listing hashes).
+  It is byte-identical to the manuscript files above at the end of the run (`cmp`). The
+  earlier frozen editions were not touched.
+- Continuity checkpoint: `provenance/MOVEMENT-006-CONTINUITY.md`
+  (SHA-256 `4ce15ce3161edfb2ef489e2561396da5e74678f2ee5b47093465966d8c79851a`). It records:
+  - the day map and the viewpoint/word map;
+  - the wash-crossing, road and return-hold staging;
+  - the exact ash ledger from D+49 to the Director's final apportionment;
+  - the machine repair and patient states;
+  - injuries, objects, residency and defender terms, and the breach ruling;
+  - the company's name (**the Home Line**);
+  - the exact disk clue and Cinder trace, withheld truths, and Book Three hooks.
+
+**Deviations and disclosures**
+
+- **Length over range** (above). The lowest-cost cuts are named in the checkpoint.
+- **Callie's movement share is low (26%)** by design, because M5 led with Callie. The
+  cumulative book is near even.
+- **Scene-break proxy is short:** 90 breaks, about 470 words per section, against the
+  formula's ~950. This is the same direction as every earlier movement.
+- **"The way …"** occurs about 123 times, including literal uses. "Nobody said anything"
+  occurs 9 times. Neither was thinned in the drafting run.
+- **Formula comparison was not run**; it belongs to the editorial pass.
+- **The disk:** it had not appeared anywhere in the Book Two manuscript before this
+  movement. The clue is written to be legible without the withheld Hobb's Wall
+  record-office scene. **This movement contains the first appearance of the phrase *released
+  to bearer* in the Book Two manuscript** (ch 46), in the treatment machine's fittings book.
+  No origin, Maker, Satori link or meaning is stated. The owner should confirm this
+  placement against the record-office scene's eventual fate.
+- **The Cinder trace** uses Book One's brass-chit convention. The chit's letters are
+  deliberately not given.
+- **Author inventions not previously on the page** (now recorded as canon in the
+  checkpoint):
+  - at the wash: the fallen iron post as the gap's bridge, the travois on the shafts, and
+    the rope left at the gap;
+  - on the road: the walking wheel with its tallow grease and Rook's wedge; the 14 cups of
+    barley meal; the husk-line counts;
+  - at the Sag: *Everybody back* as Dessa's call for a push; Jab's two-breath push sense;
+    Callie's hand-on-the-tail still lee;
+  - at the machine: the rack's nine-ribbed socket and the fittings book; the machine
+    learning the box in a night;
+  - at the weighbridge: Tilda's grain-sack knot and the new board lines;
+  - Dessa's seventh ("reasons") column;
+  - the Director's 20-day and spring-review restrictions;
+  - the defender-standing sheet;
+  - the name **the Home Line**.
+- **Blocking contradictions corrected during the whole-run check** (exact-string edits):
+  - ch 41: Rook's source for Tonk's instructions (via Senna, not a ward bed);
+  - ch 42: an asserted age for Toren removed;
+  - ch 43:
+    - the D+53 culvert is tied to D+42's stretch of road;
+    - the D+52 camp is at the siding's east end;
+    - "the first one full" is credited to Dee;
+  - ch 45: who is being drawn when Jab stops; Toren's own reserve after the lane ("a turn");
+  - ch 46:
+    - the technician comes at first light (not the Director's hour);
+    - the rack learns the box in "a night, maybe two";
+    - the liar is in the third row;
+  - ch 47: Wyck "cleared since yesterday"; the slate set to 58;
+  - ch 48: an invented crew name ("Old Brand's") and a meta phrase ("the other book of his
+    life") removed; "Hallet's east lifters" changed to "the east lifters".
+- No human cold read has been run.
+
+Codex orchestrates the run and repository work. Codex does not substitute
+itself as the prose author.
+
+## Movement Six — consolidated same-author repair
+
+- Status: **complete; targeted recheck verdict `repair accepted`**
+- Cold read: `editor/MOVEMENT-006-COLD-READ.md`
+- Editorial review: `editor/MOVEMENT-006-EDITORIAL-REVIEW.md`
+- Repair prompt: `editor/MOVEMENT-006-REPAIR.prompt.md`
+- Repair report: `editor/MOVEMENT-006-REPAIR-REPORT.md`
+- Recheck: `editor/MOVEMENT-006-RECHECK.md`
+- Model that actually made the repair: **Claude Opus 5.5 (`claude-opus-5-5`)**,
+  the same selected author, in one continuous session with no subagents, no Agent
+  tool and no skills.
+- Review disclosure: both reviews used Claude Opus 5.5 in fresh contexts, with startup
+  memory summaries of the drafting run. They are same-model simulated reads, not
+  independent human reads. The repair session also began with memory summaries.
+- Recheck disclosure: Claude Opus 5.5 in a fresh read-only context, same-model and
+  not an independent human read. All eight targeted questions passed.
+- Repaired length: **47,308 words** (`wc -w`), net −14 from the frozen first draft
+  (47,322). Book Two total: **317,695**. The brief asked for a small net reduction
+  (roughly 150–500 words). The Priority 2 bridges cost about as much as the Priority 3
+  compressions saved, and no developed scene was cut. This is disclosed as a deviation.
+- Viewpoint after repair: Movement Six Toren 37.2%, Jab 36.7%, Callie 26.1%;
+  cumulative Toren 34.0%, Callie 33.2%, Jab 32.8% (owner ruling: accepted).
+- Repair scope:
+  - reconciled the meal counts (14 → 11 → 8 → 5 → 2), the siding camp (east end), the jars
+    (four with clean ash on D+55; five empties on D+58), the ward beds, and a single
+    home-Flask weighing on D+58;
+  - reconciled Tonk's chair day ("Yesterday"), the surge onset (the fourth hour,
+    observed), ch 48's hour sequence and the lateness (two days); also Callie's "fifteen
+    boxes", "thirty paces" and a spoken six-line list;
+  - restaged Jab's D+55 perception as an anomalous, corroborated, costly and fallible
+    reading of the moving ash field, with no general range gain and no two-breath
+    prophecy;
+  - tied Callie's road-line hold to the ch 39 steel precedent, as deliberate placement,
+    breadth and controlled release; identified her blood as a nosebleed with a clear lung;
+  - reintroduced Toren's carried disk in ch 42, ahead of the socket clue;
+  - compressed the ch 47 ash recital to what the terms scene needs, trimmed ch 43's
+    restated check-ins, and halved the chs 45–48 pause-phrase clusters.
+- Preserved: the 96 / 61 / 35 ledger and the 10½ wash cost, the wash crossing, the full
+  return hold, the machine's honest calibration without cure, the terms, the Home Line
+  and the ending.
+- Repaired manuscript and SHA-256:
+
+  | File | POV | Words (`wc -w`) | SHA-256 |
+  |---|---|---:|---|
+  | `manuscript/chapter-41.md` | Jab | 7,543 | `a3a261646f56d3f2a22778740ea271b180ff8a94b2855f398264d8d6dddf368a` |
+  | `manuscript/chapter-42.md` | Toren | 5,078 | `5ab9308a044c2c63d280956ba044fa6cd417dc5a6a01c1e3f8ca9293ad514ea5` |
+  | `manuscript/chapter-43.md` | Callie | 6,984 | `b888ab2a71a136485b9bb80ec1b42bb4af60f78053c041e68e888662f8c27a30` |
+  | `manuscript/chapter-44.md` | Jab | 4,667 | `e6726bbbfd00336831b1939b75bd160f94bce66c1eadd0574681fd527c8e0937` |
+  | `manuscript/chapter-45.md` | Toren | 7,065 | `98f3aa73ca652573873cafbd7ec250e77ba9c2adf38e401c197071f9d2b4daca` |
+  | `manuscript/chapter-46.md` | Callie | 5,377 | `b651c1d58d96827dc2db7d87ef11a61cadd32a7549bb01ffbd9618f8913797a1` |
+  | `manuscript/chapter-47.md` | Jab | 5,141 | `c89325c1c7bdd489946f707afdc0c9ecac0da76a4813b5018b226e9b40644b0d` |
+  | `manuscript/chapter-48.md` | Toren | 5,453 | `872b9ca109611e124ded2cca37e0a63943d4df01a13be714e486d168ec3884bc` |
+
+- Continuity checkpoint updated to the repaired page: `provenance/MOVEMENT-006-CONTINUITY.md`
+  (SHA-256 `320fa9fe98356752b30ba7066a5d286e65ea288bf5c67b35e2e84e3688158128`).
+- Frozen first draft: `editions/movement-006-first-draft/` untouched. All eight chapter
+  hashes match its README after the repair.
+- Owner-only items raised: the net-length deviation; the book-wide hour convention (the
+  ninth hour as "the morning lift" against the fourth hour as late morning); a second
+  "feet" unit in ch 48 (an apparent Book One echo, left as written).
+
+Codex orchestrates the run and repository work. Codex does not substitute
+itself as the prose author.

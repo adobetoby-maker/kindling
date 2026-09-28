@@ -1,0 +1,471 @@
+# Chapter 42 — Toren: Backward
+
+The cart lay on the embankment in six pieces, and Toren wanted to pick every one of them up himself.
+
+He knew it was stupid. He knew it the way he knew his arm was in a cuff. He stood on the stone bed of the embankment with the gap behind him and the marsh on his right and the drifts on his left, and looked at the pieces, and his good hand kept closing on nothing.
+
+Two wheels, one of them grey to the hub. The axle on the ground. The bed, upside down, like a boat. The shafts, with the canvas still slung between them. And the carrier on its board, with the lid in its groove.
+
+"Well," said Pell, from the canvas. "Don't stand there looking at it. It won't go together on its own. I've asked."
+
+---
+
+"Tell me how," said Toren.
+
+"I told you how at the pump house."
+
+"Tell me again. In order. Slow." Toren sat down on his heels on the stones beside the canvas, so that his face was near Pell's. "And I'll say who does it."
+
+Pell looked at him.
+
+"That's a new thing," he said.
+
+"It's not new," said Toren. "I did it at the gap."
+
+"You did it at the gap for a gap," said Pell. "This is a cart. It's worse. A gap's only ever the one thing."
+
+He told them. Bed right way up first, on the rope, with the horse, so it's not in the way of anything. Then the axle under it, and the bed onto the axle on its pins. Then the shafts. Then the wheels, last, on the axle arms, and the pins through, and the axle up off its stones.
+
+"And the carrier on last of all," said Pell. "When it's a cart. Not before. You don't put a load on a thing that isn't a thing yet."
+
+Toren said who.
+
+He said Callie at Duchess's head for the bed, because Duchess knew her, and because leading was not lifting. He said Jab and Dee on the axle, one at each end, walking it under. He said Rook on nothing.
+
+"I could hold a pin," said Rook.
+
+"Hold it, then," said Toren. "Sitting down."
+
+He did not say himself. He stood back from the bed with his good hand at his side and watched.
+
+It was the hardest thing he had done since the gap. It was harder than the wheel in the drift. In the drift he had known what to do with his hands. Here there was nothing for them, and he stood with them empty while Callie walked the mare away along the embankment, and the rope came tight, and the bed rolled over onto its wheels-side with a crash of boards, right way up.
+
+"That's the bed," said Pell. "Now the axle. Walk it. Don't carry it. It's iron in the middle."
+
+Jab and Dee walked it. They went crabwise along the bed of the embankment with the axle between them, lifting one end and then the other, the way you walk a heavy chest across a room. Dee's face went white at every lift. Toren saw it. He saw Jab see it too, and take a little more of the next lift, and Dee let him.
+
+He wanted very much to be at the end Dee was at.
+
+"Toren," said Pell. "The pins. Where they go. Show her."
+
+It was a thing Toren could do with one hand. He went to the bed and showed Dee the holes in the bolsters where the pins went down through the bed into the axle's blocks. He held the pins while she knocked them home with a stone. It was a small thing, and slow, and nobody would have looked at it twice.
+
+"There," said Pell. "Now it's a bed on an axle. That's half a cart."
+
+---
+
+The shafts went on. Duchess stood between them while they did it, with Callie's hand on her neck, and blew through her nose at the grey on the canvas.
+
+Then the wheels.
+
+The first wheel was clean. It had come down the bank and up the other side on the rope with nothing worse than a knock. Jab rolled it along the embankment to the near end of the axle, and he and Dee lifted it, and walked it onto the axle arm, and it went on. Pell took one of the linchpins out of his coat pocket and held it out, and Rook took it off him, sitting, and pushed it through the hole in the end of the arm with his thumb.
+
+"There," said Rook. "I've held a pin."
+
+"You have," said Pell. "I saw you."
+
+The second wheel was the one from the drift.
+
+It lay on its side on the embankment where Duchess had dragged it out. The grey was on it still, in the spokes near the hub where the rope had gone through, and all along one side of the tyre where it had lain in the drift. The furrow it had made was grey. The rope was grey.
+
+Callie held the counter to it.
+
+"Sixty," she said. "At the hub. Forty on the tyre. It's the spokes. The grey's gone in round them where they go into the hub. Into the cracks."
+
+"Nobody puts a bare hand on that," said Dee. "Not till it's been in water."
+
+"There's water," said Callie. She looked back at the gap. "At the bottom."
+
+Nobody said anything.
+
+Toren looked at the wheel, and at the gap, and at the stream running white round the fallen stones at the bottom of it, under the post.
+
+"No," he said.
+
+"It's a wheel," said Pell. "It's the other half of the way home."
+
+"It's going on the cart," said Toren. "With cloth on hands. And it gets washed at the first water that isn't in a hole under a drift." He looked at Pell. "When's that?"
+
+Pell thought.
+
+"The new water," he said. "Where the siding goes round. Two days. There's the stream at the washout before that. No. That's after." He shut his eyes. "The new water. The fifty-second. It's not clean. It's not drift."
+
+"Then the fifty-second," said Toren.
+
+---
+
+They put it on with the cloth.
+
+It was the last of the canvas strips from Pell's splint, the ones Dee had cut and never used. She wrapped them round Jab's hands and her own, and they lifted the wheel off the ground, grey side away from them, and walked it onto the axle arm. Rook reached for the second pin from Pell. Dee said, "Not that end. Not your hands," and Rook took his hand back.
+
+Toren pushed the pin through himself. He did it with his right hand, which had a strip of canvas round it now, and he felt the grit in the hole as it went through.
+
+"There," he said.
+
+Then they had to lift the axle off its stones, which was the part Pell had not said.
+
+"How?" said Toren.
+
+"With the cart," said Pell. "You lift the shafts, and the axle comes up off the stones at the back, like a see-saw. Then somebody kicks the stones out. Then you put the shafts down. It's how you tip it, the other way."
+
+"Callie," said Toren.
+
+"I'll kick," said Callie. "I'll not lift."
+
+Jab and Dee lifted the shafts. The bed tipped. The axle came up a hand off its stones. Callie hooked the first stone out with the end of the hook, not her foot, and then the second, and Jab and Dee let the shafts down slowly, and the cart came down onto its wheels.
+
+It stood.
+
+It stood on the embankment on its two wheels with its shafts on the stones and Duchess between them, looking exactly like a cart.
+
+"Now it's a cart," said Pell.
+
+Toren went round it. He went round it once, the whole of it, with his hand out an inch off the boards the way Jab held his hand over a patient, and looked at every joint. Then he stopped at the second wheel.
+
+It was not straight.
+
+He could see it. He crouched and looked along the tyre, and the tyre was not in line with the other one. It leaned out at the top. Not much. A finger's width, at the rim.
+
+"Pell," he said.
+
+"I see it." Pell had turned on the canvas to look. "It's the axle arm. It came down on its edge on the stones in the bottom. It's bent it. Or it's sprung a spoke." He looked at it for a long time. "It'll walk."
+
+"What does that mean?"
+
+"It means it'll go out at the top and in at the bottom every time it goes round," said Pell. "Like a man with a bad knee. It'll rub the hub. It'll sing. It'll wear." He was quiet. "It'll do five days, if nobody asks it to go fast. And if we grease it at every halt. And if somebody looks at it every halt and tells me if the rub's got worse."
+
+"Callie," said Toren.
+
+"I'll look at it," said Callie.
+
+"Every halt," said Toren. "And say it. The same as the ash."
+
+"The same as the ash," said Callie.
+
+---
+
+They tipped the cart again for the carrier, the way they had at the pump house, shafts up and tail down, and pulled the sledge up the bed on its front rope. When the shafts came down the carrier sat behind the driver's bench, on its board, with two boxes in it.
+
+The home three went into the rack. Pell watched every one of them go in.
+
+Pell went on the cart. Toren had wondered, on the post, whether a man with a broken ankle should be dragged on two poles behind it instead. But the only two poles were the shafts.
+
+"I'll ride," said Pell. "I'll ride and I'll listen to it. I'll know before you do if it's going."
+
+Rook went on the canvas beside him, on his side, with his back off the boards.
+
+Jab's frame went into the rack behind the driver's bench, beside the home jars. Dee said so. "It's not coming off your back and onto the ground for five days," she said to Jab, "and you're not carrying eight jars for five days on a palm like that." Jab did not argue.
+
+It was not eight jars now. Toren counted them, because he was counting everything. The fence's fourth, with five in it, and the fifth, whole, with eight. The lifter's first, with two. Callie's clean one, with eight. Callie's dirty one, with four, in the socket where jar B had been. The lifter's second, empty now, and his own lifter's jar, empty. And the socket at the end.
+
+"Say it," he said.
+
+Callie said it. She stood at the tail of the cart with her arm across her side and said it flat.
+
+"The fence's, thirteen. Five in the fourth, eight in the fifth. The lifter's, ten, clean. Two in Jab's first and eight in my first. Four, dirty, in the end. Home, twenty-four, not touched. Settled, none." She stopped. "Water, a skin and a half. Wood, none. Meal—" She looked at the sack in the bottom of the rack. "I'll count the meal tonight."
+
+"Count it now," said Toren.
+
+She looked at him.
+
+"You count everything," said Toren. "Count that. I don't know how much there is. I've been eating it."
+
+---
+
+The meal was barley, ground coarse, in a flour sack from the long building's kitchen. The bread had gone on the forty-seventh. The cold meat had gone the same day. There was a twist of salt in a paper, and there was Duchess's oats, in her nosebag and in a smaller sack, and there was the meal.
+
+Callie measured it in the tin cup, cup by cup, into the pot and back into the sack, with Pell watching and saying nothing.
+
+"Fourteen cups," she said. "And a bit."
+
+"How long's that?"
+
+"At a cup each a day," said Callie, "two days." She put the cup down. "At half a cup, four and a half."
+
+"And we've five," said Toren.
+
+"We've five," said Callie. "If the wheel goes five."
+
+Nobody said anything.
+
+"Half a cup," said Toren. "From tonight. And the rest on the last day." He looked at the sack. "Write it."
+
+"And the horse?" said Pell.
+
+"The horse eats what's growing," said Callie. "There's grass on the old line. Thin. There's more on the north road." She looked at Duchess, who was standing in the shafts with her head down, eating nothing. "Her oats are three days, at what she had coming out. Six at half."
+
+"Half," said Pell. "She'll hate us."
+
+"She already hates us," said Rook, from the canvas. "Since the drift."
+
+"She's right," said Pell. "She's always right. She's a horse."
+
+It was the same thing he had said at the pump house. Toren heard Callie hear it, and her mouth move.
+
+---
+
+They went east along the embankment at the pace the wheel would go.
+
+It sang. Toren heard it at the first turn. It was a long low sound, like a finger drawn round the rim of a cup, and under it, every turn, a small dry knock where the hub rubbed. He walked at the back and listened to it the way he had listened to Callie count a sky, and after a while he could tell the knock was the same every time.
+
+Callie went out in front, twenty paces ahead of Duchess, reading the bed for the wheels. She had the hook for a stick. She did not walk fast. She stopped every twenty paces and turned round and looked at the second wheel, and said, "Same," and turned back.
+
+At the east end of the embankment the old line went up the last slope, long and bare, to the top where they had camped on the forty-fifth. Callie held the counter out at the foot of the slope.
+
+"Fourteen," she said.
+
+"That's the road," said Dee.
+
+Toren stopped at the foot of the slope and turned round.
+
+He could see the whole of it from there. The embankment going away west, two hundred and fifty paces of it across the bottom of the wash, with the drifts on its right and the black marsh on its left and the iron posts leaning along its north edge. The gap, seventy paces short of the far end. The ridge beyond, low and bare, with the cut through it.
+
+And over the ridge, a long way off, the flat top of the hill, and the sky over it.
+
+He did not count it. He did not have to. He could see from here that it had no count. It thickened, and thinned, and thickened again at once, like a man breathing in his sleep.
+
+His good hand had gone to his shirt. Under it, on its cord of boot-lace, lay the disk his father had worn and his grandfather before him: near black, two thumbs wide, nine fine grooves on each face, cold. He had carried it under the shirt all the way out and into the hill and across the wash, because his father had said to, and he had not once thought about it. He took his hand away.
+
+He thought about the ash lying on the floor of a room under that hill. Knee deep. More than they could lift in a day with nobody hurt. And three stoppered vent jars under the racks, with a chalk cross beside them, and a live box half open, talking to the room. And a gate with a twist of green wire through its chain, the ends left loose.
+
+Somebody would go back there. He did not know who. He did not know when. It would not be tomorrow.
+
+He took the paper out and wrote on it, under the morning. *The wash, behind us. 2 in the afternoon. The second wheel walks (the fall). Meal: 14 cups, half a cup a day. Senna's cycle: the 54th.*
+
+He looked at the last line.
+
+He had not written it before. He had said it at the pump house, the day they decided. *That's Sowerby dosing her off her blood, badly, a day past the cycle.* He had not written it anywhere, because writing it made it a number, and he had not wanted it to be a number.
+
+It was a number. It was four days off.
+
+He folded the paper and put it back in his coat, on the side with the plate, and went up the slope behind the cart.
+
+---
+
+They camped at the top of the slope where they had camped on the forty-fifth, the night before the wash.
+
+It was the same place. Toren knew it by the black ring of their fire on the stones and the thorn they had cut and not burned, still lying where Rook had thrown it. It had been five days. It felt like a year.
+
+He did not start the fire.
+
+He wanted to. He stood by the black ring with his good hand at his side and thought about thorn, and a pot, and water, and who would fetch it. Then he took the paper out, and the pencil, and sat down on a stone, and wrote.
+
+He wrote the evening down the back of the paper the way he had written the ifs at the stove in eleven. One to a line. And after each thing, a name.
+
+*Fire. J. (thorn, the pile by the ring).*
+*Water. Boiled. D. W. says how much.*
+*The meal. C. counts it into the pot.*
+*Duchess. Rubbed down, fed half, hobbled. C. (not lifting).*
+*The wheel. Grease. P. says how. J. does it.*
+*Rook's back. D. W.*
+*Pell's foot. D. W.*
+*The draw. None tonight unless D. W. says.*
+*Settling. None. (T. at a turn and a bit, own. No stone.)*
+*Watches. Two awake. 1st: P. and D. W. 2nd: C. and T. 3rd: J. and P. (if awake).*
+*The count. T.*
+
+He looked at it. It was a long list, and there was only one thing on it with his name, and that was the count.
+
+He read it out.
+
+He read it standing by the cold fire ring with the paper in his hand, and they listened, and when he had finished nobody said anything for a moment.
+
+"You've given yourself the count," said Dee.
+
+"I've given myself the second watch as well."
+
+"And the count," said Dee. "That's all."
+
+"I'm at a turn and a bit," said Toren. "Of my own. My stone's gone. My arm's in a cuff." He looked at the paper. "I can't lift an axle. I can't carry a pot. I can count."
+
+Dee looked at him for a long time over the book.
+
+"That's right," she said.
+
+She said it the way she had said it at the gap. It was the second time today. Toren did not know what to do with it. He put it in his pocket with the stone and the plate.
+
+---
+
+Jab lit the fire. He did it with the thorn from the pile, and his flint, and his left hand, and he did not light the knife to do it, though Toren saw him think about it.
+
+Callie counted the meal into the pot. Three cups, for six. She did it with the tin cup and the flat of the knife across the top of each one, level, the way her grandfather had leveled a measure of grain.
+
+Dee did Rook's back by the firelight.
+
+Toren watched from the stone. He watched her take the pad off and look, and put her fingers near the red and take them away. He watched her face.
+
+"It's more," she said.
+
+Rook did not say anything.
+
+"It's not come out further," said Dee. "It's hotter in the middle. There's a place at the bottom of the stitches that's gone yellow." She put the back of her fingers against his neck. "You're hotter than yesterday."
+
+"I walked across a bank," said Rook.
+
+"You walked across a bank," Dee agreed. "On steps. With a hole in your back."
+
+She opened her small bag and took out the last paper. It was folded small and white, tied with its bit of thread. She held it in her fingers and looked at it.
+
+"Keep it," said Rook.
+
+"You said for when you're worse."
+
+"I'm not worse. I'm the same, and hotter." He shut his eyes. "Worse is when I can't get up. I can get up. Keep it for that."
+
+Dee held the paper a moment longer. Then she tied the thread round it again and put it back in the bag.
+
+"I'll give it you tomorrow," she said, "if you're hotter in the morning than you are now. I'm not asking you. I'm telling you what I'll do."
+
+"That's fair," said Rook.
+
+Toren wrote it. *Rook: the back's worse. Yellow at the foot. The last paper kept. D. W. gives it tomorrow if he's hotter in the morning.*
+
+He had not been asked to write it. He wrote it because it was what the paper was for.
+
+---
+
+He had the second watch with Callie.
+
+Pell was awake when they came on. He was always awake. He sat up on the cart with his back to the rack and his leg out, the way he had sat since the forty-sixth, and he did not lie down when Dee did.
+
+"I'll sit," he said. "I'll not sleep anyway. It's the foot."
+
+So there were three of them awake at the second watch: Callie standing by the cart wheel with the hook, because she could not lie down; Toren on the stone by the fire, feeding it thorn, an armful at a time; and Pell on the cart.
+
+It was a long time before anybody said anything.
+
+"You asked who goes in," said Pell.
+
+Toren looked up.
+
+"At the gap," said Pell. "The wheel. You stood on the post and asked it. Out loud. *Who goes in.*"
+
+"I went in."
+
+"You went in," Pell agreed. "I know. I was watching." He was looking at the fire. "But you asked first. You didn't just go. Your father would have just gone."
+
+Toren did not say anything.
+
+"I'm not saying he was wrong," said Pell. "He went first his whole life, and he got a lot of people a long way. I'm saying you asked. And Dee said you were the one in the bottom already. And Callie read the wet. And then you went, because it was yours to go." He moved his leg on the boards and made a small sound. "That's not the same as going because nobody else will. It looks the same, from the lip. It isn't."
+
+"How is it different?"
+
+"The second one, you'd go in anyway," said Pell. "If it was a hundred and forty. If there was no wet. If your arm was off. You'd go because you couldn't stand at the top and not." He looked at Toren. "The first one, you'd not. If it had been a hundred and forty, and no wet, you'd have said *nobody*, and cut the rope, and we'd be going home on one wheel and a drag. And you'd have written it."
+
+Toren looked at the fire.
+
+He thought about the post. About standing on it with the water going under him and the wheel lying in the drift. He had wanted to go. He had wanted it the way he wanted to pick up the axle. And he had asked.
+
+He did not know why he had asked. He had not decided to. It had come out.
+
+"I didn't know I was going to ask," he said.
+
+"No," said Pell. "That's how you know it's yours."
+
+---
+
+The hound came at the end of the second watch.
+
+Toren did not see it. Callie did. She said, "Toren," very quietly, and he looked where she was looking, which was east, into the dark past the edge of the firelight where the old line went on over the top of the slope.
+
+"Two eyes," said Callie. "Low. At the thorn."
+
+He could see it now. It was at the edge of the dark, low down, a shape the colour of the dark with two points of green in it where the firelight caught.
+
+He had built the fire where he had built it on the forty-fifth. Open to the south, where the ground went down to the road. Lit on the south. The dark lane on the east, between the end of the thorn pile and the edge of the light, three paces wide. He had built it without thinking. His hands had done it.
+
+The hound went along the edge of the light. It did not come in. Hounds did not come in at a light. It went round to the east, to the dark, to the lane, the way they always went.
+
+He stood up.
+
+He had a turn and a bit of his own, and no stone. He could light the heel of the spike for as long as a turn and a bit would hold it, and it would fence one hound for most of that. It would put him at his floor before morning, with the washout four days off and the Sag after it.
+
+"Jab," he said.
+
+Jab was asleep by the fire. He was not asleep by the time Toren said it. He was up on one knee with his hand on his coat before the word was finished.
+
+"There's a hound," said Toren. "At the lane. I'm at a turn. You're at a hand and a bit." He did not say anything else.
+
+Jab looked at him. Then he looked at the lane.
+
+"Mine," said Jab.
+
+"Yours," said Toren.
+
+Jab went to the lane. He stood in it, with the end of the thorn pile at his left shoulder and the edge of the firelight at his right, where Toren had stood on the forty-first. The knife came on his left fist, dark. He lit the hook of it and nothing else, an inch of pale grey light at the tip.
+
+The hound came up the lane at the dark and met the light, and stopped.
+
+It stood a pace from the end of the knife with its head low and its green eyes on the hook. It did not come on. It did not go back. It stood there. Jab stood there. Neither of them moved.
+
+"It's only the hook," said Callie quietly. "He's lighting a finger of it."
+
+"I know," said Toren.
+
+It went on for a long time. Toren counted it. He could not help counting it. At two hundred breaths the hound put its head down lower and went back into the dark, east, the way it had come, and did not come round again.
+
+Jab let the hook go dark.
+
+He came back to the fire and sat down by it and put his left hand on his coat.
+
+"A finger of the hook," he said. "For two hundred breaths." He looked at his fist. "I'd have lit the whole belly, once. The first year."
+
+"You told me," said Toren. "Your aunt stood behind you at the racks."
+
+"And said I was lighting a whole knife to cut a string," said Jab. "She'd have liked that hound. It never got cut at all."
+
+Toren wrote it. *2nd watch. A hound at the lane. J. (the hook only). 200 breaths. No kill. No ash.* And under it, because it was true: *T. asked. J. took it.*
+
+Pell had watched the whole of it from the cart without saying anything.
+
+"There," he said, when Toren had put the pencil away. "That's two."
+
+---
+
+In the morning Rook was hotter.
+
+Toren knew it before Dee said it, because Jab was already kneeling by the canvas with his palm an inch over Rook's back and his face gone still.
+
+"It's him," said Jab. "All of it. More than yesterday."
+
+Dee put two fingers on Rook's wrist and the back of her other hand against his neck. She did not say anything. She opened the bag and took out the last paper, and untied the thread, and stirred the powder into a cup of the water she had boiled last night.
+
+"You said you'd tell me," said Rook.
+
+"I'm telling you," said Dee. "Drink it."
+
+He drank it. He made the face.
+
+"That's the last of Sowerby's," said Dee. She put the empty paper back in the bag, folded, as if it were worth keeping. "There's nothing after that but getting you to him."
+
+"Four days," said Rook.
+
+"Four days and a bit," said Toren. "Pell?"
+
+Pell had the atlas open on his knee in the grey light.
+
+"The fifty-fifth," said Pell. "If the wheel goes. If the siding's dry. If the washout's no worse than it was." He shut the atlas. "If."
+
+Toren wrote it.
+
+*51st. The camp above the wash. Out: 6. Rook: the last paper. Home the 55th, if.*
+
+Then he stood up and counted them. He did it out loud, which he did not always do.
+
+"Pell," he said. "Rook. Dee. Jab. Callie."
+
+He looked at Duchess, in the shafts, with her ears back at the second wheel.
+
+"Six," he said. "And a horse. And a wheel that walks."
+
+"Say the rest," said Callie.
+
+He looked at her.
+
+"You said *out*," said Callie. "Every day since the gate. You've never once said where to."
+
+Toren looked east along the old line, where it went away over the grey country toward the siding, and the new water, and the junction with the iron posts, and the old north road, and the Sag, and the gate. Four days. Four days and a bit. Somewhere at the end of it an old woman was lying on a pillow on the fourth bed on the right, and in three days a man with a white hand would sit down at a machine that sang flat. He would warm it, and warm it, and guess.
+
+"Home," he said.
+
+Callie nodded once and went out in front, twenty paces ahead of the horse, reading the road for the wheels.
