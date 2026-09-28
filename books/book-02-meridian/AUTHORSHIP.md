@@ -119,3 +119,84 @@ The frozen pre-review edition is at `editions/movement-002-first-draft/`.
 
 Codex orchestrates the run and repository work. Codex does not substitute
 itself as the prose author.
+
+## Movement Three — Working Depth
+
+- Status: **drafted, reviewed, repaired, and accepted (chapters 17–24; 2026-09-27)**
+- Seat: Monroe Jackson 1.3.0, O'Connor seat 1.3.0 (progression-adventure)
+- Selected author: Opus
+- Requested model alias: `claude-opus-5-5`
+- Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported
+  by the runtime environment. It was one continuous session, and every manuscript
+  sentence was written in it. No subagents were used for research or prose. No other
+  model wrote or revised prose.
+- Provider: Anthropic, via Claude Code (Agent SDK harness)
+- Movement packet: `packets/MOVEMENT-003.md`
+  (SHA-256 `8d11635023e3fe82e6beb04316f87826bc7e84219c8295108548733a9fd851d5`)
+- Compiled prompt: `editor/MOVEMENT-003-OPUS-5-5.prompt.md`
+  (SHA-256 `c524ee50407666b3eb69dce0fac713859342b67536d6c6e50ee03d4a108a41c9`)
+- Numerical formula: `/Users/drive/penname/research/ironprince-craft-formula.md`,
+  SHA-256 `9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8`,
+  verified before drafting and again at the end of the run.
+- Edition: Book Two, Movement Three, first draft (2026-09-27)
+- Manuscript: `manuscript/chapter-17.md` through `manuscript/chapter-24.md`
+- Viewpoints:
+
+  | Chapters | POV |
+  |---|---|
+  | 17, 20, 22 | Jab |
+  | 18, 21, 24 | Toren |
+  | 19, 23 | Callie |
+
+  Each chapter has a single viewpoint.
+- Drafted length: **64,254 words** (`wc -w`). That is above the packet's approximate
+  46,000–52,000, by about 24% over the upper bound. No scene was padded, and none
+  was compressed to fit.
+- Continuity checkpoint: `provenance/MOVEMENT-003-CONTINUITY.md`. It records:
+  - the author choices that are now canon, including the ash ratio, the recall
+    mechanics and the Director's conditions;
+  - the day map and the pen emergency as staged;
+  - the ledger, Jab's terms, object state, open clocks and bodies at exit;
+  - withheld material and facts on length and viewpoint.
+- Pre-drafting plan (superseded by the checkpoint):
+  `provenance/MOVEMENT-003-WORKING-PLAN.md`.
+- Frozen first draft: `editions/movement-003-first-draft/`, hash-checked against the
+  manuscript at the end of the run.
+
+No per-chapter editing, scoring, or approval gates were run. During the run the author
+corrected only blocking internal contradictions: the calendar, the store arithmetic,
+Dee's Homura duration, settling times, and one week-count that would have touched an
+owner-level conflict. Target-versus-observed comparison against the formula belongs to
+the movement editorial pass. No human cold read has been run.
+
+The connected draft was followed by one simulated cold read, one canon/formula
+editorial review, and one consolidated same-author repair. A fresh-context targeted
+recheck passed seven questions and found one remaining departure-knowledge clause;
+that clause alone was removed, after which the verdict was recorded as
+`repair accepted`. The final repaired length is **64,988 words** (`wc -w`), net +734
+words from the frozen first draft.
+
+## Movement Three — consolidated same-author repair
+
+- Status: **complete; targeted recheck verdict `repair accepted`**
+- Cold read: `editor/MOVEMENT-003-COLD-READ.md`
+- Editorial review: `editor/MOVEMENT-003-EDITORIAL-REVIEW.md`
+- Repair prompt: `editor/MOVEMENT-003-REPAIR.prompt.md`
+- Repair report: `editor/MOVEMENT-003-REPAIR-REPORT.md`
+- Recheck: `editor/MOVEMENT-003-RECHECK.md`
+- Model that actually made the substantive repair: **Claude Opus 5.5
+  (`claude-opus-5-5`)**, the selected author, in one session with prose subagents
+  disabled.
+- Review disclosure: both reviews and the targeted recheck used Claude Opus 5.5 in
+  fresh contexts. They are same-model simulated editorial reads, not independent
+  human cold reads.
+- Repair scope: pen geometry, red-call accountability, ash accounting and abort
+  arithmetic, day/count corrections, departure staging, and a restrained read-aloud
+  repetition pass. Narration cadence already matched the selected distribution and
+  was not broadly rewritten.
+- Final targeted correction: removed Dessa's unsupported claim that the Sag had been
+  quiet since the fifth hour; no replacement prose or other manuscript change was
+  introduced at recheck.
+
+Codex orchestrates the run and repository work. Codex does not substitute
+itself as the prose author.

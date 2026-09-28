@@ -1,0 +1,635 @@
+# Chapter 19 — Callie: The Long Table
+
+Rook laid a line across the bottom of the Sag on the thirty-third morning, for ten minutes, and it was the first time anybody had lifted since the twenty-fifth day.
+
+Callie read the ground before he did it. She went down the east track at first light with Katori beside her and Miss Wren behind, and the lamps of the watch still burning on their poles along the top of the track, and she looked at the bottom of the dip for a long time before she said anything. The fog had not come this morning. The slabs lay in the grey light with the black water between them. The slab by the sixth post had gone down on the twenty-fifth day and stayed down, a foot lower than it had been, tilted into the water at the corner like a door off its hinges, and she looked at the broken edge of it, and at the joints round it, and at the silt.
+
+"It's settled," she said. "Where it went. It's lying on something now. The joints round it are closed up, and there's no bright dirt anywhere new." She looked along the track. "The drift's between four and five. The night crew's lamps say it's two husks' worth. It's on dry stone. Nobody needs to go below five."
+
+"Nobody's going below four," said Katori.
+
+At the north lip Rook stood with his hands at his sides. Callie had seen him stand there every morning for two weeks before the lift, and he had looked tired then. He did not look tired now. He looked like a man standing on the edge of a roof, working out how far down it was.
+
+"Ten minutes," said Miss Wren. She was at the south lip beside Dessa's crate, with the brass glass in her hand. "Not a breath over. I'll call it at ten and you'll let it go at ten, and the watch will have it back before you've got your hands down."
+
+"You said that on the stair," said Rook.
+
+"I'm saying it again in front of witnesses."
+
+Rook put his hands out from his sides.
+
+Callie felt the ground go. She was standing on the east track above post four, and the bottom of the Sag in front of her stopped being ground, the way it always did when a line went down on it. It was like a clean sheet of paper laid over a page she had been reading, so that she could see where the words had been and not the words. It lay from ditch to ditch. It was thinner at the east edge than the day holder's had been, and she could feel that it was thinner, and she did not say so.
+
+"Down," said Katori. "Lift."
+
+---
+
+They lifted.
+
+Callie knelt at the drift with her palm flat on it, the way she had knelt every morning for two weeks, and beside her the weighbridge girl knelt too, with her left arm in its plaster held against her chest and her right palm flat on the frost. Otto was above them with the two yard lifters. The lamps of the watch stayed lit along the upper edge of the track. Ines stayed on the rim. Katori stood over all of them with her blade dark on her fist, and at the south lip Dessa sat on her crate with her eyes shut.
+
+The ash came up. It came up into Callie's hand the way it had on the plain and on the track and at the long table, cold and slow, with nobody in it, and she held it high and open and walked it to the jar and tipped her palm against the glass, and went back. Beside her the weighbridge girl did the same, one-handed, with her tongue between her teeth like Otto, and did not spill any.
+
+"Five," said Miss Wren, at the south lip.
+
+Callie did not look up. She could feel the line in the bottom of the dip, the clean sheet lying across it, and she could feel it thin at the east edge. It was holding. At seven minutes she thought it had thinned a little further, the way a rope thins when you feel the strands begin to go under your hands. She did not say so. It was not hers to say. It was Miss Wren's glass and Rook's line.
+
+"Nine," said Miss Wren. "Up. Everybody up the track."
+
+They came up with the jars. Callie was the last off the drift, because she was always the last, and she came up past the lamp-line to Katori.
+
+"Ten," said Miss Wren. "Elias. Now."
+
+"Watch has it," said Katori, loud enough to carry.
+
+At the north lip Rook let his hands down.
+
+The sheet went off the bottom of the Sag. Callie felt it go, all at once, the way a held breath goes, and the ground came back under her eyes. There were the slabs and the joints and the silt again, readable. Nothing had come up. Nothing was coming.
+
+Rook stood on the north lip with his hands at his sides for a long moment. Then they began to shake, the long fine tremor from the wrists to the fingertips, and he did not hide them, and he did not sit down. He stood there shaking in front of everybody for as long as it took the sand to run out of the glass in Miss Wren's hand, and then he walked round the lip path to the south lip at his own slow pace.
+
+"You called it at ten," he said to her.
+
+"I said I would."
+
+"I'd have gone to fifteen."
+
+"I know you would," said Miss Wren. "That's why I called it at ten." She turned the glass over. "That's two, Elias. Standing up, and a short hold. The next one's harder."
+
+---
+
+Callie's mother weighed the lift at the weighbridge at the middle of the morning.
+
+She was on her stool in the hut window with the tally board on her knee, and when Otto set the first jar on the plate she did not look at the jar. She looked at the beam. The old man in the leather apron moved the little weight along it with one finger, and the beam came up, and her mother said, "A Handful," before the old man did.
+
+"A Handful," said the old man.
+
+The second jar was half a Handful, and clean, and her mother said so. She wrote it on the board with her left hand in big careful figures and read it back. Then she leaned out of the window and looked up at the black board on the wall of the hut, at the row of blanks running under every day since the twenty-fifth.
+
+The old man took a piece of chalk off the ledge and wrote a number in the column for the thirty-third day, against Katori's name. *1½, clean.* It was the first chalk on the board in eight days.
+
+"There," said her mother. "That's something."
+
+"It's a Handful and a half," said Callie.
+
+"It's a Handful and a half more than yesterday." Her mother looked down at her from the stool. "Don't do sums at me, love. I can see you doing them. I know what's in the store better than you do. I read it out to you every night." She put the board on her knee. "Go to your table. The woman with the boots has been across twice to see if you're coming."
+
+---
+
+Miss Wren had built the table out of four crates and three planks.
+
+It ran down the middle of the east shed from the stove to the bucket, long and low, with a bench along each side made of more planks on more crates. There were jars on it, stoppered, in a row down the middle. There were squares of paper in front of every place, and a horn spoon, and in the middle of the table, where everybody could see it, the brass glass. At the end of the table nearest the stove there was a shallow tin tray full of pale sand.
+
+"Sit," said Miss Wren.
+
+They sat. Callie on one bench, with the weighbridge girl beside her and Toren across. Jab at the end of the other bench, with his hands on the table. Dessa at her own small table by the door with the big book open. And at the head of the long table, on the end of the bench nearest the stove, with his back very straight and his face like somebody who had been made to sit in a church, Rook.
+
+"I'm here," said Rook, to the room. "I'd like that written somewhere."
+
+"It's written," said Dessa, without looking up.
+
+Miss Wren stood at the other end of the table with her hands behind her back.
+
+"This is Vell's table," she said. "Not the planks. The planks are the station's, and one of them's got a nail in it that Otto's going to deal with. The method's Vell's. I sat at it every morning at Homura, for the months I had there, before breakfast, and I hated it, and it's the reason I'm alive." She looked along the benches. "You've done one and two. Which is yours, and how much of yours there is. You've done three and four. Take in a little you've measured, and let it settle. This is what comes after. It's six things, and they go round and round, and that's all it is."
+
+She held up her hand and put the fingers down one at a time, the way the Director had on the second floor.
+
+"Take it in. Let it settle. Spend it through your door. Put out what's left over. Rest. Do it again." She put her hand down. "In, settle, spend, vent, rest, again. That's the table. That's the whole of it. You'll do it until you can do it without thinking, and then you'll do it some more."
+
+"What's it for?" said the weighbridge girl.
+
+"It's for depth," said Miss Wren. "Not size. I want that clear before anybody gets any ideas. Nobody at this table is going to get bigger. Your soul's the size it is. You were Kindled at thirteen and you got a door and a house behind it, and the house is the house." She looked at them. "What you can learn is how much of the house you can use. Most people use the front room. They take ash in with a rush and it slops about in the hall and half of it goes out the back door before they've spent any. They spend it and they don't put out what's left over, and it sits in them and aches. They don't rest. And then they do it again the next day and wonder why they're worse at it." She put her hands flat on the end of the table. "The table teaches you to take it in slowly, settle it all the way down, spend it clean, and put out the leftovers before they lodge. Do that for long enough and you can take in more, and spend more, and come back from it. That's working depth. It's the only thing Vell ever measured that I'd bet my life on."
+
+"I've bet mine on it," said Rook, from the head of the table, "without ever sitting here."
+
+"Yes," said Miss Wren. "And look where you're sitting now."
+
+---
+
+They did it for two hours.
+
+A quarter of a Handful each, weighed out onto the paper. In, over seventy-odd breaths for Callie, a hundred for the weighbridge girl, and more than two hundred and fifty for Toren, who sat with his palm flat on the paper and his face shut and did not haul. Settle, for sixty breaths, while Miss Wren walked up and down behind the benches and watched their faces. Then spend.
+
+"Through your door," said Miss Wren. "Into something. At Homura it was a dish of water, or a sick dog, or the child next to you. Here it's whatever your door does. Light your blade and hold it. Stand in your Ward. Put up your strut. And don't use your own well for it. Use the stone at the bottom. The one you settled."
+
+The weighbridge girl lit her blade.
+
+She did it one-handed, with her plaster held against her chest, the plain grey straight blade coming out of her right fist all at once with its frost-pale line along the edge. She held it level over the table. Callie watched her face, because her face was always the best thing about her. It went from concentrating to surprised to something else, something bright and startled, like a child who has put her hand in a pocket and found a coin.
+
+"It's not mine," said the weighbridge girl. "The light. It's not coming out of me. It's coming out of the—" She did not have the word. "The heap."
+
+"Yes," said Miss Wren. "That's the point."
+
+"It's *nobody's*," said the girl, and laughed out loud, and nearly let the blade go, and did not. She held it for a turn of the glass and most of another, on a quarter of a Handful, and when it guttered she let it go and sat with her right hand flat on the table and her face shining. "I've been on the weighbridge a year. I've watched it go past in jars every day. I thought it was money."
+
+"It is money," said Miss Wren. "It's also that. Vent."
+
+The girl put her palm flat in the tin tray of pale sand at the end of the table. She did it the way she had been shown, and Callie saw her shoulders come down a little, as if she had put down something she had not known she was carrying.
+
+"What was that?" said the girl.
+
+"What's left over," said Miss Wren. "When you spend, it doesn't all go clean. Some of it stays in your hands, like the heat stays in a pan after you've taken it off the stove. If you leave it, it goes down into you, and you have the ache tomorrow. So you put it out, into something nobody's in." She nodded at the tray. "It's only sand. It doesn't mind."
+
+---
+
+Callie could not spend.
+
+She settled the quarter-Handful in seventy-four breaths. She felt it go down through her wrist and her arm and into the well, and lie at the bottom under the water that was already there, a small stone of cold. She felt the cold go out of it, slowly, the way cold goes out of a stone you have brought in from the yard, until it was part of the well. It was the best settling at the table. Miss Wren said so, and wrote it down.
+
+Then she stood the hook on its end against the table with the curve up, and put her hand on the conduit, and asked for the Ward in the steel, and asked it to come out of the stone at the bottom.
+
+The Ward came up through her heels and into the hook the way it always came. The hook went pale. And she felt where it had come from, and it had not come out of the stone. It had come out of her. Out of the water above the stone, her own, the way it had come every time since she was thirteen. The stone lay at the bottom of the well and did not move.
+
+She let the Ward go.
+
+"Again," said Miss Wren.
+
+She did it again. She felt for the stone this time before she asked, and found it, lying at the bottom, settled and cold and hers now, and she asked the Ward to come out of that. The Ward came. It came out of her own water again, as if the stone were not there at all.
+
+"Again."
+
+It was the same. Five times, and six, and seven. She could feel the stone. She could feel exactly where it was. She could not get it to move. It was like having a coin at the bottom of a jar and being told to pay with it, and her hand would not go into the jar.
+
+"You've locked it," said Miss Wren.
+
+She had come round behind Callie's bench and was standing there with her hands behind her back.
+
+"You settled it too well," she said. "That happens. Not often. It happens to people who hold things. You took it in and you put it at the bottom and you shut your hand over it, and now it's yours and you won't let it go anywhere." She did not say it unkindly. "It's in there. It isn't doing anything. It's the same as a sack you've been told to set down that you're still holding."
+
+"I'm not holding it."
+
+"You are," said Miss Wren. "I can see you holding it from here. Your shoulders are up round your ears."
+
+Callie put her shoulders down. She asked for the Ward again. It came out of her own water.
+
+At the head of the table Rook said, "She held a hook on a hill with a wagon on it."
+
+Callie looked at him.
+
+"Callie did," said Rook, to Miss Wren. "On the scarp, on the road in. Katori told me. The whole wagon on the hook, and her mother on the wagon, and her hands shut on the conduit so hard she couldn't open them afterward." He was not looking at Callie. "She holds. It's the best thing about her. It kept her mother alive for four hundred miles. It isn't going to let go of a quarter of a Handful because you've asked it nicely."
+
+"I know that," said Miss Wren.
+
+"Then don't ask her to let go of it at a table," said Rook. "She'll never let go of anything at a table. Give her something to hold."
+
+Miss Wren looked at him for a long moment.
+
+"Vent," she said to Callie. "What you've spent of your own. Then rest. We'll do it again at the fourth hour."
+
+Callie put her palm flat in the sand. She felt what was left in her hands go out into it, a little grey tiredness she had not known was there. The stone at the bottom of the well stayed where it was, settled and cold and shut up in her hand, and she sat at the long table with her shoulders round her ears and could not put them down.
+
+---
+
+Across the table, Jab had put his palm flat on his paper and passed the whole quarter-Handful into Rook.
+
+He had not meant to. Callie saw it happen. Miss Wren had put him at the end of the bench, next to Rook, with a jar and a paper, and told him to hold it high the way he had in the shed, and carry it, and not let it go down. He had held it high for twenty breaths, which was better than yesterday. And then Rook, beside him, had put his shaking hands flat on the table to steady them. And Jab's other hand, the empty one, had gone down onto the back of Rook's hand without asking anybody, and the ash had gone out of the high palm and through Jab and into Rook, in about the time it takes to swallow.
+
+Rook's hands stopped shaking.
+
+They stopped slowly, the way a bell slows. Rook looked down at them on the table, and at Jab's hand lying on the back of one of them.
+
+"Jab," said Miss Wren.
+
+"I didn't mean to."
+
+"I know you didn't. That's the trouble." She came down the table and stood over them. "That's not a method. That's a leak with a person on the end of it."
+
+"It's a method," said Rook, without looking up. "It's a lifter's method. A jar in one hand and a person on the other, and it goes through him. He never touches what's his. I told you in the shed."
+
+"Everything that comes out of that jar goes into whoever his other hand's on. Whether he means it or not."
+
+"Everything at Vell's table was a leak with a person on the end of it," said Rook. "That's what the dogs were for."
+
+Miss Wren stood over them. Callie watched her face. It did not move much, but it moved, the way a tally board moves when somebody rubs out a number and does not write the new one yet.
+
+"Write it," she said at last, to Dessa. "*J., jar to R., through, a quarter, twenty breaths held first. R.'s hands still for—*" She looked at Rook's hands. "Count it, Dessa."
+
+"I'm counting," said Dessa.
+
+---
+
+Callie's mother woke on the thirty-fourth morning and said her name.
+
+It was the first thing she said. It was not *something left* or *what time is it* or a word she had to go looking for in the dark. She opened her eyes on the bed by the stove with the blanket over the window and the grey light coming round the edges of it, and turned her head, and found Callie on the floor, and said, "Callie," as if she had never once lost a word in her life.
+
+Callie sat up.
+
+"I've slept," said her mother. "I've slept right through. When did that last happen?" She looked at the ceiling. "Don't answer that. You'll know, and you'll say, and I'd rather not."
+
+She got up by herself. She put her left hand on the frame of the bed and her right hand on the stick, and the right hand closed on the stick. It closed properly. Callie watched it close, and saw her mother watch it close, and neither of them said anything. Her mother stood by the bed and looked down at her own right hand on the stick for a while, the way Senna looked at her hands, as if it belonged to somebody sitting next to her.
+
+"Well," she said. "Look at that."
+
+At breakfast she held the spoon in her right hand. Not for long. For three mouthfuls, and then it went, and she changed it to her left without comment. But for three mouthfuls it was her right hand taking instruction, and Pell looked up from the atlas and saw it and looked down again very quickly, and Ines said nothing and put more porridge in the bowl.
+
+She walked to the weighbridge. The leg did not go. It did not go on the step of fourteen, or on the frozen concrete of the row, or on the cinders of the north yard, or on the step up into the hut. She walked the whole way with the stick in her left hand and Callie beside her not touching, and when she got to her stool she climbed onto it and sat and laughed, out loud, a short surprised laugh, like somebody who has come down a stair in the dark and found one fewer step than they expected.
+
+"Your grandfather," she said. "Did I ever tell you about the man with the short sacks?"
+
+"No."
+
+"He came to the scale house every autumn for six years with forty sacks of barley, and every autumn your grandfather weighed them and every autumn they were short. Not much. A pound a sack. And the man said the same thing every year, *it's the drying, it's the drying*." Her mother put the tally board on her knee. "The sixth year your grandfather didn't weigh them. He picked one up. Just picked it up off the cart and stood there holding it, with his head on one side, the way he held a thing when he was listening to it. And he said, *There's a brick in this one.* And there was. At the bottom. Wrapped in sacking." She laughed again. "He'd been putting a brick in one sack in forty, so the whole load would weigh right, and all the others were short. Your grandfather found it with his arms."
+
+Callie sat on the step of the hut and laughed. She could not help it.
+
+She did not do a sum. She wanted to. She felt the wanting come up in her, the way it always came, under everything: *a word found, a hand for three mouthfuls, a leg that held the whole way.* The column of good things, next to the column of bad. She felt herself start to write it down in her head. She stopped at the first line and did not write the second, and sat on the step and let the morning be a morning.
+
+"There," said her mother, watching her. "That's better. That's the face I like."
+
+---
+
+At the middle of the morning, with nobody on the plate, her mother opened the store book.
+
+It was a long narrow book with a canvas cover that lived on the shelf beside the test weights, and the old man let nobody touch it but himself and, now, her. She turned the pages with her left hand to the last written one and read it out, the way she had read it out to Callie every night on the floor by the stove when she could not sleep.
+
+"Thirty-one Flasks and a Handful," she said. "Four of them thin. And a Handful and a half since yesterday, clean, which makes it thirty-one Flasks and two Handfuls and a half." She put her finger on the line. "The Director came down at the fifth hour yesterday and read that with her own eyes, standing where you're sitting. She read it twice. She didn't say anything."
+
+"How many does a Flask make? In Handfuls?"
+
+"Eight," said her mother, without looking up. "Clean. A thin one's nearer seven. It's on the inside of the cover. Your grandfather would have had a fit. At Thistle Ford we'd have weighed every one." She closed the book. "Why?"
+
+Callie did not answer.
+
+Her mother looked at her for a while. Then she put the store book back on its shelf beside the test weights and put her hand, her left hand, flat on the ledge of the hut window.
+
+"Senna told me about the hill," she said. "Everybody tells me everything. I'm on a stool in a window." She did not look away. "Are you going?"
+
+"They haven't said yes."
+
+"I didn't ask about them."
+
+Callie sat on the step with her hands in her lap.
+
+"I don't know," she said.
+
+"Then find out," said her mother. "And when you know, you'll tell me first. Before the Director and before that little man with the folder and before Katori. Me." She took her hand off the ledge. "That's all. That's the only rule I've got about it. You'll tell me first."
+
+"I'll tell you first."
+
+"Good," said her mother, and looked out at the plate, where Otto was coming up the yard with a jar under his arm from the watch's morning, and said, before the old man could move the weight along the beam, "That's a dirty one. There's ditch in it. Tip it and see."
+
+It was sweepings. Callie knew where it came from, because Otto had told her twice. When a husk came apart on the made lip itself, above the lamp-line, somebody could brush up the grey off the gravel without kneeling below a line nobody was holding. That was all the watch took. Everything that came apart lower down lay where it fell. Sweepings from the lip were always dirty, full of grit and ditch, and they did not go into the store. The old man weighed them and wrote them in his own book, and they went across to the east shed to a shelf of their own marked *dirty*. Miss Wren taught grading on them, and used them for drills where nobody minded if a light came up uneven.
+
+---
+
+Wyck and Rook had built the rack in the afternoon.
+
+It stood at the end of the first lane under the timber frame. It was a real rack, or the frame of one, two uprights of old fence post with three crossbars nailed between them. The crossbars were hung with sand sacks tied on with rope, so that it was as heavy as a door and a half, and it stood on its end with its foot against a stake driven into the cinders, like a book stood on a shelf. A rope ran from the top of it up over the crossbar of the timber frame and down to a weighted sack that Otto stood holding. When Otto let the rope out, the rack leaned. When he pulled it, the rack stood up again.
+
+Under the rack, where it would come down if it came down, lay a straw sack in Otto's old coat. One of its arms, a stuffed sleeve, was tied to the stake with a strap.
+
+"That's the body," said Wyck, from the top of the sand heap. "It's got a name. Otto named it. I'm not saying the name."
+
+"It's Norris," said Otto, going red.
+
+"It's a sack," said Wyck. "Here's the job. Otto lets the rope go. The rack comes down on the body. You three get the body out, whole, and nobody under the rack when it lands. That's all." He turned the bar over in his left hand. "And Otto's allowed to move the rope whenever he likes, as much as he likes, and he won't tell you when."
+
+"Why?" said Toren.
+
+"Because things that fall on people don't hold still," said Wyck, "while you work out what to do about them."
+
+Rook sat on his crate at the side of the lane. Miss Wren stood at the shed door with the glass. Dessa had the book open.
+
+"One problem," said Rook. "Three of you. You know what you've got. Do it."
+
+---
+
+The first time, they killed Norris.
+
+It went like this. Otto let the rope go. The rack came down, and Toren was already moving. He put the foot of the strut into the cinders outside his left boot and let it come up from the ground at its slant to meet the falling rack at the middle crossbar, and he was soft behind it, and it held. The rack stopped a foot above the sack in Otto's coat, leaning on a line of light that ran from the cinders to Toren's knee.
+
+"Holding," said Toren, through his teeth.
+
+Callie put the curve of the hook over the top crossbar and put the Ward in the steel.
+
+She did it the way she had done it at the jam and at the pipe, not gripping, getting under it. The hook went pale, and the rack stopped being a thing that leaned on Toren's strut and became a thing that was simply there, fixed in the air at a slant, going nowhere. She felt the weight of it come off Toren and onto the hook and down through her heels into the ground.
+
+Toren felt it go too. He stumbled. His strut had been braced against a load, and the load had gone off it all at once, without warning, and he went forward a step into the empty space under the rack and caught himself with his good hand on a sandbag.
+
+"Out," said Callie. "I've got it. Out."
+
+He came out from under. Jab was already in. He had the knife on his fist, and he lit the last inch of it, the hook, the way he had lit it at the jam, and put it against the strap that held Norris's sleeve to the stake and drew it through. The strap parted. He got his arms under the body and dragged it along the cinders and out from under the rack in one long pull.
+
+"Clear," said Jab.
+
+Callie took the Ward out of the hook.
+
+She did it the way you take your hand off a balanced thing, all at once, and in the same instant she leaned for the edge, because the next thing was to let the rack down clean and not have it swing. The Ward went out of the steel. The edge did not come. One. The rack lurched. Two. It went. It went down off the hook in the gap, the whole heavy door-and-a-half of it, and hit the cinders where Norris had been with a sound like a cart tipping over, and bounced, and came down again.
+
+On the second bounce the end of it came down across Norris's legs, which Jab had pulled clear of the middle but not of the end.
+
+Nobody said anything.
+
+"That's his legs," said Wyck, from the heap. "Both of them. He'll not walk. That's a man carried home on a board."
+
+---
+
+They stood round the rack.
+
+Callie looked at the hook in her hands. The edge had come on three. It had come off the curve in its long grey sweep and hung there over nothing, and she let it go. Three. She had been down to two on the stakes. She had counted two, over and over, on the morning of the jam. Under a load that was moving, it was three.
+
+"I let go," she said. "Before Toren was under it."
+
+"I wasn't under it," said Toren. "I'd come out. You said *out*."
+
+"I know I said *out*."
+
+"You took it off me without saying," said Toren. He was holding his left arm against his chest. "I was braced. It went off the strut all at once. I didn't know you'd taken it till it was gone. I nearly went in under it."
+
+Callie looked at him.
+
+"You said *holding*," she said.
+
+"I said *holding*. You didn't say anything. You just took it."
+
+Nobody answered that. Callie stood with the hook in her hands and felt her face go hot. It was true. He had said *holding*, and she had put the hook on the rack and put the Ward in it and taken the load, and she had not said a word. She had not said *taking*. She had not said *it's mine*. She had taken it off him because she could, the way she took everything, because it was easier to hold a thing yourself than to wait for somebody else to hand it to you.
+
+And then she had let it go without anybody under it, because she had thought she could do it in the gap.
+
+"Nobody set a minute," said Dessa, from her table.
+
+They looked at her.
+
+"On the twenty-fifth," said Dessa. "At the changeover. Pell called it and the holder said no, not with six moving, and Rook kept his hands down, and nobody said when they'd try again. It's in the book. *No new minute set.*" She did not look up. "You did it again. Toren had it, and Callie took it, and nobody said. Callie had it, and let it go, and nobody said. It's the same thing."
+
+Rook, on his crate, said nothing. He did not need to.
+
+"Again," said Wyck. "And this time say it. Every time it moves from one of you to another, out loud, so the other one hears. Otto, pull it up."
+
+---
+
+The second time, they said it.
+
+Otto let the rope go. The rack came down. Toren put the strut up from the ground and met it at the middle crossbar and held it, soft behind.
+
+"Holding," said Toren.
+
+Callie put the hook over the top crossbar.
+
+"Taking," she said.
+
+"Yours," said Toren.
+
+She put the Ward in the steel. The rack went fixed. She felt the weight come off the strut and onto the hook, and this time Toren had heard it coming and was ready for it. He let the strut go and stood where he was, and did not stumble.
+
+"Mine," said Callie. "Out."
+
+He came out. Jab went in, and lit the hook of his knife, and cut the strap.
+
+And Otto moved the rope.
+
+He did it without warning, the way Wyck had said he would. He hauled on it hard and then let it out, and the whole rack twisted where it hung, the top of it swinging a foot to the left. If it had been on Toren's strut it would have gone off the end of it sideways, because the strut was built for a weight coming one way and not another. It was on the hook. Callie felt the twist come into the hook and go down through the steel and into the ground and stop. The Ward did not care which way the rack went. Nothing moved the hook. So the rack did not move either, no matter what Otto did to the rope.
+
+"Clear," said Jab, from the far side, with Norris in his arms.
+
+Now the handoff. Callie had the rack on the hook and nothing on herself, and she had to let the Ward go and put the edge on the curve, and in the gap the rack would fall.
+
+"Toren," she said. "Under it."
+
+Toren went back in.
+
+He did not wait to be told twice. He put the strut up from the ground at its slant, under the middle crossbar, a hand's width below it, and stood behind it soft, and said, "I'm under it."
+
+"Letting go," said Callie.
+
+She let the Ward go out of the hook. She did not do it all at once, this time, the way you take your hand off a balanced thing. She did it the way Katori had told her at the jam, on the nineteenth day, and she had not understood: like changing hands on a rope. She leaned for the edge while the Ward was still going out, and let one go as the other came, and she was not holding the rack at all in the gap. Toren was. The rack dropped its hand's width onto his strut and stopped, and she felt it stop, and she did not have to be the one who stopped it.
+
+Two.
+
+The edge came off the curve, long and grey and cold. She put it through the top rope where it tied to the crossbar, and the rope parted, and the counterweight went down with a thump into the cinders beside Otto's boots.
+
+"Yours," said Callie. "Let it down."
+
+Toren let the strut go, slowly, a little at a time, soft behind, and the rack came down off it onto the cinders where nobody was, and lay there.
+
+---
+
+Callie stood in the lane with the hook in her hands.
+
+Something had happened. She did not know at first what it was. She had let the Ward go into the gap with Toren under the rack, and she had leaned for the edge, and the edge had come. And when it came, something had come with it. Something had gone out of her into the steel, cold and small and not hers any more, and it had gone out along the grey curve of the edge and been spent. She had felt it go.
+
+She went down to look.
+
+The stone was gone. The quarter-Handful she had settled at the long table the day before, and shut her hand over, and not been able to spend since, was not lying at the bottom of the well any more. The water above it, her own, was where it had been. It had not gone down at all.
+
+"It went," she said.
+
+Miss Wren was standing at the shed door with the glass in her hand. She had been watching Callie's face the whole time.
+
+"Into the edge," said Callie. "The stone. The one I couldn't—it went into the edge. When I let go of the Ward." She looked at the hook. "I didn't ask it to. I was letting go of the rack. Toren had the rack. I wasn't holding it. And it went."
+
+"Yes," said Miss Wren.
+
+"Why then?"
+
+"You tell me," said Miss Wren.
+
+Callie looked at Toren, standing beside the rack with his arm held against his chest and his face white round the mouth. She looked at Jab, on the cinders with Norris across his knees. She thought about her shoulders at the long table yesterday, up round her ears all morning. She thought about her grandfather at the hopper gate, changing hands on a rope with a sack on the end of it, and never letting go of one hand until the other had it.
+
+He had never held the sack with both hands at once. He had not needed to, because the rope was there.
+
+"Because I wasn't holding everything," she said. "Somebody else had it."
+
+Miss Wren did not say anything. She wrote in her book.
+
+"Once more," said Callie. "I want to try it on purpose. Put the Ward in the hook off the stone. Not off me. I think I know where it is now."
+
+"You haven't got a stone," said Miss Wren. "You've just spent it."
+
+"Then give me another one."
+
+---
+
+She settled a second quarter-Handful at the long table in seventy breaths, with her shoulders down.
+
+Then she went back out to the lane. Otto hauled the rack up on its rope and let it go, and Toren braced it, and said *holding*, and she said *taking*, and he said *yours*. She put the hook on the crossbar, and when she asked for the Ward she did not reach for her own water at all. She reached for the stone at the bottom, and she did not shut her hand over it. She let it go. The Ward came up out of it and into the steel.
+
+The hook went pale. The rack went fixed.
+
+"Glass," said Callie.
+
+Miss Wren turned the glass over.
+
+Callie stood behind the hook with the rack on it and nothing on herself, and the sand ran through the waist of the glass in its thin grey thread. She did not count it. She let Miss Wren count it. She felt the stone at the bottom of the well going out into the steel, a little at a time, steady, the way water goes out of a jar with a crack in it, and her own water above it did not move.
+
+One turn. Miss Wren turned the glass.
+
+Half of another. She felt the stone come near the end of itself.
+
+"There," said Callie. "That's the stone. I'm stopping before I start on mine."
+
+She let the Ward go. Toren was not under it this time, because there was nobody to catch; the rack came down onto the cinders with a crash, on nothing.
+
+"A turn and a half," said Miss Wren. "On a quarter of a Handful. In the steel." She looked at Callie. "Go down and look."
+
+Callie went down. Her own water lay at the bottom of the well above the floor, a finger and a bit of it, cold and clear. It was where it had been before she picked up the hook.
+
+"It's all there," she said. "Mine. It hasn't moved."
+
+"Thirty-eight seconds, standing, on your own," said Miss Wren, writing. "Fifty-eight in the hook at the pipe, to your floor, on your own. And now a turn and a half in the hook, on a quarter of a Handful, and your floor untouched." She closed the book. "That's what the jar's for, Callie. It's what I told you in the shed on the twenty-sixth. *Not yet* is a kind of yes."
+
+Callie stood in the lane with the hook in her hands.
+
+She did not feel clever, and she did not feel strong. She felt the way she had felt on the floor by the stove on the ninth day, when she had let her mother's breathing go past her uncounted for the first time. It was not the feeling of having done something. It was the feeling of having stopped doing something, and finding that the thing went on without her.
+
+"Only in the steel," said Miss Wren. "I want that written as well. The Ward in the hook's cheap because the hook doesn't move. It doesn't breathe, or shift its feet, or lift the back one. On you it's three times the price, and on somebody else it's more than that, because they move." She looked at Callie. "You can't have it on you and in the hook at once. You'll have to choose, every time, which load you're holding. And when you choose the hook, you'll have nothing on you. Same as the pipe."
+
+"I know."
+
+"I know you know," said Miss Wren. "I'm saying it so Dessa can write it."
+
+Dessa wrote it.
+
+---
+
+Rook and Miss Wren argued at the shed door in the evening, and Callie heard it because she was sitting on the step of the shed with the hook across her knees, and neither of them asked her to move.
+
+It had started with the rack. Rook had said, from his crate, that the rack was the best thing the yard had done, better than the jam, because it had moved. Miss Wren had said it was a good drill. Rook had said a drill was a drill, and the fence was the fence, and there was one thing on that paper of Toren's that no drill in the yard could teach, and she knew what it was.
+
+"He's never felt it," said Rook.
+
+He was standing in the doorway of the shed, holding on to the frame. Miss Wren was inside at the table. Callie could see both of them.
+
+"The boy found a woman bleeding inside in the fog at forty yards," said Rook. "He can find anything he's ever felt. He found Wyck's collarbone through a shirt with his eyes shut. He found a pin going bad in his brother at the second hour before the fever came up. He can find anything he's felt once." He was quiet a moment. "He's never felt the thing we're asking him to find. Not once. He doesn't know what it is. He'll feel it for the first time on that hill, inside the fence, in you or me or her, with the jars going down, and he'll have to learn what it is in the same breath as he learns how to get it out."
+
+"I won't put it in a body to teach a boy," said Miss Wren.
+
+"Then you'll put it in a body on a hill."
+
+Miss Wren did not answer.
+
+Callie sat very still on the step. She could see Miss Wren's back at the table, bent over the book, not writing. She could see Rook's hand on the door frame.
+
+"I learned it on a road," said Rook, more quietly. "On Senna. For three hundred miles, in a cart. I didn't know what I was doing. I knew there was something in her that wasn't her, and wasn't old, and was busy. And every night I could take a little of it out, and it made my hands ache for an hour after. I didn't know what it was until Sowerby said the word *course*. I'd been doing his course by hand, badly, for a month, on a flask of road-ash." He looked at his hand on the frame. "I can show him how to find it. I can put my hand over his. I can't show him on nothing."
+
+For a long time Miss Wren said nothing at all.
+
+"No," she said at last. "You can't."
+
+Rook waited.
+
+"I can teach him how much," said Miss Wren. She did not turn round. "How long. How to rotate. How to vent, and when to stop, and when to make somebody stop. I can teach him all of it. I've got the table. I've got Vell's whole method in my head and most of it in this book. I can't teach him what to find." She put the pencil down. "Nobody can. Not from outside. It isn't a thing you can be told. You were right about that on the twenty-ninth and I didn't want you to be."
+
+"Then how did you learn it?"
+
+Miss Wren turned round on her stool.
+
+"On Vell," she said. "On his arm."
+
+Rook's hand tightened on the door frame.
+
+"He had a source," said Miss Wren. "A little one, in lead, in a box in his room. Every spring, when the new medical children came to the table, he'd sit down at the head of it and roll his sleeve up, and open the box, and hold his forearm to the window of it for a count of sixty. And then he'd put his arm on the table and make every one of us find it. What was in him that wasn't him. And draw it." She looked at her own left wrist, the crooked one. "He was seventy. He'd done it every spring since before any of us were born. He said a teacher who wouldn't be the patient wasn't a teacher, and a healer who'd never felt it from the inside was guessing." She was quiet a moment. "He said it was the only honest way."
+
+"I never knew that," said Rook.
+
+"You were in the doors line," said Miss Wren. "With your nose in the air."
+
+---
+
+Callie heard herself speak before she had decided to.
+
+"There's a box in the shed," she said.
+
+They both looked at her.
+
+"The machine shed," said Callie. "The grey-haired man's got a dead one. Row one, nine along. It died before he came. He keeps it for the screws." She had the hook across her knees and her hands flat on the conduit. "Toren carried it. On the eleventh day. He copied the plate off it. He said it was heavy, far heavier than anything that size should be, and the man said it was lead, all round, to keep what's in the middle from talking to what's next door." She stopped. "The man said the box is dead. He said the thing in the middle isn't. He said it's as good as the day they sealed it."
+
+Miss Wren looked at her for a long time.
+
+"Toren carried it," she said.
+
+"On his hip. Like a barrow."
+
+Miss Wren stood up. She stood at the table with her hand flat on the book, and Callie could see her doing a sum. Not the kind Callie did, with numbers going past one after another. The other kind, the kind Pell did, with a price on every line.
+
+"Fetch him," she said. "The man from the shed. Now, before he goes to his bed. And Callie." She held Callie's eyes. "Don't tell anybody else yet. Not Toren, and not Jab. I want to hear what the man says before anybody hopes."
+
+---
+
+The grey-haired man came across the dark yard with his sleeves rolled and the ink up the side of his right hand, and stood in the doorway of the east shed and listened to all of it without saying a word.
+
+When Miss Wren had finished he rubbed the ink with his thumb.
+
+"It's dead," he said. "The box. The part that reads it's dead. The middle's not." He looked at the floor. "I don't know how much is left in it. It was sealed before I was born. It was a reference for pictures nobody takes any more, and the kind of thing they put in those runs down slow. Slow like a river runs down. Seventy years. It'll have lost more than half." He looked up. "More than half of a thing that could make a man sick in an afternoon if he sat on it."
+
+"And less than half?"
+
+"Less than half," said the man, "is a count of sixty with your arm at the window, like your old man did. Maybe less. I'd want to measure it." He looked at Miss Wren. "I've got a counter. I've got two. One's older than me."
+
+"Would you do it?" said Rook.
+
+The man was quiet.
+
+"I'd want the doctor," he said. "Sowerby. In the room, with his kit. I'd want it somewhere with a drain and hot water and people who know how to hose a man down without asking why. I'd want it after dark, when nobody's walking past. And I'd want the only hands that go near that box to be mine." He rubbed his thumb along the ink. "And I'd want it written. Every bit of it. Before, and during, and after."
+
+"Hallet's pen," said Rook. "At the north gate. It's got a drain. It's got hoses. It's got the grey coats."
+
+"It's got Hallet," said the technician, and something at the corner of his mouth moved. "He'll want it on his sheet."
+
+"He can have it on his sheet," said Miss Wren.
+
+---
+
+The man in the long coat carried it up the outside stair at the ninth hour of the evening, with the technician's conditions written on a card in his own hand, and Sowerby's name under them. Callie heard later that Sowerby had read the card at his desk in the long building, and put his head in his hands for about a minute, and then taken the pencil and written *I'd rather this was on my sheet in a pen than on a hill in a fence* underneath, and signed it.
+
+The answer came down the stair at the tenth hour.
+
+*Yes. In Mr Hallet's pen, after the north gate closes. On Mr Hallet's sheet. Under Doctor Sowerby. The technician's hands only on the box. Miss Wren's arm only at the window. Everything written.*
+
+It was not signed. It did not need to be.
+
+---
+
+On the thirty-fifth morning the technician taught Callie the counter.
+
+He did it at the bottom of the long slope under the north end of the long building, on the bench by the yellow line, because it was the only place in the station where he could be sure of the air. The counter was a grey box the size of a boot brush, with a needle behind a little window, and a grille on the side, and a handle on the top. When he turned the switch on the side it began to tick.
+
+It was not like the machine's knocking. The machine knocked in runs, eleven and a gap and eleven. This ticked the way rain starts, one and then nothing and then two close together, uneven, never the same twice.
+
+"That's the room," said the man. "That's everything. The stone of the walls, and the ground, and the air, and you, and me. Everything talks a little. That's what it sounds like when nothing's wrong." He held the counter out to her. "Count it. For ten breaths."
+
+Callie counted. Three ticks, and a gap, and one, and two together. Seven in ten breaths.
+
+"Seven," she said.
+
+"About that. Sometimes five, sometimes ten. That's the floor of it." He took a small grey stone out of his pocket, no bigger than a thumbnail, and held it an inch from the grille.
+
+The ticking went up. Not a great deal. It went from rain starting to rain falling, steady, a tick in every breath and then two.
+
+"That's a bit of old granite from the depot," said the man. "It talks a little more than most. It's nothing." He put the stone away. "Tonight, when the window's open, it'll do more than that. I'll tell you the numbers I want. You'll count them out loud, every ten breaths, flat, the way you count for me in the shed. I'll want to hear it without looking at you. And if the needle goes past the red line on the window—" he tapped it, a small red mark near the right-hand end "—you'll say *red*, as loud as you can, and everybody goes out through the gate."
+
+"Everybody."
+
+"Everybody," said the man. "Me as well."
+
+Callie held the counter on her knees. It ticked. It was like holding something small and alive that could not stop telling the truth.
+
+"Why me?" she said.
+
+The technician looked at her for a moment with his red-rimmed eyes.
+
+"Because you counted ten four times in twenty-two runs on the sixteenth day," he said, "and you were right, and I'd told nobody." He stood up. "And because you're the only one of them who'll say the number when it's a bad number. I've been listening to you do it for a month."
+
+---
+
+She told her mother at the middle of the day, because she had said she would tell her first, and this was not the hill, but it was the nearest thing to the hill there had been.
+
+Her mother was on her stool with the tally board. She listened to all of it without saying anything: the pen, and the box, and Miss Wren's arm at the window for a count of sixty, and the counter, and *red*, and *everybody*. When Callie had finished, her mother sat for a while looking at the plate.
+
+"And you'll be where?" she said.
+
+"On the bench. By the hatch. Twenty feet off. With the counter."
+
+"Counting."
+
+"Counting."
+
+Her mother nodded slowly.
+
+"That's a good place for you," she said. "It's the one kind of counting that's for somebody else." She put her left hand out, palm up, on the ledge of the window, and Callie put her own in it. "Something left?"
+
+"Something left," said Callie. "A finger and a bit. And I've a stone settled for tonight, and I know where it is, and I know how to let go of it."
+
+Her mother's fingers closed on hers.
+
+"Then you've learned something I never did," she said, "and I'm very proud of you, and I'd like my hand back now, because Otto's coming up the yard with a jar, and I can hear from here there's ditch in it."
