@@ -824,6 +824,7 @@ def main() -> int:
         plan_pickups()
     if args.recheck_attention:
         recheck_attention()
+        return 0
     if args.accept_title_only_source_updates:
         accept_title_only_source_updates()
     if args.status:
