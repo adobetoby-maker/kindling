@@ -24,7 +24,7 @@ The prologue is one continuous viewpoint with two dated scenes:
 Then:
 
 > **Sixty years later.**  
-> **Nineteen days to Meridian.**
+> **Twenty-five days to Meridian.**
 
 Chapter 1 begins exactly where it currently begins, with Callie's six empty
 snares. Jab and Toren enter through the existing countdown relay. The prologue
@@ -139,7 +139,7 @@ the future 2680 schools.
 The cut to Callie should be hard and clean:
 
 > **Sixty years later.**  
-> **Nineteen days to Meridian.**
+> **Twenty-five days to Meridian.**
 
 Then: six snares, six empty snares. Do not add explanatory bridge narration.
 
@@ -195,4 +195,3 @@ The prologue must not establish:
    disk, filter, Satori, and Homura truths.
 5. After owner acceptance, add it to the reader before Chapter 1 and narrate it
    as `chapter-00.mp3`; do not disturb existing chapter numbers or accepted audio.
-

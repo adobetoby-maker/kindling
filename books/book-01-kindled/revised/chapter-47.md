@@ -1,4 +1,4 @@
-# Chapter 47 — Toren
+# Chapter 47 — Toren: Eighteen Days to Meridian
 
 You cannot dig a grave in a road, and you cannot dig one in an embankment either, because eleven feet down an embankment is water and everybody on that bank knew it without anybody having to say so.
 

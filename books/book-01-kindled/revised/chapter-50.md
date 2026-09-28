@@ -1,4 +1,4 @@
-# Chapter 50 — Toren
+# Chapter 50 — Toren: Two Days to Meridian Day
 
 Rook told him the other thing at first light — sitting on the ground with his back against the sixth block — in about two minutes, and did not look at him once while he said it.
 

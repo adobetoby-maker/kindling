@@ -1,4 +1,4 @@
-# Chapter 18 — Callie
+# Chapter 18 — Callie: Fourteen Days to Meridian
 
 Pell asked her at supper, the way Katori had said he would. Callie had had two hours to think about it, and she still did not have an answer he would like.
 

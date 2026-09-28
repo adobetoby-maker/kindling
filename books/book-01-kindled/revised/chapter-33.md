@@ -1,4 +1,4 @@
-# Chapter 33 — Toren
+# Chapter 33 — Toren: The Thirty-Fifth Day
 
 He did it at the drill, which Toren thought afterward was the only place he could have done it — and which he was fairly sure Wyck had worked out in advance.
 

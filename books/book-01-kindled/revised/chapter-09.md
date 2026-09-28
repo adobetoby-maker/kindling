@@ -1,4 +1,4 @@
-# Chapter 9 — Toren
+# Chapter 9 — Toren: The First Day
 
 The wood was wet, and it was Toren's job to make it burn anyway.
 

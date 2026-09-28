@@ -18,12 +18,14 @@ belong to Book Two.
   performance artifacts made only after the prose edition is frozen.
 - `editor/` contains movement verdicts, listening findings, and repair records.
 - `SOURCE_MAP.md` records every compiled chapter's provenance.
+- `editor/CHAPTER_COUNTDOWN_MAP.md` records the objective day map, all 53
+  chapter headings, and the separate time-reference repair ledger.
 
-An owner-directed historical prologue is now planned in `PROLOGUE_PLAN.md`: the
-Fall in 2080, an early local fracture/awakening circa 2090, then a sixty-year
-cut into Callie's existing opening. It has not yet been drafted because the
-O'Connor workflow requires an explicit Opus-or-Fable selection and owner approval
-of the two historical character names and the early child's door.
+The owner-directed historical prologue in `revised/prologue.md` was drafted by
+Claude Opus 5.5 through the Monroe Jackson 1.3 O'Connor seat. It shows the Fall
+in 2080, an early local fracture and Ward awakening circa 2090, then makes a
+sixty-year cut into Callie's existing opening. The historical figures remain
+unnamed by design.
 
 The first substantive Monroe 1.3 pass over the 26 retained Hobb's Wall chapters
 is complete and awaiting owner review. It changed 22 chapters, adding 474 words

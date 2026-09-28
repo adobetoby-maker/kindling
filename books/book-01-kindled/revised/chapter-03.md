@@ -1,4 +1,4 @@
-# Chapter 3 — Callie
+# Chapter 3 — Callie: Twenty-Three Days to Meridian
 
 "Nineteen days," said Pell.
 

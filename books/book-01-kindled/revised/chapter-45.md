@@ -1,4 +1,4 @@
-# Chapter 45 — Toren
+# Chapter 45 — Toren: Nineteen Days to Meridian
 
 There were four hours of nothing first, and Toren was grateful for every one of them.
 

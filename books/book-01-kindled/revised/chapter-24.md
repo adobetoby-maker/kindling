@@ -1,4 +1,4 @@
-# Chapter 24 — Jab
+# Chapter 24 — Jab: Three Days to Meridian
 
 The half dose did not hold the morning, and he had known it would not, and knowing had turned out to be no help whatsoever.
 

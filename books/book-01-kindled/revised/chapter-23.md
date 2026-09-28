@@ -1,4 +1,4 @@
-# Chapter 23 — Jab
+# Chapter 23 — Jab: Seven Days to Meridian
 
 He worked on the frame until the middle of the night, which was how he found out what the crossing had actually cost him.
 

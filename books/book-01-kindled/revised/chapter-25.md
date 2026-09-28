@@ -1,4 +1,4 @@
-# Chapter 25 — Jab
+# Chapter 25 — Jab: Two Days to Meridian
 
 The snow came down out of the still sky all day and did not stop, and by dark there was six inches of it on the road and no road.
 

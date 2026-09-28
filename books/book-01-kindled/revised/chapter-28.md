@@ -1,4 +1,4 @@
-# Chapter 28 — Toren
+# Chapter 28 — Toren: The Twenty-First Day
 
 Toren started keeping a tally on the fourth day of it, on the back of his father's paper, under the column of days.
 

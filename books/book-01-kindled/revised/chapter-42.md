@@ -1,4 +1,4 @@
-# Chapter 42 — Toren
+# Chapter 42 — Toren: Twenty-Five Days to Meridian
 
 In the morning, he ran the drill.
 

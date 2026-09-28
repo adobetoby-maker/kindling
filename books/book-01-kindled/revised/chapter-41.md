@@ -1,4 +1,4 @@
-# Chapter 41 — Toren
+# Chapter 41 — Toren: The Thirty-Eighth Day
 
 "I was born at a place called Lowry Bend," said Rook, "which is about four hundred miles south and east of here, in country you've never heard of and wouldn't like, and there were a hundred and forty of us in it, and my mother did nothing with her hands.
 

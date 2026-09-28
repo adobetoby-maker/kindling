@@ -1,4 +1,4 @@
-# Chapter 7 — Jab
+# Chapter 7 — Jab: Eight Days to Meridian
 
 The bad hour came at the bottom of the night and it brought a friend.
 

@@ -1,4 +1,4 @@
-# Chapter 48 — Toren
+# Chapter 48 — Toren: Seven Days to Meridian
 
 On the eleventh day out of the Level the road stopped being a road and started being an opinion about where a road had once been.
 

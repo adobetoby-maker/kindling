@@ -1,4 +1,4 @@
-# Chapter 12 — Toren
+# Chapter 12 — Toren: The Second Day
 
 His father was already dead when Toren got to him.
 

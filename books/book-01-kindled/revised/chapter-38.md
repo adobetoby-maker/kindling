@@ -1,4 +1,4 @@
-# Chapter 38 — Jab
+# Chapter 38 — Jab: Meridian Day
 
 The road went down out of the snow at about the middle of the morning, and by noon there was no snow at all, and Jab found that he did not trust it.
 

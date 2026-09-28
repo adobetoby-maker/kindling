@@ -1,4 +1,4 @@
-# Chapter 17 — Callie
+# Chapter 17 — Callie: Fourteen Days to Meridian
 
 By first light the cold had reached the middle of her chest, and she had stopped being able to spit.
 

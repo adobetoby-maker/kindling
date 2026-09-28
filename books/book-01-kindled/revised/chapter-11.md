@@ -1,4 +1,4 @@
-# Chapter 11 — Toren
+# Chapter 11 — Toren: The Second Day
 
 His father held the bend for two minutes.
 

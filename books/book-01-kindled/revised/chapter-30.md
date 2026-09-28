@@ -1,4 +1,4 @@
-# Chapter 30 — Toren
+# Chapter 30 — Toren: The Twenty-Eighth Day
 
 They came back onto the road on the seventeenth day, in rain, with three people in a cart that was built for two and a mule who had opinions about all of it.
 

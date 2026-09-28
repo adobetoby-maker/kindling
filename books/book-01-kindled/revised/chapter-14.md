@@ -1,4 +1,4 @@
-# Chapter 14 — Toren
+# Chapter 14 — Toren: The Eleventh Day
 
 Six days north of Hobb's Wall, Toren had begun to think he was getting good at this, which is the most dangerous thing that can happen to a person.
 

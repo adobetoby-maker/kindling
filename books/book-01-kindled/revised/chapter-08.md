@@ -1,4 +1,4 @@
-# Chapter 8 — Jab
+# Chapter 8 — Jab: Seven Days to Meridian
 
 He walked the bank for an hour before he let himself look at the tree, because he wanted to be able to say afterward that he had looked at everything else first.
 

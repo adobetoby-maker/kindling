@@ -1,4 +1,4 @@
-# Chapter 32 — Toren
+# Chapter 32 — Toren: The Thirty-Fourth Day
 
 Wyck did not ask in the morning.
 

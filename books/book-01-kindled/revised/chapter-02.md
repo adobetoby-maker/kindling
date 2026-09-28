@@ -1,4 +1,4 @@
-# Chapter 2 — Callie
+# Chapter 2 — Callie: Twenty-Four Days to Meridian
 
 They were on the road before first light, and it did not help at all, because the four of them had gone north and Callie was going north, and at the middle of the morning she came around the shoulder of a cut and there they were, drawn up and waiting a quarter mile ahead.
 

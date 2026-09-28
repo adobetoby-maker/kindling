@@ -1,4 +1,4 @@
-# Chapter 39 — Toren
+# Chapter 39 — Toren: The Thirty-Seventh Day
 
 The thing began to come apart on the twenty-sixth day, and it began with Rook getting something wrong.
 

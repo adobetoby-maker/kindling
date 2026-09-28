@@ -1,4 +1,4 @@
-# Chapter 10 — Toren
+# Chapter 10 — Toren: The Second Day
 
 They got four hundred paces.
 

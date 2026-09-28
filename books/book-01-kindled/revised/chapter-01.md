@@ -1,4 +1,4 @@
-# Chapter 1 — Callie
+# Chapter 1 — Callie: Twenty-Five Days to Meridian
 
 Six snares, and six empty snares, and Callie reset all six before she let herself think about it.
 

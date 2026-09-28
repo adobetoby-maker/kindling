@@ -1,4 +1,4 @@
-# Chapter 26 — Toren
+# Chapter 26 — Toren: The Fourteenth Day
 
 The fire had been out since before midnight, and nobody had put it back on, so the ninth morning north of Hobb's Wall began in the cold, which Toren decided later was the point.
 

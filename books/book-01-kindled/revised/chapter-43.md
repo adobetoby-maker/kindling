@@ -1,4 +1,4 @@
-# Chapter 43 — Toren
+# Chapter 43 — Toren: Twenty Days to Meridian
 
 The road forked at the crossroads on the thirty-third day and they took the left-hand one, north, and Rook walked behind the cart.
 

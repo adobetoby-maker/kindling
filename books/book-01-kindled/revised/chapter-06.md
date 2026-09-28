@@ -1,4 +1,4 @@
-# Chapter 6 — Jab
+# Chapter 6 — Jab: Eight Days to Meridian
 
 By morning the fever had not turned, and the rain had not stopped, and Jab had to decide what to do with a day.
 

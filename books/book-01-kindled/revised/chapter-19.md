@@ -1,4 +1,4 @@
-# Chapter 19 — Callie
+# Chapter 19 — Callie: Twelve Days to Meridian
 
 Callie walked the scarp at first light, alone, with the hook over her shoulder and nothing lit in her at all. At the bottom of the cut, before she had gone a hundred paces up it, she found out what the hill was.
 

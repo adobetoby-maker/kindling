@@ -1,4 +1,4 @@
-# Chapter 44 — Toren
+# Chapter 44 — Toren: Twenty Days to Meridian
 
 An hour later there were still nine.
 

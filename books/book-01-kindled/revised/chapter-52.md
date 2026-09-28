@@ -1,4 +1,4 @@
-# Chapter 52 — Jab
+# Chapter 52 — Jab: Meridian Day
 
 He stopped singing, and then he stopped walking, and the thing in the ditch stayed stopped.
 

@@ -13,8 +13,9 @@ untouched; Monroe 1.3 editorial work occurs only under `revised/`.
 ## Locked structural direction
 
 - Book One opens with a short historical prologue: the Fall in 2080, an early
-  local fracture/awakening circa 2090, then **Sixty years later / Nineteen days
-  to Meridian** before Callie's current Chapter 1. See `PROLOGUE_PLAN.md`. The
+  local fracture/awakening circa 2090, then **Sixty years later / Twenty-five
+  days to Meridian Day** before Callie's current Chapter 1. See
+  `PROLOGUE_PLAN.md`. The
   prologue does not renumber the 53-chapter assembly or resolve the Fall/disk
   mysteries.
 - Book One is one braided novel following **Callie, Jab, and Toren** on three
@@ -72,10 +73,11 @@ clock is already native to all three characters:
   and the Level repeatedly destroy the estimate. At Barrow Gate the road is
   recalculated as eighteen days. His is the road whose clock refuses to behave.
 
-The existing figures are therefore excellent dramatic material but are **not
-yet one compatible chronology**. The assembly pass must not silently preserve
-all three old calendars. It must make a master day map first and revise only
-the time references needed to make that map true.
+The existing figures are therefore excellent dramatic material but were **not
+one compatible chronology**. The Opus 5.5 audit in
+`editor/CHAPTER_COUNTDOWN_MAP.md` now provides the master day map and the
+minimum time-reference repair ledger. The revised headings follow that map;
+the listed prose repairs remain a separate editorial pass.
 
 ### Opening entry relay
 

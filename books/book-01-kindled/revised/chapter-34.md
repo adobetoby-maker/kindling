@@ -1,4 +1,4 @@
-# Chapter 34 — Callie
+# Chapter 34 — Callie: Ten Days to Meridian
 
 Callie woke at first light and breathed in all the way before she remembered not to.
 

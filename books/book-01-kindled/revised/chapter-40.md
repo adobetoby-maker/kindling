@@ -1,4 +1,4 @@
-# Chapter 40 — Toren
+# Chapter 40 — Toren: The Thirty-Eighth Day
 
 They waited two hours and eleven minutes, and it was the longest two hours and eleven minutes of Toren Voss's life, and afterward he could have drawn a map of that fire from memory: every stone in the ring, the exact place where the turf had scorched, the piece of unburnt sacking at the edge that nobody had moved for three days.
 
