@@ -1,0 +1,673 @@
+# Chapter 10 — Callie: What I'll Take
+
+The weighbridge was a steel plate set level into a concrete pit, as long as a wagon, with a hut beside it that had a window facing the plate and a beam scale behind the window. Callie had walked past it every morning for ten days. She had not stood on it until now, with Katori's crew and four jars of the morning's lift, waiting for the weighman to finish doing what he did before he weighed anything.
+
+He was an old man in a leather apron. He came out of the hut with an iron block in each hand, and set them down on the plate one after the other, carefully, as if they might wake. Each one had a number cast into its face. Then he went back into the hut and looked at the beam for a long time, and moved the little weight along it with one finger, and looked again, and wrote something in a book.
+
+Then he came out and took the blocks off the plate and carried them back into the hut, one at a time.
+
+"Test weights," said Pell, beside her. He said it quietly, the way he said things that pleased him. "He does that every morning. He'll do it again at noon. He's done it for thirty years, I'm told, and he's never once found the scale wrong."
+
+"Then why does he do it?"
+
+"Because the day he doesn't," said Pell, "it will be."
+
+Callie watched the old man go back into his hut. She thought about her grandfather at the scale house at Thistle Ford, with his hand on the beam and his head on one side, listening to it the way you listen to a horse breathe. She had been small then. She had not known that she was watching a thing that would be gone.
+
+---
+
+There was a girl in the hut with the weighman. She was about fifteen, with a long plait down her back and a tally board on a string round her neck and a pencil behind her ear, and when the crew came up onto the plate with the jars she leaned out of the window and looked at all of them in turn, frankly, the way you look at a cart of strangers coming into your yard.
+
+"Road lot," she said, to the weighman, not quietly.
+
+"Road lot," the weighman agreed. "Put them on one at a time."
+
+They put them on one at a time. Otto set each jar down in the middle of the plate, and the old man moved the weight along the beam and called a number, and the girl wrote it on her board and then read it back to him, and he nodded. There was a board on the wall of the hut, painted black, with names down one side in white paint and numbers down the other in chalk. Callie found Katori's name on it, and under it her own, which somebody had painted there without asking her.
+
+The fourth jar was Rook's Flask, the good one off the east track. The girl wrote the number and said, "Flask," and began to put the board down.
+
+"It's thin," said Callie.
+
+The girl looked at her.
+
+"It's a Flask," she said. "It's on the weight for a Flask."
+
+"It's on the weight. It's thin."
+
+"There's no such thing as thin." The girl said it quite pleasantly, the way you correct somebody who has called a horse the wrong colour. "There's a Handful and there's a Flask and there's dirty, and that's not dirty, because I can see it from here. A Flask's a Flask. The scale says."
+
+"The scale says weight," said Callie. "It doesn't say thin."
+
+---
+
+The weighman had turned from his beam and was watching them. So was Katori. Pell had his atlas open and his pencil in his hand and was not writing, which was how Callie knew he was interested.
+
+Callie had not meant to argue. She had meant to say the true thing and let it sit. But the girl was looking at her with her chin up, the way the boys at Thistle Ford had looked at her when she told them the grade on a sack was wrong, and she found that she wanted to be right in front of this girl more than she had wanted anything in several days.
+
+"Can I have it back?" she said. "Off the plate. For a minute."
+
+The weighman nodded, and Otto lifted the jar off. Callie took the stopper out and put two fingers in, and brought them out grey, and held them up to the light from the hut window. Then she rubbed them together, slowly, finger and thumb, the way Rook had on the east track.
+
+"Give me your hand," she said.
+
+The girl looked at the weighman. The weighman nodded again. The girl put her hand out through the window, palm up, and Callie tipped a little of the ash into it off the ends of her fingers.
+
+"Now rub it," she said.
+
+The girl rubbed it.
+
+"A Handful off a husk line comes up like wet sand," said Callie. "You can feel every grain of it. It sticks in the creases. It's heavy for what it is. This came up like flour. Feel it go." She watched the girl's fingers. "It's the same weight in the glass, because you fill the glass. You'd need more of it to fill the glass. So it's the same weight and there's more of it, and each grain of it's got less in it than it should." She put the stopper back in. "Somebody who paid for that at a Flask would get less out of it than a Flask. Not much. A tenth. Maybe more. They'd notice at the end of a long night."
+
+The girl was looking at her own hand.
+
+"Rook said it on the track," said Otto, going red. "Before she did. He said thinner."
+
+"He said it to the jar," said Katori. "She said it to the scale."
+
+The weighman came out of his hut and took the jar and unstoppered it and put his own finger in. He looked at the finger for a long time. Then he rubbed it between finger and thumb, the way Callie had.
+
+"Write it Flask," he said to the girl. "And put *thin* in the margin. And whose call it was."
+
+"Whose call was it?"
+
+"Hers," said the weighman, and went back into his hut.
+
+---
+
+The girl wrote it. She wrote *thin*, and then she looked up at Callie with the pencil still on the board.
+
+"What's your name, then?" she said. "For the margin."
+
+Callie told her, just the first part. The girl wrote a *C.* and looked at it.
+
+"*C.'s call*," she said. "That's what the old man with the book does. I've seen him at the window." She jerked her chin at Pell. "He writes *concur* after, with letters. Like a ledger."
+
+"I do," said Pell, pleased.
+
+"It's a daft way to write." The girl said it with great satisfaction, as if she had been waiting to say it to somebody for a week. Then she looked at Callie's hook, on her shoulder, and her expression changed.
+
+"Is that the one?" she said. "The one that does two?"
+
+Callie did not answer.
+
+"Everybody in the yard knows," said the girl. "You're on the register with two doors. The man in the long coat went up the stair with your card and came down again without it." She put the pencil behind her ear. "Nobody I know's got two. I've got one."
+
+She held up her right hand, flat, out of the hut window. Then her fingers closed, and something came out from between them.
+
+It was a blade. It was grey and straight and plain, about the length of her forearm, with a clean narrow edge that caught a line of pale light along it as it came, like frost along a wire. It came out all at once, the whole of it, in about the time it took to breathe in, and it stood out of her fist exactly level, and it did not shake.
+
+It was the proper blade, the one Callie had wanted on the wagon bed, shorter and straight, the one she had tried to make and watched gutter out like a lamp in a draught.
+
+"Ember," said the girl. "Since thirteen. It's the only shape it does, and it's never done anything much, because there's nothing in the weighbridge wants cutting." The blade went back into her fist as neatly as it had come. "So they put me on the tally."
+
+Callie looked at the place where it had been.
+
+"It's a good shape," she said. She meant it, and she heard herself mean it, and did not like how much.
+
+"It's a boring shape," said the girl. "Everybody on the register's got one like it. Yours is the one they talk about." She leaned out of the window a little further. "Is the grey mare yours? At the south stable. With the bad leg."
+
+"She's the crew's."
+
+"She's the best horse inside the berm," said the girl. "There's eleven. I know all of them." She said it as if it were the most important thing about her, and Callie thought it probably was. "Tell whoever does her leg she wants the poultice changing twice a day, not once. The stable man does it once because he's lazy."
+
+"Tell him yourself," said Katori.
+
+"He doesn't listen to me," said the girl. "Nobody at the stable listens to me. I'm the tally."
+
+---
+
+They went back to fourteen at the middle of the day.
+
+Callie's mother was sitting up on the edge of her bed by the stove with her boots on and a stick across her knees. It was a new stick. Pell had cut it out of a length of ash from the wood pile behind the long building and shaved the handle down with his knife to fit a left hand, and he had done it in the night, and told nobody, and left it leaning against the end of her bed.
+
+"I've been practising," said her mother. "Eleven steps to the door. I went to the door and back four times and nobody saw me, and I'd have got away with it if the door didn't creak."
+
+"I heard it creak," said Ines, from her bed. She did not open her eyes.
+
+"You hear everything."
+
+"I do."
+
+Callie sat down on the floor with her back against the bed frame. She could feel her mother's leg through the blanket, the right one, which lay a little further out than the left, the way it lay now, as if it had been put down by somebody else and left.
+
+"Tomorrow," she said.
+
+"Tomorrow," said her mother.
+
+"The review's at the ninth hour. On the first floor. The man at the window said it's three people and a table." Callie had asked. She had gone and stood at Hallet's window yesterday afternoon, and he had told her, in order, the way he told everything. "I'll go. I'm the household for the window. You don't have to climb a stair to hear them read your sheet out to you."
+
+Her mother was quiet for a moment.
+
+"No," she said.
+
+"Mum."
+
+"You're the household for the window," said her mother. "The window can call you what it likes. I've no argument with the window. It's a very good window." She put her left hand on the stick. "But I'm going to that room, and I'm going to sit in front of whoever's sitting there, and they're going to look at me while they do it."
+
+"You'll have to climb a stair."
+
+"Then I'll climb a stair. I climbed a scarp."
+
+"You drank a Handful to climb that scarp."
+
+"I did. And I'm not going to drink one to climb a stair, because a stair's got a rail." Her mother looked down at her. "Love. They're going to say *household* and *contribution* and *head of*, and all of it's going to be about me, because I'm the one in the bed. I'd like to be in the room when they say it. I've been in the back of a wagon for a month while people decided things about me over my head. I've been in a bed for two days while a very kind man with a folder told me things. I'd like one room in this place where I'm the one doing the talking."
+
+Callie looked at the stove.
+
+"All right," she said.
+
+"Thank you."
+
+"I'll count the stairs."
+
+"Don't you dare," said her mother.
+
+---
+
+"What do they want?" said her mother later, to the hut. "At a review. From a woman with one hand."
+
+"Contribution," said Pell. He was sitting on the floor by the door with the atlas on his knee. He had a sheet of paper inside the cover with columns ruled on it, and he had been writing in the columns all afternoon. "That's the word they'll use. Contribution. They'll read out what's on the sheet, and what's on the sheet is three Handfuls lifted, less station, and a sponsor line in Katori's name, and the girl's wages off the Sag. Which are a day's pay a day, when she's fit to kneel."
+
+"It's not a key," said Katori, from the window. "The sponsor line. The man said so at the gate. It's a line."
+
+"Then what's the key?"
+
+Nobody answered for a while.
+
+"They don't have keys," said Pell at last. "They have columns. You put enough in the columns and it opens, and nobody ever tells you how much is enough, because it changes." He looked at his paper. "I've been trying to work out the number. I can't. It's a sum with half of it written on the other side of a door."
+
+Callie's mother sat with her hand on the stick.
+
+"I grew up in a scale house," she said.
+
+They looked at her.
+
+"At Thistle Ford. My father's name was on the door. He weighed grain for the elevator for forty years, and I sat in the window from the time I could see over the ledge and read the beam for him when his eyes went." She moved her left hand on the stick. "I can read a beam. I could read a beam when I was seven. I can read one with my left hand and catch a short weight with my eyes shut, because you hear a short weight before you see it. The beam comes up too fast."
+
+"Mum—"
+
+"The girl at the weighbridge is going to the Director's yard," said her mother. "I heard it at the pump this morning. The woman with the red scarf said the tally girl's on the list. So they'll be short a tally." She looked round the hut. "I'd like somebody to tell me why that's not a contribution."
+
+Nobody told her.
+
+Pell looked at her for a long moment. Then he bent his head over his ruled sheet and wrote, and when he had finished he turned it round and held it up so she could see. There was a new line at the bottom of the contribution column, in his small neat hand.
+
+*T. — tally, weighbridge. Her call. Concur — P.*
+
+"There," said Pell. "That's in the book."
+
+---
+
+Callie did not count the stairs.
+
+It was the hardest morning she had spent in Meridian. The yard office was a long concrete building on the north side of the yard with a door at the front and a steel stair up the outside to a second door on the floor above, and the review room was on the first floor, at the top of an inside stair with a rail on the left. Her mother went up it with her left hand on the rail and the stick in her right, which did not work, and then with the stick hung on her wrist by its cord and her right hand doing nothing at all, which did. Callie walked one step below her with her own hands at her sides. Not holding. Only there.
+
+It was fourteen steps. She knew that without counting. She knew it the way you know how many fingers you have. She did not say it.
+
+At the top her mother stood for a while and got her breath, with her hand on the post of the rail.
+
+"You counted," she said.
+
+"I didn't."
+
+"You're a terrible liar, love. It's the only thing I've ever been sorry about in you."
+
+The room had a long table and three chairs behind it and two chairs in front of it. There was a window, and a stove that was not lit, and a jar of water on the table with three cups. The man in the long coat sat on the left, with his coat on. On the right was a woman of about fifty with a red face and a ledger. In the middle was an old man with a white moustache and very pale eyes, who looked at them when they came in and then looked at the window and did not look at them again.
+
+"Please," said the woman with the ledger, and waved at the chairs.
+
+Callie's mother sat. It took her a while. Nobody hurried her.
+
+"Household review," said the woman, and opened the ledger. "Yard C, second row, hut fourteen. Conditional admittance, fourteen days, reviewable, fourteen days being today." She ran her finger down the page. "Household, two. Head of household, for the window, the daughter, aged thirteen, the mother being a clinical admission—"
+
+"Strike that," said Callie's mother.
+
+The woman looked up.
+
+"Ma'am?"
+
+"The window can have its column. I've no quarrel with the window." Her mother sat very straight, with the stick across her knees and her left hand on it. "But this isn't the window. This is a room. And I'm sitting in it with my own mouth, and I'm the head of this household, and she's my daughter." She paused. "She's thirteen. It's on your sheet. I'd like it read out as that and nothing else."
+
+The woman with the ledger looked at the man in the long coat.
+
+"It's noted," said the man in the long coat.
+
+---
+
+The woman read out the sheet.
+
+It was very short. Callie had known it would be short and still it was shorter than she had thought. Three Handfuls, lifted, less station, weighed at the south gate on the day of admission. A sponsor line, in a name the woman read out carefully, in full, which Callie had not heard before and which made Katori, standing at the back of the room by the door with her cap in her hands, go very still. Wages on the Sag crew, for the daughter, two days out of the last four. A fee against the ash for a horse's leg.
+
+"And a line," said the woman, and turned the page, "this morning, from the weighbridge." She frowned at it. "*T., tally.*"
+
+"That's me," said Callie's mother.
+
+The woman looked at her.
+
+"I grew up in a scale house at Thistle Ford," said her mother. "My father weighed grain on the elevator scale for forty years. I read the beam for him from the time I could see over the ledge." She said it without any hurry at all. "I can't use my right hand. I don't need it for a beam. I can read a beam left-handed, and catch a short weight before the man on the plate knows he's done it. Your weighbridge is short a tally from tomorrow. I heard it said at the pump."
+
+"It is," said the man in the long coat.
+
+"Then I'd like to be your tally."
+
+The old man in the middle turned from the window and looked at her. It was the first time he had looked at anything but the window since they came in. He looked at her for a long time with his very pale eyes.
+
+"And the fits, ma'am?" he said. His voice was thin and dry. "It's on the long building's note. Fits. What does the weighbridge do if you have a fit on the plate?"
+
+"It waits," said Callie's mother. "Forty-one seconds, last time. Nearly three minutes the time before, on the plain, before I had any pills. I've had four since the winter. The pills have made them shorter and further apart. My daughter counts them." She did not look at Callie. "If I have one on the plate, the old man in the apron can sit down and have a cup of tea, and when I've finished I'll read him his beam. I read it better than the girl does. I've watched her. She's quick and she's careless and she writes her sevens like ones."
+
+The old man looked at her a moment longer. Something moved under the white moustache. Then he turned back to the window.
+
+"And the—" said Callie's mother, and stopped.
+
+Callie saw it happen. She saw her mother's mouth move on nothing, the way it did now sometimes, going down into the dark for a word the way you reach into a bag for a tool you know is there and find everything but the tool. One second. Two. Nobody in the room spoke. The woman with the ledger opened her mouth to help and the man in the long coat put one finger on the table, very lightly, and she closed it again.
+
+Three.
+
+"The contract," said her mother. "The paper with the seasons on it. That the man in eleven signed. I want it written down that nobody in my household is signing one. Not for this. Not for an address." She let out her breath. "That's all."
+
+"It's noted," said the man in the long coat.
+
+Callie had counted to three without meaning to. She sat with her hands in her lap and hated it, and knew her mother knew, and knew her mother would not say so here.
+
+---
+
+They were given twenty-eight days.
+
+"Conditional residence extended twenty-eight days, reviewable," said the woman with the ledger, and wrote it. "The board notes the sponsor line. The board notes the offer at the weighbridge, subject to the weighman's report." She turned the page. "The board notes that the household's Kindled member is requested at the Director's office at the second hour today, and will be informed of the outcome."
+
+"Then the board can note that she's thirteen," said Callie's mother.
+
+"It's noted, ma'am," said the man in the long coat. "Everything's noted."
+
+"I've noticed that about this place," said Callie's mother, and stood up.
+
+She did it by herself. It took her a while. When she was up she stood for a moment with the stick in her left hand, looking at the three of them, and then she nodded to each of them in turn, the way you nod to people across a market when the bargain's done and neither of you is sure who won.
+
+At the top of the stair, her right leg went.
+
+It did not go far. It went the way it went now, all at once, as if somebody had cut a string, and she tipped toward the stairwell with the stick clattering on the rail, and Callie was already there. She had been there since the room. She got her shoulder under her mother's left arm and her feet planted wide on the landing, and she felt the weight come onto her and go down through her into the concrete, and her mother stopped.
+
+They stood there.
+
+"Don't count it," said her mother, into her hair.
+
+"I wasn't."
+
+"Liar."
+
+Behind them the door of the review room had opened, and the man in the long coat stood in it. He looked at the two of them on the landing. He did not come forward and he did not go back. He only stood there, the way the woman at the north gate had stood by the barrow, not holding.
+
+"Ma'am," he said. "There's a chair."
+
+"There's a rail," said Callie's mother. "And there's my daughter. I've got two of everything I need." She got her left hand onto the rail. "Thank you."
+
+He nodded, and went back in, and shut the door.
+
+---
+
+At the second hour Callie climbed the outside stair.
+
+It was steel, and it rang under her boots, and at the top there was a landing and a door with nothing written on it. The others were already there. Jab was at the rail with his hands in his pockets and his face the colour of someone who had not slept. Toren stood beside him with his arm in its sling. Rook was sitting on the top step, because it was a step, with his back against the wall and his hands on his knees. They were steady now. Callie had seen them at the end of his hour on the north lip, and they had not been steady then.
+
+"Twenty-eight days," said Callie, before anybody asked.
+
+"Twenty-eight," said Jab. "Mine's tomorrow."
+
+"Your mother went?" said Toren.
+
+"She went." Callie looked at the door. "She told them to strike me out of the column."
+
+Rook, on the step, made a sound that was very nearly a laugh.
+
+"Good," he said. He got up in three movements, one hand on the rail. "That's one of us that's had a good morning."
+
+The man in the long coat opened the door.
+
+---
+
+The Director's office was a long low room along the whole north side of the second floor, with a window running the length of it. Callie saw the window before she saw anything else. It looked out over the yard, and over the berm beyond the yard, and over the road beyond the berm, and at the end of the road, small and sharp in the cold clear light, she could see the south lip of the Sag and a single grey figure standing on it with its hands out from its sides.
+
+You could watch the day holder from here, all day. Callie wondered whether anybody did.
+
+There was a map of the station on the wall at the end of the room, drawn in ink and coloured, with every hut and yard on it in rows. Her eyes went to Yard C before she could stop them, and to the second row, and she found eleven and twelve and fourteen. There was no thirteen. There had never been a thirteen. Nobody had ever told her why.
+
+There was a slate on an easel with a column of chalk numbers down it, and a stove, lit, and a long table. On the windowsill stood a glass jar with a Flask of grey ash in it, stoppered, with a paper label.
+
+At the side of the room, in a chair against the wall, the woman with the good boots sat with her ankles crossed and her hands in her lap. She looked up when they came in. Her eyes went to Rook, and stayed a moment, and then went to Jab, and stayed a good deal longer.
+
+At the head of the table sat the Director.
+
+She was a woman of about sixty, small and square, with grey hair cut short and a pair of spectacles hanging round her neck on a cord. She had four sheets of paper in front of her, squared to the edge of the table, and she did not stand up.
+
+"Sit," she said. "Please. Mr Marsh, the chair with arms."
+
+They sat, and Rook took the chair with arms.
+
+The Director looked at them one after another. She put her spectacles on to look at the sheets and took them off to look at the people, and she did it three times before she said anything else.
+
+"I'm going to tell you what I want," she said, "and then what I'll take. It saves time. People tell me it's a bad habit. I've found it isn't."
+
+---
+
+"First the thing you've been told this is about," she said. "The north road. Seven people went out through the north yard gate after dark, past a gate crew that told them not to, onto a public road outside the line." She put her spectacles on and looked at a sheet. "Four of them are in this room." She took them off. "I'd have gone. There was a child on the road. I'd have been wrong to, because if I'd been killed out there there'd have been nobody at this table tomorrow, and you were wrong to, for the same reason. It's on four sheets. I'll carry it. That's the whole of what I've got to say about the north road."
+
+Nobody said anything.
+
+"Now what I want." She turned in her chair and looked at the slate on its easel. "I want holders."
+
+She said it plainly, as if she were asking for flour.
+
+"Ten years ago this station had six people on the register who could hold a road. I have two. One of them's sitting in that chair with a hole in his back and has been holding the Sag against my doctor's orders for five mornings. The other one's standing out there." She nodded at the window without looking at it. "She's fifty-six. She's held it alone for two years. Her hands are worse than yours, Mr Marsh, and she's never once let me see them."
+
+Rook said nothing.
+
+"Arrivals at the Sag." She pointed at the slate with the arm of her spectacles. "In the spring, eleven a week. In the summer, fourteen. Last week, nineteen. The ash comes up thinner than it did. The ground's moving." She looked at Callie. "A slab by marker post six dropped a finger's width in the week just gone. A girl read it off the ground. It's in my book, because a man in a long coat put it there."
+
+Callie felt the man in the long coat, at the end of the room, not look at her.
+
+"And something opened north-west of here in the summer," said the Director. "The river people say the sky's wrong over the old plant. They say there's ash lying on the ground up there in drifts, in the open, that nobody's lifting, because nobody goes near the old plant if they can help it. The Sag's been worse since the summer." She put the spectacles down on the table. "I don't know that those are one thing. I'd like very much to know. I don't send people to find out, because I haven't got people to send. I've got two holders."
+
+Callie was not looking at the Director. She was looking at Toren.
+
+He had gone still. It was not a big stillness; it was the stillness of a boy who has been sitting in a chair listening, and who hears a word he knows, and stops. His right hand had been resting on his knee. It stayed there. His face did nothing at all, which was how Callie knew, because Toren's face always did something.
+
+*The old plant.* Callie did not know what the old plant was. She knew that Toren did.
+
+---
+
+"So," said the Director. "I want a yard that makes holders. I don't know how to make one. He does." She looked at Rook. "I've read his sheet from eleven years ago, and I've read the one Mr Hallet wrote at midnight after the north road, and I've had the man in the coat stand on the Sag and watch him hold it. He and Miss Wren are the only two people inside this berm who were taught by people who knew what they were doing. She's got the medical side. I want him teaching. And I want the four of you in it."
+
+"You want children," said Rook, "to do what your adults won't."
+
+"I want children to learn what my adults can't." The Director did not raise her voice. "I know the difference is thin, Mr Marsh. I've had thirty years to hear how it sounds."
+
+"It's not thin. It's the whole of it."
+
+"Then we'll argue about the whole of it," said the Director, "after I've finished saying what I want. I'd like to finish."
+
+Rook sat back in the chair with arms.
+
+The Director turned to Callie.
+
+"Miss," she said. "Your card's the only one on my register with two doors at thirteen. Nobody at this station has ever seen a Ward go into a steel hook. I have two holders. You have a Ward. I'm not a fool."
+
+"I read ground," said Callie. "Read the first line first."
+
+"I did," said the Director. "Somebody told me you'd asked. I read it first, and then I read it again, and then I read the rest." She looked at Callie a moment. "It's a very good first line. It's the only one on the card I can use tomorrow."
+
+"Where did the other four go?" said Callie.
+
+The Director looked at her.
+
+"The holders," said Callie. "You had six. You've got two. Where did the other four go?"
+
+There was a short silence in the room. At the end of it the Director put her spectacles on, which she had not needed to, and looked at the slate.
+
+"One died," she said. "Seven years ago, on the Sag. A lapse of about four seconds. Two left. They went south, to places that don't have a Sag. One's in the long building, and has been for three years, and won't come out of it, and doesn't hold anything any more, and knows the names of everybody who brings her dinner." She took the spectacles off. "That's where the other four went. Thank you for asking. Nobody does."
+
+Callie said nothing. She had wanted to know what happened to holders. Now she knew.
+
+---
+
+"The review board this morning," said the Director, "will be informed of what's said in this room. I'm not going to pretend it won't. The review sees everything. That's what it's for."
+
+"My mother says I don't sign anything without her," said Callie.
+
+"Your mother's quite right. I told the board to write down that she walked into that room this morning on a stick and spoke for her own house, and I'd like it written that way on every sheet it's on." The Director folded her hands. "I'm not asking you to sign anything. I'm asking you to come to a yard."
+
+"What's the difference?"
+
+"About four seasons," said the Director.
+
+Callie looked at her, and the Director looked back. Neither of them smiled, and Callie understood that the Director had told her the truth and knew she had, and was not going to take it back.
+
+"Then I'll come to the yard," said Callie. "I won't sign."
+
+"That's what I'll take," said the Director, and wrote something on the top sheet.
+
+---
+
+She turned to Jab.
+
+"You're the one with the long line," she said.
+
+Jab sat very straight in his chair with his hands on his knees. He had not said anything since he came in. His face had the look it had had in the corridor on the tenth day, of somebody who has been awake since the first hour doing arithmetic.
+
+"There's a line on my register," said the Director, "for what's on the back of your card. It's long, and there's very little written on it. There's one name on it." She did not look at the woman with the good boots. She did not need to. "She's back off the river. I'd like her to look at you. I'd like to know what you are."
+
+"I wrote what I am," said Jab. "On the card. On the back."
+
+"You wrote that you don't know."
+
+"I wrote that it doesn't touch his leg."
+
+"Nobody in this building," said the Director, "is going to ask it to."
+
+"Then write it down," said Jab.
+
+The Director looked at him for a long moment. Then she looked down the room at the man in the long coat, and he took a pencil out of his coat and wrote on something, and the Director waited until he had finished.
+
+"It's written," she said.
+
+"Not in visiting hours," said Jab. "Not on the day of his picture, which is the sixteenth day, the day after tomorrow's tomorrow." He stopped. "And I can stop. Whenever I say."
+
+"You can stop," said the woman with the good boots, from her chair against the wall. It was the first thing she had said. Her voice was level and dry and did not carry any further than it had to. "And if you don't stop when you should, I'll stop you myself. People tell me I'm not gentle about it."
+
+Jab turned his head and looked at her. She looked back. Callie watched the two of them look at each other, and thought it was the way two people look at each other across a river they both know they're going to have to cross.
+
+"And the other paper," said Jab. "The four seasons. With the knife, on the Sag. No."
+
+"That paper's withdrawn," said the Director. "I withdrew it yesterday." She put her spectacles on and made a mark. "I'd rather have you in a yard than on your knees in the Sag with a knife."
+
+She said it lightly, and wrote, and moved on. Callie watched her do it. She watched the Director's pencil go down on the paper and come up, and she thought of her grandfather at the horse fair at Thistle Ford, walking round a horse he meant to buy and saying nothing about it at all, not one word, while his eyes did the buying.
+
+---
+
+"Mr Voss," said the Director.
+
+Toren looked up.
+
+"You brought what was left of a party three hundred miles on a road that buried your father. You killed a Breach on my south approach, which nobody on my register has ever done. Two days later, with that arm already strapped, you ran at a pack of hounds on the north road with your struts and your spike both going at once, in front of half my gate crew." She took her spectacles off. "I'd like you to lead the youngsters in the yard."
+
+Toren did not answer at once.
+
+He looked at Callie, and then at Jab. He looked at each of them for about as long as it would take to count three, and Callie saw that he was not asking them anything. He was reading them, the way she read ground, to see what was there.
+
+"No," he said.
+
+The Director raised her eyebrows.
+
+"No?"
+
+"I've known them two weeks," said Toren. "She reads ground better than anybody I've ever met. She read a fight off the grass that I was in, and got it right. He stood in the only door on the north road with his brother behind him and nobody told him where it was." He stopped, and Callie saw him decide to go on. "I don't know what they can do. I know some of it. I'm not going to lead them. I'll learn next to them."
+
+The room was quiet.
+
+Callie found she was looking at her own hands. She had thought, coming up the stair, that they would give it to Toren. It was the obvious thing. He had led people on a road, and people had died on that road, and he had got the rest of them to a gate, and everybody at this station knew it. She had thought he would take it, because it was given to him, and because he did not know how not to. She had not known, until he said *no*, how much she had minded.
+
+She did not know what his face was doing, because she did not look.
+
+"Noted," said the Director.
+
+At the end of the room, the man in the long coat wrote something.
+
+---
+
+"Now," said the Director, "the whole of it. Mr Marsh."
+
+Rook leaned forward in the chair with arms.
+
+"No child holds a line," he said. "Not alone. Not at all, this year."
+
+"This year," said the Director.
+
+"An adult within reach of every one of them, any time they're on the Sag."
+
+"Within call."
+
+"Within reach," said Rook. "Close enough to put a hand on them. Not a shout away. I've been a shout away. A shout's four seconds."
+
+The Director looked at him.
+
+"Within reach on the Sag," she said. "Within call in the yard."
+
+"Everything written down."
+
+"Everything in this station is written down."
+
+"Written down by somebody who was there," said Rook. "Not by a man at a window. Every drill, and what went wrong, and who got hurt, and how long it took to come back."
+
+The Director considered. "Agreed."
+
+"And they can walk away. Any of them. Any day."
+
+"They can," said the Director. "I'll not stop them. I won't promise you the review won't notice. It notices everything."
+
+Rook looked at her for a long time. Callie had seen him look at people like that on the steps: not angry, not anything, just seeing what there was.
+
+"And my hours," he said.
+
+"Half your teaching hours count against your seasons."
+
+"All of them."
+
+"Half," said the Director. "I've got a Sag to hold, Mr Marsh, and you're half of it."
+
+---
+
+"Miss Wren," said the Director.
+
+The woman with the good boots uncrossed her ankles. Miss Wren, then.
+
+"Nobody spends anything in that yard until I've measured their floor," she said. "Nobody goes near the Sag until I've said they're fit, and if I say they're not fit, they're not fit, whatever anybody's sheet says. And I want the east shed."
+
+"You can have the shed."
+
+"It leaks," said the man in the long coat.
+
+"Then I'll have a shed that leaks," said Dee Wren.
+
+"They'll not learn it in a shed," said Rook.
+
+He said it to her, not to the Director. He had turned in his chair to say it. Dee Wren turned her head against the wall and looked back at him.
+
+"The Sag's the only teacher that counts," said Rook. "It's the only one that's ever taught me anything I've kept."
+
+"The Sag's a teacher that kills its pupils, Elias." She said it in exactly the voice she had used for everything else. "I'd like them to meet it knowing where their floors are."
+
+"Nobody knows where their floor is till they've gone through it."
+
+"Vell used to say a healer who finds her limit in the field has made two patients."
+
+"Vell said a great many things."
+
+"He was right about most of them," said Dee Wren.
+
+"He was right about that one," said Rook. "He was wrong about the rest of it. You don't learn a door in a shed. You learn it on a road, with somebody in front of you who needs it, or you don't learn it at all."
+
+"You learned it on a road," said Dee. "I watched you. I'd like them to learn it and live."
+
+Neither of them said anything more. They sat and looked at each other across the long room, a man of thirty with a hole in his back and a woman of twenty-five with a crooked wrist, and Callie thought that whatever this argument was, it was not new. It had been started a long time ago, on some road she had never seen, and it had not been finished there.
+
+The Director had watched the whole of it with her spectacles in her hand.
+
+"Then I'll have both of you," she said.
+
+---
+
+It was not a school. The Director said so twice.
+
+"I haven't the staff for a school and I haven't the patience. It's a yard. There's a corner of the north yard by the east shed that nobody's used since the wagon lane closed. You'll have that. You'll have the shed that leaks. You'll have whatever's in the scrap bins, and you'll have it from the day after tomorrow. And you'll have one of mine to start, because I'm not having a yard full of road children and none of my own. There's a girl on the weighbridge tally with an Edge that's never cut anything."
+
+Callie thought of a clean straight blade standing level out of a fist, not shaking.
+
+"And your sponsor," said the Director to Callie. "The small woman who doesn't raise her voice. I'd like her in the yard. She's the only person besides Mr Marsh my gate crew talks about."
+
+"Ask her," said Callie.
+
+"I did," said the Director. "Yesterday. She said she'd come if you did." She put her spectacles on and looked at the top sheet, and wrote something short on it. "The one with the atlas said he'd write it all down whether I asked him to or not. I told him I'd rather he did it with my paper. He said he preferred his own."
+
+---
+
+When they went out the Director said, "Miss," and Callie stopped in the door.
+
+The others went on down the stair. She could hear it ringing under their boots, Rook's slow and the others' slower to match him.
+
+"The slab at marker six," said the Director. "How long?"
+
+Callie thought about it. She thought about the bright dirt round the dropped corner, and the silt on the black water in the joints, and the crack that had not been there on the ninth day.
+
+"I don't know," she said. "I read what's happened. Not what will."
+
+The Director looked at her over her spectacles.
+
+"That's more honest than my engineers," she said. "Thank you."
+
+---
+
+"Did you sign?" said her mother.
+
+She was lying down now, on the bed by the stove, with the blanket over the window and the stick propped against the wall where she could reach it. She had slept for most of the afternoon. Katori had sat with her while Callie was on the second floor, and when Callie came in Katori had got up without a word and gone out to the step.
+
+"No," said Callie.
+
+"Tell me."
+
+So Callie told her. She told the whole of it, once, in order, from the jar on the windowsill to the Director's spectacles, the way Pell told a road and the way her mother had told the gate nurse. She told the holders, and where the four had gone. She told *about four seasons*. She told Jab's terms and Miss Wren saying *I'll stop you myself*. She told Toren saying no. She told her own *I'll come to the yard. I won't sign.*
+
+She did not tell about *the old plant*, because she did not know what it meant, and it was Toren's.
+
+Her mother listened with her eyes shut.
+
+"Is it spending yourself?" she said, when Callie had finished.
+
+Callie thought about it. She made herself think about it properly, the way her mother would have wanted, without deciding the answer first.
+
+"It's learning," she said. "I think. Miss Wren won't let anybody spend anything till she's measured it."
+
+"And after she's measured it?"
+
+"I don't know."
+
+Her mother opened her eyes.
+
+"Then here's my rule," she said. "Since everybody in this place has rules. You go to your yard. You learn what they've got to teach you. And every day, you come home with something left." She turned her head on the pillow. "Not everything. I'm not a fool; I know what a yard's for. But something. Every day. And you show me."
+
+"Show you how?"
+
+Her mother held out her left hand, palm up, on the blanket.
+
+Callie looked at it. Then she put her own hand in it.
+
+She did not know what her mother could feel through it. She did not know if there was anything to feel. There were two fingers of cold clear water in the bottom of the well, and had been for days, and she had not spent a drop of them; she did not know if that was the kind of thing that came through a hand. But her mother's fingers closed on hers and held them, and she lay there with her eyes on Callie's face, and after a while she nodded.
+
+"There," she said. "That's something left."
+
+"Something left," said Callie.
+
+---
+
+Katori was on the step with her cap pulled down, watching the row.
+
+Callie sat down beside her, a little apart. The lamp at the end of the row was lit, and it put its flat white circle down on the frozen concrete, and past it the dark went all the way to the berm.
+
+"She said you'd come if I did," said Callie. "The Director."
+
+"She asked me what it would take. I told her."
+
+"Why?"
+
+Katori was quiet for a while. Down the row, on the step of eleven, somebody was sitting in the dark: Rook, by the shape of the shoulders. He was not turning anything in his fingers tonight. His hands lay open on his knees and they were still.
+
+"You told me on the step that you hadn't decided if you were most people," said Katori. "I'd like to be there when you do."
+
+Callie looked at the lamp.
+
+"What's the old plant?" she said.
+
+Katori did not answer for a long time.
+
+"I don't know," she said at last. "But the boy in eleven does. I watched his face." She got up. "It's his, Callie. He'll say it when he's ready. You of all people know how that goes."
+
+She went in. Callie sat on the step until the lamp went out at the first hour, and then she sat in the dark a little longer, with her hands in her lap and two fingers of water in the well that she had not spent, and she did not count anything at all.
