@@ -1,0 +1,573 @@
+# Chapter 32 — Jab: Ten and Three
+
+Dee moved them twenty paces into the cut before she let anybody do anything.
+
+"Here," she said, where the walls stood up on both sides of the old line higher than a man, and the drifts were all behind the ridge. "Callie."
+
+Callie held out the counter with her other hand still pinching her nose.
+
+"Thirty," she said. "Ten breaths."
+
+"Then here," said Dee. "Nobody sits. Nobody touches their face. Nobody eats." She put the glass down on the stone of the bed and turned it over. "Rotation. From now."
+
+Jab stood with the frame on his back and his hands held out a little from his sides, the way the technician had held his in the pen. He could feel his right palm. It was not hot. It was warm, from inside, like a pan handle. It had been warm since the fourth draw in the drift and it had not gone all the way down.
+
+"I worked," he said. "I'm the watch now."
+
+Dee looked at him.
+
+"You worked," she said. "Fifteen minutes in the red and more before it. You're warm. I can see it from here." She did not argue with him. "You're the watch. I'm working. Pell first." She knelt beside Pell where he lay on his back on the stone at the edge of the bed. "Callie's the reserve, and she's got nothing, so she's a reserve with nothing, which is what we've got. Toren, stand where you are and don't touch anything."
+
+Toren stood where he was. He was grey from his hair to his boots.
+
+"Jar," said Dee.
+
+Jab took the open jar out of his coat, where he had pushed it stoppered when they moved Pell. It was the one she had taken out of his rack from the lip. The fence's. He pulled the stopper and put it in her hand.
+
+"How much is in it?"
+
+He weighed it on his palm, the way Callie did.
+
+"Five," he said. "Near enough. Three went on him in the drift."
+
+"Then five," said Dee, and put the mouth of it to her own left palm, and her right hand flat on Pell's chest. "Watch."
+
+---
+
+He watched.
+
+It was the first time he had watched anybody but Rook draw. He had been the one working in the pen, and in the ditch, and in the drift. He had never stood over it with his hands empty and seen it from outside. He saw Dee's face go quiet. He saw her palm lie flat on Pell's chest and not move. He saw her lift it after ten breaths and turn it and put it flat on the stone of the bed beside her, where the grey from their boots had already made the stone dirty, and hold it there for three.
+
+"Vent," he said. A breath after she had done it.
+
+"I know," said Dee. "Say it before. That's the watch."
+
+"Vent," he said, at the next one, before.
+
+"Better."
+
+He watched her face. He watched her palms when she lifted them. He watched the jar in her hand get lighter every draw. He could not feel it, the way he felt it when it was against his own palm. He had to watch it, the way Callie watched a thing. He did not know until then how much of watching was being frightened for somebody and not being allowed to do anything about it.
+
+Callie held the counter to Pell's chest, at arm's length.
+
+"Forty," she said. And after two more draws: "Twenty-two." And then: "Fourteen."
+
+"Off," said Dee to herself, and took her hand off. She held both her palms up to Jab. "Watch."
+
+He held his own palm over them, an inch off, not touching. He had never done it before. He shut his eyes. He felt for the warm that was not hers, in the creases, the way she had felt for it in his.
+
+It was there. A little.
+
+"There's some," he said. "In the right. Not the left."
+
+"Then take it."
+
+He put his palm flat on hers and drew. It came up into his hand, a fine warm grit, and he held it high and turned and put his palm on the stone. It went.
+
+"Clean," he said.
+
+Dee looked at him over their two hands.
+
+"Now you're a watch," she said.
+
+---
+
+They went round.
+
+Dee worked on Toren next, because Toren was the worst. He had been outside the lee, killing husks against it, with the grey going over him. Callie held the counter to Toren's chest and said *sixty*, and Dee drew, and Jab watched, and at the end of twenty minutes by Dee's glass Jab said *off* before she did.
+
+Then it was Jab's turn to work, and Dee's turn to watch. Callie was the reserve with nothing.
+
+He worked on Callie.
+
+She stood against the wall of the cut with the hook across her in both hands and her nose stopped bleeding. She held her left hand out to him palm up, the way she had held it out to Dee at the noon halt on the first day, before she knew she had done it. He put his palm flat on the inside of her wrist instead, because that was where it was, and drew.
+
+It was on her face and her hair and her shoulders, where the wind had brought it over the lip. It was not much. It was more than it would have been if she had been inside.
+
+"You weren't in it," he said, drawing. "Your own lee."
+
+"No."
+
+"You put us in it."
+
+"I put who I was looking at in it," said Callie. "I wasn't looking at me."
+
+He drew. He did not say anything else. He thought about the lee leaning out over him in the drift like a roof off a wall, pale, and the grey hissing on the outside of it. He thought about looking up and seeing her on the lip above it with the hook, in the wind.
+
+"Twelve," said Dee, with the counter. "Off."
+
+Then Rook.
+
+---
+
+Rook was sitting against the wall of the cut with his coat off and his shirt cut away at the back, and a cloth held to the place between his shoulders by his own hand, reached round. The cloth was red. His face was the colour of the stone.
+
+"Grey in it," said Dee. She knelt behind him and took his hand away and the cloth with it, and looked. Jab looked too, from where he stood. The place where the hound had hit was the place where the old wound had been. It had opened again along the old line of it, and the edges were dark, and there was grey in it. It was fine grey, in the red, where the hound's weight had driven the dust from Rook's own coat into the hole.
+
+"Water," said Dee.
+
+There was one skin. It was Dee's own, the one she carried on her belt with the book and the glass and the small bag she had carried everywhere since the pen. Everything else was on the cart, and the cart was leaning on a post over the wash.
+
+She used all of it. She poured it into the wound a little at a time and wiped it out with a clean cloth from her bag, and poured, and wiped. Rook sat against the wall with his teeth shut and his hands on his knees and did not make a sound.
+
+"Jab," said Dee. "The grey. What's busy in it. Draw that. I'll do the rest."
+
+Jab knelt behind Rook and put his palm flat over the wound, not touching it. An inch off.
+
+He felt it. The torn place, bright and fixed, like Pell's ankle, like the technician's hand. It was done. It had happened when the hound hit. And in it, in the red and round it, the busy warm grit, a lot of it, where it should not have been.
+
+"Draw my back," said Rook. His voice was very tired. "The pain. Take the edge off it."
+
+"That's torn," said Jab. "It's not busy. I can't draw a tear." He did not move his hand. "I'll draw the grey out of it. I'll leave the tear to Dee."
+
+Rook was quiet.
+
+"You sound like her," he said at last.
+
+"Good," said Dee.
+
+---
+
+It cost more than any of them.
+
+Jab drew on Rook for twenty minutes by Dee's glass, and more, and the jar in his left hand went down and down, and ran low. He said *jar* before it was dry. Dee reached past his shoulder to the rack on his back, and took out another one, and pulled the stopper.
+
+"That's two," she said.
+
+"That's two," said Jab.
+
+"Callie."
+
+Callie said it from the wall, flat.
+
+"Road, none. Inside, two opened on the road. The first one's done. The second one's open." She stopped. "And one broken. On the rail. That's three out of the frame. Five left in it, whole."
+
+Nobody said anything.
+
+Jab drew. It came up out of Rook's back slowly, through the torn place and round it, the busy grit. He held it high and vented it into the stone and went back. It was not like the drift, with the jar going and the husks coming and his back to the bank. It was slow and quiet in the cut with the walls up on both sides, and his palm getting warm again, and Dee saying *vent* before he needed it.
+
+When he had finished, Dee stitched the back.
+
+She did it with a curved needle from her bag and thread. She did it fast and small, the way Keel would have done it, while Rook sat with his hands on his knees and his eyes shut. Jab held the edges for her where she told him. When she had finished she put a pad on it and bound it round his chest with the last of the clean cloth.
+
+"That was open to the air on a hill with the rip in the sky over it," she said. "It'll be hot tonight. Tomorrow we'll know." She tied the cloth. "You're off, Elias. Not half a turn. Off. Till I say."
+
+Rook opened his eyes.
+
+"That's two healers," he said.
+
+"That's two healers," said Dee. "It was always going to be, some of the time. It's all of the time now." She sat back on her heels. "Write it, Toren."
+
+Toren wrote it.
+
+After that Jab drew Dee, off the second jar. She had lain on the lip in the wind for fifteen minutes with her arm down the bank, and it was on her sleeve and her face and in her hair. Then Dee took the leftovers out of his palms, flat, palm to palm, and he felt her find the warm that had not gone down in the drift and take it. His palms went cool for the first time since the fourth draw.
+
+"That's the watch taking it off the one who worked," said Dee. "Before you rest. You'll rest now."
+
+---
+
+The wind dropped at midday.
+
+It went the way it had come, all at once. One breath the grey was going off the drifts in the wash in a long low smoke, and the next it was lying there, crusted and still. Callie went to the mouth of the cut with the counter and held it out toward the embankment and waited ten breaths.
+
+"Seventy," she said. "At the mouth. It was ninety." She waited. "Sixty."
+
+"And the arch?" said Dee.
+
+"I can't tell from here. Less than the red. Without the wind, it's the drifts on their own, lying there." She looked along the embankment at the cart leaning on its post. "Sixty, seventy. At the arch. Maybe."
+
+Pell lifted his head off the stone.
+
+"The horse," he said.
+
+Duchess was still at the far end. She had not moved all morning. She stood on the bed of the old line at the foot of the slope, two hundred and fifty paces off, with her head up and her ears forward. She was looking at them, at the cut, where the people were.
+
+"She'll not come past the drifts," said Pell. "Not on her own. Not with hounds on her nose." He looked at the cart. "And I can't whistle her with my face like this. I've grey in my mouth still."
+
+"I'll fetch her," said Callie.
+
+"Not on your own," said Dee.
+
+So it was Callie and Toren, named, out loud, by Dee, at the mouth of the cut, and the time written. Callie to fetch the horse and read the crown. Toren to bring the cart off the arch. Jab stood at the mouth of the cut with Dee and watched them go out along the top of the embankment with the wind down and the drifts lying still.
+
+He watched them the way he had watched Dee draw. From outside. With his hands empty.
+
+---
+
+It was while he was watching them that he saw the ash move.
+
+He did not see it at first. He was watching Callie walk east along the bed with the hook over her shoulder and the counter held out. He was watching Toren go to the arch and stop on the south half of the crown and look at the ground. His eyes went down, the way eyes do, to the drift at the foot of the north bank under the arch. That was where he had been. Where Pell had lain.
+
+There was a pale streak in it.
+
+It was paler than the grey of the drift. It was where the jar had broken on the rail and the clean had gone down his back and out at his belt into the drift. It lay on top of the grey like flour spilled on a floor. It was a long pale smear a yard long, where he had lain over Pell.
+
+It was moving.
+
+He did not believe it. He looked away and looked back. It was moving. Not all of it. The edge of it, the west edge, the end nearest the hill. It was going out of the smear in threads. They were very thin, finer than hair, grey-white on the grey. They went out across the top of the drift toward the west, toward the hill, the way the first threads of smoke go out of a fire before the fire is lit.
+
+They went, and stopped.
+
+He watched. They lay still on the drift, the thin pale threads, going nowhere. And then they went again. They slid, all of them at once, a hand's width further west across the crust, and stopped again.
+
+There was no wind.
+
+The wind had dropped at midday. There was nothing moving anywhere in the wash. Not the reeds on the south side, not the dust on the drifts, nothing. And the threads were going west. They were going up. The wash came down from the hill. It ran from the hill down to the embankment and under it and on to the river. The threads were going the other way, up the wash, toward the hill, against the way the ground ran.
+
+He counted.
+
+He did not mean to. He counted the way he had counted Tonk's breathing for eighteen days on the road, and the ticks in the pen, and his own breaths holding a tenth of a Handful high in a quiet shed with a bucket going *tick*. The threads went, and he counted, and they stopped. He counted, and they went again.
+
+Ten. And three.
+
+Ten breaths going. Three breaths still.
+
+Ten, and three.
+
+---
+
+"Dee," he said.
+
+She was beside him at the mouth of the cut with the glass in her hand, watching Callie and Toren.
+
+"Look at the drift," he said. "Under the arch. Where I was. Where the jar went."
+
+She looked.
+
+She looked for a long time. Jab watched her face. It did not move. It did not move the way it had not moved in the pen when the box came off the stool.
+
+"It's going uphill," said Dee.
+
+"It's going in," said Jab. "Toward the hill. Ten breaths, and it stops for three. Ten and three. I've counted it four times."
+
+"Callie," said Dee. She did not raise her voice much. It carried. "Callie. The counter. Point it at the drift under the arch and don't move."
+
+Callie had stopped on the bed halfway along the embankment. She turned round and looked at them, and then down at the drift. She held the counter out at the end of her arm toward the foot of the bank below her.
+
+She did not say a number for a long time.
+
+"It's not staying still," she said at last. "The needle." Her voice came along the top of the embankment flat and clear. "It goes up and it goes down. Eighty. Then ninety. Then eighty. It's not like the pen. It's not the wind. There isn't any wind." She was quiet. "It goes up, and it stays up, and then it goes down for a bit, and then up."
+
+"How long up?" said Jab.
+
+"I don't know. I've not—" She stopped. He could see her counting. "Ten. It's up for about ten. Then down for three. Then up."
+
+"Ten and three," said Jab.
+
+Toren, on the crown, had turned round. He was looking down at the drift below the arch, at the pale streak, and at the threads going out of it west. Then he looked past it, at the grey where the husks had come apart. There were the two smears on the lip where Rook had killed the first two, and the two on the drift under the arch, Jab's and Callie's, and the two further west where Toren had killed them against the lee. And past those, the two long smears on the stone of the bed on the south side where Rook had killed the hounds.
+
+"All of it," said Toren. "Look. It's all going."
+
+It was. Jab saw it when Toren said it. He had been looking only at the pale streak, at his own jar's worth. But the grey where the husks had come apart was going too. Thin grey threads came out of each smear on the drift and went west across the crust. So did the grey on the stone of the bed where the hounds had died, in threads, over the stone, and over the lip, and down, and west. All of it at once. Ten breaths, and all of it went a hand's width toward the hill. Three breaths, and all of it lay still.
+
+Ten, and three.
+
+"I've never seen ash go uphill," said Rook.
+
+He had got up. He was standing against the wall of the cut behind them with his coat over his shoulders and his hand flat on the stone, grey in the face, looking out at the wash.
+
+"I've seen it blow," he said. "I've seen it wash. I've lifted it for eleven years off every kind of ground there is. I've never seen it go uphill."
+
+"Nobody touch it," said Dee. "Nobody go after it. Nobody."
+
+---
+
+Jab put his palm flat on the stone of the bed at the mouth of the cut.
+
+He did not touch the ash. There was no ash where he put it. It was only the stone of the old line, packed and grey and a little dirty from their boots. He put his palm flat on it the way he put it on a drift on the east track at first light, and he did not ask anything. He let himself feel what was there.
+
+It was not a lean.
+
+A lean was a person. A lean was somebody, off there, bad, pulling a little, the way a rope pulls when the man at the other end of it leans. He had felt it for the girl's father at a mile. He had felt it for the day holder in the fog at forty yards. He had felt it for Tonk every day of his life.
+
+This was not a person. There was nobody in it. It was like ash. It was like the cold that came into his palm out of a jar, with nobody in it.
+
+But it was pulling.
+
+It was not pulling at him. It was pulling past him. It was pulling at the ash on the ground, all the loose ash in the wash, everything that was lying where it fell. It came from the west, from up, from the hill. It was very far off and very steady. It pulled for ten breaths. It held for three. It pulled again.
+
+It did not haul.
+
+That was what he felt, with his palm on the stone, and it went through him cold. It did not haul. A husk hauled. A hound hauled, going at the dark. This did not. It pulled the way you pull a drift, flat, open, patient, at the rate it comes. And then it stopped for three breaths, the way you stop to vent. And then it pulled again.
+
+It was doing what he did.
+
+It was the long table. It was Dee's glass and the east track and the ditch and the drift. Draw, ten breaths. Hold. Three. Draw.
+
+He took his hand off the stone.
+
+He looked west.
+
+---
+
+The hill stood over them.
+
+It was very near now. From the mouth of the cut it filled the west, dark and flat-topped, with the fence running away along the far bank of the river below it. Over the flat top of it, the place in the sky.
+
+In daylight it was harder to see than at dusk. It was a patch, darker than the grey sky round it, bruised, with the clouds going into it and coming out of the other side not quite where they should. Round its edge there was the light the colour of the bottom of a pond.
+
+He watched the edge.
+
+It was not still. He had thought, on the forty-fourth at dusk from the rise, that it was not still, the way a sleeping animal is not still. He had not been able to see it breathe. He could see it now. The light round the edge of the patch thickened, very slightly, the green-grey going a shade deeper, for a while. Then it thinned, for a moment. Then it thickened.
+
+He counted.
+
+Ten, and three.
+
+---
+
+"It's the same," he said.
+
+They were all looking at him. Dee beside him, and Rook against the wall. Pell on the stone with his head up. Out on the embankment Callie with the counter held out over the drift and Toren on the crown. None of them had spoken.
+
+"It's the same count," said Jab. "The ash on the ground, and the needle, and the edge of that." He did not point at the sky. He could not make his hand do it. "It's all ten and three. It's all the same thing."
+
+"What's the same thing?" said Dee.
+
+Jab did not know how to say it. He said it the only way he had.
+
+"Something's lifting it," he said. "Up there. Under that. At the middle of it. Something's got its hand flat on the whole hill, like a drift, and it's lifting the loose ash off the ground toward itself. All of it. Everything lying where it fell." He heard his voice go and let it. "It's not hauling. It's not a husk. It's lifting like we lift. Ten breaths, and it stops for three, like you taught me to vent. And then it lifts again."
+
+Nobody said anything.
+
+"I don't know what it is," said Jab. "I don't know what it's for. I can't feel it. There's nobody in it, the way there's nobody in ash." He looked at the pale threads going out of his own jar's streak in the drift, west, a hand's width at a time. "But I know what it's doing. It's doing what I do."
+
+"It's doing what you do," said Dee slowly, "to ash."
+
+"To ash," said Jab. "Only ash." He did not know that. He knew it the way you know the edge of a step in the dark. "The loose ash. Ours too. That's ours, going." He looked at the streak. "That was the stair."
+
+---
+
+Callie came back along the embankment.
+
+She did not bring Duchess. She had turned round halfway, at Dee's voice, and she came back to the cut with the counter still in her hand and her face very still, reading them.
+
+"The Director said lift at the edge," she said.
+
+She said it to nobody. She said it the way she said a number.
+
+"*Lift at the edge of it if the ledger says you have to lift.*" She looked at the pale threads on the drift. "She said it on the thirty-eighth. It's on Toren's paper. And we'd have had to, because of the stair. Because one room's all eight Flasks buys, and anything more comes off the ground up there." She turned the counter in her hand. "But there's no edge. Is there. There's nothing lying at the edge to lift. It's all going in."
+
+"It's all going in," said Jab.
+
+"Then the ash we'd need is in there," said Callie. "With whatever's lifting it. Under that." She did not look at the sky either. "And the boxes are under that."
+
+Toren had come off the crown. He was standing at the mouth of the cut behind her, grey from head to foot. He had heard all of it.
+
+"It's the same place," he said. "It was always the same place. You said. On the thirty-seventh. *It's only two things on paper.*"
+
+"I didn't know it was this," said Callie.
+
+"Nobody knew it was this," said Dee.
+
+---
+
+They brought the cart off the arch in the middle of the afternoon.
+
+Callie fetched Duchess. She walked the whole length of the embankment to the foot of the slope with the counter held out, reading it out loud, *sixty*, *seventy*, *sixty*, and the wind down, and nothing coming up out of the drifts. She came back leading the mare by the halter, walking on the south edge of the bed with her own body between the horse and the wash. She talked to her the whole way the way Pell did, low, about nothing. Duchess came. She put her ears back at the drifts and she came anyway.
+
+They could not hitch her. The traces were cut. Pell told them how, from where he lay on the stone at the mouth of the cut with his splint on. The splint was two pieces of the cart's tailboard rail that Toren had pried off with his good hand when he first went out to the arch, bound with Dee's last cloth. Rope from the cart, through the rings, round the hames, knotted this way and not that way. Toren did it one-handed and Callie did it with her teeth and the knots were bad and Pell said they would do.
+
+Then Toren set under the north wheel where it sat in the broken crown. He put the strut's foot on the ring stone, on the arch, the way Callie had shown him, and let it come up under the axle.
+
+"Set," he said.
+
+"Rolling," said Callie, at Duchess's head, because Pell could not.
+
+Duchess leaned into the rope, and the cart came up out of the hole onto the strut. The wheel rolled up the slant and out onto the good stone of the bed west of the crown. Toren let it go at the end. Not after. The cart came off the iron post and rolled west along the bed toward the cut, with Duchess walking and Callie at her head. The three home jars were in their rack behind the driver's bench, and the lead box behind them on its straw, and the vent jars in the straw at the tail. Nothing on it had moved.
+
+Toren stood on the south half of the crown with nothing in his hands.
+
+"Step," he said, and walked off it.
+
+He was three paces off it, on the good stone west of the arch, when the crown went.
+
+---
+
+It went the way it had been going since the morning. There was the grinding sound under the stone first, like a mill wheel turning over. Then the whole of the north half of the bed over the arch slid. It went out and down, off the north edge of the embankment, into the wash. It took the crack with it, and the hole where the wheel had been, and the edge of the south half. And the iron post went, the post on the parapet in its lead collar in the ring stone, because the ring stone went too. The arch went. It went down into the wash under the drifts with a sound like a cart tipped over, and the grey went up off the drifts where it landed in a long slow cloud and lay down again.
+
+Where the crown had been, there was a gap in the embankment. It was four paces wide, and the dark trickle of the wash ran through the bottom of it, and the drifts heaped on both sides.
+
+Toren stood on the west side of the gap and looked across it at the east side, at the bed of the old line going away east along the top of the embankment toward the foot of the slope.
+
+It was the way they had come. It was the only way home they knew.
+
+"That's the road," said Pell, from the mouth of the cut. He had lifted his head to see. "That was the road."
+
+Jab drew the mare at the mouth of the cut before they went on. She had been out on the embankment three times since the morning, once at a gallop in the wind. Pell said *do her*, from the stone, the way he would have said it about a wheel. So Jab put his right hand flat on her shoulder and Dee put the second jar to his left, and Duchess stood with her ears going round and let him. It was the same as a person. The busy thing that was not her was on her legs and her chest and her nose, where she had put her head down to the drifts. He drew it and vented into the stone and drew again.
+
+"Vell did dogs," said Dee, watching. "Nobody ever gave him a horse."
+
+"Half," said Callie, weighing the jar after. "A half, for the horse."
+
+---
+
+They reached the pump house at dusk.
+
+It was a mile. The old line came out of the cut on the far side of the ridge and ran down a long bare slope to the river, and the river was low and dark and fast in a stony bed. On its near bank, the east bank, where the old line came to it, there was the pump house. It was square and stone, with no roof and the stumps of pipes coming out of its river wall and going into the water. There was a flat place in front of it, gravel, where a crew had camped every night for eleven nights twenty years ago and a man had written a count on his wrist with a burnt stick.
+
+Across the river, on the far bank, the fence.
+
+It ran along the far bank as far as Jab could see both ways, a line of posts with wire on them, taller than a man, the wire rusted to the colour of the iron posts on the old line. A footbridge went across the river to it from beside the pump house. It was three planks wide with a rail on one side, grey and old but standing. At the far end of it the fence had a gate in it, a frame of iron with wire across it and a chain on the latch.
+
+The east gate.
+
+And beyond the gate, beyond the fence, the ground went up and up in the dusk to the flat top of the hill. Over the flat top of the hill was the place in the sky, with the light round its edge the colour of the bottom of a pond. It thickened, and thinned, and thickened.
+
+Pell lay on the cart on his back on the canvas with his splinted foot on a coil of rope. He looked at the pump house.
+
+"She said it had a roof," he said.
+
+"She was fifty-three," said Rook.
+
+---
+
+They said the rules at the river, because Senna had said to, every time, at the gate going out. They had not been through the gate. They had been through the wash, which was worse. Dee said that counted.
+
+Coat off. Shake it. Wash at the river below the pump house, the hands and the face and the hair, before you eat.
+
+Jab stood on the gravel by the river in the last light and took his coat off.
+
+He did it carefully. He undid the buttons one at a time from the top, down to the one on the left side, over the place under his breastbone. He put his hand in there and took out what was in there before he did anything else.
+
+Little lay in his palm. The small black wooden fish, as long as his thumb, smoked black by a lifetime of hanging near a fire, with one fin broken off before Tonk was born.
+
+Callie had the counter. She did not wait to be asked. She held it out at the end of her arm toward his palm, toward the fish, and watched the needle for ten breaths.
+
+"The room," she said.
+
+Jab looked at her.
+
+"Seven," said Callie. "The room. It was buttoned under. It's on the front. The jar went down your back." She switched the counter off. "It's clean."
+
+He closed his hand on it.
+
+Then he shook the coat out, hard, downwind of everybody. The pale stain down the back of it went off it into the dusk in a thin cloud and went away along the river. He knelt at the edge of the water below the pump house and put his hands in it, with the fish in one of them. It was so cold it was like being hit. He washed his hands and his face and his hair with the river, the way a man had made a crew of eleven do it every night twenty years ago. He kept Little in his fist the whole time and did not let go.
+
+---
+
+Toren counted them in.
+
+He did it at the pump house wall with the paper against the stone, the way Senna had told him to on the morning of the forty-first. *Count them in at the pump house. Every night. Out and in. Write it somewhere better than your wrist.*
+
+"Pell," he said. "Dee. Rook. Jab. Callie." He looked at the mare, tied to the cart wheel with a rope halter, with her ears forward at last, eating. "Six," he said. "And a horse."
+
+He wrote it. Jab watched him write it. *46th. The pump house. In: 6. And Duchess.*
+
+Under it he wrote the rest. He wrote it slowly, and Jab read it over his shoulder in the last of the light, and nobody stopped him reading.
+
+*The wash. The crown went under the cart. T. set on the arch, then walked it onto the post. Pell cut the traces (the right place) and went down the bank: right ankle broken. Red (true, C. tapped once): J., T., C. named, 15 min. J. drew Pell off the road jar and then the frame (J.'s call). A jar broke on the rail. R. hit in the back by the second hound: open again, grey in it, stitched. R. off. C. held the lee off the lip, leaning, J. and P. inside, and took T. out so he could kill two against it. It worked. The crown's gone into the wash since. The road east is cut.*
+
+And under that, in the same hand, after a gap:
+
+*The ash goes uphill. Ten and three. J. says something at the middle of it is lifting it. The same count as the sky.*
+
+---
+
+Callie said the ash at the fire.
+
+They made the fire against the pump house wall on the flat gravel where the crew had made theirs. Pell lay on the cart with his foot up. Rook sat against the stone with his bound chest and his face grey and Dee beside him with two fingers on his wrist. Toren had the paper. Duchess ate. Jab sat by the fire with his hands open on his knees and his palms still a little warm, and Little in his coat on the left side, buttoned.
+
+"Road," said Callie. "None. It all went on Pell in the drift."
+
+She did not look at anybody. She said it the way her mother read the store book, flat, for somebody else.
+
+"Inside. Sixty-four at the gate. One opened on the road for Pell, all spent, on Pell and Toren and me. One broken on the rail, lost. One opened in the cut for Rook, and Miss Wren, and Jab, and the horse, and what's left of it goes on tonight's settling, a Handful each for me and Toren and Miss Wren." She stopped. "That's three out of the frame. Five left. Whole. Forty."
+
+"And the line," said Dee.
+
+"The line's sixteen," said Callie. "It doesn't move. That's twenty-four to work with." She looked at the fire. "We priced forty-eight."
+
+Nobody said anything.
+
+"Half," said Toren.
+
+"Half," said Callie. "The rooms were thirty, on their own. For two hours, five people." She was quiet. "Twenty-four doesn't get five people down the stair and into one room and back up it. Not with two healers. Not deep." She looked across the fire at Rook. "Not with him off."
+
+"Home," said Dee.
+
+"Home, three," said Callie. "Twenty-four. On the cart. Not touched." She looked at Pell. "For a road that was six days."
+
+"It's not six days," said Pell.
+
+He said it from the cart, on his back, without lifting his head.
+
+"The line's cut at the wash," he said. "It'll take people across the bottom on foot, through the drifts, if they're quick and they wash after. It won't take the cart. Nothing takes the cart across that now." He looked at the sky. "North, up the side of the wash, round the head of the drifts, toward the hill, where it's worse. Or south, through the marsh to the river, and down the river on this bank till there's a way back up to the old line. There's no bed for the cart either way. I don't know how far. Two days more, maybe, whichever way. With me on the cart and not walking."
+
+"That's the fifty-fifth at the earliest," said Toren. "Home. Not the fifty-third." He did not look up from the paper. "The cycle's the fifty-fourth."
+
+"The man said guessing isn't stopping," said Rook.
+
+"He said Sowerby could dose her off her blood," said Toren. "For a few cycles. Badly."
+
+Nobody said anything for a long time.
+
+---
+
+"The Director said don't go into it," said Dee at last.
+
+She said it to the fire.
+
+"She said it on the thirty-eighth, and I signed under it, and her word's mine on this road." She had her book on her knee and she did not open it. "*You are not going into it. You are not going looking for whatever's under it. If it comes to you, you do what you have to and you come home.*"
+
+"It's not coming to us," said Rook. "It's taking the ash to it."
+
+"I know what it's doing."
+
+"The boxes are under it," said Toren. "Gran said. Down the yellow stair, in the main building, under the wrong sky. On the left. Eleven rooms." He put his hand on the paper. "And the ash we'd need to get past the first room is going under it. Ten and three. Everything lying where it fell." He looked up. "There isn't a way to the boxes that isn't under it. There isn't a way to get more ash that isn't under it. Callie said it on the thirty-seventh. We just didn't know it'd be moving."
+
+"Then what's the plan?" said Pell, from the cart.
+
+Nobody answered.
+
+Jab looked at the fire.
+
+He looked at them round it. Pell on the cart with his foot on a coil of rope. Rook against the stone with his chest bound, off. Dee with her fingers on Rook's wrist and her book shut. Toren with the paper. Callie with the counter in its bag and her hands open on her knees, her nose stopped. And himself, with his warm palms and a fish.
+
+They were not what they had been at the gate.
+
+He knew that the way he knew his own floor. They were not what they had been at the Sag, or at the long table, or in the pen. Callie had held a lee off a lip over two people in the red and taken one of them out of it on purpose so it would hold. Toren had set a cart on an arch stone and walked it onto a post. He himself had watched a jar go, and said *jar* before it was dry. He had said *open it* and known what it cost. He had said *vent* before anybody told him to, and *no* to a tear. None of them could have done any of it on the forty-first morning.
+
+And that was how they knew what the thing over the hill was doing.
+
+A month ago he would have looked at the ash going uphill and thought it was the wind, or something in the ground, or nothing. He would not have counted it. He would not have known what ten and three was. He knew now. He knew it because it was the thing Dee had spent a fortnight of mornings teaching him at a long table in a shed that leaked. The thing that was going to keep all of them alive inside that fence. It was the thing he was for.
+
+Something up there was doing it too.
+
+"Tomorrow," said Toren.
+
+They looked at him.
+
+"Tomorrow we decide," said Toren. He folded the paper. "With the light, and the counter, and Pell, and the sky where we can see it. Not tonight." He looked round at them. "Tonight we settle. Callie and me and Dee, a Handful each, out of the open jar. And Jab sleeps. And Rook sleeps. And somebody watches the sky." He looked at the hill. "And counts it."
+
+"I'll count it," said Jab.
+
+"You'll sleep," said Dee.
+
+"I'll count it for two armfuls," said Jab. "Then I'll sleep."
+
+Dee looked at him for a long moment across the fire. Then she nodded, once, and turned back to Rook's wrist.
+
+---
+
+He counted it for two armfuls.
+
+He sat with his back against the pump house wall with the fire going down, and the others asleep, or lying down, which was not the same. He could feel which was which without trying. Pell was asleep on the cart. Rook was not, and then was. Dee was not. Callie was settling with her palm flat on a paper on her knee, and then she lay down, and her breathing went slow. Toren was the last. He lay by the fire with his arm in its cuff against his chest and counted them, the way he always did, and Jab felt him do it, Pell and Dee and Rook longest and Jab and Callie, and then he slept.
+
+Across the river, the fence. Beyond it the hill, a black shape against a sky that had gone to stars everywhere except the one place.
+
+Over the flat top of the hill, the place where there were no stars. Round its edge the light the colour of the bottom of a pond. It thickened, and thinned, and thickened.
+
+Ten, and three.
+
+Down in the wash behind the ridge, a mile off in the dark, he knew without seeing it that the ash was going. The grey of the husks and the hounds, and the pale of his own jar that had been for the stair. It was going up the wash in threads toward the hill, a hand's width at a time, with no wind. It was not hauled. It was lifted. It was going the way it came, at the rate it came.
+
+He took Little out of his coat and held it in his hand in the dark.
+
+*Don't eat inside. Bring Little back. And don't be asleep.*
+
+He was not asleep. He sat against the wall of the pump house with the fish in his fist and his warm palms, and counted the sky over the hill. He was more frightened than he had been on the slab in the fog, or in the pen with the box on the technician's hand. He was more frightened than on the step of the long building with his brother's face to the wall.
+
+He was frightened because he understood it.
+
+At the end of the second armful he put the fish back in his coat on the left side and buttoned it, and lay down by the fire with the others. He did not sleep for a long time. He lay with his eyes open and his hand over the small hard shape under his coat. Over the hill, the thing that was not a person, and was lifting, breathed.

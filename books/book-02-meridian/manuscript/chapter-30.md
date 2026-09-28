@@ -1,0 +1,359 @@
+# Chapter 30 — Jab: The Fence's Ash
+
+Jab heard the horse before he understood what had happened to the cart.
+
+He was at the tailboard on the north side with his hand flat on the edge of it, and the lee was over him. He could feel it over him. He could not see it well. It was pale and it leaned, and the grey smoke from the drifts hissed along it and went round the end of it in front of Duchess. Dee was beside him with the road jar in the crook of her arm and the glass in her other hand. He had been watching the husks come up the bank at the lane and Rook going across to meet them, and the grey going up off the lip where Rook's blade went through them. He had been thinking *don't, not in the wind*, the same as Dee, a breath after she said it.
+
+Then the ground under the cart made the sound the Sag had made.
+
+The tailboard went out from under his hand. It did not go far. It tipped up and away from him, north, as the north side of the cart went down. He heard the jars on his own back ring against each other in their canvas and felt the frame shift on his hips. He put his feet wide on the stone and did not fall.
+
+The cart stopped.
+
+It stopped with a jolt, leaning out over the north side of the bank at a slant he had never seen a cart stand at. The north wheel was down in the bed to its hub, in a hole where the stone over the arch had been. The south wheel was up off the ground. And under the middle of it, coming up from the south half of the crown at a long slant to the axle, there was a line of pale light, thin and hard. Toren was at the bottom end of it on one knee on the stone, with his left arm against his chest and his face white.
+
+"Holding," said Toren.
+
+And Duchess screamed.
+
+---
+
+She was in the shafts. That was what Jab understood, a breath too late. The cart had gone over north and the shafts had gone with it, and the shafts were fixed to her. She was being pulled sideways across the bed by the whole leaning weight of the cart, toward the hole and the lip of the bank and the drop into the wash. Her hooves were going on the stone. She was screaming the way he had heard a horse scream once, on the road north of the valley, when it went through the ice of a ford.
+
+And on the south side, in the reeds, something had answered her.
+
+Jab saw it come out of the marsh. It came out of the grey-brown dead reeds at the foot of the south bank, low and fast, and it was a hound. Another came behind it. They came up the south bank in two long bounds toward the cart. Toward the dark under the cart where Toren was kneeling with his strut. Toward the south side, where there was no light and nobody, because Rook was on the north edge with his blade in a husk.
+
+"*Rook*," said Dee.
+
+Rook turned.
+
+He was on the north edge at the lip with his blade lit and the grey of the second husk still going up round him in the wind. He looked across the bed at the south side and saw the hounds, and he came back. He came across the bed behind Duchess and past the front of the leaning cart, at a run, which he had not done since the Sag. His blade was lit on his fist. He put himself between the hounds and the dark under the cart.
+
+The first hound stopped as if it had hit a rope. It stopped at his light. The second went round.
+
+And Pell cut the traces.
+
+---
+
+Jab saw him do it. He saw it very clearly. He saw it in order.
+
+Pell had not let go of Duchess's head. He had been pulled across the bed with her, holding the halter, with his boots sliding on the stone, and he was on the north side of her now, at the front of the leaning cart, near the crack. He had his knife out. He had had it out, Jab thought, since the stone made its sound. He put his hand on the harness a hand's width behind the hames, where he had shown Toren on the rise, and cut. One side. He reached under her neck for the other side, and cut.
+
+Duchess came out of the shafts.
+
+She came out of them all at once, the way a horse comes out of anything that has been holding her, and she went. She went east. Back the way they had come, along the bed of the embankment, past the tail of the cart and past Jab. Her hooves came down on the stone a yard from his boots. Her eyes were white and her ears were flat, and she was gone along the embankment toward the foot of the slope before he had turned his head.
+
+And Pell was standing where she had been.
+
+He was standing on the north half of the crown, by the crack, where the horse had pulled him. He had the knife in his hand. The north half of the bed over the arch had dropped a hand's width already, under the wheel. It was sitting on nothing much, the way Pell himself had said on the evening before.
+
+It went under him.
+
+It did not go far. It went the way a step goes when you put your weight on the edge of it and the edge is rotten. The stone of the bed tilted under Pell's boots toward the lip of the bank. He went with it. He went sideways off the north edge of the embankment, with his arms out and the knife going away from him, and down.
+
+Down the north bank. Into the drift.
+
+"*Pell*," said Toren, from under the cart. He did not move. He could not move.
+
+Jab was already going.
+
+---
+
+He did not decide. He went the way he had gone off the made road into the fog after the day holder, because there was somebody down there, and he could feel them.
+
+He went over the north edge of the bed past the tail of the cart, out of the lee. He felt the lee go off him. The grey smoke off the drifts hit him in the face like a hand, fine and dry. He went down the bank on his heels with the frame on his back and the eight jars in it. The bank was steep, and it was not stone. It was earth and grey, loose, and it went out from under his heels. He slid, and did not fall. He came down the last of it on his heels and one hand, into the drift at the foot, up to his knees.
+
+It was soft. It was like walking into flour. It came up round his knees, grey and fine, and a little of it went up into the air where his boots went in.
+
+Pell was lying in it on his side, three paces off, at the foot of the bank under the arch. He was lying half in the drift and half on the stones of the arch's wing wall where it came out of the bank. His right leg was under him wrong. His face was grey. It was not the grey of sickness. It was the grey of the drift, on his cheek and in his hair and round his mouth, where he had gone into it face first. He was coughing.
+
+"Don't," said Jab. "Don't wipe your face."
+
+Pell had his hand up to his mouth. He stopped with it there.
+
+"My mouth's full of it," he said.
+
+"Spit," said Jab. "Don't wipe. Spit." He got to him through the drift. "What's your leg?"
+
+"The ankle." Pell spat. He spat again, grey. "On the stones. I heard it." He did not sound frightened. He sounded like a man reading a distance. "I heard it go."
+
+Jab knelt beside him in the drift.
+
+He did not have to put his hand anywhere to know. He could feel the ankle from where he knelt, the way he could feel a fire he was not looking at. It was a bad wrongness, fixed and bright, like the technician's hand. Something broken that was broken now and would be broken until somebody set it. He could not do anything about it. It was not busy.
+
+And under it, all through, he could feel the other thing.
+
+It was not much yet. It was new. It was in Pell's mouth and throat and the top of his chest, where he had breathed the drift going into it. It was on his face and his hair and his hands. It was going into him the way water goes into a boot, a little and a little. It was busy.
+
+"Callie," said Jab, not loud. "Ticks. Here."
+
+---
+
+Callie was at the lip of the bank above them.
+
+He could see her if he looked up. She was on the north edge of the bed with the hook, a pace from where Pell had gone over, and she had seen him go, and she had turned the hook round. She was trying to bring the lee down the bank.
+
+He saw her try. She put the back of the curve on the lip of the bank where the earth went down, and rocked it forward, over the edge, onto the slope. She tried to walk it down the bank toward them the way she walked it along the stone. And the curve came down on the loose earth and the grey and skidded. It did not rock. It slid, sideways, a hand's width, a foot. There was no part of it that was still on the ground. There was only a part of it that was sliding.
+
+The lee went out.
+
+She tried it again. It went out again. He saw her face.
+
+"It won't," she said. "It's loose. It's all loose. There's no still."
+
+"Callie," said Dee. "The counter. Leave the lane."
+
+Callie held the counter out at the end of her arm, over the lip, down toward them.
+
+"From here," she said. "A hundred and ten. At the lip." Her voice was flat. "Down there I don't know. More. You're in it."
+
+"Nobody else comes down," said Dee.
+
+She was on her belly on the lip of the bank. Jab had not seen her get there. She was lying on the stone of the bed at the north edge with the road jar in her hands and the glass on the stone beside her. She looked down at him with her face white and absolutely calm.
+
+"Jab," she said. "Stand up. Put your back to the bank."
+
+He stood up in the drift with his back to the bank. The drift was heaped so high against the bank there, half its height, that standing in it his shoulders came nearly to the lip. The frame on his back came against the earth of the slope, and the top row of jars in the rack was a foot below the lip, below Dee's face.
+
+"Put your right hand on his chest. Lean. Put your left hand up."
+
+He leaned over Pell, with his back against the bank and his right hand flat on Pell's chest, and put his left hand up over his shoulder. Dee reached down from the lip at the full length of her arm and put the mouth of the road jar against his palm.
+
+"Clean in," she said. "That's three. That's all the road's got. Say when it's going."
+
+---
+
+He drew.
+
+It was not the man in the ditch. It was not the pen. It was a man lying in a heap of the thing that was hurting him, breathing it, with a broken ankle and his face grey with it, and nobody over them. No lee, no lamp, nothing. It was the fog on the slab again, only he was not alone, and it was not his reserve on the other end. It was the jar.
+
+"Busy," he said.
+
+The clean cold came in at his left hand from the jar and went through him and out of his right, and paid. The busy thing in Pell's throat and chest came loose, the part nearest his hand, and came up into his palm like hot sand. He held it high. He did not let it into his wrist.
+
+Ten breaths.
+
+He could not vent into a jar. The vent jars were in the straw at the tail of a cart that was hanging off the edge of the bank on a line of light. He did what Dee had said on the first day of the old line. He turned his right hand over and put it flat on the drift beside them, downwind of Pell, where the ground was already the worst ground there was. He let it go out of him. Into the grey. Into nobody.
+
+Three breaths.
+
+"Back on," said Dee, from above.
+
+He went back on.
+
+Above him he could hear the rest of it. He could not see most of it with his back to the bank, but he could hear it. Rook's voice, on the south side, not words. A hound making the sound hounds made. Toren, under the cart, saying nothing, which meant the strut was still holding. Callie at the lip saying *a hundred and ten* and then *a hundred and twenty* in the same flat voice. The wind, coming across the drifts, bringing the grey.
+
+"Busy," said Jab, and drew.
+
+---
+
+The third husk came along the foot of the bank.
+
+He felt it before he saw it. He did not feel it the way he felt people. He felt it the way you feel somebody come into a room behind you. There was a thing that was not a person in the drift to his left, moving, and it was coming at him.
+
+At him. Not at Pell. At the thing he was doing with his hands. It was worked. The drawing was worked, the way the lee was, and the strut, and Rook's blade. They went at anything worked.
+
+He turned his head. It was coming along the foot of the bank toward them through the drift, grey on grey, low, with no face. It came from the arch, where the third one had come up, and it was coming fast.
+
+He went to let the knife come, and his left hand was on the jar. His right was on Pell. He took the left off the jar.
+
+"*Jab*—"
+
+He let the knife come on his left fist, dark, heavy in the spine, fat in the belly, and lit the last inch of it, the hook. He put the hook into the husk as it came at him, low, across the drift, the way he would have cut a rope.
+
+It came apart.
+
+It came apart into grey the way they did, all at once, a husk's worth of loose grey. And it went up. It went up off the drift in a burst in front of his face, fine and dry, and the wind took it and brought it back over him and over Pell. It came down on them like flour sifted over a table.
+
+The counter above him on Callie's hip went faster. He heard it go.
+
+"A hundred and forty," said Callie. "At the lip. That's near the red." And then, quieter, not flat: "Jab. That was on you."
+
+"I know."
+
+"Don't kill them down there," said Dee. "Every one you kill down there goes on him."
+
+"I *know*." He let the knife go. He put his left hand back up for the jar, and it was there, against his palm. "It was coming at the hands."
+
+"They'll all come at the hands," said Dee. "Draw."
+
+He drew.
+
+---
+
+On the south side, above him, Rook made a sound.
+
+It was not a word. It was the sound a man makes when something hits him from behind. It was short and deep and it stopped. Jab heard a hound snarl, close, under the cart. He heard something heavy go down on the stone of the bed. Then he heard Rook's blade go through something, the flat quick sound of it, and he did not hear the hound any more.
+
+"Elias," said Dee.
+
+She did not look round. She was on her belly on the lip with her arm down to Jab's hand and the jar against his palm. She could not look round.
+
+"Elias. Say it."
+
+"The second one," said Rook. His voice was different. "Went round. Under the cart. In the dark. I was on the first." He stopped. "It's dead. They're both dead."
+
+"Say the rest."
+
+"My back," said Rook.
+
+Nobody said anything.
+
+"It hit my back," said Rook. "High. Where it was. I felt it go." He was quiet. "It's bleeding. I can feel it going down."
+
+"How long have you been lit?" said Dee.
+
+"I don't know."
+
+"I do. Twelve turns of the glass. Since the first husk." Dee still did not look round. "You're two over. You're off, Elias. Put the blade out and sit down on the stone where you are, on the south side, and put your hand on the cart wheel and don't move."
+
+"There's—"
+
+"You're off," said Dee. "That's the Director's word, and it's mine."
+
+For a long moment Jab heard nothing at all from the south side of the cart.
+
+Then he heard Rook's blade go out. He knew the sound of it going out, the small flat nothing it made. He heard Rook sit down on the stone, not in two movements. In one, heavily, like a sack going down.
+
+"Toren," said Dee. "Say it."
+
+"Holding." Toren's voice came from under the cart, tight and even. "Half the stone gone, and a bit. It's the lean, not the wheel, but it doesn't go past." He breathed. "The slab keeps moving. I keep catching it."
+
+"Say it again when it's a quarter," said Dee.
+
+---
+
+The jar was going.
+
+Jab felt it go. Not the way he had felt it in the pen, all at once, in the middle of a draw, with nothing to tell him. He was watching it this time. He had been watching it since the first draw, the way Dee had made him watch it at the long table two hundred times. Not only Pell's chest under his right hand. The jar against his left. He could feel the clean cold coming into his palm, and he could feel that there was less of it behind the mouth of the jar every draw. It was a pour that has got to the bottom of the jug and is coming thin.
+
+He did not wait for it to stop.
+
+"Jar," he said.
+
+"That's the road," said Dee. "That's all of it. There's nothing else in it."
+
+"Then the frame."
+
+Dee did not say anything for a moment.
+
+"That's the fence's," she said. "The frame's the fence's ash. Sixty-four. If I open one of those here, it comes off the forty-eight. The work at the fence gets shorter." She did not take her eyes off his face. "Callie's sum. You were there when she said it. It comes off the work, and the line doesn't move."
+
+"I know," said Jab.
+
+He looked at Pell.
+
+Pell was lying on his side in the drift with his face grey and his eyes open, looking up at Jab. He was not coughing now. He was breathing, short and shallow, with his teeth together, the way a man breathes past a broken bone. Under Jab's right hand, in his chest, the busy thing was less than it had been. It was not gone. The grey from the husk had come down on him and put more of it back, on his face and in his mouth. It was going in again, a little and a little.
+
+He thought about the fence. About two hours in the rooms at the bottom of a yellow stair, and an hour to get there, and an hour to get back out. He thought about forty-eight Handfuls to work with and every one of them priced, for five people inside and the venting and whatever they met. He thought about how many of those forty-eight he was about to take out of the fence and put into a man lying in a drift in the wash, before anybody had even seen the fence.
+
+He thought about Pell outside the fence at the pump house with the lamp and the three Flasks, writing down who went in and who came out. Pell, who had put the tailboard down on the first morning so Jab would not have to take the frame off.
+
+"Open it," said Jab. "I'm saying it. It's mine to say."
+
+Dee looked at him a moment longer.
+
+"It's yours," she said. "I'm writing it."
+
+She put the empty road jar down on the stone beside her. Then she reached down over the lip of the bank, past his shoulder, to the rack on his back. He felt her hand on the top row. He felt her take one of the jars by its neck and lift it out of its canvas socket, and heard the stopper come out with a small sound.
+
+She put it against his palm.
+
+It was cold. It was very cold and very heavy, heavier than the road jar had been. It was full, and clean, and nobody was in it. It was eight Handfuls that had been for the stair.
+
+"Clean in," said Dee.
+
+---
+
+He drew.
+
+He drew for Pell's chest and throat, and then his face. The grey that had come down from the husk was on his face and in his hair, and some of it had gone in. He held it high. He vented into the drift downwind. He went back on.
+
+On the fourth draw his palm went warm.
+
+It was not the hot sand of the busy thing coming up. It was under that. It was in the palm itself. It was the way a pan handle goes warm after the pan has been on the stove a while, from the inside, a little. He knew what it was. He had watched it happen to Rook's hands in the pen, and heard Callie say *sixty, after he's vented, it should be ten.* He had felt Dee take it out of the creases of his own palms afterward. *You'd have carried that home.*
+
+"Vent," he said.
+
+He said it himself. Dee had not said it. He lifted his hand off Pell's chest and put it flat on the drift and held it there, not for three breaths. For five. For eight. He felt the warm go out of the palm into the ground, slowly, not all of it.
+
+"I'm warm," he said. "My palm. After venting."
+
+"How warm?"
+
+"Like a pan. A bit."
+
+"Then you're off for a turn," said Dee. She said it at once. "Vent, and rest, and I'll—"
+
+She stopped.
+
+He knew why she stopped. He knew before she did. There was nobody. It was work, reserve, watch, and turn it every twenty minutes, and the one who worked became the watch, and the reserve worked. Rook was the reserve, and Rook was sitting on the south side of the bed with his hand on the cart wheel and his back bleeding, and he was off. Dee was the watch. If Dee came down the bank into the drift, there was nobody on the lip who had drawn anything. There would be nobody clean enough to take the warm out of the one who had worked.
+
+"I'm coming down," said Dee.
+
+"No," said Jab.
+
+She looked at him.
+
+"No," said Jab again. "You're the watch. You come down, there's nobody clean. Then there's nobody to draw me, or you, or him." He did not look away from her. "I'll vent longer. Ten breaths. Then I'll go back on, and I'll say if it's worse."
+
+Dee's face did not move.
+
+"Ten," she said. "And you say."
+
+He vented for ten breaths with his hand flat on the grey. The warm in his palm went down. It did not go all the way down.
+
+"Back on," he said, before she could.
+
+---
+
+He did not feel the fourth one come.
+
+He had his attention down under his right palm, in Pell's chest. He had the jar against his left and his back against the bank, and the busy thing coming up into his hand, and his eyes shut. He was not listening for anything in the drift. He was listening to Pell.
+
+It came up out of the drift behind him on his right.
+
+He did not know it was there until Callie said his name. She said it loud, from the lip, not flat, not at all flat. Then the husk hit him.
+
+It hit him from the side. It hit him low, at the hip, with its whole weight, the way the one had hit Toren in the door at the knee on the twenty-fifth. It knocked him off his feet in the drift, and he went over.
+
+He went forward. He did not know how he knew to. Toren had told him what Wyck said to him on the step in the dark, and he had watched Toren do it in the stream at the washout, going down. *Fall like a sack.* He went forward over Pell like a sack of barley going off a cart. He did not put his hands out. His right hand was on Pell's chest and his left had the jar, and he kept them there, and went down over Pell with his whole weight and the frame on his back. He came down on his knees and his chest in the drift with Pell under him.
+
+The frame came down after him.
+
+It came over his shoulders with the weight of eight jars in it. The rack swung forward on the belt and the chest band. The top row, where the jars leaned on the curved ash rail, came down with it. He felt the rail take them. He felt the rail stop them from going on over his head into the drift. It was the rail his brother's bad leg had ridden on for eighteen days, lashed tight and short.
+
+And he heard one of them break.
+
+It was the jar at the end of the top row. The one nearest the rail's end. It came down against the ash of the rail and he heard it go, a small hard sound like a cup dropped on a stone floor.
+
+And then he felt it.
+
+He felt it before he understood it. It was cold. It was very cold, all at once, on the back of his neck and between his shoulders, under his coat, down his back. It was fine and dry and heavy, and it was running down him the way water runs down you out of a bucket tipped over your head. It was clean. It was the clean cold that came into his left palm out of a jar, the cold with nobody in it. It was going down his back, over his coat and under it and out at his belt, and into the drift.
+
+Into the grey. Into the worst ground there was.
+
+It was gone before he could do anything at all.
+
+---
+
+Above him, the husk that had hit him was coming back.
+
+He could feel it. He was lying over Pell in the drift with the frame on his back and his hands still where they had been. He could feel it turning in the drift beside them, coming at the hands again.
+
+There was a sound over him like cloth tearing.
+
+It was Callie. He knew it without looking. It was the sound her edge made coming off the curve of the hook, the long grey sweep of it, cold and colourless. She had let the lane go, if she had had it up. She had let go of whatever she was holding on the lip and put the edge on the curve on a count of two, and reached down over the edge of the bank with the whole four feet of conduit and a foot of curve and the edge on the end of it. He felt it go past over his back, over the frame, close. He felt the husk come apart beside them.
+
+And the grey came down on them again.
+
+It came down over his back and his neck and Pell's face under him, a husk's worth of it, sifting.
+
+He lay over Pell in the drift with his face in the grey and did not move. He was not hurt. He did not think he was hurt. He could feel Pell breathing under him, short and shallow, through his teeth. He could feel the jar still in his left hand, cold and heavy and open. He could feel the busy thing under his right, in Pell's chest, going in again, a little and a little, all the way back to where he had started.
+
+He could feel where the clean cold had gone down his back. There was nothing there now. The clean was gone into the drift, and the drift was the drift.
+
+Above him, on Callie's hip, the counter had stopped ticking.
+
+It had not stopped. It had gone past ticking. The ticks had run together into one sound, a thin high buzz, like a wasp shut in a jar.

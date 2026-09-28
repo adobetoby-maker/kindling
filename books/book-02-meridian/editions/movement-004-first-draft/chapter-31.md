@@ -1,0 +1,513 @@
+# Chapter 31 — Callie: Who Is Inside
+
+The needle was stuck at the top of the red.
+
+Callie saw it through the little window in the side of the counter, with the buzz coming out of the grille against her hip like a wasp in a jar. It was lying hard over against the right-hand end, past the red mark, pinned there, not moving. It had not moved since the fourth husk came apart over Jab's back.
+
+*It sticks at the top of the red. If it sticks, tap the glass with your nail. Once. Not twice.*
+
+The old woman from the technician's shed had said it on the thirty-ninth, with the counter held against her chest like a sleeping animal. *He says you'll know when it's lying.*
+
+Callie tapped the glass once with her nail.
+
+The needle jumped. It came off the pin a hair's width, and trembled there, and went back. It lay against the right-hand end past the red mark and stayed, and the buzz did not change.
+
+It was not lying.
+
+"Red," said Callie.
+
+She said it loud, the way the technician had asked her to on the bench by the yellow line. It went out across the top of the embankment and over the wash and came back off nothing.
+
+"Red," she said again. "It's true. I tapped it. And there's a body trapped."
+
+---
+
+Miss Wren was on her belly on the stone of the bed at the north edge, a pace from Callie, with her arm still hanging down over the lip toward Jab.
+
+She took her arm back. She got up onto her knees. She did it at exactly the speed it needed and no faster. Callie watched her face and saw her do the sum. Not the kind Callie did. The kind Pell did, with a price on every line.
+
+"Red, and a body trapped," said Miss Wren. "Everybody not needed to get that body out goes, at once. The fewest who can do it stay, and I say their names." She did not raise her voice. "Jab. He's on Pell, and he's got the jar, and he can draw. He stays."
+
+Down in the drift, face down over Pell, Jab said something that might have been *yes*.
+
+"Toren. The cart's over them. If it comes down, it comes down on both of them. He stays."
+
+Under the leaning cart, on one knee on the south half of the crown with his strut going up into the axle, Toren said, "Staying."
+
+Miss Wren looked at Callie.
+
+"You can't get it down the bank," she said. "I watched you try. Twice."
+
+"Not down the bank," said Callie.
+
+She had not known she was going to say it until it was out. But she had been looking at the bank while Jab drew, and at the lip, and at the bed of the old line where she stood. She had been looking at them the way she looked at anything. The bank was loose. There was no still in it. The lip was not loose. The lip was the edge of the bed, and the bed was stone, packed hard seventy years ago by people who wanted it to stay. She was standing on it.
+
+"Along the top," she said. "On the stone. The curve on the lip. And lean it." She put her hand out flat and tipped it, like the roof of a lean-to. "Out over the edge. Down over them. I don't have to go down to them. It can lean down."
+
+Miss Wren looked at her for as long as it took to breathe in.
+
+"Callie," she said. "The lane. She stays."
+
+Callie heard her own name said out loud by the watch, and it went into her like cold water.
+
+"Elias," said Miss Wren. "Out. With me. Now."
+
+---
+
+Rook was sitting on the stone on the south side of the bed, by the tail of the cart, with his hand on the high wheel. He had not moved since he sat down. There was a dark patch on the back of his coat, high, between his shoulders, the size of a hand and getting bigger.
+
+"Dee," he said.
+
+"You're not named," said Miss Wren.
+
+"I can—"
+
+"You're not named," said Miss Wren again. She was on her feet. She had the glass in her hand and the empty road jar under her arm. "You're off, you're bleeding, and there's grey in your back where the hound opened it. If you stay you're a second body trapped, and I'll have to name somebody to get you out." She put her hand out to him, down, flat. "Up. With me. West, to the cut. It's seventy paces. The counter's under the red at the cut."
+
+Rook looked at her hand for a moment.
+
+Then he took it. He came up off the stone with his other hand on the wheel, in two movements, and stood, grey in the face. He did not look at Callie or at Toren or at the edge of the bank where Jab was. He looked at Miss Wren.
+
+"West," he said.
+
+"West," said Miss Wren. She turned her head to Callie without letting go of him. "I'll turn the glass at the cut. I'll call every turn so you can hear it. And I'll say his name, and his, and yours, every time, so you know you're named." She looked down over the lip one last time at Jab. "Get him out, and come out. Not a breath longer."
+
+They went. They went west along the south edge of the bed, past the front of the leaning cart and past Toren on his knee under it, Rook with one hand on Miss Wren's shoulder and one on his own side. They went at Rook's pace, which was slow, along the top of the embankment toward the mouth of the cut, seventy paces off. There the ridge stood up on both sides of the old line and the drifts stopped.
+
+Callie watched them go for as long as it took to count them. Two.
+
+Then she turned round to the lip.
+
+---
+
+She was standing on the north edge of the bed at the lip of the bank, a pace east of the arch, where Pell had gone over. Below her the bank went down steep and loose, earth and grey, the height of a man and a half. At the foot of it, in the drift, Jab was getting up onto his knees over Pell. The frame was still on his back. There was an empty socket at the end of the top row of the rack, and broken glass in it, and a long pale stain down the back of his coat from the collar to the belt. That was where the clean ash had gone down him.
+
+Pell was lying on his side in the drift under him with his face grey and his eyes open. His right foot was turned the wrong way on the wing wall of the arch.
+
+Behind Callie, across the bed, the cart leaned out over her. It stood on its north wheel in the broken crown, tilted toward the lip, the whole long weight of it, with Toren's strut going up into the axle from the south side like a prop under a wall. The three home jars were in the rack behind the driver's bench, and the lead box on its straw behind them. They were leaning out over the wash with the cart.
+
+The wind came across the drifts from the hill and brought the grey up off them and across the top of the embankment, across Callie and the cart and Toren. It went over the lip of the bank and down, onto Jab and Pell.
+
+Callie looked at them.
+
+She did not look at the hook. She looked at Jab's shoulders, and the top of Pell's head, and the back of Jab's coat with the pale stain on it. She held them there, in her eyes, the way Rook had told her on the forty-fourth. *Watch who's inside.*
+
+Then she put the back of the hook's curve down on the stone of the lip.
+
+It was good stone. It was the edge of the bed, packed and square, and the curve sat on it the way a wheel sits on a road. She did not rock it. There was nowhere to rock it to yet. She held it there, still, on the lip. She reached for the stone at the bottom of the well, and let it go, and put the Ward in the bottom of the curve, where it touched.
+
+The lee stood up.
+
+She did not let it stand straight. She let it lean. She looked at Jab and Pell at the foot of the bank and let it lean out from the lip, over the edge, down, the way the roof of a lean-to leans off a wall. It went out over the loose earth of the bank, pale, like a sheet of frost standing out over nothing. It went down and over them. It stopped a foot above Jab's back. It was the shape of where they were, and nowhere else.
+
+The grey came across the top of the embankment on the wind and hit it and hissed and went down the outside of it into the drift beyond them.
+
+It did not get to them.
+
+"Lane," said Callie.
+
+Below her, Jab looked up.
+
+He looked at the pale thing leaning over him like a roof, and at her on the lip above it with the hook, and his face did something she had never seen it do. Then he put his right hand back on Pell's chest, and put his left hand with the open jar against his own palm, and bent his head.
+
+"Busy," said Jab.
+
+---
+
+It cost less than she had feared, standing still.
+
+She felt that at once. She was not rocking the curve. It was sitting on the stone of the lip and not moving, and the Ward in the bottom of it was the Ward in a hook held still across a door. That was the cheapest thing she knew how to do. The lee leaning out over the bank off it was thinner and longer than a hook across a door, and she could feel it drawing on the stone. But not the way the moving lee drew, on the old line. Not the way the lee along the whole cart had drawn, the four steps and the nosebleed.
+
+She went down to look, once, fast. The stone was less than half of what she had settled the night before. The gusts had taken it, all the way along the embankment, and the two tries down the bank, and the edge for the husk over Jab's back. There was less than half left.
+
+Enough for now. Not enough for long.
+
+"Toren," she said, without turning round. "I've got them. It's up. How long have you got?"
+
+"Not long," said Toren.
+
+His voice came from behind her and under the cart, tight.
+
+"It's moving," he said. "The crown. Under the foot. It's still going." She heard him breathe. "I can feel it go under the strut. A little. Every time the wind comes."
+
+Callie turned her head. She did not turn her body. She kept the hook on the lip and her eyes going back to Jab's shoulders every breath. But she turned her head and looked across the bed at the south half of the crown where Toren knelt.
+
+She read it.
+
+It was the part of the bed over the arch, where the stone of the old line sat on the crown. The crack ran across it from the north edge nearly to the south. North of the crack, the bed had dropped, and the north wheel was down in it. South of the crack, where Toren was, the bed had not dropped. But the slab under his strut's foot, a flat grey piece of the packed bed, was sitting on something that was moving. She could see it. There was a line of fresh bright dirt along its edge where it had shifted in the last breaths, a hair's width, and was not sitting where it had sat.
+
+It was sitting on the bed. And the bed was sitting on the arch. And the arch was going.
+
+But the arch itself was not the bed.
+
+She looked past the slab, to the left of Toren's boot. Under the packed stone of the bed, where the edge had broken away when the north half dropped, there was a stone showing that was not the grey rubble of the bed. It was paler, and square, and dressed. It had a straight edge somebody had cut with a chisel a long time ago. It was a stone of the arch itself. The ring stone, the curved stone of the arch's own face, set on its neighbours the way it had been set when the arch was built. It was whole. It was sitting on the springing on the good side, the south side, where the old fall had packed under it. It was not moving.
+
+"Ground," said Callie.
+
+Toren looked up.
+
+"Your foot's on the bed," she said. "The bed's moving. Left of your boot. Under the edge that's broken off. There's a stone of the arch, the ring stone. Pale, square, cut. You can see its edge." She held his eyes across the bed. "That's sitting on the springing on the good side. That's not going anywhere. Put the foot of it there."
+
+Toren looked. She saw him find it.
+
+"If I move the foot I've got to let this one go," he said. "For a breath. The cart'll drop."
+
+"How far?"
+
+"I don't know. A hand. The wheel's already in the hole."
+
+Callie looked down at Jab and Pell under the lee, directly under the edge where the cart leaned over.
+
+"A hand's all right," she said. "It'll sit down in the hole a hand. It'll not come over the lip for a hand. The wheel's got to come up out of the hole to come over, and it can't, it's in it." She did not know that. She knew it the way she knew a husk line. It was not a track so much as a direction. "Say it when you go."
+
+"Letting go," said Toren.
+
+---
+
+The cart dropped.
+
+It dropped a hand's width into the broken crown with a sound like a sack of stones set down hard, and the whole leaning weight of it shuddered. Callie felt it through the stone of the lip under the curve of her hook. The lee shivered. She did not look at the cart. She looked at Jab's shoulders and held them, and the lee held.
+
+"Set," said Toren.
+
+He had put the strut's foot down on the ring stone. She did not see him do it. She heard it in his voice. She heard the weight come onto the new strut, and not come up into him, because he was soft behind it, the way he had been at thirty gaps on the old line.
+
+"Holding," said Toren. "On the arch."
+
+And then, a moment later, differently: "It's not moving."
+
+"It's the arch," said Callie. "It's whole."
+
+"How did you see that?"
+
+"It's cut," said Callie. "Somebody cut it. The rest's just stone."
+
+---
+
+"Busy," said Jab, from under the lee. And then, "Vent." He put his palm flat on the drift beyond Pell, downwind, and held it there, and put it back. "Busy."
+
+Callie counted his vents. She could not help it. She could not see the counter's needle and did not try to. It was buzzing on her hip. It would buzz on her hip until she was out of the wash, because she was standing on the lip in the wind and the grey, outside her own lee. She had not put herself in it. She had looked at Jab and Pell, and it had gone where she was looking, and she was not where she was looking.
+
+She had chosen. She knew she had. She had not decided it in words. She had decided it by what she had put her eyes on. It had cost nothing to decide, and it would cost her whatever the wind was bringing, and Jab would have to draw it off her at the cut.
+
+*Who's worth the lee.*
+
+Miss Wren had said it on the forty-fourth with the cloth to her nose. *You'll have to decide who's worth the lee.* Callie had thought, then, that it meant which of them. She understood now that it had always included her.
+
+"Turn," said Miss Wren's voice, from the cut.
+
+It came thin along the top of the embankment from seventy paces off, where the ridge stood up. "Turn. Toren. Jab. Callie."
+
+Four turns of the glass since the red. Callie had not been counting them. She was glad somebody was.
+
+---
+
+"I can't hold this for ever," said Toren.
+
+"I know."
+
+"When they move him, I have to let it down. And if I let it down, it goes over." He was breathing hard. "It's leaning out over them. If the strut goes, the whole of it comes down the bank. On him. On them."
+
+Callie looked at the cart.
+
+It was over her head, nearly. It leaned out north over the lip at a slant, with the north wheel sunk in the broken crown and the high south wheel up in the air. The long weight of it was out over the edge of the bank, over the drift, over the place where Jab knelt on Pell. The front of it, by the driver's bench, was over the arch. And at the arch, on the north parapet, a pace in front of the front of the cart, there was the iron post.
+
+It was one of the posts of the old line, like all of them, square and rusted. It was as high as a man's chest, with the bent arm at its top where something had once been hung. But it was not set in the bed like the others. It was set in the parapet of the arch, in the stone of it, in a square hole with a lead collar. It leaned a little outward over the wash, the way it had leaned when they saw it from the foot of the slope in the dusk.
+
+It had leaned like that, Callie thought, for seventy years, and not gone any further.
+
+"Toren," she said. "The post."
+
+He looked.
+
+"The post on the parapet," she said. "It's in the arch stone. Not the bed. It's set in lead." She looked at the front corner of the cart, where the driver's bench was, a pace from it. "If the cart were leaning on that, instead of on you."
+
+Toren looked at the post for a long time. Callie could see him do the sum. The weight, and the lean, and a pace, and a strut from the ground.
+
+"I'd have to walk it," he said. "A pace. Sideways. Onto the post."
+
+"Can you?"
+
+"Set, and step," said Toren. "Like a gap. Only it's the cart that steps, not me." He was quiet. "If it takes it, it takes it. If it doesn't, I'll have let go of the only thing I've got."
+
+"It's in the arch," said Callie. "It's in the part that's whole."
+
+Toren looked at her across the bed.
+
+"Your call," she said. "It's your strut."
+
+"I know it's my strut," said Toren. "I'm asking whether you think it'll hold."
+
+Callie looked at the post. She looked at the lead collar in the square hole in the dressed stone. She looked at the lean of it, seventy years of the same lean and no more.
+
+"Yes," she said.
+
+---
+
+He did it with two struts.
+
+She watched him out of the corner of her eye, the way she watched the curve of her hook. She kept her eyes going back to Jab's shoulders every breath, and the lee held. But she watched.
+
+He did not let go of the first. He left it under the axle, standing on the ring stone, holding. And he put the foot of a second one down, on the ring stone too, beside the first, a hand's width to the west. He let it come up from there at a different slant, not under the axle. Under the front corner of the cart, by the driver's bench. He was soft behind it. Callie saw him be soft behind both of them. She had never seen him hold two at once.
+
+"Set," said Toren. "Two."
+
+He let the first one go. Not all at once. The way he had let the rack down on the second try, a little at a time. The weight that had been on the first strut came over onto the second, and the second was slanting toward the post. As the weight came onto it, the front corner of the cart went where the strut was pushing it. A hand's width west. Another.
+
+The front corner of the cart came against the iron post.
+
+Callie heard it. It was a small sound, iron on wood, like a knock on a door.
+
+"Step," said Toren.
+
+He let the second strut go.
+
+The cart leaned the last inch onto the post and stopped. It stood there. It stood with its north wheel in the broken crown and its front corner against the iron post on the parapet. The post was in its lead collar in the ring stone of the arch, and it leaned out over the wash at the same lean it had always had, and not a hair more.
+
+Toren stood up off his knee on the south half of the crown with nothing in his hands.
+
+"Post's got it," he said.
+
+---
+
+"Turn," said Miss Wren, from the cut. "Toren. Jab. Callie."
+
+Eight.
+
+"Now him," said Toren.
+
+He came across the bed to the north edge, to the lip, a pace west of Callie, where she could see him. He looked down the bank at Jab and Pell under the lee.
+
+"I'll come down," he said.
+
+"Not down the bank," said Callie. "It's loose. You'll go down it like Jab did, on your heels, and you'll bring half of it down on them."
+
+"Not on my heels," said Toren.
+
+He put the foot of a strut down on the loose earth of the bank, a yard below the lip. It sank, the way it had sunk in the mud at the washout. He let it go. He looked at the bank the way he had looked at the far slab on the old line, and she saw him look for stone. There was a stone in the bank, a big grey one, half buried, a yard down and to the left. He put the foot of the strut on that. It came up from the stone at its slant toward the lip, toward him, and he stood on it. He stood on his own strut, the way he stood in the dark lane or at the washout, only now it was under his boot. It was a step.
+
+"Set," he said, and went down onto it.
+
+He found another stone below it and set another step. He went down, and let the one above go. He came down the bank that way, three steps, each one set on stone, with his left arm in its cuff against his chest and his right hand out for balance. He came down into the drift at the foot of it, beside Jab, under the lee.
+
+Callie felt the lee change as he came under it.
+
+She had not asked it to. It changed because she was looking at him, and he was under it now, and she could not stop looking at him. It went longer at the west end, to take his shoulders in. It went thinner. She felt the drawing on the stone go up, the way it had when she took Rook in on the forty-fourth.
+
+Three.
+
+She went down to look. A third of the stone. Less.
+
+"Jab," said Toren. "How is he?"
+
+"Busy," said Jab. "Still. Less." He did not look up. "The grey's off his face. It's in his chest, and I keep getting it, and the wind keeps—" He stopped. "It's less than it was."
+
+"We have to move him," said Toren. "Out from under. West, to the cut. Seventy paces along the bottom of the bank. It's lower at the cut. We can get him up there."
+
+"His ankle," said Jab.
+
+"I know his ankle."
+
+Pell spoke. It was the first thing he had said since the drift.
+
+"Do it," he said, through his teeth. "It's a bone. It's broken already. It'll not be more broken for being carried." He looked up at Callie on the lip, past the lee, with his grey face. "I'll not say anything about the camber."
+
+---
+
+They moved him.
+
+Toren got down on the drift on Pell's left and got his right arm under Pell's shoulders. He did not use the left. Callie watched him not use it. Jab got on Pell's right, with the frame on his back and the open jar stoppered and pushed into his own coat. They got him up between them onto his one good foot, with his arms over their shoulders and his broken foot held up off the drift. They went west.
+
+Callie went with them along the top.
+
+It was not the stone of the lip any more that the curve sat on. It was the lip going west, the edge of the bed, packed stone. She rocked the curve along it now, the way she had on the old line, rock and lift and set. She kept her eyes on the three of them below her. On Toren's head and Pell's grey hair and the top of Jab's frame with its empty socket. She walked, and the lee went with her, leaning out over the bank and down over them. It moved as they moved, at their pace, which was the slowest pace she had ever walked.
+
+It cost. She felt it cost. Moving, it cost the way it had cost on the old line, and it was over three. It was thinner than it had ever been. The grey came across on the wind and hit it and hissed, and she could feel where it hit, all along it. It was like standing out in sleet in a coat that is not quite thick enough.
+
+Twenty paces. Twenty-five.
+
+"Turn," said Miss Wren, from the cut, nearer now. "Toren. Jab. Callie."
+
+Thirty.
+
+And the drift ahead of them, at the foot of the bank, between them and the cut, heaved.
+
+---
+
+It came up the way the others had, all at once, with the crust cracking along the top of a long hump in the grey. It came up twenty paces ahead of them at the foot of the bank. And another behind it, a little way out in the wash, turning.
+
+Husks. Two.
+
+They turned toward the lee. Callie felt them turn. They went at anything worked, and the lee was worked, and it was the brightest worked thing in the wash. They came along the foot of the bank toward it, toward the three of them under it.
+
+"*Two*," said Callie. "In front. Coming at the lane."
+
+Jab stopped. Toren stopped. Pell hung between them on his one foot.
+
+"Don't kill them under it," said Jab. "Don't. Every one I killed down here went on him."
+
+"I know," said Toren.
+
+Callie looked at the husks coming. She looked at the lee, leaning out over the three of them off the lip, pale, with the grey from the wind hissing on the outside of it and sliding down.
+
+Sliding down the outside.
+
+*It'll keep what's blowing off whatever's behind it.* Pell had said that, on the forty-fourth, standing behind it with his collar down. *It'll not keep anything off that comes round the end.*
+
+It kept off what was blowing. Whatever hit it on the outside slid down the outside, into the drift, away from them.
+
+"Toren," she said. "Kill them against it."
+
+He looked up at her.
+
+"On the outside," said Callie. "Not under it. Outside it, on the wind side, with it between them and you. When they come apart, the grey goes against the lee. It'll slide down the outside." She heard her voice, flat and fast. "It'll go down the wrong side of it. Away from him."
+
+"I'd be outside it," said Toren.
+
+"You'd be outside it."
+
+Toren looked at her. He looked at the husks, fifteen paces now, coming. He looked at Pell on his shoulder and Jab on Pell's other side.
+
+"Can you hold them?" he said. "Without me. Him and Pell. Just the two."
+
+Callie looked at Jab and Pell.
+
+She took Toren out of her eyes.
+
+It was the hardest thing she had done on the embankment. Harder than the ring stone, harder than the red. She was looking at the three of them, and she took her eyes off one. She put them on Jab's shoulders and Pell's head and nowhere else. She did it on purpose, the way she had once let her mother's breathing go past her without a number on it.
+
+The lee went shorter at the west end. It went thicker. It came in over the two of them and left Toren out.
+
+"They're inside," she said. "You're not. Go."
+
+---
+
+Toren let go of Pell.
+
+Jab took the weight. He took it on his right shoulder, with the frame on his back and Pell's arm round his neck, and staggered, and did not go down. Toren stepped out from under the lee, west, into the wind and the grey. He went two paces along the foot of the bank toward the husks, and turned, so that the lee was on his right hand, between him and the others.
+
+He let the spike come on his fist.
+
+It came heavy and crooked, the ugly thing, dark. He lit the heel. Only the heel, the hand's width of thin white-grey along the hooked curve. He did not light the rest.
+
+The first husk came at him. Not at the lee. At him, because he was lit now and nearer. It came along the foot of the bank through the drift with the grey going up round it. He put the lit heel into it low, hooking, the way he had put it into Wyck's sack in the first lane. He dragged it round, off its line. It turned against the outside of the lee.
+
+He put the point in.
+
+It came apart against the lee. The whole of a husk's worth of loose grey went up in a burst, and the wind took it, and threw it at the lee.
+
+It hit the lee on the outside, all of it, and hissed like water thrown on a stove. And it slid down.
+
+It slid down the outside of the pale leaning wall into the drift beyond it, away from Jab and Pell. Callie watched it slide. She felt it hit and felt it slide, a weight on the outside of the lee like sleet on a roof, and it did not come through. Not a grain of it came through.
+
+It went over Toren.
+
+He was outside. He was in the wind on the far side of the lee where the burst went up. It came down on him, on his face and his shoulders and his coat, grey. He put his sleeve over his mouth and did not stop.
+
+The second husk came.
+
+He did it again. The heel, and the drag, and the point, against the outside of the lee. It came apart and the grey hit the lee and slid, and went over him.
+
+Then there was nothing in the drift at the foot of the bank between them and the cut but grey.
+
+---
+
+"Turn," said Miss Wren, close now, twenty paces. "Toren. Jab. Callie." And then, differently: "I can see you."
+
+Toren came back under.
+
+He did not ask. He put his shoulder back under Pell's other arm and took the weight off Jab. Callie put him back in her eyes, and the lee went longer at the west end and came back over him. It was thinner, and it drew. It drew so that she felt it at the bottom of the well like a hand scraping the bottom of a sack.
+
+Forty paces. Fifty.
+
+She went down to look, fast. The stone was nearly gone. There was a scrap of it. Below it, her own water, a finger and a bit above the floor, cold and clear.
+
+Sixty.
+
+The bank was lower here. It came down as the embankment ran into the ridge, until at the mouth of the cut it was only the height of a man's chest, loose earth, with the stone of the cut's wall beside it. Miss Wren was standing at the top of it on the bed of the old line, with the glass in one hand. Rook was sitting against the wall of the cut behind her with his coat off and a cloth held to his back.
+
+"Up," said Toren.
+
+He put the foot of a strut on the stone of the cut's wall where it came down into the drift, and let it come up at its slant to the top of the bank. He set it. It was a step and a rail at once, pale and thin, from the stone to the bed.
+
+"Set," he said. "Jab. His good foot on it. Step."
+
+Jab put Pell's good foot on the strut. Pell stepped. Toren held him from below with his right arm. Jab went up the bank on his heels and hands beside the strut with the frame on his back, and at the top he turned and got Pell under the arms. Miss Wren got Pell's other arm. They pulled. Pell came up over the edge of the bank onto the stone of the bed at the mouth of the cut, and lay there on his back, grey, breathing through his teeth.
+
+Toren came up after him on his own strut, one step, and let it go.
+
+Callie stood at the lip with the hook.
+
+The stone at the bottom of the well was a scrap. Her own water lay above the floor, a finger and a bit, untouched. Nobody was under the lee any more. They were all out.
+
+"That's the stone," said Callie. "I'm stopping before I start on mine."
+
+She let it go.
+
+The lee went out. It went out over nothing, over the empty foot of the bank, over a drift with nobody in it. The wind came across the wash from the hill and took the top off the grey and brought it across the lip, over Callie, and down.
+
+She walked the last ten paces along the edge of the bed to the mouth of the cut.
+
+At the fifth pace the counter on her hip stopped buzzing. It went back to ticking. It was fast, rain on a tin roof, but it was ticking. At the tenth, where the wall of the cut stood up on her right and the drifts were behind the ridge, it slowed.
+
+She took it out of the bag and looked at the window. The needle was off the pin. It was lying well back from the red mark, trembling.
+
+"Ninety," she said. "Ten breaths. At the mouth of the cut. Under the red."
+
+"Out," said Miss Wren. "All three. Named, and out." She did not write it yet. She looked at the glass in her hand. "Fifteen turns. Fifteen minutes in the red, from the needle to the cut. I've got all of it."
+
+---
+
+Callie sat down on the stone of the bed at the mouth of the cut.
+
+She had not meant to. Her legs did it. She sat with her back against the wall of the cut and the hook across her knees and her hands open on the conduit. Something warm ran out of her nose and over her lip. She put the back of her hand to it and it came away red.
+
+"Nose," said Miss Wren, beside her, with a cloth.
+
+"I know."
+
+"Head forward. Pinch it." Miss Wren held the cloth. Her hands were perfectly steady. "Who was inside?"
+
+Callie looked at her over the cloth.
+
+"Jab and Pell," she said. "Then Toren. Then Jab and Pell. Then all three." She stopped. "Toren went out to kill them. I took him out. On purpose. So it'd hold on the two."
+
+"And you?"
+
+"No," said Callie. "I wasn't inside. I was on the lip."
+
+Miss Wren looked at her for a long moment with the cloth held under her nose.
+
+"Say it again," she said. "Slowly. So Toren can write it."
+
+Toren was sitting against the other wall of the cut, grey from his hair to his boots, with the paper out already and the pencil. His hand was shaking. He did not wait to be asked.
+
+"I'll write it," he said.
+
+Callie said it again, slowly, all of it. Who was inside, and when, and who she had taken out and why, and who had not been inside at all. Toren wrote it on the back of the paper under the Director's signature, in his careful slow hand, with the grey on his fingers going onto the page.
+
+When she had finished she took the cloth off her nose and looked at her hands on the conduit of the hook. They were open. They had been open, she found, the whole time. She had held the lee with her eyes, and not with her hands. Her hands had only been on the steel, the way you rest a hand on the rail of a stair.
+
+She looked back along the embankment.
+
+It lay across the wash in the grey morning, two hundred and fifty paces of it, with the drifts heaped against its north side and the wind taking the grey off them in a long low smoke. Halfway along it, over the arch, the cart stood. It leaned out over the wash with its north wheel in the broken crown and its front corner against the iron post on the parapet. The three home jars were in the rack behind the driver's bench, and the lead box on its straw behind them, and nobody near it.
+
+Beyond it, at the far end, on the foot of the slope where they had come down in the stillness an hour ago, there was a grey shape standing on the bed of the old line. It had its head up, looking toward them.
+
+Duchess.
+
+She had stopped at the foot of the slope, where the counter had said twelve. She had put her ears forward, and she was waiting.
+
+"Count," said Callie.
+
+Toren looked up from the paper.
+
+He counted. She could see him doing it. He did it the way he had at the north lip of the Sag, and at the corner on the rise in the dark, and every armful.
+
+"Pell," he said. "Dee. Rook. Jab. Callie." He looked along the embankment at the grey horse standing at the far end of it. "Six," he said. "And a horse. Over there."
+
+Nobody said anything.
+
+Then Rook, sitting against the wall of the cut with his coat off and his back bleeding into a cloth, began to laugh. It was the low careful laugh, the way a man laughs with a hole in his back. It was the way he had laughed on the old north road on the first day, watching Callie shuffle up it like an old woman on a wet floor.
+
+"She'll come," he said. "She'll come when she's ready. She's the only one of us with any sense."
