@@ -902,6 +902,7 @@ def main() -> int:
     parser.add_argument("--retry-attention", action="store_true")
     parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--retry-rendering", action="store_true", help=argparse.SUPPRESS)
+    parser.add_argument("--retry-rendering-chapter", type=int, help=argparse.SUPPRESS)
     parser.add_argument("--plan-pickups", action="store_true")
     parser.add_argument("--recheck-attention", action="store_true")
     parser.add_argument("--accept-title-only-source-updates", action="store_true")
@@ -942,6 +943,7 @@ def main() -> int:
                 # Quality-gate attention is intentionally left in place. It
                 # needs a score or source repair, not a blind full retry.
         with_queue_lock(retry)
+        return 0
     if args.retry_directing:
         def retry_directing(queue: dict) -> None:
             for job in queue["jobs"]:
@@ -950,10 +952,16 @@ def main() -> int:
                     job["directorEffort"] = "low"
                     job.pop("error", None)
         with_queue_lock(retry_directing)
-    if args.retry_rendering:
+        return 0
+    if args.retry_rendering or args.retry_rendering_chapter is not None:
         def retry_rendering(queue: dict) -> None:
             for job in queue["jobs"]:
                 if job["status"] == "rendering":
+                    if (
+                        args.retry_rendering_chapter is not None
+                        and int(job["chapter"]) != args.retry_rendering_chapter
+                    ):
+                        continue
                     direction = Path(str(job.get("direction", "")))
                     plan_path = Path(str(job.get("pickupPlan", "")))
                     if direction.is_file() and plan_path.is_file():
@@ -976,6 +984,7 @@ def main() -> int:
                         job["status"] = "directed" if direction.is_file() else "queued"
                     job.pop("error", None)
         with_queue_lock(retry_rendering)
+        return 0
     if args.plan_pickups:
         plan_pickups()
     if args.recheck_attention:
