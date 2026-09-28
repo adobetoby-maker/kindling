@@ -314,6 +314,9 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
     }
     force_segments = sorted(text_segments | naturalness_segments | identity_segments)
     pacing_override: Path | None = None
+    pace_palette_path = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+    existing_pace_palette = read_json(pace_palette_path) if pace_palette_path.is_file() else {}
+    existing_pace_stage = int(existing_pace_palette.get("paceCorrection", {}).get("stage", 1))
     narrator_path = output.with_suffix(".narrator.json")
     narrator = read_json(narrator_path) if narrator_path.is_file() else {}
     pacing = narrator.get("checks", {}).get("pacing", {})
@@ -327,12 +330,35 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         # runs above the approved range after structural pauses, regenerate its
         # native takes with an explicit cadence instruction instead of stretching
         # the finished waveform.
-        pacing_override = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+        if existing_pace_palette and existing_pace_stage >= 2:
+            raise RuntimeError(
+                f"Chapter {chapter} native Fish cadence plateaued above {maximum_wpm:.0f} WPM "
+                "after instruction and slow-anchor correction; revise its Directed-Paced score"
+            )
+        pacing_override = pace_palette_path
         palette = read_json(PALETTE)
-        correction = (
-            " Pace correction: sustain an unhurried 140–148 spoken words per minute "
-            "before the supplied structural pauses. Do not accelerate through long syntax."
-        )
+        stage = existing_pace_stage + 1 if existing_pace_palette else 1
+        if stage == 1:
+            correction = (
+                " Pace correction: sustain an unhurried 140–148 spoken words per minute "
+                "before the supplied structural pauses. Do not accelerate through long syntax."
+            )
+            strategy = "native-cadence-instruction"
+        else:
+            # Fish cloning follows its acoustic reference more reliably than a numeric
+            # instruction.  The approved relief/hope anchor is the slowest intact
+            # Original Calder performance (about 145 WPM), so use its identity and
+            # cadence while retaining each role's distinct Codex direction.
+            slow_anchor = palette["performances"]["relief_hope"]
+            for performance in palette.get("performances", {}).values():
+                performance["referenceAudio"] = slow_anchor["referenceAudio"]
+                performance["referenceText"] = slow_anchor["referenceText"]
+            correction = (
+                " Pace correction: follow the supplied Calder cadence anchor. Read at a "
+                "deliberate 125–140 spoken words per minute before structural pauses, with "
+                "full articulation and no acceleration through long syntax."
+            )
+            strategy = "slow-original-calder-cadence-anchor"
         for performance in palette.get("performances", {}).values():
             instruction = str(performance.get("instruct", "")).rstrip()
             if correction.strip() not in instruction:
@@ -340,11 +366,17 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         palette["paceCorrection"] = {
             "chapter": chapter,
             "reason": f"Measured {float(pacing['actualWpm']):.2f} WPM above {maximum_wpm:.0f} WPM ceiling",
+            "stage": stage,
+            "strategy": strategy,
             "nativeGeneration": True,
             "waveformTimeStretch": False,
         }
         save(pacing_override, palette)
         force_segments = [int(item["index"]) for item in record.get("segments", [])]
+    elif existing_pace_palette.get("paceCorrection", {}).get("stage") == 2:
+        # Keep the slow cadence anchor for later naturalness or identity pickups;
+        # falling back to the base palette would silently undo the pace repair.
+        pacing_override = pace_palette_path
     if not force_segments:
         raise RuntimeError(f"Chapter {chapter} failed QA without a segment-level pickup")
     plan = {
@@ -361,7 +393,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
             },
             "notes": (
                 "Regenerate every native Fish take with the chapter pace correction; do not time-stretch."
-                if pacing_override
+                if pacing_too_fast
                 else "Regenerate only the listed cached takes, rebuild, and rerun every objective check."
             ),
         }
