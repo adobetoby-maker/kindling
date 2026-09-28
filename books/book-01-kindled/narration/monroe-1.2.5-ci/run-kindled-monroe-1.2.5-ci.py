@@ -890,7 +890,25 @@ def main() -> int:
             for job in queue["jobs"]:
                 if job["status"] == "rendering":
                     direction = Path(str(job.get("direction", "")))
-                    job["status"] = "directed" if direction.is_file() else "queued"
+                    plan_path = Path(str(job.get("pickupPlan", "")))
+                    if direction.is_file() and plan_path.is_file():
+                        # An interrupted pickup may already have written many valid
+                        # replacement takes into the hash-keyed render cache. Resume
+                        # with the same palette but no forced replacements so those
+                        # takes are reused and only missing segments are generated.
+                        plan = read_json(plan_path)
+                        forced = [int(index) for index in plan.get("forceSegments", [])]
+                        if forced:
+                            plan["interruptedForceSegments"] = forced
+                            plan["forceSegments"] = []
+                            plan["notes"] = (
+                                "Resume an interrupted hash-matched pickup from cached takes; "
+                                "generate only missing segments, then rerun every objective check."
+                            )
+                            save(plan_path, plan)
+                        job["status"] = "needs-pickups"
+                    else:
+                        job["status"] = "directed" if direction.is_file() else "queued"
                     job.pop("error", None)
         with_queue_lock(retry_rendering)
     if args.plan_pickups:
