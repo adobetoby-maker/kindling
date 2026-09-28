@@ -1,0 +1,539 @@
+# Chapter 35 — Jab: A Hole in It
+
+It came at the lantern again.
+
+Jab stood in the doorway with the frame on his back and the lantern hanging from it, and the husk came along the foot of the racks toward him the way the first one had. It had no face to come with. It came anyway, low, grey on grey, with the dust going up off the boxes where it passed them.
+
+Toren killed it again.
+
+He did it the same way, because it had worked. The lit heel, low, hooking, the drag round against the racks, and the point. It came apart. The grey fell in a heap on the floor a pace from the corner.
+
+"Don't," said Dee.
+
+She said it a breath too late, and she knew it. Jab could hear that she knew it.
+
+"Don't kill it," she said. "Not again. Every time you kill it, it's on the floor. And then it's in the air." She did not take her eyes off the heap. "Callie."
+
+"A hundred and ten," said Callie. "At the door."
+
+Jab watched the heap.
+
+He did not need to count. He counted anyway. It was the thing he did with his mouth shut, the way Callie read ground and Toren counted people. Ten breaths, and the heap drew out into threads, all of them at once, and went along the floor into the strands at the foot of the racks. It went along the strands into the corner. The floor was bare. Three breaths. The corner swelled.
+
+He felt it swell.
+
+That was the thing he had not expected. He had felt the pull all afternoon, since the stair. It had been the same pull he had felt with his palm on the stone at the mouth of the cut, only nearer, and harder: flat, open, patient, pulling at everything loose. Pulling past him. It had nobody in it. It pulled for ten, and stopped.
+
+But at the three it did something else.
+
+It pushed.
+
+He felt it the way he felt a vent. It was the same thing. It was a palm going flat on a floor and something going out of it, three breaths, into somewhere that was not the palm. Only this went out into the corner, into the heap. And the heap stood up.
+
+"It's venting," said Jab.
+
+They looked at him. The husk was up, and turning.
+
+"At the three," he said. "It draws for ten, and then it vents, for three. Like we do. Only it doesn't vent into the floor to be rid of it. It vents into the heap. On purpose." He heard his own voice. "It vents where it wants a thing. And the thing stands up."
+
+The husk came.
+
+---
+
+Toren did not kill it the third time.
+
+He stood in front of Jab in the doorway with the spike dark on his fist. When the husk came along the racks at them, he did not light the heel. He put the foot of a strut down on the concrete of the floor between him and the husk, at a slant, leaning away from them, the way you lean a plank against a door you want to keep shut.
+
+It came up out of the floor thin and pale and hard, as high as his chest.
+
+The husk walked into it.
+
+It hit the strut the way a husk hits anything, with all of itself, without looking. The strut took it. It did not move. The husk stood against the pale slant of it, pushing, and the strut went down into the floor and did not come up into Toren, because he was soft behind it.
+
+"Holding," said Toren.
+
+"How long?"
+
+"I don't know. It's not a wheel. It's pushing. It keeps pushing." His voice was tight. "Every breath it's on it, I pay."
+
+"Then we've got a strut's worth of time," said Dee, "and I'd like to spend it thinking."
+
+Callie had the counter out at the corner.
+
+"The corner's not as big," she said. "The heap. It's smaller than it was before the first one stood up. It's made two husks out of it, and one's walked back in, and one's on the strut." She moved the counter along the racks. "The strands go into it. All of them. From the boxes. From the rope. That's what feeds it."
+
+"Then cut it," said Toren.
+
+He said it through his teeth, to the husk.
+
+"Cut the strand," he said. "Between the corner and the rest. If it can't get to the heap, it can't send anything to the heap."
+
+Dee looked at the strands at the foot of the racks, running into the corner like roots.
+
+"Callie," she said. "Take the strut."
+
+---
+
+It was the first time Jab had seen Callie take a hold off Toren.
+
+He had heard about it. They had done it in the yard with the rack, and in the pen, and they had the words for it. But he had not seen it. He saw it now, in the doorway of a room under a hill, with a husk pushing on the end of it.
+
+"Taking," said Callie.
+
+She put the back of the hook's curve down on the concrete at the foot of the strut, still, and he saw it go pale.
+
+"Yours," said Toren.
+
+"Mine."
+
+"Letting go," said Toren, and the strut went, and the husk leaned into the space where it had been. And the hook was there. It stood across the husk's way, a foot of pale curve on the floor and four feet of conduit up to Callie's hands. The husk hit it and stopped as if it had walked into a wall. Because it had.
+
+Toren went round it.
+
+He went along the foot of the racks past the husk, on the side away from it, to where the strands ran in a bunch along the floor into the corner. There were six or seven of them, as thick as fingers, crawling, going into the heap. He lit the heel of the spike. He did not light the rest. He put the lit hook down across the strands and dragged it through them, all of them, in one long pull, the way you cut through the cords of a bale.
+
+They came apart where he cut them.
+
+There was a gap in them. A hand's width of bare concrete, with the strands lying on one side of it, going into the corner, and the strands lying on the other side of it, going into the boxes.
+
+"It's cut," said Toren.
+
+Jab was counting.
+
+It was the ten. The strands on the boxes' side of the cut crawled toward the corner, the way they had all afternoon, and came to the gap, and the grey at their ends went on a little way onto the bare concrete, and stopped. The strands on the corner's side crawled away from the gap into the heap. The gap stayed.
+
+"It's working," said Toren.
+
+Three.
+
+The strands on both sides of the gap pushed.
+
+Jab felt it. He felt it in his palms the way he would have felt Dee vent beside him at the long table. The corner's side pushed out toward the gap, and the boxes' side pushed out toward the gap. Their cut ends grew. They grew grey across the bare concrete toward each other, a finger, two fingers, like two lines of ants meeting on a floor. They met.
+
+The gap was gone.
+
+The strands lay along the foot of the racks into the corner, whole, as they had been. At the end of the three they began to crawl again.
+
+"It mended," said Callie.
+
+"It mended in the three," said Jab.
+
+Toren stood by the corner with the spike in his fist, lit at the heel, and looked down at the place where the gap had been. There was nothing there now but strands.
+
+"Every time," he said.
+
+"Every time it vents," said Jab. "That's what it's for. The vent. It draws, and it vents where there's a hole, and the hole's not there." He did not know how he knew it. He knew it the way he had known about the hands in the ditch. "That's all it does."
+
+---
+
+"Then we stop it getting any more," said Callie.
+
+She was still holding the husk on the hook. It pushed against the pale curve of the steel and did not move it. She was holding it off her stone, and her face said what it was costing.
+
+"The floor," she said. "It's getting it off the floor. The threads come in at the door, all afternoon, out of the corridor. Off the stair. Off the whole hill." She looked at the doorway where Jab stood. "If I put it across the door, they can't come in. Then all it's got is what's in here."
+
+"And that?" said Dee, with her chin at the husk.
+
+"Toren."
+
+Toren came back round and set a strut in front of the husk, soft, beside the hook. "Taking," he said. "Holding." And Callie said "Letting go," and lifted the hook off the floor, and the husk leaned on the strut and not on her.
+
+She went to the doorway. Jab stepped back into the corridor to let her through, and she stood in the doorway facing out. She put the back of the curve down on the concrete of the threshold, still, across the width of the door. Jab saw it go pale.
+
+And from the curve the lee stood up.
+
+It stood up off the outside of the curve, into the corridor, the side the bend faced. It was a pale thin wall, the width of the doorway and the height of her shoulder, standing on the threshold like a board across a gap in a fence. It kept off what was on the other side of it. It did not keep off anything that came round the end, but there was no end. The door frame was the end, on both sides.
+
+Jab looked down at the floor of the corridor, at his own feet.
+
+The threads were coming. They came along the floor of the corridor from the stair, from the door, from the spill of the heap that had been against the door, in their thin grey lines. They came along the foot of the left-hand wall, where the room's door was, and turned in toward it, the way water turns in toward a drain.
+
+They came to the lee, and stopped.
+
+He watched them. The lines came up to the pale foot of the wall where it stood on the threshold, and could not go through it, and could not go under it, because the curve was on the floor and still. They piled up against it. Ten breaths, and they came on and bunched against the foot of the lee in a little grey ridge. Three breaths, and they stopped. Ten, and they came on, and the ridge grew.
+
+"It's stopping them," said Jab.
+
+"It's stopping the floor," said Callie.
+
+She was looking up.
+
+Over her head, over the doorway, the rope went across the ceiling in its small trough and into the wall through the hole. Jab looked up at it too. It had not stopped. It crawled across the ceiling over the top of the lee, over Callie, in through the square hole in the concrete, and down the wall inside the room beside the door frame, and along the floor to the boxes and the corner. Ten, and it crawled. Three, and it pushed.
+
+In the corner the heap swelled, a little.
+
+"It's not the floor," said Callie. She said it slowly, looking at the rope over her head. "It's never been the floor. The floor's slow. The rope's fast." She looked at the ridge of grey against her lee. "I can stop what crawls. I can't stop the rope. It goes over the top."
+
+"Then it's the rope," said Toren, from the husk.
+
+"It's the rope."
+
+"How much?" said Dee.
+
+Callie went down to look. She did it with the lee still up. "A quarter," she said. "Of the stone. Near enough. For that." She lifted the curve off the threshold. "Down."
+
+The lee went out. The ridge of grey on the floor of the corridor did not wait. It went in over the threshold in threads, all of it, toward the boxes.
+
+---
+
+Toren had been holding the husk for a long time.
+
+Jab could see it in his face. The husk leaned on the strut and pushed, and pushed, and did not tire, because there was nothing in it to tire. And Toren stood behind the strut with his left arm against his chest and his right fist clenched on nothing, soft, paying by the breath.
+
+"I can hold it," said Toren. "I can't hold it all day."
+
+"Nobody's asking you to," said Dee.
+
+"Then what?"
+
+"Kill it," said Jab.
+
+They looked at him.
+
+"Kill it," said Jab again. He had been thinking about it since the corner. He had been thinking about the heap on the floor where the husk had come apart, the second time, lying there for ten breaths before the threads took it. Ten breaths of loose grey, lying still on a floor. "And I'll lift it. Before it goes."
+
+Dee understood him before the others did. He saw it in her face.
+
+"It's loose," said Jab. "It's lying there. I can lift loose. It's what I did on the east track every morning for a month." He looked at the canvas bag on Toren's shoulder. "And I put it in a vent jar, and I put the stopper in. And then it's in a jar."
+
+"And it can't get it out of a jar," said Dee slowly.
+
+"I don't know," said Jab. "I don't know anything. It can't get the jars on my back. It's been an hour and it hasn't gone near them. It goes for what's lying about."
+
+Dee looked at the husk on the strut, and at the corner, and at the counter on Callie's hip.
+
+"It's dirty," she said. "What you'd be lifting. It's off this floor. It'll have the hill in it. It's not going in a jar, it's going in your hand first."
+
+"I know."
+
+"Clean in the left, then," said Dee. "Off the jar, while you lift. Hold it high. Don't let it into your wrist. Into the vent jar, and stopper, and off. One try." She held out the open jar. "One."
+
+---
+
+Toren killed it. Heel and drag and point. It came apart at the foot of the racks and the grey fell in its heap.
+
+Jab was already there. He had come round from the doorway while Toren struck, with the frame on his back, and he crouched by the heap. He did not kneel. Nobody sits down inside the fence, and Dee had said that went for knees. Dee crouched beside him with the jar against his left palm. He put his right hand flat on the heap.
+
+It was warm.
+
+It was not like the drift at the wash, all the way through warm. It was loose grey, and most of it was cold, the cold with nobody in it. But there was warm grit all through it, fine, the way sand gets into a loaf. The hill. He felt it under his palm, busy, with the cold all round it.
+
+He let it come.
+
+It came. It came up into his palm, slow and cold, at the rate it came, and the warm grit came with it. The clean cold from the jar came into his left hand and went through him and held the warm grit away from his wrist. He held it high.
+
+And it was going.
+
+Under his palm the heap was going out from under him. He felt it go. It was being lifted from underneath, from the far side of the heap, from the strands at the foot of the racks. Something else had its hand flat on the same heap and was lifting it too. And it was better at it than he was.
+
+He had never lifted against anybody. There was nobody on the east track to lift against.
+
+He did not haul. He knew what hauling got you. He held his palm flat and let it come at the rate it came, and the heap went out from under his palm in threads toward the racks, faster than it came to him.
+
+Ten breaths.
+
+He took his palm up. There was a palm's worth of grey in it, a little mound of it held high and open, cold with the warm grit in it. Toren had the vent jar out of the bag and the stopper out. He held it with its mouth up.
+
+Jab put the mouth of the jar against his palm and tipped it.
+
+It went down out of him into the glass, the way it had gone out of Rook's hand into the jar on the east track. It lay in the bottom on the pale spent ash. Toren put the stopper in with the heel of his hand and pressed it.
+
+"Three," said Callie.
+
+The corner swelled. The husk came up out of it.
+
+It came up shorter.
+
+Jab saw it. They all saw it. It stood up out of the heap in the corner, grey, faceless, and turned toward them. It came along the racks. And its head, or the top of it where a head would be, was a hand lower than it had been. It was thinner. It was a husk with a bite out of it.
+
+"It's short," said Callie. "It's short by what's in the jar."
+
+Toren set a strut in front of it, and it walked into that.
+
+Jab crouched by the racks with his right palm still held up, open. It was tingling. Dee put her own palm flat on it and drew. He felt her find the warm grit left in his creases, the little of the hill that had come with the lift, and take it, and turn, and put her palm on the floor.
+
+"Clean," she said.
+
+Callie held the counter to the vent jar in Toren's hand.
+
+"Forty," she said. "At a hand. It's hot. It's the floor in a jar."
+
+"It's the floor in a jar," said Dee. "And the floor's a hand less." She looked at the corner, and the short husk on the strut. "It can't get it back. It doesn't even try."
+
+"It can't reach into a jar," said Jab.
+
+It was not a question, and Dee did not answer it. She wrote it.
+
+---
+
+It was not enough.
+
+They could all see that. A palm's worth, for a whole ten breaths, crouched on a dirty floor with the counter at a hundred and ten, and the corner had given it all back less a hand. And the rope went on coming in over the door and down the wall into the boxes, crawling, filling the corner again.
+
+"It's lifting faster than me," said Jab.
+
+"It's got more hands," said Callie.
+
+Jab stood up. He looked at the rope where it came down the wall beside the door frame. It was as thick as two fingers, grey, crawling down the concrete, ten and three. It was the thing that fed the corner. It fed the heap that made the husk. Everything came down it.
+
+He had lifted off a heap. The heap had been lifted out from under him, from the rope's end.
+
+But the rope itself.
+
+"It's ash," he said. "The rope. It's all ash. It's loose ash going somewhere."
+
+Dee turned and looked at him.
+
+"I lift ash," said Jab. "Flat. Open. At the rate it comes." He heard himself. It sounded simple. It was the same thought he had had on the east track the first morning, that it was the most ordinary work there was. "If I put my hand on the rope, and lift, it's not going to the corner. It's coming to me. And into the jar."
+
+"It's going west," said Dee. "The rope. It's not lying there. It's going. You'll be lifting a river."
+
+"Then I'll lift what goes past."
+
+"What's in it's not a body," said Dee. "You don't know what it is."
+
+"I know what it's doing." Jab looked at her. "It's doing what I do. I felt it vent. I know when it's going to vent." He did not look away. "Let me take one lift off it. Off the rope, by the door, where it comes down. One. And I'll come off when you say."
+
+Dee looked at him for a long moment. He knew what she was doing. She was doing the sum she always did, the one with a price on every line. And she was doing the other one, the one Rook did, where you put your palm over the thing and shut your eyes and see what's there. He had watched her learn to do both, on the road. He did not know which one she was doing now.
+
+"One," she said. "Clean in the left. Hold it high. Off when I say, and not a breath after." She held out the jar. "I'll say *off* at the ten."
+
+---
+
+He put his right palm flat on the rope.
+
+He put it where it came down the wall beside the door frame, at the height of his chest, a hand below the hole. It was dry and soft under his hand, the way the heap had been. It was moving. He could feel it crawl west under his palm, a hand's width, the whole of it together. Ten breaths.
+
+He let it come.
+
+Nothing came.
+
+It was not like the heap. It was not lying there. It was going past his palm, all of it, the way water goes past a hand held flat in a stream. He tried to lift what went past and it went past. It did not come up. It went on down the wall and into the room and away, ten breaths, a hand's width, and none of it came to him. It had somewhere to be.
+
+"Nothing," he said. "It's going past."
+
+Three.
+
+And then it came.
+
+It came all at once. The rope stopped crawling, the way it stopped at every three. And it pushed. It pushed out the way it had pushed into the corner. It pushed into the corner, and into the cut ends of the strands, and into anywhere there was a hole.
+
+And his palm was a hole.
+
+He felt it find his hand. He felt the rope feel the place where something was drawing on it, lifting, taking, the way a hole takes. It pushed into the place. It pushed into his palm.
+
+It was warm. It was all warm, the whole of it, the hill and the grit and the loose grey all together, and it came up into his palm like hot water up a pump. The clean cold from the jar came into his left hand and met it and held it off his wrist. For a breath. For two.
+
+Three.
+
+Ten.
+
+It did not stop. The ten came, and the rope did not draw back what it had pushed. It was in him now. It was his hand's. It was not loose any more. And his palm was still flat on the rope, drawing, because that was what his palm did when it was flat on something. It was lifting. It was taking. And the rope felt the hole in it still there, still taking, and it did not draw. It kept coming.
+
+He understood it then. He understood it all at once, the way you understand you have stepped off the edge of a bank.
+
+It thought he was a hole in it.
+
+It thought he was a wound, and it was mending him. It was doing to him what it did to the cut in the strands and the heap in the corner. It had felt a place where something was being taken away, and it was pouring into the place to fill it. And behind the rope there was the corridor, and the tray, and the stair, and the yard. The whole of the hill. Everything lying where it fell.
+
+It would never stop. There was nobody in it to stop.
+
+---
+
+The warm went into his wrist.
+
+He felt it go past the heel of his hand, where the clean cold had been holding it. It went up into the wrist and into the forearm. It was not hot sand. It was hot water. It went up his arm the way water goes up a wick.
+
+He could not take his hand off.
+
+He could. He knew he could. His hand was only flat on a rope of grey on a wall. There was nothing holding it there but him. But his palm was drawing, and the thing under it was pouring, and every part of him that had ever put a hand on Tonk wanted to keep drawing. It was a body that needed everything, and there was more of it, and more, and he could take it. If he kept his hand there he could take all of it. It was what he was for.
+
+It was like Tonk. It was exactly like Tonk. It was the frame on his back on the road, and the fever in the night, and the bad leg, and a small hot body that needed every part of him, every day, for eighteen days, and more. He had given it every part. He had not minded. He had not known there was an end to him until the day they lifted his brother off his back at the gate, and he had stood in the yard with his hands empty and not known what they were for.
+
+He could not remember his own floor.
+
+He looked for it. He went down to look, the way Dee had taught him, and there was warm water all the way down, and he could not find where he stopped.
+
+*Don't be asleep.*
+
+It was Tonk's voice. It was not Tonk. It was a thing Tonk had said to him, with a wooden fish in his fist and his face furious. *Don't eat inside. Bring Little back. And don't be asleep.*
+
+He was going to sleep. That was what it was. He was going somewhere warm and wide with no floor in it, and he was going to stay there, drawing, while the whole hill poured into his hand.
+
+"Off," said Dee.
+
+He heard it. He did not move.
+
+"*Off*," said Dee.
+
+She took his wrist.
+
+---
+
+She did not ask him again. She put her own hand round his right wrist, hard, the whole of her hand, and pulled. His palm came off the rope with a small dry sound, like a strip of cloth off a wound.
+
+The warm stopped coming.
+
+It stopped at once, the way water stops when you take the jug away. But what had come was in him. It was in his palm and his wrist and his arm to the elbow, hot, all the way through. It did not hurt. It was worse than hurting. It was full.
+
+"Vent," said Dee. "Into the jar. Now. Toren—"
+
+Toren had the vent jar open. Jab put his right palm on its mouth and let it go.
+
+It went. Some of it went. It went out of his palm into the glass, warm and gritty, and he held his hand on the jar mouth for three breaths, and five, and ten, and it kept going. The counter on Callie's hip was going faster than it had all afternoon. And his arm was still warm, all the way up. The palm was hot.
+
+"Off the jar," said Dee. "Give me the arm."
+
+She did not wait for him to give it. She took his forearm in both her hands and put her palms flat on it, one above the wrist and one below the elbow, and he felt her find it. She drew.
+
+He knelt. He did not mean to. His knees did it, the way Callie's legs had sat her down at the mouth of the cut. He was on his knees on the floor inside the fence, and Dee was crouching over him with her hands flat on his arm, and he felt her take the warm out of him a handful at a time, and turn, and vent, and come back.
+
+"Callie," said Dee. "Jar."
+
+Callie had it. She held the open jar against the back of Dee's hand so Dee could draw off it without letting go of him. Jab felt the clean cold come through Dee into his arm. It was a long way off.
+
+"Busy," said Dee, to herself. "Busy. Busy." And after a long time, "Less."
+
+He looked at his palm.
+
+It was white. Not all of it. There was a place on the heel of it, where he had pressed it flattest against the rope, the size of a coin. It was white, and shiny, like skin that has been scalded. When he put his thumb on it he could not feel his thumb.
+
+"Busy?" said Dee. She had seen him look. She put her palm over the white place, an inch off, and shut her eyes.
+
+He knew before she said it. He could feel it himself, now that the arm was coming down. The heel of his palm was not busy. It was done. It was the old leaning wall. It had happened while his hand was on the rope, and it had fixed.
+
+"It's done," said Dee. She did not open her eyes. "That's in the done part. I can't draw it."
+
+"I know," said Jab.
+
+"The rest's coming out." She moved her hand to his wrist. "The rest'll come. That won't."
+
+He knelt on the floor and let her work. He did not look at the white place again.
+
+---
+
+"Jar," said Callie.
+
+She said it before it was dry. Jab heard her say it, and heard that it was his word.
+
+"That's one," said Dee. She did not stop drawing. "Open two."
+
+Callie reached over Jab's shoulder to the frame on his back. He felt her hand on the top row, feeling for one of the full ones and not the empties. She lifted it out by the neck. He heard the stopper come out.
+
+"Two," said Callie. "Open. Three whole."
+
+"Say the one."
+
+"The first's done," said Callie. "It went on the four of us, and the yard, and the room. And Jab's lift. And that." She held the new jar against the back of Dee's hand. "Eight out of the first. We're at thirty-two, and two open."
+
+"Twenty-eight's today," said Dee.
+
+"I know."
+
+"Four more, and we're at today's line."
+
+"I *know*, Miss Wren."
+
+Dee took her hands off Jab's arm and sat back on her heels. He felt her go. He felt the cold of her palms leave his skin. His arm was warm still, from the elbow down, but it was the warm of a bruise, not the warm of water. His palm was white at the heel.
+
+"Your floor," said Dee.
+
+He went down to look, and it was there. He could find it now. A finger, where it had always been. And above it, his own, a hand. Less than a hand.
+
+"It's there," he said.
+
+"I know it's there," said Dee. "I was looking for it the whole time. I'd not have stopped till I found it." Her voice was quite steady. "Stand up, Jab. Nobody sits down inside the fence. That goes for knees."
+
+He stood up.
+
+The husk was still on Toren's strut. It had never stopped pushing. Toren was standing behind the strut with his face grey and wet and his teeth together, soft, paying.
+
+"Toren," said Dee. "How long?"
+
+"Since he put his hand on it," said Toren. "The whole of that."
+
+---
+
+Jab stood in the room with his hand hanging at his side and looked at the rope on the wall.
+
+It had not changed. It came down beside the door frame, as thick as two fingers, and crawled west into the room, ten and three. There was nothing on it to show where his hand had been.
+
+He thought about what it had done.
+
+It had not wanted him. There was nothing in it to want anything. It had felt a hole, and it had poured into the hole, the way it poured into the cut in the strands and the corner. It had done it to him because he was drawing. Because he was a place where something was being taken away. It would have poured into him until there was no more of him to pour into.
+
+It had no floor. That was all it was. It was a thing that drew, and vented where there was a hole, and had no floor, and nobody to find the floor for it. It would do it until everything on the hill was in it.
+
+And he had nearly done the same.
+
+He did not know how to think that. He stood with it. He had put his hand on the rope because it was what he did, and it had been exactly like Tonk, and he had wanted to keep his hand there. He had wanted to take all of it. He could not find where he stopped. Dee had had to find it for him.
+
+He put his left hand on his coat, over the left side, and felt the small hard shape of the fish through the cloth. The body. The tail. The place where the fin had been.
+
+*Bring Little back.*
+
+He would. He had been nearly asleep, and he was not now.
+
+"It's got no floor," he said.
+
+Dee looked at him.
+
+"That's what's wrong with it," said Jab. "It draws and it vents, and it doesn't stop, because there's nobody to say *off*." He looked at the white place on his palm. "I'd not have stopped either."
+
+"No," said Dee. "You'd not." She was quiet a moment. "That's why there's two of us."
+
+---
+
+"Miss Wren," said Callie.
+
+She was in the doorway with the counter held out into the corridor, and her voice was flat. It was the voice she used for a number she did not like.
+
+"The rope," she said. "In the corridor. It's getting fatter."
+
+Jab went to the door. He went past Toren and the husk and the strut, and stood beside Callie in the doorway, and looked along the corridor to the west, where the lantern light went and stopped.
+
+The tray ran along the right-hand wall into the dark. The rope lay in it, grey, crawling. It had been as thick as a wrist.
+
+It was thicker. It was as thick as a forearm, and it filled the tray, and the tray was bowed down between its iron brackets under the weight of it. And it was getting thicker from the west. He could see it. Further along, at the edge of the lantern light, past the second door, the rope in the tray was as thick as a leg. It bulged out over the edges of the trough. The bracket under it had bent.
+
+And it was not crawling west any more.
+
+It was coming east.
+
+Not the grey in it. The grey in it was still going west, ten and three, as it had all afternoon. But the rope itself was getting thicker from the west end, and the thickness was coming along it toward them. It came the way a swallowed thing goes down the neck of a snake.
+
+Something was coming along the rope.
+
+Jab felt it before he saw it. He felt the pull change. It had been flat all afternoon, and far off, and patient. Now it was near. It was very near, and it was big, and it had nobody in it at all. It was like standing next to a mill wheel you cannot see, in the dark, and feeling the air move.
+
+At the very edge of the light, past the third door, the dark moved.
+
+There was a heap of grey on the floor of the corridor there. It had not been there before. It was higher than the floor, higher than a man's knee, higher than his waist. It lay across the corridor from wall to wall, and the rope in the tray went down into it from above. It was coming toward them. It was not walking. It had nothing to walk with. It was pulling itself along its own rope, the way a man pulls himself along a rope hand over hand, only there were no hands. The grey went forward and the heap came after it.
+
+At the three, in the middle of the heap, something opened.
+
+It was a line of light. It was the colour of the edge of the sky, the colour of the bottom of a pond. It opened in the middle of the grey like a mouth that was not a mouth, for three breaths. And it shut.
+
+Then the ten, and the heap came on.
+
+"Callie," said Dee, very quietly.
+
+"A hundred and thirty," said Callie. "At the door." And then, "A hundred and forty."
+
+The counter on her hip had changed its sound. It was not ticking. It had gone to the thin high sound it had made at the wash, a wasp in a jar.
+
+"A hundred and fifty," said Callie. "Red. The needle's not stuck. It's red."
+
+"Red, and nobody trapped," said Dee. "Everybody out. Now."
+
+"The box," said Toren.
+
+He was still at the strut, with the husk on it. He looked at the carrier on its board by the heap of boxes. One box in it. The lid on the board beside it.
+
+"Lid," said Dee. "Leave it. Out."
+
+Toren let the strut go. The husk fell forward onto the floor where the strut had been, and got up. He did not wait for it. He took the lid off the board with his good hand and dropped it into the groove on the carrier, and it went in with a soft heavy sound, and he turned.
+
+"Out," said Dee. "Stair. Toren last."
+
+Jab went.
