@@ -108,7 +108,7 @@ Callie looked at the place where it had been.
 
 "She's the crew's."
 
-"She's the best horse inside the berm," said the girl. "There's eleven. I know all of them." She said it as if it were the most important thing about her, and Callie thought it probably was. "Tell whoever does her leg she wants the poultice changing twice a day, not once. The stable man does it once because he's lazy."
+"She's the best horse inside the berm," said the girl. "There's nine. I know all of them." She said it as if it were the most important thing about her, and Callie thought it probably was. "Tell whoever does her leg she wants the poultice changing twice a day, not once. The stable man does it once because he's lazy."
 
 "Tell him yourself," said Katori.
 

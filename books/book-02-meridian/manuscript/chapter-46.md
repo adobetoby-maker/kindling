@@ -142,11 +142,11 @@ Her mother looked at the three jars on the plate. Then she looked at the tally b
 
 ---
 
-In the ward, Keel looked at her first. He put his ear to her back, left side and right, and made her breathe, and then cough, which she did not want to do. Then he held the lamp up and looked in her nose.
+In the ward, Keel looked at her first. She put her ear to Callie's back, left side and right, and made her breathe, and then cough, which she did not want to do. Then she held the lamp up and looked in her nose.
 
-"Nose," he said. "Burst at the floor. That's your blood. The lung's clear." He wiped her lip and chin with a wet cloth, and that was the end of the blood.
+"Nose," she said. "Burst at the floor. That's your blood. The lung's clear." She wiped Callie's lip and chin with a wet cloth, and that was the end of the blood.
 
-Then he strapped her ribs again, properly, with a long bandage and his mouth shut. Her mother sat on the edge of the bed in the fourth on the left and watched him do it. Then Callie lay on the bed in hut fourteen on her back with her arm across her side, and could not lie on either side, and did not sleep.
+Then she strapped Callie's ribs again, properly, with a long bandage and her mouth shut. Her mother sat on the edge of the fourth bed on the left and watched her do it. Then Callie lay on the bed in hut fourteen on her back with her arm across her side, and could not lie on either side, and did not sleep at first.
 
 She lay and listened to her mother breathe.
 
@@ -390,7 +390,7 @@ After Senna, Sowerby looked at Callie's mother.
 
 He did not do it at once. He stood by the machine with his hands in his coat pockets and looked at her across the shed. She was standing at the yellow line on her stick, where she had stood to watch Senna go under.
 
-"I'd like to look at your head," he said. "Now the thing's honest. I've not had a picture I believed since the thirteenth."
+"I'd like to look at your head," he said. "Now the thing's honest. I've not had a picture I believed since the first."
 
 Her mother looked at him.
 
@@ -420,7 +420,7 @@ Sowerby looked at the screen.
 
 He said it to her mother. He did not say it to Callie. He came round the machine and stood by the narrow bed and said it down to her.
 
-"That's the second medicine. The swelling round the thing is less than it was on the thirteenth. That's why the words come. That's why there's been no fit since the fortieth." He was quiet. "Seventeen days."
+"That's the second medicine. The swelling round the thing is less than it was on the first. That's why the words come. That's why there's been no fit since the fortieth." He was quiet. "Seventeen days."
 
 "And the thing?" said her mother.
 

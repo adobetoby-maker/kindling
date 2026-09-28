@@ -643,3 +643,25 @@ itself as the prose author.
 
 Codex orchestrates the run and repository work. Codex does not substitute
 itself as the prose author.
+
+## Final whole-book audit and listening-edition state
+
+- Status: **book accepted for owner/listening edition**
+- Coverage: all 48 chapters, read in full and in order; six movement checkpoints,
+  living map, authorship record and available movement rechecks inspected afterward.
+- Reviewer: Claude Opus 5.5 in a fresh context; same-model simulated editorial read,
+  not an independent human read. No subagents and no manuscript edits by the reviewer.
+- Review: `editor/BOOK-LEVEL-REVIEW.md`
+- Final copy corrections: `editor/BOOK-LEVEL-COPY-FIX.md`
+- Final manuscript length: **317,695 words**.
+- Developmental verdict: no additional movement-sized repair required.
+- Exact final copy fixes:
+  - Doctor Keel pronouns in chapter 46;
+  - Tilda's comparison scan date in chapter 46 (D+1, not D+13);
+  - Meridian horse count in chapter 10 (nine, matching chapter 24);
+  - two nearby chapter 46 listening clarifications, with no meaning change.
+- Remaining work is edition production: human listening notes, punctuation/copy proof,
+  narration markup and audio. Those are not developmental manuscript blockers.
+
+Codex orchestrates the run and repository work. Codex does not substitute
+itself as the prose author.
