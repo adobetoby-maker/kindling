@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build a slow, hash-bound Original Calder cadence anchor from cleared Chapter 2 takes."""
+"""Build the slowest audited Original Calder cadence anchor from cleared Chapter 2 takes."""
 
 from __future__ import annotations
 
@@ -15,11 +15,11 @@ RUN = Path(
     "kindled-monroe-1.2.5-ci-directed-paced"
 )
 CHAPTER = 2
-FIRST_SEGMENT = 170
-LAST_SEGMENT = 173
+FIRST_SEGMENT = 91
+LAST_SEGMENT = 98
 OUTPUT = Path(
     "/Users/drive/.local/share/monroe-tts/anchor-builds/"
-    "calder-ci-cadence-v1"
+    "calder-ci-cadence-v2"
 )
 
 
@@ -76,7 +76,7 @@ def main() -> int:
     assert parameters is not None
     channels, sample_width, sample_rate, compression, compression_name = parameters
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    anchor = OUTPUT / "chapter-02-segments-170-173.wav"
+    anchor = OUTPUT / "chapter-02-segments-091-098.wav"
     with wave.open(str(anchor), "wb") as writer:
         writer.setnchannels(channels)
         writer.setsampwidth(sample_width)
