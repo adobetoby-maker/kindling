@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the slowest audited Original Calder cadence anchor from cleared Chapter 2 takes."""
+"""Build audited Original Calder cadence anchors from cleared Chapter 2 takes."""
 
 from __future__ import annotations
 
@@ -15,12 +15,21 @@ RUN = Path(
     "kindled-monroe-1.2.5-ci-directed-paced"
 )
 CHAPTER = 2
-FIRST_SEGMENT = 91
-LAST_SEGMENT = 98
-OUTPUT = Path(
-    "/Users/drive/.local/share/monroe-tts/anchor-builds/"
-    "calder-ci-cadence-v2"
+ANCHORS = (
+    {
+        "first": 91,
+        "last": 98,
+        "output": "calder-ci-cadence-v2",
+        "purpose": "Slower local native-cadence conditioning after numeric Fish instructions plateaued.",
+    },
+    {
+        "first": 282,
+        "last": 294,
+        "output": "calder-ci-cadence-v3",
+        "purpose": "Slowest dialogue-rich native-cadence conditioning after the slower Calder anchor plateaued.",
+    },
 )
+OUTPUT_ROOT = Path("/Users/drive/.local/share/monroe-tts/anchor-builds")
 
 
 def digest(path: Path) -> str:
@@ -28,21 +37,13 @@ def digest(path: Path) -> str:
         return hashlib.file_digest(handle, "sha256").hexdigest()
 
 
-def main() -> int:
-    queue = json.loads((RUN / "queue.json").read_text(encoding="utf-8"))
-    job = next(item for item in queue["jobs"] if int(item["chapter"]) == CHAPTER)
-    if job["status"] != "qa-cleared" or not job.get("automatedPass"):
-        raise RuntimeError("The cadence source chapter is not objectively QA-cleared")
-
-    chapter_dir = RUN / f"chapter-{CHAPTER:02d}"
-    record_path = chapter_dir / f"chapter-{CHAPTER:02d}.calder-directed-paced.narrator.json"
-    record = json.loads(record_path.read_text(encoding="utf-8"))
+def build_anchor(job: dict, record_path: Path, record: dict, specification: dict) -> dict:
+    first = int(specification["first"])
+    last = int(specification["last"])
     selected = [
-        item
-        for item in record["segments"]
-        if FIRST_SEGMENT <= int(item["index"]) <= LAST_SEGMENT
+        item for item in record["segments"] if first <= int(item["index"]) <= last
     ]
-    expected = list(range(FIRST_SEGMENT, LAST_SEGMENT + 1))
+    expected = list(range(first, last + 1))
     if [int(item["index"]) for item in selected] != expected:
         raise RuntimeError("Cadence source segments are incomplete or out of order")
 
@@ -65,8 +66,7 @@ def main() -> int:
                 parameters = current
             elif current != parameters:
                 raise RuntimeError("Cadence source WAV formats do not match")
-            speech = reader.readframes(reader.getnframes())
-            frames.append(speech)
+            frames.append(reader.readframes(reader.getnframes()))
             total_frames += reader.getnframes()
         channels, sample_width, sample_rate, _, _ = current
         pause_frames = round(sample_rate * int(item["pauseAfterMs"]) / 1000)
@@ -75,8 +75,9 @@ def main() -> int:
 
     assert parameters is not None
     channels, sample_width, sample_rate, compression, compression_name = parameters
-    OUTPUT.mkdir(parents=True, exist_ok=True)
-    anchor = OUTPUT / "chapter-02-segments-091-098.wav"
+    output = OUTPUT_ROOT / str(specification["output"])
+    output.mkdir(parents=True, exist_ok=True)
+    anchor = output / f"chapter-02-segments-{first:03d}-{last:03d}.wav"
     with wave.open(str(anchor), "wb") as writer:
         writer.setnchannels(channels)
         writer.setsampwidth(sample_width)
@@ -106,13 +107,25 @@ def main() -> int:
         "wordsPerMinute": round(words * 60 / duration, 2),
         "nativeSpeech": True,
         "waveformTimeStretch": False,
-        "purpose": "Local native-cadence conditioning after numeric Fish instructions plateaued.",
+        "purpose": specification["purpose"],
     }
-    metadata_path = OUTPUT / "anchor.json"
+    metadata_path = output / "anchor.json"
     temporary = metadata_path.with_suffix(".json.tmp")
     temporary.write_text(json.dumps(metadata, indent=2) + "\n", encoding="utf-8")
     temporary.replace(metadata_path)
-    print(json.dumps(metadata, indent=2))
+    return metadata
+
+
+def main() -> int:
+    queue = json.loads((RUN / "queue.json").read_text(encoding="utf-8"))
+    job = next(item for item in queue["jobs"] if int(item["chapter"]) == CHAPTER)
+    if job["status"] != "qa-cleared" or not job.get("automatedPass"):
+        raise RuntimeError("The cadence source chapter is not objectively QA-cleared")
+    chapter_dir = RUN / f"chapter-{CHAPTER:02d}"
+    record_path = chapter_dir / f"chapter-{CHAPTER:02d}.calder-directed-paced.narrator.json"
+    record = json.loads(record_path.read_text(encoding="utf-8"))
+    built = [build_anchor(job, record_path, record, item) for item in ANCHORS]
+    print(json.dumps(built, indent=2))
     return 0
 
 

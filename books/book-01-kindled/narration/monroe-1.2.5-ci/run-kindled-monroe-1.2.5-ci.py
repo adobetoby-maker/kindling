@@ -36,6 +36,10 @@ SLOW_CADENCE_ANCHOR_METADATA = Path(
     "/Users/drive/.local/share/monroe-tts/anchor-builds/"
     "calder-ci-cadence-v2/anchor.json"
 )
+SLOWEST_CADENCE_ANCHOR_METADATA = Path(
+    "/Users/drive/.local/share/monroe-tts/anchor-builds/"
+    "calder-ci-cadence-v3/anchor.json"
+)
 PYTHON = Path("/Users/drive/.local/share/monroe-tts/venv/bin/python")
 WORD_VERIFIER = Path("/Users/drive/git-backups/boundary-universe-cc/scripts/verify-local-tts.py")
 RUN = Path(
@@ -338,10 +342,10 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         # runs above the approved range after structural pauses, regenerate its
         # native takes with an explicit cadence instruction instead of stretching
         # the finished waveform.
-        if existing_pace_palette and existing_pace_stage >= 4:
+        if existing_pace_palette and existing_pace_stage >= 5:
             raise RuntimeError(
                 f"Chapter {chapter} native Fish cadence plateaued above {maximum_wpm:.0f} WPM "
-                "after instruction and both QA-cleared cadence-anchor corrections; "
+                "after instruction and all QA-cleared cadence-anchor corrections; "
                 "revise its Directed-Paced score"
             )
         pacing_override = pace_palette_path
@@ -369,9 +373,11 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
             )
             strategy = "slow-original-calder-cadence-anchor"
         else:
-            anchor_metadata = (
-                CADENCE_ANCHOR_METADATA if stage == 3 else SLOW_CADENCE_ANCHOR_METADATA
-            )
+            anchor_metadata = {
+                3: CADENCE_ANCHOR_METADATA,
+                4: SLOW_CADENCE_ANCHOR_METADATA,
+                5: SLOWEST_CADENCE_ANCHOR_METADATA,
+            }[stage]
             if not anchor_metadata.is_file():
                 raise RuntimeError("The QA-cleared Original Calder cadence anchor is missing")
             cadence_anchor = read_json(anchor_metadata)
@@ -391,11 +397,11 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 "cadence. Preserve each directed intention, but keep the same measured thought "
                 "preparation, articulation, and unhurried sentence movement."
             )
-            strategy = (
-                "qa-cleared-original-calder-cadence-anchor"
-                if stage == 3
-                else "qa-cleared-slowest-original-calder-cadence-anchor"
-            )
+            strategy = {
+                3: "qa-cleared-original-calder-cadence-anchor",
+                4: "qa-cleared-slower-original-calder-cadence-anchor",
+                5: "qa-cleared-slowest-original-calder-cadence-anchor",
+            }[stage]
         for performance in palette.get("performances", {}).values():
             instruction = str(performance.get("instruct", "")).rstrip()
             if correction.strip() not in instruction:
