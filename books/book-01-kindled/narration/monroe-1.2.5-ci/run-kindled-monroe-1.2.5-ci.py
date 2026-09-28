@@ -516,6 +516,72 @@ def plan_pickups() -> None:
             update(chapter, status="needs-attention", error=f"Pickup planning failed: {error}")
 
 
+def accept_title_only_source_updates() -> None:
+    """Rebase cached narration when canon changed only the spoken H1 title."""
+    repository = BOOK.parents[1]
+    queue = load_queue()
+    for job in queue["jobs"]:
+        source = Path(job["source"])
+        current_sha = sha(source)
+        if current_sha == job["sourceSha256"]:
+            continue
+        relative = source.relative_to(repository)
+        previous_bytes = subprocess.check_output(
+            ["git", "show", f"HEAD^:{relative.as_posix()}"], cwd=repository
+        )
+        previous_sha = hashlib.sha256(previous_bytes).hexdigest()
+        if previous_sha != job["sourceSha256"]:
+            raise RuntimeError(f"Chapter {job['chapter']} prior Git source does not match the queued hash")
+        previous = previous_bytes.decode("utf-8")
+        current = source.read_text(encoding="utf-8")
+        previous_parts = previous.split("\n", 1)
+        current_parts = current.split("\n", 1)
+        if len(previous_parts) != 2 or len(current_parts) != 2 or previous_parts[1] != current_parts[1]:
+            raise RuntimeError(f"Chapter {job['chapter']} changed beyond its H1 title")
+
+        chapter = int(job["chapter"])
+        chapter_dir = RUN / f"chapter-{chapter:02d}"
+        raw_track = chapter_dir / f"chapter-{chapter:02d}.codex-raw.performance.json"
+        performance = chapter_dir / f"chapter-{chapter:02d}.directed-paced.performance.json"
+        if not raw_track.is_file():
+            raise RuntimeError(f"Chapter {chapter} has no accepted Codex direction to rebase")
+        raw = read_json(raw_track)
+        raw["sourceSha256"] = current_sha
+        save(raw_track, raw)
+        compile_directed_pacing(source, raw_track, performance)
+
+        audio = Path(str(job.get("audio", "")))
+        changes: dict[str, object] = {
+            "sourceSha256": current_sha,
+            "direction": str(performance),
+            "directionSha256": sha(performance),
+            "sourceRevision": "title-only canon update accepted from Git parent",
+            "pickupAttempts": 0,
+        }
+        if audio.is_file():
+            plan_path = chapter_dir / f"chapter-{chapter:02d}.pickup-plan.json"
+            plan = read_json(plan_path) if plan_path.is_file() else {
+                "schemaVersion": 1,
+                "chapter": chapter,
+                "audioStatus": "needs-pickups",
+                "preserveAcceptedSegments": True,
+                "forceSegments": [],
+                "reasons": {},
+                "notes": "",
+            }
+            plan["forceSegments"] = sorted({1, *[int(index) for index in plan.get("forceSegments", [])]})
+            plan.setdefault("reasons", {})["canonicalTitleUpdate"] = [1]
+            plan["notes"] = (
+                "Regenerate the spoken title plus any existing failed takes; preserve all accepted body segments."
+            )
+            save(plan_path, plan)
+            changes.update(status="needs-pickups", pickupPlan=str(plan_path))
+        else:
+            changes.update(status="directed")
+        changes["error"] = None
+        update(chapter, **changes)
+
+
 def launch_workers(count: int, limit: int | None, prepare_only: bool) -> None:
     processes = []
     for number in range(1, count + 1):
@@ -586,6 +652,7 @@ def main() -> int:
     parser.add_argument("--retry-directing", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--retry-rendering", action="store_true", help=argparse.SUPPRESS)
     parser.add_argument("--plan-pickups", action="store_true")
+    parser.add_argument("--accept-title-only-source-updates", action="store_true")
     args = parser.parse_args()
     initialize()
     if args.retry_attention:
@@ -619,6 +686,8 @@ def main() -> int:
         with_queue_lock(retry_rendering)
     if args.plan_pickups:
         plan_pickups()
+    if args.accept_title_only_source_updates:
+        accept_title_only_source_updates()
     if args.status:
         status()
         return 0
