@@ -322,7 +322,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         pacing.get("pass") is False
         and float(pacing.get("actualWpm", 0.0)) > maximum_wpm
     )
-    if not force_segments and pacing_too_fast:
+    if pacing_too_fast:
         # Fish cloning stays at native speed. For a chapter whose long syntax still
         # runs above the approved range after structural pauses, regenerate its
         # native takes with an explicit cadence instruction instead of stretching
@@ -330,7 +330,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         pacing_override = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
         palette = read_json(PALETTE)
         correction = (
-            " Pace correction: sustain an unhurried 170–180 spoken words per minute "
+            " Pace correction: sustain an unhurried 150–160 spoken words per minute "
             "before the supplied structural pauses. Do not accelerate through long syntax."
         )
         for performance in palette.get("performances", {}).values():
