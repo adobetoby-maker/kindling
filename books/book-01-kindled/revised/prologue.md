@@ -50,7 +50,7 @@ The quiet was the first thing, because a hospital was never quiet. It had a hum 
 
 Out on the ramp an ambulance had rolled backward into a concrete post and stopped there with its doors open, and nobody was in it.
 
-She understood then, because her whole job was keeping stray fields out of one room, and she knew what a big enough pulse did to anything with a wire in it. She had simply never imagined the room would be the thing that was left.
+She understood then. An electromagnetic pulse—an EMP—had crossed the city, maybe farther. It had overloaded or scrambled every unshielded circuit it touched: phones, engines, power controls, ventilators. Her whole job was keeping stray fields out of one room. She had simply never imagined the room would be the thing that was left.
 
 A woman came down the stairwell in the dark with one hand on the rail. It was the charge nurse from the fourth floor, still in blue scrubs, who had once lent her a pen and never asked for it back.
 
