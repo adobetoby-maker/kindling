@@ -206,8 +206,11 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
             raise RuntimeError(
                 f"Chapter {chapter} score-revision selector is not unique: {selector!r}"
             )
-        if milliseconds != 1550:
-            raise RuntimeError("Directed score revisions may only add 1,550 ms thought landings")
+        if milliseconds not in {1550, 2100}:
+            raise RuntimeError(
+                "Directed score revisions may only add 1,550 ms thought landings "
+                "or 2,100 ms subject resets"
+            )
         if selector in existing_after:
             continue
         additions.append(
@@ -215,7 +218,11 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
                 "after": selector,
                 "milliseconds": milliseconds,
                 "reason": str(landing["reason"]),
-                "kind": "Codex-directed complete-thought landing",
+                "kind": (
+                    "Codex-directed subject reset"
+                    if milliseconds == 2100
+                    else "Codex-directed complete-thought landing"
+                ),
             }
         )
     if not additions:
@@ -224,7 +231,7 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
     score["scoreRevision"] = {
         "revisionId": revision_id,
         "reason": str(revision["reason"]),
-        "addedThoughtLandings": len(additions),
+        "addedStructuralLandings": len(additions),
         "nativeSpeechSpeed": True,
         "waveformTimeStretch": False,
         "revisionFile": str(SCORE_REVISIONS),
@@ -827,8 +834,8 @@ def recheck_attention() -> None:
                     "forceSegments": [],
                     "reasons": {"directedScoreRevision": []},
                     "notes": (
-                        "Recompile the hash-bound Codex-directed score with added 1,550 ms "
-                        "complete-thought landings. Reuse every compatible native Fish take; "
+                        "Recompile the hash-bound Codex-directed score with its versioned "
+                        "complete-thought landings and subject resets. Reuse every compatible native Fish take; "
                         "render only cache misses, rebuild, and rerun all objective checks."
                     ),
                 }
