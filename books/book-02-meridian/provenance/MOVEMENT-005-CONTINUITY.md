@@ -12,6 +12,13 @@ Every number below was re-checked against the **repaired** `manuscript/chapter-3
 `editions/movement-005-first-draft/`; where this note differs from that copy, the
 repaired manuscript governs.
 
+**Superseded narrative architecture (2026-09-30).** Chapters 33–40 were promoted as a
+single-company ensemble edition after Opus 5.5 authoring, cold read, editorial review,
+one consolidated same-author repair, and targeted acceptance. All event, injury, ash,
+object, power, and day-state facts below remain binding. For the canonical headings,
+company camera, settle map, final word counts, and revised joins, the binding overlay is
+`provenance/ENSEMBLE-REVISION-CONTINUITY.md`. Final Movement Five length is **48,264 words**.
+
 ## Owner/orchestrator rulings applied in the repair
 
 | Ruling | How the page now carries it |
@@ -100,7 +107,7 @@ Named by Jab's description and Rook's word ("It's got my job"), written by Toren
 | D+48 | Rook cooler, "holding"; second paper. Rook to the bridge post: "You'll want to look. Don't… You will. Once." Dee measures: **Toren's own two turns, Callie's own three parts**; three spare vent jars packed. Fast entry **at the end of the morning**; sky 1 in 12; the door already open. A new thigh-thick floor rope laid along the corridor into room 1. **The lifter lies on the carrier.** On Dee's ten: Toren cuts the ceiling rope outside the hole, then the floor rope at the threshold; Dee and Jab in; **Callie sets the still hook on the threshold, lee up into the corridor and leaned back over the hole** — the river shut. The fight (below). **Under the line on purpose, inside two turns: 3 Handfuls**, Toren's and Dee's call, once, for the Director. **Toren hands the lean to Callie's hook, lights, puts the point in the open vent; the lifter comes apart**; all ropes and husks collapse to grey; nothing moves at the ten or the three. Callie at her floor lets go: **the lee goes out first, the curve stays fixed for a breath, her legs go, she falls onto the still-fixed conduit: ribs cracked**; then the Ward leaves the steel. Dee at her floor (once). 20 glass turns: box 2 into the carrier; the 140 box left; the lifting; the three full vent jars left under the racks with a chalk cross. Out up the ramp: pulled from the landing, **the back rope through the landing ring and twice round the yellow rail's post, Dee taking in slack, Callie calling it with a hand on the tail only**; Toren's last strut at the landing ("I'm at my floor. I'm stopping"). Sky: **no count**. Rook's poles on the bridge. Pell's tip-the-cart. **In: 4.** Jab draws all at the river, alone, and vents half the night. Callie grades the jars. Rook grades the Yield. Dee sick in the night; Jab draws her | 37–40 |
 | D+49 | Floors: Toren's own a turn; Callie's own half, ribs strapped (two, same place); Jab's palms drawn cool by Dee; Dee a finger over her floor. Rook holding; third paper (one left). **The route decision: the wash, the cart in pieces (Pell's), tomorrow at first light if the wind is down.** The cart goes whole a mile back to the cut, this side of the gap. **Out: 6.** Callie reads the road for the wheels | 40 |
 
-## Viewpoint map
+## Viewpoint map — historical repaired baseline (superseded)
 
 | Ch | POV | Title | Days | Words (`wc -w`) |
 |---|---|---|---|---:|
@@ -114,7 +121,8 @@ Named by Jab's description and Rook's word ("It's got my job"), written by Toren
 | 40 | Callie | Graded | D+48 night–D+49 | 4,936 |
 | **Total (repaired)** | | | | **47,586** (first draft 46,193) |
 
-Every chapter has a single viewpoint. Headings follow `# Chapter N — POV: Title`.
+At the repaired baseline, every chapter had a single viewpoint. This architecture is
+superseded by the ensemble overlay named at the top of this file.
 
 ## Ash ledger (Handfuls; a clean Flask = 8)
 
@@ -425,7 +433,7 @@ write the cost. Dee writes it. They move the whole cart a mile to the cut on D+4
 - **The east road is still cut; the return, the machine repair, the accord, patient
   outcomes and the north-yard school are unresolved.**
 
-## Length and viewpoint (facts for review, not scores)
+## Length and viewpoint — historical repaired baseline (superseded)
 
 - **Length:** 47,586 words after repair (`wc -w`; first draft 46,193), inside the
   packet's approximate 42,000–48,000.

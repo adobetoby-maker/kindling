@@ -665,3 +665,53 @@ itself as the prose author.
 
 Codex orchestrates the run and repository work. Codex does not substitute
 itself as the prose author.
+
+## Ensemble edition — Movement Five and Everybody Back
+
+- Status: **accepted and promoted to canon (2026-09-30)**.
+- Scope: canonical Chapters 33–40 and 45.
+- Owner direction: after the three protagonists become one company, the book must
+  contain sustained sections where the company shares one field and the narrator can
+  move among the whole group instead of dividing every scene into three adjacent POV
+  lanes.
+- Seat: Monroe Jackson 1.3.0, O'Connor seat 1.3.0.
+- Prose author: **Claude Opus 5.5 (`claude-opus-5-5`)** through the authenticated
+  Anthropic subscription CLI. Chapters 33–40 were written in one connected run;
+  Chapter 45 was written by the same author lineage as the second company-camera
+  section. No other model wrote or revised the prose.
+- Orchestration: Codex compiled the packets, froze editions, ran gates, applied the
+  two exact accepted Chapter 45 seam fixes, promoted canon, and updated records. Codex
+  did not substitute prose.
+- Packets:
+  - `packets/MOVEMENT-005-ENSEMBLE-REVISION.md`
+  - `packets/CHAPTER-045-ENSEMBLE-REVISION.md`
+- Compiled author prompt: `editor/MOVEMENT-005-ENSEMBLE-OPUS-5-5.prompt.md`.
+- Reviews and repair:
+  - `revisions/ensemble-2026-09-29/COLD-READ.md`
+  - `revisions/ensemble-2026-09-29/EDITORIAL-REVIEW.md`
+  - `editor/MOVEMENT-005-ENSEMBLE-CONSOLIDATED-REPAIR.md`
+  - `revisions/ensemble-2026-09-29/REPAIR-REPORT.md`
+  - `revisions/ensemble-2026-09-29/TARGETED-RECHECK.md`
+  - `revisions/ensemble-2026-09-29/CHAPTER-045-RECHECK.md`
+- Gate: **ACCEPT**. The Chapter 45 recheck required only two surgical corrections:
+  restore the east-slope lamp geography and acknowledge that all six crossed the Sag
+  on D+41. No broad rewrite or optional polish followed the gate.
+- Simulated cold-read scores:
+  - adult: keep reading 8, action 9, attachment 9, connection 9;
+  - age 13: attachment 9, progression 9.
+- Final canonical length:
+  - Chapters 33–40: **48,264 words**;
+  - Chapter 45: **7,590 words**;
+  - whole book: **318,898 words**.
+- Binding continuity overlay: `provenance/ENSEMBLE-REVISION-CONTINUITY.md`.
+- Frozen editions:
+  - prior canon: `editions/ensemble-pre-revision-2026-09-29/`;
+  - first Chapters 33–40 ensemble draft:
+    `editions/ensemble-first-draft-2026-09-29/`;
+  - first Chapter 45 ensemble draft:
+    `editions/ensemble-chapter-045-first-draft-2026-09-30/`.
+
+This ensemble edition supersedes the earlier single-viewpoint architecture and the
+317,695-word whole-book audit total. It does not supersede the locked event, injury,
+ash, power, object, day, or medical-state continuity established by the earlier
+movement checkpoints.

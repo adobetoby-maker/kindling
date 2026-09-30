@@ -70,7 +70,7 @@ Callie stood by the frame and said the whole of it. She said it the way her moth
 
 Nobody said anything for a while.
 
-"Thirty-five and four," said Pell, from the cart. "Against forty." He was quiet. "Five short, clean. For two boxes."
+"Thirty-five and four," said Pell, from the cart. "Against forty." He was quiet. "And two boxes."
 
 "And three under the line, inside two turns," said Dee. "That goes in front of her with our names on it. Not as a thing we'll do again. As a thing we did." She did not stop there. "And my floor. And his." She nodded at Toren. "And her ribs. And his hand." She did not look toward the far end of the gravel, where Jab was still kneeling. "And the rest of it on the floor of that room."
 
@@ -110,7 +110,7 @@ Callie heard it before she saw it. She was on the first watch with Pell, because
 
 Jab was already there. He had not been asleep either. He went down the gravel to Dee in the dark, and Callie could see the two of them against the grey of the water: Dee on her knees with her hand on a stone, and Jab crouched beside her.
 
-"It's that room," said Dee, when she could. Her voice carried along the water. "It's twenty turns in that room after, at a hundred and thirty, with nobody drawing me. It's that room coming out." She was sick again. "It'll be that room for a day."
+"It's the room," said Dee, when she could. Her voice carried along the water. "It's twenty turns in that room after, at a hundred and thirty, with nobody drawing me. It's the room coming out." She was sick again. "It'll be the room for a day."
 
 "Hold still," said Jab.
 
@@ -162,7 +162,7 @@ And she had turned her head back and held.
 
 She had not carried them. That was what she understood, standing by the cart wheel in the dark with her arm across her side. She had carried people all her life. She had carried her mother across four hundred miles in her head, every breath, every step, counting her. She had held a wagon on a hook with her mother in it. On the lip at the wash she had held a lee off her own stone over two bodies and taken a third in and out of it with her eyes. She had thought that was what it was for: holding people.
 
-Under the hill she had held a door, and the three of them had done the work behind her back. She had not been holding them. She had been holding the edge of them. And they had held the rest.
+Under the hill she had held a door. She had held the rest of the world off three people so that they could do the thing only they could do, where she could not see them do it. She had not been holding them. She had been holding the edge of them. And they had held the rest.
 
 *Stop holding so hard. Let what's been built hold.*
 
@@ -274,7 +274,7 @@ He said it to Callie. She stood by the tail of the cart with her arm across her 
 
 "Out of the lifter's," said Toren.
 
-"Out of the lifter's," said Callie. "It's got twenty and a half clean. A Handful and a half went on Miss Wren in the night." She did not look at Dee. "It'd have ten and a half left, and the fence's thirteen, and the dirty four. And home, twenty-four, not touched." She stopped. "That's half the lifter's, for one hour in the wash. The rest is for the road." Then she went on. "We'd be on the old line east of the gap by the fiftieth, with the cart back together. And it's five days from there, on the road we know. With the siding." She did the last sum. "The fifty-fifth. Home."
+"Out of the lifter's," said Callie. "It's got twenty and a half clean. A Handful and a half went on Miss Wren in the night." She did not look at Dee. "It'd have ten and a half left, and the fence's thirteen, and the dirty four. And home, twenty-four, not touched." She stopped. "And we'd be on the old line east of the gap by the fiftieth, with the cart back together. And it's five days from there, on the road we know. With the siding." She did the last sum. "The fifty-fifth. Home."
 
 "Not the fifty-fourth," said Toren.
 

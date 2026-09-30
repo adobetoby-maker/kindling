@@ -210,7 +210,7 @@ Jab crouched by the racks with his right palm still held up, open. It was tingli
 
 Callie held the counter to the vent jar in Toren's hand.
 
-"It's hot," she said. "At a hand it reads over everything in here. It's the floor in a jar."
+"Forty," she said. "At a hand. It's hot. It's the floor in a jar."
 
 "It's the floor in a jar," said Dee. "And the floor's a hand less." She looked at the corner, and at the short husk on the strut. "It can't get it back. It doesn't even try."
 

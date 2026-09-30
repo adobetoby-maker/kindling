@@ -56,25 +56,25 @@ She opened her small bag and took out four folded papers, white, each the size o
 
 The water came first, then.
 
-Dee's skin was empty. She had put the whole of it into Rook's back at the cut, a little at a time. Toren went to the cart and hefted the other two where they hung from the rail behind the driver's bench.
+Dee's skin was empty. She had put the whole of it into Rook's back at the cut, a little at a time, and nobody had counted the others since. So Toren went to the cart and counted them: two skins hanging from the rail behind the driver's bench, one of them full, and the other a third full, near enough, when he hefted it.
 
-"One full," he said. "One a third."
+"One and a third," he said.
 
 "That's for drinking," said Dee. "Not for washing. Not for his back." She looked at the river. "The river's for the rest. If it's clean."
 
-Callie took the counter down the gravel to the edge of the water above the pump house, where the river came down out of the north fast and dark over the stones, and held it out over the water for ten breaths.
+Callie was already on her feet with the counter out of its bag. She went down the gravel to the edge of the water above the pump house, where the river came down out of the north fast and dark over the stones, and she held the counter out over it at the length of her arm for ten breaths.
 
 "Seven," she said. "The room." She walked down past the pump house and did it again, below the place where they had washed at dusk. "Nine. Our wash is in it."
 
 "Above the pump house for drinking," said Dee. "Below it for washing. And nothing out of it goes in his back till it's boiled."
 
-The thorn they had carried on the cart had burned the night before, so Toren and Callie went down the bank below the pump house, where the river had once run high and had left a line of dry wrack among the stones: sticks, reeds, bleached old branches. They picked along it for half a mile and came back with an armful each.
+Boiling meant a fire, and a fire meant wood, and the pump house had none. It was stone, its roof was gone, and the thorn they had carried on the cart had burned the night before. So Toren and Callie went down the bank below the pump house, where the river had once run high and had left a line of wrack along the gravel a hand above the water. It was sticks and reeds and bleached old branches, dry, jammed among the stones. They picked along it for half a mile and came back with an armful each.
 
 "That's one pot," said Callie. "Maybe two."
 
 "Then it's one now and one tonight," said Dee.
 
-She boiled the pot at the pump house wall, stirred the powder into a cup of it when it had cooled, and held the cup while Rook drank, lying on his side with his hand round hers. He drank all of it, and made a face at the end.
+She boiled the pot at the pump house wall. When it had cooled enough, she stirred the powder into a cup of it and held the cup while Rook drank, lying on his side with his hand round hers on the cup. He drank all of it, and he made a face at the end.
 
 "Sowerby's," he said. "It tastes like his office."
 
@@ -122,37 +122,39 @@ That was how she measured his own: in turns of the glass, as long as it would ho
 
 She did her own last, with two fingers on her own wrist and her eyes on the hill, and she did not say it out loud. She wrote it in her book.
 
-Then there were the coats. They had washed at dusk by Senna's rules, but dusk was dusk, and now it was day. Callie went round them with the counter, and they stood still for it one at a time.
+Then there were the coats. Senna's rules said coat off, shake it, wash at the river, and they had done all that the night before; but they had done it at dusk, in the last of the light, and now it was day. Callie went round them with the counter, and they stood still for it one at a time, the way they had stood for Dee.
 
-Jab's coat had the long pale stain down its back where jar B had broken on the rail at the wash.
+Jab's coat had the long pale stain down its back where jar B had broken on the rail at the wash. Callie held the counter to it and waited.
 
-"Eight," said Callie. "It's clean. It's only the jar." She looked at the stain. "It's the stair's ash. It's clean on you."
+"Eight," she said. "It's clean. It's only the jar." She looked at the stain. "It's the stair's ash. It's clean on you."
 
-Dee's coat and Callie's read twelve and fourteen. Pell's, up on the cart, read twenty, and Dee made him hand it down and shook it out downwind herself.
+Dee's coat was twelve. Callie's own was fourteen. Pell's, up on the cart, was twenty, and Dee made him take it off and hand it down to her, and she shook it out downwind herself.
 
 Toren's was thirty.
 
-Everybody knew why. He had been outside the lee at the wash, killing two husks against it, with the grey going up over him in a burst each time. He stood in his shirt on the gravel with his arm in its cuff, and he was cold, and he did not say so.
+Everybody knew why. He had been outside the lee at the wash, killing two husks against it, with the grey going up over him in a burst each time. He stood in his shirt on the gravel with his arm in its cuff while Callie held the counter to the coat, and he was cold, and he did not say so.
 
-"Wash it," said Dee. "Below the pump house. Then beat it on the stones till you're tired, and then some more."
+"Wash it," said Dee. "In the river. Below the pump house. Then beat it on the stones till you're tired, and then some more."
 
-He did it one-handed. He knelt at the edge of the water and held the coat under until his hand stopped feeling, then pulled it out and beat it on a flat stone, and put it under again. After a while Jab came down the gravel, took the coat out of his hand without being asked, and did the beating for him. The grey went off it into the water in a thin cloud and away down the river.
+He did it one-handed. He knelt at the edge of the water, pushed the coat under and held it there until his hand stopped feeling, which took ten breaths, and then he pulled it out and beat it on a flat stone and put it under again. After a while Jab came down the gravel, took the coat out of his hand without being asked, and did the beating for him. The grey went off it into the water in a thin cloud and away down the river.
 
-"Sixteen," said Callie, when it had lain in the sun for an hour. "It's still in the seams."
+"Sixteen," said Callie, when it had lain on the stones in the sun for an hour. "It's still in the seams."
 
 "Sixteen's a coat," said Dee. "Thirty's a coat I'd not let inside."
 
-Then the hook. Its curve read eighteen from the loose bank and the lip, but it was the grip that Callie frowned at. The top of the conduit was wrapped in rag where her hands went, old and grey and soft, and it had been wet with the wash and had dried on her.
+Then the hook.
+
+Callie held it up and read it herself. The curve read eighteen, because it had been down the loose bank at the wash twice and on the lip in the wind. Then she held the counter to the grip. The top of the conduit was wrapped in rag where her hands went, and the rag was old and grey and soft, and it had been wet with the wash and had dried on her hands.
 
 "Thirty-four," said Callie. "It's the rag."
 
-She cut it off with her knife in one long strip, without letting it touch her other hand, and stood with it hanging off the point of the knife, and looked at Dee.
+She took out her knife and cut it off. She did it carefully, in one long strip, without letting it touch her other hand. Then she stood with the strip hanging off the point of the knife and looked at Dee.
 
 "Not the river," said Dee. "Not the fire."
 
 So Toren dug a hole at the far end of the gravel, away from the water, with the heel of his boot, and Callie dropped the rag into it off the knife. He kicked the gravel back over it and laid a flat stone on top, and Callie chalked a cross on the stone with Pell's chalk. *Don't touch.* It was the second cross they had left on the road.
 
-She scoured the curve in the river with sand, the way her grandfather had scoured a scale pan, and it came down to eleven. The grip was bare steel now, cold and smooth. Below where the rag had been, a paper tag was still tied round the conduit, where the grey coats had tied it in the pen. *pen, 35th.*
+She washed the curve of the hook in the river with sand, scouring it the way her grandfather had scoured a scale pan, and when she read it again it said eleven. The grip was bare steel now, cold and smooth. Below where the rag had been, a paper tag was still tied round the conduit, where the grey coats had tied it in the pen. *pen, 35th.*
 
 "You could cut that off too," said Toren.
 
@@ -292,17 +294,15 @@ They said all of it again out loud at the pump house, because Dee would not have
 
 Callie said the ash first. She stood by the cart with her hands open at her sides and said it flat, the way her mother said the store book.
 
-"Inside, forty," she said. "The line's sixteen. That leaves twenty-four to work with." She looked at the rack behind the driver's bench. "Home, three, on the cart. Not to be touched."
-
-The rest of what they had sat in the frame and on the cart: two empty jars in the frame, the road jar empty in its rack, five vent jars in the straw, and the socket where jar B had broken.
+"Inside, forty. Five whole, in the frame. The line's sixteen. That's two whole." She looked at Jab's frame, which stood against the pump house wall on two flat stones. "Twenty-four to work with. Three jars. Home, three. Twenty-four. On the cart. Not to be touched." Dee was still looking at her, so she went on. "And two empty in the frame. A and C. And the road jar in the rack, empty. And five vent jars on the cart. And one socket with glass in it."
 
 "Settled," said Dee.
 
-"A Handful each in you and me and Toren," said Callie. "Jab carries none. Jab's the jar."
+"A Handful in me. A Handful in Toren. A Handful in you." Callie stopped. "Jab carries none. Jab's the jar."
 
 "Four going in," said Dee. "Not five. Say it."
 
-"Four going in," said Callie. "Two healers." She did the sum with her lips not quite moving, and the others waited while she did it. "What we priced was for five of us going in, with three healers. It's four, with two, and one of the two has to be the jar and the watch in turns, all the time, and nobody's the reserve." She shook her head. "I can't make it come out better than it is. Twenty-four's four people for half the day, with nothing going wrong."
+"Four going in," said Callie. "Two healers." She did the sum with her lips not quite moving, and the others waited while she did it. "We priced forty-eight for five people. An hour in, two in the rooms, an hour out. The rooms were thirty." She looked at the hill. "It's not five. It's four. But it's four with two healers, not three, and one of them's got to be the jar and the watch in turns, all the time, and nobody's the reserve." She shook her head. "I can't make it come out better than it is. Twenty-four's four people for half the day, with nothing going wrong."
 
 "Then we don't spend twenty-four today," said Toren.
 
@@ -394,19 +394,19 @@ She lifted it out. It was a pair of tongs, iron, a yard and a half long, with tw
 
 She put the tongs back in the carrier and set the lid in its groove.
 
+They went in at noon.
+
 The wind had not come all morning, and the grey lay still in the yard in its combed lines. "Go while it's down," said Rook, from the canvas, and nobody argued with that either.
 
-They ate at the pump house: bread, and the last of the cold meat. They drank as much as they could hold of the boiled water that was left, and then a little from the full skin, because there would be nothing to drink inside the fence. One at a time they went down to the river below the pump house to make water, because Dee said so, and because nobody sits down inside the fence.
+They ate first, at the pump house: bread, and the last of the cold meat. They drank as much as they could hold of the boiled water that was left, and then a little from the full skin, because there would be nothing to drink inside the fence. One at a time they went down to the river below the pump house to make water, because Dee said so, and because nobody sits down inside the fence.
 
-Dee opened the first jar there, not at the gate. She lifted it out of Jab's frame by the neck, one of the five, and pulled the stopper and looked in, and then she stoppered it again loosely so that it would come out with a thumb.
+Dee opened the first jar at the pump house, not at the gate. She lifted it out of Jab's frame by the neck, one of the five, and pulled the stopper and looked in, and then she stoppered it again loosely so that it would come out with a thumb.
 
 "Jar one," said Callie. "Open. Eight in it. Four whole left in the frame."
 
 "Four whole," said Dee, and wrote it.
 
 They put two vent jars in a canvas bag, and Toren hung the bag from his good shoulder. Callie had the hook and the counter. Dee had the glass and the book and the open jar in the crook of her arm. Jab had the frame, with four full jars in it and the two empties and the broken socket, and his knife not on his fist. The cart's two lanterns hung unlit from Toren's belt and Callie's, with a twist of tallow wick in each, and Dee had the box of lights in her bag. Senna had said it went down stairs, where the walls went thick, and there would be no windows.
-
-They went in at noon.
 
 ---
 
@@ -456,7 +456,7 @@ The back end of the sledge came off the crack and onto the bank.
 
 He let the strut go. At the end. Not after.
 
-"Sliding," called Pell, from across the river, a breath late. Somebody laughed at the near end of the bridge, and it was Rook.
+"Sliding," called Pell, from across the river, a breath late. Somebody laughed on the far bank, and it was Rook.
 
 Toren stood at the gate with the green knot of wire in front of him.
 

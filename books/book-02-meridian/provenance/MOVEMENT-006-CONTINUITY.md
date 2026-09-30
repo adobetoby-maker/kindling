@@ -72,19 +72,23 @@ repaired value is given and the change is marked *(repaired)*.
 | 42 | Toren | Backward | D+50 afternoon – D+51 dawn | 5,078 |
 | 43 | Callie | Half a Cup | D+51 – D+54 | 6,984 |
 | 44 | Jab | The Wrong Movement | D+55 (to the north lip) | 4,667 |
-| 45 | Toren | Everybody Back | D+55 (the return hold) | 7,065 |
+| 45 | Ensemble | Everybody Back | D+55 (the return hold) | 7,590 |
 | 46 | Callie | The Wheel in the Machine | D+55 dusk – D+57 | 5,377 |
 | 47 | Jab | The Terms He Chooses | D+55 night – D+57 | 5,141 |
 | 48 | Toren | The First Page After | D+58 – D+60 | 5,453 |
-| **Total** | | | | **47,308** (repaired; first draft 47,322) |
+| **Total** | | | | **47,833** (ensemble edition; repaired baseline 47,308) |
 
-- **Movement Six by POV (repaired):** Toren 17,596 (37.2%), Jab 17,351 (36.7%), Callie 12,361 (26.1%)
-  — Jab three, Toren three, Callie two, with Jab and Toren longer, as the packet asked.
-- **Cumulative, whole book (317,695 words, repaired):** Toren 34.0%, Callie 33.2%, Jab 32.8%. Owner ruling: length and the three-lead balance are accepted.
-- Every chapter has a single viewpoint; headings `# Chapter N — POV: Title`.
+- **Movement Six architecture (ensemble edition):** Chapters 41–44 and 46–48 retain their
+  single viewpoints. Chapter 45 is a company-camera chapter with short, explicit settles;
+  see `provenance/ENSEMBLE-REVISION-CONTINUITY.md` §11.
+- **Whole book length:** **318,898 words** after the ensemble promotion. The old percentage
+  split is no longer a valid measurement because Chapters 33–40 and 45 are not single-POV
+  chapters. All three protagonists remain co-leads.
+- Headings use `# Chapter N — POV: Title` for single-viewpoint chapters and
+  `# Chapter N — Title` for ensemble chapters.
 - **Length is over the packet's approximate 36,000–42,000** by about 5,300 words (≈13%).
   No scene was padded; none was compressed to fit. The repaired book total is
-  **317,695**, above the packet's projected 306,000–312,000 but accepted by the owner/
+  **318,898**, above the packet's projected 306,000–312,000 but accepted by the owner/
   orchestrator ruling. Chapter 47's repeated ash recital was already compressed in the
   repair; no further length cut is requested.
 

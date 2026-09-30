@@ -220,11 +220,7 @@ They washed. Coat off. Shake it. Wash at the river below the pump house, the han
 
 Toren did it one-handed, on his knees at the edge of the water, with Callie's counter going along each of them afterward. Jab did it with his right hand held flat on the surface of the river and not put into it, because Dee had said not to put the white place in anything cold until she had looked at it again.
 
-Toren took the canvas bag off his shoulder. The two vent jars in it were stoppered and heavy and hot, and one of them was the jar from the rope. Callie held the counter to the other one, the jar from the first lift, at a hand.
-
-"Forty," she said. "Out here, where the river reads seven."
-
-Dee carried them both to the far end of the gravel herself, away from the water, and stood them beside the flat stone with the chalk cross on it where the rag was buried.
+Toren took the canvas bag off his shoulder. The two vent jars in it were stoppered and heavy and hot, and one of them was the jar from the rope. Dee carried them to the far end of the gravel herself, away from the water, and stood them beside the flat stone with the chalk cross on it where the rag was buried.
 
 "They're not going on the cart," she said.
 
@@ -358,7 +354,7 @@ He said it after Dee had changed Rook's pad, in the dark, with the boiled water 
 
 Toren did not know if that was true.
 
-He thought about his grandmother on the pillow with her eyes shut, saying *pull the door*. She had been saving that. She had not said *come back without it*, and she had not needed to. She had known his father, and his father's father, and she had told him where the boxes were anyway, knowing what he would do: *I know what every man in that line does with a number once he's got it.* He goes and gets it, she had said. With a paper and three ifs.
+He thought about his grandmother on the pillow with her eyes shut, saying *pull the door*. She had been saving it. She had not said *come back without it*. She had not needed to. She had said it to the whole room, with *I know what every man in that line does with a number once he's got it*.
 
 He looked at the five of them round the dying fire. At Pell on the cart with his leg out, who had said it so it had been said. At Rook, hot, on the canvas, not asleep. At Dee with her book on her knee and her hands still. At Callie. At Jab with his hand palm up on his knee.
 

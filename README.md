@@ -5,9 +5,9 @@
 **World:** Earth, 2150 — seventy years after the Fall, wormhole-borne power waking
 a residual, dormant part of the human brain
 **Status:** The selected working Book One is the 53-chapter, three-protagonist
-`Kindled` assembly under `books/book-01-kindled/`. Book Two, *Meridian*, has
-begun under `books/book-02-meridian/`; its first eight-chapter movement is
-drafted and repaired. Hobb's Wall, Tallow Gate, Ember, and Undern remain
+`Kindled` assembly under `books/book-01-kindled/`. Book Two, *Meridian*, is a
+complete 48-chapter canonical manuscript under `books/book-02-meridian/`, with
+its sustained company-camera ensemble edition accepted. Hobb's Wall, Tallow Gate, Ember, and Undern remain
 recoverable comparison/source editions.
 
 ---
@@ -33,14 +33,17 @@ The selected working assembly is:
 | Book | Directory | Structure | Chapters | Words |
 |---|---|---|---:|---:|
 | **Kindled — Book One** | `books/book-01-kindled/` | Callie → Jab → Toren movement braid; shrinking travel-clock blocks; shared Meridian convergence | 53 | 212,412 |
-| **Kindled — Book Two: Meridian** | `books/book-02-meridian/` | Three co-protagonists inside Meridian; shared medical clocks, residency pressure, ash work, and the failing treatment machine | 1–8 drafted and repaired | 39,707 |
+| **Kindled — Book Two: Meridian** | `books/book-02-meridian/` | Three co-protagonists inside Meridian; shared medical clocks, residency pressure, ash work, the failing treatment machine, and a unified company-camera expedition/return | 48 (complete; ensemble edition accepted) | 318,898 |
 
 Its frozen first assembly lives in `chapters/`; the Monroe 1.3 listening edition
 lives in `revised/`; `SOURCE_MAP.md` records every chapter's origin. Book Two
 begins inside Meridian and owns the medical and institutional consequences. Its
 current canonical prose is in `books/book-02-meridian/manuscript/`; the untouched
 Movement One first draft is preserved under
-`books/book-02-meridian/editions/movement-001-first-draft/`.
+`books/book-02-meridian/editions/movement-001-first-draft/`. The pre-ensemble
+canon is preserved under `books/book-02-meridian/editions/ensemble-pre-revision-2026-09-29/`,
+and `books/book-02-meridian/provenance/ENSEMBLE-REVISION-CONTINUITY.md` is the
+binding overlay for revised Chapters 33–40 and 45.
 
 ### Legacy Toren comparison editions
 

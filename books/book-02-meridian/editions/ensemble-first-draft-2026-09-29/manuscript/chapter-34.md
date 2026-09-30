@@ -158,7 +158,7 @@ The stair went down beside the rail into the dark.
 
 Toren stood at the top of it with the lantern on his belt and his good hand on the yellow rail, and for a while he did not say anything. Jab's left hand had gone to his coat, over the left side, and stayed there.
 
-"Gran's been looking at that line for five weeks," said Toren.
+"She's been looking at that line for five weeks," said Toren.
 
 "I know," said Callie.
 

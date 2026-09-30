@@ -6,7 +6,7 @@ Callie had not looked at it the night before. She had been too cold, and too tir
 
 The pump stood in the middle of the stone floor under the open sky. It was iron, and it was bigger than the cart. A long iron drum lay on its side on a stone bed, and at one end of the drum there was a wheel as high as Callie, with spokes, and a rod going from the wheel into the drum. A pipe as thick as her body came up out of the floor on the river side and went into the bottom of the drum, and two more came out of the top of it and went through the wall toward the river, toward the broken pipes lying in the water.
 
-It was all rust. It had not moved in a long time, and when Callie put her hand on the wheel, it did not move now either.
+It was all rust. It had not moved in seventy years. Callie put her hand on the wheel, and it did not move now either.
 
 "It's a pump," said Pell, from outside.
 
@@ -168,11 +168,11 @@ He said it from the canvas. He had not moved, but his voice was clear.
 
 Callie said it.
 
-"Twenty-nine," she said. "Inside. One jar open, with five in it. Three whole." She did the sum out loud, because Dee would want it out loud. "Settling tonight. Two in me, that's a Handful and three quarters more. A Handful and a half in Toren, and that's more than he's carried too. Half in you, Miss Wren, to make you one. That's three and three quarters." She stopped. "Twenty-five and a quarter. The line's sixteen. Nine and a quarter to work with."
+"Twenty-nine," she said. "Inside. One jar open, with five in it. Three whole." She did the sum out loud, because Dee would want it out loud. "Settling tonight. Two in me, that's a Handful and three quarters more. A Handful and a half in Toren. Half in you, Miss Wren, to make you one. That's three and three quarters." She stopped. "Twenty-five and a quarter. The line's sixteen. Nine and a quarter to work with."
 
 "Nine and a quarter," said Toren.
 
-"It's not twelve," said Callie. "It's less than today cost us."
+"It's not twelve," said Callie.
 
 "It's not twelve," said Toren. "It's nine and a quarter. That's what I'll pay." He wrote it. "If it's not done at the line, we come out, finished or not."
 
@@ -202,15 +202,15 @@ She had always held what she could see. That was what Rook had taught her on the
 
 Tomorrow she would be looking at a corridor.
 
-The lee would not be over anybody. It would not be shaped like where they were. It would be a wall across a door, keeping a corridor out of a room. Nobody would be inside it. Everybody would be behind it, doing things she could not see, and she would not know how they were until one of them said so.
+The lee would not be over anybody. It would not be shaped like where they were. It would be a wall across a door, standing between a corridor and a room and keeping the corridor out. Nobody would be inside it. Everybody would be behind it.
 
 *You can't have all of us,* Dee had said on the forty-fourth. *You'll have to decide who's worth the lee.*
 
-She did not know who that was, tomorrow. She did not know what a lee was for, if it was not over anybody. She had never held anything she could not see.
+She understood it now, with her palm on the paper. It was not about who was worth it. Tomorrow the lee was not for anybody. It was for the thing that was not them. It was for keeping the rest of the hill off, so that the three people behind her could do what only they could do, where she could not see them do it. She would not be carrying them. She would be holding the door so that they could carry it.
 
 *Stop holding so hard. Let what's been built hold.*
 
-Her mother had said that with her words half gone, on the edge of the bed, with Callie's fingers round her wrist. She had opened Callie's fingers off her wrist, one at a time. Callie had not known then what she meant, and she did not know now.
+Her mother had said that with her words half gone, on the edge of the bed, with Callie's fingers round her wrist. She had opened Callie's fingers off her wrist, one at a time.
 
 "One and a half," said Dee quietly. "It's lying still. Go on."
 
@@ -224,13 +224,13 @@ Callie went down to look. The stone lay big at the bottom of the well, bigger th
 
 "Then it's yours," said Dee. She wrote it. "Road, none. Inside, twenty-five and a quarter. One open, with a Handful and a quarter in it. Three whole." She looked up. "Say it back."
 
-Callie said it back. Everything above the line was what tomorrow could cost. The line itself was for getting out.
+Callie said it back.
 
 ---
 
 She had the first watch with Pell, because Pell was awake.
 
-He sat on the cart with his back to the rack and the atlas shut on his knee, and she stood by the cart wheel with the hook and the counter. The fire was down. Toren had settled his Handful and a half at the fire for most of two hours, with his palm flat and his face shut. It was half as much again as he had ever carried. Dee had sat with him through the last of it, the way she had sat with Callie, and at the end she had put two fingers on his wrist and said it was lying still. Then he had lain down by Jab and counted them. Jab had fallen asleep at once. Dee had not.
+He sat on the cart with his back to the rack and the atlas shut on his knee, and she stood by the cart wheel with the hook and the counter. The fire was down. Toren had settled his Handful and a half at the fire for most of two hours, with his palm flat and his face shut, and then he had lain down by Jab and counted them. Jab had fallen asleep at once. Dee had not.
 
 Across the river the fence stood black against the dark, and the hill went up beyond it. Over its flat top there were no stars, and round the place with no stars there was the light the colour of the bottom of a pond. It thickened and thinned.
 
@@ -296,7 +296,7 @@ Rook said the rules with them from the post. At the end he looked up at Callie.
 
 "I know."
 
-"When I shut the road at the Sag," said Rook, "I never once looked round at the people lifting behind me. Not once, in six weeks. I looked at what was coming up out of the bottom." He was looking at the hill. "If I'd looked round, I'd have dropped it. You can't hold a thing and look behind it. You hold what's in front. They'll hold what's behind." He looked back at her. "You'll want to look. Don't."
+"When I shut the road at the Sag," said Rook, "I never once looked round at the lifters behind me. Not once, in six weeks. I looked at what was coming up out of the bottom." He was looking at the hill. "If I'd looked round, I'd have dropped it. You can't hold a thing and look behind it. You hold what's in front. They'll hold what's behind." He looked back at her. "You'll want to look. Don't."
 
 "I'll not look," said Callie.
 

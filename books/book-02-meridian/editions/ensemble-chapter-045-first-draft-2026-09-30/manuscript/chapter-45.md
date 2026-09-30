@@ -32,7 +32,7 @@ Toren put his hand up without looking. Dee stopped Duchess, and the cart stopped
 
 "*Everybody back!*" said Dessa, from the far lip.
 
-On the east slope the lamp-line moved. From down here the lamps were a row of yellow blurs, and the dark shapes between them stepped back from the blurs, all together, and stood.
+On the far slope the lamp-line moved. From down here the lamps were a row of yellow blurs, and the dark shapes between them stepped back from the blurs, all together, and stood.
 
 The bottom heaved.
 
@@ -54,7 +54,7 @@ They went on.
 
 The bottom was slabs.
 
-All six of them had crossed it on the forty-first, with the watch on the lip and nothing coming up. Toren had knelt in it on the twenty-fifth with a woman bleeding in the fog. Jab had knelt in its black water that same day, with his hand on the day holder's chest. They went across it now with the fog to their knees, and it was like walking across a floor you know in the dark.
+Two of them knew it already. Toren had crossed it on the forty-first, with the watch on the lip and nothing coming up. He had knelt in it on the twenty-fifth with a woman bleeding in the fog. Jab had knelt in its black water that same day, with his hand on the day holder's chest. They went across it now with the fog to their knees, and it was like walking across a floor you know in the dark.
 
 The slabs were tilted. Some had dropped at one edge into the water, and some had risen. The road ran over them in a line of concrete, cracked into blocks, with black water in every crack. The cart went over it a slab at a time, rocking, with the walking wheel singing and knocking and Pell leaning on the high side saying *easy*.
 

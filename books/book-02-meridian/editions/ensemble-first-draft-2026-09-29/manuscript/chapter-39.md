@@ -128,7 +128,7 @@ Nobody said anything.
 
 "Then we go," said Toren.
 
-"We go," said Dee. "Twenty turns of the glass, from now." She turned the glass. "That's the price of the box, and whatever's on this floor. Twenty. And then everybody out, finished or not."
+"We go," said Dee. "In one working turn. Twenty of the glass, from now." She turned the glass. "That's the price of the box, and whatever's on this floor. Twenty. And then everybody out, finished or not."
 
 "The box," said Toren.
 
@@ -155,8 +155,6 @@ Jab looked along the slope: from the carrier to the threshold, and from the boxe
 "More than we can lift," said Dee.
 
 "More than we can lift in twenty," said Jab.
-
-"Then it's what gets us back over the line," said Dee. "The fence is at thirteen. That's under. What we lift goes in the empties, and what's in a jar counts. Three turns of lifting puts us back over sixteen. If it doesn't, we go at the third, with what's in the jars." She did not look at Toren. "It doesn't make the crossing right. It's the same once, and it goes on the paper with the rest."
 
 ---
 
@@ -193,8 +191,6 @@ It came up cold.
 It came up into Toren's right palm slow and heavy and cold, the way it had on the east track when Rook knelt beside him and said *don't haul*. There was nothing in it. There was nobody in it to want anything, and it did not want to go anywhere now. It lay in his palm and was ash. He held it high and took it to the cabinet top one-handed, and tipped a jar against his palm, and it went down out of him into the glass and lay there, grey.
 
 He went back. He could not do anything fast. He had never been able to. He crouched at the edge of the slope with his left arm against his chest and his right palm flat, and let it come at the rate it came, and the rate it came for him was slow. Across the room Jab filled a jar while Toren filled a quarter of one. By the door Callie filled half a jar on her knees with her face grey and set, and did not bend.
-
-"Three," said Dee. She looked along the jars on the cabinet top. "That's us back over the line."
 
 "Five," said Dee. "The counter's a hundred and ten. It's coming down. It's settling."
 
@@ -366,6 +362,6 @@ He looked at Rook, on the canvas where they had carried him, with his eyes open.
 
 He wrote it.
 
-*48th. The pump house. In: 4. The lifter's stopped. T. put the point in, at the open, with J. on the push and C. in the door, holding the lean at the last. Under the line on purpose, inside 2 turns: 3 Handfuls (jar 4). T. and D. W.'s call. Once. For the Director. Still under after the kill; back over by the third turn of lifting. 2 boxes in the carrier, in lead, on the cart. The third left (open). C.'s ribs cracked (left, the same). D. W. at her floor (once). T. at his. The sky's lost the count.*
+*48th. The pump house. In: 4. The lifter's stopped. T. put the point in, at the open, with J. on the push and C. in the door, holding the lean at the last. Under the line on purpose, inside 2 turns: 3 Handfuls (jar 4). T. and D. W.'s call. Once. For the Director. 2 boxes in the carrier, in lead, on the cart. The third left (open). C.'s ribs cracked (left, the same). D. W. at her floor (once). T. at his. The sky's lost the count.*
 
 He looked at it for a while. Under it, in the same hand, he wrote: *Everybody back.*

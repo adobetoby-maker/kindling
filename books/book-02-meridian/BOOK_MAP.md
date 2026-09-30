@@ -9,6 +9,12 @@ cited, not altered.
 Prepared by the planning model (Sonnet 5), per the owner's brief. Series title
 **Kindled**; this book's working title **Meridian**.
 
+**Canonical narrative architecture update (2026-09-30):** Chapters 33–40 and 45 now
+use a unified company camera rather than three adjacent protagonist lanes. Callie, Jab,
+and Toren remain co-protagonists; the company, coaches, learners, elders, and defenders
+can share the field without changing the locked event or progression plan. See
+`provenance/ENSEMBLE-REVISION-CONTINUITY.md`.
+
 ---
 
 ## 0. A conflict this map has to name before anything else
