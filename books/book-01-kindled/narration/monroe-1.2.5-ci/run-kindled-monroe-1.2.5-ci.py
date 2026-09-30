@@ -225,13 +225,83 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
                 ),
             }
         )
-    if not additions:
+    performance_overrides = []
+    for override in revision.get("performanceOverrides", []):
+        selector = str(override["selector"])
+        performance_name = str(override["performance"])
+        if clean.count(selector) != 1:
+            raise RuntimeError(
+                f"Chapter {chapter} performance-override selector is not unique: {selector!r}"
+            )
+        selector_start = clean.index(selector)
+        selector_end = selector_start + len(selector)
+        containing: list[tuple[int, dict, int, int]] = []
+        for cue_index, cue in enumerate(score.get("cues", [])):
+            cue_start = clean.find(str(cue["from"]))
+            cue_through = clean.find(str(cue["through"]), cue_start)
+            if cue_start < 0 or cue_through < 0:
+                continue
+            cue_end = cue_through + len(str(cue["through"]))
+            if cue_start <= selector_start and selector_end <= cue_end:
+                containing.append((cue_index, cue, cue_start, cue_end))
+        if len(containing) != 1:
+            raise RuntimeError(
+                f"Chapter {chapter} performance override must belong to exactly one cue: {selector!r}"
+            )
+        cue_index, cue, cue_start, cue_end = containing[0]
+        before_through = str(override.get("beforeThrough", ""))
+        after_from = str(override.get("afterFrom", ""))
+        replacement = []
+        if selector_start > cue_start:
+            if not before_through or clean.count(before_through) != 1:
+                raise RuntimeError(
+                    f"Chapter {chapter} performance override needs a unique beforeThrough selector"
+                )
+            before_end = clean.index(before_through) + len(before_through)
+            if not cue_start <= before_end <= selector_start:
+                raise RuntimeError("Performance override beforeThrough is outside its cue prefix")
+            prefix = dict(cue)
+            prefix["through"] = before_through
+            prefix["returnToBaseAfter"] = False
+            replacement.append(prefix)
+        replacement.append(
+            {
+                "performance": performance_name,
+                "intensity": str(override.get("intensity", "low")),
+                "delivery": str(override["delivery"]),
+                "returnToBaseAfter": False,
+                "from": selector,
+                "through": selector,
+                "reason": str(override["reason"]),
+            }
+        )
+        if selector_end < cue_end:
+            if not after_from or clean.count(after_from) != 1:
+                raise RuntimeError(
+                    f"Chapter {chapter} performance override needs a unique afterFrom selector"
+                )
+            after_start = clean.index(after_from)
+            if not selector_end <= after_start <= cue_end:
+                raise RuntimeError("Performance override afterFrom is outside its cue suffix")
+            suffix = dict(cue)
+            suffix["from"] = after_from
+            replacement.append(suffix)
+        score["cues"][cue_index : cue_index + 1] = replacement
+        performance_overrides.append(
+            {
+                "selector": selector,
+                "performance": performance_name,
+                "reason": str(override["reason"]),
+            }
+        )
+    if not additions and not performance_overrides:
         return False
     score.setdefault("pauses", []).extend(additions)
     score["scoreRevision"] = {
         "revisionId": revision_id,
         "reason": str(revision["reason"]),
         "addedStructuralLandings": len(additions),
+        "performanceOverrides": performance_overrides,
         "nativeSpeechSpeed": True,
         "waveformTimeStretch": False,
         "revisionFile": str(SCORE_REVISIONS),
