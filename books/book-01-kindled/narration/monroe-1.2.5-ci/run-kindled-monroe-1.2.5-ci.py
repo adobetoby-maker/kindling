@@ -531,7 +531,11 @@ def adjudicate_word_evidence(output: Path, report: dict) -> dict:
             report["checks"]["words"]["adjudication"] = (
                 "No suspicious omission or addition; remaining ASR substitutions are non-gating evidence."
             )
-    report["automatedPass"] = all(item.get("pass") is True for item in report.get("checks", {}).values())
+    required_checks = {"words", "mastering", "identity", "naturalness", "pacing"}
+    checks = report.get("checks", {})
+    report["automatedPass"] = required_checks.issubset(checks) and all(
+        checks[name].get("pass") is True for name in required_checks
+    )
     report["status"] = "awaiting-listening" if report["automatedPass"] else "needs-pickups"
     save(output.with_suffix(".narrator.json"), report)
     return report

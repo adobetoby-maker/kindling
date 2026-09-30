@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-12.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-12/chapter-12.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 97,
+  "transcribedWords": 96,
+  "orderedWordCoverage": 0.9691,
+  "sequenceSimilarity": 0.9741,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 64,
+      "sourceWords": "any more",
+      "transcribedWords": "anymore"
+    },
+    {
+      "sourceWordStart": 67,
+      "sourceWords": "toren",
+      "transcribedWords": "torrin"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "Where's my son? Rook. It was the most naked thing the man did that entire day, and he did not appear to know he was doing it. They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there anymore, and Torrin did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-12/chapter-12.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 49,
+      "text": "\"Where's my son?\"",
+      "audioSha256": "c36cfd9e88796f25a1beb23322e9a2573b5a5389a715ef071a77e008aacd875b"
+    },
+    {
+      "index": 103,
+      "text": "\"Rook.\"",
+      "audioSha256": "87f3eb18c4d1cc6d22f60dddc2229c3e4a4af1fa8a697f45596fc49d7de87312"
+    },
+    {
+      "index": 147,
+      "text": "It was the most naked thing the man did that entire day, and he did not appear to know he was doing it.",
+      "audioSha256": "44e877a24199b85ac75246d729f4e690045654d0e1dc78e727529ba4b5f0d5eb"
+    },
+    {
+      "index": 177,
+      "text": "They went north out of the cut with the light going purple on the top of the western wall, and behind them the three cairns got smaller and then went round the bend and were not there any more, and Toren did not look back at them either, because he had decided somewhere in the last hour that he was going to be a person who did not look back.",
+      "audioSha256": "1e6b23b28f06d4785e2c0dfd694c50f75ab683b33bc2c3c3b766a1c1aba36d96"
+    }
+  ],
+  "targetedEvidencePass": true
+}
