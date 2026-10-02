@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-04.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-04/chapter-04.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 112,
+  "transcribedWords": 112,
+  "orderedWordCoverage": 0.9732,
+  "sequenceSimilarity": 0.9732,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 2,
+      "sourceWords": "callie",
+      "transcribedWords": "kali"
+    },
+    {
+      "sourceWordStart": 8,
+      "sourceWords": "fifteen",
+      "transcribedWords": "15"
+    },
+    {
+      "sourceWordStart": 27,
+      "sourceWords": "thirty",
+      "transcribedWords": "30"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "That's new. Kali learned that in the first 15 seconds and it reorganized everything she thought she knew. The exact thing keeping everybody alive for the next 30 seconds. She did not answer her for a long time, and the not answering went on and on out there in the dark in the middle of two miles of road with nowhere at either end of it to turn around, while the ash came down the camber and parted around a girl's boots and closed up behind them, and the hook her grandfather had used to swing grain sacks went on being four feet longer than it had ever been in its life.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-04/chapter-04.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 18,
+      "text": "That's new.\"",
+      "audioSha256": "8215e4d83156c8012047459bad8f0e1f8fbdca6cb502f02c504e2b96a306496c"
+    },
+    {
+      "index": 102,
+      "text": "Callie learned that in the first fifteen seconds and it reorganized everything she thought she knew.",
+      "audioSha256": "d76be862d6ddef61f951a747ed433f658a27bdc0214bd5bb936df2d81e3476b4"
+    },
+    {
+      "index": 132,
+      "text": "the exact thing keeping everybody alive for the next thirty seconds.",
+      "audioSha256": "ee125bdc814c5770506840c9a0ea357c03900f9fa8b708d2a4b0a494f47430f5"
+    },
+    {
+      "index": 270,
+      "text": "She did not answer her for a long time, and the not-answering went on and on, out there in the dark in the middle of two miles of road with nowhere at either end of it to turn around — while the ash came down the camber and parted around a girl's boots and closed up behind them, and the hook her grandfather had used to swing grain sacks went on being four feet longer than it had ever been in its life.",
+      "audioSha256": "340d72a7a47f907fcd089f5493101872ae69008a471b058a4fb543912507fa26"
+    }
+  ],
+  "targetedEvidencePass": true
+}

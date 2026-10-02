@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-28.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-28/chapter-28.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 46,
+  "transcribedWords": 46,
+  "orderedWordCoverage": 0.9783,
+  "sequenceSimilarity": 0.9783,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 3,
+      "sourceWords": "toren",
+      "transcribedWords": "torrin"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "He looked down. Torrin listened to all of it and wrote none of it down, and lay awake for a while afterward turning the whole day over, the sack, the towpath, the warm stone, and got nowhere near the bottom of it, and fell asleep instead.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-28/chapter-28.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 150,
+      "text": "He looked down.",
+      "audioSha256": "9410c961e60da0c9dc37e8d98113d2528f454491180d9d43a910a97769e08b65"
+    },
+    {
+      "index": 197,
+      "text": "Toren listened to all of it and wrote none of it down, and lay awake for a while afterward turning the whole day over — the sack, the towpath, the warm stone — and got nowhere near the bottom of it, and fell asleep instead.",
+      "audioSha256": "95e250b3db18cc67fca342290c7f242f8d6049f276b4d6ba24e05a02ce26825d"
+    }
+  ],
+  "targetedEvidencePass": true
+}

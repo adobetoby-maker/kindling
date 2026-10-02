@@ -1,0 +1,2826 @@
+{
+  "rendererVersion": 5,
+  "input": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-14.md",
+  "inputSha256": "a8e72e2778d4322fa88774c5a67b8f606932d8b94ff655e0e3046c9a770c5e19",
+  "engine": "fish-s2",
+  "model": "mlx-community/fish-audio-s2-pro-8bit",
+  "voice": "cloned",
+  "language": "English",
+  "speed": 1.0,
+  "instruct": "Keep the exact Original Calder speaker identity and Australian-English accent. Read as controlled, intelligent long-form audiobook narration. Prepare the complete thought before beginning it. Preserve tactical clarity, understated humor, and emotional restraint. Use supplied performance anchors only as temporary colors, then return fully to Calder. Never rush, become theatrical, sing-song, childish, Americanized, or announcer-like.",
+  "pronunciationInstruct": "Use the Kindled pronunciation dictionary and chapter context. Never infer a different accent or narrator identity from a character name.",
+  "referenceAudio": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+  "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+  "paletteReferenceHashes": {
+    "neutral": "5893a9b2d2a5bb711a6bde9003798b9ef8cd1f4bed3a456a72661556608d5a32",
+    "reflective": "2a96680b9325dbf11b31691207eb56eab1f2458099bec54b5800e2de05cef090",
+    "intimate_care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "dry_humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "curiosity": "83eb39c4f95bb014fb9287210060717ea7f0de13d82e82281184a21649182b0b",
+    "wonder_awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508",
+    "suspense": "742f1dceefaf5aacd97d8216216264e0b1c5747a70296a42bee300b86ee78395",
+    "fear": "ca07ae9dc53ef27188de28d183d241d7dd3e60a09a2e1a9522abb3e13ff47f53",
+    "grief": "8c49b0878bfcd6cef2ab5841ecc09545e3de3053e9a6a13f2e8be7e00e3d1bf8",
+    "cold_anger": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "authority": "f031f4fa3642fe85999f43ec72dbe1333ac23a0d2166f42219e434040c7d8ebf",
+    "urgent_action": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "pain_exhaustion": "3369f4cdd6b6ca5cd3b209523a568696588c8e07f5110ba8f6472415975f5d7e",
+    "relief_hope": "532dde77d9a63ebf740237f0c507e95bcb95c511923e8b8de085fef68065bfa0",
+    "whisper_secret": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "whisper": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "yell": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "hatred": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508"
+  },
+  "referenceText": "The leak was just the announcement. The marriage was the problem. Dale set the wrench down and listened to the old house settle around him.",
+  "performanceTrack": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-14/chapter-14.directed-paced.performance.json",
+  "performanceTrackSha256": "694ea76226ad7c4be4e84af22e65bbcbff5afbb29c3b11c1062063e89da2e787",
+  "performancePalette": "/Users/drive/.local/share/monroe-tts/anchor-builds/calder-eleven-original-v1/calder-eleven-15.candidate-palette.json",
+  "performancePaletteSha256": "1c01dfc35b0b3336e806b0713a030c9d3bee7c75e30263cfadcc220b4ac51763",
+  "maxChars": 700,
+  "maxAudioTokens": 2048,
+  "targetWpm": null,
+  "temperature": 0.62,
+  "pauseMs": 1550,
+  "finalPauseMs": 2100,
+  "denseLandings": false,
+  "commaPauseMs": 300,
+  "breathPauseMs": 425,
+  "sentencePauseMs": 700,
+  "paragraphPauseMs": 1100,
+  "postStretchRate": 1.0,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "edgeFadeMs": 12,
+  "sourceWords": 4290,
+  "chunkCount": 343,
+  "performances": [
+    "awe",
+    "care",
+    "fear",
+    "grief",
+    "hatred",
+    "humor",
+    "neutral",
+    "yell"
+  ],
+  "durationSec": 1804.55,
+  "bytes": 28873773,
+  "sha256": "940ae79df89b40edc6976ac6064b1b35cb791002552ba23c7e7f51653edcab01",
+  "elapsedSec": 94.67,
+  "generationSecThisRun": 18.85,
+  "generatedSegments": 5,
+  "reusedSegments": 338,
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-14/chapter-14.calder-directed-paced.mp3",
+  "master": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/master.wav",
+  "segments": [
+    {
+      "index": 1,
+      "performance": "neutral",
+      "text": "Chapter 14 \u2014 Toren: The Eleventh Day",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0001.wav",
+      "textSha256": "a6018ef9e3fc079fc27b1697b61bccc77eeef07d9d9a180295573ab50a716b42"
+    },
+    {
+      "index": 2,
+      "performance": "humor",
+      "text": "Six days north of Hobb's Wall, Toren had begun to think he was getting good at this, which is",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0002.wav",
+      "textSha256": "1577732ca72042139f9afb6a2cf86b6f6b8ffd6383b6e363eeeca221d99be079"
+    },
+    {
+      "index": 3,
+      "performance": "humor",
+      "text": "the most dangerous thing that can happen to a person.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0003.wav",
+      "textSha256": "5c6fee6b949a97051f6f72b9f38703584420bbc090b5974246f3a2d72f609237"
+    },
+    {
+      "index": 4,
+      "performance": "neutral",
+      "text": "It was not entirely his fault.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0004.wav",
+      "textSha256": "5ec7cb88cd15dda248fcd1ba9fe21ffe19a2f4ac45d4501a4917e63d321093f4"
+    },
+    {
+      "index": 5,
+      "performance": "neutral",
+      "text": "The evidence was on his side.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0005.wav",
+      "textSha256": "94f3f05b038d0630b66a76b1698a8a2bc83f09dc0e7852705ecffa64a3521783"
+    },
+    {
+      "index": 6,
+      "performance": "neutral",
+      "text": "He could hold the ugly spike for a quarter of an hour now if nothing surprised him, and for about four seconds if something did, which was four seconds longer than it had been at the river.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0006.wav",
+      "textSha256": "1d9a77bb181e808511c5a89bcdd202809f867841cb40f66bda39763725c447d2"
+    },
+    {
+      "index": 7,
+      "performance": "neutral",
+      "text": "He had stopped falling over when Rook shoved him.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0007.wav",
+      "textSha256": "f91e4577649e30658036a7c1fca33a41c2b40c975bd8496e88cf5e3b5368946c"
+    },
+    {
+      "index": 8,
+      "performance": "neutral",
+      "text": "He had killed three more husks \u2014 one of them cleanly, in a ditch, with a step that he had planned in advance and that had worked exactly as planned, and the memory of that step had been keeping him warm for two days.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0008.wav",
+      "textSha256": "b32f23e5242201712b0fbbfdce8a8a87a3d47158ba3d8ba982121e7322fc4112"
+    },
+    {
+      "index": 9,
+      "performance": "neutral",
+      "text": "And Rook had started putting him in the middle.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0009.wav",
+      "textSha256": "60bad8a559c52a93543c8933e1e4063f4a6f33d39c93cb00a8b456a99877a000"
+    },
+    {
+      "index": 10,
+      "performance": "neutral",
+      "text": "That was the thing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0010.wav",
+      "textSha256": "9fc57807caad52e82399e59997536589e452370c16189b26c2a1d10dd1014543"
+    },
+    {
+      "index": 11,
+      "performance": "neutral",
+      "text": "Every drill, every evening, every time they set a line: Toren in the middle.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0011.wav",
+      "textSha256": "15fbacdbb0b2f9f5caeaf3993b94e437f3e610ced8f705e11e74bd2a12fddfc9"
+    },
+    {
+      "index": 12,
+      "performance": "neutral",
+      "text": "It had happened so consistently that it had stopped feeling like an instruction and started feeling like a description.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0012.wav",
+      "textSha256": "f0bc5b00be07bbf12bb3621bceae086e1253cfef0a0cd2de2da4e91ff62ae56b"
+    },
+    {
+      "index": 13,
+      "performance": "humor",
+      "text": "\"Because you've got the only Ember,\" Dessa said when he mentioned it, in a tone that suggested she thought he was being slow.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0013.wav",
+      "textSha256": "a10f2540015f5c7acff85e2046fb2c9ae62775cb1f0494acc78062c71be0ea14"
+    },
+    {
+      "index": 14,
+      "performance": "humor",
+      "text": "\"Middle's where the reach goes.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0014.wav",
+      "textSha256": "0be09ad7d4496856de0d29f3969e74aef450cb4c3818679b98ff28e04ae59d9e"
+    },
+    {
+      "index": 15,
+      "performance": "humor",
+      "text": "It's not a compliment, Tor \u2014 it's a shape.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0015.wav",
+      "textSha256": "e5bc7b895bffc8b57eb9ca64a00038dc99fd29b3650d7f1c77da2aa00bbc3767"
+    },
+    {
+      "index": 16,
+      "performance": "neutral",
+      "text": "Rook's drills had gotten worse in the specific way that meant they were getting better.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0016.wav",
+      "textSha256": "8003aa574fcd868f07de93f220081685f9131b6bf280d57e760c6ec449c6b65d"
+    },
+    {
+      "index": 17,
+      "performance": "neutral",
+      "text": "He made them do everything tired.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0017.wav",
+      "textSha256": "8f44fc662b0e2fe0f531210f647afcbe513aec6ddbf2f4165bd255ad30faf8c0"
+    },
+    {
+      "index": 18,
+      "performance": "neutral",
+      "text": "He would let them make camp, let them get the boots off, and then walk over and say \"up\" and run the whole line for forty minutes in the dark.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0018.wav",
+      "textSha256": "0a52624345176f36ccc8b805a3c241130e67603066fa25c6a89e0f631bff751a"
+    },
+    {
+      "index": 19,
+      "performance": "neutral",
+      "text": "He made Wyck learn to fight left-handed, poorly, on the grounds that Wyck's right arm was going to get opened sooner or later, and it would be nice if the surprise came in advance.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0019.wav",
+      "textSha256": "16585f9df9914e2be0a21f51e7a0bb93076d1844423427ac8b010fd3273a1cb4"
+    },
+    {
+      "index": 20,
+      "performance": "neutral",
+      "text": "He made Milo call.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0020.wav",
+      "textSha256": "ad5a8d33ff24c7515f00b67f0cf0236a3c50c5d6fe18541b6924adb3e1edf0d0"
+    },
+    {
+      "index": 21,
+      "performance": "neutral",
+      "text": "Endlessly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0021.wav",
+      "textSha256": "e572761e0d2d5745736c271f71b989ce84bfaae522fa3083ff65660c710a92c2"
+    },
+    {
+      "index": 22,
+      "performance": "neutral",
+      "text": "Milo's whole job, in every drill, was to stand behind somebody's shoulder and say out loud where things were, and Rook was harder on Milo about that than he was on anyone about anything.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0022.wav",
+      "textSha256": "b2fa079a8e5a24ead7b6e96a379b204b7592fda2943a2e26a04bebb8dcfa53bb"
+    },
+    {
+      "index": 23,
+      "performance": "neutral",
+      "text": "\"Left, two, coming \u2014 left, two \u2014 left, one, the other one's stopped\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0023.wav",
+      "textSha256": "7ca675a33462acc3c1c73e151c53c827537097497294bba2a768b0eb698247ce"
+    },
+    {
+      "index": 24,
+      "performance": "neutral",
+      "text": "\"Don't tell me it stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0024.wav",
+      "textSha256": "cb4691ac26d02bdc14c7d2cbff08ddf3cb2d85fb6d8ac28152d93d02e9da1bef"
+    },
+    {
+      "index": 25,
+      "performance": "neutral",
+      "text": "Tell me where it is.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0025.wav",
+      "textSha256": "e4f4d052c5f3d8047726560f1673cc24340dc6d853f7087694abc5b0e7ed2aae"
+    },
+    {
+      "index": 26,
+      "performance": "neutral",
+      "text": "\"Left, one at the fence, one at the \u2014 one's at nine feet and stopped\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0026.wav",
+      "textSha256": "5efa0cc6f74356941ba229346506ca3db8c6c1efdd80ef183bf74afc36e7fe63"
+    },
+    {
+      "index": 27,
+      "performance": "neutral",
+      "text": "\"Better.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0027.wav",
+      "textSha256": "1e092ec2514301520f5a47fc488369838566027b1735cd8e59b44b1cc946ce2d"
+    },
+    {
+      "index": 28,
+      "performance": "neutral",
+      "text": "What Rook would not do was explain anything.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0028.wav",
+      "textSha256": "7af57738fb44e8410a12d1ffb5a1d4ac1a9351aa6814d1be01a78ab0f631f685"
+    },
+    {
+      "index": 29,
+      "performance": "neutral",
+      "text": "He would not say what the flask was really for beyond fuel.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0029.wav",
+      "textSha256": "03e93f54f7c98ba1fe024d7e489c6f6005f1da608be35b37e43f4f23bf8df225"
+    },
+    {
+      "index": 30,
+      "performance": "neutral",
+      "text": "He would not say where he had learned to shut a road.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0030.wav",
+      "textSha256": "83fc8cd4f453783b87bf13561dbcf4b1f5ff0e28417dc579c103ff959d2f8ce0"
+    },
+    {
+      "index": 31,
+      "performance": "neutral",
+      "text": "He would not say what he had been late to for so long, or where he was going, or why he was still walking north with a mule cart when the last four days had made it obvious to everybody that he had somewhere else to be.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0031.wav",
+      "textSha256": "242970f903f4e9cbee78bf51f98ff00dbb3a30d9ada6756fc49d63486aef7824"
+    },
+    {
+      "index": 32,
+      "performance": "neutral",
+      "text": "Once, at a fire, Dessa had asked him what it was called \u2014 the thing he had done, holding both, the strut-light and the blade at once \u2014 and he had said, \"It isn't called anything,\" and Dessa had said, \"Everything's called something,\" and Rook had said, \"Then it's called none of your business,\" and Milo had laughed, and it had turned into a joke, and Toren had watched Dessa file it away, because Dessa filed everything.",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0032.wav",
+      "textSha256": "8653f65488c07b7ec703192a5004b8577ff2e69c599f7ba30f6fb8a2ce308587"
+    },
+    {
+      "index": 33,
+      "performance": "neutral",
+      "text": "They met the hounds for the first time on the sixth afternoon, in stubble country, an hour before the light went.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0033.wav",
+      "textSha256": "17502d28d9e2a0ac5bdecc28447a0a748ee274d912e99b5c32fdb2fbc912f589"
+    },
+    {
+      "index": 34,
+      "performance": "neutral",
+      "text": "There were four of them, out at three hundred paces on the open field side, and they were not husks.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0034.wav",
+      "textSha256": "3f78cf5ce6e760db6a3813f5bdd942f443e0065e45a7b77f3ff050d71dd5ce3c"
+    },
+    {
+      "index": 35,
+      "performance": "neutral",
+      "text": "That was clear instantly and at a distance.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0035.wav",
+      "textSha256": "c24bed9a166c2ecd3001a946c375caaa8438e2dc7b575a4bb591624e67be346b"
+    },
+    {
+      "index": 36,
+      "performance": "neutral",
+      "text": "Husks came at you.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0036.wav",
+      "textSha256": "6033b6f6fef2b2d5b5b03c27b499b10077c07cd22a67e23bb780a61ca127cd31"
+    },
+    {
+      "index": 37,
+      "performance": "neutral",
+      "text": "These went along, low and loose and unhurried, parallel to the road, keeping station with the cart the way a dog keeps station with a cyclist.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0037.wav",
+      "textSha256": "ba24ac86af120d3b1683e3ad74943551ea5d4dece8b9b99d10ef81c14c10ce42"
+    },
+    {
+      "index": 38,
+      "performance": "neutral",
+      "text": "\"Everybody stops,\" Rook said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0038.wav",
+      "textSha256": "4c103f9f9a478f4fd90a86e91d8cb4e171d030c79e2d14c8b640f6c3bbbcb3a3"
+    },
+    {
+      "index": 39,
+      "performance": "neutral",
+      "text": "They stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0039.wav",
+      "textSha256": "df79f3279d10b78d84cd0a7de1bd55caa59f3f5e77b533a0ec20c29801f36a86"
+    },
+    {
+      "index": 40,
+      "performance": "neutral",
+      "text": "Pitch didn't like it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0040.wav",
+      "textSha256": "4e8471957a99854a3a1a89ce08320fd3ca23d79830038ebc5a96ddefba4bb0ef"
+    },
+    {
+      "index": 41,
+      "performance": "neutral",
+      "text": "Dessa put a hand on his nose.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0041.wav",
+      "textSha256": "e9d9463c81304aa77ffcf1d8b36e7e1c2f88170d7353b5eb21bdb624e69c527f"
+    },
+    {
+      "index": 42,
+      "performance": "neutral",
+      "text": "\"Verge-hounds,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0042.wav",
+      "textSha256": "5ee51e3887c9142f78b81b1f02815584fa1f3e8d81a730f0d78b013453a2cf6c"
+    },
+    {
+      "index": 43,
+      "performance": "neutral",
+      "text": "\"Look at them properly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0043.wav",
+      "textSha256": "5bee6487ddff5760107baf40e9932c45c0e16e00bcb852e652d007bf7ff46b43"
+    },
+    {
+      "index": 44,
+      "performance": "neutral",
+      "text": "You'll see them again.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0044.wav",
+      "textSha256": "0d6fd4a5c51abf5091e8f0d1fe4acba829cdd49813696419fbbbb8e46623e105"
+    },
+    {
+      "index": 45,
+      "performance": "neutral",
+      "text": "Toren looked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0045.wav",
+      "textSha256": "8fc389509c0fdf083e728cf58fcfd4125ae3373ca42738a0403b1777fcd6891b"
+    },
+    {
+      "index": 46,
+      "performance": "neutral",
+      "text": "Long in the body and short in the leg, the color of wet ash, with a heavy wedge of a head set low, and something wrong with the way the light came off their backs, like a heat shimmer that was in the animal rather than in the air.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0046.wav",
+      "textSha256": "948bd5c3d801fcf0378fe91ebf176ad4224064e16adf8ea332f5c173d653593a"
+    },
+    {
+      "index": 47,
+      "performance": "neutral",
+      "text": "They ran in a loose diamond, and they never once bunched up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0047.wav",
+      "textSha256": "a0062319209004527d6f42f64466fa630dcbc50a661ff638caa788145981d059"
+    },
+    {
+      "index": 48,
+      "performance": "neutral",
+      "text": "\"They're pacing us,\" Wyck said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0048.wav",
+      "textSha256": "11d026e211c44121a50fc21ac88676db953f2cda79dd102da5b2a737d9da8d7a"
+    },
+    {
+      "index": 49,
+      "performance": "neutral",
+      "text": "\"They're",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0049.wav",
+      "textSha256": "d31903183308a990d249494f292f3c8c4393effc712511f810a57919ef030c14"
+    },
+    {
+      "index": 50,
+      "performance": "neutral",
+      "text": "counting you,\" said Rook.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0050.wav",
+      "textSha256": "7052f8f9cd60f27d2850a094508a25a964cebc1a4df4118522dbd4ab83dbd875"
+    },
+    {
+      "index": 51,
+      "performance": "neutral",
+      "text": "\"That's not the same thing, and the difference will matter one day.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0051.wav",
+      "textSha256": "d9a70ca0749b5186d99eebbeff7f73f334a8852a9fd000cd5a18a6f474279fb7"
+    },
+    {
+      "index": 52,
+      "performance": "neutral",
+      "text": "Then the front one stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0052.wav",
+      "textSha256": "981ab1afbc8f5571642051d3ad91d98681d8f87402e02ac0cca458fc159c42a2"
+    },
+    {
+      "index": 53,
+      "performance": "neutral",
+      "text": "It stopped absolutely \u2014 not slowing, not turning, just going from a lope to complete stillness in the space of a stride, head low, side-on, ears flat, and it stood in the stubble like something that had been left there.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0053.wav",
+      "textSha256": "1956690519efadbb46691b5bb970f67cc551c8ce4224a885fc580b548c4c5a38"
+    },
+    {
+      "index": 54,
+      "performance": "neutral",
+      "text": "Toren's whole spine went cold.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0054.wav",
+      "textSha256": "54403ee84f20cf17a8e5f70f130b0dd3992cae11f651cbb5c0beea83e44ace12"
+    },
+    {
+      "index": 55,
+      "performance": "neutral",
+      "text": "The other three came up short around it, and for maybe four seconds the field held four grey animals standing in the dead grass doing nothing at all.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0055.wav",
+      "textSha256": "ac6355e923895d8de4afbb37f4e94218cb7c49a32b1f120f7096b532f10e4c09"
+    },
+    {
+      "index": 56,
+      "performance": "neutral",
+      "text": "Then Rook took eight steps off the road into the stubble and stood there with his hands empty.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0056.wav",
+      "textSha256": "b1812b521e32e95031d08e0d691e270447c099e0dc7da3841de240b0af509aab"
+    },
+    {
+      "index": 57,
+      "performance": "neutral",
+      "text": "And the hounds",
+      "pauseAfterMs": 340,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0057.wav",
+      "textSha256": "f7d1ed856220ba55cf11e65c5a34c3daaa7e9d905dcf591cd5a8fe5c46ba16ab"
+    },
+    {
+      "index": 58,
+      "performance": "neutral",
+      "text": "turned and went.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0058.wav",
+      "textSha256": "6268b19e0118c6fb9eeb3c1126c43db0d591dc10bc17d3719f19f97d258df309"
+    },
+    {
+      "index": 59,
+      "performance": "neutral",
+      "text": "Not fast.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0059.wav",
+      "textSha256": "1a7b77e4480616d1613c50f91e4ea18662fe11a6321ae88f04fd60d009b5e1f6"
+    },
+    {
+      "index": 60,
+      "performance": "neutral",
+      "text": "They peeled off one at a time in the order they had stopped, and they went out across the field in the same loose unhurried lope, and in a minute and a half there was nothing in the stubble but stubble.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0060.wav",
+      "textSha256": "d7ea6a10de9f560c1e671c121beafc1a4ba84f8f4f579efe3c6c22d699f26cf4"
+    },
+    {
+      "index": 61,
+      "performance": "neutral",
+      "text": "Milo let out a shaky breath.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0061.wav",
+      "textSha256": "35a7f974f54a2b948e203bf5e5ea56deb3895e75b4c0d9db31776434ee7e4e59"
+    },
+    {
+      "index": 62,
+      "performance": "neutral",
+      "text": "\"They just \u2014 quit?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0062.wav",
+      "textSha256": "1646eb96fe451e4b7450f4b7acd3f30f06462c153beeb5879a52c30be01dabc7"
+    },
+    {
+      "index": 63,
+      "performance": "neutral",
+      "text": "\"They went,\" said Rook.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0063.wav",
+      "textSha256": "fc0b70e4bb2c4a846dfd60924d4daba5f22ee7b3604a448683275f6be651840f"
+    },
+    {
+      "index": 64,
+      "performance": "neutral",
+      "text": "He came back up onto the road bed and got the cart moving with his shoulder against the shaft, and that was almost the end of it, except that he stopped once more, half a mile on, and said, over his shoulder, in the flat voice he used when he was handing you something:",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0064.wav",
+      "textSha256": "20f6773853fa1c2ca9c05df21dbe08c31816804240262a2a23008b31d29c534f"
+    },
+    {
+      "index": 65,
+      "performance": "neutral",
+      "text": "\"When they come, they come at one side.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0065.wav",
+      "textSha256": "2b6cbc76f9966e7bbe8ad87a06381c9edff2a20163e016ef0b6477df649015cd"
+    },
+    {
+      "index": 66,
+      "performance": "neutral",
+      "text": "One.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0066.wav",
+      "textSha256": "70277bfc409b502132d7a48b2a3b386294264b31f7bf024a5fb0cafabb8ac122"
+    },
+    {
+      "index": 67,
+      "performance": "neutral",
+      "text": "They pick it, and they go, and they don't change their minds once they've started.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0067.wav",
+      "textSha256": "4a72e93a295ff545a8adf542f11fddd01c525762133cdd571dbcdc6d6c01d780"
+    },
+    {
+      "index": 68,
+      "performance": "neutral",
+      "text": "If you can say out loud which side it is before they touch you, everyone else can turn and meet it, and it's a bad afternoon for the hounds.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0068.wav",
+      "textSha256": "fc65f6dbd0e789ef2129b2ebe8219770f2c0524e1dc0789ce884e2773fef925a"
+    },
+    {
+      "index": 69,
+      "performance": "neutral",
+      "text": "If nobody says it, it isn't.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0069.wav",
+      "textSha256": "4275051ecce865c004a85ec5d0a0b40f9a3284e948473fe4e18ec013f02f109c"
+    },
+    {
+      "index": 70,
+      "performance": "neutral",
+      "text": "\"How do you know which side?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0070.wav",
+      "textSha256": "44f5ab160476bfcd8faa978528712149b97df9a69b552b15d36a3444bc0e7bc9"
+    },
+    {
+      "index": 71,
+      "performance": "neutral",
+      "text": "said Toren.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0071.wav",
+      "textSha256": "a969be14dd27653a40218f241ecad1b8b6f59e6de4ed81e9d66f0e6a7d37c89c"
+    },
+    {
+      "index": 72,
+      "performance": "neutral",
+      "text": "\"You'll find that out,\" said Rook.",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0072.wav",
+      "textSha256": "b53a2e2a2e4cf858401dfc900b14817774217172de314c885dd8759aa7eea89b"
+    },
+    {
+      "index": 73,
+      "performance": "neutral",
+      "text": "He thought about it for a day and a half and arrived at an answer, and",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0073.wav",
+      "textSha256": "56c4705c93839e1b992a5e1bea43db4745c2c958d4e97bf4d02b59ec97a45407"
+    },
+    {
+      "index": 74,
+      "performance": "neutral",
+      "text": "the answer was wrong, and there was nothing unreasonable about it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0074.wav",
+      "textSha256": "7b1ae52619973f97fb5a7ee20aef80f2f845f184b3f4ce87188e0978c98468e8"
+    },
+    {
+      "index": 75,
+      "performance": "neutral",
+      "text": "Here is what Toren had: four hounds pacing, one goes still, all four go still, and then all four leave.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0075.wav",
+      "textSha256": "5442d3fbe74bf45dd46efb816f997391c0f0545b67b00f06b602ecf2293d2cb0"
+    },
+    {
+      "index": 76,
+      "performance": "neutral",
+      "text": "He had watched it with his own eyes.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0076.wav",
+      "textSha256": "4983ac2d65a39629478a65e05b4f54329c649c359801b8448c2d89df54dbc458"
+    },
+    {
+      "index": 77,
+      "performance": "neutral",
+      "text": "Stillness, and then they broke off.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0077.wav",
+      "textSha256": "e6b836b21bc6a49d7cda81c38293b807a6b4b585210a86440f1eb1b4f5eaf66e"
+    },
+    {
+      "index": 78,
+      "performance": "neutral",
+      "text": "He had even understood why \u2014 Rook had stepped out into the field, and they had looked at him and done arithmetic and decided against it, and the stillness was the moment they stopped and did the arithmetic.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0078.wav",
+      "textSha256": "2adcff5733ec3aa6edded0f2fa7b0a18fab853a5f183a4343c144e1792cba724"
+    },
+    {
+      "index": 79,
+      "performance": "neutral",
+      "text": "That was a coherent model.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0079.wav",
+      "textSha256": "69a061099ff1aeccdca85a49ec2e85dd3e2fcf2531134beae9f17227183fe676"
+    },
+    {
+      "index": 80,
+      "performance": "neutral",
+      "text": "It explained the whole event.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0080.wav",
+      "textSha256": "5f7df1012ff725a5da73af5a667fdc3df350d1987994fbf5212f1f2cb49306f6"
+    },
+    {
+      "index": 81,
+      "performance": "neutral",
+      "text": "It was the sort of thing his father would have nodded at.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0081.wav",
+      "textSha256": "967e800d2332a39efa012ac6657091f8ceeb34558f0d3f5b7a82c043fd572448"
+    },
+    {
+      "index": 82,
+      "performance": "neutral",
+      "text": "He was so pleased with it that he told Dessa about it that night, which meant that when it went wrong there was a witness.",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0082.wav",
+      "textSha256": "1e24d3305982731d531059f19879b6b8f68dba1be67f4b7ce237ecee688080f2"
+    },
+    {
+      "index": 83,
+      "performance": "neutral",
+      "text": "The trouble came at the creek bridge on the eighth day, at dusk, with fog coming up off the water.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0083.wav",
+      "textSha256": "c0f59ba23e0bd6ce1bd9f5e4018cc35009a2dece56d2a509c55f12596a65f7fa"
+    },
+    {
+      "index": 84,
+      "performance": "neutral",
+      "text": "The road ran along a raised embankment there and crossed the creek on an old stone farm bridge with waist-high parapets, and Rook had them stop on the near approach because the fog was thickening, and he did not like moving in it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0084.wav",
+      "textSha256": "35269e2ebf694b9e29ef9859873f427edf74f1190e60aba2e5f7b2b959ac51b0"
+    },
+    {
+      "index": 85,
+      "performance": "neutral",
+      "text": "On the left, north of the road, there was open stubble again, flat and grey, going out three hundred paces to a fence line.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0085.wav",
+      "textSha256": "0093ee75931482c17fccadfd5da05edf2d62e96a09232a91a33a75e2067c4866"
+    },
+    {
+      "index": 86,
+      "performance": "neutral",
+      "text": "On the right, south, there was a drainage ditch running along the foot of the embankment and a ragged file of dead poplars in it, close, maybe forty feet from the road.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0086.wav",
+      "textSha256": "2732ab6a90ed8b03c742653240802f3077b328aebbcbda18f9832fac019a6c04"
+    },
+    {
+      "index": 87,
+      "performance": "neutral",
+      "text": "\"Cart onto the bridge,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0087.wav",
+      "textSha256": "f123783aa4910fdc7766a4da80245cf2aab8a0f44e414a6b2d13f89c91217e93"
+    },
+    {
+      "index": 88,
+      "performance": "neutral",
+      "text": "\"Between the parapets.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0088.wav",
+      "textSha256": "c79b754924bbee68f44fd4b4f8a33e15722ed49ebbae0f7ec09331b81aec9dbe"
+    },
+    {
+      "index": 89,
+      "performance": "neutral",
+      "text": "That's your back wall and your side walls, and it's the only thing on this road that is.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0089.wav",
+      "textSha256": "d196b3febacedf29a0389120583a8f3d40905e8072e07b86b897914af8db2834"
+    },
+    {
+      "index": 90,
+      "performance": "neutral",
+      "text": "Milo, on the cart with your grandmother \u2014 no, up, on the bed, high as you can get, and you call and you keep calling and you do not stop calling if it gets loud, do you understand me?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0090.wav",
+      "textSha256": "a88879d90d2c9fadd6878a887c566ee09bf80baebb3f99b95e014280dd66ebfc"
+    },
+    {
+      "index": 91,
+      "performance": "neutral",
+      "text": "\"Yes.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0091.wav",
+      "textSha256": "cf87b23d0f70cff8f9ce62b411ad616fd9be0b93edeba67c70f647e5a4b848e1"
+    },
+    {
+      "index": 92,
+      "performance": "neutral",
+      "text": "\"The rest of you across the mouth of the bridge.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0092.wav",
+      "textSha256": "797828f51a9d5017ae126357ea2478088e5d0310221254a4f0552f853e888f05"
+    },
+    {
+      "index": 93,
+      "performance": "neutral",
+      "text": "Wyck left, Toren middle, Dessa right, and Dessa, you're on the poplar side, which is the bad side, which is why you're on it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0093.wav",
+      "textSha256": "aa8728de28208a9644ec3830d90ec59798bf41e9c4d3c868289a78a4b8f0d8bf"
+    },
+    {
+      "index": 94,
+      "performance": "neutral",
+      "text": "\"Why's it the bad side?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0094.wav",
+      "textSha256": "b680709a9337c6e1ac1a5c797e1d4dccbc41e426b7223217b8bf50562c7e273f"
+    },
+    {
+      "index": 95,
+      "performance": "neutral",
+      "text": "said Wyck.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0095.wav",
+      "textSha256": "36c688401a600f3ddbf5920c271ea744f8f85ce2b9eec0e5bde8df789a745dbd"
+    },
+    {
+      "index": 96,
+      "performance": "neutral",
+      "text": "\"Because I can't see into it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0096.wav",
+      "textSha256": "e397b060b6f2c03d17905cda21a714922192d8acf3d2a4a1872d02cd9630f29e"
+    },
+    {
+      "index": 97,
+      "performance": "neutral",
+      "text": "Rook himself went out ten paces ahead onto the open approach and crouched and put his hand flat on the road bed the way he had in the cut, and then took it off again and swore under his breath and stood up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0097.wav",
+      "textSha256": "b4cccbaeb971da12b05500448eaa6299dc2297ffccfdbf003202de8340a5d446"
+    },
+    {
+      "index": 98,
+      "performance": "neutral",
+      "text": "\"Not here,\" he said, to nobody.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0098.wav",
+      "textSha256": "c17f99930df97a80c66b4e68031650cd5d47940efd93ed08f5a6d1dbcdf01a67"
+    },
+    {
+      "index": 99,
+      "performance": "neutral",
+      "text": "\"Ground's wrong.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0099.wav",
+      "textSha256": "f0802d63a3ec81eb3f7034631e830dbcd4159d7fdd8566fc479e9b0bcdda208f"
+    },
+    {
+      "index": 100,
+      "performance": "neutral",
+      "text": "Toren filed that away \u2014 it needs something, it doesn't work everywhere \u2014 and did not have time to do anything with it, because that was when the field lit up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0100.wav",
+      "textSha256": "644c54d59b2359be05f64b8493b48e56aaa6fa9247ef2591c4f672bfd5a01ffd"
+    },
+    {
+      "index": 101,
+      "performance": "neutral",
+      "text": "Six of them, out on the stubble side, and they came in loud.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0101.wav",
+      "textSha256": "11ff11f50f9938a28ede0a4e8e9ac70aa3a62eac6ab8570be8dcfa704e6b7cc4"
+    },
+    {
+      "index": 102,
+      "performance": "neutral",
+      "text": "That was the only word for it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0102.wav",
+      "textSha256": "99fcef2df85b1745dea8b8462fc0139e0051ad186cf6af5868aa802633dc3a23"
+    },
+    {
+      "index": 103,
+      "performance": "neutral",
+      "text": "They came in fast and open and half-crouched, swinging wide and cutting back, three of them barking \u2014 a flat, coughing, chest-deep sound that came up off the field in waves and bounced off the fog and seemed to come from everywhere.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0103.wav",
+      "textSha256": "05323e358fee954bb54886b805c62439776de2b12d4a825ccce58bcd69a3d83f"
+    },
+    {
+      "index": 104,
+      "performance": "yell",
+      "text": "\"Left!\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0104.wav",
+      "textSha256": "378d32814629ea11c4dddb8e0f88235a71f69aa1809da12a9bc4bb857750343c"
+    },
+    {
+      "index": 105,
+      "performance": "yell",
+      "text": "Milo, up on the cart, cracking.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0105.wav",
+      "textSha256": "c2baa48668c22a1ef324ba063ed8eb27029aac0a4dd4f3d41de72f0e5ab1a663"
+    },
+    {
+      "index": 106,
+      "performance": "yell",
+      "text": "\"Left!",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0106.wav",
+      "textSha256": "335fd470c9894326abebe22d28c873f3c01437b8c75cb523d25a7496c640a2a4"
+    },
+    {
+      "index": 107,
+      "performance": "yell",
+      "text": "Six!",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0107.wav",
+      "textSha256": "e88dce5d743e4969ae1a3313c43975bd7e1f665bb7a5c4d327dc1763d821c411"
+    },
+    {
+      "index": 108,
+      "performance": "yell",
+      "text": "Six on the left, they're coming across\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0108.wav",
+      "textSha256": "7dbcf7c576b824a3cae4ed4849e0f650cb2a710c969e7e6032d04590c6c6df8d"
+    },
+    {
+      "index": 109,
+      "performance": "neutral",
+      "text": "\"Hold the mouth,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0109.wav",
+      "textSha256": "cff2cfde0248e9b4f0d00ad5f42cb227bdb6a61a5d530936629038f91d55b1a1"
+    },
+    {
+      "index": 110,
+      "performance": "neutral",
+      "text": "He had not moved.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0110.wav",
+      "textSha256": "785c1a1f55b6b05e6415c74df19184639fc2869e71b0e5bc6149549680708832"
+    },
+    {
+      "index": 111,
+      "performance": "neutral",
+      "text": "Toren got the spike out.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0111.wav",
+      "textSha256": "6288b69dc4ddeca04a914003aed37bc2617d50fc3943ad479c7bdd8457e4e01d"
+    },
+    {
+      "index": 112,
+      "performance": "neutral",
+      "text": "It came out first try, and he had a bright half-second of pride about that, and then the biggest of the six came in at Wyck's side, and Wyck met it with the bar, and the noise of that was appalling.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0112.wav",
+      "textSha256": "894876519c3c74988fe3da6b009d9c1e77ad7545173615fdf88858b604f5768c"
+    },
+    {
+      "index": 113,
+      "performance": "neutral",
+      "text": "It worked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0113.wav",
+      "textSha256": "135ee65d6919d65f63c730ea2cb79331514389f232105206e4812179358b0061"
+    },
+    {
+      "index": 114,
+      "performance": "neutral",
+      "text": "That was what Toren would keep coming back to.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0114.wav",
+      "textSha256": "d531bc785f2115a6664a8edd2abe75ec73fb8325132122328613f05654105412"
+    },
+    {
+      "index": 115,
+      "performance": "neutral",
+      "text": "Everything they had drilled for eight days worked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0115.wav",
+      "textSha256": "9eebec6c15597867f9712ad28f132a63eb9a1a93e7c2116fb98e1ad12f87c4c3"
+    },
+    {
+      "index": 116,
+      "performance": "neutral",
+      "text": "Wyck held his footing because he had been shoved over four hundred times.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0116.wav",
+      "textSha256": "b172f34e6dd9249a9773788d6898069a99b9a987e08ae16020aff7e0fb0a9962"
+    },
+    {
+      "index": 117,
+      "performance": "neutral",
+      "text": "Toren stepped in on the second one and put the spike into its shoulder, and the spike held.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0117.wav",
+      "textSha256": "268e80a97b9d492b943d01c5f9a0ff7425e5542ad49d3ad72c607e513a7d4e82"
+    },
+    {
+      "index": 118,
+      "performance": "neutral",
+      "text": "Rook came through from the left and killed one so fast that Toren only registered it as a sound.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0118.wav",
+      "textSha256": "50dc27fee3fb347f7ca56effbc998a449861e4945de1ce92ecfc876033f622a0"
+    },
+    {
+      "index": 119,
+      "performance": "neutral",
+      "text": "The hounds on the field took losses \u2014 two down in twenty seconds \u2014 and the other four pulled back thirty feet into the fog and circled and came again and were driven off again, and it was going well, they were winning, and Toren's blood was up higher than it had ever been in his life.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0119.wav",
+      "textSha256": "c3228b7c05a97a43c4b1294d4d806f11d35764384590545419cc48b49d78fc5a"
+    },
+    {
+      "index": 120,
+      "performance": "neutral",
+      "text": "Then",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0120.wav",
+      "textSha256": "0597f441dcca7c9bb0a79da4d94d03c523c031a3384009afff47ac1fd1a72b95"
+    },
+    {
+      "index": 121,
+      "performance": "neutral",
+      "text": "the four in the field stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0121.wav",
+      "textSha256": "857d6d6e71ffcbbd6165a5284117369fba307983b0e0d43a6cd047796af5d575"
+    },
+    {
+      "index": 122,
+      "performance": "neutral",
+      "text": "All at once.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0122.wav",
+      "textSha256": "77ed5b3dbaae7f8bd3eb9af4d32168c8b29ed857f47c494e5d18f5c65dce9168"
+    },
+    {
+      "index": 123,
+      "performance": "neutral",
+      "text": "Mid-approach, at sixty feet, side-on in the stubble.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0123.wav",
+      "textSha256": "d9301e8cf4d8d81cf8f9284318fcb4e194001d787e62ad4eca7763c4b825c798"
+    },
+    {
+      "index": 124,
+      "performance": "neutral",
+      "text": "Heads low.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0124.wav",
+      "textSha256": "0265ebe1a86a499cd0f12eaf3a65196457ac51e5c2fe834a050b4b755855cebc"
+    },
+    {
+      "index": 125,
+      "performance": "neutral",
+      "text": "Absolutely still.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0125.wav",
+      "textSha256": "188ba69ad93912018695e591261f5892e3c61d4102e4cbd81204f3ca03b45473"
+    },
+    {
+      "index": 126,
+      "performance": "neutral",
+      "text": "And Toren knew what that was.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0126.wav",
+      "textSha256": "53917523d05e4d70bf025eb7b666eb96a58f1a302ceeb486311cd4c1edc208fc"
+    },
+    {
+      "index": 127,
+      "performance": "yell",
+      "text": "\"They're off!\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0127.wav",
+      "textSha256": "c37ae8edf2cba6427ad87d2ffea925c6debca99c7b8465f045184590086e1e24"
+    },
+    {
+      "index": 128,
+      "performance": "yell",
+      "text": "he shouted.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0128.wav",
+      "textSha256": "c3164fe23ed83c3b1418cc033eacfa9cb9dcda50cfd3cf0d1a7519031b281ec9"
+    },
+    {
+      "index": 129,
+      "performance": "yell",
+      "text": "\"They're breaking \u2014 they're going to break.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0129.wav",
+      "textSha256": "051ed37fdb6e2391220fe5bc1f425bae0d58e9beeb8e978236a6ea5351563591"
+    },
+    {
+      "index": 130,
+      "performance": "yell",
+      "text": "They did this before.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0130.wav",
+      "textSha256": "b681a3f304fba65ab42661d11f989c0a6719e690ec2b94333152452f657ac619"
+    },
+    {
+      "index": 131,
+      "performance": "yell",
+      "text": "They're going\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0131.wav",
+      "textSha256": "1e84ce26d4d59567c7e24a6e2352defe7de80a5cd4e69bd918d1957eae9d49ae"
+    },
+    {
+      "index": 132,
+      "performance": "yell",
+      "text": "\"Right!\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0132.wav",
+      "textSha256": "eeb8027de8ef6485c0d0b5d18d9b844841e217321b7c42eeb675956d2d2bc7b8"
+    },
+    {
+      "index": 133,
+      "performance": "yell",
+      "text": "Milo screamed, from the cart.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0133.wav",
+      "textSha256": "f71b4635a41c1824fde866601c65cd8e00791dd9d521de90ffb4a5225d066238"
+    },
+    {
+      "index": 134,
+      "performance": "yell",
+      "text": "\"Right!",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0134.wav",
+      "textSha256": "c32a76434817ca37ecca0423b9cfcee2309e81e1a7a481c9f33ced6ab93c38af"
+    },
+    {
+      "index": 135,
+      "performance": "yell",
+      "text": "Right, in the trees, right\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0135.wav",
+      "textSha256": "16dc366f6634c2672bfbdb52a517f52a22c1649b2198c150efd8a3c7b1bc2720"
+    },
+    {
+      "index": 136,
+      "performance": "neutral",
+      "text": "\"They're off, Milo, look at the field\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0136.wav",
+      "textSha256": "1d59000687e5634268aeb0b1f1fb92c8584b71de753b562adc852ab1db4c09e3"
+    },
+    {
+      "index": 137,
+      "performance": "yell",
+      "text": "\"RIGHT\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0137.wav",
+      "textSha256": "cb1ba953a262a8aec27a00880dcf17378070fe94e1332b9e475506b4983d0708"
+    },
+    {
+      "index": 138,
+      "performance": "neutral",
+      "text": "Toren turned to the field.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0138.wav",
+      "textSha256": "6847d3f60382544ddf273e0f7a6de74b81861cb32888b41799aa09f48d38072f"
+    },
+    {
+      "index": 139,
+      "performance": "neutral",
+      "text": "So did Wyck,",
+      "pauseAfterMs": 340,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0139.wav",
+      "textSha256": "01fe90be45f2f1b90f338ce2a9fc7daa05e30ff2eda8ae3e0cf2be432f41efa8"
+    },
+    {
+      "index": 140,
+      "performance": "neutral",
+      "text": "because Toren had said it, and because Toren was in the middle, and because for eight days the middle had been where the calls came from.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0140.wav",
+      "textSha256": "f69846cab1fd26a7b18a889d49384b701571fbaa1382d6c37551de36f3adc497"
+    },
+    {
+      "index": 141,
+      "performance": "neutral",
+      "text": "Dessa did not turn.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0141.wav",
+      "textSha256": "e881f3c75365daf5e035f25682a3fa57e19c97fd91f6e2d34671f8b799b650f8"
+    },
+    {
+      "index": 142,
+      "performance": "neutral",
+      "text": "She was on the poplar side, and she had been given the bad side by name, and she stayed on it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0142.wav",
+      "textSha256": "fa3acd1f0eae89709432a686029df89cba4d458d6aa5ec1bc4755b42239afeb6"
+    },
+    {
+      "index": 143,
+      "performance": "neutral",
+      "text": "Alone, she faced forty feet of ditch and fog with a hatchet.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0143.wav",
+      "textSha256": "30d07368fdc99802f9fb27348a939f15a7ebe3ab6a3dd0253a477f487d7bfa9f"
+    },
+    {
+      "index": 144,
+      "performance": "fear",
+      "text": "Three hounds came out of the poplars at her in",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0144.wav",
+      "textSha256": "f8f94b4e32ac025037e7f0b9a5eadc703d4b3f17afd4eed6d91fc885dc2738f6"
+    },
+    {
+      "index": 145,
+      "performance": "fear",
+      "text": "complete silence.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0145.wav",
+      "textSha256": "0aa4a72dab8ce4b2c6ffc68c322039135f3efcace97e0549d15f95e9584cb675"
+    },
+    {
+      "index": 146,
+      "performance": "fear",
+      "text": "They had been getting ready to do it since the first one stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0146.wav",
+      "textSha256": "229c4f5ed7867eb0b0399829d16305f8079e4e13000af79edee914b44d8c6962"
+    },
+    {
+      "index": 147,
+      "performance": "fear",
+      "text": "She got the hatchet into the first one.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0147.wav",
+      "textSha256": "26cc3077ab13b604306dd8c0bf81a37fd62a9d4df2624dc24b36a7fe88adb6c5"
+    },
+    {
+      "index": 148,
+      "performance": "fear",
+      "text": "She got her forearm up for the second, which is what you do, which is what everyone does, and it",
+      "pauseAfterMs": 320,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0148.wav",
+      "textSha256": "8bb1fa70ba6a7207231dec1abeb2921b46b570f2c2d353bb09adacc2bc28bda5"
+    },
+    {
+      "index": 149,
+      "performance": "fear",
+      "text": "took her forearm.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0149.wav",
+      "textSha256": "536bba4f9146c81ee8ac9f33e0dd2f8f40d6658a087628d89df85a3f3b9bea03"
+    },
+    {
+      "index": 150,
+      "performance": "fear",
+      "text": "The third one hit her below the knee and drove her off her feet sideways into the parapet.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0150.wav",
+      "textSha256": "dab8a1d3b8704238bef07b576eeaf6f6a6757b402225cd797eefc7c6b85d0d97"
+    },
+    {
+      "index": 151,
+      "performance": "fear",
+      "text": "Rook was there before she finished falling \u2014 Toren never saw him cross the ground, there was a crack of the struts and a scatter of grit, and the man was simply in a different place \u2014 and he killed all three of them in the mouth of the bridge in about four seconds, and there was nothing careful about it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0151.wav",
+      "textSha256": "c584b53ad91c5e2feba031ddf06f3f2caf93b6560fcceb7c13a444579332e965"
+    },
+    {
+      "index": 152,
+      "performance": "fear",
+      "text": "Then he turned and put himself between the poplars and the cart and stood there while the hounds remaining in the field decided whether they wanted any of this.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0152.wav",
+      "textSha256": "1e53bfa1c023126145344cc4a0d8a70f22d6be7e44467bfde6131d90f1211c82"
+    },
+    {
+      "index": 153,
+      "performance": "fear",
+      "text": "They didn't.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0153.wav",
+      "textSha256": "5612fac14e33b75ca129563d67fda0119e2c2409dbd8e96e88a88fe5d8b75c52"
+    },
+    {
+      "index": 154,
+      "performance": "fear",
+      "text": "They went.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0154.wav",
+      "textSha256": "87c3c00772c4ef3dbae709c613cb40513fbf018d8c4d6fd4aa05a6de1de1fa3a"
+    },
+    {
+      "index": 155,
+      "performance": "fear",
+      "text": "The fog closed over the stubble, and the noise stopped, and Dessa was making a sound against the stone.",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0155.wav",
+      "textSha256": "a091fd3ac98bbc5fd71e2ab5961e06126726a1e55238d629bf2ad4988723a8e3"
+    },
+    {
+      "index": 156,
+      "performance": "neutral",
+      "text": "Rook said nothing about it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0156.wav",
+      "textSha256": "75176c29eae5ddf5e09a662927973db96a636cbec12cb221c9c44b149f873a0b"
+    },
+    {
+      "index": 157,
+      "performance": "neutral",
+      "text": "That was the thing Toren could not get past, in the twenty minutes that followed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0157.wav",
+      "textSha256": "8eb09a3a8790762eea20b376fabe7c3787c4c0fe79f987d2bce33bd765ea8866"
+    },
+    {
+      "index": 158,
+      "performance": "neutral",
+      "text": "He said nothing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0158.wav",
+      "textSha256": "9df0ba4f249af3d0d4a7fab689bd59e1f6e14b7c29c7fa1524e71ad948ad9dbb"
+    },
+    {
+      "index": 159,
+      "performance": "neutral",
+      "text": "He knelt in the road with his knee braced against Dessa's hip and got the sleeve off her arm with a knife.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0159.wav",
+      "textSha256": "e0b788ab2ca3172f931c21f63a1ddbabea62280b7613edb104b9d9e4cd3457f8"
+    },
+    {
+      "index": 160,
+      "performance": "neutral",
+      "text": "He told Milo, calmly, exactly where to hold and how hard, and told Wyck to bring the lamp closer and then closer than that, and told Toren to get the flask out of his coat and open it and hold it where he could reach it \u2014 and he did not say one single word about what had just happened.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0160.wav",
+      "textSha256": "803b941df2f2020f36afaf9d1803f0b1c4fb5fcea54b05c96dcb1bdf9b86e488"
+    },
+    {
+      "index": 161,
+      "performance": "neutral",
+      "text": "Dessa's forearm was bad.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0161.wav",
+      "textSha256": "3fd8d757be76cc76f20d20ffa1fc55426697ca947f296e4ec8dea02a3a041ee2"
+    },
+    {
+      "index": 162,
+      "performance": "neutral",
+      "text": "Her calf was worse.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0162.wav",
+      "textSha256": "38e3d496ba03479b1682a21de831f04891d1752cb75d164d3301da8968b4333b"
+    },
+    {
+      "index": 163,
+      "performance": "neutral",
+      "text": "Rook put his Ember against her shin and his palm over the wound and shut his eyes, and the bleeding slowed the way water slows when someone upstream shuts a gate part of the way, and afterward he sat back on his heels and drank two swallows out of the flat tin flask and looked, briefly, about ten years older.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0163.wav",
+      "textSha256": "498cc9bbac173f84743a99cc39ee8a563f588415871d4b7c19e1798734715b49"
+    },
+    {
+      "index": 164,
+      "performance": "fear",
+      "text": "\"Is she\u2014\" Milo's voice went.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0164.wav",
+      "textSha256": "33923b2e2ccc0daf3fbf064dbc4d0fe49176518b50cb78bf82058be9bcdcc74c"
+    },
+    {
+      "index": 165,
+      "performance": "fear",
+      "text": "\"Is she going to\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0165.wav",
+      "textSha256": "302e1028175f103ee47c883bef8e57e1a06648ba48d1583fa6d392cdac02c769"
+    },
+    {
+      "index": 166,
+      "performance": "neutral",
+      "text": "\"She's going to be fine and it's going to take three months and it's going to hurt every day of it,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0166.wav",
+      "textSha256": "c3c5afa688f9f7f187b2ad90f68b7bd8dc9d5eff3316b0474fcd08cdfa6b33a2"
+    },
+    {
+      "index": 167,
+      "performance": "neutral",
+      "text": "\"The leg's the problem.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0167.wav",
+      "textSha256": "c5e81d3e02745ea5d2eedcc7c033100609db4019bb4fd0cb965885c5a1a8fae5"
+    },
+    {
+      "index": 168,
+      "performance": "neutral",
+      "text": "She'll walk in a fortnight, and she'll limp for the winter.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0168.wav",
+      "textSha256": "afc2d0facf18831c21403736e904dcc6c6a6208a2abfe610a3de24cf9dea4161"
+    },
+    {
+      "index": 169,
+      "performance": "neutral",
+      "text": "There's nothing else I can do for her tonight, and there's nothing anyone can do for her that's faster.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0169.wav",
+      "textSha256": "99ab3341685dbed7c5fec9c9e6bb817f5412a7255320c998d742d2141ed372a7"
+    },
+    {
+      "index": 170,
+      "performance": "neutral",
+      "text": "\"You could\u2014\" Toren stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0170.wav",
+      "textSha256": "a71b9f78267e13f317e19d8d54023b91a17f1e69b41890606320eb7f9220b945"
+    },
+    {
+      "index": 171,
+      "performance": "neutral",
+      "text": "\"I could what?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0171.wav",
+      "textSha256": "b9de5dc05c175149a32184aaccc871299f32b2f0464280b118e1f396b38dba43"
+    },
+    {
+      "index": 172,
+      "performance": "neutral",
+      "text": "\"You did it for my gran.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0172.wav",
+      "textSha256": "4e866f86c9dbf51967b1fb41dcf488402d6b56a658f479c83fc15ef7d5a84460"
+    },
+    {
+      "index": 173,
+      "performance": "neutral",
+      "text": "Twice.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0173.wav",
+      "textSha256": "e82e28f4ad6e41aee221d6448f461c7628441d889c690cc84af9f7f98ab68ec3"
+    },
+    {
+      "index": 174,
+      "performance": "neutral",
+      "text": "You did it for her at the cut, and she got better, she sat up, she\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0174.wav",
+      "textSha256": "6b223408d6c26f5632d8d96f50e4eeef2a6e2bb6cb31f0d72e1ab15b56ce6731"
+    },
+    {
+      "index": 175,
+      "performance": "neutral",
+      "text": "\"I borrowed it,\" said Rook.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0175.wav",
+      "textSha256": "32872f2f393b941724072e123586e818c9926e439211cabe952a92873613b3d9"
+    },
+    {
+      "index": 176,
+      "performance": "neutral",
+      "text": "\"From her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0176.wav",
+      "textSha256": "d970b28c1d2a6d5cac57bfe5c2f485fb7eddc9e651af74a02d15fa9fb44a131a"
+    },
+    {
+      "index": 177,
+      "performance": "neutral",
+      "text": "She paid it back the next day, and she paid it back with interest, and if you'd been watching her instead of me you'd know that.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0177.wav",
+      "textSha256": "a3950ad5910871c08be0e6aa6c352e58c12ae66f4e02e2b863170cbfc83f2af3"
+    },
+    {
+      "index": 178,
+      "performance": "neutral",
+      "text": "He wiped his hands on his coat.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0178.wav",
+      "textSha256": "0f5b8508680baef774e988c2a6105ba35483309d40b4d874feb83b81b50a8644"
+    },
+    {
+      "index": 179,
+      "performance": "neutral",
+      "text": "\"There's no fast.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0179.wav",
+      "textSha256": "d064e187506c110ea847216d053383a275eb8c3d763816f9eab89dffe5fa3f70"
+    },
+    {
+      "index": 180,
+      "performance": "neutral",
+      "text": "There's only who's carrying the cost and when the bill comes.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0180.wav",
+      "textSha256": "98bb61e120b00500425774c3d6ea849fcac0a7085660475e226488c0e82e08d7"
+    },
+    {
+      "index": 181,
+      "performance": "neutral",
+      "text": "Anybody who tells you different is selling something.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0181.wav",
+      "textSha256": "5b68e9377d0ef1b99fc7c83d456667816b0e0ca57be3bcb579a87084619c80c2"
+    },
+    {
+      "index": 182,
+      "performance": "neutral",
+      "text": "Dessa, grey-faced, teeth chattering, said, \"Tor.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0182.wav",
+      "textSha256": "31012ac635dde5d8fe7d614ed912f41236100e848be7c248f64e673642803128"
+    },
+    {
+      "index": 183,
+      "performance": "neutral",
+      "text": "Don't.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0183.wav",
+      "textSha256": "e0d1a234b32f8cad63c15d2b358486d52fc9dd4648c0c0f9abe312fe2e4c640f"
+    },
+    {
+      "index": 184,
+      "performance": "neutral",
+      "text": "\"Don't what?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0184.wav",
+      "textSha256": "28c3b00c7948ea41a518dc286a85e164611c825fb258186c6ff996908465b272"
+    },
+    {
+      "index": 185,
+      "performance": "neutral",
+      "text": "\"Whatever your face is doing,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0185.wav",
+      "textSha256": "7d52655e973f6c8dc241a5ac71f408864ec49fe2bc1d143cb64a028949b45f45"
+    },
+    {
+      "index": 186,
+      "performance": "neutral",
+      "text": "\"Don't.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0186.wav",
+      "textSha256": "82cc31fe7dff4e43eccb8fa6d94c1bc1bc6c3b8df5ee843a5580689e4c3bda5d"
+    },
+    {
+      "index": 187,
+      "performance": "neutral",
+      "text": "The debrief happened an hour later, on the bridge, with a lamp on the parapet and Dessa propped against the cart wheel with her leg out straight, because Rook would not let her be carried out of hearing.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0187.wav",
+      "textSha256": "9d72d0ce6019656b5c2ee43113011d27bc3f080a1cd76495e6c99034e38a326a"
+    },
+    {
+      "index": 188,
+      "performance": "neutral",
+      "text": "He did it standing up, and he did it as flatly as he had ever done anything.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0188.wav",
+      "textSha256": "337fd232b95f0a6f665e35b79528d640e11cf64f6576666f0e8ed792f86e2837"
+    },
+    {
+      "index": 189,
+      "performance": "neutral",
+      "text": "\"Stillness is not disengagement,\" he said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0189.wav",
+      "textSha256": "c670ecbc2fbe2997e4f2c2f5e4f529f7c411bfb2e45af79c41c02954acdb4bff"
+    },
+    {
+      "index": 190,
+      "performance": "neutral",
+      "text": "\"Stillness is the wind-up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0190.wav",
+      "textSha256": "abaf63703ae80f5e743aae660dcbcd78457cd2baba6761c220c1f65ccb2946b3"
+    },
+    {
+      "index": 191,
+      "performance": "neutral",
+      "text": "\"When a hound goes still and side-on with its head down, it has finished choosing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0191.wav",
+      "textSha256": "b3cdedb91f9c6cea1055cb22223ddda8672c4bfbf0ca996af79d34d86fba26ee"
+    },
+    {
+      "index": 192,
+      "performance": "neutral",
+      "text": "Everything before that is shopping.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0192.wav",
+      "textSha256": "4fc7e825c2001680d0464115fd99f747b60625f2832319b61c5e74aa4194b1ee"
+    },
+    {
+      "index": 193,
+      "performance": "neutral",
+      "text": "The noise on the open side is not an attack, it is a purchase \u2014 they spend two or three of their own out where you can see them to buy your face, and they are willing to lose those two or three, and tonight they did lose them, and it was worth it to them.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0193.wav",
+      "textSha256": "b2e0338534a16776bcc9357592edc9c1a1dfad4175683ffa18a3dd92e7ceb61e"
+    },
+    {
+      "index": 194,
+      "performance": "neutral",
+      "text": "The side that goes quiet is the side that is coming.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0194.wav",
+      "textSha256": "a606f4fbda0c8f01705a9f5dc0d2a8415ae03c6e228217ac17fce76cb85f0571"
+    },
+    {
+      "index": 195,
+      "performance": "neutral",
+      "text": "Always.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0195.wav",
+      "textSha256": "7f8369078fc513c0abf7c4f5f0ad4b1a525f7b4f2a4644a7b7b3a1102996e022"
+    },
+    {
+      "index": 196,
+      "performance": "neutral",
+      "text": "Every time.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0196.wav",
+      "textSha256": "fc31d9fc46347a92a35e93e99a1956efbc292ce63807d53375e556a470e5f851"
+    },
+    {
+      "index": 197,
+      "performance": "neutral",
+      "text": "It is the quiet flank, not the loud one, and it is not close and it is not a guess.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0197.wav",
+      "textSha256": "56caa1bdba4526b646a32f7de61a62ef8a6a1895c4ba5f6120abf2f1f24babe9"
+    },
+    {
+      "index": 198,
+      "performance": "neutral",
+      "text": "\"They commit.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0198.wav",
+      "textSha256": "25b6a5ad35e62fcebc873215c4f420f86f6982433615b2c0f4f74a624f609898"
+    },
+    {
+      "index": 199,
+      "performance": "neutral",
+      "text": "Once they start, they cannot turn it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0199.wav",
+      "textSha256": "9b360aebae6738866ad040227816ac4d0c009e1c522d8c8a16053679bfc9cf40"
+    },
+    {
+      "index": 200,
+      "performance": "neutral",
+      "text": "Which means that if one voice says right out loud before contact, everyone turns right and meets three hounds with four people, and it is a bad night for the hounds, and nobody bleeds.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0200.wav",
+      "textSha256": "6de60924a6a007156ced990264d8f7eb6e06c955828bd26a114ef79c0b98f7cc"
+    },
+    {
+      "index": 201,
+      "performance": "neutral",
+      "text": "That is the entire mechanism.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0201.wav",
+      "textSha256": "472160213c1763319213aa92e795c619d673ff28f2ac67a4948fded0417e1852"
+    },
+    {
+      "index": 202,
+      "performance": "neutral",
+      "text": "That is all of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0202.wav",
+      "textSha256": "e95bd345c1a92f74690b3c726c2cee831059f61e8d5ec30be4840881fa14d2d9"
+    },
+    {
+      "index": 203,
+      "performance": "neutral",
+      "text": "There is nothing else to learn about verge-hounds, ever, and it took you one girl's leg.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0203.wav",
+      "textSha256": "188df9df75fa94a795d62aa98bd5305f868b24b48a38bdd72cca927b04840114"
+    },
+    {
+      "index": 204,
+      "performance": "neutral",
+      "text": "Nobody spoke.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0204.wav",
+      "textSha256": "e6db07ba410676fe78a4b00c465312be9d11dbeda7bfb336888cafb4d2354837"
+    },
+    {
+      "index": 205,
+      "performance": "neutral",
+      "text": "\"On the sixth day,\" Rook said, \"they went still and then they left.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0205.wav",
+      "textSha256": "da05deb59156113dda931b3d1e24b4566e7200166bc06057239f7b7076dbd6d1"
+    },
+    {
+      "index": 206,
+      "performance": "neutral",
+      "text": "That is true.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0206.wav",
+      "textSha256": "965606134f5b5c889266c5a0db86c15dd89e408805cd9fd66cebdd23b3d65904"
+    },
+    {
+      "index": 207,
+      "performance": "neutral",
+      "text": "They went still because they had chosen, and they left because I walked out into the field and they recounted and did not like the new number.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0207.wav",
+      "textSha256": "268fe50a42137499d327b1c0047a4983c11cc7b5a662b7395da8b9d317041830"
+    },
+    {
+      "index": 208,
+      "performance": "neutral",
+      "text": "You watched a wind-up get interrupted, and you wrote it down as a wind-down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0208.wav",
+      "textSha256": "d005bca1b47ee24826343382c5ec5e12b49b7c7112c8717f63713aa27bb23810"
+    },
+    {
+      "index": 209,
+      "performance": "neutral",
+      "text": "It was a fair reading.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0209.wav",
+      "textSha256": "35f508772ba24b4939c43b4320def77424ed17af3cfb51d22351371d6273bb93"
+    },
+    {
+      "index": 210,
+      "performance": "neutral",
+      "text": "It was the reading I'd expect from someone paying attention, which is why I let you keep it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0210.wav",
+      "textSha256": "08ce052ea8aac4d97954ff98e3651b68fbe34abf1ae33b69f3b0f109149b491b"
+    },
+    {
+      "index": 211,
+      "performance": "grief",
+      "text": "Toren said, thickly, \"You let me.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0211.wav",
+      "textSha256": "b39bc35afd16b70944193b5c9371f1a3d63c59b6556db7bb9a8ba50f4c0d8090"
+    },
+    {
+      "index": 212,
+      "performance": "neutral",
+      "text": "\"Yes.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0212.wav",
+      "textSha256": "cf87b23d0f70cff8f9ce62b411ad616fd9be0b93edeba67c70f647e5a4b848e1"
+    },
+    {
+      "index": 213,
+      "performance": "neutral",
+      "text": "\"You knew.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0213.wav",
+      "textSha256": "b53ae31271735ca81f8f26ccabc9a7abaf71b9d28e26f72d3649e140112a180f"
+    },
+    {
+      "index": 214,
+      "performance": "neutral",
+      "text": "On the road.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0214.wav",
+      "textSha256": "349bd9091a3d25504c3957212253d2e1c19ce858daccd4d542217a99c9fe8aa7"
+    },
+    {
+      "index": 215,
+      "performance": "neutral",
+      "text": "You knew and you didn't\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0215.wav",
+      "textSha256": "415bb04bccb2a8f4581ce85e8deea317c628d91d241dc64497be008366aa747b"
+    },
+    {
+      "index": 216,
+      "performance": "neutral",
+      "text": "\"I told you they commit to one side, and I told you to call it out loud.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0216.wav",
+      "textSha256": "a6262496b9b85a981ba2e19e3e1ffa4026b113a16280e9f6f392ed7ada561309"
+    },
+    {
+      "index": 217,
+      "performance": "neutral",
+      "text": "That's the counter.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0217.wav",
+      "textSha256": "706f9c56cca3eab1c968c1900dbddb15f3aa9d3e2c699284657f64507bb80990"
+    },
+    {
+      "index": 218,
+      "performance": "neutral",
+      "text": "I gave you the counter, and I kept the tell.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0218.wav",
+      "textSha256": "5b43120402748a77c22f0a609a76b9aa8c1bbb9dd67acc6ebf46c8e4f7640ab9"
+    },
+    {
+      "index": 219,
+      "performance": "neutral",
+      "text": "Rook's face did not change.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0219.wav",
+      "textSha256": "74e06d3584dd9bd1a983e24249041f8042fefdf3f765315be58e6ac432c672de"
+    },
+    {
+      "index": 220,
+      "performance": "neutral",
+      "text": "\"You'd have nodded.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0220.wav",
+      "textSha256": "f9dddb0f61b623893ba604ddbb285928b34481294fc8c3113962ce5744c3265c"
+    },
+    {
+      "index": 221,
+      "performance": "neutral",
+      "text": "You'd have written it in your head next to nine other things I've said, and it would have been in there with the rest of them, and in the fog on a bridge with your blood up you would have done exactly what you did tonight anyway, because knowing a thing and doing it while frightened are two separate skills, and only one of them can be handed over.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0221.wav",
+      "textSha256": "e7424e383e07b619d2c6cf340a3a72973fd93a9f5d134e800cd1d44898dfdac9"
+    },
+    {
+      "index": 222,
+      "performance": "neutral",
+      "text": "Now you'll never do it again as long as you live.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0222.wav",
+      "textSha256": "198bdbdb643cbfe0bc366c2949a48d247993ae3a0624ae48c75135bfbce8da42"
+    },
+    {
+      "index": 223,
+      "performance": "neutral",
+      "text": "Neither will they.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0223.wav",
+      "textSha256": "414b15eecba43bd5049a787c456c2d8f85b3c0e850bc2116c530e76d2eedb51d"
+    },
+    {
+      "index": 224,
+      "performance": "neutral",
+      "text": "That's the trade, and I made it, and I'll make others, and you're not going to like most of them.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0224.wav",
+      "textSha256": "34eba2d1a31131632e5dc1af76367ad7277954c4f83edbebd8dbaba7e85cb584"
+    },
+    {
+      "index": 225,
+      "performance": "neutral",
+      "text": "\"That's her leg,\" said Toren.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0225.wav",
+      "textSha256": "caf8c9c129244c9115eef9d5240b2a1609693c900dcebd5cfcd2ae5de21e5b07"
+    },
+    {
+      "index": 226,
+      "performance": "neutral",
+      "text": "\"Yes,\" said Rook.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0226.wav",
+      "textSha256": "7aef24a5c0715627de18b7a5cbd51710d9a38525e954f0ac0a553b052a4408bb"
+    },
+    {
+      "index": 227,
+      "performance": "neutral",
+      "text": "\"It is.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0227.wav",
+      "textSha256": "8b22979cce931c06016023eefe5586c83d6e2381cb43848ce588c4fc92b96668"
+    },
+    {
+      "index": 228,
+      "performance": "neutral",
+      "text": "And then, because he had apparently decided that this was the night for it, he said:",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0228.wav",
+      "textSha256": "c0cbc6be78fa9f9f4a71ed4a771802207f11ddac10c85625a6f8a92eb2e6f60a"
+    },
+    {
+      "index": 229,
+      "performance": "neutral",
+      "text": "\"And it wasn't your call to make, which is the part you should actually be losing sleep over.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0229.wav",
+      "textSha256": "2d0b154f1df5c37e706464877206740d7235c0c673a607ef4d23f2f017aed8ab"
+    },
+    {
+      "index": 230,
+      "performance": "neutral",
+      "text": "Toren stared at him.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0230.wav",
+      "textSha256": "b7fcad216e45d756dd5db3b6e0b8aefc6356562f3d9a215c3d8afdeadcc46362"
+    },
+    {
+      "index": 231,
+      "performance": "neutral",
+      "text": "\"The boy on the cart called right three times,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0231.wav",
+      "textSha256": "da012e32d7f5d0cfd4d30cff0f659a5f0eaf5f5395fc9148754bc1cdd9ae637e"
+    },
+    {
+      "index": 232,
+      "performance": "neutral",
+      "text": "\"Correctly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0232.wav",
+      "textSha256": "c6ce2e270a69e6efe77f3847f8c219e8480724f6d14f5b24498752c1cf5ffaa8"
+    },
+    {
+      "index": 233,
+      "performance": "neutral",
+      "text": "Early.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0233.wav",
+      "textSha256": "24655c091affa072e9b046cfd01ea349ce165e2b94aa1549fc13694f2dc03ac7"
+    },
+    {
+      "index": 234,
+      "performance": "neutral",
+      "text": "Loud.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0234.wav",
+      "textSha256": "f0f8944a7b0de9b3489b120d47e48b44775503098a65bb970aaa9aff5b2d555c"
+    },
+    {
+      "index": 235,
+      "performance": "neutral",
+      "text": "That's his job, it's the only job he has, he's been doing it for eight days, and he has never once got it wrong, and tonight he got it right again, and you talked over him.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0235.wav",
+      "textSha256": "c090294782ea8dfbd57a00a401aeb4838cb18cd111c0e086d627ba0f2cd4cd80"
+    },
+    {
+      "index": 236,
+      "performance": "neutral",
+      "text": "Not because you knew better.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0236.wav",
+      "textSha256": "ae18891a7b70955796944d84d797acbfc1ac739b003becc1a5b567a947fe216a"
+    },
+    {
+      "index": 237,
+      "performance": "neutral",
+      "text": "Because you were in the middle, and you'd got used to the sound of your own voice coming out of the middle.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0237.wav",
+      "textSha256": "05546101335407a35d1567c37b034be5215356d9a1fac5ba3fa64edee3f49120"
+    },
+    {
+      "index": 238,
+      "performance": "neutral",
+      "text": "\"I didn't\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0238.wav",
+      "textSha256": "b30e672174b8a31519d0a57541a672f3706d6aacd265b49e1e9041c6a34677ce"
+    },
+    {
+      "index": 239,
+      "performance": "neutral",
+      "text": "\"You did it in the weigh-yard at Hobb's Wall too,\" said Rook.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0239.wav",
+      "textSha256": "a5aa05651c8accaefdbb1e737706c90e792742e60fc8ce8313949cc67b4b27da"
+    },
+    {
+      "index": 240,
+      "performance": "neutral",
+      "text": "The lamp hissed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0240.wav",
+      "textSha256": "95f1fe716161aab73509c44bf0ccebe088f5033a9ebd3abe590b1c9d54eec089"
+    },
+    {
+      "index": 241,
+      "performance": "neutral",
+      "text": "Out in the dark the creek went on under the bridge.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0241.wav",
+      "textSha256": "06126918060441c739c2afa6ad7808bd02230ba3c9ddf8bbba6857b841da629d"
+    },
+    {
+      "index": 242,
+      "performance": "neutral",
+      "text": "\"That's the first true thing you've said all week,\" said Wyck.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0242.wav",
+      "textSha256": "8a2b0b5ef9f27f07dc73a9b9abe22918bb57353ad1147d6861add8ef7d849151"
+    },
+    {
+      "index": 243,
+      "performance": "neutral",
+      "text": "Everybody looked at him.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0243.wav",
+      "textSha256": "03a6f0e74f876485f62c7d0223e0156317661caf0c93763368fd611c3148c945"
+    },
+    {
+      "index": 244,
+      "performance": "neutral",
+      "text": "He was sitting on the parapet with the bar across his knees and his torn hand wrapped in a rag, and he had been quiet for eight days, and Toren understood with a slow horrible clarity that he had not been quiet the way Milo was quiet.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0244.wav",
+      "textSha256": "afc291b552b4dd1dc1c08418cef34fc65b9a878f80bf1f83fc25c6b205bc5b8c"
+    },
+    {
+      "index": 245,
+      "performance": "neutral",
+      "text": "He had been quiet the way a kettle is quiet.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0245.wav",
+      "textSha256": "3a9be5584522dc4fb8a9799d9ce6e360d877d0fbc909b5b620c30ca6c30a4747"
+    },
+    {
+      "index": 246,
+      "performance": "hatred",
+      "text": "\"You stood in that yard,\" Wyck said, \"and you told that woman we're not staying if he's not.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0246.wav",
+      "textSha256": "16612641cdc762346dd64826c505949d16696638046843514e8a4ae9ccb36f13"
+    },
+    {
+      "index": 247,
+      "performance": "hatred",
+      "text": "You said it about me.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0247.wav",
+      "textSha256": "daec5e69738373a6c339938202fba82ab77f5831789b56bf3679b0bef74d3dce"
+    },
+    {
+      "index": 248,
+      "performance": "hatred",
+      "text": "Out loud, to a stranger with a book, about my whole life.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0248.wav",
+      "textSha256": "c3df7dac046521f69841d6d5f86bf8c3fff0513d864367693cd8c5a3fa7252c7"
+    },
+    {
+      "index": 249,
+      "performance": "hatred",
+      "text": "His voice was perfectly reasonable, which made it worse.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0249.wav",
+      "textSha256": "ec82dd3edd5bdd9005e51c95b1cba47a7ce1b2297300b90d9be0fe5cb00809bc"
+    },
+    {
+      "index": 250,
+      "performance": "hatred",
+      "text": "\"I never said a word to you about it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0250.wav",
+      "textSha256": "b31e7de060eea58408688139054ac9a9de40473ed6ddf8a1241da11e26acc155"
+    },
+    {
+      "index": 251,
+      "performance": "hatred",
+      "text": "You never asked me one.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0251.wav",
+      "textSha256": "f45e19033d88e77213b282ca5222f1413b4efeb96e8929f962b836333d512694"
+    },
+    {
+      "index": 252,
+      "performance": "hatred",
+      "text": "You just \u2014 decided, and then you said it, and everybody nodded, because it was Toren, and Toren's dad died, and Toren's got the Ember, so Toren gets to say what all four of us are.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0252.wav",
+      "textSha256": "cca2b12d2f62a39b1357257726a6d7ddee52339af60bbaaa29bf44375a47ff8e"
+    },
+    {
+      "index": 253,
+      "performance": "neutral",
+      "text": "\"Wyck\u2014\" Dessa said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0253.wav",
+      "textSha256": "feca41b5374cab53332c1b04e477de8e9362ca586f381bca237617581174263a"
+    },
+    {
+      "index": 254,
+      "performance": "hatred",
+      "text": "\"No, she's the one who's bleeding; I'm not the one who's bleeding, so I get to say it.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0254.wav",
+      "textSha256": "4889d4d2f46233032727a24a7affd5557e2f6ff7c37ca780b73b66e7e99c4365"
+    },
+    {
+      "index": 255,
+      "performance": "hatred",
+      "text": "He looked back at Toren.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0255.wav",
+      "textSha256": "a1f0b6f9b8dfc9ea9e51c65bf69e18a209e104d5b481a97dd1ac7f729d2fcdc1"
+    },
+    {
+      "index": 256,
+      "performance": "hatred",
+      "text": "\"Maybe you were right.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0256.wav",
+      "textSha256": "0a44c6649ad01f9483adac547ea92d0ae5f923e1f482ca9b7f84322d8a29ad9d"
+    },
+    {
+      "index": 257,
+      "performance": "hatred",
+      "text": "About the yard.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0257.wav",
+      "textSha256": "9db0224b2f06e1f2181f95fc73b4c04fd5cffa1de5f38b24c2d767434a185d03"
+    },
+    {
+      "index": 258,
+      "performance": "hatred",
+      "text": "I've thought about it, and maybe you were dead right, and I'd be under forty feet of scrap by spring.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0258.wav",
+      "textSha256": "19674d4eeb5d60ec6c79cb4030f4fcf31da19b9ccf4f5e4cf70fa6c8194ea5ab"
+    },
+    {
+      "index": 259,
+      "performance": "hatred",
+      "text": "That's not the thing.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0259.wav",
+      "textSha256": "b5af2a2b561f081e11338ae8c1e0bc0a58ed10eea83fb97b9dbe14ad962df869"
+    },
+    {
+      "index": 260,
+      "performance": "hatred",
+      "text": "He stood up.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0260.wav",
+      "textSha256": "cd2da656d484ee42b082687bef114c2289d8f5b47404ecaf474b3a1dd0a0adb6"
+    },
+    {
+      "index": 261,
+      "performance": "hatred",
+      "text": "\"The thing is you didn't ask.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0261.wav",
+      "textSha256": "83403a1ac0a46b4a344e8873f635cc6fb63303a4cf7689b312f079c0f3d59dfb"
+    },
+    {
+      "index": 262,
+      "performance": "hatred",
+      "text": "And tonight you didn't ask either, and Milo told you, and you talked over him, and now she's got a leg that doesn't work.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0262.wav",
+      "textSha256": "67fdeaecc20def0391457ec8cf43b9cf9842f5a549dbc4d320feeedab9da950a"
+    },
+    {
+      "index": 263,
+      "performance": "hatred",
+      "text": "And I'm going to be standing in your line every day for however long this goes on.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0263.wav",
+      "textSha256": "9cb475caf0db4ee3b64262318d12448eccd2eede1d18f51b17579cc6cf0a043a"
+    },
+    {
+      "index": 264,
+      "performance": "hatred",
+      "text": "So.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0264.wav",
+      "textSha256": "926d77d5db86c1e937321f1e5fdc50c4ece8def431beed8b71ed9e6103997afa"
+    },
+    {
+      "index": 265,
+      "performance": "neutral",
+      "text": "He picked up the lamp, and then set it back down, because it was not his lamp and taking it would have been a bigger gesture than he meant.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0265.wav",
+      "textSha256": "78a981089f1e82eb7735c2076560a23c88ce25dc0e36997d447f2ff12ffb11f7"
+    },
+    {
+      "index": 266,
+      "performance": "neutral",
+      "text": "\"So I'd like to know when you got put in charge,\" said Wyck Tanner, \"because I don't remember it happening.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0266.wav",
+      "textSha256": "aa74e3d031f6f9d34f563b7dc7c70f0fa515f22f3e3e6e773c0fd4c732c876ef"
+    },
+    {
+      "index": 267,
+      "performance": "neutral",
+      "text": "He walked off to the far end of the bridge.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0267.wav",
+      "textSha256": "9309823baa3bf13a2d5f02450c7fdd6ba41b88a04a7b9b5ad78dcc51b880ea7d"
+    },
+    {
+      "index": 268,
+      "performance": "neutral",
+      "text": "Toren sat down on the road bed because his legs had stopped being interested in the alternative.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0268.wav",
+      "textSha256": "53cd66872678e287471cc9976be463487de75da619e251919da3224bc2ab9950"
+    },
+    {
+      "index": 269,
+      "performance": "neutral",
+      "text": "After a while, Milo came and sat next to him and didn't say anything, which was, Toren thought, an extremely generous decision on Milo's part.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0269.wav",
+      "textSha256": "c3b7ccdca46ad38562408720e52f83e5fb748cfdd64a2be905b25fc5910ad0a9"
+    },
+    {
+      "index": 270,
+      "performance": "neutral",
+      "text": "After a longer while, Dessa said, from the wheel, in a thin voice, \"Tor.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0270.wav",
+      "textSha256": "28a0e6e8edfa3540ce3dfa490f49edfebd6e945f9dd989172535dcd2f46f59da"
+    },
+    {
+      "index": 271,
+      "performance": "neutral",
+      "text": "Tomorrow.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0271.wav",
+      "textSha256": "9b2000e607d652f930650ae929ccc703a358764c3a4c3bb60f4d392eb866e546"
+    },
+    {
+      "index": 272,
+      "performance": "neutral",
+      "text": "When we set the line.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0272.wav",
+      "textSha256": "db55e3ed26a7ba0982f68a1f5ddbcd843ad9f03269e0004dea2c11e42731e33c"
+    },
+    {
+      "index": 273,
+      "performance": "neutral",
+      "text": "Milo calls.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0273.wav",
+      "textSha256": "5dd36ec903ac6c12feb379feb0f412ee47537306dac46c1d9548f8469f821e2b"
+    },
+    {
+      "index": 274,
+      "performance": "neutral",
+      "text": "\"Milo calls,\" Toren said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0274.wav",
+      "textSha256": "3f50ebb03fd9cf18d551031ae3238d0dc314606b92293d227f9bbaf282547b3a"
+    },
+    {
+      "index": 275,
+      "performance": "neutral",
+      "text": "\"And you say it after him.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0275.wav",
+      "textSha256": "98677b3e9dae96888faf642fee4b89330ac406c53d2a09b4eab658f2a2a0c254"
+    },
+    {
+      "index": 276,
+      "performance": "neutral",
+      "text": "\"What?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0276.wav",
+      "textSha256": "a3cc0d53a54bf8a2093d03ae72faf1e911231efed9ca186c0a19127042b7700c"
+    },
+    {
+      "index": 277,
+      "performance": "care",
+      "text": "\"Say it after him,\" Dessa said, and shut her eyes.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0277.wav",
+      "textSha256": "2cbb52c67288680053a2914f9992b09b8712b506cc916daeec0bc5d2b08ae7d7"
+    },
+    {
+      "index": 278,
+      "performance": "care",
+      "text": "\"Loud.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0278.wav",
+      "textSha256": "b27e7e3cc95c4d0b4e54f4a00c79495c6b1754272ccc15c9ea75b657639df5f4"
+    },
+    {
+      "index": 279,
+      "performance": "care",
+      "text": "So they know it's both of us.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0279.wav",
+      "textSha256": "91d80021a5e7aedf8d7e09d535becf15c56d78fa3c9b1131aaf3e0aba1d80dfa"
+    },
+    {
+      "index": 280,
+      "performance": "neutral",
+      "text": "He went down to the creek near midnight to wash Dessa's blood out of his shirt, because it was his only other shirt and because he could not lie down.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0280.wav",
+      "textSha256": "2be137a73e6a1da447a5344c37f8aaf4a707863f73ed39fe15f1a63fd1c8a37a"
+    },
+    {
+      "index": 281,
+      "performance": "neutral",
+      "text": "The fog had cleared off the water.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0281.wav",
+      "textSha256": "eb21984ad3718d68dfa1f300d60d3754a96e8d91f1ce7b2ca78e9ad55595c92a"
+    },
+    {
+      "index": 282,
+      "performance": "neutral",
+      "text": "He knelt on the gravel with the lamp beside him and got the shirt off over his head and put it in the cold and worked at it with his knuckles, and the disk swung forward on its cord and hung there in the lamplight, turning slowly, the way it had every night for twelve days.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0282.wav",
+      "textSha256": "d6d3554e7c0016ec4828fb0fac5f13549bd8e4fa0752080a62538be2bc5b8edb"
+    },
+    {
+      "index": 283,
+      "performance": "neutral",
+      "text": "He heard the boots on the gravel and did not look up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0283.wav",
+      "textSha256": "062ab7b8e28f548e3468fa3864cd1e54b2512e36c320b92c033b6c42fcd32b19"
+    },
+    {
+      "index": 284,
+      "performance": "neutral",
+      "text": "\"Left the flask,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0284.wav",
+      "textSha256": "a298a8ccaf98143526f1f0b1a69378c9494a358fcd76b6ea1df6f5e17fe67be2"
+    },
+    {
+      "index": 285,
+      "performance": "neutral",
+      "text": "\"You're sitting on\u2014\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0285.wav",
+      "textSha256": "51bb5984069e10b3e1e914c87cb1f26546b5d23098d856aab135dccf61f2f91c"
+    },
+    {
+      "index": 286,
+      "performance": "neutral",
+      "text": "He stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0286.wav",
+      "textSha256": "b36cbee3b893df45bf30c6a14e120be5a4e060368ed227e07641047a4057dcd0"
+    },
+    {
+      "index": 287,
+      "performance": "neutral",
+      "text": "Toren looked up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0287.wav",
+      "textSha256": "88d091a3d05cce79a0f8218dfcaccf3f70a8df0c3edbca6c5038ab18c9833219"
+    },
+    {
+      "index": 288,
+      "performance": "awe",
+      "text": "There was no describing it properly, not even to himself, not even as it was happening.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0288.wav",
+      "textSha256": "ebeb3d14c8c6a0e4dae6ad80afa4f3dc3005925ac1d532768cc055fc369315f9"
+    },
+    {
+      "index": 289,
+      "performance": "awe",
+      "text": "The nearest he could get was this: Rook did not react.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0289.wav",
+      "textSha256": "bef29aebdaf2ad9fd3a0b12549285982aa1be412e5fa7b026138fc51760042af"
+    },
+    {
+      "index": 290,
+      "performance": "awe",
+      "text": "That was the whole of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0290.wav",
+      "textSha256": "e77fb0da2767fcc9b934b73f6031feb11df23ca2a9aca4bde783eea43fab0137"
+    },
+    {
+      "index": 291,
+      "performance": "awe",
+      "text": "A man walks up on something, and his face does something \u2014 surprise, interest, greed, anything \u2014 and Rook's face did nothing at all, and everything else about him stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0291.wav",
+      "textSha256": "05593d825f5e78bf38705e7508a666c2335b363bd329417e60773f25d1ed5aa1"
+    },
+    {
+      "index": 292,
+      "performance": "awe",
+      "text": "His breathing stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0292.wav",
+      "textSha256": "6f056e63e6e78d2a4b8d5390c90617a1548ef0f715638995e0e24a82212821a6"
+    },
+    {
+      "index": 293,
+      "performance": "awe",
+      "text": "The hand with the flask in it stopped halfway to being put down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0293.wav",
+      "textSha256": "03a307599862a95525a5def4011586d2fb59fdd11c2325fc69f0391acec1c9d7"
+    },
+    {
+      "index": 294,
+      "performance": "awe",
+      "text": "He stood on the gravel four feet away with the lamplight going up under his jaw, and he became, for about three full seconds, an object.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0294.wav",
+      "textSha256": "568375d720e32d4e6ab07fdd5334ffe7f0b32078a5a2e1aa78a1bcfa546504f0"
+    },
+    {
+      "index": 295,
+      "performance": "awe",
+      "text": "Then he crouched, slowly, the way you crouch near something you do not want to startle, and he reached out.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0295.wav",
+      "textSha256": "24fd03ae00e5d1e9420a957add07707e2977197c39cc4c0410b6d3e04c9d90cc"
+    },
+    {
+      "index": 296,
+      "performance": "awe",
+      "text": "He got within a hand's width of it and stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0296.wav",
+      "textSha256": "c16ded86eac3dc2ad9c9b216a22a0ba575e277146a4c248a21c609fc9a3ff277"
+    },
+    {
+      "index": 297,
+      "performance": "awe",
+      "text": "Toren did not move.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0297.wav",
+      "textSha256": "331de9aef7a62173fe6e45571d45711ab7be74416a5e658281fbaaa103eaac93"
+    },
+    {
+      "index": 298,
+      "performance": "awe",
+      "text": "He could not have said why he did not move.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0298.wav",
+      "textSha256": "88455c3c53dec4875747b01adb10113fc8715cd8cd213484deb8537d667c16c0"
+    },
+    {
+      "index": 299,
+      "performance": "awe",
+      "text": "Rook's fingers hung there in the air.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0299.wav",
+      "textSha256": "276311fe204b8e84c12078975fa28ed5835d9bda66cdaef9a17f0401cd2c4ff7"
+    },
+    {
+      "index": 300,
+      "performance": "awe",
+      "text": "The disk turned on its cord.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0300.wav",
+      "textSha256": "fd33ae623750bfbcfa93b8142803151fec51ead950677b37235560fb5b675fdc"
+    },
+    {
+      "index": 301,
+      "performance": "awe",
+      "text": "Nine fine grooves ran out from the center to the rim, catching the lamp one at a time as it went round, and the man looked at them going past like a man counting something he had counted before.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0301.wav",
+      "textSha256": "931be76184d47483c69a62415dda6f35dedea2c2d9faba71f019c7b14ae768db"
+    },
+    {
+      "index": 302,
+      "performance": "fear",
+      "text": "\"Where did you get that.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0302.wav",
+      "textSha256": "4c9c2ab98eb97d93d91685d9e6347a7d440483e7ae2058d461517b4b437e9968"
+    },
+    {
+      "index": 303,
+      "performance": "neutral",
+      "text": "His voice was wrong.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0303.wav",
+      "textSha256": "3e023f99493859049edd0241e88a08b6374588aa7b79a86a9efe901dbd4877ae"
+    },
+    {
+      "index": 304,
+      "performance": "neutral",
+      "text": "It was not loud and it was not soft.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0304.wav",
+      "textSha256": "d167fe69420381f527f1e8142eb5c98e79099a16bd22f699c04ad81e357f557f"
+    },
+    {
+      "index": 305,
+      "performance": "neutral",
+      "text": "It had been taken apart and put back together in a hurry.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0305.wav",
+      "textSha256": "a49e7e8c1f7645c42eedcffddb4e0713c07dd997ecffb2468ed308f472b677b0"
+    },
+    {
+      "index": 306,
+      "performance": "neutral",
+      "text": "\"My father gave it to me.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0306.wav",
+      "textSha256": "04b5c2464e29c0ea9a332df9260910ff5ff65e86311d08f15752c6918f356a9d"
+    },
+    {
+      "index": 307,
+      "performance": "neutral",
+      "text": "\"When.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0307.wav",
+      "textSha256": "47e74cda55f26fa3a348a72404533b7547fa05b6f3f918b1aa3c2a62829f3ad2"
+    },
+    {
+      "index": 308,
+      "performance": "neutral",
+      "text": "\"The day of my Kindling.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0308.wav",
+      "textSha256": "c4e7685ec2136e77b6913a60e5b796a76302e358c60e645c457b162055b12dd5"
+    },
+    {
+      "index": 309,
+      "performance": "neutral",
+      "text": "Toren's mouth was dry.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0309.wav",
+      "textSha256": "0a4a28d93a903509e19e7127987f81d22d3fa6dd8085b4535b9872c1b6f22d2f"
+    },
+    {
+      "index": 310,
+      "performance": "neutral",
+      "text": "\"Twelve days ago.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0310.wav",
+      "textSha256": "47f3f3c4f3ae0dcf48edb543da3523e297202516dd5c47133499349bcef9d4ea"
+    },
+    {
+      "index": 311,
+      "performance": "neutral",
+      "text": "The morning of.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0311.wav",
+      "textSha256": "2f424009b10e6707e12a58a831975e594c3b481eb831ad0e9b78af167825cc10"
+    },
+    {
+      "index": 312,
+      "performance": "neutral",
+      "text": "Something went over Rook's face then, one flicker of it, and Toren, who had been reading that face for eight days the way you read weather, could not identify it at all.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0312.wav",
+      "textSha256": "3526301a23d594f5c290a5dde6ec24727127c35186d7c61492ad396eeb6a6a10"
+    },
+    {
+      "index": 313,
+      "performance": "neutral",
+      "text": "It was not amazement.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0313.wav",
+      "textSha256": "1f6bbe3912c5cb54e06c84e767b7796ada13cfeb2ea661f34bddc6e18a7abf12"
+    },
+    {
+      "index": 314,
+      "performance": "neutral",
+      "text": "It was closer to the look a man gets when he hears a name he has been waiting a very long time to hear and had entirely stopped expecting.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0314.wav",
+      "textSha256": "04d380868cfbc819c0df28a907a497118b686baca8a7befc30012cc621b54eec"
+    },
+    {
+      "index": 315,
+      "performance": "neutral",
+      "text": "\"Twelve days,\" Rook said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0315.wav",
+      "textSha256": "b202517919d346084bfe4f31fe9e15b525f2ab318447f24d6632e6cccaa4a5df"
+    },
+    {
+      "index": 316,
+      "performance": "neutral",
+      "text": "\"Yes.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0316.wav",
+      "textSha256": "cf87b23d0f70cff8f9ce62b411ad616fd9be0b93edeba67c70f647e5a4b848e1"
+    },
+    {
+      "index": 317,
+      "performance": "neutral",
+      "text": "\"And he said what about it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0317.wav",
+      "textSha256": "287b0b68af8b8ef8c8d9bdc38a944695b82b2863ced6a3663e6e1e14c78db731"
+    },
+    {
+      "index": 318,
+      "performance": "neutral",
+      "text": "\"That it came into the family, and nobody knows how.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0318.wav",
+      "textSha256": "99b1c0e59f633acc00121d972a0c55e3b9d8f83e85f24e0577b8e7b41c5ab3d4"
+    },
+    {
+      "index": 319,
+      "performance": "neutral",
+      "text": "Toren's own voice sounded far away.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0319.wav",
+      "textSha256": "b83e9d5224e2d46bbbe211f9774b68f095f570c17cb5a0e97b4dc10238a2dccf"
+    },
+    {
+      "index": 320,
+      "performance": "neutral",
+      "text": "\"That it's going to save the world or it's going to end it, and nobody who ever carried it lived long enough to find out which.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0320.wav",
+      "textSha256": "a79a73bb252d87f8ac3f7744e7d13a754db5aa8b3a5a46605caa2734598cf1eb"
+    },
+    {
+      "index": 321,
+      "performance": "neutral",
+      "text": "He swallowed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0321.wav",
+      "textSha256": "771c7da5fda4eb15784978e3d0cac08cc7ca0513590f9447bb649aaca5f357ff"
+    },
+    {
+      "index": 322,
+      "performance": "neutral",
+      "text": "\"He said it was a curse in a gift's coat.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0322.wav",
+      "textSha256": "bba1ca9b8323dbdfd81310a8b7e9f106a65814860fa5aa183e39b1f137433d6e"
+    },
+    {
+      "index": 323,
+      "performance": "fear",
+      "text": "Rook laughed.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0323.wav",
+      "textSha256": "9d7f83785bf9a90bed69fd67e0dba9246b703d2cface8c53c67d39b3585f20f5"
+    },
+    {
+      "index": 324,
+      "performance": "fear",
+      "text": "It was one sound, and there was no humor anywhere in it, and it was the single most frightening thing that had happened to Toren in twelve days that had included three deaths and a road cut full of husks.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0324.wav",
+      "textSha256": "544ad2abd3f8b9c9f5da274ed850e1c929c6ff94e50488d4d7fce838c4282c3a"
+    },
+    {
+      "index": 325,
+      "performance": "neutral",
+      "text": "Then he took his hand back.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0325.wav",
+      "textSha256": "4cb7a3d6163711c4a68ab0d70f445f178eff3604cf6fb392c03d18d7af75efa0"
+    },
+    {
+      "index": 326,
+      "performance": "neutral",
+      "text": "He put it flat on his own knee and left it there, and he looked at the water for a while, and when he spoke again his voice had been put back together properly.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0326.wav",
+      "textSha256": "10a69938afc92282692770881af7df5870f1eec0e44721e5c423b844bb84bde3"
+    },
+    {
+      "index": 327,
+      "performance": "neutral",
+      "text": "\"Put it under your shirt.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0327.wav",
+      "textSha256": "398819f6ba755afc702e406681320ed2648d5e1c045f0dc4c865e820ce6028cc"
+    },
+    {
+      "index": 328,
+      "performance": "neutral",
+      "text": "\"What is it?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0328.wav",
+      "textSha256": "7769b60252686731c06c68e6368f8513b14f362fead05208cc4208aaffee6a36"
+    },
+    {
+      "index": 329,
+      "performance": "care",
+      "text": "\"Put it under your shirt,\" Rook said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0329.wav",
+      "textSha256": "0f257d693d432a495b9677f98d89c2dd1d4ffc4e754e2feac758c8f8abacaacf"
+    },
+    {
+      "index": 330,
+      "performance": "care",
+      "text": "\"Don't take it off to sleep.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0330.wav",
+      "textSha256": "4901c164d816a868e57eb51d1d8e18369b8188421ee79f45209eed487d0a5924"
+    },
+    {
+      "index": 331,
+      "performance": "care",
+      "text": "Don't take it off to swim.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0331.wav",
+      "textSha256": "74acd0e565b5c0fdec6d4440f075214faeef7fbe4e68e1a2c13c0f7f6d27a57f"
+    },
+    {
+      "index": 332,
+      "performance": "care",
+      "text": "Don't show it at a wall, don't show it at a gate, don't show it to a friend and don't show it to me again.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0332.wav",
+      "textSha256": "59fafd8f6aad0744c31502601b5a160782cde3957666df6d54e61b00fea16dfe"
+    },
+    {
+      "index": 333,
+      "performance": "neutral",
+      "text": "\"You know what it is.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0333.wav",
+      "textSha256": "9c28e416545c3c34cb4e23c698ae2424d24ca9b99d87237815c9c49c1af5263d"
+    },
+    {
+      "index": 334,
+      "performance": "neutral",
+      "text": "Rook stood up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0334.wav",
+      "textSha256": "157cd318302462a78dd9c6f7ffb5a59ffb2c80a861f30b1574383f077a662735"
+    },
+    {
+      "index": 335,
+      "performance": "neutral",
+      "text": "\"Get your shirt out of the water before the current has it,\" he said, \"and go to bed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0335.wav",
+      "textSha256": "d728b00a746c80a888583217ffe0f368c36527fa73307d90edd9995f90c308d5"
+    },
+    {
+      "index": 336,
+      "performance": "neutral",
+      "text": "We're moving at first light.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0336.wav",
+      "textSha256": "8ae79c5772c83c125580743456331546c2d47f298272766c6c264da69d8d8701"
+    },
+    {
+      "index": 337,
+      "performance": "fear",
+      "text": "He set the flask down on the gravel and walked back up the bank, and Toren stayed where he was with the cold running over his hands and the disk lying against his breastbone, and understood two things at once.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0337.wav",
+      "textSha256": "6091660fa34c2624599907a280a50357f30448db54f65e7b17e0d14abf9d4c65"
+    },
+    {
+      "index": 338,
+      "performance": "fear",
+      "text": "The first was that the man knew.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0338.wav",
+      "textSha256": "59a861aeb6175b1ff40da9cb12ca72d6aa03b7fbd16da2c96794b91c3c7e1449"
+    },
+    {
+      "index": 339,
+      "performance": "fear",
+      "text": "Absolutely and completely, the way you know your own name \u2014 he had known what it was from four feet away in bad light in under a second.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0339.wav",
+      "textSha256": "441ebc7d8bab2b8b9624e1a0229edef4d410b0839eafb3656e8697e5779edaa6"
+    },
+    {
+      "index": 340,
+      "performance": "fear",
+      "text": "The second was that he was not going to say.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0340.wav",
+      "textSha256": "04053877256cd22ea9127e9b3c1b27bc410263c8672681139d97a49ef10f0071"
+    },
+    {
+      "index": 341,
+      "performance": "neutral",
+      "text": "Toren dragged his shirt out of the creek and wrung it and put the lamp out.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0341.wav",
+      "textSha256": "4b44e876e31301200810c163f1121b56683ee492bfda022564c8ee5530174058"
+    },
+    {
+      "index": 342,
+      "performance": "grief",
+      "text": "Up on the embankment, Rook had not lain down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0342.wav",
+      "textSha256": "2ef00e6616ae323ff83c83fcbe27afc1c0160243b37ec16bd76d37a6550b4e67"
+    },
+    {
+      "index": 343,
+      "performance": "grief",
+      "text": "He was sitting with his back against the cart wheel and the empty road going north in front of him, and he was still sitting there in exactly that position when Toren woke at grey light, and the fire had gone out hours before, and nobody had put it back on.",
+      "pauseAfterMs": 2100,
+      "wav": "/Users/drive/.local/share/monroe-tts/renders/d019aee7cb9ea046986b1b16/0343.wav",
+      "textSha256": "444bd94d579b6cc1405bde6ab728ab7a304e1c4e35ebbebedd4809622945d320"
+    }
+  ]
+}
