@@ -27,7 +27,7 @@ LOCK = RUN / "queue.lock"
 METHOD = "monroe-1.2.5-ci-directed-paced"
 AUDIO_ROOT = ROOT / "audio/book-01-kindled" / METHOD
 EVIDENCE_ROOT = ROOT / "audio-production/book-01-kindled" / METHOD
-STABLE_STATUSES = {"needs-attention", "qa-cleared"}
+STABLE_STATUSES = {"needs-attention", "needs-pickups", "qa-cleared"}
 
 
 def sha256(path: Path) -> str:
@@ -194,6 +194,7 @@ def main() -> None:
         "drafts": [],
         "objectiveCleared": [],
         "skippedMutable": [],
+        "skippedIncomplete": [],
         "skippedHashUnstable": [],
     }
     with LOCK.open("a", encoding="utf-8") as lock:
@@ -215,6 +216,19 @@ def main() -> None:
             source = Path(job["source"])
             if sha256(source) != job["sourceSha256"]:
                 raise RuntimeError(f"chapter {chapter} canonical source hash changed")
+            narrator_path = Path(str(job.get("narratorReport", "")))
+            narrator = (
+                json.loads(narrator_path.read_text(encoding="utf-8"))
+                if narrator_path.is_file()
+                else {}
+            )
+            if status != "qa-cleared" and (
+                not narrator.get("completedAt")
+                or narrator.get("audioSha256") != expected_audio_hash
+                or narrator.get("sourceSha256") != job["sourceSha256"]
+            ):
+                results["skippedIncomplete"].append(chapter)
+                continue
             destination_audio = AUDIO_ROOT / f"chapter-{chapter:02d}.mp3"
 
             release_path = EVIDENCE_ROOT / f"chapter-{chapter:02d}" / "release.json"
@@ -227,7 +241,6 @@ def main() -> None:
                 raise RuntimeError(f"chapter {chapter} audio changed during snapshot")
 
             if status == "qa-cleared":
-                narrator = json.loads(Path(job["narratorReport"]).read_text(encoding="utf-8"))
                 if not narrator.get("automatedPass") or narrator.get("audioSha256") != expected_audio_hash:
                     raise RuntimeError(f"chapter {chapter} objective report does not bind accepted audio")
                 if narrator.get("sourceSha256") != job["sourceSha256"]:

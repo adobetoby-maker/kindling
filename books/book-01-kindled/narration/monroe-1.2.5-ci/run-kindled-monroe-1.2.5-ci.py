@@ -820,6 +820,18 @@ def worker(name: str, limit: int | None, prepare_only: bool) -> int:
             report = output.with_suffix(".narrator.json")
             report_payload = json.loads(report.read_text(encoding="utf-8")) if report.exists() else {}
             report_payload = adjudicate_word_evidence(output, report_payload)
+            # Bind a completed render to its exact current audio before pickup
+            # planning. If planning itself needs attention, the stable complete
+            # take remains publishable as a hash-bound draft.
+            update(
+                chapter,
+                audio=str(output),
+                audioSha256=sha(output),
+                narratorReport=str(report),
+                automatedPass=bool(report_payload.get("automatedPass")),
+                humanListening="pending",
+                renderSeconds=render_seconds,
+            )
             status = "qa-cleared" if report_payload.get("automatedPass") else "needs-pickups"
             pickup_attempts = int(job.get("pickupAttempts", 0))
             pickup_plan: Path | None = None
@@ -886,6 +898,19 @@ def recheck_attention() -> None:
             continue
         try:
             report = adjudicate_word_evidence(output, read_json(report_path))
+            current_audio_hash = sha(output)
+            if report.get("audioSha256") != current_audio_hash:
+                raise RuntimeError("objective report does not bind the current audio")
+            if report.get("sourceSha256") != job["sourceSha256"]:
+                raise RuntimeError("objective report does not bind the canonical source")
+            update(
+                chapter,
+                audio=str(output),
+                audioSha256=current_audio_hash,
+                narratorReport=str(report_path),
+                automatedPass=bool(report.get("automatedPass")),
+                humanListening="pending",
+            )
             if report.get("automatedPass"):
                 update(
                     chapter,
