@@ -193,10 +193,28 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
     if score.get("scoreRevision", {}).get("revisionId") == revision_id:
         return False
     clean = clean_markdown(source.read_text(encoding="utf-8"))
+    removal_selectors = {
+        str(selector) for selector in revision.get("removeThoughtLandings", [])
+    }
+    for selector in removal_selectors:
+        if clean.count(selector) != 1:
+            raise RuntimeError(
+                f"Chapter {chapter} score-revision removal selector is not unique: {selector!r}"
+            )
+    original_pauses = score.get("pauses", [])
+    score["pauses"] = [
+        item for item in original_pauses if str(item.get("after", "")) not in removal_selectors
+    ]
+    removed_landings = len(original_pauses) - len(score["pauses"])
     existing_after = {
         str(item["after"])
         for item in score.get("pauses", [])
         if item.get("after")
+    }
+    existing_boundaries = {
+        clean.index(selector) + len(selector)
+        for selector in existing_after
+        if clean.count(selector) == 1
     }
     additions = []
     for landing in revision.get("thoughtLandings", []):
@@ -213,6 +231,12 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
             )
         if selector in existing_after:
             continue
+        boundary = clean.index(selector) + len(selector)
+        if boundary in existing_boundaries:
+            raise RuntimeError(
+                f"Chapter {chapter} score-revision selector duplicates an existing pause boundary: "
+                f"{selector!r}"
+            )
         additions.append(
             {
                 "after": selector,
@@ -294,13 +318,14 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
                 "reason": str(override["reason"]),
             }
         )
-    if not additions and not performance_overrides:
+    if not additions and not performance_overrides and not removed_landings:
         return False
     score.setdefault("pauses", []).extend(additions)
     score["scoreRevision"] = {
         "revisionId": revision_id,
         "reason": str(revision["reason"]),
         "addedStructuralLandings": len(additions),
+        "removedStructuralLandings": removed_landings,
         "performanceOverrides": performance_overrides,
         "nativeSpeechSpeed": True,
         "waveformTimeStretch": False,
