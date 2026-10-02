@@ -877,7 +877,10 @@ def recheck_attention() -> None:
         if job["status"] != "needs-attention":
             continue
         chapter = int(job["chapter"])
-        output = Path(str(job.get("audio", "")))
+        audio_path = str(job.get("audio", "")).strip()
+        if not audio_path:
+            continue
+        output = Path(audio_path)
         report_path = output.with_suffix(".narrator.json")
         if not output.is_file() or not report_path.is_file():
             continue
