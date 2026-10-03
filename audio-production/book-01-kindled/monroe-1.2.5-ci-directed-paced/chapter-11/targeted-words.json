@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-11.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-11/chapter-11.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 88,
+  "transcribedWords": 88,
+  "orderedWordCoverage": 0.9545,
+  "sequenceSimilarity": 0.9545,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 26,
+      "sourceWords": "toren",
+      "transcribedWords": "torrin"
+    },
+    {
+      "sourceWordStart": 32,
+      "sourceWords": "toren",
+      "transcribedWords": "torrin"
+    },
+    {
+      "sourceWordStart": 34,
+      "sourceWords": "toren",
+      "transcribedWords": "torrin"
+    },
+    {
+      "sourceWordStart": 55,
+      "sourceWords": "disk",
+      "transcribedWords": "disc"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "Wheel, one at a time. You, said the man, move them. The fourth time he was slow, and after that the bend came between them, and Torrin could not see him. Reactor, Torrin said. Torrin stood in the middle of the road with his father's ember gone cold and slack in his fist, and the disc hanging under his shirt where nobody could see it, and did not go with the man and did not go around the bend and could not make his legs do either thing.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-11/chapter-11.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 11,
+      "text": "\"Wheel!\"",
+      "audioSha256": "8b58a65d96a3829fb6414c357bc8fd99dc40da16d0029ca851cbae22a07dbf16"
+    },
+    {
+      "index": 55,
+      "text": "One at a time.",
+      "audioSha256": "824a3f6e78fa7b5214ca6161b0595d4e3b38cc0af92f2d7a1bd74828f3ac0224"
+    },
+    {
+      "index": 81,
+      "text": "\"You,\" said the man.",
+      "audioSha256": "fd099c0901db80cd5a19870cea9b2be512b22977356d4c91f6089ed5249e51f1"
+    },
+    {
+      "index": 109,
+      "text": "\"Move them.\"",
+      "audioSha256": "93b42eac339e5631b40ca100e756528602b43673acdf448b876929602e3ba89a"
+    },
+    {
+      "index": 173,
+      "text": "the fourth time he was slow, and after that the bend came between them, and Toren could not see him.",
+      "audioSha256": "3331a71138f793564d3d740225845f8c32b7ccc85737f0914643ec8d6afab931"
+    },
+    {
+      "index": 206,
+      "text": "\"Reactor,\" Toren said.",
+      "audioSha256": "094477c312a87b9eaa1f93d1f632c89d3bacaf0819f9ec462262cdcc0b8df75a"
+    },
+    {
+      "index": 236,
+      "text": "Toren stood in the middle of the road with his father's Ember gone cold and slack in his fist and the disk hanging under his shirt where nobody could see it — and did not go with the man, and did not go around the bend, and could not make his legs do either thing.",
+      "audioSha256": "eb6fac49413f6d65b73a856e8ba01db7fbb89f8dffb587b71564c3fbe399b515"
+    }
+  ],
+  "targetedEvidencePass": true
+}
