@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "status": "objective-cleared-awaiting-human-listening",
+  "publishedAt": "2026-10-04T01:39:06.488269+00:00",
+  "bookId": "book-01-kindled",
+  "bookTitle": "Kindled — Book One",
+  "chapter": 5,
+  "chapterTitle": "Jab: Nine Days to Meridian",
+  "source": "books/book-01-kindled/revised/chapter-05.md",
+  "sourceSha256": "4ca46c9b06e310516ca2467140c6d846e9b1fdfa56d7c08d9cc6fcce0ab8bd6d",
+  "audio": "audio/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05.mp3",
+  "audioSha256": "d968a86946438472f6ee8545cf48f3cab88558dfd480851eed2551ddec0cc576",
+  "bytes": 27760173,
+  "durationSec": 1734.958,
+  "writer": {
+    "publicAuthor": "Monroe Jackson",
+    "authorSeat": "Monroe 1.3 canonical assembly",
+    "authorModel": "not recorded"
+  },
+  "reader": {
+    "voice": "Original Calder",
+    "engine": "Local Fish Audio S2 Pro 8-bit",
+    "model": "mlx-community/fish-audio-s2-pro-8bit",
+    "language": "Australian English",
+    "pipeline": "Monroe Book Narrator 1.2.5-CI",
+    "methodId": "monroe-1.2.5-ci-directed-paced",
+    "director": "Codex gpt-5.6-sol",
+    "direction": "Codex-directed, Directed-Paced",
+    "speechSpeed": "native",
+    "timeStretch": false,
+    "localOnly": true
+  },
+  "pacing": {
+    "sentenceLandingMs": 1550,
+    "paragraphSpeakerSubjectResetMs": 2100,
+    "writtenSceneBreakMs": 2700,
+    "preWordPreparationMs": [
+      320,
+      340
+    ],
+    "measuredWpm": 149.64,
+    "targetWpmRange": [
+      120,
+      150
+    ]
+  },
+  "quality": {
+    "objectivePass": true,
+    "wordEvidence": "Whole-chapter ASR anomalies were absent when the exact implicated cached takes were independently rechecked; remaining substitutions are non-gating evidence.",
+    "masteringPass": true,
+    "voiceIdentityPass": true,
+    "naturalnessPass": true,
+    "pacingPass": true,
+    "humanListening": "pending"
+  },
+  "evidence": {
+    "narrator": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/narrator.json",
+    "verification": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/verification.json",
+    "targetedWords": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/targeted-words.json",
+    "mastering": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/mastering.json",
+    "voiceIdentity": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/voice-quality.json",
+    "naturalness": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/naturalness.json",
+    "dnsmos": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/dnsmos.json",
+    "direction": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/direction.json",
+    "production": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-05/production.json"
+  }
+}
