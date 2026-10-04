@@ -89,6 +89,50 @@ def save(path: Path, payload: dict) -> None:
     temporary.replace(path)
 
 
+def ensure_identity_recovery_palette(chapter: int) -> Path:
+    """Create a chapter-bound Original Calder palette for failed short takes."""
+    chapter_dir = RUN / f"chapter-{chapter:02d}"
+    path = chapter_dir / f"chapter-{chapter:02d}.identity-recovery.palette.json"
+    palette = read_json(PALETTE)
+    palette["name"] = "Original Calder role-anchored identity recovery"
+    recovery = (
+        " Pickup recovery: lock tightly to this approved Original Calder role anchor "
+        "while retaining the directed intention; fully articulate the short sentence "
+        "at an unhurried native pace."
+    )
+    for performance in palette.get("performances", {}).values():
+        instruction = str(performance.get("instruct", "")).rstrip()
+        if recovery.strip() not in instruction:
+            performance["instruct"] = instruction + recovery
+    save(path, palette)
+    return path
+
+
+def quality_failure_is_identity_recoverable(report: dict) -> bool:
+    checks = report.get("checks", {})
+    return (
+        checks.get("words", {}).get("pass") is True
+        and checks.get("mastering", {}).get("pass") is True
+        and checks.get("pacing", {}).get("pass") is True
+        and (
+            checks.get("identity", {}).get("pass") is False
+            or checks.get("naturalness", {}).get("pass") is False
+        )
+    )
+
+
+def apply_identity_recovery_plan(chapter: int, output: Path) -> Path:
+    plan_path = build_pickup_plan(chapter, output, overwrite=True)
+    plan = read_json(plan_path)
+    plan["paletteOverride"] = str(ensure_identity_recovery_palette(chapter))
+    plan["notes"] = (
+        "Regenerate only the listed failed takes against their approved Original Calder "
+        "role anchors, preserve every accepted segment, rebuild, and rerun every objective check."
+    )
+    save(plan_path, plan)
+    return plan_path
+
+
 def load_queue() -> dict:
     return json.loads(QUEUE.read_text(encoding="utf-8"))
 
@@ -884,7 +928,19 @@ def worker(name: str, limit: int | None, prepare_only: bool) -> int:
                 if job.get("claimKind") == "pickup":
                     pickup_attempts += 1
                 if pickup_attempts >= 3:
-                    status = "needs-attention"
+                    if (
+                        not job.get("identityRecoveryAttempted")
+                        and quality_failure_is_identity_recoverable(report_payload)
+                    ):
+                        pickup_plan = apply_identity_recovery_plan(chapter, output)
+                        pickup_attempts = 0
+                        job["identityRecoveryAttempted"] = True
+                        job["recoveryNote"] = (
+                            "Targeted role-anchor identity recovery after three stable full-QA "
+                            "pickup passes; accepted non-failing segments preserved."
+                        )
+                    else:
+                        status = "needs-attention"
                 else:
                     pickup_plan = build_pickup_plan(chapter, output, overwrite=True)
             update(
@@ -898,6 +954,8 @@ def worker(name: str, limit: int | None, prepare_only: bool) -> int:
                 renderSeconds=render_seconds,
                 pickupAttempts=pickup_attempts,
                 pickupPlan=str(pickup_plan) if pickup_plan else job.get("pickupPlan"),
+                identityRecoveryAttempted=job.get("identityRecoveryAttempted", False),
+                recoveryNote=job.get("recoveryNote"),
             )
         except Exception as error:
             update(chapter, status="needs-attention", error=str(error), log=str(log_path))
@@ -986,9 +1044,22 @@ def recheck_attention() -> None:
                         "render only cache misses, rebuild, and rerun all objective checks."
                     ),
                 }
-                pace_palette = RUN / f"chapter-{chapter:02d}" / f"chapter-{chapter:02d}.pace-corrected.palette.json"
-                if pace_palette.is_file():
-                    plan_payload["paletteOverride"] = str(pace_palette)
+                chapter_dir = RUN / f"chapter-{chapter:02d}"
+                record_path = output.with_suffix(".json")
+                record = read_json(record_path) if record_path.is_file() else {}
+                current_palette = Path(str(record.get("performancePalette", "")))
+                current_palette_hash = str(record.get("performancePaletteSha256", ""))
+                if (
+                    current_palette.is_file()
+                    and current_palette_hash
+                    and sha(current_palette) == current_palette_hash
+                    and current_palette.parent == chapter_dir
+                ):
+                    plan_payload["paletteOverride"] = str(current_palette)
+                else:
+                    pace_palette = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+                    if pace_palette.is_file():
+                        plan_payload["paletteOverride"] = str(pace_palette)
                 save(plan, plan_payload)
                 update(
                     chapter,
@@ -1009,6 +1080,35 @@ def recheck_attention() -> None:
             )
         except Exception as error:
             update(chapter, status="needs-attention", error=f"Objective recheck failed: {error}")
+
+
+def recover_attention() -> None:
+    """Escalate stable identity/naturalness plateaus to role-bound Calder pickups."""
+    queue = load_queue()
+    for job in queue["jobs"]:
+        if job["status"] != "needs-attention" or job.get("error"):
+            continue
+        chapter = int(job["chapter"])
+        output = Path(str(job.get("audio", "")))
+        report_path = output.with_suffix(".narrator.json")
+        if not output.is_file() or not report_path.is_file():
+            continue
+        report = read_json(report_path)
+        if not quality_failure_is_identity_recoverable(report):
+            continue
+        plan = apply_identity_recovery_plan(chapter, output)
+        update(
+            chapter,
+            status="needs-pickups",
+            pickupPlan=str(plan),
+            pickupAttempts=0,
+            identityRecoveryAttempted=True,
+            recoveryNote=(
+                "Targeted role-anchor identity recovery after three stable full-QA pickup "
+                "passes; accepted non-failing segments preserved."
+            ),
+            error=None,
+        )
 
 
 def accept_title_only_source_updates() -> None:
@@ -1150,6 +1250,7 @@ def main() -> int:
     parser.add_argument("--retry-rendering-chapter", type=int, help=argparse.SUPPRESS)
     parser.add_argument("--plan-pickups", action="store_true")
     parser.add_argument("--recheck-attention", action="store_true")
+    parser.add_argument("--recover-attention", action="store_true")
     parser.add_argument("--accept-title-only-source-updates", action="store_true")
     args = parser.parse_args()
     initialize()
@@ -1248,6 +1349,9 @@ def main() -> int:
         plan_pickups()
     if args.recheck_attention:
         recheck_attention()
+        return 0
+    if args.recover_attention:
+        recover_attention()
         return 0
     if args.accept_title_only_source_updates:
         accept_title_only_source_updates()
