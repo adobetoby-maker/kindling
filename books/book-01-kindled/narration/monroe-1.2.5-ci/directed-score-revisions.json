@@ -3,8 +3,18 @@
   "methodId": "monroe-1.2.5-ci-directed-paced",
   "chapters": {
     "1": {
-      "revisionId": "chapter-01-cadence-and-naturalness-recovery-v12",
-      "reason": "The role-anchored identity recovery restored the locked Original Calder voice, but its latest native pass landed at 150.2 WPM, just above the 150 WPM ceiling, while a small set of fear-colored takes still need naturalness pickups. Preserve every accepted take and established landing. Add only two manuscript-supported thought boundaries: a subject reset when the observed husk gives way to Callie's reaction, and a complete tactical landing when the culvert crown has spent the husk's forward force. Retain the two neutral-base naturalness overrides. This changes direction only: canonical words, native speech speed, and waveform timing policy remain untouched.",
+      "revisionId": "chapter-01-boundary-preserving-cadence-recovery-v13",
+      "reason": "The prior cadence repair split two long cached takes and the replacement Fish takes shortened enough to raise the chapter to 153.56 WPM. Restore those two accepted take boundaries, then lengthen six existing, word-locked landings from 1,550 ms to 2,100 ms where the manuscript already turns to a new speaker or subject. This preserves every compatible native take while bringing the earlier 150.2 WPM assembly reliably inside the ceiling. Retain the neutral-base naturalness overrides. Canonical words, native speech speed, and waveform timing policy remain untouched.",
+      "removeThoughtLandings": [
+        "Then it came out of the dusk into the cut and she could see it, and it was one",
+        "It came in at speed and the crown of the culvert took it across the shoulders",
+        "anything about it.",
+        "check the wing nut.",
+        "thought about that.",
+        "You worked the seams.",
+        "They were not moving.",
+        "barrow at full dark."
+      ],
       "thoughtLandings": [
         {
           "after": "and when it was gone it was gone",
@@ -72,14 +82,34 @@
           "reason": "Complete the gate's ordinary payment options before restarting on Ember users as the new subject who pay more and ask less."
         },
         {
-          "after": "Then it came out of the dusk into the cut and she could see it, and it was one",
+          "after": "anything about it.",
           "milliseconds": 2100,
-          "reason": "Complete the husk's appearance and identification before restarting on Callie as the new subject whose held tension releases."
+          "reason": "Complete Callie's silent observation before her mother resumes speaking as a new speaker."
         },
         {
-          "after": "It came in at speed and the crown of the culvert took it across the shoulders",
-          "milliseconds": 1550,
-          "reason": "Land the culvert crown's completed interception before the sentence turns to the husk folding into the opening and losing its forward force."
+          "after": "check the wing nut.",
+          "milliseconds": 2100,
+          "reason": "Complete Callie's equipment check before her mother enters as the new speaker."
+        },
+        {
+          "after": "thought about that.",
+          "milliseconds": 2100,
+          "reason": "Complete the mother's silent assessment before she resumes aloud with an instruction."
+        },
+        {
+          "after": "You worked the seams.",
+          "milliseconds": 2100,
+          "reason": "Land the general rule before restarting on Callie as the subject applying it."
+        },
+        {
+          "after": "They were not moving.",
+          "milliseconds": 2100,
+          "reason": "Complete the observed stillness before restarting on its separate physical effect in Callie's chest."
+        },
+        {
+          "after": "barrow at full dark.",
+          "milliseconds": 2100,
+          "reason": "Complete Callie's return before restarting on her mother as the new subject at the fire."
         }
       ],
       "performanceOverrides": [
@@ -261,8 +291,12 @@
       ]
     },
     "6": {
-      "revisionId": "chapter-06-structural-landings-v8",
-      "reason": "The identity-recovered native Fish performance measures 150.29 WPM after the seventh structural score repair because the regenerated takes shortened slightly. Preserve every accepted landing and add two true subject resets: the bar's human inventory before the dog enters the image, and the sky's finished thought before the colder air becomes the subject. These Codex-directed resets bring the chapter reliably inside the approved 120–150 WPM range without changing words, provider speed, or waveform duration.",
+      "revisionId": "chapter-06-boundary-preserving-cadence-recovery-v9",
+      "reason": "The latest identity-recovered Fish assembly measures 150.07 WPM. Preserve every accepted native take and lengthen two existing manuscript landings from 1,550 ms to 2,100 ms at explicit subject changes in the ceremony: one speaker's sound gives way to another speaker's word, then the crowd gives way to Jab. This brings the chapter inside the approved 120–150 WPM range without changing words, provider speed, or waveform duration.",
+      "removeThoughtLandings": [
+        "Somebody made a sound.",
+        "Somebody else said a word."
+      ],
       "thoughtLandings": [
         {
           "after": "took its shape at the end of his fist",
@@ -418,6 +452,16 @@
           "after": "out past the fir tops the sky finished thinking and started again",
           "milliseconds": 2100,
           "reason": "Complete the sky's pause and restart before shifting to the colder air and the changed precipitation striking the hide."
+        },
+        {
+          "after": "Somebody made a sound.",
+          "milliseconds": 2100,
+          "reason": "Complete the first onlooker's reaction before a different person becomes the source of the spoken word."
+        },
+        {
+          "after": "Somebody else said a word.",
+          "milliseconds": 2100,
+          "reason": "Complete the crowd's second reaction before restarting on Jab as the subject who cannot retain it."
         }
       ]
     },
