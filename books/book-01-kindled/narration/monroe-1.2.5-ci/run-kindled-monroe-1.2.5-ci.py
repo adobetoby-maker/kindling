@@ -1107,17 +1107,22 @@ def recheck_attention() -> None:
                 record = read_json(record_path) if record_path.is_file() else {}
                 current_palette = Path(str(record.get("performancePalette", "")))
                 current_palette_hash = str(record.get("performancePaletteSha256", ""))
+                pace_palette = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
                 if (
                     current_palette.is_file()
                     and current_palette_hash
                     and sha(current_palette) == current_palette_hash
                     and current_palette.parent == chapter_dir
+                    and current_palette.name != f"chapter-{chapter:02d}.identity-recovery.palette.json"
                 ):
                     plan_payload["paletteOverride"] = str(current_palette)
-                else:
-                    pace_palette = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
-                    if pace_palette.is_file():
-                        plan_payload["paletteOverride"] = str(pace_palette)
+                elif pace_palette.is_file():
+                    # A score-only repair must return to the hash-keyed cadence
+                    # palette so every compatible accepted take remains reusable.
+                    # Keeping a later identity-recovery palette here changes the
+                    # cache namespace and can silently rerender the whole chapter
+                    # faster, undoing the pacing evidence the score repair targets.
+                    plan_payload["paletteOverride"] = str(pace_palette)
                 save(plan, plan_payload)
                 update(
                     chapter,
