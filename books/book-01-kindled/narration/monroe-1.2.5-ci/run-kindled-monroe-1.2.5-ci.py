@@ -319,6 +319,7 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
         cue_index, cue, cue_start, cue_end = containing[0]
         before_through = str(override.get("beforeThrough", ""))
         after_from = str(override.get("afterFrom", ""))
+        after_through = str(override.get("afterThrough", cue["through"]))
         replacement = []
         if selector_start > cue_start:
             if not before_through or clean.count(before_through) != 1:
@@ -351,8 +352,15 @@ def apply_directed_score_revision(chapter: int, source: Path, performance: Path)
             after_start = clean.index(after_from)
             if not selector_end <= after_start <= cue_end:
                 raise RuntimeError("Performance override afterFrom is outside its cue suffix")
+            after_end = clean.find(after_through, after_start)
+            if not after_through or after_end < after_start:
+                raise RuntimeError(
+                    f"Chapter {chapter} performance override needs an afterThrough selector "
+                    "that is reachable from afterFrom"
+                )
             suffix = dict(cue)
             suffix["from"] = after_from
+            suffix["through"] = after_through
             replacement.append(suffix)
         score["cues"][cue_index : cue_index + 1] = replacement
         performance_overrides.append(
@@ -1281,6 +1289,7 @@ def main() -> int:
                         job["status"] = "needs-pickups"
                     else:
                         job["status"] = "directed"
+                    job["directionSha256"] = sha(direction)
                     job.pop("error", None)
                 elif error.startswith("Codex direction failed"):
                     job["status"] = "queued"
