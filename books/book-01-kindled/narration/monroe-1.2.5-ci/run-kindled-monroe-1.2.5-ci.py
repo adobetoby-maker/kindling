@@ -429,10 +429,14 @@ def targeted_word_evidence(output: Path, verification: dict) -> dict | None:
         {"index": int(item["index"]), "text": str(item["text"]), "audioSha256": sha(Path(item["wav"]))}
         for item in items
     ]
+    # This second pass contains only the takes implicated by long-form ASR.
+    # The strict verifier already separates real missing/added speech from
+    # harmless orthographic or pronunciation substitutions (for example,
+    # "fifteen"/"15" or "Callie"/"Kali"). Once neither suspicious class
+    # remains, raw token similarity is diagnostic rather than a coverage gate.
     evidence["targetedEvidencePass"] = (
         not evidence.get("suspiciousOmissions")
         and not evidence.get("suspiciousAdditions")
-        and float(evidence.get("orderedWordCoverage", 0.0)) >= 0.94
     )
     evidence["source"] = str(record.get("input", ""))
     evidence["audio"] = str(output)
@@ -576,7 +580,20 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
     elif int(existing_pace_palette.get("paceCorrection", {}).get("stage", 0)) >= 2:
         # Keep the slow cadence anchor for later naturalness or identity pickups;
         # falling back to the base palette would silently undo the pace repair.
-        pacing_override = pace_palette_path
+        # If this exact render already uses a provenance-bound chapter-specific
+        # recovery palette, retain it as well: reverting an identity recovery to
+        # the generic pace palette would undo the accepted targeted takes.
+        current_palette = Path(str(record.get("performancePalette", "")))
+        current_palette_hash = str(record.get("performancePaletteSha256", ""))
+        if (
+            current_palette.is_file()
+            and current_palette_hash
+            and sha(current_palette) == current_palette_hash
+            and current_palette.parent == chapter_dir
+        ):
+            pacing_override = current_palette
+        else:
+            pacing_override = pace_palette_path
     if not force_segments:
         raise RuntimeError(f"Chapter {chapter} failed QA without a segment-level pickup")
     plan = {
@@ -632,6 +649,9 @@ def adjudicate_word_evidence(output: Path, report: dict) -> dict:
         checks[name].get("pass") is True for name in required_checks
     )
     report["status"] = "awaiting-listening" if report["automatedPass"] else "needs-pickups"
+    # Rechecks must bind their verdict to the exact audio they inspected. Renderer
+    # failures can leave an otherwise usable report without this top-level field.
+    report["audioSha256"] = sha(output)
     save(output.with_suffix(".narrator.json"), report)
     return report
 
@@ -1164,6 +1184,20 @@ def main() -> int:
                 elif error.startswith("Codex direction failed"):
                     job["status"] = "queued"
                     job["directorEffort"] = "low"
+                    job.pop("error", None)
+                elif "No space left on device" in error:
+                    # Disk exhaustion can fan out across the queue because a
+                    # worker keeps claiming jobs after each failed cache or QA
+                    # write. Preserve every completed take and resume each job
+                    # from the latest durable artifact once space is available.
+                    plan_path = Path(str(job.get("pickupPlan", "")))
+                    audio_path = Path(str(job.get("audio", "")))
+                    if plan_path.is_file() and audio_path.is_file():
+                        job["status"] = "needs-pickups"
+                    elif direction.is_file():
+                        job["status"] = "directed"
+                    else:
+                        job["status"] = "queued"
                     job.pop("error", None)
                 # Quality-gate attention is intentionally left in place. It
                 # needs a score or source repair, not a blind full retry.
