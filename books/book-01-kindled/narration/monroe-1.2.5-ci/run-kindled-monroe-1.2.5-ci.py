@@ -104,6 +104,39 @@ def ensure_identity_recovery_palette(chapter: int) -> Path:
         instruction = str(performance.get("instruct", "")).rstrip()
         if recovery.strip() not in instruction:
             performance["instruct"] = instruction + recovery
+    # A role-anchor recovery deliberately returns each color to its approved
+    # Original Calder reference.  If this chapter already needed a provenance-
+    # bound cadence repair, keep that cadence instruction when returning to the
+    # role anchors; otherwise a naturalness pickup can silently undo the pace
+    # correction and push an otherwise accepted chapter back above the ceiling.
+    pace_path = chapter_dir / f"chapter-{chapter:02d}.pace-corrected.palette.json"
+    pace_palette = read_json(pace_path) if pace_path.is_file() else {}
+    pace_stage = int(pace_palette.get("paceCorrection", {}).get("stage", 0))
+    if pace_stage >= 2:
+        cadence = (
+            " Cadence recovery: keep the approved Original Calder role identity while "
+            "sustaining a deliberate 125–140 spoken words per minute before the supplied "
+            "structural pauses. Fully prepare each thought and do not accelerate through "
+            "long syntax."
+        )
+        for performance in palette.get("performances", {}).values():
+            instruction = str(performance.get("instruct", "")).rstrip()
+            if cadence.strip() not in instruction:
+                performance["instruct"] = instruction + cadence
+        palette["paceCorrection"] = {
+            "chapter": chapter,
+            "reason": "Preserve the existing native cadence correction during role-anchor identity recovery",
+            "stage": max(6, pace_stage + 1),
+            "strategy": "original-calder-role-anchor-with-native-cadence-instruction",
+            "nativeGeneration": True,
+            "waveformTimeStretch": False,
+        }
+    palette["identityRecovery"] = {
+        "chapter": chapter,
+        "strategy": "approved-original-calder-role-anchors",
+        "nativeGeneration": True,
+        "waveformTimeStretch": False,
+    }
     save(path, palette)
     return path
 
@@ -555,22 +588,38 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
         # runs above the approved range after structural pauses, regenerate its
         # native takes with an explicit cadence instruction instead of stretching
         # the finished waveform.
-        if existing_pace_palette and existing_pace_stage >= 5:
+        current_palette_path = Path(str(record.get("performancePalette", "")))
+        current_palette = (
+            read_json(current_palette_path)
+            if current_palette_path.is_file() and current_palette_path.parent == chapter_dir
+            else {}
+        )
+        combined_stage = int(current_palette.get("paceCorrection", {}).get("stage", 0))
+        combined_identity_retry = (
+            existing_pace_stage >= 5
+            and current_palette_path.name == f"chapter-{chapter:02d}.identity-recovery.palette.json"
+            and combined_stage < 6
+        )
+        if existing_pace_palette and existing_pace_stage >= 5 and not combined_identity_retry:
             raise RuntimeError(
                 f"Chapter {chapter} native Fish cadence plateaued above {maximum_wpm:.0f} WPM "
                 "after instruction and all QA-cleared cadence-anchor corrections; "
                 "revise its Directed-Paced score"
             )
-        pacing_override = pace_palette_path
-        palette = read_json(PALETTE)
-        stage = existing_pace_stage + 1 if existing_pace_palette else 1
-        if stage == 1:
+        if combined_identity_retry:
+            pacing_override = ensure_identity_recovery_palette(chapter)
+            force_segments = [int(item["index"]) for item in record.get("segments", [])]
+        else:
+            pacing_override = pace_palette_path
+            palette = read_json(PALETTE)
+            stage = existing_pace_stage + 1 if existing_pace_palette else 1
+        if not combined_identity_retry and stage == 1:
             correction = (
                 " Pace correction: sustain an unhurried 140–148 spoken words per minute "
                 "before the supplied structural pauses. Do not accelerate through long syntax."
             )
             strategy = "native-cadence-instruction"
-        elif stage == 2:
+        elif not combined_identity_retry and stage == 2:
             # Fish cloning follows its acoustic reference more reliably than a numeric
             # instruction.  The approved relief/hope anchor is the slowest intact
             # Original Calder performance (about 145 WPM), so use its identity and
@@ -585,7 +634,7 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 "full articulation and no acceleration through long syntax."
             )
             strategy = "slow-original-calder-cadence-anchor"
-        else:
+        elif not combined_identity_retry:
             anchor_metadata = {
                 3: CADENCE_ANCHOR_METADATA,
                 4: SLOW_CADENCE_ANCHOR_METADATA,
@@ -615,19 +664,20 @@ def build_pickup_plan(chapter: int, output: Path, overwrite: bool = False) -> Pa
                 4: "qa-cleared-slower-original-calder-cadence-anchor",
                 5: "qa-cleared-slowest-original-calder-cadence-anchor",
             }[stage]
-        for performance in palette.get("performances", {}).values():
-            instruction = str(performance.get("instruct", "")).rstrip()
-            if correction.strip() not in instruction:
-                performance["instruct"] = instruction + correction
-        palette["paceCorrection"] = {
-            "chapter": chapter,
-            "reason": f"Measured {float(pacing['actualWpm']):.2f} WPM above {maximum_wpm:.0f} WPM ceiling",
-            "stage": stage,
-            "strategy": strategy,
-            "nativeGeneration": True,
-            "waveformTimeStretch": False,
-        }
-        save(pacing_override, palette)
+        if not combined_identity_retry:
+            for performance in palette.get("performances", {}).values():
+                instruction = str(performance.get("instruct", "")).rstrip()
+                if correction.strip() not in instruction:
+                    performance["instruct"] = instruction + correction
+            palette["paceCorrection"] = {
+                "chapter": chapter,
+                "reason": f"Measured {float(pacing['actualWpm']):.2f} WPM above {maximum_wpm:.0f} WPM ceiling",
+                "stage": stage,
+                "strategy": strategy,
+                "nativeGeneration": True,
+                "waveformTimeStretch": False,
+            }
+            save(pacing_override, palette)
         force_segments = [int(item["index"]) for item in record.get("segments", [])]
     elif int(existing_pace_palette.get("paceCorrection", {}).get("stage", 0)) >= 2:
         # Keep the slow cadence anchor for later naturalness or identity pickups;
