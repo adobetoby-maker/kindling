@@ -1,0 +1,1689 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-01/chapter-01.calder-directed-paced.json",
+  "model": "UTMOSv2",
+  "pass": true,
+  "use": "regression-and-outlier-detection-only",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "referenceMos": 3.7668,
+      "segments": 24,
+      "minimum": 3.3534,
+      "mean": 3.6561
+    },
+    "humor": {
+      "referenceMos": 3.8992,
+      "segments": 6,
+      "minimum": 3.5583,
+      "mean": 3.8116
+    },
+    "grief": {
+      "referenceMos": 3.7356,
+      "segments": 23,
+      "minimum": 3.3751,
+      "mean": 3.7442
+    },
+    "care": {
+      "referenceMos": 3.9845,
+      "segments": 4,
+      "minimum": 3.6345,
+      "mean": 3.754
+    },
+    "fear": {
+      "referenceMos": 4.1497,
+      "segments": 24,
+      "minimum": 3.7037,
+      "mean": 3.863
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 4.272,
+      "mos": 3.7145,
+      "floor": 3.3168
+    },
+    {
+      "index": 4,
+      "role": "neutral",
+      "durationSec": 1.858,
+      "mos": 3.5625,
+      "floor": 3.3168
+    },
+    {
+      "index": 8,
+      "role": "neutral",
+      "durationSec": 4.83,
+      "mos": 3.8677,
+      "floor": 3.3168
+    },
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 3.947,
+      "mos": 3.6718,
+      "floor": 3.3168
+    },
+    {
+      "index": 20,
+      "role": "humor",
+      "durationSec": 6.687,
+      "mos": 3.6935,
+      "floor": 3.4492
+    },
+    {
+      "index": 24,
+      "role": "neutral",
+      "durationSec": 3.669,
+      "mos": 3.8033,
+      "floor": 3.3168
+    },
+    {
+      "index": 35,
+      "role": "neutral",
+      "durationSec": 1.579,
+      "mos": 3.4809,
+      "floor": 3.3168
+    },
+    {
+      "index": 39,
+      "role": "humor",
+      "durationSec": 2.926,
+      "mos": 3.8445,
+      "floor": 3.4492
+    },
+    {
+      "index": 41,
+      "role": "humor",
+      "durationSec": 1.904,
+      "mos": 4.1889,
+      "floor": 3.4492
+    },
+    {
+      "index": 42,
+      "role": "humor",
+      "durationSec": 10.077,
+      "mos": 3.6961,
+      "floor": 3.4492
+    },
+    {
+      "index": 43,
+      "role": "humor",
+      "durationSec": 3.622,
+      "mos": 3.5583,
+      "floor": 3.4492
+    },
+    {
+      "index": 48,
+      "role": "grief",
+      "durationSec": 10.495,
+      "mos": 3.5248,
+      "floor": 3.2856
+    },
+    {
+      "index": 49,
+      "role": "grief",
+      "durationSec": 10.495,
+      "mos": 3.7421,
+      "floor": 3.2856
+    },
+    {
+      "index": 50,
+      "role": "grief",
+      "durationSec": 6.687,
+      "mos": 3.7015,
+      "floor": 3.2856
+    },
+    {
+      "index": 51,
+      "role": "grief",
+      "durationSec": 5.201,
+      "mos": 3.7989,
+      "floor": 3.2856
+    },
+    {
+      "index": 55,
+      "role": "grief",
+      "durationSec": 4.365,
+      "mos": 3.6054,
+      "floor": 3.2856
+    },
+    {
+      "index": 56,
+      "role": "grief",
+      "durationSec": 3.808,
+      "mos": 3.7703,
+      "floor": 3.2856
+    },
+    {
+      "index": 57,
+      "role": "grief",
+      "durationSec": 6.687,
+      "mos": 3.6866,
+      "floor": 3.2856
+    },
+    {
+      "index": 59,
+      "role": "grief",
+      "durationSec": 2.601,
+      "mos": 3.7421,
+      "floor": 3.2856
+    },
+    {
+      "index": 60,
+      "role": "grief",
+      "durationSec": 5.341,
+      "mos": 3.9848,
+      "floor": 3.2856
+    },
+    {
+      "index": 61,
+      "role": "grief",
+      "durationSec": 3.158,
+      "mos": 3.7293,
+      "floor": 3.2856
+    },
+    {
+      "index": 62,
+      "role": "grief",
+      "durationSec": 2.136,
+      "mos": 3.9174,
+      "floor": 3.2856
+    },
+    {
+      "index": 63,
+      "role": "grief",
+      "durationSec": 10.867,
+      "mos": 3.3751,
+      "floor": 3.2856
+    },
+    {
+      "index": 66,
+      "role": "grief",
+      "durationSec": 11.842,
+      "mos": 3.6886,
+      "floor": 3.2856
+    },
+    {
+      "index": 67,
+      "role": "grief",
+      "durationSec": 2.833,
+      "mos": 3.7056,
+      "floor": 3.2856
+    },
+    {
+      "index": 69,
+      "role": "grief",
+      "durationSec": 9.102,
+      "mos": 3.6782,
+      "floor": 3.2856
+    },
+    {
+      "index": 70,
+      "role": "grief",
+      "durationSec": 1.533,
+      "mos": 3.7653,
+      "floor": 3.2856
+    },
+    {
+      "index": 71,
+      "role": "grief",
+      "durationSec": 8.731,
+      "mos": 3.9082,
+      "floor": 3.2856
+    },
+    {
+      "index": 72,
+      "role": "grief",
+      "durationSec": 3.065,
+      "mos": 3.8026,
+      "floor": 3.2856
+    },
+    {
+      "index": 73,
+      "role": "grief",
+      "durationSec": 4.551,
+      "mos": 4.1093,
+      "floor": 3.2856
+    },
+    {
+      "index": 79,
+      "role": "neutral",
+      "durationSec": 7.012,
+      "mos": 3.6657,
+      "floor": 3.3168
+    },
+    {
+      "index": 83,
+      "role": "neutral",
+      "durationSec": 15.418,
+      "mos": 3.4502,
+      "floor": 3.3168
+    },
+    {
+      "index": 87,
+      "role": "neutral",
+      "durationSec": 9.52,
+      "mos": 3.4673,
+      "floor": 3.3168
+    },
+    {
+      "index": 94,
+      "role": "neutral",
+      "durationSec": 3.901,
+      "mos": 3.6651,
+      "floor": 3.3168
+    },
+    {
+      "index": 99,
+      "role": "grief",
+      "durationSec": 5.944,
+      "mos": 3.5576,
+      "floor": 3.2856
+    },
+    {
+      "index": 102,
+      "role": "grief",
+      "durationSec": 7.291,
+      "mos": 3.6731,
+      "floor": 3.2856
+    },
+    {
+      "index": 103,
+      "role": "grief",
+      "durationSec": 4.69,
+      "mos": 3.7477,
+      "floor": 3.2856
+    },
+    {
+      "index": 104,
+      "role": "grief",
+      "durationSec": 9.102,
+      "mos": 3.9015,
+      "floor": 3.2856
+    },
+    {
+      "index": 107,
+      "role": "neutral",
+      "durationSec": 10.031,
+      "mos": 3.5402,
+      "floor": 3.3168
+    },
+    {
+      "index": 112,
+      "role": "neutral",
+      "durationSec": 5.248,
+      "mos": 3.7131,
+      "floor": 3.3168
+    },
+    {
+      "index": 117,
+      "role": "neutral",
+      "durationSec": 7.616,
+      "mos": 4.0119,
+      "floor": 3.3168
+    },
+    {
+      "index": 132,
+      "role": "neutral",
+      "durationSec": 14.721,
+      "mos": 3.7328,
+      "floor": 3.3168
+    },
+    {
+      "index": 133,
+      "role": "care",
+      "durationSec": 1.95,
+      "mos": 3.6345,
+      "floor": 3.5345
+    },
+    {
+      "index": 140,
+      "role": "humor",
+      "durationSec": 4.783,
+      "mos": 3.8881,
+      "floor": 3.4492
+    },
+    {
+      "index": 143,
+      "role": "neutral",
+      "durationSec": 3.158,
+      "mos": 3.8946,
+      "floor": 3.3168
+    },
+    {
+      "index": 148,
+      "role": "neutral",
+      "durationSec": 8.406,
+      "mos": 3.532,
+      "floor": 3.3168
+    },
+    {
+      "index": 151,
+      "role": "neutral",
+      "durationSec": 10.17,
+      "mos": 3.5876,
+      "floor": 3.3168
+    },
+    {
+      "index": 152,
+      "role": "fear",
+      "durationSec": 2.972,
+      "mos": 4.0403,
+      "floor": 3.6997
+    },
+    {
+      "index": 153,
+      "role": "fear",
+      "durationSec": 1.811,
+      "mos": 3.727,
+      "floor": 3.6997
+    },
+    {
+      "index": 155,
+      "role": "fear",
+      "durationSec": 7.152,
+      "mos": 3.7579,
+      "floor": 3.6997
+    },
+    {
+      "index": 158,
+      "role": "fear",
+      "durationSec": 13.886,
+      "mos": 3.7615,
+      "floor": 3.6997
+    },
+    {
+      "index": 160,
+      "role": "fear",
+      "durationSec": 2.043,
+      "mos": 3.7234,
+      "floor": 3.6997
+    },
+    {
+      "index": 164,
+      "role": "fear",
+      "durationSec": 2.926,
+      "mos": 3.8306,
+      "floor": 3.6997
+    },
+    {
+      "index": 166,
+      "role": "fear",
+      "durationSec": 9.52,
+      "mos": 3.7592,
+      "floor": 3.6997
+    },
+    {
+      "index": 169,
+      "role": "fear",
+      "durationSec": 2.461,
+      "mos": 3.7881,
+      "floor": 3.6997
+    },
+    {
+      "index": 171,
+      "role": "fear",
+      "durationSec": 6.037,
+      "mos": 4.1531,
+      "floor": 3.6997
+    },
+    {
+      "index": 173,
+      "role": "fear",
+      "durationSec": 1.579,
+      "mos": 3.9969,
+      "floor": 3.6997
+    },
+    {
+      "index": 175,
+      "role": "fear",
+      "durationSec": 4.598,
+      "mos": 3.8605,
+      "floor": 3.6997
+    },
+    {
+      "index": 179,
+      "role": "fear",
+      "durationSec": 8.824,
+      "mos": 3.9802,
+      "floor": 3.6997
+    },
+    {
+      "index": 180,
+      "role": "fear",
+      "durationSec": 3.158,
+      "mos": 4.1472,
+      "floor": 3.6997
+    },
+    {
+      "index": 182,
+      "role": "fear",
+      "durationSec": 2.833,
+      "mos": 3.8027,
+      "floor": 3.6997
+    },
+    {
+      "index": 184,
+      "role": "fear",
+      "durationSec": 4.876,
+      "mos": 3.8095,
+      "floor": 3.6997
+    },
+    {
+      "index": 188,
+      "role": "fear",
+      "durationSec": 9.474,
+      "mos": 3.7558,
+      "floor": 3.6997
+    },
+    {
+      "index": 191,
+      "role": "fear",
+      "durationSec": 10.728,
+      "mos": 3.8034,
+      "floor": 3.6997
+    },
+    {
+      "index": 199,
+      "role": "neutral",
+      "durationSec": 1.811,
+      "mos": 3.3534,
+      "floor": 3.3168
+    },
+    {
+      "index": 204,
+      "role": "neutral",
+      "durationSec": 17.183,
+      "mos": 3.6803,
+      "floor": 3.3168
+    },
+    {
+      "index": 209,
+      "role": "neutral",
+      "durationSec": 4.598,
+      "mos": 3.7542,
+      "floor": 3.3168
+    },
+    {
+      "index": 215,
+      "role": "neutral",
+      "durationSec": 1.95,
+      "mos": 3.6348,
+      "floor": 3.3168
+    },
+    {
+      "index": 219,
+      "role": "neutral",
+      "durationSec": 2.09,
+      "mos": 3.665,
+      "floor": 3.3168
+    },
+    {
+      "index": 221,
+      "role": "fear",
+      "durationSec": 10.031,
+      "mos": 3.8957,
+      "floor": 3.6997
+    },
+    {
+      "index": 225,
+      "role": "fear",
+      "durationSec": 8.313,
+      "mos": 3.7037,
+      "floor": 3.6997
+    },
+    {
+      "index": 228,
+      "role": "neutral",
+      "durationSec": 7.616,
+      "mos": 3.6623,
+      "floor": 3.3168
+    },
+    {
+      "index": 230,
+      "role": "fear",
+      "durationSec": 2.09,
+      "mos": 3.8444,
+      "floor": 3.6997
+    },
+    {
+      "index": 232,
+      "role": "fear",
+      "durationSec": 8.731,
+      "mos": 3.9388,
+      "floor": 3.6997
+    },
+    {
+      "index": 236,
+      "role": "fear",
+      "durationSec": 11.378,
+      "mos": 3.9807,
+      "floor": 3.6997
+    },
+    {
+      "index": 239,
+      "role": "fear",
+      "durationSec": 4.412,
+      "mos": 3.7261,
+      "floor": 3.6997
+    },
+    {
+      "index": 249,
+      "role": "fear",
+      "durationSec": 7.895,
+      "mos": 3.9259,
+      "floor": 3.6997
+    },
+    {
+      "index": 250,
+      "role": "care",
+      "durationSec": 2.09,
+      "mos": 3.8055,
+      "floor": 3.5345
+    },
+    {
+      "index": 251,
+      "role": "neutral",
+      "durationSec": 2.136,
+      "mos": 3.6347,
+      "floor": 3.3168
+    },
+    {
+      "index": 254,
+      "role": "care",
+      "durationSec": 10.356,
+      "mos": 3.7251,
+      "floor": 3.5345
+    },
+    {
+      "index": 255,
+      "role": "care",
+      "durationSec": 7.802,
+      "mos": 3.8509,
+      "floor": 3.5345
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 12,
+      "role": "neutral",
+      "durationSec": 0.4179591836734694,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 13,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 16,
+      "role": "neutral",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 18,
+      "role": "neutral",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 21,
+      "role": "humor",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 22,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 25,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 26,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 29,
+      "role": "neutral",
+      "durationSec": 1.4396371882086167,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 30,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 31,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 33,
+      "role": "neutral",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 34,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 37,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 38,
+      "role": "humor",
+      "durationSec": 1.4396371882086167,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 40,
+      "role": "humor",
+      "durationSec": 1.1145578231292517,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 44,
+      "role": "neutral",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 45,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 47,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 52,
+      "role": "grief",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 53,
+      "role": "grief",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 54,
+      "role": "grief",
+      "durationSec": 1.253877551020408,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 58,
+      "role": "grief",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 64,
+      "role": "grief",
+      "durationSec": 1.1145578231292517,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 65,
+      "role": "grief",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 68,
+      "role": "grief",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 74,
+      "role": "grief",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 75,
+      "role": "grief",
+      "durationSec": 1.4396371882086167,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 76,
+      "role": "neutral",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 86,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 89,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 91,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 92,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 95,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 96,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 98,
+      "role": "grief",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 100,
+      "role": "grief",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 101,
+      "role": "grief",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 111,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 115,
+      "role": "neutral",
+      "durationSec": 1.253877551020408,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 118,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 119,
+      "role": "neutral",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 121,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 122,
+      "role": "neutral",
+      "durationSec": 0.9287981859410431,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 123,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 124,
+      "role": "neutral",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 125,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 126,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 127,
+      "role": "neutral",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 130,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 131,
+      "role": "neutral",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 134,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 135,
+      "role": "care",
+      "durationSec": 1.3467573696145125,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 136,
+      "role": "care",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 137,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 139,
+      "role": "neutral",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 147,
+      "role": "neutral",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 156,
+      "role": "fear",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 162,
+      "role": "fear",
+      "durationSec": 1.253877551020408,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 163,
+      "role": "fear",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 168,
+      "role": "fear",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 177,
+      "role": "fear",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 178,
+      "role": "fear",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 186,
+      "role": "fear",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 187,
+      "role": "fear",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 189,
+      "role": "fear",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 192,
+      "role": "fear",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 193,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 197,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 203,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 205,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 210,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 211,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 226,
+      "role": "fear",
+      "durationSec": 1.486077097505669,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 229,
+      "role": "fear",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 234,
+      "role": "fear",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 235,
+      "role": "fear",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 238,
+      "role": "fear",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 243,
+      "role": "neutral",
+      "durationSec": 0.46439909297052157,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 244,
+      "role": "neutral",
+      "durationSec": 1.3931972789115645,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 246,
+      "role": "neutral",
+      "durationSec": 0.7430385487528345,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 247,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 248,
+      "role": "neutral",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 252,
+      "role": "neutral",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 253,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 256,
+      "role": "neutral",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 257,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 258,
+      "role": "neutral",
+      "durationSec": 0.37151927437641724,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 259,
+      "role": "care",
+      "durationSec": 0.7430385487528345,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 260,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 2,
+      "role": "neutral",
+      "durationSec": 8.266303854875284,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 8.126984126984127,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 1.6253968253968254,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 6,
+      "role": "neutral",
+      "durationSec": 6.594467120181406,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 7,
+      "role": "neutral",
+      "durationSec": 1.6253968253968254,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 2.2291156462585033,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 3.622312925170068,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 11,
+      "role": "neutral",
+      "durationSec": 4.690430839002268,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 15,
+      "role": "neutral",
+      "durationSec": 8.312743764172335,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 12.956734693877552,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 19,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 27,
+      "role": "neutral",
+      "durationSec": 8.730702947845804,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 28,
+      "role": "neutral",
+      "durationSec": 2.647074829931973,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 32,
+      "role": "neutral",
+      "durationSec": 5.6656689342403626,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 36,
+      "role": "neutral",
+      "durationSec": 1.6718367346938776,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 77,
+      "role": "neutral",
+      "durationSec": 3.111473922902494,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 78,
+      "role": "neutral",
+      "durationSec": 2.507755102040816,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 80,
+      "role": "neutral",
+      "durationSec": 2.2755555555555556,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 81,
+      "role": "neutral",
+      "durationSec": 3.111473922902494,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 82,
+      "role": "neutral",
+      "durationSec": 8.17342403628118,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 84,
+      "role": "neutral",
+      "durationSec": 11.19201814058957,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 85,
+      "role": "neutral",
+      "durationSec": 2.043356009070295,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 88,
+      "role": "neutral",
+      "durationSec": 2.2755555555555556,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 90,
+      "role": "neutral",
+      "durationSec": 7.012426303854875,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 93,
+      "role": "neutral",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 97,
+      "role": "neutral",
+      "durationSec": 8.40562358276644,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 105,
+      "role": "neutral",
+      "durationSec": 7.1053061224489795,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 106,
+      "role": "neutral",
+      "durationSec": 2.414875283446712,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 108,
+      "role": "neutral",
+      "durationSec": 10.727619047619047,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 109,
+      "role": "neutral",
+      "durationSec": 3.0650340136054424,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 110,
+      "role": "neutral",
+      "durationSec": 8.266303854875284,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 113,
+      "role": "neutral",
+      "durationSec": 11.749297052154194,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 114,
+      "role": "neutral",
+      "durationSec": 9.427301587301587,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 116,
+      "role": "neutral",
+      "durationSec": 1.6718367346938776,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 120,
+      "role": "neutral",
+      "durationSec": 2.089795918367347,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 128,
+      "role": "neutral",
+      "durationSec": 3.0650340136054424,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 129,
+      "role": "neutral",
+      "durationSec": 4.73687074829932,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 138,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 141,
+      "role": "neutral",
+      "durationSec": 2.786394557823129,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 142,
+      "role": "neutral",
+      "durationSec": 8.916462585034013,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 144,
+      "role": "neutral",
+      "durationSec": 9.7059410430839,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 145,
+      "role": "neutral",
+      "durationSec": 9.520181405895691,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 146,
+      "role": "neutral",
+      "durationSec": 3.575873015873016,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 149,
+      "role": "neutral",
+      "durationSec": 6.501587301587302,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 150,
+      "role": "neutral",
+      "durationSec": 14.721451247165533,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 195,
+      "role": "neutral",
+      "durationSec": 3.3901133786848074,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 196,
+      "role": "neutral",
+      "durationSec": 7.569705215419501,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 198,
+      "role": "neutral",
+      "durationSec": 2.089795918367347,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 200,
+      "role": "neutral",
+      "durationSec": 4.551111111111111,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 201,
+      "role": "neutral",
+      "durationSec": 12.585215419501134,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 202,
+      "role": "neutral",
+      "durationSec": 4.876190476190477,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 206,
+      "role": "neutral",
+      "durationSec": 4.6439909297052155,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 207,
+      "role": "neutral",
+      "durationSec": 2.693514739229025,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 208,
+      "role": "neutral",
+      "durationSec": 8.266303854875284,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 212,
+      "role": "neutral",
+      "durationSec": 4.133151927437642,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 213,
+      "role": "neutral",
+      "durationSec": 6.826666666666667,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 214,
+      "role": "neutral",
+      "durationSec": 10.216780045351474,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 216,
+      "role": "neutral",
+      "durationSec": 2.3219954648526078,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 217,
+      "role": "neutral",
+      "durationSec": 3.622312925170068,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 218,
+      "role": "neutral",
+      "durationSec": 4.2260317460317465,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 220,
+      "role": "neutral",
+      "durationSec": 5.340589569160998,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 222,
+      "role": "neutral",
+      "durationSec": 2.3219954648526078,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 223,
+      "role": "neutral",
+      "durationSec": 3.6687528344671203,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 241,
+      "role": "neutral",
+      "durationSec": 2.5541950113378684,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 242,
+      "role": "neutral",
+      "durationSec": 6.640907029478458,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 245,
+      "role": "neutral",
+      "durationSec": 2.7399546485260773,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 154,
+      "role": "fear",
+      "durationSec": 12.30657596371882,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 157,
+      "role": "fear",
+      "durationSec": 4.6439909297052155,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 159,
+      "role": "fear",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 161,
+      "role": "fear",
+      "durationSec": 2.6006349206349206,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 165,
+      "role": "fear",
+      "durationSec": 1.9504761904761905,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 167,
+      "role": "fear",
+      "durationSec": 2.972154195011338,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 170,
+      "role": "fear",
+      "durationSec": 6.780226757369615,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 172,
+      "role": "fear",
+      "durationSec": 2.3219954648526078,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 174,
+      "role": "fear",
+      "durationSec": 5.108390022675737,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 176,
+      "role": "fear",
+      "durationSec": 8.730702947845804,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 181,
+      "role": "fear",
+      "durationSec": 9.566621315192744,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 183,
+      "role": "fear",
+      "durationSec": 1.6253968253968254,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 185,
+      "role": "fear",
+      "durationSec": 11.470657596371883,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 190,
+      "role": "fear",
+      "durationSec": 2.2291156462585033,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 194,
+      "role": "fear",
+      "durationSec": 13.885532879818594,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 224,
+      "role": "fear",
+      "durationSec": 9.47374149659864,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 227,
+      "role": "fear",
+      "durationSec": 4.2260317460317465,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 231,
+      "role": "fear",
+      "durationSec": 6.03718820861678,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 233,
+      "role": "fear",
+      "durationSec": 2.36843537414966,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 237,
+      "role": "fear",
+      "durationSec": 1.8575963718820863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 240,
+      "role": "fear",
+      "durationSec": 9.984580498866213,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": []
+}
