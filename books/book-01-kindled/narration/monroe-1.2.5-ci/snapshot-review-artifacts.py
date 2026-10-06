@@ -101,7 +101,6 @@ def copy_evidence(job: dict, narrator: dict, destination: Path) -> dict[str, str
     sources = {
         "narrator": Path(job["narratorReport"]),
         "verification": Path(checks["words"]["report"]),
-        "targetedWords": Path(checks["words"]["targetedReport"]),
         "mastering": Path(checks["mastering"]["report"]),
         "voiceIdentity": Path(checks["identity"]["report"]),
         "naturalness": Path(checks["naturalness"]["report"]),
@@ -109,6 +108,9 @@ def copy_evidence(job: dict, narrator: dict, destination: Path) -> dict[str, str
         "direction": Path(job["direction"]),
         "production": production_path,
     }
+    targeted_report = checks["words"].get("targetedReport")
+    if targeted_report:
+        sources["targetedWords"] = Path(targeted_report)
     names = {
         "narrator": "narrator.json",
         "verification": "verification.json",
