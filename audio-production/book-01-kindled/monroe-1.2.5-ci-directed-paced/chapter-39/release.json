@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "status": "objective-cleared-awaiting-human-listening",
+  "publishedAt": "2026-10-07T10:44:05.407516+00:00",
+  "bookId": "book-01-kindled",
+  "bookTitle": "Kindled — Book One",
+  "chapter": 39,
+  "chapterTitle": "Toren: The Thirty-Seventh Day",
+  "source": "books/book-01-kindled/revised/chapter-39.md",
+  "sourceSha256": "1ec03138357b518ab0bf77a88b676d45e9e123ed229d07f8b7e8edd9c34fa6ed",
+  "audio": "audio/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39.mp3",
+  "audioSha256": "8b876c930d1d79111f1fa3edd312c9c47df87af85095f4327fa923b3f08cc63c",
+  "bytes": 22308909,
+  "durationSec": 1394.244,
+  "writer": {
+    "publicAuthor": "Monroe Jackson",
+    "authorSeat": "Monroe 1.3 canonical assembly",
+    "authorModel": "not recorded"
+  },
+  "reader": {
+    "voice": "Original Calder",
+    "engine": "Local Fish Audio S2 Pro 8-bit",
+    "model": "mlx-community/fish-audio-s2-pro-8bit",
+    "language": "Australian English",
+    "pipeline": "Monroe Book Narrator 1.2.5-CI",
+    "methodId": "monroe-1.2.5-ci-directed-paced",
+    "director": "Codex gpt-5.6-sol",
+    "direction": "Codex-directed, Directed-Paced",
+    "speechSpeed": "native",
+    "timeStretch": false,
+    "localOnly": true
+  },
+  "pacing": {
+    "sentenceLandingMs": 1550,
+    "paragraphSpeakerSubjectResetMs": 2100,
+    "writtenSceneBreakMs": 2700,
+    "preWordPreparationMs": [
+      320,
+      340
+    ],
+    "measuredWpm": 147.82,
+    "targetWpmRange": [
+      120,
+      150
+    ]
+  },
+  "quality": {
+    "objectivePass": true,
+    "wordEvidence": "Whole-chapter ASR anomalies were absent when the exact implicated cached takes were independently rechecked; remaining substitutions are non-gating evidence.",
+    "masteringPass": true,
+    "voiceIdentityPass": true,
+    "naturalnessPass": true,
+    "pacingPass": true,
+    "humanListening": "pending"
+  },
+  "evidence": {
+    "narrator": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/narrator.json",
+    "verification": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/verification.json",
+    "mastering": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/mastering.json",
+    "voiceIdentity": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/voice-quality.json",
+    "naturalness": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/naturalness.json",
+    "dnsmos": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/dnsmos.json",
+    "direction": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/direction.json",
+    "production": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/production.json",
+    "targetedWords": "audio-production/book-01-kindled/monroe-1.2.5-ci-directed-paced/chapter-39/targeted-words.json"
+  }
+}
