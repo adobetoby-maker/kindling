@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "metric": "DNSMOS non-personalized",
+  "diagnosticOnly": true,
+  "note": "Predicted signal/background quality, not a human listening score or a reliable prosody judgment. Different reference text and duration limit direct comparisons.",
+  "implementationSha256": "138b92ba8f736f9f70468c835f9aee0e584aa8139ae1d7240c96d92c2f282c88",
+  "models": {
+    "sig_bak_ovr.onnx": "269fbebdb513aa23cddfbb593542ecc540284a91849ac50516870e1ac78f6edd",
+    "model_v8.onnx": "9246480c58567bc6affd4200938e77eef49468c8bc7ed3776d109c07456f6e91"
+  },
+  "candidate": {
+    "path": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-08/chapter-08.calder-directed-paced.mp3",
+    "sha256": "7d1fda79814bc99704b37881323248f0ab7592a4eb07e0057d99cd3b09d6f55c",
+    "durationSec": 1692.8895,
+    "windows": 1683,
+    "OVRL": 3.3998865968266156,
+    "SIG": 3.623706253342657,
+    "BAK": 4.142963272533426,
+    "P808_MOS": 4.176102161407471
+  },
+  "reference": {
+    "path": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+    "sha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+    "durationSec": 9.44,
+    "windows": 1,
+    "OVRL": 3.5394955569674993,
+    "SIG": 3.748062032394508,
+    "BAK": 4.201811921080935,
+    "P808_MOS": 4.352528095245361
+  },
+  "deltaFromReference": {
+    "OVRL": -0.13960896014088364,
+    "SIG": -0.12435577905185102,
+    "BAK": -0.058848648547509264,
+    "P808_MOS": -0.17642593383789062
+  }
+}

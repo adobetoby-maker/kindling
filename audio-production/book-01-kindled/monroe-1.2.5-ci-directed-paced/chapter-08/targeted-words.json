@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-08.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-08/chapter-08.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 39,
+  "transcribedWords": 38,
+  "orderedWordCoverage": 0.8974,
+  "sequenceSimilarity": 0.9091,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 0,
+      "sourceWords": "and spruce bark wet",
+      "transcribedWords": "in shoes barkwet"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "In shoes, Barkwet was one of the four or five slickest things in the world. The whole tree moved. So, don't help. Hard and rough and wedged. Bark, Tonk said. That one hasn't got a name, he said.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-08/chapter-08.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 35,
+      "text": ", and spruce bark wet was one of the four or five slickest things in the world.",
+      "audioSha256": "f361992cc0022bbca0920790ea837c6ef37d0780c77a1bdadd25d061fbe09884"
+    },
+    {
+      "index": 39,
+      "text": "the whole tree moved.",
+      "audioSha256": "db1595926bc2ca891dfccaf40e0d475450c49b0809579e2d981e0007afa3a32f"
+    },
+    {
+      "index": 41,
+      "text": "So:",
+      "audioSha256": "c8289ea899537a1119b0f7cc0c40c00aab2a955985131a1ad4428a983124ba5f"
+    },
+    {
+      "index": 215,
+      "text": "Don't help.",
+      "audioSha256": "87e0c2e7b02409388b13d1dcd20899c1d759611200476dc9908862d6120fea58"
+    },
+    {
+      "index": 235,
+      "text": "Hard and rough and wedged.",
+      "audioSha256": "050dbaf3a23ccf31d37f0c03e58f0aa8801ccac9ddf6269e255d12bb28c1da61"
+    },
+    {
+      "index": 263,
+      "text": "\"Bark,\" Tonk said.",
+      "audioSha256": "c97384dc849ed65302905679d4eeeeb1724884308b54aa03aba7101c8fa9dc56"
+    },
+    {
+      "index": 284,
+      "text": "\"That one hasn't got a name,\" he said.",
+      "audioSha256": "da25a5d06b089159d6bbba59bbcd3808fa415f95471cf61ca43d45ddac340fdf"
+    }
+  ],
+  "targetedEvidencePass": true
+}
