@@ -1,0 +1,2329 @@
+{
+  "rendererVersion": 5,
+  "input": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-06.md",
+  "inputSha256": "74f575bacd25fa136106e3c624eeb4a0243ffef82e659c02a1238fef72d38767",
+  "engine": "fish-s2",
+  "model": "mlx-community/fish-audio-s2-pro-8bit",
+  "voice": "cloned",
+  "language": "English",
+  "speed": 1.0,
+  "instruct": "Keep the exact Original Calder speaker identity and Australian-English accent. Read as controlled, intelligent long-form audiobook narration. Prepare the complete thought before beginning it. Preserve tactical clarity, understated humor, and emotional restraint. Use supplied performance anchors only as temporary colors, then return fully to Calder. Never rush, become theatrical, sing-song, childish, Americanized, or announcer-like.",
+  "pronunciationInstruct": "Use the Kindled pronunciation dictionary and chapter context. Never infer a different accent or narrator identity from a character name.",
+  "referenceAudio": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+  "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+  "paletteReferenceHashes": {
+    "neutral": "5893a9b2d2a5bb711a6bde9003798b9ef8cd1f4bed3a456a72661556608d5a32",
+    "reflective": "2a96680b9325dbf11b31691207eb56eab1f2458099bec54b5800e2de05cef090",
+    "intimate_care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "dry_humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "curiosity": "83eb39c4f95bb014fb9287210060717ea7f0de13d82e82281184a21649182b0b",
+    "wonder_awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508",
+    "suspense": "742f1dceefaf5aacd97d8216216264e0b1c5747a70296a42bee300b86ee78395",
+    "fear": "ca07ae9dc53ef27188de28d183d241d7dd3e60a09a2e1a9522abb3e13ff47f53",
+    "grief": "8c49b0878bfcd6cef2ab5841ecc09545e3de3053e9a6a13f2e8be7e00e3d1bf8",
+    "cold_anger": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "authority": "f031f4fa3642fe85999f43ec72dbe1333ac23a0d2166f42219e434040c7d8ebf",
+    "urgent_action": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "pain_exhaustion": "3369f4cdd6b6ca5cd3b209523a568696588c8e07f5110ba8f6472415975f5d7e",
+    "relief_hope": "532dde77d9a63ebf740237f0c507e95bcb95c511923e8b8de085fef68065bfa0",
+    "whisper_secret": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "whisper": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "yell": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "hatred": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508"
+  },
+  "referenceText": "The leak was just the announcement. The marriage was the problem. Dale set the wrench down and listened to the old house settle around him.",
+  "performanceTrack": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-06/chapter-06.directed-paced.performance.json",
+  "performanceTrackSha256": "cfbf4efac15c3cb3fcadedde79def19b142febc62d20f3ff55b8b413511d450d",
+  "performancePalette": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-06/chapter-06.identity-recovery.palette.json",
+  "performancePaletteSha256": "dd01328394ea8ce4eb0b0ae9947d4658c992a01e44dc2694c1cd25d22c6c5339",
+  "maxChars": 700,
+  "maxAudioTokens": 2048,
+  "targetWpm": null,
+  "temperature": 0.62,
+  "pauseMs": 1550,
+  "finalPauseMs": 2100,
+  "denseLandings": false,
+  "commaPauseMs": 300,
+  "breathPauseMs": 425,
+  "sentencePauseMs": 700,
+  "paragraphPauseMs": 1100,
+  "postStretchRate": 1.0,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "edgeFadeMs": 12,
+  "sourceWords": 4265,
+  "chunkCount": 281,
+  "performances": [
+    "awe",
+    "care",
+    "fear",
+    "grief",
+    "humor",
+    "neutral",
+    "whisper"
+  ],
+  "durationSec": 1711.2,
+  "bytes": 27380013,
+  "sha256": "d5be075b3ec5d7657f6cc9a8a757f34f9387d43b229fb237d237f51141cbf0bf",
+  "elapsedSec": 71.18,
+  "generationSecThisRun": 7.04,
+  "generatedSegments": 1,
+  "reusedSegments": 280,
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-06/chapter-06.calder-directed-paced.mp3",
+  "master": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/master.wav",
+  "segments": [
+    {
+      "index": 1,
+      "performance": "neutral",
+      "text": "Chapter 6 \u2014 Jab: Eight Days to Meridian",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0001.wav",
+      "textSha256": "b7c5c27ef62d8ee948581b1c03ef615ae654debc005daa90b115c693f6458b37"
+    },
+    {
+      "index": 2,
+      "performance": "neutral",
+      "text": "By morning the fever had not turned, and the rain had not stopped, and Jab had to decide what to do with a day.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0002.wav",
+      "textSha256": "aecff08365550635efab7aaf8ee4b62166e703f698f3bf5bc490d9fad26a2b49"
+    },
+    {
+      "index": 3,
+      "performance": "neutral",
+      "text": "He sat in the shelter mouth with his hands around a cup he had let go cold and looked at it from both ends.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0003.wav",
+      "textSha256": "25991b93f8f7be4951fcf90c1147abe8ad70e466306183758d4f9dc35ffd288d"
+    },
+    {
+      "index": 4,
+      "performance": "neutral",
+      "text": "Moving meant six hours in the wet on unknown ground with a child at the top of his arc, and arriving somewhere no better than here with less light left",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0004.wav",
+      "textSha256": "e80ee13330a6e32579c42bf73559076655cca923a63564c9e45b44a0d3a6bed0"
+    },
+    {
+      "index": 5,
+      "performance": "neutral",
+      "text": ".",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0005.wav",
+      "textSha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+    },
+    {
+      "index": 6,
+      "performance": "neutral",
+      "text": "Staying meant two twists of bark and a day's food spent on no miles at all",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0006.wav",
+      "textSha256": "a3b7c3e7a19d90ce545f7e05074a2d277d5956146fd3186b4261868f2d3b9e16"
+    },
+    {
+      "index": 7,
+      "performance": "neutral",
+      "text": ", and the road was not getting shorter while he sat in it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0007.wav",
+      "textSha256": "157e3b63bf9096d83bf781197c1862de03822f06de9a5f796c013765f395e6b8"
+    },
+    {
+      "index": 8,
+      "performance": "neutral",
+      "text": "He looked at Tonk.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0008.wav",
+      "textSha256": "3440cfac68b9a046103d93df9903af0f7f4c24340b8f93bed8d8f1a6f9350c31"
+    },
+    {
+      "index": 9,
+      "performance": "neutral",
+      "text": "Tonk was asleep with his mouth open and his hair stuck flat to his forehead, and his breathing had the little catch in it at the top that it got when the fever was high",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0009.wav",
+      "textSha256": "84ba2b1e294fe48c4428fe37d7c8f4c4fa363177d6389f111ca40173edb3de70"
+    },
+    {
+      "index": 10,
+      "performance": "neutral",
+      "text": ", and the hide under his head was dark with sweat.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0010.wav",
+      "textSha256": "287a60f0f1b7a05b1ae277aca8bd5031ef16ccb5a54496d4809d478b35678a0e"
+    },
+    {
+      "index": 11,
+      "performance": "neutral",
+      "text": "\"Half a day,\" Jab said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0011.wav",
+      "textSha256": "4b38e11d5179c2e8bea5bb07ec06554c77fdea52bdd22542c3b5e03d9303c0e1"
+    },
+    {
+      "index": 12,
+      "performance": "humor",
+      "text": "Nobody argued with him, which was the whole trouble with being the only one there.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0012.wav",
+      "textSha256": "f3051870ac363c512ce0e6b3b5e7d6df3b23c8dc42cbad40b36dd897c03208a5"
+    },
+    {
+      "index": 13,
+      "performance": "neutral",
+      "text": "He spent the half day working, because sitting still with it was worse.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0013.wav",
+      "textSha256": "64f4d0ae8edfd26c13ea603360c03ebb18ce3aa735e8b75dc222a814c192bedc"
+    },
+    {
+      "index": 14,
+      "performance": "neutral",
+      "text": "The shelter he had thrown up in the dark was a shelter the way a thing you built in the dark was a shelter.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0014.wav",
+      "textSha256": "c22c9ea85f8e4071b02c5a025d7116972d2f4e884b2abac469db2cf8ebe06ab6"
+    },
+    {
+      "index": 15,
+      "performance": "neutral",
+      "text": "He took it apart and built it again properly: the ridge pole cut longer and set into the crotch of a fir instead of lashed to a lean",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0015.wav",
+      "textSha256": "051024839bc9c55dcd255aba2ecd202e79b379f861297e32b10a352a16fe0bea"
+    },
+    {
+      "index": 16,
+      "performance": "neutral",
+      "text": ", the hide pitched at a steeper angle so the water ran instead of pooling",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0016.wav",
+      "textSha256": "8d589fac78b6cd69369cd2d834c18874e2d0685e563e402de956fbd2829807fb"
+    },
+    {
+      "index": 17,
+      "performance": "neutral",
+      "text": ", a low wall of fir boughs stacked on the windward side",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0017.wav",
+      "textSha256": "cdb199591b2b4f89159337cd061970189275d51481a5834ee7a6276d3e8fbfdb"
+    },
+    {
+      "index": 18,
+      "performance": "neutral",
+      "text": ", and a shallow trench scraped around the uphill edge so the ground water went past them instead of through",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0018.wav",
+      "textSha256": "dfe0362d7cd3c81837485c84c6bb89a53729270a9ddc412b9e7c81603ec5cd18"
+    },
+    {
+      "index": 19,
+      "performance": "neutral",
+      "text": ".",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0019.wav",
+      "textSha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+    },
+    {
+      "index": 20,
+      "performance": "neutral",
+      "text": "Then a second bed of fir tips, because the first had flattened in a night, and fir tips flattened were just cold ground with a smell.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0020.wav",
+      "textSha256": "9c83924701ca0e46058f10d67ba12b4455a220c67b4954361e9a48889e193156"
+    },
+    {
+      "index": 21,
+      "performance": "neutral",
+      "text": "Then wood, which was the real work.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0021.wav",
+      "textSha256": "6574ce763dc7260ac0f48df42f33d6b2a8ed381ae7178ea76f6169811acac4c5"
+    },
+    {
+      "index": 22,
+      "performance": "neutral",
+      "text": "In a fir stand in the rain there was no dry wood lying anywhere on the ground, and a person who looked for some deserved the night he was going to have.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0022.wav",
+      "textSha256": "f79e9317714e6514a96ce43e8525d9337b0714956a2d7b604663eea634144acc"
+    },
+    {
+      "index": 23,
+      "performance": "neutral",
+      "text": "Jab went up the slope until he found what he was after: a standing dead spruce, snapped off at head height, silver-gray and hard, the outside soaked and the inside dry as paper",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0023.wav",
+      "textSha256": "0b9afcc57c08e7c20ac5d82c7090d3c72e9a070572f3f73623337fd35bbc99d1"
+    },
+    {
+      "index": 24,
+      "performance": "neutral",
+      "text": ", the way the inside of a standing dead thing always was.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0024.wav",
+      "textSha256": "266a53015f7dc11526ff1609b0dca459966f67e67259b2fa9c75a91a806a46bd"
+    },
+    {
+      "index": 25,
+      "performance": "neutral",
+      "text": "He set his feet, and shut his eyes for one breath the way he had been shutting them since he was thirteen, and reached for the metal.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0025.wav",
+      "textSha256": "3309a13fc1667943ce46922667904da48fcfa1ba74535400d27665e9c86b8404"
+    },
+    {
+      "index": 26,
+      "performance": "neutral",
+      "text": "It lay at the hollow of his throat on a cord, where it had lain every day of four years \u2014 a thumb-length of dull river-worn metal, gray going to green, smooth as an egg on one face and dimpled on the other",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0026.wav",
+      "textSha256": "b641c49147753bcfc12343e70b1cf1c6e57bf4f6124bf61ded3c5d7c6d0185ba"
+    },
+    {
+      "index": 27,
+      "performance": "neutral",
+      "text": ", and if a person found it on a bar and did not know what it was he would skip it across the water and never think about it again.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0027.wav",
+      "textSha256": "65616cd2f65052c2fea84b42316e7b1cce8f3a94ba78b42c36544c1b49e6b869"
+    },
+    {
+      "index": 28,
+      "performance": "neutral",
+      "text": "The warmth came up under his breastbone, small and low",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0028.wav",
+      "textSha256": "1c4fe91df9d4ef906d0c936763559102473fa0646511b35315bba46c9e0cbb46"
+    },
+    {
+      "index": 29,
+      "performance": "neutral",
+      "text": ", and the metal on the cord answered it, and the two of them found each other the way they had a thousand times.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0029.wav",
+      "textSha256": "cacb89993cd44fe4087795b0af9a0ab55a161d51890e75a5f05899ab4c7b54ab"
+    },
+    {
+      "index": 30,
+      "performance": "neutral",
+      "text": "The metal went.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0030.wav",
+      "textSha256": "4729893a1c3770a6ef5032408dcf64437e2ef92219b14aa21c29e75c90f4f5ef"
+    },
+    {
+      "index": 31,
+      "performance": "neutral",
+      "text": "It came off the cord as if it had never been a solid thing, ran down inside his shirt sleeve and along the outside of his forearm and out over the back of his hand, and took its shape at the end of his fist",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0031.wav",
+      "textSha256": "07ccdcfe4f549815cd191b5b6b73d601570078ef242f81804342e834094af302"
+    },
+    {
+      "index": 32,
+      "performance": "neutral",
+      "text": ": a working blade as long as his forearm, heavy in the spine, the belly swelling out fat toward the point and then dropping into a small hook at the very end.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0032.wav",
+      "textSha256": "c89f063463322bb153fce054a552d5e280e0b4bb025074392c402cb028522304"
+    },
+    {
+      "index": 33,
+      "performance": "neutral",
+      "text": "It was not a beautiful shape.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0033.wav",
+      "textSha256": "1fc209ab174ec26620b074485432e081c3d5ef9315d68b6b499fe28e5f630d34"
+    },
+    {
+      "index": 34,
+      "performance": "neutral",
+      "text": "It had never once been a beautiful shape.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0034.wav",
+      "textSha256": "ee12bca162fad9f4f8f9937588879a4263a14ba468f70f62710dfc72e6e7bce4"
+    },
+    {
+      "index": 35,
+      "performance": "neutral",
+      "text": "It was the shape of the knives every house in the valley had two of, for splitting fish and cutting green willow and doing the eleven other jobs a person did not want to blunt a good knife on.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0035.wav",
+      "textSha256": "24b9eee655c4618e339826179a16d1c0f94bf4e695462faa85c8846f0118b22a"
+    },
+    {
+      "index": 36,
+      "performance": "neutral",
+      "text": "He had spent a year at fourteen trying to make it come out long and straight like his father's.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0036.wav",
+      "textSha256": "9240b815d519557556855751f4baf5079317988ecfbba62e604f7fefa41c88db"
+    },
+    {
+      "index": 37,
+      "performance": "neutral",
+      "text": "He had stopped when he understood that the year had bought him nothing except a shape he could hold for six seconds and a shape he could hold all day, and a man on a log jam needed the second one.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0037.wav",
+      "textSha256": "5a3a4155ed8d6db617072a33b8a3d743a1c9baf8ec74d1c2557e657780e7e237"
+    },
+    {
+      "index": 38,
+      "performance": "neutral",
+      "text": "He put the blade into the spruce dark, first, which took three strokes to get through the wet outer shell \u2014 the metal blunt-backed and unlit, a heavy wedge doing heavy work.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0038.wav",
+      "textSha256": "1701298ffc4ef58abb0d930a67eb3fcac9dbad699c9fd9658c7c2d6341eb9246"
+    },
+    {
+      "index": 39,
+      "performance": "neutral",
+      "text": "Then he kindled it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0039.wav",
+      "textSha256": "0d541c8e73551c7a874d1749b0af3b0d955bfa4dd3bad38d33fbfffe764e0a65"
+    },
+    {
+      "index": 40,
+      "performance": "neutral",
+      "text": "The light came up along the working edge the way it always came: from the grip end outward, a narrow line no thicker than a hair, a low amber, the color of a coal with the ash still on it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0040.wav",
+      "textSha256": "670fe3a48f93dc181235661b0963666327aa27027f23c8b6a16d21b1c8bfeff8"
+    },
+    {
+      "index": 41,
+      "performance": "neutral",
+      "text": "It ran clean for two-thirds of the blade",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0041.wav",
+      "textSha256": "19519580b52311e21bcece4e491d5bf4f24143f0542fe505a1c861202c679f87"
+    },
+    {
+      "index": 42,
+      "performance": "neutral",
+      "text": ".",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0042.wav",
+      "textSha256": "cdb4ee2aea69cc6a83331bbe96dc2caa9a299d21329efb0336fc02a82e1839a8"
+    },
+    {
+      "index": 43,
+      "performance": "neutral",
+      "text": "Then it hit the swell of the belly and hesitated \u2014",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0043.wav",
+      "textSha256": "c72a36fba5e061b2b74b0dd42223f9aa153272c5524cf792f102f3fe08cacbe4"
+    },
+    {
+      "index": 44,
+      "performance": "neutral",
+      "text": "it always hesitated there, one whole breath of hesitation, the light guttering and catching and guttering at that one curve \u2014 and then it caught and went on and reached the hook.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0044.wav",
+      "textSha256": "021ca5f62b3a9802859fe5d39246b6e1f3bfaccc46d1281658055f94fd2b1f34"
+    },
+    {
+      "index": 45,
+      "performance": "neutral",
+      "text": "That hesitation was four years old.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0045.wav",
+      "textSha256": "6991f9d154a8f2869d16fad528ce5cd662fd7cfa8f59216025186702809548a3"
+    },
+    {
+      "index": 46,
+      "performance": "neutral",
+      "text": "It had been in the",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0046.wav",
+      "textSha256": "bed99f34ff824e70bdd12fabc6a49627b646c4ca91f8d2126a1a4d92fe20f9eb"
+    },
+    {
+      "index": 47,
+      "performance": "neutral",
+      "text": "very first blade he had ever made, on a gravel bar, in front of everyone he loved.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0047.wav",
+      "textSha256": "7d07bcb23a4ac5fda3352fddb128715e4f07a51d17db263b71c95678b21d3fb2"
+    },
+    {
+      "index": 48,
+      "performance": "neutral",
+      "text": "Jab stood in the rain with a lit blade in his fist and a dead spruce in front of him, and he was thirteen again, up to his knees in water so cold that his legs had stopped reporting.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0048.wav",
+      "textSha256": "1c72a82dae2509c210f20c5739a4a3a43641b64ec0d300686f362b526a57472b"
+    },
+    {
+      "index": 49,
+      "performance": "neutral",
+      "text": "They did it at the low water, after the racks were full.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0049.wav",
+      "textSha256": "5dc93ab4d46d546056f96f6d49a4453cf1eaceb2c775cd545aa531cde57ddf63"
+    },
+    {
+      "index": 50,
+      "performance": "humor",
+      "text": "That was the whole rule of the thing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0050.wav",
+      "textSha256": "081f3559c13f52aeedf4beed6533bfb510177e7c02dc5e9a28e6902646a8daee"
+    },
+    {
+      "index": 51,
+      "performance": "humor",
+      "text": "The families had built the ceremony themselves in his father's aunt's own lifetime, when the children first started waking and nobody had any idea what to do with their hands, and they had put it at the end of the run for a reason his father's aunt gave to every child who asked: we're not going to stand in the river asking the river for anything while we still want fish out of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0051.wav",
+      "textSha256": "6fef64d7ba654681094ca90311cbbdbd4cb1383f4350e06942fe387be31f60f8"
+    },
+    {
+      "index": 52,
+      "performance": "humor",
+      "text": "Which was a joke.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0052.wav",
+      "textSha256": "ba2afb682b2944ed3570caf1a73410523b76bc8a46e161ede159a93a6cd0b756"
+    },
+    {
+      "index": 53,
+      "performance": "humor",
+      "text": "Which was also, like most of what she said, not entirely a joke.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0053.wav",
+      "textSha256": "8da006d35456709db3243150f4f66a8b9ef4772c80c425d5ca894f083f2a80b5"
+    },
+    {
+      "index": 54,
+      "performance": "humor",
+      "text": "So the Kindlings happened in the last week of the smoking, when everyone was tired and everyone smelled like alder smoke and the racks were black with split fish to the far end of the bar",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0054.wav",
+      "textSha256": "6a96c6ea73024aa24e86326344a5ddd8d20d336cb9f07de9a92a642a1c763e58"
+    },
+    {
+      "index": 55,
+      "performance": "humor",
+      "text": ", and the whole business had the feel of a thing tacked onto the end of a good season rather than a solemn occasion arranged in advance.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0055.wav",
+      "textSha256": "6375ce56fbefe9bc90bc4f341eb5f43173a1bb2df64907586a378002975ea2e4"
+    },
+    {
+      "index": 56,
+      "performance": "humor",
+      "text": "Jab had always liked that about it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0056.wav",
+      "textSha256": "33ea93f4adb24cd577d06a1cfe19bec33c4cb4fe9f56af943f1e5b6b7276cee6"
+    },
+    {
+      "index": 57,
+      "performance": "humor",
+      "text": "Nobody had cleaned up.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0057.wav",
+      "textSha256": "b7c4d2ff6d7ec4ba083e2dcf59aadd3d5a17fe7e6f1635fd3451fc0aada60034"
+    },
+    {
+      "index": 58,
+      "performance": "humor",
+      "text": "Nobody was wearing anything special.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0058.wav",
+      "textSha256": "065f867d3e9b2da86b47f6073a88ceb94bc91310f406542363ddbe92621e8d3e"
+    },
+    {
+      "index": 59,
+      "performance": "humor",
+      "text": "His cousin had a fish scale stuck to her cheekbone through the entire thing and did not know, and four people saw it and none of them told her, and that was his people entirely.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0059.wav",
+      "textSha256": "9f18d3c9e31e438409d6186259c1fa252137313bec254dcf14adb6cdfd4fd31f"
+    },
+    {
+      "index": 60,
+      "performance": "neutral",
+      "text": "He went into the water at dusk with his boots in his hand, and he stood out from the bar until the water was over his knees, and he turned around to face the bank.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0060.wav",
+      "textSha256": "dfd5ef532fd0639b0feb55c02ce725e85fb2e1b2998d1651bfe3356f98eac819"
+    },
+    {
+      "index": 61,
+      "performance": "neutral",
+      "text": "The water was moving fast, and the rule was that you did not move your feet.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0061.wav",
+      "textSha256": "8262b0202dedd085521192b32177f8773882f075718245946c94e433214879ae"
+    },
+    {
+      "index": 62,
+      "performance": "neutral",
+      "text": "Nobody had ever explained that rule.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0062.wav",
+      "textSha256": "c9b5c505be04184de6fad89d3d8498f775799ff1e73f971b68e3af35d4bab097"
+    },
+    {
+      "index": 63,
+      "performance": "neutral",
+      "text": "He had watched nine Kindlings before his own and had worked it out for himself, the way a person worked out most things at home: the river went by at a walking pace and the gravel rolled under your soles",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0063.wav",
+      "textSha256": "2f1dfee4d80ff4487cc9c1948536bb0ca05a600a5e101d2cf9ba026ec1bdefe8"
+    },
+    {
+      "index": 64,
+      "performance": "neutral",
+      "text": "and after a minute your whole body began to insist, quietly and then loudly, that you were the thing moving, and the bar and the houses and everyone standing on it were going past you upstream.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0064.wav",
+      "textSha256": "69dd1c5504f35a6a2b9e7eb2d4cc7d27515117e30c40bd156a76fab20aa589d0"
+    },
+    {
+      "index": 65,
+      "performance": "neutral",
+      "text": "It was the strangest feeling he had ever had.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0065.wav",
+      "textSha256": "90bf6106aa029ede062177bc5a6bb81d69a30678ccccfae584b4734f37df1e64"
+    },
+    {
+      "index": 66,
+      "performance": "neutral",
+      "text": "It was also, he had thought at the time, a very efficient way of finding out whether a boy would keep his feet when he had been told to.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0066.wav",
+      "textSha256": "62a0c94e01f1838427be21a67bc69318370e12fee2442f9a2b43542798435bb7"
+    },
+    {
+      "index": 67,
+      "performance": "neutral",
+      "text": "The bar was full.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0067.wav",
+      "textSha256": "b668ff510572d9cab30f443a1ce405238bea195636d11da01870cc55d4f2c93a"
+    },
+    {
+      "index": 68,
+      "performance": "neutral",
+      "text": "There were perhaps sixty people on it, standing in no order at all, with the smoke from the racks lying flat along the water behind them",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0068.wav",
+      "textSha256": "1d48ca523d207e121d67330e0ca02c4724c10184ef9e90ffe1e3f10c77ecbb81"
+    },
+    {
+      "index": 69,
+      "performance": "neutral",
+      "text": ", and a dog going up and down the line hoping.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0069.wav",
+      "textSha256": "01959dc647aba6bbbc5f0dabbe00c5b1b05e71060e1db43926bfb2246c8a8344"
+    },
+    {
+      "index": 70,
+      "performance": "neutral",
+      "text": "\"Put it in,\" said his father's aunt, from the bank.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0070.wav",
+      "textSha256": "78ece754b6d97c22a8f80dadc4fda71a8c0eba7335ac8580f021de1a98fbe210"
+    },
+    {
+      "index": 71,
+      "performance": "neutral",
+      "text": "Jab took out the thing he had brought.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0071.wav",
+      "textSha256": "0be369b9b4592d6aa8e85388b6e17d70a7ae113c31a4596b042c25891b2149f0"
+    },
+    {
+      "index": 72,
+      "performance": "neutral",
+      "text": "He had made a whistle-hook \u2014 a bone fish hook, cut and filed and burnished over two months from a leg bone of a deer he had helped take, with a shank fine enough to hold a line and a barb he had got, on the ninth try, actually right.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0072.wav",
+      "textSha256": "0a9aa0f3c8a59bfe3ff528c989ede1dda217c2215b07f02a3783f381c3b7387b"
+    },
+    {
+      "index": 73,
+      "performance": "neutral",
+      "text": "It was the first thing he had ever made that a grown person had asked to look at twice.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0073.wav",
+      "textSha256": "40f55141a0a55bd06e3d3c2a522ecc7d60b54f99d3f773e127933e9f4d5f70c1"
+    },
+    {
+      "index": 74,
+      "performance": "neutral",
+      "text": "His father had turned it over in his fingers and said hm and handed it back and said nothing else, and Jab had walked on air for three days.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0074.wav",
+      "textSha256": "ee8a0a07facd2d47b674430c68b7216525df8396a7ab652c0ab473dee4c14590"
+    },
+    {
+      "index": 75,
+      "performance": "neutral",
+      "text": "The rule was that you gave the water something you had made and would rather keep.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0075.wav",
+      "textSha256": "a95dbe9318cbb2adc3f6b932d5b28195f052eace36aa23d98a3302392ffa7796"
+    },
+    {
+      "index": 76,
+      "performance": "neutral",
+      "text": "You did not burn it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0076.wav",
+      "textSha256": "2a4ec2a5c9370ef283b428241bb0b4c9f834760586a3d34d0990e9f87afed3ac"
+    },
+    {
+      "index": 77,
+      "performance": "neutral",
+      "text": "You did not lay it down somewhere it could be found later.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0077.wav",
+      "textSha256": "6edd5cab44d687bc17db25b4cd4e6e22db8cf000bb9dfcd8c1df96432d917130"
+    },
+    {
+      "index": 78,
+      "performance": "neutral",
+      "text": "You put it into moving water, where it would go on going and never be yours again.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0078.wav",
+      "textSha256": "f3e83f9a41c7eadc0c0c25700933bd5587f4ef19dddd7f90abe78de6a2619048"
+    },
+    {
+      "index": 79,
+      "performance": "neutral",
+      "text": "He had asked his mother, once, what the point of that was.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0079.wav",
+      "textSha256": "9a446f8939b731ce791f04e7e829bdf02702e483bc4871b6978f9990ea4f5551"
+    },
+    {
+      "index": 80,
+      "performance": "neutral",
+      "text": "She had been scraping a hide at the time and had not looked up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0080.wav",
+      "textSha256": "9fb0322f8e0f5cf41f2969780955cc5215fb7b0e403abe373e72d09915811f98"
+    },
+    {
+      "index": 81,
+      "performance": "neutral",
+      "text": "If you give away a thing you don't want, she had said, the only thing you've learned is that you can count.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0081.wav",
+      "textSha256": "81d752ab7833f96f67422abbb514567d6048d2a5ffd11701d66bb1392c20e493"
+    },
+    {
+      "index": 82,
+      "performance": "neutral",
+      "text": "He held the hook under the water and opened his hand.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0082.wav",
+      "textSha256": "a7b2deb4455587ce79702b8e6b8d3b43f23b05cee6fb4cb6183602ac0df0f2d4"
+    },
+    {
+      "index": 83,
+      "performance": "grief",
+      "text": "It went.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0083.wav",
+      "textSha256": "d2632f4ff01d45fc0ee79b6b94d4eb07eaa785babc0bf46a91ca56cf137c3b64"
+    },
+    {
+      "index": 84,
+      "performance": "grief",
+      "text": "He did not see it go.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0084.wav",
+      "textSha256": "d3fb9ebf99945a3b898e9021161824bc1a58cbe8aa182c55a7ab17825576257c"
+    },
+    {
+      "index": 85,
+      "performance": "grief",
+      "text": "There was no moment where it was visible and then was not; there was only a hook in his fingers and then cold water running through",
+      "pauseAfterMs": 340,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0085.wav",
+      "textSha256": "04ea9878aef810ebe232d15c15ed218326412744d83c7768ab029b91f5da9745"
+    },
+    {
+      "index": 86,
+      "performance": "grief",
+      "text": "empty fingers",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0086.wav",
+      "textSha256": "6d78a7012e73e8bc1104c946f79b0bbf0bc719872dfd2bc8a4bf6c9335ac3bc2"
+    },
+    {
+      "index": 87,
+      "performance": "grief",
+      "text": ", and a small unreasonable lurch under his ribs that he had not been prepared for at all.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0087.wav",
+      "textSha256": "7a273bda2924467a975543d14d52126a1843e23b860d77edcb01318b66a5075f"
+    },
+    {
+      "index": 88,
+      "performance": "neutral",
+      "text": "\"Good,\" said his father's aunt.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0088.wav",
+      "textSha256": "8730c9be0c6c775b36ac2828999948eecd4f9f67ccaac6e1dbe943dd0af758c3"
+    },
+    {
+      "index": 89,
+      "performance": "neutral",
+      "text": "\"Now.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0089.wav",
+      "textSha256": "b7bb73c59e8c7b246d8d325c7981278714b338e39c0c17cd2d4386ab958fbc4c"
+    },
+    {
+      "index": 90,
+      "performance": "neutral",
+      "text": "She turned her back on him.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0090.wav",
+      "textSha256": "b12b51e76232ba7678e3fe1082fac5185a8a6aade599fe31f0bfc1925d086cf0"
+    },
+    {
+      "index": 91,
+      "performance": "neutral",
+      "text": "That was the part of it he had not been able to picture beforehand, no matter how many he had watched \u2014 the moment when the person on the bank turns away from the boy in the water and faces the people",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0091.wav",
+      "textSha256": "c92dfd9879980a27d6c68956e4a590cf50dcce3e5c4c5a62192ec9e73d9ee494"
+    },
+    {
+      "index": 92,
+      "performance": "neutral",
+      "text": ", and the boy stands out there in the cold with nobody looking at him.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0092.wav",
+      "textSha256": "cb8fdfd1c25b174f72538be3ddf76056acc62c79f2d0b5da2b18d8a45ad3b2e0"
+    },
+    {
+      "index": 93,
+      "performance": "neutral",
+      "text": "\"Whose hands are those?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0093.wav",
+      "textSha256": "bd035be4fe60790785f9065442fc4c6d32e932d162f213353659b4dbec526d33"
+    },
+    {
+      "index": 94,
+      "performance": "neutral",
+      "text": "she said, to the bar.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0094.wav",
+      "textSha256": "bfad769c6d8d187fd68807ee30f1d8382bc5020cc2ac626e72a7b4360afa4262"
+    },
+    {
+      "index": 95,
+      "performance": "neutral",
+      "text": "And they answered her.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0095.wav",
+      "textSha256": "7d9cc7b3a8ded88533712078176e554f952d8786fb6bb7b9c41325de7844ba02"
+    },
+    {
+      "index": 96,
+      "performance": "neutral",
+      "text": "\"Mine,\" said his mother.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0096.wav",
+      "textSha256": "0db54b5e93d0e9fba807e7f3d22e4a8664a36a487319cfe57ce1fe77a0e0c3a3"
+    },
+    {
+      "index": 97,
+      "performance": "neutral",
+      "text": "\"I taught him to lash.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0097.wav",
+      "textSha256": "fdb9c14e2cc64a93e6eded7fce2fa4b32751e705bad0c4a269ce39f976a4d051"
+    },
+    {
+      "index": 98,
+      "performance": "neutral",
+      "text": "He lashes tight and he doesn't cut his cords long enough.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0098.wav",
+      "textSha256": "5798c12a1284cd8499c94b652d5a2ed081b67b20f529dbd3b17616df0a84a176"
+    },
+    {
+      "index": 99,
+      "performance": "neutral",
+      "text": "\"He does not,\" said somebody else, agreeing, and there was laughing.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0099.wav",
+      "textSha256": "ab69e5bb7ce20e281d1c6d16c30b5e37cefe00165420cf6517374402a5fb3cd3"
+    },
+    {
+      "index": 100,
+      "performance": "neutral",
+      "text": "\"Mine,\" said his father.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0100.wav",
+      "textSha256": "15c835d547004acc5b38a6810235e650f64c95f5e012e5e2e7c9bfbbcaeb02f5"
+    },
+    {
+      "index": 101,
+      "performance": "neutral",
+      "text": "\"I taught him the water.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0101.wav",
+      "textSha256": "f116a951f86ece3768930c2638573f06bb34b54cf539da7dbc4153c2819aa8ab"
+    },
+    {
+      "index": 102,
+      "performance": "neutral",
+      "text": "He reads a rapid better than I did at his age and worse than he thinks he does.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0102.wav",
+      "textSha256": "da6002129d337dffda91b2993da814a7005d2d4afd58a556e01e86c20a26731f"
+    },
+    {
+      "index": 103,
+      "performance": "neutral",
+      "text": "\"Mine,\" said his aunt on the smoking side, whose own daughter was the one with the fish scale on her cheek.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0103.wav",
+      "textSha256": "ad04a1a083231022627071df41682cfe02e96a7d387729aab5d46ff557bb9b81"
+    },
+    {
+      "index": 104,
+      "performance": "neutral",
+      "text": "\"I taught him to split.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0104.wav",
+      "textSha256": "ee7186923703c93f4668a0a71a4c051078ac1933dde608cc06664f6fc33f3f65"
+    },
+    {
+      "index": 105,
+      "performance": "neutral",
+      "text": "Two hundred fish before he got one right and then he never got one wrong again, and I want everyone here to understand that I did not tell him he was doing it wrong for the first hundred, because he had to find it, and he has never forgiven me.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0105.wav",
+      "textSha256": "cdcff488caa1a325e89a1fd4be4381b5b3cf4c64e85bf453b2d11c9481d5771f"
+    },
+    {
+      "index": 106,
+      "performance": "humor",
+      "text": "\"I have not,\" Jab called from the water, and that got a bigger laugh than it deserved, and his teeth were chattering by then so it came out in pieces.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0106.wav",
+      "textSha256": "b8027fc61ef89c8829ee04a8a638df7d1b97b11f6d6d7e7d6239e62b0849bde0"
+    },
+    {
+      "index": 107,
+      "performance": "grief",
+      "text": "\"Mine,\" said a man from the far end,",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0107.wav",
+      "textSha256": "5d6564b18c8d7c8edcfd1b38f39ad38cb64d4b83a4bba456e7e13022ac4c6555"
+    },
+    {
+      "index": 108,
+      "performance": "grief",
+      "text": "whose name Jab had gone six weeks now without being able to say aloud without stopping.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0108.wav",
+      "textSha256": "4f7f2a5ce78f451c35d81cfe7d8bf14b8bee9d07f42503c45bdce1e1cfb92686"
+    },
+    {
+      "index": 109,
+      "performance": "grief",
+      "text": "\"I taught him nothing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0109.wav",
+      "textSha256": "ada84bf270323bf44dce2a0e72c053ccc1b32ca976f42a2917f77ec51e310acf"
+    },
+    {
+      "index": 110,
+      "performance": "grief",
+      "text": "He carried wood for me for a winter when my back went and he never once said a word about it, and I want that counted.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0110.wav",
+      "textSha256": "6c9594b4ac35d7d85a40b135781dae3956d966d6b010d75c3c7d8cca871bdf93"
+    },
+    {
+      "index": 111,
+      "performance": "neutral",
+      "text": "\"It's counted,\" said his father's aunt.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0111.wav",
+      "textSha256": "2b4b1d64936da690f3c452e98735ecfdec8051b0b9b60b5b9ee379c4eff08f78"
+    },
+    {
+      "index": 112,
+      "performance": "awe",
+      "text": "It went on.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0112.wav",
+      "textSha256": "4b9aa8c06cf87b9aea4803170641b7edef6fd655310242b47ebb996948a68c19"
+    },
+    {
+      "index": 113,
+      "performance": "awe",
+      "text": "Eleven people, in the end.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0113.wav",
+      "textSha256": "020215aec721c2314def107102edb7682d18e14dd6889dfc7be61c5bdcda844b"
+    },
+    {
+      "index": 114,
+      "performance": "awe",
+      "text": "He had not expected eleven.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0114.wav",
+      "textSha256": "ee53febf54ddcb7f24658442a4660c53cc5616021a8c61cfd804b8ef2ec10e72"
+    },
+    {
+      "index": 115,
+      "performance": "awe",
+      "text": "He had expected his parents and his aunt and perhaps the old man",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0115.wav",
+      "textSha256": "8cf54c278545ea6585088f7787d26b7c350088514e47bd1552d378f60cf913a9"
+    },
+    {
+      "index": 116,
+      "performance": "awe",
+      "text": ", and instead they kept starting up out of the crowd",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0116.wav",
+      "textSha256": "98f9534eddb725febe93ae9f1e71993b1c2ad93a7249b3adf5a25c7d6ff62a27"
+    },
+    {
+      "index": 117,
+      "performance": "awe",
+      "text": ", and one of them was a woman he had only ever spoken to about her dog, and she said, mine, I taught him to swim, and he was a coward about it for one whole summer and then he was not",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0117.wav",
+      "textSha256": "557d95b2ecd83c4a532b7cba9d9347a1cda22f4a07662657bd8c4b37eff55277"
+    },
+    {
+      "index": 118,
+      "performance": "awe",
+      "text": ", and Jab stood in the water with his face burning in the cold and understood, in a way that he had not understood at any point in thirteen years of living among them, how much of him had been put there on purpose by other people's hands.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0118.wav",
+      "textSha256": "379acb79bc8186589b97c5d1cdd0668815a33ce681aae4787da1aceb9f8964d2"
+    },
+    {
+      "index": 119,
+      "performance": "neutral",
+      "text": "\"That's the list,\" his father's aunt said at last.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0119.wav",
+      "textSha256": "b8e1f3e94a529f91cc56ca65ab72521424c059b8802c056acdc12290ffac1a23"
+    },
+    {
+      "index": 120,
+      "performance": "neutral",
+      "text": "\"Come here, then.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0120.wav",
+      "textSha256": "0656008278433c9df3c109af4377d28f148fd9123e53d5fa82af3e84fa24dbc0"
+    },
+    {
+      "index": 121,
+      "performance": "humor",
+      "text": "He came up out of the water onto the gravel with his legs gone, and the wind found him",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0121.wav",
+      "textSha256": "9a6f8059d74b97afb8256ec47c4c5a06a42d073ef50ab91cf23541791e5d2dd8"
+    },
+    {
+      "index": 122,
+      "performance": "humor",
+      "text": ", and somebody's blanket came around his shoulders from behind",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0122.wav",
+      "textSha256": "6642b439373ffa2d66148bf6d55b1efd361a719d6183b9d8f63933eeaa0f1e00"
+    },
+    {
+      "index": 123,
+      "performance": "humor",
+      "text": "and was taken away again immediately by his father's aunt, who said the boy needed to be cold for this next part, and then muttered that she did not know why, it was just how they'd always done it, which was a thing she said about a custom she had personally invented eighteen years earlier.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0123.wav",
+      "textSha256": "fa56dbc128f3924e95eb92bb8797b32ff700182564fc3765ce006ab95861beb2"
+    },
+    {
+      "index": 124,
+      "performance": "neutral",
+      "text": "She had the metal in her fist.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0124.wav",
+      "textSha256": "e213d284993bdf93bcbd67791b4694cbd5fe1cdf0939b64cf85106c67fa5c325"
+    },
+    {
+      "index": 125,
+      "performance": "neutral",
+      "text": "It had come down her line \u2014 her mother's, and before that a man nobody could name, and it had been found on a bar the way all of theirs were found, and worked smooth over two winters by somebody's thumb and a piece of sandstone until it was a shape a person could stand to hold.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0125.wav",
+      "textSha256": "a272ee563fcf80f55fff9a4a4490b3437a281de5befe7bc8296c943ee5d398e2"
+    },
+    {
+      "index": 126,
+      "performance": "neutral",
+      "text": "Not forged.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0126.wav",
+      "textSha256": "b1b134d8333185bb1237887f56d91d469e1974b7b7649611395aa22a76642fdf"
+    },
+    {
+      "index": 127,
+      "performance": "neutral",
+      "text": "Not made into anything.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0127.wav",
+      "textSha256": "100e43d730942445a98846a167ba11993a6ada4d09409b35361e86b3e48a2072"
+    },
+    {
+      "index": 128,
+      "performance": "neutral",
+      "text": "Their people did not make these into tools.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0128.wav",
+      "textSha256": "d9dbb34cc6130fd4149b6a392f8e6df65f74b22b9efffd71f4ac64bd8b55f865"
+    },
+    {
+      "index": 129,
+      "performance": "neutral",
+      "text": "You found the metal, and you wore the sharpness off it, and you kept it in a box with the other things a house had no use for and could not throw away.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0129.wav",
+      "textSha256": "93d91f5803a43b1d9c87d7b0291c7d3c4a3005c1aa4add71600c5c15bf881670"
+    },
+    {
+      "index": 130,
+      "performance": "neutral",
+      "text": "\"Your grandmother had this and used it twice in her life,\" his father's aunt said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0130.wav",
+      "textSha256": "73655d3fc2d27ac0dd67af624429510e6c8da58b7f7d49244866dea751c80587"
+    },
+    {
+      "index": 131,
+      "performance": "neutral",
+      "text": "\"Once to open a jam at the narrows, and once for a reason she never told me.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0131.wav",
+      "textSha256": "ac0f38e33f0e67133f45bf1fdfb83087f02573dc2ddae7bfc7b7491d5cb8fd02"
+    },
+    {
+      "index": 132,
+      "performance": "neutral",
+      "text": "Open your collar.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0132.wav",
+      "textSha256": "3c8098c26aa69a2f4d5ef8f0da877c1a971dfb8aca70e6e8034ffa3caa961ed5"
+    },
+    {
+      "index": 133,
+      "performance": "neutral",
+      "text": "He opened his collar.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0133.wav",
+      "textSha256": "87540d3a1b0378364a8b1a6dbc4b86321019aaf51aa83b183b03cbb3cb0bb12d"
+    },
+    {
+      "index": 134,
+      "performance": "neutral",
+      "text": "She set it flat against his breastbone, dead center, and covered it with her palm.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0134.wav",
+      "textSha256": "df5d6b55f13161b3132cb677ea614a9ec61f6899ece5dc9949a6d5ced34d5dd3"
+    },
+    {
+      "index": 135,
+      "performance": "neutral",
+      "text": "\"Breathe out,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0135.wav",
+      "textSha256": "aeb1306986a5cd522c24463146c7eac8ea48cf73aaf53ea1f1cd96c080165a63"
+    },
+    {
+      "index": 136,
+      "performance": "neutral",
+      "text": "\"All the way.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0136.wav",
+      "textSha256": "574c0cc8d6c717ceda4f5a0a0fa08b5d387289becce0f9e95636efe688136920"
+    },
+    {
+      "index": 137,
+      "performance": "neutral",
+      "text": "Then don't.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0137.wav",
+      "textSha256": "c591a27ef293dc0803712c932a2f71d9117aebf9de51573768163076fa595acd"
+    },
+    {
+      "index": 138,
+      "performance": "neutral",
+      "text": "He breathed out all the way, and then did not, and stood there on the gravel with the whole bar quiet behind her and the river going by and his father's aunt's dry hand pressing a cold stone into his chest.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0138.wav",
+      "textSha256": "ef5b6cee33e6972d6d28c64aac8212b4d26815ef6972cf6303ff530a5cd2730b"
+    },
+    {
+      "index": 139,
+      "performance": "neutral",
+      "text": "She held it a long time.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0139.wav",
+      "textSha256": "afcf0355ab22398c6c9b5044c3323edd90b459bdd709d9dc035e47555470c5f6"
+    },
+    {
+      "index": 140,
+      "performance": "neutral",
+      "text": "That was hers to judge and nobody else's, and she had a reputation for holding it longer than anyone thought reasonable, and he had heard his own father complain about it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0140.wav",
+      "textSha256": "c9094f896f4381bd98ad63ab2cd9a29213ff4358741728e29f584c2bfa723140"
+    },
+    {
+      "index": 141,
+      "performance": "neutral",
+      "text": "The dark came up out of the trees on the far bank.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0141.wav",
+      "textSha256": "b3277f003c698953e821bf3eec4cdcddeafb9ed7f91faf20ef2ab835272d15bf"
+    },
+    {
+      "index": 142,
+      "performance": "neutral",
+      "text": "His chest began to hurt for air and he let it hurt, because the one thing every boy on that bar knew was that the person who took the breath back too early had to stand there and take it again.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0142.wav",
+      "textSha256": "f9b940ba80ac6d1fffffab0382ee19c32a47ea72e6bdff8772506ab9b2088ac6"
+    },
+    {
+      "index": 143,
+      "performance": "awe",
+      "text": "And then",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0143.wav",
+      "textSha256": "acbb5a5a1753ee10958eed62e1d34916377b3d724153d25b70f11efa147d5948"
+    },
+    {
+      "index": 144,
+      "performance": "awe",
+      "text": "the metal got warm.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0144.wav",
+      "textSha256": "6ad21c6c74a2829c9322c9c37975874db3d9386a25cdfb2f6c41e9debea47533"
+    },
+    {
+      "index": 145,
+      "performance": "awe",
+      "text": "It was not large.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0145.wav",
+      "textSha256": "c60dd2241e29561a40bbd159613329bb7169b7ecbc84c2b7a2fccf67c3b7a5e9"
+    },
+    {
+      "index": 146,
+      "performance": "awe",
+      "text": "That was the part he had never once been told and later told everyone \u2014 a warmth the size of a coin, low, under the breastbone and a finger's width behind it, in a place he had gone thirteen years without having any reason to notice.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0146.wav",
+      "textSha256": "de0839fe20a600efa69ce6a2771198cb3de9b432452719c407b370c92c5c677e"
+    },
+    {
+      "index": 147,
+      "performance": "awe",
+      "text": "Then a second warmth started up in his hand, the right one, down in the meat of the palm.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0147.wav",
+      "textSha256": "a54484319681f0b0151da35a01e7e1428e9558026ca284b050840049c1465564"
+    },
+    {
+      "index": 148,
+      "performance": "awe",
+      "text": "And then, with no gap between the two things at all, came the knowing: those were not two warmths.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0148.wav",
+      "textSha256": "d2b712ee22a78e3b5bcbf1b6e8aabf466bace04d3531edc745d9ab5c26504b43"
+    },
+    {
+      "index": 149,
+      "performance": "awe",
+      "text": "They had never been two.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0149.wav",
+      "textSha256": "1b2acd7d5bad9d372182b878df34be737264a621e6176d6dca37d6481be74704"
+    },
+    {
+      "index": 150,
+      "performance": "awe",
+      "text": "They were one warmth that had been in him the whole time, and the only new thing in the world was that they were now in the same room and could see each other.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0150.wav",
+      "textSha256": "f7548f5e79ba24eb87ada0ead077cb9bdedc76542dc463eafbe0bf1ba41c0ca3"
+    },
+    {
+      "index": 151,
+      "performance": "neutral",
+      "text": "His father's aunt took her hand away.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0151.wav",
+      "textSha256": "773d8c9e716c7de7c8a7d0b6232df6fa593bc73c579f6c4a48e19bdb90ee85f1"
+    },
+    {
+      "index": 152,
+      "performance": "neutral",
+      "text": "\"There,\" she said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0152.wav",
+      "textSha256": "96b65f90349ea0256690c3ed743ed021d633e97af5405dd603c44b76eacbba0f"
+    },
+    {
+      "index": 153,
+      "performance": "neutral",
+      "text": "Jab took his breath.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0153.wav",
+      "textSha256": "c41cdf061e543ab06f0985ff2aeacbc6185639de60f95af6d3211467fec47c68"
+    },
+    {
+      "index": 154,
+      "performance": "neutral",
+      "text": "And his arm came up without his permission at all.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0154.wav",
+      "textSha256": "c9ace3105abe9e8cf937a04e67e53fb40a4062b4ab92607b1b61d51423fcfee7"
+    },
+    {
+      "index": 155,
+      "performance": "neutral",
+      "text": "The metal came off his chest.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0155.wav",
+      "textSha256": "f2c3a6d6be8b9db55b49870eb7cb9bb35119042bfb359cbe9b6fb6674b80ff93"
+    },
+    {
+      "index": 156,
+      "performance": "neutral",
+      "text": "He felt it go \u2014 not fall, not slide; it ran, down the inside of his shirt and along his forearm like water going uphill, and it arrived on the back of his fist and stopped and thickened and took a shape.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0156.wav",
+      "textSha256": "1933e6c99073c6c39a6c31c972afe63a723e19e76b291d7e238c9cb77047f893"
+    },
+    {
+      "index": 157,
+      "performance": "neutral",
+      "text": "He looked down expecting his father's.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0157.wav",
+      "textSha256": "fd100f613101d34012ada48d52d267c834242baf67575dfbd7fc128fc0946e8a"
+    },
+    {
+      "index": 158,
+      "performance": "neutral",
+      "text": "He had watched his father's blade his whole life.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0158.wav",
+      "textSha256": "be0bd702404efad4d94205958ee07fc38e90ee66d185f2945d233d2f42aa3997"
+    },
+    {
+      "index": 159,
+      "performance": "neutral",
+      "text": "It was long and straight and narrow and came out in half a heartbeat and his father could hold it through an entire afternoon on the jam without appearing to think about it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0159.wav",
+      "textSha256": "ba8c882d275da69b97ca8efd6f7ea938e9a7759f9ca6bbf9cce94a43d7f92651"
+    },
+    {
+      "index": 160,
+      "performance": "humor",
+      "text": "What Jab had was a fish knife.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0160.wav",
+      "textSha256": "4896424ac4d86adf89746498348c1f159c801d7271b70c5a89361932cf6398d0"
+    },
+    {
+      "index": 161,
+      "performance": "humor",
+      "text": "A heavy, thick-spined, fat-bellied fish knife with a hook on the end, the exact shape of the one hanging on a nail in their house that his mother had been complaining about for six years.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0161.wav",
+      "textSha256": "df63904115a28f0d4d1e3a98af9b5460e20412118a0e6e10e716830e1335c147"
+    },
+    {
+      "index": 162,
+      "performance": "humor",
+      "text": "It came off his knuckles at no angle a person would choose.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0162.wav",
+      "textSha256": "44c671ca0b47c43db6ffde538d7aae719d843a261047e17f734ba968648da414"
+    },
+    {
+      "index": 163,
+      "performance": "humor",
+      "text": "It was about as handsome as a door hinge.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0163.wav",
+      "textSha256": "1cddbf23dfee08ae2196e0a5f3ef81164907613be05a65a6b1352bd1005479a2"
+    },
+    {
+      "index": 164,
+      "performance": "humor",
+      "text": "\"That's a fish knife,\" said his aunt from the smoking side, immediately, into a silence.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0164.wav",
+      "textSha256": "73d5da675fb44d09e5ad9f95126359f98fb1ecd9cead050f311078e500ba3d77"
+    },
+    {
+      "index": 165,
+      "performance": "humor",
+      "text": "\"It is not,\" said his mother.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0165.wav",
+      "textSha256": "385d625fa990e91df9133222e1e63e284e35742d09fa32dee8ffdab486a7fcd2"
+    },
+    {
+      "index": 166,
+      "performance": "humor",
+      "text": "\"It is a fish knife.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0166.wav",
+      "textSha256": "adf4ed283a50f0e940644dc6176d7641d769980a9541bfe74153cda9ddea0257"
+    },
+    {
+      "index": 167,
+      "performance": "humor",
+      "text": "I have used that knife.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0167.wav",
+      "textSha256": "8cd70161e0a0be2a5adf6a2adfeac3e5a6932432a30ff89a45e9e9e614452666"
+    },
+    {
+      "index": 168,
+      "performance": "humor",
+      "text": "That is the knife.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0168.wav",
+      "textSha256": "f504949cd2b1333eb30d69fcbc92538e5a80f12a20ba6dbd735099fd83059f29"
+    },
+    {
+      "index": 169,
+      "performance": "neutral",
+      "text": "And then the light came.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0169.wav",
+      "textSha256": "e51d9feb84f4368ad29f52a99558a00adc31132a8efe7149f489b1f54aa9c50b"
+    },
+    {
+      "index": 170,
+      "performance": "fear",
+      "text": "He did not call it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0170.wav",
+      "textSha256": "aad9d1b72c49730548b4842d2d97425453c51a48349d06706dbb66ae232dea07"
+    },
+    {
+      "index": 171,
+      "performance": "fear",
+      "text": "Nothing about it was his idea.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0171.wav",
+      "textSha256": "ccb257488b46b3ee1849def055d97f96ea89613da5511213236f8da6956c2b03"
+    },
+    {
+      "index": 172,
+      "performance": "fear",
+      "text": "A line woke up along the working edge and ran outward from his hand, thin as a hair and the low amber color of a coal with ash on it \u2014 and two-thirds of the way along, at the fat part of the belly, it stuck.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0172.wav",
+      "textSha256": "a01f953b274335be0b2001807414d8bd28d07e936d52e7880334f4df7e934ad1"
+    },
+    {
+      "index": 173,
+      "performance": "fear",
+      "text": "It guttered there.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0173.wav",
+      "textSha256": "cfd94ad5b05d205daa2d754b6699fbcd18bba4656a19faf728dd5f719e4a6588"
+    },
+    {
+      "index": 174,
+      "performance": "fear",
+      "text": "It went out and came back and went out, three times, at that one curve, while sixty people watched",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0174.wav",
+      "textSha256": "cee97769ece723bde7536014f6df848851c5eab878884b51c057aa9ecb43240d"
+    },
+    {
+      "index": 175,
+      "performance": "fear",
+      "text": ", and Jab's whole face went hot and he thought, with total clarity,",
+      "pauseAfterMs": 340,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0175.wav",
+      "textSha256": "670266bdb73e24b500fe124deab78787672749a68cc5c498992209e54da1b71d"
+    },
+    {
+      "index": 176,
+      "performance": "fear",
+      "text": "it can't even do it properly.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0176.wav",
+      "textSha256": "7ff2f10466108463cc812244a5e699ab1b44518a4f67df16726e8f88d6e6bbde"
+    },
+    {
+      "index": 177,
+      "performance": "neutral",
+      "text": "Then it caught, and ran the rest of the way, and lit the hook at the end.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0177.wav",
+      "textSha256": "16f55011e333cb72738bd622d39cfe8c4424d6f4181920653422f75c4482528c"
+    },
+    {
+      "index": 178,
+      "performance": "neutral",
+      "text": "And out on the water, ten feet in front of him, a narrow amber line lay on the surface of the river and went with it, downstream,",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0178.wav",
+      "textSha256": "ab46718a7179c28e7b733ca5bb92036ba1e427f3d99db4ed6979c4b778865787"
+    },
+    {
+      "index": 179,
+      "performance": "neutral",
+      "text": "not staying where it was put.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0179.wav",
+      "textSha256": "e9643eee5224de3eccd1a334640cf963cf43c112bf8bbc949eac4c32328c55d6"
+    },
+    {
+      "index": 180,
+      "performance": "neutral",
+      "text": "Somebody made a sound.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0180.wav",
+      "textSha256": "87c6116b79a849f0bad5d801e86c1659b10c2d0d1ca73348bf3009039a797230"
+    },
+    {
+      "index": 181,
+      "performance": "neutral",
+      "text": "Somebody else said a word.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0181.wav",
+      "textSha256": "feb2f80c322cb5a69dc7ceb482f022b212186e3d1e126ca6c800a3bd8cbb3218"
+    },
+    {
+      "index": 182,
+      "performance": "neutral",
+      "text": "His cousin, who was nine, said \"Oh\" in a voice that made half the bar laugh for the wrong reason.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0182.wav",
+      "textSha256": "6b25425b98ad29fb3aee891565146cf8a4892dafd925d151107cf8b75522ce76"
+    },
+    {
+      "index": 183,
+      "performance": "care",
+      "text": "And from a carrying frame on his mother's back, where he had been asleep through the entire business,",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0183.wav",
+      "textSha256": "e6541ff0df5c288842b513d0444fd0eed43e65b04151f4708a677788da56c4be"
+    },
+    {
+      "index": 184,
+      "performance": "care",
+      "text": "his brother woke up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0184.wav",
+      "textSha256": "2ee390ddbebd5f11b08feff3a2b36ad822f635f65cc83a23a6d2e38a6f8db051"
+    },
+    {
+      "index": 185,
+      "performance": "care",
+      "text": "Tonk was ten months old.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0185.wav",
+      "textSha256": "262f34693fd85a6a1109ef321606e6fcc8afcea89e7e9e7403cd4694d900feb6"
+    },
+    {
+      "index": 186,
+      "performance": "care",
+      "text": "He had two teeth and no opinions about anything except being put down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0186.wav",
+      "textSha256": "b43c4b44a34baf8645f6b87afe03df35d8e68d1ab82b31bc5242ef8f23008d42"
+    },
+    {
+      "index": 187,
+      "performance": "care",
+      "text": "He came awake at the light and stared at it over their mother's shoulder with his mouth open",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0187.wav",
+      "textSha256": "71208bc41742e08e8fed3a63814006f0119f09f61cf784f90766d36fa3e52116"
+    },
+    {
+      "index": 188,
+      "performance": "care",
+      "text": ", and then he reached for it \u2014 one fat hand out into the air, grabbing, the way he grabbed at the fire and the smoke and the rain and everything else that had ever been beautiful and bad for him \u2014 and he laughed.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0188.wav",
+      "textSha256": "121f2bd5713490423923216a5050f2a5d7f937e6d5715b2654d1773aca9a58d2"
+    },
+    {
+      "index": 189,
+      "performance": "care",
+      "text": "That was the sound Jab remembered.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0189.wav",
+      "textSha256": "945dfb38cb8d00cf85543fe9c9a3a84f55ebeb0b28ca983139c8d3b91793a68d"
+    },
+    {
+      "index": 190,
+      "performance": "care",
+      "text": "Not the men, not his aunt, not the word somebody said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0190.wav",
+      "textSha256": "9ab675dd3db407871a66948b1d0f3d3c9b7d0942797570c0c17aef32e587c082"
+    },
+    {
+      "index": 191,
+      "performance": "care",
+      "text": "His brother laughing at his ugly blade across ten feet of gravel at dusk.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0191.wav",
+      "textSha256": "c0a627210f2c0120a8055c1d6fc2feee4298e07895394a95050ed509d05b3e0c"
+    },
+    {
+      "index": 192,
+      "performance": "neutral",
+      "text": "His father came over.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0192.wav",
+      "textSha256": "d9887c8131bdbf6de74173c3a9ed60f043e9d6d94b944f3c4053bf61482ab997"
+    },
+    {
+      "index": 193,
+      "performance": "neutral",
+      "text": "He did not say anything about the shape, and he did not say anything about the light, and Jab, who had been braced for both, found he could not read him at all.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0193.wav",
+      "textSha256": "bcd34749c1925204182ed4a2b25f5bfedd2dda3690f7772e39f83d49159e7639"
+    },
+    {
+      "index": 194,
+      "performance": "neutral",
+      "text": "His father picked up Jab's wrist and turned the blade over in the air",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0194.wav",
+      "textSha256": "0866f51c905eaca54c8bbbfc22a2f9d996cbd5fbc460b386ad2131a98b28ae0d"
+    },
+    {
+      "index": 195,
+      "performance": "neutral",
+      "text": ", looking down the length of it the way he looked down a pole he was thinking of cutting.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0195.wav",
+      "textSha256": "577f0eaeb74b28020d356af03b536e4f76f794ae99335efa79486e9891e3e01d"
+    },
+    {
+      "index": 196,
+      "performance": "neutral",
+      "text": "\"Hm,\" he said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0196.wav",
+      "textSha256": "dd1234917276280f4964436da84fa84a2422d051823d172cd9bc003a0808c16b"
+    },
+    {
+      "index": 197,
+      "performance": "neutral",
+      "text": "\"It's a fish knife,\" Jab said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0197.wav",
+      "textSha256": "1973ae8fd9f7ee86848d9035f3b7b484b1561f517d156adf463b6c9bbf593878"
+    },
+    {
+      "index": 198,
+      "performance": "neutral",
+      "text": "His voice cracked in the middle of it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0198.wav",
+      "textSha256": "ded8967e66638bda9e48dec5a8305e928e8fbde0ecfc6dbc525017372040abee"
+    },
+    {
+      "index": 199,
+      "performance": "care",
+      "text": "\"It's a working shape.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0199.wav",
+      "textSha256": "09322ce84a0cbb2e53da533f1bbdf36746fc53b549bc406765ebbe91ea62d478"
+    },
+    {
+      "index": 200,
+      "performance": "care",
+      "text": "His father set the wrist down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0200.wav",
+      "textSha256": "4d6ae8ea4387352a56f3699e1e229e83e246ab1313b145a6cfe4a3a289734430"
+    },
+    {
+      "index": 201,
+      "performance": "care",
+      "text": "\"You know what that belly's for?",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0201.wav",
+      "textSha256": "809a9b8226ecb5cf464bdef143457da9d42f9f7ed6b8c944afd78098bd3806f7"
+    },
+    {
+      "index": 202,
+      "performance": "care",
+      "text": "It's for when you can't get behind a thing and you have to cut it from the side.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0202.wav",
+      "textSha256": "0669522dd5a296868646ad8d47a7f06c57ae310566055d0c615db1d2f2416efe"
+    },
+    {
+      "index": 203,
+      "performance": "care",
+      "text": "It's for wet wood.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0203.wav",
+      "textSha256": "49743244d01e31e22e33b7107df0e9eaefd00089203fe8351c93bd0fde67eb08"
+    },
+    {
+      "index": 204,
+      "performance": "care",
+      "text": "It's for a rope under tension, which will take a straight blade away from you and give it back in the water.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0204.wav",
+      "textSha256": "444d7e1f6135ac83b5940e114231a8d655ac48701d7ed06f463ee8e5cb3f5895"
+    },
+    {
+      "index": 205,
+      "performance": "care",
+      "text": "He put his hand flat on the top of Jab's head, once, briefly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0205.wav",
+      "textSha256": "fae5bc828f8f86c02fe703eac86abdc56475ae438b840a9bb41e0cf7ba8a278a"
+    },
+    {
+      "index": 206,
+      "performance": "care",
+      "text": "\"Mine came out like a nail.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0206.wav",
+      "textSha256": "1dad38b89a395ee20dc6f823713d85a51bd61c394080e78e2db551bb98a7e013"
+    },
+    {
+      "index": 207,
+      "performance": "care",
+      "text": "It took me two years to make it into anything, and I'll tell you what I got for those two years: a blade that is very good at going into things and no good at all at coming out of them.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0207.wav",
+      "textSha256": "477448164b9d33337c9f6742e2735b0f7d383790970ae428f51ffb43ea55fff5"
+    },
+    {
+      "index": 208,
+      "performance": "neutral",
+      "text": "\"Yours is better than mine.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0208.wav",
+      "textSha256": "2a5a183b3f9e897279c145dc9223f481dd10f28053b93f66f3c59ebf75b2a8ea"
+    },
+    {
+      "index": 209,
+      "performance": "humor",
+      "text": "\"Mine's prettier than yours,\" his father said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0209.wav",
+      "textSha256": "25a8a977a0428562d98f7093d1ca8b1a2d9211d3d65ee305238bab591d11a646"
+    },
+    {
+      "index": 210,
+      "performance": "humor",
+      "text": "\"Come and eat.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0210.wav",
+      "textSha256": "2952a61555502d2289c9d827f101c9d5c8df7defc339a00c6aae21aebaaded7a"
+    },
+    {
+      "index": 211,
+      "performance": "humor",
+      "text": "You've gone a color.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0211.wav",
+      "textSha256": "3f16acf3df121cb7896ac173905b87694ae9b1cfa5fbcc61beffbdbccae3d838"
+    },
+    {
+      "index": 212,
+      "performance": "care",
+      "text": "And his mother, who had come up with Tonk still reaching over her shoulder, and who had not said anything at all yet, leaned in past him and looked at the blade for a long moment",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0212.wav",
+      "textSha256": "84bff1683e15910691fe1248f857aea1977f5417c3bb6f1c35a74312fc7813bc"
+    },
+    {
+      "index": 213,
+      "performance": "care",
+      "text": ", and then said the only thing anybody said that night that Jab had kept whole and unworn for four years:",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0213.wav",
+      "textSha256": "e8a20089390edb6b5daf987bc8de1f4d36d0cadbcbcb40c9fd98e0999a18e40d"
+    },
+    {
+      "index": 214,
+      "performance": "care",
+      "text": "\"Well, it looks like you,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0214.wav",
+      "textSha256": "948ce109b048d53405f844aed02005fa1cb11c91f7710a5fe4f6eb36084cbb54"
+    },
+    {
+      "index": 215,
+      "performance": "care",
+      "text": "\"That's the whole of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0215.wav",
+      "textSha256": "78c7886d57813095171823723a9573bf9f8eac472675f94d9fa016006bf4c8bd"
+    },
+    {
+      "index": 216,
+      "performance": "care",
+      "text": "You'll spend a while wishing it looked like somebody else.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0216.wav",
+      "textSha256": "7d0a40dc110074ec11ade425f9aaf995ff02e309928a2f9a43f462708653dff8"
+    },
+    {
+      "index": 217,
+      "performance": "care",
+      "text": "Don't spend too long.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0217.wav",
+      "textSha256": "7b267d9a492ee430cb6d3a6837bb826ec04e7cd67d58edf4da09eb367e5e6e25"
+    },
+    {
+      "index": 218,
+      "performance": "neutral",
+      "text": "The spruce came down across the slope with a crack and a long tearing hiss through the branches below it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0218.wav",
+      "textSha256": "0cb92abf60d6dc5a6fb10910ddc0825b270f3cf9a8529c1325d5ec26a9bb54b9"
+    },
+    {
+      "index": 219,
+      "performance": "grief",
+      "text": "Jab stood in the rain with the light still running along his blade, a thin amber line in a gray wood, and his eyes were stinging and he let them, because there was nobody up here and the rain was doing most of the work anyway.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0219.wav",
+      "textSha256": "6b08ee2d92a0f4dd739da18f44813c6ec6ac689ba20d434b37f5523842f27fef"
+    },
+    {
+      "index": 220,
+      "performance": "neutral",
+      "text": "He killed the light, which was like taking a hand off a hot cup.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0220.wav",
+      "textSha256": "9ceb4b6d12db5b65859ae58fc84dafdc4033059a1997576468b2a7ba4744f2d1"
+    },
+    {
+      "index": 221,
+      "performance": "neutral",
+      "text": "He bucked the spruce into four lengths with the blade dark, splitting off the dry pale heartwood in long clean wedges, and carried it down in two loads and stacked it under the shelter's high side where the air would get at it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0221.wav",
+      "textSha256": "236fe79e9b487eb2c0232fdfe1a2b1e60684b1ba88e09e7dc56f3195857de640"
+    },
+    {
+      "index": 222,
+      "performance": "neutral",
+      "text": "He was at the second load when he saw the lashing.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0222.wav",
+      "textSha256": "6f30111afaa24c40ba769ac95628ed44f0544c90e015f8275d5dab0d1672ecf2"
+    },
+    {
+      "index": 223,
+      "performance": "neutral",
+      "text": "It was on the frame's left shoulder strap, where the hide band came down off the yoke and turned under and was stitched and lashed to the lattice \u2014 the single point that took the most of the load's turning every time he stepped off a rock.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0223.wav",
+      "textSha256": "5c34f8be88ee9cdecbe7816d455434d33ca5e9ab5e76cb19183d7c5eeef65684"
+    },
+    {
+      "index": 224,
+      "performance": "neutral",
+      "text": "The hide there had gone furred and pale with the wet",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0224.wav",
+      "textSha256": "d71b458ab9c0b4a838250da1a9f9ad75ff1d4c2c035c67bf0a372dac2dfa9aa7"
+    },
+    {
+      "index": 225,
+      "performance": "neutral",
+      "text": ", and two of the three cord turns had begun to fray through",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0225.wav",
+      "textSha256": "95c7c5a060f509c317fc5686586d85cd46dfeed2178da812ce205d98f13d3ca9"
+    },
+    {
+      "index": 226,
+      "performance": "neutral",
+      "text": ", and the third was doing the work of all three.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0226.wav",
+      "textSha256": "389d92ae6b65b402c2bca742341a11be13a80ab50758328065f086b9c8de3a3c"
+    },
+    {
+      "index": 227,
+      "performance": "neutral",
+      "text": "Jab crouched over it with water running off his nose and touched it with his thumb.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0227.wav",
+      "textSha256": "a2a348945255b57059adc83df3360d3cec7e42d8d514232c7f1b061ea6a983b5"
+    },
+    {
+      "index": 228,
+      "performance": "neutral",
+      "text": "Home, this would have been an hour.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0228.wav",
+      "textSha256": "343c97e7aa033ebbe56a677dcfef3d6748093470f36299631526058461eded32"
+    },
+    {
+      "index": 229,
+      "performance": "neutral",
+      "text": "Home there was a shed with a box of soaked strips in it and a bench to work at",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0229.wav",
+      "textSha256": "dd313e104f45a0ee6278c8e8c7fa3cf58b18252a3e9fd37396feddbc5093d679"
+    },
+    {
+      "index": 230,
+      "performance": "neutral",
+      "text": "and, if the thing was serious, a woman two doors down who lashed better than anybody in the valley and would have taken it off him and handed it back in the morning with a comment about the state of it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0230.wav",
+      "textSha256": "f9411dec2dc7ec5c54950c12aff1f4672499f6d776c29c2fdec0c7b4d1d8fece"
+    },
+    {
+      "index": 231,
+      "performance": "neutral",
+      "text": "Here there was a boy with two hands and no spare hide and a brother who could not be set down on wet ground.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0231.wav",
+      "textSha256": "435a12366d4a54e3a159163e5a57aec3ff28c43808e33d3b39e3c1051d8079e8"
+    },
+    {
+      "index": 232,
+      "performance": "neutral",
+      "text": "\"Not today,\" he said to it, and did the only thing available: took his boot lace, cut it short, and put three tight turns over the frayed cord as a splint, which was not a repair and would not hold under a real load and would buy him some days.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0232.wav",
+      "textSha256": "b709d17a168b86fbd70ed97451575b985ea82b2deadd8fed05e3cfe54fb3a470"
+    },
+    {
+      "index": 233,
+      "performance": "neutral",
+      "text": "Then he sat back on his heels and made himself think honestly about how many days.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0233.wav",
+      "textSha256": "8465d78e472865a4ba612171e8c7ec4710e2f3f5ffebf8aaf77c0c1c6e18dbc1"
+    },
+    {
+      "index": 234,
+      "performance": "neutral",
+      "text": "Four, maybe.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0234.wav",
+      "textSha256": "16a862d8cd96570d66db6e1e235268fddb3a17f8e37b0b030cb691ec1123fe43"
+    },
+    {
+      "index": 235,
+      "performance": "neutral",
+      "text": "Fewer if it got a jerk.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0235.wav",
+      "textSha256": "1c806fca101332487fdc8493def239ab0dcc016cdadb27aa3dce1dc6bb8e122d"
+    },
+    {
+      "index": 236,
+      "performance": "neutral",
+      "text": "He put it in the ledger with the salve and the fish and the nineteen \u2014 seventeen \u2014 twists of bark, and went to check his brother.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0236.wav",
+      "textSha256": "e08bca796ca05acb1ec81f86b67e3637de56ca34328cb33250a455d21f0570cb"
+    },
+    {
+      "index": 237,
+      "performance": "neutral",
+      "text": "The rain stopped an hour before dark",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0237.wav",
+      "textSha256": "68d4d8aa040e84eed8b4a915a0b54e03b572ff85892c3d24e03f9a371b9920c3"
+    },
+    {
+      "index": 238,
+      "performance": "neutral",
+      "text": ", in the way that meant the sky had not finished, only paused to think.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0238.wav",
+      "textSha256": "968d4db0e2db38fbd49f2b7dbebd800a4e8dce74a5f8c18fad444aadfa632993"
+    },
+    {
+      "index": 239,
+      "performance": "neutral",
+      "text": "Tonk woke at the change in the sound.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0239.wav",
+      "textSha256": "07b8a9d9f960b459ad088c250fe4b3d9d6152dec2b41a446a93b01ed46293d3b"
+    },
+    {
+      "index": 240,
+      "performance": "neutral",
+      "text": "He surfaced slowly and badly, the way he did out of the fever sleep",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0240.wav",
+      "textSha256": "6b1bc69433114e3535ec7a4375df3fbd14a47f52eccd14829750f0f70ebc8329"
+    },
+    {
+      "index": 241,
+      "performance": "neutral",
+      "text": ", and the first thing he said was not to Jab and was not about anything in the fir stand.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0241.wav",
+      "textSha256": "e947ab702f91544ba020f3ea73275ca22a6488f3f9e9b37170c66f710a9cc1fe"
+    },
+    {
+      "index": 242,
+      "performance": "whisper",
+      "text": "\"Where's Mum gone?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0242.wav",
+      "textSha256": "a9676e5a73608489eb705bd847ac9d7d1941b37709d48a0589a43d2153ad18b3"
+    },
+    {
+      "index": 243,
+      "performance": "neutral",
+      "text": "Jab had his hand on Tonk's forehead.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0243.wav",
+      "textSha256": "14ad9390282cd5c649400fb1dedb4c232867eca9fa148b90c6060f6395130c86"
+    },
+    {
+      "index": 244,
+      "performance": "neutral",
+      "text": "He left it there.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0244.wav",
+      "textSha256": "26e395d3287afd5801db44e321438625665949728d26f784ba53ab02f4d689ca"
+    },
+    {
+      "index": 245,
+      "performance": "neutral",
+      "text": "\"She's not here,\" he said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0245.wav",
+      "textSha256": "bcb9631b74e99f6f889f81e6dba51bb99295b71594c56d4c644ebedf5a145b4f"
+    },
+    {
+      "index": 246,
+      "performance": "neutral",
+      "text": "\"Is she getting water.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0246.wav",
+      "textSha256": "859641a236025746a9329a38ebc918a2c432359df739b8458ae8ba6b14b0f99e"
+    },
+    {
+      "index": 247,
+      "performance": "neutral",
+      "text": "\"No.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0247.wav",
+      "textSha256": "a06fcf42f6466d9178edfccb0cb3bc4bb0d40c78258d071f83567fb8f6952083"
+    },
+    {
+      "index": 248,
+      "performance": "neutral",
+      "text": "\"Where's she gone.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0248.wav",
+      "textSha256": "c5c55511f398d61240e04606ea61e03cf4314ffe66e7acb1d73a6fe00a28c578"
+    },
+    {
+      "index": 249,
+      "performance": "neutral",
+      "text": "He had done this eleven times now.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0249.wav",
+      "textSha256": "40c4fc33f559cb628868a698dd2ff126abf1a870d2e70254c669378367acf8c1"
+    },
+    {
+      "index": 250,
+      "performance": "neutral",
+      "text": "He had tried it four different ways, and three of them had been worse, and the one he had left was the one he used.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0250.wav",
+      "textSha256": "b2c34ee363673ff77ff9c9514b9c649244095f417c38550cb4eb01d6dcfe00fe"
+    },
+    {
+      "index": 251,
+      "performance": "grief",
+      "text": "\"She died when the bridge went,\" Jab said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0251.wav",
+      "textSha256": "199368324971238fe855fcee293d82d2d8b5c6d545a894351a82a62e4ed15016"
+    },
+    {
+      "index": 252,
+      "performance": "grief",
+      "text": "\"In the water.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0252.wav",
+      "textSha256": "6aaa52a11fdfe0d109e99ffb2210cc3826aa2c8f948aa08e2219ec6e28178675"
+    },
+    {
+      "index": 253,
+      "performance": "grief",
+      "text": "Dad too.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0253.wav",
+      "textSha256": "a4d2527974257f4180f27c3803e9042bd7db9748be81d39ea5905261b2562433"
+    },
+    {
+      "index": 254,
+      "performance": "grief",
+      "text": "They're not coming, and I'm not going to tell you they are.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0254.wav",
+      "textSha256": "64d7a1050fdf6b6377f81c3269c8b55484768bccecd2ba7e17bce86ad9e6d40f"
+    },
+    {
+      "index": 255,
+      "performance": "neutral",
+      "text": "Tonk's face did nothing at all.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0255.wav",
+      "textSha256": "7d377390e5d5d576383ce6bea42dbfd3fc84e5e1f05e52aa5f508b0a10b8c20d"
+    },
+    {
+      "index": 256,
+      "performance": "neutral",
+      "text": "That was what it did.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0256.wav",
+      "textSha256": "3b49e2c71c80f2b99c0adfb3f7f8b03a1a702b7c75b925b9d9dafb56f215f387"
+    },
+    {
+      "index": 257,
+      "performance": "neutral",
+      "text": "He was four and the fever was on him and the information went in and found nothing to attach to",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0257.wav",
+      "textSha256": "b35f55e098166195d945bbe13613fc2e3c1dd7d5c7a57bfd4804af42f506303f"
+    },
+    {
+      "index": 258,
+      "performance": "neutral",
+      "text": ", and he looked past Jab's shoulder at the fir branches for a while.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0258.wav",
+      "textSha256": "0fa8f3b3bb2e69ed58f04226c2704f8f66f224a278ad593b6e8c93f1c8b45ae3"
+    },
+    {
+      "index": 259,
+      "performance": "neutral",
+      "text": "\"Is it dark yet,\" he said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0259.wav",
+      "textSha256": "483bcc72ecd7d94ab54f8393b5b71e5cea73caa9b401d8d480caba44c44deae6"
+    },
+    {
+      "index": 260,
+      "performance": "neutral",
+      "text": "\"Nearly.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0260.wav",
+      "textSha256": "db2efac7d13975417a0c369250e30d1d7557f306795d1c50a64e17ff2a592dc9"
+    },
+    {
+      "index": 261,
+      "performance": "neutral",
+      "text": "\"I don't want it dark.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0261.wav",
+      "textSha256": "7e88449997a8284e1aba4af159a1f50903ea0b7e198b89716adf5e09018ee16d"
+    },
+    {
+      "index": 262,
+      "performance": "neutral",
+      "text": "\"I know.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0262.wav",
+      "textSha256": "188a97b3576a4290c278e655eb9d3e9930da22842e8bd5adc21c035989cd7aeb"
+    },
+    {
+      "index": 263,
+      "performance": "neutral",
+      "text": "\"I don't want the big one.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0263.wav",
+      "textSha256": "34012a415a64023195630b0371e73cec028219e0e4be61c770e13eed9992c02e"
+    },
+    {
+      "index": 264,
+      "performance": "care",
+      "text": "\"I know.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0264.wav",
+      "textSha256": "188a97b3576a4290c278e655eb9d3e9930da22842e8bd5adc21c035989cd7aeb"
+    },
+    {
+      "index": 265,
+      "performance": "care",
+      "text": "Jab got his arm under him and shifted him so that his head lay in the crook of it instead of on the hide, which was worth more than the bark some nights.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0265.wav",
+      "textSha256": "ff4280c37096a8bf89f0d5cfa044d9bbe043d34ff92007078710aaefb6450b23"
+    },
+    {
+      "index": 266,
+      "performance": "care",
+      "text": "\"It's coming anyway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0266.wav",
+      "textSha256": "3bbd5a724c6452b16762387356f856ea68a33cafe6e2f8490f86b216da1d095b"
+    },
+    {
+      "index": 267,
+      "performance": "care",
+      "text": "So here's what we're going to do.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0267.wav",
+      "textSha256": "c8d4d5e536969a86d91c4e8232eb203f7bdfca150e895791f3b773287229ec0a"
+    },
+    {
+      "index": 268,
+      "performance": "care",
+      "text": "I've got a fire that'll go all night, and I've got the four verses, and when the big one comes you're going to hold onto my thumb as hard as you like and I'm not going to move.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0268.wav",
+      "textSha256": "a051fbbe52b4f699e31738258ec4de7236aeb6713d29cb1f8b530cea86aa5d4d"
+    },
+    {
+      "index": 269,
+      "performance": "neutral",
+      "text": "\"All four?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0269.wav",
+      "textSha256": "51e46c8f1a15e3e7ff5808c09aa0f084feeede47b057e2864588491c33e62aad"
+    },
+    {
+      "index": 270,
+      "performance": "neutral",
+      "text": "\"All four.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0270.wav",
+      "textSha256": "3f00e33645dbc311ccfb5ad61a996755fc272c244b7febbf5e0530caaf5ae0c4"
+    },
+    {
+      "index": 271,
+      "performance": "neutral",
+      "text": "As many times as you want.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0271.wav",
+      "textSha256": "568d94be8f3f3f59caf1eaa792c103098de5aee7f133f40b0a43eed01b76de8e"
+    },
+    {
+      "index": 272,
+      "performance": "whisper",
+      "text": "Tonk got a fist around Jab's thumb, and shut his eyes, and after a moment said, in a small flat voice with nothing childish in it:",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0272.wav",
+      "textSha256": "0dd644dd94b355b4045d80d70e9ca39225a03c6a2e3e6eff4bfbf972e78a2758"
+    },
+    {
+      "index": 273,
+      "performance": "whisper",
+      "text": "\"You have to say the bit about the cousin.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0273.wav",
+      "textSha256": "a16e65b8b00e708cd8925006faf419ef18df103fb1ff4188187d8bf24e14b6a9"
+    },
+    {
+      "index": 274,
+      "performance": "neutral",
+      "text": "\"I don't know the bit about the cousin.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0274.wav",
+      "textSha256": "9dfe6ddf16a4bdbd97c680a1fbc2fdb3ac85f9cc287e92e56bd539d80581d8ab"
+    },
+    {
+      "index": 275,
+      "performance": "neutral",
+      "text": "That was Mum's.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0275.wav",
+      "textSha256": "ad6602fd8d0db5fa1587b8d05b6b4de720b9522a0f1342e323eab962162d4e2c"
+    },
+    {
+      "index": 276,
+      "performance": "humor",
+      "text": "\"Say it wrong, then,\" Tonk said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0276.wav",
+      "textSha256": "ccffd0612daeee0ca31de8cd68016cb21ebfeb80aa2c43065b0206a79aec17ac"
+    },
+    {
+      "index": 277,
+      "performance": "neutral",
+      "text": "So Jab said it wrong",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0277.wav",
+      "textSha256": "efff3f2cf03a08972d2590c6170f0bbdf34bf6fb232f95ffa6fb3dab539a5c6f"
+    },
+    {
+      "index": 278,
+      "performance": "neutral",
+      "text": ", and his brother's grip tightened on his thumb until the nail went white",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0278.wav",
+      "textSha256": "3511ef7bf20b6622264a0e66bd913792dc7ae65c8edd9f24e4894e23f85e6426"
+    },
+    {
+      "index": 279,
+      "performance": "neutral",
+      "text": ", and out past the fir tops the sky finished thinking and started again",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0279.wav",
+      "textSha256": "bb7ac6d40872c66ac36051dd0491bb44c29eca2c94be5257f65aac9213c15e08"
+    },
+    {
+      "index": 280,
+      "performance": "neutral",
+      "text": "\u2014 and it had gone colder while they talked",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0280.wav",
+      "textSha256": "6e9ec58c29a67d97a2649da8068ef373aa744b924da5a3040f90c3d68082671a"
+    },
+    {
+      "index": 281,
+      "performance": "neutral",
+      "text": ", and the sound on the hide was not the sound of rain any more, but something harder and smaller, ticking as it came.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/17d36a704226f4fff1fcc9b2/0281.wav",
+      "textSha256": "c078194eb751df50249e195137159a5ffc876da09fd0683999d26752507d379f"
+    }
+  ]
+}

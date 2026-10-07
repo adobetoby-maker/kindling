@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "source": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-06.md",
+  "audio": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-06/chapter-06.calder-directed-paced.mp3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "expectedWords": 81,
+  "transcribedWords": 80,
+  "orderedWordCoverage": 0.963,
+  "sequenceSimilarity": 0.9689,
+  "suspiciousOmissions": [],
+  "suspiciousAdditions": [],
+  "substitutions": [
+    {
+      "sourceWordStart": 6,
+      "sourceWords": "fourteen",
+      "transcribedWords": "14"
+    },
+    {
+      "sourceWordStart": 70,
+      "sourceWords": "any more",
+      "transcribedWords": "anymore"
+    }
+  ],
+  "strict": true,
+  "pass": false,
+  "transcript": "He had spent a year at 14 trying to make it come out long and straight like his father's. Very first blade he had ever made. On a gravel bar, in front of everyone he loved. Eleven people, in the end. And then the light came. Somebody made a sound. No. I don't want it dark. I know. And the sound on the hide was not the sound of rain anymore, but something harder and smaller, ticking as it came.",
+  "evidenceType": "targeted-segment-recheck",
+  "fullChapterVerification": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-06/chapter-06.calder-directed-paced.verification.json",
+  "selectedSegments": [
+    {
+      "index": 36,
+      "text": "He had spent a year at fourteen trying to make it come out long and straight like his father's.",
+      "audioSha256": "a8c4edbca487353036c6f366d025a7625b49c9f69290046cae4e1105b735b01d"
+    },
+    {
+      "index": 47,
+      "text": "very first blade he had ever made, on a gravel bar, in front of everyone he loved.",
+      "audioSha256": "40309d3c0b968b4c068bd7a5e3dc4cf3f4ecf40434f1dc6fd61c2371a1006593"
+    },
+    {
+      "index": 113,
+      "text": "Eleven people, in the end.",
+      "audioSha256": "4595ede53b1d186655f940e49998b40f5e23b7ae55a43557a4f56ec755716d4a"
+    },
+    {
+      "index": 169,
+      "text": "And then the light came.",
+      "audioSha256": "ed5036d20f995b4d3e898363addd32ea0da16abe8779539f696a795928ddd576"
+    },
+    {
+      "index": 180,
+      "text": "Somebody made a sound.",
+      "audioSha256": "7ecb60359f87b12d39f6abde058a10fc64541afd40629e91057411a5797840c4"
+    },
+    {
+      "index": 247,
+      "text": "\"No.\"",
+      "audioSha256": "306021a41de0479ad5d74640e020c1f1957575e540d0c80bf539c5d5665839bb"
+    },
+    {
+      "index": 261,
+      "text": "\"I don't want it dark.\"",
+      "audioSha256": "663f0b9fd75d6bed15ad62eff74e5cfa1510a7f981fbbcca8f2bd81745953b19"
+    },
+    {
+      "index": 262,
+      "text": "\"I know.\"",
+      "audioSha256": "ac7b964c802c0ea2fae8a7e95e6ac6e96377cff2176db5d42eca0aff29886822"
+    },
+    {
+      "index": 281,
+      "text": ", and the sound on the hide was not the sound of rain any more, but something harder and smaller, ticking as it came.",
+      "audioSha256": "3d910790d35fef17bde9fc33fd08a0b89b264ab2f32561f8f0a54da3b127edf2"
+    }
+  ],
+  "targetedEvidencePass": true
+}
