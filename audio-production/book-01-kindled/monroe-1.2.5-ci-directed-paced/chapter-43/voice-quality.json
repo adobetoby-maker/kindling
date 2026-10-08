@@ -1,0 +1,2243 @@
+{
+  "schemaVersion": 1,
+  "record": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-43/chapter-43.calder-directed-paced.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 24,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "neutral": {
+      "segments": 24,
+      "minimum": 0.8406,
+      "median": 0.9185,
+      "maximum": 0.9549,
+      "threshold": 0.46
+    },
+    "humor": {
+      "segments": 12,
+      "minimum": 0.8447,
+      "median": 0.9092,
+      "maximum": 0.9593,
+      "threshold": 0.46
+    },
+    "care": {
+      "segments": 14,
+      "minimum": 0.8517,
+      "median": 0.911,
+      "maximum": 0.9535,
+      "threshold": 0.46
+    },
+    "fear": {
+      "segments": 24,
+      "minimum": 0.8584,
+      "median": 0.9123,
+      "maximum": 0.9593,
+      "threshold": 0.46
+    },
+    "grief": {
+      "segments": 22,
+      "minimum": 0.8534,
+      "median": 0.9121,
+      "maximum": 0.9579,
+      "threshold": 0.46
+    },
+    "awe": {
+      "segments": 3,
+      "minimum": 0.9062,
+      "median": 0.9109,
+      "maximum": 0.9111,
+      "threshold": 0.46
+    },
+    "whisper": {
+      "segments": 2,
+      "minimum": 0.9008,
+      "median": 0.9262,
+      "maximum": 0.9516,
+      "threshold": 0.46
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 1,
+      "role": "neutral",
+      "durationSec": 3.901,
+      "similarity": 0.9187,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9284
+    },
+    {
+      "index": 8,
+      "role": "neutral",
+      "durationSec": 12.446,
+      "similarity": 0.935,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9413
+    },
+    {
+      "index": 17,
+      "role": "neutral",
+      "durationSec": 15.0,
+      "similarity": 0.9225,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9262
+    },
+    {
+      "index": 18,
+      "role": "humor",
+      "durationSec": 3.576,
+      "similarity": 0.9012,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9214
+    },
+    {
+      "index": 19,
+      "role": "care",
+      "durationSec": 9.102,
+      "similarity": 0.9077,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9387
+    },
+    {
+      "index": 28,
+      "role": "neutral",
+      "durationSec": 6.177,
+      "similarity": 0.9384,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9361
+    },
+    {
+      "index": 29,
+      "role": "humor",
+      "durationSec": 2.461,
+      "similarity": 0.9194,
+      "closestOtherRole": "reflective",
+      "closestOtherSimilarity": 0.9169
+    },
+    {
+      "index": 30,
+      "role": "humor",
+      "durationSec": 2.136,
+      "similarity": 0.8924,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.921
+    },
+    {
+      "index": 31,
+      "role": "humor",
+      "durationSec": 4.876,
+      "similarity": 0.9324,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.9361
+    },
+    {
+      "index": 32,
+      "role": "humor",
+      "durationSec": 2.043,
+      "similarity": 0.8689,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9088
+    },
+    {
+      "index": 34,
+      "role": "humor",
+      "durationSec": 4.876,
+      "similarity": 0.8987,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.904
+    },
+    {
+      "index": 37,
+      "role": "humor",
+      "durationSec": 1.254,
+      "similarity": 0.8447,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8706
+    },
+    {
+      "index": 38,
+      "role": "humor",
+      "durationSec": 12.446,
+      "similarity": 0.9314,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9499
+    },
+    {
+      "index": 39,
+      "role": "humor",
+      "durationSec": 7.245,
+      "similarity": 0.9146,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9326
+    },
+    {
+      "index": 44,
+      "role": "fear",
+      "durationSec": 1.3,
+      "similarity": 0.9004,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9102
+    },
+    {
+      "index": 45,
+      "role": "fear",
+      "durationSec": 10.495,
+      "similarity": 0.9412,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9436
+    },
+    {
+      "index": 48,
+      "role": "neutral",
+      "durationSec": 6.316,
+      "similarity": 0.9155,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9184
+    },
+    {
+      "index": 55,
+      "role": "grief",
+      "durationSec": 1.254,
+      "similarity": 0.8842,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9012
+    },
+    {
+      "index": 56,
+      "role": "grief",
+      "durationSec": 12.771,
+      "similarity": 0.9104,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9259
+    },
+    {
+      "index": 57,
+      "role": "grief",
+      "durationSec": 6.873,
+      "similarity": 0.935,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.9524
+    },
+    {
+      "index": 58,
+      "role": "grief",
+      "durationSec": 5.991,
+      "similarity": 0.9171,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.936
+    },
+    {
+      "index": 60,
+      "role": "grief",
+      "durationSec": 3.762,
+      "similarity": 0.939,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.948
+    },
+    {
+      "index": 61,
+      "role": "grief",
+      "durationSec": 1.858,
+      "similarity": 0.8682,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.8984
+    },
+    {
+      "index": 63,
+      "role": "grief",
+      "durationSec": 11.656,
+      "similarity": 0.8957,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9132
+    },
+    {
+      "index": 64,
+      "role": "grief",
+      "durationSec": 1.393,
+      "similarity": 0.8534,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.877
+    },
+    {
+      "index": 65,
+      "role": "grief",
+      "durationSec": 4.365,
+      "similarity": 0.9072,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.927
+    },
+    {
+      "index": 66,
+      "role": "grief",
+      "durationSec": 15.325,
+      "similarity": 0.9037,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9183
+    },
+    {
+      "index": 69,
+      "role": "humor",
+      "durationSec": 9.427,
+      "similarity": 0.9593,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.9594
+    },
+    {
+      "index": 70,
+      "role": "neutral",
+      "durationSec": 6.78,
+      "similarity": 0.9549,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9556
+    },
+    {
+      "index": 78,
+      "role": "neutral",
+      "durationSec": 2.786,
+      "similarity": 0.9228,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9243
+    },
+    {
+      "index": 88,
+      "role": "neutral",
+      "durationSec": 2.415,
+      "similarity": 0.9049,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9205
+    },
+    {
+      "index": 100,
+      "role": "humor",
+      "durationSec": 2.276,
+      "similarity": 0.9039,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.8964
+    },
+    {
+      "index": 102,
+      "role": "humor",
+      "durationSec": 28.143,
+      "similarity": 0.9218,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9251
+    },
+    {
+      "index": 107,
+      "role": "neutral",
+      "durationSec": 1.347,
+      "similarity": 0.8432,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8633
+    },
+    {
+      "index": 115,
+      "role": "neutral",
+      "durationSec": 1.765,
+      "similarity": 0.9126,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9048
+    },
+    {
+      "index": 121,
+      "role": "neutral",
+      "durationSec": 1.347,
+      "similarity": 0.8519,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8796
+    },
+    {
+      "index": 124,
+      "role": "fear",
+      "durationSec": 7.755,
+      "similarity": 0.94,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9393
+    },
+    {
+      "index": 133,
+      "role": "neutral",
+      "durationSec": 3.901,
+      "similarity": 0.9182,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9231
+    },
+    {
+      "index": 141,
+      "role": "neutral",
+      "durationSec": 17.043,
+      "similarity": 0.9309,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9456
+    },
+    {
+      "index": 146,
+      "role": "care",
+      "durationSec": 2.554,
+      "similarity": 0.894,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.906
+    },
+    {
+      "index": 147,
+      "role": "care",
+      "durationSec": 1.858,
+      "similarity": 0.901,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9227
+    },
+    {
+      "index": 149,
+      "role": "care",
+      "durationSec": 11.656,
+      "similarity": 0.936,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9477
+    },
+    {
+      "index": 153,
+      "role": "care",
+      "durationSec": 4.412,
+      "similarity": 0.8931,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9238
+    },
+    {
+      "index": 155,
+      "role": "grief",
+      "durationSec": 1.625,
+      "similarity": 0.8935,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.9099
+    },
+    {
+      "index": 157,
+      "role": "grief",
+      "durationSec": 2.601,
+      "similarity": 0.9138,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9384
+    },
+    {
+      "index": 158,
+      "role": "care",
+      "durationSec": 1.533,
+      "similarity": 0.8517,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8996
+    },
+    {
+      "index": 159,
+      "role": "care",
+      "durationSec": 9.567,
+      "similarity": 0.9142,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.9271
+    },
+    {
+      "index": 160,
+      "role": "care",
+      "durationSec": 1.3,
+      "similarity": 0.8565,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8974
+    },
+    {
+      "index": 161,
+      "role": "care",
+      "durationSec": 4.412,
+      "similarity": 0.9284,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9404
+    },
+    {
+      "index": 162,
+      "role": "care",
+      "durationSec": 1.625,
+      "similarity": 0.9218,
+      "closestOtherRole": "whisper_secret",
+      "closestOtherSimilarity": 0.9054
+    },
+    {
+      "index": 165,
+      "role": "care",
+      "durationSec": 7.988,
+      "similarity": 0.9535,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.9576
+    },
+    {
+      "index": 166,
+      "role": "care",
+      "durationSec": 2.461,
+      "similarity": 0.9274,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9449
+    },
+    {
+      "index": 167,
+      "role": "care",
+      "durationSec": 7.105,
+      "similarity": 0.8933,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9266
+    },
+    {
+      "index": 172,
+      "role": "neutral",
+      "durationSec": 11.842,
+      "similarity": 0.9527,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9525
+    },
+    {
+      "index": 180,
+      "role": "grief",
+      "durationSec": 13.375,
+      "similarity": 0.9372,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9483
+    },
+    {
+      "index": 181,
+      "role": "grief",
+      "durationSec": 8.777,
+      "similarity": 0.9161,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9404
+    },
+    {
+      "index": 183,
+      "role": "grief",
+      "durationSec": 5.712,
+      "similarity": 0.9196,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9306
+    },
+    {
+      "index": 185,
+      "role": "grief",
+      "durationSec": 9.706,
+      "similarity": 0.9349,
+      "closestOtherRole": "cold_anger",
+      "closestOtherSimilarity": 0.9466
+    },
+    {
+      "index": 189,
+      "role": "neutral",
+      "durationSec": 1.393,
+      "similarity": 0.8406,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8677
+    },
+    {
+      "index": 200,
+      "role": "neutral",
+      "durationSec": 15.047,
+      "similarity": 0.9315,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9358
+    },
+    {
+      "index": 203,
+      "role": "grief",
+      "durationSec": 9.752,
+      "similarity": 0.9579,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9616
+    },
+    {
+      "index": 204,
+      "role": "grief",
+      "durationSec": 2.926,
+      "similarity": 0.9392,
+      "closestOtherRole": "intimate_care",
+      "closestOtherSimilarity": 0.9344
+    },
+    {
+      "index": 205,
+      "role": "grief",
+      "durationSec": 1.486,
+      "similarity": 0.8818,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.8985
+    },
+    {
+      "index": 206,
+      "role": "grief",
+      "durationSec": 14.396,
+      "similarity": 0.9217,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9352
+    },
+    {
+      "index": 209,
+      "role": "grief",
+      "durationSec": 12.399,
+      "similarity": 0.9098,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.9283
+    },
+    {
+      "index": 211,
+      "role": "grief",
+      "durationSec": 11.656,
+      "similarity": 0.8958,
+      "closestOtherRole": "wonder_awe",
+      "closestOtherSimilarity": 0.9106
+    },
+    {
+      "index": 217,
+      "role": "awe",
+      "durationSec": 23.266,
+      "similarity": 0.9111,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9321
+    },
+    {
+      "index": 218,
+      "role": "awe",
+      "durationSec": 2.879,
+      "similarity": 0.9062,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9321
+    },
+    {
+      "index": 220,
+      "role": "awe",
+      "durationSec": 2.508,
+      "similarity": 0.9109,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9161
+    },
+    {
+      "index": 221,
+      "role": "neutral",
+      "durationSec": 3.065,
+      "similarity": 0.8994,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9166
+    },
+    {
+      "index": 229,
+      "role": "neutral",
+      "durationSec": 7.988,
+      "similarity": 0.9313,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9492
+    },
+    {
+      "index": 238,
+      "role": "neutral",
+      "durationSec": 2.647,
+      "similarity": 0.8958,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9089
+    },
+    {
+      "index": 250,
+      "role": "neutral",
+      "durationSec": 2.461,
+      "similarity": 0.9194,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9202
+    },
+    {
+      "index": 259,
+      "role": "neutral",
+      "durationSec": 16.393,
+      "similarity": 0.9176,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9207
+    },
+    {
+      "index": 268,
+      "role": "fear",
+      "durationSec": 5.759,
+      "similarity": 0.9121,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9031
+    },
+    {
+      "index": 269,
+      "role": "fear",
+      "durationSec": 2.276,
+      "similarity": 0.9125,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9157
+    },
+    {
+      "index": 273,
+      "role": "fear",
+      "durationSec": 5.526,
+      "similarity": 0.9593,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9465
+    },
+    {
+      "index": 274,
+      "role": "fear",
+      "durationSec": 1.44,
+      "similarity": 0.8666,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.93
+    },
+    {
+      "index": 279,
+      "role": "fear",
+      "durationSec": 6.548,
+      "similarity": 0.9159,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9104
+    },
+    {
+      "index": 281,
+      "role": "fear",
+      "durationSec": 10.82,
+      "similarity": 0.9495,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9559
+    },
+    {
+      "index": 283,
+      "role": "fear",
+      "durationSec": 2.136,
+      "similarity": 0.8756,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.8537
+    },
+    {
+      "index": 285,
+      "role": "fear",
+      "durationSec": 1.997,
+      "similarity": 0.9155,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9047
+    },
+    {
+      "index": 286,
+      "role": "fear",
+      "durationSec": 5.155,
+      "similarity": 0.9274,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.924
+    },
+    {
+      "index": 290,
+      "role": "neutral",
+      "durationSec": 1.44,
+      "similarity": 0.8806,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8961
+    },
+    {
+      "index": 296,
+      "role": "fear",
+      "durationSec": 3.437,
+      "similarity": 0.8984,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9247
+    },
+    {
+      "index": 297,
+      "role": "fear",
+      "durationSec": 9.66,
+      "similarity": 0.9506,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9423
+    },
+    {
+      "index": 299,
+      "role": "fear",
+      "durationSec": 8.173,
+      "similarity": 0.9422,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9273
+    },
+    {
+      "index": 300,
+      "role": "fear",
+      "durationSec": 2.136,
+      "similarity": 0.8794,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.8799
+    },
+    {
+      "index": 301,
+      "role": "fear",
+      "durationSec": 1.44,
+      "similarity": 0.8935,
+      "closestOtherRole": "intimate_care",
+      "closestOtherSimilarity": 0.8855
+    },
+    {
+      "index": 303,
+      "role": "fear",
+      "durationSec": 1.858,
+      "similarity": 0.8584,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.8674
+    },
+    {
+      "index": 304,
+      "role": "whisper",
+      "durationSec": 10.356,
+      "similarity": 0.9516,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9462
+    },
+    {
+      "index": 305,
+      "role": "whisper",
+      "durationSec": 3.204,
+      "similarity": 0.9008,
+      "closestOtherRole": "pain_exhaustion",
+      "closestOtherSimilarity": 0.9099
+    },
+    {
+      "index": 310,
+      "role": "care",
+      "durationSec": 18.019,
+      "similarity": 0.9456,
+      "closestOtherRole": "neutral",
+      "closestOtherSimilarity": 0.9524
+    },
+    {
+      "index": 311,
+      "role": "neutral",
+      "durationSec": 4.04,
+      "similarity": 0.9345,
+      "closestOtherRole": "suspense",
+      "closestOtherSimilarity": 0.9362
+    },
+    {
+      "index": 312,
+      "role": "fear",
+      "durationSec": 2.786,
+      "similarity": 0.8936,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.8967
+    },
+    {
+      "index": 315,
+      "role": "fear",
+      "durationSec": 1.393,
+      "similarity": 0.8686,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.8616
+    },
+    {
+      "index": 316,
+      "role": "fear",
+      "durationSec": 1.672,
+      "similarity": 0.9054,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.9071
+    },
+    {
+      "index": 318,
+      "role": "fear",
+      "durationSec": 1.625,
+      "similarity": 0.8681,
+      "closestOtherRole": "dry_humor",
+      "closestOtherSimilarity": 0.8716
+    },
+    {
+      "index": 319,
+      "role": "fear",
+      "durationSec": 10.681,
+      "similarity": 0.9533,
+      "closestOtherRole": "curiosity",
+      "closestOtherSimilarity": 0.9619
+    },
+    {
+      "index": 325,
+      "role": "fear",
+      "durationSec": 3.204,
+      "similarity": 0.9178,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9302
+    },
+    {
+      "index": 329,
+      "role": "neutral",
+      "durationSec": 2.276,
+      "similarity": 0.906,
+      "closestOtherRole": "relief_hope",
+      "closestOtherSimilarity": 0.9036
+    }
+  ],
+  "skippedShortSegments": [
+    {
+      "index": 7,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 15,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 16,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 24,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 27,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 33,
+      "role": "humor",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 35,
+      "role": "humor",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 36,
+      "role": "humor",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 49,
+      "role": "neutral",
+      "durationSec": 2.2675736961451248e-05,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 50,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 59,
+      "role": "grief",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 62,
+      "role": "grief",
+      "durationSec": 1.1145578231292517,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 68,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 74,
+      "role": "neutral",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 80,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 83,
+      "role": "neutral",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 86,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 89,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 90,
+      "role": "neutral",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 91,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 94,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 95,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 96,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 98,
+      "role": "neutral",
+      "durationSec": 0.603718820861678,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 101,
+      "role": "humor",
+      "durationSec": 1.1145578231292517,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 104,
+      "role": "neutral",
+      "durationSec": 0.7430385487528345,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 105,
+      "role": "neutral",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 114,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 122,
+      "role": "fear",
+      "durationSec": 2.2675736961451248e-05,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 123,
+      "role": "fear",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 126,
+      "role": "neutral",
+      "durationSec": 0.7430385487528345,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 129,
+      "role": "neutral",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 140,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 143,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 144,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 148,
+      "role": "care",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 150,
+      "role": "care",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 151,
+      "role": "care",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 152,
+      "role": "care",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 156,
+      "role": "grief",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 163,
+      "role": "care",
+      "durationSec": 0.6501587301587302,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 164,
+      "role": "care",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 171,
+      "role": "neutral",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 174,
+      "role": "neutral",
+      "durationSec": 0.9287981859410431,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 178,
+      "role": "neutral",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 179,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 182,
+      "role": "grief",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 184,
+      "role": "grief",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 186,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 187,
+      "role": "neutral",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 192,
+      "role": "neutral",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 193,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 196,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 197,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 202,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 207,
+      "role": "grief",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 208,
+      "role": "grief",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 210,
+      "role": "grief",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 219,
+      "role": "awe",
+      "durationSec": 0.3250793650793651,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 223,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 234,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 236,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 239,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 241,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 242,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 243,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 244,
+      "role": "neutral",
+      "durationSec": 0.8823582766439909,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 248,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 254,
+      "role": "neutral",
+      "durationSec": 0.6965986394557823,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 258,
+      "role": "neutral",
+      "durationSec": 0.8359183673469388,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 264,
+      "role": "neutral",
+      "durationSec": 1.0216780045351475,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 265,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 267,
+      "role": "fear",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 271,
+      "role": "fear",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 272,
+      "role": "fear",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 275,
+      "role": "fear",
+      "durationSec": 0.7894784580498866,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 276,
+      "role": "fear",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 278,
+      "role": "fear",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 280,
+      "role": "fear",
+      "durationSec": 0.5572789115646258,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 282,
+      "role": "fear",
+      "durationSec": 0.5108390022675737,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 287,
+      "role": "neutral",
+      "durationSec": 0.9752380952380952,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 291,
+      "role": "neutral",
+      "durationSec": 1.207437641723356,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 307,
+      "role": "neutral",
+      "durationSec": 1.0681179138321995,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 313,
+      "role": "fear",
+      "durationSec": 0.603718820861678,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 322,
+      "role": "neutral",
+      "durationSec": 1.1609977324263039,
+      "reason": "below-minimum-duration"
+    },
+    {
+      "index": 2,
+      "role": "neutral",
+      "durationSec": 7.430385487528345,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 3,
+      "role": "neutral",
+      "durationSec": 3.8080725623582765,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 4,
+      "role": "neutral",
+      "durationSec": 2.182675736961451,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 5,
+      "role": "neutral",
+      "durationSec": 13.467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 6,
+      "role": "neutral",
+      "durationSec": 11.656417233560092,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 9,
+      "role": "neutral",
+      "durationSec": 2.6006349206349206,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 10,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 11,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 12,
+      "role": "neutral",
+      "durationSec": 3.7151927437641725,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 13,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 14,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 20,
+      "role": "neutral",
+      "durationSec": 7.476825396825397,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 21,
+      "role": "neutral",
+      "durationSec": 2.461315192743764,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 22,
+      "role": "neutral",
+      "durationSec": 2.043356009070295,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 23,
+      "role": "neutral",
+      "durationSec": 19.969160997732427,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 25,
+      "role": "neutral",
+      "durationSec": 2.6006349206349206,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 26,
+      "role": "neutral",
+      "durationSec": 2.414875283446712,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 40,
+      "role": "neutral",
+      "durationSec": 14.489251700680272,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 41,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 42,
+      "role": "neutral",
+      "durationSec": 2.2291156462585033,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 43,
+      "role": "neutral",
+      "durationSec": 7.383945578231293,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 46,
+      "role": "neutral",
+      "durationSec": 2.414875283446712,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 47,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 51,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 52,
+      "role": "neutral",
+      "durationSec": 1.6253968253968254,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 53,
+      "role": "neutral",
+      "durationSec": 1.5789569160997732,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 54,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 67,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 71,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 72,
+      "role": "neutral",
+      "durationSec": 5.804988662131519,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 73,
+      "role": "neutral",
+      "durationSec": 3.900952380952381,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 75,
+      "role": "neutral",
+      "durationSec": 6.919546485260771,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 76,
+      "role": "neutral",
+      "durationSec": 16.253968253968253,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 77,
+      "role": "neutral",
+      "durationSec": 2.9257142857142857,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 79,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 81,
+      "role": "neutral",
+      "durationSec": 1.6253968253968254,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 82,
+      "role": "neutral",
+      "durationSec": 13.142494331065759,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 84,
+      "role": "neutral",
+      "durationSec": 5.479909297052155,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 85,
+      "role": "neutral",
+      "durationSec": 2.182675736961451,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 87,
+      "role": "neutral",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 92,
+      "role": "neutral",
+      "durationSec": 3.297233560090703,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 93,
+      "role": "neutral",
+      "durationSec": 8.916462585034013,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 97,
+      "role": "neutral",
+      "durationSec": 11.981496598639456,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 99,
+      "role": "neutral",
+      "durationSec": 1.6718367346938776,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 103,
+      "role": "neutral",
+      "durationSec": 4.504671201814059,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 106,
+      "role": "neutral",
+      "durationSec": 3.01859410430839,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 108,
+      "role": "neutral",
+      "durationSec": 2.9257142857142857,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 109,
+      "role": "neutral",
+      "durationSec": 9.891700680272109,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 110,
+      "role": "neutral",
+      "durationSec": 1.6718367346938776,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 111,
+      "role": "neutral",
+      "durationSec": 1.6718367346938776,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 112,
+      "role": "neutral",
+      "durationSec": 3.3436734693877552,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 113,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 116,
+      "role": "neutral",
+      "durationSec": 1.9504761904761905,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 117,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 118,
+      "role": "neutral",
+      "durationSec": 9.241541950113378,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 119,
+      "role": "neutral",
+      "durationSec": 2.8328344671201813,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 120,
+      "role": "neutral",
+      "durationSec": 2.972154195011338,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 125,
+      "role": "neutral",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 127,
+      "role": "neutral",
+      "durationSec": 2.136235827664399,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 128,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 130,
+      "role": "neutral",
+      "durationSec": 2.043356009070295,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 131,
+      "role": "neutral",
+      "durationSec": 8.312743764172335,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 132,
+      "role": "neutral",
+      "durationSec": 4.690430839002268,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 134,
+      "role": "neutral",
+      "durationSec": 3.7616326530612243,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 135,
+      "role": "neutral",
+      "durationSec": 1.9040362811791383,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 136,
+      "role": "neutral",
+      "durationSec": 3.900952380952381,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 137,
+      "role": "neutral",
+      "durationSec": 1.253877551020408,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 138,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 139,
+      "role": "neutral",
+      "durationSec": 7.337505668934241,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 142,
+      "role": "neutral",
+      "durationSec": 3.111473922902494,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 145,
+      "role": "neutral",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 154,
+      "role": "neutral",
+      "durationSec": 2.7399546485260773,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 168,
+      "role": "neutral",
+      "durationSec": 18.436643990929706,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 169,
+      "role": "neutral",
+      "durationSec": 4.6439909297052155,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 170,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 173,
+      "role": "neutral",
+      "durationSec": 10.820498866213152,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 175,
+      "role": "neutral",
+      "durationSec": 1.9504761904761905,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 176,
+      "role": "neutral",
+      "durationSec": 8.266303854875284,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 177,
+      "role": "neutral",
+      "durationSec": 8.312743764172335,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 188,
+      "role": "neutral",
+      "durationSec": 1.9040362811791383,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 190,
+      "role": "neutral",
+      "durationSec": 10.216780045351474,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 191,
+      "role": "neutral",
+      "durationSec": 2.414875283446712,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 194,
+      "role": "neutral",
+      "durationSec": 2.693514739229025,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 195,
+      "role": "neutral",
+      "durationSec": 3.3436734693877552,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 198,
+      "role": "neutral",
+      "durationSec": 4.551111111111111,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 199,
+      "role": "neutral",
+      "durationSec": 1.9969160997732427,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 201,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 212,
+      "role": "neutral",
+      "durationSec": 1.9969160997732427,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 213,
+      "role": "neutral",
+      "durationSec": 1.486077097505669,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 214,
+      "role": "neutral",
+      "durationSec": 1.8575963718820863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 215,
+      "role": "neutral",
+      "durationSec": 15.418049886621315,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 216,
+      "role": "neutral",
+      "durationSec": 1.8575963718820863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 222,
+      "role": "neutral",
+      "durationSec": 1.3931972789115645,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 224,
+      "role": "neutral",
+      "durationSec": 3.7151927437641725,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 225,
+      "role": "neutral",
+      "durationSec": 9.93814058956916,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 226,
+      "role": "neutral",
+      "durationSec": 11.935056689342403,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 227,
+      "role": "neutral",
+      "durationSec": 5.6656689342403626,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 228,
+      "role": "neutral",
+      "durationSec": 2.8328344671201813,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 230,
+      "role": "neutral",
+      "durationSec": 7.430385487528345,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 231,
+      "role": "neutral",
+      "durationSec": 3.7616326530612243,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 232,
+      "role": "neutral",
+      "durationSec": 8.870022675736962,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 233,
+      "role": "neutral",
+      "durationSec": 13.096054421768708,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 235,
+      "role": "neutral",
+      "durationSec": 1.8575963718820863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 237,
+      "role": "neutral",
+      "durationSec": 13.096054421768708,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 240,
+      "role": "neutral",
+      "durationSec": 1.9969160997732427,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 245,
+      "role": "neutral",
+      "durationSec": 11.656417233560092,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 246,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 247,
+      "role": "neutral",
+      "durationSec": 7.662585034013605,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 249,
+      "role": "neutral",
+      "durationSec": 10.681179138321996,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 251,
+      "role": "neutral",
+      "durationSec": 1.5325170068027212,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 252,
+      "role": "neutral",
+      "durationSec": 1.811156462585034,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 253,
+      "role": "neutral",
+      "durationSec": 10.727619047619047,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 255,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 256,
+      "role": "neutral",
+      "durationSec": 2.136235827664399,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 257,
+      "role": "neutral",
+      "durationSec": 3.900952380952381,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 260,
+      "role": "neutral",
+      "durationSec": 8.080544217687075,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 261,
+      "role": "neutral",
+      "durationSec": 13.235374149659863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 262,
+      "role": "neutral",
+      "durationSec": 4.829750566893424,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 263,
+      "role": "neutral",
+      "durationSec": 1.3467573696145125,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 288,
+      "role": "neutral",
+      "durationSec": 4.040272108843538,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 289,
+      "role": "neutral",
+      "durationSec": 3.111473922902494,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 292,
+      "role": "neutral",
+      "durationSec": 1.9504761904761905,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 293,
+      "role": "neutral",
+      "durationSec": 3.7616326530612243,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 294,
+      "role": "neutral",
+      "durationSec": 13.096054421768708,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 306,
+      "role": "neutral",
+      "durationSec": 2.786394557823129,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 308,
+      "role": "neutral",
+      "durationSec": 5.990748299319728,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 309,
+      "role": "neutral",
+      "durationSec": 1.8575963718820863,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 320,
+      "role": "neutral",
+      "durationSec": 4.6439909297052155,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 321,
+      "role": "neutral",
+      "durationSec": 7.012426303854875,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 323,
+      "role": "neutral",
+      "durationSec": 4.690430839002268,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 326,
+      "role": "neutral",
+      "durationSec": 1.3003174603174603,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 327,
+      "role": "neutral",
+      "durationSec": 3.436553287981859,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 328,
+      "role": "neutral",
+      "durationSec": 9.241541950113378,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 266,
+      "role": "fear",
+      "durationSec": 1.486077097505669,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 270,
+      "role": "fear",
+      "durationSec": 6.965986394557823,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 277,
+      "role": "fear",
+      "durationSec": 1.486077097505669,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 284,
+      "role": "fear",
+      "durationSec": 11.145578231292516,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 295,
+      "role": "fear",
+      "durationSec": 1.3003174603174603,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 298,
+      "role": "fear",
+      "durationSec": 4.365351473922902,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 302,
+      "role": "fear",
+      "durationSec": 1.9040362811791383,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 314,
+      "role": "fear",
+      "durationSec": 1.4396371882086167,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 317,
+      "role": "fear",
+      "durationSec": 1.7182766439909296,
+      "reason": "coverage-sampling"
+    },
+    {
+      "index": 324,
+      "role": "fear",
+      "durationSec": 11.517097505668934,
+      "reason": "coverage-sampling"
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,4065 @@
+{
+  "rendererVersion": 5,
+  "input": "/Users/drive/kindling-repo-stage/books/book-01-kindled/revised/chapter-17.md",
+  "inputSha256": "8ed753d36c5be207f2a59a04741c690c70d95e7036908440ff601f4a0a9f4127",
+  "engine": "fish-s2",
+  "model": "mlx-community/fish-audio-s2-pro-8bit",
+  "voice": "cloned",
+  "language": "English",
+  "speed": 1.0,
+  "instruct": "Keep the exact Original Calder speaker identity and Australian-English accent. Read as controlled, intelligent long-form audiobook narration. Prepare the complete thought before beginning it. Preserve tactical clarity, understated humor, and emotional restraint. Use supplied performance anchors only as temporary colors, then return fully to Calder. Never rush, become theatrical, sing-song, childish, Americanized, or announcer-like.",
+  "pronunciationInstruct": "Use the Kindled pronunciation dictionary and chapter context. Never infer a different accent or narrator identity from a character name.",
+  "referenceAudio": "/Users/drive/git-backups/boundary-universe-cc/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav",
+  "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+  "paletteReferenceHashes": {
+    "neutral": "5893a9b2d2a5bb711a6bde9003798b9ef8cd1f4bed3a456a72661556608d5a32",
+    "reflective": "2a96680b9325dbf11b31691207eb56eab1f2458099bec54b5800e2de05cef090",
+    "intimate_care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "dry_humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "curiosity": "83eb39c4f95bb014fb9287210060717ea7f0de13d82e82281184a21649182b0b",
+    "wonder_awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508",
+    "suspense": "742f1dceefaf5aacd97d8216216264e0b1c5747a70296a42bee300b86ee78395",
+    "fear": "ca07ae9dc53ef27188de28d183d241d7dd3e60a09a2e1a9522abb3e13ff47f53",
+    "grief": "8c49b0878bfcd6cef2ab5841ecc09545e3de3053e9a6a13f2e8be7e00e3d1bf8",
+    "cold_anger": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "authority": "f031f4fa3642fe85999f43ec72dbe1333ac23a0d2166f42219e434040c7d8ebf",
+    "urgent_action": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "pain_exhaustion": "3369f4cdd6b6ca5cd3b209523a568696588c8e07f5110ba8f6472415975f5d7e",
+    "relief_hope": "532dde77d9a63ebf740237f0c507e95bcb95c511923e8b8de085fef68065bfa0",
+    "whisper_secret": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "whisper": "f0b0eca70cf63d3ebf16dbc03c1d2e08fae97531d172e5317b9f7e249952b50d",
+    "yell": "14fba1d06670e06bcbeb08c2743c35dd2682add36e6fc27940634f6fedac4291",
+    "hatred": "b3646332363db66c4e33fc3a90a016771674dda410f57c67efad4e7869942137",
+    "care": "8082e2fd55052f1a1e4b85468d98c49c77b53dca3bb003f1890675122b18c04d",
+    "humor": "f7492b199fbc768dcdb51dfeb58257e8be04bc46b33ecd9fa1f628324d3124b7",
+    "awe": "1cc61afba6df23721e302fb92a87ca5b8168024b47500784a91e4836bda78508"
+  },
+  "referenceText": "The leak was just the announcement. The marriage was the problem. Dale set the wrench down and listened to the old house settle around him.",
+  "performanceTrack": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-17/chapter-17.directed-paced.performance.json",
+  "performanceTrackSha256": "9a68e288ff1e627fd2508b82dfeb1f8ddac5c85957bb5263d37552a7262a4d6c",
+  "performancePalette": "/Users/drive/.local/share/monroe-tts/anchor-builds/calder-eleven-original-v1/calder-eleven-15.candidate-palette.json",
+  "performancePaletteSha256": "1c01dfc35b0b3336e806b0713a030c9d3bee7c75e30263cfadcc220b4ac51763",
+  "maxChars": 700,
+  "maxAudioTokens": 2048,
+  "targetWpm": null,
+  "temperature": 0.62,
+  "pauseMs": 1550,
+  "finalPauseMs": 2100,
+  "denseLandings": false,
+  "commaPauseMs": 300,
+  "breathPauseMs": 425,
+  "sentencePauseMs": 700,
+  "paragraphPauseMs": 1100,
+  "postStretchRate": 1.0,
+  "outputBitrateKbps": 128,
+  "targetLufs": -20.0,
+  "truePeakDb": -3.0,
+  "targetLra": 7.0,
+  "edgeFadeMs": 12,
+  "sourceWords": 4841,
+  "chunkCount": 498,
+  "performances": [
+    "awe",
+    "care",
+    "fear",
+    "grief",
+    "humor",
+    "neutral",
+    "whisper"
+  ],
+  "durationSec": 2162.86,
+  "bytes": 34606893,
+  "sha256": "6a4160b27841d0cfd330f3a58977364a4414ebbd10d826055ff61b1943f83379",
+  "elapsedSec": 92.25,
+  "generationSecThisRun": 4.33,
+  "generatedSegments": 1,
+  "reusedSegments": 497,
+  "output": "/Volumes/Drive 2/monroe-ai/productions/kindled-monroe-1.2.5-ci-directed-paced/chapter-17/chapter-17.calder-directed-paced.mp3",
+  "master": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/master.wav",
+  "segments": [
+    {
+      "index": 1,
+      "performance": "neutral",
+      "text": "Chapter 17 \u2014 Callie: Fourteen Days to Meridian",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0001.wav",
+      "textSha256": "c087de7c02399a23c7a5ad05db7eb1953da3685f43c82049ecb623809d711580"
+    },
+    {
+      "index": 2,
+      "performance": "fear",
+      "text": "By first light the cold had reached the middle of her chest, and she had stopped being able to spit.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0002.wav",
+      "textSha256": "eada9151f8691b170177bf1cf27fe4a5804b03b601a533f0703bb5bbc3990083"
+    },
+    {
+      "index": 3,
+      "performance": "fear",
+      "text": "Callie knew both facts the way she knew the count, which was twenty-six.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0003.wav",
+      "textSha256": "13f103fe25839964a921383a5a3fa322d242f1007d9dbbc593ece349f213eab5"
+    },
+    {
+      "index": 4,
+      "performance": "fear",
+      "text": "She had killed or tipped twenty-six since the causeway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0004.wav",
+      "textSha256": "492a3d6cf54eace51e9af467f9eaa525e1e42a26223c21d50046ef0dcdb3a2cf"
+    },
+    {
+      "index": 5,
+      "performance": "fear",
+      "text": "They had come in ones all night, from the gravel, from the ditch on the east side of the road, and once from the flats behind, and every one of them had come round the corner of the pump house straight to the doorway where she sat.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0005.wav",
+      "textSha256": "3ef512d90eb33b681156ca2e3e862366791c843be4947a3c797233bf3973f389"
+    },
+    {
+      "index": 6,
+      "performance": "fear",
+      "text": "Not one of them had looked at the walls.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0006.wav",
+      "textSha256": "ca97b4c044bb079ba3afc8e9836050500de7501c9e7ffe0d20941e332a21b21f"
+    },
+    {
+      "index": 7,
+      "performance": "fear",
+      "text": "Not one had tried the windows.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0007.wav",
+      "textSha256": "939bf5dbd8fd4f23f47cce6006bef5ba18606c6e3edd8af292a0e8b57b33c2e4"
+    },
+    {
+      "index": 8,
+      "performance": "fear",
+      "text": "They came to her the way water finds the lowest place in a field, and she stood up and met each one in the road and put it down, and came back and sat on the sill.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0008.wav",
+      "textSha256": "f19efe4f4c1e323763797cabaae06d54584d33f1245633742d7240ce31d885fe"
+    },
+    {
+      "index": 9,
+      "performance": "fear",
+      "text": "Somewhere around the twentieth she had stopped being able to feel her feet.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0009.wav",
+      "textSha256": "56aa934ddf5be8d4ffcd6d5fadedc331215ae988d43c8ec4d3545e0713e19336"
+    },
+    {
+      "index": 10,
+      "performance": "fear",
+      "text": "Somewhere around the twenty-fourth she had put the hook over a husk's shoulder and pulled, and nothing had happened.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0010.wav",
+      "textSha256": "40999bfd2c92af470487523df0eb02b746054dc02a5e1bd298810c3fc024e1d5"
+    },
+    {
+      "index": 11,
+      "performance": "fear",
+      "text": "She had simply stood there holding the pull with her arms shaking, and the husk had leaned against the thing closed over her and gone on leaning, until Katori came out of the doorway with her Ember still buttoned inside her coat and put a boot into the back of the husk's knee and it went down.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0011.wav",
+      "textSha256": "4ccebba2685aa8a2a8834f87f794f34326b7618ad1cc9b2c43489b9264d5b127"
+    },
+    {
+      "index": 12,
+      "performance": "neutral",
+      "text": "\"Thank you,\" Callie had said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0012.wav",
+      "textSha256": "65ef3c8e00bf681e71605a1f74eda3d43565fec49729df8cd6941ebd1d012462"
+    },
+    {
+      "index": 13,
+      "performance": "neutral",
+      "text": "\"Don't thank me.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0013.wav",
+      "textSha256": "4c4548da2d93de2500dac82a8bcebb3be24d2d0d74451bb2d8033feb6c1159c7"
+    },
+    {
+      "index": 14,
+      "performance": "neutral",
+      "text": "Sit down.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0014.wav",
+      "textSha256": "6d1dfdec7ab7209c9e6205b11beadf4d873a18fbf1b1d9e9c6aad7e51b6872c7"
+    },
+    {
+      "index": 15,
+      "performance": "neutral",
+      "text": "She had sat down.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0015.wav",
+      "textSha256": "2f620ee16dfbbb6ab9aef1df7a44bf40ebc0de8c185f482f9403d725499081d9"
+    },
+    {
+      "index": 16,
+      "performance": "neutral",
+      "text": "Now the sky was going grey over the flats, and there was a lark somewhere, and the thing was still on her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0016.wav",
+      "textSha256": "913d67733c865ca5995491da94c94d3c736f518653abef658f8ed1418e5e0c60"
+    },
+    {
+      "index": 17,
+      "performance": "neutral",
+      "text": "The dew had come down in the night on every surface in the country except the clean dry shape of a girl sitting in a doorway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0017.wav",
+      "textSha256": "ccdc3e8d7f153eb4181ba9aabb7ddea7c75baca9858dbb06a7b5a13a562fb72f"
+    },
+    {
+      "index": 18,
+      "performance": "neutral",
+      "text": "Her lips had split in two places.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0018.wav",
+      "textSha256": "ee20b80c86b05e423240f3606e1b13d1ad041df84d79695c817e9f29c994fbec"
+    },
+    {
+      "index": 19,
+      "performance": "neutral",
+      "text": "She had noticed that when she tried to lick them and her tongue stopped a finger's width short.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0019.wav",
+      "textSha256": "256cbe1cb051726cc5038bd173fb0e99c694b6ddcd5075e54cca299beaa50beb"
+    },
+    {
+      "index": 20,
+      "performance": "neutral",
+      "text": "Katori was sitting on the other side of the doorway with her knees up and her cap pulled down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0020.wav",
+      "textSha256": "2a1407755317c5722037b746de09953b156b622d59aa4450573738f7658566d8"
+    },
+    {
+      "index": 21,
+      "performance": "neutral",
+      "text": "She had not slept either.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0021.wav",
+      "textSha256": "fee6c9781ba2de38b96f32d92cbde1947ea5e148cb03ca6f561342e52ff2ae12"
+    },
+    {
+      "index": 22,
+      "performance": "neutral",
+      "text": "Callie was sure of it this time.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0022.wav",
+      "textSha256": "5c547e2ec8d55ca0307715d41a55921cb84cc23647d9becb881b0ef0f806ec89"
+    },
+    {
+      "index": 23,
+      "performance": "care",
+      "text": "\"I was wrong,\" said Katori.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0023.wav",
+      "textSha256": "50a14b5820713eecba9ccd53d6d1fbcbc74e3518f3ff8506a58379489452d22a"
+    },
+    {
+      "index": 24,
+      "performance": "neutral",
+      "text": "Callie turned her head.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0024.wav",
+      "textSha256": "a316ec154743fca55672705d3000b62784589ec8365cb91b871e9236065294cd"
+    },
+    {
+      "index": 25,
+      "performance": "neutral",
+      "text": "It took a long time.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0025.wav",
+      "textSha256": "6a043d43ca19636409759d15861dc54b80c32a9b7eafc613859c66a68d81f530"
+    },
+    {
+      "index": 26,
+      "performance": "neutral",
+      "text": "\"On the sixth night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0026.wav",
+      "textSha256": "c802ee37200a9a0d0df9151ee8275fd8a419625b72bee7bd6bb77f3a5df0f877"
+    },
+    {
+      "index": 27,
+      "performance": "neutral",
+      "text": "On the tailgate, when you asked me what it was like.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0027.wav",
+      "textSha256": "9bc6d7e535b6559492eccaa12e6ef8e3b70549b26fd67835712bf51de70cef5f"
+    },
+    {
+      "index": 28,
+      "performance": "neutral",
+      "text": "Katori was not looking at her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0028.wav",
+      "textSha256": "d7bc5b8353a1da5080709f2f73c5cec5d1ea2850734e9d76217a4570014672a1"
+    },
+    {
+      "index": 29,
+      "performance": "neutral",
+      "text": "She was looking out at the flats, going grey.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0029.wav",
+      "textSha256": "23685be4c5966ef1e5e5e5e435c2d7b9a0fa78a9f1295eec1a12c1f5e4024e30"
+    },
+    {
+      "index": 30,
+      "performance": "neutral",
+      "text": "\"I told you it was one door.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0030.wav",
+      "textSha256": "c51ec0f7fa78976e539698bbfbe915ba5f664b2c4990b3c8155118a2a9ba0314"
+    },
+    {
+      "index": 31,
+      "performance": "neutral",
+      "text": "I told you it was one door for everybody, and I said it like Pell says a distance.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0031.wav",
+      "textSha256": "7d63caed0f9743d53683219cc2bc78621902e04b68f4c7c36fa3f6621d744745"
+    },
+    {
+      "index": 32,
+      "performance": "neutral",
+      "text": "I said people make up a great deal of nonsense because one door isn't very much.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0032.wav",
+      "textSha256": "62531610cf9c7179c42789b01ba6d217fdb12be9ca34651a8a39947b346feb0e"
+    },
+    {
+      "index": 33,
+      "performance": "neutral",
+      "text": "And I believed every word of it, because it's true.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0033.wav",
+      "textSha256": "ccede21418d67248dbe53fb6aac8de23ea5a40be145fdfba9ae30c6368c93f9b"
+    },
+    {
+      "index": 34,
+      "performance": "neutral",
+      "text": "It's true of me and it's true of Pell.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0034.wav",
+      "textSha256": "84411ba75ce6dce40cab07ce20acbad725daa876751457a65f5ab63759486fa8"
+    },
+    {
+      "index": 35,
+      "performance": "neutral",
+      "text": "It's true of everybody I have ever met in my life who had a door at all.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0035.wav",
+      "textSha256": "60fedd65d045ab1ff4695ea76d06b47a552aa673eb7685d570b12dfc655afd26"
+    },
+    {
+      "index": 36,
+      "performance": "neutral",
+      "text": "She stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0036.wav",
+      "textSha256": "1e035e2400adfdc1a86480c53c95ac20d08567bf8a4d2ad0df739cf39019bdb8"
+    },
+    {
+      "index": 37,
+      "performance": "neutral",
+      "text": "\"",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0037.wav",
+      "textSha256": "8a331fdde7032f33a71e1b2e257d80166e348e00fcb17914f48bdb57a1c63007"
+    },
+    {
+      "index": 38,
+      "performance": "neutral",
+      "text": "It isn't true of you.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0038.wav",
+      "textSha256": "da979afc4a9c498573c2dc2c8465d315dbe5477e989fd07c2fe0bb99b3aba4e2"
+    },
+    {
+      "index": 39,
+      "performance": "neutral",
+      "text": "\"No.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0039.wav",
+      "textSha256": "a06fcf42f6466d9178edfccb0cb3bc4bb0d40c78258d071f83567fb8f6952083"
+    },
+    {
+      "index": 40,
+      "performance": "care",
+      "text": "\"There's a word for it,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0040.wav",
+      "textSha256": "cbd48cf01192f85d18fdcbcc6f3774c8a4569fa5ef31bcfbe9f79d722c22f241"
+    },
+    {
+      "index": 41,
+      "performance": "care",
+      "text": "\"Old women use it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0041.wav",
+      "textSha256": "aade6da0d46b460810838379f7f09fc62df4e635ebbc8bb5529392b803157072"
+    },
+    {
+      "index": 42,
+      "performance": "care",
+      "text": "I've heard it said maybe twice in my life, and both times it was said the way you'd talk about a calf with two heads.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0042.wav",
+      "textSha256": "03844e771118ca19c447bd326f6588781f83933da34569a90fcf54b163dcfed7"
+    },
+    {
+      "index": 43,
+      "performance": "care",
+      "text": "Twin-kindled.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0043.wav",
+      "textSha256": "1117aab0d987d08e34e7aba1cc396ebc44861a9028ac899c1f8c8c088b9b70da"
+    },
+    {
+      "index": 44,
+      "performance": "care",
+      "text": "That's all it means.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0044.wav",
+      "textSha256": "bfb8f6f0524a8102c30a058cfe8bf4aa934c03cbc17b5c7113d69c254bb02d46"
+    },
+    {
+      "index": 45,
+      "performance": "care",
+      "text": "Two doors at once, at the start, from two different places.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0045.wav",
+      "textSha256": "6be51bed351edc3381f0d1c8bb118b723e20e3a85a67ee5178ce4120be0d74d0"
+    },
+    {
+      "index": 46,
+      "performance": "care",
+      "text": "I've never met one.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0046.wav",
+      "textSha256": "cead672ccb0a3d068f8a85480b47fc7c08e5e18e2157e5046066dbb188f31c52"
+    },
+    {
+      "index": 47,
+      "performance": "care",
+      "text": "I don't know anybody who has.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0047.wav",
+      "textSha256": "a0e9378911c4b42a3f0b108a68237804ef329b3680c35c86c021856c397c1279"
+    },
+    {
+      "index": 48,
+      "performance": "care",
+      "text": "She pulled her cap down another half inch.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0048.wav",
+      "textSha256": "085114ce5974a26a280719577e7b95dd704a8675e14875acab32313aa277ed6a"
+    },
+    {
+      "index": 49,
+      "performance": "care",
+      "text": "\"So I'm not going to tell you what it means, because I don't know.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0049.wav",
+      "textSha256": "27981f71c62c49ab794bb83f3de27a8775831460634b17d2a8cfc7e31d9ca847"
+    },
+    {
+      "index": 50,
+      "performance": "care",
+      "text": "I'm not going to tell you it's rare, because rare is a word for things people have counted, and nobody's counted this.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0050.wav",
+      "textSha256": "ca82fc541dd35e25a99674fb9c33a46c5ec8fb166538ce9c76fa4c75cfa511ff"
+    },
+    {
+      "index": 51,
+      "performance": "care",
+      "text": "I'm going to tell you I was wrong, and I'm sorry, and that you're going to have to work some of this out with me instead of from me.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0051.wav",
+      "textSha256": "08f47ced20f1981c4fa98424de9c8fca2d37ab4aa54cbcfa56048ce506870019"
+    },
+    {
+      "index": 52,
+      "performance": "neutral",
+      "text": "Callie sat with that for a while.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0052.wav",
+      "textSha256": "fe8bce9bdb3968e9ef7e72f0197a43c69199e5efa2a29da400d60e93391dfbaf"
+    },
+    {
+      "index": 53,
+      "performance": "neutral",
+      "text": "\"The one on me,\" she said at last.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0053.wav",
+      "textSha256": "8b6deb30a2cf568e5e6625fc1103eb4be1bb5aa948333f6a0540ef81e0e2990b"
+    },
+    {
+      "index": 54,
+      "performance": "neutral",
+      "text": "\"You said it was hand-tradition.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0054.wav",
+      "textSha256": "4bb399541fd351c2032f4689a0e335a9555e632473e44973903a579b0bca7103"
+    },
+    {
+      "index": 55,
+      "performance": "neutral",
+      "text": "\"It's a ward.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0055.wav",
+      "textSha256": "8f89127d9f850efa440b428d601368cad891a3674dfe8c05dc9adb4a7ba622f2"
+    },
+    {
+      "index": 56,
+      "performance": "neutral",
+      "text": "I've seen wards.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0056.wav",
+      "textSha256": "54b78c8fc74c8960d0100f916c27bf693af21becd17854d87fa81652c48f8228"
+    },
+    {
+      "index": 57,
+      "performance": "neutral",
+      "text": "There were hand-tradition people in the Warren country.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0057.wav",
+      "textSha256": "eb2d9eea254beb5aea98c287c73dcd24febe3760789112e54c30cd4389aa4191"
+    },
+    {
+      "index": 58,
+      "performance": "neutral",
+      "text": "There was a man there who could stand in a gate and nothing would come through it, and he did it for a living.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0058.wav",
+      "textSha256": "da264b8863f645bb9d2948e1f133264da041918b53742e529416a5dedbcd098b"
+    },
+    {
+      "index": 59,
+      "performance": "neutral",
+      "text": "But I've only ever seen it from outside.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0059.wav",
+      "textSha256": "187ee619dccf8ae34f5b7d0e2e1c98146175f6c9aaebd53c4ffeafa5118372b9"
+    },
+    {
+      "index": 60,
+      "performance": "neutral",
+      "text": "I've never had one.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0060.wav",
+      "textSha256": "4d3611b4b38fab58c03a523c8842d304f7ab7c9951014f34b8cc439ab3693975"
+    },
+    {
+      "index": 61,
+      "performance": "neutral",
+      "text": "Katori looked at her properly for the first time that morning.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0061.wav",
+      "textSha256": "f2151f3135b48e3c9f7e5b2d453d29fff3cec796327f592805d6683925c66737"
+    },
+    {
+      "index": 62,
+      "performance": "neutral",
+      "text": "\"I can't tell you where it's coming from.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0062.wav",
+      "textSha256": "d36db662c581a3b6ef6840d7d3efe7f0e97d781c65af227a17d4fea926971225"
+    },
+    {
+      "index": 63,
+      "performance": "neutral",
+      "text": "I don't know what it feels like from inside.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0063.wav",
+      "textSha256": "ca740404433483522bd1658323c96cc75b62888cef1737659f1d557a111c034e"
+    },
+    {
+      "index": 64,
+      "performance": "neutral",
+      "text": "You told me last night it's leaning on you.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0064.wav",
+      "textSha256": "f9df4093348c20f70023b1af47bef3c006d7e0dee7cd0246bf9f2a01b5b69fb9"
+    },
+    {
+      "index": 65,
+      "performance": "neutral",
+      "text": "That's more than I knew.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0065.wav",
+      "textSha256": "2fc8d251b1a1e7a858fffe7ff49489c430f64ac2f26112e766e1e8f6430cef20"
+    },
+    {
+      "index": 66,
+      "performance": "neutral",
+      "text": "\"It's not leaning,\" said Callie slowly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0066.wav",
+      "textSha256": "ee50ac694a632b99bd7aba638c59d126460b7c09c032e3f49221a1743a2ff3b1"
+    },
+    {
+      "index": 67,
+      "performance": "neutral",
+      "text": "\"That's not right either.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0067.wav",
+      "textSha256": "032cd37bc61334fb09faf5f74d2ead2017808a176fc67d6dddc39e5dec7f7d4c"
+    },
+    {
+      "index": 68,
+      "performance": "neutral",
+      "text": "She had been thinking about it all night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0068.wav",
+      "textSha256": "35406a3b3b61394e810fb842e93e5d58bf266b638e82bbb3d9680185c2a6ce42"
+    },
+    {
+      "index": 69,
+      "performance": "neutral",
+      "text": "She had had nothing else to do but think about it and count.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0069.wav",
+      "textSha256": "90ddbe1c9dcb7c85983215f92a388114f3b73458bc322a742464cf80380e8794"
+    },
+    {
+      "index": 70,
+      "performance": "neutral",
+      "text": "In the dark, between husks, she had gone down into herself the way Katori had shown her with the hook.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0070.wav",
+      "textSha256": "f00a995278d3437ab87b1a2a67538a83cb1939c3ec0dd9ae12c8a6ac5f8558b6"
+    },
+    {
+      "index": 71,
+      "performance": "neutral",
+      "text": "She had followed the Ward back the way she had followed the cold.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0071.wav",
+      "textSha256": "bef6a9f69e957ee94f3ec5f97fb73171ec9ad48b8dafc885e3191e563909591d"
+    },
+    {
+      "index": 72,
+      "performance": "neutral",
+      "text": "And it had not gone back to the well.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0072.wav",
+      "textSha256": "e8247d5e47506ffd72e1f7bde4fd4b6bfde8342ade76c896a0e01bdf21c17a9b"
+    },
+    {
+      "index": 73,
+      "performance": "neutral",
+      "text": "It went down, the same way, into the same deep dark.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0073.wav",
+      "textSha256": "64e47821ab65ad322dd9dad26bad589195369ccd2856e7e39439145f5c4ce995"
+    },
+    {
+      "index": 74,
+      "performance": "neutral",
+      "text": "But it did not come up out of the well into her the way the Edge had.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0074.wav",
+      "textSha256": "c54b72170d6934c70ef75ee05e1d76fde889a5d25e64175b36c9f63eaa611b7d"
+    },
+    {
+      "index": 75,
+      "performance": "neutral",
+      "text": "It was the other way round.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0075.wav",
+      "textSha256": "cb5fc000cdee201a64f7e32634f2d4d2abeda165c35036606b37f77f7ff2e404"
+    },
+    {
+      "index": 76,
+      "performance": "neutral",
+      "text": "It was as if she had something tied on, and whatever was down there had hold of the other end.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0076.wav",
+      "textSha256": "82bafca551670c22c8784d044518706a288ed314ebe18c1b9775db61fa05fd94"
+    },
+    {
+      "index": 77,
+      "performance": "neutral",
+      "text": "She tried to find the words, and the words she found were the only ones she had.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0077.wav",
+      "textSha256": "bfda128cd8978e5b3362b22e5fef68cd6baf07d48989be3b85817882be4aa1df"
+    },
+    {
+      "index": 78,
+      "performance": "whisper",
+      "text": "\"On the causeway,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0078.wav",
+      "textSha256": "725a67f0ba6b08da3b005f8c9bac47795f227d14fc7a45be8ff89ea2a316e4a3"
+    },
+    {
+      "index": 79,
+      "performance": "whisper",
+      "text": "\"When the horse kicked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0079.wav",
+      "textSha256": "8d9b5c3fc5fbf5f39bc76423c8ce412cedf2393faf1267fde2adec3b72692395"
+    },
+    {
+      "index": 80,
+      "performance": "whisper",
+      "text": "Before it hit.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0080.wav",
+      "textSha256": "48d24abeba52e0537a25aafe3ed04025ba171abbb9ea0ba28962c0ce3f9c66fa"
+    },
+    {
+      "index": 81,
+      "performance": "whisper",
+      "text": "It went down, and then something \u2014 it was like something took the other side of the yoke.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0081.wav",
+      "textSha256": "0614c38400b04d314922e173b457acc6c2d3740722fa02fc60aa84c788a25829"
+    },
+    {
+      "index": 82,
+      "performance": "neutral",
+      "text": "Katori waited.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0082.wav",
+      "textSha256": "481d08f27193560a40140d461db36ea174f4e16b7cdc5fdfb915be9aca217a30"
+    },
+    {
+      "index": 83,
+      "performance": "fear",
+      "text": "\"The barrow.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0083.wav",
+      "textSha256": "2c6917140c1816f774bd1f9dace083f3ed713aafabf8a084b1f9a991b7405e1e"
+    },
+    {
+      "index": 84,
+      "performance": "fear",
+      "text": "On the way south.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0084.wav",
+      "textSha256": "9378975daa2739f0a00f6b8ec3a7e892679718b058862b4fca873f7562edbf9e"
+    },
+    {
+      "index": 85,
+      "performance": "fear",
+      "text": "I had the strapping crossed over here.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0085.wav",
+      "textSha256": "47d2043df3121bcb80eb160a97708511c32b42fd47541cbe3ea480987f148a67"
+    },
+    {
+      "index": 86,
+      "performance": "fear",
+      "text": "Callie lifted a hand that she could not feel and drew two lines across her own chest, over her coat, over the air a finger off her coat.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0086.wav",
+      "textSha256": "1a7194c82fc4e05a121e235572f1c5fa63004786f64853a7eed286f1a3a5d00d"
+    },
+    {
+      "index": 87,
+      "performance": "fear",
+      "text": "\"Four hundred miles.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0087.wav",
+      "textSha256": "2a9db8f0c27ab1ebf488bd533b331c71e5c9e7b304644bcb6ab2bba4d3789d99"
+    },
+    {
+      "index": 88,
+      "performance": "fear",
+      "text": "And when the horse kicked, it was like somebody got in on the other side of the yoke and pulled with me.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0088.wav",
+      "textSha256": "3df7d49060fe90b4eec1197c7959db0d46d84965f545ade1631d02e19163989b"
+    },
+    {
+      "index": 89,
+      "performance": "fear",
+      "text": "And we've been pulling ever since.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0089.wav",
+      "textSha256": "7773158f71df476e4d954a63f8df7968e950d47f1fdc54bd0d2c48ddd4a365f8"
+    },
+    {
+      "index": 90,
+      "performance": "fear",
+      "text": "Both of us.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0090.wav",
+      "textSha256": "4d004371047d0d9ccc03adbcee3bce3d0ce7bc78303b5a4ce2095a163327c537"
+    },
+    {
+      "index": 91,
+      "performance": "fear",
+      "text": "All night.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0091.wav",
+      "textSha256": "64dd3b6e0daa0861f0888573c39710f768b2a66982c07226bf57a741a66a86b7"
+    },
+    {
+      "index": 92,
+      "performance": "fear",
+      "text": "She stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0092.wav",
+      "textSha256": "1e035e2400adfdc1a86480c53c95ac20d08567bf8a4d2ad0df739cf39019bdb8"
+    },
+    {
+      "index": 93,
+      "performance": "fear",
+      "text": "\"I've never stopped.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0093.wav",
+      "textSha256": "d777e18084a05803a75e44428fc448fd482fc823a48d9a083c7b08c4348667d0"
+    },
+    {
+      "index": 94,
+      "performance": "fear",
+      "text": "I've never set it down.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0094.wav",
+      "textSha256": "c1a3c71fb72c53d51e4fafb02a478d11dd4db51d386bc0392ccd3ac1112d197d"
+    },
+    {
+      "index": 95,
+      "performance": "neutral",
+      "text": "Katori said nothing for so long that Callie thought she hadn't understood.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0095.wav",
+      "textSha256": "1b764d64dc7f42f47ff53b5c4eccfb504bfb85c81fead9845c7eefe9b2d952d1"
+    },
+    {
+      "index": 96,
+      "performance": "neutral",
+      "text": "Then Katori stood up, and turned round, and said into the room behind the doorway, not loudly, \"Otto.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0096.wav",
+      "textSha256": "cd76545662a00dac5a7af2155d0970e1e34de331cfe9d1de1e0fa3d82d2454f2"
+    },
+    {
+      "index": 97,
+      "performance": "neutral",
+      "text": "Are you awake?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0097.wav",
+      "textSha256": "814b4b6027a0600dc42ccde033ec573c04515332f553ac6737609be80f2aa2c3"
+    },
+    {
+      "index": 98,
+      "performance": "neutral",
+      "text": "\"Yes,\" said Otto at once, from the dark by the wall.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0098.wav",
+      "textSha256": "caada41ef337e8eb0b4b20db011926d896c381737c66ec637587f0eaa0f543b3"
+    },
+    {
+      "index": 99,
+      "performance": "neutral",
+      "text": "\"Get Callie's barrow down off the wagon.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0099.wav",
+      "textSha256": "18f37e3928b3d3867daf3066768efd442e3dc9fd8055b1d96d8507737bd3d1d1"
+    },
+    {
+      "index": 100,
+      "performance": "neutral",
+      "text": "The strapping on it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0100.wav",
+      "textSha256": "b46cdc0bca9b97c54af5a846564adb1fec816e3c60c9a44887462e7df7b27f69"
+    },
+    {
+      "index": 101,
+      "performance": "neutral",
+      "text": "All of it, just as it was.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0101.wav",
+      "textSha256": "cd56b4c3c442ad3467157d73d4c951ca5e1d8dec1717d7d815a92cd4273fcaec"
+    },
+    {
+      "index": 102,
+      "performance": "neutral",
+      "text": "Otto brought it round the corner of the pump house with his good hand, trundling it on its two bicycle wheels.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0102.wav",
+      "textSha256": "8caefdcdd338eea3fc6ec62bb91867f6d9f8f011b305c46d95fae1c9c354aaca"
+    },
+    {
+      "index": 103,
+      "performance": "neutral",
+      "text": "Its handles bumped over the gravel.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0103.wav",
+      "textSha256": "aec0df53252a425db2cdf8909cb99c043afa48b453f3ead2534049348d4652ac"
+    },
+    {
+      "index": 104,
+      "performance": "neutral",
+      "text": "It was empty.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0104.wav",
+      "textSha256": "e9fd8a738ab2c264e3f8840f4706f7d7e7158f77d826bbb306dcb9a6cf0c6b2e"
+    },
+    {
+      "index": 105,
+      "performance": "neutral",
+      "text": "Somebody had taken the flour and the pot and the jar out of it in the night, and it looked smaller than Callie remembered, and older.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0105.wav",
+      "textSha256": "4c6ddc92e8c1a93fe3a8f2e56a2e8ab6817a26f54196cb5ac509869ad6ee107a"
+    },
+    {
+      "index": 106,
+      "performance": "neutral",
+      "text": "The tape round the rims had gone grey.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0106.wav",
+      "textSha256": "a4415fd483365d2178e7eb02c1c25c543f2d770c118c012e2f748516d82499cf"
+    },
+    {
+      "index": 107,
+      "performance": "neutral",
+      "text": "The two lengths of cargo strapping lay in its bed, still hooked to the frame at one end, still buckled together at the other, just as she had unbuckled them on the first morning, in front of four strangers, because she had wanted her arms.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0107.wav",
+      "textSha256": "476209142f3d842350a5b8e86a058e59e668c50a0a38549f350b82231eba37ff"
+    },
+    {
+      "index": 108,
+      "performance": "neutral",
+      "text": "She stood up.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0108.wav",
+      "textSha256": "7a0fb97837b34e802d16c43bfef32e3f9ffffabc0e8196ecea394ea732df06ed"
+    },
+    {
+      "index": 109,
+      "performance": "neutral",
+      "text": "It took her two tries.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0109.wav",
+      "textSha256": "99a36796a778d7da33b41b41dafdb0b9eb737d2e894ef9a0e033343c885e8792"
+    },
+    {
+      "index": 110,
+      "performance": "neutral",
+      "text": "She did not know if it would work.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0110.wav",
+      "textSha256": "12351aaa9a8a2ff5fea87e74f817181e5e52508d86b6e27a09336d2a178fba16"
+    },
+    {
+      "index": 111,
+      "performance": "neutral",
+      "text": "She had no reason to think it would.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0111.wav",
+      "textSha256": "3768591c8a9671a7ff6a1dc231fec782fa8d8a5ca63b1dbb94fd8e8e5eb4b67a"
+    },
+    {
+      "index": 112,
+      "performance": "neutral",
+      "text": "The thing closed over her was not a barrow and it had never been a barrow.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0112.wav",
+      "textSha256": "a95370d1a16fd58407df06ee2cf14aa45b9078aa1df5a4e1c9eab8de0e738951"
+    },
+    {
+      "index": 113,
+      "performance": "neutral",
+      "text": "Nothing in the world said you could get a door off by pretending it was a strap.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0113.wav",
+      "textSha256": "eaa74bb95ca396ad997e959d565571fdeb256b32db184e0492b86a0c18f918aa"
+    },
+    {
+      "index": 114,
+      "performance": "neutral",
+      "text": "But she did not have a better idea, and she had been awake for twenty-four hours, and she had not had water since the afternoon before.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0114.wav",
+      "textSha256": "2cfd9dc072854930b19b1c6f138f4818dfbd2763403bcbdaafc35c922bfdf825"
+    },
+    {
+      "index": 115,
+      "performance": "fear",
+      "text": "She backed into the barrow the way she had backed into it every morning since the spring.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0115.wav",
+      "textSha256": "168c623c99fae53bc88d119df0916762a92a515797569d2c84df1a23290f1514"
+    },
+    {
+      "index": 116,
+      "performance": "fear",
+      "text": "She lifted the strapping and brought it over her shoulders and crossed it over her chest.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0116.wav",
+      "textSha256": "93f05c75b5ef8096597c626122a1987e7fc7ed9c44475768be8531c135a04403"
+    },
+    {
+      "index": 117,
+      "performance": "fear",
+      "text": "The webbing lay a finger's width off her coat all the way round, on the air, where the Ward was.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0117.wav",
+      "textSha256": "4e34b929d470d7ca5ff2618aad25525b670bd0983d0615518b641b69bd3979e0"
+    },
+    {
+      "index": 118,
+      "performance": "fear",
+      "text": "She reached behind her for the buckle, and got it, and it took her a long time with hands she could not feel.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0118.wav",
+      "textSha256": "f0bb6febb33cf2552af0e69203ccf7feae7c0905f21ceb834a64afb5e51fd306"
+    },
+    {
+      "index": 119,
+      "performance": "fear",
+      "text": "It clicked.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0119.wav",
+      "textSha256": "8822229f10eb19c8cb40f6087ec8daccac2b726479d8a632e43f8e8430f1b8eb"
+    },
+    {
+      "index": 120,
+      "performance": "fear",
+      "text": "She stood there with the strapping on.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0120.wav",
+      "textSha256": "53c008eac9105edd5e765e10615b08f711a227a01018ffe008a823670008a203"
+    },
+    {
+      "index": 121,
+      "performance": "fear",
+      "text": "It did nothing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0121.wav",
+      "textSha256": "f915828330e9fc3da2251a2a8fbbff08d0728894e87b3fe2fd5ead209140baab"
+    },
+    {
+      "index": 122,
+      "performance": "fear",
+      "text": "For a moment, it did nothing at all, and she felt her whole chest sink with it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0122.wav",
+      "textSha256": "eafa43dbc6534568ba1cf5128bd4367d93e6ae137a259242d0be231a45979d32"
+    },
+    {
+      "index": 123,
+      "performance": "fear",
+      "text": "Then she bent and took the handles.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0123.wav",
+      "textSha256": "0dd62224dd2289f3929417120796e6781582a0fbf635a97522c970b78c304ef4"
+    },
+    {
+      "index": 124,
+      "performance": "fear",
+      "text": "The weight came onto her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0124.wav",
+      "textSha256": "5155332eea266dd28f2d3c49d38eb7b7a29ffe3dea698e9887072f987d36a012"
+    },
+    {
+      "index": 125,
+      "performance": "fear",
+      "text": "It was not much weight, because it was an empty barrow.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0125.wav",
+      "textSha256": "8ada082a3c5e13aa52869b4e39583f730d74baa4a1a37aa575966999abb7905b"
+    },
+    {
+      "index": 126,
+      "performance": "fear",
+      "text": "It was nothing at all to what she had pulled for four hundred miles.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0126.wav",
+      "textSha256": "731216bf376b1677a485559f0e8c15b5f7108719dc02430ea5fa08bdd144d1a2"
+    },
+    {
+      "index": 127,
+      "performance": "fear",
+      "text": "But it came onto her in exactly the right place, across the chest and into the hips, where the two dark lines had worn into every shirt she owned.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0127.wav",
+      "textSha256": "a336c434f8a741468ad4a8a244ba5ebbd25d667e40891d306d543ae37057a5cf"
+    },
+    {
+      "index": 128,
+      "performance": "fear",
+      "text": "And the thing closed over her came onto the strapping with it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0128.wav",
+      "textSha256": "039cfd9e2cf072036c990b333b8fb7fb2509e9a72b6b117fb9e807e7f0a92d8f"
+    },
+    {
+      "index": 129,
+      "performance": "fear",
+      "text": "She felt it happen.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0129.wav",
+      "textSha256": "baf9ab5d196ce1b8999ffaffa9cfbb82f2fb239359bb2c5646c8df65f7277edc"
+    },
+    {
+      "index": 130,
+      "performance": "fear",
+      "text": "She felt it the way you feel a second person take the far handle of a stretcher.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0130.wav",
+      "textSha256": "711580d288a99db2f27422ee03ca42a41fe3a20233f4c6086b791b563d7c896a"
+    },
+    {
+      "index": 131,
+      "performance": "fear",
+      "text": "All night the Ward had been lying on her everywhere at once, from boots to crown.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0131.wav",
+      "textSha256": "f8c96c6a276e2f67b6efd35a8a7a9b497dccbbe6851995b33bda7a6c901a3f7a"
+    },
+    {
+      "index": 132,
+      "performance": "fear",
+      "text": "Now it was not everywhere any more.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0132.wav",
+      "textSha256": "52060e217635ac5046ac4dc9f307dfc035c69198405a836153178f6ee9b28ec9"
+    },
+    {
+      "index": 133,
+      "performance": "fear",
+      "text": "It was there, in the yoke, across her chest, pulling with her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0133.wav",
+      "textSha256": "ec031729180318fded430d0f032f3d0b0a60507c5527e7c81fdf17fc84190d45"
+    },
+    {
+      "index": 134,
+      "performance": "fear",
+      "text": "It was the same thing she had felt in the half-second before the kick, the other side of the yoke taken up.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0134.wav",
+      "textSha256": "5b921b067d7f7ae3079009df847a3bbc47a227bdedb06e044a68b8081b7e975f"
+    },
+    {
+      "index": 135,
+      "performance": "neutral",
+      "text": "She walked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0135.wav",
+      "textSha256": "455389bf0360287c57b4b674590dd659935645829e786850bdca0ba14891f958"
+    },
+    {
+      "index": 136,
+      "performance": "neutral",
+      "text": "One step.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0136.wav",
+      "textSha256": "91fbb43c114380652d3da1f0b01691f0fe4f72659738c1f22be07294e09b4bc8"
+    },
+    {
+      "index": 137,
+      "performance": "neutral",
+      "text": "Two.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0137.wav",
+      "textSha256": "1eb32d1ee4458814f94f8b92d1bd3e06e16dca6fab43d53f700840321f27fdf4"
+    },
+    {
+      "index": 138,
+      "performance": "neutral",
+      "text": "The wheels creaked on the gravel.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0138.wav",
+      "textSha256": "8ab02c33b837995a80bb603f570ab08184dcf84233fb726e82dc7cc81104ddd5"
+    },
+    {
+      "index": 139,
+      "performance": "neutral",
+      "text": "She took the barrow six steps up the road, north, the way she had taken it for a whole spring, with the other side of the yoke pulling along beside her.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0139.wav",
+      "textSha256": "518101458a14c6d7432893028d6f5bffd37e185e9cfa428d7e96e510b72be8c2"
+    },
+    {
+      "index": 140,
+      "performance": "neutral",
+      "text": "Then she stopped, the way she had stopped at the end of every day.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0140.wav",
+      "textSha256": "25c6e7baf88cef2b32bc1ad7721f91e48fb4731ad50e2db8c147ed334c182320"
+    },
+    {
+      "index": 141,
+      "performance": "neutral",
+      "text": "She set the legs down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0141.wav",
+      "textSha256": "da7dba4cf2e228e6f9f62374788857661f81bc64db8f98464b78994e64d86a18"
+    },
+    {
+      "index": 142,
+      "performance": "neutral",
+      "text": "She did it properly, the way her mother had made her do it on the first week out of Thistle Ford, when she had dropped the barrow once too hard and bent a leg.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0142.wav",
+      "textSha256": "c31d4cbcbbf440006fd21ec19dad005a0f20f8b0b6af76286f5eac7be4fab73c"
+    },
+    {
+      "index": 143,
+      "performance": "neutral",
+      "text": "You set it down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0143.wav",
+      "textSha256": "7fe863473f60bccb6692e60b123b47fb1fd883c189642ba1424e9d80fc4cbcca"
+    },
+    {
+      "index": 144,
+      "performance": "neutral",
+      "text": "You don't let go of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0144.wav",
+      "textSha256": "c1a82c415c17ea05c18125969d6adf7816c6fb63555d69f332afb93381e10d47"
+    },
+    {
+      "index": 145,
+      "performance": "neutral",
+      "text": "You set it down, and then you get out.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0145.wav",
+      "textSha256": "74ebc1a9b236128a91e5af6e3d319325fec9383235f9a31b9822802f3c738747"
+    },
+    {
+      "index": 146,
+      "performance": "neutral",
+      "text": "She let the handles down until the legs took the weight, gently, and she felt the load go off her into the ground.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0146.wav",
+      "textSha256": "f7a2da76e64aa1e54534cd266ea35e6791cb84825c98c61ac24b21ee2267e3ef"
+    },
+    {
+      "index": 147,
+      "performance": "neutral",
+      "text": "Then she reached behind her for the buckle, and unclipped it, and stepped out.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0147.wav",
+      "textSha256": "b2ac3e26efd6913fbede40aa6f13d004f17d5ec5e17af4ca9bc6787d430efeca"
+    },
+    {
+      "index": 148,
+      "performance": "awe",
+      "text": "The first thing she felt was",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0148.wav",
+      "textSha256": "6282836337afe0dc1d09dfc6ef6bd7140011b7cb8da56cecdcbd10ddf48fcc67"
+    },
+    {
+      "index": 149,
+      "performance": "awe",
+      "text": "the air.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0149.wav",
+      "textSha256": "f251519746ddc5bd99f3b20b89841687722800f28b9f663b66b1d66439672b03"
+    },
+    {
+      "index": 150,
+      "performance": "awe",
+      "text": "It was cold.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0150.wav",
+      "textSha256": "e4a33061b85f4d4f5b60721c6db199512667d6cd9d1789114a0fb100e427dd92"
+    },
+    {
+      "index": 151,
+      "performance": "awe",
+      "text": "It was a real cold, the cold of a morning at the head of a reservoir in the last of the dark, on her face and on the backs of her hands and down the back of her neck where her hair was.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0151.wav",
+      "textSha256": "a29d6189ae2c8a4f73942628d0e152853ef462ac9b0b8ee600f0e8eaab7ce920"
+    },
+    {
+      "index": 152,
+      "performance": "awe",
+      "text": "It had not been able to reach her for thirteen hours.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0152.wav",
+      "textSha256": "f66ba7f8a223047b8ebc0856a90499e80402d349c45ebc166eee6e784916889a"
+    },
+    {
+      "index": 153,
+      "performance": "awe",
+      "text": "It came onto her all at once and it was the best thing she had ever felt in her life.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0153.wav",
+      "textSha256": "629fba5af572f61a95663178c4dfaf553d04332c81716c7c91b8d104676dc334"
+    },
+    {
+      "index": 154,
+      "performance": "awe",
+      "text": "The second thing she felt was the dew.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0154.wav",
+      "textSha256": "18ea31f5d1a2cd8a594f508fd58199967b5695dfbb9a8f210d6de733381d1a57"
+    },
+    {
+      "index": 155,
+      "performance": "grief",
+      "text": "She had walked six steps off the dry place into wet gravel.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0155.wav",
+      "textSha256": "83f1343418a3f8f9b6b01b4095d1ca5ca9a4729f8162ac4562dfa5d789d2de88"
+    },
+    {
+      "index": 156,
+      "performance": "grief",
+      "text": "Her boots were wet.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0156.wav",
+      "textSha256": "9b1229c1218773e6b1444c9fbd9a7936d1e0f2ac7e6d242c73b44a93cd9d7292"
+    },
+    {
+      "index": 157,
+      "performance": "grief",
+      "text": "Her boots were wet and she could feel them being wet.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0157.wav",
+      "textSha256": "ed4f4d7d7697b650830ae5e5fb951ae06f68c9415b27142512b7b70792cb7008"
+    },
+    {
+      "index": 158,
+      "performance": "grief",
+      "text": "She stood there in the road with the strapping hanging off her shoulders, feeling her own feet get cold,",
+      "pauseAfterMs": 340,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0158.wav",
+      "textSha256": "d3c3e573e15e5a829a9919600f2b72351ed3652e08ebf6c1b5ee77af2e079e45"
+    },
+    {
+      "index": 159,
+      "performance": "grief",
+      "text": "and she started to cry and couldn't stop, and she didn't try to.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0159.wav",
+      "textSha256": "de47e96a6ad2ced6ae32535eee9d519a71f6b24816da66572b841adb8521058e"
+    },
+    {
+      "index": 160,
+      "performance": "neutral",
+      "text": "The third thing was that her legs went.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0160.wav",
+      "textSha256": "0287e2705de556eeadf6eae51e0b646b4ef82265d83839ea1dc12816fd0eeaee"
+    },
+    {
+      "index": 161,
+      "performance": "neutral",
+      "text": "Katori caught her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0161.wav",
+      "textSha256": "2602096a94a4116c8ed577e1eaee911b61a8e4b9b960065163b32adbdbf78dd1"
+    },
+    {
+      "index": 162,
+      "performance": "neutral",
+      "text": "Katori's arm went round her from behind, under the arms, and it did not stop a finger's width off her coat.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0162.wav",
+      "textSha256": "23e6983bf1b91423bce6495015245e09672c379ced2e825bb6e96f634e454074"
+    },
+    {
+      "index": 163,
+      "performance": "neutral",
+      "text": "It went all the way round and closed and held on.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0163.wav",
+      "textSha256": "60023c422413158b83c4ae2187cfa7aa5326367824d17fa3ab41b6ae07de730f"
+    },
+    {
+      "index": 164,
+      "performance": "neutral",
+      "text": "It was",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0164.wav",
+      "textSha256": "7b42e507dd06b87bfe033c8eaeeeaebbf9ff2567c5bad7cc18d5cc65f285909c"
+    },
+    {
+      "index": 165,
+      "performance": "neutral",
+      "text": "a real arm, hard and thin, like a fence rail, and Callie leaned back into it and let it hold her up, and she felt every bit of it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0165.wav",
+      "textSha256": "44f79825512de4c5d1edb011be965daa733ae47e9c24e81e3a72d499195b87fe"
+    },
+    {
+      "index": 166,
+      "performance": "care",
+      "text": "\"There,\" said Katori, into her hair.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0166.wav",
+      "textSha256": "07000e75fc0af5ab119f8f12bb7f76944ec92a79784f71fbf1a77429304eabcf"
+    },
+    {
+      "index": 167,
+      "performance": "care",
+      "text": "\"There.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0167.wav",
+      "textSha256": "dd666bbf4a390c8ec645e6e784585906415ebf62bea73a7179f9cda36db3f3ef"
+    },
+    {
+      "index": 168,
+      "performance": "care",
+      "text": "You're off.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0168.wav",
+      "textSha256": "440bf9dbaaf35075434877448774650b717eb0ae39be605e5d17bbae6ba4b484"
+    },
+    {
+      "index": 169,
+      "performance": "care",
+      "text": "You're off it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0169.wav",
+      "textSha256": "835853186d3e5fcac6778bfc0c6967e99dcabc984c19ae98d73bd50533158814"
+    },
+    {
+      "index": 170,
+      "performance": "neutral",
+      "text": "\"Is it gone?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0170.wav",
+      "textSha256": "7ba338f58866cfcb1b265237d34b352a45b9cd8f173d1529babb974e62d4cf29"
+    },
+    {
+      "index": 171,
+      "performance": "neutral",
+      "text": "\"I can't see it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0171.wav",
+      "textSha256": "6554ebec59bff4c28972b69fc801685d582a8b03cd3e2bcad189aabf96786ede"
+    },
+    {
+      "index": 172,
+      "performance": "neutral",
+      "text": "I could see it all night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0172.wav",
+      "textSha256": "6476b631fdfd1512dc7fee79c37f2d6d0aa4ae5727102844ab09d12cb19971b8"
+    },
+    {
+      "index": 173,
+      "performance": "neutral",
+      "text": "There was a kind of shine on you, like old glass.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0173.wav",
+      "textSha256": "96477d5ec717921d77c0b733e7a666f7cf97e535f41027b7f046677b45e260c1"
+    },
+    {
+      "index": 174,
+      "performance": "neutral",
+      "text": "It's gone.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0174.wav",
+      "textSha256": "3e0c40927455bdddc0bd4cbb191d1775cc28bc89c662b87541c400a5168db16e"
+    },
+    {
+      "index": 175,
+      "performance": "neutral",
+      "text": "Katori's arm tightened.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0175.wav",
+      "textSha256": "8784cbf0294cc50ed12c4e842133135a42dbe9d2e952832ddaa240445217792d"
+    },
+    {
+      "index": 176,
+      "performance": "neutral",
+      "text": "\"Did you know that was going to work?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0176.wav",
+      "textSha256": "a1886819fede9d9f2fb6185c661ad7e472eb972e10825758dedb7b89cac80a99"
+    },
+    {
+      "index": 177,
+      "performance": "neutral",
+      "text": "\"No.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0177.wav",
+      "textSha256": "a06fcf42f6466d9178edfccb0cb3bc4bb0d40c78258d071f83567fb8f6952083"
+    },
+    {
+      "index": 178,
+      "performance": "neutral",
+      "text": "\"I couldn't have told you that,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0178.wav",
+      "textSha256": "16428cfd662df79037a6e9dbf24a9e91d66e0d9123e8b73818108720a1429003"
+    },
+    {
+      "index": 179,
+      "performance": "neutral",
+      "text": "\"I want you to hear me say it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0179.wav",
+      "textSha256": "c0bc1100539f770ec7cc27920b75fe3907586e7019f7f40c2e4b361f81557587"
+    },
+    {
+      "index": 180,
+      "performance": "neutral",
+      "text": "I could never have told you that.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0180.wav",
+      "textSha256": "1f9797a2aacd2736abde33d95955cf67c16fd9d9b088e9649736a10dab4440f4"
+    },
+    {
+      "index": 181,
+      "performance": "neutral",
+      "text": "I'd have been at it with you for a week and I'd never have thought of the barrow.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0181.wav",
+      "textSha256": "e42910f11228f54acbf9eeb544a7b6ee38f29976fd7eca29618d8a179ea75305"
+    },
+    {
+      "index": 182,
+      "performance": "neutral",
+      "text": "Her mother was awake.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0182.wav",
+      "textSha256": "24658930473c0883dc8df10cd0d12f3f7689d65248d7d4b081b304e1af726dcb"
+    },
+    {
+      "index": 183,
+      "performance": "neutral",
+      "text": "Of course she was.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0183.wav",
+      "textSha256": "6f3c2d5fc8916cca0e7b844a0bc9eb841056e400b14507d501a0fc7e4eef70d9"
+    },
+    {
+      "index": 184,
+      "performance": "neutral",
+      "text": "They had propped her against the wall by the doorway sometime before light, so she could see out.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0184.wav",
+      "textSha256": "d54ea9808f06c06764337fbf179d1f07b35f9c6681acfd0ebffc9a6f4f2c5800"
+    },
+    {
+      "index": 185,
+      "performance": "neutral",
+      "text": "Callie had not noticed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0185.wav",
+      "textSha256": "5cde30deea8c21c305298d92b77098f539afba320ffd3b0d174419927173b49f"
+    },
+    {
+      "index": 186,
+      "performance": "neutral",
+      "text": "She had watched the whole thing: the barrow, the six steps, the legs set down, the buckle.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0186.wav",
+      "textSha256": "0810c90693f00de180761b1522eba2dd11687c4e30675eef971391e4304ea37c"
+    },
+    {
+      "index": 187,
+      "performance": "neutral",
+      "text": "Katori walked Callie to her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0187.wav",
+      "textSha256": "7de64b547558de8db07b6a6584530cb117c19a56de443222c1b4e95097a238d4"
+    },
+    {
+      "index": 188,
+      "performance": "neutral",
+      "text": "Or it was closer to carrying.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0188.wav",
+      "textSha256": "954edcb431a51fd5ede847c06525a32c58542a9b11b8ba72b193d220a5514fb3"
+    },
+    {
+      "index": 189,
+      "performance": "neutral",
+      "text": "Callie sat down hard on the bedding beside her mother and could not have got up again for any money.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0189.wav",
+      "textSha256": "0df7c136bf201c90ac34db94166f7768830a41b5adfac75fb14833f1ddf80161"
+    },
+    {
+      "index": 190,
+      "performance": "neutral",
+      "text": "Her mother put her hand out, her left one, slowly, the same as in the night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0190.wav",
+      "textSha256": "5155735446ae542f5ac103175e4108e9524fd0ec1b24166f2ad8870781092230"
+    },
+    {
+      "index": 191,
+      "performance": "neutral",
+      "text": "Callie didn't move.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0191.wav",
+      "textSha256": "249a1405c22aa5c0d08221e120b5a2bc4d4cf1401bf5becc9b0e9c43194364f1"
+    },
+    {
+      "index": 192,
+      "performance": "neutral",
+      "text": "It touched her.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0192.wav",
+      "textSha256": "796fed6e222ca061eae518088c30cb9354cdbdab2ff66ee1db88fce612944375"
+    },
+    {
+      "index": 193,
+      "performance": "care",
+      "text": "It was the dry rough skin at the tip of the thumb along her cheekbone, and warm, and a little shaking.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0193.wav",
+      "textSha256": "8c5657b3b28b31282468066cff8f952e949cfd918f96334a63e814e2f0533340"
+    },
+    {
+      "index": 194,
+      "performance": "care",
+      "text": "Her mother held it there.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0194.wav",
+      "textSha256": "4ab856d6f17747881371bad40ac212363bf29a72bfedb84b9ae7aa98a801bf77"
+    },
+    {
+      "index": 195,
+      "performance": "care",
+      "text": "Callie shut her eyes and leaned her face into it and neither of them said anything for a long time.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0195.wav",
+      "textSha256": "12fdf8d4d0339e8f84dcb768fbfa4b42f66c4c5bef49edfce2043ea975144180"
+    },
+    {
+      "index": 196,
+      "performance": "care",
+      "text": "\"Well,\" said her mother eventually.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0196.wav",
+      "textSha256": "1286a2da1610af85117fda613874de736d843f29c546f094907b2edc0ff22af3"
+    },
+    {
+      "index": 197,
+      "performance": "care",
+      "text": "Her voice did something at the end of the word and came back.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0197.wav",
+      "textSha256": "b2873dbfad18647ea4573c0b1a100a22cf027828527851d033c71740a74f6cd3"
+    },
+    {
+      "index": 198,
+      "performance": "care",
+      "text": "\"",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0198.wav",
+      "textSha256": "8a331fdde7032f33a71e1b2e257d80166e348e00fcb17914f48bdb57a1c63007"
+    },
+    {
+      "index": 199,
+      "performance": "care",
+      "text": "There you are.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0199.wav",
+      "textSha256": "d56b5f27c5c0919ac99b0c29b189d3a24fbc3d11317fda068a81687ef416f0b2"
+    },
+    {
+      "index": 200,
+      "performance": "care",
+      "text": "\"Here I am.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0200.wav",
+      "textSha256": "e0c2ad5cb762329508fe6047aa23551cc16b5b821b3c80309160b2878f9487cb"
+    },
+    {
+      "index": 201,
+      "performance": "neutral",
+      "text": "\"Don't do that again.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0201.wav",
+      "textSha256": "b61eb145836b89f7db0644d8e03545bd59545a26e8f31959192fe2815a300528"
+    },
+    {
+      "index": 202,
+      "performance": "neutral",
+      "text": "\"I didn't do it the first time.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0202.wav",
+      "textSha256": "6d4d07094bb196a0a5487ce9a2752fd8fcfd7132f98101af15ae9d5a68d1ba29"
+    },
+    {
+      "index": 203,
+      "performance": "neutral",
+      "text": "\"I'm aware.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0203.wav",
+      "textSha256": "7937310002f5f500a9890d256b7694dd72a1609ed8989827190cadbb39038511"
+    },
+    {
+      "index": 204,
+      "performance": "neutral",
+      "text": "I'm saying it anyway.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0204.wav",
+      "textSha256": "cb04f5a9d87190c31db84436e94a0983a179699b0cea4b0f926bfcb10980caa6"
+    },
+    {
+      "index": 205,
+      "performance": "neutral",
+      "text": "Her thumb moved once along the cheekbone.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0205.wav",
+      "textSha256": "3faaef1913f9cb5e18ff68fe7f5a11fcc8bf3706d456a32810c506d4344c0932"
+    },
+    {
+      "index": 206,
+      "performance": "neutral",
+      "text": "\"You'll want some water, I expect.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0206.wav",
+      "textSha256": "1c1bbcb8d89d8b8009481bdd21e67dc5607557c064147d01baa04a6ac9a46d73"
+    },
+    {
+      "index": 207,
+      "performance": "neutral",
+      "text": "You'll want quite a lot of water.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0207.wav",
+      "textSha256": "2736a6b967d72501c0dd361d97956ef32bc8d02055ba35fb907ee216e1bbdaad"
+    },
+    {
+      "index": 208,
+      "performance": "neutral",
+      "text": "Pell's been standing behind you with that cup for the last minute and he's too polite to interrupt.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0208.wav",
+      "textSha256": "7b47e7a307d63a1d2c173951ed1208a4a6fbd657c8efd97ea3f83f142d49d43e"
+    },
+    {
+      "index": 209,
+      "performance": "neutral",
+      "text": "Pell was.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0209.wav",
+      "textSha256": "5d439f250e994c442295b456b7bd7e11b40c33730456c9c59d2eef6ea5529f6d"
+    },
+    {
+      "index": 210,
+      "performance": "neutral",
+      "text": "He handed down the tin cup without a word.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0210.wav",
+      "textSha256": "14357afffb7eef94d9aa9e3a9cae7aed05f4b9893bfc5619d8e6eae14b9dae09"
+    },
+    {
+      "index": 211,
+      "performance": "neutral",
+      "text": "Callie took it in both hands, and they shook so badly that half of it went down her front, and she didn't care.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0211.wav",
+      "textSha256": "8aacd27fb19c4f543da17122aae240b33450971206ca206ccd1e3e086642c699"
+    },
+    {
+      "index": 212,
+      "performance": "neutral",
+      "text": "She drank the rest of it and it touched her lips and her tongue and it was the best water there had ever been.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0212.wav",
+      "textSha256": "e02c1743152418832d65d33815a1f6be25523ede81118b44550bc1369ff41ef1"
+    },
+    {
+      "index": 213,
+      "performance": "neutral",
+      "text": "Pell filled it again from the can, and she drank that too, and Pell filled it again.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0213.wav",
+      "textSha256": "b8a48c8114bee405c09647c0988358f0435f2911f2c8fe3930453d0150ecb296"
+    },
+    {
+      "index": 214,
+      "performance": "neutral",
+      "text": "\"Slower,\" he said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0214.wav",
+      "textSha256": "aa838d26f96a896c3c937592ab4ec45e1946f03effd5bf941ec2eb5584a8288f"
+    },
+    {
+      "index": 215,
+      "performance": "neutral",
+      "text": "\"You'll be sick.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0215.wav",
+      "textSha256": "52d810c21da338cc7075efe89c19ef644271dc47418dc8a15596b112d94a2f77"
+    },
+    {
+      "index": 216,
+      "performance": "neutral",
+      "text": "\"I don't care.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0216.wav",
+      "textSha256": "7ce3d2f72e337721a55f0e4db31876e119cadb6143468fe97d0c14747bad480f"
+    },
+    {
+      "index": 217,
+      "performance": "humor",
+      "text": "\"I know you don't.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0217.wav",
+      "textSha256": "6d4d955e31cd7a2eee782135f22d842ff9ab4da523e2c8fcebe8d5e5884859ca"
+    },
+    {
+      "index": 218,
+      "performance": "humor",
+      "text": "I'd prefer you not to be sick anyway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0218.wav",
+      "textSha256": "1a5b31b50bb551c286d845e575a89011f6299b7499cc0fba188eda6036a16534"
+    },
+    {
+      "index": 219,
+      "performance": "humor",
+      "text": "Otto's already done it once and I'd rather not start a fashion.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0219.wav",
+      "textSha256": "ca25b43a5cb7a0e992fba658e7273ac099ebba593371d0f4cc504d8bb19208bd"
+    },
+    {
+      "index": 220,
+      "performance": "neutral",
+      "text": "Katori came back with a tin.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0220.wav",
+      "textSha256": "e0c326be09cc5f30d0ced54c7d50c8809450906e71dcb075f3da2a7b40b6efae"
+    },
+    {
+      "index": 221,
+      "performance": "neutral",
+      "text": "It was a small flat tin with a screw lid, dented on one side.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0221.wav",
+      "textSha256": "e247e485322c5488761b860bed551490ec9f0aabf2aec086eef230789562a844"
+    },
+    {
+      "index": 222,
+      "performance": "neutral",
+      "text": "Callie knew the kind.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0222.wav",
+      "textSha256": "e3889e99198d2bd35eaa75a938570add4391e5d8e908781749c49cda8e130fb3"
+    },
+    {
+      "index": 223,
+      "performance": "neutral",
+      "text": "Every lifter on every road had one.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0223.wav",
+      "textSha256": "3c8e2bd4bad1a92911c24184801de9583bc50979ffb29cc5e8ebc52b3cd7cc69"
+    },
+    {
+      "index": 224,
+      "performance": "neutral",
+      "text": "Katori sat down on her heels in front of her and unscrewed it and held it out, and inside there were two fingers of ash, grey and fine, with that faint shine like something wet that wasn't.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0224.wav",
+      "textSha256": "37083df7cda1879a7d6a76a0d3e0e5a7d6ab14110f0b054c47740ae510c1feb8"
+    },
+    {
+      "index": 225,
+      "performance": "neutral",
+      "text": "\"Do you know what this is for?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0225.wav",
+      "textSha256": "30e87f1f16143f30749320deb29affb6c70943d0e86d87229fb8c41edc0da66c"
+    },
+    {
+      "index": 226,
+      "performance": "neutral",
+      "text": "Katori said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0226.wav",
+      "textSha256": "b7a1c98d968ffeb848a6b7fc8153075da2cb0ebdbb2e7d7b384858e58d6b6799"
+    },
+    {
+      "index": 227,
+      "performance": "neutral",
+      "text": "Callie looked at it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0227.wav",
+      "textSha256": "92e58cbab25fb5d8bdc5f89129dd6d6c9d71aadb9bde7cfca2a971a9228ab206"
+    },
+    {
+      "index": 228,
+      "performance": "neutral",
+      "text": "She had lifted it since she was eleven.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0228.wav",
+      "textSha256": "2d3106150f14578046abad8eaaccffa88b9e968bd0876a5372145e0cd4f9245c"
+    },
+    {
+      "index": 229,
+      "performance": "neutral",
+      "text": "She had lifted it out of culvert seams and wheel ruts and the cracks between old paving stones.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0229.wav",
+      "textSha256": "273c419064cc16437b0a8ef3dd9bc50d45b7d625d5ca14db7df4b8a4173b87d2"
+    },
+    {
+      "index": 230,
+      "performance": "neutral",
+      "text": "She had skimmed it with two fingers and the flat of her hand, unhurried, like cream off milk, and sold it at every wall between Thistle Ford and here.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0230.wav",
+      "textSha256": "b7d3f3e7cf3a4f290bfc313a0a0df711baf608eb3a6133c5acf3cca3d45a5324"
+    },
+    {
+      "index": 231,
+      "performance": "neutral",
+      "text": "Four handfuls in a screw-top jar under the flour, and then five.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0231.wav",
+      "textSha256": "32cf6636545fa182346fed1259184513108c0d60c7abe9e4b345ad02394a2ce3"
+    },
+    {
+      "index": 232,
+      "performance": "neutral",
+      "text": "She had never once asked what it did for the people who bought it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0232.wav",
+      "textSha256": "9e4ab1fd395737c151ea083302dd9d1c235562d0a3155a0dfd78fad70ed80866"
+    },
+    {
+      "index": 233,
+      "performance": "neutral",
+      "text": "Asking made you look like a person who didn't know what she was carrying.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0233.wav",
+      "textSha256": "19dc8abfdde20ab1629d30ceb9dbcec6e057c7ecdf016ad578bdcf42adcc1ecd"
+    },
+    {
+      "index": 234,
+      "performance": "neutral",
+      "text": "\"No,\" she said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0234.wav",
+      "textSha256": "aebf75fb3a921b4d93db64224d63be6400389aeba4849111de7686ec6d667094"
+    },
+    {
+      "index": 235,
+      "performance": "neutral",
+      "text": "\"No,\" Katori agreed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0235.wav",
+      "textSha256": "04d69a56968b223e45794fd6d9cd248ce02b3567de5fb8b03db64245ff9a4a7c"
+    },
+    {
+      "index": 236,
+      "performance": "neutral",
+      "text": "\"Nobody who lifts it does, mostly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0236.wav",
+      "textSha256": "8a0adeacaee8bbe162ac1b1360e6cc186dacd996391249d4bea7901d0f0f386d"
+    },
+    {
+      "index": 237,
+      "performance": "neutral",
+      "text": "I didn't, until I was thirteen and four months.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0237.wav",
+      "textSha256": "39efe1403da9a5c762f37c1f4bc180bf5ad6bb134c96ec123a6edf811cc5f034"
+    },
+    {
+      "index": 238,
+      "performance": "neutral",
+      "text": "She tipped the tin and let a little of the ash fall into the tin cup, into the last of the water.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0238.wav",
+      "textSha256": "31f0205c277530728efecfe072794fb5b36db05f673a1f2ec1b1d84fc34dcec7"
+    },
+    {
+      "index": 239,
+      "performance": "neutral",
+      "text": "It went down through it slowly, turning, the way flour goes down through water, and it did not cloud it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0239.wav",
+      "textSha256": "d2c7bf7bc86703692c96c8db77a1ece0dfeecba594a214e7c9232aee0a2f6fdb"
+    },
+    {
+      "index": 240,
+      "performance": "neutral",
+      "text": "The water went on being clear.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0240.wav",
+      "textSha256": "395bf7807b6c6d94bde47f9333bce738c76cb6de4448394fc624feae996612f6"
+    },
+    {
+      "index": 241,
+      "performance": "neutral",
+      "text": "\"",
+      "pauseAfterMs": 340,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0241.wav",
+      "textSha256": "8a331fdde7032f33a71e1b2e257d80166e348e00fcb17914f48bdb57a1c63007"
+    },
+    {
+      "index": 242,
+      "performance": "neutral",
+      "text": "You emptied yourself last night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0242.wav",
+      "textSha256": "05dc80465e4bbbf3f6932bc7dcb0e4719c00ba6d22d549647bb77884b68a778c"
+    },
+    {
+      "index": 243,
+      "performance": "neutral",
+      "text": "All the way down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0243.wav",
+      "textSha256": "09fe1c843a8fc046a61af8db8400bb2e5035e77399f8975e66337bad2aa1bc60"
+    },
+    {
+      "index": 244,
+      "performance": "neutral",
+      "text": "What you've got in you, what comes through the door, fills up again on its own, slowly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0244.wav",
+      "textSha256": "f6fdcbeb091aa27be14ef6c6d35fa4057690b04a73eda7c17c8192769bbe5c6a"
+    },
+    {
+      "index": 245,
+      "performance": "neutral",
+      "text": "It takes days.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0245.wav",
+      "textSha256": "a62f053678be5e11cfcd15a9c567d03d4c3dc3704abcfa7b119d534bfeea5207"
+    },
+    {
+      "index": 246,
+      "performance": "neutral",
+      "text": "This fills it faster.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0246.wav",
+      "textSha256": "3123a6e6b78b1e4e22799e95d3768e403c91174c11fde4d3663d1f47263cb07a"
+    },
+    {
+      "index": 247,
+      "performance": "neutral",
+      "text": "That's all it does.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0247.wav",
+      "textSha256": "9247f567f18c3252e14acbfa7593656b987609971b3254665a921f34a67bfd61"
+    },
+    {
+      "index": 248,
+      "performance": "neutral",
+      "text": "That's all it's ever done.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0248.wav",
+      "textSha256": "72320a98c4be1f58112d3a262535047d4f8bb992610e7abcd9155779a689d0bc"
+    },
+    {
+      "index": 249,
+      "performance": "neutral",
+      "text": "It's why a man with a door will pay you three times what a weighmaster will.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0249.wav",
+      "textSha256": "24e1061ba1a03ea9da53838077259e3dca3520df33d492bca4194c4fc8f44786"
+    },
+    {
+      "index": 250,
+      "performance": "neutral",
+      "text": "Callie looked at the cup.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0250.wav",
+      "textSha256": "270028e6a55aed9d442d69f13297384de740cfdaae93bc23ddc2e5700ed0f258"
+    },
+    {
+      "index": 251,
+      "performance": "neutral",
+      "text": "\"That's mine,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0251.wav",
+      "textSha256": "8b9d047eb8d3d1f4c3166e8cd466b8774f1b562956037f5f6fd50bad9ca5ef69"
+    },
+    {
+      "index": 252,
+      "performance": "neutral",
+      "text": "\"The ash.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0252.wav",
+      "textSha256": "d07cdc7de143382f6b46d64a6cf90cd0637067b548b4f5d14474532389e6d0e0"
+    },
+    {
+      "index": 253,
+      "performance": "neutral",
+      "text": "The jar.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0253.wav",
+      "textSha256": "8fc62ef3fe68efd2189bf6532eea8b18a9e0b427710122f71cbcc1e3616187dc"
+    },
+    {
+      "index": 254,
+      "performance": "neutral",
+      "text": "That's what we were going to \u2014 at the gate, I was going to \u2014 \"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0254.wav",
+      "textSha256": "d6a034d093b05f9970fc41ca020a1a074ee2725f953974dc1eac81186d00ad1b"
+    },
+    {
+      "index": 255,
+      "performance": "neutral",
+      "text": "\"This is mine,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0255.wav",
+      "textSha256": "bae2581e8d807a184222edfc388d952adedc854ab614d277e8dbf94b281f0aed"
+    },
+    {
+      "index": 256,
+      "performance": "neutral",
+      "text": "\"Not yours.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0256.wav",
+      "textSha256": "f075cd51889a093d8b9ff6f58e6f94d7478d07e35ca0eae9130a5d7a4ac9a43a"
+    },
+    {
+      "index": 257,
+      "performance": "neutral",
+      "text": "Your jar's where it was.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0257.wav",
+      "textSha256": "5f3487dab24317534ca5787d6a0587d623ec1b4b4aed36a77b1e1d8070605d86"
+    },
+    {
+      "index": 258,
+      "performance": "neutral",
+      "text": "Drink it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0258.wav",
+      "textSha256": "d5191e4c3cab8fb37fc164334844f69b56a1c7ebf429f4adff83de2ef96a12cb"
+    },
+    {
+      "index": 259,
+      "performance": "neutral",
+      "text": "Callie drank it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0259.wav",
+      "textSha256": "349013f83b20c6d47da6ebe327334a7f445e19322b5b5f6733d24a37620e8b87"
+    },
+    {
+      "index": 260,
+      "performance": "neutral",
+      "text": "It tasted of nothing, the way cold water tastes of nothing.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0260.wav",
+      "textSha256": "3658901aa034c2b8c69c7221d1844904f338cdce5da0f591da08f80e34979422"
+    },
+    {
+      "index": 261,
+      "performance": "neutral",
+      "text": "For a moment nothing happened at all.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0261.wav",
+      "textSha256": "7600b3a9ca294f84ff62a39b4cd0c20d5abc5059bb4514a3282a00e265c26822"
+    },
+    {
+      "index": 262,
+      "performance": "awe",
+      "text": "Then, very far down, at the bottom of the place she had found in the night, something was damp that had been dry.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0262.wav",
+      "textSha256": "e4b26077edef9c0796a8c95ac86aed7b38debfe75dacc0e8d79e2ba5449b39a1"
+    },
+    {
+      "index": 263,
+      "performance": "awe",
+      "text": "It was not warm.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0263.wav",
+      "textSha256": "cb5c4a5fb2960f414992556d9beff0347fc9bcb750ce2383488a6b2dfd7b6c32"
+    },
+    {
+      "index": 264,
+      "performance": "awe",
+      "text": "It was not strength.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0264.wav",
+      "textSha256": "5909f1f8b04500387c46cb3488a3ec14aa0879c7888945f6fccc4d2c23b9aa97"
+    },
+    {
+      "index": 265,
+      "performance": "awe",
+      "text": "It was the difference between a dry well and a well with",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0265.wav",
+      "textSha256": "87ed8a6219fa7964d02744a451dc80f69ac01bc11a728aa983d0908915f02679"
+    },
+    {
+      "index": 266,
+      "performance": "awe",
+      "text": "an inch of water in the bottom of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0266.wav",
+      "textSha256": "b7cd3b2b549aef8fb663e34f3bd9c2ebd9b5312490445da6a8e4b4a4cc742bd6"
+    },
+    {
+      "index": 267,
+      "performance": "awe",
+      "text": "It wasn't much.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0267.wav",
+      "textSha256": "bf379a207e85aab70acd206e2e5e29ca513d1587f717c102e8ba1def0a276565"
+    },
+    {
+      "index": 268,
+      "performance": "awe",
+      "text": "But it was a long way from nothing.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0268.wav",
+      "textSha256": "ed6aa19c2ff99513df50159eb420008d828bfd76ee404132db6a7c45c1e6b292"
+    },
+    {
+      "index": 269,
+      "performance": "neutral",
+      "text": "\"Oh,\" she said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0269.wav",
+      "textSha256": "aa71e38f230bb07fa89b62537d90b3e2b8ea8d61cc7e742bb414aa657d860f5f"
+    },
+    {
+      "index": 270,
+      "performance": "neutral",
+      "text": "\"Yes,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0270.wav",
+      "textSha256": "6e924d669b089c186c0cbe7faa2cc404941164e4d25d7450e3dc98130a6e1a13"
+    },
+    {
+      "index": 271,
+      "performance": "neutral",
+      "text": "\"That's what it's for.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0271.wav",
+      "textSha256": "af77d1f6027414c0b21bd97fe8a5da228651351f3d721110cb9c5ac395eccf5f"
+    },
+    {
+      "index": 272,
+      "performance": "neutral",
+      "text": "She screwed the lid back on the tin.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0272.wav",
+      "textSha256": "5763bc8927d707b5b43842a64cda3160d06d458b34730be17633fcd53c155dec"
+    },
+    {
+      "index": 273,
+      "performance": "neutral",
+      "text": "\"Now go to sleep.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0273.wav",
+      "textSha256": "cabce429bccbfe00b1fb19eee0c0d9026fc7e6b5d460477b7254db0672d7c6ce"
+    },
+    {
+      "index": 274,
+      "performance": "neutral",
+      "text": "\"I can't.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0274.wav",
+      "textSha256": "69879cc9bea2907d0bc7f03e432f7bd947f714f0fbc9e40b370ebbd6ba946a52"
+    },
+    {
+      "index": 275,
+      "performance": "neutral",
+      "text": "They'll \u2014 \"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0275.wav",
+      "textSha256": "a91da0112486d0b38d645b2cd3c33257a392b5eb1498a4df97a674ef1dfd7313"
+    },
+    {
+      "index": 276,
+      "performance": "neutral",
+      "text": "\"They won't.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0276.wav",
+      "textSha256": "691581950d931d7463e94979f534a7f7ca100541c9b4db0de6aae6665b31a7a4"
+    },
+    {
+      "index": 277,
+      "performance": "neutral",
+      "text": "You're dark.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0277.wav",
+      "textSha256": "9d7f35debfabf711c26619d5f96ec9425497eb9d32f12785f7a723973e93318b"
+    },
+    {
+      "index": 278,
+      "performance": "neutral",
+      "text": "Katori stood.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0278.wav",
+      "textSha256": "c37c1563c07143f7eb71cd83e29878fb9f977739489660bae0132631efb87969"
+    },
+    {
+      "index": 279,
+      "performance": "neutral",
+      "text": "\"You're as dark as Ines.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0279.wav",
+      "textSha256": "26a3a606216a6c6ff359291bc064e63470e05513166d7cba5916d1477ea1f2a7"
+    },
+    {
+      "index": 280,
+      "performance": "neutral",
+      "text": "Nothing out there can feel you any more than it can feel a stone.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0280.wav",
+      "textSha256": "09eccc6850455b0666b217bf3a82b488c02746df01ac1a0d3ce9298ef21d694e"
+    },
+    {
+      "index": 281,
+      "performance": "neutral",
+      "text": "Go to sleep, Callie.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0281.wav",
+      "textSha256": "1f5a1e90fe379153f9717d00116b3417b58597341fd2c236bd364408a09d294e"
+    },
+    {
+      "index": 282,
+      "performance": "neutral",
+      "text": "That's not advice.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0282.wav",
+      "textSha256": "c8d4615e79687f2b9179798d263a0e852e73b072e186c4b9ea6575a460645847"
+    },
+    {
+      "index": 283,
+      "performance": "neutral",
+      "text": "That's the next part of the job.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0283.wav",
+      "textSha256": "739f035aa930828d4ca2f1cbf59bc559787daaa14bdbbadb0192eb37a5bd46f7"
+    },
+    {
+      "index": 284,
+      "performance": "neutral",
+      "text": "Callie went to sleep.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0284.wav",
+      "textSha256": "b336a284d9b83648384e5fd6e979a6d1ffb37dbae3fd061b73d79325c7eabee2"
+    },
+    {
+      "index": 285,
+      "performance": "neutral",
+      "text": "She woke in the middle of the afternoon with the sun on her face and no idea where she was.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0285.wav",
+      "textSha256": "734ac636aa526e88eaaaf84447775973ab8949ec4f70debd793eede8587dda71"
+    },
+    {
+      "index": 286,
+      "performance": "care",
+      "text": "It was hot.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0286.wav",
+      "textSha256": "c16585f830d4c27fdf6e771d75264188ccb6ba429b70088dae5c2d824467ef94"
+    },
+    {
+      "index": 287,
+      "performance": "care",
+      "text": "She lay still and let the pump house put itself back together round her: the four grey walls, the roofless square of blue, the smell of old concrete and horse and somebody cooking something with onions.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0287.wav",
+      "textSha256": "8da9d23c75c490462d4db5a79d770998652aa4e423d413d4b88ac2fd80f2854c"
+    },
+    {
+      "index": 288,
+      "performance": "care",
+      "text": "She was under two blankets she had not put on herself.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0288.wav",
+      "textSha256": "d3f13d30fcfb6a170035cc6bd313fd6d4cb642f1631b64531e207169604dfe95"
+    },
+    {
+      "index": 289,
+      "performance": "care",
+      "text": "Her boots were off.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0289.wav",
+      "textSha256": "946b3892e3f694758c311758e07662b36a480f321118d159e5fbc0d8362d3039"
+    },
+    {
+      "index": 290,
+      "performance": "care",
+      "text": "Somebody had pulled them off and stood them against the wall, side by side, with the laces tucked in, and she knew without needing to think about it that it had been her mother, left-handed, and that it had taken a long time.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0290.wav",
+      "textSha256": "7763207c788926e12e392a239fbd0c7c2c2393c30f0f2e540f0d4dd2ba9e4e8c"
+    },
+    {
+      "index": 291,
+      "performance": "care",
+      "text": "Her mother was asleep beside her, propped up, with her mouth a little open.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0291.wav",
+      "textSha256": "20bda7a93f48604dc161e92225aaa54ffbcb845a4239721954ef5886147f1773"
+    },
+    {
+      "index": 292,
+      "performance": "care",
+      "text": "Callie lay and watched her breathe for a while.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0292.wav",
+      "textSha256": "c2d67e093f947a7bbd0d7bc6143f2e388fd59cf72741fd0e2341df85b8a02951"
+    },
+    {
+      "index": 293,
+      "performance": "care",
+      "text": "Then she got up.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0293.wav",
+      "textSha256": "4c004ed5c7222de7c436865bba827e3f9bf30b380dc73f59b90ea00514ed96e4"
+    },
+    {
+      "index": 294,
+      "performance": "neutral",
+      "text": "Everyone else was outside.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0294.wav",
+      "textSha256": "65f5c498d397ebdc5152bc1f5e7cb3e5c2874c618908a1a1e682ee4ef39acf82"
+    },
+    {
+      "index": 295,
+      "performance": "neutral",
+      "text": "Pell had the wagon drawn up on the gravel in the lee of the pump house with the off rear corner up on a stack of old concrete blocks and the wheel off.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0295.wav",
+      "textSha256": "399b2c3292c72ece7646e0fbb523182feb247212c00e8d72671da16bb3aa0bec"
+    },
+    {
+      "index": 296,
+      "performance": "neutral",
+      "text": "The wheel was lying flat on the ground beside him, and he was sitting on an upturned crate looking at it, the way he looked at the atlas.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0296.wav",
+      "textSha256": "79bfa21db9f52f0365c8c3acc60ad8ad30c5903d77fcc0c78268445b7b091916"
+    },
+    {
+      "index": 297,
+      "performance": "neutral",
+      "text": "Callie came and looked too.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0297.wav",
+      "textSha256": "f2ea14ad228291fc3693c7cd8fdc69bfbedcf324d21376f714476adbcbf1c6c9"
+    },
+    {
+      "index": 298,
+      "performance": "neutral",
+      "text": "The iron tyre had held.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0298.wav",
+      "textSha256": "a4a1c0827976baa7a793a37cfed0e7333a0b62e2bfb0cb3a273db0a0a035135f"
+    },
+    {
+      "index": 299,
+      "performance": "neutral",
+      "text": "The wooden rim under it had not.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0299.wav",
+      "textSha256": "ea64a09e2e0f74a2a747fcb544a54da69251dadddedd54019b75c2e3f7c246bf"
+    },
+    {
+      "index": 300,
+      "performance": "neutral",
+      "text": "It had split right across where it had come down on the rail stub, and two spokes had sprung out of their sockets and stood loose.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0300.wav",
+      "textSha256": "4a3e3080f5de6d37b1791c58665012fc42ed2858513a40eb03d2b965b7e04804"
+    },
+    {
+      "index": 301,
+      "performance": "neutral",
+      "text": "It would roll.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0301.wav",
+      "textSha256": "5ffcf661a1ec7a7d4d8be7727b195aa4be0296bbf51dd97a99e4cbabaf76ff9c"
+    },
+    {
+      "index": 302,
+      "performance": "neutral",
+      "text": "It would roll for a mile or ten miles or a hundred, and then it would stop rolling, all at once, somewhere worse than here.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0302.wav",
+      "textSha256": "f8baf2e1ccd5074c7717c1144d2e2e341fd5192a596982158c2f097b99e80971"
+    },
+    {
+      "index": 303,
+      "performance": "neutral",
+      "text": "\"The spare,\" said Pell, without looking up, \"is under the bed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0303.wav",
+      "textSha256": "4dc472ff95b6b4d9e83a05d22957ca74f7f3379d8599de2ee064fa462de0b292"
+    },
+    {
+      "index": 304,
+      "performance": "neutral",
+      "text": "I've carried it nine hundred miles.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0304.wav",
+      "textSha256": "9c9d84a5ceaff2735f9faf927026f235d847503edde72588c8e23c213c7443ad"
+    },
+    {
+      "index": 305,
+      "performance": "neutral",
+      "text": "I'll put it on in the morning when Otto has two arms' worth of opinion about it instead of one.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0305.wav",
+      "textSha256": "3c09c911fb39b281de4300daf8a5fd1bc95ef2c47457ce06caaf5ac02d302ecd"
+    },
+    {
+      "index": 306,
+      "performance": "neutral",
+      "text": "He looked up at her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0306.wav",
+      "textSha256": "f712b28f3fdd77138e2b593cb567fc343e37b7c1d0e70be0dd0552fc7abf5bcd"
+    },
+    {
+      "index": 307,
+      "performance": "neutral",
+      "text": "\"Good afternoon.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0307.wav",
+      "textSha256": "48826dcded44754340d85310978494097df507cb68e063fdbab9352c60bd05a8"
+    },
+    {
+      "index": 308,
+      "performance": "neutral",
+      "text": "\"Good afternoon.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0308.wav",
+      "textSha256": "48826dcded44754340d85310978494097df507cb68e063fdbab9352c60bd05a8"
+    },
+    {
+      "index": 309,
+      "performance": "neutral",
+      "text": "\"You look like a person.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0309.wav",
+      "textSha256": "37d1c000dfb7127b0f08201bd02036c004b0470ef4a077470d9f4af6ebdb7846"
+    },
+    {
+      "index": 310,
+      "performance": "neutral",
+      "text": "\"I feel like one.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0310.wav",
+      "textSha256": "3306942ff551acadc759ee7dca2d632e7949b1e04cf6be1e45533b9801a52cf8"
+    },
+    {
+      "index": 311,
+      "performance": "neutral",
+      "text": "\"Good.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0311.wav",
+      "textSha256": "df9394b21be0d7702b928a3010f29b1dd758e01a1ed2a52468a89f8b42cbc694"
+    },
+    {
+      "index": 312,
+      "performance": "neutral",
+      "text": "It's an improvement.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0312.wav",
+      "textSha256": "7f1d94196f75c873e3f58216f57f16babc853912c28831539468b40f375846a7"
+    },
+    {
+      "index": 313,
+      "performance": "neutral",
+      "text": "He nodded toward the road.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0313.wav",
+      "textSha256": "0e58770d646160df6e36b2c7ccb855e8611c1e3531e0af2c4fc33f6757d4125c"
+    },
+    {
+      "index": 314,
+      "performance": "neutral",
+      "text": "\"They're back.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0314.wav",
+      "textSha256": "b4967caaa69f38c8a31563c6670b1cc6b9f57ae229d7e9aa9fe3ae0d1ebc580c"
+    },
+    {
+      "index": 315,
+      "performance": "neutral",
+      "text": "Katori and Ines were coming up the gravel from the head of the causeway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0315.wav",
+      "textSha256": "91c11c7dc429cced8fc4ed46bf65319dc21d04274b017591100cce708eda560a"
+    },
+    {
+      "index": 316,
+      "performance": "neutral",
+      "text": "They were walking slowly, the way people walk who have been on their knees for hours.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0316.wav",
+      "textSha256": "ae8163043580735e4e99b33eea84508947b4a8650b77e3b56b721fb7a74ec0ee"
+    },
+    {
+      "index": 317,
+      "performance": "neutral",
+      "text": "Each of them had a canvas sack over one shoulder, and the sacks had the particular heavy, soft sag that Callie had only ever seen in a weighmaster's back room.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0317.wav",
+      "textSha256": "2efa7980f1035cfa2e1a32a92da886e2c2e8f02615882ddb6cd031fc010ab3e3"
+    },
+    {
+      "index": 318,
+      "performance": "neutral",
+      "text": "Ines walked straight past everybody to the wagon.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0318.wav",
+      "textSha256": "36b99052d2b5b329382b77e255bcaa70c375d15a5c24acb658a38f689dd0d0df"
+    },
+    {
+      "index": 319,
+      "performance": "neutral",
+      "text": "She unslung her quiver and laid it on the tailboard, and began taking out arrows one at a time and laying them down in a row.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0319.wav",
+      "textSha256": "1d63fb768cf7f73c177445d173b9ac7daddaebf09eb9254c1647730a210db273"
+    },
+    {
+      "index": 320,
+      "performance": "neutral",
+      "text": "Callie counted without meaning to.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0320.wav",
+      "textSha256": "549b151e0582ea30030a498f2d7d9cfb0bcce9f066e929f2c93b1d89b483eec0"
+    },
+    {
+      "index": 321,
+      "performance": "neutral",
+      "text": "Four.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0321.wav",
+      "textSha256": "2f7820a5325de01510971fb541180d3730df116b28942068bb1e5a7040528833"
+    },
+    {
+      "index": 322,
+      "performance": "neutral",
+      "text": "Five.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0322.wav",
+      "textSha256": "a62a3699a6ab74ba0e901dc48a1d800e5f60f3fb52da7925f8b9b367cbbaa769"
+    },
+    {
+      "index": 323,
+      "performance": "neutral",
+      "text": "Six.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0323.wav",
+      "textSha256": "cfd6e8dd2766d6cf27044370c0d45023b7b6ff5e3bdb73947831ff7bdada2e03"
+    },
+    {
+      "index": 324,
+      "performance": "neutral",
+      "text": "\"West rock,\" said Ines, to nobody.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0324.wav",
+      "textSha256": "ecfd3ed4df4a95e8e32e158922ba095db1046c9389b4965b5be45d8a12460b22"
+    },
+    {
+      "index": 325,
+      "performance": "neutral",
+      "text": "\"The two I could see.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0325.wav",
+      "textSha256": "c72846e2e22555cbecfa64a771e4fcd565db5270d2dc14d760702cb1284367ac"
+    },
+    {
+      "index": 326,
+      "performance": "neutral",
+      "text": "One of them's straight, one of them I'll have to look at.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0326.wav",
+      "textSha256": "fd9f61ba5f145da8e972e8e15e79fa28ba67d64344aaaf80501f386dd5eb76ee"
+    },
+    {
+      "index": 327,
+      "performance": "neutral",
+      "text": "She looked at the six arrows for a moment, lying in a row on the boards.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0327.wav",
+      "textSha256": "8806b9c1dff561bef25b164774e9e3fddebde2eddec845a3c020a69e1f771b33"
+    },
+    {
+      "index": 328,
+      "performance": "neutral",
+      "text": "\"Six,\" she said, and her shoulders came down half an inch, which on Ines was a great deal.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0328.wav",
+      "textSha256": "d8ccbe5e2e846695cecbb01e0bd5c66ff9dbd50d76510b1381e06e48a355cf4b"
+    },
+    {
+      "index": 329,
+      "performance": "neutral",
+      "text": "Katori set her sack down by the wheel with a care Callie recognized.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0329.wav",
+      "textSha256": "6026e284fbc52b17ba554606a0c2ea99bab8aa6c13ff5d64907b515a1e16d1b7"
+    },
+    {
+      "index": 330,
+      "performance": "neutral",
+      "text": "\"There were two lying up at the south end,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0330.wav",
+      "textSha256": "5853d668dd891c42af81882068244740dc4dda7ff7badee5a6b958f155160c62"
+    },
+    {
+      "index": 331,
+      "performance": "neutral",
+      "text": "\"Right in it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0331.wav",
+      "textSha256": "1be1d26de2d80690a1c429a8803ecfdec1b4ee49b29ed4eb65a9224cda782c3a"
+    },
+    {
+      "index": 332,
+      "performance": "neutral",
+      "text": "Right in the seams, where it was thickest, lying down in it like cattle in a pond.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0332.wav",
+      "textSha256": "48dfd7e3868bd79f3b512bb657111449ea5956ffc41cc222c14a7675fee097bc"
+    },
+    {
+      "index": 333,
+      "performance": "neutral",
+      "text": "We did them before we started.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0333.wav",
+      "textSha256": "7a07e851461ef49d41c26beef1b657837980cf55666be835e9705db1afe0c5f0"
+    },
+    {
+      "index": 334,
+      "performance": "neutral",
+      "text": "She sat down on the tailboard.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0334.wav",
+      "textSha256": "a293a2683155ba4fdd85d1d4bf4c9162a9b4feb03fa68eb48795b4fa32b1e969"
+    },
+    {
+      "index": 335,
+      "performance": "neutral",
+      "text": "\"You were right.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0335.wav",
+      "textSha256": "319f76b87e133ae2fa6436f17574b7af0f0eb95e1f8ad0ae4af63401afdd2c8c"
+    },
+    {
+      "index": 336,
+      "performance": "neutral",
+      "text": "It called all night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0336.wav",
+      "textSha256": "edada84fe46cf790551dca2256b7ae0d2085fae525b6c3cfbd7684856b32c2ea"
+    },
+    {
+      "index": 337,
+      "performance": "neutral",
+      "text": "I don't want to think about how many there'd have been if we'd been sitting on top of it with a lamp.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0337.wav",
+      "textSha256": "054403fca96ff3fab08618269fed7bfb3ea191316f703977925393b26dcd0eaa"
+    },
+    {
+      "index": 338,
+      "performance": "neutral",
+      "text": "\"How much?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0338.wav",
+      "textSha256": "3b9a0b5f9145ee7c3c7c833019c2f078b397b211e323ca754ef6140892ecdf29"
+    },
+    {
+      "index": 339,
+      "performance": "neutral",
+      "text": "said Callie.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0339.wav",
+      "textSha256": "87bebecba8bf4da8e5400e93eb7197ed33bb9febe38011b78bf961e9e1ea99ed"
+    },
+    {
+      "index": 340,
+      "performance": "neutral",
+      "text": "She did not mean to ask it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0340.wav",
+      "textSha256": "df9a7896a206acba58d0e41f8e720e3c62fc5b771cebfb72e1ddd0b0f65af9bb"
+    },
+    {
+      "index": 341,
+      "performance": "neutral",
+      "text": "It came out.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0341.wav",
+      "textSha256": "405d60b4e93d17e18437dd898e0c46f1e91fa15b17ee5c319d11b36f71aecc97"
+    },
+    {
+      "index": 342,
+      "performance": "neutral",
+      "text": "Katori looked at Pell.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0342.wav",
+      "textSha256": "3246dff50f19c9928c336594bf34528026d979578310ca0a2b87ca5499bd9b15"
+    },
+    {
+      "index": 343,
+      "performance": "neutral",
+      "text": "Pell had the atlas on his knee.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0343.wav",
+      "textSha256": "df0a9f08c31a76c45f3c996a5e6e9d70e8e7da04d1f64732d070bb7e84aba964"
+    },
+    {
+      "index": 344,
+      "performance": "neutral",
+      "text": "He did not open it to a page.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0344.wav",
+      "textSha256": "5f7b056fe881c6216cacb80ec89f4c585dc7a47e8b78d7f2a0336dd8f3fbf615"
+    },
+    {
+      "index": 345,
+      "performance": "neutral",
+      "text": "He opened it to the back, where the columns were, and he ran his pencil down one of them and said a number.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0345.wav",
+      "textSha256": "7edb5108ba30af188f25b958d730e94c199f07cb04adcbdd07ce4be9d32d7ab0"
+    },
+    {
+      "index": 346,
+      "performance": "neutral",
+      "text": "Callie did not believe it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0346.wav",
+      "textSha256": "47386339a82e4429beebfd8a5a8e67c803bd57d065a9da9e60e98a9b7feea24a"
+    },
+    {
+      "index": 347,
+      "performance": "neutral",
+      "text": "She asked him to say it again, and he did.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0347.wav",
+      "textSha256": "1c36fd7c32dd2510f579feaf8639a5bd4aff149618bde19014e6a02fb5802ad0"
+    },
+    {
+      "index": 348,
+      "performance": "neutral",
+      "text": "It was more ash than her whole life.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0348.wav",
+      "textSha256": "6e48a03bb205d0754a364106d2460ecebd33ff554ea149e8de4a92f50e175dfd"
+    },
+    {
+      "index": 349,
+      "performance": "neutral",
+      "text": "It was more than her whole life four times over, from the first handful at eleven to the one in the flour tin in the culvert on the first night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0349.wav",
+      "textSha256": "0f756268cc233554686093e16682fe08c8cacaf80d6f15a49fbf623acedf00fa"
+    },
+    {
+      "index": 350,
+      "performance": "neutral",
+      "text": "She had lifted it one husk at a time for two years.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0350.wav",
+      "textSha256": "4e6f3671bf0008b64f17df0d4d79792651a5e3f10c4b9a7272c5efed957f5636"
+    },
+    {
+      "index": 351,
+      "performance": "neutral",
+      "text": "This was a whole fight's worth of husks, forty or fifty of them, lying in the seams of a road where Katori had put them down one after another at dusk.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0351.wav",
+      "textSha256": "36717a26869050375aab5818c6bcf6c75fdaed83ed317b41eea5e9d924332782"
+    },
+    {
+      "index": 352,
+      "performance": "neutral",
+      "text": "Every seam had run silver for forty paces in both directions.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0352.wav",
+      "textSha256": "2ec397fe91e4fff9638cef11ca3111a3aa02ba1ae117eda56e38ec45c58e43d5"
+    },
+    {
+      "index": 353,
+      "performance": "neutral",
+      "text": "\"",
+      "pauseAfterMs": 320,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0353.wav",
+      "textSha256": "8a331fdde7032f33a71e1b2e257d80166e348e00fcb17914f48bdb57a1c63007"
+    },
+    {
+      "index": 354,
+      "performance": "neutral",
+      "text": "Your tenth,\" said Pell, and moved the pencil across one column and said a smaller number.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0354.wav",
+      "textSha256": "e4c46f7ad8f47748817e247540c1d09a2d8023b54e0d99824f8e83e5004f7f24"
+    },
+    {
+      "index": 355,
+      "performance": "neutral",
+      "text": "It was still more than the jar, many times over.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0355.wav",
+      "textSha256": "b407fa953e904345d648cae1fb85eb64d49c24bf5d5b54a558663a7049535a6d"
+    },
+    {
+      "index": 356,
+      "performance": "neutral",
+      "text": "He turned the book round so she could see it written.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0356.wav",
+      "textSha256": "d3262e84fad73cbb9d8ecfd1456d8791aa3cdb2ab545703df909316e58121913"
+    },
+    {
+      "index": 357,
+      "performance": "neutral",
+      "text": "\"That's yours.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0357.wav",
+      "textSha256": "a9f9d5042236146cd7b0072bc80224c00dbd408c59bb0d2bf368addba1adc354"
+    },
+    {
+      "index": 358,
+      "performance": "neutral",
+      "text": "That's in the book.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0358.wav",
+      "textSha256": "b2ba34c15ecce126a0bc97bdae69eccb5f239469b559acf8118f3cd79feff37c"
+    },
+    {
+      "index": 359,
+      "performance": "neutral",
+      "text": "Nobody at any wall between here and Meridian will be able to say it isn't.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0359.wav",
+      "textSha256": "f5a80eb7de20021c45ff794405432c19a7a96f426c3bdddf385feee611f38989"
+    },
+    {
+      "index": 360,
+      "performance": "neutral",
+      "text": "Callie looked at the number in the small neat hand.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0360.wav",
+      "textSha256": "72d3d86f6346d1439f7de23b833651184a5eba2f8b97b8c4d41f0fa2939dc270"
+    },
+    {
+      "index": 361,
+      "performance": "neutral",
+      "text": "She thought of the gate, and the columns, and a woman in a wagon who could not braid her own hair.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0361.wav",
+      "textSha256": "12760423fdd6ba36d94858ca1b20efaaaaeb87410091c050e1c5ef89877effcf"
+    },
+    {
+      "index": 362,
+      "performance": "neutral",
+      "text": "\"Thank you,\" she said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0362.wav",
+      "textSha256": "8bffeeac469947f067a32ed811ff0187d1a9628b1e019713e083d0ca4115be9f"
+    },
+    {
+      "index": 363,
+      "performance": "humor",
+      "text": "\"It's not a gift,\" said Pell.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0363.wav",
+      "textSha256": "da371e9c7b57f760ecc48935c450bb7fecf8475a5872926dd4ac7e37218741ea"
+    },
+    {
+      "index": 364,
+      "performance": "humor",
+      "text": "\"It's a sum.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0364.wav",
+      "textSha256": "258defc8dba99b6aedbd0dcdd89f1c4bdc13bc25eb523e981b877bdec0d170ed"
+    },
+    {
+      "index": 365,
+      "performance": "humor",
+      "text": "I don't give gifts.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0365.wav",
+      "textSha256": "7ff48e0c06fdb1eb257136b10cca2a3bd43bd233ef2805b9ed1e34a6d6e3edd1"
+    },
+    {
+      "index": 366,
+      "performance": "humor",
+      "text": "I haven't the temperament.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0366.wav",
+      "textSha256": "b4288044a85b47f61f40786b9b4dbf975bb92c2eb725195b70766b6edfc50d27"
+    },
+    {
+      "index": 367,
+      "performance": "humor",
+      "text": "He turned a page back.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0367.wav",
+      "textSha256": "2ffa91f853bf212691a5caa9a3e908391be33126e209633dedae089c873ba7ef"
+    },
+    {
+      "index": 368,
+      "performance": "humor",
+      "text": "\"There's one other thing in there from last night, and you'll see it anyway if you read over my shoulder, which you do.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0368.wav",
+      "textSha256": "fd5bb3396ceb69e03b4be2633aff8237c7904b61a788f01d6326918fe48d1c0a"
+    },
+    {
+      "index": 369,
+      "performance": "humor",
+      "text": "So I'll show you.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0369.wav",
+      "textSha256": "8cac254d1232cbfa0977bf5c59e89634972794c031314b355c32f552eeb018e8"
+    },
+    {
+      "index": 370,
+      "performance": "grief",
+      "text": "It was under the day's entry, under Causeway at dusk.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0370.wav",
+      "textSha256": "c8fb277045a58dbb634622b796d13042a70dffc12903b4481f009950501b213b"
+    },
+    {
+      "index": 371,
+      "performance": "grief",
+      "text": "C.'s call.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0371.wav",
+      "textSha256": "0f0dff851c6e8b700413d65d0bab88c34c9be8bd0b8401fc0c663392727b7026"
+    },
+    {
+      "index": 372,
+      "performance": "neutral",
+      "text": "Concur \u2014 K., P.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0372.wav",
+      "textSha256": "1eee7282fc246cb071cdd6f438bdf632ac4cf23662fe41fd5877aec180996ca2"
+    },
+    {
+      "index": 373,
+      "performance": "grief",
+      "text": "Below that were four more lines in the same small hand, a little less neat than usual.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0373.wav",
+      "textSha256": "8453a47ac19e04d1040d28a93e78c4fc361ad10a1d39829f0c9661a8e3c6529d"
+    },
+    {
+      "index": 374,
+      "performance": "grief",
+      "text": "Mule.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0374.wav",
+      "textSha256": "90b3c3ada63fc46c2566a5fb207016d3c652f320171b5a07c3bc960bef06c8e0"
+    },
+    {
+      "index": 375,
+      "performance": "grief",
+      "text": "Eleven years.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0375.wav",
+      "textSha256": "5a018a3a912700da57d67396e6b7712c2c548a0e92dec05ab51ec6225a728cf1"
+    },
+    {
+      "index": 376,
+      "performance": "grief",
+      "text": "Never named.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0376.wav",
+      "textSha256": "a973d374a8812b197de1c4b1936c8a2f079586b9b2b81356667b579a162a0884"
+    },
+    {
+      "index": 377,
+      "performance": "grief",
+      "text": "Refused me at the Carrow ford and again at the burnt bridge, and was right both times.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0377.wav",
+      "textSha256": "eb97e51dfca701759ad02ad00d1befea284f02c613b6dd3f51b3495602ceb3c6"
+    },
+    {
+      "index": 378,
+      "performance": "grief",
+      "text": "Would have refused me last night.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0378.wav",
+      "textSha256": "79ba02742f953539c26eb3b3d6a80e97506b9b7a6a296258e24c104ad59875c9"
+    },
+    {
+      "index": 379,
+      "performance": "grief",
+      "text": "Wasn't asked.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0379.wav",
+      "textSha256": "6ea9a2f7a5e81a81d07b543d8664b2e7f76537d0a9e62df07cdb2ebabca489f9"
+    },
+    {
+      "index": 380,
+      "performance": "grief",
+      "text": "Leave it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0380.wav",
+      "textSha256": "c7cc6b64ada2c34f5537d90d0a56bc58f3bc34e74d275c7ed8d1080ff56da570"
+    },
+    {
+      "index": 381,
+      "performance": "grief",
+      "text": "Callie read it twice.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0381.wav",
+      "textSha256": "9434b583d75c39780e82c116c7a81326b4b428227730a4db478fb0d43e8ccb9e"
+    },
+    {
+      "index": 382,
+      "performance": "grief",
+      "text": "Then she looked up.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0382.wav",
+      "textSha256": "7417e0a73c26cfd193c45e246260a574d5f86cb487357ab8995eddcf8d1bb230"
+    },
+    {
+      "index": 383,
+      "performance": "grief",
+      "text": "Pell was looking at the wheel.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0383.wav",
+      "textSha256": "563aa4470ccc9a87e9723fc7941e07323a54c828fb4ef8a13f2bbf7944f94a3e"
+    },
+    {
+      "index": 384,
+      "performance": "grief",
+      "text": "\"Katori went and looked,\" he said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0384.wav",
+      "textSha256": "8ed1c084f545b20eca2f35d6e53bb9cc78639ecaa7d06c0955617b6ee4802436"
+    },
+    {
+      "index": 385,
+      "performance": "grief",
+      "text": "\"It's where it went down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0385.wav",
+      "textSha256": "265838e4ab596c022e1997a059832339b95c0ca62ffb80a1ee771dc414fd7c2e"
+    },
+    {
+      "index": 386,
+      "performance": "grief",
+      "text": "There's nothing to be done that'd be worth doing, and I won't have anybody going down that rock for anything less than an arrow.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0386.wav",
+      "textSha256": "02ecbf0f668a5ab9eda88504df92f194e8cf8f635a9f0fb0a989d599997293ff"
+    },
+    {
+      "index": 387,
+      "performance": "grief",
+      "text": "He closed the book.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0387.wav",
+      "textSha256": "a6c6341b9e0344b587579c7eae50ab2eaa2edd11e7db3edababc8b597e286771"
+    },
+    {
+      "index": 388,
+      "performance": "grief",
+      "text": "\"That's all.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0388.wav",
+      "textSha256": "436fadce9947bdc96ddcb2ce4e5e1f603ef1ff13292e0b2229d626ad6f2bec74"
+    },
+    {
+      "index": 389,
+      "performance": "grief",
+      "text": "I wanted it written.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0389.wav",
+      "textSha256": "3f8a746155340de76f8fb07d0aff87e9a8e44d6dbf378613167aee40f6400efb"
+    },
+    {
+      "index": 390,
+      "performance": "grief",
+      "text": "I've written it.\"",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0390.wav",
+      "textSha256": "710da1da0dcf61dd67ae283cd89a258b7b55f8c9d737d836ca230a0313355e50"
+    },
+    {
+      "index": 391,
+      "performance": "neutral",
+      "text": "Duchess stood on a picket line at the far end of the gravel, as far from the pump house as the line would reach.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0391.wav",
+      "textSha256": "dff7f053c07da20f447ee15caa0b97c193ec3e4f69cb7c45b9da9bdf9d6f19f1"
+    },
+    {
+      "index": 392,
+      "performance": "neutral",
+      "text": "She was resting her near hind, the one she had kicked with.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0392.wav",
+      "textSha256": "28838db372fda14d98cf1ba724aef193cffe0ad154f70ab48d7657ccef7dd42c"
+    },
+    {
+      "index": 393,
+      "performance": "neutral",
+      "text": "When Callie came round the corner of the building the mare's head came up and round, and her ears went flat, and she stood there pointing at her with her whole body.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0393.wav",
+      "textSha256": "5f8ab27243266ca16cb152cc6c683e066cade4548c449244bf7e925525db6b65"
+    },
+    {
+      "index": 394,
+      "performance": "neutral",
+      "text": "Callie stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0394.wav",
+      "textSha256": "4fbedf669df7386b6e348b0c09159a5bcff172d87c42128cfa4bda1d907fd585"
+    },
+    {
+      "index": 395,
+      "performance": "care",
+      "text": "\"She's sore,\" said Otto.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0395.wav",
+      "textSha256": "e8097843ae0f1682c2f10cca2732ae5e696fdc4b15e4566b3c7249dbf1fe0668"
+    },
+    {
+      "index": 396,
+      "performance": "care",
+      "text": "He was sitting on the ground by the picket with his stitched arm in a sling made from one of Callie's mother's shirts, and a heap of harness across his knees that he was trying to mend one-handed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0396.wav",
+      "textSha256": "ff536fcc1c59097597f5479082bd35d2992428219dfa371aeb822674ff83cdbf"
+    },
+    {
+      "index": 397,
+      "performance": "care",
+      "text": "\"The hind.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0397.wav",
+      "textSha256": "b5e25cb716b80168270f1455dc4d2051cc43e5291570157602670c42c223af2b"
+    },
+    {
+      "index": 398,
+      "performance": "care",
+      "text": "Up here.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0398.wav",
+      "textSha256": "b9c53f513fccb6b7d51313aed257f6abba7ffc397ac8527b7fcc0caba8d2af6f"
+    },
+    {
+      "index": 399,
+      "performance": "care",
+      "text": "He touched his own thigh.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0399.wav",
+      "textSha256": "d7159bd3903744a5d7ff2fab6b4f15f8c6610e2104368f4928121b4567fc16a0"
+    },
+    {
+      "index": 400,
+      "performance": "care",
+      "text": "\"Pell says she kicked so hard she hurt herself on it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0400.wav",
+      "textSha256": "56340e6c6257d0531ab404726eeb9ff757c9b0a0cd4ff778f4137de2acc33d0b"
+    },
+    {
+      "index": 401,
+      "performance": "care",
+      "text": "He says it's like punching a wall.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0401.wav",
+      "textSha256": "5470dad3dcf81c73007a57752307b52ee5aa2d9395d621167abfce044990d30b"
+    },
+    {
+      "index": 402,
+      "performance": "care",
+      "text": "He paused, and looked at Callie, and then away.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0402.wav",
+      "textSha256": "9fcc2dc0a5f75762faab93cc887d762a67e53db091f6ab82c2545da3e2d91f96"
+    },
+    {
+      "index": 403,
+      "performance": "care",
+      "text": "\"He says it'll mend.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0403.wav",
+      "textSha256": "ac02519b285b1ea583cd7608885c0cb3a73f28be9ee45cbdbac586a775ff58d0"
+    },
+    {
+      "index": 404,
+      "performance": "care",
+      "text": "He says she'll pull.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0404.wav",
+      "textSha256": "0032311744ae1ff389fa4f62f41cbefcaea116e786ca9458b08906ce0e2238c6"
+    },
+    {
+      "index": 405,
+      "performance": "care",
+      "text": "Just not as well as before.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0405.wav",
+      "textSha256": "5ac6fc826e07d2cf8b65e3c2bc48bdb07aaeb1f61b25f459457a45eae26b5f93"
+    },
+    {
+      "index": 406,
+      "performance": "care",
+      "text": "\"She won't let me near her.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0406.wav",
+      "textSha256": "8c379d6e9b5c0d05f5514580928e54763d279744c0a47768d87337b2ad371de9"
+    },
+    {
+      "index": 407,
+      "performance": "care",
+      "text": "\"No,\" Otto agreed.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0407.wav",
+      "textSha256": "da85fa2562925a4f1f3781a195374d156e641f915a5bb025698473e71a9fbbfb"
+    },
+    {
+      "index": 408,
+      "performance": "care",
+      "text": "\"Not yet.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0408.wav",
+      "textSha256": "083fe3a109f53871e01cc1f52110c432d0ebf116456f6da84cec71510190467a"
+    },
+    {
+      "index": 409,
+      "performance": "care",
+      "text": "He went back to the harness.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0409.wav",
+      "textSha256": "1df966a5e817c1621987db6136c77ae0a4bd548bf057f376f54ad102205bbb8a"
+    },
+    {
+      "index": 410,
+      "performance": "care",
+      "text": "Then he said, still not looking up, \"You didn't do it to her.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0410.wav",
+      "textSha256": "8f9d7503c4a35cacaa3e78d7ce27279e55931b1e3a9ed250b429f06feb61d9b3"
+    },
+    {
+      "index": 411,
+      "performance": "care",
+      "text": "She did it to you.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0411.wav",
+      "textSha256": "00131e2f876c5c350f91ee3f73cb376a8d46dace6ec9fd25c3f6d4becd1bdc8f"
+    },
+    {
+      "index": 412,
+      "performance": "care",
+      "text": "I saw it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0412.wav",
+      "textSha256": "df72bb6c332d95efd4984effa252ea874ba1631a53b930749a75f59fc4a09375"
+    },
+    {
+      "index": 413,
+      "performance": "care",
+      "text": "I want you to know somebody saw it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0413.wav",
+      "textSha256": "6563be5b6f2c3724fe81cfa524e784028e9a8af7df3ab8f6ea9237e074abed31"
+    },
+    {
+      "index": 414,
+      "performance": "care",
+      "text": "Callie stood there a moment longer.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0414.wav",
+      "textSha256": "67f05dbbe126fad6827609220ee8c34aa02fd74e7baed9d7829393ca511aab73"
+    },
+    {
+      "index": 415,
+      "performance": "care",
+      "text": "Then she went and sat down on the gravel near him, but not too near, and began sorting the harness buckles into a pile.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0415.wav",
+      "textSha256": "35b8cdf9e0f2b3ed62e3185b4e08e019e6cc6655ae764856fefb5ab2a365a784"
+    },
+    {
+      "index": 416,
+      "performance": "care",
+      "text": "After a while, Otto passed her the end of a strap to hold, and she held it.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0416.wav",
+      "textSha256": "8c96e754fd1385514e0409ddcc6a18476f0f434ae400fd38039edda83b01b5f2"
+    },
+    {
+      "index": 417,
+      "performance": "neutral",
+      "text": "Duchess watched them the whole time.",
+      "pauseAfterMs": 2700,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0417.wav",
+      "textSha256": "df4876231ca9b72d6c09bee01ba6de2d58a9db3c63dca5695b5e68e4b7584b77"
+    },
+    {
+      "index": 418,
+      "performance": "neutral",
+      "text": "At dusk Callie tried to find the doors.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0418.wav",
+      "textSha256": "9930a1ca7cf22b7e470d1bede6a44a05d11c67db8b3640c751f77dbb0f9486d7"
+    },
+    {
+      "index": 419,
+      "performance": "neutral",
+      "text": "She did not tell anybody she was going to do it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0419.wav",
+      "textSha256": "2847e5dea6c9f73a1408ee2935f87a6008d96da9f4e6131aa8fec9d471aeaa42"
+    },
+    {
+      "index": 420,
+      "performance": "neutral",
+      "text": "She went round behind the pump house where nobody could see her, and sat down with her back to the warm concrete and the hook across her knees, and shut her eyes.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0420.wav",
+      "textSha256": "617111da7c6988d6e8f0e2d3efa21c82e220101473f955dd125cf11450a50d5c"
+    },
+    {
+      "index": 421,
+      "performance": "neutral",
+      "text": "She went down into herself the way she had gone down in the night.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0421.wav",
+      "textSha256": "18d4a39980c637d1a8fb810f1a065c9527ec754ce5dd9372681d830e8e35ba58"
+    },
+    {
+      "index": 422,
+      "performance": "neutral",
+      "text": "There was nothing there.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0422.wav",
+      "textSha256": "cb7ee5f4436f137cfe13a88a1ff8ef46bc96a063ace5c3ff4b4c47897c3ccef2"
+    },
+    {
+      "index": 423,
+      "performance": "neutral",
+      "text": "She went further.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0423.wav",
+      "textSha256": "f7c84cfd213ff99e0ab8181242484413450cbb2b36a1869ddac03a505f5c8e45"
+    },
+    {
+      "index": 424,
+      "performance": "neutral",
+      "text": "She went down and down, following the way the cold had gone, looking for the top of the well.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0424.wav",
+      "textSha256": "cf018eada626b61b582a3ec8047bb71c76810185799161d38f14eca0cf86055e"
+    },
+    {
+      "index": 425,
+      "performance": "neutral",
+      "text": "She found the place.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0425.wav",
+      "textSha256": "9686e541f6275894692fbe26044d82416d53c604046a96ead42fd76ff51d5c25"
+    },
+    {
+      "index": 426,
+      "performance": "neutral",
+      "text": "She was sure it was the place.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0426.wav",
+      "textSha256": "a62dff1bdfd3892e6bb9363816de0b754695c3182228076858511784b1ca365b"
+    },
+    {
+      "index": 427,
+      "performance": "neutral",
+      "text": "It was dry.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0427.wav",
+      "textSha256": "5fd650aa757d33ef7ac305c8a12c65e97edf8e5c91c116608bc937449ec518a8"
+    },
+    {
+      "index": 428,
+      "performance": "neutral",
+      "text": "It was dry all the way down, with only a damp patch at the very bottom where Katori's ash had gone, like a finger mark in dust.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0428.wav",
+      "textSha256": "95d86c47730aef5f117a54231d853bc081ee231235728172162a866f24985e6b"
+    },
+    {
+      "index": 429,
+      "performance": "neutral",
+      "text": "And nothing came up out of it when she leaned.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0429.wav",
+      "textSha256": "2b8f55813275f25e2013d799375e68bb41afffca31b18bee5917848e7deb0486"
+    },
+    {
+      "index": 430,
+      "performance": "neutral",
+      "text": "She leaned with her whole weight, the way she had on the causeway.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0430.wav",
+      "textSha256": "6c66a4ede81a31fa3f329cd364ffaf4c8fdc21335ad4574880b5f49646548e5f"
+    },
+    {
+      "index": 431,
+      "performance": "neutral",
+      "text": "Nothing came into the hook, and the steel stayed the temperature of the evening.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0431.wav",
+      "textSha256": "8be154f0e4d233fac221a2cffb8cfb73cc68c03830bcd68dedbbd3358e8dd319"
+    },
+    {
+      "index": 432,
+      "performance": "neutral",
+      "text": "She tried for the other one.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0432.wav",
+      "textSha256": "b76b2470762d77cd6b842f00cfa7e24c537a9846e763850c3fa65197960fe2a3"
+    },
+    {
+      "index": 433,
+      "performance": "neutral",
+      "text": "She stood up and planted her feet the way she had planted them against the wagon and braced.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0433.wav",
+      "textSha256": "db55ac162e1755e594b906f67c64923ebc775abe2cc168083995d04358aa39dc"
+    },
+    {
+      "index": 434,
+      "performance": "neutral",
+      "text": "Nothing took the other side of the yoke.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0434.wav",
+      "textSha256": "8a0979cbc351937dc78d8b749eaf8e8230586faf23bef9ceb760cfb2df2c87b2"
+    },
+    {
+      "index": 435,
+      "performance": "neutral",
+      "text": "She was a girl standing behind a building with her feet apart, holding a farm tool.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0435.wav",
+      "textSha256": "aa54cefb8d9d0e96437194da513ff9cc2fea667dbe8493a4287c73c510459f34"
+    },
+    {
+      "index": 436,
+      "performance": "neutral",
+      "text": "She sat down again, fast.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0436.wav",
+      "textSha256": "eee073eebcb637d848559f41791d2dd9a7d9c8e72881f03faebf55803bd31c92"
+    },
+    {
+      "index": 437,
+      "performance": "neutral",
+      "text": "That was how Katori found her, about ten minutes later, with the hook across her knees and her face turned to the wall.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0437.wav",
+      "textSha256": "9479733fda868587af68c7a3658d4170d5ec123420f6f14a52e6a50ddbe95ad9"
+    },
+    {
+      "index": 438,
+      "performance": "fear",
+      "text": "\"It's gone,\" Callie said, before Katori could say anything.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0438.wav",
+      "textSha256": "1e65b609fa052acdcbdaa2b377b456bf98efece4c739ccab86a06cb85e66fd12"
+    },
+    {
+      "index": 439,
+      "performance": "fear",
+      "text": "\"Both of them.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0439.wav",
+      "textSha256": "0e83028c4c81fbbae394bcd1c4df47ebcce228e39f6b81abbba560437fd0927d"
+    },
+    {
+      "index": 440,
+      "performance": "fear",
+      "text": "I went down and it's gone.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0440.wav",
+      "textSha256": "08f124cd571569080fdab43fc7d098b781fe5bfcb354b98ddbd4af0fea8a661b"
+    },
+    {
+      "index": 441,
+      "performance": "fear",
+      "text": "There's nothing there.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0441.wav",
+      "textSha256": "9f2a62f274f8cc3f6583b5a5873729ad74591acb9f712be98f0547be249cb5b2"
+    },
+    {
+      "index": 442,
+      "performance": "neutral",
+      "text": "Katori sat down on the gravel beside her.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0442.wav",
+      "textSha256": "c1e49ed15bb0c6fe97652db977d0950faee183d06e741e4fb3685c5d5419b52e"
+    },
+    {
+      "index": 443,
+      "performance": "neutral",
+      "text": "\"It's not gone,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0443.wav",
+      "textSha256": "f4b58afc29159e0f5ad8abfca39d08fd7ff140ccdab5c8ab0e77f3e5621d1556"
+    },
+    {
+      "index": 444,
+      "performance": "neutral",
+      "text": "\"It's empty.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0444.wav",
+      "textSha256": "ee2d887654e86f4b984c632a87d1ed5d7813f6aeb8e511b24e2fae4bb39f95a6"
+    },
+    {
+      "index": 445,
+      "performance": "neutral",
+      "text": "Those are different.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0445.wav",
+      "textSha256": "d0ecc162d5c0031c4590890b1b62f6abdf2675279b20acb40be3aa28ca041c41"
+    },
+    {
+      "index": 446,
+      "performance": "neutral",
+      "text": "\"How do you know?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0446.wav",
+      "textSha256": "7286b9bd928362d8278ccbd94a1f2288b10a22d2f0c7949003692f37e677e605"
+    },
+    {
+      "index": 447,
+      "performance": "neutral",
+      "text": "\"Because I've done it to myself.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0447.wav",
+      "textSha256": "b343b05f8d0d4a0aaadaeab7ae1bc8ce52f7c46dc6314d2c4fcd3cdbb16a284d"
+    },
+    {
+      "index": 448,
+      "performance": "neutral",
+      "text": "Twice.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0448.wav",
+      "textSha256": "2bb0ee68e575e8dae8d6868f9f442d5bf1307909eca2b721b0dd735ffaf66c74"
+    },
+    {
+      "index": 449,
+      "performance": "neutral",
+      "text": "Katori pulled her knees up.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0449.wav",
+      "textSha256": "5bada4a8090c43a7a6e93b8134f79391477bb8af59875fd2429e65d473a39d53"
+    },
+    {
+      "index": 450,
+      "performance": "neutral",
+      "text": "\"Once when I was fifteen and stupid and wanted to see how long I could hold a shape.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0450.wav",
+      "textSha256": "b40f9340206d588e26c27f5cee97888ab0a65ba596ea2dfcca150c01f1fff9e0"
+    },
+    {
+      "index": 451,
+      "performance": "neutral",
+      "text": "And once when I had to, which was worse.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0451.wav",
+      "textSha256": "fa3ea2186273367838e319fd5f25cb138c2a3ba7a0be1095e509dba6db319ea0"
+    },
+    {
+      "index": 452,
+      "performance": "neutral",
+      "text": "Both times I went down afterward and there was nothing, and both times I was sure.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0452.wav",
+      "textSha256": "2265f87b04039040b8ccdd4a5676d6a8fc8aa508f6cf100e57617ea7ef219b8b"
+    },
+    {
+      "index": 453,
+      "performance": "neutral",
+      "text": "Absolutely sure.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0453.wav",
+      "textSha256": "129fb665c78780717978648ef2284d0aff6cd3307d15d91e45f0101e527d2c71"
+    },
+    {
+      "index": 454,
+      "performance": "neutral",
+      "text": "The first time it was four days before I could get so much as a knife out of it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0454.wav",
+      "textSha256": "2a21cd0a98de555eb83b6e4660b6021aae898190ec294be80b4047f113cf276b"
+    },
+    {
+      "index": 455,
+      "performance": "neutral",
+      "text": "The second time it was nine.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0455.wav",
+      "textSha256": "ee963f624e9d97d7898d32aef5758e431fc23b7200003c9d6d4b64cba5676bea"
+    },
+    {
+      "index": 456,
+      "performance": "neutral",
+      "text": "She looked across at Callie.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0456.wav",
+      "textSha256": "aeef3fcd1d779610e463ec98949f2649a78b73acd2440a26eed6ee3465e900b1"
+    },
+    {
+      "index": 457,
+      "performance": "neutral",
+      "text": "\"You held two of them open for thirteen hours, the first night you ever had them.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0457.wav",
+      "textSha256": "d6f36e3f207ae08a6548b31ff1255ce9fee5982abf12d3a62f41f6b690b9117c"
+    },
+    {
+      "index": 458,
+      "performance": "neutral",
+      "text": "I've never heard of anybody holding one for thirteen hours.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0458.wav",
+      "textSha256": "9de95fc78d61767c3bf7dd833998823f75fbf458b54b742b02a690d15523dc79"
+    },
+    {
+      "index": 459,
+      "performance": "neutral",
+      "text": "You didn't empty the well.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0459.wav",
+      "textSha256": "566f7db0c9cccb0cb5642379ef393791698e0f662283c54fd90f2160b25a777e"
+    },
+    {
+      "index": 460,
+      "performance": "neutral",
+      "text": "You took the bottom out of it and walked off with the bucket.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0460.wav",
+      "textSha256": "e7b6af101c80dc50769f705f0c7a75d2b613022042aff8c3633bdb7240b9d987"
+    },
+    {
+      "index": 461,
+      "performance": "neutral",
+      "text": "Callie said nothing.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0461.wav",
+      "textSha256": "201d3bd83ae0c1540e9f0f5aad9022234056e06a2684f5774ade5c21b68843f2"
+    },
+    {
+      "index": 462,
+      "performance": "neutral",
+      "text": "\"It fills,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0462.wav",
+      "textSha256": "fe5d50dcad9066de74341ee0024d67a48a2a742578db92be903bb448bf665d95"
+    },
+    {
+      "index": 463,
+      "performance": "neutral",
+      "text": "\"Slowly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0463.wav",
+      "textSha256": "90297e9801c520d79823fc3c58aed13a267b6647ff07a517d71cc204181449a5"
+    },
+    {
+      "index": 464,
+      "performance": "neutral",
+      "text": "You'll feel it come back before you can use it, like feeling come back into a foot.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0464.wav",
+      "textSha256": "35648cbc29b13266f5e5ac155e045bc64c6e0470f168f80f866713d03757018a"
+    },
+    {
+      "index": 465,
+      "performance": "neutral",
+      "text": "And when it does, I'm going to teach you the Edge properly, on purpose, in daylight, with nobody coming up any rock.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0465.wav",
+      "textSha256": "792b41d4291c7b85ef2ec88acc7cabd1b6f2904ee7ef38401a3c14d43eea078e"
+    },
+    {
+      "index": 466,
+      "performance": "neutral",
+      "text": "I know how to do that.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0466.wav",
+      "textSha256": "5cd80edda75d9e17e53717cb3824b05f71115f1fec39f476122f5055e292dece"
+    },
+    {
+      "index": 467,
+      "performance": "neutral",
+      "text": "The other one \u2014 \" She stopped.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0467.wav",
+      "textSha256": "c618a966730ebb9a225bf5f344479b5341a6f69a14c77ba0d338ae6d7e16d107"
+    },
+    {
+      "index": 468,
+      "performance": "neutral",
+      "text": "\"You don't know how.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0468.wav",
+      "textSha256": "5a0a6b7b7914019789f363417021fa14402e62137f7810af7980d5e1537fcc53"
+    },
+    {
+      "index": 469,
+      "performance": "care",
+      "text": "\"I don't know how.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0469.wav",
+      "textSha256": "c47c48fd6f021d63853dce160a41b158a2177383a1904df9ad8bee935d1b9420"
+    },
+    {
+      "index": 470,
+      "performance": "care",
+      "text": "I watched you get it off this morning with a barrow, and I didn't know how then either.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0470.wav",
+      "textSha256": "9d63e1ac60d6dd2135ed7d9b2c2dff148576340f0fc0599dfaa9c36629b990db"
+    },
+    {
+      "index": 471,
+      "performance": "care",
+      "text": "Katori's mouth moved very slightly.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0471.wav",
+      "textSha256": "3feef89eb81104d34d91c7fee31b67b6c3149f52dade448b64ac93de110c7603"
+    },
+    {
+      "index": 472,
+      "performance": "care",
+      "text": "\"So we'll find out together.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0472.wav",
+      "textSha256": "cad10e2c13e194fc600622dab39ca20f89fe8cb36a7238fbd9418b19be95b765"
+    },
+    {
+      "index": 473,
+      "performance": "care",
+      "text": "You and me.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0473.wav",
+      "textSha256": "c0142c86bd4b8c5bd0254682ef6b40ebba1c77cc00d28c275a94f07905150f0a"
+    },
+    {
+      "index": 474,
+      "performance": "care",
+      "text": "And you'll teach me, some of it, because you're the only one who's been inside it.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0474.wav",
+      "textSha256": "444a87fa2f3743b3d147f95622084f222f873b7a436b97f5a82d1a68d784ed6a"
+    },
+    {
+      "index": 475,
+      "performance": "neutral",
+      "text": "Callie turned the hook over in her hands.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0475.wav",
+      "textSha256": "924893aa3ce35b431f27068dfeb3cd7cb2327fb9136e8809280397b3ca53d450"
+    },
+    {
+      "index": 476,
+      "performance": "neutral",
+      "text": "The tape on the cross was coming unwound at one end.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0476.wav",
+      "textSha256": "be6cc3e6198a1005cc52da22ddbd713ac9d2a38ba23caffa2f31196c0dae13c1"
+    },
+    {
+      "index": 477,
+      "performance": "neutral",
+      "text": "She would have to fix that.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0477.wav",
+      "textSha256": "d13bcf821e7f3f5f16c66155edd8c1b50d08afa7dd2d25a5aa0ad1bf90d92d2f"
+    },
+    {
+      "index": 478,
+      "performance": "neutral",
+      "text": "\"I want to,\" she said.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0478.wav",
+      "textSha256": "d1c55ba36cd206b0fb1cdaa523303a5735e97b04dc6d31e76e2af244acbdfea3"
+    },
+    {
+      "index": 479,
+      "performance": "neutral",
+      "text": "\"Learn it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0479.wav",
+      "textSha256": "e6369c997b7c6f242dd8b9893a6440774a4e726e3b148f2177ab49b521c16d7a"
+    },
+    {
+      "index": 480,
+      "performance": "neutral",
+      "text": "Both.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0480.wav",
+      "textSha256": "0d49a74e82a2356aa1d60d08de9be4139faa4f18f6882c441ff5d90eaabd800e"
+    },
+    {
+      "index": 481,
+      "performance": "neutral",
+      "text": "On purpose.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0481.wav",
+      "textSha256": "43ab1716ebaa2162755c0be739066ab8a067a33497a67a563ca134184a96fc47"
+    },
+    {
+      "index": 482,
+      "performance": "neutral",
+      "text": "I don't ever want to be sitting in a doorway again not knowing how to get out.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0482.wav",
+      "textSha256": "3c6916ba1f20166bc5d5080b2321a78c90b1fd2769e3323e96f2954b03644e41"
+    },
+    {
+      "index": 483,
+      "performance": "neutral",
+      "text": "\"Good,\" said Katori.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0483.wav",
+      "textSha256": "1fb101dd2a84d066739088271874db92d7288682a6f7c86cfe0adf2b6908813a"
+    },
+    {
+      "index": 484,
+      "performance": "neutral",
+      "text": "\"Then that's settled.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0484.wav",
+      "textSha256": "298e767cb5935cec58cbe37a3c6a26cf70eb97fa1e8966f2401a6e354dc73880"
+    },
+    {
+      "index": 485,
+      "performance": "neutral",
+      "text": "She began to get up, and stopped, and sat back down.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0485.wav",
+      "textSha256": "90b9197adb74fc91310c99e7b9b60ef6fadbbae585a191a22573e3815b467aed"
+    },
+    {
+      "index": 486,
+      "performance": "neutral",
+      "text": "\"There's one more thing, and Pell was going to tell you at supper, and I'd rather you had it from me in private first.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0486.wav",
+      "textSha256": "4aa84e379fca726fa4373af54149b498ba5079d89535bed7d688ad28e51ab28f"
+    },
+    {
+      "index": 487,
+      "performance": "neutral",
+      "text": "\"What?\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0487.wav",
+      "textSha256": "a3cc0d53a54bf8a2093d03ae72faf1e911231efed9ca186c0a19127042b7700c"
+    },
+    {
+      "index": 488,
+      "performance": "neutral",
+      "text": "\"He's worked it out on the atlas.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0488.wav",
+      "textSha256": "0d41e69712bdfadf62431fa6628a3288da66170ebefae2734e30fbe260b56d4e"
+    },
+    {
+      "index": 489,
+      "performance": "neutral",
+      "text": "North of here, the road goes up out of the basin.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0489.wav",
+      "textSha256": "8a9cc16a31001f45490b33c363de304f82765b27bff9254813c1ec7bb3da16db"
+    },
+    {
+      "index": 490,
+      "performance": "neutral",
+      "text": "It's twelve miles of flat and then about a mile of climb up the scarp, and the last part of the climb is steeper than anything he's put this wagon up since the Warren.\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0490.wav",
+      "textSha256": "5ae353dbac8fdb531dcba4ad251f8764c560482e47b8e19a5c943ba51253c1b9"
+    },
+    {
+      "index": 491,
+      "performance": "neutral",
+      "text": "She looked out at the dark coming up over the flats.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0491.wav",
+      "textSha256": "0c88c6b8dc94289424523274672aa0c5850a0d3cbc4d9a7da152bb251e15b0c6"
+    },
+    {
+      "index": 492,
+      "performance": "neutral",
+      "text": "\"He'd have put two animals up it.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0492.wav",
+      "textSha256": "34e76761d2c1250c930c14ee562ac44a205cb4ea911ad900ce9bd240fbbe754c"
+    },
+    {
+      "index": 493,
+      "performance": "neutral",
+      "text": "He'd have wanted a third.",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0493.wav",
+      "textSha256": "5c952a8fa893d1e32e879f04d7ca8377bd6c964cfb7beef31f2bddb9d8e2bb26"
+    },
+    {
+      "index": 494,
+      "performance": "neutral",
+      "text": "We've got one, and she's sore, and she won't let you within twenty paces of her.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0494.wav",
+      "textSha256": "76ff4f0b0d328d093c15ec56ac77774834aa0f5749423141a49aeebfaca1ac02"
+    },
+    {
+      "index": 495,
+      "performance": "neutral",
+      "text": "Callie looked at her.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0495.wav",
+      "textSha256": "57690da187d77d495c5942120a13a17251f71414c1fc6f2bbc7b662503db2302"
+    },
+    {
+      "index": 496,
+      "performance": "neutral",
+      "text": "\"So how do we get up it?\"",
+      "pauseAfterMs": 1550,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0496.wav",
+      "textSha256": "786e67476d74cfc9e9d4bc0f27f5a2386afaebc25b09990b8fbc7dfc9e179902"
+    },
+    {
+      "index": 497,
+      "performance": "neutral",
+      "text": "she said.",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0497.wav",
+      "textSha256": "cd0e3f65a033af5515e566a866565f9c16ae066ea7c7ad8a3cd4c71ea0d5ae83"
+    },
+    {
+      "index": 498,
+      "performance": "neutral",
+      "text": "\"That,\" said Katori, \"is what Pell was going to ask you at supper.\"",
+      "pauseAfterMs": 2100,
+      "wav": "/Volumes/Drive 2/monroe-ai/cache/monroe-tts/renders/baafea1c2d512a89639f429c/0498.wav",
+      "textSha256": "ba5f99fd1c0e78fe64c0394b6c7b831261a647e2bdbb0cecef851a610f3c9308"
+    }
+  ]
+}
