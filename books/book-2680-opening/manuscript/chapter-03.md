@@ -272,6 +272,10 @@ Perrin whistled. "That's a long time."
 
 Kiva had not realized it until Orla said it. She put her hand to her chest. The lines were there, under her shirt. Quiet. Cool.
 
+"So that's a sequence," said Perrin.
+
+"No," said Orla. "That's a drill. It's three doors one after another, with nothing passing between them. Each one starts from standing still." She tapped the three marks in the dirt again. "A real sequence is when the first door hands its work to the next one without dropping it. The speed of a Stride going straight into a stance, so you stop where you mean to and nobody moves you. The stop of a ward going straight into a strike. The work carries across. Nobody I know can do that across doors. I've seen it written about. I've never seen it done." She looked at Kiva. "This is the drill that gets you there. If anything does."
+
 She understood something then that Orla had been telling her for two years, and that she had not been able to hear. The gap was not the enemy. The gap was where the closing happened. If she rushed the gap, the doors fought. If she let the gap be as long as it needed to be, they did not. It was slow because it was clean. It would get faster only by getting cleaner first.
 
 She had always thought it was the other way around.
