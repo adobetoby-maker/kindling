@@ -62,6 +62,10 @@ eight-chapter continuous prose run.
 - Collegiate competition: **the Meridian Collegiate Circuit**; final regional
   event: **the Regional Measure**. Events include individual Measures, team lanes,
   ashcraft trials, rescue/extraction problems, and controlled Riftspawn engagements.
+- The collegiate curriculum includes a staged field license: contained spawn anatomy
+  and kill drills, supervised Handful kills, live-rift recovery, then higher-yield team
+  responses. Book One devotes several connected chapters to Kiva's team learning how
+  to kill Riftspawn and recover the ash cleanly before the first major live response.
 - Above college are **chartered rift companies**: salaried professional teams that
   fight Riftspawn, close or contain rifts, rescue civilians, protect infrastructure,
   and recover ash. Standings reward closure, lives saved, protected infrastructure,
@@ -95,6 +99,19 @@ eight-chapter continuous prose run.
 - Pro rift companies feed the ash grid. This creates prestige and public service,
   but also incentives to overhunt, hide risk, manipulate ash grades, or protect
   wealthy districts first.
+- A sanctioned kill produces a recorded yield. Civic power, casualty reserve, school,
+  and team shares are removed in that order. Student shares fund training cells,
+  metered combat techniques, equipment, travel, and medical reserve; they are not
+  unmetered personal treasure.
+- Ash is recorded by **yield** (Handful, Flask, Barrel, Well), **grade** (purity and
+  stability), and **resonance** (which patterns can use that spawn expression safely).
+  A large dirty yield may be worth less than a small stable one.
+- Killing does not grant rank automatically. Real combat can deepen capacity because
+  the practitioner works at the edge of owned control and must later reproduce the
+  lesson. Ash funds the next threshold; training makes the threshold survivable.
+- Filter thinning increases both human potential and Riftspawn pressure. The opening
+  book presents this first as unusually capable students and an unusually varied rift
+  season. Later books prove the common Glory-pressure cause.
 
 ## First-season lasting cost
 

@@ -4,8 +4,9 @@ Public byline: **Monroe Jackson**
 
 ## Prologue and Movement One — Three Doors
 
-- Status: **drafted (prologue + chapters 1–8), 2026-10-09. Stopped for movement review.
-  No editorial pass, scoring gate, or repair has been run on the prose.**
+- Status: **drafted 2026-10-09; reviewed, repaired, and passed by targeted recheck
+  2026-10-10 (one consolidated same-author repair).** See "Consolidated repair" and
+  "Targeted recheck" below.
 - Seat: Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 (progression-adventure)
 - Selected author: Opus
 - Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported
@@ -26,7 +27,8 @@ Public byline: **Monroe Jackson**
 - Canon read before drafting: `universe/UNIVERSE_BIBLE.md`,
   `books/book-01-kindled/UNIVERSE_BIBLE.md`, Meridian ch. 48 (Senna's crooked-post reason),
   `books/book-03-wellspring/POSTSCRIPT_PLAN.md` §4, and this book's planning files.
-- Edition: Book One, Prologue + Movement One, first draft (2026-10-09)
+- Edition: Book One, Prologue + Movement One, consolidated repair (2026-10-10). The first
+  draft (2026-10-09) is frozen at `editions/movement-001-pre-repair/`.
 - Branch: `worktree-kindling-2680-prologue-m001-opus55`
 - Continuity checkpoint: `provenance/MOVEMENT-001-CONTINUITY.md`
 - Prior attempt, not used: an earlier draft of this book's opening exists on branch
@@ -36,20 +38,20 @@ Public byline: **Monroe Jackson**
 
 ### Files
 
-| File | Heading | Viewpoint | Words (`wc -w`) |
-|---|---|---|---:|
-| `manuscript/prologue.md` | Somebody Should Write It Down | eleven dated snapshots, 2080–2676 | 16,089 |
-| `manuscript/chapter-01.md` | There Isn't a Column | Kiva | 5,419 |
-| `manuscript/chapter-02.md` | A Cell Keeps What You Leave in It | Kiva; Mara cutaway | 4,527 |
-| `manuscript/chapter-03.md` | Sequence, Not Stack | Kiva; Orla cutaway | 5,229 |
-| `manuscript/chapter-04.md` | The Terrace Ring | Kiva; Kellan cutaway | 5,796 |
-| `manuscript/chapter-05.md` | The Cellhouse | Kiva | 5,262 |
-| `manuscript/chapter-06.md` | What the Cell Kept | Kiva; Kellan cutaway | 5,497 |
-| `manuscript/chapter-07.md` | Fever | Kiva; Anwen cutaway | 4,822 |
-| `manuscript/chapter-08.md` | The Lowest Defensible Place | Kiva; Rhea cutaway | 5,560 |
-| | | **Movement One total** | **42,112** |
+| File | Heading | Viewpoint | First draft (`wc -w`) | After repair (`wc -w`) |
+|---|---|---|---:|---:|
+| `manuscript/prologue.md` | Somebody Should Write It Down | eleven dated snapshots, 2080–2676 | 16,089 | 16,621 |
+| `manuscript/chapter-01.md` | There Isn't a Column | Kiva | 5,419 | 5,547 |
+| `manuscript/chapter-02.md` | A Cell Keeps What You Leave in It | Kiva; Mara cutaway | 4,527 | 4,650 |
+| `manuscript/chapter-03.md` | Sequence, Not Stack | Kiva; Orla cutaway | 5,229 | 5,285 |
+| `manuscript/chapter-04.md` | The Terrace Ring | Kiva; Kellan cutaway | 5,796 | 5,898 |
+| `manuscript/chapter-05.md` | The Cellhouse | Kiva | 5,262 | 5,567 |
+| `manuscript/chapter-06.md` | What the Cell Kept | Kiva; Kellan cutaway | 5,497 | 5,822 |
+| `manuscript/chapter-07.md` | Fever | Kiva; Anwen cutaway | 4,822 | 4,957 |
+| `manuscript/chapter-08.md` | The Lowest Defensible Place | Kiva; Rhea cutaway | 5,560 | 5,828 |
+| | | **Movement One total** | **42,112** | **43,554** |
 
-### Post-run measurement (for movement review; not a gate)
+### Post-run measurement of the first draft (for movement review; not a gate)
 
 Measured on 2026-10-09 with a regex sentence splitter and a heuristic syllable counter
 (job-local script, not committed). Dialogue lines count as sentences. Treat as
@@ -98,3 +100,80 @@ The repair pass can recover much of that without padding.
 5. Kiva's left first two fingers are planted with a temporary numbness that leaves them
    "duller" at exit. Permanent loss is still reserved for Movement 5.
 6. Rhea Sorn knew Ilse Corran and recognizes the disk, but keeps that note private.
+
+## Consolidated repair — 2026-10-10
+
+- Repair date: **2026-10-10**.
+- Brief: `editor/MOVEMENT-001-REPAIR-BRIEF.md`, read in full and performed as one bounded
+  repair of the prologue and chapters 1–8. Movement Two was not started.
+- Actual model that wrote the repaired prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as
+  reported by the runtime environment. Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0.
+- Same-author status: **same selected author and same model as the first draft.** Every
+  changed manuscript sentence was written by this model. No subagents were used and no
+  other model wrote, revised, or summarized prose.
+- Session restart: the repair ran in a **new Claude Code session**, not the drafting
+  session. The drafting transcript was not in context. The author re-read the complete
+  manuscript, both reviews, the continuity checkpoint, and the updated canon and planning
+  files before editing.
+- Frozen pre-repair edition: `editions/movement-001-pre-repair/` (nine manuscript files
+  plus `SHA256SUMS.txt`). Verified byte-identical to the working manuscript before the
+  first edit and re-verified against its checksums after the repair. Not modified.
+- Reviews the repair answers: `editor/MOVEMENT-001-EDITORIAL.md` (informed same-model
+  editorial review, with metrics appendix) and `editor/MOVEMENT-001-COLD-READ.md`
+  (fresh-context simulated cold read). Both dated 2026-10-10.
+- Canon read for the repair, including the uncommitted 2026-10-10 updates:
+  `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, `STATE_LEDGER.md`, `CHARACTERS.md`,
+  `PROLOGUE_PLAN.md`, `IDEA.md`, `SERIES_MAP.md`, `README.md`, `packets/MOVEMENT-001.md`,
+  `packets/MOVEMENT-002.md`.
+- Method: each of the nine manuscript files was rewritten in place by the author, keeping
+  every scene, section break and viewpoint cutaway. Section counts are identical before
+  and after (87 sections).
+- Repair report: `editor/MOVEMENT-001-REPAIR-REPORT.md` (files changed, material
+  decisions, old and new word counts, scene confirmation, target-against-observed
+  numbers, and open items).
+- Continuity checkpoint: `provenance/MOVEMENT-001-CONTINUITY.md`, reconciled to the
+  repaired prose after the manuscript was corrected.
+- Name change: prologue snapshot 8's installer is now **Femi Oduya** (was Bram Oduya;
+  "Bram" collides with Kindled canon).
+
+### Post-repair measurement (editorial review's script, unchanged; not a gate)
+
+| Target (formula) | Goal | First draft, all 9 files | After repair, all 9 files |
+|---|---|---:|---:|
+| Mean sentence length | 14.6 | 8.30 | 10.33 |
+| Median sentence length | 11 | 6 | 7 |
+| Sentences ≤5 words | 27.7% | 45.1% | 41.5% |
+| Sentences ≥40 words | 3.3% | 0.30% | 1.67% |
+| Flesch Reading Ease | 72.3 | 92.4 | 90.4 |
+| Flesch–Kincaid grade | 6.8 | 2.4 | 3.2 |
+| Protagonist POV share, chapters 1–8 | ~87% | 87.2% | 87.3% |
+
+The whole-text targets are **not met**. Narration alone moved from a 9.9-word mean and
+35% short sentences to a 13.8-word mean and 27% short sentences (author's own
+narration/speech split; reproduce before relying on it). Quoted speech, 41% of all
+sentences, was left clipped on purpose and holds the remaining gap, together with plain
+vocabulary (1.25 syllables per word, unchanged). Both are owner decisions.
+
+### Post-repair status
+
+**Passed by targeted recheck.** The owner accepted Ysra's formal set-aside and the
+dram-spent Cellhouse board line. The recheck found no justification for a second repair
+pass: the remaining whole-text formula gap comes from deliberately brief dialogue,
+while narration independently measures close to the intended cadence.
+
+## Targeted recheck — 2026-10-10
+
+- Report: `editor/MOVEMENT-001-TARGETED-RECHECK.md`.
+- Reviewer: a separate Claude Opus 5.5 review-only session, informed by the draft,
+  reviews, repair brief and repaired manuscript. It did not write new story material.
+- Verdict: **PASS** on continuity, read-aloud cadence, character voice, revelation
+  timing, and aftermath differentiation. A second consolidated prose repair was not
+  justified.
+- Post-recheck corrections: five narrow mechanical fixes identified by the report were
+  applied without altering story events—Kellan's remaining stair count and dry-ash
+  surface, the description of his stair assignment, his description of Kiva's final call,
+  one garden-path sentence in chapter 4, and one awkward dram sentence in chapter 5.
+- Planning cleanup: the Movement Two packet now uses `Handful-yield`, and the disk's
+  response is tied to the first correct deliberate cross-door sequence so the universe
+  bible agrees with the Movement Three lock.
+- Frozen pre-repair files remain unchanged and checksum-verifiable.

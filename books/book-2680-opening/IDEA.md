@@ -22,11 +22,16 @@ civilization built to classify every path except the one its founders preserved.
 ## Reader promise
 
 Collegiate progression, a clear training system, friendships and rivalry, longer
-learning fights, public team competition, and an old mystery made personal. Above
-the collegiate circuit are professional rift companies whose fighters defend cities,
-close breaches, and recover the ash that powers modern life. Kiva improves through
-practice and loss, not destiny shortcuts. The first book closes a full collegiate
-season and belonging arc while revealing that filter instability is accelerating.
+learning fights, public team competition, and an old mystery made personal. Students
+train at discipline schools whose teams fight one another and, under escalating field
+licenses, fight live Riftspawn. Every sanctioned kill creates a second problem:
+contain the dissolution, recover and grade the finite ash, reconcile the team's share,
+and decide what training, equipment, or public need it will fuel. Above the collegiate
+circuit are professional rift companies whose fighters defend cities, close breaches,
+and recover the ash that powers modern life. Kiva improves through practice, costly
+combat, and loss, not destiny shortcuts or automatic experience points. The first book
+closes a full collegiate season and belonging arc while revealing that filter
+instability is accelerating.
 Her recurring fever dream—the Unroofed Sky—shows Glory users converging as the
 planetary filter disappears, but never tells her whether their collision saves the
 world, breaks it, or merely determines what survives afterward.
@@ -75,6 +80,15 @@ to manufacture a twist.
   and the field-facing Home Line.
 - The colleges compete regionally in Book One and feed licensed professional rift
   companies. Books Two and Three widen through national and international circuits.
+- The recurring progression loop is **train -> contest -> live Riftspawn response ->
+  recover and grade ash -> invest the earned share -> attempt a harder threshold**.
+  Killing a spawn does not automatically raise a person's rank. Combat under real load
+  develops the soul only when the practitioner survives, understands the correction,
+  and can reproduce it. Ash is the finite, material reward that funds the next attempt.
+- Increasing Glory pressure beyond the failing filter raises the ceiling on both sides:
+  prepared humans can reach stronger and more varied expressions, while rifts produce
+  more numerous, stranger, and higher-yield Riftspawn. Neither increase is uniform or
+  safe, and the schools initially mistake the change for exceptional student cohorts.
 - Ash induction supplies most electrical power. Magic patterns control and shape
   ash; ash provides finite fuel. At Glory, rare masters can sustain industrial-scale
   patterns, creating both titans of industry and monastic school lineages.

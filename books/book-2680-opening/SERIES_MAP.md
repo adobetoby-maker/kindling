@@ -15,6 +15,9 @@ defend—and power—the rebuilt world.
 
 - Collegiate teams, visible practice, measurable correction, rematches, standings,
   recruitment, and earned rank change.
+- Discipline and military-school training: students drill against one another, learn
+  spawn anatomy and kill mechanics, graduate through live-rift licenses, and carry
+  every injury, correction, and recovered ash share into the next threshold.
 - Different schools solving the same obstacle in incompatible-looking ways.
 - Friendly loyalty, rivalry, humor, and mentors with private stakes.
 - Historical records that change a present choice rather than delivering lore for
@@ -22,6 +25,9 @@ defend—and power—the rebuilt world.
 - Rift-response set pieces where teamwork and terrain matter more than raw output.
 - Professional rift fighting where rescue, closure, infrastructure, and clean ash
   recovery matter more than kill count.
+- The earned-ash loop: train, fight, kill, contain, recover, grade, divide, invest,
+  and return stronger. The soul must still learn; ash buys the next attempt rather
+  than acting as automatic experience.
 - Ashcraft: magic supplies pattern, ash supplies finite fuel, and Glory can hold
   industrial-scale patterns without making energy free.
 - The tension between ash-power industrial houses and near-monastic school orders,
@@ -36,19 +42,33 @@ defend—and power—the rebuilt world.
 
 | Book | Primary promise | Irreversible ending change | Status |
 |---|---|---|---|
-| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place through a regional season and a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and a second record confirms part of her dream without explaining it | `PLANNED` |
-| **2 — title unset** | National finals and professional recruitment reveal how ash power, nuclear-ash grids, industrial houses, company standings, school devotion, and competing interpretations of the Unroofed Sky conflict | A mixed-school cohort and professional team answer a national rift/grid event; independent Glory dreamers prove the vision is shared, and international convergence begins | `HORIZON` |
-| **3 — title unset** | International circuits, Glory masters, industrial dynasties, monastic orders, and national grids collide as the Unroofed Sky approaches | The planetary filter is completely lost; pure Glory presence becomes the world's permanent condition; rivals survive the collision by beginning a shared next-ladder method rather than producing one absolute ruler | `HORIZON` |
+| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place, learn to kill Riftspawn and recover ash with a team, survive a regional combat season, and answer a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and a second record confirms part of her dream without explaining it | `PLANNED` |
+| **2 — title unset** | National school finals and professional recruitment widen the combat ladder while stronger, more varied spawn make every team's earned-ash economy urgent; industrial houses, company standings, school devotion, and interpretations of the Unroofed Sky conflict | A mixed-school cohort and professional team answer a national rift/grid event; independent Glory dreamers prove the vision is shared, the link between human and spawn escalation is exposed, and international convergence begins | `HORIZON` |
+| **3 — title unset** | International school and company circuits, Glory masters, industrial dynasties, monastic orders, national grids, and apex spawn collide as the Unroofed Sky approaches | The planetary filter is completely lost; pure Glory presence becomes the world's permanent condition; rivals survive the collision by beginning a shared next-ladder method rather than producing one absolute ruler | `HORIZON` |
 
 ## Scale progression
 
-- **Book One — regional:** Meridian colleges, nearby cities, the Regional Measure,
-  local companies, and one grid/rift emergency.
-- **Book Two — national:** intercity collegiate finals, professional drafts and
-  contracts, ash exchanges, industry houses, school orders, and national response.
+- **Book One — regional:** Meridian discipline schools, contained-to-live spawn
+  training, school combat, the Regional Measure, local companies, earned ash, and one
+  grid/rift emergency.
+- **Book Two — national:** intercity school finals, licensed hunts, professional drafts
+  and contracts, ash exchanges, industry houses, school orders, stronger new spawn
+  varieties, and national response.
 - **Book Three — international:** national teams and companies, cross-border ash
-  grids, Glory masters, rival doctrines, the complete filter loss, and an emergency
-  no single system can hold.
+  grids, Glory masters, rival doctrines, apex rifts, the complete filter loss, and an
+  emergency no single system can hold.
+
+## Coupled escalation ladder
+
+| Stage | Human side | Riftspawn side | Earned-ash consequence |
+|---|---|---|---|
+| **Book One / regional** | An unusually strong student cohort; disciplined single-door fighters; Kiva begins cross-door sequencing | Familiar Handful and Flask forms appear more often, then one unscheduled expression breaks the regional event model | Small student yields matter; the first rich recovery attracts recruiters and industrial attention |
+| **Book Two / national** | National champions, mixed-school cohorts, early professional contracts, and rare Blaze-level teachers make blended tactics practical | Spawn show regional adaptations, mixed expressions, pack coordination, and higher average yield; old kill doctrine becomes unreliable | Company and school access to high-grade ash shapes training, travel, medicine, and political power |
+| **Book Three / international** | Professional national teams, industrial masters, devoted orders, and converging Glory users attempt a shared method | Apex spawn and rifts answer the same rising Glory pressure; some change category during contact | Ash abundance rises with catastrophic volatility; surviving the Unroofed Sky requires restraint and worldwide allocation, not hoarding |
+
+The two ladders must be shown as one causal curve only gradually. Characters may
+notice that students are stronger or that spawn are stranger long before anyone can
+prove that increasing Glory pressure beyond the filter drives both.
 
 ## The fixed horizon and the open outcome
 

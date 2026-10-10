@@ -32,6 +32,58 @@ This file does not silently promote the older storyboard's claims.
 - The filter may be failing, but characters distinguish measurement, theory, myth,
   and proof.
 
+## Combat progression, Riftspawn, and earned ash (`LOCKED 2680`)
+
+The visible progression engine joins student combat, field service, and the ash
+economy. It should be experienced repeatedly on the page rather than explained once.
+
+1. **Train:** discipline schools teach body mechanics, door control, team roles,
+   spawn anatomy, terrain, containment, quench procedure, casualty extraction, and
+   ash recovery. Several Book One chapters must show students learning specifically
+   how to kill Riftspawn, not merely how to duel other students.
+2. **Contest:** school teams fight one another in Measures, brackets, and mixed-role
+   lanes. A human opponent adapts, remembers, and exposes habits that a spawn does not.
+3. **Hunt or respond:** students graduate through licenses from contained Handful
+   releases to supervised live rifts. Riftspawn are dangerous animals or expressions,
+   not training dummies. A clean kill still leaves containment and rescue work.
+4. **Recover:** defeated Riftspawn dissolve into finite ownerless ash. The team must
+   catch, quarantine, grade, and reconcile it before it can be used. Contaminated or
+   badly captured ash can poison a cell, attract another rift, or injure an operator.
+5. **Invest:** the public authority takes its civic and casualty shares; the school,
+   team, and licensed fighters receive recorded yield shares. Earned ash pays for
+   training cells, equipment, travel, medical reserve, and harder sanctioned entries.
+6. **Advance:** rank is not an automatic reward for a kill. The soul grows through
+   repeated owned exertion, correction, recovery, and reproducible control. Ash lets a
+   student attempt more difficult work, but cannot purchase judgment or replace what
+   the soul has learned.
+
+This produces two linked scoreboards: personal capability (rank, Hold, Draw, control,
+and Call) and team yield (clean ash recovered after rescue, closure, and public shares).
+Kill count alone is an immature metric and a persistent source of institutional abuse,
+but kills and usable ash must remain materially important to students and companies.
+
+Recovered ash has three separate measurements. **Yield** records quantity on the
+Handful -> Flask -> Barrel -> Well ladder. **Grade** records purity and stability;
+fraudulently stamped ash can kill an operator even when the quantity is correct.
+**Resonance** records the defeated spawn's expression and therefore which training,
+medical, containment, transit, or industrial patterns can use the ash efficiently.
+A rare yield is valuable because of what it can safely fund, not because it grants the
+killer a packaged new power. Student teams carry metered combat ash for permitted
+techniques and equipment, so decisions about spending or saving an earned share have
+visible consequences in the next match and the next rift.
+
+### Filter escalation
+
+As the planetary filter thins, more Glory pressure reaches the world. Prepared humans
+can hold stronger, stranger, and more blended expressions, so each generation appears
+more naturally gifted. The same pressure also gives rifts more available pattern:
+spawn arrive more often, express greater variety, coordinate or adapt in unfamiliar
+ways, and reach higher yield classes. Early institutions read the two trends
+separately—an exceptional collegiate cohort and a bad rift season. The series gradually
+proves they are one escalation. More ambient Glory creates opportunity, not free power:
+untrained people overload, cells drift, doors interfere, and stronger spawn kill anyone
+who mistakes new capacity for mastery.
+
 ## The Unroofed Sky (`LOCKED SERIES PROPHECY`)
 
 The series uses a recurring fever dream, not a reliable spoken prophecy. Across
@@ -85,7 +137,10 @@ Together they operate through **the Meridian Compact**. Their sanctioned collegi
 season is **the Meridian Collegiate Circuit**, ending in **the Regional Measure**.
 It is a major public institution with teams, scholarships, standings, recruiters,
 broadcast coverage, and real consequences. Events test dueling, declared-role lanes,
-rescue/extraction, ashcraft, and controlled Riftspawn response.
+rescue/extraction, ashcraft, controlled Riftspawn response, and licensed live-yield
+work. The schools function partly as colleges, partly as discipline orders, and partly
+as military-response academies. Students train to fight people without killing them
+and to kill spawn without losing the ash, their team, or the civilians behind them.
 
 The collegiate system feeds **chartered rift companies**: professional salaried teams
 licensed to answer live rifts, fight Riftspawn, rescue civilians, protect
@@ -201,7 +256,7 @@ the generations who test, fail, record, and build after him.
 
 - **The Satori disk (`INHERITED` → `LOCKED 2680 survival`):** nine grooves; released
   through an appointed bearer line, not blood descent. It warms once after Kiva's
-  first correct deliberate three-door sequence. It does not teach or speak.
+  first correct deliberate cross-door sequence. It does not teach or speak.
 - **The reasons ledger (`PLANNED survival`):** preserved in copies with disagreements.
   A missing or edited reason is a story problem, not proof the founders were wrong.
 - **The crooked post (`PLANNED survival`):** retained in one ceremonial/training
