@@ -62,6 +62,11 @@ and Call) and team yield (clean ash recovered after rescue, closure, and public 
 Kill count alone is an immature metric and a persistent source of institutional abuse,
 but kills and usable ash must remain materially important to students and companies.
 
+**Draw** is efficiency: ash spent on a defined piece of work divided by the governing
+book or bench expectation. `1.0` is standard and lower is more efficient. The expected
+cost is task-specific; the accepted book figure for a contested four-minute hold is
+twelve hundredths of a dram, so eleven hundredths and a hair records as `0.93`.
+
 Recovered ash has three separate measurements. **Yield** records quantity on the
 Handful -> Flask -> Barrel -> Well ladder. **Grade** records purity and stability;
 fraudulently stamped ash can kill an operator even when the quantity is correct.
