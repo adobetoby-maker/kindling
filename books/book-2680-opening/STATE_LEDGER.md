@@ -76,6 +76,9 @@ eight-chapter continuous prose run.
   is expensive and bounded; interplanetary normality does not.
 - Classification uses physical instruments, projected tables, and human rulings.
   There is no private retinal or software-like status overlay.
+- **Draw** is ash spent on standard work divided by that task's book/bench expectation:
+  `1.0` is standard and lower is more efficient. A contested four-minute hold uses a
+  book expectation of twelve hundredths of a dram.
 
 ## Ash-electric civilization and Glory
 
