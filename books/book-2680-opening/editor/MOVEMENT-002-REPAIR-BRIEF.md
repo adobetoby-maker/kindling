@@ -1,7 +1,7 @@
 # Movement Two — consolidated same-author repair brief
 
-Date: 2026-10-10  
-Author: Claude Opus 5.5 (`claude-opus-5-5`)  
+Date: 2026-10-10
+Author: Claude Opus 5.5 (`claude-opus-5-5`)
 Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0
 
 Read in full before editing:
