@@ -454,3 +454,145 @@ the brief, dialogue was not lengthened to chase them.
   tactic, choice, score, or formula decision changed.
 - Final Movement Two word count: **52,637** (`wc -w`). The frozen first draft remains
   **52,000** words and checksum-verifiable.
+
+## Movement Three — First Season (chapters 17–24)
+
+- Status: **first draft, written 2026-10-11 as one continuous creative run. Not reviewed,
+  not repaired, not scored, not committed, not pushed.** Stopped for movement review.
+  Movement Four was not started.
+- Seat: Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 (progression-adventure)
+- Selected author: Opus
+- Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported
+  by the runtime environment of the authoring session ("powered by the model named Opus
+  5.5; exact model ID `claude-opus-5-5`"). Every manuscript sentence in chapters 17–24 was
+  written by this model in one Claude Code background session. **No subagents were used**,
+  and no other model wrote, revised, or summarized prose.
+- Provider: Anthropic, via Claude Code (background job)
+- Session: Claude Code session `67896672-4c66-4e9a-83a8-812a6553d76f`
+  (https://claude.ai/code/session_01Df5CKknpzFzEmLmc92es5S), a new session and not the
+  Movement One or Movement Two drafting, repair, review, or recheck sessions. Drafting ran
+  from about 14:22 to 15:15 MDT on 2026-10-11.
+- Compiled prompt: `planning/OPUS-5.5-MOVEMENT-003.prompt.md`
+  (SHA-256 `7237451c368efc3abd9faa574f5229a330be5730447cc82275e44aa62dcb2c35`), read in
+  full (all 2,473 lines) before drafting. The prompt embeds chapter 16, `UNIVERSE_BIBLE.md`,
+  `BOOK_MAP.md`, `STATE_LEDGER.md`, `CHARACTERS.md`, this file as it stood, and
+  `provenance/MOVEMENT-002-CONTINUITY.md`; those were read there.
+- Movement packet: `packets/MOVEMENT-003.md`
+  (SHA-256 `33cd4372d4c1e0e42ecd65fcfefa93260c1975f563f81d52d3cb5f906546286f`)
+- Numerical formula: `/Users/drive/penname/research/ironprince-craft-formula.md`,
+  SHA-256 `9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8`
+  (re-hashed in this session; matches the hash recorded in the compiled prompt)
+- Edition: Book One, Movement Three, first draft (2026-10-11). **No frozen edition exists
+  for this movement.**
+- Branch: `worktree-kindling-2680-prologue-m001-opus55` (working tree only; the eight
+  chapter files, the packet, and the compiled prompt are untracked)
+- Continuity checkpoint: `provenance/MOVEMENT-003-CONTINUITY.md`
+- Also read in this session, beyond the compiled prompt:
+  `provenance/MOVEMENT-001-CONTINUITY.md` (in full), `universe/NAME_REGISTRY.md` (in
+  full), `editor/MOVEMENT-002-REPAIR-BRIEF.md` (in full), `manuscript/chapter-13.md` (in
+  full), the first 140 lines of `manuscript/chapter-15.md`, lines 205–264 of
+  `manuscript/chapter-07.md` (the fever and the dream), and line-level excerpts found by
+  search in chapters 3, 4, 8, 9, 10, 11 and 14 (Orla's definition of a sequence, how a dram
+  is settled, the posted ash prices, Healer Aske's instruction, Examiner Rusk).
+- **Not read in this session:** the prologue; chapters 1–12 and 14 other than the excerpts
+  above; the rest of chapter 15; the Movement One and Two editorial reviews, cold reads,
+  repair reports and recheck reports. Their canon was taken from the two continuity
+  checkpoints. A review should weigh that when it checks voice and small facts.
+- Premise and owner names: confirmed available before prose (Kiva Rowan, Mara Rowan, Orla
+  Dane, Anwen Pryce, Perrin Cade, Kellan Renn, Noa Bexley, Ysra Crest, Rhea Sorn, Hollis
+  Vane, Lowen Brask, Selka Dray, Jude Talley, Pru Finch). No locked name was changed.
+  New minor names were checked by search against this book's manuscript and provenance,
+  `books/book-01-kindled`, `books/book-02-meridian`, and `universe/`; none matched.
+
+### Files
+
+| File | Heading | Viewpoint | Words (`wc -w`) | SHA-256 |
+|---|---|---|---:|---|
+| `manuscript/chapter-17.md` | Twenty Handfuls | Kiva; Mara cutaway (1,049) | 5,799 | `726322d43e6cd795e533c8f61ebf36383cfd5a9b44eb15adbfa49ee0c3aa0cec` |
+| `manuscript/chapter-18.md` | A Gate to Lean On | Kiva; Anwen cutaway (575) | 5,070 | `1fbe95c1f5740681f6a473a9043b24f3dfce67d4f8fb6fd54dc84fe8fb325a42` |
+| `manuscript/chapter-19.md` | Rule Nine | Kiva | 5,782 | `2457b74b030fac109a879451ecf60c5f1a1f6e095d96f4283b3a963ef1137e29` |
+| `manuscript/chapter-20.md` | Mine, Yours | Kiva; Lowen Brask cutaway (860) | 6,301 | `4f33e7bf93fde4f5af6601c54e51f338ae0510ab0d596a6450c8f82232333992` |
+| `manuscript/chapter-21.md` | The Pit | Kiva | 5,410 | `a344556323e2e93f3e89356e90626ba6a832c2c5d22e98240a27dc965b297554` |
+| `manuscript/chapter-22.md` | Rung One | Kiva | 3,911 | `6067859c6af85675f7ef41b222e12a16eebf251e41deb68199f18516942e5ffd` |
+| `manuscript/chapter-23.md` | Ember, to Still | Kiva; Perrin cutaway (967); Rhea cutaway (1,463) | 6,417 | `b6fa8396a47aee2e5e75f5e69af45c614eaaf4b7012cfcfe77d1364ee709e4cb` |
+| `manuscript/chapter-24.md` | What Was Tinned | Kiva; Noa cutaway (933) | 6,319 | `45fb53afc01e4950bdea543839283fc38af70be80c48f998027c21dd12a4615c` |
+| | | **Movement Three total** | **45,009** | |
+
+Secondary-viewpoint sections total about 5,850 words across six people (Rhea 1,463, Mara
+1,049, Perrin 967, Noa 933, Lowen 860, Anwen 575), about 13.0%; Kiva holds about 87.0%.
+The eight chapters have 59 sections (about 760 words a section). These are plain section
+word counts, not craft measurements.
+
+### What was written
+
+Chapters 17–18 open the Flask preparation: Kiva's first deliberate two-door attempts
+(Stride into stance, one bound, six misses and an empty ration by Thursday); Warden Druce's
+teaching of the Flask as a "string" of eight knots taken as a schedule by a four-team
+company; Mara's hearing before Examiner Rusk; the first purchased Kennel floor (the purse
+sheet); a brief lost meet at the Wren House; and a professional Graywater response to a
+live Flask at the Ferren weir, watched from the bank. Chapters 19–20 are the return meet
+against Lowen Brask's Stonehand third team at the Crooked Line's own court (9–8, won), in
+which Kiva breaks her word to her sponsor, tries the sequence under home rule nine, and
+wrecks her knee; the team's correction; the second Kennel floor; and attempts eleven to
+fourteen. Chapters 21–23 are the Flask qualifier at the Pit: the fifth company's decision
+to leave no gate lit, Team Seven's clean rung, the string taking the arena's bus, the
+professional response, Kiva's first correct deliberate two-door sequence under a Home Line
+field direction, the disk warming afterward, and a waking fragment of the dream. Chapter 24
+is the easing, the grading, the board's ruling, the share, the investment vote, and the
+evidence that opens Movement Four.
+
+Held back as the packet requires: the disk warms once, only after the sequence has
+finished, and does nothing else; the sequence is not repeated and is not certified; no
+stable two- or three-door configuration is held; no rank changes; the two fingers are
+eased back to where they were and are neither cured nor lost; the Unroofed Sky is not
+named and supplies no tactic; the filter, the Makers, the disk's origin and the cause of
+the Fall are not explained; the W-trace medical reserve is spent only on a healer's easing.
+
+### Not done in this run
+
+No editorial review, cold read, repair pass, metric scoring, frozen edition, commit or
+push. The formula's sentence, paragraph, readability, progression-vocabulary and
+development-cadence targets were written toward and **have not been measured** for these
+chapters. Nothing here should be read as a passing score.
+
+During drafting the author corrected continuity slips only, as the task allows: the
+distance to the home line in the meet's first carry (sixteen paces); the score on the
+board late in the third carry (eight to five); Jude's rung count in the third company (a
+six-knot string); two elapsed-time phrases ("a fortnight"); one line in which Selka Dray
+knew of the Rowan household filing (removed, with Kiva's two answering phrases); one
+bulk-of-ash image in chapter 17; one phrase in chapter 24 that turned a nosebleed into a
+split lip; and the keeper's shelf at the Pit, which first had a
+chained gangway plank and now can be reached only through the keeper's door, with the
+lever's four-hundredweight requirement stated in the same speech.
+
+### Choices the owner should review
+
+Full detail is in `provenance/MOVEMENT-003-CONTINUITY.md`, section 9. The largest:
+
+1. **The sequence is Stride into stance** (Ember door shut at the top of the bound, a
+   doorless fall "as long as it takes to say *two*," the still door set under the landing
+   "like a pan"). It opens the Pit's sprung south link, a task that needs a Stride to
+   reach and a still-door to hold. It lasts about nine seconds and costs 0.31 of a dram.
+2. **It is done outside her certificate**, under a Home Line field direction given one
+   minute after the foreman struck the event from the Circuit calendar. Orla refuses to
+   certify it, states what she has seen, and takes the consequence on herself. The board
+   rules that no sanctioned-event incident occurred. Orla's standard afterward: "Show me
+   six."
+3. **The new spawn expression:** the skin does not break when the top knot is cut; it
+   slides to the next knot, and when the blind string is left with nothing lit it walks to
+   the nearest pattern (the arena's bus), lets cords down through the gratings, closes its
+   skin all round, stops reading people, and walks the bus toward the Ferren pump bank.
+   Opening the link returns it to an ordinary skinned Flask. Rung-one ash reads **W, full;
+   I, trace** (the comb's seventh reed, glossed as induction).
+4. **The team's mistake is Kiva's own notion** (whole floor dark, taken from the meet's
+   lesson), adopted by the company on a show of hands after the foreman said he would
+   leave a gate. The board writes a new rule and grants a **"second step, attached."**
+5. **Selka Dray**, who objected to Kiva's seat and has not changed her mind, is the
+   second hand at the lever and keeps Kiva's count. **Lowen Brask** commands the Kiln's
+   lid crew and uses the Crooked Line's count-in to bring it down on a second string.
+6. **Three evidence hooks for Movement Four:** a T-0 entry in the Pit's branch book (every
+   lamp on an isolated ring, once); a hand-copied 2446 register entry with a margin note in
+   a retired record hand; and a Home Line bearer's book and reasons ledger that Orla has
+   asked Hollis Vane to open. None is explained.
+7. **Chapter 22 is short** (3,911 words) because the response continues without a break
+   into chapter 23. The chapter boundary could move in review without rewriting.
