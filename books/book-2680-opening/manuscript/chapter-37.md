@@ -84,7 +84,7 @@ The push had gone in at one man and come out at the other.
 
 He did not finish. Wace's open hand came round the end of the wall and landed flat between his shoulder blades.
 
-"*Down!* Crooked Line!"
+"*Down!* Seven!"
 
 Jude knelt. The box began to walk.
 
@@ -146,7 +146,7 @@ It went out between one count and the next, clean, with nothing left hanging. Ki
 
 Perrin and Jude had the whole of their weight on something that was no longer there. They went through it and down, one on his hands and the other on his face. A dropped wall throws whoever is leaning on it. Wace's palm was on Perrin's back, and Gower's dark blade was flat on Jude's shoulder, before either had got a knee under him.
 
-"*Down! Down!* Crooked Line, two!"
+"*Down! Down!* Seven, two!"
 
 The wall came up again. Kiva had not moved.
 
@@ -172,7 +172,7 @@ The wall parted.
 
 Jude Talley had been on one knee for ten counts. He got up at eleven. He came through the place where a wall had been, behind Brask, who could not turn, and laid a dark blade across the square grey back as a man lays a rule across a plank.
 
-"*Down!* Stonehand!"
+"*Down!* Old Four!"
 
 Brask knelt. He did it without hurry, and he looked up at Kiva as he went, and he was very nearly smiling.
 
@@ -190,13 +190,13 @@ It was not over. Brask did not build a box in the third carry; he had seen it ta
 
 His palm found her forearm, and then her shoulder. Two halves made a down. She knelt on the booming oak with her hands on her knees and counted ten, and felt four thousand people watching a girl with three doors be put down by a boy with one.
 
-It did not matter. She found, kneeling there, that it truly did not. Jude had gone for Gower's feet. Anwen had a plank across the lane with nothing behind it but nerve, and Perrin was walking a small piano home behind it a pace at a time, on the words *Yours* and *Mine.*
+It did not matter. She found, kneeling there, that it truly did not. Jude had gone for Gower's feet, and had them, and Gower was kneeling too. Anwen had a plank across the lane with nothing behind it but nerve, and Perrin was walking a small piano home behind it a pace at a time, on the words *Yours* and *Mine.*
 
-"*Time!*"
+The Alderman went over the north line with nine seconds on the clock.
 
 The grey braid went up.
 
-"Crooked Line school's Team Seven, eight. Old Four, seven."
+"Team Seven, eight. Old Four, seven."
 
 The tiers made a noise like a wave coming up a shingle beach. Perrin sat down on the Alderman.
 
@@ -274,7 +274,7 @@ She was nobody. That was the whole of the trouble. For the length of a short wor
 
 The flat of a dark blade lay down along her ribs. It was not a blow. It was hardly a touch. It was as gentle as a hand laid on a shoulder in a crowd.
 
-"*Down!* Crooked Line!"
+"*Down!* Seven!"
 
 The ash went out of her. It went as it always went, a quarter of a dram, like a breath, with a referee's voice in the middle of it.
 
@@ -348,7 +348,7 @@ She watched it reach him. He had a column for most things. He had not had one fo
 
 He nearly laughed. It did not get as far as his mouth.
 
-"I've a final at six," he said. "Against Twenty-Eight. Dray's been reading my feet all afternoon." He laced the cuff, badly. "If there's a thing I can do tomorrow that isn't a point, tell me. I'll not ask what it's for."
+"I've a semi-final at four," he said. "And Twenty-Eight at six, if we're both let. Dray's been reading my feet all day." He laced the cuff, badly. "If there's a thing I can do tomorrow that isn't a point, tell me. I'll not ask what it's for."
 
 He went back to the black and gold. A square man with a foreman's slate was waiting for him there, and said something, and clapped him on the arm.
 
@@ -398,7 +398,7 @@ The standings went up on the great board at seven, in chalk, a line at a time.
 
 Halden had the Lane. They had beaten Twenty-Eight in the final by two, and Selka Dray had got a blade on Kellan's forearm twice. Twenty-Eight had the Bench, on a thin boy from the Wren House who had found his hurry in under three minutes. On the two boards together, Seven stood sixth of sixteen.
 
-The feeling came back into her fingers at about the same time, slowly, from the root. It came back to less. The first found the edge of the seat after she had been looking at it for some while. The second found that there was a seat.
+The feeling had been back in her fingers since a little after five. It had come slowly, from the root, and it had come back to less. The first found the edge of the seat after she had been looking at it for some while. The second found that there was a seat.
 
 She did not tell Orla that. Orla was watching the floor, where a steward was wheeling away the third trestle from the north door.
 
