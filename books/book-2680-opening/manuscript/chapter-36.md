@@ -276,7 +276,7 @@ Behind her the bag was swinging to and fro against Perrin's chest, light as a la
 
 "Two." He could hardly get it out. "A cliff. Twenty-six. Two. A cliff. Twenty-six. Three." He put the tape down on the drum case with both hands. "Fifty-nine. There are two walls in it. You could cut yourself on either one."
 
-"One," said Orla. "One, of three." She got up off her knees with the stick, and it took her some time. "I'll say what I saw, and no more. A ward took a blow. A bound carried it four paces. A stance put it in the ground, and I had it under my palm for a slow eight. Nothing was open between." She breathed. "I've taught for one-and-twenty years, and I was nineteen on the Line before that. I never saw it, and I never met anybody who had."
+"One," said Orla. "One, of three." She got up off her knees with the stick, and it took her some time. "I'll say what I saw, and no more. A ward took a blow. A bound carried it four paces. A stance put it in the ground, and I had it under my palm for a slow eight. Nothing was open between." She breathed. "I've taught for one-and-twenty years, and I was the best part of twenty on the Line before that. I never saw it, and I never met anybody who had."
 
 Kiva had not held out her hand. She could not find it.
 
@@ -318,7 +318,7 @@ She made herself answer it as she would have made Rowan answer, with no shine on
 
 The girl was not at the Bench. That was Dray's doing, and Crest's, and Orla had been glad of it in that office and ashamed of how glad. There was a pen on her, held by a boy who had twice told a Torch that she was wrong. There was a word that a Stonehand lad with cracked ribs could say three times. There was a page with the cost written before the go, by a ward-holder who had not finished being angry and voted anyway.
 
-And the girl had stood on a cross six nights ago, with a stick against her shoulder, and said *one.*
+And the girl had stood on a cross a week ago, with a stick against her shoulder, and said *one.*
 
 Jessamy had never said *one.* She had not known that it wanted teaching.
 
@@ -354,7 +354,7 @@ It came back to less. Kiva knew that before Aske told her. The first finger foun
 
 She went from the infirmary to the Home Line hall, since it was within the week.
 
-She had been eleven times now. She knew which stair creaked. The Weir had witnessed her twice, and the Lantern once, and Vane the rest, and each time she had taken the steel pen and written one word in the fourth column, under her own long entry, with the date. *Cold. Cold. Cold.* It went down the page like a drip. She had rather come to like it.
+She had been eight times now. She knew which stair creaked. The Weir had witnessed her twice, and the Lantern once, and Vane the rest, and each time she had taken the steel pen and written one word in the fourth column, under her own long entry, with the date. *Cold. Cold. Cold.* It went down the page like a drip. She had rather come to like it.
 
 Vane had the book open when she came in. There was a half sheet beside it, in a clear round hand that she knew.
 
@@ -386,7 +386,7 @@ Mara sat her practical on the seventh of the ninth month, in the examiners' room
 
 She came home at four with a paper in her bag. She did not say anything. She went down the hall to the dead panel, and took off the tag that had hung there since the spring, and read it once. *QUENCHED 13TH. NOT REFILLED PENDING REVIEW.* Then she fetched a can and her tools, and Kiva stood at the kitchen door, well back, and watched her aunt fill a cell and tune it, slowly, with the wrong hand, which was now the right one.
 
-The panel lit. It was a small, steady, yellow light. It had been dark for five months.
+The panel lit. It was a small, steady, yellow light. It had been dark for the best part of four months.
 
 "He said the tune was a hair slow," said Mara. "He said he'd rather have it slow from somebody who knew which hand she was using. He's a dreadful old man." She wiped her fingers on her apron. "You're still not to touch it."
 
@@ -424,7 +424,7 @@ Something eased in his face. It was not a smile.
 
 On Thursday night Jude chalked it on the Low Lane's brick, for the five of them, as two boxes and a great many arrows.
 
-"Sixteen fours. Twelve by yield and four houses. Four boards." He tapped the first box. "Friday, the Great Floor. The Lane in the morning, knock-out, three carries, Circuit rules, and rule nine for anybody who changes, which is to say for her. The Bench after dinner. Pryce leads that; Rowan sits in the tiers and doesn't so much as look at a cell." The second box. "Saturday, the Pit. The Carry in the forenoon. And the best four on the three boards make the first company for the Call."
+"Sixteen fours. Twelve by yield and four houses. Four boards." He tapped the first box. "Friday, the Great Floor. The Lane from nine, knock-out, three carries, Circuit rules, and rule nine for anybody who changes, which is to say for her. The Bench at five, when the lanes are down to their last two. Pryce leads that; Rowan sits in the tiers and doesn't so much as look at a cell." The second box. "Saturday, the Pit. The Carry in the forenoon. And the best four on the three boards make the first company for the Call."
 
 "What's the Call?" said Pru.
 
