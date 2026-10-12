@@ -4,6 +4,8 @@ Hollis Vane had read a great many things aloud in his life, most of them from a 
 
 He had never read to the watch.
 
+He knew what a reading could come to. The seven might vote the plate back into its box, for cause written, and the cause would be the line that he was about to read. A girl of seventeen had worn that small cold disk on a cord for four years. It was the one thing that anybody had trusted her with before they knew what she was. If the vote carried, he was the officer who would have to go and take it off her neck.
+
 Seven of them sat round the oak table on Sunday afternoon, with the window at their backs and the black box open in the middle. In that room nobody had a name. It was an old courtesy and a useful one. A person was the Ferren, or the Weir, or the Lantern, for as long as the door was shut, and whatever was said was said by a stretch of water and a wall. Vane was the Sag. He had been the Sag since the spring, and he had not once been asked to open his mouth.
 
 "Fourth column," said the Ferren.
@@ -66,7 +68,7 @@ He wrote, in the back of the book, where the watch's own lines went. She gave it
 
 There was one thing left, and Vane had been waiting for it.
 
-"I asked leave to trace a line," he said. "In the fourth column, about the middle of the book. It's in the old night hand, and none of us can read it. There's a woman at the Compact Library who can."
+"I asked leave to trace a line," he said. "In the fourth column, about the middle of the book. It's in the old record hand, the one the night clerks wrote, and none of us can read it. There's a woman at the Compact Library who can."
 
 "Whose line?"
 
@@ -110,7 +112,7 @@ Kiva's hand went to her collar before she could stop it.
 
 "It's so that nobody can. The School asked for it on Friday, for a glass case."
 
-"Did they?" Something happened at the corner of Mara's mouth. "And I thought I'd been ill-used." She laid the paper under the weight, on top of the Order's grey letter and the Works' notice. "You may tell your watch that the household has had its answer, and that the answer's *we don't know either.* I'd sooner have had that eleven years ago. I'll take it now. I'm not forgiving anybody tonight; I haven't the time."
+"Did they?" Something happened at the corner of Mara's mouth. "And I thought I'd been ill-used." She laid the paper under the weight, on top of the Order's grey letter and the Halden Works' notice. "You may tell your watch that the household has had its answer, and that the answer's *we don't know either.* I'd sooner have had that eleven years ago. I'll take it now. I'm not forgiving anybody tonight; I haven't the time."
 
 "She said you'd give me tea and not forgive me."
 
@@ -146,7 +148,7 @@ That was the first thing Kiva saw on Monday morning, in the Placement Chair's of
 
 She laid her finger on it. Kiva did not need to look. A step of two hundredths, and then a hump, round-topped, six hundredths high and a third of a second across.
 
-"That's two doors open together," said Dray. "On a sanctioned instrument. She landed it. It was soft. It cost a third of what the others cost. Her reader says her own sponsor felt nothing wrong in it, and I believe him, because he's written that the sponsor would have signed." Her voice was quite steady. "In the spring I said she'd fouled a cell with her hand off the drum, and didn't know she had. I was told that was one day and one cell. Here's a second. She did the thing that ended Hart's hand at the Regional, and it felt like nothing, and nobody in that yard could tell but a first-year with a strip of paper."
+"That's two doors open together," said Dray. "On a sanctioned instrument. She landed it. It was soft. It cost a third of what the others cost. Her reader says her own sponsor felt nothing wrong in it, and I believe him, because he's written that the sponsor would have signed." Her voice was quite steady. "In the spring I said she'd fouled a cell with her hand off the drum, and didn't know she had. I was told that was one day and one cell. Here's a second. She did the thing that ended Jessamy Hart's hand at the Regional. Marten, my catcher, had that story from the Wren House; they tell it to anybody who's to stand a Bench. And it felt like nothing to her, and nobody in that yard could tell but a first-year with a strip of paper."
 
 Orla was sitting at the back, by the door, with her stick. She did not stir.
 
@@ -164,7 +166,7 @@ She had made it on the tram. It was about a called miss, and a reader who had st
 
 Dray's head came round at last.
 
-"I didn't know I'd done it. I thought it was only that I was pleased. I'd have gone home thinking it was the best I'd ever made." She kept her hands in her lap, the right over the left. "I've done two since that were the dear kind, and one of them I chose with the cheap one in plain sight. I can tell them apart now, in the air. I couldn't prove that to you. I can't weigh it. So I'd ask for what she's asking for. Put a pen on me. Every floor."
+"I didn't know I'd done it. I thought it was only that I was pleased. I'd have gone home thinking it was the best I'd ever made." She kept her hands in her lap, the right over the left. "I've done one since that was the dear kind, and I chose it with the cheap one in plain sight. I can tell them apart now, in the air. I couldn't prove that to you. I can't weigh it. So I'd ask for what she's asking for. Put a pen on me. Every floor."
 
 There was a short silence.
 
@@ -208,7 +210,7 @@ He had been at the Pit's mast room at eight on Sunday. Mr. Adlam had come at nin
 
 "What did he write?"
 
-"Two lines. I couldn't see them. He writes very small." Noa set the drum turning, and listened to it. "He's asked the Chair for leave to seat a recorder of the Works' own at the Regional, beside the Circuit's mast. It's a thing they use in the refinery yards. It doesn't draw what a fighter spends. It shows whether anything on a floor is keeping step with anything else."
+"Two lines. I couldn't see them. He writes very small." Noa set the drum turning, and listened to it. "He's asked the Chair for leave to seat a recorder of Halden's own at the Regional, beside the Circuit's mast. It's a thing they use in the refinery yards. It doesn't draw what a fighter spends. It shows whether anything on a floor is keeping step with anything else."
 
 Kellan had come in at the gate behind them. He had heard the last of it, and stood still.
 
@@ -216,7 +218,7 @@ Kellan had come in at the gate behind them. He had heard the last of it, and sto
 
 "No," said Noa. "I thought that as well."
 
-It was a quarter to eight, and the thread was cold, and the step behind her was clean. Kiva had a week's ration in her, and thirty-one hundredths out of a glass with four names on it, and there were ninety-four left when that was gone. She was standing with her toes on the scraped line when the others turned their heads.
+It was a quarter to eight, and the thread was cold, and the step behind her was clean. Kiva had a week's ration in her. A crossing would take thirty-one hundredths out of the practice glass that four people had put their names to, and there would be ninety-four left when that was gone. She was standing with her toes on the scraped line when the others turned their heads.
 
 Somebody was coming down the lane. It was a tall, upright figure in a grey coat, walking without hurry, and behind it came a clerk with a folding stool.
 
@@ -300,7 +302,7 @@ She went back up the lane as she had come, without hurry.
 
 "Ninety-four," said Kellan, into the quiet. He had it written already. "Three more is ninety-three. There's still the hundredth." He shut the notebook. "I didn't know she'd been on that Bench."
 
-"No," said Orla. "She doesn't tell it. She was twenty years on a Wren House ward line before she ever sat behind a desk, and she spent ten of them not speaking to me." She took up her stick. "I thought for a long while that it was because she blamed me. It was a good deal later that I learned she'd been asked to sign his entry, and had."
+"No," said Orla. "She doesn't tell it. She was twenty years on a Wren House ward line before she ever sat behind a desk, and she spent ten of them not speaking to me." She took up her stick. "I thought for a long while that it was because she blamed me. It was a good deal later that I learned she'd been asked to sign Jessamy Hart's entry, and had."
 
 ---
 

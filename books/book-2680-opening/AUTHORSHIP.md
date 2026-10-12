@@ -1247,3 +1247,176 @@ Full list in `provenance/MOVEMENT-005-CONTINUITY.md`, section 9. The largest:
     a trunk toward the Crooked Line's core house in about eighteen days.
 11. **Movement length is 45,623 words,** at the foot of the working range; secondary viewpoint
     is about 13.7%, a little over the formula's 13%.
+
+## Movement Five consolidated repair — 2026-10-11
+
+- Status: **one bounded same-author repair applied to chapters 33–40, then targeted-rechecked.** The
+  first draft is frozen, unchanged, at `editions/movement-005-pre-repair/` (its
+  `SHA256SUMS.txt` verified before the first edit, after the last prose edit, and again after
+  the records were written). This section supersedes the first-draft section's statements that
+  the movement is unreviewed, unmeasured and has no frozen edition; the rest of that section
+  describes the first draft as it stood.
+- Repairing model: **Claude Opus 5.5 (`claude-opus-5-5`)**, the same model that wrote the
+  first draft, as reported by the runtime environment. **No subagents, workflows or other
+  models were used**, and no other model wrote or revised prose.
+- Provider: Anthropic, via Claude Code (Claude Agent SDK), non-interactive session
+- Session: Claude Code session `433a93b1-1ba4-4c05-9e32-7132cb480100` (the identifier in the
+  session's own tool-result path). A new session, not the drafting, editorial or cold-read
+  session. It began about 23:12 MDT on 2026-10-11. Its first turn read every required file,
+  verified the frozen edition and extracted the earlier metric scripts, then was interrupted
+  **before any file in the repository was touched**. The same session resumed at 23:26 and
+  made every edit between about 23:35 and 23:49. This is one repair pass, not two.
+- Instructions: `editor/MOVEMENT-005-REPAIR-BRIEF.md`
+  (SHA-256 `93aa7e683d6794318c8370f27009555d4940b9d42208a71b32181fecf57fd2c9`), read in full.
+- Reviews the repair answers, both read in full: `editor/MOVEMENT-005-EDITORIAL.md`
+  (SHA-256 as read `0f29cc663050edb4c7c0108c62835cded92ec8397f449678fa5c33cf633ff7c6`; an
+  informed same-model editorial review; it already showed as modified against `HEAD` when
+  this session began, and this session did not edit it) and
+  `editor/MOVEMENT-005-COLD-READ.md`
+  (SHA-256 `820ba86d57da9381cd905232540e876001943f352027cf77a299d101f353824d`; a simulated
+  cold read). Neither is a human read.
+- Read in full before the first edit: the three files above; the frozen `SHA256SUMS.txt`;
+  chapters 33–40 (the working chapters were byte-identical to the eight frozen files, checked
+  with `cmp`, so one reading covered both); `provenance/MOVEMENT-005-CONTINUITY.md`;
+  `STATE_LEDGER.md`; and the Movement Four and Movement Five sections of this file, with
+  `editor/MOVEMENT-004-REPAIR-REPORT.md` for the report's form.
+- Also consulted, by line lookup only, to anchor repaired references in what is already on
+  the page: chapter 25 (lines 167, 199, 215: the record hand and the clerk R.), chapter 27
+  (79–87, 201–207: the Reader's "somebody tidied the third away," said to Vane), chapter 28
+  (369), chapter 30 (203–231, 419: Finch on the curb; Rhea's seconds), chapter 31 (181: the
+  two-word card), chapter 32 (9–21, 341: the disk worn four years), chapters 3 and 8 (Jessamy
+  Hart), the Movement Four checkpoint (the dates of the first four goes), and a count of how
+  chapters 1–32 name "the Works."
+- Method: targeted in-place edits, 72 in all, each an exact-string replacement that aborts
+  unless it matches once. No chapter was rewritten whole. No scene, section break or
+  viewpoint was added, cut or moved; the movement still has 46 sections and six cutaways.
+  One short paragraph (the lamps on the dead rim) was moved earlier inside its own scene in
+  chapter 39, as the brief's notch item requires.
+- Records reconciled to the repaired prose: `provenance/MOVEMENT-005-CONTINUITY.md` (new
+  section 0 lists the changes; SHA-256 after reconciliation
+  `9f0c7f8e170435b6c461b1bfe05dca53e4b566da0f7e0fdcf38bacb0c46d297e`) and the Movement Five
+  block of `STATE_LEDGER.md` only.
+- Repair report: `editor/MOVEMENT-005-REPAIR-REPORT.md`.
+- **Targeted recheck:** a fresh Claude Opus 5.5 review-only session read the repaired
+  chapters and frozen comparison, passed all three priorities, and identified five
+  clause-level prose corrections plus two record corrections. All seven were applied before
+  acceptance; no second repair pass was opened. See
+  `editor/MOVEMENT-005-TARGETED-RECHECK.md`.
+- **Not done at this point:** no commit, push, publication or narration; no Movement Six.
+  Neither review report was altered. The working tree holds the accepted repair uncommitted,
+  on `worktree-kindling-2680-prologue-m001-opus55` at `a0922ea`.
+
+### Word counts (`wc -w`)
+
+| File | Before | After | Change |
+|---|---:|---:|---:|
+| `manuscript/chapter-33.md` | 5,091 | 5,211 | +120 |
+| `manuscript/chapter-34.md` | 5,844 | 5,849 | +5 |
+| `manuscript/chapter-35.md` | 5,703 | 5,715 | +12 |
+| `manuscript/chapter-36.md` | 5,764 | 5,817 | +53 |
+| `manuscript/chapter-37.md` | 5,179 | 5,238 | +59 |
+| `manuscript/chapter-38.md` | 4,959 | 5,047 | +88 |
+| `manuscript/chapter-39.md` | 6,384 | 6,555 | +171 |
+| `manuscript/chapter-40.md` | 6,699 | 6,829 | +130 |
+| **Movement Five total** | **45,623** | **46,261** | **+638** |
+
+Nothing was cut for length. Every protected line named in the brief is present word for word.
+
+### Post-repair SHA-256
+
+| File | SHA-256 |
+|---|---|
+| `manuscript/chapter-33.md` | `a85120c11223b76906ec49d54ef6c6bcadafe9d2f90e8f32ef25db9ffb335b03` |
+| `manuscript/chapter-34.md` | `92ccd37798c12cf65a2cd25202e6c32b01bf8b063d6a0f23fc14a29b30c20353` |
+| `manuscript/chapter-35.md` | `2ca89608564470b1fc6602f6980904ede07d5ec3badd92720f871bac96d27cf3` |
+| `manuscript/chapter-36.md` | `a7447f5e648b1cf7eceaa01620e36e9f4809d7aec1cb6ed0be127e5cd2fc89b3` |
+| `manuscript/chapter-37.md` | `df3d4e59758cd08d5cdde2c3a0ab5c1426e2d8952743301387762979553475df` |
+| `manuscript/chapter-38.md` | `38b1392ec4fcea2fd4f6256b0f806662b228aa7be26642b29c2c4d38914c27cd` |
+| `manuscript/chapter-39.md` | `7ace9058c3849434bd458e5d8f06b980cc8efcf1df0faee699a1b7a5e9a55234` |
+| `manuscript/chapter-40.md` | `cd92f4b78c121a6c3b388246c0ae8cf94dd8f140ba0f6324dba0df90f33e0d08` |
+
+### Measurement (shared definitions of Movements One to Four; not a gate)
+
+One stdlib script (`metrics_m005.py`, SHA-256
+`39339c2a0c51e5678c4d370df9c8ac326a10ab13b224aec391afe706e1b3f67e`, kept outside the
+repository and printed in the repair report) loads the Movement Three script's definitions
+unchanged, so the word regex, sentence tokenizer, syllable estimator, Flesch formulas and
+the narration / speech / ledger rule are the ones used for Movements One to Four. It was run
+on the frozen files and on the repaired files. The first draft had not been measured before.
+
+| Target (formula) | Goal | First draft, ch. 33–40 | After repair, ch. 33–40 |
+|---|---|---:|---:|
+| Mean sentence length | 14.6 | 9.06 | 9.12 |
+| Median sentence length | 11 | 7 | 7 |
+| Sentence spread (population s.d.) | ~26 | 7.67 | 7.69 |
+| Sentences ≤5 words | 27.7% | 42.5% | 42.2% |
+| Sentences ≥40 words | 3.3% | 0.40% | 0.39% |
+| Flesch Reading Ease | 72.3 | 93.8 | 93.7 |
+| Flesch–Kincaid grade | 6.8 | 2.4 | 2.5 |
+| Narration only: mean / ≤5 / ≥40 | 14.6 / 27.7% / 3.3% | 11.64 / 30.8% / 0.84% | 11.69 / 30.5% / 0.84% |
+| Written paragraphs: count / mean / median | — / 26.8 / 18 | 1,623 / 28.1 / 19 | 1,624 / 28.4 / 19 |
+| Sections: count / mean words | — / ~950 | 46 / 990 | 46 / 1,004 |
+| Protagonist share / secondary | ~87% / ~13% | 86.3% / 13.7% | 86.1% / 13.9% |
+
+Secondary sections after the repair, by word tokens: Vane 1,462 (3.2%), Anwen 1,208 (2.6%),
+Rhea 1,139 (2.5%), Kellan 988 (2.1%), Perrin 855 (1.9%), Orla 759 (1.6%).
+
+The whole-text sentence and readability targets are missed by about the same margin as in
+Movements One to Four, for the reason already ruled on: speech is 54.7% of sentences and was
+left clipped. The repair did not chase them. Paragraph, section and viewpoint figures sit
+near their targets; the paragraph and section targets are pause-derived and directional.
+
+### Material choices in the repair the owner should review
+
+Full detail, with before-and-after text, is in `editor/MOVEMENT-005-REPAIR-REPORT.md`.
+
+1. **The corner is carried east, not south-east.** Carried along the diagonal, both walls of
+   the hold would sweep across Dray and her two carriers. Carried four paces east along the
+   line of the south side, the south wall stays where it stands and they are on its open
+   side. It is still four paces outward.
+2. **The knot clock is re-rated to a hundred counts a knot,** with Vane's budget at ten
+   minutes, the set-up at two minutes and Dray under the cord about a quarter of an hour. No
+   line of the consent, set-up, catch, carry or rescue was cut.
+3. **The dead rim winks at the instant of "Back,"** which is where the page's own counts put
+   eleven seconds after the second cliff. Noa and Adlam now describe sixteen pens "lit and
+   dark alike."
+4. **Rhea's stand "came too late to govern,"** and Vane states that a Torch keeping a floor
+   safe may stand any student on it. The remark stays the event's.
+5. **Anwen's forty minutes** runs from the fall of the hold to the closing of the tear.
+6. **Perrin's clearance is dated to the end of the eighth month,** and Dray is his first
+   person, not his first weight.
+7. **An aggregate rule is stated for the first time:** each board marked by place, sixteen
+   down to one, and added. Lane scoring (three for the litter, one for a down) is taken from
+   the scores already on the page.
+8. **Kellan takes Halden's husk and Pettit carries its dummy,** so that Pettit's move to
+   Carry holds.
+9. **Four knowledge paths are new on the page:** Marten and the Wren House for Dray; Noa's
+   filed note for the Chair; Perrin at the Sag for Anwen; the Reader for Vane.
+10. **"The Works" unqualified now means neither body by default.** Halden is named at first
+    and ambiguous uses; the pump bank is the Municipal Works'. Inside the hearing, after the
+    first "Halden Works," the short form is left in Adlam's and the Chair's mouths.
+11. **Secondary viewpoint rose from 13.7% to 13.9%,** because the stake paragraph the brief
+    asks for sits in Vane's cutaway.
+
+### Movement Five targeted-recheck acceptance — 2026-10-12
+
+- Rechecking model: **Claude Opus 5.5 (`claude-opus-5-5`)**, fresh review-only session
+  `fab1091b-a955-49c9-916d-45ef045564f2`; no subagents or substitute model.
+- Instructions: `editor/MOVEMENT-005-TARGETED-RECHECK.prompt.md`; report:
+  `editor/MOVEMENT-005-TARGETED-RECHECK.md`.
+- Verdict: **PASS on all three repair priorities.** Five clause-level prose corrections and
+  two record corrections were required and applied without opening another repair pass.
+- Accepted word count: **46,277** (`wc -w`), sixteen words above the repair report because
+  the recheck explicitly placed Dray's free leg and named two listening referents.
+- Accepted chapter SHA-256 values: 33 `0548ec039fd50c0eaafc808bbf6853ae76d3d1f2aa6d62beb608b474d196e4d7`;
+  34 `92ccd37798c12cf65a2cd25202e6c32b01bf8b063d6a0f23fc14a29b30c20353`;
+  35 `2ca89608564470b1fc6602f6980904ede07d5ec3badd92720f871bac96d27cf3`;
+  36 `a7447f5e648b1cf7eceaa01620e36e9f4809d7aec1cb6ed0be127e5cd2fc89b3`;
+  37 `f2537ee521190b8eeafd91352aebe44dc0ee8092ca82d01d6b89df9b4113d113`;
+  38 `38b1392ec4fcea2fd4f6256b0f806662b228aa7be26642b29c2c4d38914c27cd`;
+  39 `97e64284081811dd2925c949305a677491dbd89e097e9e4ba3eb2d5b17c9d893`;
+  40 `cd92f4b78c121a6c3b388246c0ae8cf94dd8f140ba0f6324dba0df90f33e0d08`.
+- Accepted continuity checkpoint SHA-256:
+  `18f62e299615a1c602a1c772016c55648c29596f041faa76c37edbba90f8ff9d`.
+- The frozen first draft still verifies against its manifest. This accepted edition is the
+  canonical handoff to Movement Six.

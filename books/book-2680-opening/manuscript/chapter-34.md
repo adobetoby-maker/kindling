@@ -16,7 +16,7 @@ Ysra Crest came in at nine. Everybody stood, and she waved them down.
 
 He rose. He did it easily, with one hand on the leather case.
 
-"The Works is grateful, ma'am, and it will be brief. It claims nothing new. In 2391 it was granted the Step, and all ash exhibiting the Step, however produced. There is such an ash in the Wren House cold room. A grader of the House has put a comb over it, and so has the Works' own, and they agree to a hair." He inclined his head to Halloran, who did not incline hers. "The Works does not say that anybody did wrong on that wharf. It asks one thing, and it asks it civilly. A hundred and thirteen drams were held back from a street that was owed half of them that night. They were held back on the word of a provisional candidate and a field comb. The Works would like to know on what paper, so that it may know what paper to bring."
+"The Halden Works is grateful, ma'am, and it will be brief. It claims nothing new. In 2391 it was granted the Step, and all ash exhibiting the Step, however produced. There is such an ash in the Wren House cold room. A grader of the House has put a comb over it, and so has the Works' own, and they agree to a hair." He inclined his head to Halloran, who did not incline hers. "The Works does not say that anybody did wrong on that wharf. It asks one thing, and it asks it civilly. A hundred and thirteen drams were held back from a street that was owed half of them that night. They were held back on the word of a provisional candidate and a field comb. The Works would like to know on what paper, so that it may know what paper to bring."
 
 "And what does the Works propose?"
 
@@ -84,7 +84,7 @@ It was Kellan. He had got to his feet without Kiva feeling him move.
 
 "You're not a party, Mr. Renn."
 
-"No, ma'am. I held a corner of that bag. I'm entered for the Regional under the seal that's at the foot of the Works' paper, and I draw its stipend from Thursday. I think that ought to be said in this room by me and not found out by it." His voice was level, and his ears were white. "I heard the shed foreman offer his week's wages. I also heard what he said next, and it's been left off. He said he'd not put a thimble of it in his own kitchen. He said his cold-cupboard had no business keeping time with next door's."
+"No, ma'am. I held a corner of that bag. I'm entered for the Regional under the seal that's at the foot of the Works' paper, and from this Thursday I draw its stipend. I think that ought to be said in this room by me and not found out by it." His voice was level, and his ears were white. "I heard the shed foreman offer his week's wages. I also heard what he said next, and it's been left off. He said he'd not put a thimble of it in his own kitchen. He said his cold-cupboard had no business keeping time with next door's."
 
 "Is the foreman here?"
 
@@ -158,9 +158,9 @@ Orla laughed, one short bark, and did not explain it.
 
 ---
 
-Kellan Renn had never liked the refinery gate.
+Kellan Renn had never liked the Halden refinery gate.
 
-It was iron, and thirty feet high, and it had the Works' device on it in gilt, a hand with a flame standing in the palm. He had walked under it with his mother's dinner every school holiday since he was eight. When he was nine, he had waited outside it for four hours on the day that they nearly took her stamp away, and he had counted the rivets. There were six hundred and twelve.
+It was iron, and thirty feet high, and it had the Halden Works' device on it in gilt, a hand with a flame standing in the palm. He had walked under it with his mother's dinner every school holiday since he was eight. When he was nine, he had waited outside it for four hours on the day that they nearly took her stamp away, and he had counted the rivets. There were six hundred and twelve.
 
 He counted them again on Tuesday afternoon, out of habit, while the porter found his name. They had it on a list now. *Renn, K. License team. The yard, Tues. and Thurs.*
 
@@ -238,7 +238,7 @@ It was written in the small, plain, old-fashioned script, and it was not signed.
 
 Kiva read it twice.
 
-It was a kind letter. That was what she had not been ready for. She had expected to be wanted for something, as the Works wanted a bag, and here was a house on a hill that had looked at two fingers lying on a table and had offered her the one thing that Healer Aske had said he trusted.
+It was a kind letter. That was what she had not been ready for. She had expected to be wanted for something, as the Halden Works wanted a bag, and here was a house on a hill that had looked at two fingers lying on a table and had offered her the one thing that Healer Aske had said he trusted.
 
 "A year," she said.
 
@@ -266,7 +266,7 @@ Mara did not say anything for some time.
 
 Then she turned her right hand over on the table, palm up, where the lamp could reach it. Kiva had seen the scar ten thousand times. It ran white and shining from the heel of the hand to the roots of the fingers, and in the middle of it there was a place the size of a coin that had felt nothing since a cell on Linden Row.
 
-"Nobody offered me a year," said Mara. "I'd have been told to rest it if there'd been a soul to tell me, and I'd a shop, and a girl of fourteen in the house who had just been told there wasn't a column for her. So I went on, and I taught the other hand. I've never known whether it would have come back." She closed the fingers. "I'm not going to tell you that I'd have refused. I don't know. I'm telling you that I know what it is to go on with a piece of yourself not answering, and that it can be done, and that I'd not wish it on you for all the doors in Meridian."
+"Nobody offered me a year," said Mara. "I'd have been told to rest it if there'd been a soul to tell me, and I'd a shop, and a girl of thirteen in the house who had just been told there wasn't a column for her. So I went on, and I taught the other hand. I've never known whether it would have come back." She closed the fingers. "I'm not going to tell you that I'd have refused. I don't know. I'm telling you that I know what it is to go on with a piece of yourself not answering, and that it can be done, and that I'd not wish it on you for all the doors in Meridian."
 
 "That isn't advice."
 

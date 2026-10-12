@@ -96,7 +96,7 @@ Kiva was still sitting in the dirt. She looked up at a first-year who had run fr
 
 "Passengers," said Kiva.
 
-It was a catcher's word. A square man had said it to her in a hall yard, with a groove worn across his palm. *I took the cord the way I could hold it on my worst day.* She had learned that for a cord, and it had not once occurred to her that a ward had a grip as well.
+It was a catcher's word. Pike had said it to her in the Graywater hall yard, with a groove worn across his palm. *I took the cord the way I could hold it on my worst day.* She had learned that for a cord, and it had not once occurred to her that a ward had a grip as well.
 
 They stayed until ten. Pru folded and Kiva folded after her, forty times, with two fingers held out stiff. It felt like wearing somebody else's hands. By the end of it a ward would go out of her as a cloth goes into a drawer, and the last of it was in her palms, where she could feel it.
 
@@ -158,13 +158,13 @@ He took a slip from his pocket. It was a receipt, in a hard black pencil that pr
 
 "Had you?"
 
-"It was very good. It had my dad in it." He scratched his jaw. "I can't use it now. So here's the other. A dram and eight-tenths out of the held, for three whole goes, and the misses out of the same. And I keep the word. If I call *off* on it two nights running, it's done till the season's read, and nobody argues with me, not Dane either." He looked round. "I'm not saying I've stopped minding. I'm saying I'd sooner be the one with his hand on the brake than the one who wouldn't let the cart out of the yard."
+"It was very good. It had my dad in it." He scratched his jaw. "I can't use it now. So here's the other. A dram and eight-tenths out of the held, for three whole goes, and the misses out of the same. And I keep the word. If I call *off* on it two nights running, it's done till the season's read, and nobody argues with me, not Orla either." He looked round. "I'm not saying I've stopped minding. I'm saying I'd sooner be the one with his hand on the brake than the one who wouldn't let the cart out of the yard."
 
 "That's a better line than mine," said Kiva.
 
 "I know. I'm keeping it."
 
-"I'll put a condition," said Anwen. She had the green book open already. "The *why* goes in before each one. Not after. What it's for that night, and what it's likely to cost her, written and read out on the line. There was a man on a levee who had a column for that and somebody tidied it away."
+"I'll put a condition," said Anwen. She had the green book open already. "The *why* goes in before each one. Not after. What it's for that night, and what it's likely to cost her, written and read out on the line. Perrin told me about the watch officer's ledger, at the Sag. There was a man on a levee who had a column for that, and somebody tidied it away."
 
 "E.K.," said Kiva.
 
@@ -322,7 +322,7 @@ And the girl had stood on a cross a week ago, with a stick against her shoulder,
 
 Jessamy had never said *one.* She had not known that it wanted teaching.
 
-It was not safety. She had stopped expecting that there would be a morning when it was. It was a meter and a shutdown path and a book, as a woman in a work apron had told her months ago, standing beside the spare crate, in two sentences.
+It was not safety. She had stopped expecting that there would be a morning when it was. It was a meter and a shutdown path and a book, as Mara Rowan had told her months ago, in a work apron, standing beside the spare crate, in two sentences.
 
 There was a letter. She had written it in the seventh month, in the square capitals, and had sent it care of a pump-fitter's yard on the south coast that a Saltmere officer had once named to her. It had four lines in it. *There is another. She writes everything down. I did not know to teach you that. O.D.* It had not been answered. She had not written it to be answered.
 
@@ -364,7 +364,7 @@ It was a single line of bent pins, in brown ink.
 
 He read her the half sheet.
 
-"*Warm, once, after the first crossing. I have crossed nine times since. Cold. I put this in the night hand, that it may be kept and not made much of. T.B.*"
+"*Warm, once, after the first crossing. I have crossed nine times since. Cold. I put this in the record hand, that it may be kept and not made much of. T.B.*"
 
 Kiva read the round hand for herself, twice.
 
@@ -382,7 +382,7 @@ She had thought, on the tram, that she would mind. She had carried the thing for
 
 ---
 
-Mara sat her practical on the seventh of the ninth month, in the examiners' room at the Works, with her left entered as her reading hand.
+Mara sat her practical on the seventh of the ninth month, in the examiners' room at the Municipal Works, with her left entered as her reading hand.
 
 She came home at four with a paper in her bag. She did not say anything. She went down the hall to the dead panel, and took off the tag that had hung there since the spring, and read it once. *QUENCHED 13TH. NOT REFILLED PENDING REVIEW.* Then she fetched a can and her tools, and Kiva stood at the kitchen door, well back, and watched her aunt fill a cell and tune it, slowly, with the wrong hand, which was now the right one.
 
@@ -424,7 +424,7 @@ Something eased in his face. It was not a smile.
 
 On Thursday night Jude chalked it on the Low Lane's brick, for the five of them, as two boxes and a great many arrows.
 
-"Sixteen fours. Twelve by yield and four houses. Four boards." He tapped the first box. "Friday, the Great Floor. The Lane from nine, knock-out, three carries, Circuit rules, and rule nine for anybody who changes, which is to say for her. The Bench at five, when the lanes are down to their last two. Pryce leads that; Rowan sits in the tiers and doesn't so much as look at a cell." The second box. "Saturday, the Pit. The Carry in the forenoon. And the best four on the three boards make the first company for the Call."
+"Sixteen fours. Twelve by yield and four houses. Four boards." He tapped the first box. "Friday, the Great Floor. The Lane from nine, knock-out, three carries, Circuit rules: three for the litter over your own line, one for a down, and the most points over the three carries goes through. And rule nine for anybody who changes, which is to say for her. The Bench at five, when the lanes are down to their last two. Pryce leads that; Rowan sits in the tiers and doesn't so much as look at a cell." The second box. "Saturday, the Pit. The Carry in the forenoon. Every board's marked by place, sixteen for the first four down to one for the last, and the three are added. The best four on the three boards make the first company for the Call."
 
 "What's the Call?" said Pru.
 

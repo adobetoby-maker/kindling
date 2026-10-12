@@ -46,7 +46,7 @@ She went back up to her seat.
 
 The Carry was run in the forenoon, and for most of it Kiva had nothing to do but watch.
 
-It was a still-door's board. There were three dummies to be fetched, one from the foot of the sump by a ladder, one from the top terrace, and one from the loft of the lattice house, and the whole four had to bring them to the west gate by the clock. Perrin had been passed to the shoulder on Wednesday. He went down the sump ladder as if it had been his own stair.
+It was a still-door's board. There were three dummies to be fetched, one from the foot of the sump by a ladder, one from the top terrace, and one from the loft of the lattice house, and the whole four had to bring them to the west gate by the clock. Perrin had been passed to the shoulder for a fortnight and more. He went down the sump ladder as if it had been his own stair.
 
 "You're being rescued," Kiva heard him say, from the bottom. "On a count. I've not done this since the spring, so we're both to be patient."
 
@@ -60,7 +60,7 @@ The aggregate went up on the great board at noon.
 
 *First company, the Call, at two. Halden License. Old Four (att.). Team Twenty-Eight. T7 (att.).*
 
-"Fourth," said Jude. He read the figures under it twice. "By one mark. We're in by one mark, over a Saltmere house four that beat us on the Bench."
+"Fourth," said Jude. He read the figures under it twice. "By one mark. We're in by one mark, over a Saltmere house four that beat us on the Bench. And Old Four's second, that we put out at ten yesterday. A first on any board's sixteen marks, and they had one this morning."
 
 "That's Pryce's four minutes," said Perrin.
 
@@ -130,7 +130,7 @@ He went up the back of it dark. She saw him ask. She could not hear the words, b
 
 "He asked," said Jude, beside her. "They kneel at eight paces in that yard. Somebody's moved their catcher in."
 
-The first husk came out of the chute a minute after. It did what the designers had asked of it. It trotted south-east across the cinders toward twelve small lamps, with nothing in it but direction, and Hesketh lit a lure in its road and Pettit took it on the cloth. A boy in black and gold carried a dummy across the race to the west gate with his eye on the string's legs.
+The first husk came out of the chute a minute after. It did what the designers had asked of it. It trotted south-east across the cinders toward twelve small lamps, with nothing in it but direction, and Hesketh lit a lure in its road and Kellan took it on the cloth. Pettit carried a dummy across the race to the west gate with his eye on the string's legs.
 
 It was a good drill. It was almost exactly a street at half past two in the morning, with the fear taken out.
 
@@ -160,7 +160,7 @@ Every single thing that had gone wrong at this Pit on the twenty-ninth of the fi
 
 *And what's behind me?*
 
-She turned her head and looked. She did it every sixty counts now. She had not done it for twenty years, and a first-year with wax on her back had taught her to.
+She turned her head and looked. She did it every sixty counts now. She had not done it for twenty years. Finch had taught her to, on the Weighbridge, sitting on a curb with wax all down her back.
 
 The Kiln. The lid, up on its chains. The lattice house against its flank, with the chute beside it, shut.
 
@@ -180,9 +180,11 @@ Yellow. Four-tenths. Sixty drams fell like sand out of a split sack.
 
 *Well,* thought Rhea. *Somebody's taught that one to wait.*
 
+The boy at the hem drew the neck in and called it sealed, well inside his sixty.
+
 "*Sedge!*"
 
-It was a shout from the Kiln. She had never heard the lattice-house warden's voice before; nobody had; the woman lived in her shed like a snail. It came down the floor cracked and high.
+It was a shout from the Kiln, and the name was the shouter's own, given as a hand gives it before a report. She had never heard the lattice-house warden's voice before; nobody had; the woman lived in her shed like a snail. It came down the floor cracked and high.
 
 "*Foreman! There's two in the throat that I've not let! I've four against the gate and I've only sent for one!*"
 
@@ -194,7 +196,7 @@ Then another. It was two minutes early, and it was Seven's.
 
 Then two more, shoulder to shoulder, that were nobody's at all.
 
-*Count them.* Four. Four Handfuls, on an open floor, with a string at her back that she could not leave and sixty drams lying open on a sheet for a slow sixty. It was more than had been ordered. It was not more than a company could kill. There were four student blades on that wall with a first step apiece.
+*Count them.* Four. Four Handfuls, on an open floor, with a string at her back that she could not leave and a rung only just sealed on the third sheet. It was more than had been ordered. It was not more than a company could kill. There were four student blades on that wall with a first step apiece.
 
 She waited for them to turn east. There were twelve lamps under the east wall, and a husk went to the brightest thing that it could read.
 
@@ -236,7 +238,7 @@ The thin boy's hand came down.
 
 ---
 
-Kiva saw it from thirty paces, and she saw all of it.
+Kiva saw it from eighteen paces, and she saw all of it.
 
 She had known what it was a breath before she knew that she knew. Four of them, square, facing in. A line run from each to the next. It was a box. It was a plank on four men, and she had stood in front of one yesterday morning with her heel on a pier.
 
@@ -248,7 +250,7 @@ She had put that on the right-hand side of a page, where things went that she di
 
 Selka Dray heard her. Kiva saw the red head check, a quarter of a turn. She saw the eyes come round, and find who it was, and go back to a thin boy's hand.
 
-It was not contempt. It was worse than that, and fairer. Dray had lit after the cloth for three months. She had stood at the top of a string with her blade out like a lamppost until her catcher said. She had been taught, at a great cost to her temper, that there was one voice on a floor which a blade listened to. It was not the voice of a catcher from another team, shouting about corners.
+It was not contempt. It was worse than that, and fairer. Dray had lit after the cloth for three months. She had stood at the top of a string with her blade out like a lamppost until her catcher said. She had been taught, at a great cost to her temper, that there was one voice on a floor which a blade listened to. It was not the voice of a catcher from another team, shouting about corners. Nor did the Torch's *stand* reach her as an order. It came across the floor tangled in Kiva's own shout, when the boy's hand had already begun to fall.
 
 "*Now,*" said Wilf Marten.
 
@@ -356,7 +358,7 @@ On the cinders at the south-east corner, Selka Dray lifted her head an inch.
 
 Kiva opened her mouth.
 
-She had it. She had the whole of it, standing ready: a plank, and a post, and what a Stonehand captain had told her on a booming floor. She had shouted two-thirds of it across forty paces a minute ago. It had not been enough, and it had been all that she had.
+She had it. She had the whole of it, standing ready: a plank, and a post, and what a Stonehand captain had told her on a booming floor. She had shouted two-thirds of it across eighteen paces a minute ago. It had not been enough, and it had been all that she had.
 
 "A hold," she said. "If you take a corner, the others shut on it. I only learned it yesterday. I didn't know it was that until it stood up." She made herself go on, to a girl on her back with a cord across her leg. "I said *take a corner* in the Great Floor, in front of the whole hall. That was mine. I'd like it written."
 
