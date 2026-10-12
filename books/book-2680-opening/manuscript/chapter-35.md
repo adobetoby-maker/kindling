@@ -68,17 +68,17 @@ In the middle of a line a wall was held on both sides. One leaned a little on th
 
 *If it dips, I'll hear it,* Mace had said. He had not said that he would tell her.
 
-At ten the relief came down the bank. It was a big, good-natured man called Orme, six years on the line, who had relieved her every night for a week. He brought his wall up inside hers as it was always done. She leaned on it, and waited to feel it take the weight, so that she could let go of nothing.
+At ten the relief came down the bank. It was a big, good-natured man called Stiles, six years on the line, who had relieved her every night for a week. He brought his wall up inside hers as it was always done. She leaned on it, and waited to feel it take the weight, so that she could let go of nothing.
 
 It did not take it. It was there, silver and broad, and it was a hand's breadth short of her own.
 
 She had about a breath in which to decide. He was six years her senior. Every hand on that line would have let go and trusted him. She had been told by Greta Stroud, in a hall kitchen, with her own hands in linen, what it sounded like when a join went wrong, and she had no wish to learn it from the inside.
 
-"Short," said Anwen. "Orme. You're a hand short on the outside. I'm still holding."
+"Short," said Anwen. "Stiles. You're a hand short on the outside. I'm still holding."
 
 There was a pause in the dark.
 
-"So I am," said Orme, mildly surprised. The silver moved. She felt it come up under her own, snug, like a second shelf beneath a first. "Now?"
+"So I am," said Stiles, mildly surprised. The silver moved. She felt it come up under her own, snug, like a second shelf beneath a first. "Now?"
 
 "Now," she said, and leaned, and let go, and there was no sound at all.
 
@@ -310,7 +310,7 @@ She had written it three times. It was one side of a sheet. *Order: hand, Ember,
 
 Nobody spoke at once. Mara had gone down to the shop and shut the door, which was her way of saying that it was not her book.
 
-"I'll go first, since I've least right," said Kellan. He had come in his own coat. Kiva had noticed that. "I'm cutting for another four in the autumn, in the same lanes. I'll sign whatever three of you agree to, and I'll not vote on a ration for a thing I may have to stand against. And I don't want to be told the count for it. I know her two-door count. I can't unknow that. I'd as soon find out the rest on a floor, like anybody else." He turned to Kiva. "I'll take no head's share of what Seven tins that week, either. I shan't be kneeling."
+"I'll go first, since I've least right," said Kellan. He had come in his own coat. Kiva had noticed that. "I'm cutting for another four in the autumn, in the same lanes. I'll sign whatever three of you agree to, and I'll not vote on a ration for a thing I may have to stand against. And I don't want to be told the count for it. I know her two-door count. I can't unknow that. I'd as soon find out the rest on a floor, like anybody else." He turned to Kiva. "I'll take no head's share of what Seven tins that week, either. I shan't be on your cloth."
 
 "That's handsome," said Perrin.
 
