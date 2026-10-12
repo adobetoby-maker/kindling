@@ -14,7 +14,7 @@ She did not say it for the second. She waited until he took his thumb away.
 
 "The seventeenth."
 
-"Then we understand one another." He put the pin in his lapel. "You're catching. I've no quarrel with catching. You've eight fingers that report, and you've a first-year who crosses a cord right four times in five, and I'm told that you've the sense to hand it to her. Kneel all you like. Open nothing." He looked at her over the card. "I can ease a hand that's starved. I've done it for you twice. I can't ease one that's been spent to the bottom, because there's nothing left in it for the ash to speak to. I'd like that to be the last thing I say to you this week."
+"Then we understand one another." He put the pin in his lapel. "You're catching. I've no quarrel with catching. You've eight fingers that report, and you've a first-year who crosses a cord right four times in five, and I'm told that you've the sense to hand it to her. Kneel all you like. Open nothing." He looked at her over the card. "I can ease a hand that's starved. I've done it for you once. I can't ease one that's been spent to the bottom, because there's nothing left in it for the ash to speak to. I'd like that to be the last thing I say to you this week."
 
 "Yes," said Kiva.
 
@@ -58,7 +58,7 @@ They were sixth. Old Four had it by a clear half minute. Lowen Brask carried the
 
 The aggregate went up on the great board at noon.
 
-*First company, the Call, at two. Halden License. Team Twenty-Eight. Old Four (att.). T7 (att.).*
+*First company, the Call, at two. Halden License. Old Four (att.). Team Twenty-Eight. T7 (att.).*
 
 "Fourth," said Jude. He read the figures under it twice. "By one mark. We're in by one mark, over a Saltmere house four that beat us on the Bench."
 
@@ -290,7 +290,7 @@ Vane's voice went across the Pit like a shutter coming down.
 
 "*The Call's struck! It's a response and it's mine! Every student dark, and stand! Keeper! Drop the race!*"
 
-The long handle by the load board went over. Kiva heard it go, a deep, oiled *clack* that ran along the foot of the wall and ended in a green box above the sump. Forty lamps round the rim went out together. It was two in the afternoon, and it made no difference to the light, and it felt like a hand being taken off her shoulder.
+The long handle by the load board went over. Kiva heard it go, a deep, oiled *clack* that ran along the foot of the wall and ended in a green box above the sump. Forty lamps round the rim went out together. It was the middle of the afternoon, and it made no difference to the light, and it felt like a hand being taken off her shoulder.
 
 "*And the Row!*"
 
@@ -368,6 +368,6 @@ It ran from a grey shoulder down to the ground, and across a leg, and up again. 
 
 She had seen that before. She had not seen it standing on end.
 
-It was a cord run through a hem. It was a neck, being drawn shut. She had knelt at four hundred of them since the spring, with the cord at the crook of her elbow, and she knew to a hair what a hem did when one corner of the sheet was let go.
+It was a cord run through a hem. It was a neck, being drawn shut. She had knelt at a score of them since the spring, with the cord at the crook of her elbow, and she knew to a hair what a hem did when one corner of the sheet was let go.
 
 "It's a purse sheet," said Kiva. "And she's the weight in the corner."
