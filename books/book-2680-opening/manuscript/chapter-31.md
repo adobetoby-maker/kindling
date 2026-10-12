@@ -28,7 +28,7 @@ It did not tap. It rapped on the reed beside it, hard and even, like a knuckle o
 
 "On whose word?" said a new voice. "Because I've six boxes to fill and two more calls before breakfast, and that's the biggest bag on the wharf."
 
-He had come down the street at a trot, a young man in Works oilskins with a tuner's satchel bumping on his hip and a handcart of empty cell cans behind him. Kiva knew him. She had knelt on a mezzanine with her left palm on a drum that he had tuned, and felt what he had left in it.
+He had come down the street at a trot, a young man in Works oilskins with a tuner's satchel bumping on his hip and a handcart of empty cell cans behind him. Kiva knew him. She had read his tunes off a substation drum in Tallis Street in the spring, at Mara's elbow, and had felt what he left in them.
 
 "Brannock," said Rhea Sorn, from her mooring post. She had not got up. "You're the night tuner."
 
@@ -200,7 +200,7 @@ Kellan had left a half sheet under the door at noon, in his small exact hand.
 
 And below, after a space:
 
-*I'm going to the refinery yard on Thursday. To watch.*
+*I went to the refinery yard on Thursday, to watch. I've not said what I saw. I'll say it on Wednesday, at your table, with the team book open.*
 
 She copied the counts for Anwen. Forty-one, and why it had felt so fine. Fifty-five. Forty-four, forty-six, fifty-two, and whose hand had finished the last. She put in three words that she had said over a flat sheet at about twenty-eight minutes to three, and she did not explain them. *Cloth's down. Lure.* Anwen would know what kind of sentence that was. She had been on the other side of two.
 
@@ -268,7 +268,7 @@ The Ember had stirred. She felt it at the cuff, a small quickening, like a dog l
 
 *Above us the sky is not torn. I want to be very clear. I have seen rifts all my life and this is not a rift. The sky is not there.*
 
-*She looked up,* Mara had written, in pencil, at a quarter past ten at night. *No sky.*
+*And looking up,* she had told Mara, at ten o'clock at night, with a cloth on her chest. *No sky.*
 
 The hand door came open a crack, behind her breastbone, cool and close. She shut it. "Six." The still door was already under her, wide, as it was under a falling weight, and she shut that. "Seven. Eight." There was a thread of warmth along the bottom line. It was the first time that she had ever had to call the meter over a page.
 
@@ -330,7 +330,7 @@ The woman in grey had not stirred.
 
 It was a low voice, and rather hoarse, like a door that is not often opened.
 
-"Sister," said the Reader. She had gone very still. "You've not spoken in my hearing in nineteen years."
+"Sister," said the Reader. She had gone very still. "You've not spoken in my hearing in twenty years."
 
 "No. Is it permitted to put a thing to the Keeper, in this room, for the book?"
 
@@ -352,7 +352,7 @@ She had turned her chair round. Her face was as it had been in a hallway, with o
 
 The woman in grey looked at Mara for some time.
 
-"That is fair," she said. "We are not used to being told so. It is fair." She inclined her head, to Mara, and then, after the smallest pause, to Kiva, which the rule did not forbid. "We did not burn it. I should like that known. There were those in the house who wished to, in every generation, and it was taken from us before we had decided. I have sat beside that box each autumn for nineteen years and have not known whether I was guarding it or waiting for it."
+"That is fair," she said. "We are not used to being told so. It is fair." She inclined her head, to Mara, and then, after the smallest pause, to Kiva, which the rule did not forbid. "We did not burn it. I should like that known. There were those in the house who wished to, in every generation, and it was taken from us before we had decided. I have sat beside that box each autumn for twenty years and have not known whether I was guarding it or waiting for it."
 
 She went out. The door shut without a sound.
 
@@ -380,7 +380,7 @@ Kiva told Mara on the tram that it was not all the same, and that it was enough 
 
 She wrote four lines that night, with the book on the table where it would be read. *Read Annick, Personal, in the room. It is not all the same. It is enough the same. She woke before she found out. So do I.* Mara read them, and put the brass weight on the page, and said nothing whatever, and went to see to the stove.
 
-The Old Yard was open at eight. There was to be no go; Aske had the hand on Tuesday. Kiva carried the crate out all the same, at a walk, though the debt had been paid off ten days ago, and Orla let her.
+The Old Yard was open at eight. There was to be no go; Aske had the hand on Tuesday. Kiva carried the crate out all the same, at a walk, though the debt had been paid off a dozen days ago, and Orla let her.
 
 "I read it," said Kiva.
 
