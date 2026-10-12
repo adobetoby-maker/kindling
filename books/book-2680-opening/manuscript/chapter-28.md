@@ -70,7 +70,7 @@ Noa read it with his thumbs on the tape. Two hundredths for the bound. Twenty-fi
 
 "Sixty-seven," said Kellan, writing. He had gone rather pale. "I knew what it would cost. I proposed it. I hadn't watched it go."
 
-"I'd like to say that I mind," said Perrin, from the other crate.
+"I'd like to say I mind," said Perrin, from the other crate.
 
 "We know."
 
@@ -102,13 +102,13 @@ It finished eight to six against them. Nobody fell over in an interesting manner
 
 "It opens before, now. That's all it ever wanted. Somebody told me to arrive before I was there."
 
-"Then somebody taught you my trade behind my back." He nearly smiled. "I'll give you one more for nothing, since I shan't be here to take it off you in a lane. I've had the junior lanes three springs. Every spring there's one who finds a landing easy, a week before the others. I used to think that was talent." He picked up the roll. "It's nearly always a child standing on two things at once and not knowing it. A step and a rail. A foot and a friend. So when it comes easy, look at your feet."
+"Then somebody taught you my trade behind my back." He nearly smiled. "I'll give you one more for nothing, since I won't be here to take it off you in a lane. I've had the junior lanes three springs. Every spring there's one who finds a landing easy, a week before the others. I used to think that was talent." He picked up the roll. "It's nearly always a child standing on two things at once and not knowing it. A step and a rail. A foot and a friend. So when it comes easy, look at your feet."
 
 "It doesn't come easy."
 
 "Not yet," said Lowen Brask, and went up the passage toward the light.
 
-She wrote it down that night, as she wrote everything. She put it under Saturday, in the left-hand column, as a thing that somebody had said. She did not see that it wanted a place on the right.
+She wrote it down that night, as she wrote everything.
 
 ---
 
@@ -172,7 +172,7 @@ Orla did not move.
 
 There was nothing to say to that. On the spare crate, Perrin had stopped smiling. He was looking at his own hands.
 
-"I never called it," he said. "I'd nothing to call. It looked better than Friday's."
+"I never called it," he said. "I had nothing to call. It looked better than Friday's."
 
 "It did," said Orla. "It looked better to me, and I've a stick. Mr. Bexley. She's finished. I'd be obliged if you'd read it out before anybody in this lane says another word, myself included."
 
@@ -198,7 +198,7 @@ Then Kellan made a sound.
 
 It came out too loud. He went red to the hair, and he did not take it back.
 
-"No. I'm sorry. It doesn't count, and I'd sooner say it now than let him work out what eighteen goes are worth." His hands were shaking, and he laid the tape down on the drum case and smoothed it flat. "I know this shape. I've drawn it before. It's on the Low Lane's tape for the thirteenth of last month, the eighth try, the one where she called *off* inside the breath and stood with her hands on her knees. Nine hundredths in less than a second. I said the pen went up like a mouse up a curtain. It had a round top."
+"No. I'm sorry. It doesn't count, and I'd rather say it now than let him work out what eighteen goes are worth." His hands were shaking, and he laid the tape down on the drum case and smoothed it flat. "I know this shape. I've drawn it before. It's on the Low Lane's tape for the thirteenth of last month, the eighth try, the one where she called *off* inside the breath and stood with her hands on her knees. Nine hundredths in less than a second. I said the pen went up like a mouse up a curtain. It had a round top."
 
 "That was a jam," said Kiva.
 
@@ -214,7 +214,7 @@ Kiva stood where she was. She could feel her own face, hot and stiff.
 
 "If it holds, and it's soft, and it costs a third—"
 
-"Then it's what I put in front of four thousand people in 2661." Orla had not raised her voice. "Sit down, Rowan. Not because you're in disgrace. Because I'm about to tell you what you did, and I'd as soon you weren't standing on it."
+"Then it's what I put in front of four thousand people at the Regional." Orla had not raised her voice. "Sit down, Rowan. Not because you're in disgrace. Because I'm about to tell you what you did, and I'd as soon you weren't standing on it."
 
 Kiva sat on the cross. It was the nearest place.
 
@@ -248,7 +248,7 @@ Noa could not find anything to say. He nodded, and went on smoothing the tape.
 
 It was the first time that Orla had ever asked her for that column aloud.
 
-Kiva looked at her hands. She thought of a passage under a terrace, and a canvas roll, and a thing set down on the left side of a page because she had not seen that it belonged on the right.
+Kiva looked at her hands. She thought of Lowen Brask in a passage under a terrace, with a canvas roll at his feet, and of what he had said there, which she had set down on the left side of a page because she had not seen that it belonged on the right.
 
 "It was easy," she said. "And I was pleased. And I didn't look at my feet."
 
@@ -260,9 +260,9 @@ The card came down from the Brickfields road on Tuesday, by a boy in blue, and K
 
 "What's a lamp?" said Pru.
 
-"I should think it's what a ward is when it isn't asked to hold anything."
+"I think it's what a ward is when it isn't asked to hold anything."
 
-"I can do that. I do that most of the time." She took the card and read it herself, moving her lips. "*Not a wall.* She's underlined it. I've never been underlined by a Torch before. And what's the sheet to be wet for?"
+"I can do that. I do that most of the time." She took the card and read it herself, moving her lips. "*Not a wall.* She's underlined it. I've never been underlined by a Torch before. And why's the sheet got to be wet?"
 
 Nobody knew. It was Mrs. Pryce who told them, from the scullery door, with her arms floured to the elbow.
 
@@ -280,7 +280,7 @@ It took the three of them who had whole ribs, in the trough, in the last of the 
 
 He said it to the canvas. He went on treading.
 
-"The Halden team. They train twice a week at the refinery yard, with a chartered foreman, on a contained string. Every week. They'd like to see me cut behind their ward line." His jaw was set. "I've said that I'll go and watch. I've not said anything else. I'm telling you because I said I'd tell you when the sum moved, and it's moved."
+"The Halden team. They train twice a week at the refinery yard, with a chartered foreman, on a contained string. Every week. They'd like to see me cut behind their ward line." His jaw was set. "I've said I'll go and watch. I haven't said anything else. I'm telling you because I said I'd tell you when the sum moved, and it's moved."
 
 Nobody broke step.
 
@@ -290,13 +290,13 @@ Nobody broke step.
 
 "We get Rhea Sorn for one night in a fortnight, and a trough." Perrin considered it. "I mind that for you, if you'd like. I've room."
 
-"I'd not, particularly. Thank you."
+"I wouldn't, particularly. Thank you."
 
 "Then tread. Left."
 
-Kiva said nothing. She had a name for what Kellan ought to do, and three reasons for it, and she was learning to know the weight of that in her mouth. She trod. The canvas was beginning to give under her heels, a little, like stiff dough.
+Kiva said nothing. She trod. The canvas was beginning to give under her heels, a little, like stiff dough.
 
-"May I ask a thing?" said Pru, some while later. "Since we're all in a trough. I know there are four old lamps, and a clerk, and a box that costs something to open. I've decided to know it badly. I think that's safest. But I'd like to know why you said yes to me."
+"Can I ask something?" said Pru, some while later. "Since we're all in a trough. I know there are four old lamps, and a clerk, and a box that costs something to open. I've decided to know it badly. I think that's safest. But I'd like to know why you said yes to me."
 
 "Anwen said you."
 
@@ -304,11 +304,11 @@ Kiva said nothing. She had a name for what Kellan ought to do, and three reasons
 
 Kiva trod six paces to the end, and turned.
 
-"I'd somebody else," she said. "I'd reasons. I asked Anwen, and she said you, and she was right, and I'd not have thought of you by myself." It was not flattering, and she let it stand. "Why did you say yes?"
+"I had somebody else," she said. "I had reasons. I asked Anwen, and she said you, and she was right, and I wouldn't have thought of you by myself." It was not flattering, and she let it stand. "Why did you say yes?"
 
 "Because I got my first step by calling *off* twice." Pru's round, anxious face was pink with cold. "Once at a husk and once at a spaniel. The officer passed me. He said he'd sooner have a ward who ran from a dog than one who wouldn't run from anything. I've thought about that every day since." She trod. "I'd like to find out whether I can stay. Only once. Then I'll know which sort I am, and I can stop narrating it."
 
-"You'll not stop," said Perrin.
+"You won't stop," said Perrin.
 
 "No. But I'd have the facts."
 
@@ -356,7 +356,7 @@ She gave it back, and shut the door.
 
 She held it out, and she knew before Orla took it. She could see it in the lamplight. The last two fingers were her own. The first two were the color of candle wax, to the second joint.
 
-Orla did not say anything. She held the hand in both of hers, as it had not been held since a cart at a west gate, and she began to count under her breath, slowly, with her eyes on the fingertips. Nobody else in the lane made a sound.
+Orla did not say anything. She held the hand in both of hers, as it had not been held since Aske's cart at the Pit's west gate, and she began to count under her breath, slowly, with her eyes on the fingertips. Nobody else in the lane made a sound.
 
 Kiva could not feel them. She watched them lying in the old hard palm as if they had been two things that somebody had put there.
 
@@ -376,9 +376,9 @@ He had done the sum before the tape was read. He turned his notebook round on hi
 
 *0.03. 0.30. 0.11. 0.31. Spent, 0.75. In hand, 1.25.*
 
-"Two counted," he said. "Four to show. Four at thirty-one is a dram and twenty-four. So there's ash for four, and a hundredth." He looked up. "There isn't a miss left in it. Not a drop. Not a stack. I said on the second that it came out exact. I'd no idea how exact."
+"Two counted," he said. "Four to show. Four at thirty-one is a dram and twenty-four. So there's ash for four, and a hundredth." He looked up. "There isn't a miss left in it. Not a drop. Not a stack. I said on the second that it came out exact. I had no idea how exact."
 
-"I mind it more now that it's working," said Perrin. "I thought that I ought to say."
+"I mind it more now it's working," said Perrin. "I thought I ought to say."
 
 Kiva was flexing her left hand. The fingers closed. They did it late, and they told her nothing whatever about the palm they closed on.
 

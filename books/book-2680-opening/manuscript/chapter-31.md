@@ -6,7 +6,7 @@ It was four o'clock and beginning to be grey. The bags stood in a row along the 
 
 The third reed sang every time. It was the clear thin note that had filled a grading bench at the Wren House, and it did not vary from the first husk to the sixth rung.
 
-"Ward," said Pike. "Full. That's this spring's skin, all through; I've not had a plain string since the thaw." He bent his ear to the brass. "And there's your hair."
+"Ward," said Pike. "Full. That's this spring's skin, all through. Haven't had a plain string since the thaw." He bent his ear to the brass. "And there's your hair."
 
 Under the song, the seventh reed was moving. It touched its neighbor and came away, so lightly that she saw it before she heard it.
 
@@ -28,11 +28,13 @@ It did not tap. It rapped on the reed beside it, hard and even, like a knuckle o
 
 "On whose word?" said a new voice. "Because I've six boxes to fill and two more calls before breakfast, and that's the biggest bag on the wharf."
 
-He had come down the street at a trot, a young man in Works oilskins with a tuner's satchel bumping on his hip and a handcart of empty cell cans behind him. Kiva knew him. She had read his tunes off a substation drum in Tallis Street in the spring, at Mara's elbow, and had felt what he left in them.
+He had come down the street at a trot, a young man in Works oilskins with a tuner's satchel bumping on his hip and a handcart of empty cell cans behind him.
 
 "Brannock," said Rhea Sorn, from her mooring post. She had not got up. "You're the night tuner."
 
-"For my sins. The Pellow's core's fouled to the lid; it's Tuesday before the Works can so much as open it. The warden's red-handled six boxes at the front that took the ash, and she'll not let me refill them out of my own cans, because my cans are civic stock from the winter and she says she can smell the cut in them." He had his hand on the red tag already. "So it's ground first, by the book. Half of what's clean off this call goes into this street tonight. I'll take that one. It'll do the six and leave me a tin over."
+Kiva knew the name. She had read it in the Tallis Street regulator's cell book in the spring, at Mara's elbow, and had felt in the drum what he left in his tunes. She had never seen the man.
+
+"For my sins. The Pellow's core's fouled to the lid; it's Tuesday before the Works can so much as open it. The warden's red-handled six boxes at the front that took the ash, and she won't let me refill them out of my own cans, because my cans are civic stock from the winter and she says she can smell the cut in them." He had his hand on the red tag already. "So it's ground first, by the book. Half of what's clean off this call goes into this street tonight. I'll take that one. It'll do the six and leave me a tin over."
 
 "It's not for the ground," said Pike.
 
@@ -42,7 +44,7 @@ He had come down the street at a trot, a young man in Works oilskins with a tune
 
 "And by mine," said Rhea. "It's on my slate."
 
-"Then I'd like the reason, because I've to write one, and *the catcher didn't care for it* won't do for my foreman."
+"Then I'd like the reason, because I've got to write one, and *the catcher didn't care for it* won't do for my foreman."
 
 Pike turned his square head and looked at Kiva.
 
@@ -52,7 +54,7 @@ She had not expected that. She had said her piece on the iron, inside a breath, 
 
 "They're boxes. They're each on their own flat."
 
-"Each tuned to its own business. That's what the caution says they don't like." Her face was hot. "I can't weigh it. I've no instrument. I've what came through a hem, and what he heard on a comb."
+"Each tuned to its own business. That's what the caution says they don't like." Her face was hot. "I can't weigh it. I haven't got an instrument. I've got what came through a hem, and what he heard on a comb."
 
 Brannock opened his mouth.
 
@@ -60,15 +62,15 @@ Brannock opened his mouth.
 
 Perrin's father had been sitting on an upturned tub at the end of the trestle for half an hour, with a mug that somebody had finally made him drink. He got up, and came along the wharf, and laid his broad hand on the neck of the red-tagged bag as he might have laid it on the flank of a car.
 
-"That's shed ash," he said. "I don't need a comb. Thirty years I've had my hand on the charging bank up that hill, and it runs on this and nothing else. It all pulls together. You can feel it in your teeth." He took the hand away. "We pay Halden's price for it by the tin, and wait a month. I'd give a week's wages for that bag and put it straight into the bank. I'd not put a thimble of it in my own kitchen. My cold-cupboard's no business keeping time with next door's."
+"That's shed ash," he said. "I don't need a comb. Man and boy I've had my hand on the charging bank up that hill, and it runs on this and nothing else. It all pulls together. You can feel it in your teeth." He took the hand away. "We pay Halden's price for it by the tin, and wait a month. I'd give a week's wages for that bag and put it straight into the bank. I'd not put a thimble of it in my own kitchen. My cold-cupboard's no business keeping time with next door's."
 
 "There," said Pike. "That's three."
 
-"It's not his to buy," said Rhea, "nor mine to sell. It goes to the graders, and after that, I've no doubt, to a room full of people in good coats." She looked at Brannock. "You've your reason. *Stepped. Catcher's word, comb, and a shed foreman of thirty years.* Fill your six from the rungs."
+"It's not his to buy," said Rhea, "nor mine to sell. It goes to the graders. After that, a room full of people in good coats." She looked at Brannock. "You have your reason. *Stepped. Catcher's word, a comb, and a shed foreman.* Fill your six from the rungs."
 
-"The rungs have it too. I heard him say so. A hair."
+"The rungs have it too. A hair. I can feel that through the canvas as well."
 
-"They have," said Pike. "I'll not tell you they haven't."
+"They have," said Pike. "I won't say they haven't."
 
 "Then it's for the warden," said Brannock, and threw up his hands. "It's her book."
 
@@ -106,15 +108,15 @@ Nobody on the wharf spoke.
 
 Pike took rather a long time to answer.
 
-"It's the cleanest I've caught this year," he said. "It was bagged inside the count, every rung. Nothing's printed. It'll grade First. And it has a thing in it that wasn't in any ash I caught for twenty-five years and has been in all of it since the thaw. I can hear it. I can't tell you what it does. I'll put my name to that tin, and I'll not tell you there's nothing to put a name to."
+"It's the cleanest I've caught this year," he said. "It was bagged inside the count, every rung. Nothing's printed. It'll grade First. And it has a thing in it that wasn't in any ash I caught for twenty-five years and has been in all of it since the thaw. I can hear it. I can't tell you what it does. I'll put my name to that tin. I won't tell you there's nothing to put a name to."
 
 "That's an honest man's no," said Mrs. Cobb, "or an honest man's yes. I can't make out which." She turned on Kiva again. "You said the other was wrong. In front of a tuner. Is this one wrong?"
 
-"Not as that is."
+"Not like that one."
 
 "I didn't ask you that."
 
-"No." Kiva looked at the tins. She had sealed three of those bags, and Pike three. She knew which were hers by the knots. "I don't know that it's nothing. Ours had it at the Pit, and a dram of ours went to an infirmary for somebody's burned hands, and nobody's told me that it did harm. That's all I have." She stopped. Her answer had run out, and she let it. "If it were my kitchen, I'd take the second rung. I caught it. It lay stillest; there was no wind yet. I couldn't feel the hair in it at all until he held the reed over. I'd not put the sixth by a child's cupboard. My hand had gone and somebody else finished the cord."
+"No." Kiva looked at the tins. She had sealed three of those bags, and Pike three. She knew which were hers by the knots. "I don't know it's nothing. Ours had it at the Pit, and a dram of ours went to an infirmary for somebody's burned hands, and nobody's told me it did harm. That's all I have." She stopped. "If it was my kitchen, I'd take the second rung. I caught it. It lay stillest; there was no wind yet. I couldn't feel the hair in it at all until he held the reed over. I wouldn't put the sixth by a child's cupboard. My hand had gone and somebody else finished the cord."
 
 "Which is the second?"
 
@@ -150,7 +152,7 @@ She turned the slate over.
 
 She put the slate in her coat.
 
-"Seven," she said. "That's a whole Flask, stood under a foreman. It isn't without remark. So you're attached still, and you'll be attached to me. I'd not have you take it for a punishment. It's a description." The pale eyes went along the four of them. "The second husk was fifty-five. I've seen it done in thirty by people I wouldn't have behind me. Pike will tell you what that's worth."
+"Seven," she said. "That's a whole Flask, stood under a foreman. It isn't without remark. So you're attached still, and you'll be attached to me. Don't take it for a punishment. It's a description." The pale eyes went along the four of them. "The second husk was fifty-five. I've seen it done in thirty by people I wouldn't have behind me. Pike will tell you what that's worth."
 
 "It's worth being asked back," said Pike.
 
@@ -162,7 +164,7 @@ The others had gone up the hill by the time Rhea spoke to her again. Perrin had 
 
 "Yes."
 
-"I'd have you keep both. Most people keep one. They keep the bag, and tell it for twenty years." She did not turn round. "I'll give you one thing, and then I'll have given you all that I've got that's any use to somebody with your trouble. I've one door. I don't know yours. But Pike asked you *on what,* and you said that you couldn't weigh it. Go on saying that. Say it every time, to everybody, the Chair included."
+"Keep both. Most people keep one. They keep the bag, and tell it for twenty years." She did not turn round. "I'll give you one thing, and it's all I've got that's any use to somebody with your trouble. I've one door. I don't know yours. But Pike asked you *on what,* and you said you couldn't weigh it. Go on saying that. Say it every time, to everybody, the Chair included."
 
 "Why?"
 
@@ -170,13 +172,13 @@ The others had gone up the hill by the time Rhea spoke to her again. Perrin had 
 
 Kiva said nothing. The cord went round her fist, and round.
 
-"Hollis Vane has written to his watch for leave to show you a book," said Rhea. "He's slow about it; he's that sort. I'm not on that book's list. I knew the last name in it."
+"Hollis Vane has written to his watch for leave to show you a book," said Rhea. "He's slow about it; he's that sort. I'm not on that book's list. I knew the last name in it before yours."
 
 The cord stopped.
 
 "Ilse Corran?"
 
-"She pulled me out of a Ferren culvert by the collar when I was nineteen, with the water at the roof. She had one arm round me. Her other hand was shut on something at her own throat, and I've wondered for twenty-two years what she thought it was going to do." Rhea turned at last. She looked, quite openly, at the cord where it crossed Kiva's collarbone, and then at Kiva's face. "It didn't do anything. She did. I wrote two words on a card about you in the spring, and I've carried it since, and tonight I'm going to burn it. They were the wrong two words."
+"She pulled me out of a Ferren culvert by the collar when I was nineteen, with the water at the roof. She had one arm round me. Her other hand was shut on something at her own throat, and I've wondered ever since what she thought it was going to do." Rhea turned at last. She looked, quite openly, at the cord where it crossed Kiva's collarbone, and then at Kiva's face. "It didn't do anything. She did. I wrote two words on a card about you in the spring, and I've carried it since, and tonight I'm going to burn it. They were the wrong two words."
 
 She went up the hill toward the van. She did not say what the words had been, and Kiva, who had her mouth open, found that it was not a question she had any right to an answer to.
 
@@ -196,13 +198,13 @@ It took four pages. She wrote the lure under *What went wrong,* in six words, an
 
 Kellan had left a half sheet under the door at noon, in his small exact hand.
 
-*T7, attached, Weighbridge. By our own kill and catch: 22.6 and 22.2. Yield 44.8, to grade. If it grades as Pike's comb says: civic, half, 22.4, paid on the ground. Casualty reserve, 5.6. Schools, 8.4. Team, 8.4. That makes our line 116.8. Finch is paid off the Circuit's reserve card and not our book; I asked. The 8.4 is credited when it's graded and can't be entered until four have signed. One of the four is on the Sag.*
+*T7, attached, Weighbridge. By our own kill and catch: 22.6 and 22.2. Yield 44.8, to grade. Half of it went into the street the same night. If it grades as Pike's comb says, the team's share is 8.4. Finch is paid off the Circuit's reserve card and not our book; I asked. The 8.4 is credited when it's graded and can't be entered until four have signed. One of the four is on the Sag.*
 
 And below, after a space:
 
-*I went to the refinery yard on Thursday, to watch. I've not said what I saw. I'll say it on Wednesday, at your table, with the team book open.*
+*I went to the refinery yard on Thursday, to watch. I haven't said what I saw. I'll say it on Wednesday, at your table, with the team book open.*
 
-She copied the counts for Anwen. Forty-one, and why it had felt so fine. Fifty-five. Forty-four, forty-six, fifty-two, and whose hand had finished the last. She put in three words that she had said over a flat sheet at about twenty-eight minutes to three, and she did not explain them. *Cloth's down. Lure.* Anwen would know what kind of sentence that was. She had been on the other side of two.
+She copied the counts for Anwen. Forty-one, and why it had felt so fine. Fifty-five. Forty-four, forty-six, fifty-two, and whose hand had finished the last. She put in three words that she had said over a flat sheet at about twenty-eight minutes to three, and she did not explain them. *Cloth's down. Lure.* Anwen would know what kind of sentence that was. She had asked about a gate twice, in the Kennel and on the terrace at the Pit, and had been handed one of them both times.
 
 ---
 
@@ -216,7 +218,7 @@ Mara took the packet from inside her coat.
 
 It was a single sheet folded in three and sealed with the shop's own brown wax, with the Works' reconciling stamp pressed across the fold, as she sealed a drum that was going to a hearing. She had done it on Sunday night at the kitchen table, and Kiva had watched her do it. Mara had not read the page over first. She had said that she knew what was on it.
 
-"I'll say before these witnesses what I said at home," said Mara. "I've not read what's in that box, and I'm not going to. I shall sit beside her, as the settlement asks. I'll not look at the page. My own is shut in that packet, and I mean to be able to swear that I've never seen what it's being held against."
+"I'll say before these witnesses what I said at home," said Mara. "I haven't read what's in that box, and I'm not going to. I'll sit beside her, as the settlement asks. I won't look at the page. My own is shut in that packet, and I mean to be able to swear I've never seen what it's being held against."
 
 "That's very proper," said the Reader. "I wish that I met it oftener."
 
@@ -254,7 +256,7 @@ Kiva's hands were flat on the table on either side of the book. She kept them th
 
 She had not meant to. It came as it came on a floor, when something in her chest stood up. *I do not know them. I know what they are, because I know what I am, and they are that. Each one carries a different light.*
 
-*From every road,* she had told Mara, with a wet cloth on her chest. *The lights were all different.* She had been thirteen and lying in the dirt of a yard. She had been seventeen in a narrow bed. She had been standing on an iron shelf with a warm disk in her fist.
+"From every road," she had told Mara, with a wet cloth on her chest. "The lights were all different." She had been thirteen and lying in the dirt of a yard. She had been seventeen in a narrow bed. She had been standing on an iron shelf with a warm disk in her fist.
 
 "Two. Three."
 
@@ -262,13 +264,13 @@ The Ember had stirred. She felt it at the cuff, a small quickening, like a dog l
 
 *When they get close enough, their light touches mine and theirs, and none of us can tell any longer where one stops.*
 
-*Mine.* That was different. Kiva read the word twice. This woman had been among them. She had been one of the lights, walking in. Kiva had only ever been high up, and apart, looking down at roads.
+*Mine.* That was different. Kiva read the word twice. This woman had been among them. She had been one of the lights, walking in. Kiva had only ever been high up, watching them come toward her and toward one another, and had never once been one of them.
 
 "Four. Five."
 
 *Above us the sky is not torn. I want to be very clear. I have seen rifts all my life and this is not a rift. The sky is not there.*
 
-*And looking up,* she had told Mara, at ten o'clock at night, with a cloth on her chest. *No sky.*
+"And looking up," she had told Mara, at ten o'clock at night, with a cloth on her chest. "No sky."
 
 The hand door came open a crack, behind her breastbone, cool and close. She shut it. "Six." The still door was already under her, wide, as it was under a falling weight, and she shut that. "Seven. Eight." There was a thread of warmth along the bottom line. It was the first time that she had ever had to call the meter over a page.
 
@@ -276,17 +278,21 @@ The hand door came open a crack, behind her breastbone, cool and close. She shut
 
 *Full.*
 
-She had used that word. She had used it to Mara the first time, at a kitchen table, with her arm in a sling, because there had been no other. It was not a word that anybody would choose. It was the only one that fitted, and a woman had reached for it in a house in the hills two hundred and thirty years ago, with a fever on her, and found the same.
+She had used that word. She had used it to Mara the first time, sitting on the hallway floor at a quarter to three in the morning with a wet cloth to her nose, because there had been no other. It was not a word that anybody would choose. It was the only one that fitted, and a woman had reached for it in a house in the hills two hundred and thirty years ago, with a fever on her, and found the same.
 
 "Nine," said Kiva's lips. "Ten. Eleven."
 
 *Like standing under a wave that does not break. I have spent my whole life holding back pressure, and this is not a pressure I could hold back. It is too large. It is paying attention.*
 
-She had never said that last. She had not had it to say. She read it, and something that had been shapeless in her for four years took a shape, and she did not like the shape, and she knew that it was right.
+She had said that.
+
+She had said it in those words, on the same hallway floor, to the one person who had ever asked her. "Enormous, and paying attention." She had thought the words were her own. She had been rather afraid of them, and glad that nobody else would ever have cause to use them. Here they were in a stranger's quick, slanting hand, in ink that had been dry before there was a tram in Meridian, and she had not known until now that one sentence could leave a person less alone and more frightened at once.
 
 *Every lamp in Meridian answers at once. Some go out. Some go white. One turns a color I have no word for.*
 
-Below her, every lamp had answered. She had never seen what they did. She had only known that they did it.
+"Some went out. Some went white," she had told Mara. "It's the same every time."
+
+There had been a third kind. She had never told anybody about the third kind, not Mara, not on any night. She had not known how to say a color that there was no word for, and so it was on no page of hers, sealed or otherwise. It was on this one.
 
 There were no notes. She looked for them. This woman had not heard the lights, each on its own pitch, none in tune; she had not lost count at four; she had not heard them come together into one. And there was nothing small beneath it, at the end, that ticked.
 
@@ -322,7 +328,7 @@ Nobody moved for a moment. The fire ticked.
 
 Then the man by the window got to his feet. He looked at the Reader, and not at Kiva.
 
-"The endowment thanks the Keeper for her fire," he said pleasantly. "It notes, for the book, that this reader is the subject of a sanctioned tape which opens to chartered parties on the first. It asks the Library for nothing." He bowed again to Mara, and put on his hat at the door, and was gone.
+"The endowment thanks the Keeper for her fire," he said pleasantly. "It notes, for the book, that this reader is the subject of a sanctioned tape which is shortly to open to chartered parties. It asks the Library for nothing." He bowed again to Mara, and put on his hat at the door, and was gone.
 
 The woman in grey had not stirred.
 
@@ -348,7 +354,7 @@ Kiva's breath stopped.
 
 She had turned her chair round. Her face was as it had been in a hallway, with one hand going out to a red handle.
 
-"She's seventeen. I'm her guardian, and that's my hand in the book beside hers. You may put your questions on paper and send them to Coper Street, and I'll answer the ones that I think you've a right to. You'll not come at her through a yard."
+"She's seventeen. I'm her guardian, and that's my hand in the book beside hers. You may put your questions on paper and send them to Coper Street, and I'll answer the ones I think you've a right to. You won't come at her through a yard."
 
 The woman in grey looked at Mara for some time.
 
@@ -366,7 +372,7 @@ She went out. The door shut without a sound.
 
 Kiva told Mara on the tram that it was not all the same, and that it was enough the same.
 
-"Don't tell me which parts," said Mara. She was looking out at the Brickfields road. "Not until I must know. One of us ought to be able to say that she hasn't been told."
+"Don't tell me which parts," said Mara. She was looking out at the Brickfields road. "Not until I have to know. One of us ought to be able to say she hasn't been told."
 
 "There's a name for it. She gave it a name."
 
@@ -374,7 +380,7 @@ Kiva told Mara on the tram that it was not all the same, and that it was enough 
 
 "No."
 
-"I'd thought that she wouldn't. I don't know why. A person who knew would have told somebody." A pause. "I'm sorry. You wanted her to."
+"I thought she wouldn't. I don't know why. A person who knew would have told somebody." A pause. "I'm sorry. You wanted her to."
 
 "I did. I didn't know until she didn't."
 
@@ -398,4 +404,4 @@ Orla laughed. It was a short, hard bark, and it rang off the shed, and the mast,
 
 "From the third line."
 
-"Then they know what you are. Not what it means. They'll have that muddled; they always have." The crooked face was grave again. "There'll be a letter. And a man in a black coat reads a tape on Sunday. And on Thursday, Hollis Vane is going to open a book for you that I've not been let touch in thirty years, and I shall sit outside on a bench like a parent at a school." She looked at the cross, four paces off, with two sets of scratches in it now. "Sit down, Rowan. You've four to show me, and ash for four, and I'd as soon you did nothing clever before any of that arrives."
+"Then they know you've had it too. Not what it means. They'll have that muddled; they always have." The crooked face was grave again. "There'll be a letter. And on Thursday, Hollis Vane is going to open a book for you that I've not been let touch in thirty years, and I shall sit outside on a bench like a parent at a school." She looked at the cross, four paces off, with two sets of scratches in it now. "Sit down, Rowan. You've four to show me, and ash for four, and I'd as soon you did nothing clever before any of that arrives."

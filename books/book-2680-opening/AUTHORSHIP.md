@@ -955,3 +955,108 @@ Full detail is in `provenance/MOVEMENT-004-CONTINUITY.md`, section 10. The large
     tell Kiva what it says. Mara chooses not to read it and has her own page sealed and timed.
 12. **Movement length is 45,124 words**, at the foot of the working range, with no chapter
     over 6,500.
+
+## Movement Four consolidated repair — 2026-10-11
+
+- Status: **one bounded same-author repair applied to chapters 25–32. Not rechecked.** The
+  first draft is frozen, unchanged, at `editions/movement-004-pre-repair/` (its
+  `SHA256SUMS.txt` verified before the first edit and again after the last). This section
+  supersedes the first-draft section's statements that the movement is unreviewed and that no
+  frozen edition exists; the rest of that section describes the first draft as it stood.
+- Repairing model: **Claude Opus 5.5 (`claude-opus-5-5`)**, the same model that wrote the
+  first draft, as reported by the runtime environment. **No subagents were used**, and no
+  other model wrote or revised prose.
+- Provider: Anthropic, via Claude Code (background job `ccdfca4e`)
+- Session: https://claude.ai/code/session_01AwavyR1d14YWEeP9LCnTmn, a fork of the drafting
+  session, so the drafting conversation was in context. The repair ran from about 20:49 to
+  21:10 MDT on 2026-10-11.
+- Instructions: `editor/MOVEMENT-004-REPAIR-BRIEF.md`
+  (SHA-256 `fcfca2d63c879bf8fed16291218fd8f6996edf6e3c307e135008438977afcb6d`), read in full.
+- Reviews the repair answers, both read in full: `editor/MOVEMENT-004-EDITORIAL.md`
+  (SHA-256 `8995d340a4731ed3f474f4a772dc17ccea5b394ce0d17c1d5fe2b35915ed2690`; an informed
+  same-model editorial review) and `editor/MOVEMENT-004-COLD-READ.md`
+  (SHA-256 `2d0cf081d584d7bfc358fa54e3cb69f39f2b0cb7929a6dc07aed2fedce4d8a2c`; a simulated
+  cold read). Neither is a human read.
+- Also consulted, by line lookup only: chapter 7 (lines 281–300), the prologue (1215–1230),
+  chapter 23 (249–256), chapter 16 (485–491), chapter 8 (113–127) and chapter 2 (57, 97), to
+  make the repaired recollections agree with what is already on the page.
+- Method: targeted in-place edits, 177 in all, each applied by exact-string replacement that
+  fails unless it matches once. No chapter was rewritten whole. No scene, section break or
+  viewpoint was added, cut or moved; the movement still has 41 sections and five cutaways.
+- Records reconciled to the repaired prose: `provenance/MOVEMENT-004-CONTINUITY.md` (new
+  section 0 lists the changes) and the Movement Four block of `STATE_LEDGER.md`.
+- Repair report: `editor/MOVEMENT-004-REPAIR-REPORT.md`.
+- **Not done:** no targeted recheck, no review or scoring of the repair by its author beyond
+  mechanical verification, no commit, push, publication or narration, and no Movement Five.
+  The working tree holds the repair uncommitted.
+
+### Word counts (`wc -w`)
+
+| File | Before | After | Change |
+|---|---:|---:|---:|
+| `manuscript/chapter-25.md` | 5,623 | 5,635 | +12 |
+| `manuscript/chapter-26.md` | 5,490 | 5,564 | +74 |
+| `manuscript/chapter-27.md` | 5,157 | 5,218 | +61 |
+| `manuscript/chapter-28.md` | 5,007 | 4,964 | −43 |
+| `manuscript/chapter-29.md` | 5,526 | 5,571 | +45 |
+| `manuscript/chapter-30.md` | 5,951 | 6,075 | +124 |
+| `manuscript/chapter-31.md` | 6,469 | 6,578 | +109 |
+| `manuscript/chapter-32.md` | 5,901 | 5,975 | +74 |
+| **Movement Four total** | **45,124** | **45,580** | **+456** |
+
+Secondary-viewpoint sections after the repair: Rhea 1,654, Noa 1,622, Vane 1,021, Anwen 756,
+Orla 735; 12.7% of the movement. Kiva holds 87.3%.
+
+### Post-repair SHA-256
+
+| File | SHA-256 |
+|---|---|
+| `manuscript/chapter-25.md` | `d090c6fdd2bb6512a04c3a440d4ec6921c7f1147c203bd4e38cdf1c0b25ae9d1` |
+| `manuscript/chapter-26.md` | `68096648ee344869162ebef1887cd90122db18b7b1d9f0575300c3223a147315` |
+| `manuscript/chapter-27.md` | `620b3d397066f9ab1e4dcdc2a63586a8cd3a9e3592935f742e0d9b885e8a5276` |
+| `manuscript/chapter-28.md` | `5ac5909cdf857c29963880a4d8701b553296cba532997ada15bec847e3e5d941` |
+| `manuscript/chapter-29.md` | `48271630582a1d62b5590367f538eaf086e8437c4e523bb130dca8e2f478b3d9` |
+| `manuscript/chapter-30.md` | `cecad59a7d2a4e54a357909ec16773faaba64c13b1d9398d0a269a4deff36f81` |
+| `manuscript/chapter-31.md` | `64017eaeaca52911fe23c77093d7205c6bd02ed3e9f563c695f9b9dc2c23dbe7` |
+| `manuscript/chapter-32.md` | `8f24f93343724b85aa0eccbad737af1039e4776476745e08940b427b21cea188` |
+
+### Material choices in the repair the owner should review
+
+Full detail, with before-and-after text, is in `editor/MOVEMENT-004-REPAIR-REPORT.md`.
+
+1. **The Annick reading now agrees with chapter 7.** "Paying attention" and the lamps going
+   out or white are matches Kiva recognizes as her own words. One match is new and
+   unprovable: a color with no word for it, which she has seen and never told anyone.
+2. **Kiva corrects Aske about the wharf.** The hand was gone about fifteen hours, not an
+   hour; she is tempted to let the kinder number stand and does not. Aske names the cord as
+   the cause and does not change his ruling.
+3. **Her still door at the rescue is now a kept boundary,** stated in three sentences.
+4. **Dialogue pass.** The six younger speakers, and Pike, Nairn and Rhea, are plainer and
+   shorter. The Reader, Mrs. Cobb, Orla, Aske, Stroud, the sister and Adlam are untouched.
+   Mara, Vane, Lowen Brask, Brannock and Team Twenty-Eight's catcher, whom the brief does not
+   name either way, were lightened a little. "I've no ham" was kept on purpose.
+5. **Orla's Regional trial has no year** and falls, by her "four years," in 2660. The repair
+   changed chapter 26's first-draft "three years" to "four years" to restore that earlier canon.
+6. **Selka Dray's hearing has no date.** The first draft's "the second" was one of the
+   calendar repetitions.
+7. **The district table's last column is "not ranked."** One added line of Pike's.
+8. **The Pit interval** is corrected in this movement's records only. Chapter 24's line, the
+   Movement Three checkpoint, the Movement Three ledger block and the packet still say forty.
+
+### Targeted recheck and final correction
+
+- Fresh review-only session: Claude Opus 5.5 (`claude-opus-5-5`), background session
+  `074f0aeb-0e37-475d-9ef3-f2749dfe2f57`, 2026-10-11.
+- Prompt: `editor/MOVEMENT-004-TARGETED-RECHECK.prompt.md`; result:
+  `editor/MOVEMENT-004-TARGETED-RECHECK.md`.
+- Verdict: **PASS** on canon/body/knowledge/geometry/records, differentiated dialogue, and
+  listener orientation/flow. No second broad repair was justified.
+- Required final prose correction: chapter 31 now says Kiva read Brannock's name in the
+  Tallis Street regulator's cell book at Mara's elbow, and felt his tuning in the drum. This
+  restores chapter 2's source and object. Word count remains 6,578; Movement Four remains
+  45,580 words.
+- Required record corrections were made in `provenance/MOVEMENT-004-CONTINUITY.md`: Kellan's
+  unprepared question, Mara's week-and-a-half interval, settled Old Yard/Brannock/Regional
+  facts, and the first-draft three-to-four-year correction.
+- Final chapter 31 SHA-256 after the bounded recheck correction:
+  `42e0c0e9089e578efb697741d5174a7dd672af0e3c05813f5657fa22d5debbee`.

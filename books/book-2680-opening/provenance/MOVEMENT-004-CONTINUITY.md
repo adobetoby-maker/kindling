@@ -2,18 +2,63 @@
 
 > Built by TAC
 
-Edition: **first draft, 2026-10-11**, chapters 25–32, written as one continuous run by Claude
-Opus 5.5 (`claude-opus-5-5`) and recorded by the same author directly afterward. **Unreviewed.**
-No editorial review, cold read, scoring, repair or recheck has been run, and no frozen edition
-exists. Where this file and the manuscript ever disagree, the manuscript governs. This file is
+Edition: **consolidated same-author repair, 2026-10-11**, chapters 25–32, reconciled to the
+repaired prose after the manuscript was corrected. First written by the same author (Claude
+Opus 5.5, `claude-opus-5-5`) directly after the first draft. The first draft is frozen at
+`editions/movement-004-pre-repair/`. **Repaired and rechecked:** the editorial review and the
+cold read were answered by one bounded repair (`editor/MOVEMENT-004-REPAIR-REPORT.md`), then
+a fresh targeted recheck passed all three priorities
+(`editor/MOVEMENT-004-TARGETED-RECHECK.md`). Its one required prose correction and its stale
+record corrections are incorporated here. Section 0 lists what the repair changed in this record.
+Where this file and the manuscript ever disagree, the manuscript governs. This file is
 not manuscript. It carries forward `provenance/MOVEMENT-001-CONTINUITY.md`,
 `provenance/MOVEMENT-002-CONTINUITY.md` and `provenance/MOVEMENT-003-CONTINUITY.md`; anything
 not restated here stands as recorded there.
 
-Purpose: a handoff for the Movement Four review and for the Movement Five packet.
+Purpose: the reviewed handoff for the Movement Five packet.
+
+## 0. What the 2026-10-11 repair changed in this record
+
+- **The Annick comparison** (section 4) was wrong in the first draft and in this file. Kiva
+  had already told Mara that the presence was "enormous and paying attention," and that some
+  lamps "went out" and some "went white" (chapter 7). Those are now matches. She first said
+  *full* on the hallway floor on the night of the fever, not at a kitchen table. She has been
+  high up watching the figures come toward her and one another, never one of them.
+- **The wharf hand loss** lasted from the sixth rung (a little after three) to Sunday supper,
+  about fifteen hours, not an hour. Pike's note to Aske said "the better part of an hour";
+  Kiva corrects it in the scene. Aske names the cause.
+- **Kiva's still door at the rescue:** the page now says she had one three paces off and kept
+  it shut because her paper forbids Hold, Carry, and any door within three paces of a charged
+  cell.
+- **Knee:** passed *for landings* on the 13th; the strapping stays until Aske says otherwise.
+- **Orla's count:** she "set" fourteen tries before the 13th; the foreman's is not hers.
+- **Orla's Regional trial has no year on the page.** By "four years without a candidate"
+  before the autumn of 2664 it falls in 2660, Jessamy Hart's second year. It is unrelated to
+  the Pit's link being pinned in 2661. The repair changed chapter 26's first-draft "three
+  years" to "four years" to restore that earlier canon.
+- **Selka Dray's hearing has no date on the page** ("an objection waiting on the Chair").
+- **Knowledge path:** Noa's recital in the drying yard now includes the patent's caution and
+  Adlam's gloss. Noa was told the dictionary meaning of a T-0 on Monday the 4th and learned
+  on Tuesday what he had not been told.
+- **Geometry:** the gate stood a little over twenty paces above the tear, and the tear
+  fourteen paces below the sheet. The Flask's hind legs stayed planted when its fore legs
+  stepped to the gate. The sheds' hum is on the page at arrival.
+- **The bottom thread is not the disk:** stated once, at Orla's third rule.
+- **The district table's last column** is not ranked: "It's what's written against your name."
+- **The Pit interval is eleven or twelve seconds.** This supersedes "about forty seconds"
+  wherever earlier records carry it (the Movement Three checkpoint, the Movement Three block
+  of `STATE_LEDGER.md`, the packet's "10:24:40," and Kiva's own book line in chapter 24), none
+  of which this repair was permitted to edit.
+- Smaller: "twenty-six clear days"; Mara's visit to the yard was "a week and a half" before
+  the 28th; the fourth edition says "the Home Line"; the wardens' claim and Halloran's notice
+  are now narrated and not quoted; Kellan's half sheet gives the yield, "half… into the
+  street," and the team's 8.4 only; a bearer's fourth-column line reads thirty-four years;
+  the shed foreman's "thirty years" is "man and boy"; Rhea "knew the last name in it before
+  yours"; Kiva stopped asking the disk in the Old Yard, not on the Kennel stair; Orla now
+  says the Order "know you've had it too," not "know what you are."
+- Movement length, section and viewpoint figures in section 10 are recomputed.
 
 ## 1. Calendar
-
 Early summer 2680, continuing. The month is still unnamed on the page and still has thirty
 days. Movement Four runs from Monday the 4th to Thursday the 28th of the month that began on
 the Friday of the board's findings.
@@ -29,7 +74,7 @@ the Friday of the board's findings.
 | Sun 10th | **Anwen leaves** on the 5:20 tram and reports to the Graywater hall for Doran Mace's summer line. She asks Kiva to send "the counts," with the *why* column. | 27 |
 | Mon 11th | Vane cutaway: the Reader reads his tracing (section 4). Afternoon: **Kiva and Mara are written into the request book.** Fourteen days' notice; the reading is set for Monday the 25th at two. The Reader agrees to seal Mara's page before the box is opened. | 27 |
 | Tue 12th | The Circuit's travelling mast is set up in the Old Yard. Vane reads the 2471 entry to Orla, Kiva, Kellan, Perrin and Noa. Orla sets six rules for the tries (section 3). | 27 |
-| Wed 13th | Aske passes the knee. **First sanctioned go: called off at the top.** | 27 |
+| Wed 13th | Aske passes the knee for landings; the strapping stays on until he says otherwise. **First sanctioned go: called off at the top.** | 27 |
 | Thu 14th | An hour in the yard with her back to an empty drum. | 28 |
 | Fri 15th | **Second sanctioned go: a crossing, landed on the cross. "One."** | 28 |
 | Sat 16th | Third team **loses 6–8 at Stonehand**; Kiva plays one door, no change. Lowen Brask tells her he goes out on a Home Line hold crew on Monday and gives her a caution ("when it comes easy, look at your feet"). | 28 |
@@ -45,7 +90,7 @@ the Friday of the board's findings.
 | **Thu 28th** | Four o'clock, the Home Line hall. Orla cutaway on the bench. **Kiva reads the bearer's book and writes in it.** | 32 |
 | Sat 30th (future) | Perrin takes the team book to Anwen with Mace's runner. | 32 |
 | Sun 1st of next month (future) | The watch sits and hears Kiva's entry. The Pit's tape opens to chartered parties. | 31, 32 |
-| Mon 2nd (future) | Selka Dray's objection is heard (as stated by Team Twenty-Eight's catcher). | 32 |
+| No date on the page | Selka Dray's objection is "waiting on the Chair" (Team Twenty-Eight's catcher). | 32 |
 | **Tue 3rd, at nine (future)** | All parties before the Placement Chair over the red-tagged bag; "the catcher's book will be wanted." Ysra also wants the tape, the reader and the sponsor that day over the stack. | 32 |
 | Tue 26th (as told) | Anwen is to take the end of a wall, "behind nobody." Not shown. | 29 |
 
@@ -116,14 +161,20 @@ no door.
   she filed Lowen Brask's caution "on the left" and should have put it on the right; she was
   pleased, the thread said *one,* and she did not.
 - **The pattern she is working on** ("not having your answer ready"): withheld with Stroud,
-  with Anwen (Edda's name), at the drying yard, with Kellan (three prepared remarks), and on
+  with Anwen (Edda's name), at the drying yard, with Kellan (one question he had not come
+  ready for), and on
   the levee with Orla; kept, wrongly, with Noa on the 4th and on the street at 2:32.
-- **Injuries.** Left knee: strapped; passed for landings by Aske on the 13th; aches after the
-  trough and the wharf. Left first and second fingers: tested on the 6th at their earlier
+- **Injuries.** Left knee: passed for landings by Aske on the 13th, with the strapping to stay
+  on until he says otherwise; still strapped on the 25th and 28th; aches after the trough and
+  the wharf. Left first and second fingers: tested on the 6th at their earlier
   state (the first reports late, the second later); **white to the second joint for forty-one
-  counts after the fourth go**; the whole left hand "went away" to the wrist for about an hour
-  on the wharf and returned by Sunday supper to where it was, slow and late. **Aske on the
-  26th: not burned; "it starves, and then it sulks, and each time it sulks a little longer";
+  counts after the fourth go**; the whole left hand "went away" to the wrist at the sixth rung, a
+  little after three on the 24th, and did not return until Sunday supper, **about fifteen
+  hours**, to where it was, slow and late. Pike's note to Aske said "the better part of an
+  hour"; Kiva was tempted to let that stand ("a better number than the true one") and
+  corrected it. **Aske on the 26th: not burned; the wharf "wasn't the mast": four bag necks
+  hauled across the crook of the elbow, over a nerve emptied by Wednesday's crossing ("The
+  mast leaves it hungry. The cord found it hungry."); "it starves, and then it sulks, and each time it sulks a little longer";
   he cannot say how many more times it will come back. No go until Monday; then one a week,
   with the hand seen the next morning.** Permanent loss remains the Movement Five cost. Skinned
   right elbow on the 13th. No fever and no nosebleed in this movement.
@@ -142,13 +193,14 @@ that she can swear she has never seen what her page is held against; her page of
 (pencil, one sheet, the only copy) is sealed under her own wax and the Reader's, hour written
 across the join, in the Library's press. She told the sister of the Even Hand to write to her
 and not to come at Kiva "through a yard." She has the Order's letter (six questions; she will
-answer two). She went to the Old Yard once, about a fortnight before the 28th, and told Orla,
+answer two). She went to the Old Yard once, a week and a half before the 28th, and told Orla,
 "You kept a thing from my table. Don't do it twice." Her re-sit is still the ninth month. She
 does not yet know that the bearer's book records her refusal of 2669 and that the Line sealed
 the appointment "regardless"; Kiva is carrying that page home on the 28th.
 
-**Orla Dane.** Read Annick, Personal in the autumn of 2664, during the years when she was not
-let sponsor, while looking for any record of training a boy with two doors. Admits she cut her
+**Orla Dane.** Read Annick, Personal in the autumn of 2664, when she had been "four years
+without a candidate" of her own and was not let sponsor one (so the Regional trial falls in
+2660; the prose gives it no year), while looking for any record of training a boy with two doors. Admits she cut her
 Sunday report to fit; calls it cowardice "wearing a field officer's coat"; will answer a
 straight question or say that she won't; **will not tell Kiva what the box says.** Set the six
 rules. **Would have signed the stack**; was stopped by Noa's tape and says so. Reported the
@@ -212,7 +264,7 @@ the wrong two words." She does not say what they were. Team Seven remains attach
 **Others.** **Lowen Brask**: out on a Home Line hold crew from the 18th until the autumn.
 **Selka Dray**: asked for, and was given, the reserve blade's seat on Team Twenty-Eight for
 the held tear of the 27th; told its catcher she still thinks Kiva should not be seated; her
-objection is heard on the 2nd. **Greta Stroud**: could not button her coat on the 6th; "a
+objection is "waiting on the Chair," with no date given. **Greta Stroud**: could not button her coat on the 6th; "a
 spoon now, and not a cup" by the 23rd. **Ysra Crest**: appears only by two notices in her
 hand. **Jude Talley**: captained both meets; named by Kellan. **Gower, Edda, Bettan's crew**:
 Bettan called the closing; nothing else.
@@ -261,7 +313,7 @@ Annick.
 
 **The *Founders' History.*** Ninth edition (given to first-years): *The nine-ringed plate
 carried by the first teachers is preserved by the School.* Fourth edition: *The plate of nine
-rings went out with the Line and is not the School's to show. It is released to one who
+rings went out with the Home Line and is not the School's to show. It is released to one who
 carries it. We have not been told why and have not thought it ours to ask.* The Reader has
 asked to see the School's plate for thirty years and is told it is "being conserved."
 
@@ -282,12 +334,17 @@ this dream…*; the roads and the different lights; *their light touches mine*; 
 there*; *Not crushing. Full*; *It is paying attention*; *Every lamp in Meridian answers at
 once*; *I wake before I find out. Every time*; *I have told no one in the house*; *The sky
 unroofed. That is the only way I can say it.*
-- What matches Kiva's account: every road; lights all unlike; the lights touching; no sky;
-  what is above coming down; the word *Full*; every lamp answering.
-- What differs: Annick is **among** the lights ("mine"); Kiva has only been high up and apart.
-  Annick has **no notes and no tick.** Annick gives what the lamps do (out, white, a color
-  without a name); Kiva never saw. Annick adds "It is paying attention," which Kiva had not
-  had words for and recognizes.
+- What matches Kiva's account, as she has already given it to Mara (chapter 7 and the page
+  of the 29th): every road; lights all unlike; the lights touching; no sky; what is above
+  coming down; the word *Full* (first said on the hallway floor on the night of the fever);
+  **"paying attention," in those words**; every lamp answering; some lamps going out and some
+  going white ("It's the same every time").
+- A match she cannot prove: a third kind of lamp, "a color that there was no word for."
+  Annick wrote it. Kiva has seen it and **has never told anybody**, so it is on no page of
+  hers, sealed or otherwise.
+- What differs: Annick is **among** the lights ("mine"); Kiva has only been high up, watching
+  them come toward her and toward one another, and has never been one of them. Annick has
+  **no notes and no tick.**
 - What it does not give: **a date** (the entry cannot be tied to the lamp night; the margin
   and the notebook "each pointed at the other, and neither one touched it"); a cause; a
   meaning; what the gathering is for; any instruction.
@@ -365,8 +422,8 @@ for cause written* (used once: sold in 2590 for forty drams; recovered in a week
   introduced to an unstepped bank under load.*
 - **This spring's ash.** Every bag at the Weighbridge read W, full; I, a trace (as at the
   Pit). **The last two knots of the Flask, the pair that carry the legs, read I, full:** the
-  reed "knocked… like a knuckle on a door"; Kiva felt "a shed full" of pens; a shed foreman of
-  thirty years knew it by hand as "shed ash" and would pay a week's wages for it and "not put a
+  reed "knocked… like a knuckle on a door"; Kiva felt "a shed full" of pens; a shed foreman
+  ("man and boy" on that bank) knew it by hand as "shed ash" and would pay a week's wages for it and "not put a
   thimble of it in my own kitchen." Pike, twenty-six years a catcher, had never heard that
   reed over a rift's leavings before this spring.
 - Nobody on the page says why stepped ash is coming out of a tear. Noa's thought (something
@@ -381,7 +438,7 @@ for cause written* (used once: sold in 2590 for forty drams; recovered in a week
 | Fri 15th | Go 2 | 2.0 | 1.67 | 1.6 | 0 | 0.30. |
 | Mon 18th | Go 3 | 2.0 | 1.56 | 1.6 | 0 | 0.11. |
 | Wed 20th | Go 4 | 2.0 | 1.25 | 1.6 | 0 | 0.31. |
-| Tue 26th | **Weighbridge share graded and posted** | 2.0 | 1.25 | 1.6 | **8.4** | Yield 44.8 (22.6 + 22.2), Grade First, W full, I trace. Civic half 22.4, paid on the ground; casualty reserve 5.6; schools 8.4; team 8.4. |
+| Tue 26th | **Weighbridge share graded and posted** | 2.0 | 1.25 | 1.6 | **8.4** | Yield 44.8 (22.6 + 22.2), Grade First, W full, I trace. Civic half 22.4, paid on the ground; casualty reserve 5.6; schools 8.4; team 8.4. After the repair the page states the 44.8, "half… into the street," and the team's 8.4; the other two figures follow from the standing share rule. |
 
 - **The 8.4 cannot be entered until four have signed.** A team book may go to a member on
   service by a member's hand; Perrin takes it to Anwen on the 30th. No use for it has been
@@ -405,16 +462,18 @@ lost down a grating.
 - **Three sealed papers on the Measure Hall board (26th):** the Halden Works claims the
   113-dram bag under the foundation patent and "asks on what paper" it was kept from civic use
   "on the word of a provisional candidate, unclassified, and a field comb"; the wardens of
-  Weighbridge Street claim it by ground-first and ask only "that it not be carried off the
-  street's account by anybody who was not there"; Wren House holds it for reference (*I, full,
-  from a field source: without precedent on the cards. Halloran*). **All parties before the
+  Weighbridge Street claim it by ground-first and ask only that it not be carried off the
+  street's account by anybody who had not been there (narrated, not quoted); Wren House holds
+  it for reference, in four lines of Halloran's (I, full, from a field source, without
+  precedent on the cards; also narrated). **All parties before the
   Placement Chair, Tuesday the 3rd, at nine. "The catcher's book will be wanted."**
 - **The district table** in the Graywater watch room, before the call: Saltmere first (27
   calls, 27 closed, two hurt, no hours dark, 2,840 drams); Graywater second (31, all closed,
   five hurt, six hours dark on one branch, 3,910, one remark); Halden's First Company third
   (4,400, one call held over, two remarks). Columns: *Closed. Lives. Works. Tinned. Remarks.*
   "You read it as you'd read a line of print… You can't buy a column with the one to its
-  right." By Rhea's slate Graywater takes a second remark; the table is not shown again.
+  right… And the last isn't ranked. It's what's written against your name, and it stands
+  there whatever the other four say." By Rhea's slate Graywater takes a second remark; the table is not shown again.
 - **Rules cited:** fourteen (an attached team may seat a first-step reserve in one declared
   role, at the chartered officer's pleasure); nineteen (a house entry for the Regional is not
   a transfer). **Ground first:** half of what is clean off a call goes into that street the
@@ -449,7 +508,7 @@ People (pronouns as written; author's choice):
   three more wards; Doran Mace seen on the hall steps and heard on the line. **Ostrey** is a
   name in Nairn's mouth only.
 - Weighbridge: **Perrin's father** (still unnamed on the page; short, wide, grey mustache; a
-  still-door who never went to a Hall; thirty years on the sheds' charging bank; works
+  still-door who never went to a Hall; "man and boy" on the sheds' charging bank; works
   nights); **Dulcie** (she; tall) and **Stott** (he; young, thick-necked), shed hands;
   **Warden Cobb** of the Pellow (she; about seventy; a man's overcoat, a handbell, the ledger
   chained to her wrist); a lamp warden (he); the mother and child in 2C and the carter at the
@@ -478,7 +537,7 @@ considered for the district and rejected: the prologue places it ten days downri
 |---|---|
 | Six witnessed repeats | **Two of six.** 1.25 drams in hand: four at 0.31 and a hundredth. One a week from Monday the 2nd, on Aske's price. |
 | The crossing's cost | Still a cliff of about a quarter-dram with nothing open. Unexplained. A stack costs a third as much and is forbidden. |
-| Two-finger sensation | Longer each time: forty-one counts white on the 20th; the hand gone for an hour on the 24th. Not burned. **Permanent loss reserved for Movement Five.** Tansy Wold's hand is the precedent on record. |
+| Two-finger sensation | Longer each time: forty-one counts white on the 20th; the whole hand gone about fifteen hours from the 24th (the cord, on a nerve emptied by the crossing). Not burned. **Permanent loss reserved for Movement Five.** Tansy Wold's hand is the precedent on record. |
 | Disk | Cold. Its one warmth is now entered in the bearer's book in Kiva's hand. Held of the Line; recallable on a vote of seven for cause written. |
 | What the disk is for | *We do not know what it is for.* The first book is lost. |
 | One unread fourth-column entry in the record hand | Vane has asked the seven for leave to trace it. |
@@ -492,7 +551,7 @@ considered for the district and rejected: the prologue places it ten days downri
 | Anwen and Kiva | Unsettled by Anwen's choice. Counts go out by the runner; nothing has come back. |
 | Team Seven | Kellan to a Halden license team for the Regional, still on the book. Perrin to his Hall in the autumn. Anwen away six weeks from the 10th. Pru a standing reserve. No blade named for the Regional; Jude Talley suggested. |
 | Attachment | Stands, to Rhea Sorn. Nairn out until the autumn; the van is now a blade and a ward short. |
-| Selka Dray | Stood (or will have stood) a floor with Team Twenty-Eight on the 27th; objection heard the 2nd. Outcome of the held tear not on the page. |
+| Selka Dray | Stood (or will have stood) a floor with Team Twenty-Eight on the 27th; objection still waiting on the Chair, undated. Outcome of the held tear not on the page. |
 | The Pit tape | Opens the 1st. |
 | The Even Hand | Six questions in Mara's hands; two to be answered. |
 | Mara and the Line | The 2669 refusal and the Line's "regardless" are in a book that Kiva has now copied. Vane means to call. |
@@ -560,21 +619,22 @@ further than intended:
     watch of seven and its Sunday sitting; that a team book may travel to a member on service.
 19. **Standing "sixth of thirty-one"** after the Weighbridge is the author's figure; no other
     team's yield is given.
-20. **Movement length is 45,124 words** (`wc -w`), at the foot of the 45,000–55,000 working
-    range. Chapters run 5,007 to 6,469. Forty-one sections, about 1,100 words a section.
-    **Secondary viewpoint is about 12.9%** by plain section word count (Noa 1,618; Rhea 1,650;
-    Vane 1,021; Orla 766; Anwen 756); Kiva holds about 87.1%.
+20. **Movement length after the repair is 45,580 words** (`wc -w`; first draft 45,124).
+    Chapters run 4,964 to 6,578. Forty-one sections, about 1,110 words a section.
+    **Secondary viewpoint is about 12.7%** by plain section word count (Rhea 1,654; Noa 1,622;
+    Vane 1,021; Anwen 756; Orla 735); Kiva holds about 87.3%. No scene or viewpoint was
+    added, cut or moved.
 21. **No formula target has been measured** for these chapters. Narration was written longer
     than in earlier first drafts on purpose; that is an intention, not a result.
 22. Small facts taken from the checkpoints and not re-read in the manuscript should be checked:
-    Brannock's Tallis Street tunes; Perrin's father and the tram yards; Rhea's poster on Anwen's
-    door; the Kennel stair where Kiva stopped asking the disk; that Orla's sponsoring standing
-    (not her teaching) was what was suspended; the year of the Regional trial (given here as
-    2661).
+    Perrin's father and the tram yards; Rhea's poster on Anwen's door; and that Orla's
+    sponsoring standing (not her teaching) was what was suspended. The targeted recheck
+    settled Brannock's Tallis Street regulator cell-book source, Kiva stopping her questions
+    in the Old Yard, and the year of Orla's Regional trial (not stated on the page; see section 0).
 23. Elapsed-time phrases worth a mechanical check: "seven weeks" (the 13th to the 4th); "two
     hundred and thirty-four years"; "sixteen years" (2664); "two hundred and nine years"
     (2471); "four hundred and thirty-three years" (2247); "eleven days" (Vane's tracing);
-    "twenty-six days" (Noa, on the 4th); "three weeks ago" (Pru's wall); "a fortnight ago"
+    "twenty-six clear days" (Noa, on the 4th); "three weeks ago" (Pru's wall); "a week and a half ago"
     (Mara in the yard); "eleven years" (2669).
 24. Pronouns chosen by the author: Pike, Nairn, Ruddock, Adlam, Stott, Brannock, Gill, the
     clerk and the lamp warden he; Arkwright, Wold, Dulcie, Cobb and the sister she.
@@ -593,8 +653,10 @@ neither cured nor lost. The sealed W reserve is not touched. No new spawn expres
 introduced. Anwen is not on Team Seven after the 10th and is not at the call. Lowen Brask is
 not made a villain and Selka Dray is not made a friend. Nobody connects the stepped ash, the
 T-0 entries, the notch, the disk and the dream; Noa refuses to choose among five explanations.
-Nothing in this movement has been reviewed, scored or repaired, and Movement Five has not been
-started. The author made no commit or push; another process committed and pushed the chapter
+In the repair: no scene or viewpoint was added, cut, moved or reordered; no event, count,
+seal time, yield, ledger figure or clock time was changed; Annick's quoted entry, Mrs. Cobb's
+first leaf and the last two paragraphs of chapter 32 are word for word as drafted. The repair
+has not been reviewed or rechecked by its author, and Movement Five has not been started. The author made no commit or push; another process committed and pushed the chapter
 files as they were written (see `AUTHORSHIP.md`), and its copies of chapters 29 and 32 predate
 the author's last edits to those two files.
 

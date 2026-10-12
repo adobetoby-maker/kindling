@@ -18,7 +18,7 @@ It went on like that along the whole of the Brickfields road. She gave the team 
 
 The company hall was a long slate-blue front with its lamps still lit. There were six people on the pavement already, standing about with bags at their feet in the manner of people who have been told a quarter to six and have come at half past five, and at the top of the steps a broad grey man with a board under his arm was counting them without appearing to.
 
-"That's Mace," said Anwen. "He'll not speak to you. He doesn't speak to anybody before seven."
+"That's Mace," said Anwen. "He won't speak to you. He doesn't speak to anybody before seven."
 
 They stopped at the foot of the steps. Kiva set the bag down on the flags.
 
@@ -34,13 +34,13 @@ They stopped at the foot of the steps. Kiva set the bag down on the flags.
 
 "With the *why* column?"
 
-"Particularly that." Anwen settled the bag. "And if you find that you've had an answer ready, put that in too. I'll know anyway. I'd as soon see it in your hand."
+"Particularly that." Anwen settled the bag. "And if you find you've had an answer ready, put that in too. I'll know anyway. I'd rather see it in your hand."
 
 She went up the steps. She did not look back from the top, and Kiva had not thought that she would. The broad man glanced at her, and made a mark on his board, and she took her place at the end of the row with her back to the road.
 
 Kiva stood a little longer on the pavement than there was any need to.
 
-She had no answer ready. She had looked for one all the way from Coper Street and had found the place quite bare, and it had not felt like a virtue. It had felt like standing in a doorway with nothing to carry. Then she turned, and went to wait for the tram going the other way.
+She had nothing to say. She had looked for something all the way from Coper Street and had found the place quite bare. It felt like standing in a doorway with nothing to carry. Then she turned, and went to wait for the tram going the other way.
 
 ---
 
@@ -80,7 +80,7 @@ He had stood on a cinder floor with a slate, and a girl forty paces off had told
 
 A man on a levee two hundred and nine years ago had set that down as a rule, having learned it in one night. Vane had been handed the same rule by luck, by a candidate who happened to be honest, and he had not known that it was one.
 
-"A crossing," he said. "They'd a word for it."
+"A crossing," he said. "They had a word for it."
 
 "They'd a word, and a heading for the page, and a column for what it cost." The woman took off the upper spectacles. "Your present ledger asks for the reason and the result, I should think. Somebody tidied the third away. It's nearly always the third."
 
@@ -104,11 +104,11 @@ He was going up and they were coming down, the aunt first, whom he knew from a b
 
 He looked at the girl. He looked, since he could not now help it, at her left hand on the rail, and at how the last two fingers held and the first two only rested.
 
-"Tomorrow night," he said. "Your sponsor's yard, if she'll have me. There's a thing I've had read. It's about you only as far as it's about anybody who's ever done what you did, and I'd sooner you heard it from the page than from me."
+"Tomorrow night," he said. "Your sponsor's yard, if she'll have me. There's a thing I've had read. It's about you only as far as it's about anybody who's ever done what you did, and I'd rather you heard it from the page than from me."
 
 "Is it bad?"
 
-"It's two hundred years old. I don't know yet what it is." He put his hat on. "I know that I wrote four lines about you on the thirtieth and thought them complete. I'll be mending that."
+"It's two hundred years old. I don't know yet what it is." He put his hat on. "I know I wrote four lines about you on the thirtieth and thought them complete. I'll be mending that."
 
 ---
 
@@ -118,11 +118,11 @@ She did it standing, at the tall desk beside the stair, and she did it in what w
 
 "Monday the eleventh," said the Reader. "Fourteen days. That's Monday the twenty-fifth, at two, in the small room off the reading room; I'll have the fire lit, since the Order feels the cold and won't say so. I shall send both notices by this evening's post." She blotted the page. "You may still withdraw, any day up to the day. They'd be told that as well."
 
-"We'll not withdraw," said Mara.
+"We won't withdraw," said Mara.
 
 She had read the settlement herself, all four lines, in the Library's own copy, with her left forefinger moving under the words. She had asked two questions about it, and both had been about what happened to the black book when it was full.
 
-"There's one thing more," she said. "I've a page at home in my own hand. It was written on a night this spring, the same night as what it describes, and it's dated. I don't know what's in your box, and I've been told by somebody who does that I'm not to ask." Her eyes went briefly to Kiva. "But if it should turn out that my page and your box have anything to say to one another, I shall want it proved which was shut first."
+"There's one thing more," she said. "I have a page at home in my own hand. It was written on a night this spring, the same night as what it describes, and it's dated. I don't know what's in your box, and I've been told by somebody who does that I'm not to ask." Her eyes went briefly to Kiva. "But if it should turn out that my page and your box have anything to say to one another, I shall want it proved which was shut first."
 
 The Reader put down her pen.
 
@@ -140,11 +140,11 @@ She looked at Mara for some time, with her head a little on one side, and Kiva s
 
 Mara stood with her hand flat on the desk. Kiva knew what was being asked of her. It was the page of the dream, the whole of it, in pencil, written at the kitchen table at ten o'clock on the night of the Pit by somebody who had spent that morning across the road with her hand on a cell. Mara had never let it out of the flat.
 
-"The household rule's that it's told the same night and that I write it," she said, to Kiva and not the Reader. "I made that rule so that it should be kept somewhere I could put my hand on it."
+"The household rule's that it's told the same night and that I write it," she said, to Kiva and not the Reader. "I made that rule so it would be kept somewhere I could put my hand on it."
 
 "You'd know where it was."
 
-"I should know that it was in a locked press in a basement with a stranger's wax on it." A breath. "Which is a good deal better kept than a kitchen drawer, and I'd say so about anybody's page but mine. Very well. Sealed, on the day."
+"I'd know it was in a locked press in a basement with a stranger's wax on it." A breath. "Which is a good deal better kept than a kitchen drawer, and I'd say so about anybody's page but mine. Very well. Sealed, on the day."
 
 They went up the iron stairs together, slowly, Mara a step ahead.
 
@@ -154,7 +154,7 @@ They went up the iron stairs together, slowly, Mara a step ahead.
 
 "I saw."
 
-"I've stood beside him on a berm while he sent a team home with its kit unopened, sooner than put them in front of a thing he couldn't time. He doesn't look at what doesn't bear on the work." She stopped at the turn, and got her breath. "Whatever he's bringing to that yard tomorrow, I want it in the book the same night. Every word of it. I'll not have a second thing kept from this table because it was in a hand nobody could read."
+"I've stood beside him on a berm while he sent a team home with its kit unopened, sooner than put them in front of a thing he couldn't time. He doesn't look at what doesn't bear on the work." She stopped at the turn, and got her breath. "Whatever he's bringing to that yard tomorrow, I want it in the book the same night. Every word of it. I won't have a second thing kept from this table because it was in a hand nobody could read."
 
 ---
 
@@ -162,7 +162,7 @@ The Circuit's travelling mast came into the Old Yard on Tuesday evening, in thre
 
 He could do nothing else. He stood in the lane with his arms held a little away from his strapped sides, like a man in a barrel, and told Kellan and Noa where to put their feet. There was a brass head as big as a bucket, and a tripod of jointed legs taller than he was, and a drum in a felt-lined case that Noa would let nobody else touch. On the lid of the case hung a lead seal with the Placement Chair's stamp in it.
 
-"A foot to your left," said Perrin. "No. The other left. You've a post behind you, Renn; it's been there five hundred years and it has the right of way."
+"A foot to your left," said Perrin. "No. The other left. You've got a post behind you, Renn; it's been there five hundred years and it has the right of way."
 
 "It leans."
 
@@ -170,13 +170,13 @@ He could do nothing else. He stood in the lane with his arms held a little away 
 
 They stood it at last on the east side of the lane, six paces from the scraped line and well clear of the cross. Noa broke the seal in front of all of them and read out the number on it, and wrote the number down, and threaded a tape with his tongue between his teeth.
 
-"One pen," he said. "Set to her and nobody else. I copy every tape for the Chair the next morning. That's her letter; it's what makes the instrument sanctioned." He hesitated. "It's also what makes the tape hers to show. Not to chartered parties in thirty days; that's for events. But she's a hearing coming with Dray's objection, and she's told Dray that she'll hear it on evidence."
+"One pen," he said. "Set to her and nobody else. I copy every tape for the Chair the next morning. That's her letter; it's what makes the instrument sanctioned." He hesitated. "It's also what makes the tape hers to show. Not to chartered parties in thirty days; that's for events. But she's got a hearing coming with Dray's objection, and she's told Dray she'll hear it on evidence."
 
-"So anything I do in front of that drum, Selka Dray may read," said Kiva.
+"So anything I do in front of that drum, Selka Dray can read," said Kiva.
 
 "If the Chair thinks it bears. Yes."
 
-"It was Anwen's condition," said Kellan. "A sanctioned mast, every go. I thought at the time that it was for your safety."
+"It was Anwen's condition," said Kellan. "A sanctioned mast, every go. I thought at the time it was for your safety."
 
 "It was. It's for everybody's." Kiva looked at the brass head, which had begun to tick. She had asked a library for a private box the day before and had been told, very fairly, that there was no such thing. "A meter's a meter. It doesn't choose who looks."
 
@@ -220,7 +220,11 @@ A second finger.
 
 A third.
 
-"Before she leaves the line she tells me whether the bottom thread is cold. Aloud. If she says *one,* she sits down." A fourth. "In the air: if that Ember isn't shut clean at the top, she calls *off* and comes down as herself, on the right leg, rolling. That isn't a miss to be ashamed of. That's the only part of this I can teach, and I mean to see it done before I see the other."
+"Before she leaves the line she tells me whether the bottom thread is cold. Aloud. If she says *one,* she sits down."
+
+She meant the lowest of the three raised lines on Kiva's chest, the one that warmed first whenever two doors wanted the same room. That was the meter. It had nothing to do with the disk, which hung on its cord beside it and was cold whatever anybody did.
+
+A fourth finger went down. "In the air: if that Ember isn't shut clean at the top, she calls *off* and comes down as herself, on the right leg, rolling. That isn't a miss to be ashamed of. That's the only part of this I can teach, and I mean to see it done before I see the other."
 
 "And after?" said Kiva.
 
@@ -232,7 +236,7 @@ A third.
 
 ---
 
-Healer Aske passed the knee on Wednesday morning with his thumbs and a grunt, and on Wednesday night Kiva stood on the scraped line with a week's ration in her and four-tenths of the team's on top of it.
+Healer Aske passed the knee for landings on Wednesday morning, with his thumbs and a grunt, and told her that the strapping stayed on it until he said otherwise; and on Wednesday night Kiva stood on the scraped line with a week's ration in her and four-tenths of the team's on top of it.
 
 It was the thirteenth. She had not lit so much as a strut in a fortnight.
 
@@ -294,7 +298,7 @@ Kiva held up her left hand. The old fingers turned it over in the lamplight, and
 
 "I was listening to the pen."
 
-"I know you were. I watched your head go." Orla straightened, with a grunt. "And then you did the only thing in sixteen goes that I've set you and you've done. You asked yourself the question at the top, you got the wrong answer, and you came down on it. I've seen that ordered a great many times. I've seen it obeyed about twice."
+"I know you were. I watched your head go." Orla straightened, with a grunt. "And then you did the only thing I've set you that you've done. I set you fourteen before tonight; I don't count the foreman's. You asked yourself the question at the top, you got the wrong answer, and you came down on it. I've seen that ordered a great many times. I've seen it obeyed about twice."
 
 "It's another miss."
 
@@ -308,7 +312,7 @@ Noa came out from behind the mast with the tape across both palms. He was trying
 
 "I'd wanted the cross," said Kiva. She had sat up, and she was looking at it. It was a pace away, scratched in the dirt, and she had never yet come down on it in that yard. "I could feel the door. It was there."
 
-"I'm sure it was," said Perrin. "I'd my mouth open. I'd got as far as the *o.*" He lowered himself onto the spare crate with great care. "I'd like you to know that I've never been so pleased to be beaten to a word in my life. I'm putting it on the list of things I don't mind."
+"I'm sure it was," said Perrin. "I had my mouth open. I'd got as far as the *o.*" He lowered himself onto the spare crate with great care. "I'd like you to know I've never been so pleased to be beaten to a word in my life. I'm putting it on the list of things I don't mind."
 
 She laughed, which she had not meant to do, and found that the anger had a crack in it.
 

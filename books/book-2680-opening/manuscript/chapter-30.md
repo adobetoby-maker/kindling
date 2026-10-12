@@ -8,7 +8,7 @@ She looked at Nairn first. She looked for about a second, and then she crouched 
 
 "Below. I felt it go." His voice was thin and careful. "It's standing on the weight. There's a lead weight in that hem and my shin's between the two."
 
-"Then you'll keep still, and you'll not be brave." She stood. "Seven. Faces to me. Is anybody else under anything?"
+"Then you'll keep still, and you won't be brave." She stood. "Seven. Faces to me. Is anybody else under anything?"
 
 "No," said Kiva.
 
@@ -24,7 +24,7 @@ It was a railing, being worked at. Kiva turned. A dozen paces below, on the east
 
 She said it to nobody. Then she turned her head a little, so that the four of them and the man on the ground could hear, and she spoke as Hollis Vane had spoken on a cinder floor, with the same flat care.
 
-"There's a ground-floor front behind that board with people in it. I've no cloth that I can get at and no time to lay one. I'm going to cut it where it stands, on a pavement, over a cellar grating. The ash will go down the grating. It'll foul that building's core, and likely more." She was already moving. "A window before a cellar. That's my trade, and it goes on the slate under my name."
+"There's a ground-floor front behind that board with people in it. No cloth I can get at, and no time to lay one. I'm going to cut it where it stands, on a pavement, over a cellar grating. The ash will go down the grating. It'll foul that building's core, and likely more." She was already moving. "A window before a cellar. That's my trade, and it goes on the slate under my name."
 
 She did not run. She went down the east curb with long, even strides, and stopped a pace behind the thing at the railings, where its shine could not come round to her.
 
@@ -44,7 +44,9 @@ Inside the house with the cracked lintel a handbell began to ring, hard and stea
 
 Rhea was walking back up the hill. Her face showed nothing whatever.
 
-"That's the Pellow on reserve," she said. "Eight-and-forty flats. Now. I've a blade under a Flask." She stopped beside Nairn. "I can't cut what's on him; the legs go last, and if I take the top off this now, sixty drams come down on a man who can't crawl out from under it. I can't walk the gate; the thing would follow it straight across him. I want that leg up a hand's breadth for the count of five, and there isn't a still-door on my van."
+"That's the Pellow on reserve," she said. "Eight-and-forty flats. Now. I've got a blade under a Flask." She stopped beside Nairn. "I can't cut what's on him; the legs go last, and if I take the top off this now, sixty drams come down on a man who can't crawl out from under it. I can't walk the gate; the thing would follow it straight across him. I want that leg up a hand's breadth for the count of five, and there isn't a still-door on my van."
+
+There was one three paces from her. Kiva had set a whole yard under it on Wednesday. Her paper said *not Hold, not Carry,* and nothing of hers open within three paces of a charged cell, on a street with a core under every doorstep; and the woman who had asked to hear that paper at six o'clock did not so much as look round. Kiva kept her hands at her sides.
 
 Perrin had come down the pavement while she spoke. He stood with his arms held away from his ribs, breathing through his mouth.
 
@@ -52,7 +54,7 @@ Perrin had come down the pavement while she spoke. He stood with his arms held a
 
 "I've read your healer's paper."
 
-"So have I. I signed it. I can't, and I'm not going to say that I can; I'd fold in the middle and then you'd have two." He said it steadily, though it plainly cost him. "But there are three up at that gate who lift tram bogies for their living. My father's a still-door. He never went near a Hall. He'd tell you that he only stands under things."
+"So have I. I signed it. I can't, and I'm not going to say I can; I'd fold in the middle and then you'd have two." He said it steadily, though it plainly cost him. "But there are three up at that gate who lift tram bogies for their living. My father's a still-door. He never went near a Hall. He'd tell you he only stands under things."
 
 Rhea looked at him for the space of a breath.
 
@@ -78,7 +80,7 @@ The cord lay across his hip. She drew it clear, a hand's width at a time, and pa
 
 "He lends it out."
 
-"Tell him it's a comfort. It isn't, but tell him." A breath. "I'd my back to you. I was looking for her hand. I ought to have had my eyes on the three of you and I'd them up the hill, like a first-year waiting to be nodded at." His mouth moved. "So don't put all of this in your book. Some of it's mine."
+"Tell him it's a comfort. It isn't, but tell him." A breath. "I had my back to you. I was looking for her hand. I should have had my eyes on the three of you and I had them up the hill, like a first-year waiting to be nodded at." His mouth moved. "So don't put all of this in your book. Some of it's mine."
 
 "I called the lure."
 
@@ -152,7 +154,7 @@ She stood on the west curb and made herself look at all of it at once. That was 
 
 *What's there?*
 
-A string on her gate, eight paces above the place where it had come out. Four wards on that gate, and they had been lit four minutes; Imrie's forearms were already steaming. One Handful, plain, butting the wall at the west end. A tear twenty paces down that had stopped keeping time. A tripped core under forty-eight flats, and a child's physic in a cupboard that was now running on a box the size of a biscuit tin.
+A string on her gate, a little over twenty paces above the place where it had come out. Four wards on that gate, and they had been lit four minutes; Imrie's forearms were already steaming. One Handful, plain, butting the wall at the west end. A tear fourteen paces below her that had stopped keeping time. A tripped core under forty-eight flats, and a child's physic in a cupboard that was now running on a box the size of a biscuit tin.
 
 One blade, where there had been two. Ruddock said both bones. Nairn would walk in the autumn.
 
@@ -160,7 +162,7 @@ And four students on a curb, who had done exactly what a qualifier had taught th
 
 *Whose is that?*
 
-She had asked them in the van what was behind them. She had liked the question. She had thought it rather a neat one, and she had let it lie there for them to pick up, and had turned to the front. *I'll not ask it again tonight.* She had said that. She had underlined three words on a card and promised to say why later, when it mattered.
+She had asked them in the van what was behind them. She had liked the question. She had thought it rather a neat one, and she had let it lie there for them to pick up, and had turned to the front. *I won't ask it again tonight.* She had said that. She had underlined three words on a card and promised to say why later, when it mattered.
 
 It had mattered at about twenty-eight minutes to three. She had been twenty paces up a hill with her hand raised.
 
@@ -170,11 +172,11 @@ It had mattered at about twenty-eight minutes to three. She had been twenty pace
 
 They had come round her. The four students. Pike. Three people in aprons who had not been told to go.
 
-"Sorn. Kill. But not here. This street's a row of lamps with brick over them, and I'll not open sixty drams eight times between two lines of gratings. The wharf has no cellars. I cut there." She turned her head. "Imrie's four. Hold. Pike. Catch, at the wharf, with seven sheets and the last one doubled. Rowan catches second, turn about with him, on her own count. That's her paper to the letter. The reason's the clock: two catchers halve it, and there's a building on its boxes."
+"Sorn. Kill. But not here. This street's a row of lamps with brick over them, and I won't open sixty drams eight times between two lines of gratings. The wharf has no cellars. I cut there." She turned her head. "Imrie's four. Hold. Pike. Catch, at the wharf, with seven sheets and the last one doubled. Rowan catches second, turn about with him, on her own count. That's her paper to the letter. The reason's the clock: two catchers halve it, and there's a building on its boxes."
 
 "Second," said the girl. She had gone white, and her voice held.
 
-"Renn. Corners, for whichever of them is kneeling. You've nothing here to cut and you'll not be asked." He took it without a flicker; she noted that. "Cade. You go up the Pellow's stair to the warden, at a walk. You find me the child at the second-floor front and you tell me what that cupboard's running on and how long it's got. You're the only one here who can be spared to be slow."
+"Renn. Corners, for whichever of them is kneeling. Nothing here for you to cut, and you won't be asked." He took it without a flicker; she noted that. "Cade. You go up the Pellow's stair to the warden, at a walk. You find me the child at the second-floor front and you tell me what that cupboard's running on and how long it's got. You're the only one here who can be spared to be slow."
 
 "And us?" said the man with the mustache.
 
@@ -226,11 +228,11 @@ The girl's mouth opened and stayed open. She looked at the grey column, and then
 
 "Finch. Seven. Lamp." Her chin was shaking. "For the Flask, from twenty paces, and I don't know for how long."
 
-"For about a hundred counts. You'll go down the east pavement, dark, till you're level with that door with the crack. You'll stand in the road and light. When it turns to you, you'll walk backward down the hill and it will follow, and you will never once let it come nearer than four paces, because a lamp can't be leaned on. My line runs round by the west and makes a gate below you. When Imrie says *mine,* you drop. That's the whole of it." Rhea held her eye. "Your file says that you put out a wall on your own count in front of two schools. That's why your name's on my card. It wasn't for what you can hold."
+"For about a hundred counts. You'll go down the east pavement, dark, till you're level with that door with the crack. You'll stand in the road and light. When it turns to you, you'll walk backward down the hill and it will follow, and you will never once let it come nearer than four paces, because a lamp can't be leaned on. My line runs round by the west and makes a gate below you. When Imrie says *mine,* you drop. That's the whole of it." Rhea held her eye. "Your file says you put out a wall on your own count in front of two schools. That's why your name's on my card. It wasn't for what you can hold."
 
-"I can't walk backward downhill past that. I'll look round. I know I shall."
+"I can't walk backward downhill past that. I'll look round. I know I will."
 
-"You'll not need to. I'll have you by the belt." Rhea heard herself say it, and it was simply true. "I'm what's behind you. That's my job tonight, and I'd let it slip. You look at the knot and you count your paces aloud, and you leave the street to me."
+"You won't need to. I'll have you by the belt." Rhea heard herself say it, and it was simply true. "I'm what's behind you. That's my job tonight, and I'd let it slip. You look at the knot and you count your paces aloud, and you leave the street to me."
 
 It was the longest hundred counts that she could remember.
 
@@ -282,7 +284,7 @@ There were two of them. Pru was a lamp. Perrin was on a stair. A team that did t
 
 "Corners," Kiva said to Kellan. "We want two that'll stay dark."
 
-"The shed hands. That pair." He was already beckoning. The tall woman and the thick-necked young man had stopped on the west pavement with one of Pike's sheets between them. "And a lure, and we've no ward."
+"The shed hands. That pair." He was already beckoning. The tall woman and the thick-necked young man had stopped on the west pavement with one of Pike's sheets between them. "And a lure, and we haven't got a ward."
 
 "A blade's a lamp. You've said so."
 
@@ -396,7 +398,7 @@ They brought them up. The grey settled. She did not lose a pinch of it, and she 
 
 By the sixth she could no longer feel her left hand.
 
-It had not gone white. It had only gone away, the whole of it, as it had gone on a Saturday at Stonehand, twelve seconds from time. The cord was in the crook of her elbow and round her right fist, and at the second turn her arm simply opened.
+It had not gone white. It had only gone away, the whole of it, as it had gone once in the spring, at Stonehand, twelve seconds from time. Four necks had been hauled shut across the crook of that elbow since half past two, two of them as thick as her thigh, with the whole drag of each on the one cord, over a nerve that had been emptied on Wednesday and had not finished filling. The cord was in the crook of her elbow and round her right fist, and at the second turn her arm simply opened.
 
 "Cord," she said. "Mine's gone. Pru. Yours, on three."
 
@@ -454,11 +456,11 @@ He turned his square head.
 
 "Say that again."
 
-"It's beating. Like a bank that's been stepped. The others weren't; there was a trace in mine and I'd know it, it was in ours at the Pit. This isn't a trace." She made herself go on. "I can't weigh it. I've no instrument. It's only what comes through the hem."
+"It's beating. Like a bank that's been stepped. The others weren't; there was a trace in mine and I'd know it, it was in ours at the Pit. This isn't a trace." She made herself go on. "I can't weigh it. I haven't got an instrument. It's only what comes through the hem."
 
 Pike looked at the bag between his knees. He laid his broad right hand flat on the neck of it and kept it there for a slow count of ten.
 
-"I've nothing," he said. "I never have had. I catch by the cord." He took the hand away. "But I've a comb in the van, and I've a girl here who told me inside one breath, with her own name going on five tags tonight. That's two reasons to look." He got up. "It goes on the table last, and nobody pans it till I've held a reed over it. Renn. Pole."
+"Nothing," he said. "Never have had. I catch by the cord." He took the hand away. "But there's a comb in the van, and there's a girl here who told me inside one breath, with her own name going on five tags tonight. Two reasons to look." He got up. "It goes on the table last, and nobody pans it till I've held a reed over it. Renn. Pole."
 
 Up the street, somebody shouted.
 

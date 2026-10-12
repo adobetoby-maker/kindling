@@ -20,7 +20,7 @@ It was a painted board, ruled in columns, and somebody chalked it fresh each wee
 
 The man who had spoken was sitting at the end of the long table, mending a cord. He was square and grey-headed and he had been there when they came in. Kiva had known him at once by his back. She had last seen it on a meadow, four paces from a headless Flask, not turning round.
 
-"You read it as you'd read a line of print," he said. He did not look up from the cord. "Was it closed? If one company's closed them all and another hasn't, that's the end of it; you never get as far as the tin. Then lives. Then what was still working in the morning. You only come to the fourth column when the first three are level." He drew a knot tight with his teeth. "You can't buy a column with the one to its right. There's houses that keep trying."
+"You read it as you'd read a line of print," he said. He did not look up from the cord. "Was it closed? If one company's closed them all and another hasn't, that's the end of it; you never get as far as the tin. Then lives. Then what was still working in the morning. You only come to the fourth column when the first three are level." He drew a knot tight with his teeth. "You can't buy a column with the one to its right. There's houses that keep trying. And the last isn't ranked. It's what's written against your name, and it stands there whatever the other four say."
 
 "Then a clean yield—"
 
@@ -62,13 +62,13 @@ It was the first word that Rhea Sorn had ever said to her.
 
 "And the other thing? I was on that floor."
 
-"It isn't on my paper. I've two on a sanctioned mast. My sponsor wants six." She kept her hands still. "I'll not do it tonight for anybody."
+"It isn't on my paper. I've got two on a sanctioned mast. My sponsor wants six." She kept her hands still. "I won't do it tonight for anybody."
 
-"Good. I'll not ask." Rhea hung her coat on a hook. "Hollis Vane asked, and he'd a reason, and he's written it down in two books. I've read the second one; he sent it up. I've no intention of writing a third." She turned to face them, with her back to the map. "You're attached. I'll tell you what that means on my van, since the board's wording is very fine and no use. It means that you fetch, and carry, and catch behind Pike. It means you kill nothing above a Handful, and that only when I've said the word. Nairn's your officer on the ground. If he tells you to stand, you stand, and you ask him why on the way home."
+"Good. I won't ask." Rhea hung her coat on a hook. "Hollis Vane asked. He had a reason, and it's written down in two books. I've read the second; he sent it up. I'm not writing a third." She turned to face them, with her back to the map. "You're attached. I'll tell you what that means on my van, since the board's wording is very fine and no use. It means that you fetch, and carry, and catch behind Pike. It means you kill nothing above a Handful, and that only when I've said the word. Nairn's your officer on the ground. If he tells you to stand, you stand, and you ask him why on the way home."
 
 A young man had come in behind her, tying back his hair. He was perhaps three-and-twenty, long in the leg, with a cheerful, sunburned face, and there was dark metal on a cuff at his wrist.
 
-"That's me," he said. "I was you four years ago. I've not forgotten what it was like, so I'll try to be less terrible than mine was."
+"That's me," he said. "I was you four years ago. I haven't forgotten, so I'll try to be less terrible than mine was."
 
 "You'll be exactly as terrible as is wanted," said Rhea. "Counter. Each of you settles a field dram on the company's meter before we do anything else. Then Pike will have that sheet down in the yard and up again until he's stopped wincing."
 
@@ -82,9 +82,9 @@ On the fifth he stopped beside Kiva.
 
 "Your cord hand. You change your grip at the second turn."
 
-"I've two fingers that don't tell me anything. I start in the hand, and then I have to hook the elbow to—"
+"I've got two fingers that don't tell me anything. I start in the hand, and then I have to hook the elbow to—"
 
-"I know why. I watched you do it at the Pit, from under a string." He held out his own right hand. It was broad and scarred, and there was a groove worn across the palm. "I'd a tendon cut at thirty. That finger's been a passenger ever since. I don't ask it for anything. I took the cord the way I could hold it on my worst day, and I've held it that way every day since, the good ones too." He closed the hand. "A grip you change is two grips, with a moment between when you've got neither. You know about moments between. I'm told that you pay a quarter of a dram a time for one."
+"I know why. I watched you do it at the Pit, from under a string." He held out his own right hand. It was broad and scarred, and there was a groove worn across the palm. "Had a tendon cut at thirty. That finger's been a passenger ever since. I don't ask it for anything. I took the cord the way I could hold it on my worst day, and I've held it that way every day since, the good ones too." He closed the hand. "A grip you change is two grips, with a moment between when you've got neither. You know about moments between. I'm told you pay a quarter of a dram a time for one."
 
 Kiva looked at him.
 
@@ -146,7 +146,7 @@ She asked them on the way back. The van hummed along the embankment, and she tur
 
 Nobody said anything. The van went on through the dark.
 
-"I'll not ask it again tonight," said Rhea, and turned to the front.
+"I won't ask it again tonight," said Rhea, and turned to the front.
 
 ---
 
@@ -206,6 +206,8 @@ It was not an empty dark. She could feel that as she got down. There were people
 
 "They've done a dark drill," said Ruddock, pulling out the satchel. "The wardens ring it on the bell. Lamps out, doors shut, nobody at the front. This street's had the same drill since before there were trams." He nodded at the high wall on the right, where a pair of iron gates stood open on a yard full of sleeping cars. "And that's the sheds."
 
+A low, even hum came out through the gates and down the hill, the sound of a great many cells all keeping one time.
+
 "That's my father's shed," said Perrin.
 
 He said it quite quietly. There were five or six people at the gates, in leather aprons, standing well back in the shadow with their arms folded, and one of them was a short, wide man with a grey mustache who had lifted his hand about an inch when the van stopped and put it down again.
@@ -242,7 +244,7 @@ They went down the west pavement in file, past the Hythe, and Kiva saw how the o
 
 Imrie had walked out onto the crown of the road and stopped there with her hands at her sides. Pike had a sheet under his arm. He did not throw it. He stood for a moment and turned his square head slowly the whole way round, up the hill and down it and along both rows of dark fronts, as a man looks about a room before he sits. Then the canvas went down, and he knelt, and only then did the silver come up between Imrie's palms.
 
-Kiva thought that he was being slow. She had a husk of her own, and a mark to find for it, and she did not think of it again for a quarter of an hour.
+Kiva thought that he was being slow. She had a husk of her own, and a mark to find for it.
 
 She set her mark by the crown of the road.
 
@@ -332,7 +334,7 @@ The leg came down.
 
 There was a sound. Kiva had heard a brake shoe let go once, in a tram yard, when she was small. It was like that, and a good deal shorter.
 
-Then light broke across the street behind her, silver and enormous, and the top knot lifted off the place where Pru had been and went to it. The Flask took one step north. It took another. Its blunt head came to rest against the gate, eight paces up the hill, and it leaned there, and was still.
+Then light broke across the street behind her, silver and enormous, and the top knot lifted off the place where Pru had been and went to it. The Flask's fore legs took one step north, and another. Its hind legs did not move; the one that had come down stayed where it had come down. Its blunt head came to rest against the gate, eight paces up the hill, and it leaned there at full stretch, and was still.
 
 It was standing over them.
 
