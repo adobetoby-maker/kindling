@@ -260,7 +260,7 @@ He had twenty paces of clear oak and a wall beside him. Jude was on one knee. Pe
 
 The struts closed. She left the oak.
 
-It was a low bound, over the corner of Hesketh's wall, to a place four paces ahead of a running boy. She had made it nine times on a mast. She could feel the pier that she meant to come down on.
+It was a low bound, over the corner of Hesketh's wall, to a place four paces ahead of a running boy. She had made it seven times on a mast. She could feel the pier that she meant to come down on.
 
 "*Two.*"
 

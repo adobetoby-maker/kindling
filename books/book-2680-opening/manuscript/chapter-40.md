@@ -48,7 +48,7 @@ Kiva was still sitting with her back to it. Aske had bound the hand in dry linen
 
 Rhea Sorn was sitting on an upturned tub at the end of the table.
 
-She had cut nine rungs since half past two, and she looked it. She had her elbows on her knees and her hands hanging. She did not get up.
+She had cut five rungs since ten past three, each longer than the last, and she looked it. She had her elbows on her knees and her hands hanging. She did not get up.
 
 "I told you on a wharf to go on saying that you couldn't weigh it," she said. "You said it again today. I heard you. *It's only what comes through a neck.* Then you wrote a tag on it."
 
@@ -74,7 +74,7 @@ Lowen Brask came by with a canvas roll on his shoulder. He stopped, and nodded a
 
 "You said nobody showed them."
 
-"I said I wasn't saying anybody did." He went on toward the west gate. "That's not the same. You taught me that. It was in your team's book."
+"I said I wasn't saying anybody did." He went on toward the west gate. "That's not the same. I had that off a catcher who's grown particular about guesses."
 
 Noa came last, down the keeper's stair, with the tape rolled against his chest in both arms.
 
@@ -162,7 +162,7 @@ Ysra Crest had three papers on her desk and her hands folded on them. Orla was i
 
 Kiva sat.
 
-"In the autumn of 2676 I stood at an assessors' table in a yard, and a clerk wrote *Classification deferred* against a girl of thirteen, and under it, since something had to go there, *There isn't a column for this.* I was the one who told him to." The long plain face did not alter. "I have told him the same thing every spring for four years. I told myself that it was caution. Some of it was. A good deal of it was that I had once signed a boy's entry to a Bench because his sponsor was certain, and I had sooner have no column than a wrong one."
+"In 2676 a clerk of this office wrote *Classification deferred* against a girl of thirteen, and under it, since something had to go there, *There isn't a column for this.* The sheet came to me, and I let it stand." The long plain face did not alter. "I have let it stand every spring for four years. I told myself that it was caution. Some of it was. A good deal of it was that I had once signed a boy's entry to a Bench because his sponsor was certain, and I had sooner have no column than a wrong one."
 
 "I know about the Bench," said Kiva.
 
@@ -214,7 +214,7 @@ It was the Ferren who witnessed her. Kiva had not met the old woman before. She 
 
 "It's the other hand. I only hold the paper with this one."
 
-"So I see." The old eyes went down the column, past *Cold,* and *Cold,* and *Cold,* to the one long entry at the head of it, and back. "I sat four-and-thirty years in this chair hearing *nothing* read. I moved against recalling it in the summer, and I'd do so again. But I'll tell you what I told the Sag. A plate that does something is not the plate we've been sitting over." She blotted the line herself. "I'd begun to wonder whether we'd all been asking it the wrong thing. *What does it do.* It's on the first leaf, in print. I've never thought to ask what else was happening when it did."
+"So I see." The old eyes went down the column, past *Cold,* and *Cold,* and *Cold,* to the one long entry at the head of it, and back. "I sat four-and-thirty years in this chair hearing *nothing* read. I laid my fist down against recalling it in the summer, and I'd do so again. But I'll tell you what I told the Sag. A plate that does something is not the plate we've been sitting over." She blotted the line herself. "I'd begun to wonder whether we'd all been asking it the wrong thing. *What does it do.* It's on the first leaf, in print. I've never thought to ask what else was happening when it did."
 
 Kiva looked at her.
 
@@ -272,7 +272,7 @@ Aske took it away. He dried her fingers himself, one at a time, on the towel, an
 
 "So the door on the hill—"
 
-"Was for before. It was a real door. You chose not to go through it, in the seventh month, with your eyes open, and you told your aunt why. I've seen the line; she showed me." He looked at her over the card. "I don't say that you chose wrong. There's a girl walking on a board this morning who'd say otherwise, and she's no friend of yours. I say that it was a choice, and it had a price, and this is the price. I've had patients who wanted me to tell them it was bad luck."
+"Was for before. It was a real door. You chose not to go through it, in the seventh month, with your eyes open, and you told your aunt why. I've seen the line; she showed me." He looked at her over the card. "I don't say that you chose wrong. There's a girl with her leg in a board this morning who'd say otherwise, and she's no friend of yours. I say that it was a choice, and it had a price, and this is the price. I've had patients who wanted me to tell them it was bad luck."
 
 "It wasn't luck."
 
@@ -354,7 +354,7 @@ Anwen was folding the last of the cord. She had watched all that from the handca
 
 "I know. You said he would."
 
-"I haven't told my mother yet. I haven't told anybody." Anwen put the cord down. She looked, for a moment, exactly seventeen. "He opened the drawer. He's got a relief's place on the night van's line from the spring, when I'm out of the Wren House, and he's put my name on it. Not Stroud's seat. One of my own. He said he'd watched a first-year hold a Flask's face for the best part of twenty minutes with three students beside her and it dipped once, at the end, by a hand, and came up."
+"I haven't told my mother yet. I haven't told anybody." Anwen put the cord down. She looked, for a moment, exactly seventeen. "He opened the drawer. He's got a relief's place on the night van's line for next summer, a whole season of it, and he's put my name on it. Not Stroud's seat. One of my own. He said he'd watched a first-year hold a Flask's face for the best part of twenty minutes with three students beside her and it dipped once, at the end, by a hand, and came up."
 
 "It did. I saw it dip."
 
@@ -436,7 +436,7 @@ Kiva had seen twelve needles do that once, on a load board, for two minutes.
 
 She had the trunk book under her arm. She opened it on the sill, between them, at a page ruled in her own hand.
 
-"The Brickfields trunk. Every drum on it, from this door to the Compact Quarter. Nineteen went on Wednesday; I've its baseline for six years, and on Wednesday it stopped being a number and became a beat. Twenty went on Friday. Twenty-one this morning." Her finger moved down the column. "It's walking. A drum every two days, or a little under. It isn't in the copper; they've had links open the whole length. It goes all the same."
+"The Brickfields trunk. Every drum on it, from this door to the Compact Quarter. Nineteen went on Wednesday; I've its baseline for six years, and on Wednesday it stopped being a number and became a beat. Twenty went on Friday. Twenty-one last night." Her finger moved down the column. "It's walking. A drum every two days, near enough. It isn't in the copper; they've had links open the whole length. It goes all the same."
 
 Kiva followed the finger.
 

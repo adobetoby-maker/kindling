@@ -270,3 +270,112 @@ the prose shows is entered here.
   Arkwright ("Reader," she); Mr. Adlam (he); Pike, Nairn and Ruddock of Graywater (he);
   Warden Cobb (she); Dulcie (she) and Stott (he); Brannock (he); Tansy Wold (she); M. Gill
   (he); Pettit (a name only). Perrin's father and the sister of the Even Hand are unnamed.
+
+## Movement Five carried state (chapters 33–40)
+
+Recorded 2026-10-11 from the first draft, by its author, directly after the run.
+**Unreviewed first draft.** The manuscript governs; full detail is in
+`provenance/MOVEMENT-005-CONTINUITY.md`. Only what the prose shows is entered here.
+
+- **Calendar.** The months are numbered on the page from this movement: the Pit was the fifth
+  month, the Weighbridge the sixth; Movement Five runs from Sunday the 1st of the seventh to
+  Monday the 26th of the ninth. Each still has thirty days. The watch sat on the 1st of the
+  seventh; the Chair heard Selka Dray on the 2nd and all parties on the bag on the 3rd. The
+  Regional Measure was Friday the 16th and Saturday the 17th of the ninth month.
+- **The six.** Complete. Four more crossings at 0.31 each (the 2nd, 10th, 17th and 24th of the
+  seventh month; the second of them on the Circuit's Great Floor), one a week, the hand seen
+  the next morning. The practice glass ran 0.94, 0.63, 0.32, 0.01; the hundredth went into the
+  team's next entry. Orla's certificate now adds: one crossing, Ember to still, low, to a
+  mark, declared to a count, on a sanctioned mast read by the Chair's reader, one in seven
+  days; not certified: any stack, any third door, anything she has not seen six times.
+- **Three doors.** Stated on the page before any attempt: a competition (all open, fighting,
+  nobody choosing), a stack (all open, agreeing; soft, cheap, and open to anything near), a
+  sequence (each shut before the next opens, with two gaps). Kiva's order is hand, Ember,
+  still ("catch, carry, plant"), priced at 0.59 whole. Five tries on a sanctioned mast in the
+  eighth month: a jam (0.11), a hand-to-Ember crossing (0.30), an *off* (0.31), a stack at the
+  second transition that she called herself (0.39), and **one clean (0.59, the 29th).** One
+  more on the floor of the Pit on the 17th of the ninth month, under a recorded field
+  direction, after the event was struck. **Not certified, not classified, and by the Chair's
+  written entry "not to be asked of her."**
+- **Body. The cost is paid.** The first two fingers of the left hand have **permanently lost
+  fine sensation**: they bend, grip and report pressure; they do not tell edge from flat, hot
+  from cold, or one thread from two (Healer Aske, the 24th of the ninth month). The rest of
+  the hand returned within two days. Ward-trace ash and rest are both ruled out as remedies.
+  It followed three choices shown on the page: declining the Order's year of rest; spending
+  the week's one crossing in a lane on the 16th; and making two gaps the next day against a
+  card that read *No go before the 23rd,* with the price read out first by her healer and her
+  foreman. She catches with the first two fingers held clear ("passengers"), hands the cord to
+  Pru Finch from the first turn, and needs help with a button.
+- **The disk.** Cold throughout. The Home Line watch heard her entry; a recall for cause was
+  moved and lost two to five. Written by the watch: the plate is held of the Line and borne by
+  K. Rowan; it is not equipment, an instrument or evidence; no hand but the bearer's is laid
+  on it without a vote; the bearer writes in the fourth column within the week after any
+  crossing. One earlier fourth-column line in the night hand has been read: **Thirza Bly,
+  bearer from 2466: "Warm, once, after the first crossing. I have crossed nine times since.
+  Cold."** No cause, door or use is given. The School asked to borrow the plate and was
+  answered from the fourth edition.
+- **The dream.** No recurrence, and no fever on the night of the 17th. The Order of the Even
+  Hand offered a year as a guest of its house, one door, every other shut; Kiva declined and
+  Mara left the offer "on the latch."
+- **Certificate and conditions.** Place, division and sponsor unchanged. Added by the Chair on
+  the 2nd of the seventh month: no second door on any Circuit floor except a crossing declared
+  to a count and read at the time from a sanctioned mast by the office's reader; a stack so
+  read is an incident; not at the Bench; recovery only on any floor with a contained rift. The
+  mast condition is now general, for any candidate with more than one door, under Selka
+  Dray's name. No crossing counts unless the tape shows the cliff; Noa Bexley is reader to the
+  office; Orla keeps her standing.
+- **Stepped ash.** The Weighbridge bag: under three seals (the Works', the wardens', the
+  Chair's) in the Wren House cold room; entered as made in Weighbridge Street; the street
+  advanced 56.5 drams of plain stock by the casualty reserve; one dram each to the reference
+  shelf and the Halden technical office; the patent claim entered and sent to the Compact's
+  court, not ruled on. **New Circuit rules:** any catcher may red-tag a bag on stated grounds
+  ("sufficient to withhold… not sufficient to prove"); no ash above I-trace on any Circuit
+  floor; every Regional dram combed at the gate.
+- **The Regional Measure.** Sixteen fours, four boards. Lane: Seven beat Old Four 8–7 and
+  lost to Halden 8–6 (Kellan touched Kiva in the gap at the top of a declared crossing; a
+  down; the crossing begun and not landed; not a stack; no incident). Bench: Seven third
+  without Kiva. Carry: sixth. The Call was struck at 2:21 on the 17th and closed at 3:10 by
+  the Home Line. **Result, read on three boards: 1. Halden License. 2. Old Four (att.). 3.
+  Team Twenty-Eight. 4. T7 (att.).**
+- **The hold.** During the Call four skinned husks, two of them unordered, stood a square
+  over the Pit's race with a white cord run from each to the next and a tear inside it,
+  outside the lattice. Lowen Brask, back from a summer on Home Line holds, named it. Selka
+  Dray cut one corner inside her step on her catcher's word and was pinned by the cord (left
+  leg above the knee, the bone, and a burn of cold). Kiva took the cord off her with the
+  three-door sequence and held the corner ten counts; Perrin and Wilf Marten got Dray out;
+  Kellan, Jude Talley and Gower cut the other three posts on Kiva's word as she released;
+  Anwen called a four-ward student gate that took the new string; the closing crew closed
+  the tear; Rhea Sorn and Halden's foreman cut two strings; each team bagged a rung. Nobody
+  on the page says why spawn stood a hold. The Home Line has suspended held tears.
+- **Instrument evidence.** At the Pit every lamp on the dead rim showed a point of light once
+  (the keeper's second T-0 on that ring) and all sixteen pens notched eleven seconds after
+  Kiva's second cliff; Mr. Adlam of the Halden technical office saw it and has written so
+  under his own name. No notch followed the crossing on the Great Floor. Unexplained.
+- **The grid.** The Ferren pump bank (twenty-four cells) went into step when the hold stood
+  and **has not come out**, though its link was open; the pumps have not dropped a stroke.
+  The Step is spreading along the Brickfields trunk at about a drum every two days (nineteen,
+  twenty, twenty-one), with nine drums left before the Crooked Line School's core house.
+  Nobody knows how to take a bank out of step.
+- **Team Seven.** Fourth at the Regional; **still second step, attached** to Rhea Sorn, who
+  has made no offer. Book: 2.0 sealed medical (W), never opened; **held 5.62; 18.0 credited
+  from the Pit's pooled clean ash** (24.0 to each team; 6.0 by name to Jude Talley). Spent in
+  this movement: 1.24 on four crossings, 2.1 on three Kennel floors, 1.0 returned at par to
+  Weighbridge Street for the Pellow's boxes, 1.29 on three whole three-door tries (of a line
+  of 1.8 that Perrin first refused and then proposed with his own brake). Seven's own rung
+  from the Pit is red-tagged, stepped, on Kiva's tag. Jude stood the Regional as Kill by
+  name; Anwen stood the Hold on her own terms; Kellan cut for Halden until the floor was
+  struck and then declared for Seven under rule nineteen.
+- **People.** Mara passed her re-sit on the 7th of the ninth month (Grade Two restored, the
+  left her reading hand) and is reading the bank for Examiner Rusk. Anwen finished Mace's
+  line without a dip and has a relief's place on the night van's ward line for next summer;
+  she is "done minding" and has "not forgotten." Kellan has not answered Halden's offer of its
+  yard for the winter. Perrin is passed to lift and tries the plate on the 29th. Orla wrote
+  four lines to Jessamy Hart; no answer. Ysra Crest was a ward-holder on the 2660 Bench and
+  had signed Hart's entry; she countersigned Orla's account of the hand, and has opened a page
+  headed *Witnessed* with one entry. Selka Dray is unpersuaded and says so.
+- **Words.** "A hold," "the hem" and "the corner" for the spawn square; "the fold" and
+  "passengers" for the ward grip; "the Call"; "the Row"; "the Alderman"; "a step glass."
+- **Names and pronouns introduced (author's choice, pending owner review).** Thirza Bly
+  (she); Wilf Marten (he); Hesketh (she), Yarrow (he) and Foreman Birch (he) of the Halden
+  license four, with Pettit (he) now on the page; Wace (he) of Old Four; Tibb and Stiles (he)
+  of Graywater's ward line. The watch officers go by their watches (the Ferren is she).

@@ -334,7 +334,7 @@ She would be asked. She had sat on enough floors to know it. There was a foreman
 
 And the other?
 
-*I have seen it once. I have seen it missed four times, and the last miss she called before her reader did. It costs six-tenths and a hand. It is not on her paper and I'll not put it there. Cade can stop it. So can I. So can she.*
+*I have seen it once. I have seen it missed three times, and the last miss she called before her reader did. It costs six-tenths and a hand. It is not on her paper and I'll not put it there. Cade can stop it. So can I. So can she.*
 
 That was all of it. It was not much to say across a floor. It had the merit that every word had happened.
 

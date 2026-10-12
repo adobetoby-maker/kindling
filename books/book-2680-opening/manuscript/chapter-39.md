@@ -60,13 +60,13 @@ Vane's head came round.
 
 "That's three doors."
 
-"Hand, Ember, still. One after another, with nothing open between. It isn't on my paper." She made herself say the rest in the same voice, as she had said it to him once across forty paces of a spring morning. "I've done it once. In a yard, with a sandbag, on the twenty-ninth of last month. I've missed it four times. It costs six-tenths of a dram; I've a whole one, I've spent nothing. And it's two gaps. I had one yesterday at three o'clock that didn't land. My healer's card says no go before the twenty-third."
+"Hand, Ember, still. One after another, with nothing open between. It isn't on my paper." She made herself say the rest in the same voice, as she had said it to him once across forty paces of a spring morning. "I've done it once. In a yard, with a sandbag, on the twenty-ninth of last month. I've missed it three times. It costs six-tenths of a dram; I've a whole one, I've spent nothing. And it's two gaps. I had one yesterday at three o'clock that didn't land. My healer's card says no go before the twenty-third."
 
 "Sponsor," said Vane. He did not raise his voice. "What's she passed for?"
 
 Orla was at the east rail, above them. She had got up out of her seat when the cord fell. She stood with both hands on the head of her stick.
 
-"Recovery. Dark hands. One crossing, Ember to still, on a week's rest, and she spent that yesterday in a lane." It came down flat and clear, every word of it, like something that had been said over beforehand to a post. "The other I have seen once. I have seen it missed four times, and the last miss she called before her reader did. It is not on her paper and I shall not put it there. Cade can stop it. So can I. So can she." The stick shifted. "And I'll say what I didn't say on a floor twenty years ago. I don't know that it will work."
+"Recovery. Dark hands. One crossing, Ember to still, on a week's rest, and she spent that yesterday in a lane." It came down flat and clear, every word of it, like something that had been said over beforehand to a post. "The other I have seen once. I have seen it missed three times, and the last miss she called before her reader did. It is not on her paper and I shall not put it there. Cade can stop it. So can I. So can she." The stick shifted. "And I'll say what I didn't say on a floor twenty years ago. I don't know that it will work."
 
 "Healer."
 
