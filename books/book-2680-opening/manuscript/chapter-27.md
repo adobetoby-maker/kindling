@@ -248,7 +248,7 @@ Kiva laid two fingers of her right hand on her breastbone.
 
 "Rowan, changing on three. Ember, to still."
 
-It sounded very small. She had last said it across an arena to eleven hundred people. There were five here, and a brass head on three legs, and a post that leaned.
+It sounded very small. She had last said it across an arena to eleven hundred people. There were four here, and a brass head on three legs, and a post that leaned.
 
 The mast ticked behind her. She had her back to it, on Orla's terms.
 
