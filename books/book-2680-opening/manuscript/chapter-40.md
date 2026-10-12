@@ -10,11 +10,11 @@ The bags stood in two rows along the tinning table. One row had white tags. The 
 
 He turned the slate a little to the light.
 
-"*Lives: none lost. Hurt: Dray, blade, the left leg above the knee, the bone, and a burn of cold. Rowan, catcher, the left hand; see the direction. Works: the race dropped an hour and ten minutes by the keeper. The Row quenched, twelve boxes, by the keeper; none fouled. The Ferren bank in step since twenty past two and not come out; that is the Works' to enter, and I have told them so.*"
+"*Lives: none lost. Hurt: Dray, blade, the left leg above the knee, the bone, and a burn of cold. Rowan, catcher, the left hand; see the direction. Works: the race dropped an hour and ten minutes by the keeper. The Row quenched, twelve boxes, by the keeper; none fouled. The Ferren bank in step since twenty past two and not come out; that is the Municipal Works' to enter, and I have sent to tell them so.*"
 
-There was a man in a black coat standing by the load board with his hat in his hand. He inclined his head.
+There was a man in a black coat standing by the load board with his hat in his hand. It was Halden's glass that had found it. He inclined his head.
 
-"*Tinned, clean: five hundred and twelve drams. Put by, red, on catchers' words and a comb: five hundred and three and seven-tenths. And a ring of something that is not in the yield book, swept under the Chair's seal, which nobody here has a name for.*" He turned the slate over. "*Remarks: one. A blade cut a husk inside her step, on her catcher's word, before the foreman had read the floor. The foreman had not called a stand. The remark is the event's.*"
+"*Tinned, clean: five hundred and twelve drams. Put by, red, on catchers' words and a comb: five hundred and three and seven-tenths. And a ring of something that is not in the yield book, swept under the Chair's seal, which nobody here has a name for.*" He turned the slate over. "*Remarks: one. A blade cut a husk inside her step, on her catcher's word, before the foreman had read the floor. The foreman had not called a stand. The safety officer called one to that team as the catcher's hand fell, too late to govern. The remark is the event's.*"
 
 "That's not right," said a voice from the cart.
 
@@ -22,13 +22,13 @@ They had not yet taken Selka Dray away. She had refused to go until it was read.
 
 "It was my cut. I'll have it under my name."
 
-"You'll have the cut under your name, Miss Dray. It's in the kill line, with the others, and it was as clean as any I saw today." Vane did not look round. "The remark is for a thing done wrong. You did what a second-step blade is taught to do with a Handful that has its back to her. The floor was wrong. I'd a company on it and I hadn't read it. That's whose it is."
+"You'll have the cut under your name, Miss Dray. It's in the kill line, with the others, and it was as clean as any I saw today." Vane did not look round. "The remark is for a thing done wrong. You did what a second-step blade is taught to do with a Handful that has its back to her. A Torch keeping a floor safe may stand any student on it, and Sorn did, and it reached you with your foot already going down. The floor was wrong. I'd a company on it and I hadn't read it. That's whose it is."
 
 Dray said nothing. After a moment the thin boy on the cart's step put his hand on the edge of the stretcher, and she let him.
 
 "Now the pot," said Vane. "It was struck. A struck floor's shared the Line's way, and I'll say what that is, since three of you have a house's paper and will want it said. It isn't shared by who was kneeling where. Everything clean goes in one, and it's divided by the standing rule." He read the figures off the back of his hand. "The civic half, two hundred and fifty-six. The casualty reserve, sixty-four. The schools, ninety-six. The teams, ninety-six. That's four-and-twenty to a team. Halden's four tinned more of it than anybody. They'll draw the same as Seven, who tinned a rung that's wearing a red tag."
 
-"The Works does not object," said Mr. Adlam.
+"The Halden Works does not object," said Mr. Adlam.
 
 "I'd have been surprised," said Birch, beside him, rather sourly. "It was my four tinned it."
 
@@ -58,7 +58,7 @@ She had cut five rungs since ten past three, each longer than the last, and she 
 
 Kiva did not know what to say to that.
 
-"I'm not offering you anything," said Rhea. "You're seventeen, with a hand in a cloth. Seven's still mine. The board will want a Flask stood on my own van before it takes the brackets off, and it's right to. I only wanted it said by somebody who'd know." She looked at her own hands. "I burned that card."
+"I'm not offering you anything," said Rhea. "You're seventeen, with a hand in a cloth. Seven's still mine. The board will want a Flask stood on my own van before it takes the brackets off, and it's right to. I only wanted it said by somebody who'd know." She looked at her own hands. "I burned that card. The one with two words on it about you."
 
 "You said you would."
 
@@ -84,11 +84,11 @@ He did not unroll it. He sat down on the cinders in front of her, cross-legged, 
 
 "And after?"
 
-"You know what's after. You saw the lamps." His narrow face was grey with tiredness. "It's on all sixteen. Every pen on the drum. A hair, at one instant, eleven seconds on from the second cliff. Fifteen of them were people standing dark against a wall or running with a casualty. One was you, sitting down." He swallowed. "Adlam saw it. He wasn't looking at his own glass. He was looking over my shoulder, and he said, *There,* before I did."
+"You know what's after. You saw the lamps." His narrow face was grey with tiredness. "It's on all sixteen. Every pen on the drum. A hair, at one instant, eleven seconds on from the second cliff. That's the instant you said *back.* Three of those pens were blades cutting a post. Four were wards bringing up a gate. Two were running with a casualty, and one was the casualty. Five were standing dark against a wall. One was you, with everything just shut. It's the same hair on every one, lit and dark alike." He swallowed. "Adlam saw it. He wasn't looking at his own glass. He was looking over my shoulder, and he said, *There,* before I did."
 
 "What does he want?"
 
-"Nothing. That's the thing about him." Noa rubbed his eyes. "He's written to the Chair. He showed me. It's four lines, and it's under his own name and not the Works'. It says that he was present and saw sixteen pens move together with nothing lit on the floor, and that he knows of no fault in a mast that would do it. He says that he'd like to be second, when I've something to print."
+"Nothing. That's the thing about him." Noa rubbed his eyes. "He's written to the Chair. He showed me. It's four lines, and it's under his own name and not Halden's. It says that he was present and saw sixteen pens move together, on hands lit and dark alike, and that he knows of no fault in a mast that would do it. He says that he'd like to be second, when I've something to print."
 
 "Have you?"
 
@@ -126,7 +126,7 @@ At eleven Mara put the sheet away, with nothing on it but the date.
 
 "What did you hear?"
 
-"*In step.* And *not come out.*" Mara turned down the lamp. "Go to sleep. It isn't yours. It's the Works', and for once I'm glad to be the one of us who's licensed."
+"*In step.* And *not come out.*" Mara turned down the lamp. "Go to sleep. It isn't yours. It's the Municipal Works', and for once I'm glad to be the one of us who's licensed."
 
 The wrist came back on Sunday, toward evening, like a tide coming up a slip. The palm came on Monday morning, and the thumb with it, and the last two fingers. By the time she had her boots on she could feel the lace in them.
 
@@ -170,7 +170,7 @@ Kiva sat.
 
 "No, ma'am."
 
-"But I've been using *no column* as a reason to write nothing, and that was wrong, and I've been shown that it was. By a catcher's tag, and a night clerk called R., and a watch that put *cost* back into a ledger." She laid her finger on the first of the three papers. "So I've opened a page. It isn't a class. It has a heading, which is *Witnessed,* and it has ruled lines, and what goes on them is what was done, where, on whose direction, what it cost, and who read the tape. It has one entry. I'll not have a second written on it by anybody who wasn't there."
+"But I've been using *no column* as a reason to write nothing, and that was wrong, and I've been shown that it was. By a catcher's tag, and a night clerk called R., whose margin Mr. Bexley copied into the note that I have on file, and a watch that put *cost* back into a ledger." She laid her finger on the first of the three papers. "So I've opened a page. It isn't a class. It has a heading, which is *Witnessed,* and it has ruled lines, and what goes on them is what was done, where, on whose direction, what it cost, and who read the tape. It has one entry. I'll not have a second written on it by anybody who wasn't there."
 
 "What does it change?"
 
@@ -354,7 +354,7 @@ Anwen was folding the last of the cord. She had watched all that from the handca
 
 "I know. You said he would."
 
-"I haven't told my mother yet. I haven't told anybody." Anwen put the cord down. She looked, for a moment, exactly seventeen. "He opened the drawer. He's got a relief's place on the night van's line for next summer, a whole season of it, and he's put my name on it. Not Stroud's seat. One of my own. He said he'd watched a first-year hold a Flask's face for the best part of twenty minutes with three students beside her and it dipped once, at the end, by a hand, and came up."
+"I haven't told my mother yet. I haven't told anybody." Anwen put the cord down. She looked, for a moment, exactly seventeen. "He opened the drawer. He's got a relief's place on the night van's line for next summer, a whole season of it, and he's put my name on it. Not Stroud's seat. One of my own. He said he'd watched a first-year hold a Flask's face from the fall of that hold until the tear was shut, the best part of forty minutes, with three students beside her. He said it dipped once, at the south end, by a hand, and came up."
 
 "It did. I saw it dip."
 
@@ -390,7 +390,7 @@ Jude Talley had come for his line. He stood by the dresser with his cap in his h
 
 "Then you've earned the tenth."
 
-Kellan had come in his own coat. He had a letter in the pocket of it, on good paper, and he had read it to them before the book was opened. *The Works releases Mr. Renn from his entry, the Measure having been struck, with its thanks, and encloses his stipend to the 17th. It would expect nothing else of him.*
+Kellan had come in his own coat. He had a letter in the pocket of it, on good paper, and he had read it to them before the book was opened. *The Halden Works releases Mr. Renn from his entry, the Measure having been struck, with its thanks, and encloses his stipend to the 17th. It would expect nothing else of him.*
 
 "They want the jacket back," he said. "I've had the cord sewn onto the cuff again first. Birch has asked whether I'd take the yard for the winter. Tuesdays and Thursdays, a contained string, nothing owed." He was looking at the green cover. "I haven't answered. I'm doing the sum. I learned more in that yard in eleven weeks than in two years of being excellent by myself. I also turned my back on it in front of eleven hundred people."
 
@@ -428,7 +428,7 @@ Kiva had seen twelve needles do that once, on a load board, for two minutes.
 
 "Then what's wrong with it?"
 
-"Nothing, yet. That's what's wrong with it." Mara took her hand away. "A bank that keeps one time is one engine. That's very fine in a refinery, where there's an operator with his hand on it and a spare bank behind. This is a municipal bank. It was built so that a cell could fail and its neighbors never know. Now if one drifts, all four-and-twenty drift. If one's fouled, I don't know what the other three-and-twenty do." She came back up the room. "Rusk has had the Works' best in here since Sunday week. He's had a man from Halden's technical office, who was very civil and of no use at all. They can't take it out. Nobody's ever taken one out. They can quench the lot and fill them fresh, and that's four hours with no pumps, in a wet autumn."
+"Nothing, yet. That's what's wrong with it." Mara took her hand away. "A bank that keeps one time is one engine. That's very fine in a refinery, where there's an operator with his hand on it and a spare bank behind. This is a municipal bank. It was built so that a cell could fail and its neighbors never know. Now if one drifts, all four-and-twenty drift. If one's fouled, I don't know what the other three-and-twenty do." She came back up the room. "Rusk has had the best of the Municipal Works in here since Sunday week. He's had a man from Halden's technical office, who was very civil and of no use at all. They can't take it out. Nobody's ever taken one out. They can quench the lot and fill them fresh, and that's four hours with no pumps, in a wet autumn."
 
 "And they won't."
 

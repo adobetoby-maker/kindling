@@ -122,7 +122,7 @@ A plank with a man at each end. Push one, and the other had it. So nobody could 
 
 "Brask. He's the one who calls the step." She had said it quietly. She said it again in a carrying voice, as Jude had asked, as she would have called a mark across a street. "*We take a corner! Brask's! I stop him where he stands! Jude, you'll have a count of two on his back, and you come from behind the wall!*"
 
-Several hundred people heard it. On the reserves' benches at the west side, a girl with cropped red hair had a notebook open on her knee, and beside her a thin boy in Wren House green was watching the floor with his chin on his fist.
+Several hundred people heard it. On the reserves' benches at the west side, Selka Dray had a notebook open on her knee, her cropped red head bent over it, and beside her a thin boy in Wren House green was watching the floor with his chin on his fist.
 
 "That's very loud," said Perrin.
 
@@ -164,7 +164,7 @@ He stopped. For the first time that morning his face changed. He leaned, and she
 
 "Hm," said Brask.
 
-He could not go round her. He had a wall on his shoulder. He could not put it down; Wace was under the other end, already stepping, and Gower was inside with a dummy's feet in his hands. The plank walked a pace at one end and stood still at the other, and Edda's wall stretched between them, thinner and thinner, like dough.
+He could not go round her. He had a wall on his shoulder, and this time he had walked into her stop before he knew that it was set. A man who is leaning cannot slide out from under what he carries. He could not put it down; Wace was under the other end, already stepping, and Gower was inside with a dummy's feet in his hands. The plank walked a pace at one end and stood still at the other, and Edda's wall stretched between them, thinner and thinner, like dough.
 
 Anwen laid her own ward against it, edge on, exactly where it was thinnest. She did not strike. She leaned.
 
@@ -214,7 +214,7 @@ Lowen Brask came across the floor while they were still getting their breath. He
 
 He went back to his four.
 
-Kiva watched him go. On the reserves' benches the red-haired girl had shut her book.
+Kiva watched him go. On the reserves' benches Selka Dray had shut her book.
 
 She wrote it down in the interval, on her knee. She put it on the right, where things went that she did not yet understand the use of, and Jude called her for the draw before she had blotted it.
 
@@ -260,7 +260,7 @@ He had twenty paces of clear oak and a wall beside him. Jude was on one knee. Pe
 
 The struts closed. She left the oak.
 
-It was a low bound, over the corner of Hesketh's wall, to a place four paces ahead of a running boy. She had made it seven times on a mast. She could feel the pier that she meant to come down on.
+It was a low bound, over the corner of Hesketh's wall, to a place four paces ahead of a running boy. She had made it six times on a mast, and a seventh as the back half of a longer thing. She could feel the pier that she meant to come down on.
 
 "*Two.*"
 
@@ -302,7 +302,7 @@ There was a white flag at the rail of the south tier. He was holding it as high 
 
 She knelt for ten. Pettit had put the Alderman over the south line by the time she reached six.
 
-The third carry she fought on the still door and nothing else, and they took it three to one, which was not enough. Jude got Kellan's forearm, for a half, and looked as pleased as if it had been a down.
+The third carry she fought on the still door and nothing else, and they took it three to nought, which was not enough. Jude got Kellan's forearm, for a half, and looked as pleased as if it had been a down.
 
 "Halden license, eight. Team Seven, six."
 
@@ -328,17 +328,17 @@ The two fingers were white to the knuckle, and blue at the nails. They had been 
 
 He stood quite still.
 
-"How often are you let?"
+"Then a go that doesn't land still spends the hand."
 
-"One in a week."
+"It spends it the same."
 
-"And that was—"
+"And you've one in the week. So that was—"
 
 "Yes."
 
 She watched it reach him. He had a column for most things. He had not had one for this. He had found the one moment in which she could not be touched and had touched her in it, fairly, as he had said that he would; and she had paid a quarter of a dram and a week's worth of hand, and he had taken a point for it in a game.
 
-"I didn't know it was the week's," he said. "Nobody on a floor ought to know that. I'd not have—" He stopped. "No. I would have. That's the worst of it. I'd have done exactly the same and felt sick first."
+"I didn't know it took the week whether you landed or not," he said. "Nobody on a floor ought to know that. I'd not have—" He stopped. "No. I would have. That's the worst of it. I'd have done exactly the same and felt sick first."
 
 "I'd have thought the less of you."
 

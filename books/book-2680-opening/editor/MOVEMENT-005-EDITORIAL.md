@@ -44,7 +44,7 @@ l.261–331). The pin, the penny, the cup and the cord (ch 40, l.225–289). Str
 bag hearing once it becomes rulings one to seven (ch 34, l.101–125). The middle run of weekly
 goes: the same ritual of step, thread, count, tape and hand comes round nine times, and by
 the seventh crossing the book itself says "there was nothing new in it" (ch 35, l.9). The
-three Regional boards after the Halden lane are summary. Chapter 40 gives eleven closing
+three Regional boards after the Halden lane are summary. Chapter 40 gives seven closing
 scenes before the one that opens the next problem.
 
 **Who matters.** Kiva. Then Perrin and Anwen. Kellan in two scenes. Selka Dray is the
@@ -71,10 +71,10 @@ forecast, and they are not averaged.
 | Interest / freshness | 7 | ch 36, l.3–109 | A sandbag with an inked face and a first-year who is better at one thing than the lead. The paper scenes (ch 34, l.101–125) are the flat stretch. | Medium |
 | Clarity / flow | 5 | ch 34, l.3–131; ch 39, l.469–481 | More than forty named people (hand tally), many pointed at by description ("a square man had said it to her in a hall yard," ch 36, l.99). "The Works" means two bodies. | Medium-high |
 | Character attachment | 8 | ch 35, l.333–341; ch 34, l.263 | Perrin's no, meant properly. Kiva admitting she wants it. | High |
-| Humor / warmth | 8 | ch 39, l.305–309; ch 40, l.339–347 | "You've a voice like a tram." "I've been saving it." A cuff done up without gentleness. | High |
+| Humor / warmth | 8 | ch 39, l.305–307; ch 40, l.339–347 | "You've a voice like a tram." "I've been saving it." A cuff done up without gentleness. | High |
 | Action / suspense | 7 | ch 38, l.239–373; ch 39, l.195–257 | One clear picture (a sheet stood on end) and a counted catch. The long spoken consent in the middle of a crisis will test patience. | Medium |
 | Progression payoff | 7 | ch 35, l.257–279; ch 39, l.195–257 | Six landings buy one line on a paper; the new thing is used once and costs two fingers. Earned, and deliberately small; no rank moves. | Medium |
-| Connection | 7 | ch 39, l.431–453; ch 40, l.325–349 | Pru finds "the fifth" herself; Stroud's question is answered three months on. Many callbacks need chapters 1–32 fresh in mind. | Medium |
+| Connection | 7 | ch 39, l.427–453; ch 40, l.325–349 | Pru finds "the fifth" herself; Stroud's question is answered three months on. Many callbacks need chapters 1–32 fresh in mind. | Medium |
 | Read-aloud quality | 6 | ch 35, l.173; ch 34, l.87 | Counts and calls are built for the voice. "Tuesday, isn't it? The sixth" sounds like a date. Unnamed referents and long ruling paragraphs cost a listener. | Medium |
 
 ### An adult genre reader
@@ -211,9 +211,9 @@ page and sit badly with Perrin's five minutes.
 **Method actually used.** Paragraphs and sections were counted from line numbers: in these
 files every paragraph is one line and every second line is blank, so a section running from
 line *a* to line *b* holds (*b* − *a*)/2 + 1 paragraphs. Viewpoint segments were identified
-by reading. Development beats were identified by reading and are listed, not pattern-matched.
-The movement's word total (45,623, `wc -w`) is the author's figure from the Movement Five
-checkpoint and was not re-run.
+by reading. Development beats were identified by reading and are listed below, not
+pattern-matched. The movement's word total (45,623, `wc -w`) is the author's figure from the
+Movement Five checkpoint and was not re-run.
 
 | Measure | Target | Observed | Status |
 |---|---|---|---|
@@ -225,11 +225,38 @@ checkpoint and was not re-run.
 | Sections | — | 46 (5, 5, 5, 7, 5, 6, 5, 8) | Hand count; agrees with the checkpoint |
 | Mean section length | ~950 words | about 992 words (45,623 ÷ 46) | Derived, as above |
 | Section size range | — | 9 paragraphs (ch 40, l.205–221) to 78 (ch 39, l.103–257) | Hand count, in paragraphs |
-| Secondary viewpoint | ~13% of the book, 4–5 lenses at 2.5–3.7% | Six sections, one lens each: Vane, Kellan, Anwen, Orla, Rhea, Perrin. 207 of 1,623 paragraphs, 12.8%. Author reports 13.7% by words. | Segments verified; word share not re-run |
+| Secondary viewpoint | ~13% of the book, 4–5 lenses at 2.5–3.7% | Six sections, one lens each (below). 207 of 1,623 paragraphs, 12.8%. Author reports 13.7% by words. | Segments verified; word share not re-run |
 | Progression vocabulary per 10k; by thirds | ~58; front-loaded 1.7× | — | **UNMEASURED**; no lexicon was available to this session |
 | Lead development moments | 4.5 per 10k (regex proxy) | 29 identified by reading, about 6.4 per 10k; by chapter 2, 3, 4, 5, 3, 2, 4, 6 | Manual, inclusive; not comparable with the proxy |
 | Supporting development | 8–10 characters, small beats each | Beats found for at least twelve: Anwen, Orla, Kellan, Perrin, Mara, Dray, Ysra, Pru, Jude, Rhea, Vane, Brask | Manual; no one character dominates |
 | -ly words, reporting verbs, combat terms, fillers, repeated phrases | optional signals | — | **UNMEASURED** |
+
+**Secondary viewpoint sections (line ranges, paragraphs).** Vane, ch 33, l.3–81 (40).
+Kellan, ch 34, l.161–219 (30). Anwen, ch 35, l.61–125 (33). Orla, ch 36, l.301–345 (23).
+Rhea, ch 38, l.147–235 (45). Perrin, ch 39, l.261–331 (36). All other sections are Kiva's.
+
+**Lead development beats, as identified.**
+- Ch 33: leaves her prepared answer unsaid and asks for a pen on every floor (l.163–167);
+  sees the Chair's stool as "the pen again… only a larger one" (l.235).
+- Ch 34: says "I can't weigh it" in a full room (l.57); declines the Order's year, "Nobody
+  told me to" (l.263–277); learns a floor has a behind underneath and sets the stance by its
+  corners (l.327–337).
+- Ch 35: asks Jude his price and leaves the Hold line bare (l.27–53); knocks, and asks Anwen
+  with the bad answer stated (l.133–161); refuses the stack offered as thrift (l.207–219);
+  puts the speech away and asks Perrin what the ash should buy (l.337–341).
+- Ch 36: finds the rim she could not feel and asks a first-year to teach her (l.75–97);
+  calls "One" on her own stack (l.191–195); makes the clean three-door (l.227–257); stops
+  minding the cold plate (l.381); tells Kellan to go for the gap (l.415).
+- Ch 37: reads the box as a plank and calls the corner aloud (l.81, l.123); finds that being
+  put down does not matter (l.193); asks "Is it clean?" and calls off in the gap (l.285–291).
+- Ch 38: tells the foreman her two fingers and the cord arrangement unasked (l.95); owns
+  "take a corner" and names the purse sheet (l.361–373).
+- Ch 39: "It wants catching," with every limit stated, then "I'm frightened… Then yes"
+  (l.55–99); feels the beat stay behind the door (l.231); writes the red tag under her own
+  name (l.465–467); "entirely in the open, and she had done it herself" (l.517).
+- Ch 40: "I can't weigh it" becomes Noa's heading (l.97–101); "It wasn't luck" (l.277);
+  "Cord. Pru. Yours. All of it." (l.313); answers Stroud without a shine (l.335); catches
+  "I'd take the yard" as it leaves her (l.401–405); writes "Hand as before" (l.481).
 
 **What can be said without numbers.** The POV shape matches the brief: no second lead, no
 secondary section sustained, two chapters with none. Six lenses in one movement is more than
@@ -240,14 +267,14 @@ are speeches: the River Flats' motion (ch 33, l.35), the Chair's rulings (ch 34,
 Orla's three ways (ch 35, l.287). New mechanics are still being taught in what is likely the
 book's last third (the three ways, the fold, the plank, the hold), each at a turning point.
 Ledger and tape vocabulary recurs at every go; whether that breaks the front-loaded shape
-cannot be said until it is counted. "That" as a spoken and reported connective appears
-habitual (ch 33, l.119 has three in one sentence); the formula asks for less of it, not more.
+cannot be said until it is counted. "That" as a reported-speech connective appears habitual
+(ch 33, l.119 has three in two sentences); the formula asks for less of it, not more.
 
 **For the measured run.** Use the scripts and lexicons already used for Movements One to
 Four if they are saved, so definitions stay equal; this session did not open them. Whatever
 is used, publish: the sentence splitter (and how it treats "Mr.", initials, "Tues.", and a
 question mark inside a quotation followed by a lower-case tag); the syllable estimator; the
-project progression lexicon; and the six secondary sections by line range as given above.
+project progression lexicon; and the six secondary sections by the line ranges above.
 
 ## 5. Repair brief (three priorities)
 
@@ -257,7 +284,7 @@ length.
 ### Priority 1 — Make the Pit hold to its own stated facts
 
 - **Location.** Ch 38, l.197–239 and l.359; ch 39, l.33–41, l.161–165, l.265–277, l.301,
-  l.353, l.383–391; ch 40, l.87–91.
+  l.353, l.383–391; ch 40, l.87–91; and for Perrin, ch 36, l.303 and ch 38, l.49.
 - **Observed.** The knot rate and budget do not fit the time the dialogue takes. One line of
   sight is thirty, forty and eighteen paces. The third rung's bag is left open. The page does
   not say where the wall stands once the corner is carried. The notch is timed to an instant

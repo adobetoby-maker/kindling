@@ -2,14 +2,78 @@
 
 > Built by TAC
 
-Edition: **first draft, 2026-10-11**, chapters 33–40, written by Claude Opus 5.5
-(`claude-opus-5-5`) directly after the run, from the prose as it stands. **Unreviewed.** No
-editorial review, cold read, metric scoring, repair, recheck or frozen edition exists for this
-movement. Where this file and the manuscript ever disagree, the manuscript governs. This file
+Edition: **repaired, 2026-10-11**, chapters 33–40. First written by Claude Opus 5.5
+(`claude-opus-5-5`) directly after the drafting run, and reconciled the same day by the same
+model to the one consolidated same-author repair (`editor/MOVEMENT-005-REPAIR-REPORT.md`).
+**Repaired and targeted-rechecked.** The first draft is frozen, unchanged, at
+`editions/movement-005-pre-repair/`. An informed editorial review and a simulated cold read
+exist; the targeted recheck passed all three priorities with five clause-level prose corrections and two record corrections applied. Where this file and the manuscript ever disagree, the manuscript governs. This file
 is not manuscript. It carries forward `provenance/MOVEMENT-001-CONTINUITY.md` through
 `provenance/MOVEMENT-004-CONTINUITY.md`; anything not restated here stands as recorded there.
 
 Purpose: a handoff for the Movement Five review and for the Movement Six packet.
+
+## 0. What the consolidated repair changed (2026-10-11)
+
+Seventy-two exact-string edits in chapters 33–40, under the three priorities of
+`editor/MOVEMENT-005-REPAIR-BRIEF.md`. No scene, section break or viewpoint was added, cut or
+moved. Everything below is already folded into sections 1–11.
+
+**The Pit's clock and map (chapters 38–40).**
+- One distance: Kiva sees the square, shouts across, and walks **eighteen paces** from the east
+  wall to the south-east corner.
+- **A knot to a hundred counts** (was twenty). Vane's budget is "six hundred, perhaps. Ten
+  minutes." Knots shown: two and a third coming when he says it; a third clears while sponsor,
+  healer and Chair answer; the fourth stands whole as he reads the slate; five and the sixth all
+  but clear when Kiva reaches Dray; seven and the eighth coming when the hold is down. The
+  set-up takes two minutes (was "less than a minute"). Dray's leg is under the cord "the best
+  part of a quarter of an hour" (was five minutes). The ten-count hold is unchanged.
+- Twenty-Eight's third rung is **sealed by Marten inside his sixty** before the chute opens.
+- The corner is carried **four paces east, along the line of the hold's south side** (was
+  south-east). Kiva says her curved ward will turn the haul that way. The south wall stays
+  where it stands. All of Dray but the pinned left leg, Perrin and Marten are **south of the white line,
+  on the open side**, and the wall does not cross them; they drag her straight back from it.
+- **The lamps on the dead rim wink in the same breath as "Back" and the three cuts**, eleven
+  seconds after the second cliff. Vane asks the keeper about it later, once the string is on a
+  gate. Noa's sixteen pens are described as they were at that instant, **lit and dark alike**
+  (three cutting, four bringing up a gate, two carrying, the casualty, five dark at the wall,
+  Kiva with everything just shut); Adlam's letter says the same.
+- **Rhea's stand** is acknowledged: it reached Dray tangled in Kiva's shout with Marten's hand
+  already falling; the slate records that the safety officer called one, "too late to govern";
+  Vane says a Torch keeping a floor safe may stand any student on it.
+- Anwen held the Flask's face **from the fall of the hold until the tear was shut, the best
+  part of forty minutes** (was twenty), and it dipped at the south end.
+
+**Canon, state and knowledge.**
+- Perrin has been passed to the shoulder since the end of the eighth month (chapter 38 no
+  longer dates it to the Wednesday). Dray is **the first person** he has lifted since the 29th
+  of the fifth month; Gerald and the dummy do not count.
+- "Five counted goes" (was two). "I've done one since" the stack (was two). Mara's "a girl of
+  thirteen" (was fourteen). "Three people and a brass weight" (was five). Rhea takes a second
+  "on a fifth rung" (was sixth). The low bound "six times on a mast, and a seventh as the back
+  half of a longer thing."
+- Kellan no longer asks how often she is let. He works out that a go which does not land still
+  spends the hand, and so the week.
+- Anwen's third half sheet came on **Thursday the 5th** and she carried it a fortnight.
+- Rhea's burned card is "the one with two words on it about you."
+- **Which Works.** Halden is "the Halden Works" at each first or ambiguous use; the examiners,
+  the Ferren pump bank and Rusk belong to "the Municipal Works." Adlam's glass found the bank
+  in step; the bank is not Halden's.
+- Knowledge paths: Dray has the Hart story from **Marten, her catcher**, who had it at the Wren House; the
+  Chair has the night clerk R. from Noa's filed note; Anwen has E.K.'s column from Perrin at
+  the Sag; Vane has "tidied it away" from the **Library's Reader**. Rhea's teacher in looking behind her is
+  named: Finch, on the Weighbridge.
+- Bly's line is in "the record hand" (Movement Four's term), not "the night hand."
+- Pettit carries Halden's dummy; Kellan takes its husk. "Dane" in students' mouths is "Orla."
+  Sedge's shout is marked as her own name. Dunmore glosses T-0: "Lit, and nothing feeding it."
+
+**Handholds.**
+- Chapter 33 states the stake before the room's customs: the seven may vote the plate back
+  into its box, and Vane would be the officer to take it off her neck.
+- Lane scoring is said once (three for the litter over your own line, one for a down); each
+  board is marked by place, sixteen down to one, and the three are added.
+- The second lane carry says why Brask cannot slide out from under the wall again.
+- Named where a description stood: Pike, Mara Rowan, Selka Dray (twice), Jessamy Hart.
 
 ## 1. Calendar
 
@@ -73,12 +137,12 @@ Circuit's mast on the rim above the south tier with twenty-four pens. Noa sits a
 white flag and a red; Mr. Adlam sits a step along with the Works' step glass. A still door
 opened on this floor booms. The litter is "the Alderman."
 
-*The Lane* (Circuit rules as before; rule nine for any change).
+*The Lane* (Circuit rules as before: three for the litter over a team's own line, one for a down, two halves a down, the most points over three carries; rule nine for any change).
 
 | Lane | Carry 1 | Carry 2 | Carry 3 | Final |
 |---|---|---|---|---|
 | Seven v. Old Four (10 a.m.; Seven's line north) | 0–4: Old Four's box (Brask and Wace as posts, Edda's wall leaned across their shoulders, Gower inside with the litter); a push on one man comes out at the other. Wace downs Jude; litter home at 2:40. | 4–2: Brask calls "Give!" and Edda drops the wall; Perrin and Jude fall through and are downed. Kiva's stop pins Brask over a pier; Anwen leans on the thinned wall; Jude downs Brask from behind; Perrin walks the litter home at 3:10. | 4–1: no box. Brask twice stands where Kiva means to plant, and takes two halves off her (a down). Jude downs Gower; litter home with nine seconds left. | **Seven 8, Old Four 7** |
-| Seven v. Halden (3 p.m.; Kiva declares Ember, one change) | 2–3: Kellan leaves Kiva alone and downs Jude. | 1–4: Kiva calls "changing on three" to put a stop in front of Pettit; **Kellan leaves the floor a quarter-count after her, dark, and lays the flat of his blade on her ribs at the top, in the gap.** Down. She calls *off* and comes down on her shoulder. White flag: "a crossing begun… not landed… not a stack." No incident. Pettit carries the litter home. | 3–1: still door only. Jude takes a half off Kellan's forearm. | **Halden 8, Seven 6** |
+| Seven v. Halden (3 p.m.; Kiva declares Ember, one change) | 2–3: Kellan leaves Kiva alone and downs Jude. | 1–5: Kiva calls "changing on three" to put a stop in front of Pettit; Jude is down; **Kellan leaves the floor a quarter-count after her, dark, and lays the flat of his blade on her ribs at the top, in the gap.** Down. She calls *off* and comes down on her shoulder. White flag: "a crossing begun… not landed… not a stack." No incident. Pettit carries the litter home. | 3–0: still door only. Jude takes a half off Kellan's forearm. | **Halden 8, Seven 6** |
 
 Kiva's Friday dram is not stated; by the tape's shape the unlanded crossing cost the bound and
 the cliff. The hand was white nearly two hours and came back "to less."
@@ -88,7 +152,7 @@ Kellan's forearm). *The Bench* (six banks of six cells, a hurry planted in one; 
 quench that one, re-tune, restart): Twenty-Eight first (Wilf Marten, under three minutes);
 Seven third, in a little over four minutes, Anwen leading with Perrin and Jude, each step said
 aloud before it was done. Ysra Crest stood at the master stop. Kiva sat in the west tier with
-Orla. After two boards Seven stood sixth of sixteen.
+Orla. After two boards Seven stood sixth of sixteen. Each board is marked by place, sixteen for the first down to one for the last, and the three are added.
 
 **Saturday, the Pit.** As before (seventy paces by forty; the Kiln north, the sump south, the
 race down the middle), with three changes since the spring: the south link is in a green iron
@@ -98,8 +162,8 @@ lit; and **"the Row,"** twelve oak posts under the east rail, each with a small 
 Eight purse sheets lie in a row down the west half; the Graywater gate stands at the head of
 the first, twelve paces west of the race.
 
-*The Carry:* Old Four first by half a minute; Seven sixth (Perrin's first lift since the
-spring, a dummy up the sump ladder on his shoulder). Aggregate, posted at noon: **first
+*The Carry:* Old Four first by half a minute; Seven sixth (Perrin brings a dummy up the
+sump ladder on his shoulder; his first rescue on a count since the spring). Aggregate, posted at noon: **first
 company for the Call: Halden License, Old Four (att.), Team Twenty-Eight, T7 (att.)**, Seven
 fourth by one mark over a Saltmere house four.
 
@@ -114,22 +178,22 @@ on the line**; Ruddock; Nairn watching from a camp stool with a stick). Home Lin
 | Time | Event |
 |---|---|
 | 2:00 | Lid up. String out, to the gate. |
-| | Rung one, Halden: Kellan goes up dark, asks, comes down on "not yet," cuts for four-tenths; sealed at 39 (Yarrow). Husk one: Hesketh's lure, Pettit's kill. |
+| | Rung one, Halden: Kellan goes up dark, asks, comes down on "not yet," cuts for four-tenths; sealed at 39 (Yarrow). Husk one: Hesketh's lure, Kellan's kill; Pettit carries the dummy. |
 | | Rung two, Old Four: Gower on Wace's word; sealed at 44. Husk two: Edda's ward across its road; Brask carries the dummy. |
-| | Rung three, Twenty-Eight: Selka Dray waits through one "not yet," cuts on "now"; sixty drams open on the third sheet. |
+| | Rung three, Twenty-Eight: Selka Dray waits through one "not yet," cuts on "now"; sixty drams on the third sheet, **sealed by Marten inside his sixty** before the chute opens. |
 | about 2:19 | Sedge shouts that there are four against the gate and she sent for one. The chute gives husk three (Twenty-Eight's), husk four (Seven's, two minutes early) and **two that nobody ordered.** |
 | 2:20 | The four do not turn to the Row. They trot south along the race, stop at the thirty-fifth pace, and stand at the corners of a square eight paces on a side, facing in. A white cord as thick as a wrist runs from each to the next at chest height. |
-| | Marten lays his cloth two paces behind the south-east husk. Rhea shouts "Twenty-Eight! Stand!" Kiva shouts "Dray! Don't take the corner! It closes!" Dray hears, and goes on her catcher's word. A clean cut; more than half the ash on the canvas. |
+| | Marten lays his cloth two paces behind the south-east husk. Rhea shouts "Twenty-Eight! Stand!" (it arrives tangled in Kiva's shout with Marten's hand already falling; too late to govern). Kiva shouts "Dray! Don't take the corner! It closes!" Dray hears, and goes on her catcher's word. A clean cut; more than half the ash on the canvas. |
 | two counts later | **The cord comes off the dead corner, drops across Dray's left leg above the knee, and the other three haul it taut on her.** She goes dark at once and orders Marten to finish his count; he seals at 50. |
 | 2:21 | **Vane strikes the Call.** Dunmore drops the race (forty rim lamps out) and quenches the Row. Lid ordered down. The first string stays parked on Graywater's gate. |
-| | The wall comes down from the cord to the cinders and stands above it to twice a man's height. Inside, over the race, **a tear, outside the lattice.** Lowen Brask: "That's a hold." A string begins to rise in it, a knot to about twenty counts. |
-| about 2:25 | The options are refused, each by the person who knows (section 5). Kiva: "It wants catching." Limits stated; Orla, Aske and Ysra answer from the rail, the gate and the rim; **Vane reads the direction with the cost first; "Do you take it?" "I'm frightened… Then yes."** |
-| | Birch calls the Halden four off a struck floor. **Kellan: rule nineteen; "Renn. Seven. Kill."** Roles declared (section 5). |
-| about 2:30 | **Kiva: "Hand, to Ember, to still. Rowan, changing on three, and on five."** On Brask's "in" she slides the ward under the cord; on "out" the haul throws her; fold, shut; gap; bound four paces south-east; shut at the top; gap; plant. **"Planted! Six!"** |
-| | Perrin and Marten drag Dray ten paces along the ground, then Perrin carries her on his shoulder to the west gate (Perrin cutaway). Kiva holds the corner ten counts, counting in fives against the hold's fours. |
-| | **"Back!"** on Brask's "in": Kiva gives the corner to the ground and shuts; Kellan (north-east), Jude (north-west) and Gower (south-west) cut their posts. The whole hold comes down "like a wet sheet let go from a line." Pike: "Dark! One." |
+| | The wall comes down from the cord to the cinders and stands above it to twice a man's height. Inside, over the race, **a tear, outside the lattice.** Lowen Brask: "That's a hold." A string begins to rise in it, **a knot to about a hundred counts.** |
+| about 2:25 | Two knots up and a third coming; Vane: "I've six hundred, perhaps. Ten minutes." The options are refused, each by the person who knows (section 5). Kiva: "It wants catching." Limits stated; Orla, Aske and Ysra answer from the rail, the gate and the rim; **Vane reads the direction with the cost first; "Do you take it?" "I'm frightened… Then yes."** A third knot clears during the answers; the fourth stands whole as the slate is read. |
+| | Birch calls the Halden four off a struck floor. **Kellan: rule nineteen; "Renn. Seven. Kill."** Roles declared (section 5). The set-up takes two minutes. |
+| about 2:33 | Five knots up, the sixth all but clear. **Kiva: "Hand, to Ember, to still. Rowan, changing on three, and on five."** On Brask's "in" she slides the ward under the cord; on "out" the haul throws her; fold, shut; gap; bound four paces **east, along the line of the hold's south side**; shut at the top; gap; plant. **"Planted! Six!"** The south wall stays on its line; all of Dray but the pinned left leg, Perrin and Marten are south of it, on the open side. |
+| | Perrin and Marten drag Dray ten paces along the ground, straight back from the wall (her leg had been under the cord the best part of a quarter of an hour), then Perrin carries her on his shoulder to the west gate (Perrin cutaway). Kiva holds the corner ten counts, counting in fives against the hold's fours. |
+| | **"Back!"** on Brask's "in": Kiva gives the corner to the ground and shuts; Kellan (north-east), Jude (north-west) and Gower (south-west) cut their posts. The whole hold comes down "like a wet sheet let go from a line." **In the same breath every lamp on the dead rim shows a point of light once** (eleven seconds after her second cliff). Pike: "Dark! One." |
 | | The new string (seven knots, the eighth coming) reads; it passes Kiva and goes to **the student gate at the head of the sixth sheet (Anwen in the middle, Edda, Hesketh, Twenty-Eight's ward).** The wall dips a hand at the south end and comes level. |
-| | **Every lamp on the dead rim shows a point of light once.** Dunmore: "T-0." The mast shows a notch on all sixteen pens eleven seconds after her second cliff (told in chapter 40). |
+| | Vane asks the keeper about the rim once the string is on a gate. Dunmore: "T-0. Lit, and nothing feeding it." The mast shows a notch on all sixteen pens at the instant of *back*, on hands lit and dark alike: three cutting, four bringing up a gate, two carrying, the casualty, five dark at the wall, and Kiva with everything just shut (told in chapter 40). |
 | +60 counts | Nothing crosses the fallen ring. Then the closing crew goes in. |
 | **3:10** | **"Closed!"** (Bettan). |
 | to about 4:30 | Two strings are cut as a call: Rhea Sorn the old one (five rungs), Birch the new one's bottom four; the new string's top four are student rungs under Vane's slate (Old Four; Twenty-Eight with a reserve blade; Seven; Halden, lent by Birch). **Seven's rung, about 3:30: Kiva sets the mark and calls; Pru has the whole cord; Jude cuts for a full second on Kiva's "now"; sealed at 49.** |
@@ -171,8 +235,8 @@ sponsor unchanged**, by the Chair's own statement on the 19th.
 - **The pattern she is working on.** Answer withheld: to the Chair on the 2nd ("She's right"),
   at the kitchen table when Perrin voted no, to Anwen in the drying yard, to Dray on the
   cinders. Answer given, and caught: "I'd take the yard" to Kellan on the 25th.
-- **Injuries.** Left knee: strapped on the 3rd of the seventh month; not mentioned as strapped
-  afterward; no trouble on any landing. Heat-lines: the bottom thread hot once (the jam of the
+- **Injuries.** Left knee: strapped on the 3rd of the seventh month and still strapped at
+  the Regional gate (chapter 37); no trouble on any landing. Heat-lines: the bottom thread hot once (the jam of the
   1st of the eighth month). **Left first and second fingers: permanent loss of fine sensation.**
   The road: white 58 counts (go 5), 75 (go 6), 95 (go 7), 130 (go 8, to the knuckle, blue at
   the nails), four minutes (hand to Ember, the 8th), ten minutes, twenty minutes and dull to
@@ -206,7 +270,7 @@ mind." Told Kiva of her own palm and gave no advice. **Passed the practical on t
 ninth month; Grade Two restored, the left her reading hand;** relit the hall panel, quenched
 since the 13th of the fifth month. Sat in the Pit's east terrace on the 17th, said beforehand
 that she would not come to the rail, stood, and did not come down. From the 19th she reads
-the Ferren bank and the Brickfields trunk for Examiner Rusk.
+the Ferren bank and the Brickfields trunk for Examiner Rusk of the Municipal Works.
 
 **Orla Dane.** Not suspended. "You'll keep the stick. He'll keep the pen. Neither of you signs
 without the other." Counted the six; added the certificate line; defined competition, stack
@@ -228,27 +292,28 @@ time, never taken as read; she calls the gate; "I'm not done… but it'll bear w
 Abstained on the three-door ash until she had seen what a miss does to the hand; voted for it
 on the 9th of the eighth month on condition that the *why* and the likely cost are written
 and read out before each go, and read it on the line on the 29th. Led Seven's Bench (third).
-At the Pit: called the step for a four-ward student gate that took a Flask's face for the
-best part of twenty minutes; it dipped once, by a hand, and came up. **Mace has put her name
+At the Pit: called the step for a four-ward student gate that took a Flask's face from
+the fall of the hold until the tear was shut, the best part of forty minutes, and went on
+holding while the string was cut; it dipped once, at the south end, by a hand, and came up. **Mace has put her name
 on a relief's place on the night van's ward line for next summer.** She told Kiva before her
 own mother. **"I'm done minding… I've not forgotten. I looked, and those aren't the same."**
 
 **Perrin Cade.** Ribs: top row of strapping off in the seventh month; passed to the shoulder
-on the Wednesday before the Regional; "passed over my head" by the 25th, with the plate to
+by the 29th of the eighth month (he carries Gerald on it in the Kennel floors); "passed over my head" by the 25th, with the plate to
 try on Thursday the 29th. Kept the tally when Kellan was at the refinery. **Voted no to the
 three-door ash on the 25th of the seventh month** (it is Weighbridge Street's ash; Jude has
 never cut on Seven's cloth), was asked what he would put in its place, and wrote the entry.
 **Proposed the line himself a fortnight later, with his own brake** (two *offs* running end
 it). Hung and released the sandbag. At the Pit: Carry; told Dray she was being rescued,
-dragged and then carried her forty paces with his back to the hold; the ribs held.
+dragged and then carried her forty paces with his back to the hold; the ribs held. She is the first person he has lifted since the 29th of the fifth month.
 
 **Kellan Renn.** Stated in the Chair's room, unasked, that he was entered under the Works'
 seal and what the shed foreman said next. Cut Halden's top rung from the 3rd of the seventh
 month (Pettit moved to Carry; Birch "decided on your feet"); taught the house four to move its
 catcher in and to ask. Signed Seven's entries without voting on the three-door ration,
 without a head's share of the Regional, and without being told the count. Told Kiva on the
-14th that he would go for the gap and not for Perrin's ribs; did; learned afterward that it
-was her week's go ("I'd have done exactly the same and felt sick first"). **On the 17th, when
+14th that he would go for the gap and not for Perrin's ribs; did; learned afterward that a crossing
+which does not land still spends the week's go ("I'd have done exactly the same and felt sick first"). **On the 17th, when
 Birch called the house four off a struck floor, he stood on rule nineteen and declared for
 Seven;** cut the north-east post on Kiva's word; knelt on a corner of Seven's rung in a black
 jacket with the cord torn off one cuff. The Works has released him "with its thanks" and paid
@@ -258,7 +323,7 @@ the stipend to the 17th. Birch has offered the yard for the winter; **he has not
 Used the white twice (the unlanded crossing; the three-door). Reported no notch on the Great
 Floor's twenty-three idle pens (the 10th of the seventh month); a hair on Kiva's one pen
 eleven seconds after the yard three-door, "not entered as fact"; and **a notch on all sixteen
-pens at the Pit eleven seconds after her second cliff.** His page now has a heading: *Not yet
+pens at the Pit eleven seconds after her second cliff,** at the instant of *back*, on hands lit and dark alike. His page now has a heading: *Not yet
 weighed.*
 
 **Jude Talley.** Seven's Kill for the Regional by name, on three conditions (his name on the
@@ -271,7 +336,7 @@ rung, crossed it wrong at the third turn, and found it herself.
 
 **Selka Dray.** Seated as Team Twenty-Eight's blade; second step on the river flats on the
 27th of the sixth month (53 drams bagged at 48; Grade First, 104 counts), **lighting after
-the cloth.** Her objection: "I don't want you off the floor any longer… I want you where I can
+the cloth.** She has the Jessamy Hart story from Marten, her catcher, who had it at the Wren House. Her objection: "I don't want you off the floor any longer… I want you where I can
 see the needle." At the Pit she cut inside her step, on her catcher's word, and was pinned;
 went dark at once; made Marten finish the count; counted the hold's breath from under it and
 Kiva's ten. **Left leg above the knee, the bone, and a burn of cold.** She has not changed her
@@ -286,9 +351,9 @@ breath for the catch and for the drop.** Vane wants him on the Line's roll in th
 has "thought."
 
 **Rhea Sorn.** Helped the Circuit design the Call and distrusts how well it was mended. Kept
-the first string on her gate and cut five rungs. Team Seven is still attached to her; the
+the first string on her gate and cut five rungs. Called a stand to Twenty-Eight as the catcher's hand fell, too late to govern; taught to look behind her by Pru Finch on the Weighbridge. Team Seven is still attached to her; the
 board will want a Flask stood on her own van "before it takes the brackets off." Told Kiva
-that in twenty-three years she has never named a price first. She burned the card the night
+that in twenty-three years she has never named a price first. She burned the card (two words about Kiva) the night
 of the Weighbridge. No offer is made.
 
 **Hollis Vane.** Read Kiva's entry to the watch; answered the recall motion from the first
@@ -374,8 +439,8 @@ for word.
 **The unread fourth-column entry** (traced by leave of all seven; read by the Reader; read to
 the watch, then to Kiva on the 1st of the ninth month): *Bly, Thirza. Received 2466.* Her
 *why:* she was a levee catcher and the bearer before her liked how she kept a count. Her
-fourth column, in the night hand: ***Warm, once, after the first crossing. I have crossed
-nine times since. Cold. I put this in the night hand, that it may be kept and not made much
+fourth column, in the old record hand: ***Warm, once, after the first crossing. I have crossed
+nine times since. Cold. I put this in the record hand, that it may be kept and not made much
 of. T.B.*** She does not say from which door to which, or how many doors she had. She carried
 it thirty-five years. Kiva's entry beneath her own: *Cold. After three doors in sequence,
 once, on a sanctioned mast. Cold.* And on the 20th: *Cold… After three doors in sequence,
@@ -414,7 +479,7 @@ after).
 
 **The Chair's page,** headed *Witnessed:* ruled for what was done, where, on whose direction,
 what it cost, and who read the tape. One entry. Filed beside it: Adlam's four lines under his
-own name, and Noa's.
+own name, and Noa's note, which carries the night clerk R.'s margin (the Chair's source for it).
 
 ## 5. The hold (shown, not explained)
 
@@ -427,7 +492,7 @@ What the page shows, in order:
    began to come up through it.
 4. Cut at one corner, the cord came off the dead post, dropped, and was hauled taut by the
    other three, in time: four counts hauling, four easing.
-5. The Ferren pump bank, across the road, went into step "at the instant that square stood
+5. The Ferren pump bank, across the road (the Municipal Works' bank; Halden's glass only found it), went into step "at the instant that square stood
    up" (Adlam's glass) and **did not come out when the race was dropped.**
 6. Dropping the race did not make the hold let go.
 7. Refused, each by its owner: dragging Dray out (the cord "goes straight… through the tear,
@@ -437,14 +502,14 @@ What the page shows, in order:
    down on her: Brask).
 8. A ward put under the cord for one tap, on the slack, and shut before the haul could take
    hold, was thrown; the haul came across the gap **and its count did not.** Planted in the
-   ground four paces off, it held the corner for ten counts while the hold went on hauling.
+   ground four paces east of the old corner, on the line of the south side, it held the corner for ten counts while the hold went on hauling.
 9. Released on the slack at the same word as three cuts, the hold came down whole and soft
    and lay in a ring. It was left sixty counts. It "was not ash, and nobody in Meridian had a
    rule for it." It was swept under the Chair's seal.
 10. Unwalled, the string read, passed the nearest worked thing that was dark, and went to the
     nearest lit gate.
 11. Every lamp on the dead rim showed a point of light once; sixteen pens notched eleven
-    seconds after Kiva's second cliff.
+    seconds after Kiva's second cliff. Both fall at the instant of *back*, lit and dark alike.
 12. Every rung of the string that came through the held tear, and Seven's bag with them,
     keeps time "loud" and knocks on the comb. The Kiln's own string read a trace, as all this
     year's ash has.
@@ -481,11 +546,12 @@ past three, by the Home Line. Lives: none lost. Hurt: Dray, blade, the left leg 
 knee, the bone, and a burn of cold. Rowan, catcher, the left hand; see the direction. Works:
 the race dropped an hour and ten minutes by the keeper. The Row quenched, twelve boxes, by
 the keeper; none fouled. The Ferren bank in step since twenty past two and not come out; that
-is the Works' to enter. Tinned, clean: five hundred and twelve drams. Put by, red, on
+is the Municipal Works' to enter, and I have sent to tell them so. Tinned, clean: five hundred and twelve drams. Put by, red, on
 catchers' words and a comb: five hundred and three and seven-tenths. And a ring of something
 that is not in the yield book, swept under the Chair's seal. Remarks: one. A blade cut a husk
 inside her step, on her catcher's word, before the foreman had read the floor. The foreman
-had not called a stand. The remark is the event's.*
+had not called a stand. The safety officer called one to that team as the catcher's hand fell,
+too late to govern. The remark is the event's.*
 
 **The pot.** A struck floor is shared the Line's way, everything clean in one: civic half
 256; casualty reserve 64; schools 96; teams 96, **24 to each of the four teams**, whoever
@@ -608,19 +674,20 @@ further than intended:
     stood in this movement.
 15. **Mara passes her re-sit** (a paragraph) and keeps her word not to come to the rail.
 16. **Orla wrote to Jessamy Hart.** Four lines; unanswered.
-17. **Movement length is 45,623 words** (`wc -w`), at the foot of the working range. Chapters
-    run 4,959 to 6,699. Forty-six sections, about 990 words a section. **Secondary viewpoint
-    is about 13.7%** by plain section word count (Vane about 1,370; Anwen 1,199; Rhea 1,102;
-    Kellan 986; Perrin 836; Orla 758; all established lenses); Kiva holds about 86.3%.
-18. **No formula target has been measured** for these chapters. The first three boards of the
+17. **Movement length is 46,261 words** after the repair (`wc -w`; 45,623 before). Chapters run
+    5,047 to 6,829. Forty-six sections, about 1,004 words a section. **Secondary viewpoint is
+    13.9%** by section word tokens (Vane 1,462; Anwen 1,208; Rhea 1,139; Kellan 988; Perrin
+    855; Orla 759; all established lenses); Kiva holds 86.1%.
+18. **Formula alignment was measured in the repair** (repair report, section 9). The
+    whole-text sentence and readability targets are not met and were not chased. The first three boards of the
     Regional are compressed: one lane round, the Bench and the Carry are short on purpose.
 19. Small facts taken from the checkpoints and not re-read in the manuscript should be
     checked: that Kiva writes with her right hand; the Great Floor has never been described
     before; Kellan's count of rivets; Jude's "feet in love with themselves"; Perrin's "strongest
     first-year his Hall had turned out in thirty years"; that the Kindling's deferral was
     written by a clerk of the Chair's office.
-20. Arithmetic worth a mechanical check: Kiva "had made it seven times on a mast" (chapter
-    37); "eight times" to the hall by the 1st of the ninth month; Aske's column of six figures;
+20. Arithmetic worth a mechanical check: Kiva had made the low bound "six times on a mast, and a
+    seventh as the back half of a longer thing" (chapter 37); "eight times" to the hall by the 1st of the ninth month; Aske's column of six figures;
     "seventeen days" from the 29th of the eighth month to the Regional; "nine days" and "nine
     more lines" at the pump house; Rhea's "five rungs"; "eleven weeks" in the Halden yard.
 21. Pronouns chosen by the author: Bly, Hesketh and the Ferren she; Marten, Pettit, Yarrow,
@@ -642,8 +709,10 @@ sanctioned event; the three-door is under a recorded field direction after the s
 keeps his Halden entry until the floor is struck. Anwen is on Mace's line until the 21st of
 the seventh month. Selka Dray is not made a friend, and neither Halden, the Works, the Order
 nor the watch is made a villain. The students close no tear and cut no bottom rung. No
-secondary viewpoint is new. No review, scoring, repair, commit, push, publication or
-narration was done by the author, and Movement Six has not been started.
+secondary viewpoint is new. No commit, push, publication or narration was done by the author,
+and Movement Six has not been started. One bounded repair has since been made (section 0)
+and passed its targeted recheck; the seven required clause/record corrections were applied
+before this checkpoint was accepted.
 
 ## 11. What Movement Six opens on
 

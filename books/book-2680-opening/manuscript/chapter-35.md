@@ -42,7 +42,7 @@ Jude went on with the oil for a moment.
 
 "I know you can't. You've got better at knowing that." He held up the third. "And I'm not Renn. I want that understood by whoever sets my mark. He's four-tenths at the top. I'm nearer a second, and I come down heavy. If you put the cloth where you'd put it for him, I'll print it or I'll miss it. You'll have to set the mark for the blade you've got."
 
-"A second's what Rhea Sorn takes on a sixth rung."
+"A second's what Rhea Sorn takes on a fifth rung."
 
 "She's cutting through a paving stone. I'm only slow." He grinned, briefly. "Who's your wall?"
 
@@ -100,7 +100,7 @@ She walked back to the hall along the top of the berm, by herself, with her arms
 
 The first was the cheap one, and a thing that Lowen Brask had said in a passage. The second was the Weighbridge. *Cloth's down. Lure.* She had read those three words in a culvert with the rain coming in sideways, and had been so angry that she had nearly dipped. It was not the anger of somebody who had been wronged. It was the anger of somebody who has said a thing twice, plainly, and then watches it happen to a stranger's leg.
 
-The third had come on Thursday.
+The third had come on Thursday the fifth, and she had carried it a fortnight.
 
 *Mon. the 2nd. Dray's objection, before the Chair. She had the tape of the stack. I'd an answer made on the tram. Did not give it. Said: she's right. Why: she was.*
 
@@ -170,7 +170,7 @@ Anwen pegged a shirt. She did it slowly, and squared the shoulders of it on the 
 
 "See what?"
 
-"A crossing. I put my name to two drams on the second of last month, on three conditions. I've had the counts. I've never once watched the thing I paid for." She looked at Kiva directly. "Tuesday, isn't it? The sixth. I'll stand at the gate. I shan't say anything. I'd not be allowed to, by my own condition."
+"A crossing. I put my name to two drams on the second of last month, on three conditions. I've had the counts. I've never once watched the thing I paid for." She looked at Kiva directly. "Tuesday, isn't it? The sixth of the six. I'll stand at the gate. I shan't say anything. I'd not be allowed to, by my own condition."
 
 "It's the last. There's ash for it and a hundredth."
 
@@ -180,7 +180,7 @@ Anwen pegged a shirt. She did it slowly, and squared the shoulders of it on the 
 
 There were thirty-two hundredths in the glass on Tuesday night, and Perrin had worked out what that meant and could not stop saying it.
 
-"A crossing's thirty-one. That leaves one. An *off* is three; I've looked it up, it's the bound and a tremble. Thirty-two less three is twenty-nine, and twenty-nine isn't thirty-one." He was sitting on the spare crate with the notebook on his knee. "So if she calls it tonight, we've two counted goes that'll never be six, and I shall have to go and ask four people for two hundredths of a dram. I'd like it known that I'd rather lift the plate."
+"A crossing's thirty-one. That leaves one. An *off* is three; I've looked it up, it's the bound and a tremble. Thirty-two less three is twenty-nine, and twenty-nine isn't thirty-one." He was sitting on the spare crate with the notebook on his knee. "So if she calls it tonight, we've five counted goes that'll never be six, and I shall have to go and ask four people for two hundredths of a dram. I'd like it known that I'd rather lift the plate."
 
 "It's known," said Orla. "Now be quiet. You've the word, and you'll need your breath for it."
 
@@ -298,7 +298,7 @@ Kiva had. It had come to her on a wharf, some time after four in the morning, kn
 
 ---
 
-Kiva read the page aloud on Wednesday, at the kitchen table, to five people and a brass weight.
+Kiva read the page aloud on Wednesday, at the kitchen table, to three people and a brass weight.
 
 She had written it three times. It was one side of a sheet. *Order: hand, Ember, still. Catch, carry, plant.* She read out where her feet would be on the line, and that the ward would be raised at the left shoulder for one tap and no more. She read the price.
 

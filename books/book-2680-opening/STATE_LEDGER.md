@@ -273,9 +273,11 @@ the prose shows is entered here.
 
 ## Movement Five carried state (chapters 33–40)
 
-Recorded 2026-10-11 from the first draft, by its author, directly after the run.
-**Unreviewed first draft.** The manuscript governs; full detail is in
-`provenance/MOVEMENT-005-CONTINUITY.md`. Only what the prose shows is entered here.
+Recorded 2026-10-11 from the first draft, by its author, directly after the run, and
+reconciled the same day to the consolidated same-author repair. **Repaired and targeted-rechecked;
+accepted as the Movement Six handoff.** The manuscript governs; full detail is in
+`provenance/MOVEMENT-005-CONTINUITY.md` (its section 0 lists what the repair changed). Only
+what the prose shows is entered here.
 
 - **Calendar.** The months are numbered on the page from this movement: the Pit was the fifth
   month, the Weighbridge the sixth; Movement Five runs from Sunday the 1st of the seventh to
@@ -310,7 +312,7 @@ Recorded 2026-10-11 from the first draft, by its author, directly after the run.
   moved and lost two to five. Written by the watch: the plate is held of the Line and borne by
   K. Rowan; it is not equipment, an instrument or evidence; no hand but the bearer's is laid
   on it without a vote; the bearer writes in the fourth column within the week after any
-  crossing. One earlier fourth-column line in the night hand has been read: **Thirza Bly,
+  crossing. One earlier fourth-column line in the old record hand has been read: **Thirza Bly,
   bearer from 2466: "Warm, once, after the first crossing. I have crossed nine times since.
   Cold."** No cause, door or use is given. The School asked to borrow the plate and was
   answered from the fourth edition.
@@ -331,9 +333,11 @@ Recorded 2026-10-11 from the first draft, by its author, directly after the run.
   court, not ruled on. **New Circuit rules:** any catcher may red-tag a bag on stated grounds
   ("sufficient to withhold… not sufficient to prove"); no ash above I-trace on any Circuit
   floor; every Regional dram combed at the gate.
-- **The Regional Measure.** Sixteen fours, four boards. Lane: Seven beat Old Four 8–7 and
+- **The Regional Measure.** Sixteen fours, four boards, each marked by place (sixteen down to
+  one) and added. A lane carry scores three for the litter home and one for a down. Lane: Seven beat Old Four 8–7 and
   lost to Halden 8–6 (Kellan touched Kiva in the gap at the top of a declared crossing; a
-  down; the crossing begun and not landed; not a stack; no incident). Bench: Seven third
+  down; the crossing begun and not landed; not a stack; no incident; **an unlanded crossing still
+  spends the hand and the week's go**). Bench: Seven third
   without Kiva. Carry: sixth. The Call was struck at 2:21 on the 17th and closed at 3:10 by
   the Home Line. **Result, read on three boards: 1. Halden License. 2. Old Four (att.). 3.
   Team Twenty-Eight. 4. T7 (att.).**
@@ -341,17 +345,22 @@ Recorded 2026-10-11 from the first draft, by its author, directly after the run.
   over the Pit's race with a white cord run from each to the next and a tear inside it,
   outside the lattice. Lowen Brask, back from a summer on Home Line holds, named it. Selka
   Dray cut one corner inside her step on her catcher's word and was pinned by the cord (left
-  leg above the knee, the bone, and a burn of cold). Kiva took the cord off her with the
-  three-door sequence and held the corner ten counts; Perrin and Wilf Marten got Dray out;
+  leg above the knee, the bone, and a burn of cold; under the cord about a quarter of an hour).
+  The string in the tear rose a knot to about a hundred counts. Kiva took the cord off her with
+  the three-door sequence, carried the corner four paces east along the line of the hold's south
+  side, so that all of Dray but the pinned left leg and both carriers stayed on the open side of the wall, and held it ten counts; Perrin and Wilf Marten got Dray out;
   Kellan, Jude Talley and Gower cut the other three posts on Kiva's word as she released;
-  Anwen called a four-ward student gate that took the new string; the closing crew closed
-  the tear; Rhea Sorn and Halden's foreman cut two strings; each team bagged a rung. Nobody
+  Anwen called a four-ward student gate that took the new string and held its face about forty
+  minutes until the tear was shut; the closing crew closed
+  the tear; Rhea Sorn and Halden's foreman cut two strings; each team bagged a rung. Rhea Sorn's shouted stand to Twenty-Eight came as the catcher's hand
+  fell, too late to govern, and is on the slate. Nobody
   on the page says why spawn stood a hold. The Home Line has suspended held tears.
 - **Instrument evidence.** At the Pit every lamp on the dead rim showed a point of light once
   (the keeper's second T-0 on that ring) and all sixteen pens notched eleven seconds after
-  Kiva's second cliff; Mr. Adlam of the Halden technical office saw it and has written so
+  Kiva's second cliff, both at the instant she said *back*, on hands lit and dark alike; Mr. Adlam of the Halden technical office saw it and has written so
   under his own name. No notch followed the crossing on the Great Floor. Unexplained.
-- **The grid.** The Ferren pump bank (twenty-four cells) went into step when the hold stood
+- **The grid.** The Ferren pump bank (twenty-four cells; the Municipal Works', not Halden's)
+  went into step when the hold stood
   and **has not come out**, though its link was open; the pumps have not dropped a stroke.
   The Step is spreading along the Brickfields trunk at about a drum every two days (nineteen,
   twenty, twenty-one), with nine drums left before the Crooked Line School's core house.
@@ -369,11 +378,13 @@ Recorded 2026-10-11 from the first draft, by its author, directly after the run.
   left her reading hand) and is reading the bank for Examiner Rusk. Anwen finished Mace's
   line without a dip and has a relief's place on the night van's ward line for next summer;
   she is "done minding" and has "not forgotten." Kellan has not answered Halden's offer of its
-  yard for the winter. Perrin is passed to lift and tries the plate on the 29th. Orla wrote
+  yard for the winter. Perrin has been passed to the shoulder since the end of the eighth month, lifted Selka Dray as his
+  first person since the spring, and tries the plate on the 29th. Orla wrote
   four lines to Jessamy Hart; no answer. Ysra Crest was a ward-holder on the 2660 Bench and
   had signed Hart's entry; she countersigned Orla's account of the hand, and has opened a page
   headed *Witnessed* with one entry. Selka Dray is unpersuaded and says so.
-- **Words.** "A hold," "the hem" and "the corner" for the spawn square; "the fold" and
+- **Words.** Where either could be meant the page now says "the Halden Works" or "the Municipal
+  Works." Thirza Bly's line is in "the record hand." "A hold," "the hem" and "the corner" for the spawn square; "the fold" and
   "passengers" for the ward grip; "the Call"; "the Row"; "the Alderman"; "a step glass."
 - **Names and pronouns introduced (author's choice, pending owner review).** Thirza Bly
   (she); Wilf Marten (he); Hesketh (she), Yarrow (he) and Foreman Birch (he) of the Halden

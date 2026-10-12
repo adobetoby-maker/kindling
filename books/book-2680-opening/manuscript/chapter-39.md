@@ -36,9 +36,9 @@ It came from the gate. It was a hoarse, carrying voice, and the woman it belonge
 
 "Then the hem comes down. All of it. And she's lying under the one place where it's already on the ground."
 
-There was a silence. In the middle of the square, behind the frost, the blue stroke had opened a little wider. Three grey knots stood above the gratings now, one on another, and a fourth was coming.
+There was a silence. In the middle of the square, behind the frost, the blue stroke had opened a little wider. Two grey knots stood above the gratings now, one on the other, and a third was coming.
 
-"A knot to twenty counts," said Vane. "Eight to a string. When the legs are through, it walks. I've perhaps a hundred."
+"A knot to a hundred counts," said Vane. "Eight to a string. When the legs are through, it walks. I've six hundred, perhaps. Ten minutes."
 
 Kiva had not been asked. She had been asked what it was, and she had said.
 
@@ -56,7 +56,7 @@ The answer was standing ready. For once it was not a reason. It was a price, and
 
 Vane's head came round.
 
-"Rowan. Seven. Catcher." Her mouth was dry. "It's lying across her leg, on the north side, where it comes up toward that post. If a ward went under it there, for one tap, it'd come off her. It's under load, so it'd throw whatever caught it. I'd let it. I'd shut the ward before it could take hold, and go with the throw, four paces out, that way." She pointed south-east, across empty cinders. "And put it in the ground. Then I'm the corner, and she isn't."
+"Rowan. Seven. Catcher." Her mouth was dry. "It's lying across her leg, on the north side, where it comes up toward that post. If a ward went under it there, for one tap, it'd come off her. It's under load, so it'd throw whatever caught it. I'd let it. A curved ward turns a shove, and I'd bend mine to turn that one east. I'd shut the ward before it could take hold, and go with the throw, four paces out, that way." She pointed east, along the line of the hold's south side, across empty cinders. "And put it in the ground. Then I'm the corner, and she isn't. The south wall stays where it stands, and she's on the open side of it."
 
 "That's three doors."
 
@@ -82,9 +82,9 @@ There was a tall grey figure at the rail beside the mast, high on the east rim.
 
 Vane wrote.
 
-He wrote for what seemed a long time, with twenty counts going by to every knot, and then he held the slate up and read it, to her and to the Pit.
+He wrote for what seemed a long time. A third knot had come clear while the three of them answered him, and the fourth stood whole behind the frost before he held the slate up and read it, to her and to the Pit.
 
-"*Direction to K. Rowan, unplaced. Three doors in sequence, hand, Ember, still, declared. Cost, as stated before by her healer: the first two fingers of the left hand, not to return. As stated by the candidate: two gaps on a hand that had one yesterday. Reason: a blade of Twenty-Eight under a hold's hem, and no other hand on this floor that can take it off her. I have watched her miss.*" He lowered it. "A man called E.K. had a column for that, and somebody tidied it away. I've put it back, and I've put it first. Do you take it?"
+"*Direction to K. Rowan, unplaced. Three doors in sequence, hand, Ember, still, declared. Cost, as stated before by her healer: the first two fingers of the left hand, not to return. As stated by the candidate: two gaps on a hand that had one yesterday. Reason: a blade of Twenty-Eight under a hold's hem, and no other hand on this floor that can take it off her. I have watched her miss.*" He lowered it. "A man called E.K. had a column for that, and the Library's Reader told me that somebody had tidied it away. I've put it back, and I've put it first. Do you take it?"
 
 It was the plainest question that she had ever been asked.
 
@@ -100,13 +100,13 @@ She did not look at the square. She looked up, into the east terrace, two rows a
 
 ---
 
-It took less than a minute to set, and every word of it was said aloud.
+It took two minutes to set, and every word of it was said aloud.
 
 "House four, off the floor."
 
 That was a square man in black, with a foreman's slate of his own. He had come along the wall from the Halden end.
 
-"Birch, chartered, the Works' license yard. It's struck. My paper puts no student of the Works under a Home Line direction, and I'll not pretend it does to be liked." He jerked his head. "Pettit. Yarrow. Rail. Hesketh, a gate's the Circuit's rule and no man's direction; you may stand one if you choose. Renn."
+"Birch, chartered, the Halden Works' license yard. It's struck. My paper puts no student of the Works under a Home Line direction, and I'll not pretend it does to be liked." He jerked his head. "Pettit. Yarrow. Rail. Hesketh, a gate's the Circuit's rule and no man's direction; you may stand one if you choose. Renn."
 
 "No, sir," said Kellan.
 
@@ -162,7 +162,7 @@ Kiva walked out across the cinders with Perrin on her left and a thin boy in Wre
 
 "Cold," she said, to nobody. There was no white. She had looked.
 
-Selka Dray was lying on her back with her red head on the cinders and her left leg gone under a white line as thick as a wrist. The wall rose from it. It was so thin that Kiva could see through it, the blue stroke, and four grey knots now, and a fifth beginning.
+Selka Dray was lying on her back with her red head to the south, on the open cinders, her right leg south of the line with the rest of her, and her left leg gone under a white line as thick as a wrist. The wall rose from it. It was so thin that Kiva could see through it, the blue stroke, and five grey knots now, and the sixth all but clear.
 
 Dray's face was the color of lard. Her eyes came round.
 
@@ -172,7 +172,7 @@ Dray's face was the color of lard. Her eyes came round.
 
 "Don't make a speech."
 
-"I haven't got one." Kiva stopped a pace from her hip, on the south-east side, and set her feet. "You're being rescued. That's Cade's line; he lends it. I take that off your leg, there, where it comes up. It throws me that way. I put it down four paces off and stand on it. When I say *planted,* they pull you. Not before."
+"I haven't got one." Kiva stopped a pace from her hip, on the east side, facing the way that she meant to go, and set her feet. "You're being rescued. That's Cade's line; he lends it. I take that off your leg, there, where it comes up. It throws me that way. I put it down four paces off and stand on it. When I say *planted,* they pull you. Not before."
 
 "And if you miss?"
 
@@ -188,7 +188,7 @@ Dray's face was the color of lard. Her eyes came round.
 
 "I'd do it again. You oughtn't to be on a floor without a needle on you." A breath, held, through a bad four counts. "There's a needle on you. I looked. He's got his flag out. Get on with it."
 
-Perrin had knelt at her head, dark, and got his hands under her arms. Marten had her right shoulder. Neither of them said a word.
+Perrin had knelt at her head, dark, and got his hands under her arms. Marten had her right shoulder. They were both south of the white line, on the open side, where the wall would not cross them when its corner went east. Neither of them said a word.
 
 "*Out,*" said Lowen Brask, from the wall. His voice was as even as a clock. "Two. Three. Four. *In.* Two. Three—"
 
@@ -262,11 +262,11 @@ Perrin Cade had never in his life wanted so much to look at something and been s
 
 *You don't look up,* a Torch had told three shed hands on the Weighbridge, and one of them had been his father. He had thought at the time that it was an easy thing to be told.
 
-He had a girl under the arms. She was not heavy. She was a blade, and built like one, all cord and temper. The trouble was that one of her legs had been under something for the best part of five minutes and had come out the wrong shape.
+He had a girl under the arms. She was not heavy. She was a blade, and built like one, all cord and temper. The trouble was that one of her legs had been under something for the best part of a quarter of an hour and had come out the wrong shape.
 
 "*Planted!*"
 
-"That's us," said Perrin. "Marten. On three, and along the ground; we don't lift till she's ten paces off. One. Two."
+"That's us," said Perrin. "Marten. On three, and along the ground, straight back from the wall; we don't lift till she's ten paces off. One. Two."
 
 "I can count for myself," said Selka Dray, through her teeth.
 
@@ -298,7 +298,7 @@ She was counting in fives. Brask had it in fours. They did not fit, and they wen
 
 He stood up with her.
 
-It was the first weight that he had put above his own waist since the twenty-ninth of the fifth month. It went onto his shoulder, and down his back, and into his boots, and the cinders had it. Nothing gave. He stood for one count in the middle of the Pit, with eleven hundred people looking at him and a girl's red head against his ear, and he could have sung.
+She was the first person that he had lifted since the twenty-ninth of the fifth month. Gerald did not count, and nor did a dummy on a ladder. The weight of her went onto his shoulder, and down his back, and into his boots, and the cinders had it. Nothing gave. He stood for one count in the middle of the Pit, with eleven hundred people looking at him and a girl's red head against his ear, and he could have sung.
 
 "*Clear!*" he shouted. He did not turn round. "*She's clear! Kiva! She's off it!*"
 
@@ -340,7 +340,9 @@ After that she was not certain of very much.
 
 There had been light. Kellan's she knew, a line as long as a breath, away to the north. There had been two more. Then the white cord beside her boot had simply lain down. It did not snap. It went loose from end to end, all four sides of it together, and the frost that hung from it came down after, slowly, folding as it fell.
 
-It lay on the cinders in a ring, eight paces across, pale and thin. It looked like the mark that a tub leaves on a floor.
+In that same breath every lamp on the rim of the Pit had shown a point of light, once, and gone out. She had caught it at the edge of her eye. It was the middle of the afternoon. The branch was dead; she had heard the handle go. There were forty of them, round the whole oval, and for the space of a blink each had a spark in it, like forty eyes opening and closing.
+
+The frost lay on the cinders in a ring, eight paces across, pale and thin. It looked like the mark that a tub leaves on a floor.
 
 "*Dark! One.*"
 
@@ -362,7 +364,7 @@ The Flask put its blunt head against her wall and leaned.
 
 It was a thing that Graywater did with four Torches. Kiva saw the wall take it. She saw it dip, at the south end, by the width of a hand; and she saw Anwen feel that, without turning her head, and say one word, and saw it come level.
 
-"You're not to watch that," said Pru. "You're to show me your hand. Dane's shouting it from the rail. *Hand, Rowan.* She's said it three times."
+"You're not to watch that," said Pru. "You're to show me your hand. Orla's shouting it from the rail. *Hand, Rowan.* She's said it three times."
 
 Kiva looked for her hand.
 
@@ -380,15 +382,11 @@ She had known that it would be. A levee catcher had told her so, in a hand that 
 
 There was a white flag at the east rim. He had it up as high as his arm would reach, and he was holding the rail with his other hand as if the terrace had moved under him. Beside him a man in a black coat had got to his feet.
 
-Then every lamp on the rim of the Pit showed a point of light, once, and went out.
+There was a noise in the terraces like wind in a wood. It had begun when the lamps winked, and it had not stopped.
 
-It was the middle of the afternoon. The branch was dead; she had heard the handle go. There were forty of them, round the whole oval, and for the space of a blink each had a spark in it, like forty eyes opening and closing.
+"Keeper," said Vane's voice, quite steadily. He had a string on a gate now, and breath to ask. "The rim. As she said *back.* Did I see that?"
 
-There was a noise in the terraces like wind in a wood.
-
-"Keeper," said Vane's voice, quite steadily. "Did I see that?"
-
-"You did." Dunmore was at the load board with both hands on the case. He sounded like a man who has been told the same joke twice. "They're dead. They've been dead since I dropped the race. That's the second time in my life I've seen a dead ring jump, and it was on this floor, with her on it." He spat. "T-0. I'll write it, since I'm paid to. I'd as soon somebody told me what I was writing."
+"You did." Dunmore was at the load board with both hands on the case. He sounded like a man who has been told the same joke twice. "They're dead. They've been dead since I dropped the race. That's the second time in my life I've seen a dead ring jump, and it was on this floor, with her on it." He spat. "T-0. Lit, and nothing feeding it. I'll write it, since I'm paid to. I'd as soon somebody told me what I was writing."
 
 Nobody told him.
 
@@ -470,7 +468,7 @@ She wrote it. *Red. Not for the ground. Stepped. On a catcher's word and a comb.
 
 It was a pleasant voice. Mr. Adlam had come down from the rim. He had his hat in his hand, and he was not looking at the bags.
 
-"Mr. Dunmore. The Works has a bank of four-and-twenty across the road that keeps a district dry. I had it on the step glass at eleven minutes past two, running as it ought, every cell on its own time." He spoke with great care. "It fell in at the instant that square stood up. All of it. I assumed that it would come out when you dropped the race. It did in the spring; I've read the trunk book."
+"Mr. Dunmore. The Municipal Works has a bank of four-and-twenty across the road, in the Ferren pump house, that keeps a district dry. I had it on the step glass at eleven minutes past two, running as it ought, every cell on its own time." He spoke with great care. "It fell in at the instant that square stood up. All of it. I assumed that it would come out when you dropped the race. It did in the spring; I've read the trunk book."
 
 "It's off the bus," said Dunmore. "There's a foot of air in that link."
 
