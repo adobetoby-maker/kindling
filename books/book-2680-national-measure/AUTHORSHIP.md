@@ -14,6 +14,10 @@ Public byline: **Monroe Jackson**
 - Planning sources: accepted Book One manuscript, `STATE_LEDGER.md`, `BOOK_MAP.md`,
   `CHARACTERS.md`, `UNIVERSE_BIBLE.md`, `SERIES_MAP.md`, and `OWNER_BRIEF.md`.
 - Movement One packet: `packets/MOVEMENT-001.md`.
+- Compiled Movement One prompt: `planning/OPUS-5.5-MOVEMENT-001.prompt.md`, SHA-256
+  `d4068109a72505532cab26ba5679edbc8f682d982775aa41766456181d325c80`.
+- Movement One packet SHA-256:
+  `e54040c90271bf874d43b8c32711a86584399b8173df97352b2cbccb86e7076a`.
 - Planning prompts: `planning/OPUS-5.5-PLAN.prompt.md` and
   `planning/OPUS-5.5-PLAN-RUN.prompt.md`.
 - Canon rule: Book One's accepted manuscript and ledger govern any disagreement. Planned
