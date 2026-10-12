@@ -16,7 +16,7 @@ One in a week. She did the sum on the infirmary stair. Four to show, at one a we
 
 The grading had been posted in the Measure Hall basement by the time she got there.
 
-*T7 (att.), Weighbridge. Two Handfuls, plain. Yield 44.8. Grade First. Resonance: W, full. I, trace.* And on the standings, eight lines from the top, where there had been a nine: *T7. Total yield, 116.8. Sixth of thirty-one. (att.)*
+*T7 (att.), Weighbridge. Two Handfuls, plain. Yield 44.8. Grade First. Resonance: W, full. I, trace.* And on the standings, six lines from the top, where there had been a nine: *T7. Total yield, 116.8. Sixth of thirty-one. (att.)*
 
 The brackets were still there. She found that she agreed with Kellan about them.
 
@@ -70,7 +70,7 @@ Kellan said it on Wednesday at the Rowan kitchen table, with the team book open 
 
 He had brought his list. He laid it down beside the book and did not look at it.
 
-"I went to the refinery yard on Thursday week," he said. "I stood behind a rail for two hours. They've a contained string, a six-knot, in a lattice of their own. They've a chartered foreman every Tuesday and Thursday, and a ward line that's paid. Their Kill's a second-year called Marsden." He was speaking to the cover of the book. "He isn't better than I am. I timed him. He's four-tenths at the top, the same as me, and his feet are worse."
+"I went to the refinery yard last Thursday," he said. "I stood behind a rail for two hours. They've a contained string, a six-knot, in a lattice of their own. They've a chartered foreman every Tuesday and Thursday, and a ward line that's paid. Their Kill's a second-year called Pettit." He was speaking to the cover of the book. "He isn't better than I am. I timed him. He's four-tenths at the top, the same as me, and his feet are worse."
 
 "But," said Perrin.
 
