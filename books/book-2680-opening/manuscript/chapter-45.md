@@ -124,7 +124,7 @@ He looked for a long moment. Down the hill Rhea Sorn was walking to the seventh 
 
 The yellow light. The sound of sand.
 
-And at the top, the blue ran on another eight paces, toward the wall, and a ninth pair of shoulders rose out of the road.
+And at the top, the blue ran on another eight paces, toward the wall, and another pair of shoulders rose out of the road.
 
 "It's not growing," said a voice at Kiva's elbow. "It's being paid out."
 
@@ -142,7 +142,7 @@ Vane wrote on his slate. He wrote very little.
 
 Rhea had stopped already. She stood below the sixth knot with her blade dark, looking up the hill, and Kiva saw her count.
 
-"Nine," she said. "I've cut two and there are nine." She put her hands back in her pockets. "Then I'm a gate and a pair of eyes until somebody stops that water. I don't like it. I've not liked anything since the thaw."
+"Eight," she said. "I've cut two and there are eight." She put her hands back in her pockets. "Then I'm a gate and a pair of eyes until somebody stops that water. I don't like it. I've not liked anything since the thaw."
 
 The ninth knot's head had begun to turn.
 
@@ -190,7 +190,7 @@ It was eight paces beyond her. There was nobody to bring a wall up inside. There
 
 The cord swung.
 
-It did not come fast. The ninth knot leaned, as the Flask had leaned at the Pit, and the white line between it and the eighth bellied out toward the east curb like a rope with a weight hung on it. The frost came with it. It crossed the gutter.
+It did not come fast. The ninth knot leaned, as the Flask had leaned at the Pit, and the white line between it and the next below bellied out toward the east curb like a rope with a weight hung on it. The frost came with it. It crossed the gutter.
 
 "*Step!*" said Anwen. "All of it! Eight paces! I'm going long!"
 
@@ -258,7 +258,7 @@ She had the answer. It was not a tidy one.
 
 He wrote on his board. He did not show her.
 
-"Step," he said. "It's not done. There's a tenth coming up, and the sixties are lit."
+"Step," he said. "It's not done. There's an eleventh coming up, and the sixties are lit."
 
 She stepped.
 
@@ -266,7 +266,7 @@ She stepped.
 
 The head of it reached the wall at half past eleven.
 
-Kiva had watched it come. She had called every one to Vane as it stood up, in her carrying voice, with the number. *Ten, at eight paces above twenty-nine. Eleven, at the last grating. The planks are holding.* She had written the minute beside each.
+Kiva had watched it come. She had called every one to Vane as it stood up, in her carrying voice, with the number. *Ten, sixteen paces above twenty-nine. Eleven, at the last grating. The planks are holding.* She had written the minute beside each.
 
 The blue line ran up the crown of Stopgate like a crack in a plate. It came to the stone sill of the black gate, and there it stopped.
 
@@ -364,11 +364,11 @@ It was a small sound. It was the sound of a rope's end dropped into a well.
 
 For a moment nothing happened.
 
-Then the cord drew up, a hand. All along the foot of the bottom wall, and through the black gate, and down sixty paces and thirty more of wet hill, twelve grey shapes leaned back a little, together. And eased.
+Then the cord drew up, a hand. All along the foot of the bottom wall, and through the black gate, and down seventy paces of wet hill, ten grey shapes leaned back a little, together. And eased.
 
 In. And out.
 
-"It's in the drain," said the man in the apron. He had let go of the ring. "God help us, it's got its arm down my slot."
+"It's in the drain," said the man in the apron. He had let go of the ring. "It's got its arm down my slot."
 
 Kiva put her right palm flat against the post behind her.
 

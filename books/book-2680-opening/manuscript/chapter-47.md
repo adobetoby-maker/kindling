@@ -1,10 +1,36 @@
 # Chapter 47 — Kiva: Entered as Such
 
-The second slip came off the key at a quarter past twelve, and it was not in her aunt's words.
+They would not let her stand for a quarter of an hour. When they did, Orla took her as far as the black gateway, with a blanket round her and the stick on the other side, and said that she might have one minute.
 
-Kiva was sitting on the dirt still, with a blanket round her that somebody had fetched from the Wren House cart. Healer Aske had her left arm across his knees. He had been over it from the shoulder down, with his thumbs, for some minutes, and had not said a word.
+"You'll want to see what it was for," said Orla. "I should, in your place. One minute, and then you sit."
 
-The first slip had been read aloud already. *Three pumps on three counts. Six-and-twenty minutes. The sump over its sill; seven cellars, perhaps eight. The bank is out. M. Rowan.* There had been a noise in the yard at that, not quite a cheer. Hollis Vane had taken his hat off and put it on again.
+Stopgate lay below them under its lamps.
+
+There was a pale stripe down the crown of the road, between the rails, where a wall of frost had lain down. Ten purse sheets stood along it in a row, drawn shut, each with a catcher kneeling at its neck and a red tag being written. A warden with a handbell was holding a lantern for Pru.
+
+It was not finished. Kiva saw that at once. The blue was still there, in the middle of the pale, thin as a pencil line. With nothing to hold it, it had gone on giving for a little while, as a cut goes on bleeding after the knife is out.
+
+"Three husks," said Orla. "They came up inside the first minute, one after another, and went to Sorn's gate like dogs to a dinner. Talley had one, and Gower, and a reserve blade of Twenty-Eight's whose name I never caught. Then that."
+
+At the foot of the blue, seventy paces down, ten wards had a wall of silver across the street from curb to curb. A string was leaning on it.
+
+It was a small one. It had four knots, and it stood on end, as a string ought, with its blunt head against the gate. Rhea Sorn stood behind its legs with her blade arm down. Beside her was a long-legged young man who had thrown away a stick.
+
+There was a girl in the middle of the wall. Kiva could not see her face. She could hear her.
+
+"Step," said Anwen. "Step. Hesketh, you're proud on the left. That's it. Step."
+
+And below the gate, working up the hill toward it, six people and a handcart were bent over the road with their backs to everybody. Where they had been, there was no blue. There was only wet stone, drawn together behind them like a seam behind a needle.
+
+"That's Bettan," said Kiva.
+
+"That's the Line, doing what the Line is for. It's not yours and it's not mine. It's the one part of tonight that nobody had to invent." Orla turned her round, quite gently, by the good shoulder. "That's your minute."
+
+They sat her on the dirt by the low wall, since she would not go farther. Healer Aske took her left arm across his knees. He went over it from the shoulder down, with his thumbs, for some minutes, and did not say a word.
+
+The first slip came off the key at five-and-twenty past twelve, and Hollis Vane read it aloud. *Three pumps on three counts. Six-and-twenty minutes. The sump over its sill; seven cellars, perhaps eight. The bank is out. M. Rowan.* There was a noise in the yard at that, not quite a cheer. Vane took his hat off and put it on again.
+
+The second came ten minutes after, and it was not in her aunt's words.
 
 The boy called Ned brought the second himself. He did not know to whom it belonged. He held it out to the first person in the yard who looked like a Renn.
 
@@ -24,7 +50,7 @@ She shut it again. It was not hers to ask for. It was the most plainly not hers 
 
 "There's two drams," said Anwen.
 
-She had come up from the street with the wall still in her shoulders. She was grey with tiredness, and there was frost melting on her sleeve.
+She had come up from the street when the last of the four was cut, with the wall still in her shoulders. She was grey with tiredness, and there was frost melting on her sleeve.
 
 "It's in the Low Lane. In the quench box, under my seal. I had it out of the press on Wednesday with the call drams, since a reserve is no use in a basement at midnight." She did not look at Kiva. She looked at Healer Aske. "It came off a husk on the Sag in the fifth month. Ward-trace. It's never had the hair. Is that what she wants?"
 
@@ -54,7 +80,7 @@ It was a strange thing to be the fourth. She had thought, for one breath, that s
 
 They did it on the lid of the Low Lane's quench box, as they had signed six hours before. Kellan held the lamp. Anwen broke the wax with her thumbnail, and read the entry as she wrote it.
 
-"*Thursday the 6th, half past twelve in the morning. Sealed medical reserve, W, 2.0. Opened by four. For: the reading hand of M. Rowan, operator, Grade Two, the Municipal Works, starved in taking the Ferren bank out of step. On the word of a grader and by the hand of Healer Aske. Medical.*" She looked up. "How much?"
+"*Thursday the 6th, twenty minutes to one in the morning. Sealed medical reserve, W, 2.0. Opened by four. For: the reading hand of M. Rowan, operator, Grade Two, the Municipal Works, starved in taking the Ferren bank out of step. On the word of a grader and by the hand of Healer Aske. Medical.*" She looked up. "How much?"
 
 "A dram and two-tenths," said Aske. "I'll not take more than I can use. The rest goes back under wax."
 
@@ -72,7 +98,13 @@ She wrote her name. It came out square and plain.
 
 ---
 
-They went down the Brickfields road in the Graywater van, with the rings whining and Ruddock at the tiller.
+They heard it as they went down the hill to the van. It came up Stopgate behind them in a cracked voice that Kiva had last heard on the cinders of the Pit.
+
+"*Closed! Ten to one, and it's shut!*"
+
+She did not turn round. There was a tin to be carried.
+
+They went along the Brickfields road in the Graywater van, with the rings whining and Ruddock at the tiller.
 
 Aske had the tin on his knee. He had insisted on the arm coming too, and the girl attached to it. *I want that under a proper lamp,* he had said. *And you'll not sleep until you've seen her, so you may as well be of use and hold the door.*
 
@@ -212,7 +244,7 @@ He turned the slate to the light.
 
 He turned the slate over.
 
-"*Tinned, clean: a hundred and ninety-two. That's off what came up after the hem was down; three husks and a string of four that stood on end like a Christian. It's been combed. It reads as this year's ash reads, and no louder. Put by, red, on catchers' words and a comb: five hundred and sixty and four-tenths. And a stripe of something that isn't in the yield book, which you're standing beside.*"
+"*Tinned, clean: a hundred and ninety-two. That's off what came up after the hem was down; three husks and a string of four that stood on end as a string ought. It's been combed. It reads as this year's ash reads, and no louder. Put by, red, on catchers' words and a comb: five hundred and sixty and four-tenths. And a stripe of something that isn't in the yield book, which you're standing beside.*"
 
 "And the remark?" said a warden.
 
@@ -360,11 +392,11 @@ She had her left hand flat on the table, under the lamp. She was reading the woo
 
 "She came to find me on Friday. She'd heard that there was a boy with a page." He laid it down. "She'd wired her own hall. That's what came back."
 
-It was a short column. *The harbour bank at Saltmere: thirty-six cells. In step from twenty past two on the 17th of the ninth month. Not come out. The harbour pumps have not dropped a stroke.* And below it: *Tears on the coast board since the thaw: nineteen, against seven. Skins: eleven. The Saltmere school's load plate: beaten four times.*
+It was a short column. *The harbour bank at Saltmere: thirty-six cells. In step from twenty past two on the 17th of the ninth month. Not come out. The harbour pumps have not dropped a stroke.* And below it: *Tears on the coast board since the thaw: nineteen, against seven. Skins: eleven. The Saltmere school's load plate: beaten four times.* And at the foot, smaller, as a thing is written that the writer will not vouch for: *A ship's engineer off a hull from over the water says that his own port's bank did the same, and puts it at the same hour, reckoned back. Not entered as fact.*
 
 "Twenty past two," said Mara. "On the seventeenth."
 
-"Two hundred miles off. In the same minute that four husks stood a square in the Pit." Noa's narrow face was grey with not sleeping. "I don't say that the Pit did it. I'd be a fool. I say that it wasn't only the Pit. Whatever fell on the seventeenth fell on two towns at once, and I'd want to know how many more before I wrote a word about why."
+"Two hundred miles off. In the same minute that four husks stood a square in the Pit." Noa's narrow face was grey with not sleeping. "I don't say that the Pit did it. I'd be a fool. I say that it wasn't only the Pit. Whatever fell on the seventeenth fell on two towns at once, and I'd want to know how many more before I wrote a word about why." His finger rested on the last, small line. "If that engineer's telling the truth, it isn't a matter of towns. I haven't a sheet wide enough for what it's a matter of."
 
 "Who's had this?"
 

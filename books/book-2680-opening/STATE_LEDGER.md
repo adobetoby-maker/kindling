@@ -390,3 +390,112 @@ what the prose shows is entered here.
   (she); Wilf Marten (he); Hesketh (she), Yarrow (he) and Foreman Birch (he) of the Halden
   license four, with Pettit (he) now on the page; Wace (he) of Old Four; Tibb and Stiles (he)
   of Graywater's ward line. The watch officers go by their watches (the Ferren is she).
+
+## Movement Six carried state (chapters 41–48) — end of Book One
+
+Recorded 2026-10-12 from the first draft, by its author, directly after the run. **First
+draft, unreviewed:** no editorial review, cold read, measurement, repair or recheck exists.
+The manuscript governs; full detail is in `provenance/MOVEMENT-006-CONTINUITY.md`. Only what
+the prose shows is entered here.
+
+- **Calendar.** Movement Six runs from the evening of Monday the 26th of the ninth month to
+  Sunday the 16th of the tenth, 2680. The tenth month begins on a Saturday. The emergency was
+  the night of Wednesday the 5th to Thursday the 6th (bell 11:02 p.m.; closed 12:50 a.m.).
+- **The Step.** Three bells on the 26th had no tear under them; the grid's mark was moving,
+  and masts were then watched by people. The Step was not walking the copper. The drums fell
+  in in the order that the **Ferren main** (the storm drain) reaches them, two days apart: 19,
+  20, 21, then 25, 28 and 29; drums 22–24 on the Kiln loop never did. The three stepped pumps
+  make the main rise and fall four counts in and four out. Two drums quenched as a firebreak
+  did not stop it, and went in inside sixty counts when filled. Nobody on the page says that
+  water can step a cell, or why the bank fell in on the 17th of the ninth month.
+- **The post.** The leaning post in the Old Yard is the handle of a sluice gate (a penstock in
+  a brick shaft eight feet down, on a raked screw inside the post; a bar; nine turns "shuts
+  the hill from the low streets"). The lane was laid over the drain, which turns there. The
+  School straightened the other posts in 2390; the *Standard Lane Manual* kept the reason
+  (*because the road isn't straight. S.V.*) until 2603 and lost the method; the Home Line's
+  lane sheet kept the method (*Call the turn before the eighth, aloud, and say who has the
+  bar. Two to the bar*). The street below the School is called Stopgate. The tenth edition
+  restores all seven columns, with two lines of Kiva's in the fifth and sixth.
+- **The string of the 5th.** A tear lying in the crown of Stopgate over the breathing main; a
+  string "laid on its side," knots abreast eight paces apart, every knot reading, a new knot
+  rising at the uphill end as the tear ran on (twelve rose; two were cut early; ten stood). It
+  ignored a lit gate and turned to lit cell boxes. Where the drain dives at the School's gate
+  it stopped and put an arm twenty-three paces along the wall into the open sluice shaft, and
+  with the arm in the water it pumped the main. It has no name and no yield class on the page.
+- **How it was answered.** Kiva took the arm off the water with the three-door sequence,
+  carried it north across the lane to ground that she had tested (east was the drain), planted
+  it, and gave the corner at about nine to three student still-doors (Wace, Hendry Moss,
+  Yarrow); Perrin Cade and Lowen Brask shut the sluice with the bar; the Municipal Works
+  stopped the pumps and quenched the Ferren bank; on Kiva's word ten blades, under the foreman's
+  slate, cut the ten knots (Rhea Sorn, Kellan Renn, Jude Talley and Officer Yeo are named;
+  the Halden four cut two); the Home Line closed the tear. Mara Rowan and
+  twenty-four hands filled the bank with fresh cans, each salted with a pinch of plain ash
+  from the Wren House reference shelf and tuned to its own count, and restarted three pumps on
+  three counts. **The Ferren bank is out of step.** The pumps stood twenty-six minutes; eight
+  cellars in the Hythe took a hand of water. Nobody died. Sixty-two houses and the School were
+  cleared; the School's core was put down by its keeper and raised the next noon.
+- **What remains.** Seven drums (19, 20, 21, 25–28) are still in step, each alone on an open
+  link, to be done one a day. Drum twenty-nine was fouled by about thirty drams through a
+  split plank; four streets are on boxes about a month. Saltmere's harbour bank (thirty-six
+  cells) went into step in the same minute on the 17th of the ninth month and has not come
+  out.
+- **Body.** Kiva's left arm lost feeling to a hand above the elbow and returned over four days
+  to where it was. **The first two left fingers are exactly as before; nothing restored them.**
+  Aske: nothing lit until the new year. Mara's left, reading hand was starved to the wrist and
+  eased inside the hour; a week before she reads a drum, a month before a bank. Perrin: two
+  ribs sprung, not broken.
+- **Three doors.** Three clean in all (a yard, the Pit, the Old Yard). The third was offered
+  by Kiva and not asked, under a Home Line direction and Rhea Sorn's hand, with the price said
+  first by her healer ("I think it goes to the elbow… I don't know"). Still uncertified,
+  unclassified, and "not to be asked of her."
+- **Place.** The Chair, the 14th of the tenth month: *Rowan, K., Third Division, the Crooked
+  Line: seated. No longer provisional. Catcher.* Sponsor's line and all certificate conditions
+  stand; "not thereby classified." The Home Line watch, the 13th: *Rowan, K. Entered on the
+  Line's roll as catcher, autumn 2680. Hand as before.* (not a seat; a line-hand's day rate
+  when called).
+- **The offer.** Rhea Sorn's card: catcher's second to Pike on the night van, two nights a
+  month from the new year to the last of the third month, dark hands, no door not on her
+  certificate, Pru Finch with her for the cord, Team Seven first, "either of us may say no. No
+  seat is promised." Kiva added that the *before* column be read out and that her four have
+  the first word; the four signed the back on the 15th.
+- **The disk.** Cold throughout. The School's "plate" is a plaster cast, labelled as taken by
+  leave of the bearer; the Reader matched it to Kiva's (a wider fifth ring; a flaw across the
+  third) and recognized hers as the plate of nine rings carried by the first teachers,
+  released by appointment. The School's tenth edition will say so from its fourth. What it is
+  for is unknown; the first book is lost.
+- **The dream.** No recurrence. A second, independent account: the Ferren pump house keeper's
+  book for 2604 records a three-night fever and a dream that "the roof was off the house and
+  there was nothing over it," with all twenty-four needles "looking," on a night when the
+  levee lamps went out with no fault. It gives no cause, meaning or use.
+- **Instrument evidence.** On the 5th the notch on Kiva's pen came eleven seconds after her
+  second cliff, and the lamps (every box-lit window on the hill and in the School, and
+  twenty-four quenched needles at the pump house) jumped about five minutes later, when the
+  hem came down. They are two things. Noa Bexley's three columns (people; rifts and spawn;
+  Saltmere) all rise, and faster since the fifth month; the Chair has sent them to the Charter
+  Board with Mr. Adlam second. One unvouched line says that a port overseas saw the same.
+- **The season.** Read. The Regional result stands, without brackets: 1. Halden License. 2.
+  Old Four. 3. Team Twenty-Eight. 4. T7. The first company goes to **the National Measure, at
+  Saltmere, in the third month, 2681;** Selka Dray's mast rule goes with it under seal.
+- **Team Seven.** Second step in its own right. Book: **held 25.53; sealed medical (W) 0.8,**
+  opened once, for Mara Rowan's hand (1.2 drawn, entered as medical). In this movement: 3.0 on
+  a second purse sheet for Pru Finch; 0.70 of call drams; 0.59 on the three-door; 4.0 lent to
+  the casualty reserve and repaid; 9.0 credited from Stopgate's pot (1.8 by name to Jude
+  Talley, who now has 7.8); 1.0 returned at par to Stopgate's wardens. From Stopgate: 192
+  drams clean, shared civic 96, reserve 24, schools 36, teams 36; 560.4 red-tagged.
+- **People.** Kellan has taken the Halden yard and stays on Seven's book. Anwen keeps her
+  summer place on Mace's line and has told her mother. Perrin held 380 kilos for thirty counts
+  and has his Hall's second team from the new year. Pru has her own sheet and her own red tag.
+  Selka Dray called the count from a chair, on terms, and is unpersuaded. Lowen Brask was at
+  the bar. Jessamy Hart has answered Orla from the south coast and asks to read what Kiva has
+  written down; Kiva has not been told. Examiner Rusk gave Mara the trunk. Mara has written
+  the method in seven columns for the coast boat.
+- **Words.** "The Ferren main"; "a float"; "a firebreak"; "the Kiln loop"; "Stopgate"; "the
+  sluice," "the penstock," "the bar," "two to the bar"; "call the turn"; "a string laid on its
+  side," "abreast," "paid out"; "an arm"; "a plank" for a corner leaned between still-doors;
+  "starved" (a hand that ward-trace can ease) against "turned out" (one that it cannot); "the
+  *before* column"; "seated"; "the Charter Board"; "the National Measure."
+- **Names and pronouns introduced (author's choice, pending owner review).** Ansty (she;
+  keeper of the School's core house); Lumb (he; keeper of the Ferren pump house); Ned (he; a
+  fitter's boy); Officer Yeo of Saltmere (she); Mr. Garland and his bird Admiral; Bettony
+  (she; a junior). Kellan's mother signs "A. Renn, grader." The School's bursar and the junior
+  with the plait are unnamed.
