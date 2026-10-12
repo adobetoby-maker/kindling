@@ -182,7 +182,7 @@ He folded the canvas over his knee. He took his time.
 
 Rhea did not answer.
 
-It was a hard thing to hear from a man who had knelt at her hems for sixteen years. It was harder that he had said it while threading a needle.
+It was a hard thing to hear from a man who had knelt at her hems for the best part of her time on the van. It was harder that he had said it while threading a needle.
 
 *What's there?* she asked herself. It was her oldest question.
 
@@ -192,7 +192,7 @@ A catcher, with eight fingers that reported. A healer's card that said he would 
 
 She turned round, in her chair, and looked.
 
-The map wall. A lamp for every mast in the district, and nine of them lit, since she had a student sitting under each with a drum and a boy to run. A painted table with her company second on it and a remark in the last column. And a long way behind that, a culvert on the Ferren in the autumn of '64, and a young blade with a broken wrist being hauled out of the wet by a levee catcher who kept one hand shut on something at her throat.
+The map wall. A lamp for every mast in the district, and nine of them lit, since she had a student sitting under each with a drum and a boy to run. A painted table with her company second on it and a remark in the last column. And a long way behind that, a culvert on the Ferren in the autumn of '64, and a young blade who had gone in too far being hauled out of the wet by a Home Line woman who kept one hand shut on something at her throat.
 
 Ilse Corran had not asked her whether she wanted pulling out. She had been glad of that for sixteen years.
 
@@ -360,7 +360,7 @@ The planks over the nearest grating had gone white. She saw frost run along them
 
 Then, the whole length of that seam, things began to come up.
 
-They did not come one above another. She had seen a string climb out of a hatch a knot at a time. These rose together. Eight grey shoulders came up through the blue, side by side, six paces apart, each on a pair of legs as thick as lampposts, and between each and the next there ran a white cord at the height of a man's chest.
+They did not come one above another. She had seen a string climb out of a hatch a knot at a time. These rose together. Eight grey shoulders came up through the blue, side by side, eight paces apart, each on a pair of legs as thick as lampposts, and between each and the next there ran a white cord at the height of a man's chest.
 
 It was a string. It was a string laid on its side.
 

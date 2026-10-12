@@ -48,7 +48,7 @@ She read it out.
 
 "I said that you might ask," said Birch. "I didn't say it'd answer politely."
 
-There were a good many people along the rail. The Placement Chair had come, since there were students on a floor with a rift at one end of it, and she stood by the gate with her hands folded. Hollis Vane was there with his slate. Rhea Sorn had brought Pike, and Greta Stroud, and nobody else.
+There were a good many people along the rail. The Placement Chair had come, since there were students on a floor with a rift at one end of it, and she stood by the gate with her hands folded. Hollis Vane was there with his slate. Rhea Sorn had brought Pike, and Greta Stroud, and Ruddock with his bag, and nobody else.
 
 The fours were along the east wall, dark. Old Four had come, and Twenty-Eight with its reserve blade, and Halden's own three in their black and gold. Seven stood at the end.
 
@@ -482,7 +482,7 @@ The Reader put on the second spectacles over the first.
 
 It was a single sheet, soft as cloth, ruled in seven columns. She bent over it for some time.
 
-"This is older than my manual," she said. "By two hundred years. It's the same entry. It isn't the same words." She read it out, slowly, a column at a time.
+"This is older than my manual," she said. "It's a copy, in the record hand, of something a good deal older again. It's the same entry. It isn't the same words." She read it out, slowly, a column at a time.
 
 "*The lane with the crooked posts. At Meridian, under the south wall, on the line of the hill drain.*
 
@@ -506,13 +506,13 @@ Kiva found that she had her right hand flat on the shelf, as she would have laid
 
 He was looking at her.
 
-"I stood in that yard on Saturday night and watched you make a carry team shout *post, left* over its shoulder. I thought that it was neat. I thought that you'd made it up." He put his hat down on the tin case. "You had. That's what I can't get past. Somebody wrote that down four hundred years ago, and a school lost it, and a committee voted on it, and you made it up again in a quarter of an hour because two litters hit a post."
+"I stood in that yard on Saturday night and watched you make a carry team shout *post, left* over its shoulder. I thought that it was neat. I thought that you'd made it up." He put his hat down on the tin case. "You had. That's what I can't get past. Somebody wrote that down five hundred years ago, and a school lost it, and a committee voted on it, and you made it up again in a quarter of an hour because two litters hit a post."
 
 "It was Perrin who said it was a lane call."
 
 "I dare say it was." He turned to the Reader. "May that sheet go to the head of Stopgate? Today? I'll sign for it under the watch's name."
 
-"It may go wherever the Line carries it. It's the Line's. I've only read it to you." She took off the second spectacles. "You'll want a spade, Officer. That plate shows the bar a hand above the ground. It's had four centuries of yard swept over its feet."
+"It may go wherever the Line carries it. It's the Line's. I've only read it to you." She took off the second spectacles. "You'll want a spade, Officer. That plate shows the bar a hand above the ground. It's had a good many centuries of yard swept over its feet."
 
 "I've a man with a saw," said Vane. "I told a sponsor so. I shall send him home and ask him whether he's a shovel."
 

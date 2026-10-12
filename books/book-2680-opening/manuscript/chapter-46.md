@@ -616,7 +616,7 @@ He was at the shed. He had a white flag in one fist, as high as his arm would go
 
 "They're two. One of them keeps time with you. The other keeps time with that." He nodded at the wall, and the street beyond it. "I don't know what either is. But I know now that I've been adding a column to its neighbor."
 
-"You held it nine," said Selka Dray.
+"I counted you," said Selka Dray.
 
 She had stopped calling. She sat in the infirmary's chair with her blanket round her and her leg stuck out, and her sunk eyes were on Kiva.
 

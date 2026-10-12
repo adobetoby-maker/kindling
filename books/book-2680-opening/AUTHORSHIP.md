@@ -1420,3 +1420,185 @@ Full detail, with before-and-after text, is in `editor/MOVEMENT-005-REPAIR-REPOR
   `18f62e299615a1c602a1c772016c55648c29596f041faa76c37edbba90f8ff9d`.
 - The frozen first draft still verifies against its manifest. This accepted edition is the
   canonical handoff to Movement Six.
+
+
+## Movement Six — Why It Is Crooked (chapters 41–48)
+
+- Status: **first draft written 2026-10-12 as one continuous creative run. Unreviewed.** No
+  editorial review, cold read, metric scoring, repair, recheck or frozen edition exists for
+  this movement. This movement completes the first draft of Book One. Book Two was not
+  started.
+- Seat: Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 (progression-adventure)
+- Selected author: Opus
+- Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported by
+  the runtime environment of the authoring session ("powered by the model named Opus 5.5. The
+  exact model ID is claude-opus-5-5"). Every manuscript sentence in chapters 41–48 was written
+  by this model in one Claude Code session. **No Task tool, workflow, skill or subagent was
+  used**, and no other model wrote, revised or summarized prose.
+- Provider: Anthropic, via Claude Code (Claude Agent SDK), non-interactive session
+- Session: Claude Code session `79b5006a-0ec6-4a2d-b6cd-75ff1285a165` (the identifier in the
+  session's own tool-result path; no web address for it was visible to the author). A new
+  session, not any earlier drafting, review, repair or recheck session. By the machine's
+  clock it ran from about 00:21 to about 01:25 MDT on 2026-10-12; by file timestamps the eight
+  chapters were first written between 00:39 and 01:10 and last corrected by 01:16.
+- Compiled prompt: `planning/OPUS-5.5-MOVEMENT-006.prompt.md`
+  (SHA-256 `39e2fb7abbddd6c8a25b438be9ea2f0eff0b4b64f6d4fd83b8b34914dd886f66`), read in full
+  (all 2,227 lines) before drafting. The prompt embeds chapter 40,
+  `provenance/MOVEMENT-005-CONTINUITY.md`, `STATE_LEDGER.md` and the owner-voice seed; those
+  were read there.
+- Movement packet: `packets/MOVEMENT-006.md`
+  (SHA-256 `2086f0b3fa92e5f525d8c49225a873d735a5633c2f208ed1c69f9a523f8b0073`)
+- Numerical formula: `/Users/drive/penname/research/ironprince-craft-formula.md`,
+  SHA-256 `9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8`
+  (re-hashed in this session; matches the hash recorded in the compiled prompt)
+- Edition: Book One, Movement Six, first draft (2026-10-12). **No frozen edition exists for
+  this movement.**
+- Branch: `worktree-kindling-2680-prologue-m001-opus55`, at `1d8c9f0` ("Prepare Kindling 2680
+  movement six") when the run began. **The author made no commit and no push.** Another
+  process committed each chapter shortly after it was first saved: `3048a59` (41), `fb06b40`
+  (42), `fe8ef85` (43), `adb81c3` (44), `9f01f10` (45), `9b9db38` (46), `5cb341b` (47) and
+  `465d48b` (48), each titled "Draft Kindling 2680 chapter NN." **Those commits hold the text
+  as first saved. The author afterward made continuity corrections and two additions in the
+  working tree (listed under "Not done in this run"), so for chapters 43–48 the working tree,
+  and the hashes in the table below, are ahead of what was committed.** Anything published
+  from those commits should be refreshed from the working tree. At the time of this entry the
+  six chapters, `STATE_LEDGER.md` and this file were modified and the checkpoint was untracked.
+- Continuity checkpoint: `provenance/MOVEMENT-006-CONTINUITY.md`
+  (SHA-256 at the time of this entry
+  `11b53ca959675fe5a34c2c08a828c4fc4642d6df74b18c8e0815bd2d5fd0f427`)
+- State ledger: `STATE_LEDGER.md`, new section "Movement Six carried state (chapters 41–48) —
+  end of Book One."
+- Also read in this session, beyond the compiled prompt: **accepted chapters 33–39 in full**
+  (chapter 40 is in the prompt), as the packet requires; `universe/NAME_REGISTRY.md`,
+  `BOOK_MAP.md`, `SERIES_MAP.md` and `CHARACTERS.md` (in full); and sections or line-level
+  excerpts found by search: `UNIVERSE_BIBLE.md` (the Unroofed Sky; the energy history; the
+  artifacts); the prologue (the reasons column and "the lane with the crooked posts"; the 2603
+  committee and the superseded stacks; the 2247 compact core);
+  `provenance/MOVEMENT-002-CONTINUITY.md` sections 4–5, `MOVEMENT-003-CONTINUITY.md` sections
+  4–5 and `MOVEMENT-004-CONTINUITY.md` sections 4, 5, 7 and 8; every mention in chapters 1–40
+  of the leaning post, the core house, a core, Barrel, Saltmere, the anniversary, the 2604
+  entry, Rusk, Bettan, Doran Mace, Hendry Moss and Ostrey; the section headings of this file
+  and its Movement Five entries.
+- **Not read in this session:** chapters 1–32 other than the excerpts above;
+  `provenance/MOVEMENT-001-CONTINUITY.md` beyond searched lines; `IDEA.md`, `README.md` and
+  `PROLOGUE_PLAN.md`; the editorial reviews, cold reads, repair briefs, repair reports and
+  rechecks of any movement. Their canon was taken from the checkpoints embedded in or cited by
+  the prompt. A review should weigh that when it checks voice and small facts.
+- Disclosed: session start-up injected project memory (a stale Movement One handoff, a
+  recent-activity summary, and a list of earlier observations, one of which describes a
+  48-chapter whole-book review that belongs to some other session or book). None of it was
+  used as evidence for story facts, and no memory or work-state tool was called. The author
+  kept no scratch file; the route was held in the session and is now superseded by the
+  checkpoint.
+- Premise and owner names: confirmed available before prose (Kiva Rowan, Mara Rowan, Orla
+  Dane, Anwen Pryce, Perrin Cade, Kellan Renn, Noa Bexley, Ysra Crest, Rhea Sorn, Hollis Vane,
+  Lowen Brask, Selka Dray, Jude Talley, Pru Finch). No locked name was changed. New minor
+  names (Ansty, Lumb, Ned, Yeo, Garland, Admiral, Bettony; the place names Stopgate and the
+  Kiln loop; the initial in "A. Renn") were checked by search against every book's manuscript
+  and registry in this repository and `universe/`; none matched. One first choice was dropped:
+  "Tam," too near Tamar Vey of the universe bible, became Ned. "Ostrey" was considered for a
+  third Graywater blade and not used.
+
+### Files
+
+| File | Heading | Viewpoint | Words (`wc -w`) | SHA-256 |
+|---|---|---|---:|---|
+| `manuscript/chapter-41.md` | Not the Copper | Kiva | 7,250 | `5f8cb0aacec4f9f62e6d92b21cd641eddda2bbb3741547df045dd8da17001b1e` |
+| `manuscript/chapter-42.md` | The Ninth Post | Kiva | 6,408 | `60cd5291f62137f77d94e668bb297ba847a8b852a35807367d6121a1c82d3a80` |
+| `manuscript/chapter-43.md` | A Drain in a Box | Kiva; Kellan cutaway (1,035) | 6,853 | `3ab68ff5e796349b64b641506734e6c28873b6f61586a171e29fad7ab6200cb7` |
+| `manuscript/chapter-44.md` | Two to the Bar | Kiva; Rhea cutaway (1,131) | 5,572 | `e0ef75033f437348d3b3e11c1873aa15c6a3cf170f7f1010a48fad43fa9c64c4` |
+| `manuscript/chapter-45.md` | Paid Out | Kiva; Anwen cutaway (1,294) | 5,147 | `45209fc0e4abd57d83552fafaebfa685f96a148c40a7aa49614084276cfc0cf4` |
+| `manuscript/chapter-46.md` | Call the Turn | Kiva; Perrin cutaway (863); Mara cutaway (1,730) | 7,175 | `7f154f83eeaf430b98fca1c2e49e4838b9d2fca0211fb967b9aeff96c72a34ed` |
+| `manuscript/chapter-47.md` | Entered as Such | Kiva | 5,907 | `335e89f86a309ad3966ec5b5b0d9c52f1b5fcab272e2fe74e0c12b7ea1c062b9` |
+| `manuscript/chapter-48.md` | Why It Is Crooked | Kiva; Orla cutaway (439) | 6,554 | `7902237b16c8dc5f882acac6cfe990abda96faff38f24958abfd3f7520753b39` |
+| | | **Movement Six total** | **50,866** | |
+
+Secondary-viewpoint sections total 6,492 words across six people (Mara 1,730; Anwen 1,294;
+Rhea 1,131; Kellan 1,035; Perrin 863; Orla 439), about 12.8%; Kiva holds about 87.2%. Every
+one of the six has been a viewpoint in an earlier movement; none is new. The eight chapters
+have 44 sections (about 1,156 words a section). These are plain section word counts, not craft
+measurements.
+
+With the accepted counts already recorded in this file for the prologue and Movements One to
+Five, this draft brings Book One to its 48 chapters. The whole-book total was not recomputed
+in this run.
+
+### What was written
+
+Chapter 41 turns the inherited clock over. Three bells ring with no tear under them; the
+Step is found to be walking the Ferren storm drain, not the copper, when drum twenty-five
+falls in out of its turn; the Municipal Works tries a firebreak of two dry drums, and Mara
+puts a dated prediction under the Chair's seal. Team Seven lends to the casualty reserve,
+buys Pru Finch a sheet of her own, and hears that Kellan has taken the Halden yard. Perrin
+holds 380 kilos. Chapter 42 is preparation: Mara's floats, Pike's yard (Pru catches, Kiva is a
+corner and lists every handoff her hand needs), and Vane's evacuation walked in the dark,
+where two litters strike the leaning post and Kiva has the bearers call it for themselves.
+The drain plan turns out to have been tidied. Chapter 43 is the controlled drill in the
+Halden license yard: a contained string ignores a lit gate for water that keeps time, a clean
+cut cooks a bench bank, and the string goes on pumping the trough with the pump dead. Kiva
+calls a slack with a hand that cannot hear and nips Pru's fingers. The Library and the Home
+Line's lane sheet give the post's what and why; drum twenty-eight falls in on the day Mara
+wrote down. Chapter 44 digs up the sluice, takes twenty-four pinches from the reference shelf
+and refuses two other sources of ash, gives Rhea Sorn a sixth column and Selka Dray the count,
+and ends with a tear lying down in Stopgate. Chapter 45 is the night's first half: the
+evacuation, Rhea's two cuts and the discovery that the string is being paid out, Anwen's
+walking wall, and the arm reaching the one hole that could not be planked. Chapter 46 is the
+answer: the price first, the mark turned north, catch, carry and plant, the corner given to
+three still-doors, two to the bar, twenty-four cells quenched and filled on twenty-four
+counts, and *back.* Chapter 47 closes the ledger of the night: the sealed reserve opened for
+Mara's reading hand, the keeper's book of 2604, the slate and the pot, the arm's return, and
+Noa's three columns. Chapter 48 closes the book: the Line's roll, the School's plaster cast
+and the Reader's recognition, "seated," Rhea Sorn's bounded card, the last entry, Jessamy
+Hart's four lines, and fourteen juniors running the lane to the bar.
+
+### Not done in this run
+
+No editorial review, cold read, repair pass, metric scoring, frozen edition or narration, and
+no commit, push or publication by the author. The formula's sentence, paragraph, readability,
+progression-vocabulary and development-cadence targets were written toward and **have not been
+measured** for these chapters. Nothing here should be read as a passing score. Word counts,
+section counts and hashes above are mechanical facts for the record, not an assessment.
+
+During drafting the author corrected continuity slips only, as the task allows, by small
+exact-string edits made after a chapter was written and once more while the records were
+compiled: a garbled line of Mara's and the hour of the *Held* notice (41); Hendry Moss, who is
+not a first-year and not lanky, three counts of landings and scratches on the cross that the
+page could not support, and "six hundred years" of students (42); Ruddock's presence at the
+drill and the age of the lane sheet (43); who pulled Rhea Sorn from the culvert and Pike's
+years (44); the spacing of the knots, changed from six paces to eight so that twelve fit the
+hill (44); the count of knots after two cuts, the names of the later ones, and one minor name
+(45); the number of still-doors on the corner, the length of time that they held it, and
+**the notch, which the first text put at the instant of *back* and which now falls eleven
+seconds after the second cliff, five minutes before the lamps** (46); Noa's first sight of the
+plate, which the first text put in a movement where he does not appear (48); and two idioms.
+**Two passages were added to complete what the packet requires and are not corrections:** in
+chapter 47, Kiva's minute at the gateway (the last string on Anwen's wall and the Home Line's
+closing crew at work) and Bettan's "Closed!"; in chapter 48, the last entry of the team book,
+with Sorn's card put to the four. None of this was a review or a scored pass.
+
+### Choices the owner should review
+
+Full list in `provenance/MOVEMENT-006-CONTINUITY.md`, section 9. The largest:
+
+1. **The Step walks a storm drain.** Three stepped pumps make the Ferren main rise and fall;
+   drums fall in in the order the water reaches them. Shown by order, a sealed prediction and
+   a bench trough; never stated as a law.
+2. **The crooked post is the handle of a sluice gate,** on a lane laid over a drain that
+   turns. The prologue's line (*because the road isn't straight. S.V.*) is unaltered; the
+   method comes from a Home Line lane sheet. The street is called Stopgate.
+3. **The new spawn expression has no name and no yield class:** a string laid on its side,
+   paid out of a tear held by the drain, which pumps the main once it has an arm in water.
+4. **Kiva's third three-door** is offered and not asked, carried across the haul to ground
+   that she tested, and **handed to three other students at about nine.** The arm is lost for
+   four days and returns; the fingers are as before.
+5. **The sealed medical reserve is opened once, for Mara Rowan's reading hand.**
+6. **The answer is local and provisional:** one bank out, seven drums waiting, one fouled,
+   Saltmere's still in step.
+7. **Kiva's place** is the Home Line's roll and the Chair's "seated"; the brackets come off
+   Seven and Old Four.
+8. **Rhea Sorn's offer** is two nights a month as a catcher's second, for three months.
+9. **The disk** is recognized through the School's plaster cast, by the Reader, as the plate
+   of the first teachers; it stays cold.
+10. **The historical echo is a pump keeper's book of 2604,** not a Glory master's.
+11. **Saltmere's bank fell in the same minute,** Jessamy Hart answers, and the first company
+    goes to a National Measure at Saltmere in the third month of 2681.

@@ -30,7 +30,7 @@ He wrote. He turned the old ledger so that Kiva could see the line come.
 
 *Rowan, K. Entered on the Line's roll as catcher, autumn 2680. Hand as before.*
 
-She had written those last three words herself, a fortnight ago, in a canvas book, since nobody else had a place to put them. It was a different thing to watch them go down in a watch officer's hand, under a line of 2471.
+She had written those last three words herself, on a Sunday night in the ninth month, in a canvas book, since nobody else had a place to put them. It was a different thing to watch them go down in a watch officer's hand, under a line of 2471.
 
 She found that her eyes had stung. She kept them on the ink until they had stopped.
 
@@ -92,7 +92,7 @@ There was a scratch on the disk. She had known it since she was thirteen. She ha
 
 He had come off the bench without being asked, and stood a pace behind the Reader, with his hands shut behind his back so that nobody should think he meant to reach.
 
-"I drew that. In the spring. I drew the nine rings off a sketch in the Founders' History, and then I saw the real one at her collar in the Cellhouse, for about as long as a blink, and I thought, that's the fifth ring, that's wider." His narrow face had gone red. "I never said. I'd nothing but a blink. I've had it on a page since the fifth month, with a question mark."
+"I drew that. In the sixth month. I drew the nine rings off the plate in the fourth edition of the Founders' History, with the fifth one wider, and I wrote beside it, *Is hers the same?*" His narrow face had gone red. "I never asked to see. It wasn't mine to ask. Then the watch said that it wasn't anybody's. I've had it on a page ever since, with a question mark."
 
 "You may take the question mark off," said the Reader. She straightened, a hand in the small of her back. "I'll say it, since I'm the only one in this room whose trade it is to say that one old thing is another. That is the plate of nine rings that the first teachers carried. It was never preserved by anybody. It was *released.* It has gone from hand to hand by appointment, with a watch to witness and not to choose, for as long as there has been a Line, and it has come down that road to a catcher of seventeen who was named by a woman who liked a question that she'd asked." She took off the upper spectacles. "I have asked the School for it for thirty-one years. I have been looking at a girl's collar since the sixth month."
 
@@ -232,6 +232,72 @@ Rhea looked at her for some time.
 
 ---
 
+Four of them signed the book on Saturday, at the Rowan kitchen table, and Kellan read the whole of it, since it was the last of the season.
+
+"*Saturday the 15th of the tenth month. Call reserve, 2.5: spent, 0.70. Pryce, forty-one hundredths, on a wall. Cade, fourteen, on a bar. Talley, nine. Renn, six. Rowan, none. Returned to held, 1.80.*" He turned the page. "*Three-door line, 0.59: spent, whole, on the 5th, under direction. Lent to the casualty reserve, 4.0: repaid on the 4th. Credited from Stopgate, by the foreman's pot: 9.0. To Talley, J., Kill, by name, a head's share: 1.8. To the book: 7.2.*"
+
+"That's seven and eight-tenths with my name on it," said Jude. He was by the dresser, as ever. "In one autumn. A draft board will think that I've been robbing a van."
+
+"*Held: 26.53. Sealed, medical, W: 0.8. Opened once; see the 6th.*" Kellan blotted it. "That adds. I've done it three ways."
+
+"It can't be made up," said Anwen. "The reserve. I asked at the ash office. There isn't a pinch of plain ward-trace to be bought in Meridian; it's all had the hair since the thaw. So it's eight-tenths, and it stays eight-tenths until somebody kills something quiet." She did not sound sorry. "I'd sooner have it short and know what it was for."
+
+"I've a line," said Jude.
+
+They looked at him. He had never proposed one. He was on the book by name, for a share, and had been careful since the seventh month to ask for nothing else.
+
+"Stopgate. The top of it. There are four streets on boxes off drum twenty-nine, for a month, since a plank split. It was nobody's plank. It was under the knot next to mine." He scratched his jaw. "A dram, at par, to the wardens' account. I asked last week what ash was for, and a man told me. I'd like to have done it once on purpose."
+
+"That was my line," said Perrin. "In the seventh month. I'd like it known that I'm not jealous. I'm flattered. It's a new feeling and I don't trust it."
+
+Anwen wrote it. *Returned at par to the wardens of Stopgate, for the boxes on drum twenty-nine: 1.0. Held: 25.53.*
+
+"Saltmere," said Kellan. "The office hasn't posted a warrant for it. Nobody from this Circuit has been sent to the coast in eleven years. It was two a head to a regional qualifier, and it'll not be less." He did the sum aloud, since he could not help it. "Five heads. Ten, at the least. We've five-and-twenty. I've never before had a figure come out with something over."
+
+"Five?" said Jude.
+
+"If you'll stand. By name. On your three things."
+
+"I'll stand. I'd want to see the sea." The chipped tooth showed. "And Renn's feet on a strange floor. I've a notion that they'll fall in love again."
+
+"They're cured."
+
+"Nobody's cured. Ask Aske."
+
+Kiva had the card in her coat. She had carried it since six on Friday.
+
+She laid it on the table, on the green cover, and read it to them. She read every word, down to *No seat is promised.* Then she told them the two things that she had asked for in the yard, and what she would do if they said no.
+
+"Six nights," said Kellan. "Two in a month, for three months. It costs the book nothing. If we want a floor on one of them, she's ours; it's written." He turned the card over, to see whether there was anything on the back. "I can't find the catch. I've looked for it as I'd look for one of Adlam's."
+
+"I mind," said Perrin.
+
+He had his hands flat on the table. He was strapped to the armpits again, and sat like a man in a barrel.
+
+"I mind that it's Sorn, who's had us in brackets since the fifth month. I mind that it's you, again, with a card. I've looked under both of those, and there's nothing there that would bear weight." He drew what breath he could. "I've a place in my Hall's second team from the new year, in my own colors. I've a figure cut in a stone. So I'm signing, and I'd like it noted that I minded properly, and at length, and that it was only habit."
+
+"What's behind it?" said Anwen.
+
+"A hem. Pike. And my mouth shut until the bag's sealed."
+
+"For three months."
+
+"Yes."
+
+Anwen considered that for some time.
+
+"I'd pay to watch," she said. She signed the back of a chartered company's card, in brown ink, which nobody at the ash office had a rule for. The others signed under her.
+
+Mara came up the shop stair as they were blotting it. She had eleven sheets under her arm, tied with tape, and she carried them in her left hand.
+
+"That's for the coast boat on Monday," she said. "*How the Ferren bank was taken out of step, with what was got wrong first.* I've put Rusk's firebreak in it, by his leave. He said that if I left it out, he'd come and write it in himself." She laid the bundle on the dresser and put the brass weight on it. Then she looked at the table, and the book, and four names on a slate-blue card. "I'm told that nobody's to ask me whether she ought. I notice that nobody has."
+
+"I asked them," said Kiva.
+
+"So I heard. Through a floor." Something happened at the corner of Mara's mouth. "It took a good deal longer than telling them would have."
+
+---
+
 Orla Dane had moved her crate.
 
 It was not far. It was a pace to the north, out of the line of the south row. A watch officer had pointed out, quite civilly, that she had been sitting on a casualty road for one-and-twenty years, and she had not been able to find an answer to it.
@@ -360,11 +426,7 @@ Kiva walked back along the lane to the first shed, and stood under the lamp, whe
 
 "I had it ready."
 
-"I know. I watched you put it in your pocket." She was not smiling. She had the look that she wore when a wall had been gone over and had no thin place in it. "Sorn's card. You've not said."
-
-"I'm asking the four on Tuesday. At the table. I've the bad answer written; if it's no, I go to Pike's yard on my own nights and learn it slower."
-
-"It won't be no. Perrin will mind, at length, and sign. Kellan will do the sum. I'll ask what's behind it." She put the pencil back in the left pocket, and did up the button, without comment, as one does up a child's. "I told Mace on Thursday. About coming off a join. He'd it on his board already. He'd written, *Said so as she went.* He's left my name where it was."
+"I know. I watched you put it in your pocket." She was not smiling. She had the look that she wore when a wall had been gone over and had no thin place in it. She put the pencil back in the left pocket, and did up the button, without comment, as one does up a child's. "I told Mace on Thursday. About coming off a join. He'd it on his board already. He'd written, *Said so as she went.* He's left my name where it was."
 
 "I knew that he would."
 
@@ -402,7 +464,7 @@ Kiva did not answer.
 
 She was looking over the bottom wall. It was a clear night, with a frost coming. Beyond thirty feet of brick the long hill went down, straight as a rule, with a lamp at every twentieth pace, to the Brickfields road and the river and the dark.
 
-There was a card in her coat from a company, with *either of us* on it. There was a line on a board about a Measure at Saltmere, in the third month. There was a pump-fitter on the south coast who knew a thing by his bad hand, and wanted to read what she had written down. Somewhere beyond all of them, a keeper whom she had never heard of had a book with a remarks column.
+There was a card in her coat from a company, with *either of us* on the front of it and four names on the back. There was a line on a board about a Measure at Saltmere, in the third month. There was a pump-fitter on the south coast who knew a thing by his bad hand, and wanted to read what she had written down. Somewhere beyond all of them, a keeper whom she had never heard of had a book with a remarks column.
 
 It was two hundred miles to the coast. She had seen the map on the wall of the watch room. The road went round the Sag, and doubled at a ferry, and followed a river that had never in its life gone where a clerk would have drawn it.
 
