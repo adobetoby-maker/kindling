@@ -1602,3 +1602,206 @@ Full list in `provenance/MOVEMENT-006-CONTINUITY.md`, section 9. The largest:
 10. **The historical echo is a pump keeper's book of 2604,** not a Glory master's.
 11. **Saltmere's bank fell in the same minute,** Jessamy Hart answers, and the first company
     goes to a National Measure at Saltmere in the third month of 2681.
+
+## Movement Six consolidated repair — 2026-10-12
+
+- Status: **one bounded same-author repair applied to chapters 41–48. Not rechecked.** The
+  first draft is frozen, unchanged, at `editions/movement-006-pre-repair/` (its
+  `SHA256SUMS.txt` verified before the first edit, after the last prose edit, and again after
+  the records were written). This section supersedes the first-draft section's statements that
+  the movement is unreviewed and has no frozen edition; the rest of that section describes the
+  first draft as it stood, and its hashes and word counts are the first draft's.
+- Repairing model: **Claude Opus 5.5 (`claude-opus-5-5`)**, the same model that wrote the
+  first draft, as reported by the runtime environment. **No subagents, workflows, skills or
+  other models were used**, and no other model wrote or revised prose.
+- Provider: Anthropic, via Claude Code (Claude Agent SDK), non-interactive session
+- Session: Claude Code session `0deb8efc-acbf-419b-8426-ea8a81183e21` (the identifier in the
+  session's own tool-result path). A new session, not the drafting, editorial or cold-read
+  session. By the machine's clock it began about 01:48 MDT on 2026-10-12, applied the edits
+  at about 02:04, and wrote the records and report by about 02:15.
+- Instructions: `editor/MOVEMENT-006-REPAIR-BRIEF.md`
+  (SHA-256 `0867b5d5733e1955951b1f0b90958d2896aa7a2a6e3d030023ca5dc59e8cf047`), read in full.
+- Reviews the repair answers, both read in full before any edit:
+  `editor/MOVEMENT-006-EDITORIAL.md`
+  (SHA-256 `c0100a9e6478a551455eb528acadf4557c2d83fd4c763034fb591e12c10d5398`; an informed
+  same-model editorial review) and `editor/MOVEMENT-006-COLD-READ.md`
+  (SHA-256 `0974adb5b333bbfdf65b50ddf240ad1e96ca7ab8624daa0e7b308a735e714dc6`; a simulated
+  cold read). Neither is a human read. Neither was altered.
+- Read in full before the first edit: the three files above; chapters 41–48 (the working
+  chapters were byte-identical to the eight frozen files, checked with `cmp`, so one reading
+  covered both); `provenance/MOVEMENT-006-CONTINUITY.md`; lines 1–125 and the Movement Six
+  block of `STATE_LEDGER.md`; and the Movement Six section of this file.
+- **Read in full only after the edits were applied:** `BOOK_MAP.md`, `UNIVERSE_BIBLE.md` and
+  the Movement Three to Five blocks of `STATE_LEDGER.md`. The brief names all three files as
+  canon evidence; before the edits only their headings and searched lines had been seen. Read
+  whole, they contradicted no edit and led to one correction of a clause the repair had just
+  written (the ward-trace clause in chapter 46).
+- Also consulted, by search and line lookup only, to settle a fact before changing it:
+  chapters 14 and 15 (Perrin withdrawn for his ribs), chapters 23, 26 and 40 (the Pit of the
+  fifth month; the first notch; Noa's heading), chapters 25 and 31 (Annick's page has no
+  date), chapters 32, 34 and 37–39 (Halden's string, Pettit, Hesketh), the prologue (the
+  first book's seven columns), and the Movement Two and Five checkpoints (dates).
+- Method: targeted in-place edits, 100 in all (13, 10, 8, 7, 12, 11, 25 and 14 by chapter),
+  each an exact-string replacement that aborts unless it matches once. Three of them were
+  adjusted once more at the same places before the pass closed (46:567; the two compactions
+  at 47:259 and 48:237, which had first come out longer than what they replaced). No chapter
+  was rewritten whole. No scene, section break or viewpoint was added, cut or moved; the
+  movement still has 44 sections and six cutaways. This is one repair pass, not two.
+- Records reconciled to the repaired prose, only where it made a line false:
+  `provenance/MOVEMENT-006-CONTINUITY.md` (new section 0 lists the changes; SHA-256 after
+  reconciliation `60ddf404562ef0cbb7d05f9c6d618209f61275b0284dd1c02dc06c0cd02cd208`) and the
+  Movement Six block of `STATE_LEDGER.md` (five lines). The first-draft section of this file
+  was not edited.
+- Repair report: `editor/MOVEMENT-006-REPAIR-REPORT.md`
+  (SHA-256 at the time of this entry `ace0219ad5e200388b1617b126dadde6febccdcb430d078711fc071b5023720e`). It gives every changed file, each resolved
+  finding with its new location, the findings left unchanged and why, and the hashes.
+- **Not done:** no review, score, measurement or recheck of the repaired prose, and no
+  end-to-end reread of it; no second repair; no change to any prompt, packet or review file;
+  no Book Two; no commit, push, publication or narration. The working tree holds the repair
+  uncommitted on `worktree-kindling-2680-prologue-m001-opus55` at `7877842`. The checks made
+  after the edits were mechanical only: one match per edit, byte-identity of the protected
+  passages, word counts and hashes.
+
+### Word counts (`wc -w`)
+
+| File | Before | After | Change |
+|---|---:|---:|---:|
+| `manuscript/chapter-41.md` | 7,250 | 7,264 | +14 |
+| `manuscript/chapter-42.md` | 6,408 | 6,479 | +71 |
+| `manuscript/chapter-43.md` | 6,853 | 6,882 | +29 |
+| `manuscript/chapter-44.md` | 5,572 | 5,574 | +2 |
+| `manuscript/chapter-45.md` | 5,147 | 5,297 | +150 |
+| `manuscript/chapter-46.md` | 7,175 | 7,238 | +63 |
+| `manuscript/chapter-47.md` | 5,907 | 6,368 | +461 |
+| `manuscript/chapter-48.md` | 6,554 | 6,568 | +14 |
+| **Movement Six total** | **50,866** | **51,670** | **+804** |
+
+Nothing was cut for length. Chapter 48 from the junior's "Miss Dane says that we're to run
+it" to the end, and Orla's cutaway with Jessamy Hart's card, are byte-identical to the frozen
+edition.
+
+### Post-repair SHA-256
+
+| File | SHA-256 |
+|---|---|
+| `manuscript/chapter-41.md` | `b10b2d3e31db1be3cd2ddbc1c0fc6564ba6cd425eaec6c73f5f4c1d023998711` |
+| `manuscript/chapter-42.md` | `2f6dbe93302800436b50dc0439a152a443507598fc921ff931dbc4ce0dd4ff62` |
+| `manuscript/chapter-43.md` | `4426364475e9390931faf1052a4994b13788ba2a5a89e0fd73d0d951ce21822c` |
+| `manuscript/chapter-44.md` | `24c2ce49d249d540c961250515ebf5cc644feb48cd72c93211a779a42693bab7` |
+| `manuscript/chapter-45.md` | `adf79c56ac28e1fa734c92f4ed54bf26e5f56404dd69e61abb8d4c847b9339ff` |
+| `manuscript/chapter-46.md` | `74101cd043c4f9cd04a4a8cdca505bfdcf7176be37ecd5f22d005c0dc179e5a4` |
+| `manuscript/chapter-47.md` | `b649b15974082cbb31992cefe248597a8a7b90d70db74e76be290dbb400fb860` |
+| `manuscript/chapter-48.md` | `86f180322194764f30808d8d9827fe39f80da547fcd202c7165f689c24333b4f` |
+
+### What the repair did, by priority
+
+1. **The mechanism on one pass (chapters 41–46).** The string has one growth rule: it pays
+   out at the drain's own pace, and a cut only lets the next knot out at once, which is why
+   Rhea Sorn is stopped. Knots are named by ordinal, never "Eight" or "Seven." The cross is
+   under two days old; Birch has had his string since the thaw; Rusk's four hours and half
+   hour are told apart; a night shift accounts for Mara's hands and her slip compares the
+   water with her own chalk mark of 11:20. The seam is near the top of the hill. The drill's
+   litters meet the post as the yard's map allows. The post leans into the lane, "to the left"
+   as seen from the sheds. The eighth post is the last of the north row. The gate's bearing
+   from the post is restated before the step test. In the catch one sentence says whose count
+   is whose, and the hand-off is "after six" as planned and at nine as performed and
+   reported. The six hundred households are the streets on the two dry drums. One clause says
+   why the shelf's plain ash cannot feed a hand, and Vane sends the rest of the top houses down
+   by the curb once the gate is taken.
+2. **The closing record and the cost (chapters 47–48).** The seven headings are settled and
+   Kiva's lines stand in the fourth and sixth columns, with the collarbone under *Cost.* Noa's
+   scene is dated Saturday the 8th and shows the arm. The crate and the first shed are
+   blocked so that the unchanged final scene is true. Mara and Kiva speak of the dream out of
+   earshot of Lumb, Aske, Kellan's mother and Mr. Adlam. Annick's page has no date. The four
+   days without the arm have about 230 words of ordinary difficulty before the elbow returns.
+   The pot and the old team-book entries are reported in narration.
+3. **Voices and listening (all eight chapters).** Thirty-nine single-line touches: Perrin's
+   phrase thinned by three before the bar and two after it, and reworded in six other mouths;
+   "I find that" left to Mara outside two protected lines; optional "that" dropped in fourteen
+   lines of young or plain speech; eleven narration joins in chapters 41, 44, 47 and 48 only.
+
+### Material choices in the repair the owner should review
+
+The report's section 6 has the full list. The largest:
+
+1. **A line was added to the Line's lane sheet** (*Second try: called it, and said which two.
+   Shut in nine turns*), so that its seven columns are seven on the page.
+2. **Vane gives a new order and his slate a new clause:** the last of the top houses went down
+   the hill behind Mace's walking wall.
+3. **A night shift of a dozen** is on the pump-house floor when Mara arrives.
+4. **"Three hands between us that report" became "two."** The editorial review asks that the
+   line be preserved; the brief asks that its count be corrected. The brief was followed.
+5. **Two edits fall inside the consent sequence** ("On six" to "After six"; the phrase naming
+   Dray's post), both named in the brief. Kiva and Dray are now at the same post.
+6. **The dream was protected by earshot,** not by having a bystander be seen to hear.
+7. **Figures no longer spoken on the page:** three fighters' call-dram hundredths and three of
+   the pot's parts. The checkpoint marks them as resting on the frozen first draft.
+8. **Perrin's injury at the exhibition is his ribs,** as chapters 14 and 15 have it.
+9. Three things were noticed and left alone, for a recheck to weigh: the master's "four times
+   since the thaw," the rake of the spindle against the direction of the post's lean, and
+   "five paces from the shaft."
+
+### Movement Six post-recheck correction note — 2026-10-12
+
+A separate same-model targeted recheck (`editor/MOVEMENT-006-TARGETED-RECHECK.md`, SHA-256
+`e1bf8aa4213e74568d77987966dc06c132a790f3259430f00da1fa22c66c47b7`; Claude Code session
+`12e22edd-c1ec-4ca7-9da2-f9a57349a8a4`) passed all three priorities and required three
+corrections. They were applied at about 02:35 MDT by Claude Opus 5.5 (`claude-opus-5-5`) in
+the repairing session, resumed (`0deb8efc-acbf-419b-8426-ea8a81183e21`), with no subagent or
+other model. **Only R1, R2 and R3 were applied.** No optional note was acted on, no other prose
+was changed, and the result was not reviewed, scored or rechecked again. The repair entry
+above is left as written; its word counts and hashes for chapters 44 and 48 and its hashes for
+the checkpoint and the report are those of the repair before this note.
+
+- **R1,** `manuscript/chapter-44.md` lines 17 and 33: the gate hangs "across the wall side of
+  the shaft, back under the post," and the spindle runs to a gate "a pace back toward the
+  wall," so the rake of the screw agrees with the post's lean toward the lane. This resolves
+  the second of the three things listed in item 9 above.
+- **R2,** `manuscript/chapter-48.md` line 251: "I asked last week what ash was for," which is
+  the first draft's wording restored. The repair's "the week before last" was a week out.
+- **R3,** `provenance/MOVEMENT-006-CONTINUITY.md`, section 2: "four-month mistake."
+- Records made stale by those changes and corrected, all in the checkpoint: the sluice entry
+  (section 7), the word count (section 9, item 19) and a short paragraph in section 0.
+  `STATE_LEDGER.md` needed no change and was not touched.
+
+| File | Words after repair | Words now | SHA-256 now |
+|---|---:|---:|---|
+| `manuscript/chapter-44.md` | 5,574 | 5,583 | `0503075fb6cc278f86a93665542f8b358a82f5aafc8979456d48855427389010` |
+| `manuscript/chapter-48.md` | 6,568 | 6,566 | `b1b5835358b0fc77a1eb5d3567feadae5dcc5d1e24e19aea48f538ebd228d27b` |
+| **Movement Six total** | **51,670** | **51,677** | |
+| `provenance/MOVEMENT-006-CONTINUITY.md` | | | `760c9bd1947ffbe691a099822e443380e7f838e68bd6fd948b0e0f1511deff6d` |
+| `editor/MOVEMENT-006-REPAIR-REPORT.md` (with its section 10) | | | `3c75f849016285e9d34b940ecf8ecd1c8571d39d09a35223b408abdfbd3c9182` |
+
+Chapters 41, 42, 43, 45, 46 and 47 keep the post-repair hashes in the table above. The frozen
+edition matched its `SHA256SUMS.txt` after the corrections, and chapter 48 from the junior's
+"Miss Dane says that we're to run it" to the end is still byte-identical to it. Not done: no
+acceptance entry, no commit, push, publication or narration, no Book Two. The "not rechecked"
+status lines in the records are left for the acceptance entry.
+
+### Movement Six targeted-recheck acceptance — 2026-10-12
+
+- Status: **accepted after one consolidated same-author repair, one targeted recheck, three
+  required micro-corrections, and one focused addendum.** The recheck passed all three repair
+  priorities. The addendum passed R1, R2, R3, their joins, the frozen-edition checks, and the
+  protected passages. This is same-model editorial verification, not a human read or an
+  independent audience test.
+- Recheck: Claude Opus 5.5 (`claude-opus-5-5`), session
+  `12e22edd-c1ec-4ca7-9da2-f9a57349a8a4`,
+  `editor/MOVEMENT-006-TARGETED-RECHECK.md`, SHA-256
+  `e1bf8aa4213e74568d77987966dc06c132a790f3259430f00da1fa22c66c47b7`.
+- Focused addendum: the same session resumed,
+  `editor/MOVEMENT-006-TARGETED-RECHECK-ADDENDUM.md`, SHA-256
+  `8a096af772581b34ab5a44f4835c22a4c83ed1a219cf4cda3c6fc59fefdcb09d`.
+- Required corrections accepted: the wall-side spindle geometry in chapter 44; Jude's
+  restored `last week` in chapter 48; and the checkpoint's `four-month mistake`. The addendum
+  found no broken join and confirmed that exactly those three manuscript lines changed after
+  the main recheck. It also noted one harmless extra explanatory clause in the checkpoint's
+  record of R3; the checkpoint now states that explicitly.
+- Accepted Movement Six word count: **51,677**. Accepted chapter counts are 7,264; 6,479;
+  6,882; 5,583; 5,297; 7,238; 6,368; and 6,566 for chapters 41–48 respectively.
+- The frozen first draft remains unchanged and matches
+  `editions/movement-006-pre-repair/SHA256SUMS.txt`. Orla's Hart-card cutaway and chapter 48
+  from the junior's run through the final line remain byte-identical to that frozen edition.
+- This acceptance closes the movement-level loop only. A whole-book review is still owed
+  before Book One is called complete. No narration or Book Two prose is authorized by this
+  entry.

@@ -8,7 +8,7 @@ Mara came up the ladder out of the sluice shaft with silt to the elbows, and she
 
 Mara stood quite still, with her hands held away from her apron.
 
-"It's a night early," she said. "I've a bank to take out, and my forty are in their beds." She looked down the shaft, where a lamp still burned and a rake still scraped. "And I've a gate that wants two turns."
+"It's a night early," she said. "I've a bank to take out, and all of my forty but the night shift are in their beds." She looked down the shaft, where a lamp still burned and a rake still scraped. "And I've a gate that wants two turns."
 
 "The fitters have the bar."
 
@@ -16,7 +16,7 @@ Mara stood quite still, with her hands held away from her apron.
 
 "Where will you be?"
 
-"The pump house. There's a Works van at the foot of the hill. If I'm to quench four-and-twenty cells tonight, I must find four-and-twenty people to do it with, and I've a list in my pocket of where they sleep." She was already unpinning the apron. "I'll be on the municipal wire. Mrs. Ansty has a key in her lodge and a clerk who can work it."
+"The pump house. There's a Works van at the foot of the hill, and Rusk has had a dozen of the night shift on that floor since the bank fell in. If I'm to quench four-and-twenty cells tonight, I must find the other dozen, and I've a list in my pocket of where they sleep." She was already unpinning the apron. "I'll be on the municipal wire. Mrs. Ansty has a key in her lodge and a clerk who can work it."
 
 She stopped, with the apron in her hands.
 
@@ -78,9 +78,9 @@ It stood in the crown of the road, between the rails, eight grey shapes abreast 
 
 Every head was turning. They did not turn together. That was what made her skin creep. Eight blunt tops went round a quarter, and back, each in its own time, like eight people in a dark room listening for the same sound.
 
-"Count them from the top," said Vane. "The one nearest us is One."
+"Count them from the top," said Vane. "The one nearest us is the first."
 
-"One's at the rail of twenty-nine. Eight's at twenty-eight. They're eight paces apart." She had her book on her forearm. "They're seeking. They've not found it. The planks are white, under every one, and nothing's gone down."
+"The first's at the rail of twenty-nine. The eighth's at twenty-eight. They're eight paces apart." She had her book on her forearm. "They're seeking. They've not found it. The planks are white, under every one, and nothing's gone down."
 
 "Sorn's way. Good." He raised his voice. "*Sorn! It's a string on a street! It's yours!*"
 
@@ -88,7 +88,7 @@ Down the hill four wards had brought a gate up, twelve paces below the eighth kn
 
 Eight heads went past it.
 
-"I didn't suppose that they'd care for it," said Rhea Sorn. Her voice came up the hill quite clearly. She had not raised it. "Leave it lit. It's the rule, and it'll do for the husks. Pike. Your cloth, under Eight. I'm taking it from the bottom."
+"I didn't suppose that they'd care for it," said Rhea Sorn. Her voice came up the hill quite clearly. She had not raised it. "Leave it lit. It's the rule, and it'll do for the husks. Pike. Your cloth, under the eighth. I'm taking it from the bottom."
 
 Kiva watched her do it.
 
@@ -106,7 +106,7 @@ The cord came off it. It whipped back up the hill, the loose end of it, and the 
 
 "Sealed," said Pike. "Fifty-two." He had his palm on the neck. "It's loud. It's as loud as anything I had off the Pit. Red."
 
-"Then that's how it's done," said Rhea. "It's slow. I've done slow. Seven."
+"Then that's how it's done," said Rhea. "It's slow. I've done slow. The seventh."
 
 "Sir," said Kiva.
 
@@ -134,7 +134,7 @@ It was Lowen Brask. He had a litter pole in one hand; he had just come up from t
 
 "So she can cut at the bottom until morning," said Vane.
 
-"And it'll walk to the top while she does. She's bailing."
+"And it'll walk to the top while she does. It'd come up without her, at the drain's own pace, until it ran out of road. Every cut only lets the next one out at once. She's bailing, and she's hurrying it up your hill."
 
 Vane wrote on his slate. He wrote very little.
 
@@ -166,7 +166,7 @@ Ten of them made forty paces of silver, cart-wide each, along the east curb. Six
 
 She had learned an end in a culvert, standing still. She had not learned one that moved. A wall that walked had to be let go at the back and brought up at the front, a holder at a time, each coming up inside the next as a relief comes. It was Graywater's oldest trick. It was only that nobody did it for a hundred paces up a hill.
 
-"Fifty-two's dark," said a warden's voice, behind her. "Fifty-four. Dark. Fifty-six, there's nobody in. Dark."
+"Fifty-four's dark," said a warden's voice, behind her. "Fifty-six, there's nobody in. Dark."
 
 "Step," said Anwen. "Tibb. I'm coming off. Now."
 
@@ -266,7 +266,7 @@ She stepped.
 
 The head of it reached the wall at half past eleven.
 
-Kiva had watched it come. She had called every one to Vane as it stood up, in her carrying voice, with the number. *Ten, sixteen paces above twenty-nine. Eleven, at the last grating. The planks are holding.* She had written the minute beside each.
+Kiva had watched it come. Nobody had cut it again, and it had come all the same, as Brask had said that it would, only slower. She had called every one to Vane as it stood up, in her carrying voice, with the number. *The tenth, sixteen paces above twenty-nine. The eleventh, at the last grating. The planks are holding.* She had written the minute beside each.
 
 The blue line ran up the crown of Stopgate like a crack in a plate. It came to the stone sill of the black gate, and there it stopped.
 
@@ -276,7 +276,11 @@ The twelfth knot came up in the gateway.
 
 She had gone back from it already. Vane had her by the sleeve, and they stood on the cobbles, ten paces inside, and looked at a grey thing as big as a barrel standing under the School's device with frost running up the oak on either hand.
 
-"Twelve," she said. Her voice was not steady. "In the gate. That's all the road it's got."
+"The twelfth," she said. Her voice was not steady. "In the gate. That's all the road it's got."
+
+"And it's taken mine," said Vane. He turned his head, and his outdoor voice went over the wall and down the hill. "*Wardens! The gate's shut to you! Whatever's left of the top comes down, by the curb, behind the porch, with its boxes dark!*"
+
+A handbell answered him from the street, twice.
 
 "Keeper!" said Vane.
 
@@ -334,7 +338,7 @@ She did not know where he was. She said it as one says a role on a floor.
 
 He came out of the dark of the lane like a dray.
 
-He had been bringing an empty litter back for the next house. He let go of the poles. He did not ask what, or where. He went down on his chest at the edge of the shaft, with his legs across the white tape, and put one long arm into the hole.
+He had been bringing an empty litter back for a next house that was by now going down the hill instead. He let go of the poles. He did not ask what, or where. He went down on his chest at the edge of the shaft, with his legs across the white tape, and put one long arm into the hole.
 
 "You're being rescued," said Perrin, into the dark. "Don't argue. I've had an old man argue. Take my wrist. Not the ladder. *Me.*"
 
@@ -352,7 +356,7 @@ Three fitters had the iron by its ring. It was a yard square, and it had taken t
 
 The arm came through the gap.
 
-Kiva was six paces from it. She had her back against the first post of the north row, and she could not have moved.
+Kiva was six paces from it. She had her back against the eighth post, the last of the north row, and she could not have moved.
 
 It did not hurry. It went by her at chest height, humming a little, and the cold came off it like the cold off a cellar door. It found the leaning post. It went round the foot of it, on the lane side, and tipped, as water tips over a sill.
 
@@ -394,7 +398,7 @@ The runner came through the gap behind him. It was a School porter, with a slip 
 
 Vane read it aloud. He read everything aloud.
 
-"*Pump house, eighteen minutes to twelve. I have nineteen hands of twenty-four and the rest coming. Pumps stopped two minutes, on trial. The water is still moving. It moved less a quarter of an hour ago. Something is in it. Pumps running again. I cannot fill over this. Tell me when it is out. M. Rowan.*"
+"*Pump house, eighteen minutes to twelve. I have nineteen hands of twenty-four and the rest coming. Pumps stopped two minutes, on trial. The water is still moving. It moved less at twenty past eleven, when I came in and chalked it. Something is in it. Pumps running again. I cannot fill over this. Tell me when it is out. M. Rowan.*"
 
 He folded the slip.
 

@@ -14,7 +14,7 @@ He wrote for some time. Then he read it to her, as he read everything.
 
 "You could guess."
 
-"I could. I shan't, at seven in the morning, to a girl who'd write it in a book." He gave her the card. "I'd as soon that nobody sent for me. I want that understood. I've no curiosity in the matter whatever."
+"I could. I shan't, at seven in the morning, to a girl who'd write it in a book." He gave her the card. "I'd as soon that nobody sent for me. I've no curiosity in the matter whatever."
 
 She put the card in her tunic, with the other.
 
@@ -22,7 +22,7 @@ She put the card in her tunic, with the other.
 
 Mara had forty corks in a string bag, and she went up Stopgate with them like a woman delivering eggs.
 
-It was a clear cold morning. The hill was quieter than it ought to have been. Six hundred households on the middle stretch were on their boxes, and one could tell which houses by the windows, which had the dim brownish look of lamps turned down to save a can. A cart from the casualty reserve stood at the rail of the twenty-sixth drum house with its tailboard down.
+It was a clear cold morning. The hill was quieter than it ought to have been. The two dry drums had six hundred households on their boxes, most of them in the streets behind. On the hill itself it was the middle stretch, and one could tell which houses by the windows, which had the dim brownish look of lamps turned down to save a can. A cart from the casualty reserve stood at the rail of the twenty-sixth drum house with its tailboard down.
 
 "Hold that," said Mara.
 
@@ -58,7 +58,7 @@ Kiva had come up that hill every morning for six months and had never properly l
 
 The wicket was open. There was a short woman standing in it with a ring of keys at her belt.
 
-"I thought that you'd be up," said the keeper, Ansty. "I've had the kettle on since eight. You'll want the gully by the cart shed. Mind the trunks."
+"I thought you'd be up," said the keeper, Ansty. "I've had the kettle on since eight. You'll want the gully by the cart shed. Mind the trunks."
 
 There were a great many trunks.
 
@@ -104,7 +104,7 @@ It was a child. She was perhaps thirteen, small and sandy, with a plait and a ju
 
 "Do you know?"
 
-Kiva considered the post. It was black, and split down one side, and bound with two iron bands. It stood a full pace out of its row, and it leaned to the left, into the lane.
+Kiva considered the post. It was black, and split down one side, and bound with two iron bands. It stood a full pace out of its row, and it leaned into the lane: to the left, if one stood at the sheds and looked along the row.
 
 She had put her hand on it when she was thirteen. She had come down beside it, with nothing open, and paid a quarter of a dram each time. She had never once been able to answer that question.
 
@@ -208,7 +208,7 @@ Hollis Vane walked his plan on Saturday night, and he began it at ten with every
 
 "I'll say the reason for the dark," he said. He had the wardens at the foot of the hill, eleven of them with their handbells, and behind them the fours. "If a tear opens on this street, I'll want one thing lit on it, and that's a gate. Everything else that's bright is a thing for it to walk to. So you'll learn the road with your feet. There's a white tape up the east curb. There'll be a voice at every corner."
 
-There were sixty-two houses on the hill. He had the list. Fourteen had somebody in them who could not walk. For tonight a Circuit dummy lay in each of those fourteen beds, by leave of the household, and in nine of the households the family had stayed up to watch.
+There were sixty-two houses on the hill itself. The rest of the dry drums' six hundred households lay in the streets to either side, and had roads of their own. He had the list. Fourteen had somebody in them who could not walk. For tonight a Circuit dummy lay in each of those fourteen beds, by leave of the household, and in nine of the households the family had stayed up to watch.
 
 "The bottom forty go down. To the Brickfields road, and the tram shed, where the Wren House has its carts. The top twenty-two can't come down past whatever's in the road. They go up. Through the School's gate, across the yard, along the old practice lane under the wall, and out by the side gate to the square." He looked at the bursar. "I've been shown it by daylight. I'm told that it's the shortest way off that hill that doesn't cross a drain."
 
@@ -246,9 +246,9 @@ It was Pettit at the head and a Stonehand first-year at the foot, and a dummy be
 
 He had not got it.
 
-He went through the gap fast, with his head down, and he did what anybody does who is carrying a weight along a wall in the dark. He kept to the wall. The south row of posts stood there in its line, a yard out from the brick, and he ran along the inside of it as a man runs along a fence.
+He went through the gap fast, with his head down, and he did what anybody does who is carrying a weight along a wall in the dark. He kept to the wall. The south row of posts stood in its line, a yard out from the brick, and he meant to run along the lane side of it as a man runs along a fence.
 
-The last post of that row was not in the line. It was a pace out, leaning into the road at the height of a man's hip.
+The nearest post of that row was not in the line. It was the last of the row, as the lane was counted from the sheds, and so the first that anybody met from the gap. It stood a pace out, eight paces in, leaning into the road at the height of a man's hip.
 
 There was a sound like an axe going into a log.
 
@@ -268,7 +268,7 @@ Lowen Brask had the head of it. He did not trot. He came through the gap at his 
 
 He stopped dead, two paces short of the post, and stood there.
 
-"There's something here," he said, to the dark. "I can hear the wall's come nearer. Wace, a pace left. Slowly." They went round. "Rowan. Is that yours to tell?"
+"There's something here," he said, to the dark. "I can hear the wall's come nearer. Wace, a pace right. Slowly." They went round. "Rowan. Is that yours to tell?"
 
 "It's a post. It's out of its row. It leans."
 
@@ -322,7 +322,7 @@ He stopped. He had Hendry Moss of his own Hall behind him, a boy with a neck as 
 
 Perrin thought about that.
 
-"It's a lane call," he said. "It's *Yours* and *Mine.* It's only that it's for a post." He hitched the poles. "I'd like it known I think that's rather good. *Post, left! Keep right!*"
+"It's a lane call," he said. "It's *Yours* and *Mine.* It's only that it's for a post." He hitched the poles. "I call that rather good. *Post, left! Keep right!*"
 
 They went through. They did not touch it. She heard him bawl it backward down the lane, in the voice that he had been saving since the spring, and a moment later she heard somebody at the black gate take it up who had not been told to. *Post left. Keep right.*
 
@@ -350,7 +350,7 @@ They told him. A warden had rung evens before odds. The tape had come off the cu
 
 "The yard," said Vane. "Rowan."
 
-"A post," said Kiva. She stood up. "The last of the south row in the old lane. It's a pace out of line, and it leans into the road at hip height. Two litters in the first four struck it. Forty counts and ninety. The two that missed it were people who'd known it for years, so it wasn't that they saw it." She read it off the page. "Brask stopped short of it and felt his way. Then I had one team call it at the gap and call it back over the shoulder, and after that nobody struck it. I didn't stand at it. I thought that I shouldn't be there to."
+"A post," said Kiva. She stood up. "The last of the south row in the old lane. It's a pace out of line, and it leans into the road at hip height. Two litters in the first four struck it. Forty counts and ninety. The two that missed it were people who'd known it for years, so it wasn't that they saw it." She read it off the page. "Brask stopped short of it and felt his way. Then I had one team call it at the gap and call it back over the shoulder, and after that nobody struck it. I didn't stand at it. I thought I shouldn't be there to."
 
 "A post," said Vane.
 
@@ -466,6 +466,6 @@ She had come down on that cross again and again since the summer. She had stood 
 
 She looked at the post.
 
-It leaned to the left. She had always thought of it as leaning away from its row, like a tooth gone bad. A child with a plait had gone round it on Friday by a little sideways step, without looking, and so had every student who had ever used that yard.
+It leaned out over the lane. She had always thought of it as leaning away from its row, like a tooth gone bad. A child with a plait had gone round it on Friday by a little sideways step, without looking, and so had every student who had ever used that yard.
 
 It struck her now, for the first time, that it might not be leaning away from anything. It might be leaning toward.

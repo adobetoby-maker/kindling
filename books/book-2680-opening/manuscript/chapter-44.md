@@ -14,7 +14,7 @@ Three fitters lifted it with bars. A smell came up, cold and green.
 
 She lay down at the edge of it, in her work apron, and let the lamp go on its chain. Kiva knelt beside her with the slate.
 
-It was a square brick shaft, eight feet deep. At the bottom the Ferren main went by, black, a yard wide. The water in it rose a finger on the brick, and fell. And across the shaft, a foot above the water, hung a plate of iron as broad as a door, held in two grooves in the brick like a window in its sash.
+It was a square brick shaft, eight feet deep. At the bottom the Ferren main went by, black, a yard wide. The water in it rose a finger on the brick, and fell. And across the wall side of the shaft, back under the post, a foot above the water, hung a plate of iron as broad as a door, held in two grooves in the brick like a window in its sash.
 
 "That's a penstock," said Mara. Her voice came up hollow. "That's as pretty a sluice gate as I ever saw. It's hanging on a screw." The lamp swung. "And the screw goes up. It goes up through the brick, on a slant. Kiva. Where does that slant come out?"
 
@@ -30,7 +30,7 @@ It was black, and split, and bound with two iron bands. It stood a pace out from
 
 "And the lean?"
 
-"It's on the rake of the screw. You'd not get a straight spindle down to a gate that's eight feet under and a pace to one side." He patted the black wood, as a man pats a horse. "It was never crooked. It's aimed."
+"It's on the rake of the screw. You'd not get a straight spindle down to a gate that's eight feet under and a pace back toward the wall." He patted the black wood, as a man pats a horse. "It was never crooked. It's aimed."
 
 Somebody let out a breath behind them. It was Orla. She had been on her crate by the first shed since before the spade went in, with her stick between her boots.
 
@@ -62,7 +62,7 @@ Hollis Vane came at noon, as he had said that he would. He had the tin case unde
 
 "You owe me nothing," said Orla. "I'd no reason. I'd only a feeling about one. You said so."
 
-"I did. And I gave it three days on the strength of a girl and a carry team. I'd like that written somewhere, since I shan't always be so sensible." He put the case down on her crate. "Rowan. What's it shut?"
+"I did. And I gave it three days on the strength of a girl and a carry team. Somebody may write that down, since I shan't always be so sensible." He put the case down on her crate. "Rowan. What's it shut?"
 
 Kiva had been waiting to be asked that. She had worked it out on the slate, with Mara, in the last hour.
 
@@ -134,7 +134,7 @@ He had not said it loudly. He was looking at the cold-room door across the passa
 
 She said it without heat. She had the green book under her arm, and she did not open it.
 
-"The first isn't salt. I had it written that it isn't training ash, in the seventh month, in case anybody was tempted. It's the same answer. It's medical. It's for somebody's hand, on a night that we haven't had yet, and when that night comes I'd like there to be something in the tin." Her level eyes went to Jude. "You're on the line by name. You've a right to say it. I'm glad that you did. I'd sooner it was said by one of us and refused than thought by all of us and left lying."
+"The first isn't salt. I had it written that it isn't training ash, in the seventh month, in case anybody was tempted. It's the same answer. It's medical. It's for somebody's hand, on a night that we haven't had yet, and when that night comes I'd like there to be something in the tin." Her level eyes went to Jude. "You're on the line by name. You've a right to say it. I'm glad you did. I'd sooner it was said by one of us and refused than thought by all of us and left lying."
 
 "And the second?"
 
@@ -154,7 +154,7 @@ Kiva had known that it would come round to her. There was a bag in that room wit
 
 Rhea Sorn sat in the Graywater watch room on Tuesday night with the map wall at her back, and ruled a line on a slate.
 
-She had read that slate from the left for twenty-three years. *Closed. Lives. Works. Tinned. Remarks.* It was the whole of her trade in five words. One could not buy a column with the one to its right. She had told a boy so in the sixth month, and he had written it down as though it were news.
+She had read that slate from the left for twenty-three years. *Closed. Lives. Works. Tinned. Remarks.* It was the whole of her trade in five words, and one could not buy a column with the one to its right. She had told a boy so in the sixth month, and he had written it down as though it were news.
 
 There was nothing to the left of *Closed.* There never had been. A call began when a bell rang, and what one did about it went into the first column, and what it had cost went into the others afterward.
 
@@ -234,7 +234,7 @@ She took up the chalk. She ruled a sixth column, at the left of the first, a nar
 
 Kiva went to the Wren House infirmary that evening, at the hour when the lamps were turned down, and found that she had no speech at all.
 
-It was a long room with twelve beds. Selka Dray had the one by the window. Her left leg lay outside the blanket in a board, from the hip to the heel, and she was reading by a shaded lamp with a pencil in her teeth.
+It was a long room with twelve beds, and Selka Dray had the one by the window. Her left leg lay outside the blanket in a board, from the hip to the heel, and she was reading by a shaded lamp with a pencil in her teeth.
 
 She took the pencil out.
 
@@ -310,7 +310,7 @@ It was a short entry. Anwen read it.
 
 "*Wednesday the 5th. Three-door, K. Rowan: 0.59, from held. One go. Only on a foreman's direction, under the officer's hand, with the price said first by her healer. Cade keeps the word. If not directed, returned to held, whole.*" She looked up. "*Why:* I've left it bare. I'll fill it on the night, or I'll rule it through."
 
-"That's a dram of mine that I didn't expect to see again," said Perrin. He signed. "I said *no* to this in the seventh month. I said *yes, with a brake* in the eighth. I'd like it known that tonight I've not the least idea what I think, and I'm signing so that there's something to say *off* to."
+"That's a dram of mine that I didn't expect to see again," said Perrin. He signed. "I said *no* to this in the seventh month. I said *yes, with a brake* in the eighth. Tonight I've not the least idea what I think, and I'm signing so that there's something to say *off* to."
 
 "Held, thirteen and fifty-three hundredths," said Kellan. He blotted it. "I've had the others' call drams out of the press. They're combed."
 
@@ -328,7 +328,7 @@ It went as the others had. There was a crowd at its rail, and a needle that stoo
 
 The planks were down. Kiva had walked the hill at dusk to see them. Every grating between the tram rails had three thick boards across it and a row of sandbags on the boards, forty of them, from the Brickfields road to the black gate. It looked like a street that was expecting a flood.
 
-She was in the bottom yard at eleven. She was not on any duty. She had gone to see whether the boy with the rake had come up.
+She was in the bottom yard at eleven, on no duty at all; she had gone to see whether the boy with the rake had come up.
 
 He had not. There was a lamp down the shaft still, and the scrape of iron on brick.
 
@@ -350,7 +350,7 @@ She ran to the wicket.
 
 She had no business there. She was recovery, and dark, and seventeen. But the wicket stood open, and there was nobody in it, and she looked down Stopgate.
 
-It was a long straight hill, wet, with a lamp at every twentieth pace. Halfway down it the lamps had a different color to light.
+It was a long straight hill, wet, with a lamp at every twentieth pace. Near the top of it, not forty paces below her, the lamps had a different color to light.
 
 It lay in the crown of the road. It was between the tram rails, where the planks were, and it ran from the rail of the twenty-eighth drum house up to the rail of the twenty-ninth, sixty paces and more. It was thin. It was blue.
 
