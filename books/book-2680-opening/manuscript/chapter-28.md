@@ -6,7 +6,7 @@ It was the dullest hour she had ever spent in the Old Yard. Noa ran the tape emp
 
 "That'll do," Orla had said. "You've stopped sitting up for it."
 
-On Friday night she stood on the scraped line with the thread cold and the step behind her, and said the words to five people and a post.
+On Friday night she stood on the scraped line with the thread cold and the step behind her, and said the words to four people and a post.
 
 "*One.*"
 
@@ -62,7 +62,7 @@ She held it out. The fingers were pink. The first two were cold, and no colder t
 
 "Is that one?"
 
-"That's one." The crooked face was perfectly grave. "I saw a shelf from sixty paces off through a pair of eyeglasses, and I've wondered every day since whether the Pit was being kind to you. It seems not. Now show me it wasn't the yard." She turned. "Mr. Bexley."
+"That's one." The crooked face was perfectly grave. "I saw a shelf from the far side of a pit, over a rail, and I've wondered every day since whether the place was being kind to you. It seems not. Now show me it wasn't the yard." She turned. "Mr. Bexley."
 
 Noa read it with his thumbs on the tape. Two hundredths for the bound. Twenty-five in less than a fifth of a second, straight up, with the same small blot where the nib had jarred. Three for the stance.
 
@@ -74,7 +74,7 @@ Noa read it with his thumbs on the tape. Two hundredths for the bound. Twenty-fi
 
 "We know."
 
-"I'd like to say it anyway. That's a Kennel floor and a half, gone in the time it takes me to sneeze." He was grinning from ear to ear. "And she came down like a cat on a cushion, and I held a capstan with my ribs for less. Write it down that I'm furious."
+"I'd like to say it anyway. That's near half a Kennel floor, gone in the time it takes me to sneeze." He was grinning from ear to ear. "And she came down like a cat on a cushion, and I held a capstan with my ribs for less. Write it down that I'm furious."
 
 Kiva's hand had gone to her collar. She had not sent it. The disk was there under the cloth, round and plain, and it was as cold as the inside of a well.
 
@@ -102,7 +102,7 @@ It finished eight to six against them. Nobody fell over in an interesting manner
 
 "It opens before, now. That's all it ever wanted. Somebody told me to arrive before I was there."
 
-"Then somebody taught you my trade behind my back." He nearly smiled. "I'll give you one more for nothing, since I shan't be here to take it off you in a lane. I've had the junior lanes four years. Every spring there's one who finds a landing easy, a week before the others. I used to think that was talent." He picked up the roll. "It's nearly always a child standing on two things at once and not knowing it. A step and a rail. A foot and a friend. So when it comes easy, look at your feet."
+"Then somebody taught you my trade behind my back." He nearly smiled. "I'll give you one more for nothing, since I shan't be here to take it off you in a lane. I've had the junior lanes three springs. Every spring there's one who finds a landing easy, a week before the others. I used to think that was talent." He picked up the roll. "It's nearly always a child standing on two things at once and not knowing it. A step and a rail. A foot and a friend. So when it comes easy, look at your feet."
 
 "It doesn't come easy."
 
@@ -202,7 +202,7 @@ It came out too loud. He went red to the hair, and he did not take it back.
 
 "That was a jam," said Kiva.
 
-"That was two doors drawing at once, and fighting. This is two doors drawing at once, and not." He looked at her, and she saw what it was costing him. "A crossing's a cliff because there's nothing open when it happens. That's what's so strange about it. That's the whole of my paper, if I ever write one. This isn't strange at all. It's a hump because for a third of a second there were two of them open together, and each of them was paying for itself in the ordinary way." His voice dropped. "I've wanted a Draw of four out of you since the sixth of last month. I'd have given a year for it. It isn't one. It's the other thing with good manners, and it's on a sanctioned tape, and I copy it for the Chair at nine tomorrow."
+"That was two doors drawing at once, and fighting. This is two doors drawing at once, and not." He looked at her, and she saw what it was costing him. "A crossing's a cliff because there's nothing open when it happens. That's what's so strange about it. That's the whole of my paper, if I ever write one. This isn't strange at all. It's a hump because for a third of a second there were two of them open together, and each of them was paying for itself in the ordinary way." His voice dropped. "I've wanted a Draw of four out of you since the fourth of last month. I'd have given a year for it. It isn't one. It's the other thing with good manners, and it's on a sanctioned tape, and I copy it for the Chair at nine tomorrow."
 
 The mast ticked.
 
@@ -280,7 +280,7 @@ It took the three of them who had whole ribs, in the trough, in the last of the 
 
 He said it to the canvas. He went on treading.
 
-"The Halden team. They train twice a week at the refinery yard, with a chartered foreman, on a contained string. Every week. They've a ward short for their Kill to work behind and they'd like to see me cut." His jaw was set. "I've said that I'll go and watch. I've not said anything else. I'm telling you because I said I'd tell you when the sum moved, and it's moved."
+"The Halden team. They train twice a week at the refinery yard, with a chartered foreman, on a contained string. Every week. They'd like to see me cut behind their ward line." His jaw was set. "I've said that I'll go and watch. I've not said anything else. I'm telling you because I said I'd tell you when the sum moved, and it's moved."
 
 Nobody broke step.
 
@@ -362,7 +362,7 @@ Kiva could not feel them. She watched them lying in the old hard palm as if they
 
 At twenty, they were white. At thirty, the first of them had a faint flush along the nail. It came up slowly from the root, like tea into a lump of sugar, and at thirty-eight she felt something that was a long way off and belonged to her.
 
-"There," said Orla, at forty-one. She let out a breath that she had been holding rather longer than the count. "Forty-one. That's inside his sixty, and I don't care for how far inside it wasn't." She let go. "Two. I'll say that first, so that you have it. That was a crossing, and it was the dear one, and you took it with the cheap one lying there in plain sight. I saw you choose. Two."
+"There," said Orla, at forty-one. She let out a breath that she had been holding rather longer than the count. "Forty-one. That's inside the sixty, and I don't care for how far inside it wasn't." She let go. "Two. I'll say that first, so that you have it. That was a crossing, and it was the dear one, and you took it with the cheap one lying there in plain sight. I saw you choose. Two."
 
 "And we're done for the night."
 

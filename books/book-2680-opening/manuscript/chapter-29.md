@@ -76,13 +76,29 @@ A young man had come in behind her, tying back his hair. He was perhaps three-an
 
 It took eight times before Pike stopped wincing.
 
+He did not say what was wrong. He stood in the hall yard under a hooded lamp, with his hands behind him, and each time the sheet was down he walked round it once and said, "Up," and they took it up.
+
+On the fifth he stopped beside Kiva.
+
+"Your cord hand. You change your grip at the second turn."
+
+"I've two fingers that don't tell me anything. I start in the hand, and then I have to hook the elbow to—"
+
+"I know why. I watched you do it at the Pit, from under a string." He held out his own right hand. It was broad and scarred, and there was a groove worn across the palm. "I'd a tendon cut at thirty. That finger's been a passenger ever since. I don't ask it for anything. I took the cord the way I could hold it on my worst day, and I've held it that way every day since, the good ones too." He closed the hand. "A grip you change is two grips, with a moment between when you've got neither. You know about moments between. I'm told that you pay a quarter of a dram a time for one."
+
+Kiva looked at him.
+
+"So choose the bad-day grip. Elbow from the first turn, not the second. It's slower by a count. Take the count." He walked on. "Up."
+
+She took the cord at the elbow from the first turn on the sixth throw, and the seventh, and the eighth. It was slower by a count. It felt like wearing somebody else's boots. On the eighth, Pike went all the way round the sheet and said nothing whatever, which she understood to be the most that anybody got.
+
 After that there was nothing to do, and Kiva learned that this was most of the trade.
 
 They sat. The stove ticked. Four ward-holders in blue played a slow game of cards at the far end of the table, and one of them was Imrie, who had stood in a line at the Pit and had not once looked round. Nairn slept in a chair with his boots on a second chair. A bald man called Ruddock, who drove the van and was the crew's healer, went through a satchel of linen and counted it twice.
 
 At twenty minutes to ten the bell rang.
 
-It rang three strokes and a pause, and a lamp came up on the map wall, out on the edge of the allotments. Nobody ran. The cards were laid face down. Nairn's eyes opened. Within about ninety seconds twelve people and their kit were in the back of a long blue van on two facing benches, and the hall doors were open on the Brickfields road.
+It rang two strokes and a pause, and two again, and a lamp came up on the map wall, out on the edge of the allotments. Nobody ran. The cards were laid face down. Nairn's eyes opened. Within about ninety seconds twelve people and their kit were in the back of a long blue van on two facing benches, and the hall doors were open on the Brickfields road.
 
 "Sag Line, mast five," said Rhea, from the front. "That's a recalibrated mast, on a baseline that's been creeping all spring. It's rung false twice this month. We go as though it hadn't."
 
@@ -92,13 +108,13 @@ There was nothing on the Sag but a wind and a smell of turned earth. They stood 
 
 "*Closed: nothing open. Hurt: none. Works: all. Tinned: nil.* That's a call. It's on the table by morning, the same as the Pit."
 
-Down the berm, where the big culvert came out under the dyke, there was a light.
+Down the berm, where the big Ferren culvert came out under the dyke, there was a light.
 
 It was a small one, the silver of a held ward, steady as a lamp in a window. Two men in Works oilskins were going into the culvert's mouth by it with a measuring rod. Behind them stood a row of people in blue with their hands at their sides, and at the end of the row, a little apart, a figure with both arms raised was holding the light up for the men to see by.
 
 Kiva knew the way she stood.
 
-She was sixty paces off, across a drainage cut. The light did not waver. It was not a wall and it was not holding anything back; it was only a lamp, lifted so that two inspectors should not put a foot wrong in the dark. She had been allowed that by the first week and not the fourth.
+She was sixty paces off, across a drainage cut. The light did not waver. It was not a wall and it was not holding anything back; it was only a lamp, lifted so that two inspectors should not put a foot wrong in the dark. She had been given that in her second week, and Kiva did not know enough to tell whether it was early.
 
 Anwen did not look round. She could not have told one dark shape on a berm from another, and Kiva did not call. It was Mace's line. They had come about a mast.
 
@@ -126,7 +142,7 @@ She asked them on the way back. The van hummed along the embankment, and she tur
 
 "Find out who can't walk."
 
-"Mm." Rhea looked at them for a moment longer. "There's an allotment pump forty paces east of that cut. Agnes Roake's. A team put its cell out of order in the spring with a four-second kill on that very bank, and she's only had it back a week." She let that lie. "You've each told me what you'd do. They were good answers. Not one of you has told me what's behind you."
+"Mm." Rhea looked at them for a moment longer. "There's an allotment pump forty paces east of that cut. Agnes Roake's. A team put its cell out of order in the spring with a four-second kill on that very bank, and she waited six weeks for the reserve to fill it." She let that lie. "You've each told me what you'd do. They were good answers. Not one of you has told me what's behind you."
 
 Nobody said anything. The van went on through the dark.
 
@@ -188,11 +204,17 @@ He said it quite quietly. There were five or six people at the gates, in leather
 
 "He's always on nights. He says the cars are better company." Perrin had gone a curious color. "He's never seen me on a floor that wasn't behind glass."
 
-A lamp warden came up out of the dark with a dead lantern in his hand. He had the street's switch already pulled, he said, and the wardens rung. Two were out. The first had come at ten past and gone in at a ground-floor window, a third of the way down on the west side, and the family had got out the back and pulled their red handle as they went. The second had come at twenty past. It was sitting on the Hythe Building's step.
+Just inside the gates a woman sat on an upturned crate with a child asleep against her shoulder, and a man in his shirt stood over the pair of them with a blanket he had not thought to unfold. They had come out of a ground-floor window by the back. Somebody from the sheds had given them a mug of tea, and none of the three had touched it.
 
-"And the thing itself?"
+A lamp warden came up out of the dark with a dead lantern in his hand. He had the street's switch already pulled, he said, and the wardens rung. Two were out. The first had come with the bell, at fourteen minutes past, and gone in at a ground-floor window halfway down on the west side, and the family had got out the back and pulled their red handle as they went. The second had come at twenty-four past. It was sitting on the Hythe Building's step.
 
-"Below the Pellow. Two-thirds down, plumb in the middle. It's kept its time so far, ma'am. One, and ten minutes, and one."
+"Who's in this street that can't be got out by the back?" said Rhea.
+
+"Two that I know of. There's an old carter at the top of the Hythe on a breathing bellows; he's not been down those stairs in a year. And a child in the Pellow, two up, at the front, whose physic has to be kept cold. The mother wouldn't leave the cupboard. Warden Cobb's shut her in the back room with it." The lamp warden rubbed his jaw. "They're both on the cores, ma'am. The cell boxes are only the reserve."
+
+"Until a core trips. Then they're on a box the size of a biscuit tin." Rhea's eyes went down the dark fronts. "That's two more things behind us. And the thing itself?"
+
+"Below the Pellow. Two-thirds down, plumb in the middle." He pointed with the dead lantern at a tall front on the east side, with a crack over its door that somebody had stapled long ago with iron. "It's kept its time so far, ma'am. One, and ten minutes, and one."
 
 "So far," said Rhea.
 
@@ -208,13 +230,13 @@ She took her hands out of her pockets.
 
 Kiva set the mark by the crown of the road.
 
-She knelt and put her palm on the cobbles. They fell away south, and a little to either gutter. There was no wind. The air lay in the street like water in a trough. She chose the high middle, a dozen paces above the blue stroke, where the stone was dry and nothing sloped toward a grating.
+She knelt and put her palm on the cobbles. They fell away south, and a little to either gutter. There was no wind. The air lay in the street like water in a trough. She chose the high middle, fourteen paces above the blue stroke, where the stone was dry and nothing sloped toward a grating.
 
-"Here. Pru, four paces down from the south hem. On my word."
+"Here. Pru, two paces down from the south hem. On my word."
 
 The sheet went down. It lay as Pike had made it lie, flat, at the first throw.
 
-The husk was on the west pavement, twelve paces up, with its blunt head pushed through the area railings of a house whose ground-floor window was only a frame. It was the size of a big dog and the grey of a wet slate. It was working at a grating, patiently, as a dog works at a rabbit hole.
+The husk was on the west pavement, eight or nine paces off, with its blunt head pushed through the area railings of a house whose ground-floor window was only a frame. It was the size of a big dog and the grey of a wet slate. It was working at a grating, patiently, as a dog works at a rabbit hole.
 
 "Lure," said Kiva.
 
@@ -228,7 +250,7 @@ There was a line of blue-white light, as long as a breath.
 
 Pru's ward went out like a pinched wick. Twenty-odd drams lay on the middle of the canvas, as soft as flour.
 
-It went as it had gone on a dozen floors. Corners up at five. Perrin on the west hem with his arms held stiff, Kellan north, Pru south. The neck came in. The cord went round once, and twice, and at the third turn Kiva's two dull fingers told her nothing whatever and she said, "Cord check," and Pru said, "Crossed right. Over, then under toward you," and it was.
+It went as it had gone on a dozen floors. Corners up at five. Perrin on the west hem with his arms held stiff, Kellan north, Pru south. The neck came in. The cord went round at her hooked elbow, slower by a count, once, and twice, and at the third turn her two dull fingers told her nothing whatever about the cross and she said, "Cord check," and Pru said, "Crossed right. Over, then under toward you," and it was.
 
 "Sealed. Forty-one."
 
@@ -244,11 +266,11 @@ She had. She was pleased. She knew it for what it was, and gave it a number, and
 
 Perrin took the bag on a pole across his shoulders and started up the hill toward the van at a careful walk. The sheet lay open on the crown of the road. Pru was blowing on her hands.
 
-Eleven minutes, the warden had said. *It's kept its time.*
+Ten minutes, the warden had said. *It's kept its time.* The next was not due until twenty-six minutes to three.
 
 Down the street, the blue stroke opened a little, like an eye, and a third husk stepped out of it onto the cobbles.
 
-It had been four minutes.
+It was two minutes early.
 
 "There," said Kellan. "That's ours. Same mark. It's fourteen paces from the cloth and the cloth's down."
 
@@ -256,7 +278,7 @@ Nairn had his back to them. He had turned to look up the hill, to where a woman 
 
 Kiva looked at the sheet.
 
-It was down, and it was flat. The ground was the same ground. The air had not moved. Seven minutes ago she had set a lure four paces below that hem and a Handful had come up the road to it like a tram on a rail, and they had sealed at forty-one.
+It was down, and it was flat. The ground was the same ground. The air had not moved. Three minutes ago she had set a lure two paces below that hem and a Handful had come across the road to it like a tram on a rail, and they had sealed at forty-one.
 
 "Cloth's down," she said. "Pru. Lure."
 
@@ -294,7 +316,7 @@ The leg came down.
 
 There was a sound. Kiva had heard a brake shoe let go once, in a tram yard, when she was small. It was like that, and a good deal shorter.
 
-Then light broke across the street behind her, silver and enormous, and the top knot lifted off the place where Pru had been and went to it. The Flask took one step north. It took another. Its blunt head came to rest against the gate, a dozen paces up the hill, and it leaned there, and was still.
+Then light broke across the street behind her, silver and enormous, and the top knot lifted off the place where Pru had been and went to it. The Flask took one step north. It took another. Its blunt head came to rest against the gate, eight paces up the hill, and it leaned there, and was still.
 
 It was standing over them.
 
@@ -308,7 +330,7 @@ He was not making any noise. His face was the color of the canvas.
 
 Nobody did.
 
-The third husk trotted past them up the hill, to the wall. The fourth had gone the other way. Kiva heard its feet on the pavement, quick and light, going toward a door with a crack over it.
+The third husk trotted past them up the hill, to the wall. The fourth had not followed. Kiva heard its feet on the pavement below her, quick and light, going toward a door with a crack over it.
 
 She knelt under a Flask with her hands flat on her own new sheet. Three drams, and four signatures. It had lain so well.
 
