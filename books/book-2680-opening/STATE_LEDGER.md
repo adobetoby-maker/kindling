@@ -171,3 +171,94 @@ same-model informed targeted recheck; no second prose repair is justified.** The
   choice, pending owner review).
 - **Lane calls.** "Half!" names the side that earned it; "Down!" names the side that lost
   a fighter.
+
+## Movement Four carried state (chapters 25–32)
+
+Recorded 2026-10-11 from the first draft, by its author, directly after the run.
+**Unreviewed: no editorial review, cold read, repair or recheck has been run.** The
+manuscript governs; full detail is in `provenance/MOVEMENT-004-CONTINUITY.md`. Only what
+the prose shows is entered here.
+
+- **Calendar.** The month is still unnamed and has thirty days. Movement Four runs from
+  Monday the 4th to Thursday the 28th. Anwen left on Sunday the 10th. The Weighbridge call
+  was Sunday the 24th (bell 2:14 a.m.; closed 3:40). The Annick reading was Monday the 25th
+  at two. The Home Line hall was Thursday the 28th. Ahead: Saturday the 30th (Perrin takes
+  the team book to Anwen); **Sunday the 1st** (the Home Line watch sits; the Pit's tape
+  opens); Monday the 2nd (Selka Dray's objection); **Tuesday the 3rd at nine** (all parties
+  before the Placement Chair; the catcher's book, the tape, Noa and Orla are wanted).
+- **The sequence ("a crossing").** Four sanctioned goes on the Circuit's travelling mast in
+  the Old Yard: a called *off* (0.03), a crossing (0.30), a **stack** (0.11, called a miss by
+  Noa from the tape), a crossing (0.31). **Two of Orla's six.** Spent 0.75 of the 2.00; **1.25
+  in hand, which is four crossings and a hundredth.** Orla's six rules of the 12th stand (a
+  step first; one go a night; the thread called cold aloud; *off* in the air if the Ember is
+  not shut clean; the left hand shown first; Noa silent until after, and Perrin may stop it).
+  A crossing costs about a quarter-dram in the gap with nothing open; a stack (the second
+  door begun before the first is shut) costs a third as much, lands softly, and is forbidden.
+- **The disk** stayed cold through both sanctioned crossings, the call, the reading and the
+  hall. By the bearer's book it is "held of the Line. Released to a bearer," named by the
+  bearer before and witnessed by a watch that does not choose; the Line records in print that
+  it does not know what the plate is for and that its first book is lost. The watch of seven
+  may recall it on a vote for cause written. Ilse Corran received it in 2643 from M. Gill and
+  appointed Kiva in 2669; her written reason is a six-year-old's question ("Will they put
+  why?"). The Line recorded that Mara said no and that it sealed the appointment regardless.
+  **Kiva has entered the one warmth of the 29th in the fourth column in her own hand,**
+  witnessed by Hollis Vane, who must read it to the watch on the 1st.
+- **The dream.** No recurrence. Kiva has read Hesper Annick's fever entry (undated; the green
+  notebook; the eleventh, disputed box) once, uncopied, under the 2611 settlement, with an
+  observer from the Halden endowment and one from the Order of the Even Hand. It shares the
+  roads, the unlike lights, the touching, the absent sky, the word "Full," and every lamp
+  answering; it has no notes and no tick; Annick stands among the lights. It gives no date,
+  cause, meaning or use. Kiva has Annick's phrase, *the sky unroofed.* The sister saw her
+  count from the third line to the last and had it recorded that the reader's lips moved.
+  Mara did not read the entry; her page of the 29th is sealed and timed (1:52 p.m., the 25th)
+  in the Library's press. The Order has written to Mara (six questions).
+- **Body.** Knee passed for landings on the 13th, still strapped. The first two left fingers
+  were white forty-one counts after the fourth go; the whole left hand went to the wrist for
+  about an hour on the wharf and came back to its earlier state. **Aske, the 26th: not burned;
+  it "sulks a little longer" each time; no go until Monday; then one a week, with the hand
+  seen the next morning.** Permanent loss is still reserved for Movement Five.
+- **Certificate and conditions.** Unchanged. Kiva opened no door in the field. The stack is
+  in Orla's weekly book and on a sanctioned tape; Ysra wants the tape, the reader and the
+  sponsor on the 3rd.
+- **Team Seven.** **Sixth of thirty-one by yield (116.8), still second step, attached**, to
+  Rhea Sorn: it stood a whole Flask under a foreman with one remark (a lure lit inside a
+  string's reading), which the shift officer took as the shift's. Book: 2.0 sealed medical
+  (W), untouched; practice glass 1.25; 1.6 held; **8.4 credited (Grade First; W, full; I,
+  trace) and not entered until four have signed.** The purse sheet is marked by a Flask's leg.
+  Anwen is on Mace's summer line (culverts, then the Sag) and is to have the end of a wall;
+  she and Kiva are unreconciled by Anwen's choice. Perrin calls *off* for Seven. **Kellan has
+  accepted the Halden license team for the Regional** and stays on the book. Pru Finch is the
+  standing reserve Hold on a yellow card ("a corner and a lamp. Not a wall."). No blade is
+  named for the Regional.
+- **The Weighbridge call.** Five husks and one skinned Flask from a tear that stopped keeping
+  time. Tinned clean, 411.8 drams; one Handful printed at the gate and one lost down a grating
+  by the shift officer's stated choice; the Pellow Building's core fouled; six of its cell
+  boxes refilled before five from Kiva's second rung, on Warden Cobb's book. Hurt: Nairn
+  (Graywater's second blade), left leg, both bones, until the autumn.
+- **Stepped ash.** The comb's seventh reed is cut to Halden's foundation patent of 2391 (the
+  Step), which claims "all ash exhibiting the Step, however produced" and cautions against
+  introducing it "to an unstepped bank under load." Halden's yards and the big tram sheds are
+  stepped; pump houses and tenement boxes are not. This spring's rift ash reads I, trace; the
+  Flask's last two knots read **I, full** (113 drams, red-tagged, in the Wren House cold room).
+  Three parties claim the bag: the Halden Works, the wardens of Weighbridge Street, and the
+  Wren House reference shelf. Nobody has said why a tear throws it.
+- **Instrument evidence.** The Pit's tape shows a notch on all sixteen pens eleven or twelve
+  seconds after Kiva's cliff, and nothing on the Low Lane mast two miles off. No notch
+  followed either sanctioned crossing or anything at the Weighbridge. Unexplained.
+- **Knowledge.** The 2446 margin is read (a sister of the Even Hand asked at the wicket
+  before light whether the lamps had gone; the Warden ordered it left out). Anwen, Kellan,
+  Perrin, Pru and Noa know of the four T-0 entries, the margin, the disputed box and Orla's
+  2664 reading; none of them knows of the dream. Orla read the Annick entry in 2664 and will
+  not tell Kiva what it says; Kiva will not tell Orla. Vane has seen the disk and the
+  bearer's book; Orla has seen only Kiva's copied lines. Rhea Sorn told Kiva that Ilse Corran
+  pulled her from a culvert with a hand shut on something at her throat, and that she will
+  burn a card of two words; the words are not said. Mara does not yet know what the bearer's
+  book records about her. Nobody connects the stepped ash, the T-0 entries, the notch, the
+  disk and the dream.
+- **Words.** "A crossing" is the Home Line's older word for a sequence (ledger entry of 2471,
+  Tansy Wold). "A stack" is Kellan's and Orla's word for two doors open together. "Stepped"
+  and "the Step" are Halden's; "counting ash" was the Wren House's earlier name.
+- **Names and pronouns introduced (author's choice, pending owner review).** Lettice
+  Arkwright ("Reader," she); Mr. Adlam (he); Pike, Nairn and Ruddock of Graywater (he);
+  Warden Cobb (she); Dulcie (she) and Stott (he); Brannock (he); Tansy Wold (she); M. Gill
+  (he); Pettit (a name only). Perrin's father and the sister of the Even Hand are unnamed.

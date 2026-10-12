@@ -176,6 +176,16 @@ And she wanted very badly to be on that van.
 
 It seemed that a person could have both of those at once and hold a lamp. Nobody had told her so. She had thought that when she finally stood on a Graywater line she would be one whole thing, with nothing left over.
 
+She had learned a good many things in a fortnight that nobody had told her. A culvert at night has a tide in it, of air, and a lamp held against that draft wants the weight on the back foot. The oldest hand on the line ate a raw onion at midnight and could stand four hours on it. Mace watched feet, and never hands.
+
+On Thursday he had stood behind her through the whole of a relief with his board under his arm. At the end of it he had said the first thing that he had ever said to her before seven in the morning.
+
+*Tuesday. You'll take the end of the wall at the low arch, behind nobody. If it dips, I'll hear it.*
+
+That was the second week, and not the fourth. She had not told anybody. There was nobody on the line that it would have been manners to tell, and the one person whom she would once have told before her own mother was on a bench in a van tonight. That person had been informed, across a fold of waxed canvas, that Anwen was not done with her.
+
+She did not regret it. She found that she could want to tell somebody a thing and still not be done.
+
 The bell had stopped. Whatever it was had been heard by the people whose business it was.
 
 "There's the low arch, miss," said the inspector, from inside the brick. "A foot to your left, if you'd be so good."
@@ -228,7 +238,13 @@ She took her hands out of her pockets.
 
 ---
 
-Kiva set the mark by the crown of the road.
+They went down the west pavement in file, past the Hythe, and Kiva saw how the others began.
+
+Imrie had walked out onto the crown of the road and stopped there with her hands at her sides. Pike had a sheet under his arm. He did not throw it. He stood for a moment and turned his square head slowly the whole way round, up the hill and down it and along both rows of dark fronts, as a man looks about a room before he sits. Then the canvas went down, and he knelt, and only then did the silver come up between Imrie's palms.
+
+Kiva thought that he was being slow. She had a husk of her own, and a mark to find for it, and she did not think of it again for a quarter of an hour.
+
+She set her mark by the crown of the road.
 
 She knelt and put her palm on the cobbles. They fell away south, and a little to either gutter. There was no wind. The air lay in the street like water in a trough. She chose the high middle, fourteen paces above the blue stroke, where the stone was dry and nothing sloped toward a grating.
 

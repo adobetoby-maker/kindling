@@ -772,3 +772,186 @@ Full detail, with before-and-after text, is in `editor/MOVEMENT-003-REPAIR-REPOR
 - Required record correction: the Movement Three continuity checkpoint's left-knee row
   now carries the thirteenth, matching the manuscript and the rest of that checkpoint.
   No manuscript sentence changed after the recheck.
+
+## Movement Four — What the Record Lost (chapters 25–32)
+
+- Status: **first draft written 2026-10-11 as one continuous creative run. Unreviewed.** No
+  editorial review, cold read, metric scoring, repair, recheck or frozen edition exists for
+  this movement. Movement Five was not started.
+- Seat: Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 (progression-adventure)
+- Selected author: Opus
+- Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported by
+  the runtime environment of the authoring session ("powered by the model named Opus 5.5; the
+  exact model ID is `claude-opus-5-5`"). Every manuscript sentence in chapters 25–32 was
+  written by this model in one Claude Code background session. **No subagents were used**, and
+  no other model wrote, revised, or summarized prose.
+- Provider: Anthropic, via Claude Code (background job `ccdfca4e`)
+- Session: Claude Code session `ccdfca4e-2d30-4c07-a089-0fb6a299c322`
+  (https://claude.ai/code/session_01Uk2nDZpFHjYqfewNnf9eJY), a new session and not any of
+  the Movement One to Three drafting, review, repair or recheck sessions. The session ran
+  from about 19:18 to 20:25 MDT on 2026-10-11; by file timestamps the eight chapters were
+  written between 19:44 and 20:13.
+- Compiled prompt: `planning/OPUS-5.5-MOVEMENT-004.prompt.md`
+  (SHA-256 `75ddfeb195302c8747e800b2227730f40d2e64fd3155676ffe1d8b5a2ce99969`), read in full
+  (all 2,463 lines) before drafting. The prompt embeds chapter 24, `CHARACTERS.md`,
+  `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, `STATE_LEDGER.md` and
+  `provenance/MOVEMENT-003-CONTINUITY.md`; those were read there.
+- Movement packet: `packets/MOVEMENT-004.md`
+  (SHA-256 `490e1209d383a9a71026c1b82a9ae3b2a8b5e2abc95aff210b3881c445ff7a54`)
+- Numerical formula: `/Users/drive/penname/research/ironprince-craft-formula.md`,
+  SHA-256 `9f97e2f225c0bcf61d2e922719153fcf00e3b029f7b1552f213888d33130c0b8`
+  (re-hashed in this session; matches the hash recorded in the compiled prompt)
+- Edition: Book One, Movement Four, first draft (2026-10-11). **No frozen edition exists for
+  this movement.**
+- Branch: `worktree-kindling-2680-prologue-m001-opus55`. **The author made no commit and no
+  push, as the owner instructed.** While the run was in progress another process, committing
+  under the repository owner's name, committed each chapter file within seconds of its being
+  written: nine commits, `016d4ba` (19:44) to `23458d5` (20:12), titled "Publish Kindling
+  2680 chapter N" and "…continuity corrections." At about 20:20 the branch was level with `origin`
+  and `git ls-remote` showed the remote head at `23458d5`, so those commits were pushed. The
+  author noticed this only after the last chapter was finished and did not alter, revert or
+  add to it. **Not in those commits** (working tree only at the end of the session): the
+  final edits to `manuscript/chapter-29.md` (two added passages) and `manuscript/chapter-32.md`
+  (the standings line; "last Thursday"; the name Pettit); this file; `STATE_LEDGER.md`; and
+  the untracked continuity checkpoint. The hashes below are of the working-tree files and so
+  differ from the committed blobs for chapters 29 and 32.
+- Continuity checkpoint: `provenance/MOVEMENT-004-CONTINUITY.md`
+- State ledger: `STATE_LEDGER.md`, new section "Movement Four carried state."
+- Also read in this session, beyond the compiled prompt: `editor/MOVEMENT-003-TARGETED-RECHECK.md`
+  (in full; the packet makes it govern if it records a required mechanical correction: its one
+  required correction, R1, is to the Movement Three checkpoint's left-knee row and was already
+  applied; it also notes that the keeper's "forty seconds" is an estimate, which this draft
+  respects); `provenance/MOVEMENT-001-CONTINUITY.md` and `provenance/MOVEMENT-002-CONTINUITY.md`
+  (in full); `universe/NAME_REGISTRY.md` (in full); the Movement Three sections of this file;
+  prologue snapshots 8 and 10 and the opening of snapshot 11 (lines 699–828 and 955–1194 of
+  `manuscript/prologue.md`); and line-level excerpts found by search in chapters 3, 7, 8, 13,
+  17, 18, 19, 20 and 23 (Orla and the Annick card; the fever dream; the register lines; the
+  closing crew; the first yard tries; the weir response; the Low Lane mast; the step; the
+  successful sequence).
+- **Not read in this session:** the rest of the prologue; chapters 1–23 other than the
+  excerpts above; the Movement One to Three editorial reviews, cold reads, repair briefs and
+  repair reports. Their canon was taken from the three continuity checkpoints. A review
+  should weigh that when it checks voice and small facts.
+- Disclosed: session start-up injected a few lines of project status memory and tool
+  reminders; none was used as evidence for story facts.
+- Premise and owner names: confirmed available before prose (Kiva Rowan, Mara Rowan, Orla
+  Dane, Anwen Pryce, Perrin Cade, Kellan Renn, Noa Bexley, Ysra Crest, Rhea Sorn, Hollis Vane,
+  Lowen Brask, Selka Dray, Jude Talley, Pru Finch). No locked name was changed. New minor
+  names were checked by search against every book's manuscript and registry in this
+  repository and `universe/`; none matched. One name was changed during drafting (the Halden
+  team's Kill, first written "Marsden," now **Pettit**) for sitting too close by ear to a
+  reserved canon surname.
+
+### Files
+
+| File | Heading | Viewpoint | Words (`wc -w`) | SHA-256 |
+|---|---|---|---:|---|
+| `manuscript/chapter-25.md` | Asked Nicely | Kiva | 5,623 | `1d86df8aabb386b1c2c8559d67ca1ac2e4753e3d29498b1a0ff8b2bce6a2e777` |
+| `manuscript/chapter-26.md` | However Produced | Kiva; Noa cutaway (1,618) | 5,490 | `3ec69353d966655bff9c1087254bac2243a19be6916e8e5783d011ccce01a5cb` |
+| `manuscript/chapter-27.md` | One Crossing | Kiva; Hollis Vane cutaway (1,021) | 5,157 | `ca62eebfb47bd0630b1b2c60f84c328f6cb8d3ea922f06e1a5f9f378fca273d3` |
+| `manuscript/chapter-28.md` | The Cheap One | Kiva | 5,007 | `23407b9493b0dbe863a8d5695b984a13998731e94418389aa7689d8991e9f668` |
+| `manuscript/chapter-29.md` | The Night Van | Kiva; Anwen cutaway (756) | 5,526 | `f427a1dfff1a02a267eed041802a1e0725cffa5bca28024736fde365badb9d8d` |
+| `manuscript/chapter-30.md` | What's Behind You | Kiva; Rhea cutaway (1,650) | 5,951 | `0927e69af8755bfd06950087aff765a6953019fcf0a0a2b0ca7194498549771e` |
+| `manuscript/chapter-31.md` | Come Back Clean | Kiva | 6,469 | `6c487c5f7c5803202750d13c9720c6c5b749c4ef906a6f8b6b7e73e04f2d4682` |
+| `manuscript/chapter-32.md` | Held of the Line | Kiva; Orla cutaway (766) | 5,901 | `9f108691c6c71d92698823778b212afd197da998bad419fd5ee5031450e5592c` |
+| | | **Movement Four total** | **45,124** | |
+
+Secondary-viewpoint sections total 5,811 words across five people (Rhea 1,650, Noa 1,618,
+Vane 1,021, Orla 766, Anwen 756), about 12.9%; Kiva holds about 87.1%. The eight chapters
+have 41 sections (about 1,100 words a section). These are plain section word counts, not
+craft measurements. Hollis Vane is a viewpoint for the first time.
+
+### What was written
+
+Chapters 25–26 turn the fortnight's stand-down into four separate searches. Kiva takes the
+2446 margin to the Compact Library's reader, learns that the Even Hand asked about the lamps
+that night, is shown what a disputed box costs to open, and finds her sponsor's name in the
+request book sixteen years back. Noa learns what a T-0 is and that Kiva already had four,
+finds a notch on all sixteen pens of the Pit's tape, and reads the Halden patent behind the
+comb's seventh reed. Orla owns having cut a report to fit. Kiva puts the papers in front of
+her team on Anwen's last night, and Anwen leaves unreconciled by her own choice. Chapter 27
+has a Home Line ledger entry of 2471 read (a two-door woman, a "crossing," and a hand that
+did not come back), the request made with Mara's hand, the travelling mast, Orla's six rules,
+and the first sanctioned go: a called abort. Chapter 28 is the tries: one crossing on the
+cross, one "stack" that lands softly at a third of the cost and is called a miss by Noa
+against his own wishes, and a second crossing that leaves two fingers white for forty-one
+counts. Chapters 29–30 are the Graywater shadow shift and the Weighbridge Street call: a
+qualifier's habits fail when a student lure is read by a Flask; a professional is pinned;
+shed workers lift on Perrin's count; roles and reasons are declared again; a first-year
+walks a Flask down a street as a declared lamp; Team Seven takes a second husk the corrected
+way; Kiva catches three rungs behind Pike. Chapter 31 is the reconciliation on the wharf (a
+stepped bag withheld from a tenement on a catcher's word, a comb and a warden's four-century
+rule), Rhea Sorn's slate and her one piece of guidance, and Kiva's reading of Hesper Annick's
+fever entry under two observers. Chapter 32 is the claims on the bag, Kellan's choice, and
+the bearer's book at the Home Line hall, in which Kiva reads Ilse Corran's reason and writes
+the disk's one warmth into a column that has said "nothing" for five hundred years.
+
+Held back as the packet requires: the disk stays cold through two sanctioned crossings and
+the call, and neither it nor the dream supplies a tactic; no fever and no recurrence; the
+dream is confirmed as shared imagery only, with no date, cause, meaning or use; the disk's
+origin is a lost first book and "We do not know what it is for"; Kiva opens no door in the
+field and stays inside her certificate; the tries stand at two of six; no rank changes; the
+fingers are neither cured nor lost; the sealed W reserve is untouched; no new spawn expression
+is introduced; Anwen is not on Team Seven after the 10th; the 10:24 pattern is measured more
+closely and not explained.
+
+### Not done in this run
+
+No editorial review, cold read, repair pass, metric scoring, frozen edition or narration, and
+no commit, push or publication by the author (see "Branch" above for what another process
+did). The formula's sentence, paragraph, readability,
+progression-vocabulary and development-cadence targets were written toward and **have not
+been measured** for these chapters. Nothing here should be read as a passing score.
+
+During drafting the author corrected continuity slips only, as the task allows, by small
+in-place edits made directly after each chapter was written: elapsed-time phrases (Aske's
+week; "a week after" the Pit; Mara's and Kiva's acquaintance with Orla; Noa's "Saturday";
+"last Thursday"); what Orla's suspension covered and why she took Kiva on; who was in the Low
+Lane on the 4th; that Mara's sealed record is one page, of the 29th; the count of earlier
+jams and goes; the number of people in the yard; a Kennel-floor comparison; the third team's
+record with Kiva; that Pru Finch is not a Wren House student; the bell codes; where Anwen's
+line was working on the 23rd; the tear's times (2:14, 2:24, about 2:32); street geometry (the
+mark fourteen paces above the tear, the lure two paces below the hem, the gate eight paces up,
+the Pellow a dozen paces below); how long Agnes Roake waited for her pump; and a third
+"nineteen years" that became twenty. Two changes were larger. **The Step:** the first wording
+made every bank in Meridian a stepped bank, which contradicted the pump bank going "into
+step" as an alarm in chapter 24; it now belongs to Halden's yards, refineries, lift yards and
+big tram sheds, and municipal banks are unstepped. **The fifth husk:** the section in which
+Team Seven declares its corrected plan was rewritten once so that the lure stands within
+twelve paces of the husk and the cloth above the Pellow, and so that the officer's correction
+is "who's watching the gap." Four short passages were added to chapter 29 after its first
+write because the scene wanted them (Pike's cord grip; the two residents who cannot be moved;
+Pike looking all the way round before he kneels; Anwen's earned wall). None of this was a
+review or a scored pass.
+
+### Choices the owner should review
+
+Full detail is in `provenance/MOVEMENT-004-CONTINUITY.md`, section 10. The largest:
+
+1. **The district is Weighbridge Street and the Pellow Building** from prologue snapshot 8.
+   The building's cell book still carries the 2247 installer's reason on its first leaf and
+   has lost his name; its warden applies it to the call's ash.
+2. **The students' failure is their own first-step method.** A lure for a husk is a lamp for
+   a Flask. Kiva gives the word, a Graywater blade's leg is broken, and Rhea Sorn takes the
+   remark as the shift's. Team Seven stays attached.
+3. **"Stepped" ash and the Halden patent** ("however produced"). The comb's seventh reed is
+   tied to a foundation patent; the Flask's bottom two knots read I, full; the bag is withheld
+   from the tenement and is now under three claims with a hearing on the 3rd. This is the
+   movement's largest invention and the main engine handed to Movement Five.
+4. **"A crossing"** is the Home Line's older word for a sequence, from a 2471 field direction
+   to a two-door woman, Tansy Wold, whose left hand did not return. She is not a bearer.
+5. **A "stack"** is a third kind of go: soft, a third of the cost, wrong, and nearly signed
+   by Orla. Noa corrects both of them from the tape.
+6. **Two of six**, with exactly enough ash for four more and a new healer's price of one go a
+   week. The fingers stay away longer each time.
+7. **Kellan accepts the Halden license team for the Regional** and stays on Team Seven's book.
+8. **Rhea Sorn speaks to Kiva**, gives one bounded piece of guidance, tells her about Ilse
+   Corran and the culvert, and says she will burn a card without saying what was on it.
+9. **The bearer's book** in full, including a recall clause, Ilse's reason ("Will they put
+   why?"), the Line's record that it overrode Mara in 2669, and **Kiva's own entry.**
+10. **The reading** is done under two silent observers; Kiva counts through it, all three
+    doors stir, and the sister of the Even Hand notices and has it recorded.
+11. **Orla read the Annick notebook in 2664 and withheld it**; she owns that and refuses to
+    tell Kiva what it says. Mara chooses not to read it and has her own page sealed and timed.
+12. **Movement length is 45,124 words**, at the foot of the working range, with no chapter
+    over 6,500.
