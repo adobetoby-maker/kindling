@@ -18,13 +18,13 @@ They came out. Kiva had not known how much she was shaking until she tried to wa
 
 Down the street there was a sound of iron.
 
-It was a railing, being worked at. Kiva turned. Twenty paces below, on the east pavement, a grey shape with a shine on its shoulders had got its head and one forelimb through the area bars of the house with the cracked lintel, and was reaching for the window beneath the front step. There was a board across that window on the inside. Somebody had put it there in a hurry.
+It was a railing, being worked at. Kiva turned. A dozen paces below, on the east pavement, a grey shape with a shine on its shoulders had got its head and one forelimb through the area bars of the house with the cracked lintel, and was reaching for the window beneath the front step. There was a board across that window on the inside. Somebody had put it there in a hurry.
 
 "That one's going in," said Rhea.
 
 She said it to nobody. Then she turned her head a little, so that the four of them and the man on the ground could hear, and she spoke as Hollis Vane had spoken on a cinder floor, with the same flat care.
 
-"There's a ground-floor front behind that board with people in it. I've no cloth within thirty paces and no time to lay one. I'm going to cut it where it stands, on a pavement, over a cellar grating. The ash will go down the grating. It'll foul that building's core, and likely more." She was already moving. "A window before a cellar. That's my trade, and it goes on the slate under my name."
+"There's a ground-floor front behind that board with people in it. I've no cloth that I can get at and no time to lay one. I'm going to cut it where it stands, on a pavement, over a cellar grating. The ash will go down the grating. It'll foul that building's core, and likely more." She was already moving. "A window before a cellar. That's my trade, and it goes on the slate under my name."
 
 She did not run. She went down the east curb with long, even strides, and stopped a pace behind the thing at the railings, where its shine could not come round to her.
 
@@ -162,7 +162,7 @@ And four students on a curb, who had done exactly what a qualifier had taught th
 
 She had asked them in the van what was behind them. She had liked the question. She had thought it rather a neat one, and she had let it lie there for them to pick up, and had turned to the front. *I'll not ask it again tonight.* She had said that. She had underlined three words on a card and promised to say why later, when it mattered.
 
-It had mattered at about twenty-seven minutes to three. She had been forty paces up a hill with her hand raised.
+It had mattered at about twenty-eight minutes to three. She had been twenty paces up a hill with her hand raised.
 
 *Mine,* thought Rhea. *Then say it properly.*
 
@@ -256,13 +256,13 @@ The tear was on her right hand now. They were going by it at arm's length, on th
 
 "I know. Go on. It's the best count I've had all night."
 
-Thirty paces below, four people ran out into the roadway from the west gutter and turned, and the street filled with silver.
+Twenty paces below, four people ran out into the roadway from the west gutter and turned, and the street filled with silver.
 
 "*Mine,*" said Imrie's voice.
 
 The tea tray went out. It went out between one syllable and the next, clean, with nothing left hanging.
 
-Rhea stood still, with her fingers in a first-year's belt, and watched the top knot. It had been on a lamp. Now it was on a wall. It took its next step without so much as a check, and went by them at four paces' distance down the hill, and she had not heard the join.
+Rhea drew her back against a railing, with two fingers still in the belt, and watched the top knot. It had been on a lamp. Now it was on a wall. It took its next step without so much as a check, and went by them at four paces' distance down the hill, and she had not heard the join.
 
 "Was that it?" said Finch. "Was that staying?"
 
@@ -270,21 +270,19 @@ Rhea stood still, with her fingers in a first-year's belt, and watched the top k
 
 ---
 
-Kiva was halfway to the wharf with a rolled sheet on her shoulder when she heard her team called.
+Kiva had the team's sheet half rolled when she heard her team called.
 
-She turned. Kellan turned beside her.
+It had taken the two of them to drag it clear of where the Flask had stood. She let go of it and turned, and Kellan turned beside her.
 
-A husk had come out of the tear. It stood on the crown of the road in the place where the Flask had been a minute before, a plain one, the grey of slate, with nothing lit anywhere near it. Its head went slowly from side to side.
+A husk had come out of the tear. It stood a dozen paces below them on the crown of the road, a plain one, the grey of slate, with nothing lit anywhere near it. Its head went slowly from side to side.
 
-"Seven!" Rhea was forty paces down the hill and walking away from them, backward, beside the gate. "That's inside your step, and it's yours. I've nobody else. *Tell me how before you touch it.* Loud."
-
-Kiva put the sheet down.
+"Seven!" Rhea was thirty paces down the hill and going farther, at the tail of the gate. "That's inside your step, and it's yours. I've nobody else. *Tell me how before you touch it.* Loud."
 
 There were two of them. Pru was a lamp. Perrin was on a stair. A team that did three of the four had failed its response, and they had one and a half.
 
-"Corners," she said to Kellan. "We want two that'll stay dark."
+"Corners," Kiva said to Kellan. "We want two that'll stay dark."
 
-"The shed hands. That pair." He was already beckoning. The tall woman and the thick-necked young man had stopped with a sheet between them. "And a lure, and we've no ward."
+"The shed hands. That pair." He was already beckoning. The tall woman and the thick-necked young man had stopped on the west pavement with one of Pike's sheets between them. "And a lure, and we've no ward."
 
 "A blade's a lamp. You've said so."
 
@@ -292,39 +290,49 @@ There were two of them. Pru was a lamp. Perrin was on a stair. A team that did t
 
 It was strange to hear it asked. It was strange how much room there was in a street, once it had been.
 
-"The Flask," said Kiva. She looked. The top knot was thirty paces below them and going away at a pace every four counts. "It reads to twenty-five. It's past that. It's on a wall, and the wall's nearer to it than you'd be." She turned her head. "The tear, if it gives another. Then that one's inside twelve and it comes too."
+"The Flask," said Kiva. She looked. The top knot was thirty paces below them and going away at a pace every four counts. "It reads to twenty-five. It's past that, and it's on a wall, and the wall's nearer to it than you'd be." She turned her head. "The tear, if it gives another. Then that one's inside twelve of you, and it comes as well."
 
 "So I'm lit for as short a time as will do it."
 
-"For a count of ten. Not from here. From the far hem, low, so that it crosses the cloth to get to you." She was reading the ground as she spoke, and not only the ground. "What's behind us? The Pellow. It's on its boxes; every one of those is alight now, and there's a cupboard in it. So the cloth goes as far from that front as the road allows. West gutter."
+"For a count of ten. You light at twelve paces from it, low, and you walk it up the hill to us as Finch walked the other down. It crosses the cloth to get to you." She was reading the ground as she spoke, and for the first time that night she was not reading only the ground. "What's behind us? The Pellow. It's on its boxes; every one of them is alight now, and there's a cupboard. So the cloth goes on the crown and as far above that door as we can get it. Level with the broken window."
 
-"The west side's the house with the broken window."
+She cupped her hands.
 
-"And a quenched box. There's nothing in it to drink." She cupped her hands. "*Seven! One Handful, plain! Cloth in the west gutter, level with the broken window; that house is quenched! Shed hands on two corners, dark! Renn lights a blade for ten counts from the far hem, as the lure, and cuts! Flask's past twenty-five and on a gate! If the tear gives another, he goes dark and we stand!*"
+"*Seven! One Handful, plain! Cloth on the crown, level with the broken window, above the Pellow; its boxes are lit! Shed hands on two corners, dark! Renn lights a blade at twelve paces, low, and walks it up onto the cloth, and cuts! Ten counts of light and no more! Flask's past twenty-five and on a gate!*"
 
 There was a pause of two counts. It felt a good deal longer.
 
-"Which way does that gutter fall?"
+"Who's watching the gap while your heads are down?"
 
-"South! Away from the Pellow!"
+Kiva's mouth opened.
+
+Nobody was. Nobody had been the first time, either. Four people had knelt round a sheet with their eyes on a cord, and behind them a blue stroke had opened like a mouth.
+
+"*South corner!*" she called. "*He faces it! He says 'gap' if it moves, and we stand!*"
 
 "Then go!"
 
 They went.
 
-It was not tidy. The sheet was their own, and it had a mark on it the size of a dinner plate where a leg had stood, and a dark stain along the south hem that was not wax. The tall woman, whose name was Dulcie, held her corner as she would have held a tarpaulin in a gale, and had to be told twice to keep her knee on the lead. Kiva set the mark three paces from the curb. She set it, and then she stood up and looked all the way round, the whole circle, before she knelt.
+It was not tidy. The sheet was their own, and it had a mark on it the size of a dinner plate where a leg had stood, and a dark stain along the south hem that was not wax. The tall woman, whose name was Dulcie, held her corner as she would have held a tarpaulin in a gale, and had to be told twice to keep her knee on the lead. The young man was called Stott. Kiva put him at the south hem and turned him by the shoulders until he was looking down the hill.
+
+"That blue thing. If it gets any wider, you say *gap.* That's all you do. You don't look at anything else, whatever you hear."
+
+"Gap," said Stott. He swallowed. "Aye."
+
+She set the mark. Then she stood up and looked all the way round, the whole circle, before she knelt.
 
 "Now," she said.
 
-Kellan's blade came alight at the far hem, low, like a lantern held for a dog.
+A dozen paces below the hem, Kellan's blade came alight, low, like a lantern held for a dog.
 
 The husk's head stopped going from side to side. It came.
 
-It came down off the crown and across the cobbles at its trot, and its feet were on the canvas, and Kellan did not bound. There was nothing to bound over. He took one step to the side, as a man steps out of a doorway, and cut.
+Kellan went backward up the crown of the road with the blue-white held at his knee. He did not hurry. He stepped onto the canvas, and across it, and off at the north hem, and the thing trotted after him with nothing in it but direction. When its feet were on the cloth he did not bound. There was nothing to bound over. He took one step to the side, as a man steps out of a doorway, and cut.
 
 "Dark! One."
 
-It was gone out before she had finished the word. She had the hem. She had the cord at her elbow from the first turn, and it was slow, and she took the count. Three paces behind her a grey leg as thick as a lamppost was no longer standing, and she found that she had looked to make sure.
+It was out before she had finished the word. She had the hem. She had the cord at her elbow from the first turn, and it was slow, and she took the count.
 
 "Cord check."
 
@@ -336,7 +344,7 @@ It was gone out before she had finished the word. She had the hem. She had the c
 
 "Sealed. Fifty-five."
 
-Fifty-five. It was fourteen worse than the first. Nothing in the street had turned to look at it.
+Fifty-five. It was fourteen worse than the first. Stott had not once turned his head, and nothing in the street had turned to look at them.
 
 "That's a slow one," said Kellan. He was breathing hard, and he was looking at the bag with an expression she had not seen on him before. "I'd have been ashamed of that at the Kennel." He picked up a pole. "I'm not. I can't make out why."
 
@@ -406,7 +414,7 @@ Kiva looked, since there was no count open. The woman with the white streak was 
 
 Kellan was looking as well. He had his watch in his hand. He had had it there since the first.
 
-"Seven-tenths," he said, under his breath. "Seven. Eight. Nine. A full second. A second and two." His thumb moved on the case. "That's more light in a quarter of an hour than she showed at the weir in a morning. And there's no second blade on this wharf who's allowed."
+"Seven-tenths," he said, under his breath. "Seven. Eight. Nine. A full second. A second and two." His thumb moved on the case. "That's as much light in a quarter of an hour as she showed at the weir in a morning, and the worst cut's still to come. And there's no second blade on this wharf who's allowed."
 
 "No."
 
