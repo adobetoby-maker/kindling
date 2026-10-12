@@ -2,8 +2,8 @@
 
 Working series label: **Kindling 2680**. Book title is unset.
 
-Status: drafting concept. The owner delegated the continuing names and opening locks
-on 2026-10-08.
+Status: Book One complete and accepted 2026-10-12; retained as the originating concept
+and series-intent record.
 
 ## Calendar
 

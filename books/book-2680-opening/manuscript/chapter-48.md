@@ -48,7 +48,7 @@ He was a thin worried man, and he had been a good deal thinner and more worried 
 
 He lifted the lid.
 
-There was a bed of yellowed wool. In it lay a disk the size of a penny, of a dull white, with nine rings cut into its face.
+There was a bed of yellowed wool. In it lay a disk the width of a palm, of a dull white, with nine rings cut into its face.
 
 It was plaster.
 
@@ -466,7 +466,7 @@ Kiva did not answer.
 
 She was looking over the bottom wall. It was a clear night, with a frost coming. Beyond thirty feet of brick the long hill went down, straight as a rule, with a lamp at every twentieth pace, to the Brickfields road and the river and the dark.
 
-There was a card in her coat from a company, with *either of us* on the front of it and four names on the back. There was a line on a board about a Measure at Saltmere, in the third month. There was a pump-fitter on the south coast who knew a thing by his bad hand, and wanted to read what she had written down. Somewhere beyond all of them, a keeper whom she had never heard of had a book with a remarks column.
+There was a card in her coat from a company, with *either of us* on the front of it and four names on the back. There was a line on a board about a Measure at Saltmere, in the third month. There was a pump-fitter on the south coast, though she did not yet know it, who knew a thing by his bad hand, and wanted to read what she had written down. Somewhere beyond all of them, a keeper whom she had never heard of had a book with a remarks column.
 
 It was two hundred miles to the coast. She had seen the map on the wall of the watch room. The road went round the Sag, and doubled at a ferry, and followed a river that had never in its life gone where a clerk would have drawn it.
 

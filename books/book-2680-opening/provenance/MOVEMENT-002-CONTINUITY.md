@@ -199,7 +199,7 @@ cord at Kiva's collar and nothing on it. Second draft card: *lost 9–7; three d
 changes, each cost her; third carry one door, no change; asked to her face to open a
 second and did not; still NOT for draft; watch the Flask*; and, on the back of the card, a line
 for the board (nine tears on the district board since the thaw against a usual four or
-five; three of Graywater's threw skinned Handfuls). She writes nothing about the class. The private "Corran's disk" card is still
+five; three of Graywater's threw skinned Handfuls). She writes nothing about the class. The private "Corran's. Mine." card is still
 private. She has decided to wait at least until the Flask.
 
 **Hollis Vane** (first appearance; written as he/him by author's choice; about 45; Home
@@ -364,7 +364,7 @@ proves a common cause.**
 | The referee's note | On the back of the lane card, in Ysra's folder: "supervised," not "safe." Unanswered. |
 | Team Eleven | Reserve hand-door still unlicensed; seat keeps until the next tear. |
 | The school's fear of Kiva | Shown at the Kennel benches and floor (16th), on the Sag Line (28th) and in the Stonehand gallery (4th). Not resolved. |
-| Rhea's "Corran's disk" card | Private. She will watch the Flask. |
+| Rhea's "Corran's. Mine." card | Private. She will watch the Flask. |
 | Hollis Vane | Knows Orla; may borrow the tin drill. No disk knowledge shown. |
 | Agnes Roake's pump | Quenched; refill in about a month by claim. |
 | Flask qualifiers | Last week of the month; Team Seven 17th of 31; Kiva certified for recovery only. |

@@ -1,7 +1,8 @@
 # Kindling 2680 opening state ledger
 
-Status: opening locks resolved 2026-10-08. Ready for the prologue and first
-eight-chapter continuous prose run.
+Status: **Book One complete and accepted 2026-10-12.** The prologue and chapters 1–48
+total 305,131 words. Six movement loops, two full-book reads, the five-seam canon
+reconciliation, targeted recheck, and final mechanical recheck are complete.
 
 ## Prologue and opening day
 
@@ -149,7 +150,9 @@ same-model informed targeted recheck; no second prose repair is justified.** The
   were: slow, late, not finished mending. Permanent loss is still reserved for Movement
   Five.
 - **Team Seven.** Ninth of thirty-one by yield (72.0), **second step, attached**, to the
-  Graywater Company under Rhea Sorn. Book: 2.0 sealed medical (W); 1.0 returned to the
+  Graywater Company under Rhea Sorn. Book: 2.0 sealed medical (W), which is plain ward-trace
+  of the Sag Handful's casualty reserve, changed at par at the Wren House for two of the
+  team's Pit drams (the Pit ash read W, full; I, trace); 1.0 returned to the
   Wren House infirmary at par; a purse sheet and poles of its own (3.0); 2.0 for the six
   tries; 1.6 held at 0.4 a head. Anwen is away six weeks from the 10th; Kellan is weighing
   a Halden team; Perrin is named for his Hall's second team in the autumn.

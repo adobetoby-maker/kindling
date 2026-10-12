@@ -1805,3 +1805,110 @@ status lines in the records are left for the acceptance entry.
 - This acceptance closes the movement-level loop only. A whole-book review is still owed
   before Book One is called complete. No narration or Book Two prose is authorized by this
   entry.
+
+## Whole-book canon reconciliation — 2026-10-12
+
+- Status: **five cross-movement seams corrected at clause level after the two whole-book
+  reviews. Not rechecked.** Nine manuscript lines changed in five chapters (8, 24, 44, 47,
+  48). The baseline is frozen, unchanged, at `editions/book-one-pre-whole-book-repair/` (49
+  files; `SHA256SUMS.txt` verified before the first edit and after the last record was
+  written). Earlier sections of this file are left as written; where their word counts or
+  hashes for chapters 8, 24, 44, 47 and 48 differ from the tables below, the tables below are
+  the current ones.
+- Author: **Claude Opus 5.5 (`claude-opus-5-5`)**, the model that wrote the book, as reported
+  by the runtime environment. **No subagents, workflows, skills or other models were used.**
+- Provider: Anthropic, via Claude Code (Claude Agent SDK), non-interactive session
+- Session: `0deb8efc-acbf-419b-8426-ea8a81183e21`, resumed at about 03:09 MDT on 2026-10-12;
+  the same session made the Movement Six repair and its post-recheck corrections. The edits
+  were applied at about 03:13 and the records and report written by about 03:20.
+- Instructions: `editor/WHOLE-BOOK-REPAIR-BRIEF.md`
+  (SHA-256 `e76223c2f06a42a8aa00c6c7875bc296df15788e3bbe0f7ce1e3c8175212fdc6`), read in full.
+- Reviews answered, both read in full before any edit: `editor/WHOLE-BOOK-EDITORIAL.md`
+  (SHA-256 `3565a9b2c317c722bef1004a53c5190c1389e9411664cca57ad8eef9a5ddd91f`) and
+  `editor/WHOLE-BOOK-COLD-READ.md`
+  (SHA-256 `0091748bffd0c8f431460dfcb438f941b7db8de908c0b660ce789a33bdf2d5ae`). Both are
+  same-model reads, not human reads. Neither was altered.
+- Also read before editing: the manuscript passages around every location (listed in the
+  report's section 1) and the record lines that were candidates for change. The manuscript was
+  not reread as a whole for this pass.
+- Method: nine exact-string replacements, each aborting unless it matched once. A `diff` of
+  all 49 manuscript files against the frozen edition shows those nine lines and no others.
+- The five seams:
+  1. **Rhea's card** (chapter 8, line 319): `Corran's disk.` became `Corran's. Mine.`, so
+     that chapter 48's "One of the two was *mine*" is true.
+  2. **The cast** (chapter 48, line 51): "the size of a penny" became "the width of a palm,"
+     the plate's own size in the prologue and chapter 32.
+  3. **Rhea's culvert** (chapter 44, lines 195 and 197): "the autumn of '64" became "the
+     spring of '57" and "sixteen years" became "twenty-three years," following chapters 8, 23
+     and 31. The year is derived: 2680 less twenty-three.
+  4. **The medical reserve** (chapter 24, lines 309 and 385; chapter 44, line 131; chapter 47,
+     line 55): at the sealing Anwen will not seal the Pit's ash, which carries the seventh
+     reed, and has two of the team's Pit drams changed at par at the Wren House for two drams
+     of the casualty reserve's quarter of the Sag Handful, entered on the book. Jude and Anwen
+     now say "the fourth month" for the Sag husk. No total changed: 2.0 sealed, 1.2 drawn, 0.8
+     left.
+  5. **Hart's card** (chapter 48, line 469): the pump-fitter is named "though she did not yet
+     know it." The card stays with Orla. The juniors' run (lines 449–468) and line 470 to the
+     end, with the final two paragraphs, are byte-identical to the frozen edition.
+- Records reconciled, only where a correction made a line false: the card's wording in the
+  Movement One to Four checkpoints; the sealed reserve in the Movement Three checkpoint and
+  one line of the Movement Three block of `STATE_LEDGER.md`; the culvert year and the word
+  counts in the Movement Three and Six checkpoints; and one paragraph in section 0 of the
+  Movement Six checkpoint naming the five seams. As the brief allows, the Movement Five
+  checkpoint's hall-panel date was corrected to "the 13th of the fourth month," which the
+  manuscript's day chain makes exact. That checkpoint's calendar note still calls
+  Classification Day's month the fifth; the brief does not authorize changing it, and the
+  report flags it.
+- Report: `editor/WHOLE-BOOK-REPAIR-REPORT.md` (SHA-256 at the time of this entry `fb5378aab1eecd11e4f577d71319298c455ea5f431494990d704c3d5016c8e9f`).
+- **No optional note from either review was acted on,** and no other prose was changed.
+- **Not done:** no review, score, measurement or recheck of the result; no Book Two; no
+  commit, push, publication or narration. The working tree holds these changes uncommitted on
+  `worktree-kindling-2680-prologue-m001-opus55` at `0417bbb`.
+
+### Word counts (`wc -w`)
+
+| File | Before | After | Change |
+|---|---:|---:|---:|
+| `manuscript/chapter-08.md` | 5,828 | 5,828 | 0 |
+| `manuscript/chapter-24.md` | 8,571 | 8,653 | +82 |
+| `manuscript/chapter-44.md` | 5,583 | 5,583 | 0 |
+| `manuscript/chapter-47.md` | 6,368 | 6,368 | 0 |
+| `manuscript/chapter-48.md` | 6,566 | 6,573 | +7 |
+| **Book One, prologue and 48 chapters** | **305,042** | **305,131** | **+89** |
+
+Movement Three is now 48,775 words and Movement Six 51,684.
+
+### SHA-256 after the reconciliation
+
+| File | SHA-256 |
+|---|---|
+| `manuscript/chapter-08.md` | `94b38e2926462de2aa962fdc4fd84e3faf0319aa63f55d8048072baba8b947b6` |
+| `manuscript/chapter-24.md` | `07bab974371fcb717dde47ee9e5661fd77fafa4cb9d3b392e7bb57528050a82d` |
+| `manuscript/chapter-44.md` | `71c3c9fafc001a1d377c87bbe53f981b01503a1044858456f5d9e0d53b4f863c` |
+| `manuscript/chapter-47.md` | `457397c3da6cdebce75fb75b022cd127f67c2d303ae93f24758855746c0b7ecd` |
+| `manuscript/chapter-48.md` | `a925832609fb5c13e3ef350ce79a8c4e6ecebc9fcccc41a96d35ea92717373b3` |
+
+### Whole-book acceptance — 2026-10-12
+
+- Status: **Book One complete and accepted.** The prologue and chapters 1–48 total
+  **305,131 words**. All six movement loops are accepted; the whole-book editorial and
+  manuscript-only cold read found no structural rewrite necessary; the authorized
+  five-seam reconciliation passed targeted and final mechanical rechecks.
+- Public byline: **Monroe Jackson**. Author seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0.
+  Prose author and same-author repair model: **Claude Opus 5.5
+  (`claude-opus-5-5`)** through the authenticated Anthropic Claude Code subscription.
+- Targeted recheck: the whole-book editorial session, resumed as a review-only Opus 5.5
+  session (`9754d966-6789-47f0-8f67-bf78c82020f6`), wrote
+  `editor/WHOLE-BOOK-TARGETED-RECHECK.md` (SHA-256
+  `86797049559ef183c282498ecabec30dc27468c92289f171705d7d8b18d432f4`) and passed all
+  seven tests, with two mechanical Movement Five calendar-record fixes owed.
+- Final mechanical recheck: the same review-only session verified those two record fixes
+  and wrote `editor/WHOLE-BOOK-MECHANICAL-RECHECK.md` (SHA-256
+  `33f5c808525115fa0d1caabd7ba39363e6037241c80f93b19bf23d37e8b01d67`), ending
+  `OVERALL: PASS — Book One reconciliation is complete`.
+- Final Movement Five continuity SHA-256:
+  `2841164833c6b831b752d1d3f85a64ccb43d01897ee5da51f53ea9f660ba8e8b`.
+  The frozen 305,042-word pre-reconciliation edition remains unchanged and all 49 files
+  verify against its checksum manifest.
+- No optional whole-book note was acted on. No Book Two prose or narration was produced
+  in this completion loop.

@@ -128,7 +128,7 @@ Three of Seven had come to carry. Jude was at the door, and Anwen, and Perrin wi
 
 He had not said it loudly. He was looking at the cold-room door across the passage, with its three seals.
 
-"I'm only saying it since somebody will. We've two drams on our own book that came off a husk on the Sag in the fifth month, before any of this got into the ash. Ward-trace. No hair. It's sat under wax for five months." He scratched his jaw. "That's two hundred pinches, by my reckoning. It'd do the bank and the drums and leave some over. And there's six hundred drams in that room of the loudest ash in Meridian, if anybody wanted a thing for a string to walk to that wasn't a drain."
+"I'm only saying it since somebody will. We've two drams on our own book that came off a husk on the Sag in the fourth month, before any of this got into the ash. Ward-trace. No hair. It's sat under wax for five months." He scratched his jaw. "That's two hundred pinches, by my reckoning. It'd do the bank and the drums and leave some over. And there's six hundred drams in that room of the loudest ash in Meridian, if anybody wanted a thing for a string to walk to that wasn't a drain."
 
 "No," said Anwen.
 
@@ -192,9 +192,9 @@ A catcher, with eight fingers that reported. A healer's card that said he would 
 
 She turned round, in her chair, and looked.
 
-The map wall. A lamp for every mast in the district, and nine of them lit, since she had a student sitting under each with a drum and a boy to run. A painted table with her company second on it and a remark in the last column. And a long way behind that, a culvert on the Ferren in the autumn of '64, and a young blade who had gone in too far being hauled out of the wet by a Home Line woman who kept one hand shut on something at her throat.
+The map wall. A lamp for every mast in the district, and nine of them lit, since she had a student sitting under each with a drum and a boy to run. A painted table with her company second on it and a remark in the last column. And a long way behind that, a culvert on the Ferren in the spring of '57, and a young blade who had gone in too far being hauled out of the wet by a Home Line woman who kept one hand shut on something at her throat.
 
-Ilse Corran had not asked her whether she wanted pulling out. She had been glad of that for sixteen years.
+Ilse Corran had not asked her whether she wanted pulling out. She had been glad of that for twenty-three years.
 
 She had been a casualty. The girl was not a casualty. She kept putting her in that column, and it was the wrong one.
 

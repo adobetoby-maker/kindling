@@ -593,7 +593,7 @@ further than intended:
 9. **Kellan accepts the Halden team.** The packet says he is weighing it and that supporting
    characters may decide. He remains on Team Seven's book and may stand the owed Flask.
 10. **Rhea tells Kiva about Ilse Corran and the culvert** and says she will burn a card. The
-    words "Corran's disk" are still not said. This spends part of a Movement Two plant.
+    words "Corran's. Mine." are still not said. This spends part of a Movement Two plant.
 11. **The bearer's book** is drafted in full: a rule leaf, a recall clause, five columns, about
     five hundred years of *Nothing,* one doubted *Warm?*, one unread record-hand entry, M. Gill
     as the bearer before Corran, and Ilse's reason. **Kiva writes in the fourth column.** If the

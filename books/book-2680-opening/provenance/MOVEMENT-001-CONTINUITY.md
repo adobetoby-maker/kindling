@@ -106,7 +106,7 @@ Board dram line: Renn 0.41, Pryce 0.55, Cade 0.93, Rowan 0.96, no overspend.
 
 **Ysra Crest** (~60; hand door, Torch; ex-Wren House ward-holder; Placement Chair, 19 years running the Cellhouse, 11 master-stop pulls). Kept her hand on the master stop from 8.0 and did not pull it. Ruled provisional Third Division on the strength of the book, while stating the run failed.
 
-**Rhea Sorn** (41; Graywater; Ember door, Edge only, Torch — as far as her door has taken her; 23 years; draft board six seasons; white streak at left temple; pale grey eyes). Reviewed Team Seven from the three-and-a-half-minute mark on the silent run plate Saturday evening, with the booth's notes for the calls. Draft card (in tray): *Rowan, K. Unclassified. Placement not yet posted. NOT for draft this season. Watch first sanctioned meet. Stood a husk off a teammate on two doors jammed together. Not a hand-off, and not to be expected twice. Kept the third shut under impact. Called a quench from under it and was right. Responder.* Private card (in her pocket, not filed): *Corran's disk.* At nineteen, seconded to a Home Line crew in the Ferren culvert floods, she was pulled out of a culvert by Ilse Corran and saw the disk then. Has not contacted Kiva. She does not yet know the placement ruling.
+**Rhea Sorn** (41; Graywater; Ember door, Edge only, Torch — as far as her door has taken her; 23 years; draft board six seasons; white streak at left temple; pale grey eyes). Reviewed Team Seven from the three-and-a-half-minute mark on the silent run plate Saturday evening, with the booth's notes for the calls. Draft card (in tray): *Rowan, K. Unclassified. Placement not yet posted. NOT for draft this season. Watch first sanctioned meet. Stood a husk off a teammate on two doors jammed together. Not a hand-off, and not to be expected twice. Kept the third shut under impact. Called a quench from under it and was right. Responder.* Private card (in her pocket, not filed): *Corran's. Mine.* At nineteen, seconded to a Home Line crew in the Ferren culvert floods, she was pulled out of a culvert by Ilse Corran and saw the disk then. Has not contacted Kiva. She does not yet know the placement ruling.
 
 **Ilse Corran** (prior bearer; d. 2673). Home Line field officer; tall, cropped grey hair, long jaw scar; friend of Ione Rowan; carried the disk ~30 years; appointed Kiva after Ione's death (2669), sealed until the Kindling day; delivered by a Home Line courier at 07:00 on the 2676 Kindling morning.
 
@@ -152,7 +152,7 @@ Minor named: Brannock (rushing municipal operator, taught by Orla), Tobin (van d
 | Sag Line baseline creep | Recorded, unexplained. |
 | T-0 entries (2446/2604/2676) | Copied by Kiva; 2446 copy pending from the clerk. Evidence only; no explanation drawn. |
 | Annick notebook | Seen by the reader (2603) and Orla; Kiva has not seen it. Movement 4 fragment is still available. |
-| Rhea's "Corran's disk" card | Private; unrevealed. |
+| Rhea's "Corran's. Mine." card | Private; unrevealed. |
 | Mara's license review | Notice due end of week; outcome open. |
 | Anwen's Graywater placement | Decided on the 20th. |
 | Kellan's comparison | First Division vs Kiva's Third. |

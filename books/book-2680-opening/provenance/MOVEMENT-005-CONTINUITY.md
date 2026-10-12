@@ -78,8 +78,8 @@ moved. Everything below is already folded into sections 1–11.
 ## 1. Calendar
 
 High summer to early autumn 2680. **This movement numbers the months on the page for the first
-time:** the month of Classification Day and the Pit is the **fifth**, the month of the
-Weighbridge the **sixth**, then the **seventh**, **eighth** and **ninth**. Every month still
+time:** Classification Day is in the **fourth** month and the Pit is in the **fifth**, the
+month of the Weighbridge the **sixth**, then the **seventh**, **eighth** and **ninth**. Every month still
 has thirty days. The seventh begins on a Sunday, the eighth on a Tuesday, the ninth on a
 Thursday. Movement Five runs from Sunday the 1st of the seventh month to Monday the 26th of
 the ninth.
@@ -268,7 +268,8 @@ Order's six questions (whether Kiva had had the dream more than once; whether sh
 each time: yes and yes); will reply to the second letter that the reader "keeps its door in
 mind." Told Kiva of her own palm and gave no advice. **Passed the practical on the 7th of the
 ninth month; Grade Two restored, the left her reading hand;** relit the hall panel, quenched
-since the 13th of the fifth month. Sat in the Pit's east terrace on the 17th, said beforehand
+since the 13th of the fourth month (corrected in the whole-book reconciliation of 2026-10-12:
+by the manuscript's day chain Classification Day's month is the fourth and the Pit's the fifth). Sat in the Pit's east terrace on the 17th, said beforehand
 that she would not come to the rail, stood, and did not come down. From the 19th she reads
 the Ferren bank and the Brickfields trunk for Examiner Rusk of the Municipal Works.
 
@@ -624,9 +625,9 @@ Stiles.
 Routes the author chose where the packet left room, and places where the draft may have gone
 further than intended:
 
-1. **The months are numbered** (fifth to ninth). Earlier chapters only say "the ninth month"
-   for Mara's re-sit. Review should check that nothing in chapters 1–32 contradicts spring as
-   the fifth month.
+1. **Resolved in the whole-book reconciliation:** Classification Day is in the fourth month,
+   the Pit is in the fifth, and chapters 1–32 contain no numbered month that contradicts the
+   day chain.
 2. **Ysra Crest's history is new:** a ward-holder on the 2660 Bench who signed Hart's entry
    and sat on the board that sealed his file, and who did not speak to Orla for ten years. It
    gives her ruling on Orla weight; it also changes how chapters 1 and 8 read.
