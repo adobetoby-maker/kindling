@@ -122,3 +122,52 @@ During the high-stakes regional sequence Kiva will permanently lose fine sensati
 in the first two fingers of her left hand. Healing closes the injury but does not
 restore exact touch. The cost is planted before it occurs and changes how she grips,
 trains, and asks for help. Rank cannot erase it.
+
+## Movement Three carried state (chapters 17–24)
+
+Recorded 2026-10-11 after the consolidated same-author repair. **Passed by a separate
+same-model informed targeted recheck; no second prose repair is justified.** The manuscript governs; full detail is in
+`provenance/MOVEMENT-003-CONTINUITY.md`.
+
+- **Calendar.** The month is still unnamed and has thirty days. The fifth company's Flask
+  qualifier at the Pit is **Wednesday the 29th** (the first draft's "26th" was wrong by
+  its own weekdays). Grading Thursday the 30th; board findings and standings **Friday the
+  1st**; the investment vote **Saturday the 2nd**; the Old Yard **Sunday the 3rd**.
+  Movement Four opens after Sunday the 3rd.
+- **The sequence.** Kiva has completed one correct deliberate two-door sequence, Stride
+  into stance: about nine seconds of stance, 0.31 of a dram (0.02 + 0.26 + 0.03), Draw
+  near twelve. It was done under a recorded Home Line field direction, after the event
+  was struck, outside her certificate. It is not certified. Orla's standard is "Show me
+  six"; Team Seven has funded six sanctioned tries on three written conditions (a
+  sanctioned mast every go; Orla on the crate; Noa reads after and never during).
+- **The disk** warmed once, on the 29th. Kiva **first felt it after** she had shut the
+  still door; nobody knows when it began. It was cold by the keeper's gate and has been
+  cold since. It did not teach, speak, answer, or act.
+- **Body.** Stood down until the **13th**: no lanes, no floors, nothing lit, no landings
+  (Healer Aske's fortnight; the infirmary healer's ban is extended to match). The two
+  left fingers were eased inside the hour with ward-trace ash and return to where they
+  were: slow, late, not finished mending. Permanent loss is still reserved for Movement
+  Five.
+- **Team Seven.** Ninth of thirty-one by yield (72.0), **second step, attached**, to the
+  Graywater Company under Rhea Sorn. Book: 2.0 sealed medical (W); 1.0 returned to the
+  Wren House infirmary at par; a purse sheet and poles of its own (3.0); 2.0 for the six
+  tries; 1.6 held at 0.4 a head. Anwen is away six weeks from the 10th; Kellan is weighing
+  a Halden team; Perrin is named for his Hall's second team in the autumn.
+- **Unsettled between people.** Anwen and Kiva (the gate, asked twice); Gower of Old Four;
+  Greta Stroud (both hands, six weeks); eleven unqualified teams; Selka Dray's renewed
+  objection, unruled.
+- **Institutional.** The Circuit's book now reads "A gate shall be left lit" (from the
+  night of the 30th). The Pit is shut until about the 13th. The Pit's tape opens to any
+  chartered party on the **1st of the month after** (thirty days from Friday the 1st).
+- **Knowledge.** Kiva holds four T-0 entries (2446, 2604, 2676, and the Pit's lamp ring,
+  10:24 and about forty seconds) and the unread 2446 margin; she has kept them from the
+  team and means to ask the Compact Library's reader herself. Noa knows of the lamps from
+  the keeper and does not know what a T-0 is. Orla has named a bearer's book at the Home
+  Line hall and asked Hollis Vane for it; Vane found an earlier hand in the field-direction
+  ledger and cannot yet read or date it. Nobody connects the skin, the seventh reed, the
+  class, the baselines, the T-0 entries and the disk.
+- **Names and pronouns fixed in the repair.** Old Four's Kill is Gower and its Hold is
+  Edda; the Kiln's warden is Sedge. Grader Halloran is she. Healer Aske is he (author's
+  choice, pending owner review).
+- **Lane calls.** "Half!" names the side that earned it; "Down!" names the side that lost
+  a fighter.

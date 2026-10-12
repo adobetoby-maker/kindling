@@ -12,7 +12,7 @@ She showed Kiva the end of the stick. It had an iron ferrule, worn bright.
 
 "Left shoulder. Hard enough to move a girl. Not hard enough to move a stance." Orla lowered herself onto her crate with her bound leg out. "If I can't move you, and your line stays cold, and there's no metal on your legs when I look, then the speed went across. That's a sequence. One bound of one. It's the smallest one I could think of."
 
-Kiva looked at the four paces. She had crossed forty in the Cellhouse with a husk behind her. They did not look like much.
+Kiva looked at the four paces, which did not look like much to a person who had crossed forty in the Cellhouse with a husk behind her.
 
 "One bound," she said. "I can do three."
 
@@ -64,7 +64,7 @@ The two of them met in her. The weight came up out of the ground, and the speed 
 
 "One," said Kiva. "*Off.*"
 
-She shut them both. She did it badly, and all at once, and for the length of a stumble she was a girl with no doors at all, going forward at the speed of a Stride into an old black post. She got her right hand up. The post took the rest. It was two hundred years old and banded with iron, and it did not give her anything back.
+She shut them both. She did it badly, and all at once, and for the length of a stumble she was a girl with no doors at all, going forward at the speed of a Stride into an old black post. She got her right hand up. The post took the rest. It was older than the school that had grown up round it, and banded with iron, and it did not give her anything back.
 
 She stood with her forehead against the wood and breathed.
 
@@ -110,7 +110,7 @@ It stood on the cast-room table on Wednesday afternoon, an ugly thing of black i
 
 He had drawn a face on the top one, in charcoal. It was not a good face.
 
-The benches were full. There were thirty-one teams on the list, and every one of them had sent its blade and its catcher at the least. Kiva sat between Kellan and Anwen with the field book open on her knee. Perrin sat on the end of the row, very upright, in the manner of a boy whose ribs had been strapped that morning by a healer with no sense of humor.
+The benches were full, for there were thirty-one teams on the list, and every one of them had sent its blade and its catcher at the least. Kiva sat between Kellan and Anwen with the field book open on her knee, and Perrin sat on the end of the row, very upright, in the manner of a boy whose ribs had been strapped that morning by a healer with no sense of humor.
 
 Anwen had come straight from the tram. She had been back from the Ferren culverts for a day, after two nights of carrying a lamp behind Graywater's ward line, and she had the grey, polished look of somebody who has slept in the afternoon and not enjoyed it.
 
@@ -136,7 +136,7 @@ Kellan had stopped writing. He was looking at the red cord.
 
 "And the other seven?"
 
-Kellan was silent for a moment. Kiva watched him work it through. She had seen him do the same thing over a load board in the Cellhouse.
+Kellan was silent for a moment, and Kiva watched him work it through, as she had seen him work a thing through over a load board in the Cellhouse.
 
 "They're still standing," he said slowly. "They've no reader. So it's blind."
 
@@ -164,7 +164,7 @@ He looked along the rows.
 
 "What's the mark?" That was a Stonehand voice.
 
-"Fifty of your sixty, bagged inside the count, at Second or better. Nothing printed. Nothing fouled. Nobody hurt. And then the foreman's four columns, for the company. Closed, hurt, what still works, what was tinned." Druce folded the knife. "It isn't a fight. I want that understood before any of you goes near the Pit. A Handful's a fight, a short one. A Flask is a schedule. The hands that keep it are the catcher's, and the best blade in this room is going to spend most of that morning standing in the dark being told *not yet*."
+"Fifty of your sixty, bagged inside the count, at Second or better. Nothing printed. Nothing fouled. Nobody hurt. And then the foreman's four columns, for the company. Closed, hurt, what still works, what was tinned." Druce folded the knife. "It isn't a fight. You'll oblige me by knowing that before any of you goes near the Pit. A Handful's a fight, a short one. A Flask is a schedule. The hands that keep it are the catcher's, and the best blade in this room is going to spend most of that morning standing in the dark being told *not yet*."
 
 Kellan sat down.
 
@@ -176,7 +176,7 @@ The companies were posted on the cast-room door.
 
 There was a crush for it. Kiva let the crush go by, because of the knee, and so she read the fifth sheet over the shoulder of somebody who had got there first and was reading it very carefully.
 
-*Fifth company. Wednesday the 26th, forenoon. The Pit, Brickfields. Foreman: H. Vane, Home Line.*
+*Fifth company. Wednesday the 29th, forenoon. The Pit, Brickfields. Foreman: H. Vane, Home Line.*
 
 *T7 (17th). T4 of '78 (18th). T33 (19th). T12 (20th).*
 
@@ -184,7 +184,7 @@ The shoulder was broad, and the head above it was shaved.
 
 "It seems we're a company," said Lowen Brask.
 
-He turned round. He wore a plain grey coat instead of a Hall tunic, and there was a notebook under his arm. He looked exactly as calm as he had looked on his knees in the sand with a line judge counting over him.
+He turned round. He wore a plain grey coat instead of a Hall tunic, with a notebook under his arm, and he looked exactly as calm as he had looked on his knees in the sand with a line judge counting over him.
 
 "You're on a license team," said Kiva. It was a stupid thing to say. It was what came out.
 
@@ -198,7 +198,7 @@ He turned round. He wore a plain grey coat instead of a Hall tunic, and there wa
 
 "No. Home sides never do." Brask tucked the notebook more firmly under his arm. "I'd read rule nine, Miss Rowan. I mean that kindly as well. Good afternoon."
 
-He went away down the passage at his slow rolling walk. Kiva found that Perrin was beside her, holding his side.
+He went away down the passage at his slow rolling walk, and Kiva found that Perrin was beside her, holding his side.
 
 "He taught me to fall down," said Perrin. "When I was twelve. It took him a month. He said I was the only boy he'd ever met who argued with the floor." He looked after the grey coat. "He's told you where to look. He does that. It's maddening. You go and look, and it's true, and you still lose."
 
@@ -208,7 +208,7 @@ He went away down the passage at his slow rolling walk. Kiva found that Perrin w
 
 Someone laughed behind them. It was short and had no pleasure in it.
 
-Selka Dray was leaning on the passage wall with her arms folded. Her cropped red hair was damp, as if she had come from a lane. She held a slip of yellow card between two fingers.
+Selka Dray was leaning on the passage wall with her arms folded and her cropped red hair damp, as if she had come from a lane, and she held a slip of yellow card between two fingers.
 
 "Reserve blade," she said, when she saw Kiva look at it. "In case somebody's Ember breaks an ankle. That's what a four-second kill's worth this spring." Her eyes went to the fifth sheet. "The Pit. Did any of you look at where it gets its power? I did. I'd nothing else to do on Sunday. There's a pump bank across the road that keeps half the Ferren streets out of the river." She pushed herself off the wall. "Fifth company. I wonder who thought of that."
 
@@ -222,7 +222,7 @@ Mara Rowan had brought eleven years of books to the Works in a handcart.
 
 She had not needed the cart. The boy from the bakery had offered to carry them, and Tobin had offered the van, and she had said no to both and pushed the cart through the Thursday morning streets herself. She wanted her hands occupied, and she wanted to arrive knowing how heavy it was.
 
-Examiner Rusk had the books in three stacks by ten o'clock. He was a broad, tidy man of about sixty, with a clerk's linen guards over his cuffs and an operator's thick, scarred thumbs. He had been through every one of them. She could see his slips of paper sticking out of the pages like tongues.
+Examiner Rusk had the books in three stacks by ten o'clock. He was a broad, tidy man of about sixty, with a clerk's linen guards over his cuffs and an operator's thick, scarred thumbs. He had been through every one of them, and she could see his slips of paper sticking out of the pages like tongues.
 
 "Operator Rowan," he said. "Sit down. I'm going to say what I've found, in the order I found it, and then what I've decided. If I've a fact wrong, stop me. If you only dislike it, let me finish."
 
@@ -242,13 +242,13 @@ Mara said nothing. She had learned on a great many benches that the moment after
 
 "There's a bench cell behind you," said Rusk. "A plain lamp tune. Read it for me, please."
 
-She got up and went to it. It was a small municipal cell in an oak cradle, humming to itself. She laid her hand on the case, and felt the tune come up slow and even through her fingers, with a little drag in it where somebody had been impatient.
+She got up and went to it, a small municipal cell in an oak cradle, humming to itself, and she laid her hand on the case, and felt the tune come up slow and even through her fingers, with a little drag in it where somebody had been impatient.
 
 "Lamp tune. Steady. It was laid in a hurry and smoothed afterward. I'd give it eight months before it wants doing again."
 
 "Seven, I'd have said. Near enough." He had not looked at the cell. He was looking at her arm. "That's your left hand, Operator Rowan."
 
-The room was quiet. Down in the yard a meter van was being loaded, and somebody dropped a crate.
+The room was quiet enough for her to hear a meter van being loaded down in the yard, and somebody dropping a crate.
 
 She could have said that she favored it. He would have had no way to know.
 
@@ -264,7 +264,7 @@ He set his thick hands on the desk.
 
 Mara breathed in, and out.
 
-A third of the money, until autumn. She had expected to lose it for good. She found that she was not grateful, and not angry either. It was the right size. That was all she had ever asked of a number.
+A third of the money, until autumn, when she had expected to lose the whole of it for good. She found that she was not grateful, and not angry either. It was the right size, and that was all she had ever asked of a number.
 
 "Repair and reconciliation continue," said Rusk. "And there's this, which is not a kindness, so don't thank me. The Home Line has written to the board about what they're calling a dirty spring. The board wants the baseline books gone through, every mast on the Sag Line and every drum on the Brickfields trunk, by somebody who won't flatten a line to make it sit. I've forty operators who can read a drum. I had exactly one who wrote *recal. would mask trend.*" He pushed a thick canvas-backed book across the desk. "Records rate. It pays about half of what the tuning did. That's the trunk's own book. Start there."
 
@@ -282,13 +282,13 @@ She took it. It was heavier than it looked.
 
 "She would. She's a Rowan. You'd all thank a person for hitting you if he'd measured first."
 
-They were in the back room of the Pryce laundry, among the hampers, with the team book open on an ironing board. It was Thursday evening. Through the wall the big machines were turning over, and the air smelled of starch and hot linen. Kiva had come down from the flat with the taste of a quiet supper still in her mouth. Mara had eaten with the canvas-backed book open beside her plate. On the first page there was a diagram of a bus, a long black line with twenty-four small squares on it, and one thin branch going off through a mark like a hinge.
+It was Thursday evening, and they were in the back room of the Pryce laundry, among the hampers, with the team book open on an ironing board, while through the wall the big machines turned over and the air smelled of starch and hot linen. Kiva had come down from the flat with the taste of a quiet supper still in her mouth. Mara had eaten with the canvas-backed book open beside her plate. On the first page there was a diagram of a bus, a long black line with twenty-four small squares on it, and one thin branch going off through a mark like a hinge.
 
 *S. link. Pinned and locked, 2661.*
 
 Kiva had read it upside down. She read most things upside down.
 
-"Two floors," said Kellan. He had his own paper beside the book. "Seven-tenths each, paid. We've nothing else on the page but the reserve, and that's sealed. So it's these two, and whatever the school gives us for nothing." He looked up. "I'd like the first tomorrow. A skinned one, if the Kennel's still throwing them, and I'd be surprised if it's stopped. I've cut that skin once in my life. I'd like not to be early the second time."
+"Two floors," said Kellan. He had his own paper beside the book. "Seven-tenths each, paid. We've nothing else on the page but the reserve, and that's sealed. So it's these two, and whatever the school gives us for nothing." He looked up. "I'd like the first tomorrow. A skinned one, if the Kennel's still throwing them, and I'd be surprised if it's stopped. I've met that skin twice in my life, and I was early the first time. I'd like the clean one to be the habit."
 
 "And the sheet," said Anwen. "The warden will lend us one. I asked. If we're to bag sixty at the Pit, I'd like to have bagged twenty-four somewhere first. All four of us. I've never held a corner."
 
@@ -296,7 +296,7 @@ Kiva had read it upside down. She read most things upside down.
 
 "Your ribs are within you. That's all the healer wants to hear about for three weeks." She had her list, and she wrote on it. "The second floor we keep. Mace says the Home Line means to let every catcher and every blade on the list watch a real one, if a tear obliges. There've been ten on the district board now. He thinks one will." She looked at Kiva. "I'd sooner spend the second floor after we know what we're looking at."
 
-It was agreed in about a minute. Kiva noticed that. Three weeks ago, it had taken them an evening and half a pot of tea to agree on a catch kit.
+It was agreed in about a minute, and Kiva noticed that, because three weeks ago it had taken them an evening and half a pot of tea to agree on a catch kit.
 
 Kellan signed. Perrin signed, with a flourish. Anwen signed, and held the pencil out.
 
@@ -308,7 +308,7 @@ Kellan signed. Perrin signed, with a flourish. Anwen signed, and held the pencil
 
 Kiva told them. She told it plainly, the line and the cross and the stick, the drop and the jam. Perrin winced at the post. Kellan asked how long the bound was, and wrote it down.
 
-Anwen did not write. She sat with the pencil across her knees and a small frown, as she sat when a thing reminded her of another.
+Anwen did not write, but sat with the pencil across her knees and a small frown, as she sat when a thing reminded her of another.
 
 "The line changes over at two in the morning," she said. "On the culverts. Graywater doesn't let a ward-holder stand more than four hours. So at two there's a relief, and I thought I knew how that would go. One drops, the other raises. I'd have done it that way." She shook her head. "They don't. The new one comes up behind the old one's shoulder and brings her wall up *inside* the first. And the first one leans on it. I watched her do it. She leaned until hers wasn't holding anything, and then she let it go, and there was never a moment with no wall and never a moment with two. Nobody said *now*. Mace says if you can hear the join, it's a bad one."
 
@@ -324,7 +324,7 @@ She signed the book with her right hand, and went to find out.
 
 The Old Yard was cold, and Orla had the lamp lit.
 
-Kiva stood on the line. She had thought about it all the way up from Eastbank on the tram. She would not shut the Ember and then open the still door, and she would not grab for the one while holding the other. She would bring the stance up inside the Stride, as a relief brings up a wall, and lean the speed over into it a little at a time.
+Kiva stood on the line, having thought about it all the way up from Eastbank on the tram. She would not shut the Ember and then open the still door, and she would not grab for the one while holding the other. She would bring the stance up inside the Stride, as a relief brings up a wall, and lean the speed over into it a little at a time.
 
 *Ember.* The struts closed. She went.
 

@@ -6,7 +6,7 @@ That was Perrin's opinion, and he gave it twice on the Kennel stair, carrying on
 
 "Set it," said Druce.
 
-It was four o'clock on Friday, and the settling floor was the same long brick room it had always been, with its three drained tanks and its plank bridges and the yellow line at the west end. Kiva had laid a cloth here twice. She walked it again anyway. She dropped a pinch of dead ash at the middle tank and watched it fall straight, and another at the north gutter, where it slid a finger's width toward the grates.
+It was four o'clock on Friday, and the settling floor was the same long brick room it had always been, with its three drained tanks and its plank bridges and the yellow line at the west end. Kiva had laid a cloth here three times. She walked it again anyway. She dropped a pinch of dead ash at the middle tank and watched it fall straight, and another at the north gutter, where it slid a finger's width toward the grates.
 
 "Here. Between the first tank and the second. Clear of the gutter."
 
@@ -220,7 +220,7 @@ Anwen Pryce had been told three things.
 
 Stand behind Stroud's left shoulder. Keep your hands below your belt. Do nothing until somebody says your name.
 
-She had been doing all three for two hours and forty minutes, and it was the hardest work she had ever done in her life. Her fingers wanted to come up. Every time the wall took the weight of that frosted head, she felt it through the turf and her own ward stirred in her wrists like a dog at a door.
+She had been doing all three for two hours and forty minutes, most of them in the dark before anything had come out of the blue at all, and it was the hardest work she had ever done in her life. Her fingers wanted to come up. Since the Flask had stood, it had been worse: every time the wall took the weight of that frosted head, she felt it through the turf and her own ward stirred in her wrists like a dog at a door.
 
 Greta Stroud was third in the line. She was a rangy woman of thirty with a broken nose, and she had said perhaps twenty words to Anwen in two nights on the culverts, most of them *hold this*. Her shoulders were steaming faintly in the cold.
 
@@ -250,7 +250,7 @@ Anwen looked up the bank.
 
 She could not help it. They were all up there in a row against the sky, small as birds on a wire. She found Perrin by his width, and Kellan by the way he sat, and between them a dark head bent over a book.
 
-Kiva was writing. Of course she was. She would have the wind in it, and the counts, and where every fall had landed. In a fortnight she would stand in a pit with a canvas bag, and she would need somebody at the south hem who knew which way a cord crossed.
+Kiva was writing. Of course she was. She would have the wind in it, and the counts, and where every fall had landed. In a little over a fortnight she would stand in a pit with a canvas bag, and she would need somebody at the south hem who knew which way a cord crossed.
 
 *I want it,* thought Anwen. She was nearly used to the thought by now. *I want it anyway. And I want to be at that hem.*
 
@@ -332,7 +332,7 @@ One white line and one red. It sat down. That was the only word for it. The legs
 
 Kellan pressed the stem of the watch.
 
-"Eleven minutes and twenty seconds. Eight cuts." He was speaking carefully, as a person speaks who is reading out a figure he does not expect to be believed. "I timed her light. All eight. It comes to under six seconds. She was lit for six seconds in eleven minutes."
+"Eleven minutes and twenty seconds. Eight rungs, and seven of the cuts were hers." He was speaking carefully, as a person speaks who is reading out a figure he does not expect to be believed. "I timed her light. All seven. It comes to under six seconds. She was lit for six seconds in eleven minutes."
 
 "And nobody shouted," said Perrin.
 

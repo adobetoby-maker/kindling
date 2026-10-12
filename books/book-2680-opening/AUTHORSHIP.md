@@ -457,9 +457,11 @@ the brief, dialogue was not lengthened to chase them.
 
 ## Movement Three — First Season (chapters 17–24)
 
-- Status: **first draft, written 2026-10-11 as one continuous creative run. Not reviewed,
-  not repaired, not scored, not committed, not pushed.** Stopped for movement review.
-  Movement Four was not started.
+- Status: **first draft written 2026-10-11 as one continuous creative run; reviewed and
+  given one consolidated same-author repair the same day; not yet rechecked.** See
+  "Movement Three consolidated repair" below, which supersedes this section's statements
+  that the movement is unreviewed and that no frozen edition exists. The rest of this
+  section describes the first draft as it stood. Movement Four was not started.
 - Seat: Monroe Jackson 1.3.0 / O'Connor seat 1.3.0 (progression-adventure)
 - Selected author: Opus
 - Actual model that wrote the prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as reported
@@ -596,3 +598,177 @@ Full detail is in `provenance/MOVEMENT-003-CONTINUITY.md`, section 9. The larges
    asked Hollis Vane to open. None is explained.
 7. **Chapter 22 is short** (3,911 words) because the response continues without a break
    into chapter 23. The chapter boundary could move in review without rewriting.
+
+## Movement Three consolidated repair — 2026-10-11
+
+- Repair date: **2026-10-11**.
+- Brief: `editor/MOVEMENT-003-REPAIR-BRIEF.md`, read in full and performed as one bounded
+  same-author repair of chapters 17–24, limited to its three priorities. Movement Four was
+  not started.
+- Actual model that wrote the repaired prose: **Claude Opus 5.5 (`claude-opus-5-5`)**, as
+  reported by the runtime environment of the repair session ("powered by the model named
+  Opus 5.5; exact model ID `claude-opus-5-5`"). Seat: Monroe Jackson 1.3 Light / O'Connor
+  1.3.0, as named in the brief.
+- Same-author status: **same selected author and same model as the first draft.** Every
+  changed manuscript sentence was written by this model. **No subagents were used**, and
+  no other model wrote, revised, or summarized prose.
+- Provider: Anthropic, via Claude Code (background job).
+- Session: a **new Claude Code session**
+  (https://claude.ai/code/session_01GHqh9rsECBoXj3rpGu7fqP), not the drafting, editorial
+  or cold-read session. The drafting transcript was not in context. Session start-up
+  injected a few lines of project status memory from earlier sessions (that the chapters
+  had been drafted and a metrics pass run); nothing in them was used as canon.
+- Read in full before the first edit: the brief; `editor/MOVEMENT-003-EDITORIAL.md`
+  (including its metrics appendix and script); `editor/MOVEMENT-003-COLD-READ.md`;
+  `packets/MOVEMENT-003.md`; `provenance/MOVEMENT-003-CONTINUITY.md`; `STATE_LEDGER.md`;
+  `BOOK_MAP.md`; `UNIVERSE_BIBLE.md`; this file; and `manuscript/chapter-17.md` through
+  `chapter-24.md`.
+- Line-level lookups by search, for single facts: chapter 14 (Halloran's description and
+  pronoun, Healer Aske, the ash office), chapter 15 (how the referee calls a half and a
+  down), chapter 8 (the Chair's office), chapters 3 and 11 (the crooked post), chapter 13
+  (Bettan), `CHARACTERS.md`, the Movement Two repair brief and report (the Aske ruling),
+  and a name search across `universe/`, `books/book-01-kindled`, `books/book-02-meridian`,
+  `books/book-03-wellspring` and this book's manuscript and provenance.
+- **Not read in this session:** the prologue; chapters 1–16 as prose; the Movement One and
+  Two continuity checkpoints, reviews and recheck reports. Their canon was taken from the
+  Movement Three checkpoint, the two review reports and the lookups above.
+- Frozen pre-repair edition: `editions/movement-003-pre-repair/` (eight manuscript files
+  plus `SHA256SUMS.txt`, committed at `6057f6e`). Verified byte-identical to the working
+  manuscript before the first edit (`cmp` and `shasum -c`) and re-verified against its
+  checksums after the last edit. **Not modified.**
+- Reviews the repair answers: `editor/MOVEMENT-003-EDITORIAL.md` (informed same-model
+  editorial review) and `editor/MOVEMENT-003-COLD-READ.md` (fresh-context simulated cold
+  read). Both dated 2026-10-11.
+- Method: chapters 17–23 received targeted in-place edits. Chapter 24 was rewritten whole,
+  in place, keeping every scene and every passage the brief protects, with one section
+  break removed (the cart and the foot of the cart are now one section). The movement has
+  58 sections (was 59). All six secondary cutaways remain, with the same viewpoints; none
+  was added.
+- Continuity checkpoint: `provenance/MOVEMENT-003-CONTINUITY.md`, reconciled to the
+  repaired prose after the manuscript was corrected (its section 0 lists the changes).
+- State ledger: `STATE_LEDGER.md`, new section "Movement Three carried state."
+- Repair report: `editor/MOVEMENT-003-REPAIR-REPORT.md`.
+- **Status: repaired and passed by targeted recheck.** The author did not review or score
+  its own repair beyond re-running the editorial review's measurement script; a separate
+  Claude Opus 5.5 review-only session then checked the repair and found no reason for a
+  second prose pass. Nothing had been committed or pushed at the time of that recheck.
+
+### Word counts (`wc -w`)
+
+| File | Before | After | Change |
+|---|---:|---:|---:|
+| `manuscript/chapter-17.md` | 5,799 | 5,833 | +34 |
+| `manuscript/chapter-18.md` | 5,070 | 5,106 | +36 |
+| `manuscript/chapter-19.md` | 5,782 | 5,868 | +86 |
+| `manuscript/chapter-20.md` | 6,301 | 6,413 | +112 |
+| `manuscript/chapter-21.md` | 5,410 | 5,857 | +447 |
+| `manuscript/chapter-22.md` | 3,911 | 3,961 | +50 |
+| `manuscript/chapter-23.md` | 6,417 | 7,084 | +667 |
+| `manuscript/chapter-24.md` | 6,319 | 8,571 | +2,252 |
+| **Movement Three total** | **45,009** | **48,693** | **+3,684** |
+
+Secondary-viewpoint sections after the repair, by the editorial script's word count: Rhea
+1,580, Mara 1,058, Noa 975, Perrin 968, Brask 866, Anwen 603. Kiva holds 87.55% (86.99%
+before).
+
+### Post-repair SHA-256
+
+| File | SHA-256 |
+|---|---|
+| `manuscript/chapter-17.md` | `3570bd1851ac8f93a505208dbc20cf404b55ab4ad6df41cc2d39b425af400db5` |
+| `manuscript/chapter-18.md` | `0bf1d749668c2da0dc723a6f5647032efa48b17fc42056c2b6030cbaa97ffc76` |
+| `manuscript/chapter-19.md` | `aca9492860991f38b3ec86cc1e95ed28c46f8bbafa72f37de1c8b2a105993eb6` |
+| `manuscript/chapter-20.md` | `0b9566196b71f4f3e334832678e192e1ad7a2eaa04ba5de1f6fe1aa9d19e6b89` |
+| `manuscript/chapter-21.md` | `ff0d4fbd39e55b79639c85bbfb9a0c4b2a74b4a530cd68cf68139d58f0782506` |
+| `manuscript/chapter-22.md` | `39be7c07773973e8efb8c993055ce967e75ddf072d51fe2129a08d25c9e009fa` |
+| `manuscript/chapter-23.md` | `df4cb223c776f70a6711b2e10e1bdd78db2be1a4399a864683d54999638cdb45` |
+| `manuscript/chapter-24.md` | `d1abe20f486ae48cb295c77dcf955a6e1823e10b2fd08ac225f481268a6332f1` |
+
+### Post-repair measurement (editorial review's script, unchanged; not a gate)
+
+`metrics_m003.py` as printed in the editorial review's appendix (SHA-256
+`e07e81fb233ead096c2350a892e0e162ff0c35fe1af4f56a65fc4e96911e7a59`), run against the frozen
+text and again against the repaired text. The "before" column reproduces the review.
+
+| Target (formula) | Goal | First draft, ch. 17–24 | After repair, ch. 17–24 |
+|---|---|---:|---:|
+| Mean sentence length | 14.6 | 8.46 | 9.03 |
+| Median sentence length | 11 | 6 | 6 |
+| Sentences ≤5 words | 27.7% | 44.6% | 43.8% |
+| Sentences ≥40 words | 3.3% | 0.38% | 0.95% |
+| Flesch Reading Ease | 72.3 | 94.7 | 94.2 |
+| Flesch–Kincaid grade | 6.8 | 2.1 | 2.4 |
+| Narration only: mean / ≤5 / ≥40 | 14.6 / 27.7% / 3.3% | 10.85 / 31.2% / 0.78% | 12.03 / 29.7% / 2.00% |
+| Narration, chapter 24: mean / ≤5 / ≥40 | | 8.72 / 36.5% / 0.00% | 13.09 / 29.7% / 4.64% |
+| Section mean (sections) | ~950 | 761 (59) | 838 (58) |
+| Protagonist POV share | ~87% | 87.0% | 87.6% |
+| "I want that understood" | | 4, four speakers | 0 |
+| "want / like it said, noted, known, understood, written" | | 12 | 5 (Anwen 3, Perrin 2) |
+
+Narration by chapter after the repair (mean / ≥40): 17: 12.59 / 4.17%. 18: 12.78 / 2.95%.
+19: 11.77 / 2.07%. 20: 11.82 / 0%. 21: 13.06 / 1.87%. 22: 10.85 / 1.03%. 23: 11.01 /
+0.62%. 24: 13.09 / 4.64%.
+
+The whole-text targets are still missed, for the reason the owner has already ruled on:
+speech is 49% of sentences and was left clipped. The brief's narration aim ("roughly a
+thirteen-word mean and roughly three percent forty-word sentences" outside action) is
+**met in chapter 24 and nearly met in the other three chapters that have no set piece (17,
+18, 21); it is not met movement-wide** (12.03 and 2.00%), because the lane, the Pit and
+the shelf were left at their fight cadence as the brief requires.
+
+### Material choices in the repair the owner should review
+
+Full detail, with before-and-after text, is in `editor/MOVEMENT-003-REPAIR-REPORT.md`.
+
+1. **Healer Aske is "he"** (three words in chapter 24). The brief said to give a pronoun
+   where the prose was avoiding one and did not say which. Easy to reverse.
+2. **Three minor names changed:** Tolliver to **Gower**, Merrin to **Edda**, Warden Tilling
+   to **Sedge**. Searched against the registry and canon; none matched.
+3. **The race is raised on the terrace and honestly dismissed** by Bettan and Vane ("There's
+   no pattern in a bar"). Kiva reads her own weir note against herself and is glad to have
+   it answered. The company slate records the objection and the answer.
+4. **Kiva's mark is set clear of gratings and benches**, not of "the board's feeder," so she
+   no longer avoids copper in one scene and dismisses it in the next.
+5. **One new observation on the Monday:** Kiva thinks she sees a heap lift toward a lit
+   gate, and one such team comes out at forty-nine. She does not know that the gate cost
+   the dram and writes no reason. This gives the dark floor a second honest motive; the
+   owner may prefer it cut.
+6. **Vane owns the link-before-lid trade** aloud and on the slate ("Pumps before doorway").
+   The board's findings were left word for word and do not mention it.
+7. **Costs now paid on the page:** Anwen's list and an exchange that is left unsettled;
+   Gower at the table; Rhea owning the ward slide and going to Stroud; Stroud declining to
+   say what she thinks of the dark floor; a catcher from Team Twenty-Eight at the
+   standings; Perrin's answer to Vane.
+8. **The infirmary healer's account is paid** (by Orla) and the knee's ban becomes Aske's
+   fortnight, to the 13th. Kiva carries the crate.
+9. **Removed from this movement:** Orla's remark about the superseded stacks, and the
+   teaser about Rhea's two-word card. Both remain in the frozen edition if wanted back.
+10. **Noa no longer knows of Kiva's register entries.** He has the keeper's remark and
+    writes "Find out what a T-0 is." Noa stays he/him; the brief's "her" for Noa was read
+    as a slip.
+11. **Kiva tells Mara she will take the 2446 margin to the Library's reader herself.** A
+    small decision of her own, in place of Orla's echo. It points at Movement Four without
+    binding it.
+12. **The Halden man reads the tape "on the first of next month."** That is thirty days
+    from Friday the 1st on a thirty-day month, the only month length the book has stated.
+13. **The countdown to the link now closes:** 22 and 16 on the hobble, 8 at the lip, and
+    the cords at the head of the ramp as her count reaches one.
+14. **Chapter 24 is 8,571 words** (was 6,319), the longest chapter in the book so far.
+15. **Sixty-three narration joins outside chapter 24**, in quiet passages of chapters 17
+    (14), 19 (17), 20 (14) and 21 (18), made under the brief's owner ruling on narration.
+    No fact changes in them.
+
+## Movement Three targeted recheck — 2026-10-11
+
+- Report: `editor/MOVEMENT-003-TARGETED-RECHECK.md`.
+- Reviewer: Claude Opus 5.5 (`claude-opus-5-5`) in a new review-only session. This was a
+  same-model informed recheck, not a human read, cold read, or independent test.
+- Coverage: repaired chapters 17–24, the frozen edition, both original reviews, repair
+  brief and report, continuity checkpoint, state ledger, authorship record, and cited
+  earlier-canon lookups. No subagents were used.
+- Verdict: **PASS** on calendar/arithmetic/identity/knowledge, the dark-floor causal and
+  relationship chain, and chapter 24's flow/read-aloud clarity. No second prose repair
+  was justified.
+- Required record correction: the Movement Three continuity checkpoint's left-knee row
+  now carries the thirteenth, matching the manuscript and the rest of that checkpoint.
+  No manuscript sentence changed after the recheck.
