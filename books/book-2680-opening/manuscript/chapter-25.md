@@ -36,7 +36,7 @@ Noa had come and sat down beside her on the bench with a folded sheet in one han
 
 "What have I to sign?"
 
-"The same as before. Every figure in your book the same day. You and your sponsor see the sheet first. I stop if you say stop." He unfolded it on his knee. He had written it out fair, in the small square hand he kept for things that were going to an office. "I've put one more line. You can strike it if you like. *Nothing to any chartered party, or to any house, without her leave.* A man from the Halden technical office came into the mast room on Saturday week. He asked for my notes. He was very pleasant about it."
+"The same as before. Every figure in your book the same day. You and your sponsor see the sheet first. I stop if you say stop." He unfolded it on his knee. He had written it out fair, in the small square hand he kept for things that were going to an office. "I've put one more line. You can strike it if you like. *Nothing to any chartered party, or to any house, without her leave.* A man from the Halden technical office came into the mast room on Saturday. He asked for my notes. He was very pleasant about it."
 
 Kiva looked at him.
 
@@ -92,7 +92,7 @@ She shut them. The Wren House infirmary smelled of salt and boiled linen, and so
 
 "When. No. A moment ago."
 
-"About two breaths ago, by my reckoning." He put the pin back in his lapel. "Open. Well, they've done sulking. I said a week and they've taken eight days, which I'll allow. The first reports late and the second reports later, and neither of them will tell you the truth about a cord. That's where you were on the twenty-eighth, to a hair. You're not to mistake it for getting better."
+"About two breaths ago, by my reckoning." He put the pin back in his lapel. "Open. Well, they've done sulking. I said a week, and they've taken it to the day. The first reports late and the second reports later, and neither of them will tell you the truth about a cord. That's where you were on the twenty-eighth, to a hair. You're not to mistake it for getting better."
 
 "I shan't."
 
@@ -146,7 +146,7 @@ Stroud looked at her for some time.
 
 Kiva stood on the stair until the two of them had reached the bottom.
 
-Then she went down herself, holding the rail in her right hand. She had come for a healer's leave and had been given it. She had not expected to be told, by the person with the most right to say it, exactly what a dark floor went on costing five weeks after everybody had gone home, and she noticed that Stroud had not once raised her voice to do it.
+Then she went down herself, holding the rail in her right hand. She had come for a healer's leave and had been given it. She had not expected to be told, by the person with the most right to say it, exactly what a dark floor went on costing a week after everybody had gone home, and she noticed that Stroud had not once raised her voice to do it.
 
 ---
 
@@ -220,7 +220,7 @@ The Reader read it again, in exactly the same voice, and did not look up until s
 
 "Do you know?"
 
-"I know who held the hill house in 2446. So would anybody who'd been a child in Eastbank; they put her on the flood-wall in bronze." The bright eyes rested on Kiva's face. "Hesper Annick. Glory at thirty-odd, and a ward over that wall for nine days. She's the Order's saint, though they'd dislike the word. And I've eleven boxes of her papers on the shelf behind your left shoulder."
+"I know who held the hill house in 2446. So would anybody who'd been a child in Eastbank; they put her on the flood-wall in bronze." The bright eyes rested on Kiva's face. "Hesper Annick. Glory in 2431, and a ward over that wall for nine days. She's the Order's saint, though they'd dislike the word. And I've eleven boxes of her papers on the shelf behind your left shoulder."
 
 ---
 
@@ -314,7 +314,7 @@ Mara did not say anything for rather a long time.
 
 "She told me on Sunday that I should have what she'd got. She said it was little enough."
 
-"And she gave you the Home Line's book and left out the Library's." Mara's face was perfectly still. It was the stillness she kept for a cell that was reading wrong, before she had decided whether the fault was in the cell or the meter. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I'd not forgive, and I've known that woman for seven weeks. You've known her for seven years."
+"And she gave you the Home Line's book and left out the Library's." Mara's face was perfectly still. It was the stillness she kept for a cell that was reading wrong, before she had decided whether the fault was in the cell or the meter. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I'd not forgive, and I've known that woman for two months. You've known her for four years."
 
 "I thought I had."
 
@@ -322,7 +322,7 @@ Mara did not say anything for rather a long time.
 
 "I'd meant to go by myself first. I did go by myself."
 
-"So you did, and you came back with more than I'd have got." There was something at the corner of her mouth that was nearly a smile. "I'll sign. I'd like that understood before you ask, so that you're not asking. But I'll say one thing about the cost, since she was honest enough to name it." She tapped the black cover of the keeper's branch book, which still lay at the end of the table where it had lain since Saturday. "A man in a black coat came to a boy in a mast room and asked very civilly for your numbers. He'll read that tape on the first whether we like it or not. If your name's going to be in front of that house, I'd as soon it were in an open book, in your own hand, with a date on it, as in the back of somebody's notebook. A request book is a book."
+"So you did, and you came back with more than I'd have got." There was something at the corner of her mouth that was nearly a smile. "I'll sign. I'm saying so before you ask, so that you needn't. But I'll say one thing about the cost, since she was honest enough to name it." She tapped the black cover of the keeper's branch book, which still lay at the end of the table where it had lain since Saturday. "A man in a black coat came to a boy in a mast room and asked very civilly for your numbers. He'll read that tape on the first whether we like it or not. If your name's going to be in front of that house, I'd as soon it were in an open book, in your own hand, with a date on it, as in the back of somebody's notebook. A request book is a book."
 
 "A meter, and a shutdown path."
 
