@@ -40,7 +40,7 @@ Noa had come and sat down beside her on the bench with a folded sheet in one han
 
 Kiva looked at him.
 
-"I said they were your numbers." His ears had gone pink, which they did when he had done something he was proud of and did not want it mentioned. "He says the tape's open to him on the first of next month whatever I say, and that's true; I looked it up. So I've twenty-six days. I'd like to spend them finding out what's on it before he does." He turned the pencil over. "There's one thing on it that isn't even yours. It's the keeper's. Your aunt reconciles registers for the Works, doesn't she?"
+"I said they were your numbers." His ears had gone pink, which they did when he had done something he was proud of and did not want it mentioned. "He says the tape's open to him on the first of next month whatever I say, and that's true; I looked it up. So I've got twenty-six clear days. I'd like to spend them finding out what's on it before he does." He turned the pencil over. "There's one thing on it that isn't even yours. It's the keeper's. Your aunt reconciles registers for the Works, doesn't she?"
 
 "Yes."
 
@@ -56,7 +56,7 @@ The field book was lying shut on Kiva's good knee. There were two loose sheets i
 
 It was perfectly true, and it had come out of her as smoothly as a lid going on.
 
-"Oh," said Noa. He was disappointed, and too polite to show much of it. "I'd hoped it was a class of fault. Something with a table. Then old Dunmore only meant that his lamps blinked and he couldn't say why." He wrote it down all the same, in the notebook, on the page she was not supposed to have seen the heading of. "Still. Every lamp on a dead ring. I'd like to know how a lamp blinks with nothing in it. I'll ask at Hanley Street; they'll have the book the keeper copies into."
+"Oh," said Noa. He was disappointed, and too polite to show much of it. "I'd hoped it was a class of fault. Something with a table. Then old Dunmore only meant his lamps blinked and he couldn't say why." He wrote it down all the same, in the notebook, on the page she was not supposed to have seen the heading of. "Still. Every lamp on a dead ring. I'd like to know how a lamp blinks with nothing in it. I'll ask at Hanley Street; they'll have the book the keeper copies into."
 
 "They will," said Kiva.
 
@@ -66,7 +66,7 @@ Then he had gone to wind the tape, and she had sat on the bench with the book on
 
 *They aren't the team's,* she had told herself on Saturday night, with feet on the stair. That had been a reason. She had been rather satisfied with it. It was Monday now, and Noa was not the team, and he had just asked her to her face, and she had given him the dictionary.
 
-She had known what she would say before he reached the end of the question. She remembered knowing. It was the same feeling as a foot coming down on a step that was exactly where she had expected it, and she had heard of that feeling lately, across a kitchen table, from somebody who had been on the other end of it twice.
+She had known what she would say before he reached the end of the question. She remembered knowing. It was the same feeling as a foot coming down on a step that was exactly where she had expected it. Anwen had described that feeling to her on Saturday night, across the kitchen table, from the other end of it. She had been on the other end of it twice.
 
 *Not having your answer ready would be a start.*
 
@@ -74,7 +74,7 @@ In the yard, under the lamp, she turned back a page and looked at the right-hand
 
 "You've gone quiet," said Orla.
 
-"I'm thinking about what I've not got an answer to."
+"I'm thinking about what I don't have an answer to."
 
 "Good. Do it sitting down." The stick turned in the old hands. "You've a week of that left, and I've found that most people can't bear two days."
 
@@ -94,11 +94,11 @@ She shut them. The Wren House infirmary smelled of salt and boiled linen, and so
 
 "About two breaths ago, by my reckoning." He put the pin back in his lapel. "Open. Well, they've done sulking. I said a week, and they've taken it to the day. The first reports late and the second reports later, and neither of them will tell you the truth about a cord. That's where you were on the twenty-eighth, to a hair. You're not to mistake it for getting better."
 
-"I shan't."
+"I won't."
 
-"You will, the first morning they don't trouble you. Everybody does." He wrote two lines on her card, and blotted them. "The knee stays strapped until I've seen it on the thirteenth. No lanes, no floors, nothing lit. That's not altered."
+"You will, the first morning they don't trouble you. Everybody does." He wrote two lines on her card, and blotted them. "The knee stays strapped, and I see it on the thirteenth before it lands on anything. No lanes, no floors, nothing lit. That's not altered."
 
-"May I go on a tram for something that isn't a yard?"
+"Can I go on a tram for something that isn't a yard?"
 
 "Where to?"
 
@@ -134,7 +134,7 @@ She had it. It was a perfectly decent answer, and she had given it at a kitchen 
 
 She shut her mouth again, and Stroud waited, with her hands held out in front of her.
 
-"I don't know yet," said Kiva. "I thought I did. I'd something I could say. I'm not certain it's why." Her face was hot. "I'll tell you when I am, if you want it then."
+"I don't know yet," said Kiva. "I thought I did. I had something I could say. I'm not sure it's why." Her face was hot. "I'll tell you when I am, if you want it then."
 
 Stroud looked at her for some time.
 
@@ -164,7 +164,7 @@ She was small and upright and a great deal older than Mara. She wore two pairs o
 
 "The reading room is two floors up," she said. "The stair you came down is the one you want. People find it easier going the other way."
 
-"I'm not lost," said Kiva. "At least, I don't think I am. I was told there was a reader in the superseded stacks who could read a record hand that went out two hundred years ago. I was told that if anybody asked her nicely, she might."
+"I'm not lost," said Kiva. "At least, I don't think I am. I was told there was a reader in the superseded stacks who could read a record hand that went out two hundred years ago. I was told if anybody asked her nicely, she might."
 
 The pen stopped.
 
@@ -182,7 +182,7 @@ There was a silence.
 
 "Is that all of it?"
 
-"I'd some more. It's gone." She shifted the book. "I've a copy of a margin and I can't read it and I've wanted to for seven weeks. I'd be very grateful. I've no ham."
+"I had some more. It's gone." She shifted the book. "I've got a copy of a margin and I can't read it and I've wanted to for seven weeks. I'd be very grateful. I've no ham."
 
 The woman laughed. It was a short, dry, astonished sound, like a book being dropped, and it seemed to surprise her as much as anybody.
 
@@ -240,7 +240,7 @@ Kiva read it. "*The nine-ringed plate carried by the first teachers is preserved
 
 "Is it? I've asked to see it for thirty years. I'm told that it's being conserved." She turned the brown book round. "And the old one."
 
-The print was small and uneven. *The plate of nine rings went out with the Line and is not the School's to show. It is released to one who carries it. We have not been told why and have not thought it ours to ask.*
+The print was small and uneven. *The plate of nine rings went out with the Home Line and is not the School's to show. It is released to one who carries it. We have not been told why and have not thought it ours to ask.*
 
 Kiva read that once.
 
@@ -264,7 +264,7 @@ Kiva sat still.
 
 "And the endowment. By name. *K. Rowan asks to read Annick, Personal.* I shall write it in my best hand and send it up the hill and across the river, and I've no leave to do otherwise, and I shouldn't if I had. That's the whole reason the box is still here to be asked for." She laid her hand flat on the two histories. "I'm not telling you not to. I'm telling you what it costs, before, because I've seen people told after."
 
-"Might I see the book? The one that's open."
+"Can I see the book? The one that's open."
 
 The Reader drew it out from under the lamp.
 
@@ -304,7 +304,7 @@ Kiva told it standing, with her back to the stove. She gave her the margin first
 
 "There wasn't. He was told to leave it out."
 
-"By a Warden of the Works. Two hundred and thirty-four years ago, and I could tell you what the man's voice sounded like." Mara took the pencil from behind her ear and laid it down. "Go on. There's more. You've not sat."
+"By a Warden of the Works. Two hundred and thirty-four years ago, and I could tell you what the man's voice sounded like." Mara took the pencil from behind her ear and laid it down. "Go on. There's more. You haven't sat."
 
 So Kiva told her about the eleventh box, and the four lines of the settlement, and who would be sent a notice in a reader's best hand. Then she told her whose name was in the black book, and in what year.
 
@@ -312,9 +312,9 @@ Mara did not say anything for rather a long time.
 
 "Sixteen years," she said.
 
-"She told me on Sunday that I should have what she'd got. She said it was little enough."
+"She told me on Sunday I'd have what she'd got. She said it was little enough."
 
-"And she gave you the Home Line's book and left out the Library's." Mara's face was perfectly still. It was the stillness she kept for a cell that was reading wrong, before she had decided whether the fault was in the cell or the meter. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I'd not forgive, and I've known that woman for two months. You've known her for four years."
+"And she gave you the Home Line's book and left out the Library's." Mara's face was perfectly still. It was the stillness she kept for a cell that was reading wrong, before she had decided whether the fault was in the cell or the meter. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I wouldn't forgive, and I've known that woman for two months. You've known her for four years."
 
 "I thought I had."
 
@@ -322,7 +322,7 @@ Mara did not say anything for rather a long time.
 
 "I'd meant to go by myself first. I did go by myself."
 
-"So you did, and you came back with more than I'd have got." There was something at the corner of her mouth that was nearly a smile. "I'll sign. I'm saying so before you ask, so that you needn't. But I'll say one thing about the cost, since she was honest enough to name it." She tapped the black cover of the keeper's branch book, which still lay at the end of the table where it had lain since Saturday. "A man in a black coat came to a boy in a mast room and asked very civilly for your numbers. He'll read that tape on the first whether we like it or not. If your name's going to be in front of that house, I'd as soon it were in an open book, in your own hand, with a date on it, as in the back of somebody's notebook. A request book is a book."
+"So you did, and you came back with more than I'd have got." There was something at the corner of her mouth that was nearly a smile. "I'll sign. I'm saying so before you ask, so you needn't. But I'll say one thing about the cost, since she was honest enough to name it." She tapped the black cover of the keeper's branch book, which still lay at the end of the table where it had lain since Saturday. "A man in a black coat came to a boy in a mast room and asked very civilly for your numbers. He'll read that tape on the first whether we like it or not. If your name's going to be in front of that house, I'd as soon it were in an open book, in your own hand, with a date on it, as in the back of somebody's notebook. A request book is a book."
 
 "A meter, and a shutdown path."
 

@@ -22,7 +22,7 @@ Orla heard it out. When it was done she sat for a little while and looked at the
 
 Kiva sat on the spare crate. The lamp hissed on its hook.
 
-"I read that notebook in the autumn of 2664," said Orla. "I'd been three years without a candidate of my own. I was not let sponsor one. I'd gone down to those stacks to find out whether anybody in five hundred years had ever written a line about training a boy with two doors, because I'd had one, and I had put him in front of four thousand people, and I wanted very much to learn that somebody else had made the same mistake first. Nobody had. Or nobody had written it." Her eyes did not leave the cross. "I found a card in the wrong drawer with a famous name on it. I read the thing in an afternoon, out of nothing better than curiosity, and I put it back, and I did not think of it again for twelve years."
+"I read that notebook in the autumn of 2664," said Orla. "I'd been four years without a candidate of my own. I was not let sponsor one. I'd gone down to those stacks to find out whether anybody in five hundred years had ever written a line about training a boy with two doors, because I'd had one, and I had put him in front of four thousand people, and I wanted very much to learn that somebody else had made the same mistake first. Nobody had. Or nobody had written it." Her eyes did not leave the cross. "I found a card in the wrong drawer with a famous name on it. I read the thing in an afternoon, out of nothing better than curiosity, and I put it back, and I did not think of it again for twelve years."
 
 "Until my Kindling."
 
@@ -32,13 +32,13 @@ Kiva sat on the spare crate. The lamp hissed on its hook.
 
 "No."
 
-"On Sunday you said I should have what you'd got. You said it was little enough. And you gave me the hall and the list and Hollis Vane's ledger, and I thought that was all of it."
+"On Sunday you said I'd have what you'd got. You said it was little enough. And you gave me the hall and the list and Hollis Vane's ledger, and I thought that was all of it."
 
 "It was all that I could put a page to." Orla lifted her head at last. "That's a true sentence, and I chose it because it was true, and I knew when I chose it what it left out. I've been thirty years on and off the Home Line. I know what it is to cut a report to fit. I did it to you on that crate, with your own page in my hand that had a word crossed out for honesty." Her mouth went thin. "I told you I'd have let *began* go by, and that I'd have been wrong. I let a great deal more than that go by in the same breath. That's mine. I'll not dress it."
 
 Kiva had not expected that. She had come ready to be answered, and she found that there was nothing to push against, and that it did not make her any less angry.
 
-"Why, though? If you'd no line to draw, you could have said so. *There's a notebook, and I don't know that it's anything.* You say that sort of thing to me every night."
+"Why, though? If you had no line to draw, you could have said so. *There's a notebook, and I don't know if it's anything.* You say that sort of thing to me every night."
 
 "Because I drew a line once." It was said very quietly. "Between a boy's two doors and an ashcraft trial at the Regional. I was certain. I could have drawn it for you on that wall. He's fixing pumps on the south coast with one hand." She breathed. "The second time I saw two things that looked as if they belonged together, I found that I couldn't open my mouth. I've known for four years that it was cowardice wearing a field officer's coat. I'd thought it was at least the careful sort."
 
@@ -52,7 +52,7 @@ The yard was quiet. A tram went by at the foot of the lane, and its light slid a
 
 "I would. It's also so." Orla almost smiled. "I took you on because you failed a trial in front of four hundred people and then handed the Chair a book that said exactly how, in your own hand, with nothing in it to your credit that wasn't also true. I've had Torches who couldn't do that. The notebook's the reason I was frightened to. I put my name to you in spite of it, and I'd like that kept separate from the other, if you can manage it. I'm aware that it's a good deal to ask tonight."
 
-Kiva said nothing. She was thinking of a second page, unsigned, that had lain in a coat for a month.
+Kiva said nothing. She was thinking of a sponsor's form, soft at the folds, that Orla had carried for four years with its second page blank, and had filled in at last in the Chair's office with a hand that was not quite steady.
 
 "Now I'll have my turn," said Orla, "and you'll not like it. How long have you had that register line? The lamps, in '46."
 
@@ -92,7 +92,7 @@ She was still angry. It had not gone anywhere; it lay in her as heavy and plain 
 
 ---
 
-Noa Bexley had learned what a T-0 was on Tuesday, and what it was not on Tuesday afternoon.
+Noa Bexley had been told what a T-0 was on Monday, and on Tuesday he learned what he had not been told.
 
 The clerk at Hanley Street was a thin, careful man with a cough, and he had been pleased to be asked. He had taken down a volume as long as his arm and shown Noa the heading, and the ruled columns, and the little table of marks inside the cover. Kiva had told it right. *T-0. Transient, cause not found.* There was nothing more to it than that.
 
@@ -196,7 +196,7 @@ She was glad. She had the dipper in her hand and she was shouting with the rest.
 
 Anwen had come to watch. It was her last Saturday, and she sat on the end of Kiva's bench in her brown coat with her hands in her lap, not writing, which was unlike her.
 
-Kiva had a name. She had had it since Wednesday, when a woman on a stair had told her that the van would be a ward short, and she had worked it out carefully, with reasons. Edda, of Old Four, was a Hold with a second step and a temper. It was a perfectly good name.
+Kiva had a name. She had had it since Wednesday, when Greta Stroud had told her on the infirmary stair that the van would be a ward short, and she had worked it out carefully, with reasons. Edda, of Old Four, was a Hold with a second step and a temper. It was a perfectly good name.
 
 She put the dipper down in the bucket.
 
@@ -204,9 +204,9 @@ She put the dipper down in the bucket.
 
 Anwen turned her head.
 
-"You've somebody."
+"You've got somebody."
 
-"I had. I'd sooner hear yours."
+"I did. I'd rather hear yours."
 
 There was a pause. Kiva kept her eyes on the lane, where the Wren House captain was shaking Jude's hand.
 
@@ -226,7 +226,7 @@ Anwen looked at her a moment longer. Then she looked at the lane.
 
 "I'd have said Edda."
 
-"I know you would. Edda's better. Edda would also do it her own way the first time something went wrong, and you'd not hear about it until afterward." She almost smiled. "You asked."
+"I know you would. Edda's better. Edda would also do it her own way the first time something went wrong, and you wouldn't hear about it until afterward." She almost smiled. "You asked."
 
 "I did."
 
@@ -248,7 +248,7 @@ She had come straight from the lane with her hair still wet, and she stood at th
 
 "Because nobody's explained. Pryce came and stood over me and said *will you hold a corner,* and I said yes, since she's the only person I've ever met who can frighten me by being polite. And now there's a sheet, and a rule fourteen. This is how it happens. You say yes to a cord, and by midnight you're under a Flask."
 
-"You'll not be under it," said Anwen. "You'll be beside it, with a hem in your hand. Kneel there. No, on the lead; you want your knee on the weight." She knelt opposite. "The cord comes through twice at your corner and it crosses. If it crosses the wrong way, the neck won't shut at the third turn and the catcher loses eight counts finding out why. Give me your hand."
+"You won't be under it," said Anwen. "You'll be beside it, with a hem in your hand. Kneel there. No, on the lead; you want your knee on the weight." She knelt opposite. "The cord comes through twice at your corner and it crosses. If it crosses the wrong way, the neck won't shut at the third turn and the catcher loses eight counts finding out why. Give me your hand."
 
 She taught it as she did everything, once, slowly, and then again faster, and then a third time with her own eyes shut. Kiva watched from the north hem. She had held that cord in two bad fingers on a cinder floor and had called *three* to have it taken from her, and there had been a hand there to take it, and she had not looked to see whose, because she had not needed to.
 
@@ -264,13 +264,13 @@ She taught it as she did everything, once, slowly, and then again faster, and th
 
 Noa had come in by the yard gate while she was saying it. He stood just inside, with his notebook held against his chest in both arms, and he waited until the cord was down.
 
-"I've figures," he said. "They're Kiva's, so she has them the same day; those are the terms. I can say them here or I can say them to her on the step. I'd rather it was here."
+"I've got figures," he said. "They're Kiva's, so she has them the same day; those are the terms. I can say them here or I can say them to her on the step. I'd rather it was here."
 
 He looked at Kiva when he said it, and there was nothing unkind in his narrow face. She understood that he knew.
 
 "Here," she said.
 
-He gave them in order, as he would have read a tape. The notch on every pen, sixteen of them, at one instant. Eleven seconds after her cliff, or twelve, and not forty. The Low Lane's mast two miles off, showing nothing. Then the reed, and whose patent it was cut to, and the clause.
+He gave them in order, as he would have read a tape. The notch on every pen, sixteen of them, at one instant. Eleven seconds after her cliff, or twelve, and not forty. The Low Lane's mast two miles off, showing nothing. Then the reed, and whose patent it was cut to, and the clause; and the caution in small print beneath it, with what a pleasant man had said the caution meant, which was that a row of cells each tuned to its own business does not care to be taken by the collar.
 
 "*However produced,*" said Kellan slowly. His face had changed. "My mother's worked under that seal for twenty-two years. I've seen the words on a wall."
 
@@ -282,11 +282,11 @@ Pru looked from one face to another. "Ought I to be hearing this? I only came ab
 
 "Stay," said Kiva.
 
-She had the field book under her arm. She did not have anything else. She had spent the whole of Friday night on a tram deciding what she would say when this came, and had then decided, somewhere about the Weighbridge stop, that she would not decide.
+She had the field book under her arm. She did not have anything else. She had spent the tram home from the Old Yard on Friday night deciding what she would say when this came, and had then decided, somewhere about the Weighbridge stop, that she would not decide.
 
 She opened the book on the stiff new canvas, at the back, and took out the two loose sheets, and laid them down where all of them could read.
 
-"There are four," she said. "Four times in two hundred and thirty-four years that the lamps have gone over more ground than one fault could reach, and nobody could say why. I copied three of them the day after the trial. The fourth's the Pit's, from the keeper's own book; Mara showed me a week ago tonight, in the kitchen, an hour before you all came up the stair. I put it in here and shut it." She made herself look at Noa. "On Monday you asked me what the mark was, and I told you what the word means. I'd four of them on my knee."
+"There are four," she said. "Four times in two hundred and thirty-four years that the lamps have gone over more ground than one fault could reach, and nobody could say why. I copied three of them the day after the trial. The fourth's the Pit's, from the keeper's own book; Mara showed me a week ago tonight, in the kitchen, an hour before you all came up the stair. I put it in here and shut it." She made herself look at Noa. "On Monday you asked me what the mark was, and I told you what the word means. I had four of them on my knee."
 
 "I know," said Noa. "I sat on the records office step for an hour."
 
@@ -302,7 +302,7 @@ She told them. She told them which grids, and what hour, and that the third was 
 
 "I'm only counting." He wrote. "Four's too few to say anything with. I'd want that written beside it."
 
-"I'd like it noted," said Perrin heavily, from the handcart, "that I mind this as well. I'm beginning a list. I've the yard on it, and the plate, and now I've a dead Master and a clerk called R." He shifted his strapped ribs. "And I'd like to know who else has read that box, since somebody's bound to ask."
+"I'd like it noted," said Perrin heavily, from the handcart, "that I mind this as well. I'm starting a list. I've got the yard on it, and the plate, and now I've got a dead Master and a clerk called R." He shifted his strapped ribs. "And I'd like to know who else has read that box, since somebody's bound to ask."
 
 "Orla has. Sixteen years ago. I found her name."
 
@@ -312,7 +312,7 @@ That went through the yard like a draft.
 
 It was the first thing she had said since the sheets were laid down. She was still kneeling at the south hem with the cord across her palm.
 
-"No. I asked her last night. She told me why, and I don't think that she was sparing herself." Kiva drew a breath. "She asked me how long I'd had these. And who'd seen them."
+"No. I asked her last night. She told me why, and I don't think she was sparing herself." Kiva drew a breath. "She asked me how long I'd had these. And who'd seen them."
 
 "How long?"
 
@@ -338,7 +338,7 @@ She was a hand's breadth away, across a fold of waxed cloth. Her face was tired,
 
 "I know."
 
-"I don't think that you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You put those papers down without a speech. If I stayed another week you'd have it nearly right, and then I should have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I'd my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
+"I don't think you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You put those papers down without a speech. If I stayed another week you'd have it nearly right, and then I'd have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I had my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
 
 Kiva held her end of the sheet.
 
@@ -346,8 +346,8 @@ There were a great many things that she might have said, and she could feel ever
 
 "All right," she said.
 
-"Good." Anwen walked the last fold in, and pressed it flat with her forearm, and for a moment her hand rested on the canvas beside Kiva's. "Perrin calls *off* for Seven while I'm away. I've told him. He minds things; it's what's wanted in the person who stops them." She lifted the folded sheet into Kiva's arms. It was as heavy as a child. "Six o'clock, at the Brickfields stop. You needn't come."
+"Good." Anwen walked the last fold in, and pressed it flat with her forearm, and for a moment her hand rested on the canvas beside Kiva's. "Perrin calls *off* for Seven while I'm away. I've told him. He minds things. That's what you want in the person who stops them." She lifted the folded sheet into Kiva's arms. It was as heavy as a child. "Six o'clock, at the Brickfields stop. You needn't come."
 
 "I'm coming."
 
-"I thought that you might be," said Anwen, and went in to finish her bag.
+"I thought you might be," said Anwen, and went in to finish her bag.

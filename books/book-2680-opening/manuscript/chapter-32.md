@@ -4,11 +4,19 @@ Healer Aske turned her hand over on the towel on Tuesday and did not reach for h
 
 "I'm told that it went away," he said. "For forty-one counts in a yard on the twentieth, two fingers. For the better part of an hour on a wharf on Sunday morning, the whole of it, to the wrist. Your sponsor wrote me the first. A Graywater catcher wrote me the second, in pencil, on the back of a tin tag. I've never had a letter from a catcher before."
 
+Kiva looked at the hand on the towel. An hour was a better number than the true one. It was in somebody else's pencil, written by a man who had seen the wharf and nothing after it, and she had only to sit still.
+
+"It was longer," she said. "He only saw the wharf. It went at the sixth rung, a little after three, and it was supper before it came back. Fifteen hours, about."
+
+Aske did not move for a moment.
+
+"Fifteen," said Aske. He looked at her over the hand. "And you were in two minds whether to say so. Don't trouble to answer; I've a face in front of me." He turned the wrist toward the window. "Well. Now I've the right number, which is the only kind I can do anything with."
+
 "Is it burned?"
 
-"No. I've looked for that twice now and I'd tell you." The cold thumbs went along the two fingers and stopped at the knuckle. "It's a nerve that's being asked a question it can't answer quickly. Every time you do whatever it is that you do on that mast, something goes through here at a rate it was never built to carry. It doesn't scorch. It starves, and then it sulks, and each time it sulks a little longer." He let go. "I can ease it. I can't tell you how many more times it will come back to where it was. I'd be guessing, and I don't."
+"No. I've looked for that twice now and I'd tell you." The cold thumbs went along the two fingers and stopped at the knuckle. "It's a nerve that's being asked a question it can't answer quickly. Every time you do whatever it is that you do on that mast, something goes through here at a rate it was never built to carry. It doesn't scorch. It starves, and then it sulks, and each time it sulks a little longer. The wharf wasn't the mast. That was four bag necks hauled across the crook of an elbow, over a nerve that had been emptied on the Wednesday and hadn't filled. The mast leaves it hungry. The cord found it hungry." He let go. "I can ease it. I can't tell you how many more times it will come back to where it was. I'd be guessing, and I don't."
 
-"Somebody's did not come back. Two hundred years ago. A whole hand."
+"Somebody's didn't come back. Two hundred years ago. A whole hand."
 
 "So your sponsor tells me. She sent me the line." He wrote on her card. "No go until Monday. After that, one in a week, and I see the hand the next morning, every time, before you're let have another. That's not a ban. It's a price, and I'm setting it where you can read it."
 
@@ -26,9 +34,7 @@ Three papers had been pinned to it in a row since the morning, each with a seal,
 
 *Claim. The Halden Works, proprietor, under the foundation patent of 2391. All ash exhibiting the Step, however produced. One bag, 113 drams, tagged at the Weighbridge wharf on the 24th and held at the Wren House cold room. The Works observes that this ash was kept from civic use on the word of a provisional candidate, unclassified, and a field comb, and asks on what paper.*
 
-*Claim. The wardens of Weighbridge Street, by ground-first. The civic half of all ash tinned on the call of the 24th, the said bag not excepted. The wardens do not ask to use it. They ask that it not be carried off the street's account by anybody who was not there.*
-
-*Notice. Wren House, reference shelf. Resonance I, full, from a field source: without precedent on the cards. Held for reference pending the Chair's direction. Halloran.*
+The second was from the wardens of Weighbridge Street, by ground-first. They did not ask to use the bag. They asked that it not be carried off the street's account by anybody who had not been there. The third was four lines in Halloran's upright hand: resonance I, full, from a field source, without precedent on the cards, and held for reference.
 
 And below the three, in a level hand that she knew:
 
@@ -38,7 +44,7 @@ And below the three, in a level hand that she knew:
 
 It was the thin boy in Wren House green. He had no catch roll this time. He had a yellow card, folded small, and he was turning it over in his fingers.
 
-"*A provisional candidate, unclassified.* I read it twice to be certain." He did not sound unkind. "We've our held tear tomorrow. The river flats, at first light, if it obliges. Sixth company, at last."
+"*A provisional candidate, unclassified.* I read it twice to be sure." He did not sound unkind. "We've got our held tear tomorrow. The river flats, at first light, if it obliges. Sixth company, at last."
 
 "I'm glad."
 
@@ -46,7 +52,7 @@ It was the thin boy in Wren House green. He had no catch roll this time. He had 
 
 "*Selka* Dray?"
 
-"She asked for it. She came and found me on Sunday. She said that she'd an objection before the Chair with a hearing on the second, and that she'd sooner stand a floor in the meantime than write another letter." He put the card away. "She told me to my face that she still thinks you oughtn't to be seated. Then she asked what my father's shop sold. He's opening at noon tomorrow whatever happens. He says he'll not shut it twice."
+"She asked for it. She came and found me on Sunday. She said she had an objection waiting on the Chair, and she'd sooner stand a floor in the meantime than write another letter." He put the card away. "She told me to my face that she still thinks you oughtn't to be seated. Then she asked what my father's shop sold. He's opening at noon tomorrow whatever happens. He says he won't shut it twice."
 
 He went away up the stair. Kiva stood before three sealed papers that each had a bag in it, and her own name in the first, and a date.
 
@@ -58,11 +64,11 @@ He had the weigh-house tape in a roll under his arm, since the Chair had sent hi
 
 "So it isn't every crossing."
 
-"Or it's only the first. Or it wants more than one pen to show, and a ring of lamps. I can think of five things that it might be and I can't choose between any two." He rubbed his eyes. "I'm not going to say which. I've a man in a black coat reading the same cliff on Sunday. I'd rather hand him a blank than a guess with my name on it."
+"Or it's only the first. Or it wants more than one pen to show, and a ring of lamps. I can think of five things it might be and I can't choose between any two." He rubbed his eyes. "I'm not going to say which. Adlam reads the same cliff when it opens. I'd rather hand him a blank than a guess with my name on it."
 
 "That's a hard thing to bring to a hearing."
 
-"It's what there is." He shifted the roll. "I've stopped calling the page *probably nothing,* by the way. I've not thought what to put instead. I've left the top bare."
+"It's what there is." He shifted the roll. "I've stopped calling the page *probably nothing,* by the way. I haven't thought what to put instead. I've left the top bare."
 
 ---
 
@@ -70,31 +76,31 @@ Kellan said it on Wednesday at the Rowan kitchen table, with the team book open 
 
 He had brought his list. He laid it down beside the book and did not look at it.
 
-"I went to the refinery yard last Thursday," he said. "I stood behind a rail for two hours. They've a contained string, a six-knot, in a lattice of their own. They've a chartered foreman every Tuesday and Thursday, and a ward line that's paid. Their Kill's a second-year called Pettit." He was speaking to the cover of the book. "He isn't better than I am. I timed him. He's four-tenths at the top, the same as me, and his feet are worse."
+"I went to the refinery yard last Thursday," he said. "I stood behind a rail for two hours. They've got a contained string, a six-knot, in a lattice of their own. They've got a chartered foreman every Tuesday and Thursday, and a ward line that's paid. Their Kill's a second-year called Pettit." He was speaking to the cover of the book. "He isn't better than I am. I timed him. He's four-tenths at the top, the same as me, and his feet are worse."
 
 "But," said Perrin.
 
-"But he's cut a rung a week since the thaw, and I've cut one in my life." Kellan looked up. "On Sunday morning I stood on a wharf with the corner of a sheet in my hand and watched one blade make seven cuts, each longer than the last, until she had to sit down. The second blade was in a van with his leg in a board. The third was me, and I wasn't allowed, and I ought not to have been. I've been over it every hour since. It isn't that I mind holding a corner. I found out that I don't."
+"But he's cut a rung a week since the thaw, and I've cut one in my life." Kellan looked up. "On Sunday morning I stood on a wharf with the corner of a sheet in my hand and watched one blade make seven cuts, each longer than the last, until she had to sit down. The second blade was in a van with his leg in a board. The third was me, and I wasn't allowed, and I shouldn't have been. I've been over it every hour since. It isn't that I mind holding a corner. I found out I don't."
 
 "Fifty-five," said Kiva.
 
-"Fifty-five. I'd hold that corner again tomorrow." His jaw was tight. "I want to be let. I want to be the second blade that a foreman can turn to. I can't get that off one night in a fortnight and a trough, and I can't get it by being excellent at a thing that I do alone at the top of a bound."
+"Fifty-five. I'd hold that corner again tomorrow." His jaw was tight. "I want to be allowed. I want to be the second blade a foreman can turn to. I can't get that off one night in a fortnight and a trough, and I can't get it by being excellent at a thing I do alone at the top of a bound."
 
 Nobody at the table spoke.
 
-"So I've said yes. To the Halden license team, for the Regional. Not for the summer, and not for their yard after; I've told them that in writing." He drew a breath. "I stay on this book. I've asked the clerk; a house entry for the Regional isn't a transfer. If Sorn will take a blade on her van who's wearing somebody else's colors in the autumn, I stand the Flask we owe. If she'll not, I understand her."
+"So I've said yes. To the Halden license team, for the Regional. Not for the summer, and not for their yard after; I've told them that in writing." He drew a breath. "I stay on this book. I've asked the clerk; a house entry for the Regional isn't a transfer. If Sorn will take a blade on her van who's wearing somebody else's colors in the autumn, I stand the Flask we owe. If she won't, I understand."
 
 "They've claimed the bag," said Kiva. She had meant to wait, and found that she had not been able to. "Your team's house. It's on the board. *However produced.*"
 
-"I've read it. Twice. It has my mother's seal at the foot; every paper of theirs has." He did not look away. "I think that it's lawful. I think that it's wrong. I held one of the corners of that bag and I heard a shed foreman say that he'd not put a thimble of it in his own kitchen. I've told Mr. Adlam that I'll say what I saw on that wharf to anybody who asks me, whoever's paying my stipend."
+"I've read it. Twice. It has my mother's seal at the foot; every paper of theirs has." He did not look away. "I think it's lawful. I think it's wrong. I held one of the corners of that bag and I heard a shed foreman say he wouldn't put a thimble of it in his own kitchen. I've told Mr. Adlam I'll say what I saw on that wharf to anybody who asks me, whoever's paying my stipend."
 
 "What did he say?"
 
-"That they'd expect nothing else." Kellan's mouth twisted. "I'm aware that it's exactly what a pleasant man would say. I've written it down, with the date, and I've given a copy to my mother. She's the jar."
+"That they'd expect nothing else." Kellan's mouth twisted. "I know that's exactly what a pleasant man would say. I've written it down, with the date, and I've given a copy to my mother. She's the jar."
 
 Perrin had been turning a spoon end over end. He put it down.
 
-"I'd like it said that I mind," he said. "And I'd like it said that I'd have done the same, and that I'm going to the Hall's second team in the autumn myself, so I've a nerve." He blew out his cheeks. "A month ago I said there were four of us and I couldn't find two going the same way. Now there's one of us going two ways at once. I didn't know that was allowed. Is it in rule fourteen?"
+"I'd like it said that I mind," he said. "And I'd like it said I'd have done the same, and I'm going to the Hall's second team in the autumn myself, so I've got a nerve." He blew out his cheeks. "A month ago I said there were four of us and I couldn't find two going the same way. Now there's one of us going two ways at once. I didn't know that was allowed. Is it in rule fourteen?"
 
 "It's in nineteen," said Kellan gravely. "I looked."
 
@@ -102,21 +108,19 @@ Perrin had been turning a spoon end over end. He put it down.
 
 Kiva had not said anything yet.
 
-She had three things ready. She could feel each of them standing in her mouth, and they were all of them true, and one of them was even generous. She gave them numbers. They were for her, every one. Not one of them was a thing that Kellan had asked to be told.
-
 "What do you want from us?" she said.
 
-He was silent for a moment. He had plainly expected one of the three.
+He was silent for a moment. It was plainly not the question he had come ready for.
 
-"Nothing," he said. "That's what's the matter with it. I've a list here of what I'd say if you asked me to stay, and you've not asked." He turned the list face down. "I'd like to have my name on that book when the eight and four-tenths is entered. And I'd like somebody to tell Anwen before a runner does."
+"Nothing," he said. "That's what's the matter with it. I've got a list here of what I'd say if you asked me to stay, and you haven't asked." He turned the list face down. "I'd like to have my name on that book when the eight and four-tenths is entered. And I'd like somebody to tell Anwen before a runner does."
 
 "It can't be entered without her. Four signatures."
 
-"I know. I've thought of that. So has the clerk; he says that a team book may go to a member on service, by a member's hand, and be signed where she stands." He looked at Kiva. "It ought not to be mine."
+"I know. I've thought of that. So has the clerk; he says a team book can go to a member on service, by a member's hand, and be signed where she stands." He looked at Kiva. "It shouldn't be my hand."
 
 "No."
 
-"I'll take it," said Perrin. "I'm the only one of us that she's not cross with."
+"I'll take it," said Perrin. "I'm the only one of us she's not cross with."
 
 "She's cross with you about the bean poles."
 
@@ -126,7 +130,7 @@ There was a small sound from the end of the table.
 
 Pru Finch had been let in at the beginning and had sat so quietly ever since that Kiva had forgotten her. She had a yellow card in both hands.
 
-"I've to give this back to the Circuit on Friday," she said. "Or ask to keep it. Nobody's told me which." Her round face was very pink. "I stayed. I found that out. I'd like to do it again, with rather more warning, and I'd like it to be with you, if there's a you. I don't know who's meant to decide."
+"I've got to give this back to the Circuit on Friday," she said. "Or ask to keep it. Nobody's told me which." Her round face was very pink. "I stayed. I found that out. I'd like to do it again, with a bit more warning, and I'd like it to be with you, if there's a you. I don't know who's meant to decide."
 
 The three of them looked at one another across an open book.
 
@@ -134,7 +138,7 @@ The three of them looked at one another across an open book.
 
 "Not a wall."
 
-"Not yet," said Kellan. He picked up his list, and folded it, and put it in his pocket without having read a line. "If you're wanting a blade for the Regional, and you'll be wanting one, I'd ask Talley. He's a second step and no team, and he's the only Ember in this school who's ever told me that I was wrong about something and been right. It isn't mine to fill. I'm only saying who I'd ask."
+"Not yet," said Kellan. He picked up his list, and folded it, and put it in his pocket without having read a line. "If you want a blade for the Regional, and you will, I'd ask Talley. He's a second step and no team, and he's the only Ember in this school who's ever told me I was wrong about something and been right. It isn't mine to fill. I'm only saying who I'd ask."
 
 Mara came in then, from the shop, with a letter in her hand.
 
@@ -160,7 +164,7 @@ She had wanted to read the book because Ilse was in it. That was the whole of he
 
 A boy went by with a bucket. A bell rang somewhere for the change of the levee watch.
 
-There had been a visitor to the Old Yard, a fortnight ago, on a night when there was no go.
+There had been a visitor to the Old Yard, a week and a half ago, on a night when there was no go.
 
 Mara Rowan had come down the lane at half past eight in her work apron, with her sleeves still rolled. She had not sat. She had stood beside the spare crate and said two sentences, in the voice she would have used to a meter.
 
@@ -172,9 +176,9 @@ Mara Rowan had come down the lane at half past eight in her work apron, with her
 
 Then she had gone home. Orla had sat on for an hour afterward and found that she had been let off nothing and forgiven nothing, and that she could work with it.
 
-There was a paper in her coat now, too. It had come from the Chair that morning, in answer to Monday's book. *Noted: one stack, a third of a second, landed, called a miss by the candidate's reader. I shall want the tape, the reader, and the sponsor on the 3rd. Y.C.* It was not a reprimand. Ysra Crest did not write reprimands. She wrote appointments.
+There was a paper in her coat now, too. It had come from the Chair that morning, in answer to Monday's book. *Noted: one stack, a third of a second, landed, called a miss by the candidate's reader. I shall want the tape, the reader, and the sponsor with the rest. Y.C.* It was not a reprimand. Ysra Crest did not write reprimands. She wrote appointments.
 
-Orla had a fair notion of what that Tuesday was going to hold. A bag that three parties wanted. A tape with a cliff on it. A girl who had read a dead woman's fever in front of two houses and had been seen to count. A boy with a strip of paper, who would be asked by a Placement Chair whether a Torch could tell a crossing from a stack with a stick, and who would have to say no.
+She knew what would be asked in that room. A boy with a strip of paper would be made to say, in front of a Placement Chair, whether a Torch could tell a crossing from a stack with a stick, and he would have to say no.
 
 She would have to say it too. She found that she did not mind that either.
 
@@ -196,7 +200,7 @@ A sheet of paper had been pasted there, and renewed, and pasted over. It was a l
 
 *And the bearer.*
 
-"You've been on that since you were thirteen," said Vane. "Nobody told you. The appointment was sealed, and the one person whose business it was to tell you had been dead three years when the seal was cut." He did not excuse it. "Your sponsor's known of this book for thirty years and couldn't be shown it. You could have walked in any morning and asked. I'd like to say that we're a careful service. We're a service that copies what's in front of it."
+"You've been on that since you were thirteen," said Vane. "Nobody told you. The appointment was sealed, and the one person whose business it was to tell you had been dead three years when the seal was cut." He did not excuse it. "Your sponsor's known of this book for thirty years and couldn't be shown it. You could have walked in any morning and asked. I'd like to say we're a careful service. We're a service that copies what's in front of it."
 
 He lifted the book out and laid it on the oak.
 
@@ -232,7 +236,7 @@ There were a great many names.
 
 She did not try to keep them. She let her eye go down the leaves as Vane turned them. The hands changed every thirty years or so; the ink went from brown to black. Some of the reasons were a line long and some a paragraph. One said only, *She asked.* One, in a hand like a row of bent pins, she could not read at all.
 
-"Nor can I," said Vane. "It's the same script as the other. I've to ask seven people's leave before I may trace a line out of this book. I've asked."
+"Nor can I," said Vane. "It's the same script as the other. I have to ask seven people's leave before I may trace a line out of this book. I've asked."
 
 It was the fourth column that she could not stop looking at.
 
@@ -242,7 +246,7 @@ It was the fourth column that she could not stop looking at.
 
 *Cold.*
 
-*Nothing, in twenty-two years.*
+*Nothing, in thirty-four years.*
 
 It went down the page like a drip. Leaf after leaf, bearer after bearer, each of them had been told on the first page to write down what it did, and each had carried it for half a lifetime and come back with the same word. Once, halfway through, a narrow upright hand had written, *Warm? In a fever. It may have been me.* And beside it, in the margin, in different ink: *Not entered as fact. Watch.*
 
@@ -260,7 +264,7 @@ Under *What it does,* there were three entries, years apart, in a big loose scra
 
 *Nothing. I've stopped asking it. I.C.*
 
-Kiva's eyes stung. She had thought that she had found that out for herself, on a stair at the Kennel, with a tin under her arm.
+Kiva's eyes stung. She had thought that she had found that out for herself, in the Old Yard, beside the crate, with the thing cold in her palm.
 
 *Released: to K. Rowan, by sealed appointment, 2669. To be delivered on her Kindling day and not before. Witnessed by the watch, which did not choose.*
 
@@ -282,7 +286,7 @@ There was one line more, beneath, in a clerk's hand.
 
 "She said no," said Kiva.
 
-"She did. And we went round her, by our own rule, and wrote down that we had." Vane's face was set. "That's eleven years old and nobody's been to Coper Street. I'll come myself. Not to defend it. To say that it's there."
+"She did. And we went round her, by our own rule, and wrote down that we had." Vane's face was set. "That's eleven years old and nobody's been to Coper Street. I'll come myself. Not to defend it. To say it's there."
 
 "She'll give you tea and not forgive you."
 
@@ -298,13 +302,13 @@ There was nothing after it. The *why* was above. The fourth column was empty, a 
 
 "And the second?"
 
-"Anything written in that fourth column that isn't *nothing,* I read aloud to the watch at its next sitting. That's Sunday." He met her eye. "There's a great deal coming at you on Sunday. I'd not add to it without saying so. You may leave that space white and walk out, and I'll enter that the bearer read her line. Nobody could fault it."
+"Anything written in that fourth column that isn't *nothing,* I read aloud to the watch at its next sitting. That's three days off." He met her eye. "You've enough coming at you. I wouldn't add to it without saying so. You may leave that space white and walk out, and I'll enter that the bearer read her line. Nobody could fault it."
 
 Kiva looked at the white space.
 
 She thought of a page at a kitchen table, with one word crossed out. She thought of a request book that was open because that was what it was for. She thought of a clerk called R., who had been told to leave something out of a column, and had put it at the side in a hand that his Warden could not read, and of how long it had taken anybody to come down three flights of stairs and ask.
 
-She thought of an old woman on a wharf, pressing hard with a stub of pencil. *Now it's somebody's.*
+She thought of Mrs. Cobb on the wharf, pressing hard with a stub of pencil. *Now it's somebody's.*
 
 "Is there a rule about how much I may put?"
 
@@ -326,7 +330,7 @@ She blotted it. It looked very long, under all that *nothing.* It looked like so
 
 "It was there first. I only found it."
 
-"Mm." He took the pen from her, and under her initials he wrote, small: *Entered in the bearer's hand, in the presence of the watch officer, Sag Line, who did not prompt. H.V.* "There. Now it's a fact, and seven people hear it on Sunday, and I can't tell you what they'll do with it. I can tell you that I shall say I gave a field direction to that hand and would again."
+"Mm." He took the pen from her, and under her initials he wrote, small: *Entered in the bearer's hand, in the presence of the watch officer, Sag Line, who did not prompt. H.V.* "There. Now it's a fact, and seven people hear it at the sitting, and I can't tell you what they'll do with it. I can tell you I'll say I gave a field direction to that hand and would again."
 
 "May I copy my own line?"
 
@@ -352,13 +356,13 @@ The crooked face did something that Kiva had never seen it do. It did not last. 
 
 "That's Ilse," she said. Her voice was rough. "That's her to the life. She never could find a grand reason for anything. She'd sooner have a true small one and be laughed at." She gave the book back. "I'd wondered for four years what was in that seal. I'd made up a dozen things. Not one of them was as plain as that, or as hard to argue with."
 
-"It says that they don't know what it's for. On the first page. In print."
+"It says they don't know what it's for. On the first page. In print."
 
 "I'd guessed that much."
 
 "And that it's held of the Line. They can call it back, on a vote."
 
-"Can they." Orla took her stick in her hand. "Then there's one more office with an opinion. We've the Chair on Tuesday, and a house with a patent, and an Order with a letter, and now a watch." She began to walk, slowly, toward the daylight at the end of the passage. "You wrote in it."
+"Can they." Orla took her stick in her hand. "Then there's one more office with an opinion. A watch on Sunday, and the same day a man in a black coat with a glass on your tape. The Chair on Tuesday, with a house and a street and a shelf all wanting one bag. And an Order with a letter." She began to walk, slowly, toward the daylight at the end of the passage. "You wrote in it."
 
 "He told me what it would cost first."
 

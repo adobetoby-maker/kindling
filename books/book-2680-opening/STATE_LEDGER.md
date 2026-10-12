@@ -174,9 +174,9 @@ same-model informed targeted recheck; no second prose repair is justified.** The
 
 ## Movement Four carried state (chapters 25–32)
 
-Recorded 2026-10-11 from the first draft, by its author, directly after the run.
-**Unreviewed: no editorial review, cold read, repair or recheck has been run.** The
-manuscript governs; full detail is in `provenance/MOVEMENT-004-CONTINUITY.md`. Only what
+Recorded 2026-10-11 from the first draft, by its author, directly after the run, and
+reconciled the same day to the consolidated same-author repair. **Repaired, pending targeted
+recheck and owner acceptance.** The manuscript governs; full detail is in `provenance/MOVEMENT-004-CONTINUITY.md`. Only what
 the prose shows is entered here.
 
 - **Calendar.** The month is still unnamed and has thirty days. Movement Four runs from
@@ -184,8 +184,9 @@ the prose shows is entered here.
   was Sunday the 24th (bell 2:14 a.m.; closed 3:40). The Annick reading was Monday the 25th
   at two. The Home Line hall was Thursday the 28th. Ahead: Saturday the 30th (Perrin takes
   the team book to Anwen); **Sunday the 1st** (the Home Line watch sits; the Pit's tape
-  opens); Monday the 2nd (Selka Dray's objection); **Tuesday the 3rd at nine** (all parties
-  before the Placement Chair; the catcher's book, the tape, Noa and Orla are wanted).
+  opens); **Tuesday the 3rd at nine** (all parties
+  before the Placement Chair; the catcher's book, the tape, Noa and Orla are wanted). Selka
+  Dray's objection is still waiting on the Chair, with no date on the page.
 - **The sequence ("a crossing").** Four sanctioned goes on the Circuit's travelling mast in
   the Old Yard: a called *off* (0.03), a crossing (0.30), a **stack** (0.11, called a miss by
   Noa from the tape), a crossing (0.31). **Two of Orla's six.** Spent 0.75 of the 2.00; **1.25
@@ -205,16 +206,22 @@ the prose shows is entered here.
   witnessed by Hollis Vane, who must read it to the watch on the 1st.
 - **The dream.** No recurrence. Kiva has read Hesper Annick's fever entry (undated; the green
   notebook; the eleventh, disputed box) once, uncopied, under the 2611 settlement, with an
-  observer from the Halden endowment and one from the Order of the Even Hand. It shares the
-  roads, the unlike lights, the touching, the absent sky, the word "Full," and every lamp
-  answering; it has no notes and no tick; Annick stands among the lights. It gives no date,
+  observer from the Halden endowment and one from the Order of the Even Hand. It shares, with
+  what Kiva had already told Mara, the roads, the unlike lights, the touching, the absent sky,
+  the word "Full," the words "paying attention," every lamp answering, and some lamps going out
+  and some white. It also has a color with no word for it, which Kiva has seen and never told
+  anyone, so no page of hers can prove that match. It has no notes and no tick, and Annick
+  stands among the lights where Kiva has only watched from a height. It gives no date,
   cause, meaning or use. Kiva has Annick's phrase, *the sky unroofed.* The sister saw her
   count from the third line to the last and had it recorded that the reader's lips moved.
   Mara did not read the entry; her page of the 29th is sealed and timed (1:52 p.m., the 25th)
   in the Library's press. The Order has written to Mara (six questions).
 - **Body.** Knee passed for landings on the 13th, still strapped. The first two left fingers
-  were white forty-one counts after the fourth go; the whole left hand went to the wrist for
-  about an hour on the wharf and came back to its earlier state. **Aske, the 26th: not burned;
+  were white forty-one counts after the fourth go; the whole left hand went to the wrist at
+  the sixth rung on the wharf and stayed away about fifteen hours, until Sunday supper, before
+  coming back to its earlier state (Kiva corrected a note that said an hour). **Aske, the 26th:
+  not burned; the wharf loss was the cord, four bag necks across the elbow, on a nerve the
+  crossing had emptied;
   it "sulks a little longer" each time; no go until Monday; then one a week, with the hand
   seen the next morning.** Permanent loss is still reserved for Movement Five.
 - **Certificate and conditions.** Unchanged. Kiva opened no door in the field. The stack is
@@ -243,7 +250,8 @@ the prose shows is entered here.
   Three parties claim the bag: the Halden Works, the wardens of Weighbridge Street, and the
   Wren House reference shelf. Nobody has said why a tear throws it.
 - **Instrument evidence.** The Pit's tape shows a notch on all sixteen pens eleven or twelve
-  seconds after Kiva's cliff, and nothing on the Low Lane mast two miles off. No notch
+  seconds after Kiva's cliff (this supersedes the "about forty seconds" in the Movement Three
+  block above, which was the keeper's estimate), and nothing on the Low Lane mast two miles off. No notch
   followed either sanctioned crossing or anything at the Weighbridge. Unexplained.
 - **Knowledge.** The 2446 margin is read (a sister of the Even Hand asked at the wicket
   before light whether the lamps had gone; the Warden ordered it left out). Anwen, Kellan,
