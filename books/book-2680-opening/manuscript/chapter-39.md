@@ -184,7 +184,7 @@ Dray's face was the color of lard. Her eyes came round.
 
 "I couldn't hear. I've had a thing on my leg." Dray shut her eyes for a moment. "Eight to a breath. It bites on the first four. I've been counting. It's the only thing I can do." They opened again. "I objected to you twice."
 
-"Three times. You renewed it."
+"I know. I was in the room both times."
 
 "I'd do it again. You oughtn't to be on a floor without a needle on you." A breath, held, through a bad four counts. "There's a needle on you. I looked. He's got his flag out. Get on with it."
 
@@ -388,7 +388,7 @@ There was a noise in the terraces like wind in a wood.
 
 "Keeper," said Vane's voice, quite steadily. "Did I see that?"
 
-"You did." Dunmore was at the load board with both hands on the case. He sounded like a man who has been told the same joke twice. "They're dead. They've been dead since I dropped the race. That's the second time in my life I've seen a dead ring jump, and it was on this floor, and it was her." He spat. "T-0. I'll write it, since I'm paid to. I'd as soon somebody told me what I was writing."
+"You did." Dunmore was at the load board with both hands on the case. He sounded like a man who has been told the same joke twice. "They're dead. They've been dead since I dropped the race. That's the second time in my life I've seen a dead ring jump, and it was on this floor, with her on it." He spat. "T-0. I'll write it, since I'm paid to. I'd as soon somebody told me what I was writing."
 
 Nobody told him.
 
@@ -492,7 +492,7 @@ He did not take out the pin. He took the hand in both of his, and turned it over
 
 "You said. At seven."
 
-"I said it at seven and I said it at twenty to three. You'd an answer for me both times." He stood up. "It was the same answer. I notice that. Most people have a different one in the afternoon."
+"I said it at seven and I said it at half past two. You'd an answer for me both times." He stood up. "It was the same answer. I notice that. Most people have a different one in the afternoon."
 
 They had put a stretcher on the cart's tailboard. There was a red head on the pillow, and a leg in a board, and a thin boy sitting on the step below with his face in his hands.
 
