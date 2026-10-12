@@ -112,7 +112,7 @@ Kiva put both hands on the table. The knee was beating.
 
 *You'd best watch it for them,* the warden had said, on a brick floor. *And not your own bag going off to the table.*
 
-She had not looked round once in sixty paces.
+She had not looked round once in forty-odd paces.
 
 Somebody laughed, high up on the west terrace. Then a good many people did.
 
@@ -132,11 +132,11 @@ The lowest of its knots hung down between the legs. It hung slack. It brushed th
 
 *Like the hem of a coat that wants taking up.*
 
-She had written that on a river bank, a fortnight ago, with a question mark after it. She had read it aloud at a kitchen table and been told it was half a reading.
+She had written that on a river bank, seventeen days ago, with a question mark after it. She had read it aloud at a kitchen table and been told that it was half a reading. She had read it aloud again on a terrace, and had it answered by a woman who had knelt behind more strings than anybody in the Pit, and she had been glad of the answer.
 
 "That's ten paces," said Kiva. Nobody was near enough to hear but the clerk. "The Kiln's twenty-two. I set it twenty-two from the Kiln."
 
-Loudest, they had all said. Vane had said it. She had said it herself, on a terrace in the sun, to fifteen people who had put up their hands.
+Loudest, they had all said. Vane had said it. She had said it herself, on a terrace in the sun, to fifteen people, and most of them had put up their hands.
 
 Nobody had said *nearest.*
 
@@ -146,7 +146,7 @@ Along the floor, the fifth company stood exactly where they had been standing wh
 
 "Wall," said the stern girl in green.
 
-It was Old Four's rung. Their sheet lay squared on its own mark, twelve paces south of where Kiva's had been, with the quiet boy kneeling at its hem. The four wards came up in a row with Merrin in the middle. They were bright. They were five paces from the thing's north flank.
+It was Old Four's rung. Their sheet lay squared on its own mark, twelve paces south of where Kiva's had been, with the quiet boy kneeling at its hem. The four wards came up in a row with Edda in the middle. They were bright. They were five paces off the thing's southern flank, between it and their own sheet.
 
 The count was past ninety. The second knot ought to be waking.
 
@@ -156,15 +156,15 @@ She understood about the plate then. The skin had not broken. It had slid down o
 
 It did not turn toward the wall.
 
-"Brighter," said Lowen Brask. He was standing at the corner of his team's sheet, with his broad hands empty. "Merrin. All of you. Lean on it."
+"Brighter," said Lowen Brask. He was standing at the corner of his team's sheet, with his broad hands empty. "Edda. All of you. Lean on it."
 
 The silver flared. Four students put everything they had into a wall, and at five paces a reading knot ought to have swung to it like a compass needle.
 
 It swayed. It stayed.
 
-"It won't look," said Merrin. Her voice was high and thin. "Lowen, it won't *look* at me."
+"It won't look," said Edda. Her voice was high and thin. "Lowen, it won't *look* at me."
 
-"Tolliver," said Brask.
+"Gower," said Brask.
 
 The lanky third-year went up the back of it in two bounds. Kiva saw his blade light at the top, a yellow-white line, and hang there. He had lit it to be seen. It was the brightest worked thing in the Pit, and it was an arm's length from the frost.
 
@@ -252,7 +252,7 @@ Greta Stroud screamed once. It was short. Then she was lying on her side on the 
 
 "*Down!*" said Mace. "Close the line. Nobody touches that with a pattern. Nobody!"
 
-"Renn." Vane had not moved from where he stood. "You're a Carry. Get her out."
+"Renn." Vane had not moved from where he stood. "You've nothing here to cut. You're my Carry. Get her out."
 
 Kiva saw Kellan come off the east wall.
 
@@ -318,7 +318,7 @@ And the link was a sprung iron lever on a shelf across three paces of open sump.
 
 Every still-door in the Pit was running north.
 
-It would not have mattered if they had been running south. They could not have crossed. A still-door could no more jump that trench than a wardrobe could. An Ember could have been over it in a breath, any Ember, Tolliver or Dray or that First Division girl. An Ember could have hung on the lever with all sixty kilos of her and not shifted it the width of a thumb.
+It would not have mattered if they had been running south. They could not have crossed. A still-door could no more jump that trench than a wardrobe could. An Ember could have been over it in a breath, any Ember, Gower or Dray or that First Division girl. An Ember could have hung on the lever with all sixty kilos of her and not shifted it the width of a thumb.
 
 The thing wanted somebody who could cross like the one and stand like the other.
 

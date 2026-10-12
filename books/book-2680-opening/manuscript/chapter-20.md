@@ -8,7 +8,7 @@ He always did. A captain who drank first had a team that noticed. He had been ta
 
 "She can stand on it. She can't land on it." He looked up the lane. "Those are different."
 
-The girl was sitting against the fourth post on the far side, with her leg out and a healer's boy kneeling over it. She was not writing in the book. He had half expected her to be. Her captain stood over her with his arms folded, and the small one in the scarf was talking, and nobody was listening to the small one in the scarf.
+The girl was sitting against the fourth post on the far side, with her leg out and a healer's boy kneeling over it, and she was not writing in the book, though he had half expected her to be. Her captain stood over her with his arms folded, and the small one in the scarf was talking, and nobody was listening to the small one in the scarf.
 
 He had moved a ladder. That was all.
 
@@ -20,7 +20,7 @@ It had worked to the inch.
 
 And that would have been the end of his thinking, and a pleasant end, if he had not spent six years on a mat teaching children to come down.
 
-He had watched four hundred landings. He knew a late door when he saw one. He knew what it looked like when a boy opened his stance in a panic with something else still running, because he had seen her do exactly that on a run plate, twice through, with a pencil. The Ember's metal had been on her calves in the Cellhouse when she planted. It had been ugly, and it had held once, and he had written *don't expect it again.*
+He had watched four hundred landings, and he knew a late door when he saw one. He knew what it looked like when a boy opened his stance in a panic with something else still running, because he had seen her do exactly that on a run plate, twice through, with a pencil. The Ember's metal had been on her calves in the Cellhouse when she planted. It had been ugly, and it had held once, and he had written *don't expect it again.*
 
 There had been nothing on her shins just now.
 
@@ -36,11 +36,11 @@ It had been late by about the width of a breath. And it had been aimed at his sa
 
 "Never mind." He took the water from Hendry. "It's usually the other way about."
 
-He had a Hold that had stopped at seven and a half two springs ago and would not be coaxed. He was not strong. He had come to terms with that. Stonehand's upper teams wanted plates lifted, and he could not lift them, and so he was a third-year in a Third Division tunic who taught twelve-year-olds to argue with the floor. He did not mind it as much as people supposed. But the Home Line took its hold crews from hands with a second step, and Old Four had been eighteenth on a list for two years.
+He had a Hold that had stopped at seven and a half two springs ago and would not be coaxed. He was not strong, and he had come to terms with that. Stonehand's upper teams wanted plates lifted, and he could not lift them, and so he was a third-year in a Third Division tunic who taught twelve-year-olds to argue with the floor. He did not mind it as much as people supposed. But the Home Line took its hold crews from hands with a second step, and Old Four had been eighteenth on a list for two years.
 
 On Wednesday week he would stand in a clay pit with sixteen people and a string of eight knots. One of the sixteen was a girl who had just done a new thing wrong in front of four hundred witnesses.
 
-He ought to think about that. He would, on the tram.
+He ought to think about that, and he would, on the tram.
 
 "Third carry," he said. "They're three behind. They have to come and get it. Talley's proud, and the Bexley boy can't keep still to save his life, so they'll run. We divide at the fifth posts, same as the first. Hendry, the ward. Idony, the boy. Arrand, you stay on my shoulder and stop apologizing to people."
 
@@ -48,7 +48,7 @@ He ought to think about that. He would, on the tram.
 
 "Leave her the sandbag."
 
-He stood up. Across the lane, the healer's boy had finished, and the girl was getting her good leg under her with a hand on the post.
+He stood up, for across the lane the healer's boy had finished, and the girl was getting her good leg under her with a hand on the post.
 
 *I should have liked to see it land,* thought Lowen Brask. It surprised him. He put it away, with the other things he would think about on the tram, and went to the mark.
 
@@ -60,7 +60,7 @@ He stood up. Across the lane, the healer's boy had finished, and the girl was ge
 
 "You told her you wouldn't. In front of me. With my book on the bench." He had his arms folded so tightly that his knuckles were white. "And I'm three behind in my own lane, with a fighter on one leg. No. I'm not going to say it. I haven't the time."
 
-The knee was the size of a small loaf. The healer's boy had strapped it and told her that she could stand on it and should not, and gone away. Kiva held the post and tried her weight. It bore. It felt as if somebody had packed the joint with hot gravel.
+The knee was the size of a small loaf. The healer's boy had strapped it and told her that she could stand on it and should not, and gone away. Kiva held the post and tried her weight, and it bore, though it felt as if somebody had packed the joint with hot gravel.
 
 "I can plant," she said. "I can walk a few paces. I can't bound. I'm sorry, Jude. I mean it, and I know it isn't any use to you."
 
@@ -164,7 +164,7 @@ She had been waiting three weeks to feel that again. It was the Terrace. It was 
 
 Jude's blade was already going.
 
-It met a forearm. Brask had pushed with one hand, she saw, too late, and kept the other back, and he had been stepping away before the word was out of her mouth. His open palm turned the dark edge aside as a person turns a branch on a path.
+It met nothing. Brask had pushed with one hand, she saw, too late, and kept the other back, and he had been stepping away before the word was out of her mouth. His open palm went past the dark edge, as a person goes past a branch on a path, and came down flat on Jude's forearm behind it.
 
 "Half! Stonehand. On the arm."
 
@@ -288,7 +288,7 @@ Lowen Brask had bent, unhurried, and taken the foot poles in his two hands, and 
 
 Jude's blade came for his ribs.
 
-He had to take a hand off to turn it. "Half! Crooked Line." With one hand he could not hold both poles. The litter slewed, and Kiva and Pru dragged the head round like the hand of a clock. Jude came again, and stood between.
+He had to take a hand off the poles to meet it, and he met it late, with his wrist. "Half! Crooked Line." With one hand he could not hold both poles. The litter slewed, and Kiva and Pru dragged the head round like the hand of a clock. Jude came again, and stood between.
 
 Brask looked at the dark edge. He looked at the girl walking backward behind it, with her hands full and her leg dragging. One step would have put his palm on her. It would have put his own ribs on Jude's flat on the way.
 
@@ -308,9 +308,9 @@ The board turned over.
 
 ---
 
-They shook hands at the fifth posts.
+They shook hands at the fifth posts, and Kiva did it sitting on the brick.
 
-Kiva did it sitting on the brick. Hendry Moss shook her hand with great goodwill and told her that nobody had ever opened a door on him before. Keld took it briefly, looked at the knee, and said, "I told you I'd strap that." The boy with the ears wished to be assured that it had been allowed. Noa assured him.
+Hendry Moss shook her hand with great goodwill and told her that nobody had ever opened a door on him before. Keld took it briefly, looked at the knee, and said, "I told you I'd strap that." The boy with the ears wished to be assured that it had been allowed. Noa assured him.
 
 "Nine to eight," said Lowen Brask. "I'll have to take your lane card down from over my bed and put up a worse one."
 
@@ -326,7 +326,7 @@ He lowered himself to the brick beside her, quite naturally, as a man sits down 
 
 "But I've taught landings for six years, and I'll tell you what I saw, since nobody else in this building was looking at your shins." He held up a finger and thumb, a hair apart. "You'd nothing on them. The metal was home. You came down on one door, and it was the right one, and it was late by about that much. I've seen a great many people get that wrong. I've never seen anybody get it right and fall over."
 
-Kiva did not know what to say. Her knee was beating like a second heart.
+Kiva did not know what to say, and her knee was beating like a second heart.
 
 "Where was it meant to go?" he said. "The speed."
 
@@ -348,7 +348,7 @@ The referee had finished the card. She turned it on the table.
 
 Orla was waiting in the passage behind the lane, where the buckets were kept.
 
-She had sent Mara on to the tram. Kiva saw that and knew what it meant, and came down the passage on Anwen's arm, and then let go of the arm.
+She had sent Mara on to the tram, and Kiva, who saw that and knew what it meant, came down the passage on Anwen's arm, and then let go of the arm.
 
 "I'll be outside," said Anwen. She went.
 
@@ -370,7 +370,7 @@ Kiva had nothing to hold. She held the wall.
 
 "I know you are. You're a great deal sorrier than you were on your knees with that leg, and so you ought to be. I'm not finished." Orla breathed. "The yard's shut till the healer's seen that. And I'll tell you now, so you needn't wonder, that I've seen ten, and I wouldn't put my name to one of them."
 
-It was fair. That was the worst part. She would almost rather have been shouted at by somebody who was wrong.
+It was fair, and that was the worst part of it. She would almost rather have been shouted at by somebody who was wrong.
 
 "Now," said Orla. Her voice had changed. It had gone dry and exact, the voice of the crate. "You've paid for a lesson. I'll not have you go home without it. Your shins were bare. I saw. The order was right, for the first time in ten. So what did you do wrong?"
 
@@ -390,7 +390,7 @@ It was the question Brask had asked. She gave the same answer, and heard it this
 
 Kiva stood in the passage among the buckets.
 
-She had thought of it as a blow. She saw that now. From the first night on the line she had thought of the speed as a thing to hit with, a Stride made heavy, because that was what would have been wonderful.
+She had thought of it as a blow, and she saw that now. From the first night on the line she had thought of the speed as a thing to hit with, a Stride made heavy, because that was what would have been wonderful.
 
 It was not a blow. It was only weight, arriving. It had to be given somewhere to arrive.
 
@@ -400,9 +400,9 @@ It was not a blow. It was only weight, arriving. It had to be given somewhere to
 
 The healer at the school infirmary gave her a fortnight.
 
-"No landings," she said. She was a brisk woman, with her sleeves pinned back. "None. You may stand on it. You may walk on it, with the strapping. If you come down on that leg from any height before the second of next month, I shall hear of it, and I shall send the account to your sponsor."
+"No landings," she said. She was a stout, unhurried woman with ink on her cuff, who wrote the whole time she talked and never once looked at what she was writing. "None. You may stand on it. You may walk on it, with the strapping. If you come down on that leg from any height before the second of next month, I shall hear of it, and I shall send the account to your sponsor."
 
-"There's a Flask on the twenty-sixth."
+"There's a Flask on the twenty-ninth."
 
 "Are you the blade?"
 
@@ -414,7 +414,7 @@ So when the yard opened again on Monday night, with a new week's thimble of ash 
 
 "A step," she said. "One. Off the line. Struts for a single push, no higher than a curb and no longer than a pace. If you miss, you've taken a step. I'd like to see your healer make a bill out of that."
 
-Perrin Cade had come. He sat on the spare crate with a hand on his ribs, and he watched Kiva stand on the line and look at the cross. It was four paces off still. Nobody had moved it. It was only that she was not going there tonight.
+Perrin Cade had come, and he sat on the spare crate with a hand on his ribs and watched Kiva stand on the line and look at the cross. It was four paces off still, for nobody had moved it. It was only that she was not going there tonight.
 
 "Can I say a thing?" he said. "It's about falling. It's the only subject I'm any good at."
 
@@ -494,9 +494,9 @@ She stood with her hands on her knees while it cooled. She did not need to be to
 
 ---
 
-Between those two nights there had been the second floor.
+Between those two nights in the yard, on the Tuesday, there had been the second floor.
 
-They spent it on Tuesday, at four, on the Kennel's brick. It was the last thing but a sealed dram on Team Seven's page. Kiva had walked the floor, and set the borrowed sheet between the first tank and the second, and then she had stood up and said the thing she had been turning over since the lane.
+They spent it at four, on the Kennel's brick, and it was the last thing but a sealed dram on Team Seven's page. Kiva had walked the floor, and set the borrowed sheet between the first tank and the second, and then she had stood up and said the thing she had been turning over since the lane.
 
 "When I call dark, I want it from everybody. Not inside three paces. The whole floor. Nothing lit anywhere till I say sealed."
 
@@ -508,17 +508,13 @@ She read them the last column.
 
 *Why:* We stopped feeding him. Every point they had came off one of us moving. When nobody ran and nothing changed, he had nothing to hunt, and he had to come to us.
 
-"That's a man," said Anwen. "At the weir they kept the wall lit. Ten paces off, the whole way through."
+"That's a man," said Anwen. "At the weir they kept the wall lit. Ten paces off, the whole way through. And it's in your own book that Bettan says it likes a gate."
 
-"At the weir they had eight Home Line wards round the outside and a meadow. We'll have a floor and three teams of students." Kiva shut the book. "If nothing's lit, there's nothing for open ash to lean at. That's all I mean. It's the same thing. Give it nothing."
+"At the weir they had eight Home Line wards round the outside and a meadow. We'll have a floor and three teams of students." Kiva shut the book. "If nothing's lit, there's nothing for open ash to lean at. That's all I mean. It's the same thing. Give it nothing. And the string can have the lattice for its gate. That's what the one on the Sag did when we all went dark. It went and leaned on the hold like a cow."
 
-"The old woman said it likes a gate," said Perrin.
+Anwen did not answer that. She had asked, and been answered, and she wrote something short on her list. Nobody else could find the hole in it, and Kiva, who had looked, could not find one herself.
 
-"It can have the lattice. That's what the one on the Sag did when we all went dark. It went and leaned on the hold like a cow."
-
-Nobody could find the hole in it. Kiva could not find one herself, and she had looked.
-
-So they did it her way. The husk that came up out of the dark was a plain one, for once. Kellan cut it at the foot of Anwen's ward. *Dark,* said Kiva, and the ward went out, and there was not a lit thing on the settling floor from the yellow line to the gutter. Four people came to four corners. She had told Anwen beforehand that the cord's third turn was hers.
+So they did it her way. The husk that came up out of the dark was a plain one, for once, and Kellan cut it at the foot of Anwen's ward. *Dark,* said Kiva, and the ward went out, and there was not a lit thing on the settling floor from the yellow line to the gutter. Four people came to four corners. She had told Anwen beforehand that the cord's third turn was hers.
 
 "Yours on three. One. Two. Three."
 
@@ -526,7 +522,7 @@ So they did it her way. The husk that came up out of the dark was a plain one, f
 
 "Sealed. Forty-four."
 
-It was fourteen counts better than the first floor. It weighed twenty-three and six-tenths, and there was no hair-bright line in a grain of it.
+It was fourteen counts better than the first floor, and it weighed twenty-three and six-tenths, and there was no hair-bright line in a grain of it.
 
 "Forty-four," said Warden Druce. "Hm." He turned the bag's neck in his grey fingers. "Whole floor dark. Whose notion?"
 
@@ -544,4 +540,4 @@ It was fourteen counts better than the first floor. It weighed twenty-three and 
 
 She wrote that down too, on Tuesday night, under the forty-four.
 
-She did not underline it. She had a number that was fourteen counts better, and a reason that had won a lane, and a warden who had said *hm*. On Tuesday night that had seemed like most of an answer.
+She did not underline it. She had a number that was fourteen counts better, and a reason that had won a lane, and now a question from a warden who had said *hm*. She copied the question out fair on a fresh line, so that she could put it to a Home Line foreman on Thursday in the warden's words and not in her own.

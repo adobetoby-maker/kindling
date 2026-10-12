@@ -2,13 +2,13 @@
 
 Brickfields had dug its bricks out of one hole for two hundred years, and then, finding itself with a hole, had faced it with them.
 
-The Pit lay off the Brickfields road behind a wall of yellow brick, and Kiva came down into it on Thursday afternoon by the keeper's gate, one step at a time, with her knee strapped and the field book under her arm. It was an oval. Brick benches went up its sides in terraces, twelve deep, all the way round to the rim, where forty lamps stood on iron posts against the sky. The floor at the bottom was rammed cinder, seventy paces from north to south and forty across, and it was empty.
+The Pit lay off the Brickfields road behind a wall of yellow brick, and Kiva came down into it on Thursday afternoon by the keeper's gate, one step at a time, with her knee strapped and the field book under her arm. It was an oval, and brick benches went up its sides in terraces, twelve deep, all the way round to the rim, where forty lamps stood on iron posts against the sky. The floor at the bottom was rammed cinder, seventy paces from north to south and forty across, and it was empty.
 
-It was the largest floor she had ever stood on. She felt like a pea in a roasting tin.
+It was the largest floor she had ever stood on, and she felt like a pea in a roasting tin.
 
 "Fifth company," said Hollis Vane. "To me."
 
-He stood at the middle of it with his slate on its cord. The weathered face was as she remembered it. Bettan stood a little behind him with her arms folded. Sixteen candidates gathered in from the gate in four knots, and the four knots did not quite touch.
+He stood at the middle of it with his slate on its cord and the weathered face that she remembered from a berm on the Sag Line, and Bettan stood a little behind him with her arms folded. Sixteen candidates gathered in from the gate in four knots, and the four knots did not quite touch.
 
 Lowen Brask was there, in the grey coat. He had three people with him whom Kiva did not know: a lanky Crooked Line third-year with a sardonic mouth, a small stern girl in Wren House green, and a quiet boy carrying a catch roll. Team Thirty-Three had tinned in fifty-two on the Sag Line, and she knew their faces from the berm. Team Twelve she did not know at all.
 
@@ -20,11 +20,11 @@ It had been a brick kiln once, a great beehive of a thing, twice the height of a
 
 Kiva felt the thing behind the iron before she was within thirty paces of it. It was the flat of a hand on her neck, as at the weir, and it was pressing through a wall.
 
-"That's the lid," said Vane. "It's two hundred years old. The lattice behind it is younger and better, and it runs on current. If the current fails, the lattice fails, and the lid's all there is. So the lid's kept. It comes down in two minutes with four still-doors on the bars, or in ten with eight ordinary men." He nodded at a low brick shed built against the Kiln's flank. "Lattice house. Warden Tilling's. She opens the bottle as wide as she's told and no wider. On Wednesday she'll be told a Flask."
+"That's the lid," said Vane. "It's two hundred years old. The lattice behind it is younger and better, and it runs on current. If the current fails, the lattice fails, and the lid's all there is. So the lid's kept. It comes down in two minutes with four still-doors on the bars, or in ten with eight ordinary men." He nodded at a low brick shed built against the Kiln's flank. "Lattice house. Warden Sedge's. She opens the bottle as wide as she's told and no wider. On Wednesday she'll be told a Flask."
 
 "Has it ever let two through?" That was the lanky third-year.
 
-"Not in Tilling's time. Ask me a better question, Mr. Tolliver."
+"Not in the warden's time. Ask me a better question, Mr. Gower."
 
 "What happens if it does?"
 
@@ -34,15 +34,15 @@ Kiva felt the thing behind the iron before she was within thirty paces of it. It
 
 There was a line of iron gratings down the middle of the floor.
 
-Each was a pace wide, and they ran end to end, as straight as a ruled line, from the foot of the Kiln to the far wall. Kiva had crossed them twice already without looking. Now she stopped on one and looked down through the bars. There was a brick channel underneath, an arm deep. Along the bottom of it lay two bars of copper, each as thick as her wrist, dull and clean.
+Each was a pace wide, and they ran end to end, as straight as a ruled line, from the foot of the Kiln to the far wall. Kiva had crossed them twice already without looking, and now she stopped on one and looked down through the bars into a brick channel an arm deep, along the bottom of which lay two bars of copper, each as thick as her wrist, dull and clean.
 
-She knew them at once. She had seen them drawn, as one long black line.
+She knew them at once, for she had seen them drawn, as one long black line.
 
 "Keeper calls it the race," said Vane. "That's the Pit's branch. Everything in this hole that hums runs off those two bars. The lattice. The lamp ring. The board. The lifts."
 
 "Where are the cells?" said Kiva.
 
-She had not meant to ask it so quickly. Several people looked at her. Selka Dray's objection had been posted on the roster board for two days, and there was nobody in the fifth company who had not read it.
+She had not meant to ask it so quickly, and several people looked at her, for Selka Dray's objection had been posted on the roster board for two days, and there was nobody in the fifth company who had not read it.
 
 "That's the better question," said Vane. "Keeper."
 
@@ -54,17 +54,17 @@ An old man had come out from the east wall. He wore a Works coat gone green at t
 
 "That's a bus."
 
-She wrote it down. *Race = bus. No cells on the floor. Nearest cell: across the road.* It mattered. Her paper said three paces from any charged cell, and she had been ready to walk this whole floor measuring.
+She wrote it down. *Race = bus. No cells on the floor. Nearest cell: across the road.* It mattered, because her paper said three paces from any charged cell, and she had been ready to walk this whole floor measuring.
 
-The south wall had no benches. It went straight up, four times the height of a man, sheer yellow brick, with the road somewhere above it. At its foot the floor stopped at a trench.
+The south wall had no benches. It went straight up, four times the height of a man, sheer yellow brick, with the road somewhere above it, and at its foot the floor stopped at a trench.
 
-It was three paces wide. It ran the whole width of the south end, and it was a man and a half deep. The line of gratings ended at its lip. The two copper bars came out of the race there, bare, and ran down a brick ramp and across the bottom of the trench, and vanished into a round black mouth in the foot of the wall.
+It was three paces wide and a man and a half deep, and it ran the whole width of the south end. The line of gratings ended at its lip, where the two copper bars came out of the race, bare, and ran down a brick ramp and across the bottom of the trench, and vanished into a round black mouth in the foot of the wall.
 
 "Sump," said Dunmore. "Floor drains to it. And that's my link."
 
 Kiva looked up.
 
-On the wall beyond the trench, a little above the height of her head, an iron shelf was bolted to the brick. It was a grating, a pace deep and four long. Above the shelf two copper jaws stood out of the wall, each as long as a forearm, and a copper blade lay bedded between them. From the blade's hinge a lever came down along the wall, an iron bar as long as a man, with a crossbar at its end like the handle of a spade.
+On the wall beyond the trench, a little above the height of her head, an iron shelf was bolted to the brick, a grating a pace deep and four long. Above the shelf two copper jaws stood out of the wall, each as long as a forearm, and a copper blade lay bedded between them. From the blade's hinge a lever came down along the wall, an iron bar as long as a man, with a crossbar at its end like the handle of a spade.
 
 There was a spring behind it as thick as her leg.
 
@@ -92,11 +92,7 @@ There was a small iron door in the wall, behind the shelf.
 
 "He doesn't. That's the notion. There's no way onto that shelf but my door. So no lad off the floor can get at that lever in a temper and put the Kiln on its lid in the middle of a lane." The keeper sniffed. "They would, you know. I've met them. And he'd do himself no good if he did. It wants four hundredweight on it to bring it level for the pin. One good still-door with his boot on the shelf, or two big men."
 
-Kiva looked at the trench. It was three paces, with bare copper at the bottom. She looked at the shelf, one pace deep, with a wall behind it and two open copper jaws at the height of a person's chest.
-
-*Nobody could land on that,* she thought. It was an idle thought. She had a knee the size of a loaf and a paper that said *kneel.*
-
-She wrote: *S. link. Shelf across the sump. No way on but the keeper's door. Unlocked on Kiln days. Wants a still-door. 4 min round by road.* Then she went to set her mark.
+Kiva wrote it down as she wrote everything that a keeper said about his own branch, because Mara would ask her for it at supper and would want the figures: *S. link. Shelf across the sump. No way on but the keeper's door. Unlocked on Kiln days. Wants a still-door. 4 min round by road.* Then she went to set her mark.
 
 ---
 
@@ -118,13 +114,13 @@ It fell straight for most of the way. In the last hand's width it slid. She drop
 
 "It does that every morning till the sun's on the west terrace."
 
-"Then an open heap will want to creep south." She walked. She dropped a third pinch, and a fourth. She looked at the line of gratings in the middle of the floor, and at the east wall, where a cable in an iron pipe came down from the lamp ring to the keeper's glass case. "And I don't want it near the wall. That's the board's feeder. So the middle of this half. As far from the wall as from the race."
+"Then an open heap will want to creep south." She walked. She dropped a third pinch, and a fourth. She looked at the line of gratings in the middle of the floor, and at the brick foot of the east terrace, where the lowest bench overhung the cinder by the depth of a boot. "And I don't want it creeping where I can't get a hem round it. What goes down through a grating or in under a bench is swept, not tinned. So the middle of this half. As far from the terrace as from the race."
 
-She stood on it. It was ten paces from the gratings and ten from the terrace, and two paces south of his heel mark.
+She stood on it, ten paces from the gratings and ten from the terrace, and two paces south of his heel mark.
 
 "Here. Twenty-two from the lattice house. Sheet squared north and south."
 
-Vane chalked it. He did not say whether it was a good mark. He never had.
+Vane chalked it, and did not say whether it was a good mark. He never had.
 
 The sixteen of them sat on the lowest terrace afterward, in the thin sun, and for the first time the four knots became one.
 
@@ -132,17 +128,17 @@ The sixteen of them sat on the lowest terrace afterward, in the thin sun, and fo
 
 It was.
 
-"Then there's one thing I'd like said aloud before Wednesday. The count." He turned his shaved head. "Miss Rowan has a notion. I've an interest in it. I'd rather she put it."
+"Then there's one thing we ought to have out before Wednesday. The count." He turned his shaved head. "Miss Rowan has a notion. I've an interest in it. I'd rather she put it."
 
-Kiva had not expected that. She opened the book on her good knee.
+Kiva had not expected that, and she opened the book on her good knee to gain a moment.
 
 "Whole floor dark," she said. "During every count. Not three paces. Everyone. From *dark* until the catcher says *sealed.*"
 
-"The book says three," said Tolliver.
+"The book says three," said Gower.
 
 "The book said three on the Sag Line." She gave them the pump, and the forty paces. She gave them the cold air sliding south under her pinch of ash. Then she gave them the lane, because it was the best reason she had. "We were three behind on Saturday. Every point Stonehand had came off one of us moving. So we stopped. We gave them nothing to come at, and they had to come to us, and that's when it turned. Open ash leans at a pattern. If there's no pattern lit on the floor, there's nothing for it to lean at."
 
-"And the string?" said the stern girl in green. Her name was Merrin. "It's blind for a hundred counts. If the wall's dark, it's got nothing to stand against."
+"And the string?" said the stern girl in green. Her name was Edda. "It's blind for a hundred counts. If the wall's dark, it's got nothing to stand against."
 
 "It goes to the Kiln. It's the loudest thing here. The one on the Sag went and leaned on the hold."
 
@@ -168,19 +164,35 @@ Kiva's mouth was dry. A Home Line officer had said he would leave one. He had al
 
 "I'd have left the gate, a week ago," said Lowen Brask slowly. "I'd have said the Home Line's been doing this for five hundred years and I've been doing it for none." He rubbed the back of his neck. "Then four people stood still in a brick lane and took a point off me for every step I made toward them. I don't know that a string's a captain. But I know what it cost me to have nothing to hunt."
 
-"And if it doesn't go to the Kiln?" said Tolliver.
+"And if it doesn't go to the Kiln?" said Gower. He had not put his question to her. He had put it to the line of iron gratings, at which he had been looking for some time with his long arms round his knees. "There's the race. It's live from one end of this floor to the other, and it's a good deal handier than a kiln."
 
-"Where else is there?" said Kiva. "There isn't a cell on the floor. I asked."
+It was the thing that Kiva had been going to say against herself, and he had got there first. She turned the book back to the Sunday before last, and read it out as it stood.
 
-They put it to hands. Thirty-Three went with her, all four. Old Four went three to one, Tolliver against. Team Twelve looked at one another and would not say either way. On her own team Kellan's hand went up at once, and Perrin's after it. Anwen's came up last, and she wrote something on her list as it did.
+"*Rung five. Stopped on an iron plate in the grass, two to three counts, on its way to the wall. Bottom knot dragging,* and a question mark. There's a feeder under that meadow, to the weir's sluice motors. I don't know whether it was live. So it's half a reading, and it's against me." She looked along the terrace for an undyed canvas coat. "You saw it too."
+
+"I saw it," said Bettan.
+
+She did not hurry over it. She had the look of a woman who has been asked to swear to a thing and is deciding how much of it she can.
+
+"I've seen them stand on a tram rail. I've seen one stand on a drain cover in Ferren Street, and one on a dead ewe. They stand, and then they go on to whatever's lit, as that one went on to Mace's wall. I've knelt behind strings over more copper than is under this floor, and I never saw one take the least notice of a bar." She turned her dry gaze on the gratings. "There's no pattern in a bar. It's only a road for somebody else's. I'll swear to that much, and not to what I haven't seen."
+
+"Nor will I," said Vane. "But it's what I'd have told you."
+
+"A bus hasn't a tune of its own," said Kiva slowly. She was working it through aloud, as she would have done at a bench, and she wanted very much for somebody to stop her if it was wrong. "It only carries one. The tune's in the cells, and the cells are over the road; I asked. So on this floor there's the lattice, and there's us. If we're dark, where else is there?"
+
+Nobody stopped her. Two people who were paid to know had been asked, and had said honestly what they had seen.
+
+"Then I've no reason," said Gower. "I've only a dislike. I'd leave it what every crew leaves it, and I'll put my hand up for that and for nothing cleverer."
+
+They put it to hands. Thirty-Three went with her, all four. Old Four went three to one, Gower against. Team Twelve looked at one another and would not say either way. On her own team Kellan's hand went up at once, and Perrin's after it. Anwen's came up last, and she wrote something on her list as it did.
+
+Kiva read most things upside down. She could have read that from where she sat, two steps above it. She found that she did not wish to, and watched the foreman's chalk instead.
 
 "Company's call," said Vane.
 
 He wrote it, and turned the slate so that they could read it.
 
-*5th Co. No gate left lit during counts. Whole floor dark, catcher's word. Reason given: wind-borne foul at Sag Line; floor falls south; "nothing to lean at." Foreman would leave one. Not forbidden.*
-
-Bettan had not said a word all afternoon. She was looking at the floor. Kiva thought she was looking at the cinders.
+*5th Co. No gate left lit during counts. Whole floor dark, catcher's word. Reason given: wind-borne foul at Sag Line; floor falls south; "nothing to lean at." Race raised (Gower); answered, no pattern in a bar (Bettan; foreman agrees). Foreman would leave a gate. Not forbidden.*
 
 Up at the rim, where the reserves' rail ran above the keeper's gate, a figure with cropped red hair had been leaning on her elbows for an hour. She was too far away to have heard any of it. She had watched Kiva pace out a mark and stand on it, and then she had taken a pencil from behind her ear and written on a yellow card.
 
@@ -194,21 +206,11 @@ Kiva sat on the east terrace with the book and watched a Flask come out of the K
 
 "Is quick enough?"
 
-"It was for her." He watched the First Division girl back off with her hands open. "I'd like it noted that she asked her catcher. She's never asked anyone anything."
+"It was for her." He watched the First Division girl back off with her hands open. "And she asked her catcher, you'll notice. She's never asked anyone anything."
 
-The bags closed in fifty, in fifty-five. One team missed its mark by a single dram, forty-nine and not fifty, and sat on the terrace afterward without speaking. The mark was real. Kiva wrote that down as carefully as anything else.
+The bags closed in fifty, in fifty-five. And at every count, in both companies, a wall stayed lit. Monday's foremen were a Saltmere officer in green and a Halden man in black and gold, and under both of them, each time a catcher called *dark*, three student wards drew off ten paces down the floor and stood there burning, and each time the headless string swayed and turned and went to them and leaned.
 
-And at every count, in both companies, a wall stayed lit.
-
-She had been watching for it. Monday's foremen were a Saltmere officer in green and a Halden man in black and gold, and neither of them said a word about it that she could hear. But each time a catcher called *dark*, three student wards drew off ten paces down the floor and stood there burning, and each time the headless string swayed and turned and went to them and leaned.
-
-Not one company tried a dark floor.
-
-"It isn't in the book," said Kellan. "I looked on Thursday night. The book says three paces and stops."
-
-"I know it isn't."
-
-"I'm only saying I looked."
+Kiva watched the heaps while it did, because she was a catcher and could not help it. Twice she thought that she saw the grey lift a little along the hem that faced the wall, as a cat's fur lifts toward a hand. One of those two teams came out at forty-nine and not fifty, a single dram under its mark, and sat on the terrace afterward without speaking. The mark was real. She did not know that the gate had cost them their dram, and so she wrote down only that it had been lit, and how far off, and the forty-nine, one under another, and left the *why* column empty.
 
 On Tuesday morning the third company went in, and one of its teams was short an Ember. The boy had come down wrong in the high lane on Sunday and turned his ankle. The board put up a name in his place, with *res.* after it.
 
@@ -260,13 +262,13 @@ They both laughed. It did not last, and neither of them said the other thing.
 
 Mara had the trunk book shut for once, and her tool roll packed by the door.
 
-"I'll be over the road tomorrow," she said. "At the bank. Rusk wants the drums read on a day the Pit's drawing its full load, with the Kiln open. I'm to stand in the pump house from nine and write down what the baseline does." She set a plate in front of Kiva. "So I'll not be in a gallery. I want that understood. It isn't that I can't."
+"I'll be over the road tomorrow," she said. "At the bank. Rusk wants the drums read on a day the Pit's drawing its full load, with the Kiln open. I'm to stand in the pump house from nine and write down what the baseline does." She set a plate in front of Kiva. "So I'll not be in a gallery. Don't read that wrong. It isn't that I can't."
 
 "I know."
 
 "I could, I think. Now. I sat through the lane." She did not sit down herself. "I heard somebody laugh when you fell. I'd have liked to find him."
 
-Kiva ate. The knee was propped on the other chair. On the table between them lay the things she would carry in the morning: the book, two pencils, the strapping, and a sealed glass vial with the Circuit's stamp on its wax. A field dram. A whole one.
+Kiva ate, with the knee propped on the other chair. On the table between them lay the things she would carry in the morning: the book, two pencils, the strapping, and a sealed glass vial with the Circuit's stamp on its wax. A field dram. A whole one.
 
 "You settle that?" said Mara. "With no door declared?"
 
@@ -282,21 +284,15 @@ It was the question she had answered in Ysra Crest's office, to a red-haired gir
 
 "Then I say *off* three times and walk to the gate."
 
-Mara nodded slowly. She was looking at the vial.
+Mara nodded slowly, with her eyes on the vial.
 
-"There's a link on the south wall," she said. "I had the keeper show me on Tuesday. A sprung lever on a shelf, over an open sump." Her mouth was tight. "That's a hundred years out of date. If I'd the tuning of that branch, I'd have had it boxed and a second one put in at the Kiln end. I've written as much in the margin for Rusk." She took her hand from the chair back. "I don't suppose it's ever mattered. It's been pinned since before I was licensed."
+"That link on the south wall," she said. "I had the keeper take me through his door to it, a week ago today." Her mouth was tight. "It's a hundred years out of date. If I'd the tuning of that branch, I'd have had it boxed and a second one put in at the Kiln end, and I've written as much in the margin for Rusk." She made the small sound she made at bad wiring, and took her hand from the chair back. "Eat. You've an early tram."
 
-"He unlocks it on Kiln days."
+In her own room Kiva undressed by the window, where the three lines lay quiet under her collarbone, raised and pale, and she stretched them twice, as Aske had ordered. Then she took the cord off over her head and held the disk in her palm.
 
-"So he told me. And sits sixty paces off with the key." Mara made the small sound she made at bad wiring. "Eat. You've an early tram."
+It was cold. There was still grey Kennel ash in three of its nine grooves, from the worst afternoon of her life, and she had stopped trying to clean it out. She turned it over once, and felt nothing, and put the cord back on.
 
-In her own room Kiva undressed by the window. The three lines lay quiet under her collarbone, raised and pale. She stretched them, as Aske had ordered, twice.
-
-She took the cord off over her head and held the disk in her palm.
-
-It was cold. There was still grey Kennel ash in three of its nine grooves, from the worst afternoon of her life. She had stopped trying to clean it out. She turned it over once, and felt nothing, and put the cord back on.
-
-She was going to kneel tomorrow. She had fourteen misses in a book and a paper that said so. It was strange to find that she did not mind it tonight. She would set a mark and call a count, and four people would bring up four corners.
+She was going to kneel tomorrow. She had fourteen misses in a book and a paper that said so, and it was strange to find that she did not mind it tonight, when for a month she had minded very little else. She would set a mark and call a count, and four people would bring up four corners on her word.
 
 It was a good deal to be trusted with. A month ago, it would have been everything she wanted.
 
@@ -304,7 +300,7 @@ It was a good deal to be trusted with. A month ago, it would have been everythin
 
 The Pit held eleven hundred people, and on Wednesday morning it held all of them.
 
-The noise came down the terraces like water down steps. Kiva stood on the cinder at the keeper's gate with fifteen others and broke the wax on her vial. She tipped the grey into her left palm and closed her hand. The warmth went up her wrist and into her chest, and settled, and lay there whole.
+The noise came down the terraces like water down steps. Kiva stood on the cinder at the keeper's gate with fifteen others and broke the wax on her vial. She tipped the grey into her left palm and closed her hand, and the warmth went up her wrist and into her chest, and settled, and lay there whole.
 
 A Circuit clerk ticked her name. Up on the eastern rim, beside the great board, a sensing mast stood taller than any she had seen, with a wire cage at its top like a birdcage, and a glass drum at its foot with sixteen pens.
 
@@ -314,7 +310,7 @@ Noa Bexley saw her looking. He held up the letter, so that she could see the Cha
 
 She very nearly waved.
 
-Below the board, in the first row with a rail before it, sat Ysra Crest. Orla was next to her with the stick. They were not speaking. Along the rail at floor level stood the reserves with their yellow cards, and one of them had red hair.
+Below the board, in the first row with a rail before it, sat Ysra Crest, and Orla was next to her with the stick, and they were not speaking. Along the rail at floor level stood the reserves with their yellow cards, and one of them had red hair.
 
 And on the west side, at a gate of their own, stood ten people in slate blue.
 
@@ -348,7 +344,7 @@ Vane wrote. Then he raised his voice, not much, so that it reached the rail wher
 
 "For the slate. By condition of the Placement Chair, Team Seven's mark is set at twenty-two paces from the lattice house. I've walked it. I have the catcher's file, and I have found no cause." He turned to the next knot. "Old Four."
 
-The other twelve declared. Four wards came to the head of the sheet and stood in a row, with Anwen second from the left, where the middle was. Merrin stood at her shoulder. Kellan had gone already, round to the north, and Kiva could not see him.
+The other twelve declared. Four wards came to the head of the sheet and stood in a row, with Anwen second from the left, where the middle was. Edda stood at her shoulder. Kellan had gone already, round to the north, and Kiva could not see him.
 
 Up on the stone platform by the Kiln, four still-doors in Stonehand brown bent to the capstan bars.
 
