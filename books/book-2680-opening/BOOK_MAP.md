@@ -1,6 +1,7 @@
 # Kindling 2680 — Book One map
 
-Status: drafting map. Opening locks resolved 2026-10-08; prose run authorized.
+Status: **Book One complete and accepted 2026-10-12.** This map now describes the
+305,131-word prologue-plus-48-chapter novel.
 
 ## 1. Book promise
 

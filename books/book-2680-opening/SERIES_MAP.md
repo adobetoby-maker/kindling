@@ -1,6 +1,6 @@
 # Kindling 2680 — series map
 
-Status: planning silhouette. Only Book One is prepared to movement depth.
+Status: Book One complete and accepted; Books Two and Three remain horizon plans.
 
 ## Series promise
 
@@ -42,7 +42,7 @@ defend—and power—the rebuilt world.
 
 | Book | Primary promise | Irreversible ending change | Status |
 |---|---|---|---|
-| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place, learn to kill Riftspawn and recover ash with a team, survive a regional combat season, and answer a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and a second record confirms part of her dream without explaining it | `PLANNED` |
+| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place, learn to kill Riftspawn and recover ash with a team, survive a regional combat season, and answer a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and a second record confirms part of her dream without explaining it | `COMPLETE` |
 | **2 — title unset** | National school finals and professional recruitment widen the combat ladder while stronger, more varied spawn make every team's earned-ash economy urgent; industrial houses, company standings, school devotion, and interpretations of the Unroofed Sky conflict | A mixed-school cohort and professional team answer a national rift/grid event; independent Glory dreamers prove the vision is shared, the link between human and spawn escalation is exposed, and international convergence begins | `HORIZON` |
 | **3 — title unset** | International school and company circuits, Glory masters, industrial dynasties, monastic orders, national grids, and apex spawn collide as the Unroofed Sky approaches | The planetary filter is completely lost; pure Glory presence becomes the world's permanent condition; rivals survive the collision by beginning a shared next-ladder method rather than producing one absolute ruler | `HORIZON` |
 

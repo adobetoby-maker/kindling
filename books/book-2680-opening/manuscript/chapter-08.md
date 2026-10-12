@@ -316,7 +316,7 @@ She put the card in the tray for the draft board.
 
 Then she took a second, smaller card, and wrote on it only two words. She considered them for a while. Then she put that card in her own coat pocket, not in the tray, and turned off the projection table, and sat for a while longer in the dark.
 
-*Corran's disk.*
+*Corran's. Mine.*
 
 ---
 

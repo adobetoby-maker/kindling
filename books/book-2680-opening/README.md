@@ -1,8 +1,9 @@
-# Kindling 2680 opening-book prep
+# Kindling 2680 — Book One
 
-The historical prologue and Movement One (chapters 1–8) have been drafted; movement
-review is in progress. The opening begins with Kiva's 2676 Kindling, then jumps to her
-2680 collegiate season. Discipline-school combat, several connected chapters of
+The historical prologue and all six movements (chapters 1–48) are complete and accepted
+at 305,131 words after movement review, two whole-book reads, canon reconciliation, and
+targeted recheck. The opening begins with Kiva's 2676 Kindling, then jumps to her 2680
+collegiate season. Discipline-school combat, several connected chapters of
 Riftspawn-kill training, collegiate competition, professional rift companies, earned
 ash, ash induction, magic/ash blending, industrial Glory houses, and devoted school
 orders are core architecture rather than later additions.
@@ -20,9 +21,8 @@ next attempt rather than acting as automatic experience. Filter thinning raises 
 human potential and Riftspawn variety/strength, initially disguised as a gifted
 student generation and an unusually bad rift season.
 
-Start review with `IDEA.md`, then `SERIES_MAP.md`, `UNIVERSE_BIBLE.md`, and
-`BOOK_MAP.md`. `PROLOGUE_PLAN.md` holds the required scene-led bridge from the
-2080 EMP through fallout and rebuilding to 2680. `CHARACTERS.md` is the owner naming sheet; `STATE_LEDGER.md` lists
-the six locks required before a Movement One packet. The locally compiled Opus
-planning packet is `planning/OPUS-5.5-PLAN.prompt.md`; compiling it did not run a
-model.
+Read the novel in `manuscript/`, beginning with `prologue.md` and continuing through
+`chapter-48.md`. `STATE_LEDGER.md` and the six movement checkpoints preserve the accepted
+canon. The whole-book editorial, cold read, reconciliation, and final verification live in
+`editor/`. The recoverable pre-reconciliation edition is frozen in
+`editions/book-one-pre-whole-book-repair/`.

@@ -378,7 +378,7 @@ conditions and certificate as they were.
 Third draft card: *Flask, the Pit, the 29th. Company left no gate; string took the bus.
 Rowan opened the south link on two doors, one after the other. Nothing dropped between.
 About ten seconds. Then down. That is not what I saw on the plate. Still NOT for draft.
-Attach Seven to Graywater. I'll take the shift myself.* The "Corran's disk" card is not
+Attach Seven to Graywater. I'll take the shift myself.* The "Corran's. Mine." card is not
 mentioned in this movement after the repair; it stands as Movement Two left it, private.
 **She owns the ward slide in her own viewpoint** ("That was Rhea's, and she did not dress
 it") and walks to the stretcher after the last rung to say so; Stroud confirms it in the
@@ -563,10 +563,17 @@ phrase "a dirty spring" stands. Wren House has carded the reed and drawn no conc
 | Fri 1st | **Share credited: 9.6, Grade First, W full** | 0.0 | 0 | 9.6 | Yield 51.2: civic half 25.6; casualty reserve a quarter of the remainder 6.4; schools half of what is left 9.6; team 9.6. |
 | Sat 2nd | **Entry signed by all four** | 2.0 | 0 | 1.6 | See below. |
 
-Entry of the 2nd, as written in the team book: *Sealed, medical, W: 2.0. Returned, Wren
+Entry of the 2nd, as written in the team book: *Sealed, medical, W: 2.0, changed at par at
+the Wren House for plain ward-trace of the Sag Handful's reserve. Returned, Wren
 House infirmary, at par: 1.0. Purse sheet and poles: 3.0. Sanctioned practice, two-door,
 K. Rowan, on conditions: 2.0. Held, 0.4 a head: 1.6. Total 9.6.*
 
+- **The sealed 2.0 is not Pit ash** (whole-book reconciliation, 2026-10-12). The Pit's rung
+  graded *W, full. I, trace,* and Anwen will not seal "a thing that keeps time for somebody's
+  nerve." On her proposal two of the team's Pit drams go into the Wren House casualty stock
+  and two drams of the casualty reserve's quarter of the Sag Handful (2.6; Grade Second,
+  W-trace, no induction) come out at par under her seal. The total is unchanged. The first
+  sealed dram, also of the Sag Handful, was spent on Kiva's hand on the 29th.
 - The 1.0 to the infirmary is at Kiva's request, for Greta Stroud's hands, although her
   company will pay for her easing.
 - The 2.0 for the yard is Kellan's proposal: at 0.31 a go it buys **six goes, the number
@@ -615,7 +622,7 @@ K. Rowan, on conditions: 2.0. Held, 0.4 a head: 1.6. Total 9.6.*
 | T-0 entries | Now four in Kiva's keeping: 2446, 2604, 2676, and **the Pit, 2680, 10:24 and about forty seconds, lamp ring, branch isolated.** The 2446 copy has a margin note in a record hand retired about two hundred years ago, which a woman in the Compact Library's superseded stacks can read. Unread. Kiva means to ask her, alone first. **Noa does not know of the register entries** and has written "Find out what a T-0 is." |
 | Annick notebook | Still unseen by Kiva and unnamed. **Not pointed at in this movement after the repair**; Orla's knowledge stands as Movement One left it. |
 | Bearer line | Orla names a **bearer's book** at the Home Line hall; Vane is on its list; she has asked him. Vane found an earlier entry in the field-direction ledger. Contents unknown. |
-| Rhea's "Corran's disk" card | Private, as Movement Two left it. Not mentioned in this movement after the repair. She will supervise Team Seven's attached shift herself. |
+| Rhea's "Corran's. Mine." card | Private, as Movement Two left it. Not mentioned in this movement after the repair. She will supervise Team Seven's attached shift herself. |
 | Spawn season | Section 5. Kennel skins: two this month by the 10th. Wren House has a card reading W full, I trace. Halden is asking about the seventh reed. |
 | Cohort | Not advanced in this movement beyond the thirty-one teams and the accelerated calendar. |
 | Sag Line and trunk baselines | Mara is reconciling them for the board; cell nineteen up four hundredths in six years, "the same as mast six." |
@@ -682,7 +689,8 @@ gone further than intended:
     603); Kiva holds 87.55%. No viewpoint was added. **Scene sections average about 838
     words** (58 sections) against the ~950 proxy. **Chapter 22 is 3,961 words;** chapters
     22 and 23 are one continuous action and the break was kept where it is.
-16. **Movement length after the repair is 48,693 words** (`wc -w`; first draft 45,009),
+16. **Movement length after the repair is 48,693 words** (`wc -w`; first draft 45,009; 48,775
+    after the whole-book reconciliation of 2026-10-12, which added 82 words to chapter 24),
     inside the 45,000–50,000 working range. **Chapter 24 grew from 6,319 to 8,571 words**
     because most of the costs the brief asked to be paid between people are paid there.
     The owner may want it trimmed; see the repair report.

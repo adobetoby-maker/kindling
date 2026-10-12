@@ -306,7 +306,7 @@ There were feet on the stair. Kiva put both papers inside the field book, and sh
 
 "Nine and six-tenths," said Kellan, when the four of them were round the table and the team book was open between the cups. "Graded First. I've a list."
 
-"So have I," said Anwen. She set hers beside his. For once she looked at it. "Mine's short. Two drams sealed. Before anything. The same as last time, only twice, because we've seen what one's worth." Her eyes went to Kiva's left hand, lying on the table. "It stays ward. Nobody breathes on it."
+"So have I," said Anwen. She set hers beside his. For once she looked at it. "Mine's short. Two drams sealed. Before anything. The same as last time, only twice, because we've seen what one's worth." Her eyes went to Kiva's left hand, lying on the table. "And not this ash. I heard that seventh reed, and I'll not seal a thing that keeps time for somebody's nerve. The reserve's quarter of our own Sag Handful is still at the Wren House; I asked. Ward-trace and nothing else. Two of ours go into the casualty stock, and two of that come out to us, at par, on the book, where anybody can read it. It stays ward. Nobody breathes on it."
 
 Nobody argued, and Perrin wrote it down.
 
@@ -382,7 +382,7 @@ Kiva wrote them. She wrote them under the entry, in her own hand, as she had bee
 
 Kellan wrote the last line and turned the book.
 
-*Sealed, medical, W: 2.0. Returned, Wren House infirmary, at par: 1.0. Purse sheet and poles: 3.0. Sanctioned practice, two-door, K. Rowan, on conditions: 2.0. Held, 0.4 a head: 1.6. Total 9.6.*
+*Sealed, medical, W: 2.0, changed at par at the Wren House for plain ward-trace of the Sag Handful's reserve. Returned, Wren House infirmary, at par: 1.0. Purse sheet and poles: 3.0. Sanctioned practice, two-door, K. Rowan, on conditions: 2.0. Held, 0.4 a head: 1.6. Total 9.6.*
 
 They signed, and it took four names, as it always did.
 

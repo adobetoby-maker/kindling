@@ -52,7 +52,7 @@ She shut it again. It was not hers to ask for. It was the most plainly not hers 
 
 She had come up from the street when the last of the four was cut, with the wall still in her shoulders. She was grey with tiredness, and there was frost melting on her sleeve.
 
-"It's in the Low Lane. In the quench box, under my seal. I had it out of the press on Wednesday with the call drams, since a reserve is no use in a basement at midnight." She did not look at Kiva. She looked at Healer Aske. "It came off a husk on the Sag in the fifth month. Ward-trace. It's never had the hair. Is that what she wants?"
+"It's in the Low Lane. In the quench box, under my seal. I had it out of the press on Wednesday with the call drams, since a reserve is no use in a basement at midnight." She did not look at Kiva. She looked at Healer Aske. "It came off a husk on the Sag in the fourth month. Ward-trace. It's never had the hair. Is that what she wants?"
 
 "It's exactly what she wants," said Aske. "It's the first time that I've been glad you kept it." He laid Kiva's arm back in her lap, gently, like something returned. "It's no use for this. I've looked. This has been turned out, and it'll come back by itself or it won't. That hand at the pump house is only hungry. I can do something for hungry."
 

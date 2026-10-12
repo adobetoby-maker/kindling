@@ -61,6 +61,16 @@ week before last" was a week out. R3: "four-month mistake" in section 2. Item 19
 follows. The section 0 parenthesis about Noa's four-month mistake was also extended to identify
 that R3 correction. No other record fact was changed.
 
+**Whole-book reconciliation (2026-10-12), from `editor/WHOLE-BOOK-REPAIR-BRIEF.md`, five seams
+only.** In this movement's chapters: Rhea Sorn's culvert is "the spring of '57" and she has
+been glad of it "for twenty-three years" (chapter 44); the sealed reserve "came off a husk on
+the Sag in the fourth month" in Jude's mouth and in Anwen's (chapters 44 and 47), and it is
+plain because chapter 24 now shows it changed at par for the casualty reserve's Sag Handful;
+the School's plaster cast is "the width of a palm," the plate's own size (chapter 48); and the
+closing survey names the pump-fitter "though she did not yet know it," so that Hart's card
+stays private to Orla and Kiva still has not been told (chapter 48). Section 9, items 19 and
+20, follow. No other line of this file was changed.
+
 ## 1. Calendar
 
 Every month has thirty days. The tenth month begins on a Saturday.
@@ -688,7 +698,8 @@ further than intended:
 18. **Kellan's mother is given an initial** ("A. Renn"). **"A. Renn," Ansty, Lumb, Yeo, Ned,
     Garland and Bettony** are pending owner review, as are the pronouns in section 7.
 19. **Movement length is 51,677 words after the repair and the post-recheck corrections**
-    (`wc -w`; 50,866 in the first draft; 51,670 after the repair alone). Chapters run 5,297 to 7,264. Forty-four sections, about 1,174 words a section. The
+    (`wc -w`; 50,866 in the first draft; 51,670 after the repair alone; 51,684 after the
+    whole-book reconciliation, which added seven words to chapter 48). Chapters run 5,297 to 7,264. Forty-four sections, about 1,174 words a section. The
     viewpoint figures that follow are the first draft's and were not recounted. **Secondary viewpoint is 12.8%** by plain section
     word count (Mara 1,730; Anwen 1,294; Rhea 1,131; Kellan 1,035; Perrin 863; Orla 439; all
     established lenses); Kiva holds 87.2%. These are counts, not craft measurements. The
@@ -696,7 +707,8 @@ further than intended:
 20. Small facts taken from the checkpoints and not re-read in the manuscript should be checked:
     the layout of the Old Yard and the bottom yard against chapters 3, 9 and 19; that the
     School's core house has an iron door and no window; that Rhea Sorn was pulled from a culvert
-    in 2664; Stonehand's plate figures; Hendry Moss; the weir meadow's iron plate; the Reader's
+    in the spring of 2657, at nineteen (checked in the whole-book reconciliation; the first
+    draft's "autumn of '64" and "sixteen years" were wrong against chapters 8, 23 and 31); Stonehand's plate figures; Hendry Moss; the weir meadow's iron plate; the Reader's
     thirty-one years; that the fourth edition of the *Founders' History* has a plate of the
     rings; the district table's tear count of fourteen. Two
     small ambiguities are on the page: Vane says on the 10th that he "moved a thing" when the
