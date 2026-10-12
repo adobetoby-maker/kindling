@@ -14,7 +14,7 @@ It was not finished. Kiva saw that at once. The blue was still there, in the mid
 
 At the foot of the blue, seventy paces down, ten wards had a wall of silver across the street from curb to curb. A string was leaning on it.
 
-It was a small one. It had four knots, and it stood on end, as a string ought, with its blunt head against the gate. Rhea Sorn stood behind its legs with her blade arm down. Beside her was a long-legged young man who had thrown away a stick.
+It was a small one, of four knots, and it stood on end, as a string ought, with its blunt head against the gate. Rhea Sorn stood behind its legs with her blade arm down. Beside her was a long-legged young man who had thrown away a stick.
 
 There was a girl in the middle of the wall. Kiva could not see her face. She could hear her.
 
@@ -38,7 +38,7 @@ The boy called Ned brought the second himself. He did not know to whom it belong
 
 Kellan had come in from the street with his cuff unlaced and ash on one knee. He took the slip to the lamp. He read it, and Kiva saw his face change.
 
-"That's my mother's hand," he said. "She's at the pump house with her glass." He read it out. "*Mrs. Rowan's left hand is starved to the wrist. She stood between four-and-twenty fresh cells and held each off its neighbor. It is not burned. It wants plain ward-trace inside the hour or it will not come right for a month, and I should not care to promise the month. There is none at the Works. Every can in the store has had the hair in it since the thaw. I am told that you will know where there is some. A. Renn, grader.*"
+"That's my mother," he said. "She's at the pump house with her glass." He read it out. "*Mrs. Rowan's left hand is starved to the wrist. She stood between four-and-twenty fresh cells and held each off its neighbor. It is not burned. It wants plain ward-trace inside the hour or it will not come right for a month, and I should not care to promise the month. There is none at the Works. Every can in the store has had the hair in it since the thaw. I am told that you will know where there is some. A. Renn, grader.*"
 
 Nobody spoke.
 
@@ -60,11 +60,11 @@ She had come up from the street when the last of the four was cut, with the wall
 
 He was against the bottom wall, where he had been since the gate went down. Ruddock had his tunic up and was strapping him by lamplight.
 
-"Four signatures. To break a seal. I'm one, if somebody'll bring me the book; I'm told that I'm not to get up." He drew as much breath as the linen allowed. "I'd like it known that I'd have said yes before she'd finished the sentence. I only waited so that it'd be asked properly."
+"Four signatures. To break a seal. I'm one, if somebody'll bring me the book; I'm told I'm not to get up." He drew as much breath as the linen allowed. "I'd have said yes before she'd finished the sentence. I only waited so that it'd be asked properly."
 
 "I'm two," said Kellan. He had not put the slip down.
 
-"I'm not on the book," said Jude Talley. He had come in behind Kellan, heavy-footed, with his blade arm hanging. "I'm on the line by name. I said on Tuesday that I wondered what ash was for." He scratched his jaw with a grey thumb. "I've stopped wondering. If my name's wanted, it's there."
+"I'm not on the book," said Jude Talley. He had come in behind Kellan, heavy-footed, with his blade arm hanging. "I'm on the line by name. I said on Tuesday I wondered what ash was for." He scratched his jaw with a grey thumb. "I've stopped wondering. If my name's wanted, it's there."
 
 "Three," said Anwen. "That's mine."
 
@@ -74,11 +74,11 @@ It was a strange thing to be the fourth. She had thought, for one breath, that s
 
 *That's a shine,* she thought. *That's wanting to be seen not to take it.*
 
-"I'm four," she said. "I'd have asked. I'm glad that I wasn't the one who did."
+"I'm four," she said. "I'd have asked. I'm glad I wasn't the one who did."
 
 "I know," said Anwen. "I looked."
 
-They did it on the lid of the Low Lane's quench box, as they had signed six hours before. Kellan held the lamp. Anwen broke the wax with her thumbnail, and read the entry as she wrote it.
+They did it on the lid of the Low Lane's quench box, as they had signed not eight hours before. Kellan held the lamp. Anwen broke the wax with her thumbnail, and read the entry as she wrote it.
 
 "*Thursday the 6th, twenty minutes to one in the morning. Sealed medical reserve, W, 2.0. Opened by four. For: the reading hand of M. Rowan, operator, Grade Two, the Municipal Works, starved in taking the Ferren bank out of step. On the word of a grader and by the hand of Healer Aske. Medical.*" She looked up. "How much?"
 
@@ -132,7 +132,7 @@ Mara did not say anything. She looked at it for as long as she might have looked
 
 "I said in this room an hour ago that I should like somebody to tell me," she said at last. "I find that I'd sooner have gone on not knowing until morning. That's not to my credit." She moved her right hand. "You'd better see mine. I'm told that we're to be a pair."
 
-It was white to the wrist. It lay on her work skirt, pale and neat.
+It was white to the wrist, and it lay on her work skirt, pale and neat.
 
 "I held them apart," said Mara. "Four-and-twenty. I gave the odd ones to Rusk at the eighteenth, when I couldn't feel the iron. I thought of you as I said it. I thought, that's what the child's been at since the Pit, and I've been telling her that she does it very nicely."
 
@@ -162,7 +162,7 @@ She flexed it. She laid it, very carefully, palm down, on the keeper's desk, and
 
 Then she opened them, and looked at her niece's arm, hanging.
 
-"We've three hands between us that report," said Mara. "I make it three and a bit."
+"We've two hands between us that report," said Mara. "I make it two and a bit."
 
 "I've got the bit."
 
@@ -174,7 +174,9 @@ It was a book. Old Lumb fetched it, from a press behind the pumps that held thre
 
 "I went looking for a night when all four-and-twenty did something together," said Mara. "I thought there might have been one. There's a line in your own book, in the left column, that you've carried since the spring. *T-0.* Four of them. One's 2604."
 
-She opened the calf at a straw.
+She did not open it at once. She waited until the old man had gone back to his sump and his notched stick. Aske had carried the tin to the lamp by the door, to put what was left of it under wax again, and Kellan's mother had gone with him to witness the weight. There were three pumps going between the keeper's desk and anybody else in that room.
+
+She opened the calf at a straw, and she kept her voice under the pumps.
 
 It was a keeper's hand, round and careful, in ink gone brown. Kiva read it by the desk lamp.
 
@@ -192,13 +194,13 @@ She was aware of her own breathing. There were three pumps going in the room, an
 
 "You know it."
 
-"I read a page in the Library, in the sixth month. I'm not to copy it. I'm allowed to have read it." She kept her eyes on the brown ink. "There's a phrase. *The sky unroofed.* That was a Master of an Order, in a house on a hill, a hundred and sixty years before this. She'd no notes. She said that it was paying attention." Her mouth was dry. "*Were looking.*"
+"I read a page in the Library, in the sixth month. I'm not to copy it. I'm allowed to have read it." She kept her eyes on the brown ink. "There's a phrase. *The sky unroofed.* That was a Master of an Order, in a house on a hill, long before this. The page had no date. She'd no notes. She said that it was paying attention." Her mouth was dry. "*Were looking.*"
 
 "And you."
 
 "I'm not on a page that you can open. You sealed yours."
 
-"So I did. I'm rather glad of it tonight." Mara turned the book a little, so that the lamp fell square. "Then here's what I have, and it isn't much. A woman who could hold a ward over a flood wall for nine days. A pump keeper with a temperature. They're a century and a half apart. Neither had heard of the other; he'd no more have seen an Order's papers than he'd have dined with the Chair. And they've both written down that there was no roof."
+"So I did. I'm rather glad of it tonight." Mara turned the book a little, so that the lamp fell square. "Then here's what I have, and it isn't much. A woman who could hold a ward over a flood wall for nine days. A pump keeper with a temperature. They're lifetimes apart. Neither had heard of the other; he'd no more have seen an Order's papers than he'd have dined with the Chair. And they've both written down that there was no roof."
 
 "And every lamp."
 
@@ -208,6 +210,10 @@ She was aware of her own breathing. There were three pumps going in the room, an
 
 "That it isn't you." Mara looked at her. "I've thought since you were thirteen that you'd been singled out for something, and I've hated whatever did the singling. It's older than you. It's wider. It was in a pump house in 2604, with a man who kept a tidy book." She laid her newly eased hand on the cover. "I find that a great comfort, and I can't altogether say why."
 
+The old keeper had come back along the row for his book. She gave it to him shut, with the straw in it.
+
+"That page is to be kept, Mr. Lumb," she said, in her ordinary voice. "A keeper with a fever, on a night in your fault column, who wrote that all his needles stood up together."
+
 "There'll be others," said Lumb.
 
 They looked at him. He was not a man who had expected to be looked at.
@@ -216,19 +222,19 @@ They looked at him. He was not a man who had expected to be looked at.
 
 "That's the second sensible thing that you've said tonight, Mr. Lumb," said Mara. "The first was five-and-twenty minutes."
 
-There was a man standing by the wall of needles. He had been there the whole time, with his hat in his hand, and he had taken care to be in nobody's road.
+There was a man coming down the room from the far end of the wall of needles. He had stood there the whole time, out of hearing of the desk, with his hat in his hand, and he had taken care to be in nobody's road.
 
 "I should like to add one line," said Mr. Adlam. "Under my own name, as before. I was watching that bank when the word *back* came through." He nodded at the row. "It had been quenched for five minutes. There was nothing in a single can. And four-and-twenty needles lifted off their pins, together, by a hair, and lay down again."
 
 "T-0," said Kiva.
 
-"I've learned what you call it. I've no better name." He turned his hat. "Mr. Bexley tells me, by a note that came down with the healer, that his pen moved five minutes earlier. I had always taken those for one event. So had he. It appears that we have each been second to a mistake." He smiled, quite pleasantly. "I find that I prefer it to being first to a certainty. I shall write to him in the morning."
+"I've learned what you call it. I've no better name." He turned his hat. "Mr. Bexley tells me, by a note that came down with the healer, that his pen moved five minutes earlier. I had always taken those for one event. So had he. It appears that we have each been second to a mistake." He smiled, quite pleasantly. "I prefer it, on the whole, to being first to a certainty. I shall write to him in the morning."
 
 ---
 
 Hollis Vane read his slate at five on Thursday, standing in the black gateway, since there were people on that hill whose street it had been.
 
-They had come back. Sixty-two households stood on the wet setts of Stopgate in the last of the light, with their coats on, and looked at a road that had a pale thin stripe down the crown of it, seventy paces long, like the mark that a tub leaves on a floor. The planks were still down. The oak of the gate had split with frost on either hand.
+They had come back. The people of the hill's sixty-two houses stood on the wet setts of Stopgate in the last of the light, with their coats on, and looked at a road that had a pale thin stripe down the crown of it, seventy paces long, like the mark that a tub leaves on a floor. The planks were still down. The oak of the gate had split with frost on either hand.
 
 Kiva stood by the low wall. Aske had put the arm in a sling, more to keep it from being knocked than for any good that it would do.
 
@@ -236,7 +242,7 @@ Kiva stood by the low wall. Aske had put the arm in a sling, more to keep it fro
 
 He turned the slate to the light.
 
-"*Lives: none lost. Carried: sixty-two houses, fourteen by litter, and a school. Hurt: K. Rowan, catcher, the left arm; see the direction. M. Rowan, operator, the reading hand, starved; eased inside the hour. Cade, carry, two ribs sprung and not broken. Works: the School's core put down by its keeper and raised again at noon. The Stopgate sluice shut, the first time in the Works' memory, and opened at first light. The Ferren bank quenched and filled on four-and-twenty counts; it is out. The pumps stood six-and-twenty minutes. Eight cellars in the Hythe, a hand of water.*"
+"*Lives: none lost. Carried: sixty-two houses, fourteen by litter, and a school; the last of the top stretch down by the curb, behind a walking wall, when the gate was taken. Hurt: K. Rowan, catcher, the left arm; see the direction. M. Rowan, operator, the reading hand, starved; eased inside the hour. Cade, carry, two ribs sprung and not broken. Works: the School's core put down by its keeper and raised again at noon. The Stopgate sluice shut, the first time in the Works' memory, and opened at first light. The Ferren bank quenched and filled on four-and-twenty counts; it is out. The pumps stood six-and-twenty minutes. Eight cellars in the Hythe, a hand of water.*"
 
 "Eight," said somebody on the hill.
 
@@ -250,15 +256,15 @@ He turned the slate over.
 
 "One." He read it flatly. "*The one hole on the hill that could not be planked was left open, with a boy in it, to clear a gate. The thing went to it. The reason for leaving it was good, and I'd give the same order tomorrow. The remark is the event's.*" He hung the slate on his belt. "I'd sooner say that to your faces than have you read it on a table."
 
-Then he did what he had done on the cinders of the Pit.
+Then he did what he had done on the cinders of the Pit, and shared the pot the Line's way, in the Pit's own parts, ground first. Half of it went into that hill's boxes and the Hythe's the same night.
 
-"The pot. It was a response, and it's shared the Line's way. Ground first. The civic half's ninety-six, and it goes into this hill's boxes and the Hythe's, tonight, before anybody's else. Casualty reserve, four-and-twenty. Schools, six-and-thirty. Teams, six-and-thirty." He looked along the fours. "Four of you stood it under your officers. That's nine drams to a team. The Halden four cut two of those knots and caught one, and draws the same as Twenty-Eight, whose blade called a count from a chair."
+"Four of you stood it under your officers," he said. He looked along the fours. "That's nine drams to a team. The Halden four cut two of those knots and caught one, and draws the same as Twenty-Eight, whose blade called a count from a chair."
 
 "The Halden Works does not object," said Mr. Adlam.
 
 "I'd have been astonished," said Foreman Birch, beside him. "And he tells me that he's given up being astonished."
 
-The red row stood along the foot of the wall. There were twelve bags in it. Each had a tag, in a catcher's hand, and Kiva could read the nearest from where she stood. It was round, and careful, and it had been written slowly.
+The red row stood along the foot of the wall, twelve bags of it. Each had a tag, in a catcher's hand, and Kiva could read the nearest from where she stood. It was round, and careful, and it had been written slowly.
 
 *Red. Stepped. On a catcher's word and a comb. P. Finch.*
 
@@ -266,7 +272,7 @@ The red row stood along the foot of the wall. There were twelve bags in it. Each
 
 He had come to stand at the low wall. He had a roll of cord under his arm.
 
-"Not at the bag. The bag was forty-eight, off a Fire's cut, over a planked grating in the dark, with a warden for a corner. I've had worse off my own line." He looked at the tag. "It was the pencil. She said that she'd never put her name on anything that might stop a thing. I said, well, now you have, and you'll find that it stays put."
+"Not at the bag. The bag was forty-eight, off a Fire's cut, over a planked grating in the dark, with a warden for a corner. I've had worse off my own line." He looked at the tag. "It was the pencil. She said she'd never put her name on anything that might stop a thing. I said, well, now you have, and you'll find that it stays put."
 
 "She told Kellan *not yet.*"
 
@@ -283,6 +289,14 @@ Anwen looked across the gateway then. She did not smile. She lifted her chin a q
 *I've told her,* that meant. *It's hers now, and I'm done carrying it about.*
 
 ---
+
+There were four days of it first, and they were made of small things.
+
+She could not cut bread. A loaf wants one hand to hold it, and on Thursday she chased one the length of the kitchen table with the knife before Mara took it from her, without remark, and cut six slices to last the day. She could not lace a boot. She did the right one with one hand and her teeth, badly, and held the left foot out to her aunt like a child of four. The coat would not go on over the sling unless somebody held the left sleeve open like the mouth of a sack.
+
+The arm had weight, which she had not expected. It hung from her shoulder and swung into doorposts as she passed, and she did not know that it had struck one until she heard the knock. On Thursday night she woke lying on it. She had to lift it out from under herself with the other hand, as one moves a thing that belongs to somebody else.
+
+She could not hold a page down to write on. Pru's finger had done that once, on the lid of a quench box. At home it was the brass weight off the counter, and she found that she minded the weight a good deal more than she had minded the finger.
 
 The elbow came back on Friday.
 
@@ -370,11 +384,11 @@ He blotted it. He did not shut the ledger.
 
 ---
 
-Noa had three columns by Saturday, and he brought them to the Rowan kitchen table as another boy might have brought a kitten.
+Noa had brought his three columns before the sling came off. It was Saturday the 8th, two days after the slate was read, and he carried them to the Rowan kitchen table as another boy might have brought a kitten.
 
-"I'm not saying it's a reason," he said. He said it before he had sat down. "I want that understood. I've been wrong since the sixth month about two things that I'd added together, and I'd as soon not do it again with three."
+"I'm not saying it's a reason," he said. He said it before he had sat down. "I've been wrong since the sixth month about two things that I'd added together, and I'd as soon not do it again with three."
 
-He unrolled a sheet. It was ruled in his small square hand.
+He unrolled a sheet. It was ruled in his small square hand. Kiva put out her left hand to hold the curling corner for him, as she had held a plan on wet setts, and the arm only stirred in its sling. The elbow knew that there was a table. Below the elbow there was only something that she could see. Mara set the brass weight on the corner and did not look at either of them.
 
 The first column was people. *Median Hold, the class of 2680: 6.1, against forty years at 5.3 to 5.5. Fire readings at seventeen: three. Stonehand's plate: 340 for thirty-one years; 350, 355, 362, 380, since the thaw.* There were eleven lines of it.
 
@@ -408,7 +422,7 @@ It was a short column. *The harbour bank at Saltmere: thirty-six cells. In step 
 
 "Its reader has one hand, on a card, until the eleventh month," said Mara. "I told her so. I said that I'd write it down."
 
-She had. Kiva had seen it on the dresser, eleven sheets, in the small exact print. *How the Ferren bank was taken out of step, with what was got wrong first.* It had seven columns. The last was the widest.
+She had begun. Kiva had seen the first sheets of it on the dresser, in the small exact print. *How the Ferren bank was taken out of step, with what was got wrong first.* It had seven columns. The last was the widest.
 
 "She says that she'll ask again in the spring," said Noa. "She says that there's a Measure down there in the third month, and that half of Meridian seems likely to be at it."
 
@@ -418,7 +432,7 @@ He put the roll under his arm, and stood.
 
 "What?"
 
-"*Not one thing.*" He went a little red. "It isn't much. It's only that I had to cross out a six-month mistake to write it, and I left the mistake in, with a line through, so that whoever reads it next can see where I'd been."
+"*Not one thing.*" He went a little red. "It isn't much. It's only that I had to cross out a four-month mistake to write it, and I left the mistake in, with a line through, so that whoever reads it next can see where I'd been."
 
 He went down the shop stair.
 

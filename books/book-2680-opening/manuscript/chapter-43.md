@@ -2,7 +2,7 @@
 
 The Halden Works lent its license yard on Sunday afternoon, and Foreman Birch made it very plain whose yard it was.
 
-"My slate," he said, at the rail. "My ward line. My string, that I've had in that cage since the eighth month, and I know its temper. The Municipal Works has asked for a floor that keeps step, and there's only the one in Meridian with a rift on it. It's got it. Nobody lights so much as a pipe on that brick until I've said."
+"My slate," he said, at the rail. "My ward line. My string, that I've had in that cage since the thaw, and I know its temper. The Municipal Works has asked for a floor that keeps step, and there's only the one in Meridian with a rift on it. It's got it. Nobody lights so much as a pipe on that brick until I've said."
 
 It was a bigger floor than the Kennel's. It was paved in blue brick, with a lattice house at the north end and a paid ward line in black standing easy along the wall. Kiva had not been inside the refinery gate before. She had counted the rivets on the way under it, since somebody had once told her the number, and had lost count at two hundred.
 
@@ -42,11 +42,11 @@ She read it out.
 
 "*That the water moves because the pumps move it. Stop the pumps and the main lies still. Then a bank may be quenched and filled fresh, and it will keep the time that it is given.*"
 
-"That's the plan," said Rusk. "That's the whole of the plan, if the fence fails. I stop my three pumps for as long as the sump will bear, and I put every hand in the Works on that bank at once. I'd want half an hour."
+"That's the plan," said Rusk. "That's the whole of the plan, if the fence fails. I stop my three pumps for as long as the sump will bear, and I put every hand in the Works on that bank at once, one to a cell. That brings my four hours down to half of one."
 
 "It's a good plan. I'd have drawn it myself." Mara put the half sheet down on the bench, under the brass weight that she had brought from her own counter. "I'd like to see it work once in a box before I trust a district to it. And Officer Vane wants to know what a string makes of a floor like this one. Mr. Birch has been kind enough to say that we may ask it."
 
-"I said that you might ask," said Birch. "I didn't say it'd answer politely."
+"I said you might ask," said Birch. "I didn't say it'd answer politely."
 
 There were a good many people along the rail. The Placement Chair had come, since there were students on a floor with a rift at one end of it, and she stood by the gate with her hands folded. Hollis Vane was there with his slate. Rhea Sorn had brought Pike, and Greta Stroud, and Ruddock with his bag, and nobody else.
 
@@ -238,7 +238,7 @@ He had let go already. He was not a fool. The boat-hook hung in the air for a mo
 
 The fitter stood looking at his glove. The palm of it had gone stiff, and cracked when he bent it.
 
-"That's my left," he said. "I'd like it noted that I'm right-handed."
+"That's my left," he said. "And me right-handed, if anybody's writing."
 
 "It's noted," said Perrin, with feeling, from the wall.
 
@@ -460,7 +460,7 @@ Beside it, in pencil, in a very small hand, somebody had written a line. *Retire
 
 "A riddle. So the committee said. It's in the minutes." The Reader turned back a leaf. "Now read me the other six columns."
 
-Kiva read them. *What:* nine posts in two rows. *How:* run dark, on a count. *Went wrong:* a collision at the ninth. *Cost.* *Second try.* It was all there, tidy and complete.
+Kiva read them. The first was only the lane's name, and where it lay. *What:* nine posts in two rows. *How:* run dark, on a count. *Went wrong:* a collision at the ninth. *Cost.* *Second try.* It was all there, tidy and complete.
 
 "It says posts," she said slowly. "*The lane with the crooked posts.* There's only the one."
 
@@ -493,6 +493,8 @@ It was a single sheet, soft as cloth, ruled in seven columns. She bent over it f
 "*Went wrong: ran it straight and silent, and met the ninth. Also: two came to the bar, and nobody had said which two.*
 
 "*Cost: a collarbone. A cellar in the Hythe, the night that nobody had said.*
+
+"*Second try: called it, and said which two. Shut in nine turns.*
 
 "*Why: because the road isn't straight. S.V.*"
 
@@ -530,7 +532,7 @@ The Chair's clerk had the paper. He broke the wax in front of Rusk and gave it t
 
 Rusk read it aloud. He read it in a flat voice, to the wardens, and the fitters, and a pleasant man in a black coat who had taken off his hat.
 
-"*If it is the drain: drum twenty-eight, on Monday the third of next month, with two dry drums between.*" He folded it along its crease. "It's the third. That's twenty-eight. Those are two dry drums." He looked down the street, at six hundred dim brown windows. "I've had six hundred families on boxes for five days, in the wet, to learn that I was wrong. I said that I'd carry that. I find that it's heavier than it looked on Wednesday."
+"*If it is the drain: drum twenty-eight, on Monday the third of next month, with two dry drums between.*" He folded it along its crease. "It's the third. That's twenty-eight. Those are two dry drums." He looked down the street, at the dim brown windows of the middle stretch. "I've had six hundred families on boxes for five days, in the wet, to learn that I was wrong. I said that I'd carry that. It's heavier than it looked on Wednesday."
 
 "A sixth time," said Mr. Adlam. He said it very quietly. "I shall have to write to the technical office that there is a thing which its patent does not describe. They will not like it. I rather think that I do."
 

@@ -393,8 +393,12 @@ what the prose shows is entered here.
 
 ## Movement Six carried state (chapters 41–48) — end of Book One
 
-Recorded 2026-10-12 from the first draft, by its author, directly after the run. **First
-draft, unreviewed:** no editorial review, cold read, measurement, repair or recheck exists.
+Recorded 2026-10-12 from the first draft, by its author, directly after the run, and
+reconciled the same day to the one consolidated same-author repair, only where the repaired
+prose made a line here false. **Repaired and targeted-rechecked; accepted as the Movement Six
+handoff.** An informed editorial review and a simulated cold read exist for the first draft;
+all three repair priorities passed, and the three required micro-corrections passed their
+focused addendum.
 The manuscript governs; full detail is in `provenance/MOVEMENT-006-CONTINUITY.md`. Only what
 the prose shows is entered here.
 
@@ -415,10 +419,11 @@ the prose shows is entered here.
   (*because the road isn't straight. S.V.*) until 2603 and lost the method; the Home Line's
   lane sheet kept the method (*Call the turn before the eighth, aloud, and say who has the
   bar. Two to the bar*). The street below the School is called Stopgate. The tenth edition
-  restores all seven columns, with two lines of Kiva's in the fifth and sixth.
+  restores all seven columns, with two lines of Kiva's in the fourth (*Went wrong*) and the sixth (*Second try*).
 - **The string of the 5th.** A tear lying in the crown of Stopgate over the breathing main; a
   string "laid on its side," knots abreast eight paces apart, every knot reading, a new knot
-  rising at the uphill end as the tear ran on (twelve rose; two were cut early; ten stood). It
+  rising at the uphill end as the tear ran on, at the drain's own pace uncut and at once when
+  a knot was cut (twelve rose; two were cut early; ten stood). It
   ignored a lit gate and turned to lit cell boxes. Where the drain dives at the School's gate
   it stopped and put an arm twenty-three paces along the wall into the open sluice shaft, and
   with the arm in the water it pumped the main. It has no name and no yield class on the page.
@@ -433,7 +438,8 @@ the prose shows is entered here.
   from the Wren House reference shelf and tuned to its own count, and restarted three pumps on
   three counts. **The Ferren bank is out of step.** The pumps stood twenty-six minutes; eight
   cellars in the Hythe took a hand of water. Nobody died. Sixty-two houses and the School were
-  cleared; the School's core was put down by its keeper and raised the next noon.
+  cleared, the last of the top stretch down by the curb behind a walking wall once the gate
+  was taken; the School's core was put down by its keeper and raised the next noon.
 - **What remains.** Seven drums (19, 20, 21, 25–28) are still in step, each alone on an open
   link, to be done one a day. Drum twenty-nine was fouled by about thirty drams through a
   split plank; four streets are on boxes about a month. Saltmere's harbour bank (thirty-six
@@ -466,7 +472,10 @@ the prose shows is entered here.
 - **The dream.** No recurrence. A second, independent account: the Ferren pump house keeper's
   book for 2604 records a three-night fever and a dream that "the roof was off the house and
   there was nothing over it," with all twenty-four needles "looking," on a night when the
-  levee lamps went out with no fault. It gives no cause, meaning or use.
+  levee lamps went out with no fault. It gives no cause, meaning or use. Mara and Kiva set it
+  beside Kiva's own dream and the Annick phrase only under the noise of the pumps: Lumb, Healer
+  Aske, Kellan's mother and Mr. Adlam were out of earshot and do not know that Kiva has
+  dreamed. No date is given to Annick's page.
 - **Instrument evidence.** On the 5th the notch on Kiva's pen came eleven seconds after her
   second cliff, and the lamps (every box-lit window on the hill and in the School, and
   twenty-four quenched needles at the pump house) jumped about five minutes later, when the

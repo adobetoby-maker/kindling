@@ -122,7 +122,7 @@ Mara went to drum twenty-two on Tuesday evening, since it was twenty-two's turn,
 
 "You did. I've had them in my head all day, like a tune."
 
-A drum house was not much to look at. Kiva had walked past a hundred of them without seeing one. It was a brick hut no bigger than a coal store, set back from the road behind an iron rail, with a slate roof and a green door and a number on the lintel. Inside was one drum, taller than a man, that fed three or four streets. There was a needle under glass on its face.
+A drum house was not much to look at, and Kiva had walked past a hundred of them without seeing one. It was a brick hut no bigger than a coal store, set back from the road behind an iron rail, with a slate roof and a green door and a number on the lintel. Inside was one drum, taller than a man, that fed three or four streets. There was a needle under glass on its face.
 
 Twenty-two stood on the Kiln loop. The copper left the Brickfields road at the gasworks corner, after the twenty-first drum, and went east in a long bend round the old brick kilns and the rows of small houses that had been built for the kiln hands. It came back to the road a mile farther on. Mara had explained that on the tram, with her finger on the plan.
 
@@ -148,7 +148,7 @@ At twenty minutes to nine somebody came round the bend of the loop on a Works bi
 
 It was twelve minutes to the foot of Stopgate, going quickly.
 
-Kiva knew the street. Everybody at the Crooked Line knew it. It was the long hill that climbed from the Brickfields road to the bottom wall of the school, straight as a rule, with a tram line up the middle and tall narrow houses on both sides. She had gone up it every morning for six months. She had never once wondered why it was called that.
+Kiva knew the street, as everybody at the Crooked Line knew it. It was the long hill that climbed from the Brickfields road to the bottom wall of the school, straight as a rule, with a tram line up the middle and tall narrow houses on both sides. She had gone up it every morning for six months. She had never once wondered why it was called that.
 
 There was a small crowd at the rail of the twenty-fifth drum house. A woman with a warden's handbell stood at the open door with her arms folded.
 
@@ -234,7 +234,7 @@ The wardens of Stopgate had the right. There were eleven of them. The School had
 
 Rhea Sorn and Hollis Vane sat together at the far end, which Kiva had not seen before.
 
-She was not at the table. She was on the wall bench, behind Mara, with the books on her knee. She was there to hand up a volume when it was asked for, and she had been told so.
+She was not at the table. She was on the wall bench, behind Mara, with the books on her knee, there to hand up a volume when it was asked for, and she had been told so.
 
 "I'll say what I am not," said Ysra Crest. "I am not the Works, and I'm not the Line. I've a Circuit, and a school of that Circuit stands at the head of a hill with seven hundred students in it. Mr. Rusk has been good enough to ask for this room. I've lent it. It's his."
 
@@ -298,7 +298,7 @@ Mara's head turned a quarter of an inch.
 
 "The School goes onto boxes. I'd have the first-years sent home, all the same. I don't like them near anything that I haven't a lever for."
 
-"Nor do I," said Rusk. "And it isn't the core that keeps me awake. It's the pumps. I've a bank of four-and-twenty that was built so that any one could fail alone. Now none of them can do anything alone. If one's fouled, I think they all cook. Then there's no stroke at all, in a wet autumn, and the Hythe has water in its cellars in half an hour." He rubbed his eyes with a thumb. "I can't quench that bank and fill it fresh. I'd want four hours. I've been given the rainfall for the month."
+"Nor do I," said Rusk. "And it isn't the core that keeps me awake. It's the pumps. I've a bank of four-and-twenty that was built so that any one could fail alone. Now none of them can do anything alone. If one's fouled, I think they all cook. Then there's no stroke at all, in a wet autumn, and the Hythe has water in its cellars in half an hour." He rubbed his eyes with a thumb. "I can't quench that bank and fill it fresh. By the book it's one crew and a cell at a time, and I'd want four hours with the pumps standing. I've been given the rainfall for the month."
 
 "There's a third thing," said Vane.
 
@@ -316,7 +316,7 @@ He had not moved. He had his hat on the table in front of him.
 
 ---
 
-Four of them signed the book that evening, and there were six at the Rowan kitchen table, and a seventh who would not sit.
+Four of them signed the book that evening, and there were five at the Rowan kitchen table, and a sixth who would not sit.
 
 Jude had come for his terms. He stood by the dresser, as he had on Sunday. Pru had come since she had been told to, and had been given the stool.
 
@@ -328,9 +328,9 @@ Kellan had the page. He had ruled it himself.
 
 They looked at him.
 
-"I've been on a box. In the spring, when the Pellow's core went, my aunt on Weighbridge Street had the baby's milk on a biscuit tin till noon. It isn't a hardship. It's only that you lie awake and listen for it to stop." He had gone red. "I'd like it known that I'm the one who said *no* to six-tenths in the seventh month. So when I say four, it's four."
+"I've been on a box. In the spring, when the Pellow's core went, my aunt on Weighbridge Street had the baby's milk on a biscuit tin till noon. It isn't a hardship. It's only that you lie awake and listen for it to stop." He had gone red. "I'm the one who said *no* to six-tenths in the seventh month. So when I say four, it's four."
 
-"It's noted," said Anwen. "Four. I'll not argue with a man who's found his brake." She wrote it. "Call reserve. Half a dram a fighter, on the card, for as long as the bells are doubtful. That's five."
+"Four, then," said Anwen. "I'll not argue with a man who's found his brake." She wrote it. "Call reserve. Half a dram a fighter, on the card, for as long as the bells are doubtful. That's five."
 
 "Five?" said Jude.
 
@@ -368,7 +368,7 @@ Pru had gone the color of a brick.
 
 "I cross it right thirty times in thirty-four," she said. "Pike counted. He says that's four lost bags."
 
-"He says it's four where you were thinking. I heard him." Kiva made herself look round. "I can't do the third turn at all. I shan't ever. So you're better at it than I am now, by thirty. I'd like that written down while it's still only arithmetic."
+"He says it's four where you were thinking. I heard him." Kiva made herself look round. "I can't do the third turn at all. I shan't ever. So you're better at it than I am now, by thirty. Write that down while it's still only arithmetic."
 
 There was a short silence. Then Anwen laughed, once, through her nose.
 
@@ -398,7 +398,7 @@ The Hall's plate lay on the Long Terrace at Stonehand on Thursday afternoon, and
 
 It was not much to see. It was a slab of grey iron the size of a door, with two brass rings let into it, and a figure cut in the stone of the terrace beside it. There had been one figure for thirty-one years. Since the spring there had been three more, each newer and sharper than the last. *340. 350. 355. 362.*
 
-"I was withdrawn," he said. "On the fourth of the fifth month. I'd my hands in linen. I sat in the front row and watched three people I mess with beat a thing that had stood since my father was courting." He rolled his shoulders. "I've had six months to mind that."
+"I was withdrawn," he said. "On the fourth of the fifth month. I'd my ribs in linen. I sat in the front row and watched three people I mess with beat a thing that had stood since my father was courting." He rolled his shoulders. "I've had five months to mind that."
 
 "What do you want it to be?" said Kiva.
 
@@ -454,11 +454,11 @@ He began to cut.
 
 Noa was writing. Kiva saw what he wrote, since he had turned the page a little toward her. It was his own page, the one with the heading that he had found on a tape's margin. He put the figure under four others, and the date, and nothing else.
 
-"That's five," he said, under his breath. "On one plate. In one year." He put the pencil behind his ear. "I've a column of those now. Hold. Draw. A plate. And I've another, for tears, and skins, and a thing that stood a square. They both go up. They've both gone up faster since the fifth month than they did before it."
+"That's four," he said, under his breath. "On one plate. In one year." He put the pencil behind his ear. "I've a column of those now. Hold. Draw. A plate. And I've another, for tears, and skins, and a thing that stood a square. They both go up. They've both gone up faster since the fifth month than they did before it."
 
 "Is that a reason?"
 
-"No. It's two columns." He looked at her. "Adlam says that if I'd a third, from somewhere that wasn't Meridian, somebody would have to read it."
+"No. It's two columns." He looked at her. "Adlam says if I'd a third, from somewhere that wasn't Meridian, somebody would have to read it."
 
 Perrin had lifted his head.
 
@@ -468,7 +468,7 @@ Perrin had lifted his head.
 
 Drum twenty-six did not fall in on Thursday night. There was nothing in it to fall.
 
-They had quenched it at midnight on Wednesday, and twenty-seven after it, and the Works had hung a tag on each green door. Six hundred households on Stopgate had gone onto their boxes. The casualty reserve had sent a cart round with cans.
+They had quenched it at midnight on Wednesday, and twenty-seven after it, and the Works had hung a tag on each green door. Six hundred households, in the streets that the two drums fed, had gone onto their boxes. The casualty reserve had sent a cart round with cans.
 
 At ten that night, when the hour for it had gone by, a clerk chalked one word on the board outside the Measure Hall. *Held.*
 

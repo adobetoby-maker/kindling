@@ -128,7 +128,7 @@ The board in the Measure Hall basement had a crowd round it on Friday, and for o
 
 He was standing very upright, since he was strapped again, from the armpits to the hips.
 
-"The brackets. Off Old Four, and off us. *Second step, in its own right.*" He read it with his lips. "I said in the ninth month that I didn't mind them. I said that it'd be like losing a tooth." He considered. "It is. I keep feeling for it."
+"The brackets. Off Old Four, and off us. *Second step, in its own right.*" He read it with his lips. "I said in the ninth month I didn't mind them. I said it'd be like losing a tooth." He considered. "It is. I keep feeling for it."
 
 "There's a line under," said Kellan.
 
@@ -182,7 +182,7 @@ There was no van out. There was only the hall yard, and the hooded lamp, and a t
 
 "I told you on the cinders that I wasn't offering you anything," said Rhea. "I wasn't. You were seventeen, with a hand in a cloth, and your team had my name on its entry." She did not get up. "You're seventeen still. The brackets came off this morning. So I've nothing on you any longer but what I choose to put, and I've thought for a week about how little that ought to be."
 
-She held out a card. It was slate blue, and it had a good deal more than twelve words on it.
+She held out a card, slate blue, with a good deal more than twelve words on it.
 
 Kiva took it in her right hand, and read it under the lamp.
 
@@ -194,7 +194,7 @@ It was a small thing. It was an edge of a wall and a lamp, written out long.
 
 "What's a catcher's second?"
 
-"She kneels at my other hem," said Pike. "She sets nothing. She calls nothing. She watches a man who's been thought a great hand for six-and-twenty years, and she tells him afterward what he did that he didn't say aloud." He nearly smiled. "I'm told that there's a deal of it. I've a first-year to thank for the notion."
+"She kneels at my other hem," said Pike. "She sets nothing. She calls nothing. She watches a man who's been thought a great hand for six-and-twenty years, and she tells him afterward what he did that he didn't say aloud." He nearly smiled. "I'm told there's a deal of it. I've a first-year to thank for the notion."
 
 "And Pru?"
 
@@ -202,7 +202,7 @@ It was a small thing. It was an edge of a wall and a lamp, written out long.
 
 Pru was standing a pace behind Kiva's shoulder with her hands in her sleeves.
 
-"I said that I'd have to think," she said. "Then I said yes so quickly that I bit my tongue. Then I said that I'd only come if I was asked by you as well, since I'm not your cord. I'm a catcher with a sheet. I've got a red tag in a cold room." She went scarlet. "That came out bigger than I meant."
+"I said I'd have to think," she said. "Then I said yes so quickly that I bit my tongue. Then I said I'd only come if I was asked by you as well, since I'm not your cord. I'm a catcher with a sheet. I've got a red tag in a cold room." She went scarlet. "That came out bigger than I meant."
 
 "It came out the right size," said Kiva.
 
@@ -232,11 +232,13 @@ Rhea looked at her for some time.
 
 ---
 
-Four of them signed the book on Saturday, at the Rowan kitchen table, and Kellan read the whole of it, since it was the last of the season.
+Four of them signed the book on Saturday the 15th, at the Rowan kitchen table, and Kellan read the whole of it, since it was the last of the season.
 
-"*Saturday the 15th of the tenth month. Call reserve, 2.5: spent, 0.70. Pryce, forty-one hundredths, on a wall. Cade, fourteen, on a bar. Talley, nine. Renn, six. Rowan, none. Returned to held, 1.80.*" He turned the page. "*Three-door line, 0.59: spent, whole, on the 5th, under direction. Lent to the casualty reserve, 4.0: repaid on the 4th. Credited from Stopgate, by the foreman's pot: 9.0. To Talley, J., Kill, by name, a head's share: 1.8. To the book: 7.2.*"
+Most of it they had heard before: seven-tenths of the call drams spent, Anwen's forty-one hundredths on a wall the most of that and Kiva's share none; the three-door line, spent whole on the 5th; the four drams lent and come home on the 4th.
 
-"That's seven and eight-tenths with my name on it," said Jude. He was by the dresser, as ever. "In one autumn. A draft board will think that I've been robbing a van."
+"*Credited from Stopgate, by the foreman's pot: 9.0,*" he said, when he came to what was new. "*To Talley, J., Kill, by name, a head's share: 1.8. To the book: 7.2.*"
+
+"That's seven and eight-tenths with my name on it," said Jude. He was by the dresser, as ever. "In one autumn. A draft board will think I've been robbing a van."
 
 "*Held: 26.53. Sealed, medical, W: 0.8. Opened once; see the 6th.*" Kellan blotted it. "That adds. I've done it three ways."
 
@@ -246,9 +248,9 @@ Four of them signed the book on Saturday, at the Rowan kitchen table, and Kellan
 
 They looked at him. He had never proposed one. He was on the book by name, for a share, and had been careful since the seventh month to ask for nothing else.
 
-"Stopgate. The top of it. There are four streets on boxes off drum twenty-nine, for a month, since a plank split. It was nobody's plank. It was under the knot next to mine." He scratched his jaw. "A dram, at par, to the wardens' account. I asked last week what ash was for, and a man told me. I'd like to have done it once on purpose."
+"Stopgate. The top of it. There are four streets on boxes off drum twenty-nine, for a month, since a plank split. It was nobody's plank. It was two knots down the hill from mine." He scratched his jaw. "A dram, at par, to the wardens' account. I asked last week what ash was for, and a man told me. I'd like to have done it once on purpose."
 
-"That was my line," said Perrin. "In the seventh month. I'd like it known that I'm not jealous. I'm flattered. It's a new feeling and I don't trust it."
+"That was my line," said Perrin. "In the seventh month. I'm not jealous. I'm flattered. It's a new feeling and I don't trust it."
 
 Anwen wrote it. *Returned at par to the wardens of Stopgate, for the boxes on drum twenty-nine: 1.0. Held: 25.53.*
 
@@ -258,13 +260,13 @@ Anwen wrote it. *Returned at par to the wardens of Stopgate, for the boxes on dr
 
 "If you'll stand. By name. On your three things."
 
-"I'll stand. I'd want to see the sea." The chipped tooth showed. "And Renn's feet on a strange floor. I've a notion that they'll fall in love again."
+"I'll stand. I'd want to see the sea." The chipped tooth showed. "And Renn's feet on a strange floor. I've a notion they'll fall in love again."
 
 "They're cured."
 
 "Nobody's cured. Ask Aske."
 
-Kiva had the card in her coat. She had carried it since six on Friday.
+Kiva had the card in her coat, where she had carried it since six on Friday.
 
 She laid it on the table, on the green cover, and read it to them. She read every word, down to *No seat is promised.* Then she told them the two things that she had asked for in the yard, and what she would do if they said no.
 
@@ -360,15 +362,15 @@ She did not write any of it.
 
 "I know which pocket," said Anwen. She got it out.
 
-Kiva laid the proof on the lid of Orla's crate. She held it flat with the heel of her left hand, and the last two fingers. The first two lay on the paper, and told her that there was paper.
+Orla made room. Kiva laid the proof on the crate beside her, and held it flat with the heel of her left hand, and the last two fingers. The first two lay on the paper, and told her that there was paper.
 
 She did not touch the last column. It had been right for five hundred years. It had only wanted the other six.
 
-She wrote in the fifth, where it said *Went wrong,* under the collarbone.
+She wrote in the fourth, where it said *Went wrong,* under the two who had come to the bar unnamed.
 
 *2680. The mark was called east, since east had served once before. East was the drain. The step was tried first, and it said so.*
 
-And in the sixth, under *Second try:*
+She passed over the fifth, where the collarbone was. And in the sixth, under *Second try:*
 
 *Called north, aloud, before. Said back by two. Three others had the corner after six. Two had the bar. One had the count, from a chair. K.R.*
 
@@ -384,11 +386,11 @@ She read it over. It did not look like wisdom. It looked like a meter reading.
 
 Orla looked at the two lines for some time. Her crooked face did something complicated, and settled.
 
-"I asked you in the spring to show me six," she said. "I was rather pleased with it. I'd no notion what I was asking for." She folded the proof along its crease and gave it to the clerk. "That goes as it is. Tell the bursar that there's a hand in the fifth column that isn't a founder's, and that if he tidies it, I shall come up his stair."
+"I asked you in the spring to show me six," she said. "I was rather pleased with it. I'd no notion what I was asking for." She folded the proof along its crease and gave it to the clerk. "That goes as it is. Tell the bursar that there's a hand in two of his columns that isn't a founder's, and that if he tidies it, I shall come up his stair."
 
 The clerk fled.
 
-The juniors had been edging down the lane. They had got as far as the fourth post. The sandy one with the plait was in front, and she had her eyes on the bar.
+The juniors had been edging down the lane. They had got as far as the fourth post, and Kiva went down the lane to them. The sandy one with the plait was in front, and she had her eyes on the bar.
 
 "Miss Dane says that we're to run it," she said. "Dark. From the sheds. She says that it's in the manual again." She looked at Kiva. "You said that you didn't know why it was crooked. I asked you. You said that you'd wondered for four years."
 

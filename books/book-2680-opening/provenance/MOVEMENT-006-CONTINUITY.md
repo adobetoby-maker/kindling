@@ -2,11 +2,13 @@
 
 > Built by TAC
 
-Edition: **first draft, 2026-10-12**, chapters 41–48. Written by Claude Opus 5.5
-(`claude-opus-5-5`) directly after the drafting run, from the prose as it stands in the
-working tree. **Unreviewed.** No editorial review, cold read, measurement against the
-numerical formula, repair or recheck exists for this movement. Where this file and the
-manuscript ever disagree, the manuscript governs. This file is not manuscript. It carries
+Edition: **first draft, 2026-10-12**, chapters 41–48, **reconciled the same day to the one
+consolidated same-author repair.** Written by Claude Opus 5.5 (`claude-opus-5-5`) directly
+after the drafting run, and corrected by the same model after the repair only where the
+repaired prose made a line here false; section 0 lists those lines. **The repair passed its
+targeted recheck and three required micro-corrections passed the focused addendum.** An
+informed editorial review and a simulated cold read exist for the first draft. Where this file
+and the manuscript ever disagree, the manuscript governs. This file is not manuscript. It carries
 forward `provenance/MOVEMENT-001-CONTINUITY.md` through `provenance/MOVEMENT-005-CONTINUITY.md`;
 anything not restated here stands as recorded there.
 
@@ -14,6 +16,50 @@ Purpose: a handoff for the Movement Six review, the whole-book review, and the B
 
 Movement Six finishes Book One. It runs from the evening of Monday the 26th of the ninth
 month to Sunday the 16th of the tenth, 2680.
+
+## 0. Reconciled after the repair (2026-10-12)
+
+One consolidated same-author repair was applied to chapters 41–48 on 2026-10-12 (one hundred
+exact-string edits; `editor/MOVEMENT-006-REPAIR-REPORT.md` lists each). Only the record lines
+below were changed, each because the repaired prose made it false or incomplete. Nothing else
+in this file was re-derived, and the repaired chapters were not reread end to end.
+
+- **§1, the night table.** Knots are named by ordinal on the page ("the eighth," "the seventh
+  knot"), never "Eight" or "Seven." The string's one growth rule is entered. Vane's order
+  sending the rest of the top houses down the hill is entered at 11:30. Mara's night shift and
+  her chalk mark of 11:20 are entered at 11:42. The second slip is in Kellan's mother's words,
+  off the wire, not in her hand.
+- **§2.** The same wording for Rhea Sorn's cuts and Kellan's wire.
+- **§4.** The Line's lane sheet now reads a *Second try* line, so that all seven columns are
+  named. Kiva's two lines in the proof stand in the fourth and sixth columns; she passes over
+  the fifth. The keeper's book is talked over out of earshot of the four bystanders, and
+  Annick's page is given no date.
+- **§5.** The growth rule (string of the 5th, item 4).
+- **§6.** The last team-book entry and the pot are reported in narration; figures no longer
+  spoken on the page are marked. Vane's slate has a clause on the route.
+- **§7.** The six hundred households; where the seam begins; how the post leans; the north
+  row.
+- **§9, items 19 and 21,** and **§11** (Annick's page).
+
+Small facts changed in the prose and recorded nowhere else in this file: Perrin was withdrawn
+on the 4th of the fifth month with his **ribs** in linen (the first draft said hands), "five
+months" before the 29th of the ninth; Foreman Birch has had his string "since the thaw"; Rusk's
+four hours is one crew a cell at a time and his half hour is a hand to every cell; the fitters
+had "the best part of two days" on the bar; five sat at the Rowan table on the 28th and Jude
+stood; Noa's mistake is four months old (his page dates from the sixth month; the line in
+section 2 was corrected to match after the targeted recheck); the seal was
+broken "not eight hours" after the five o'clock signing; Mara says "two hands between us that
+report"; the split plank was "two knots down the hill" from Jude's tenth, which is the first
+knot, as the slate has it.
+
+**Post-recheck corrections (2026-10-12), from `editor/MOVEMENT-006-TARGETED-RECHECK.md`, R1 to
+R3 only.** R1: the gate now hangs "across the wall side of the shaft, back under the post," and
+the spindle runs to a gate "a pace back toward the wall" (chapter 44), so the post's lean
+toward the lane and the rake of the screw agree; section 7's sluice entry follows. R2: Jude
+"asked last week" what ash was for (chapter 48), as the first draft had it; the repair's "the
+week before last" was a week out. R3: "four-month mistake" in section 2. Item 19's word count
+follows. The section 0 parenthesis about Noa's four-month mistake was also extended to identify
+that R3 correction. No other record fact was changed.
 
 ## 1. Calendar
 
@@ -54,11 +100,11 @@ Times are as the page gives them or as they follow from it.
 | **11:02** | The bell. Noa: "It's the drum, it isn't the mark." **A tear lying in the crown of Stopgate, between the tram rails, from the rail of drum house twenty-eight up to twenty-nine,** a hand wide, sixty paces and more. Eight knots rise through it together, abreast, eight paces apart, each on two legs, joined shoulder to shoulder by a white cord at chest height. Every one has a head, and every head turns. The planks over the gratings go white. |
 | about 11:05 | Mara comes up the sluice ladder and leaves for the pump house. |
 | 11:10 | Vane takes the hill as a response. Bottom forty houses down; top twenty-two up by the lane. Pru and Kiva at the gap; nobody strikes the post. Four fitters stand at the bar with the boy Ned still down the shaft raking the west groove. |
-| | The Graywater van. A gate lit twelve paces below the lowest knot; all eight heads go past it. **Rhea Sorn cuts Eight from the ground on Pike's word** (sealed at 52, loud, red). A new knot rises at the top. She cuts Seven; another rises. Lowen Brask: "It's being paid out… That's a hold… There's nobody keeping it… It's the drain." Vane wires Mara for the bank tonight. Rhea holds her cut. |
+| | The Graywater van. A gate lit twelve paces below the lowest knot; all eight heads go past it. **Rhea Sorn cuts the eighth knot from the ground on Pike's word** (sealed at 52, loud, red). A new knot rises at the top. She cuts the seventh; another rises. Lowen Brask: "It's being paid out… That's a hold… There's nobody keeping it… It's the drain," and the rule: "It'd come up without her, at the drain's own pace, until it ran out of road. Every cut only lets the next one out at once." Vane wires Mara for the bank tonight. Rhea holds her cut. The eleventh and twelfth then rise with nobody cutting, "only slower." |
 | | Anwen (cutaway): Mace's line stands a walking porch along the east curb between any lit box and the string. At number fifty-eight the ninth head turns to a fanlight; she goes eight paces past the end of the wall, alone, and says so as she goes. Tibb and Stiles come up (Stiles a hand short, called by Tibb). Brask pulls the red handle; Perrin carries Mr. Garland out in his chair with his bird. |
-| 11:30 | The blue reaches the stone sill of the black gate and stops there; inside the gate the main dives to eight feet. **The twelfth knot stands in the gateway.** Ansty draws the pin and puts the School's core down. |
+| 11:30 | The blue reaches the stone sill of the black gate and stops there; inside the gate the main dives to eight feet. **The twelfth knot stands in the gateway.** Vane to the wardens: the gate is shut to them; "whatever's left of the top comes down, by the curb, behind the porch, with its boxes dark." Ansty draws the pin and puts the School's core down. |
 | about 11:34 | **An arm, three-and-twenty paces long,** goes from the twelfth knot along the foot of the bottom wall, through the gap, round the lane side of the leaning post, and down beside the half-dragged lid into the sluice shaft. Perrin lifts Ned out by one arm first. The ten standing knots lean back together and ease: it is pumping the main. |
-| 11:42 | Mara's slip: nineteen hands of twenty-four; pumps stopped two minutes on trial; **"The water is still moving… I cannot fill over this. Tell me when it is out."** |
+| 11:42 | Mara's slip: nineteen hands of twenty-four (a dozen of the Works' night shift were on the floor already); pumps stopped two minutes on trial; the water "moved less at twenty past eleven, when I came in and chalked it"; **"The water is still moving… I cannot fill over this. Tell me when it is out."** |
 | to about 11:55 | Nobody looks at Kiva. She says what it is, who has every piece that is not hers, and what she does if it is refused. Selka Dray arrives in an infirmary chair. Aske says the price. Rhea writes *Before.* Orla signs for the hand. Vane reads the direction. Anwen is fetched from the wall and reads the *why.* "I'm frightened." "Then yes." |
 | | Four minutes to set. The step first: **four paces east is not clean (the main is under it). Kiva turns the mark north,** across the lane, and has it said back. She sees that the hem will then hang between the mark and the post, so whoever has the corner cannot be at the bar: Brask and Perrin to the bar, Wace and Moss to the mark. |
 | about 11:57 | **"Hand, to Ember, to still. Rowan, changing on three, and on five."** On Dray's *in* the ward goes under the arm; on the haul it throws her a quarter round, north; fold; gap; bound; gap; **"Planted! Six!"** Ned shouts it to the lodge. The Works stops its pumps and quenches all twenty-four cells. |
@@ -69,7 +115,7 @@ Times are as the page gives them or as they follow from it.
 | | With nothing to hold it the seam goes on giving for a little: three husks (Jude, Gower, Twenty-Eight's reserve blade), then a string of four that stands on end and goes to the gate. Anwen calls the step in the middle of ten wards; Rhea Sorn stands behind its legs to cut it, with Nairn beside her. The closing crew works up the hill from the foot. |
 | about 12:23 | The third pump starts. **The pumps stood twenty-six minutes.** |
 | 12:25 | First slip: three pumps on three counts; the bank is out. |
-| about 12:35 | Second slip, in Kellan's mother's hand: Mara's reading hand is starved to the wrist. |
+| about 12:35 | Second slip, in Kellan's mother's words (off the wire): Mara's reading hand is starved to the wrist. |
 | 12:40 | **The sealed medical reserve is opened by four** on the Low Lane's quench box. |
 | **12:50** | **"Closed!"** (Bettan). |
 | about 1:00 | The pump house: Aske eases Mara's hand; the keeper's book of 2604; Adlam's line. |
@@ -142,12 +188,12 @@ broken;** strapped again. Said that he does mind, all of it, into a bar.
 **Kellan Renn.** **Has taken the Halden yard** (Tuesdays and Thursdays, nothing owed, his own
 cuff; Birch: "They've not got worse"). On Seven's book "as a blade who's told where he's
 wanted." Cut a clean rung in the yard on a catcher's word that was by the book and wrong, and
-watched it cook a bank. Cut the eleventh knot on Pru's word. Read his mother's hand.
+watched it cook a bank. Cut the eleventh knot on Pru's word. Read out his mother's wire.
 
 **Noa Bexley.** Sat the School's mast and called the mark and then the drum. Went to the
 superseded stacks. Read the travelling mast on the 5th: two cliffs of 0.26 and a notch eleven
 seconds after the second, **five minutes before the lamps jumped.** His page now reads *Not yet
-weighed* and under it *Not one thing,* with the six-month mistake left in and ruled through.
+weighed* and under it *Not one thing,* with the four-month mistake left in and ruled through.
 Three columns (section 5); Adlam is second; the Chair has sent them to the Charter Board.
 
 **Jude Talley.** Seven's Kill by name. Asked aloud whether the sealed reserve or the red bags
@@ -172,7 +218,7 @@ slack for Pru. Named the string as a hold with nobody keeping it. Two to the bar
 
 **Rhea Sorn.** Refused to have the three-door offered on her card on the 2nd ("It's too
 dear"). Ruled a sixth column, *Before,* at the left of her slate. Signed on the 5th after
-hearing the price from the healer and the bad answer from Kiva. Cut Eight, Seven and the twelfth,
+hearing the price from the healer and the bad answer from Kiva. Cut the eighth knot, the seventh and the twelfth,
 and stood to cut the last string. Wrote to the board; **the brackets came off Team Seven and
 Old Four on the 14th.** Her card is section 4.
 
@@ -251,12 +297,16 @@ sluice post. It stands out from the wall for the bar. / How: run it dark, from t
 the turn before the eighth, aloud, and say who has the bar. Two to the bar. Nine turns shuts
 the hill from the low streets. / Went wrong: ran it straight and silent, and met the ninth.
 Also: two came to the bar, and nobody had said which two. / Cost: a collarbone. A cellar in the
-Hythe, the night that nobody had said. / Why: because the road isn't straight. S.V.*
-Nobody on the page knows whose initials those are.
+Hythe, the night that nobody had said. / Second try: called it, and said which two. Shut in
+nine turns. / Why: because the road isn't straight. S.V.*
+Its seven columns, as the page now names them: the lane's name and place; *What; How; Went
+wrong; Cost; Second try; Why.* The manual's page has the same seven. Nobody on the page knows
+whose initials those are.
 
 **The tenth edition's proof** (the 16th): the lane restored in seven columns. Kiva's pencil, in
-the fifth column: *2680. The mark was called east, since east had served once before. East was
-the drain. The step was tried first, and it said so.* In the sixth: *Called north, aloud,
+the fourth column, under *Went wrong:* *2680. The mark was called east, since east had served once before. East was
+the drain. The step was tried first, and it said so.* She passes over the fifth (*Cost,* "where the collarbone was"). In the sixth,
+under *Second try:* *Called north, aloud,
 before. Said back by two. Three others had the corner after six. Two had the bar. One had the
 count, from a chair. K.R.* She did not touch the seventh and did not enter the cost.
 
@@ -310,7 +360,13 @@ over it. Not dark. Nothing. And all four-and-twenty stood up together, and were 
 not know at what. I woke and they were as usual. / The levee lamps went out that night and came
 on again of themselves. No fault found. Not grid. I have put that in the fault column and this
 in remarks, as I am told that a fever is not a fault.* Kiva sets it beside the one phrase she
-is "allowed to have read," *the sky unroofed,* and "paying attention." Mara: "It doesn't tell
+is "allowed to have read," *the sky unroofed,* and "paying attention." **This is said under
+the noise of three pumps, out of earshot:** Lumb has gone back to his sump, Aske and Kellan's
+mother are at the door lamp putting the tin under wax, and Mr. Adlam stands at the far end of
+the wall of needles, "out of hearing of the desk." None of the four hears that Kiva has
+dreamed. Annick's page is given no date ("long before this. The page had no date"); Mara says
+only that the two accounts are "lifetimes apart." Lumb comes back for his book and is told to
+keep the page. Mara: "It doesn't tell
 me what it is… I'd not build a shed on it… [It tells me] that it isn't you." Lumb: every pump
 house on the coast keeps a remarks column.
 
@@ -382,7 +438,10 @@ no yield class is given.
 3. It does not turn to a lit gate. A head turns to a lit cell box in a house, and the cord
    bellies toward it.
 4. Cut at the bottom end, the cord whips back to the next knot, and a new knot comes up at the
-   top: "It's being paid out." Twelve rose; ten stood when they were cut.
+   top: "It's being paid out." Uncut, it pays out all the same at the drain's own pace until
+   it runs out of road; a cut only lets the next knot out at once (the ninth and tenth rose on
+   Rhea Sorn's two cuts; the eleventh and twelfth rose with nobody cutting). Twelve rose; ten
+   stood when they were cut.
 5. Where the drain dives, the tear stops. It then reaches with an arm to the nearest open
    water.
 6. With its arm in the main it hauls and eases the main; the water goes on moving with the
@@ -435,7 +494,7 @@ off the water and the sluice down.
 | Tue 4th, 10th | Loan repaid | 2.0 | 14.12 | Stated in the closing entry; entered with it. |
 | **Wed 5th** | **Signed by four** | 2.0 | 13.53 | *Three-door, K. Rowan: 0.59, from held. One go. Only on a foreman's direction, under the officer's hand, with the price said first by her healer. Cade keeps the word. If not directed, returned to held, whole.* |
 | **Thu 6th, 12:40 a.m.** | **Seal broken by four** | **0.8** | 13.53 | *For: the reading hand of M. Rowan, operator, Grade Two, the Municipal Works, starved in taking the Ferren bank out of step. On the word of a grader and by the hand of Healer Aske. Medical. Drawn: 1.2. Re-sealed: 0.8.* |
-| **Sat 15th** | **Signed by four** | 0.8 | **25.53** | Call reserve spent 0.70 (Pryce 0.41, Cade 0.14, Talley 0.09, Renn 0.06, Rowan none); returned 1.80. Three-door line spent whole. Loan of 4.0 repaid. *Credited from Stopgate, by the foreman's pot: 9.0. To Talley, J., Kill, by name, a head's share: 1.8. To the book: 7.2.* Held 26.53. Then, on Jude's proposal: *Returned at par to the wardens of Stopgate, for the boxes on drum twenty-nine: 1.0.* **Held 25.53.** |
+| **Sat 15th** | **Signed by four** | 0.8 | **25.53** | Call reserve spent 0.70 (Pryce 0.41, Rowan none; the repaired page reports the old lines in narration and no longer gives Cade 0.14, Talley 0.09 and Renn 0.06, which stand as in the frozen first draft); returned 1.80. Three-door line spent whole. Loan of 4.0 repaid. *Credited from Stopgate, by the foreman's pot: 9.0. To Talley, J., Kill, by name, a head's share: 1.8. To the book: 7.2.* Held 26.53. Then, on Jude's proposal: *Returned at par to the wardens of Stopgate, for the boxes on drum twenty-nine: 1.0.* **Held 25.53.** |
 
 Check: 23.62 − 3.0 (sheet) − 0.70 (call drams spent) − 0.59 (three-door) + 7.2 (pot) = 26.53;
 less 1.0 returned = **25.53.** The loan of 4.0 went out and came back. Sealed medical: 2.0 −
@@ -459,7 +518,8 @@ old winter stock.
 **Vane's slate, read on the 6th at five:** *Stopgate, the night of the 5th. The bell at two
 minutes past eleven. A tear lying in the road, held by the main under it. A string of twelve,
 abreast, every knot reading. Closed, ten minutes to one, by the Home Line. / Lives: none lost.
-Carried: sixty-two houses, fourteen by litter, and a school. Hurt: K. Rowan, catcher, the left
+Carried: sixty-two houses, fourteen by litter, and a school; the last of the top stretch down
+by the curb, behind a walking wall, when the gate was taken. Hurt: K. Rowan, catcher, the left
 arm; see the direction. M. Rowan, operator, the reading hand, starved; eased inside the hour.
 Cade, carry, two ribs sprung and not broken. Works: the School's core put down by its keeper
 and raised again at noon. The Stopgate sluice shut, the first time in the Works' memory, and
@@ -474,9 +534,12 @@ Remarks: one. The one hole on the hill that could not be planked was left open, 
 it, to clear a gate. The thing went to it. The reason for leaving it was good, and I'd give the
 same order tomorrow. The remark is the event's.*
 
-**The pot,** the Line's way, ground first: civic half 96 ("into this hill's boxes and the
-Hythe's, tonight"); casualty reserve 24; schools 36; teams 36, **9 to each of the four fours
-that stood it under their officers** (Halden License, Old Four, Twenty-Eight, Seven). The red
+**The pot,** the Line's way, "in the Pit's own parts," ground first: the civic half (96 of the
+192) into the hill's boxes and the Hythe's the same night; then the casualty reserve (24) and
+the schools (36); the teams last (36), **9 to each of the four fours
+that stood it under their officers** (Halden License, Old Four, Twenty-Eight, Seven). After the
+repair the page gives the half and the nine; the 24 and the two 36s follow from the Pit's parts
+and are no longer spoken. The red
 row is twelve bags, each under a catcher's name. Where the red row goes is not said on the
 page.
 
@@ -507,9 +570,11 @@ People (pronouns as written; author's choice):
 
 Places and things:
 - **Stopgate:** the long straight hill from the Brickfields road to the School's bottom wall, a
-  tram line up the middle, sixty-two houses. Drum houses twenty-five (the foot) to twenty-nine
-  (near the top; by the page's knot spacing about thirty-two paces below the gate, which is
-  not stated); a grating between the rails every twenty paces. Nobody had
+  tram line up the middle, sixty-two houses on the hill itself. (The six hundred households
+  put on boxes were the streets fed by the two dry drums, most of them to either side of the
+  hill, with roads of their own.) Drum houses twenty-five (the foot) to twenty-nine (near the
+  top; the upper end of the seam is "not forty paces below" the wicket, and by the knot
+  spacing about thirty-two); a grating between the rails every twenty paces. Nobody had
   asked why it was called that.
 - **The Kiln loop:** where the copper leaves the road after drum twenty-one and goes east round
   the old brick kilns (drums 22–24).
@@ -519,10 +584,13 @@ Places and things:
   paces square; the core house on the east with the Low Lane against its south wall and the
   New Lane behind; a low wall with a gap on the west; the Old Yard beyond the gap, forty paces
   to the sheds, two rows of posts, **the leaning post eight paces in, a yard and a half from
-  the wall.**
-- **The sluice:** an iron lid where Kiva's cross was; a square brick shaft eight feet deep; an
-  iron penstock in two grooves a foot above the water; a screw on the rake coming up inside the
-  post; a square socket in the "split"; an ash bar, now on two hooks on the wall. A second,
+  the wall,** leaning out over the lane (to the left as one sees it from the sheds). It is the
+  last of the south row as the lane is counted from the sheds and the first met from the gap.
+  The eighth post is the last of the north row.
+- **The sluice:** an iron lid where Kiva's cross was, on the lane side of the post's foot; a
+  square brick shaft eight feet deep; an iron penstock in two grooves a foot above the water,
+  "across the wall side of the shaft, back under the post"; a screw on the rake coming up
+  inside the post from a gate "eight feet under and a pace back toward the wall"; a square socket in the "split"; an ash bar, now on two hooks on the wall. A second,
   small mouth from the core house enters above the gate. Nine turns shuts the hill from the low
   streets; shut, the hill's rain has nowhere to go.
 - **The Ferren main:** the storm drain; shallow under Stopgate, eight feet down inside the
@@ -619,8 +687,9 @@ further than intended:
     figure. **Rhea's sixth column** and **Selka Dray as count-caller** are the author's.
 18. **Kellan's mother is given an initial** ("A. Renn"). **"A. Renn," Ansty, Lumb, Yeo, Ned,
     Garland and Bettony** are pending owner review, as are the pronouns in section 7.
-19. **Movement length is 50,866 words** (`wc -w`). Chapters run 5,147 to 7,250. Forty-four
-    sections, about 1,156 words a section. **Secondary viewpoint is 12.8%** by plain section
+19. **Movement length is 51,677 words after the repair and the post-recheck corrections**
+    (`wc -w`; 50,866 in the first draft; 51,670 after the repair alone). Chapters run 5,297 to 7,264. Forty-four sections, about 1,174 words a section. The
+    viewpoint figures that follow are the first draft's and were not recounted. **Secondary viewpoint is 12.8%** by plain section
     word count (Mara 1,730; Anwen 1,294; Rhea 1,131; Kellan 1,035; Perrin 863; Orla 439; all
     established lenses); Kiva holds 87.2%. These are counts, not craft measurements. The
     formula's targets were written toward and have not been measured.
@@ -635,8 +704,8 @@ further than intended:
     vote in Kiva's presence; and that motion cites "two entries" in the Directions to the
     Unplaced, where Kiva has three directions (the two with a cost column are meant).
 21. Arithmetic worth a mechanical check: the drain dates (25 on the 27th; 28 on the 3rd; 29 on
-    the 5th; the core house due the 7th); "ten" days; the knot numbering (twelve named, Eight
-    and Seven cut early, ten standing; positions at eight paces from 29's rail to the gate);
+    the 5th; the core house due the 7th); "ten" days; the knot numbering (twelve named, the eighth
+    and the seventh cut early, ten standing; positions at eight paces from 29's rail to the gate);
     the red figure 560.4; the pot (96, 24, 36, 36, 9); the team book; "eleven weeks and four
     days" to the new year; seventy-seven years since 2603; the pumps' twenty-six minutes
     against Lumb's twenty-five.
@@ -674,8 +743,8 @@ State on the evening of Sunday the 16th of the tenth month, 2680:
 - **The rifts.** A tear can lie down in a road over water that keeps time, pay out a string
   abreast, and pump. A long-forgotten sluice stopped one. Nobody knows how many
   drains have a gate.
-- **The record.** Three sheets are before the Charter Board. A pump keeper of 2604 and a Master
-  of the 2440s have both written that there was no roof. Every pump house on the coast has a
+- **The record.** Three sheets are before the Charter Board. A pump keeper of 2604 and an Order's
+  Master, on a page with no date, have both written that there was no roof. Every pump house on the coast has a
   remarks column that nobody has read. A plate has been recognized and has said nothing.
 - **The people.** Kiva is seated, unclassified, on the Line's roll, stood down from every door
   until the new year, with a company's card to the end of the third month and eight fingers
