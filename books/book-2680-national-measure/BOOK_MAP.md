@@ -152,13 +152,18 @@ dark-hand work at a right-hand corner. The warrant for Saltmere is posted, and i
 than Kellan's sum. Saltmere answers Mara's sheets: tried, and failed, on water that moves.
 
 **Exit.** Kiva has started writing down Pike's method in seven columns. Kellan has chosen his
-four. Seven's entry is signed under a captain nobody expected. The team is short of ash and
-out of plain ward-trace, and the Measure has four boards, one of them a live hunt.
+four. Seven's entry is signed under a captain nobody expected. After a fifteen-dram warrant,
+the book has 10.53 drams left; about 5.8 of that is already spoken for by the planned
+hand-to-Ember crossings and Coombe's floors, before any call reserve. The only plain
+ward-trace is the sealed 0.8 medical reserve. The Measure has four boards, one of them a live
+hunt.
 
 ### Movement Two — Something Quiet (chapters 9–16)
 
-**Entry pressure.** Five weeks to make a four that can stand a licensed hunt against things
-its kill drills were not written for, on a book that will not cover the training.
+**Entry pressure.** The second month to make a four that can stand a licensed hunt against
+things its kill drills were not written for: thirty days until the road south and forty-four
+days from Movement One's last day to the first board, on a book whose available ash is
+already spoken for.
 
 **Engine.** Several connected chapters of training for stronger and more varied spawn under
 Hunt Marshal Dinah Coombe, a Blaze who has run mixed fours on the coast: packs that keep a

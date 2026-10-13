@@ -47,7 +47,9 @@ the master did that he did not say aloud. She keeps her mouth shut until the bag
 The Ferren bank is out of step. **Seven drums (19, 20, 21, 25, 26, 27, 28) are still in,** to
 be done one a day with the wardens' winter stock. Mara's reading hand was starved on the 6th
 and eased; she may read a drum, and not a bank until the eleventh month. Her eleven sheets
-have gone to the coast. Saltmere's harbour bank is still one engine.
+are tied and wait on the dresser for the coast boat on Monday the 17th (Book One,
+chapter 48), so they have not yet gone; `STATE_LEDGER.md` says "sent" and the manuscript
+governs. Saltmere's harbour bank is still one engine.
 
 **Orla Dane has Jessamy Hart's card and has shown it to nobody. Kiva does not know that he
 has answered, that he fits pumps on the south coast, or that he has asked to read what she
@@ -72,7 +74,11 @@ Three things must be in practical view by the last page:
 2. **The damaged hand under new constraints.** Dark-hand work, a right-hand corner, a count
    that is somebody else's, and one honest test of what two dead fingers can still be asked.
 3. **The National Measure as a bill and a date.** An entry to sign, a warrant to pay, a board
-   that is a live hunt, and a four that is not yet good enough for it.
+   that is a live hunt, and a four that is not yet good enough for it. The first board is
+   Monday the 14th of the third month, forty-four days after this movement's last day; the
+   road south is due by the end of the second month, thirty days on. `BOOK_MAP.md` gives
+   Movement Two's entry pressure as "five weeks," which is loose. If the page counts, it
+   counts truly.
 
 ## Consequences to land
 
@@ -82,13 +88,19 @@ These are the few fixed turns. Order, staging, and everything between them are t
 - **Orla tells Kiva about Hart.** It is Orla's own choice, on the page, before the new year,
   and it is not dragged out of her. Kiva decides what a stranger may read. She sends method,
   in her own copy. **The dream does not go south,** and the scene should let the reader see
-  her decide that.
+  her decide that. Orla reads Kiva's book weekly and does not know that Kiva dreams, so
+  nothing copied or withheld may let Orla learn it; what Kiva keeps back is a line she
+  chooses on the page.
 - **Kiva's figures are read again** at the new year, for the first time since Classification
   Day, on the Circuit's instruments. Bounds: Draw falls a long way from 3.1 and is still poor
   beside a good single-door student; Ward Hold rises most, from the folding work; Stance
   rises a little from 6.2; Edge has hardly moved from 3.0. The rank frame holds **Flame** with
   one door declared and the others shut, and goes to dashes with two. There is no first door.
-  She is not classified. Exact numbers are the author's and are then recorded.
+  She is not classified. Exact numbers are the author's and are then recorded. The two-door
+  reading stays inside her certificate: one declared Ember-to-still crossing on a sanctioned
+  mast, read by Noa for the office, which spends that week's go (about 0.30, off her own
+  half dram). A stack read on the Chair's instruments is an incident. The figures show the
+  summer's and autumn's work; the dark weeks earn none.
 - **Each single door is relit under Aske's eye** before any crossing is thought of. No
   three-door sequence occurs in this movement. Nobody with authority asks for one.
 - **Two nights on Graywater's van,** both in the first month. The first is a learning night.
@@ -104,7 +116,13 @@ These are the few fixed turns. Order, staging, and everything between them are t
 - **Seven's entry is signed under a captain.** The plan expects Perrin, who keeps the word and
   the brake, and expects him to mind.
 - **The warrant is posted** at more than Kellan's ten: planned at three drams a head, five
-  heads, fifteen. The book that had "something over" does not.
+  heads, fifteen. Which five depends on Kellan's choice; with him gone they are Kiva, Anwen,
+  Perrin, Jude, and Pru as reserve. Fifteen from 25.53 leaves 10.53 before any training, and
+  the hand-to-Ember crossings and Coombe's floors already planned against it (about 1.8 and
+  4.0, `BOOK_MAP.md` section 8) leave 4.73 before any call reserve. The book does not run dry
+  in this movement; it must be shown that its "something over" is already spoken for. Whether
+  the warrant is paid or only posted here is the author's. If paid, enter it and keep the
+  sum exact to the hundredth.
 - **Saltmere answers Mara.** They tried the eleven sheets and failed. The harbour's water
   does not lie still. It should arrive as a fact from working people, with a detail Mara can
   use.
@@ -118,7 +136,9 @@ Developed scenes, each a changing problem. No montage of eleven weeks.
 - **Drum work,** early, with dark hands. A drum is a small bank: one cell alone on an open
   link. Let something about one of the seven refuse the method that worked on the hill, so
   that the reader learns the method again by watching it bend. Mara is in charge and has one
-  hand on a card.
+  hand on a card. Kiva is not Bench-passed and touches no municipal cell; Mara's rule from
+  Book One stands (she does not come over a sill). Her use at a drum is the ground she
+  reads and the count she names, from the pavement.
 - **A dark-hands floor or yard with the four,** in which Kiva's usefulness is in question and
   Pru's is not.
 - **The first van night:** terrain, positions, the *before* column read out, Pike's hem, and
@@ -127,14 +147,26 @@ Developed scenes, each a changing problem. No montage of eleven weeks.
   ground, the reach, the roles, and the limits privately before writing it. The thing they
   meet obeys spawn anatomy and combines it. The crew tests, meets resistance, adjusts, and
   pays. Kiva is forbidden to set or call. What she does inside that rule, or at its edge, is
-  the scene's question, and its consequence carries into Movement Two.
+  the scene's question, and its consequence carries into Movement Two. Choose the
+  combination so that it is Seven's first, failed meeting with a behavior Movement Two
+  trains against: a pack that keeps a count among itself, or a hem that folds as a catcher's
+  ward does (`BOOK_MAP.md` section 6). The crew need not name it. If Pike's hands are the
+  cost, the card's wording stands (second to Pike, two nights in each of the second and
+  third months, six at most), so decide and record what his hands do to those four nights.
 - **One honest test of the two fingers.** They report pressure. Hart knew a stepped bank "with
   the hand, the bad one." The planned finding is narrow: through something solid, they may
   tell her that a thing is keeping time, and not what time. It is not healing, not a combat
-  sense, and not reliable. If the page does not earn it, leave the question open and say so
-  in the checkpoint.
+  sense, and not reliable. It rests on what Book One gave them: "something's pushing" is
+  their word, and the heel and last two fingers did the reading in chapter 41 while the first
+  two said only "pavement." So test the two alone, against a steady push and a counted one,
+  and let them fail the way they fail. If the page does not earn it, leave the question open
+  and say so in the checkpoint.
 - **A human contest** somewhere in the eight: Seven against people who adapt, with Kiva on one
-  declared door after the new year, and a correction the four can try again.
+  declared door after the new year, and a correction the four can try again. It is not the
+  Halden License learning fight; that is Movement Two's, with Kellan opposite, and is spent
+  there. A yard or practice contest needs no ruling. If it is a sanctioned event, the
+  Chair's 2681 conditions are on no page and must be written on this one (one door declared,
+  any change declared).
 
 Carry every injury, strap, card, and dram forward. Perrin's ribs take weeks. Mara's hand has a
 date on it.
@@ -145,7 +177,8 @@ The owner's numerical formula governs. Write toward it across the eight chapters
 
 - **Viewpoint:** about 87% Kiva. About 6,200–6,800 words of cutaway across three or four of
   the five lenses (Anwen, Kellan, Mara, Orla, Rhea), each for something Kiva cannot see.
-  Orla with the card and Mara with the coast's answer are the natural two.
+  Mara with the coast's answer and Orla deciding to tell are the natural two. Book One
+  chapter 48 already gave Orla reading Hart's card alone; do not give it twice.
 - **Progression vocabulary:** this is the front third. The formula's 58 hits per 10,000 words
   and 1.7 ratio work out to about **80 per 10,000 here** and about 47 after Movement Two.
   Teach hard, through attempts: the license steps, the national roll, the boards and how they
@@ -197,7 +230,11 @@ copies out for Hart and what she finds she cannot. The Rowan table when Kellan c
 Perrin as captain. Humor, weather, food, the laundry next door, and every line of talk. Where
 the eight chapters break. The last image.
 
-Use movement-sized causality. The dark weeks should teach the thing the van nights test. The
+Use movement-sized causality, and let the questions get dearer as they widen: first private
+(what is she for, dark, on a count that is not hers); then professional (what a master does
+that he cannot say, and where it stops); then institutional (the bill, the captain, the four
+who must be chosen). Each stage should make the next cost more. Scene order inside that
+ladder is the author's. The dark weeks should teach the thing the van nights test. The
 second night should change what the four must train for. The warrant should make that
 training a matter of ash. The last chapter should leave Seven facing Movement Two with a
 date, a bill, a captain, and a catcher who has started to write somebody else's method down.

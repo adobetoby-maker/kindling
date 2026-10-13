@@ -2,9 +2,9 @@
 set -euo pipefail
 
 repo_root="$(cd "$(dirname "$0")/.." && pwd)"
-prompt_rel="books/book-2680-national-measure/planning/OPUS-5.5-MOVEMENT-001.prompt.md"
+prompt_rel="books/book-2680-national-measure/planning/OPUS-5.5-MOVEMENT-001.v2.prompt.md"
 prompt_path="$repo_root/$prompt_rel"
-expected_hash="d4068109a72505532cab26ba5679edbc8f682d982775aa41766456181d325c80"
+expected_hash="13a2e2da3a5ad945308256278c027ec42b618929fa7215c202f5c7d6f1e821e2"
 
 if ! command -v claude >/dev/null 2>&1; then
   echo "Claude Code is not installed." >&2
