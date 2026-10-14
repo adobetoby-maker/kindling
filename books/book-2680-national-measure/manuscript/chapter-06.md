@@ -2,15 +2,15 @@
 
 She wrote him up on Sunday, at the kitchen table, on the Works paper that was ruled in seven.
 
-It took the whole afternoon. She had nine things by the end of it, and each of them had a line to itself: what it was called, and what he did, and how. The last column she left empty all the way down. That was his.
+It took the whole afternoon. She had nine things by the end of it, each with a line to itself: what it was called, and what he did, and how. The last column she left empty all the way down. That was his.
 
 The eighth entry took longer than the other eight together.
 
 *The third turn of the cord.* She had seen it three times, on three bags. *What: he changes hands. The right has the first turn and the second. On the third the right only holds, and the left takes the long end under.*
 
-It was there. She had watched it as she had watched a laundress's hip. But a hip was a trick, and this did not look like one. It looked like a man sparing something.
+It was there; she had watched it as she had watched a laundress's hip. But a hip was a trick, and this did not look like one. It looked like a man sparing something.
 
-He had said that he did not want what was wrong. He had also said *which hand I use, and when,* in so many words, by a stove.
+He had said that he did not want what was wrong; he had also said *which hand I use, and when,* in so many words, by a stove.
 
 "You've had that pencil in the air for ten minutes," said Mara.
 
@@ -28,7 +28,7 @@ Kiva wrote it in.
 
 Pike read them on Tuesday, by the stove in the mending room, with his spectacles on.
 
-She had not known that he owned spectacles. He took them from a tin in his apron, and hooked them on one ear at a time, and held the sheet a long way off.
+She had not known that he owned spectacles. He took them from a tin in his apron and hooked them on one ear at a time, and he held the sheet a long way off.
 
 "You brought me a laundress first," he said.
 
@@ -40,7 +40,7 @@ She had not known that he owned spectacles. He took them from a tin in his apron
 
 "So you did." He laid the ticket on his knee and took up the sheets. "Now me."
 
-He read as he sewed. He set his eye to a line and pulled it through, and did not go on to the next until it was fast.
+He read as he sewed: he set his eye to a line and pulled it through, and did not go on to the next until it was fast.
 
 "*The heel. Twice, a pace apart, before the cloth.*" He took her pencil out of her hand, without asking, and wrote in the empty column at the right, in a square slow print. "Why. Since ash runs to the low side while it's open. Lay the seam up the fall and it runs to the neck. Lay it across and you've a heap in your corner-hand's lap." He went down a line. "*The cord in the coat.* Wax. *Kneels with the gate at his back.* That's the book; I'll not write the book out. *Left knee on the hem.*"
 
@@ -76,11 +76,11 @@ Then he came to the wait, and stopped.
 
 "Not above four times. It's leaned to the lit end, or it's lain flat, for six-and-twenty years." His square face did not change. "Since the thaw it leans a hair every time. To nothing that I can find. I'd not thought about that until you made me say what I was looking at."
 
-He wrote in the column. It was the longest that he had written. *Why: to see what the heap is listening to, before I put my people's hands near it.*
+He wrote in the column, and it was the longest that he had written. *Why: to see what the heap is listening to, before I put my people's hands near it.*
 
 "That's a good one," he said, grudgingly. "I'd have gone to my grave not telling a corner that."
 
-He went on. He came to the eighth.
+He went on, and came to the eighth.
 
 Kiva watched him read it. She saw him get to the end of the line, and go back to the beginning, and she saw the grey come up over his collar.
 
@@ -96,7 +96,7 @@ Kiva watched him read it. She saw him get to the end of the line, and go back to
 
 "I don't know since when. I've only seen three."
 
-He said nothing. He took his right hand out from where it lay on the canvas, and held it to the stove, and shut it. It shut as a stiff gate shuts. The fingers went, and the thumb came after, late, by the width of a breath.
+He said nothing. He took his right hand out from where it lay on the canvas, and held it to the stove, and shut it, as a stiff gate shuts: the fingers went, and the thumb came after, late, by the width of a breath.
 
 "The autumn before last," said Pike. "It's the cold. It closes behind the rest. I can't trust it to pin on a third turn, so the left does it, and I'd have told you on oath that nobody could see."
 
@@ -110,7 +110,7 @@ He said nothing. He took his right hand out from where it lay on the canvas, and
 
 "Then that's the last column," said Kiva. "I left it empty. It's yours."
 
-He looked at her over the spectacles. It was not a friendly look. He had asked for a thing, and been given it, and it had turned out to have an edge.
+He looked at her over the spectacles, and it was not a friendly look. He had asked for a thing, and been given it, and it had turned out to have an edge.
 
 He wrote. He bore down on the pencil.
 
@@ -130,7 +130,7 @@ He wrote. He bore down on the pencil.
 
 "And that's a man nine years on my hem, with his name in a column." He struck through one word and wrote another over it. *A corner.* "It's not about him. It's not about me, come to that. It's about you. *Would have spoken.*"
 
-"I put it since it was so."
+"I put it because it was so."
 
 "Then leave it. I'd sooner have a second who writes down that she nearly opened her mouth than one who pretends that she never wanted to." He squared the sheets on his knee. He took the spectacles off, an ear at a time. "Nine. And two that I'd not have known I did, and one that I'd have paid you not to see."
 
@@ -142,7 +142,7 @@ She waited.
 
 "There's one that you've missed. It's the one that matters most to anybody kneeling where you kneel." He nearly smiled, and thought better of it. "I'll not tell you. If I tell you, you'll look for it, and then you'll see it whether it's there or not. You'll find it or you won't."
 
-He gave her the sheets back. He kept the laundry ticket.
+He gave her the sheets back, and kept the laundry ticket.
 
 "I'm having this," said Pike. "I've a notion to read it to Finch."
 
@@ -164,7 +164,7 @@ He stopped there. It was not for long. But Kiva was standing next to him, and sh
 
 "Three," said Anwen.
 
-"I said two. In the tenth month, at your table. I said that it wouldn't be less." He was writing on his cuff, quickly, as though it were a relief. "Five heads is fifteen. We hold five-and-twenty and twenty-one hundredths, if nobody lights anything tomorrow."
+"I said two. In the tenth month, at your table. I said that it wouldn't be less." He was writing on his cuff, quickly, as though it were a relief. "Five heads is fifteen. Out of five-and-twenty, if nobody lights anything tomorrow."
 
 "We're lighting tomorrow," said Perrin. "Old Four's coming to the yard."
 
@@ -174,7 +174,7 @@ He stopped there. It was not for long. But Kiva was standing next to him, and sh
 
 "There isn't one on the Circuit's roll," said Noa. He was at the end of the board again. "Sorn's a Torch. So's Miss Dane. It's the rank above. Coombe ran mixed fours on the coast for thirty years, and the Board's had her write its hunt rules." He went pink. "I asked the clerk."
 
-"A dram a head," said Kellan. "Four heads on a floor. If she gives us one floor, that's four. I don't know how many she gives." He added it. "So it's fifteen and four. That's nineteen, before anybody's so much as bought a cord. Out of five-and-twenty."
+"A dram a head," said Kellan. "Four heads on a floor, and I don't know how many floors she gives." He added it under the fifteen. "Nineteen at the least, before anybody's so much as bought a cord."
 
 "*A captain,*" said Jude.
 
@@ -204,7 +204,7 @@ Kiva watched him go.
 
 She had done the sum that he had done, and she had done another, which was not on the board. If Kellan Renn stood for Halden License, then Seven was a catcher, a Hold, a carry and a Kill by name. If he stood for Seven, then a Works yard with a string in a cage would have a peg with nothing on it, and the best feet in the School would have turned their back on it twice.
 
-She did not know which she wanted. She found that she was rather ashamed of how much she wanted to be asked.
+She did not know which she wanted, and she found that she was rather ashamed of how much she wanted to be asked.
 
 ---
 
@@ -416,11 +416,11 @@ It was all that he said. He gave Anwen the pen.
 
 Kellan Renn counted the rivets on Thursday.
 
-He had not meant to. He had not done it since the ninth month. But he came in under the refinery gate at four, with his own cuff in his pocket, and found that he was at two hundred and six before he had told himself to stop.
+He had not meant to, and he had not done it since the ninth month; but he came in under the refinery gate at four, with his own cuff in his pocket, and found that he was at two hundred and six before he had told himself to stop.
 
 That was a bad sign. He counted things when he had already decided and did not care for the answer.
 
-The license yard was as it always was. There was the blue brick, and the lattice house at the north end, and the paid wards standing easy along the wall. There was the hum coming up through his boot soles, slow and even, the tread of a great many people going by on the far side of a wall. His feet wanted to fall in with it.
+The license yard was as it always was: the blue brick, and the lattice house at the north end, and the paid wards standing easy along the wall. There was the hum coming up through his boot soles, slow and even, the tread of a great many people going by on the far side of a wall. His feet wanted to fall in with it.
 
 He counted threes against it, as he had since the autumn, and they steadied.
 
@@ -428,7 +428,7 @@ He counted threes against it, as he had since the autumn, and they steadied.
 
 "Yes, sir."
 
-He went up the back of the string in two bounds, dark, on his struts. It was the same string. It had been in that cage since the thaw, and he had taken its top rung twenty-six times. He knew how it stood as he knew his own stair.
+He went up the back of the string in two bounds, dark, on his struts. It was the same string, which had been in that cage since the thaw, and he had taken its top rung twenty-six times; he knew how it stood as he knew his own stair.
 
 "*Now?*"
 
@@ -438,21 +438,17 @@ He lit. It was four-tenths, to a hair. The edge went through level, and he was d
 
 "*Dark. One. Corners.*"
 
-Pettit and Hesketh hauled. It was very clean. It was cleaner than anything that he had seen on a Circuit floor; these three had had a contained string to themselves two days in the week since the thaw, and it showed in every hand.
+Pettit and Hesketh hauled, and it was very clean, cleaner than anything that he had seen on a Circuit floor; these three had had a contained string to themselves two days in the week since the thaw, and it showed in every hand.
 
 "Sealed," said Yarrow. "Forty-one."
 
-A grader in a black coat held a comb over the neck. Kellan could not hear the reed from where he stood. He could see the tag that the man wrote, and it was red.
+A grader in a black coat held a comb over the neck. Kellan could not hear the reed from where he stood, but he could see the tag that the man wrote, and it was red.
 
 It was always red on this floor. He had stopped noticing that.
 
-He noticed it now, since he had spent a fortnight with a printed sheet in his head. *Marked on clean yield.* Clean was under trace on the seventh reed. This was a yard that kept step, with a bank under the brick that had been salted to a beat before he was born, and every rung that had ever fallen on it had been open for a slow sixty with that under it.
+He noticed it now, because he had spent a fortnight with a printed sheet in his head. *Marked on clean yield.* This was a yard that kept step, with a bank under the brick that had been salted to a beat before he was born.
 
-He had the figures. He kept everything. Nine rungs since the new year, and nine red tags.
-
-It did not matter on a license yard. Halden did not tin what fell here; it was a practice string, and the ash went back into the Works' own stock, where the Step was wanted. It would matter a great deal on a tidal flat, with a marshal's comb at the gate.
-
-He put that in his cuff, in two figures, and did not say it. He did not yet know whom he would be saying it to.
+He had the figures; he kept everything. He put two of them in his cuff and did not say them. He did not yet know whom he would be saying them to.
 
 "Renn," said Birch.
 
@@ -474,11 +470,11 @@ It was a very ordinary line. It had a ruled space after it, the width of a name.
 
 He made himself do it properly, as a sum, with the working shown.
 
-Halden License had been first at the Regional. It had been first with him on the peg. It would go to Saltmere as one of the three or four fours in the country that might win outright, and whoever cut for it would be read by every draft board on the coast, on a blade that he had never drawn so true as on this brick. He was seventeen. He was a Fire. He had a Draw of eight-two and feet that a foreman looked at before he looked at a face.
+Halden License had been first at the Regional, and it had been first with him on the peg. It would go to Saltmere as one of the three or four fours in the country that might win outright, and whoever cut for it would be read by every draft board on the coast, on a blade that he had never drawn so true as on this brick. He was seventeen, and a Fire, with a Draw of eight-two and feet that a foreman looked at before he looked at a face.
 
 On the other side there was a kitchen table.
 
-There was a team that had been sixth by yield, in brackets, and was fourth by no better title than that it had stood on a hill in the dark. There was a catcher with one door declared and a rank with a clause in it. There was a Kill who came down heavy and had seven drams and eight-tenths by name. Seven would not be worse at the cut without him. He had seen Talley on a tenth knot. It would be worse at one thing only. It would have a blade who had not spent a spring learning to say *now?* over his shoulder.
+There was a team that had been sixth by yield, in brackets, and was fourth by no better title than that it had stood on a hill in the dark. There was a catcher with one door declared and a rank with a clause in it. There was a Kill who came down heavy and had seven drams and eight-tenths by name. Seven would not be worse at the cut without him. It would be worse at one thing only: it would have a blade who had not spent a spring learning to say *now?* over his shoulder.
 
 And he had declared for them. He had done it at the Regional, under rule nineteen, in front of eleven hundred people, with this yard's jacket on his back. He had taken the jacket off.
 
@@ -486,9 +482,9 @@ And he had declared for them. He had done it at the Regional, under rule ninetee
 
 He found that it was still true. He would turn his back on this floor again, for that four, on any day when it was the four or the floor.
 
-It was not that kind of day. Nobody was asking him to wear anything. There was a board with ninety-six marks on it, and a roll that took eight, and he wanted to know what he was. He wanted to stand in the best four in the country and find out whether he was the weak corner of it. He would never learn that at a kitchen table, where he was the one whom the others looked at when a thing wanted cutting.
+It was not that kind of day. Nobody was asking him to wear anything. There was a board with ninety-six marks on it, and a roll that took eight, and under the sum there was a reason that he had not yet put into words, even on his cuff.
 
-That was the whole of it. It had no shine on it whatever. He turned it over, looking for something better underneath, a reason that he could have said to Pryce without his ears going white.
+It had no shine on it whatever. He turned it over, looking for something better underneath, a reason that he could have said to Pryce without his ears going white.
 
 There was not one.
 

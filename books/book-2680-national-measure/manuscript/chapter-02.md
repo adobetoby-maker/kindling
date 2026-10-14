@@ -164,9 +164,9 @@ She put the cord under her arm, inside her tunic, and they waited two minutes by
 
 It slipped again.
 
-It slipped a third time. On the fourth Pru got it round and it held, and she sealed at fifty-nine with her face the color of brick, and on the fifth it went from under her fingers like a fish.
+It slipped a third time. On the next Pru got it round and it held, and she sealed at fifty-nine with her face the color of brick, and on the sixth it went from under her fingers like a fish.
 
-"That's three lost in five," she said. Her voice had gone up. "I do it right thirty in thirty-four. Pike counted. I've done it at a planked grating, in the dark, with a warden for a corner. I don't *lose* them."
+"That's four lost in six," she said. Her voice had gone up. "I do it right thirty in thirty-four. Pike counted. I've done it at a planked grating, in the dark, with a warden for a corner. I don't *lose* them."
 
 "It's cold," said Anwen, without turning round. "My wall's stiff too. Everything's slower."
 
@@ -286,13 +286,13 @@ Jude wound the hoist down. He was looking at Kiva again.
 
 "No," said Kiva. "I know that it isn't."
 
-She had thought about it while she rolled the hem. A second pin on a cord was Pru's. She had not found it; she could not have found it in a year, with a hand that did not know one thread from two. All that she had done was to say what was there. Anybody with eyes could have said it. It was only that nobody else had been kneeling in the right place with nothing better to do.
+She had thought about it while she rolled the hem. A second pin on a cord was Pru's. She had not found it; she could not have found it in a year, with a hand that did not know one thread from two. All that she had done was to say what was there, and anybody with eyes could have said it; it was only that nobody else had been kneeling in the right place with nothing better to do.
 
 It was not an answer for a clerk. But she found that she did not mind having done it, and she had rather expected to.
 
 They signed the book on the lid of the quench box, since the kitchen table was a mile off. Kellan read it.
 
-"*Saturday the 22nd. The Low Lane. A rung to a bag under a porch; fifteen thrown, eleven sealed. Lit: Pryce, a porch, 0.16. Renn, two cuts on the post, 0.07. Talley, three, 0.09. Rowan, nothing; dark, on her healer's card. Cade, nothing; a clock.*" He did not smile. "*Spent: 0.32. Held: 25.21. Sealed, medical, W: 0.8.*"
+"*Saturday the 22nd. The Low Lane. A rung to a bag under a porch; seventeen thrown, twelve sealed. Lit: Pryce, a porch, 0.16. Renn, two cuts on the post, 0.07. Talley, three, 0.09. Rowan, nothing; dark, on her healer's card. Cade, nothing; a clock.*" He did not smile. "*Spent: 0.32. Held: 25.21. Sealed, medical, W: 0.8.*"
 
 "That adds," said Anwen.
 
@@ -304,19 +304,19 @@ He signed. He held the pen a moment afterward, as he had held a pencil on Thursd
 
 Orla Dane read the book on Sunday evening, under the lamp at the first shed, with her stick hooked on the crate beside her.
 
-She read it every Sunday. It was a condition, written in a Chair's level hand under a certificate, and she had thought it a nuisance in the spring. She had since come to wait for it rather as some people wait for the post.
+She read it every Sunday, because a Chair had written that she should, in a level hand under a certificate; she had thought it a nuisance in the spring, and had since come to wait for it rather as some people wait for the post.
 
-The crate stood a pace north of where it had stood for one-and-twenty years. She had not got used to that. She kept finding the bottom wall a yard farther off than her shoulder expected.
+The crate stood a pace north of where it had stood for one-and-twenty years, and she had not got used to that. She kept finding the bottom wall a yard farther off than her shoulder expected.
 
-It had been a quiet week in the book. There were no doors in it. There was a boat, and a seal that a stranger had pressed, and a drum on the Brickfields road.
+It had been a quiet week in the book, with no doors in it: there was a boat, and a seal that a stranger had pressed, and a drum on the Brickfields road.
 
 She read the drum twice.
 
-It was not like the girl's other pages. Orla had been reading that square pencil hand since the fourth month, and she knew what it did. It set down what had been felt, on the left, and what was thought about it, on the right, and it left *I can't weigh it* lying about like a tool that was always wanted. This did that for half a page. Then it changed.
+It was not like the girl's other pages. Orla had been reading that square pencil hand since the fourth month, and she knew what it did: it set down what had been felt, on the left, and what was thought about it, on the right, and it left *I can't weigh it* lying about like a tool that was always wanted. This did that for half a page. Then it changed.
 
 *One at the needle. One at the water. Neither counts.*
 
-That was an instruction. It was written to somebody who was not in the yard.
+That was an instruction, written to somebody who was not in the yard.
 
 She turned over, and found Saturday. *P. Finch's third turn: the left thumb lifts when the cord is stiff, and the first turn eases. I saw it. I can't do it. She found the mend herself; a second pin, with the little finger. Mine: what was there. Hers: why, and what to do.*
 
@@ -324,51 +324,51 @@ And at the foot of Tuesday, small, on the right: *I don't yet know what I'm for,
 
 Orla shut the book on her finger.
 
-There was a card in her coat. It had been there for nine days. It was a cheap one, such as a fitter used for his accounts, and it had four lines on it in a round hand, and she could have said them over with her eyes shut.
+There was a card in her coat, and it had been there for nine days. It was a cheap one, such as a fitter used for his accounts, with four lines on it in a round hand, and she could have said them over with her eyes shut.
 
 *Tell the one who writes everything down that I should like to read it.*
 
-She had told nobody. She had not even told herself that she was not telling; she had put it in the inside pocket, on the Friday that it came, and on the Sunday she had sat on this crate and watched the child lay a hand on a proof sheet with two dead fingers, and had thought, *not tonight.* That had been a decent thought. She had been pleased with it.
+She had told nobody. She had not even told herself that she was not telling; she had put it in the inside pocket, on the Friday that it came, and on the Sunday she had sat on this crate and watched the child lay a hand on a proof sheet with two dead fingers, and had thought, *not tonight.* That had been a decent thought, and she had been pleased with it.
 
 It had gone on being *not tonight* for nine nights.
 
 She made herself look at the reasons, since the dark was a good place for it and she had had some practice.
 
-The first was that the girl was hurt. She had an arm that had gone to candle and come back, and a healer's card, and eleven weeks of nothing. One did not hand a thing like that card to somebody in a sling. That was true. It was also the reason that Orla would have given aloud, to a Chair or to an aunt, and she had learned in twenty years to distrust whichever reason she would have chosen to say aloud.
+The first was that the girl was hurt: she had an arm that had gone to candle and come back, and a healer's card, and eleven weeks of nothing, and one did not hand a thing like that card to somebody in a sling. That was true. It was also the reason that Orla would have given aloud, to a Chair or to an aunt, and she had learned in twenty years to distrust whichever reason she would have chosen to say aloud.
 
 The second was plainer. She wanted him to have the book.
 
-She wanted it more than she had wanted anything since she came off the Line. She wanted a man of forty on the south coast to sit down with those pages and see what a seventeen-year-old with his kind of trouble had done when it went wrong. She had written it down. She had written down *I stacked* and *I can't weigh it* and *the count is somebody else's,* in pencil, with the cost beside it, and had not torn out a leaf.
+She wanted it more than she had wanted anything since she came off the Line. She wanted a man of forty on the south coast to sit down with those pages and see what a seventeen-year-old with his kind of trouble had done when it went wrong. The girl had written it down: *I stacked,* and *I can't weigh it,* and *the count is somebody else's,* in pencil, with the cost beside it, and she had not torn out a leaf.
 
-He had never been let write anything down. Orla had had it all worked out for him beforehand. She had built him a step at a time, with every step explained, and she had been proud of how little there was left for him to find.
+He had never been let write anything down, because Orla had had it all worked out for him beforehand; she had built him a step at a time, with every step explained, and she had been proud of how little there was left for him to find.
 
-So she wanted it, and it would feel like paying something. And that was the best reason in the world to keep her hands off it. A sponsor who used one candidate to settle her account with another had learned nothing whatever.
+So she wanted it, and it would feel like paying something; and that was the best reason in the world to keep her hands off it. A sponsor who used one candidate to settle her account with another had learned nothing whatever.
 
-She had got that far by the Wednesday. She had been rather comfortable there.
+She had got that far by the Wednesday, and had been rather comfortable there.
 
 It was the third reason that she had not looked at, and she looked at it now.
 
 The card was not hers.
 
-He had not written, *I should like to read it, if you think it wise.* He had not asked for her judgment of what a girl could bear. He had sent four lines, and the third of them was a message, and it was addressed to somebody else. *Tell the one.* It was the only thing that Jessamy Hart had asked of her in twenty years, and she had sat on it for nine days while she decided whether a person of seventeen ought to be let have her own post.
+He had not written, *I should like to read it, if you think it wise;* he had not asked for her judgment of what a girl could bear. He had sent four lines, and the third of them was a message, addressed to somebody else. *Tell the one.* It was the only thing that Jessamy Hart had asked of her in twenty years, and she had sat on it for nine days while she decided whether a person of seventeen ought to be let have her own post.
 
 *I never asked him anything,* she had said to Rhea Sorn, in a watch room, not three weeks ago, *since I knew the answers.*
 
 She had said it as a thing that she used to do.
 
-Orla took the card out. She did not read it. She only held it, in the lamplight, and looked down the lane at a black post with a bar hanging on the wall behind it.
+Orla took the card out, and did not read it; she only held it, in the lamplight, and looked down the lane at a black post with a bar hanging on the wall behind it.
 
-She had sat under that for one-and-twenty years without knowing what it was for. It had been a handle. It had been waiting the whole time for somebody to say aloud who had it.
+She had sat under that for one-and-twenty years without knowing what it was for. It had been a handle, and it had been waiting the whole time for somebody to say aloud who had it.
 
 "Well," she said, to the post. "It isn't me."
 
-She would tell her tomorrow. She would do it here, since this was where she told people things, and she would put the card into the girl's own hand before she said a word about it. Then she would say what she wanted out of it, first and flatly, so that it could be allowed for. And then she would shut her mouth, which she had always found the hard part.
+She would tell her tomorrow, and she would do it here, since this was where she told people things; she would put the card into the girl's own hand before she said a word about it. Then she would say what she wanted out of it, first and flatly, so that it could be allowed for, and then she would shut her mouth, which she had always found the hard part.
 
-He might write to the child after that, and not to her. She turned that over. It was very likely. It was, when she came to weigh it, no more than his right.
+He might write to the child after that, and not to her. She turned that over: it was very likely, and it was, when she came to weigh it, no more than his right.
 
 She found that she could bear it. She had not expected that, either.
 
-Her knee had stiffened. She got up by the crate, in two stages, and unhooked the lamp.
+Her knee had stiffened, and she got up by the crate, in two stages, and unhooked the lamp.
 
 ---
 

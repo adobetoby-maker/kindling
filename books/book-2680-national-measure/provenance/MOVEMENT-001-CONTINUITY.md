@@ -32,9 +32,9 @@ phrasings of dates (chapter 8); the first notice's "in the first month" (chapter
 |---|---|---|
 | **Mon 17th, tenth** | Ten to seven, the Hythe stair: the eleven sheets go on the coast boat. The mate presses the seal at Kiva's asking (*her hand*). Nine: **drum nineteen.** Two fresh cans fall back in (at 58 and 61 counts). The salt is suspected and cleared. Kiva, from the pavement, has the warden and Ned say *now* at the needle and at the cork; Mara counts between: a five. **The drum had been given the third pump's count.** | 1 |
 | Tue 18th | Drum nineteen out, on eleven. Perrin's second-team jersey on the laundry step. Kiva writes the two-voices method "so that Ned could do it." | 1 |
-| Wed 19th – Tue 25th | The other six drums come out, one a day, on counts that divide by nothing (reported). The last, twenty-eight, on the 25th, on thirty-one. | 1, 4 |
+| Wed 19th – Mon 24th | The other six drums come out, one a day, on counts that divide by nothing (reported). The last, twenty-eight, on the 24th, on thirty-one. | 1, 4 |
 | **Thu 20th** | The Charter Board's first notice in the Measure Hall basement (section 4). Selka Dray's board is shorter; "forty degrees." | 2 |
-| **Sat 22nd** | Jude Talley's floor, the Low Lane. Three bags lost to a cold cord. **Jude asks what Seven is taking Kiva to Saltmere for.** Kiva sees Pru's thumb lift; Pru finds the second pin. Team book: 0.32. | 2 |
+| **Sat 22nd** | Jude Talley's floor, the Low Lane. Four bags lost in the first six to a cold cord. **Jude asks what Seven is taking Kiva to Saltmere for.** Kiva sees Pru's thumb lift; Pru finds the second pin. Team book: 0.32. | 2 |
 | Sun 23rd | Orla reads the book and decides to tell (cutaway). | 2 |
 | **Mon 24th** | The twelfth sheet goes on the boat. Four o'clock, the Old Yard: **Orla gives Kiva Hart's card.** Kiva: no book; a copy, in her own hand, of method and what went wrong first; a gap to be declared, not described. Evening: Kiva tells Mara. | 2, 3 |
 | A Thursday in the fortnight after | Kiva reaches the page of the 6th and **decides that neither the keeper's line nor any question about a fever goes south.** She tells Mara. | 3 |
@@ -299,7 +299,7 @@ from her own heart, and she did not act on them.
 | Date | Entry | Sealed (W) | Held |
 |---|---|---:|---:|
 | Carried, 15th of the tenth | | 0.8 | 25.53 |
-| **Sat 22nd of the tenth** | The Low Lane; fifteen thrown, eleven sealed. Pryce 0.16; Renn 0.07; Talley 0.09. Spent 0.32. | 0.8 | 25.21 |
+| **Sat 22nd of the tenth** | The Low Lane; seventeen thrown, twelve sealed. Pryce 0.16; Renn 0.07; Talley 0.09. Spent 0.32. | 0.8 | 25.21 |
 | **Sat 16th of the first** | The Old Yard; four carries. Pryce 0.21; Cade 0.12; Renn 0.24. Spent 0.57. | 0.8 | 24.64 |
 | **Fri 29th of the first** | Warrant, five heads at 3.0 (Rowan, Pryce, Cade, Talley, Finch): **15.0, paid with the entry.** | 0.8 | **9.64** |
 

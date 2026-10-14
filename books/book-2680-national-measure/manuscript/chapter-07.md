@@ -148,11 +148,11 @@ It was leaning straight down.
 
 *Nine. Ten.* That was his eleven, nearly. He had never gone past eleven.
 
-He did not call the corners. He knelt there with his hands open and his square face perfectly still, and she understood that he was looking at a thing which he had not seen before in six-and-twenty years.
+He did not call the corners. He knelt there with his hands open and his square face perfectly still, and she understood that he was looking at a thing which he had not seen before in twenty-six years.
 
 *Twelve.*
 
-Something moved at the bottom of the cloth.
+Something moved at the bottom of the cloth, down the fall toward the river.
 
 It was not a corner. A corner came up proud in a loose fold, a hand high, where one man had hauled before his neighbor. This was a line. It ran straight across the canvas from one side to the other, below the heap, as true as a rule, and it was rising. The cloth humped along it like a carpet with a draught beneath.
 
@@ -170,7 +170,7 @@ She had her mouth open.
 
 She shut her teeth. She looked at his knee.
 
-It was on the top hem, at the head of the cloth. The line was three paces below it, under the middle of the canvas, with a heap between. His eyes were on the heap. Down at the bottom corners, Purvis and Hobday had felt their cloth come slack toward them of its own accord, and each had taken in a careful hand of it, pleased.
+It was on the top hem, at the head of the cloth, uphill by the thing's legs. The line was three paces below it, on the river side of the heap, under the middle of the canvas; from where he knelt it was the far edge of his own cloth, with the heap between. His eyes were on the heap. Down at the bottom corners, Purvis and Hobday had felt their cloth come slack toward them of its own accord, and each had taken in a careful hand of it, pleased.
 
 Nobody had it.
 
@@ -498,7 +498,7 @@ She had not spoken since the wharf.
 
 "You stopped."
 
-"I stopped since somebody had said *far edge.* I'd not have known it for a fold. It was under a cloth. I can't see through a cloth." She put the hands away in her sleeves. "It's my fold. I do it every day. And I'd not have known."
+"I stopped because somebody had said *far edge.* I'd not have known it for a fold. It was under a cloth. I can't see through a cloth." She put the hands away in her sleeves. "It's my fold. I do it every day. And I'd not have known."
 
 "I was a count late."
 
@@ -530,7 +530,7 @@ She had the slate, and she read it under the lamp, standing, to a catcher's seco
 
 She turned it over.
 
-"*Remarks: two. The book calls a lying hem ground. This was a skin, laid down for a cloth, and it folds from the far edge, and a catcher of six-and-twenty years put his heel on it and called it ground since the book did. That remark is the book's.*" Her voice did not change. "*And the second spoke before a bag was sealed. Two words. They were true. They were a count late, and the count was mine; I had told her to hold her tongue. That remark is the officer's.*"
+"*Remarks: two. The book calls a lying hem ground. This was a skin, laid down for a cloth, and it folds from the far edge, and a catcher of six-and-twenty years put his heel on it and called it ground because the book did. That remark is the book's.*" Her voice did not change. "*And the second spoke before a bag was sealed. Two words. They were true. They were a count late, and the count was mine; I had told her to hold her tongue. That remark is the officer's.*"
 
 She hung it on her belt.
 
@@ -584,7 +584,7 @@ Rhea turned that over.
 
 Nobody had looked behind the cloth.
 
-She had a column for *before.* She had ruled it in this room, with a sponsor sitting on that bench saying that she had not climbed two flights for a yes. She read it aloud each night now, to everybody, since a girl of seventeen had made it a condition. And tonight she had read out a line in it that had cost a man his hands for six weeks, and she had read it as one reads the date.
+She had a column for *before.* She had ruled it in this room, with a sponsor sitting on that bench saying that she had not climbed two flights for a yes. She read it aloud each night now, to everybody, because a girl of seventeen had made it a condition. And tonight she had read out a line in it that had cost a man his hands for six weeks, and she had read it as one reads the date.
 
 She took the slate off her belt and turned it to the stove.
 

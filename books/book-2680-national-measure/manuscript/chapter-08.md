@@ -6,7 +6,7 @@ It lay on the bench under the window on Sunday afternoon, in eleven short pieces
 
 "I waxed that in the tenth month," he said. "I'd like to know that it finished as a thing with ends."
 
-He was in the chair by the stove. His arms lay along a pillow, bound white to the elbow, and he held them a little away from himself, as one holds a pair of boots that belong to somebody else. Greta Stroud had gone to her dinner. Pru sat on the box in her place, with the cup, and was not allowed to say that she minded.
+He was in the chair by the stove, with his arms laid along a pillow, bound white to the elbow; he held them a little away from himself, as one holds a pair of boots that belong to somebody else. Greta Stroud had gone to her dinner, and Pru sat on the box in her place, with the cup, and was not allowed to say that she minded.
 
 "You've your paper," said Pike.
 
@@ -14,7 +14,7 @@ He was in the chair by the stove. His arms lay along a pillow, bound white to th
 
 "Then you'll write. I can't, and I've a thing or two that I'd sooner were in my words than in Sorn's." He moved his head against the chair. "You found the one that you'd missed."
 
-Kiva had found it on the wharf, at about the fourteenth count. She had not known that she had until she lay awake afterward.
+Kiva had found it on the wharf, at about the fourteenth count, and had not known that she had until she lay awake afterward.
 
 "Your hands never go inside the cloth."
 
@@ -28,7 +28,7 @@ Kiva had found it on the wharf, at about the fourteenth count. She had not known
 
 "Write that the catcher's hands stay outside. Under *why,* put that anything inside a cloth with open ash belongs to whatever the ash is listening to." He waited while she did it. "Now the next column. *Went wrong.*"
 
-She had the pencil on the line. She did not want to write it.
+She had the pencil on the line, and she did not want to write it.
 
 "He reached," said Pike. "Three words. I'll spell them if you like."
 
@@ -44,7 +44,7 @@ Pru made a small sound into the cup.
 
 Kiva wrote it. *Went wrong: he reached.*
 
-It was the plainest line on the sheet. It looked like a meter reading.
+It was the plainest line on the sheet, and it looked like a meter reading.
 
 "And *why,*" said Pike. "That's mine, and I've not got it. I've been at it since four yesterday morning. *A catcher doesn't leave a rung.* That's what I'd have told a corner." He shook his head. "It's not a why. It's what I did. Put that I don't know. Put that the book stopped, and that I went on without it as though it hadn't."
 
@@ -52,7 +52,7 @@ She put that.
 
 "Now a fresh sheet."
 
-She ruled one. It was the last of the Works paper that her aunt had given her in the autumn.
+She ruled one on the last of the Works paper that her aunt had given her in the autumn.
 
 "What's it called?"
 
@@ -92,11 +92,11 @@ There was one square left, at the right.
 
 She left it white.
 
-She squared the ten sheets on her knee. They were not hers. They were a man's whole trade, as far as she had been able to see it from a hem; and the last of them had been made up on a wharf, three nights ago, by a Torch and a laundress and a boy with a barrow. It was the first thing that she had ever written down from beginning to end that had nothing whatever to do with her own hands.
+She squared the ten sheets on her knee. They were not hers: they were a man's whole trade, as far as she had been able to see it from a hem, and the last of them had been made up on a wharf, the night before last, by a Torch and a laundress and a boy with a barrow. It was the first thing that she had ever written down from beginning to end that had nothing whatever to do with her own hands.
 
 She found that she did not miss them in it.
 
-"February," said Pike. "Two nights. Imrie's lending Varley for the cloth; he's a decent pair of hands and he's never been made to say why. I ride. You kneel at my left, which will be his left, and you've the far edge." He looked at her along his nose. "And you'll still not open your mouth. Bar two words."
+"The second month," said Pike. "Two nights. Imrie's lending Varley for the cloth; he's a decent pair of hands and he's never been made to say why. I ride. You kneel at my left, which will be his left, and you've the far edge." He looked at her along his nose. "And you'll still not open your mouth. Bar two words."
 
 "Once."
 
@@ -118,7 +118,7 @@ She told it as a slate is read. She gave them the ground and the gate and the wh
 
 Nobody interrupted. Mara was at the far end of the room, with the tide table across the dresser top, and she did not turn round.
 
-"I'll say what's ours in it," said Kiva. "That was the best crew in Meridian. It had a catcher of six-and-twenty years. He put his boot on the thing and called it ground, since the book does." She looked along the table. "If it had been us on that wharf, Pru would have thrown on it. I'd have called the corners at *one;* I always have. Kellan would have cut on my word. We'd have had somebody's hands in it by the twentieth count."
+"I'll say what's ours in it," said Kiva. "That was the best crew in Meridian. It had a catcher of six-and-twenty years. He put his boot on the thing and called it ground, because the book does." She looked along the table. "If it had been us on that wharf, Pru would have thrown on it. I'd have called the corners at *one;* I always have. Kellan would have cut on my word. We'd have had somebody's hands in it by the twentieth count."
 
 "Mine," said Pru. "It'd have been mine."
 
@@ -152,7 +152,7 @@ There was a short silence.
 
 He had his pencil out. He had been waiting, Kiva thought, for somebody to say a number, so that he could be in the room.
 
-"I'll do it once, aloud, and then it's done. We hold four-and-twenty and sixty-four hundredths. The warrant's three a head. Five heads: Rowan, Pryce, Cade, Talley, and Finch for the reserve. Fifteen." He wrote it on the oilcloth, in a column, upside down to himself so that they could read it. "That leaves nine and sixty-four."
+"I'll do it once, aloud, and then it's done. We hold twenty-four and sixty-four hundredths. The warrant's three a head. Five heads: Rowan, Pryce, Cade, Talley, and Finch for the reserve. Fifteen." He wrote it on the oilcloth, in a column, upside down to himself so that they could read it. "That leaves nine and sixty-four."
 
 "That's not nothing," said Jude.
 
@@ -346,7 +346,7 @@ It was a strange thing to have ready, since it was so small. In the tenth month 
 
 "That's what you are. I asked what for."
 
-"I look where the others aren't looking. And I say what it is, and whose." She found that she could say it without her mouth going dry. "A thumb. A place over a wall where nobody had the litter. A mark that wanted holding before it was tested. The far edge of a cloth. I don't mend any of them. I can't. I've a hand that doesn't know a thread from two. I only say it so that somebody else can."
+"I look where the others aren't looking. And I say what it is, and whose." She found that she could say it without her mouth going dry. "A thumb. A place over a wall where nobody had the litter. My own habit, that Brask was reading like a signpost. The far edge of a cloth. I don't mend any of them. I can't. I've a hand that doesn't know a thread from two. I only say it so that somebody else can."
 
 "It's not much."
 
@@ -384,7 +384,7 @@ They signed under it. Kiva signed second, with her right hand, and Pru put a fin
 
 He had the team book. He had asked for it at the foot of the stairs. *I'm on it for calls,* he had said. *I can still add.*
 
-"*Warrant, the National Measure, at Saltmere. Five heads at 3.0: Rowan, Pryce, Cade, Talley, and Finch, reserve. Paid with the entry: 15.0. Held: 9.64. Sealed, medical, W: 0.8.*" He did not look up. "*Spoken for and not yet spent: the Hunt Marshal's floor, four heads, 4.0. Hand to Ember, six goes, if the catcher's sponsor has her way, 1.8. Uncommitted: 3.84.*"
+"*Warrant, the National Measure, at Saltmere. Five heads at 3.0, the reserve included. Paid with the entry: 15.0. Held: 9.64. Sealed, medical, W: 0.8.*" He did not look up. "*Spoken for, as at the table: 5.8. Uncommitted: 3.84.*"
 
 "That adds," said Anwen.
 

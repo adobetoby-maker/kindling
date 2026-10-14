@@ -54,7 +54,7 @@ It took a fortnight of evenings, and for the first three Kiva did not write a wo
 
 She read. She took the book from where it lay by the brass weight, and she began at the spring, and she tried to go through it as a man might who had never stood in the Old Yard in his life.
 
-It was a strange, uncomfortable thing to do. She had always read that book as one reads a diary, hurrying, knowing how each day came out. Now she made herself stop at every line and ask what a pump-fitter on the south coast would be able to do with it.
+It was a strange, uncomfortable thing to do. She had always read that book as one reads a diary, hurrying, knowing how each day came out; now she made herself stop at every line and ask what a pump-fitter on the south coast would be able to do with it.
 
 Mostly he could do nothing.
 
@@ -64,9 +64,9 @@ Mostly he could do nothing.
 
 *Stacked again. Soft. I knew as I did it.*
 
-It was all true, and it was all written by somebody who had been there to somebody who had been there. There was not a page in the first forty that told a stranger where to put his feet.
+It was all true, and it was all written by somebody who had been there to somebody who had been there, and there was not a page in the first forty that told a stranger where to put his feet.
 
-She ruled a sheet of the Works paper on the fourth evening. It was good stiff stuff, and the seven columns were printed faint blue, with nothing at their heads. She wrote the heads herself, as they stood in a manual three flights down under the Library, and on a sheet in a tin case at the Home Line hall. *What. How. Went wrong. Cost. Second try. Why.* The first column had no name. It was only for what the thing was called and where it lay.
+She ruled a sheet of the Works paper on the fourth evening. It was good stiff stuff, with the seven columns printed faint blue and nothing at their heads, and she wrote the heads herself, as they stood in a manual three flights down under the Library and on a sheet in a tin case at the Home Line hall. *What. How. Went wrong. Cost. Second try. Why.* The first column had no name. It was only for what the thing was called and where it lay.
 
 Then she began to move the book across.
 
@@ -76,7 +76,7 @@ Then she began to move the book across.
 
 *How: test the ground first. Open the still door where you mean to land, by its corners, and shut it again; if there is a room underneath, do not land there. Then say aloud what you are doing, to a count, so that anybody near can hear which door and when. Bound low. Shut the first door at the top of the bound. Wait until the last of it has run home along the ribs. Then open the second, wide, before the foot comes down.*
 
-She read that over. It was longer than anything in the green pages. It had cost her a summer, and it went into nine lines.
+She read that over. It was longer than anything in the green pages; it had cost her a summer, and it went into nine lines.
 
 *Went wrong: opened the second door before the first was shut. Three times. That is a stack. It is soft, and it costs a third of the price, and it lands. It is also two doors open together, and open to anything that is near. I am forbidden it, and I was right to be.*
 
@@ -86,17 +86,17 @@ She read that over. It was longer than anything in the green pages. It had cost 
 
 She stopped at the last column.
 
-*Why.* She knew why. She had known since a night on a hill. But she had never once written it, since nobody who read her book had needed to be told.
+*Why.* She knew why; she had known since a night on a hill. But she had never once written it, because nobody who read her book had needed to be told.
 
 *Why: because a door that is open is open to whatever is by. A gap is dear, and it is shut.*
 
 It looked very bare. She left it.
 
-There were five entries by the end of the first week. There was the crossing. There was the ground test, by itself, with its own *went wrong:* a cross in the dirt that she had landed on all summer, with eight feet of drain under it. There was the list of things that her two fingers could not do, set out as a method, since that was what it had become: *say it before, by name, to whoever has the other end.* There was a drum on the Brickfields road, and two people saying *now.*
+There were five entries by the end of the first week. There was the crossing, and there was the ground test, by itself, with its own *went wrong:* a cross in the dirt that she had landed on all summer, with eight feet of drain under it. There was the list of things that her two fingers could not do, set out as a method, since that was what it had become: *say it before, by name, to whoever has the other end.* There was a drum on the Brickfields road, and two people saying *now.*
 
 And there was the long thing.
 
-She had not known whether to send it. He was twin-kindled, Ember and hand. His doors had fought on a live cell in front of four thousand people. It seemed a hard thing to post to such a man that somebody had since done it with three.
+She had not known whether to send it. He was twin-kindled, Ember and hand, and his doors had fought on a live cell in front of four thousand people; it seemed a hard thing to post to such a man that somebody had since done it with three.
 
 But he had asked what she had written down, and it was in the book. She had written it three times.
 
@@ -110,27 +110,27 @@ She sat with the pencil over that square for the best part of an hour.
 
 She could write the order. She could write that the ward went under the thing on its slack, bent like the bowl of a spoon, for one tap. She could write that it was folded from the far edge to a penny before the shove arrived.
 
-She could not write the fold. It was not hers. She had learned it off a first-year on a pail, and did it with two fingers stuck out like a fork; and when she tried to put down what the hands did, she found that she was describing Pru's.
+She could not write the fold; it was not hers. She had learned it off a first-year on a pail, and did it with two fingers stuck out like a fork; and when she tried to put down what the hands did, she found that she was describing Pru's.
 
 She could not write the second gap either.
 
-The first was only dear. One paid for it. The second came, each time, out of somewhere that had already been emptied, and something paid all the same, and it went out through her left arm. She had felt it pass the wrist. That was not a method. It was a thing that had happened to her three times and that she did not understand.
+The first was only dear, and one paid for it. The second came, each time, out of somewhere that had already been emptied, and something paid all the same, and it went out through her left arm; she had felt it pass the wrist. That was not a method. It was a thing that had happened to her three times and that she did not understand.
 
-And at the end of it there was a line of Orla's. *Arrive before you're there.* It was the truest instruction that she had ever been given. It only worked when it was said aloud, by a woman on a crate, to somebody already in the air.
+And at the end of it there was a line of Orla's. *Arrive before you're there.* It was the truest instruction that she had ever been given, and it only worked when it was said aloud, by a woman on a crate, to somebody already in the air.
 
 She looked at the sheet.
 
-She had always thought that she wrote everything down. A pump-fitter thought so, two hundred miles off, on the strength of one line in a letter. And here were three places where she had written that a thing happened, for a spring and a summer and an autumn, and had never once said how.
+She had always thought that she wrote everything down, and a pump-fitter thought so, two hundred miles off, on the strength of one line in a letter. And here were three places where she had written that a thing happened, for a spring and a summer and an autumn, and had never once said how.
 
 It struck her, and not pleasantly, that those were the three places where the hand was.
 
-She did not fill them. That would have been the tidying kind of lie. She ruled each square off with a line across its corner, as a clerk voids a cheque, and under the first she wrote what was so.
+She did not fill them; that would have been the tidying kind of lie. She ruled each square off with a line across its corner, as a clerk voids a cheque, and under the first she wrote what was so.
 
 *I cannot say this so that another person could do it. I have done it. I have not got it in words yet.*
 
 Then *Went wrong,* which was easy, and long.
 
-Then *Cost.* She had the cost by heart. It was in a foreman's ledger, and on a healer's card, and it had been said aloud both times before she put a hand up. *The first two fingers of the left hand, for good, at the second. They bend and grip and report pressure and nothing else. At the third, the arm, without feeling to above the elbow, for four days; it came back to where it was. Her healer does not know that it would a fourth time. Nor do I.*
+Then *Cost.* She had the cost by heart: it was in a foreman's ledger, and on a healer's card, and it had been said aloud both times before she put a hand up. *The first two fingers of the left hand, for good, at the second. They bend and grip and report pressure and nothing else. At the third, the arm, without feeling to above the elbow, for four days; it came back to where it was. Her healer does not know that it would a fourth time. Nor do I.*
 
 She wrote *her,* and saw that she had, and left that as well.
 
@@ -138,17 +138,17 @@ She wrote *her,* and saw that she had, and left that as well.
 
 She came to the page of the sixth on a Thursday, with the lamp turned up and her aunt across the table reconciling the trunk.
 
-It was a short entry. She had been very tired when she wrote it.
+It was a short entry; she had been very tired when she wrote it.
 
 *Pump house, about one. M.R.'s reading hand starved to the wrist. Eased by Aske with 1.2 of our sealed W. A.R. held the comb: plain. Lumb's book for 2604, one leaf, to be kept; see M.R.*
 
 Kiva read the last line, and then she did not read anything for a while.
 
-It was not that she had forgotten. One did not forget it. But she had not let herself look straight at it since the night in the pump house, with three pumps going and a calf book open under a desk lamp.
+It was not that she had forgotten; one did not forget it. But she had not let herself look straight at it since the night in the pump house, with three pumps going and a calf book open under a desk lamp.
 
-She had been thirteen the first time. It had come again in the spring, on Classification Day, with a fever after it. There had been no roof. That was the part that she could never get said properly, even to Mara. It was not that the roof was gone and one saw the dark. There was nothing over her at all, and the nothing was not empty. It was enormous, and it was paying attention.
+She had been thirteen the first time, and it had come again in the spring, on Classification Day, with a fever after it. There had been no roof. That was the part that she could never get said properly, even to Mara: it was not that the roof was gone and one saw the dark. There was nothing over her at all, and the nothing was not empty. It was enormous, and it was paying attention.
 
-A woman had written that down, lifetimes ago, in a house on a hill. A pump keeper had written it in 2604, in brown ink, with his needles standing up. *Not dark. Nothing.*
+A woman had written that down, lifetimes ago, in a house on a hill, and a pump keeper had written it in 2604, in brown ink, with his needles standing up. *Not dark. Nothing.*
 
 And on the seventeenth of the ninth month, at twenty past two, a harbour bank had fallen into step two hundred miles off, and a man had known what it was with a hand that reported very little.
 
@@ -162,7 +162,7 @@ She made herself take it away again and think like somebody who had been brought
 
 What would she do with the card when it came?
 
-It would come in a round hand, by the coast boat, to Coper Street. It would say yes or it would say no. And either way it would be an answer to a question, and the question would have had the roof in it.
+It would come in a round hand, by the coast boat, to Coper Street, and it would say yes or it would say no; either way it would be an answer to a question, and the question would have had the roof in it.
 
 There was a page under a seal in the Library's press. Mara had written it and had the hour put on it, and she had done that for one reason: so that nobody could ever say that a girl of seventeen had read an old Master's fever and borrowed it. It was worth something only for as long as it had been got clean.
 
@@ -170,7 +170,7 @@ A needle told one nothing if it had been told beforehand what to read. She had h
 
 If she wrote to a stranger, *did you dream that there was no roof,* and he wrote back, *I did,* then that was not a second reading. That was her own, come home by boat.
 
-So it was not to be asked. It was not even to be hinted. If Jessamy Hart had a thing to say about a fever, he would have to say it without her having put the words in his mouth; and if he never said it, then she would never know, and that was the price.
+So it was not to be asked; it was not even to be hinted. If Jessamy Hart had a thing to say about a fever, he would have to say it without her having put the words in his mouth; and if he never said it, then she would never know, and that was the price.
 
 It was a good deal to give up for the sake of a seal that might never be broken. She sat and felt how much.
 
@@ -268,11 +268,11 @@ Pike did not say anything for some time. He was a square grey man, and he had a 
 
 "You could say no. It's on the card. *Either of us.*"
 
-"That's between her and you. I'm only the man you'll be kneeling by." He nearly smiled. It did not get far. "I'll tell you what a second does, since you've begun without being told. You'll be bad at it. You'll see what's wrong, and you'll say that. Any fool can see what's wrong; I've a healer at the tiller who does it for nothing. I don't want what's wrong."
+"That's between her and you. I'm only the man you'll be kneeling by." He nearly smiled. It did not get far. "I'll tell you what a second does, now that you've begun without being told. You'll be bad at it. You'll see what's wrong, and you'll say that. Any fool can see what's wrong; I've a healer at the tiller who does it for nothing. I don't want what's wrong."
 
 "What do you want?"
 
-"What's there. All of it. What I do with my knees and where I look and which hand I use, and when. The things that I'd not think to say, since I've done them since before you were born." He set a stitch. "And you'll not get that by looking for mistakes. You got the thumb since you weren't looking for one. Go and do that for two months."
+"What's there. All of it. What I do with my knees and where I look and which hand I use, and when. The things that I'd not think to say, because I've done them since before you were born." He set a stitch. "And you'll not get that by looking for mistakes. You got the thumb because you weren't looking for one. Go and do that for two months."
 
 "To whom?"
 
@@ -294,7 +294,7 @@ Pru had gone on making knots the whole time. She did not drop one.
 
 Mrs. Pryce could not send her home, since Kiva had been in and out of that laundry from the age of nine, and had been fed there.
 
-It was Saturday the sixth. The streets off the twenty-ninth drum had come off their boxes that morning, a month to the day, and all Coper Street was washing. The ironing room was full of steam and the smell of starch. There was a deal table in the middle of it, eight feet long, scrubbed white, and Mrs. Pryce stood at the end of that table with her sleeves rolled and folded double sheets by herself.
+It was Saturday the sixth. The streets off drum twenty-nine, which had been fouled on the night of the pump house and was never one of the seven, had come off their boxes that morning, a month to the day, and all Coper Street was washing. The ironing room was full of steam and the smell of starch. There was a deal table in the middle of it, eight feet long, scrubbed white, and Mrs. Pryce stood at the end of that table with her sleeves rolled and folded double sheets by herself.
 
 It took two to fold a double. Everybody knew that. Kiva and Anwen had done it in the drying yard since they were small, a girl at each end, walking in.
 

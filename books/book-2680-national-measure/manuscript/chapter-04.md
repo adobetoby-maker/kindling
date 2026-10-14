@@ -4,7 +4,7 @@ They took the strapping off Perrin Cade on Saturday the twentieth, and by two th
 
 It was the only use that anybody had been able to find for her.
 
-November had gone by in small pieces. The last of the seven drums had come out on the twenty-fifth of the month before, on a count of one-and-thirty, and there was no needle on the Brickfields trunk now that nodded. Mara had been let read a bank on the first. She had gone down to the pump house on the second with her left hand in her apron pocket, and laid it on four-and-twenty drums in turn, and come home and eaten two suppers. Kellan was at the refinery on Tuesdays and Thursdays and said very little about it. Anwen could walk a wall thirty paces. She had also been to the ash office, with the book under her arm, to ask the price of plain ward-trace, and had been told by the clerk that he could not quote a price for a thing that he had not seen since the thaw.
+The eleventh month was going by in small pieces. The last of the seven drums had come out on the twenty-fourth of the month before, on a count of thirty-one, and there was no needle on the Brickfields trunk now that nodded. Mara had been let read a bank on the first, and she had gone down to the pump house on the second with her left hand in her apron pocket, and laid it on four-and-twenty drums in turn, and come home and eaten two suppers. Kellan was at the refinery on Tuesdays and Thursdays and said very little about it. Anwen could walk a wall thirty paces. She had also been to the ash office, with the book under her arm, to ask the price of plain ward-trace, and had been told by the clerk that he could not quote a price for a thing that he had not seen since the thaw.
 
 And Kiva had a ticket with a laundress on it, and five weeks and six days to go.
 
@@ -108,7 +108,7 @@ They looked at one another. It was not settled, and nobody pretended that it was
 
 Kiva lay down on the canvas again, since she was wanted.
 
-She had found a thing out, and she turned it over while they lifted her. A bearer could not feel the pass. Perrin had been certain, and honest, and wrong, since from the poles a clean handover felt like a clean handover. The only person on that yard who could feel the place where the load belonged to nobody was the load.
+She had found a thing out, and she turned it over while they lifted her. A bearer could not feel the pass. Perrin had been certain, and honest, and wrong, because from the poles a clean handover felt like a clean handover. The only person on that yard who could feel the place where the load belonged to nobody was the load.
 
 It was not much of a trade. One could hardly put *lies down, complains* on an entry.
 
@@ -124,11 +124,11 @@ It was not much of a trade. One could hardly put *lies down, complains* on an en
 
 The packet came up from the coast boat on Friday the third, at noon, by a Works boy on a bicycle, and Mara Rowan signed for it across her own shop counter with a hand that could feel the pen.
 
-She noticed that. She noticed it every time. It was eight weeks since the pump house, and a month since Aske had let her near a bank, and she still could not pick up a pencil without a small private surprise that it had a shape.
+She noticed that; she noticed it every time. It was eight weeks since the pump house, and a month since Aske had let her near a bank, and she still could not pick up a pencil without a small private surprise that it had a shape.
 
-The wax was green. That was the Saltmere Company's. She cut the tape with the counter knife and laid what was inside in a row, squared, as she would have laid out a customer's meter in pieces.
+The wax was green: the Saltmere Company's. She cut the tape with the counter knife and laid what was inside in a row, squared, as she would have laid out a customer's meter in pieces.
 
-There were four things. There was a letter, on a half sheet, in a brisk upright hand. There was a report, of two leaves. There was a list. And there was a card, folded once, with a name on the outside that was not hers.
+There were four things: a letter, on a half sheet, in a brisk upright hand; a report, of two leaves; a list; and a card, folded once, with a name on the outside that was not hers.
 
 She read the letter first.
 
@@ -144,13 +144,13 @@ She read the letter first.
 
 *I asked in the autumn whether your Works would lend its reader. I ask again, in writing, for the spring. Yeo, officer.*
 
-Mara read it standing. Then she pulled the high stool to her with one foot, and sat.
+Mara read it standing, and then she pulled the high stool to her with one foot, and sat.
 
-She had known for seven weeks that it would not answer. She had known since a boy lay down in the road at drum nineteen and said *now.* A method that had wanted a twelfth sheet inside a day was a method that had been written about one room; and a harbour was not a room.
+She had known for seven weeks that it would not answer; she had known it since a boy lay down in the road at drum nineteen and said *now.* A method that had wanted a twelfth sheet inside a day was a method that had been written about one room; and a harbour was not a room.
 
 She had not expected to mind how they told her.
 
-The keeper's report was in seven columns. Somebody had ruled them by hand, with a pen, on the pump house's own fault paper. *What. How. Went wrong. Cost. Second try. Why.* They were filled in a small crabbed script, with nothing left out that she could see, and the fourth was the widest.
+The keeper's report was in seven columns, ruled by hand, with a pen, on the pump house's own fault paper. *What. How. Went wrong. Cost. Second try. Why.* They were filled in a small crabbed script, with nothing left out that she could see, and the fourth was the widest.
 
 *Went wrong: the water. It was not still with every pump stopped, and it is not ever still. The fresh cans leaned to it from about the fortieth count. The readers felt them go and could not hold them.*
 
@@ -160,17 +160,17 @@ The keeper's report was in seven columns. Somebody had ruled them by hand, with 
 
 They had read it properly.
 
-That was what undid her. It was not the failure. She had been failing in front of people since she was licensed, and had learned to do it with her chin up. It was that a keeper whom she had never seen, in a pump house two hundred miles off, had taken twelve sheets in a stranger's hand and done every line of them, in order, with the *I don't know* left in; and had then sat down and answered in the same shape, so that the two accounts could be laid side by side.
+That was what undid her. It was not the failure; she had been failing in front of people since she was licensed, and had learned to do it with her chin up. It was that a keeper whom she had never seen, in a pump house two hundred miles off, had taken twelve sheets in a stranger's hand and done every line of them, in order, with the *I don't know* left in; and had then sat down and answered in the same shape, so that the two accounts could be laid side by side.
 
 Nobody had ever done that with a thing of hers. Rusk had signed them. The Chair had sealed them. This woman had *used* them.
 
-She found that she had her left hand flat on the counter. She was reading the grain of the wood with it, as she had done every day for two months when she thought that nobody was by.
+She found that she had her left hand flat on the counter, reading the grain of the wood with it, as she had done every day for two months when she thought that nobody was by.
 
 "Well," she said aloud, to an empty shop. "That's what it's for."
 
 She took up the list.
 
-It was on a fitter's card, of the cheap sort. The hand was round, and careful, and rather childish. There were six cells on it, under two dates.
+It was on a fitter's card, of the cheap sort, in a hand that was round, and careful, and rather childish. There were six cells on it, under two dates.
 
 *The 20th. Filled at two minutes past nine in the morning.*
 
@@ -190,45 +190,45 @@ It was on a fitter's card, of the cheap sort. The hand was round, and careful, a
 
 Mara read down it once, quickly. Then she read it again, with her finger.
 
-A minute. Two minutes. A minute. Those were the three of the first day. They had gone as a can goes on a stool with its feet in a trough, inside the slow sixty or just beyond.
+A minute. Two minutes. A minute. Those were the three of the first day, and they had gone as a can goes on a stool with its feet in a trough, inside the slow sixty or just beyond.
 
 Twelve minutes. Forty-one minutes. Nineteen.
 
 She sat quite still.
 
-It was the same bank. They were the same pumps, stopped for the same eleven minutes, with the same salt and the same readers. Nothing was different between the two days but the hour of the clock. And on the second day a fresh cell had stood on its own count for forty-one minutes, by a fitter's watch, in water that was *not ever still.*
+It was the same bank: the same pumps, stopped for the same eleven minutes, with the same salt and the same readers. Nothing was different between the two days but the hour of the clock. And on the second day a fresh cell had stood on its own count for forty-one minutes, by a fitter's watch, in water that was *not ever still.*
 
 "It isn't the cells," said Mara. "It's the hour."
 
-She did not know what that meant. She was a river woman. She knew that the sea came and went, as she knew that the moon did, and with about as much use for either. But she knew a reading when one was laid in front of her. Something in that harbour was louder at nine in the morning than at four in the afternoon, and a man with a watch had caught it at both.
+She did not know what that meant. She was a river woman, and she knew that the sea came and went as she knew that the moon did, with about as much use for either; but she knew a reading when one was laid in front of her. Something in that harbour was louder at nine in the morning than at four in the afternoon, and a man with a watch had caught it at both.
 
 *He says that you will want them.*
 
 "He's quite right," said Mara. "I want a great many more."
 
-She drew a sheet of Works paper to her and wrote, without sitting any straighter. It was a short letter. She asked for the harbour's tide table, for the whole of the year. She asked for the pump house's fault column for the two days, and for the week on either side. She asked whether the fitter who kept a watch would do so again, for every cell that was ever filled, and whether he would write down what the sea was doing at the time, in his own words, if nobody had told him the proper ones.
+She drew a sheet of Works paper to her and wrote a short letter, without sitting any straighter. She asked for the harbour's tide table, for the whole of the year, and for the pump house's fault column for the two days and the week on either side. She asked whether the fitter who kept a watch would do so again, for every cell that was ever filled, and whether he would write down what the sea was doing at the time, in his own words, if nobody had told him the proper ones.
 
 She did not answer the last paragraph of the officer's letter.
 
 She read it again instead. *I ask again, in writing, for the spring.*
 
-It was thirty-six cells. She had done four-and-twenty, with a reader's hand and a room full of operators, and at the eighteenth she had ceased to feel the iron. She had one hand that told her anything. The right had been silent since a cell on Linden Row. If the left went as the right had gone, she would be a woman with a Grade Two license who could not tell a live drum from a doorpost, and there would be a shop on Coper Street with nobody in it who could read.
+It was thirty-six cells. She had done four-and-twenty, with a reader's hand and a room full of operators, and at the eighteenth she had ceased to feel the iron. She had one hand that told her anything; the right had been silent since a cell on Linden Row. If the left went as the right had gone, she would be a woman with a Grade Two license who could not tell a live drum from a doorpost, and there would be a shop on Coper Street with nobody in it who could read.
 
 She was not brave about it. She had never said that she was.
 
-And the water at Saltmere did not lie still, and she had no method for water that did not. She had twelve sheets and a list of six minutes. To go south on that would be to stand in a strange pump house, on a harbour, and be wrong in front of everybody at a much greater expense.
+And the water at Saltmere did not lie still, and she had no method for water that did not. She had twelve sheets and a list of six minutes, and to go south on that would be to stand in a strange pump house, on a harbour, and be wrong in front of everybody at a much greater expense.
 
-*Not yet,* she thought. It was a reason, and she looked at it with some suspicion, since it was so convenient. But it was also true. One did not send for a reader before there was a thing to read.
+*Not yet,* she thought. It was a reason, and she looked at it with some suspicion, since it was so convenient. But it was also true: one did not send for a reader before there was a thing to read.
 
 She folded the officer's letter and put it in the drawer with the license.
 
 That left the card.
 
-It was folded once, and it had *For K. Rowan, by favour* on the outside. She did not open it. She had been tempted to a good many things in all her years of being that child's guardian, and reading her post had never been among them.
+It was folded once, and it had *For K. Rowan, by favour* on the outside. She did not open it; she had been tempted to a good many things in all her years of being that child's guardian, and reading her post had never been among them.
 
 But she laid it beside the list, on the counter, and looked at the two together.
 
-It was the same hand. The round *a* was the same, and the way that the figure four was left open at the top.
+It was the same hand: the round *a* was the same, and the way that the figure four was left open at the top.
 
 "So you *had* had your thumbs on my tape," said Mara.
 
@@ -380,7 +380,7 @@ The two fingers lay in her lap. If she pressed them against her own knee, hard, 
 
 "That's it," she said. "That's what they do when I lean. They read me."
 
-"Then don't lean," said Mara. "Go on. Eight more. I'm not stopping a proof at twelve since the instrument's been found to have a fault. That's when one learns something."
+"Then don't lean," said Mara. "Go on. Eight more. I'm not stopping a proof at twelve because the instrument's been found to have a fault. That's when one learns something."
 
 They did the eight. She kept the touch as light as a moth, and twice she asked Pru for the number before she answered.
 
@@ -410,7 +410,7 @@ Mara had come round the vice. She unhooked the apron and put it on, since it was
 
 Kiva looked at the tally.
 
-She had hoped for more. She found that out by the size of the disappointment. A man had written *I knew it with the hand, the bad one,* and for six weeks some part of her had been turning that over like a coin, wondering what the other side of a ruined hand might be. This was the other side. It was six in seven, through iron, with a fault.
+She had hoped for more, and she found that out by the size of the disappointment. A man had written *I knew it with the hand, the bad one,* and for six weeks some part of her had been turning that over like a coin, wondering what the other side of a ruined hand might be. This was the other side: six in seven, through iron, with a fault.
 
 But it was hers, and it had been tried properly, and it was written down by somebody who would not round it up.
 

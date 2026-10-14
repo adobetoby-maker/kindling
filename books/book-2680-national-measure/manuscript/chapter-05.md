@@ -24,7 +24,7 @@ Orla was on the flags, in the cold, with her collar up. She had brought the crat
 
 She stood on the frosted flags with her feet a little apart.
 
-She had thought about this for eighty-one days, and she found that she had thought about it wrongly. She had imagined a door that had been shut so long that it stuck. It was not like that. It was more like a leg that has been in a splint. One knew perfectly how it worked, and one did not at all believe that it would bear weight.
+She had thought about this for eighty-one days, and she found that she had thought about it wrongly. She had imagined a door that had been shut so long that it stuck. It was not like that. It was more like a leg that has been in a splint: one knew perfectly how it worked, and one did not at all believe that it would bear weight.
 
 "Still door. Rowan. A stance, for a count of five."
 
@@ -54,7 +54,7 @@ She folded it from the far edge. Far edge, near edge, a penny. Shut.
 
 The Ember door had woken.
 
-She felt it come, hot, under her breastbone. It had heard the cupboard open. And lower down the still door stirred as well, heavy and slow, since it had been used not a minute ago and saw no reason to have been put away.
+She felt it come, hot, under her breastbone. It had heard the cupboard open. And lower down the still door stirred as well, heavy and slow, because it had been used not a minute ago and saw no reason to have been put away.
 
 They did not open. She had her back against both.
 
@@ -128,7 +128,7 @@ She held the pattern. The lamp lit a dull orange, and flickered, and she steadie
 
 Then her hand door woke.
 
-It did exactly what it had done in the spring. It lifted inside her, cool and close, reaching for the cell through her palm, since the cell was right there and the hand door liked cells. In the spring the Ember door had pushed back, and the lamp had stuttered, and the needle had swung, and somebody in the gallery had laughed.
+It did exactly what it had done in the spring. It lifted inside her, cool and close, reaching for the cell through her palm, because the cell was right there and the hand door liked cells. In the spring the Ember door had pushed back, and the lamp had stuttered, and the needle had swung, and somebody in the gallery had laughed.
 
 She did not let it reach.
 
@@ -216,7 +216,7 @@ She stepped out. Her legs were not quite her own. She put her right hand flat on
 
 Ysra had the ledger.
 
-"Draw, one point six. Hold: Edge, three point one. Ward, four point five. Stance, six point five. Rank, with one door declared and two held shut: Flame. First door: none recorded." She read it as she read everything, without leaning on a word. "The clerk will ask me what *held shut* is doing in a rank line. I'll save him the trouble. It's there since it's so."
+"Draw, one point six. Hold: Edge, three point one. Ward, four point five. Stance, six point five. Rank, with one door declared and two held shut: Flame. First door: none recorded." She read it as she read everything, without leaning on a word. "The clerk will ask me what *held shut* is doing in a rank line. I'll save him the trouble. It's there because it's so."
 
 "It's a rank with a clause in it," said Kellan.
 
@@ -480,9 +480,9 @@ Purvis laughed. Pike did not.
 
 "The cord was inside your coat. From the hall. It's warm when it comes out."
 
-"Wax," said Pike. "It's January. Any fool keeps his cord warm."
+"Wax," said Pike. "It's the first month. Any fool keeps his cord warm."
 
-"Pru had hers under her arm. She kept it at her elbow until I saw her lose three in the cold."
+"Pru had hers under her arm. She kept it at her elbow until I saw her lose four in the cold."
 
 "*I* keep it in my tunic now," said Pru. "I'd like that entered."
 
@@ -520,7 +520,7 @@ Pike was silent. The van went over the tram points with a double knock.
 
 Kiva thought about that as far as the levee.
 
-She had learned a good deal on her knees. She had also learned the size of what she had not seen. He had found a proud corner with his kneecap. He had read the fall of a road through a boot sole. There were twenty-six years in that square grey man, and she had got three things out of a whole night, and the fourth she was not sure of.
+She had learned a good deal on her knees, and she had also learned the size of what she had not seen. He had found a proud corner with his kneecap, and read the fall of a road through a boot sole. There were twenty-six years in that square grey man, and she had got three things out of a whole night, and the fourth she was not sure of.
 
 Rhea Sorn had turned round on the front bench.
 

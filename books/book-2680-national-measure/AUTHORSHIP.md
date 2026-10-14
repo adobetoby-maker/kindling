@@ -97,3 +97,55 @@ target, and Rhea's lens is above the 2.5–3.7% band for a single lens.
 
 No frozen edition exists for Movement One. The working tree is the first draft. Nothing was
 committed or pushed by the author, on the launching instruction.
+
+## Movement One, consolidated repair — 2026-10-14
+
+- Status: **same-author repair of chapters 1–8, in place. Not rechecked, not cold-read
+  after repair, not accepted, not committed, not published.** Chapters 9–16 were not drafted.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier
+  `claude-opus-5-5`.** Not independently verifiable from inside the session. No subagent,
+  other model or delegated worker wrote or edited any prose or record.
+- Session: Claude Code background job `7d93f063` (session
+  `7d93f063-6603-4d32-a8ba-8f7d7e5a7141`); remote session `session_01DTjXDzNDrhqaQzUbAQMbjc`.
+- Brief: delivered in-session; its text matches `planning/OPUS-5.5-MOVEMENT-001-REPAIR.prompt.md`,
+  SHA-256 `e64cce9167e44259832217a4d2d032883be83de33213dac438a84c1e6ac83489`, on inspection.
+- Inputs: `provenance/MOVEMENT-001-EDITORIAL-REVIEW.md`, `provenance/MOVEMENT-001-COLD-READ.md`,
+  `STATE_LEDGER.md`, `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, and chapters 1–8 in full, in that order.
+- Scope: ten factual corrections (three month names; Mara's factor count; the Low Lane tally and
+  entry, with one knock-on line in ch. 5; Perrin's day count; drum twenty-nine clarified; "three
+  nights ago"; Kiva's credit for Perrin's held mark; the last drum on the 24th). Warrant arithmetic
+  was thinned in ch. 6 §3 and ch. 8 §4, with the full sum kept at the ch. 8 table. Kellan's
+  articulated motive and red-tag count were held back in ch. 6 for ch. 8. Two spatial cues were
+  added at the ch. 7 far-edge turn, plus four opening glosses in ch. 1. Seventeen ambiguous causal
+  *since* were changed and the heaviest archaic-numeral clusters eased. There was a narration-only
+  sentence-length pass in the named sections. No event, outcome, date, ash figure, power limit or
+  reserved disclosure was changed.
+- Record: `provenance/MOVEMENT-001-REPAIR.md`, with every correction and its evidence,
+  before/after metrics, and items deliberately left unchanged.
+- Word counts (`wc -w`): 48,308 → **48,243** (ch. 1 5,887; ch. 2 5,709; ch. 3 5,589; ch. 4 5,451;
+  ch. 5 5,654; ch. 6 5,587; ch. 7 7,389; ch. 8 6,977).
+- Sentence measures (editorial script, all text): mean 8.76 → 8.95; ≤5 words 43.4% → 43.4%;
+  ≥40 words 0.5% → 0.8%. Narration in the focus sections: mean 10.9 → 12.9; ≥40 words 1.8% → 4.8%.
+  The movement-wide interim direction (mean 11–12, about 35% short) was **not** reached; the
+  formula targets were not changed.
+- Frozen edition `editions/movement-001-first-draft/` not modified; SHA-256 of all eight files
+  verified before and after.
+- Known stale records outside this run's write scope: `provenance/MOVEMENT-001-CONTINUITY.md`
+  lines 35, 37 and 302 (drum date and Low Lane tally).
+
+## Movement One, targeted recheck and acceptance — 2026-10-14
+
+- Fresh-context targeted verifier: runtime-reported Claude Opus 5.5, job `fa4d3354`,
+  remote session `session_01AP25iUkcaVx6RLEQMrjk5p`.
+- Report: `provenance/MOVEMENT-001-RECHECK.md`. The factual, clarity, sentence-join,
+  ledger, and frozen-edition checks passed except for one surviving ordinal in
+  `manuscript/chapter-02.md`: the sixth bag was still called the fifth.
+- The one-word defect was corrected (`fifth` → `sixth`) and verified by a diff limited
+  to that line. No event, figure, outcome, or word count changed.
+- The three stale first-draft continuity entries identified by the repair report were
+  reconciled to the surviving manuscript: last drum on the 24th; four bags lost in
+  the first six; seventeen thrown and twelve sealed.
+- **Movement One is accepted as context for Movement Two.** Repaired chapters 1–8:
+  48,243 words. This is an editorial-context acceptance, not publication or narration
+  approval.

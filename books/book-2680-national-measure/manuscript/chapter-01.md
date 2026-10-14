@@ -64,9 +64,9 @@ It was a fair thing to ask. It was the fairest question that she had been asked 
 
 He laughed, once. He put the parcel under his own arm, quite gently, and went up the plank with it.
 
-She stood on the stair a moment longer. Healer Aske had counted the weeks for her, so that she need not, and she had gone on counting them anyway. There had been eleven and four days. There were ten and four days now. *Not a step,* he had said. *Not a ward for a tap.* The ash office had stopped her Monday thimble on the strength of his card; a candidate who was stood down drew nothing, and that was only sense.
+She stood on the stair a moment longer. Healer Aske had counted the weeks for her, so that she need not, and she had gone on counting them anyway. There had been eleven and four days. There were ten and four days now. *Not a step,* he had said. *Not a ward for a tap.* The ash office had stopped her Monday thimble, the half dram a week that was hers to work with, on the strength of his card; a candidate who was stood down drew nothing, and that was only sense.
 
-She had three doors, and every one of them was shut, and a good many people had gone to some trouble to see that they stayed so.
+She had three doors, the hand and the Ember and the still, which were the three ways that she could take ash in and work it; and every one of them was shut, and a good many people had gone to some trouble to see that they stayed so.
 
 The boat's bell rang. She did not wait to watch the plank come in. Her aunt was a mile off with one hand on a card and a drum to take out of step, and the books were under Kiva's coat.
 
@@ -92,9 +92,9 @@ The needle nodded. It went up, and came down, with a slow dreadful ease. It had 
 
 "Those. I've come to depend on them."
 
-There were four of them besides. The warden of nineteen was a stout man in a carter's apron, with his handbell hung at his belt like a tool. There was a Works fitter whom Kiva knew, since he had once dug up the mark that she landed on, and with him his boy, Ned, who was fourteen and had silt in his hair on the last occasion that she had seen him. Ned had a can on a hand truck. He looked at Kiva's left arm with frank interest and was nudged.
+There were four of them besides. The warden of nineteen was a stout man in a carter's apron, with his handbell hung at his belt like a tool. There was a Works fitter whom Kiva knew, because he had once dug up the mark that she landed on, and with him his boy, Ned, who was fourteen and had silt in his hair on the last occasion that she had seen him. Ned had a can on a hand truck. He looked at Kiva's left arm with frank interest and was nudged.
 
-"Seven drums," said Mara. "One a day. I mean to do them as I did four-and-twenty on a wall, since I know of no other way, and since it worked. So I'll say it aloud, the whole of it, and anybody who hears a thing left out is to stop me." She held up her right hand, the one that told her nothing, and counted on it. "The streets are warned, and on their boxes for an hour. The drum's quenched. The dead can comes out. A fresh one goes home, with a pinch in it of ash that has never heard a beat. It's open for a slow sixty, and in that sixty it's tuned to a count of its own, off a card. And nothing near it keeps time."
+"Seven drums," said Mara. "One a day. I mean to do them as I did four-and-twenty on a wall, as I know of no other way, and because it worked. So I'll say it aloud, the whole of it, and anybody who hears a thing left out is to stop me." She held up her right hand, the one that told her nothing, and counted on it. "The streets are warned, and on their boxes for an hour. The drum's quenched. The dead can comes out. A fresh one goes home, with a pinch in it of ash that has never heard a beat. It's open for a slow sixty, and in that sixty it's tuned to a count of its own, off a card. And nothing near it keeps time."
 
 "What's near it?" said the fitter.
 
@@ -172,7 +172,7 @@ He was gone before she had finished.
 
 Kiva waited on the pavement.
 
-It was one of the things that she was learning about being dark. There was a great deal of standing. A catcher with her doors open was always a half count ahead of something, and a catcher with her doors shut had the trunk book against her chest and a view of a warden's back.
+It was one of the things that she was learning about being dark, which was the trade's word for having every door shut. There was a great deal of standing. A catcher with her doors open was always a half count ahead of something, with a cloth to throw and a word to call before a kill's ash came down on it; a catcher with her doors shut had the trunk book against her chest and a view of a warden's back.
 
 She leaned against the rail. Her left hand lay along the top of it, on the cold wet iron.
 
@@ -266,7 +266,7 @@ Her lips moved. She was counting in between, and Kiva watched her do it and felt
 
 "Is that a pump?" said Kiva.
 
-"That's my third pump. I started it myself, on cells seventeen to four-and-twenty, at six-and-twenty minutes by an old man's watch, with water going over the sill." She went in. She took the card from under the red handle, and turned it to the door, and held it there for them to see.
+"That's my third pump. I started it myself, on cells seventeen to twenty-four, at six-and-twenty minutes by an old man's watch, with water going over the sill." She went in. She took the card from under the red handle, and turned it to the door, and held it there for them to see.
 
 It had one figure on it, in her own exact print.
 
@@ -308,7 +308,7 @@ It was Mara who did it. Kiva held the corner down with the heel of her left hand
 
 Kiva read it off the back of the trunk book, where the seven had been pencilled on Sunday night. *19: five. 20: six. 21: eight. 25: nine. 26: ten. 27: twelve. 28: fourteen.*
 
-"Five, which is a pump. Six, which meets the three at every second stroke. Nine, which meets it at every third. Ten, which meets the five. Twelve. Fourteen, which is twice the seven." Mara's pencil went down the column like a grader's. "I've chosen seven numbers and five of them shake hands with a pump. I couldn't have done worse with a blindfold."
+"Five, which is a pump. Six, which meets the three at every second stroke. Nine, which meets it at every third. Ten, which meets the five. Twelve. Fourteen, which is twice the seven." Mara's pencil went down the column like a grader's. "I've chosen seven numbers and six of them shake hands with a pump. I couldn't have done worse with a blindfold."
 
 "Does a six matter? It isn't a three."
 
@@ -316,7 +316,7 @@ Kiva read it off the back of the trunk book, where the seven had been pencilled 
 
 "Eleven," said Kiva. "Thirteen. Seventeen. Nineteen."
 
-"Three-and-twenty. Nine-and-twenty. One-and-thirty." Mara wrote them. "They're slow."
+"Twenty-three. Twenty-nine. Thirty-one." Mara wrote them. "They're slow."
 
 "A drum's a slow thing. You said so."
 
@@ -406,7 +406,7 @@ Kiva sat down beside him, with the books on her knee.
 
 "That's ten weeks."
 
-"And four days. I counted."
+"And three days. I counted."
 
 "So did I."
 
