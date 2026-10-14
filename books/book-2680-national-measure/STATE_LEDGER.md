@@ -276,3 +276,124 @@ The overseas line.
 4. **Kellan's "five heads."** Left open by Book One and settled inside Book Two (see
    `BOOK_MAP.md`).
 5. **The seven drums** are 19, 20, 21, 25, 26, 27, and 28. Twenty-nine is fouled, not stepped.
+
+---
+
+## Movement One block — chapters 1–8 (first draft, 2026-10-13)
+
+Status: **from first-draft prose, unreviewed.** Everything here is on the page of
+`manuscript/chapter-01.md` to `chapter-08.md`. The full record is
+`provenance/MOVEMENT-001-CONTINUITY.md`. If review or repair changes the prose, this block is
+corrected from the surviving text. Span: Monday the 17th of the tenth month, 2680, to Saturday
+the 30th of the first month, 2681.
+
+### M1.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified.** On the Home Line's roll; not yet called.
+- Dark for eighty-one days. **Each door relit singly under Aske's eye on Friday the 1st of
+  the first month, 2681.**
+- **Aske's card:** single doors, declared, one at a time; a crossing, one in seven days *at
+  the most,* hand seen the next morning; the three-door "not on my card."
+- **Re-read on the Circuit's instruments, Monday the 4th:** Draw **1.6** (was 3.1). Hold:
+  Edge **3.1** (3.0), Ward **4.5** (2.6), Stance **6.5** (6.2). Rank, one door declared and
+  two held shut: **Flame.** First door: none. With two doors used in sequence (one certified
+  crossing, Thursday the 7th, read by Noa): **dashes;** "none shown." Not a classification.
+- **Crossings:** one in this movement, Ember to still, 0.30 (0.26 the gap), off her own
+  thimble. Hand to Ember: none; not certified. **Three doors: three clean; not asked; not
+  done.**
+- **Body:** first two left fingers as before; arm as it was; knee strapped.
+- **The two fingers, proved (4th of the twelfth month):** through something solid, at a light
+  touch, they say that a thing keeps time (six in seven); never what time; they read her own
+  pulse if she leans or is frightened. "A reason to look." Not healing.
+- **The disk:** cold. One fourth-column line (the 8th of the first month).
+- **The dream:** no recurrence. Known in full to Mara alone, still.
+- **The Chair's conditions for 2681:** as for 2680, re-entered line by line; at Saltmere her
+  door is declared "by her captain's voice"; **one incident at a sanctioned board ends her
+  season.**
+- **Writing:** a copy of her own method sent to J. Hart (six sheets; three squares ruled off;
+  one line left out and declared); **ten sheets of Pike's craft in seven columns;** a drill
+  sheet begun.
+
+### M1.2 Team Seven
+
+- **Entry for the National Measure signed and the warrant paid, Friday the 29th of the first
+  month.** *Captain: Cade, P., carry. Catcher: Rowan, K. Hold: Pryce, A. Kill: Talley, J.
+  Reserve: Finch, P., catcher.*
+- **Kellan Renn stands for Halden License** (*Blade: Renn, K.;* captain Pettit). His name
+  stays on Seven's book for calls in Meridian.
+- **Jude Talley is on the team book from the entry.**
+- **The book:**
+
+| Line | Drams |
+|---|---:|
+| Carried in | 25.53 |
+| Floor, the 22nd of the tenth | −0.32 |
+| Floor, the 16th of the first | −0.57 |
+| Warrant, five heads at 3.0 | −15.00 |
+| **Held** | **9.64** |
+| Spoken for: the Marshal's floor (4.0); hand to Ember, six goes (1.8) | 5.80 |
+| **Uncommitted** | **3.84** |
+| **Sealed medical (W, plain)** | **0.8, unopened** |
+
+- No plain ward-trace is to be had in Meridian or from Saltmere's shelf.
+- **License:** second step in its own right; **no Flask license in its own right.** By the
+  Board's notice a four without one hunts attached.
+- Seven lost a yard contest to Old Four, six to five (the 16th). Correction in hand: a mark
+  is held first and tested under the holder; *mine* before *yours.*
+
+### M1.3 The night van
+
+- The card went back signed on the 1st of the eleventh month and **stands unaltered.**
+- **Two nights done:** the 9th (a string of three; three clean bags) and the 22nd–23rd of the
+  first month.
+- **The 23rd, the coal wharf below the Hythe:** a string of four with its skin laid on the
+  ground for a cloth, which folds from the far edge and takes a rung home (**"a purse
+  string"**). **Pike's hands were taken to above both wrists;** six weeks. Kiva said two words
+  before a bag was sealed, a count late. Pru caught three rungs under Rhea's slate. Nothing
+  tinned clean; 198 drams and a tin of skin red-tagged.
+- **Standing line on Rhea Sorn's slate:** *The far edge: the second's. To say. Two words,
+  once.*
+- **Four nights remain** (two in the second month, two in the third): Varley, of Imrie's van,
+  for the cloth; Pike rides as a voice; Kiva is second to Pike.
+
+### M1.4 Other people
+
+| Person | State |
+|---|---|
+| **Mara Rowan** | Seven drums out by the 25th of the tenth. Twelfth sheet: no count shared with anything on the same water, pumps included. Left hand whole; reads banks from the 1st of the eleventh. Has Saltmere's failure, six minutes in a fitter's hand, and a tide table she cannot yet read. Has not answered Yeo. Knows of Hart. |
+| **Orla Dane** | Told Kiva of Hart on the 24th of the tenth. Has not read the copy. Hart has written to Kiva and not to her. |
+| **Jessamy Hart** | Two cards and a list. The fitter with the watch at the Saltmere harbour pump house. Asked what Kiva's two fingers tell her; has been asked what his hand tells him. Not met. |
+| **Pike** | Fifty-four. Hands in linen to the elbow. Right thumb slow since the autumn before last, in his own writing. |
+| **Perrin Cade** | Ribs mended; his Hall's second team; captain, unwilling. |
+| **Anwen Pryce** | Walks a wall forty paces. Keeps the wax. |
+| **Pru Finch** | Second pin; caught on a company's floor; reserve. |
+| **Selka Dray** | On two sticks. Unpersuaded. Marten captains Twenty-Eight. |
+| **Rhea Sorn** | Card kept; slate changed. |
+| **Dinah Coombe** | Hunt Marshal, Blaze; comes to Meridian in the second month; one floor a four at a dram a head. Not met. |
+
+### M1.5 The grid
+
+- **No drum on the Brickfields trunk is in step.** Drum twenty-nine's streets came off their
+  boxes on the 6th of the eleventh month.
+- A drum given a pump's count fell in with the pump through the water (drum nineteen, twice).
+- **Saltmere tried the twelve sheets on the 20th and 21st of the eleventh month and failed:**
+  the harbour's water is never still. Six cells went back in, at one to forty-one minutes;
+  the long holds were all on the second day's hour. Six jars of plain spent; no more given.
+
+### M1.6 Knowledge boundaries, changed
+
+| Fact | Now also known to |
+|---|---|
+| Hart's first card and his request | Kiva (from Orla); Mara (from Kiva) |
+| That Hart is a fitter at the Saltmere harbour pump house, by his hand on the list | Kiva, Mara |
+| Hart's second card | Kiva, Mara, Orla (in the book) |
+| That one line was left out of the copy | Hart, Orla (not which line, nor why) |
+| **That Kiva dreams** | **Nobody new.** |
+| Pike's thumb | Pike, Kiva, Rhea, Stroud |
+| Nine red tags on the Halden license yard | The Rowan table of the 25th (Kiva, Anwen, Perrin, Jude, Pru, Mara). Not Birch. |
+
+### M1.7 Dates ahead
+
+Road south: inside thirty days of the 30th of the first month. The gate: Tuesday the 1st of
+the third month. The Bench: Monday the 14th, **forty-four days** on. Rhea Sorn's card ends on
+the 30th of the third month.
