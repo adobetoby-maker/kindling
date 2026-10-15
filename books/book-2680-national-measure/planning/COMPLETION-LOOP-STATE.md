@@ -141,3 +141,21 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Blockers: none. Owner items accumulating (dialogue vs sentence targets; front-load arithmetic; Penhale's ward
   frost-shape; M3 open items) -- recorded in confirmation files, not blocking.
 - Next: M5 reviews -> repair -> recheck -> publish -> M6 brief (the Slack) -> whole-book review.
+
+## Update 2026-10-15 04:10 MDT — Movement Five drafted & published as draft; reviews running; concurrent audio activity
+
+- M5 draft `dd002b97` DONE (55,218 words, chapters 33–40; Kiva 87.0%; frozen `editions/movement-005-first-draft/`).
+  Source kindling main `f23455c`. PWA boundary-universe main `4c3fc60`, version 1.18.42, sw-v1218; chapters 1–40
+  live and byte-identical to committed source; 33–40 labeled "first draft awaiting review".
+- ACTIVE CHILDREN: M5 informed editorial+formula review `887082aa` (-> `provenance/MOVEMENT-005-EDITORIAL-REVIEW.md`);
+  M5 manuscript-only cold read `165093a7` (-> `provenance/MOVEMENT-005-COLD-READ.md`).
+- COMPETING/CONCURRENT RUN (recorded, not interfered with): the audio supervisor (Codex) commissioned Opus 5.5 job
+  `9ab8514b` "Audio Clarity 8–9" (`planning/OPUS-AUDIO-CLARITY-08-09.prompt.md`), which made eight word-level fixes in
+  chapters 8 and 9 (record `provenance/AUDIO-CLARITY-08-09-REPAIR.md`, frozen `editions/audio-clarity-08-09-pre-repair/`).
+  Showrunner verified hashes, committed exactly those files, and published them. NEW STABLE HASHES: ch 8
+  `2cf6a109…`, ch 9 `3a2316f2…` (supersede the Movement One/Two confirmation tables for these files). Audio worktree
+  commits (`a300d0e`, `2c0c73b`) and audio-candidate pushes (`6782bb0`, `7adae03`; PWA `3453a07`, `ac78391`) are the audio
+  session's; main was merged, never forced.
+- Publish helper now reads committed bytes (git show HEAD:) so another session's uncommitted edits never publish.
+- Blockers: none.
+- Next: consolidate M5 reviews -> repair -> recheck -> publish -> M6 brief (the Slack) -> M6 -> whole-book review.
