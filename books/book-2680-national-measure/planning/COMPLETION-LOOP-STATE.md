@@ -178,3 +178,21 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Blockers: none.
 - Next: M6 reviews -> consolidate -> repair -> recheck -> publish -> whole-book review (continuity, chronology, power limits,
   progression/relationships, promises/payoffs, scene clarity, read-aloud) with bounded Opus repairs -> final publish and report.
+
+## Update 2026-10-15 07:30 MDT — FULL DRAFT EXISTS (ch 1–48); Movement Six repaired; recheck + whole-book review running
+
+- All six movements drafted by Opus 5.5. M6 (ending): draft `35fbff1b` (56,569) -> editorial `6e915e3e` (restart; the first editorial child `c89e8156` was interrupted at
+  05:51 by a supervisor message "Perform this editorial review yourself… Do not invoke penname-editor, Codex…" left unsent in its input; I stopped it, disallowed the Skill tool in
+  `scripts/nm-launch.sh`, relaunched) + cold read `2dcf4399` -> repair `3311fe04` (56,373 words; climax rules, clocks, coda restatements) -> recheck `22f7111d` RUNNING.
+- Published: PWA 1.18.44 shows chapters 1–48 (41–48 labeled first draft; 1–40 repaired). Source main `1214522`. Chapters 41–48 as repaired are NOT yet published.
+- WHOLE-BOOK REVIEW layer running (fresh Opus contexts, read-only, same-family simulated): A continuity/chronology/ash/powers `6f04bed8`
+  (-> `provenance/WHOLE-BOOK-CONTINUITY-REVIEW.md`); B promises/payoffs/relationships/ending `26886465` (-> `WHOLE-BOOK-PROMISES-REVIEW.md`);
+  C seams/clarity/read-aloud `ffc1e86f` (-> `WHOLE-BOOK-SEAMS-REVIEW.md`; not a full read, says so). Prompts `planning/OPUS-5.5-WHOLE-BOOK-*.prompt.md`.
+  Mechanical checks done by showrunner: no real month names; 0 "Breach"; quote parity clean (4 inch-mark false positives); "unroofed" first appears as Annick's phrase ch 34/36, named at ch 40.
+  Repetition data: `provenance/WHOLE-BOOK-REPETITION-DATA.md`.
+- ADOPTED concurrent audio-loop text repairs (Opus 5.5 jobs `9ab8514b`, `98c8ed9c`, `f842bac9`+): chapters 8, 9 (earlier) and 11, 14, 15, 19, 24 (commit `69ed848`): eight→three finger counts, spatial and cadence
+  fixes; frozen editions + reports under `editions/audio-*-pre-repair/` and `provenance/AUDIO-*-REPAIR.md`. These changed accepted hashes for chapters 8, 9, 11, 14, 15, 19, 24 (AUTHORSHIP lists them).
+  NOT YET PUBLISHED to the PWA: chapters 11, 14, 15, 19, 24 audio-clarity fixes and repaired 41–48 (next publish).
+- Audio session (Codex) is rendering Breeze chapters (1–3 candidates pushed); untouched by this loop.
+- Next: M6 recheck -> accept; consolidate whole-book findings into one bounded repair list -> freeze whole-book pre-repair edition -> same-author Opus repair of located defects -> fresh recheck of changed lines
+  -> reconcile ledgers/maps/authorship -> final publish (all changed chapters) -> final report.
