@@ -60,7 +60,7 @@ He stood up with the Purser on his back.
 
 The lockkeeper turned his crank. The shutters went up all the way. The spouts became two great columns, and the noise doubled, and the water in the chamber went from the shins to halfway up the calf in the time it took Kiva to look down at it.
 
-A minute. They had a minute's start on the face. It did not matter now. The Purser's face was over Perrin's shoulder, two feet above the water, and it would stay there unless Perrin went down.
+A minute, by the customs house clock. They had beaten the water to his face by most of a minute, and it did not matter now. The Purser's face was over Perrin's shoulder, two feet above the water, and it would stay there unless Perrin went down.
 
 Perrin walked to the ladder. He did not run. He walked through the rising water with the Purser on his back and his head bent forward under the weight, ten paces, with the three of them round him, and stopped at the foot of the north wall where the iron rungs went up.
 
@@ -192,7 +192,7 @@ The twentieth.
 
 *Set.*
 
-At the twenty-first, Jude let go of the loop and took the Purser by the collar instead, both hands, and at the twenty-second, Perrin did not reach for a rung at all. There was no rung. There was the lip of the lock, rounded granite, worn smooth. He planted on the twenty-second rung with his head and shoulders above the lip and the Purser above them, and he put both hands flat on the quay and pushed, and Jude pulled, and the Purser went over the edge on his back like a sack going into a loft.
+At the twenty-first, Jude let go of the loop and took the Purser by the collar instead, both hands, and at the twenty-second, Perrin did not reach for a rung at all. There was no rung. There was the lip of the lock, rounded granite, worn smooth. He planted on the twenty-second rung with his head and shoulders above the lip and the Purser above them, and he put both hands flat on the quay and pushed, and Jude pulled, and the Purser went over the edge and lay on his back on the quay.
 
 Perrin came over after him on his knees.
 
@@ -214,7 +214,7 @@ Kiva had not known that she was. She looked down. Anwen's hand was round her lef
 
 "The stair," said Kiva. Her teeth were going. "We'll drown."
 
-They went down the chamber toward the tail through the water, which was running against them now, pouring in from the head and going out nowhere, because the tail gates were shut. It was like walking up a river. At the stair a Board man in grey reached down and took Anwen's hand and then Kiva's, and pulled, and they came up the wet green steps onto the quay with water running out of their boots and their coats and their hair.
+They went down the chamber toward the tail through the water, which was running with them now, pushing at their backs, pouring in from the head and going out nowhere, because the tail gates were shut. At the stair a Board man in grey reached down and took Anwen's hand and then Kiva's, and pulled, and they came up the wet green steps onto the quay with water running out of their boots and their coats and their hair.
 
 The quay was a crowd.
 
@@ -238,7 +238,7 @@ He did not smile. His face was grey and wet and his mouth was set. He looked at 
 
 "I know." He opened his eyes again. "I'd like it known."
 
-"Be quiet," said Aske, without looking up. "Both of you. One's gone, Cade. The seventh, on the left. It's cracked, not through. I felt it go from the bottom of the ladder; everybody did." He took his hands away. "You'll sit on this bollard and you'll not move off it till I say. And you'll not lift anything, or plant anything, or carry anything heavier than a cup of tea for a fortnight. I'll write it on a card."
+"Be quiet," said Aske, without looking up. "Both of you. One's gone, Cade. The seventh, on the left. It's cracked, not through. I heard it go from the lip; everybody did." He took his hands away. "You'll sit on this bollard and you'll not move off it till I say. And you'll not lift anything, or plant anything, or carry anything heavier than a cup of tea for a fortnight. I'll write it on a card."
 
 "There's the Longshore tomorrow."
 
@@ -248,7 +248,7 @@ He did not smile. His face was grey and wet and his mouth was set. He looked at 
 
 There were eleven fours still to run.
 
-Kiva had not thought about that. She sat on the quay with her back against the lockkeeper's hut and a blanket round her that somebody had put there, and her boots off, and her feet in Anwen's lap being rubbed by Anwen's hands, which were nearly as cold as her feet. She looked at the chamber. The lockkeeper had shut his shutters. The water was going out through the tail sluices into the basin, slowly, with a sound like a bath draining. The Board's men in grey were standing on the stair waiting for it to go down, with a dry sailcloth folded over their arms.
+Kiva had not thought about that. She sat on the quay with her back against the lockkeeper's hut and a blanket round her that somebody had put there, and her boots off, and her feet in Anwen's lap being rubbed by Anwen's hands, which were nearly as cold as her feet. She looked at the chamber. The lockkeeper had shut his shutters. The water was going out through the tail sluices into the basin with a sound like a bath draining. The Board's men in grey were standing on the stair waiting for it to go down, with a dry sailcloth folded over their arms.
 
 "Eleven," said Anwen. "And the last of them's the Ropewalk."
 
@@ -262,7 +262,7 @@ Kiva had not thought about that. She sat on the quay with her back against the l
 
 "Three and eight is a time," said Kiva. "Somebody'll beat it."
 
-The fourteenth run went. It was a four Kiva did not know, in Westerley's sea blue, and they took the stair and came in at three and twenty-six. The fifteenth was Holloway in dark red. They took the ladder with a rope and were clean and quick, three and twenty-one, and the quay made its warm low sound.
+The fourteenth run went. It was a four Kiva did not know, in Westerley's sea blue, and they took the stair and came in at three and twenty-six. The fifteenth was Holloway in dark red. They took the ladder with a rope and were clean and quick, three and twenty-one, and the quay was pleased with them.
 
 The sixteenth was Team Twenty-Eight.
 
@@ -288,7 +288,7 @@ He had sat up. He was sitting on the quay beside the Purser, who nobody had yet 
 
 "Your arm," said Kiva.
 
-"It's frosted. It was frosted already." Jude did not look at it. "It's not worse. It's just mine. I'd want it said I leaned on it once, for a loop, and I'd do it again." He looked at the chamber. "Eight seconds. That's Brask. Brask's the strongest carry in Meridian."
+"It's frosted. It was frosted already." Jude did not look at it. "It's not worse. It's just mine. I leaned on it once, for a loop, and I'd do it again." He looked at the chamber. "Eight seconds. That's Brask. Brask's the strongest carry in Meridian."
 
 The Board's men spread a dry sailcloth. They lashed the spar. The water went out.
 
@@ -308,9 +308,9 @@ Kiva had not seen the Tarn carry before. She had seen them in a lane, a square t
 
 "They watched you," said Anwen again, "and they did it with a blade instead of a door."
 
-Trewin took the spar off the Purser's shins with his still door planted, and set it down, and then he did a thing that made the whole quay go quiet. He bent and picked up the Purser by himself and put him across his shoulders, the way a shepherd carries a sheep, with an arm and a leg in each hand. Then he turned round and walked the fifty paces back down the chamber to the tail stair, through water that was over his knees, at a walk.
+Trewin took the spar off the Purser's shins with his still door planted, and set it down. He bent and picked up the Purser by himself and put him across his shoulders, the way a shepherd carries a sheep, with an arm and a leg in each hand. Then he turned round and walked the fifty paces back down the chamber to the tail stair, through water that was over his knees, at a walk.
 
-He did not run. He did not need to. Kiva watched his feet. He planted on every step he took.
+He did not run. He did not need to. Kiva watched his feet. He planted on every step he took, and the whole quay went quiet.
 
 She had not seen anybody do that. She did not think anybody could. A still door is a slow thing; it goes down and holds, and you do not walk with it any more than you walk with a post. Trewin walked with it. He put his foot down, and planted, and the water broke round his boot as round a post, and he shut and lifted the other foot, and planted. It was slow. It was so slow that the quay began to murmur. And not once did the Purser's face come within a foot of the water, because the water could not move Trewin an inch.
 
@@ -324,7 +324,7 @@ The Tarn's four came along the quay behind him at a run. Trewin went the last tw
 
 "*Three minutes and twelve,*" said the marshal. "*Clean.*"
 
-The quay roared. It was the first time it had roared all morning. Kiva saw people on the lockkeeper's roof stamping. She saw a woman in brown and buff weeping openly by the hut. And she saw Trewin take his hat back from the marshal and put it on, and look along the quay, slowly, until he found her sitting against the hut in her blanket. He nodded to her once.
+The quay roared. It was the first time it had roared all morning. Kiva saw people on the lockkeeper's roof stamping. She saw a woman in brown and buff weeping openly by the hut. And she saw Trewin take his hat back from the marshal and put it on, and look along the quay, face by face, until he found her sitting against the hut in her blanket. He nodded to her once.
 
 She nodded back.
 
@@ -340,7 +340,7 @@ Halden License went second to last.
 
 Kiva watched Kellan go down the stair in his black and gold, and stand on the chalk line, and not look up. Pettit declared. The bell went.
 
-Halden took the ladder. They did not take a rope. Hesketh's ward went under the cloth's near edge, and Kellan, Kiva saw, put his edge flat on the far edge, as the Tarn had, pressing the lead down. They had watched too. Pettit took the spar. And then Halden did a thing that was neither Seven's nor the Ropewalk's. Pettit and Yarrow went up the ladder side by side, one on each edge of the iron rungs, with the Purser between them in the Board's sling, one loop over Pettit's shoulder and one over Yarrow's. They climbed together, rung for rung, with Kellan below them on the rungs calling *left, right, left,* and the Purser came up the wall between them like a sack between two porters on a stair.
+Halden took the ladder. They did not take a rope. Hesketh's ward went under the cloth's near edge, and Kellan, Kiva saw, put his edge flat on the far edge, as the Tarn had, pressing the lead down. They had watched too. Pettit took the spar. And then Halden did a thing that was neither Seven's nor the Ropewalk's. Pettit and Yarrow went up the ladder side by side, one on each edge of the iron rungs, with the Purser between them in the Board's sling, one loop over Pettit's shoulder and one over Yarrow's. They climbed together, rung for rung, with Kellan below them on the rungs calling *left, right, left,* and the Purser came up the wall between them like a chest between two porters on a stair.
 
 It was quick. It was very quick. Nobody planted anything. Nobody needed to.
 
@@ -374,7 +374,7 @@ Tolver tied the knot. He tied it twice. He was being careful, because a knot tha
 
 The Purser's head lolled forward.
 
-Carrow had it in her hands. She had been holding it up. But she was holding it with nothing open, because she was laid, and to lift anything she had to walk, and to walk she had to unlay. She had done that. She had shut both doors to hold the head. And the Purser was heavy, and wet, and folding at the neck, and his chin went down onto his chest. His painted face went down into the brown water to the eyebrows and came up again.
+Carrow had it in her hands. She had been holding it up. But she was holding it with nothing open. A laid girl cannot walk, and to lift and walk she had shut both doors. And the Purser was heavy, and wet, and folding at the neck, and his chin went down onto his chest. His painted face went down into the brown water to the eyebrows and came up again.
 
 "*Face,*" said the marshal.
 

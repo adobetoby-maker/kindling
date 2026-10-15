@@ -630,3 +630,98 @@ only that person has.
 - Files written by this run: `manuscript/chapter-25.md` to `chapter-32.md`,
   `provenance/MOVEMENT-004-CHECKPOINT.md`, `provenance/MOVEMENT-004-CONTINUITY.md`, this entry, and the Movement
   Four block of `STATE_LEDGER.md`. No other file was edited.
+
+## Movement Four, consolidated repair — 2026-10-15
+
+- Status: **same-author repair of chapters 25–32, in place. Not rechecked, not cold-read after repair, not
+  accepted, not committed, not pushed, not published.** Chapter 33 was not drafted. No Movement Five work.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.**
+  This cannot be verified independently from inside the session. No subagent, other model or delegated worker
+  wrote or edited any prose or record. No codex or OpenAI call was made.
+- Session: Claude Code background job `647704f1` (job directory `~/.claude/jobs/647704f1`); remote session
+  `session_017hq6UNUu29qY4gquWotNEW`. Worked in place in the worktree `/Users/drive/kindling-2680-book-02`,
+  branch `codex/kindling-2680-book-02` (EnterWorktree not available); no commit made.
+- Brief: delivered in-session. On spot comparison its text matches `planning/OPUS-5.5-MOVEMENT-004-REPAIR.prompt.md`
+  (196 lines), SHA-256 `82226e2e2e3c91a71a338c3fe91fc5bd3ad5eda1089812d9c901dbbe03520c36`.
+- Inputs, read in this order before the first edit: `provenance/MOVEMENT-004-EDITORIAL-REVIEW.md`,
+  `provenance/MOVEMENT-004-COLD-READ.md`, `provenance/MOVEMENT-004-CONTINUITY.md`, `STATE_LEDGER.md` (Movement Four
+  block), `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, `CHARACTERS.md`, `packets/MOVEMENT-004.md`, then chapters 25–32 in full.
+  One targeted search of chapter 24 (Trewin's Sunday, C16); chapters 1–24 were not edited.
+- Scope:
+  - **Eighteen factual and logic fixes (F1–F18):**
+    - the Bench marking rule said before heat one, and the heat times made to obey it (unnamed steps 4:00, 3:00,
+      4:00; the Tarn 5:10). Places 7–9 now follow from the page and every printed sheet sums; Seven stays ninth.
+    - the rail minute in the Clerk's opening
+    - the water's direction in the lock
+    - Aske "heard it go from the lip"
+    - Pru's reading
+    - Kiva hears of Skerry Pill on the cart
+    - the comb place
+    - Penhale "told half the causeway"
+    - Yeo's quarter past twelve and half an hour
+    - sixty paces
+    - Perrin's thimble
+    - "but on its officer's word"
+    - "wrote to the Works"
+    - the Tuesday evening clock loosened around the fixed yes/no hour
+    - Trewin's hand
+    - Penhale's gust "this morning"
+  - **Clarity (one sentence each):**
+    - the Carry's 1:20
+    - Carrow's doors
+    - "I don't know why. Ours folded. It should."
+    - the Tarn's far post on the west side of the bend, its sleeve swinging from downstream to inland over the
+      west mud with the closed end named first
+    - the quay's quiet moved to Trewin's planting
+    - the Chair's hand
+  - **Voices and shape:**
+    - Jude's "I'd want it said" 13 → 5
+    - "slowly" 43 → 28
+    - "before the water" 8 → 4 (Noa's ledger the single formal record)
+    - each repeated image given one home
+    - Penhale's telegraphing halved
+    - the aftermath's restatements cut to what is new
+    - ch. 32's Dray and *Mercury* sections folded into the board scene (two breaks removed, every line kept)
+    - narration joins in ch. 28 §0–§2, §5 and ch. 32 §1–§5, §9, §11
+- Record: `provenance/MOVEMENT-004-REPAIR.md`, with every correction and its evidence, the full Bench re-ranking
+  check, the before/after measures and the items left unchanged.
+- Word counts (`wc -w`): 52,401 → **52,203**. By chapter: ch. 25 6,356; ch. 26 5,104; ch. 27 7,270; ch. 28 5,023;
+  ch. 29 6,189; ch. 30 6,357; ch. 31 6,659; ch. 32 9,245.
+- Measures (`provenance/tools/m4_metrics.py`, unmodified), before → after:
+  - sections 52 → 50
+  - internal breaks per 10k 8.41 → 8.06
+  - all-text ≤5 46.1% → 45.8%, median 6 → 6
+  - narration ≤5 42.2% → 41.7% (waypoint ~38% **not** reached), ≥40 2.6% → 2.7%
+  - viewpoint (ch. 32 map keys shifted for the fold): Kiva 83.9%, cutaways 8,378 words
+- Frozen edition `editions/movement-004-first-draft/` was not modified; `SHA256SUMS.txt` verified OK for all eight
+  files before and after.
+- Records reconciled to the surviving prose: `provenance/MOVEMENT-004-CONTINUITY.md` (entries marked *(repair)*;
+  new §14) and the Movement Four block of `STATE_LEDGER.md` (status; lines marked *(repair)*; new M4.8 and M4.9).
+- Owner items left untouched:
+  - whether sentence targets govern dialogue
+  - the progression-vocabulary trend
+  - Perrin's lift against Aske's card (carried to Movement Five)
+  - Penhale's ward as frost (C18)
+  - Monday's "It was the neap"
+  - Orla's "by sight for a fortnight"
+  - the Movement Three open items
+
+## Movement Four, review, repair, recheck and acceptance — 2026-10-15
+
+- Reviews (both simulated, same model family, runtime-reported `claude-opus-5-5`): informed editorial and formula
+  review, job `28d8a21c` (prompt `planning/OPUS-5.5-MOVEMENT-004-EDITORIAL-REVIEW.prompt.md`, SHA-256
+  `ac40f08b84593764e799ba32eee30836b2985664d69ef842611b274422124924`); manuscript-only cold read, job `b4360b6b`
+  (prompt `...-COLD-READ.prompt.md`, SHA-256 `4e866ccc9eb84e7a0155657915cc03f9f68048942f1e1f238dbc84d34ec10973`).
+  Neither is human reader feedback.
+- Consolidated repair by the Opus 5.5 author seat, job `647704f1`, prompt
+  `planning/OPUS-5.5-MOVEMENT-004-REPAIR.prompt.md`, SHA-256
+  `82226e2e2e3c91a71a338c3fe91fc5bd3ad5eda1089812d9c901dbbe03520c36`. Record `provenance/MOVEMENT-004-REPAIR.md`
+  (eighteen factual corrections including the Bench re-ranking; clarity edits; catchphrase and aftermath fold).
+- Fresh-context targeted recheck, job `e6a7d3ad` (prompt SHA-256
+  `2201dd53392a389e809ed5256bcb192a6d16f4ba71371b4401e8f3bccb2b451b`): passed with no prose defect; four stale record
+  lines, corrected by the showrunner.
+- Frozen first draft `editions/movement-004-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK).
+- Final word count 52203 (`wc -w`). Final hashes: `provenance/MOVEMENT-004-RECHECK-CONFIRMATION.md`.
+- The showrunner (Sonnet 5.5) wrote no prose. **Movement Four is accepted as editorial context for Movement Five.**
+  Formula sentence targets were not reached (see the confirmation file).

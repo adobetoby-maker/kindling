@@ -44,9 +44,9 @@ She had come out on the Circuit's cart with Aske and the clerks, and she sat on 
 
 Coombe came along the causeway at a quarter to eight in her grey Board coat, with the rope in her hands.
 
-Kiva had not seen her since the second month. She looked exactly the same. She walked as if the causeway were a quay she was counting heads on, slowly, and her pale eyes went over the fours in their colours one after another without stopping on any of them. She stopped at the comb table. The Clerk was there, in her own grey coat with the gold chain, and they did not greet each other. They stood side by side, two women in the Board's grey, and the Clerk read the rules.
+Kiva had not seen her since the second month. She looked exactly the same. She walked as if the causeway were a quay she was counting heads on, and her pale eyes went over the fours in their colours one after another without stopping on any of them. She stopped at the comb table. The Clerk was there, in her own grey coat with the gold chain, and they did not greet each other. They stood side by side, two women in the Board's grey, and the Clerk read the rules.
 
-"The Hunt," said the Clerk. "The third board. Twelve beats on the Longshore, two fours to a beat, one officer to each, by the Board's draw. A four works on its officer's word and on nothing else. Nothing is lit without it. Nothing is cut without it. A four does not go onto the mud below a form on running water. A person down on the mud is the officer's crew's; the fours stand off. Students close no tear." She did not look at a paper. "Every bag is combed at the gate. A four is marked on its quarter of its clean yield, after the Board's half and the officer's company's quarter, and less a dram on the mark for every remark on its officer's slate. The Hunt closes at three, or when the flood is over the flats, whichever comes first."
+"The Hunt," said the Clerk. "The third board. Twelve beats on the Longshore, two fours to a beat, one officer to each, by the Board's draw. A four works on its officer's word and on nothing else. Nothing is lit without it. Nothing is cut without it. A four does not go onto the mud below a form on running water, but on its officer's word. A person down on the mud is the officer's crew's; the fours stand off. Students close no tear." She did not look at a paper. "Every bag is combed at the gate. A four is marked on its quarter of its clean yield, after the Board's half and the officer's company's quarter, and less a dram on the mark for every remark on its officer's slate. The Hunt closes at three, or when the flood is over the flats, whichever comes first."
 
 She stepped back. It was Coombe's turn.
 
@@ -338,7 +338,7 @@ Kiva thought about how to say it. She did not want to say it the way it was writ
 
 Penhale looked at her fist. Then he laughed, loud and cheerful, so that a curlew got up out of the marsh grass on the far bank and went away crying.
 
-"Nobody," he said. "On this coast nobody passes anything to nobody. We hand it, man to man, both hands on it. You'd put half the Company out of a job." He shook his head, still laughing. "I'd like to see it. I'll not, likely. I've been reserve on four Hunts, and never been onto the mud yet."
+"Nobody," he said. "On this coast nobody passes anything to nobody. We hand it, man to man, both hands on it. You'd put half the Company out of a job." He shook his head, still laughing. "I'd like to see it."
 
 "I'd sooner you didn't see it," said Kiva. "It's only for when it's wanted."
 
@@ -346,7 +346,7 @@ Penhale looked at her fist. Then he laughed, loud and cheerful, so that a curlew
 
 "It is."
 
-"We give it the corner-hand. It's in the book. Has been since my dad." He looked down the channel toward the Tarn's stow, where Bridie was standing in the mud beside its posts with a purse over her shoulder, looking at it as if it might bite. "When it's printed, I'll read it. I'm not one for reading. But I'll read that."
+"We give it the corner-hand. It's in the book. Has been since my dad." He looked down the channel toward the Tarn's stow, where Bridie was standing in the mud beside its posts with a purse over her shoulder, looking at it as if it might bite. "When it's printed, I'll read it. I've told half the causeway so. I'm not one for reading. But I'll read that."
 
 He waded off. Kiva watched him go, broad and red-bearded, with the mud to his knees, talking already. She could hear him from fifty paces, low and cheerful, telling Bridie Hebden about his brother who couldn't stand the mud.
 

@@ -4,7 +4,7 @@ Aske greased the knuckles of her right hand in the healers' tent at two, with th
 
 He did it with two fingers and a pot of yellow grease that smelled of sheep, slowly, as he did everything, and then he wound linen round the hand from the wrist to the first joints and tied it off. He did not look up while he did it. He had done Pru's first, all ten fingertips, each in its own small cap of linen, so that she sat on the next stretcher with her hands held up in front of her like a surgeon waiting to be gloved.
 
-"A burn of cold," he said. "Across the knuckles and the backs of the first two fingers. It'll blister tonight and peel by Sunday." He tied the knot. "It's your right hand. It's not the left. I'd like that understood. It's the one that works, and it'll go on working, and in a week you'll not know it happened."
+"A burn of cold," he said. "Across the knuckles and the backs of the first two fingers. It'll blister tonight and peel by Sunday." He tied the knot. "It's your right hand. It's not the left. Understand that. It's the one that works, and it'll go on working, and in a week you'll not know it happened."
 
 "And the Ember?"
 
@@ -38,7 +38,7 @@ They both looked at him.
 
 "Plain ward-trace eases a starved hand," said Aske. "A hand that's had the ash drawn out of it through a door, so that the door's hungry and the flesh round it's cold from inside. I've done it. Her aunt's hand was starved once, in the autumn, and plain eased it inside the hour." He nodded at Bridie. "That's not starved. That's burned. It's a burn of cold from outside, off a skin, the same as frost off a gate. It wants grease and wet linen and a fortnight. Plain ash on that would do nothing that grease won't do better, and you'd have spent the last plain ward-trace on the road south for a pot of grease." He looked at Trewin. "I'm sorry. I'd say so if it were otherwise. I'd say so to her four and to the girl's own face."
 
-Trewin looked at him for a long time. Then he nodded, slowly, as though nodding were a thing that had to be done properly.
+Trewin looked at him for a long time. Then he nodded, once.
 
 "Thank you," he said. "I'd sooner know."
 
@@ -54,11 +54,11 @@ Jude said it on the cart going back along the causeway, with the book open on hi
 
 "If it had been her hands," he said. "Starved. If Aske had said yes."
 
-Nobody answered him for a while. Pru sat with her capped fingers held up. Anwen sat with her hands in her sleeves. Perrin sat on the cart's floor with his back against the side and his hand on his ribs and his face grey, and he did not open his eyes.
+Nobody answered him for a while. Pru sat with her capped fingers held up, and Anwen with her hands in her sleeves. Perrin sat on the cart's floor with his back against the side and his hand on his ribs and his face grey, and he did not open his eyes.
 
 "Then we'd have had to talk about it," said Kiva.
 
-"We'd have had to talk about it." Jude looked at the page. "It's bound in our word. It's bound for your hand. I'd want it said that I thought about it, all the way back from Mallow, what I'd have said if Aske had said yes." He shut the book on his finger. "I don't know what I'd have said. I'd want that said too."
+"We'd have had to talk about it." Jude looked at the page. "It's bound in our word. It's bound for your hand. I thought about it, all the way back from Mallow, what I'd have said if Aske had said yes." He shut the book on his finger. "I don't know what I'd have said."
 
 "I know what I'd have said," said Perrin, without opening his eyes.
 
@@ -68,7 +68,7 @@ Nobody answered him for a while. Pru sat with her capped fingers held up. Anwen 
 
 ---
 
-The Board combed the Hunt at the gate on the timber pond from four until after six.
+The Board combed the Hunt's bags back at the gate on the timber pond, as the Clerk had said it would, from four until after six.
 
 Every four came in off the Longshore with its bags, and every bag went on the long table under the mast, and a clerk in grey held a comb over it, and another clerk wrote down what the comb said. The queue went back along the boards and round the end of the Graving's wall. Nobody talked much in it. The word had gone along the causeway and along the Mole and into the town long before any of them came in, and the queue had heard it, and it stood with its bags at its feet and waited.
 
@@ -78,7 +78,7 @@ There were three things to comb. The two bags off Mallow Creek, tied at their ne
 
 The clerk held the comb over the tin first.
 
-Kiva heard the third reed sing, high and thin, the way it sang for ward-trace. Then she heard the seventh. It was not a hair. It was a voice. It sang over the third and went on singing after the clerk had taken the comb away.
+Kiva heard the third reed sing, high and thin, the way it sang for ward-trace. Then she heard the seventh. It was not a hair but a voice, and it sang over the third and went on singing after the clerk had taken the comb away.
 
 "Red," said the clerk. "I above trace. Nine drams and a tenth." He did not look up. "Wet on the ebb?"
 
@@ -96,7 +96,7 @@ The second bag. The far post's, the tall one, cut at twenty-four minutes past an
 
 The third reed sang.
 
-The seventh did not sing. It hummed. It was a hair, a thread of sound, so faint that Kiva would not have heard it if she had not been listening for it with her whole body. It was the sound that she had heard from every can in Meridian since the thaw, and every tin on the road south, and every bag from Cowl Edge. It was the hair.
+The seventh did not sing; it hummed. It was a hair, a thread of sound, so faint that Kiva would not have heard it if she had not been listening for it with her whole body. It was the sound that she had heard from every can in Meridian since the thaw, and every tin on the road south, and every bag from Cowl Edge. It was the hair.
 
 "Trace," said the clerk. He looked up for the first time. "Under trace on the seventh. Clean." He looked at the bag, and at the comb, and at them. "Twelve drams and six-tenths. Clean."
 
@@ -104,25 +104,25 @@ The seventh did not sing. It hummed. It was a hair, a thread of sound, so faint 
 
 "Clean." The clerk wrote it. "Don't ask me why one's clean and the one off the next post isn't. Off the same stow, in the same slack, in the same purse, by the same catcher. I've had it all day. One in four that's dry, perhaps, combs clean. Nobody's had a wet one under." He tied a white tag on the second bag. "Twelve and six, clean, Team Seven. The Board's half, the Company's quarter, your quarter. Three drams and fifteen hundredths, to your book." He looked down the queue. "Next."
 
-They stood back from the table. Jude had the book open on his arm and was writing.
+They stood back from the table, and Jude opened the book on his arm and wrote.
 
 "*Wednesday the 16th,*" he said aloud. "*The Hunt, Mallow Creek. Pryce, a wall on water, seventeen. Talley, two cuts, ten. Finch, a fold, twelve. Rowan, an Ember, her own thimble. Spent, thirty-nine.*" He wrote. "*Combed: fifty-nine drams and seven-tenths; forty-seven and a tenth red, and tagged. Twelve and six clean. The four's quarter, three and fifteen.*" He did the sum in the margin, twice, as he always did. "*Held, six and twenty-six.*"
 
 "Six and twenty-six," said Anwen.
 
-"The most we've had since the hills." Jude did not look up. "I'd want it said that I'd give it all back."
+"The most we've had since the hills." Jude did not look up. "I'd give it all back."
 
 Nobody said anything to that.
 
 At the next table along the boards, a man in Halden's black and gold was sitting with a ledger.
 
-Kiva had seen him from the queue. She had not thought anything of it. Halden's technical office had a clerk at every board; Mr. Adlam had said so. He sat with his ledger open and wrote, and every time a bag on the comb table got a red tag, he leaned over and read the tag and wrote a line.
+Kiva had seen him from the queue and had not thought anything of it. Halden's technical office had a clerk at every board; Mr. Adlam had said so. He sat with his ledger open and wrote, and every time a bag on the comb table got a red tag, he leaned over and read the tag and wrote a line.
 
 Kellan was standing beside him.
 
 Kellan was not in the queue. Halden had been combed at five. He stood by the clerk's table in his black and gold with his hands in his pockets, reading the ledger upside down over the clerk's shoulder, and his face had the look it had when a sum would not come out.
 
-He saw Kiva. He came over.
+He saw Kiva and came over.
 
 "Skerry Pill," he said.
 
@@ -158,7 +158,7 @@ Noa was at the mast.
 
 The mast stood up black above the timber pond as it had stood every day for a fortnight, forty feet, with its drum and its eight pens. Nobody had stood on its crosses since Monday morning. Noa's desk was at its foot, and Polglase's beside it, and the two readers were standing at them in the last of the light with their tapes unrolled.
 
-Kiva went over. She had not meant to. She found that she had.
+Kiva went over. She had not meant to, and found that she had.
 
 "Rowan," said Noa. He had his pencil behind his ear. He looked at her bandaged hand and then, carefully, not at it. "I heard."
 
@@ -180,9 +180,9 @@ Polglase did not answer that. He took his spectacles off and polished them.
 
 Kiva looked at the hair on the tape. Twelve forty-four.
 
-"The stow turned at a quarter to one," she said. "On Mallow Creek. The lower one. The Tarn's. Perrin had the glass and the watch, and he wrote it down. A quarter to one, or a minute before." She heard her own voice, quite level. "It turned before the water. The water turned at nine minutes to one. Seven minutes after. My fingers had said nothing the whole time, and the grass stood up straight."
+"The Tarn's stow turned at a quarter to one, or a minute before," she said. "Perrin had the watch." She heard her own voice, quite level. "The water turned seven minutes after. My fingers said nothing till it did, and the grass stood up straight."
 
-Noa looked at her. Then he took his pencil from behind his ear and wrote in the ledger on his desk's ledge, in his narrow upright hand. Kiva watched him write.
+Noa looked at her, then took his pencil from behind his ear and wrote in the ledger on his desk's ledge, in his narrow upright hand. Kiva watched him write.
 
 *The 16th. A hair on all pens at 12.44 by the mast clock. Nobody on the mast. At Mallow Creek, by T7's captain's watch, a stow turned at 12.44 or 12.45, seven minutes before the water (Rowan, K., fingers on a pole; the grass). N.B.*
 
@@ -194,7 +194,7 @@ He did not draw a line between them. He did not write *because.* He left a space
 
 "Mr. Polglase says it's the harbour."
 
-"Mr. Polglase has been reading this mast for forty years," said Polglase, putting his spectacles back on. "He's begun to look." He rolled his tape. "He'd like that noted as well."
+"Mr. Polglase has been reading this mast for forty years," said Polglase, putting his spectacles back on. "He's begun to look." He rolled his tape. "Put that in your N.B. as well."
 
 It was a quarter to seven. Kiva took her left hand out of her pocket, the warm one, the unbandaged one, and laid the first two fingers on the iron leg of Noa's reading desk where it stood on the boards over the black water of the timber pond. Lightly. Without leaning.
 
@@ -238,7 +238,7 @@ She opened her stance. Anwen felt it go into the boards, a post driven into the 
 
 Nothing came up.
 
-She held her hand there. Anwen watched it. It was a Hold's hand, broad, steady, held at the hip with the palm up, the way Anwen held her own a hundred times a day. There was nothing on it. There was nothing under it. There was no tray, no wall, no silver, not even the hesitation of a door that was shut and might open. There was a hand, at a hip, in the lamplight.
+She held her hand there, and Anwen watched it. It was a Hold's hand, broad, steady, held at the hip with the palm up, the way Anwen held her own a hundred times a day. There was nothing on it. There was nothing under it. There was no tray, no wall, no silver, not even the hesitation of a door that was shut and might open. There was a hand, at a hip, in the lamplight.
 
 "There," said Lyle. "That's all."
 
@@ -284,7 +284,7 @@ The board went up on the tent pole at the timber pond at nine, under the lamp, w
 
 The whole of the Measure was on the boards to read it. Kiva had never seen so many people on the timber pond, not on the first day at the gate, not at the seeding board on Saturday. They stood in the dark in their colours round the pole and along the edge of the black water, and the lamp hung over the sheets, and nobody pushed. It was the quietest crowd she had ever stood in.
 
-There were two sheets. The first was the Hunt.
+There were two sheets, and the first was the Hunt.
 
 *The Hunt. Twenty-four fours on twelve beats. Marked on each four's quarter of its clean yield, after the Board's half and the officer's company's quarter, less a dram on the mark for every remark.*
 
@@ -300,7 +300,7 @@ Under the Hunt, in the clerk's hand, there was a line that had never been on any
 
 *Mallow Creek closed at one, on the flood. D. Penhale, catcher, the Saltmere Company, reserve to the officer, lost. The Board records it.*
 
-That was all. Kiva read it three times. *The Board records it.* She thought of a man on a spur in his thigh boots with mud on his fingers, touching his forehead to her. *When it's printed, I'll read it. I'm not one for reading.*
+That was all. Kiva read it three times. *The Board records it.* She thought of a man on a spur in his thigh boots with mud on his fingers, touching his forehead to her.
 
 The second sheet was the standings.
 
@@ -340,9 +340,9 @@ He was standing beside her. Aske had let him come on condition that he did not s
 
 He had come up on her other side with the book under his good arm. He was not looking at the standings. He was looking at the line under the Hunt.
 
-"It's honest," said Jude again. "I'd want it said that I know it's honest. That nobody gave us anything and nobody took anything." He did not look away from the line. "I'd want it said that I don't care about the mark. Tonight. I'll care tomorrow. Tonight I don't."
+"It's honest," said Jude again. "I'd want it said that I know it's honest. That nobody gave us anything and nobody took anything." He did not look away from the line. "I don't care about the mark. Tonight. I'll care tomorrow. Tonight I don't."
 
-Perrin did not answer him. He stood with his hand on his ribs and read the standings again, slowly, all ten lines.
+Perrin did not answer him. He stood with his hand on his ribs and read the standings again, all ten lines.
 
 "The Lane," he said. "Thursday. We need two places in a bracket. Against fours that have watched us lay a ladder and drain a jacket and stand on a far edge." He breathed, carefully. "I'll be at the hurdle with my hands in my pockets."
 
@@ -352,9 +352,7 @@ Perrin did not answer him. He stood with his hand on his ribs and read the stand
 
 "If it's wanted."
 
-He looked at her a moment longer, and then nodded, and went away slowly toward the loft with Jude beside him, to lie on his bed till Aske came.
-
----
+He looked at her a moment longer, and then nodded, and went away toward the loft with Jude beside him, to lie on his bed till Aske came.
 
 "Your three people held."
 
@@ -372,9 +370,7 @@ Kiva did not say anything.
 
 She went away into the crowd, on two feet, with a limp so slight that nobody who had not seen her in a chair would have known it was a limp.
 
----
-
-The Mercury's late sheet was being sold on the Long Quay by a boy with a bag, under the white lamps, at a penny.
+Kiva went back along the boards to the Long Quay. The Mercury's late sheet was being sold there by a boy with a bag, under the white lamps, at a penny.
 
 Kiva did not buy one. She read it over a man's shoulder, under the lamp outside the Counting House, where a crowd had stopped to read it together. The headline went right across the top of the page in letters as big as her thumb.
 
@@ -412,7 +408,7 @@ The printer looked at the page. He held the candle to it.
 
 "It's one page. It's been one page since the second month." Coombe took a pencil out of her coat. "I'm changing one line."
 
-She bent over the counter and wrote. Orla could not see what. She saw Coombe's hand move across the head of the page, slowly, in the candlelight, and stop, and write again.
+She bent over the counter and wrote. Orla could not see what. She saw Coombe's hand move across the head of the page in the candlelight, and stop, and write again.
 
 "Read it back," said Coombe.
 
@@ -466,7 +462,7 @@ She held her hand an inch from the glass. She could feel the count in it, throug
 
 "I'll not," she said.
 
-Hart did not say anything. Peverell turned her head.
+Hart did not say anything, but Peverell turned her head.
 
 "I've been deciding for a fortnight," said Mara. "Whether to touch one. Rusk has asked me twice. You've asked me with your face every morning. Jessamy said on Monday night that somebody would have to, before the 23rd, or we'd be standing on the landing watching a ring we'd written down." She did not take her hand away from the glass. "He's right. Somebody will have to. Somebody will have to touch all thirty-six of them at once, on one word, at nine minutes past six, with the water still. If anybody's going to do it at all."
 
@@ -516,7 +512,7 @@ She read standing, with her square dark hands flat on either side of the sheets,
 
 "We give it the corner-hand," said Ivey.
 
-"I know. He told me. Penhale. This morning, in the mud." Kiva stood on the other side of the counter. "He said when the Marshal's page was printed, he'd read it."
+"I know. He told me. Penhale. This morning, in the mud." Kiva stood on the other side of the counter.
 
 Ivey did not look up. She went on to the next sheet.
 
@@ -528,11 +524,11 @@ Then she said what she had been waiting to say since the spur.
 
 Ivey looked up.
 
-"The stow. The Tarn's. It turned on its post at a quarter to one. The water turned at nine minutes to. Seven minutes after." Kiva made her voice plain. She did not want it written. She wanted it said, once, to somebody who could use it. "I had my fingers on a purse pole. They tell me the slack; they tell me nothing at the slack and something when it ends. They said nothing the whole seven minutes. The grass stood up straight. The water was still. And the stow turned anyway, as if it had heard the turn coming before the water had."
+"The Tarn's stow. Seven minutes before, with the slack still holding, as if it had heard the turn coming." Kiva made her voice plain. She did not want it written. She wanted it said, once, to somebody who could use it.
 
 "Things like that don't hear," said Ivey.
 
-"That's what Penhale said. At half past ten, when the upper one leaned before a gust." Kiva looked at the sheets on the counter. "I don't know that it heard. I know it moved first. So on the coast the far edge isn't when the tide turns. It's when the thing decides to. Whoever has the far edge can't watch the water for it. They have to watch the thing. The far end of it. All the way through the slack, even when the slack's holding." She was quiet for a moment. "And a stow's a sleeve. It's got two ends. The book's for a sheet."
+"That's what Penhale said. This morning, when the upper one leaned before a gust." Kiva looked at the sheets on the counter. "I don't know that it heard. I know it moved first. So on the coast the far edge isn't when the tide turns. It's when the thing decides to. Whoever has the far edge can't watch the water for it. They have to watch the thing. The far end of it. All the way through the slack, even when the slack's holding." She was quiet for a moment. "And a stow's a sleeve. It's got two ends. The book's for a sheet."
 
 Ivey did not say anything for a long time. She looked at the sheet on the handed crossing, and at Kiva's bandaged hand on the counter, and at the lantern.
 
@@ -564,9 +560,9 @@ He was standing where he always stood, with his good arm on the frame, looking o
 
 "She will."
 
-"I know she will. I'd want it said that I know." He was quiet a long time. "I asked everybody since the autumn what it's for. The ash. I asked a Marshal and a foreman and my own four. I asked Yeo on the Ropewalk steps. I asked the sea last night, from the quay." He looked at the dark water. "Today I carried a man up a bank on a board who'd counted fathoms to a girl under a skin to keep her still. That's what it's for. I think. Not the ash. The bank. Carrying it up the bank." He stopped. "I don't know. I'd want it said I don't know. I'll stay anyway. When it's done. If she asks."
+"I know she will." He was quiet a long time. "I asked everybody since the autumn what it's for. The ash. I asked a Marshal and a foreman and my own four. I asked Yeo on the Ropewalk steps. I asked the sea last night, from the quay." He looked at the dark water. "Today I carried a man up a bank on a board who'd counted fathoms to a girl under a skin to keep her still. That's what it's for. I think. Not the ash. The bank. Carrying it up the bank." He stopped. "I don't know. I'd want it said I don't know. I'll stay anyway. When it's done. If she asks."
 
-Kiva did not answer. There was nothing to say that would not have been smaller than what he had said. She stood beside him at the window.
+Kiva did not answer. There was nothing to say that would not have been smaller than what he had said, so she stood beside him at the window.
 
 After a while he went to bed.
 
@@ -578,13 +574,13 @@ Under it, in the first line, she wrote what Coombe had told her to write, and wh
 
 *D. Penhale, catcher, the Saltmere Company. Reserve to the officer. Went to the near edge by the book. Counted fathoms under it to keep a girl still. Stopped at three.*
 
-She looked at it for a long time. She did not cross anything out.
+She looked at it for a long time and did not cross anything out.
 
 Then, though there had been no crossing and the fourth column was owed nothing, she did a thing she had no need to do. She took the disk out of her coat on its cord and laid it on the page, on the line she had just written, and looked at it in the candlelight.
 
 It was cold.
 
-She had known it would be. It had been cold through every crossing since the first, and through three doors and a fever and a Glory master's table, and it was cold now. She did not write that down. There was no column for it tonight. She put the disk back inside her coat.
+She had known it would be. It had been cold through every crossing since the first, and through three doors and a fever and a Glory master's table, and it was cold now. She did not write that down; there was no column for it tonight. She put the disk back inside her coat.
 
 Down the room, Aske turned over in his bed and said, without waking, or perhaps not, "Thursday. Soonest."
 

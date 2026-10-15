@@ -36,7 +36,7 @@ The Clerk of the Measure came out onto the floor at nine exactly. She was a smal
 
 She did not look at a paper. She said it as a clerk says a thing she has said in a great many rooms.
 
-"Each bank has a fault planted in one cell of the six. A four finds it and declares it. It quenches that cell and no other. It tunes it clean and brings the bank up. That is the board as it's always been." She paused. "This year's fault is this year's trouble. The planted cell in every bank was salted from a red bag. It keeps a count, and it does not keep its own. When the bank comes up again, it will be read on the Board's mast for ten minutes. Two cells keeping one count is a step. A step ends your hold. A four is marked by the time to find and by the hold, and by nothing else."
+"Each bank has a fault planted in one cell of the six. A four finds it and declares it. It quenches that cell and no other. It may take a minute at the rail between the quench and the tune, as at home. It tunes the cell clean and brings the bank up. That is the board as it's always been." She paused. "This year's fault is this year's trouble. The planted cell in every bank was salted from a red bag. It keeps a count, and it does not keep its own. When the bank comes up again, it will be read on the Board's mast for ten minutes. Two cells keeping one count is a step. A step ends your hold."
 
 A sound went round the gallery. It was not loud. It was the sound of several hundred people deciding that they had heard right.
 
@@ -46,11 +46,11 @@ A sound went round the gallery. It was not loud. It was the sound of several hun
 
 "A bank of six with a cell in it that's been told what time it is." Orla did not take her eyes off the Clerk. "That's what they've got down the quay. Thirty-six of them, and nobody's ever found the one that was told first."
 
-Kiva looked down at the nearest bank. Its six lights turned in their cases, slowly, each at its own pace. One of them was not turning at its own pace. She could not tell which. From up here they looked the same.
+Kiva looked down at the nearest bank. Its six lights turned in their cases, each at its own pace. One of them was not turning at its own pace. She could not tell which. From up here they looked the same.
 
 Behind the Clerk, in the hall's far corner, there was a mast. It was a short one, twelve feet of black iron with a single drum, and there were two reading desks at its foot. Noa stood at one with his pencil behind his ear. Polglase stood at the other in his steel spectacles. Neither of them looked up.
 
-"Heat one," said the Clerk. "To your banks."
+"Heat one," said the Clerk. "A four that holds is marked by its find. A four that steps is marked by how long it held, and by nothing else. To your banks."
 
 Halden License came out of the crowd at the door in black and gold.
 
@@ -148,7 +148,7 @@ Kiva thought about it. She did not want to say it the way she would write it in 
 
 "No," said Orla. "It can't."
 
-At ten minutes the marshal by the Halden bank lifted his hand, and the Clerk said, "*Held.* Halden License," and the gallery made the warm low sound that it had made on Saturday in the Graving, the sound of a thing going as it was expected to go. Holloway held as well. A four Kiva did not know stepped at eight minutes, and another at six.
+At ten minutes the marshal by the Halden bank lifted his hand, and the Clerk said, "*Held.* Halden License," and the gallery made the warm low sound that it had made on Saturday in the Graving, the sound of a thing going as it was expected to go. Holloway held as well. A four Kiva did not know had stepped at four minutes, and another at three.
 
 Kellan, below, put both hands flat on the grey wooden skirt of his bank and looked at them. He did not look up at the gallery.
 
@@ -196,7 +196,7 @@ Kiva watched Pru's hands. They were steady.
 
 Anwen went down the bank with her palm.
 
-She went slowly. She went more slowly than Hesketh or Lyle, and Kiva knew why. Anwen did not trust a thing until she had tried it twice. At the first case she held her hand on the glass for a long breath, and lifted it, and moved on. At the second she held it. She lifted it. She put it back. Then she went on to the third, and the fourth, as if the second had been nothing, and Kiva's stomach went tight.
+She took her time. She went more slowly than Hesketh or Lyle, and Kiva knew why. Anwen did not trust a thing until she had tried it twice. At the first case she held her hand on the glass for a long breath, and lifted it, and moved on. At the second she held it. She lifted it. She put it back. Then she went on to the third, and the fourth, as if the second had been nothing, and Kiva's stomach went tight.
 
 "She's past it," said somebody behind them, in a coast voice. "It's the second. Anybody could see that."
 
@@ -230,7 +230,7 @@ It was not the gallery rail. It was the rope at the foot of the gallery, where t
 
 Kiva dropped it. It went down twenty feet turning over and over, and Pru caught it in both hands against her chest as if it had been a rung, and unfolded it, and read it.
 
-She did not read it aloud. She read it with her lips moving, the way Orla read the book. Then she looked up.
+She did not read it aloud. She read it with her lips moving, the way she read everything. Then she looked up.
 
 "Say it," said Pru. "I've got this. I want it in your voice, so I've got it twice."
 
@@ -278,9 +278,9 @@ Seven's row was the last. Six dials. The second needle came up off its pin and w
 
 The other five went on as they had been, uneven, near and not the same.
 
-One minute. Two. On the bank beside Seven's, a Holloway second four had a needle wavering. On the near row, the Tarn's bank was going well; Trewin stood behind it with his hands clasped and his gatepost face quite still. Three minutes. Four. The trough under Seven's bank was dry. Kiva could see the stands' iron feet on dry iron, and nothing under them now but air and the grey skirt.
+One minute. Two. On the bank beside Seven's, a Holloway second four had a needle wavering. On the near row, the Tarn's bank was going well; Trewin stood behind it with his hands clasped and his gatepost face quite still. Three minutes. At four, one of the three Kiva did not know stepped. The trough under Seven's bank was dry. Kiva could see the stands' iron feet on dry iron, and nothing under them now but air and the grey skirt.
 
-At five minutes the Holloway second four stepped. Their marshal's hand went up and the Clerk said it. At six, one of the three Kiva did not know.
+At five minutes the Holloway second four stepped. Their marshal's hand went up and the Clerk said it. The Tarn's went at five and ten; Trewin did not move.
 
 Seven held.
 
@@ -304,7 +304,7 @@ Below her, Anwen took her hands off the bank and looked at them. Perrin put the 
 
 Pru looked up at the gallery.
 
-She did not look for comfort. She looked as she had looked on Saturday, from behind a hurdle, asking a question. Kiva put her right hand up, flat, and held it there for a moment, the way a referee holds up a hand for a call that was right.
+She did not look for comfort. She looked as she had looked on Saturday, from behind a hurdle, asking a question. Kiva put her right hand up, flat, and held it there for a moment. It meant *that was right,* and Pru knew it.
 
 Then Pru put the folded page in her pocket and went to shake hands with the Holloway catcher.
 
@@ -402,7 +402,7 @@ Kiva stopped.
 
 The Counting House stood above them, tall and grey, every window lit. The lamps along the quay burned white on their fluted posts without a flicker. Somewhere behind those windows there was a long room, and a glass case, and a man with his left hand lying flat on it.
 
-"He's written to your Chair," said Mr. Adlam. "Ysra Crest. On Saturday. In his own hand, which he doesn't often use. He asked her, in her hand, as you told him the country could. For the sequence you were asked for on Friday. On any terms she sets." He looked at her with his astonished face, which was not, she saw now, astonished at all. It was careful. "He asked me to tell you that he took you at your word. He said that you'd want to know that before anybody else told you."
+"He's written to your Chair," said Mr. Adlam. "Ysra Crest. On Saturday. In his own hand, which he doesn't often use. He asked her to ask for it in the Chair's hand, as you told him the country could. For the sequence you were asked for on Friday. On any terms she sets." He looked at her with his astonished face, which was not, she saw now, astonished at all. It was careful. "He asked me to tell you that he took you at your word. He said that you'd want to know that before anybody else told you."
 
 Kiva stood on the Long Quay with her hands in her coat.
 

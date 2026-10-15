@@ -92,7 +92,7 @@ On the east bank, six paces off across the thread, Trewin had let go of the punt
 
 The fold moved.
 
-It did it slowly. The heaped closed end of the sleeve, lying across the near edge and across Penhale's back, lifted. It lifted off whatever it lay on, a hand, two hands, grey and streaming, frosting the air. It lifted the way it had lifted off the mud when Seven's near post was cut, in a long grey lip, and it bent, slowly, as a page turns.
+It did it slowly. The heaped closed end of the sleeve, lying across the near edge and across Penhale's back, lifted. It lifted off whatever it lay on, a hand, two hands, grey and streaming, frosting the air. It lifted the way it had lifted off the mud when Seven's near post was cut, in a long grey lip, and it bent as a page turns.
 
 It turned toward Pru.
 
@@ -104,7 +104,7 @@ Pru folded.
 
 She did it as she had done it at the Bench on Monday, and at the gate mast, and on a yard in the second month with Coombe on the step: from the far edge. She tapped the grey once with her right hand and brought the tray in on itself, the far edge first, and the grey came in with it. It came in heavy and slow. It was not a cord. It was not a rung. It was ten paces of live skin folding into itself on a doormat of silver, and it came in, and in, to the size of a loaf, a grey lump on Pru's tray that pulled at it like an anchor and steamed.
 
-The rest of the sleeve went with it. Kiva saw it go. All of it, the whole grey length of it that had swung across the channel on its post, came up off the west mud after its end as a blanket comes up after the corner you lift it by. It came up off the near edge. It came up off the fold over Bridie. It hung in the air from the post in the bend to Pru's tray, a long grey curve, streaming.
+The rest of the sleeve went with it. Kiva saw it go. All of it, the whole grey length of it that had swung round on its post over the west mud, came up off the west mud after its end as a blanket comes up after the corner you lift it by. It came up off the near edge. It came up off the fold over Bridie. It hung in the air from the post in the bend to Pru's tray, a long grey curve, streaming.
 
 Under it, on the mud, there was a man on his knees.
 
@@ -156,7 +156,7 @@ His voice was quite polite.
 
 The red-haired boy in the punt lit his edge and cut the far post, and the top of it came off and went down into the slack water where his purse was, and nobody hauled it. And the stow died.
 
-It died all at once, as Seven's had. The far post went grey and soft and slumped. The long grey sleeve that stretched across the channel from the post to Trewin's boots went grey along its whole length, and thin, and then it was a film of ash lying across the mud and the thread of water like frost on a window. The lump at Trewin's feet went grey with it. It lay on the mud under his boots, and he stood on it, and it was ash.
+It died all at once, as Seven's had. The far post went grey and soft and slumped. The long grey sleeve that stretched across the channel from the post to Trewin's boots went grey along its whole length, and thin, and then it was a film of ash lying across the mud and the thread of water, thin as a cobweb. The lump at Trewin's feet went grey with it. It lay on the mud under his boots, and he stood on it, and it was ash.
 
 Trewin shut. He stood for a moment longer, quite still. Then he looked down at his boots.
 
@@ -212,7 +212,7 @@ Kiva saw it come. She was on her knees on the west mud beside Bridie, with Pru h
 
 Seven minutes, she thought. The stow had turned at a quarter to one, or a minute before. The water had turned at nine minutes to.
 
-Seven minutes. And her fingers had said nothing, the whole time, and the grass had stood up straight. The water had not turned. Only the stow.
+Seven minutes. And her fingers had said nothing, the whole time, and the grass had stood up straight.
 
 She did not think anything else about it. There was not room. She put it somewhere, the way she had put Mace's *down a hand* and Penhale's count somewhere, and left it there.
 
@@ -258,7 +258,7 @@ Coombe did not say anything.
 
 "I know," said Coombe.
 
-"It was still on a post. The far post. It turned on it. Before the water." Yeo looked up at last, at the creek, where the flood was coming in over the mud. "Before the water turned, Dinah. I had my watch on it. Seven minutes before."
+"It was still on a post. The far post. It turned on it." Yeo looked up at last, at the creek, where the flood was coming in over the mud. "Before the water turned, Dinah. I had my watch on it. Seven minutes before."
 
 Coombe looked at the creek too.
 
@@ -300,7 +300,7 @@ She wrote for a long time. Kiva watched her. She wrote standing, fast, in the br
 
 Then she read it aloud. Kiva did not know if she meant to. She read it the way Rhea read a slate, to the four who had stood on the beat, and the Tarn's four, and the Company crew, and the Marshal kneeling on the stone.
 
-"*Closed, Mallow Creek, at one, on the flood. The upper stow, Seven's, cut in the slack, two posts, clean; the near post shed a rung on a surge before, held in part on a wall laid on the water. The lower stow, the Tarn's, cut on one post in the slack. The far post stood. The stow turned on it at a quarter to one, seven minutes before the water, with the Tarn's catcher on the skin by the officer's word, and the skin came over her.*"
+"*Closed, Mallow Creek, at one, on the flood. The upper stow, Seven's, cut in the slack, two posts, clean; the near post shed a rung on a surge before, held in part on a wall laid on the water. The lower stow, the Tarn's, cut on one post in the slack. The far post stood. The stow turned on it at a quarter to one, in the slack, with the Tarn's catcher on the skin by the officer's word, and the skin came over her.*"
 
 She stopped. She went on.
 
@@ -344,7 +344,7 @@ Across the yard, by the shed doors, Pike was sitting on an upturned crate. He ha
 
 Rhea had nothing to say to that, so she did not say anything.
 
-"I told the girl it was ground," said Yeo. "From the spur. She asked. Freeing a line. It was lying on the mud like a hem, and it was on a post, and I didn't look at the post. I looked at the skin. I said what the book says." Her voice did not change. "Coombe's page is at the printer. *A hem that lies down under a thing on its feet is not ground.* I heard her say it at Hollins three seasons gone, over a lock-keeper. I thought it was a good line. I thought, when it's printed, I'll teach it."
+"I told the girl it was ground," said Yeo. "It was lying on the mud like a hem, and it was on a post, and I didn't look at the post. I looked at the skin." Her voice did not change. "Coombe's page is at the printer. *A hem that lies down under a thing on its feet is not ground.* I heard her say it at Hollins three seasons gone, over a lock-keeper. I thought it was a good line. I thought, when it's printed, I'll teach it."
 
 "So did I," said Rhea. "When it's printed."
 
@@ -368,7 +368,7 @@ Yeo did not say anything.
 
 "Her second called it today," said Rhea. "Up your creek. From three paces. I heard that on the causeway too."
 
-"Finch." Yeo nodded. "She called it at twenty past twelve, on Seven's stow, and Rowan came off her line, and the fold lay down where she'd been. I wrote it in my book. I said I'd not seen anybody watching for it." She looked at the open van. "Forty minutes later I'd a man under a fold sixty paces down the same creek, and nobody watching for it, because the book doesn't watch for it. I wrote that too."
+"Finch." Yeo nodded. "She called it at a quarter past twelve, on Seven's stow, and Rowan came off her line, and the fold lay down where she'd been. I wrote it in my book. I said I'd not seen anybody watching for it." She looked at the open van. "Half an hour later I'd a man under a fold sixty paces down the same creek, and nobody watching for it, because the book doesn't watch for it. I wrote that too."
 
 They sat a long time.
 

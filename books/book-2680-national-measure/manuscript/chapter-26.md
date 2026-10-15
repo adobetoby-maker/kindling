@@ -36,7 +36,7 @@ He did not answer at once.
 
 Down in the chamber the lockkeeper had reached the head gates. He held up his lantern to the north wall. The light went up the iron rungs one by one, black and wet and very close together, set into the granite in a straight line from the floor to the lip.
 
-"I went down it at six," said Perrin. "He let me. I asked him." He nodded at the lantern. "I went down with nothing open, and then I came up with my door open. A still door goes down through whatever you stand on, into the ground under it. You know that. That's all it does." He held out one big hand and looked at it. "A rung's iron. It's set a foot into granite. The granite goes down to the bottom of the basin. So when I put my foot on a rung and open, I'm stood on the ground. I'm not on a ladder at all. I'm on twenty-two little pieces of the earth, one above the other."
+"I went down it at six," said Perrin. "He let me. I asked him." He nodded at the lantern. "I went down with nothing open, and then I came up with my door open, off my own thimble. A still door goes down through whatever you stand on, into the ground under it. You know that. That's all it does." He held out one big hand and looked at it. "A rung's iron. It's set a foot into granite. The granite goes down to the bottom of the basin. So when I put my foot on a rung and open, I'm stood on the ground. I'm not on a ladder at all. I'm on twenty-two little pieces of the earth, one above the other."
 
 Kiva looked at the rungs.
 
@@ -202,7 +202,7 @@ His hand was not on the grating. He had laid it there again without her seeing, 
 
 They stood for a while. Mara found that her left hand had come half out of her pocket, of its own accord, and was resting on the rail beside Hart's. She looked at it. It was the hand that read. It had read the Ferren bank and twenty-four cells on one hill and seven drums on another, and it had been starved to the wrist once for it, and it had come back.
 
-It had not touched a cell in Saltmere. She had decided that on the first day and kept to it for a fortnight, while Rusk asked her twice and Peverell asked her with her eyes and the Harbour Committee wrote to the Clerk three times to ask whether the Works meant to stop the Regiment. She had kept her hand in her pocket because she did not know enough, and a hand on a cell that does not know enough is how a man loses a hand.
+It had not touched a cell in Saltmere. She had decided that on the first day and kept to it for a fortnight, while Rusk asked her twice and Peverell asked her with her eyes and the Harbour Committee wrote to the Works three times to ask whether the Works meant to stop the Regiment. She had kept her hand in her pocket because she did not know enough, and a hand on a cell that does not know enough is how a man loses a hand.
 
 She knew more now. She did not know enough.
 
@@ -270,13 +270,13 @@ She counted the first run, and the second, and the third. She stood at the rope 
 
 By the fourth run she had it.
 
-"Half for a minute," she said. "Then full. At half, it reaches his face at a minute and forty. If it's full sooner, a minute and twenty." She looked down at the chamber. "He turns it at the same time every run. By the customs house clock. He's careful."
+"Half for a minute," she said. "Then full. At full it reaches his face at a minute and twenty." She looked down at the chamber. "He turns it at the same time every run. By the customs house clock. He's careful."
 
-"So we've a minute and forty," said Jude.
+"So we've a minute and twenty," said Jude.
 
 "From the bell. To have him out from under the cloth and up out of the water. Forty paces to run first. Through it."
 
-"Then a minute and forty's long," said Perrin.
+"Then a minute and twenty's long," said Perrin.
 
 It was the first thing he had said for an hour. Everybody looked at him.
 
@@ -288,13 +288,13 @@ The tenth was the Ropewalk's second four. They ran the chamber at the bell in a 
 
 "*Three twenty-seven,*" said the marshal. "Clean."
 
-The quay made its warm low sound.
+The quay clapped them, not loudly.
 
 "That's the time," said Jude. "That's the one to beat. Till the Ropewalk's first."
 
 "That's their second four," said Anwen. "Their first is better."
 
-"Their first goes last." Perrin had put his coat down on the quay. He was rolling his sleeves up, slowly, as if every turn of the cloth had to be thought about. "We'll not see it till we're done. Nobody will. That's what last means."
+"Their first goes last." Perrin had put his coat down on the quay. He was rolling his sleeves up as if every turn of the cloth had to be thought about. "We'll not see it till we're done. Nobody will. That's what last means."
 
 The eleventh run went. The twelfth was a Tarn four, their second, in brown and buff, and they took the stair on their shoulders, slow and sure, as Perrin had said the first four would, and they were clean at three and thirty-four.
 

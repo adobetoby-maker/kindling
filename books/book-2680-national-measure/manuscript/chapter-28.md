@@ -24,9 +24,9 @@ He went down the room to his own bed. The four of them stood at the table and lo
 
 "Finch stands," said Perrin.
 
-He said it before anybody else could say anything. He said it as he had said things at the marshal's box, flat and clear.
+He said it before anybody else could say anything, flat and clear, as he had said things at the marshal's box.
 
-Pru was by the stove with her cord in her lap. She had been winding it since they came in, and she stopped.
+Pru was by the stove with her cord in her lap, winding it as she had been since they came in, and she stopped.
 
 "I'm the reserve," she said. "It's on the entry. I stood the Bench. I stood the Tarn on Saturday." She went red. "I'll stand. I'd like to stand. I want to say that before anybody's careful with me."
 
@@ -46,11 +46,11 @@ Pru was by the stove with her cord in her lap. She had been winding it since the
 
 "Then what's behind it?"
 
-Perrin did not answer at once. He looked at his own hands on the table.
+Perrin did not answer at once, but looked at his own hands on the table.
 
 "I'm going to declare her Ember," he said.
 
-There was a silence. Jude, at the end of the table, put down the book.
+There was a silence, and Jude, at the end of the table, put down the book.
 
 "Ember," said Anwen.
 
@@ -72,7 +72,7 @@ Anwen was quiet.
 
 "Trewin." Perrin nodded at the door. "He did it once on a yard, a count late. That's once more than anybody else who isn't us."
 
-Kiva had not said anything. She found that they were all looking at her.
+Kiva had not said anything, and found that they were all looking at her.
 
 "It's mine to say?" she said.
 
@@ -126,13 +126,13 @@ Kiva read it three times.
 
 "After two boards."
 
-"After two boards." He scratched his jaw. "We were seeded twelfth. On Saturday. We were the exact middle of the whole board, and Cade said it was honest and he'd take honest." He looked at the pole. "I'd want it said that this is honest as well."
+"After two boards." He scratched his jaw. "We were seeded twelfth. On Saturday. We were the exact middle of the whole board, and Cade said it was honest and he'd take honest." He looked at the pole. "This is honest as well."
 
 "It is."
 
 "I know it is. I'm saying it." He was quiet for a moment. "Six on the Bench, and first on the Carry. And tomorrow's the Hunt, and the Hunt's the one that's alive."
 
-People were looking at them. Kiva felt it. It was not like the looking on the quay that morning, which had all been at Perrin. This was a quieter kind. It went past her to the pole and came back to her, and to Jude in his Seven colours with his book under his good arm, and went away again. A girl in green said, low, to the boy beside her, *that's the drained jacket, that's the ladder,* and the boy said, *that's the one who doesn't stand at the Bench.*
+People were looking at them, and Kiva felt it. It was not like the looking on the quay that morning, which had all been at Perrin. This was a quieter kind. It went past her to the pole and came back to her, and to Jude in his Seven colours with his book under his good arm, and went away again. A girl in green said, low, to the boy beside her, *that's the drained jacket, that's the ladder,* and the boy said, *that's the one who doesn't stand at the Bench.*
 
 Under the standings there was a third sheet. It was newer. Kiva had to step closer to read it in the lamplight.
 
@@ -144,7 +144,7 @@ She read down it. *Gannet Creek: Old Four; Westerley, first four. Officer, Sorn,
 
 *Skerry Pill: Halden License; the Ropewalk School, first four. Officer, Bray, of the Saltmere Company. A lodger marked in the pill's mouth by the Company at the evening low; the fours on the beat have been told.*
 
-Jude had read it too. Kiva heard him draw breath.
+Jude had read it too, and Kiva heard him draw breath.
 
 "The Tarn," he said. "On our beat."
 
@@ -154,7 +154,7 @@ Jude had read it too. Kiva heard him draw breath.
 
 "I know."
 
-"That's luck," said Jude. "I'd want it said that I know it's luck. That we didn't do anything to get it." He looked at the line again. "And a lodger on Skerry. With the Ropewalk. Laid."
+"That's luck," said Jude. "I know it's luck. We didn't do anything to get it." He looked at the line again. "And a lodger on Skerry. With the Ropewalk. Laid."
 
 "*The fours on the beat have been told,*" said Kiva.
 
@@ -162,9 +162,9 @@ Jude had read it too. Kiva heard him draw breath.
 
 ---
 
-Kellan came up the loft stair at a quarter past six and stood at the end of Kiva's bed.
+Kellan came up the loft stair at ten past six and stood at the end of Kiva's bed.
 
-He did not sit down. He was in his black and gold, with his coat over his arm, and he had the look he had when he had been doing a sum that would not come out.
+He did not sit down; he was in his black and gold, with his coat over his arm, and he had the look he had when he had been doing a sum that would not come out.
 
 "Skerry Pill," he said.
 
@@ -178,15 +178,15 @@ He did not sit down. He was in his black and gold, with his coat over his arm, a
 
 "Jude cut one. In the Pit. Through the cord on stone."
 
-"I know. I read his line." Kellan was quiet for a moment. "Pettit says Halden's work is Halden's work, and the Ropewalk's is theirs, and Bray's is Bray's, and that's the rule on any beat, and he's right." He put his coat on. "I'd expect nothing else of him. I'm telling you because I wanted to tell somebody who'd not tell me I was being foolish."
+"I know. I read his line." Kellan was quiet for a moment. "Pettit says Halden's work is Halden's work, and the Ropewalk's is theirs, and Bray's is Bray's, and that's the rule on any beat, and he's right." He put his coat on. "That's Pettit. I'm telling you because I wanted to tell somebody who'd not tell me I was being foolish."
 
 "You're not being foolish."
 
 "No," said Kellan. "That's what I was afraid of."
 
-He went down the room to his own bed. He did not look back.
+He went down the room to his own bed and did not look back.
 
-Anwen came up the stair at twenty-five past six, as Kiva was going down it.
+Anwen came up the stair at a quarter past six, as Kiva was going down it.
 
 She had been up Tar Lane. Kiva could tell by her boots, which had tar on the heels, and by her face, which had the closed careful look it wore when she had said a thing she had made up her mind to say. She stopped two steps above Kiva on the narrow stair and put her hand on the rail.
 
@@ -206,7 +206,7 @@ She had been up Tar Lane. Kiva could tell by her boots, which had tar on the hee
 
 "It's said."
 
-"Good." Anwen went on up the stair past her. At the top she stopped. "She's teaching a boy of eleven to lay. He's very bad at it. She's very patient." And she went in.
+"Good." Anwen went on up the stair past her, and at the top she stopped. "She's teaching a boy of eleven to lay. He's very bad at it. She's very patient." And she went in.
 
 ---
 
@@ -214,7 +214,7 @@ The Tarn's four lodged over a cooper's on Quay Street, in a long room that smell
 
 Perrin had come. Aske had let him go on condition that he walked, and that he walked slowly, and that Kiva walked beside him and stopped him if he tried to carry so much as a door handle. So he had walked down Quay Street at a pace that made a woman with a pram overtake them twice, and now he stood in the cooper's yard among stacks of barrel staves with his hand pressed to his side.
 
-"I heard it," said Trewin. "From the stair. On the eleventh." He nodded at Perrin's side, slowly. "I'm sorry. It was a very good climb."
+"I heard it," said Trewin. "From the stair. On the eleventh." He nodded at Perrin's side. "I'm sorry. It was a very good climb."
 
 "Yours was better," said Perrin. "You planted on the floor. Every step. For fifty paces."
 
@@ -232,7 +232,7 @@ Trewin looked at him, and then at Kiva, and then at Pru, who had come too and wa
 
 "For the pass," he said.
 
-"For the pass. If it's wanted." Perrin made himself say it. "If anybody goes under anything, on either half of that creek, and the officer says. We've a catch and a carry. We've no plant." He held out his hand, flat, as Trewin had held out his own on Sunday morning, at the top of the loft stair. "I'm asking you to be the third. If it's wanted. Which I hope it won't be."
+"For the pass. If it's wanted." Perrin made himself say it. "If anybody goes under anything, on either half of that creek, and the officer says. We've a catch and a carry. We've no plant." He held out his hand. "I'm asking you to be the third. If it's wanted. Which I hope it won't be."
 
 Trewin did not take the hand. He looked at it for a long time, with his gatepost face quite still. Then he looked past it, at the yard gate, where a tall plaited girl of fifteen was standing in the brown and buff of the Tarn, listening.
 
@@ -296,6 +296,12 @@ They did it again. And again. On the fourth time he opened half a count late. On
 
 Trewin looked at her, and then he laughed. It was the first time Kiva had ever heard him laugh. It was very deep and slow, like a cart going over a bridge.
 
+The customs house clock struck the three-quarters, a long way off down Quay Street. Kiva took her left hand out of her pocket and laid the first two fingers on the nearest barrel stave where it stood on end against the wall, lightly, without leaning.
+
+*It keeps time.*
+
+She wrote it in the back of the book by the light from the cooper's window. *Tuesday the 15th. A quarter to seven. A stave in a cooper's yard on Quay Street. Yes.*
+
 They did it ten times more. Bridie stood by the yard gate and watched every one, with her arms folded and her plaits pinned up and her eyes going from Pru's hands to Kiva's fist to Trewin's feet and back again.
 
 When they had done, and Trewin had gone to fetch a lamp, Bridie came across the cobbles to Kiva.
@@ -320,19 +326,13 @@ Bridie considered that with her chin up.
 
 "My grandad used to say that," she said. "About his scales." Then her chin did a small thing, not quite a shake. "He said nobody's scales were right about everything, and that's why you weigh twice." She went back to the gate.
 
-The customs house clock struck the three-quarters, a long way off down Quay Street. Kiva took her left hand out of her pocket and laid the first two fingers on the nearest barrel stave where it stood on end against the wall, lightly, without leaning.
-
-*It keeps time.*
-
-She wrote it in the back of the book by the light from the cooper's window. *Tuesday the 15th. A quarter to seven. A stave in a cooper's yard on Quay Street. Yes.*
-
 ---
 
 They walked back along Quay Street in the dark, slowly, at Perrin's pace.
 
 The low town was going to bed. The gratings rattled in the gutters on the count, four and four, and in the windows above the street the lamps went out one by one, yellow, ordinary lamps, oil and wick, nothing like the white ones on the Long Quay. A man was singing in a public house. A dog barked at them from a doorway and stopped when it saw how slowly they were going.
 
-Pru had gone ahead. Kiva walked beside Perrin with her hands in her coat.
+Pru had gone ahead, and Kiva walked beside Perrin with her hands in her coat.
 
 "I've declared you onto a door you'll not use," said Perrin. "And Finch onto the mud. And Trewin onto a thing he's done once on a yard and twenty times dry tonight, for a girl of fifteen who's never caught on a coast." He walked a few paces. "And I'll be on the hard with my hands in my pockets watching. If it goes wrong, it's mine. All of it. My declaring."
 
@@ -350,7 +350,7 @@ At the corner where Quay Street came out onto the Long Quay, the white lamps beg
 
 Jude was standing at the end of the quay by the first lamp, looking at the sea.
 
-He had his left arm in its linen again. He was standing quite still, with his good hand on the bollard and his face toward the Mole and the dark beyond it, where the sea was breathing, every count at once. Kiva and Perrin stopped beside him. He did not look round.
+He had his left arm in its linen again and was standing quite still, with his good hand on the bollard and his face toward the Mole and the dark beyond it, where the sea was breathing, every count at once. Kiva and Perrin stopped beside him, and he did not look round.
 
 "Three and a half," he said. "In the book. And the four's quarter of whatever's clean, tomorrow." He was quiet for a moment. "I've been standing here since the board. I've been thinking about what it's for."
 
@@ -358,13 +358,13 @@ He had his left arm in its linen again. He was standing quite still, with his go
 
 "The ash. The Hunt. Tomorrow." He did not look round. "Yeo said it's always the same thing. A kitchen in the low town. Keeping the sea out." He lifted his good hand off the bollard and put it back. "We'll go out tomorrow on the Longshore and kill what's there, and comb it, and nearly all of it will be red, because everything is now. And the red can't go in a pump house. It can't go anywhere. It'll sit in a bag with a tag on it for evidence." He was quiet. "So what's it for? The Hunt. If what we bring in can't keep anybody's kitchen dry."
 
-Perrin did not answer. Kiva did not know the answer.
+Perrin did not answer, and Kiva did not know the answer.
 
-"I'd want it said that I don't know," said Jude. "That I've been looking at the sea for half an hour and I don't know. And that I'm going out on it tomorrow anyway." He turned his head at last. "That's all. I'll go to bed now. I'd want it said I thought about it."
+"I don't know," said Jude. "I've been looking at the sea for half an hour and I don't know. And I'm going out on it tomorrow anyway." He turned his head at last. "That's all. I'll go to bed now. I'd want it said I thought about it."
 
 "It's said," said Kiva.
 
-He went away along the quay toward the chandlery, limping a little, under the white lamps. Perrin watched him go.
+He went away along the quay toward the chandlery, limping a little, under the white lamps, and Perrin watched him go.
 
 "He'll stay," said Perrin. "Here. When it's done. I'd put money on it."
 
@@ -372,12 +372,12 @@ He went away along the quay toward the chandlery, limping a little, under the wh
 
 "No. She's watching." Perrin looked at the black water. "That's how they do it on the coast, I think. They watch you till they're sure, and then they ask once."
 
-He turned and went slowly up the quay toward the loft, with his hand pressed to his side. Kiva stood a moment longer by the bollard where Jude had stood.
+He turned and went back up the quay toward the loft, with his hand pressed to his side. Kiva stood a moment longer by the bollard where Jude had stood.
 
-She took her left hand out of her pocket. She did not lay the two fingers on anything. She looked at them, in the white light: the first two, which bent and gripped and told her when a thing was pushing, and told her when a thing kept time, and on the coast, at the slack, told her nothing at all.
+She took her left hand out of her pocket, but did not lay the two fingers on anything. She looked at them in the white light: the first two, which bent and gripped and told her when a thing was pushing, and told her when a thing kept time, and on the coast, at the slack, told her nothing at all.
 
 Tomorrow they would be on the Longshore. She would have them on a purse pole again, as she had had them on Penhale's pole in the dark at Gannet Creek, with the flood going inland and the town's count under it. She would know the slack before anybody else on the beat. She would know when it ended.
 
-It was not much. It was two words, once, to the person who needed them.
+It was not much: two words, once, to the person who needed them.
 
 She put the hand back in her pocket and went up to bed.

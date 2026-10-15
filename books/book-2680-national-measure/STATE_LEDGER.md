@@ -670,9 +670,11 @@ See `provenance/MOVEMENT-003-REPAIR.md` §5.
 
 ## Movement Four block — chapters 25–32 (first draft, 2026-10-15)
 
-Status: **from first-draft prose, unreviewed.** Everything here is on the page of `manuscript/chapter-25.md` to
-`chapter-32.md`. The full record is `provenance/MOVEMENT-004-CONTINUITY.md`. If review or repair changes the prose,
-this block is corrected from the surviving text. Span: seven on Monday the 14th of the third month, 2681, to about
+Status: **from first-draft prose. Reviewed (editorial review and simulated cold read, same family). Same-author
+consolidated repair 2026-10-15 (job `647704f1`); rechecked (fresh-context, same family, job `e6a7d3ad`) and accepted as editorial context 2026-10-15** (`provenance/MOVEMENT-004-RECHECK-CONFIRMATION.md`). Everything here is on the page of
+`manuscript/chapter-25.md` to `chapter-32.md` as repaired. Lines changed by the repair are marked *(repair)*. The
+full record is `provenance/MOVEMENT-004-CONTINUITY.md` (§14 lists the reconciliations) and
+`provenance/MOVEMENT-004-REPAIR.md`. Span: seven on Monday the 14th of the third month, 2681, to about
 midnight on Wednesday the 16th.
 
 ### M4.1 Kiva Rowan
@@ -700,17 +702,20 @@ midnight on Wednesday the 16th.
 ### M4.2 Team Seven
 
 - **Boards:** Bench **6th** (found 4:10; drained the jacket; stepped at 8:40, cells four and five, not the cell
-  tuned); Carry **1st** (3:08, clean; Cade up a twenty-two-rung ladder planting every rung on Rowan's *set*);
+  tuned; *(repair)* the Clerk's rule ranks held fours by find and stepped fours by length of hold; on the page
+  Westerley second 5:20, the Tarn first 5:10 and Holloway second 5:00 are 7th–9th, and every other step on the
+  page is 4:00 or sooner; the Bench rules include a minute at the rail "as at home"); Carry **1st** (3:08, clean; Cade up a twenty-two-rung ladder planting every rung on Rowan's *set*);
   Hunt **15th** (3.15, no remarks). **After two: third (43). After three: ninth (53), one mark off the roll of
   eight.**
 - **Standings after three:** 1 Halden License 65; 2 Old Four 64; 3 Holloway first 59; 4 the Ropewalk first 58;
   5 Team Twenty-Eight 57; 6 Westerley first 56; 7 Westerley second 55; 8 Holloway second 54; 9 Team Seven 53;
   10 the Ropewalk second 46. The Lane, in brackets, from Thursday.
-- **Perrin:** the seventh rib on the left **cracked across, not through** (Tue, the eleventh rung). Aske's card: no
+- **Perrin:** *(repair)* rehearsal climb of the Inner Lock ladder Mon at six, off his own thimble (not on the
+  book). The seventh rib on the left **cracked across, not through** (Tue, the eleventh rung). Aske's card: no
   plant, no lift, nothing heavier than a cup, a fortnight at the least. Stood down from the Hunt; captains from the
   hard. Lifted Penhale's boards once at the spur, against the card.
 - **Pru:** stood the Bench and the Hunt; **all ten fingertips frosted** (Wed). Called the far edge once on Seven's
-  stow.
+  stow, *(repair)* at about a quarter past twelve.
 - **Anwen:** drum; first wall laid on water (live). **Jude:** frosted left arm leaned on once at the Carry ("not
   worse"); no draft made.
 - **The book:**
@@ -742,9 +747,9 @@ midnight on Wednesday the 16th.
 
 | Person | State |
 |---|---|
-| **Yeo** | Officer at Mallow; told Bridie "by the book" it was ground; carries it. Decided the pass. *Remarks: none, to any four.* Wants Kiva's columns for her crew. |
+| **Yeo** | Officer at Mallow; told Bridie "by the book" it was ground; carries it. Decided the pass. *Remarks: none, to any four.* Wants Kiva's columns for her crew. *(repair)* Her slate records the turn "at a quarter to one, in the slack"; the seven minutes are in her words to Coombe and in Noa's ledger. |
 | **Ivey** (new) | Company catcher to Yeo's closing crew; copying Kiva's columns; means to have a second. |
-| **Coombe** | Drill at the causeway ("Who has your far edge?"). Had her page printed Wed night, headed with Penhale's name, by the Clerk's leave; out Thursday at five. |
+| **Coombe** | Drill at the causeway ("Who has your far edge?"). Had her page printed Wed night, headed with Penhale's name, by the Clerk's leave; out Thursday at five. *(repair)* Heard Penhale say "When it's printed, I'll read it" in the causeway queue; he said it again to Kiva in the channel ("I've told half the causeway so"). |
 | **Rhea Sorn** | Hunt officer at Gannet Creek (*Lives: none*). With Yeo at the Company yard. One night left; card ends the 30th. |
 | **Pike** | "He had nobody at his far edge." |
 | **Mara Rowan** | Has **not touched a cell**. Decided Wed night: **thirty-six hands, taught by the 22nd, not hers**; Hart to teach the slack; she says *now* from the landing. |
@@ -777,3 +782,21 @@ Reach; the spur; a stow; Bridie Hebden; Ivey; Ropery Row.
 
 Thu 17th: the Lane begins; Kiva's seventh crossing possible; Coombe's page out at five. Fri: the Harbour Committee's
 deadline. **Wed 23rd: the prediction opens at noon (dawn slack 6.09).** Rhea's card ends on the 30th.
+
+### M4.8 Clocks and rules fixed at repair (prose reconciled; no outcome changed)
+
+- **The Carry:** head sluices half at the bell, full at one minute; at full the water reaches the casualty's face at
+  1:20. Seven had the Purser out at 0:26.
+- **Tue evening:** board 6.00; Kellan at the loft 6.10; Anwen on the stair 6.15; the Tarn's yard 6.30; yes/no at the
+  three-quarters after the first ten dry passes.
+- **Skerry Pill:** Kellan sixty paces from Lyle. Kiva hears of Lyle on the cart, on the causeway.
+- **The Hunt's rule:** no four onto the mud below a form on running water, "but on its officer's word".
+- **The Tarn's lower stow:** far post on the west side of the bend; the sleeve swung from downstream to inland over
+  the west mud, closed end last.
+
+### M4.9 Owner items carried (prose unchanged)
+
+Whether the sentence targets govern dialogue (64% short); the progression-vocabulary trend (about 29 per 10k raw);
+Perrin's lift against Aske's card (carry to Movement Five); Penhale's ward left as a frost-shape (C18); Monday's "It
+was the neap"; Orla's "by sight for a fortnight" (C17); and the Movement Three items (the 41-minute hold, the
+brown-ink line, "my best machine"). See `provenance/MOVEMENT-004-REPAIR.md` §8.

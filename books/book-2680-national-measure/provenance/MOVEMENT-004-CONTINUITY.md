@@ -1,8 +1,10 @@
 # Kindling 2680 — Book Two, Movement Four — continuity checkpoint
 
 Edition: **first draft, 2026-10-15**, chapters 25–32 ("The Longshore"). Written by the drafting author directly
-after the run, from the prose as written. **Not reviewed, not cold-read, not scored, not repaired.** Where this
-file and the manuscript disagree, the manuscript governs. This file is not manuscript. It carries forward
+after the run, from the prose as written. **Reviewed (informed editorial review and simulated cold read, same
+model family) and repaired by the same author on 2026-10-15; rechecked by a fresh-context Opus session (`provenance/MOVEMENT-004-RECHECK.md`) and accepted as editorial context 2026-10-15 (`provenance/MOVEMENT-004-RECHECK-CONFIRMATION.md`).** Entries changed to
+match the repaired prose are marked *(repair)*; the repair record is `provenance/MOVEMENT-004-REPAIR.md`, and §14
+below lists every reconciliation. Where this file and the manuscript disagree, the manuscript governs. This file is not manuscript. It carries forward
 `provenance/MOVEMENT-003-CONTINUITY.md` (as repaired and accepted) and `STATE_LEDGER.md`; anything not restated
 here stands as recorded there.
 
@@ -28,13 +30,14 @@ None is a review or repair.
 - ch. 29: Halden's catcher named **Yarrow** (ch. 12: *Catcher, Yarrow. Hand.*).
 - ch. 30: the stow turns while the slack still visibly holds (the turn of the water is at 12.51, in ch. 31).
   Skerry Pill distances tightened (Halden's stow forty paces above the kiddle; Lyle twenty below it; Kellan
-  forty paces off).
+  **sixty** paces off *(repair; the draft said forty)*).
 - ch. 31: shut purses are dragged up the bank on their lines before the flood (so the bags reach the gate the
   same afternoon); "the Monday/Tuesday of last week" for the coast night; Rhea's own beat cut by her two fours
   on her word.
 - ch. 32: Halden's second-line loss put to the pill by Bray (one remark, matching the board); Orla held Hart's
   card "a season" (twenty years since the Bench); Coombe's source for "When it's printed, I'll read it" is
-  Penhale himself in the causeway queue.
+  Penhale himself in the causeway queue. *(repair)* Ch. 29 now has Penhale add "I've told half the causeway so"
+  when he says it again to Kiva in the channel, so both sources stand: he said it twice.
 - **Section breaks:** at the end of the run, 22 `---` breaks that the draft had placed inside continuous
   scenes (the Bench heat, Seven's climb, Skerry Pill, Seven's slack cut, the live pass) were removed, as the
   packet's craft notes direct. No words changed at the joins. Internal breaks 66 → 44.
@@ -45,8 +48,8 @@ None is a review or repair.
 
 | Day | Events | Ch. |
 |---|---|---|
-| **Mon 14th** | 7 a.m. Aske: warm (four nights; "Thursday's the soonest"). 8.40 the **Salt Hall** (Bench venue, a salt warehouse on the Long Quay; gallery on iron columns; six banks of six on the floor; the load board over the door; a twelve-foot mast with Noa and Polglase). 9.00 the Clerk's rules: *this year's fault is this year's trouble* — one cell per bank salted from a red bag; find, quench that one only, tune it clean, bring the bank up; held ten minutes on the Board's mast; two cells keeping one count is a step. **Heat one:** Halden finds in 1:40 (Hesketh's palm), restarts the cell on a "limp" (Pettit's count; Yarrow's card); held. Westerley second four steps at 5:20. Kiva sees from the gallery the unquenched neighbours **leaning** together and the **one trough of water** under the skirt. **Heat two:** the Ropewalk first four, laid, find 2:10, held (did not drain). **Heat three, 2 p.m.: Seven** (Cade carry; Pryce ward, drum; Talley edge; Finch ward, catcher; "Rowan stands down, by the Chair's condition"). Anwen reads two cells at once: "Second. And the fourth's leaning on the fifth." Found 4:10. Pru catches the quench. **The rail minute:** Kiva drops a page torn from the back of her book (the first page she has ever torn out); Pru carries it; Jude drains the jacket (the marshal: nothing in the rule either way). Anwen tunes cell two to her own tapping rhythm. **Stepped at 8:40, cells four and five, not the cell tuned.** 6 p.m. Bench board (§3). Kellan: "You can't drain a harbour." 6.30 **Adlam in the street: the Proprietor wrote to Ysra Crest on Saturday** asking for the sequence "in her hand," on any terms she sets. 6.40 Perrin on the lip of the **Inner Lock**; the course notice; his plan (plant on every rung); Kiva says the price; *set* (her word at the foot). 6.45 yes/no: the lock rail, yes. 9 p.m. Orla on the Proprietor's letter ("You'll find out now whether you meant it"). Aske on Perrin's ribs: "If you hear it go, stop." **11.15 p.m. Mara cutaway** (§6). | 25, 26 |
-| **Tue 15th** | 7 a.m. Aske: warm, two mornings. 8.30 the Inner Lock full; the **Purser** (Board's canvas dummy, 85 kg) under a lead-hemmed sailcloth with an oak spar lashed across his shins; head sluices half at the bell, full at one minute; water at the face at about 1:40. Reverse seeding; Seven runs thirteenth. Best before Seven: the Ropewalk second four, rope haul, 3:27. **Seven's run** (§2). After: Aske on the quay: **the seventh rib, left, cracked**. Dray: "Good climb." Brask's carry, 3:16. **Trewin carries the Purser on his shoulders fifty paces and up the stair planting every step**, 3:12. Halden two-man ladder carry, 3:10. The Ropewalk first four last: 2:59 raw, "Face," 3:09. **Seven first by one second.** Old Four's protest (planting in a wall) dismissed by the Clerk ("There are no squares on a ladder"); Brask raises a flat hand. The Mercury's man; Perrin: "The ladder was mine." Perrin on being envied (§5). 2 p.m. Aske's card for Perrin. **Finch stands; Rowan declared Ember for the Hunt; Cade captains from the hard.** 6 p.m. board after two (§3) and the **beat draw**. 6.15 Kellan on Skerry Pill and the lodger. 6.25 Anwen back from Tar Lane (her second and last warning to Lyle). 6.30 the Tarn's lodging over a cooper's on Quay Street: **Trewin agrees to be the third** if the officer says ("If it's her… you'll not stop to ask me"); **Bridie Hebden** catches for the Tarn (their catcher turned her ankle on the lock stair); the pass rehearsed **dry** (no doors lit) twenty times; Trewin on the word by the tenth; Bridie asks what happens in the gap. 6.45 (the customs house three-quarters) yes/no: a stave in the cooper's yard, yes. Evening: Jude at the end of the Long Quay ("what's it for… if what we bring in can't keep anybody's kitchen dry"). | 26–28 |
+| **Mon 14th** | 7 a.m. Aske: warm (four nights; "Thursday's the soonest"). 8.40 the **Salt Hall** (Bench venue, a salt warehouse on the Long Quay; gallery on iron columns; six banks of six on the floor; the load board over the door; a twelve-foot mast with Noa and Polglase). 9.00 the Clerk's rules: *this year's fault is this year's trouble* — one cell per bank salted from a red bag; find, quench that one only, *(repair)* a four may take a minute at the rail between the quench and the tune "as at home", tune it clean, bring the bank up; held ten minutes on the Board's mast; two cells keeping one count is a step. *(repair)* Said just before heat one: "A four that holds is marked by its find. A four that steps is marked by how long it held." **Heat one:** Halden finds in 1:40 (Hesketh's palm), restarts the cell on a "limp" (Pettit's count; Yarrow's card); held. Westerley second four steps at 5:20. *(repair)* Two unnamed fours had stepped at 4:00 and 3:00 (the draft said 8:00 and 6:00). Kiva sees from the gallery the unquenched neighbours **leaning** together and the **one trough of water** under the skirt. **Heat two:** the Ropewalk first four, laid, find 2:10, held (did not drain). **Heat three, 2 p.m.: Seven** (Cade carry; Pryce ward, drum; Talley edge; Finch ward, catcher; "Rowan stands down, by the Chair's condition"). Anwen reads two cells at once: "Second. And the fourth's leaning on the fifth." Found 4:10. Pru catches the quench. **The rail minute:** Kiva drops a page torn from the back of her book (the first page she has ever torn out); Pru carries it; Jude drains the jacket (the marshal: nothing in the rule either way). Anwen tunes cell two to her own tapping rhythm. *(repair)* In the same heat an unnamed four steps at 4:00, Holloway second at 5:00 and the Tarn first at 5:10 (Trewin does not move; the draft gave the Tarn no step and the unnamed four 6:00). **Stepped at 8:40, cells four and five, not the cell tuned.** 6 p.m. Bench board (§3). Kellan: "You can't drain a harbour." 6.30 **Adlam in the street: the Proprietor wrote to Ysra Crest on Saturday** asking for the sequence "in her hand," on any terms she sets. 6.40 Perrin on the lip of the **Inner Lock**; the course notice; his rehearsal climb at six, down shut and up open, *(repair)* off his own thimble (not on the book); his plan (plant on every rung); Kiva says the price; *set* (her word at the foot). 6.45 yes/no: the lock rail, yes. 9 p.m. Orla on the Proprietor's letter ("You'll find out now whether you meant it"). Aske on Perrin's ribs: "If you hear it go, stop." **11.15 p.m. Mara cutaway** (§6). | 25, 26 |
+| **Tue 15th** | 7 a.m. Aske: warm, two mornings. 8.30 the Inner Lock full; the **Purser** (Board's canvas dummy, 85 kg) under a lead-hemmed sailcloth with an oak spar lashed across his shins; head sluices half at the bell, full at one minute; *(repair)* at full the water reaches the face at 1:20 (Kiva and Jude both say it; the draft's 1:40 and its "if it's full sooner" conditional are gone). Seven had the Purser out at 0:26, "most of a minute" ahead of the water. Reverse seeding; Seven runs thirteenth. Best before Seven: the Ropewalk second four, rope haul, 3:27. **Seven's run** (§2). After: Aske on the quay: **the seventh rib, left, cracked**. Dray: "Good climb." Brask's carry, 3:16. **Trewin carries the Purser on his shoulders fifty paces and up the stair planting every step**, 3:12. Halden two-man ladder carry, 3:10. The Ropewalk first four last: 2:59 raw, "Face," 3:09. **Seven first by one second.** Old Four's protest (planting in a wall) dismissed by the Clerk ("There are no squares on a ladder"); Brask raises a flat hand. The Mercury's man; Perrin: "The ladder was mine." Perrin on being envied (§5). 2 p.m. Aske's card for Perrin. **Finch stands; Rowan declared Ember for the Hunt; Cade captains from the hard.** 6 p.m. board after two (§3) and the **beat draw**. *(repair)* 6.10 Kellan on Skerry Pill and the lodger. 6.15 Anwen back from Tar Lane (her second and last warning to Lyle). 6.30 the Tarn's lodging over a cooper's on Quay Street: **Trewin agrees to be the third** if the officer says ("If it's her… you'll not stop to ask me"); **Bridie Hebden** catches for the Tarn (their catcher turned her ankle on the lock stair); the pass rehearsed **dry** (no doors lit) twenty times; Trewin on the word by the tenth; *(repair)* 6.45 (the customs house three-quarters, struck after the first ten passes) yes/no: a stave in the cooper's yard, yes; then ten passes more, and Bridie asks what happens in the gap. Evening: Jude at the end of the Long Quay ("what's it for… if what we bring in can't keep anybody's kitchen dry"). | 26–28 |
 | **Wed 16th** | 6 a.m. Aske: warm, three mornings; "Thursday, if wanted, and the price said first." 7.30 the Longshore causeway; the Board's tent, comb table (tins combed empty), healers' tent; the Mole lined with the town; the Mercury's boat. 7.45 **Coombe's drill: "Who has your far edge?"** — every catcher answers aloud; the corner-hand by the book, except Seven ("Finch, ma'am. The second") and the Ropewalk (Treen: "Me… and the call"; Coombe: "That's two places"). Coombe: her page is with the printer; "it's not the book. Your officer's slate is the book today." 8.00 Perrin declares. **Mallow Creek**, Yeo's beat (§4). **Skerry Pill**, Bray's beat: 11.25 a surge; the Ropewalk's kiddle sheds; Carrow calls *boom*; Lyle lays a ward flat on the water; Treen calls *run* twice; Lyle holds; **the lodger enters at her left ankle; her ward goes out, gone, not shut**; Kellan cuts the lodger on the mud on no officer's word; Bray's remarks. **12.12 slack at Mallow** (Kiva's fingers). Seven's stow dead at 12.29. 12.35 the Tarn's near post. **12.44 the Tarn's stow turns on its standing post, seven minutes before the water**; Bridie under; **Penhale goes in by the book and is taken under the far end**. **12.51 the flood.** The pass in three (about 12.48–12.50). Penhale dead; Bridie alive. Mallow closed at one. 1.10 Coombe. 2 p.m. healers' tent; Trewin asks about the plain. 4–6 combing at the gate. 4 p.m. **Rhea cutaway** at the Company yard. 6.45 yes/no: the leg of Noa's desk, yes. 7 p.m. **Anwen cutaway** at the Ropewalk. 9 p.m. board after three (§3); Dray. The Mercury's late sheet. 10.15 **Orla cutaway** at the Board's printer. 10.30 **Mara cutaway** at the bank gallery. 10.45 **Ivey** at Quiller's: Kiva's columns. 11.30 Jude at the window. Kiva writes Penhale in a new *Before* column; the disk cold; Aske: "Thursday. Soonest." | 29–32 |
 
 ## 2. The boards as played
@@ -56,7 +59,10 @@ None is a review or repair.
 - Six fours a heat, four heats. Banks of six glass cells on iron stands in **one iron water trough (the jacket)**,
   hidden from the floor by a grey wooden skirt; visible from the gallery. The planted cell keeps a count off a
   red bag; its neighbours lean into it through the water; Board cans carry the hair.
-- A one-minute "rail" stand-down between quench and tune.
+- A one-minute "rail" stand-down between quench and tune, which a four may take "as at home" *(repair: now in
+  the Clerk's opening; the draft only had Kiva say it had been read out)*. Halden did not take it.
+- *(repair)* Marking, said by the Clerk before heat one: a four that holds is marked by its find; a four that
+  steps is marked by how long it held.
 - Seven: Anwen's drum (two cells at once); Pru's catch of the quenched charge on her ward, folded to a penny;
   Perrin's quench and box; Jude drained the trough. Cell two restarted on Anwen's own rhythm ("three quick and a
   slow"). Held to **8:40**; cells four and five (not touched; rule forbade quenching them) fell into step.
@@ -79,7 +85,8 @@ None is a review or repair.
 ### The Hunt (Wed 16th, the Longshore) — rules on the page
 
 - Twelve beats, two fours to a beat, one officer each, by draw. A four works on its officer's word only; nothing
-  lit or cut without it; no four onto the mud below a form on running water; **a person down on the mud is the
+  lit or cut without it; no four onto the mud below a form on running water, *(repair)* "but on its officer's
+  word" (so Seven's 11.30 purse-setting under Yeo's order and Penhale's lead is lawful); **a person down on the mud is the
   officer's crew's; the fours stand off**; students close no tear. Bags combed at the gate. **Marked on the four's
   quarter of its clean yield, after the Board's half and the officer's company's quarter, less a dram on the mark
   per remark.** Closes at three or when the flood covers the flats.
@@ -95,11 +102,15 @@ Marks: place 1 = 24 … place 24 = 1.
 
 **Bench (posted Mon 6 p.m.):** 1 Halden License (1:40, held); 2 Holloway first four (2:00, held); 3 the Ropewalk
 first four (2:10, held); 4 Old Four (3:05, held); 5 Westerley first four (3:30, held); **6 Team Seven (4:10; stepped
-at 8:40, two cells, not the cell tuned)**. Five held, nineteen stepped. *Author's reconciliation, not on the page:*
-7 Westerley second, 8 the Tarn first, 9 Holloway second, 10 the Ropewalk second, 11 Team Twenty-Eight.
+at 8:40, two cells, not the cell tuned)**. Five held, nineteen stepped. *(repair)* Ranked under the Clerk's rule
+(held by find; stepped by length of hold), places 7–9 now follow from the page: **7 Westerley second (stepped
+5:20), 8 the Tarn first (5:10), 9 Holloway second (5:00).** Every other step time on the page is shorter (heat one
+4:00 and 3:00; heat three 4:00). *Author's reconciliation, not on the page:* 10 the Ropewalk second, 11 Team
+Twenty-Eight, both stepped between 4:00 and 5:00 (the Ropewalk second the longer); every other four stepped
+sooner. The full re-ranking check is in `MOVEMENT-004-REPAIR.md` §1a.
 
 **Carry (announced Tue):** **1 Team Seven 3:08**; 2 the Ropewalk first four 3:09 (2:59 + face); 3 Halden License 3:10;
-4 the Tarn first four 3:12; 5 Old Four 3:16; 6 Team Twenty-Eight 3:19. On the page also: Westerley second 3:26,
+4 the Tarn first four 3:12; 5 Old Four 3:16; 6 Team Twenty-Eight 3:19. On the page also (the reconciliation assumes Holloway and Westerley each field more than two fours; the page neither says nor contradicts it, and a Westerley four at 4:02 in run 1 and a Holloway four at 3:38 are neither the first nor the second four, so do not name a 'third four' or assume two each in later movements): Westerley second 3:26,
 Holloway first 3:21, the Ropewalk second 3:27. *Reconciliation:* 7 Holloway first 3:21, 8 Holloway second 3:23,
 9 Westerley first 3:24, 10 Westerley second 3:26, 11 the Ropewalk second 3:27.
 
@@ -121,7 +132,9 @@ boards. The Lane, in brackets, from Thursday.* Every sum checks place by place (
 
 - **Terrain:** a creek running south to the sea, thirty paces wide at the top; the **spur**, an old stone cart track
   off the causeway, along the east bank; marsh to the west. Two **stows**, sixty paces apart: the upper (Seven's),
-  the lower (the Tarn's) in the bend, where the channel is deeper on the outside, so its far post stood in a yard of
+  the lower (the Tarn's) in the bend, where the channel is deeper on the outside, so its far post (*(repair)* on
+  the west side of the bend; its sleeve lay downstream on the west mud and swung on that post from downstream to
+  inland over the west mud, closed end last) stood in a yard of
   water at low slack and needed the punt. A **tear** in the bed under each stow's mouth.
 - **The stow** (coast name, after stow-nets): two grey posts eight paces apart with the mouth of a long grey skin
   hung between them; behind it a sleeve ten or twelve paces long, closed at the far end, streaming with the tide;
@@ -206,7 +219,7 @@ boards. The Lane, in brackets, from Thursday.* Every sum checks place by place (
   A fortnight at the least.* Stood down from the Hunt; captained from the spur with the glass and watch. **Lifted the
   head of Penhale's boards once at the spur, against the card.** On being envied: "It's not better… It's just the other
   side of the same thing." His ladder: "The ladder was mine." He asked for a second plant on Sunday; it was there.
-- **Pru:** stood the Bench (catcher) and the Hunt (catcher, Kiva's second; far edge called once at 12.20; the fold in
+- **Pru:** stood the Bench (catcher) and the Hunt (catcher, Kiva's second; far edge called once at about 12.15, just after the 12.14 cut *(repair; was "12.20")*; the fold in
   the pass). **All ten fingertips frosted** (capped in linen; blistering). "Don't say *well called*."
 - **Anwen:** the drum (two cells at once); the far end of the cloth; **her first wall laid on water** (live). Warned
   Lyle a second and last time Tue evening; visited her Wed night; will teach her to lean from the floor on Thursday.
@@ -323,11 +336,12 @@ Board's printer; the comb clerks; the third circuit "that nobody could pronounce
 
 ## 12. Departures from the packet and items for attention
 
-1. **Length:** 52,401 words (`wc -w`), inside 50,000–57,000.
-2. **Viewpoint:** Kiva **84.0%** (43,961 of 52,348 by section, script count); cutaways **8,387**: Mara 2,274 (two
+1. **Length:** 52,401 words (`wc -w`) at first draft; *(repair)* 52,203 after the repair. Inside 50,000–57,000.
+2. **Viewpoint:** *(first-draft figures; repaired: Kiva 83.9%, cutaways 8,378)* Kiva **84.0%** (43,961 of 52,348 by section, script count); cutaways **8,387**: Mara 2,274 (two
    sections), Kellan 2,547 (Skerry Pill, two sections), Rhea 1,432, Anwen 1,159, Orla 975. Inside 6,500–8,500 and
    84–87% after two light trims (§0).
-3. **Sections:** 52 (44 internal breaks; about 8.4 per 10,000 words; mean about 1,010 words) after joining 22
+3. **Sections:** *(repair)* now 50 (42 internal breaks; ch. 32 has ten sections after the Dray and *Mercury*
+   sections were folded into the board scene). First draft: 52 (44 internal breaks; about 8.4 per 10,000 words; mean about 1,010 words) after joining 22
    intra-scene breaks during the run (§0).
 4. **Lyle and Penhale** as planned. Penhale's recovery partly worked (his ward sheltered the girl); the death is
    carried by Yeo ("I said it was ground"), Coombe (the page held back), Ivey, Pike, Rhea, Jude, Kiva. No narrator
@@ -360,3 +374,34 @@ Thursday the 17th: **Kiva's seventh crossing possible** (hand warm three morning
 the sheets; Anwen to teach Lyle to lean from the floor; the lower tear at Mallow to be closed near one in the
 morning at the bottom of the night's ebb (Yeo; whether it was is not on the page). Friday: the Harbour Committee's deadline; Bridie may stand.
 **The prediction opens at noon on Wednesday the 23rd** (dawn slack 6.09). Rhea's card ends on the 30th.
+
+## 14. Repair reconciliation (2026-10-15, same author, job `647704f1`)
+
+Every record line above marked *(repair)* was changed to match the repaired prose. Nothing else in this file
+changed. No event, outcome, date, ash figure, power limit, injury, knowledge boundary or reserved disclosure
+moved. Full record: `provenance/MOVEMENT-004-REPAIR.md`.
+
+| Item | Was (first draft) | Now (surviving prose) |
+|---|---|---|
+| Bench rules (ch. 25 §1) | Rail minute only in Kiva's mouth; marking rule unstated | The Clerk's opening includes "a minute at the rail between the quench and the tune, as at home"; just before heat one she says how holds and steps are marked |
+| Bench heat times (ch. 25 §1, §3) | Heat one unnamed steps 8:00 and 6:00; heat three unnamed 6:00; the Tarn's step not given | 4:00 and 3:00; 4:00; the Tarn first at 5:10 ("Trewin did not move") |
+| Bench places 7–11 (§3) | Reconciliation only, in conflict with the page | 7–9 follow from the page; 10–11 remain the author's reconciliation, consistent with it |
+| Carry face clock (ch. 26 §4; ch. 27 §0) | 1:40 at half, "if it's full sooner, a minute and twenty"; "a minute's start" | One number: at full, 1:20; "beaten the water to his face by most of a minute" |
+| Perrin's Monday rehearsal climb (ch. 26 §0) | Unbooked | "off my own thimble"; no held figure changes |
+| Tuesday evening clock (ch. 28 §2–§4) | Kellan 6.15, Anwen 6.25, strike after all twenty passes and Bridie | Kellan 6.10, Anwen 6.15; the three-quarters strikes after the first ten passes; the log entry is unchanged |
+| The water in the lock (ch. 27 §0) | Against them, "like walking up a river" | With them, pushing at their backs |
+| Aske (ch. 27 §0) | "felt it go from the bottom of the ladder" | "heard it go from the lip" |
+| Hunt rule (ch. 29 §0) | No officer exception | "…on running water, but on its officer's word" |
+| When Kiva hears of Skerry Pill (ch. 30 §2) | "until three o'clock, at the gate" | "until the cart, on the causeway" (agrees with ch. 32 §2). The post-Hunt combing is "back at the gate on the timber pond, as the Clerk had said", from four |
+| Kellan's distance (ch. 30 §0) | forty paces | sixty paces |
+| Yeo's clock (ch. 31 §4) | Pru's call "at twenty past twelve… Forty minutes later" | "a quarter past twelve… Half an hour later" |
+| Yeo's slate (ch. 31 §3) | "…a quarter to one, seven minutes before the water…" | "…a quarter to one, in the slack…". The seven minutes stand in Yeo's words to Coombe and in Noa's ledger, which is now the single formal record of the interval |
+| Penhale's "I'll read it" (ch. 29 §5; ch. 32 §8) | Coombe cites the causeway queue; the page shows only the channel | Penhale adds "I've told half the causeway so" in the channel |
+| Penhale at the Ivey scene (ch. 32, first-draft §10; now §8) | "At half past ten, when the upper one leaned" (the gust was at 10.50) | "This morning, when the upper one leaned" |
+| The Tarn's far post (ch. 30 §3) | Unplaced; "across the channel" | "on the west side of the bend"; the sleeve swings "out of the downstream and inland over the west mud", closed end last |
+| Trewin's hand (ch. 28 §3) | Perrin's offer "as Trewin had held out his own on Sunday morning, at the top of the loft stair" (not in ch. 24) | "He held out his hand." |
+| Pru reading (ch. 25 §3) | "the way Orla read the book" | "the way she read everything" (Orla reads with her lips shut, ch. 32 §10) |
+| Sections | 52 (44 internal breaks) | 50 (42 internal breaks; ch. 32 §6 Dray and §7 the *Mercury* folded into §5 as one walk along the boards) |
+
+The editorial review said this file's §1 had Kiva hearing of Skerry Pill "at three, at the gate". No such line
+was found here; the slip was the prose's (ch. 30), and that is now fixed.

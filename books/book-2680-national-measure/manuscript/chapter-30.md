@@ -58,7 +58,7 @@ It was too late for that. Kellan knew it was too late even as Carrow said it. Th
 
 He dropped the mallet.
 
-He did not decide to. He found afterward that he had done the sum, and that the sum had come out, and that he had not waited for it. The sum was that he was a blade, forty paces off, with an Ember door that would light on his right fist in less than a count, and that the lodger was a cord, and a cord can be cut. And there was nobody else on the beat who was a blade and nearer. Halden's sum was something else. He would do Halden's sum later.
+He did not decide to. He found afterward that he had done the sum, and that the sum had come out, and that he had not waited for it. The sum was that he was a blade, sixty paces off, with an Ember door that would light on his right fist in less than a count, and that the lodger was a cord, and a cord can be cut. And there was nobody else on the beat who was a blade and nearer. Halden's sum was something else. He would do Halden's sum later.
 
 "*Renn,*" said Pettit, behind him.
 
@@ -180,7 +180,7 @@ At twelve minutes past twelve, on Mallow Creek, Kiva's fingers said nothing, and
 
 "*Slack,*" said Yeo. "Twelve minutes past. Seven. Your stow."
 
-Kiva did not hear any of what had happened on Skerry Pill. She would not hear it until three o'clock, at the gate. On Mallow Creek there was only the slack, and the stow, and the mud.
+Kiva did not hear any of what had happened on Skerry Pill. She would not hear it until the cart, on the causeway. On Mallow Creek there was only the slack, and the stow, and the mud.
 
 It was very still. It was stiller than Gannet Creek had been at midnight, because there was daylight on it and she could see how still it was. The thread of water in the channel's bottom lay in its bed like a ribbon, not running either way. The marsh grass on the west bank stood up straight and did not move. The white plates that had been coming out of the stow's sleeve all morning had stopped coming; the last of them lay on the mud where the ebb had left them, melting. And the stow stood in the channel, its two posts upright, one whole and one cut short a yard, with the mouth hanging slack between them and the long grey sleeve lying down on the mud behind, downstream, as flat as a coat dropped on a floor.
 
@@ -232,7 +232,7 @@ She let go and stepped back on the bank, without turning round, as Rhea had step
 
 The fold came over and came down. It came down on the mud and on the slack line where it lay on the bank, flat, with a wet slap, and lay there steaming, a yard from her knees.
 
-Then it lay still. It went greyer, slowly. It did not lift again.
+Then it lay still. It went greyer by degrees. It did not lift again.
 
 "*Hold,*" said Yeo. She had stepped to the edge of the spur. She was looking at the fold, and at Kiva on the bank above it, and at Pru on her knees three paces off. "Seven. Who called that?"
 
@@ -268,7 +268,7 @@ The top of the far post came off and went straight down into the still water, on
 
 And the stow died.
 
-Kiva had never seen a thing die all at once like that. The kiddle at Gannet Creek had been cut three posts at a time, and then four, and had gone to ash in the mud slowly, over the low water, while she was walking away from it in the dark. This went at once. The two stumps went grey and soft and slumped in the mud like candles in a hot room. The mouth went grey. The sleeve, lying in its fold on the bank and across the mud, went grey all along its length, and then thin, and then it was a film of ash lying on the mud like frost on a window.
+Kiva had never seen a thing die all at once like that. The kiddle at Gannet Creek had been cut three posts at a time, and then four, and had gone to ash in the mud slowly, over the low water, while she was walking away from it in the dark. This went at once. The two stumps went grey and soft and slumped in the mud like candles in a hot room. The mouth went grey. The sleeve, lying in its fold on the bank and across the mud, went grey all along its length, and then thin, and then it was a film of ash lying on the mud like dust on a sill.
 
 Only the dark place in the creek bed was left, under where the mouth had been. The tear. The thread of slack water lay round it in a ruffle.
 
@@ -314,7 +314,7 @@ It lay on the mud. It lay as flat as Seven's had lain before the cut, flat as a 
 
 "It's not folding," said Pru, beside her, very low.
 
-"It's still on a post." Kiva looked at the far post of the lower stow. It stood in the bend, in the deep side of the channel, upright, whole, with its half of the mouth hanging from it. "Ours was cut short. Theirs isn't. It's still got a post to stand on."
+"It's still on a post." Kiva looked at the far post of the lower stow. It stood on the west side of the bend, in the deep water, upright, whole, with its half of the mouth hanging from it. "I don't know why. Ours folded. It should."
 
 "So it doesn't fold."
 
@@ -370,7 +370,7 @@ It leaned inland, a hair, the way the upper stow's post had leaned at ten to ele
 
 And the stow swung.
 
-It swung on the post as a vane swings on a church when the wind comes round. The half of the mouth that still hung from it came round, and the long grey sleeve that had been lying flat on the mud downstream came round after it. It lifted off the mud. It lifted the whole of its length at once, streaming, grey, and swung round on the standing post like a door on its hinge, across the channel, to face the sea that had not yet begun to come in.
+It swung on the post as a vane swings on a church when the wind comes round. The half of the mouth that still hung from it came round, and the long grey sleeve that had been lying flat on the mud downstream came round after it, its closed end last. It lifted off the mud. It lifted the whole of its length at once, streaming, grey, and swung round on the standing post like a door on its hinge, out of the downstream and inland over the west mud, its mouth to the sea that had not yet begun to come in.
 
 Bridie was standing on it.
 
@@ -398,7 +398,7 @@ The fold came up. It came up like the cover of a book. Kiva saw Bridie's arm und
 
 The fold had two ends.
 
-Kiva saw that too late. Everybody saw it too late. It was a sleeve. It had a mouth, at the post, and a closed end, a long way off down its length. The fold that had come down over Bridie was its middle. The closed end was still coming round. It was still swinging on the post, across the channel, slowly, the last of the long grey sleeve, the far end of it, the end that had been lying furthest downstream on the mud all morning while everybody watched the mouth.
+Kiva saw that too late. Everybody saw it too late. It was a sleeve. It had a mouth, at the post, and a closed end, a long way off down its length. The fold that had come down over Bridie was its middle. The closed end was still coming round. It was still swinging round on the post over the west mud, the last of the long grey sleeve, the far end of it, the end that had been lying furthest downstream on the mud all morning while everybody watched the mouth.
 
 It came round over the near edge. It came round over Penhale's back.
 
