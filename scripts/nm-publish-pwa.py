@@ -45,6 +45,12 @@ for n in range(1, a.through + 1):
         changed.append(name)
 print("copied/changed:", changed)
 
+# word total from the exact published bytes (wc -w semantics), usable as {WORDS} in --description / --note
+WORDS = f"{sum(len((DEST / f'chapter-{n:02d}.md').read_text(encoding='utf-8').split()) for n in range(1, a.through + 1)):,}"
+a.description = a.description.replace("{WORDS}", WORDS)
+a.note = a.note.replace("{WORDS}", WORDS)
+print("words:", WORDS)
+
 # 2. manuscript index
 entries = []
 for n in range(1, a.through + 1):
