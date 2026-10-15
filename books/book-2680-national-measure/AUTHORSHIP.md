@@ -725,3 +725,89 @@ only that person has.
 - Final word count 52203 (`wc -w`). Final hashes: `provenance/MOVEMENT-004-RECHECK-CONFIRMATION.md`.
 - The showrunner (Sonnet 5.5) wrote no prose. **Movement Four is accepted as editorial context for Movement Five.**
   Formula sentence targets were not reached (see the confirmation file).
+
+## Movement Five, first draft — 2026-10-15
+
+- Status: **chapters 33–40 drafted in full as one continuous run. First draft. Not reviewed, not cold-read, not
+  scored, not repaired, not committed, not pushed, not published.** Chapter 41 was not begun.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.** This is
+  what the runtime states; it cannot be verified independently from inside the session. No subagent, other model or
+  delegated worker wrote or edited any prose or record. No codex or OpenAI call was made.
+- Session: Claude Code background job `dd002b97` (job directory `~/.claude/jobs/dd002b97`); remote session
+  `session_01KxhmHtfQaiCvup8hbYpRax`. Run began 2026-10-15 at about 02:45 MDT and ended at about 03:45 MDT.
+- Brief: delivered in-session as the compiled Movement Five prompt. Its text matches
+  `planning/OPUS-5.5-MOVEMENT-005.prompt.md` (3,653 lines), SHA-256
+  `51978fba624c6b82380b320089fb5c955e616d54103578901354725dae05e904` (formula source hash in the file
+  `9f97e2f2…30c0b8`). Checked by spot comparison, not byte for byte.
+- Packet: `packets/MOVEMENT-005.md`, SHA-256 `48ad0c9f6b9bc7b66681c042c03182ac20c8e4e415204434864a0a636af43804`.
+- Edition: first draft. Isolation: worked in place in the git worktree `/Users/drive/kindling-2680-book-02` on branch
+  `codex/kindling-2680-book-02` (the EnterWorktree tool was not available in this session; prior movements worked in
+  the same place); no commit made.
+- Sources read before and during drafting: chapter 32 and the records as supplied in the brief (`STATE_LEDGER.md`
+  Movement One to Four blocks, `provenance/MOVEMENT-004-CONTINUITY.md`, `MOVEMENT-004-REPAIR.md`,
+  `MOVEMENT-004-RECHECK-CONFIRMATION.md`, `BOOK_MAP.md`, `CHARACTERS.md`, `UNIVERSE_BIBLE.md`, `OWNER_BRIEF.md`); Book Two
+  chapters 17, 18, 23 and 24 in full; targeted reads of chapters 16 (the Order's house, Thrale, the ferry dream), 21
+  (the Saltmere keeper's 2604 entry), 25 (the Salt Hall, the Clerk) and 31 (Rhea's advice); Book One targeted reads:
+  the prologue (Annick's entry), chapters 14, 15, 19 (lane rules: halves, declared counts; the hen), 24 (the night the
+  page was written), 27 and 31 (the sealing, the Reader, L. Arkwright) and 47 (the Ferren keeper's line; the three
+  sheets). New names checked against every manuscript, planning and provenance file in the repository and
+  `universe/NAME_REGISTRY.md`. Nothing from the research corpus.
+- A continuation checkpoint (`provenance/MOVEMENT-005-CHECKPOINT.md`) was written before chapter 33 with the private
+  plan (bracket, scores, standings, ledger) and updated after each chapter; no output limit intervened. It is superseded
+  by `provenance/MOVEMENT-005-CONTINUITY.md`.
+- In-run corrections (blocking slips only; listed in the continuity file §0). Before the run closed, 38 `---` breaks
+  placed inside continuous scenes were joined, as the packet's craft notes direct, and a handful of repeated idioms were
+  varied (listed in §0). No editorial review was run.
+
+### Word counts (`wc -w`, headings included)
+
+| Chapter | Title | Words |
+|---|---|---:|
+| 33 | Kiva: The Week's Crossing | 8,547 |
+| 34 | Kiva: Who Has It | 6,338 |
+| 35 | Kiva: One Door Each | 6,000 |
+| 36 | Kiva: The Three Sheets | 8,030 |
+| 37 | Kiva: A Declared Count | 6,554 |
+| 38 | Kiva: The Measure Is Read | 6,034 |
+| 39 | Kiva: The Last Witness | 5,573 |
+| 40 | Kiva: For Want of a Better | 8,142 |
+| | **Movement Five** | **55,218** |
+
+Inside the packet's 50,000–56,000 working length. Thirty-nine sections (31 internal breaks); about 1,415 words a
+section; about 5.6 internal breaks per 10,000 words (below the formula's ~8.7: three lanes and three hearing sittings
+are long continuous scenes kept unbroken, as the packet directs; recorded for review).
+
+### Viewpoint counts (by section; whitespace token count)
+
+| Lens | Section | Words | Share |
+|---|---|---:|---:|
+| Kiva | all other sections | 47,999 | 87.0% |
+| Mara Rowan | ch. 34 (the keeper's room, the thirty-six, the two wires) | 1,977 | 3.6% |
+| Orla Dane | ch. 39, opening two sections (the Chair; Hart on the gallery) | 1,573 | 2.9% |
+| Kellan Renn | ch. 36, opening section (the technical office, his card) | 1,376 | 2.5% |
+| Anwen Pryce | ch. 33 (the Ropewalk, teaching Lyle to lean) | 1,154 | 2.1% |
+| Rhea Sorn | ch. 37, last section (the tiers with Pike; Anwen's card) | 1,108 | 2.0% |
+| | **Cutaways** | **7,188** | **13.0%** |
+
+Inside the packet's 6,500–8,500 cutaway words and 84–87% Kiva (at the upper bound). Every cutaway opens on its lens
+by name with a cue only that person has. No new lens.
+
+### Final hashes (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| chapter-33.md | 8912b98dd1ad0dce93ec384e78ce7c22d38f41d469eabc2f22a666bd6efcb6b7 |
+| chapter-34.md | 7887460915affc5931743b9667c4dd9237595b203ff514f68314556538311a3f |
+| chapter-35.md | ab0c4f161e316dcff37253a32b14371ad036104faf40103e3208f3624a44e35d |
+| chapter-36.md | 772455ade509f93a0eb4770666dc435f6adc0768928f1eb3de44aa0c43ea4e57 |
+| chapter-37.md | 202ecefdb693d5597f2d1fba6566a29c9604ef581b98cf58aafc64bc775453ba |
+| chapter-38.md | 5926eed539ef7b52930d212629eb6f5bdd342e2afea8cd9b5af4d13951c3c9a4 |
+| chapter-39.md | a2d8afcf2b8ec0800ca4f69d54dd9f2de00e806ac5fd658e26cbdf071a996b05 |
+| chapter-40.md | e6d7be38ea313595ff085d0b14413cd2a2344084753d214be236e31677000e26 |
+
+- Formula measures (sentence distribution, paragraph proxy, readability, progression and combat density, development
+  cadence) were written toward and **not measured** in the author run.
+- Files written by this run: `manuscript/chapter-33.md` to `chapter-40.md`, `provenance/MOVEMENT-005-CHECKPOINT.md`,
+  `provenance/MOVEMENT-005-CONTINUITY.md`, this entry, and the Movement Five block of `STATE_LEDGER.md`. No other file
+  was edited.

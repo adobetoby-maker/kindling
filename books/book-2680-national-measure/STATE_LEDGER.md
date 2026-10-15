@@ -800,3 +800,142 @@ Whether the sentence targets govern dialogue (64% short); the progression-vocabu
 Perrin's lift against Aske's card (carry to Movement Five); Penhale's ward left as a frost-shape (C18); Monday's "It
 was the neap"; Orla's "by sight for a fortnight" (C17); and the Movement Three items (the 41-minute hold, the
 brown-ink line, "my best machine"). See `provenance/MOVEMENT-004-REPAIR.md` §8.
+
+---
+
+## Movement Five block — chapters 33–40 (first draft, 2026-10-15)
+
+Status: **from first-draft prose, unreviewed.** Everything here is on the page of `manuscript/chapter-33.md` to
+`chapter-40.md`. The full record is `provenance/MOVEMENT-005-CONTINUITY.md`. If review or repair changes the prose,
+this block is corrected from the surviving text. Span: 5 a.m. Thursday the 17th of the third month, 2681, to about
+midnight on Sunday the 20th.
+
+### M5.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified**; one door declared at every lane by her captain's voice. **On the national
+  license roll with Seven for the year.**
+- **No crossing, no stack, no three-door.** Three clean, unchanged. Hand warm Thu, Fri, Sat (four, five, six mornings).
+  **Aske said the price twice** (Thu 7 a.m., Sat 7.15 a.m.): the seventh past the elbow, a sulk of five nights,
+  "not surprised by six"; one in seven days. **The week's crossing is kept for Wednesday the 23rd**; nobody has asked
+  for it on the page.
+- **Lost the exchange with Selka Dray by choice** (Sat, carry 3): declared "Ember, single, and no change"; told Dray to
+  her face across the beds before the lane; shook her head at Perrin's open mouth on the count; downed by Dray's flat.
+- **Right hand:** blisters opened Thursday (poles); re-wound; writes left-handed. Two fingers as before.
+- **Fever, the third this year** (Sun ~2.50–11 p.m.; to 104) after the Proprietor (9 a.m.) and Thrale (2 p.m.). **No
+  dream. "Nothing came," said aloud.** Aske: *Fever, the third. Nothing came. Said so.* (shown to her).
+- **The disk:** cold, including beside both masters and through the fever.
+- **Yes/no log:** Thu mooring ring by the Graving, yes; Fri Salt Hall gallery rail, yes; Sat Graving lip rail, yes; Sun
+  loft bed rail, yes (written by Pru).
+- **The dream is public** (Salt Hall Fri; Mara's sealed page opened and read in the Graving Sun; the Mercury). **The ferry's
+  white lights told to the Board's commission at the Counting House** (Sun). **The colour with no word: Kiva alone; "not
+  put on the table"; Mara has never been told it.** The *Witnessed* page has a third line (§M5.5).
+
+### M5.2 The Lane and the Measure
+
+- Lanes: **Thu 6–2 v the Tarn second four** (stance; the hen; elbows); **Fri 4–5 v the Ropewalk first four** (Carrow,
+  edge only, striking on Treen's "set"; "two places" lost the glass); **Sat 6–5 v Team Twenty-Eight** (Pru calls the pen;
+  Kiva calls nothing). Seven: won two, lost one, 16 for, 12 against; **ninth in the Lane (16 marks).**
+- **The Measure, read Sat 8 p.m., no board struck:** 1 the Ropewalk first 82; 2 Halden License 80; 3 Westerley first 79;
+  4 Old Four 78; 5 Holloway first 77; 6 Holloway second 76; **7 Team Seven 69 (19 + 24 + 10 + 16)**; 8 Team Twenty-Eight
+  68 and 9 Westerley second 68 (**tie broken by the best single place on any board: Twenty-Eight first on the Hunt**);
+  10 the Ropewalk second 66; 11 the Tarn second 59. **On the roll by one mark.** Seven won the Carry outright.
+- **The roll:** Ropewalk first, Halden, Westerley first, Old Four, Holloway first, Holloway second, Team Seven, Team
+  Twenty-Eight. **Warranted** (Sun): a Barrel response at the harbour pump house at the dawn slack Wed 23rd; any roll
+  four by name on the Board's warrant and ash; **none obliged**.
+- Bracket draws: Thu by standing after three; Fri and Sat by lot at the pole (Sat's put back to 9 p.m. Fri).
+
+### M5.3 Team Seven
+
+- **The book:**
+
+| Line | Drams |
+|---|---:|
+| Carried, Thu 17th | 6.26 |
+| Lane, Thu (Pryce 0.12, Talley 0.09, Finch 0.10) | −0.31 |
+| Lane, Fri (Pryce 0.17, Talley 0.12, Finch 0.13) | −0.42 |
+| Lane, Sat (Pryce 0.15, Talley 0.11, Finch 0.12) | −0.38 |
+| **Held** | **5.15** |
+| **Sealed medical (W, plain)** | **2.0, unopened, bound** |
+
+  Check: 6.26 − 1.11 = 5.15. Rowan on her own thimble. On the page: "A dram and eleven. Held, five and fifteen." The
+  Thu/Fri per-head splits are the author's reconciliation. **The sealed tin was asked for by the Harbour Committee at the
+  Board's sitting and refused by Perrin ("It's for a hand").**
+- **Perrin:** captains from outside the pen. Aske's card: *A fortnight from Wednesday* (lifted at the spur against the
+  card). Took Kiva's arm on the stair Sun night against the card; stopped by Aske.
+- **Jude:** Aske's card: left forearm frost, mending, a stripe from the Carry's loop, will scar; *edge on the right fist
+  only; nothing gripped with the left till Monday.*
+- **Pru:** two fingertip caps torn Thursday (bled); re-capped.
+- **Anwen:** taught Maud Lyle to lean from the floor (Thu).
+
+### M5.4 Offers (draft boards; a card is not a seat)
+
+- **Anwen:** Graywater, Doran Mace's ward line on the night van, her own place, from the 1st of the fourth month (card by
+  R. Sorn). **Yes.** Told Kiva first.
+- **Jude:** the Saltmere Company, Yeo's closing crew, from the 1st of the fourth month, six months. **Open** ("after
+  Wednesday").
+- **Perrin:** Halden Lift Yards ("the winner of the Carry") — **No, with thanks**; the Municipal Works trunk crew (Rusk),
+  from the autumn when his card is up — **open** ("at home").
+- **Kellan:** Halden technical office, junior assessor, with counsel's condition — **No**. Sunday night he holds a white
+  Halden card whose contents are not on the page.
+- **Kiva:** none; Rhea will ask on the 30th and write only if Kiva says yes.
+
+### M5.5 Rulings, findings and lines
+
+- **The Board's answer to the Harbour Committee (Fri):** "The Board does not stop banks. It does not keep them… The
+  keeper keeps her house."
+- **Halden's counsel withdrew the request to note the claim against the Hunt's bags "for the present."** The claim is for
+  the Compact's court; Kellan's figures and Adlam's bench books sent with it.
+- **The Clerk's finding (Sun):** a thing dreamed by Annick (2446–50), the Ferren and Saltmere keepers (2604), the
+  Westerley keeper (2604), the Proprietor (2604 and eleven times), Thrale (three times), the Holloway lamp-man (2680),
+  and Kiva Rowan (from a page that was shut). **"The Board will call it the unroofed sky… and it'll not say what it is."**
+  The Mercury's late sheet: **THE UNROOFED SKY** (first appearance of the name).
+- **The Chair:** answered the Proprietor in writing (*not to be asked… I set none*); entered Orla's request that her
+  sponsor's line be struck when the certificate can stand in the candidate's own name (*on evidence*); wrote the third
+  *Witnessed* line: *Put it on the table herself, under her own name, before anybody asked.*
+
+### M5.6 The Slack: plain ash
+
+- **The Order's thirty-six jars, given** (Thrale, in the Graving, Sun). The Order's cellar: **4 jars left** (44 → 41 → 40
+  → 4). **Price said aloud:** the house breaks its only rule not about doors (never for a bank) and records it; four
+  jars for every hurt hand on the road south; **the harbour bank's thirty-six cells never to be stepped again while the
+  pump house stands, each its own count** — written in the keeper's book for 2604 by Peverell and signed by the Harbour
+  Committee's chairman. Jars on a cart at the Graving's seaward end.
+
+### M5.7 People
+
+| Person | State |
+|---|---|
+| **The Proprietor** | Testified under his name that he dreamed it (2604; eleven times since; last the 17th of the ninth month 2680, evening). Read Annick in 2610 (the 2611 settlement followed). "Sure of my reading… not certain I'm right." Left hand never lifted. |
+| **Clemency Thrale** | In Saltmere from Sat 4.50 p.m.; lodges in the Company's watch hut at the Mole's end; an hour at a time in the town; testified (dreamed it three times: at nineteen; 2670; 17th ninth month 2680 at 2.20 p.m.); her reading: one door, one quiet thing, let nothing in that asks. Kiva's doors lie down at forty paces. |
+| **Mara Rowan** | Took the national risk on her name (Fri). Sent the wires; broke the seal with Kiva; read the page aloud. "Don't be one engine." Has not touched a cell. Knows there was a white she wasn't told and a thing with no word she hasn't been told. |
+| **Orla Dane** | One true sentence each with Hart (Sun 6.45 a.m.); nothing mended. Asked the Chair to strike her line when no longer needed. |
+| **Jessamy Hart** | Spoke under his name at the Salt Hall ("ruined… the one that reads"). |
+| **Peverell** | "The keeper who let it be tried." Thirty-six names on fault paper, not hers. |
+| **Kellan Renn** | Read his figures under his own name (1,106/1,102/4; 412.4/371.3/41.1; 109 drams 2391–2600; 1,175.1 in 2680). Halden second by two marks. |
+| **Mr. Adlam** | Read the bench books (48, 48, 50, 55, 57). |
+| **Noa Bexley** | Fourth column (ash). Wired the Holloway warden himself. Two hairs (12.44 Wed; 12.52 a.m. Thu, as a tear shut); no line. |
+| **Selka Dray** | Read on the mast at her own request; beat Kiva in the exchange; "the fairest lane I've ever lost." Twenty-Eight on the roll by the tie. "Wednesday… I'll be there. On my feet." Not a friend. |
+| **Juniper Carrow** | Won the Measure on one door, declared, "and no change", striking on Treen's "set". "If they try, I want to be on the wall." |
+| **The Reader, L. (Lavinia) Arkwright** | In Saltmere from Sat 9.35 p.m. with Annick, Personal (custody) and Lumb's 2604 book. |
+| **Rhea Sorn** | Wrote Anwen's card; will not write Kiva's before the 30th; "*Mine*", in her own head. One night left. |
+
+### M5.8 Knowledge boundaries, changed
+
+| Fact | Now known to |
+|---|---|
+| That Kiva dreams; Mara's page | **Everyone.** |
+| The ferry's white lights | The Board, the Proprietor, Mara; read in the Graving; the Mercury. |
+| The colour with no word | **Kiva alone** (that there is one: public). |
+| The Proprietor's and Thrale's dreams | Everyone. |
+| The Holloway lamp-man's name | The Board only. |
+| Orla's request; the Orla–Hart sentences | The Chair and Orla; Orla and Hart. |
+
+### M5.9 New names (pending owner review)
+
+Mr. Tregear (the Board's printer); Sedge and Bannock (Team Twenty-Eight); Lavinia (the Reader's given name).
+
+### M5.10 Dates ahead
+
+**Wed 23rd: the Slack at the dawn slack (6.09 by the prediction); the Board's warrant; the Order's jars; Kiva's week's
+crossing kept. The prediction opens at noon.** Rhea's last night and the 30th. Anwen to Graywater from the 1st of the
+fourth month.

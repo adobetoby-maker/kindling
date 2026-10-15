@@ -125,3 +125,19 @@ Owner instruction: continue until book and complete local Breeze audio are publi
   MOVEMENT-001-RECHECK-CONFIRMATION). Codex/Breeze work untouched by this loop.
 - Blockers: none.
 - Next: M4 informed editorial + cold read in parallel -> consolidate -> repair -> recheck -> publish -> M5 brief.
+
+## Update 2026-10-15 03:05 MDT — Movement Four CLOSED and published; Movement Five drafting
+
+- M4: draft `9f1bbf7e` (52,401) -> editorial `28d8a21c` + cold read `b4360b6b` -> repair `647704f1` (18 factual
+  fixes incl. Bench re-ranking so Seven stays 9th; clarity; catchphrase thinning; ch32 fold; 52,203 words) -> fresh
+  recheck `e6a7d3ad` PASS, no prose defect (4 stale record lines fixed by showrunner). Accepted as context:
+  `provenance/MOVEMENT-004-RECHECK-CONFIRMATION.md` (final hashes).
+- Source: kindling main `2ce5e33`. PWA: boundary-universe main `eefb645`, version 1.18.41, sw-v1217;
+  chapters 1–32 repaired, byte-identical on books.worker-bee.app.
+- ACTIVE CHILD: Movement Five author `dd002b97` (Opus 5.5), prompt `planning/OPUS-5.5-MOVEMENT-005.prompt.md`
+  sha256 51978fba…e905, packet `packets/MOVEMENT-005.md` (chapters 33–40: the Lane, Charter Board hearing,
+  Kiva puts the dream on a table, two Glory masters, "Unroofed Sky" coined, Seven seventh by one mark).
+  Checkpoint if limited: `provenance/MOVEMENT-005-CHECKPOINT.md`.
+- Blockers: none. Owner items accumulating (dialogue vs sentence targets; front-load arithmetic; Penhale's ward
+  frost-shape; M3 open items) -- recorded in confirmation files, not blocking.
+- Next: M5 reviews -> repair -> recheck -> publish -> M6 brief (the Slack) -> whole-book review.
