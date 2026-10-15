@@ -196,3 +196,15 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Audio session (Codex) is rendering Breeze chapters (1–3 candidates pushed); untouched by this loop.
 - Next: M6 recheck -> accept; consolidate whole-book findings into one bounded repair list -> freeze whole-book pre-repair edition -> same-author Opus repair of located defects -> fresh recheck of changed lines
   -> reconcile ledgers/maps/authorship -> final publish (all changed chapters) -> final report.
+
+## Update 2026-10-15 08:45 MDT — Movement Six CLOSED; whole-book reviews done; whole-book repair running; complete repaired book published
+
+- M6: repair `3311fe04` -> recheck `22f7111d` (R1–R4 + O1/O2) -> second repair `1a27a443` -> accepted as context
+  (`provenance/MOVEMENT-006-RECHECK-CONFIRMATION.md`).
+- WHOLE-BOOK REVIEWS DONE (fresh Opus, read-only, same-family simulated): continuity `6f04bed8` (18 findings W1–W18, incl. W1 the sealed page records the Pit); promises `26886465` (all 21 plant/payoff rows paid; all arcs land;
+  no reserved truth spent; findings P1–P6); seams `ffc1e86f` (WB-01–WB-22 with exact fixes; ranked edit list R01–R50; not a full read, says so).
+- Whole book frozen read-only: `editions/whole-book-pre-repair/` (48 chapters, SHA256SUMS). Showrunner decisions on owner-level items are recorded in `planning/OPUS-5.5-WHOLE-BOOK-REPAIR.prompt.md` §B.
+- ACTIVE CHILD: whole-book repair `32af798e` (same Opus 5.5 author seat; prompt sha256 3bfd58b1…2283) -> `provenance/WHOLE-BOOK-REPAIR.md`.
+- PUBLISHED: PWA boundary-universe main `67453b2`, version 1.18.45, sw-v1221: complete 48 chapters byte-identical to committed source (326,226 words); ending repaired; audio-clarity fixes to ch 11/14/15/19/24 included.
+  Source kindling main `c2b2fc1` + merges. Audio session continues to push Breeze chapters (1–5 candidates) — untouched.
+- Next: whole-book repair -> fresh Opus recheck of every changed line (diff vs `whole-book-pre-repair`) -> bounded second repair if needed -> accept -> reconcile ledgers/maps/AUTHORSHIP/README -> final publish -> final report.
