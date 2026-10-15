@@ -226,7 +226,7 @@ Anwen's wall came up against Twenty-Eight's still door, who had come for the hea
 
 "*Down.* Twenty-Eight."
 
-"*Talley, head. Pryce, foot. Walk. North.*"
+"*Pryce, head. Talley, foot. Walk. North.*"
 
 Anwen and Jude had the Commodore. Anwen had the head in her two good hands; Jude had the foot in his one. They walked it along the north side, close against the posts, and Twenty-Eight's Hold came to stop them and Pru called *hands, south,* and Anwen's wall came up between, low and silver, and went down again.
 

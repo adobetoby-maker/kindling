@@ -106,3 +106,14 @@ changed paragraphs and joins; ready-source recommendations pass. Narration was
 separately refreshed and word-locked. This acceptance is for source publication,
 not human audience feedback or audio listening approval. Codex orchestrated and
 checked; Opus5.5 authored all changed manuscript words.
+
+### Placement addendum — 2026-10-15 22:02 UTC
+
+Chapter37's called head/foot names now agree with executed positions and later
+action. Opus5.5 job7c9c2be6 authored only the two-name swap; independent Codex
+source/joins recheck passes (AUDIO-PLACEMENT-37-RECHECK.md). Frozen prior source
+is retained in editions/audio-placement-37-pre-repair/; exact repair provenance
+is AUDIO-PLACEMENT-37-REPAIR.md. This supersedes only37's historical hash:
+`c39b066241dc7c1027d462ee855c59303805f5fd14eb0062ead5ee0f738afc21`.
+Chapter37 remains6629 words, delta0; total325943. No plot/power/injury/outcome
+changes, owner decisions, human feedback or listening approval are implied.

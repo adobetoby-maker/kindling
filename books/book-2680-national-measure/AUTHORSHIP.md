@@ -1146,3 +1146,8 @@ frozen editions and fresh Codex source/narration rechecks are retained. Codex
 wrote no manuscript prose. Accepted hash supersession and +10-word total
 (325943) are explicit in WHOLE-BOOK-RECHECK-CONFIRMATION.md's narration addendum.
 No model-weight training, human reader feedback or listening approval is claimed.
+
+Opus5.5 job7c9c2be6 subsequently corrected only chapter37's called names to match
+the executed head/foot positions. Exact frozen source, repair and independent
+Codex recheck are retained; placement acceptance addendum supersedes that hash,
+with zero word-count change. Codex orchestrated/checked and wrote no novel prose.
