@@ -391,3 +391,20 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   active prose author or duplicate Metal worker. Ready inventory now1–36.
 - Next: confirm1.18.47 live26/27/33 bytes, prepare40–42 onward, verify9 as it
   publishes. Preserve old audio editions; final complete listening still pending.
+
+## 2026-10-15 20:57 UTC — text deployment verified; direction40–42 started
+
+- PWA1.18.47 is LIVE; actual deployed26/27/33 bytes match canonical committed
+  source exactly.325943 words. Earlier pending publication is now verified.
+-37–39 direction reviewed514 paragraphs;38/39 ready,37 blocked on Pru's call
+  at229 ('Talley, head. Pryce, foot') contradicting actual Anwen-head/Jude-foot
+  at231 and subsequent action. Opus7c9c2be6 verifies/fixes ONLY37, with frozen
+  edition/report AUDIO-PLACEMENT-37-REPAIR.md. Fresh Codex check shell20294
+  queued to independently validate and refresh only37, preserving38/39.
+  Adopt/publish explicit new37 hash only after pass, not silent table update.
+- Initialized40–42; Codex director active in own unit from accepted final prose,
+  prompt DIRECT-UNIT-40-42.prompt.md.37 author cannot touch it. Preserve reserved
+  knowledge/rules and pending owner-level decisions.
+- Single renderer70899 continues9 (verifieds223), parent97481 healthy. Live1–8
+  unchanged and source-current. No duplicate Metal, no paid API/ElevenLabs.
+- Next: prepare43–45/46–48; finish37 source loop; verify9 when it publishes.
