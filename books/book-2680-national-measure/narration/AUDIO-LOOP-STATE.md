@@ -114,3 +114,11 @@ accepted manuscript in rolling three-chapter units as writing progresses.
   repaired source, refresh prepared hashes and Codex recheck before readiness.
 - Chapters 10–12 Codex preparation is active, shell session 53555, prompt
   `DIRECT-UNIT-10-12.prompt.md`, result `DIRECT-UNIT-10-12.result.md`.
+
+### First chapter live
+
+PWA deployments for `3453a07` succeeded. The live kindling manifest now lists
+Book Two chapter 1 with exact source/audio hashes. Full LFS audio HTTP 200 and
+SHA-256 passed, and byte-range playback returned HTTP 206. Duration: 41m 58.7s.
+`published.json` now records live verification. Notify first availability once;
+subsequent healthy render progress should remain quiet. Owner listening pending.
