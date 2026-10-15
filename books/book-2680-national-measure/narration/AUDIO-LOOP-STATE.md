@@ -319,6 +319,6 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   changes or pretend whole-book acceptance hashes already include them.
 - Initialized28–30; Codex director shell94701 reads/directs accepted source in
   its own unit with explicit Breeze override. Preserve separate26/27 author.
-- Single renderer6558 continues7 (last s~160); supervisor83718 healthy. Final
+- Single renderer6558 continues7 (verified last s238); supervisor83718 healthy. Final
   opening1/3 pickup markers await its next loop. Live1–6 remain available, with
   old1/3 explicitly pending replacement. No new media upload since last check.
