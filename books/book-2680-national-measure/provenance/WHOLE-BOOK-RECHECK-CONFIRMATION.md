@@ -79,3 +79,30 @@ The deferred W4 (Pettit as a still door and Yarrow as a hand door against Book O
 dropped Home Line roll turn; whether the sentence targets govern dialogue (about 60% of dialogue sentences are five words or fewer); the progression density against the book-level 58 (mid-book movements run lower, the opening and the ending higher); the tide clock;
 the 41-minute hold; the brown-ink line; "my best machine"; Penhale's ward as frost; the Order's four unanswered questions; the Barrel's yield figure (686.4, chosen above the Flask scale); the new name *Shapter*; the 76/77 age of the Proprietor's reading as written; whether the
 last page should lean outward (the hull). The formula's sentence-length targets were never reached in any movement and were not changed.
+
+## Narration clarity acceptance addendum — 2026-10-15 19:55 UTC
+
+The historical table above records the whole-book acceptance edition. These three
+rows explicitly supersede it after bounded Opus5.5 prose repairs and independent
+Codex textual/continuity rechecks. All other accepted chapter hashes are unchanged.
+
+| Chapter | Current words | Current accepted SHA-256 |
+|---:|---:|---|
+| 26 | 5,106 | `1ecc21951e2bd781d1e38843691b2564dc564ee0de0e1ab13b6d0707b444d6d3` |
+| 27 | 7,280 | `e18bed0e5fa3cf86a3f197953c6b914ce7de0c53080f4cb81dd4945298a9af83` |
+| 33 | 8,529 | `67137ebaa52d5fc114fdabeb822e0478b23e83baf4daf22f56289ce3c06965eb` |
+
+The book is now 325,943 words (+10, all in chapter27). Chapter26 corrects the
+number of predecessors in a thirteenth run and Tolver's declared stance wording;
+chapter27 explicitly places the head handoff/climb before hauling and preserves
+declared stance; chapter33 corrects one catcher's She→He pronoun. No plot outcome,
+injury, new power or reserved disclosure was changed. Frozen prior editions and
+actual Opus sessions/hashes are recorded in AUDIO-CLARITY-26-27-REPAIR.md,
+TOLVER-STANCE-26-27-REPAIR.md and AUDIO-PRONOUN-33-REPAIR.md.
+
+Acceptance evidence: narration/AUDIO-STANCE-26-27-RECHECK.md and
+provenance/AUDIO-PRONOUN-33-RECHECK.md. Both inspect exact cumulative differences,
+changed paragraphs and joins; ready-source recommendations pass. Narration was
+separately refreshed and word-locked. This acceptance is for source publication,
+not human audience feedback or audio listening approval. Codex orchestrated and
+checked; Opus5.5 authored all changed manuscript words.

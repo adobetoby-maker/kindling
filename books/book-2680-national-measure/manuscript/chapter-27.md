@@ -360,7 +360,7 @@ They went down the stair. Carrow declared, in a voice that carried up the walls.
 
 The bell went.
 
-They were very fast. Kiva had known that they would be. They ran the chamber in a body, and at the Purser Lyle laid. Her ward went under the cloth and her feet into the floor together, in one breath, and the cloth went up and over and stayed there, because a laid ward does not move. Tolver took the spar off the shins with his stance, laid. Carrow's edge cut both lashings. Treen had the rope over her shoulder and was at the ladder before the cloth had stopped moving, and up it, light and fast, like a cat up a curtain.
+They were very fast. Kiva had known that they would be. They ran the chamber in a body, and at the Purser Lyle laid. Her ward went under the cloth and her feet into the floor together, in one breath, and the cloth went up and over and stayed there, because a laid ward does not move. Tolver took the spar off the shins with his stance, planted. Carrow's edge cut both lashings. Treen had the rope over her shoulder and was at the ladder before the cloth had stopped moving, and up it, light and fast, like a cat up a curtain.
 
 "Twenty," said the man on the lip with the watch.
 
@@ -380,7 +380,7 @@ Carrow had it in her hands. She had been holding it up. But she was holding it w
 
 It was flat. It was the only flat thing in the whole roar.
 
-Carrow did not look up. She did not stop. She lifted the head again and held it, and Tolver said *up,* and Treen and their blade hauled from the top, and the Purser went up the north wall of the Inner Lock on the end of a rope, steady and fast, with Tolver laid at the bottom keeping him off the stone. It was beautiful. It was the fastest thing anybody had done all morning.
+Carrow did not look up. She did not stop. She lifted the head again and held it till Lyle had it, and went up the ladder after Treen, and Tolver said *up,* and Carrow and Treen hauled from the top, and the Purser went up the north wall of the Inner Lock on the end of a rope, steady and fast, with Tolver planted at the bottom keeping him off the stone. It was beautiful. It was the fastest thing anybody had done all morning.
 
 They ran him to the mark.
 

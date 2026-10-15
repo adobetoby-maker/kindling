@@ -1137,3 +1137,12 @@ with a cue only that person has. No new lens.
 - Frozen pre-repair book: `editions/whole-book-pre-repair/` (48 chapters, `SHA256SUMS.txt`, read-only, verified OK). Final hashes and word counts: `provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md` (325,933 words).
 - The showrunner (Sonnet 5.5) wrote no prose at any point in this book's second half. **The complete book, chapters 1–48, is accepted as editorial context for publication.** No human reader has read it; no narration has been approved; the owner's formula
   sentence-length targets were not reached.
+
+### Narration-discovered clarity repairs — 2026-10-15
+
+Opus5.5 (`claude-opus-5-5`, runtime-reported) authored bounded corrections26/27
+(jobs c8ca0232 and6148611b) and33 (job95089cc9). Exact repair reports, separate
+frozen editions and fresh Codex source/narration rechecks are retained. Codex
+wrote no manuscript prose. Accepted hash supersession and +10-word total
+(325943) are explicit in WHOLE-BOOK-RECHECK-CONFIRMATION.md's narration addendum.
+No model-weight training, human reader feedback or listening approval is claimed.

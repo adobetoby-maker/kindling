@@ -12,7 +12,7 @@ There was a notice pinned to the door of the lockkeeper's hut, behind them, unde
 
 *THE CARRY. The Inner Lock, Tuesday the 15th, from nine. The casualty lies at the head of the chamber, under a weighted cloth, with a spar lashed across its shins. A four starts on the floor at the tail. At the bell the head sluices are opened. Time stops when the casualty lies on the mark. The north ladder or the tail stair; no other way up. One rope and the Board's sling. Water at the casualty's face, ten seconds. A drop, twenty. Nothing lit on the casualty. Reverse order of seeding.*
 
-"Twelfth seed," said Perrin. "We go thirteenth. After eleven fours have shown us how, and before eleven who'll have seen us."
+"Twelfth seed," said Perrin. "We go thirteenth. After twelve fours have shown us how, and before eleven who'll have seen us."
 
 "Is that good?"
 
@@ -24,7 +24,7 @@ She saw them. There were two square black holes low in the head wall, either sid
 
 "Everybody will take the stair."
 
-"Everybody will take the stair who can't get him up a ladder." He was quiet for a moment. "The Ropewalk will take the ladder. They'll put a girl up it with the rope, and haul him from the top. Treen's light, and she's quick, and Tolver can hold anything you like laid at the bottom. That's what I'd do, if I were the Ropewalk."
+"Everybody will take the stair who can't get him up a ladder." He was quiet for a moment. "The Ropewalk will take the ladder. They'll put a girl up it with the rope, and haul him from the top. Treen's light, and she's quick, and Tolver can hold anything you like planted at the bottom. That's what I'd do, if I were the Ropewalk."
 
 "And Halden?"
 

@@ -364,7 +364,7 @@ After that the Tarn tried three things, and Kiva learned something from each. Fi
 
 Then they tried to wait her out. The glass was running and the litter was in the middle and the Tarn's captain stood back and folded her arms, and Kiva understood that the point at the glass would go to whichever half the litter's middle lay in, and the litter's middle was on the line. Pru saw it too. Pru said, very quietly, "*Head's ours. Foot's theirs. Middle's on the chalk.*" Kiva did not move her stance. She could not, without shutting. But she leaned. She leaned from the floor, as Anwen leaned, with her knees bent and her weight down, and let the floor push, and the head of the Commodore went a hand's breadth west under her forearms with a scrape of canvas on stone.
 
-The third thing the Tarn tried was their catcher. She was a small fair boy with a fresh bandage on his wrist, and he came in low on the north side with his ward up at his hip, small, the width of a doormat, and set it under the litter's middle. It was clever. He meant to lift the litter's middle on his tray and walk it back east over the line while Kiva sat on the head. A ward lifts. That is what a catcher's tray is for.
+The third thing the Tarn tried was their catcher. He was a small fair boy with a fresh bandage on his wrist, and he came in low on the north side with his ward up at his hip, small, the width of a doormat, and set it under the litter's middle. It was clever. He meant to lift the litter's middle on his tray and walk it back east over the line while Kiva sat on the head. A ward lifts. That is what a catcher's tray is for.
 
 Kiva felt it come up under the canvas. She could not do anything about it with her one door, which was in the floor.
 
