@@ -108,3 +108,20 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Owner items logged: dialogue vs sentence targets; front-load arithmetic; harbour tide clock (slack moves 1 min/day);
   Graving seeding floor and slate template accepted as departures; BOOK_MAP s12 Rhea-short moved to M3.
 - Next: fresh recheck -> publish repaired -> Movement 4 brief.
+
+## Update 2026-10-15 01:35 MDT — Movement Three CLOSED and published; Movement Four drafting
+
+- M3 repair `8e3ee375` (20 factual fixes F1–F20; 20 intra-scene breaks removed: internal breaks 14.5→10.8/10k;
+  voice tics halved) → recheck `a495af2f` found one defect (ch23:195 referent) → second repair `ca51c377`
+  (one sentence). Accepted as editorial context: `provenance/MOVEMENT-003-RECHECK-CONFIRMATION.md`
+  (final hashes). 54,611 words. Sentence-rhythm waypoint NOT reached (recorded; owner item).
+- Source: kindling main `6c8b684`. PWA: boundary-universe main `521e59a`, version 1.18.39, sw-v1215;
+  chapters 1–24 verified byte-identical on books.worker-bee.app.
+- ACTIVE CHILD: Movement Four author `9f1bbf7e` (Opus 5.5), prompt `planning/OPUS-5.5-MOVEMENT-004.prompt.md`
+  sha256 24f6ecfe…6224, packet `packets/MOVEMENT-004.md` (chapters 25–32: Bench w/o Kiva, Perrin's Carry,
+  the Longshore Hunt, a Company catcher's death, handed crossing live, Seven ninth). Checkpoint if limited:
+  `provenance/MOVEMENT-004-CHECKPOINT.md`.
+- Audio: accepted stable text for ch 1–24 listed in the confirmation files (ch 1–8 per
+  MOVEMENT-001-RECHECK-CONFIRMATION). Codex/Breeze work untouched by this loop.
+- Blockers: none.
+- Next: M4 informed editorial + cold read in parallel -> consolidate -> repair -> recheck -> publish -> M5 brief.

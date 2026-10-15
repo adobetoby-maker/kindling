@@ -542,3 +542,91 @@ cutaways 52 words over ceiling.
 - Final word count 54,611 (`wc -w`). Final hashes: `provenance/MOVEMENT-003-RECHECK-CONFIRMATION.md`.
 - The showrunner (Sonnet 5.5) wrote no prose. **Movement Three is accepted as editorial context for Movement
   Four.** Formula sentence targets were not reached (see the confirmation file).
+
+
+## Movement Four, first draft — 2026-10-15
+
+- Status: **chapters 25–32 drafted in full as one continuous run. First draft. Not reviewed, not
+  cold-read, not scored, not repaired, not committed, not pushed, not published.** Chapter 33 was not
+  begun.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude
+  Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier
+  `claude-opus-5-5`.** This is what the runtime states; it cannot be verified independently from inside
+  the session. No subagent, other model or delegated worker wrote or edited any prose or record. No codex
+  or OpenAI call was made.
+- Session: Claude Code background job `9f1bbf7e` (job directory `~/.claude/jobs/9f1bbf7e`); remote session
+  `session_01RgrcaqmvCrFTNm8ZWkvkri`. Run began 2026-10-15 at about 01:01 MDT and ended at about 02:00 MDT.
+- Brief: delivered in-session as the compiled Movement Four prompt. On inspection its text matches
+  `planning/OPUS-5.5-MOVEMENT-004.prompt.md` (3,322 lines), SHA-256
+  `24f6ecfe39b64645f270926c4a854a97e05918cf38a408c4489ff8aebe696224` (formula source hash in the file
+  `9f97e2f2…30c0b8`). No byte comparison of the delivered text was possible.
+- Packet: `packets/MOVEMENT-004.md`, SHA-256
+  `842810f4218893b212f789f64c852c455a1a2542a452cbbfc73e1bc7728d3f38`.
+- Edition: first draft. Isolation: worked in place in the git worktree
+  `/Users/drive/kindling-2680-book-02` on branch `codex/kindling-2680-book-02` (the EnterWorktree tool was
+  not available in this session; prior movements worked in the same place); no commit made.
+- Sources read before and during drafting: chapter 24, `STATE_LEDGER.md`, `provenance/MOVEMENT-003-CONTINUITY.md`,
+  `MOVEMENT-003-REPAIR.md`, `MOVEMENT-003-RECHECK-CONFIRMATION.md`, `BOOK_MAP.md`, `CHARACTERS.md`,
+  `UNIVERSE_BIBLE.md`, `OWNER_BRIEF.md` (as supplied in the brief); Book Two chapters 18 and 20 in full;
+  targeted reads of chapters 7, 10, 11, 13, 17, 19, 21, 22 (Coombe's drills, the lodger, the coal wharf, the gate,
+  Yeo and Jude, the Hoop, Halden's dinner) and chapter 12 (Halden License's roles); targeted searches of the Book
+  One manuscript for the Regional Bench, Brask, and Perrin's *I mind*. New names checked against both books'
+  manuscripts, planning and provenance files and `universe/NAME_REGISTRY.md`. Nothing from the research corpus.
+- A continuation checkpoint (`provenance/MOVEMENT-004-CHECKPOINT.md`) was written after chapter 26 as a
+  precaution; no output limit intervened. It is superseded by `provenance/MOVEMENT-004-CONTINUITY.md`.
+- In-run corrections (blocking slips only, listed in the continuity file §0). Before the run closed, 22 `---`
+  breaks that the draft had placed inside continuous scenes were removed, as the packet's craft notes direct, and
+  two cutaway passages were tightened (about 140 words) to bring the viewpoint inside the packet's bounds. No
+  editorial review was run.
+
+### Word counts (`wc -w`, headings included)
+
+| Chapter | Title | Words |
+|---|---|---:|
+| 25 | Kiva: One Water | 6,320 |
+| 26 | Kiva: The Inner Lock | 5,110 |
+| 27 | Kiva: Twenty-Two Rungs | 7,295 |
+| 28 | Kiva: The Second Plant | 5,060 |
+| 29 | Kiva: The Longshore | 6,195 |
+| 30 | Kiva: Slack | 6,348 |
+| 31 | Kiva: Nobody | 6,684 |
+| 32 | Kiva: The Measure Goes On | 9,389 |
+| | **Movement Four** | **52,401** |
+
+Inside the packet's 50,000–57,000 working length. Fifty-two sections (44 internal breaks); about 1,010 words a
+section; about 8.4 internal breaks per 10,000 words.
+
+### Viewpoint counts (by section; whitespace token count, headings excluded)
+
+| Lens | Section | Words | Share |
+|---|---|---:|---:|
+| Kiva | all other sections | 43,961 | 84.0% |
+| Mara Rowan | ch. 26 (the outfall gallery, Monday night); ch. 32 (the bank gallery) | 2,274 | 4.3% |
+| Kellan Renn | ch. 30, opening two sections (Skerry Pill) | 2,547 | 4.9% |
+| Rhea Sorn | ch. 31, last section (the Company yard) | 1,432 | 2.7% |
+| Anwen Pryce | ch. 32 (the Ropewalk, with Lyle and Carrow) | 1,159 | 2.2% |
+| Orla Dane | ch. 32 (the Board's printer, with Coombe) | 975 | 1.9% |
+| | **Cutaways** | **8,387** | **16.0%** |
+
+Inside the packet's 6,500–8,500 cutaway words and 84–87% Kiva. Every cutaway opens on its lens by name with a cue
+only that person has.
+
+### Final hashes (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| chapter-25.md | 1667b92288d75c9a1a60e04c3fe18cfbb97a91918708ff079af653d252bbbca9 |
+| chapter-26.md | 759d563af7d82b45247375150ea0b2e674bd5a3077bc6548c9e672c32b02b096 |
+| chapter-27.md | d00c10cf06ebbc86a2d704fb372b13345166ed906b67aa070233a913fbec92a2 |
+| chapter-28.md | ab304c343318c1703a9155ea4ab3019cc88a6525ab6558434c3352a71fa1c06e |
+| chapter-29.md | 4c4015080fe646a6390eefc11365426cde5a1bd7c46148fd3de30865c49aa4e1 |
+| chapter-30.md | 68adf8be9916736e4313cf21c71656200a6270f93fc510b8a7b229b698bc502c |
+| chapter-31.md | 36a6b355de3ad948e8384d54b7f8c2858e50dba0d23a6cafc61a8e5fb164d3d4 |
+| chapter-32.md | 1f137e9f86c09e1957d999c25ab1c72569eb07ec6c23e59dd55d4096eacabb04 |
+
+- Formula measures (sentence distribution, paragraph proxy, readability, progression and combat density,
+  development cadence) were written toward and **not measured** in the author run.
+- Files written by this run: `manuscript/chapter-25.md` to `chapter-32.md`,
+  `provenance/MOVEMENT-004-CHECKPOINT.md`, `provenance/MOVEMENT-004-CONTINUITY.md`, this entry, and the Movement
+  Four block of `STATE_LEDGER.md`. No other file was edited.

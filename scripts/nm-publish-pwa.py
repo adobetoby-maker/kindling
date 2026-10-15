@@ -23,8 +23,8 @@ ap.add_argument("--description", required=True)
 ap.add_argument("--note", required=True)
 ap.add_argument("--slug", required=True, help="build slug, e.g. national-measure-chapters-01-16-r2")
 ap.add_argument("--label", required=True)
-ap.add_argument("--date", default="2026.10.14")
-ap.add_argument("--released", default="14 October 2026")
+ap.add_argument("--date", default="2026.10.15")
+ap.add_argument("--released", default="15 October 2026")
 a = ap.parse_args()
 
 # 1. exact bytes

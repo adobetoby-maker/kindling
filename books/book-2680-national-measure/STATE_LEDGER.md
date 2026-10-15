@@ -664,3 +664,116 @@ hold against a twenty-minute quiet (C13). The brown-ink "temperature" line (C14)
 Whether the sentence targets govern dialogue. The front-load progression arithmetic. Accepted as departures at
 repair, per the brief: the Graving used as a seeding floor (C15) and Rhea's slate written out again (C16).
 See `provenance/MOVEMENT-003-REPAIR.md` §5.
+
+
+---
+
+## Movement Four block — chapters 25–32 (first draft, 2026-10-15)
+
+Status: **from first-draft prose, unreviewed.** Everything here is on the page of `manuscript/chapter-25.md` to
+`chapter-32.md`. The full record is `provenance/MOVEMENT-004-CONTINUITY.md`. If review or repair changes the prose,
+this block is corrected from the surviving text. Span: seven on Monday the 14th of the third month, 2681, to about
+midnight on Wednesday the 16th.
+
+### M4.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified**; one door declared at every board by her captain's voice: stood down from
+  the Bench (the Chair's condition); **stance** at the Carry; **Ember**, single, all day, at the Hunt.
+- **No crossing, no stack, no three-door this movement.** Three clean, unchanged. Hand to Ember and Ember to still
+  certified, one in seven days. **Left hand warm Mon, Tue, Wed (three mornings). Seventh crossing possible from
+  Thursday the 17th; Aske says the price first ("twice").** The two fingers as before.
+- **New: right hand**, a burn of cold across the knuckles and the backs of the first two fingers (Wed, Mallow
+  Creek, from a live skin on her Ember's fist). Greased, in linen; blister, peel by Sunday; "in a week you'll not
+  know it." Writes left-handed meanwhile.
+- **The pass in three used live for the first time** (Wed, Mallow Creek, on Yeo's word): Finch caught (her ward set
+  as "the nearest thing," letting the sleeve fold onto it), Rowan carried six paces low on her declared Ember,
+  **Trewin of the Tarn planted on the word**. It held. It saved Bridie Hebden; D. Penhale was already dead under
+  the skin.
+- **Yes/no log, a quarter to seven:** Mon the Inner Lock rail, yes; Tue a stave in a cooper's yard on Quay Street,
+  yes; Wed the leg of the reader's desk at the gate, yes.
+- **Her book:** a page torn from the back for the Bench rail (**the first ever torn out**; Pru keeps it). A new
+  seven-column sheet: *Before. D. Penhale… Stopped at three.* Ten sheets of Pike's craft and the pass sheet lent to
+  Ivey overnight Wed to copy.
+- **The disk:** cold. **The dream:** not recurred; known to nobody new; no fever. White lights: hers alone.
+- Knows the Proprietor wrote to Ysra Crest on Saturday the 12th for the sequence "in her hand" (Adlam, Mon).
+
+### M4.2 Team Seven
+
+- **Boards:** Bench **6th** (found 4:10; drained the jacket; stepped at 8:40, cells four and five, not the cell
+  tuned); Carry **1st** (3:08, clean; Cade up a twenty-two-rung ladder planting every rung on Rowan's *set*);
+  Hunt **15th** (3.15, no remarks). **After two: third (43). After three: ninth (53), one mark off the roll of
+  eight.**
+- **Standings after three:** 1 Halden License 65; 2 Old Four 64; 3 Holloway first 59; 4 the Ropewalk first 58;
+  5 Team Twenty-Eight 57; 6 Westerley first 56; 7 Westerley second 55; 8 Holloway second 54; 9 Team Seven 53;
+  10 the Ropewalk second 46. The Lane, in brackets, from Thursday.
+- **Perrin:** the seventh rib on the left **cracked across, not through** (Tue, the eleventh rung). Aske's card: no
+  plant, no lift, nothing heavier than a cup, a fortnight at the least. Stood down from the Hunt; captains from the
+  hard. Lifted Penhale's boards once at the spur, against the card.
+- **Pru:** stood the Bench and the Hunt; **all ten fingertips frosted** (Wed). Called the far edge once on Seven's
+  stow.
+- **Anwen:** drum; first wall laid on water (live). **Jude:** frosted left arm leaned on once at the Carry ("not
+  worse"); no draft made.
+- **The book:**
+
+| Line | Drams |
+|---|---:|
+| Carried, Mon 14th | 4.16 |
+| The Bench (Pryce 0.16, Finch 0.09, Cade 0.06) | −0.31 |
+| The Carry (Cade 0.22, Pryce 0.09, Talley 0.04) | −0.35 |
+| The Hunt, doors (Pryce 0.17, Talley 0.10, Finch 0.12) | −0.39 |
+| The Hunt, the four's quarter of 12.6 clean | +3.15 |
+| **Held** | **6.26** |
+| **Sealed medical (W, plain)** | **2.0, unopened, bound** |
+
+  Check: 4.16 − 1.05 + 3.15 = 6.26. Rowan's doors on her own thimble; Trewin's on the Tarn's book. Red-tagged from
+  the Hunt: 47.1 (net's tin 9.1; near-post bag 38.0), entered by Halden's clerk as *claimed under the patent*. The
+  sealed tin was asked about for Bridie's legs and **not wanted** (Aske: a burn, not a starved hand).
+
+### M4.3 Deaths, losses and injuries
+
+- **D. Penhale**, catcher, the Saltmere Company: **dead**, Mallow Creek, Wed 16th, about 12.45–12.50, under the far
+  end of a stow's sleeve, making the book's near-edge recovery. The Board records it.
+- **Maud Lyle**, the Ropewalk Hold: **ward gone, not shut**, entered by a lodger at the left ankle on Skerry Pill,
+  about 11.26. Stance remains.
+- **Bridie Hebden** (the Tarn, 15): both legs below the knee, a burn of cold; not to stand till Friday.
+- **Trewin**: both feet to the ankle, frost. **The Tarn's catcher** (unnamed): ankle, Tue.
+
+### M4.4 Other people
+
+| Person | State |
+|---|---|
+| **Yeo** | Officer at Mallow; told Bridie "by the book" it was ground; carries it. Decided the pass. *Remarks: none, to any four.* Wants Kiva's columns for her crew. |
+| **Ivey** (new) | Company catcher to Yeo's closing crew; copying Kiva's columns; means to have a second. |
+| **Coombe** | Drill at the causeway ("Who has your far edge?"). Had her page printed Wed night, headed with Penhale's name, by the Clerk's leave; out Thursday at five. |
+| **Rhea Sorn** | Hunt officer at Gannet Creek (*Lives: none*). With Yeo at the Company yard. One night left; card ends the 30th. |
+| **Pike** | "He had nobody at his far edge." |
+| **Mara Rowan** | Has **not touched a cell**. Decided Wed night: **thirty-six hands, taught by the 22nd, not hers**; Hart to teach the slack; she says *now* from the landing. |
+| **Jessamy Hart** | Showed Mara the springs dawn slack **held** (8th–11th: 6.12, 6.13, 6.13, 6.14) while the gate's table walked fifty minutes a day; at the neaps the basin walks with the table. Unexplained. |
+| **Peverell** | Writing her fitters' names. Penhale's mother washes in Ropery Row. |
+| **Juniper Carrow** | Shut her stance at the gate Wed at five: "I'm learning to declare." Edge only at the Lane. |
+| **Kellan Renn** | Cut the lodger on no officer's word (Bray's remark, his). Found Halden's clerk entering every red tag as *claimed under the patent of 2391* ("nine-tenths of the Hunt"). |
+| **Selka Dray** | Twenty-Eight won the Hunt. "That's three people… I've not changed my mind about you." |
+| **Trewin** | The third in the pass, on the word. Carry 3:12, planting every step. |
+| **The Proprietor** | Wrote to Crest (Sat 12th) for the sequence "on any terms she sets." |
+| **Noa, Polglase** | A hair on all gate pens at 12.44 Wed with nobody on the mast; the Tarn's stow turned at 12.44, seven minutes before the water. No line drawn. |
+
+### M4.5 Knowledge boundaries, changed
+
+| Fact | Now also known to |
+|---|---|
+| That Kiva dreams | **Nobody new.** |
+| The Proprietor's letter to Crest | Kiva, Orla (Adlam) |
+| The springs-held slack | Mara (from Hart) |
+| Mara's thirty-six | Peverell, Hart |
+| The 12.44 hair and the stow | Noa, Polglase, Kiva, Perrin |
+| Halden's claim on the red bags | Kellan, Kiva |
+
+### M4.6 New names (pending owner review)
+
+The Salt Hall; the Inner Lock; the Purser; Holloway; Westerley; the *Mercury*; Mallow Creek; Skerry Pill; Brine
+Reach; the spur; a stow; Bridie Hebden; Ivey; Ropery Row.
+
+### M4.7 Dates ahead
+
+Thu 17th: the Lane begins; Kiva's seventh crossing possible; Coombe's page out at five. Fri: the Harbour Committee's
+deadline. **Wed 23rd: the prediction opens at noon (dawn slack 6.09).** Rhea's card ends on the 30th.
