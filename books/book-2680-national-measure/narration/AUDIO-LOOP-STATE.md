@@ -122,3 +122,31 @@ Book Two chapter 1 with exact source/audio hashes. Full LFS audio HTTP 200 and
 SHA-256 passed, and byte-range playback returned HTTP 206. Duration: 41m 58.7s.
 `published.json` now records live verification. Notify first availability once;
 subsequent healthy render progress should remain quiet. Owner listening pending.
+
+## Heartbeat — chapter 2 live; targeted clarity rechecks
+
+- Chapter 2 uploaded automatically and is live: 2,464.4 seconds (41m 4.4s),
+  29,573,901 bytes. Live manifest and full media download SHA-256 verified as
+  `b26e0387a6aba44143a73157da0d9c7f6dd59d161212f79ab81f5bbc0bbef713`.
+  Chapter 3 is rendering under the single worker.
+- Chapters 10–12 completed preparation: 717 paragraphs, word locks and harness
+  validation passed. Later Opus anatomical fixes can invalidate chapter 11's
+  preparation: source-hash guard prevents stale audio. Recheck chapter 11 once
+  the pending hand-count repair report lands.
+- Chapters 8–9 were surgically repaired by Opus with eight word-level fixes;
+  Sonnet has already committed those changes (`05eb1ea`) and recorded new hashes.
+  Fresh Codex narration recheck active: shell session 73005, prompt
+  `RECHECK-08-09.prompt.md`, result `RECHECK-08-09.result.md`. It refreshes hashes,
+  prepared wording, reviews, direction and readiness only after verification.
+- Opus hand-count repair `98c8ed9c` is active for exact single-left-hand arithmetic
+  in chapters 11,14,15,19,24. Report
+  `provenance/AUDIO-HAND-COUNTS-REPAIR.md`. Do not overlap its source edits.
+- Chapters 13–15 preparation is queued behind that report (shell 81321), then
+  initializes a fresh run and Codex direction from repaired source. Prompt/result
+  `DIRECT-UNIT-13-15.{prompt,result}.md`. Source and hashes govern provisional
+  summaries. Continue chapter 11's targeted recheck before it can render.
+- The M5 editorial session `887082aa` was blocked on a penname-editor skill that
+  would switch review execution to Codex. Declined that tool and resumed the SAME
+  Opus session using the supplied O'Connor rubric/formula without substitution.
+  It is now working. Master showrunner and cold read remain active; no duplicate
+  review session was launched.
