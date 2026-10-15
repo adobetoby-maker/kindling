@@ -207,3 +207,26 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   override. No local GPU context model or duplicate audio renderer launched.
 - Live PWA audio remains chapters1–2. Per-chapter publication continues as soon
   as each technical candidate passes; no owner listening certification implied.
+
+## 2026-10-15 12:53 UTC — audio 3 live; targeted clarity accepted
+
+- Chapter3 pickup succeeded; all other takes preserved. Full live media download
+  SHA256 matches 77aac9800f8c30df8d30108a75f3a00aaab047ba3853f8c191adbab4f298737b;
+  live manifest matches and range request returns206. Duration2372.66s (39m33s),
+  max segment peak0.994232, decode/wordlock pass. Owner listening still pending.
+- Chapter4 completed but s190.wav has two PCM-rail samples, so held from publish.
+  Added bounded pickup handling to worker: preserves peak-flagged takes under
+  held-takes and rerenders only them once per attempt; still blocks publication
+  if rail remains. No masking by attenuation or time stretching. Syntax checked.
+  Restarted only parent55205 as83718 (shell85592), preserved active chapter5
+  renderer4346. Worker waits for5 before recovering4; no competing MLX model.
+- Opus6754e4fb and fresh Codex final recheck completed. FINAL-14-15-RECHECK.md
+  passes exact cumulative source11/14/15/19/24 and narration14/15. Ready markers
+  are current, all earlier ten hand fixes/cast preserved. Notified master8491a39c
+  to commit/publish exact five source files, three repair reports/frozen editions
+  and acceptance evidence with authorship at next safe publication step.
+- Codex16–18 complete:692 paragraph reviews, wordlock100%, no open blockers,
+  all3 ready. Initialized19–21, Codex director shell69872 now reading/directing
+  from repaired19 and rolling context, prompt DIRECT-UNIT-19-21.prompt.md.
+- M6 reviews both complete; master Sonnet consolidating max3 priorities for
+  same-author repair, then whole-book review. No duplicate writing job launched.

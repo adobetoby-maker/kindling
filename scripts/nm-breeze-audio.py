@@ -174,9 +174,30 @@ def process(directory, number):
     preparation = json.loads((directory/'preparation-review.json').read_text())
     if not preparation:
         raise RuntimeError('Preparation evidence missing')
-    with (directory/'render.log').open('a') as output:
-        subprocess.run([str(PYTHON), str(RENDER), str(directory), 'directed'],
-                       stdout=output, stderr=subprocess.STDOUT, check=True)
+    # A PCM-rail warning needs a new take, not gain reduction disguising it.
+    # Preserve every accepted checkpoint and allow just one bounded pickup pass.
+    for attempt in range(2):
+        with (directory/'render.log').open('a') as output:
+            subprocess.run([str(PYTHON), str(RENDER), str(directory), 'directed'],
+                           stdout=output, stderr=subprocess.STDOUT, check=True)
+        flagged = []
+        for segment in segments:
+            take = directory/'breeze-directed'/f"{segment['id']}.wav"
+            audio, rate = sf.read(take, dtype='float32')
+            if rate != 24000 or audio.ndim != 1 or not len(audio) or not np.isfinite(audio).all():
+                raise RuntimeError(f'Invalid segment waveform: {take.name}')
+            if float(np.max(np.abs(audio))) >= 0.9999:
+                flagged.append(take)
+        if not flagged:
+            break
+        if attempt == 1:
+            raise RuntimeError('Possible clipping remains after one pickup: ' + ', '.join(p.name for p in flagged))
+        held = directory/'held-takes'
+        held.mkdir(exist_ok=True)
+        stamp = time.time_ns()
+        for take in flagged:
+            take.rename(held/f'{take.stem}.possible-clipping-{stamp}.wav')
+        log(f'chapter {number}: preserved {len(flagged)} peak-flagged takes; retrying only those segments')
     parts = []
     peak = 0.0
     for segment in segments:
