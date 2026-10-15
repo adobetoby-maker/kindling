@@ -276,3 +276,29 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   edition/archive step is necessary; do not silently reuse old segment WAVs
   after changing direction. New unrendered stale tracks remain protected by
   source-hash check. No duplicate GPU renderer, author or paid API invoked.
+
+## 2026-10-15 15:50 UTC — manuscript closed; final-edition audio continues
+
+- Sonnet8491a39c DONE. All48 accepted after whole-book repair/recheck plus
+  bounded second repair:325933 words. Final confirmation is
+  provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md with exact per-chapter hashes.
+  Published PWA1.18.46 main46fa504; source5fe08e9 plus records. Existing
+  owner-level choices remain honestly recorded, not silently resolved by audio.
+- Opening refresh completed after actual acceptance: chapters1/3 fresh ready;
+  chapter2 unchanged. Preserved461 WAVs, held3 changed takes plus1 unverified
+  orphan; old audio/publication/direction frozen. Local published markers1/3
+  moved recoverably, so worker will pick up just those passages after current7.
+- Chapter6 live and full media/manifest SHA256 verified,
+  sha0c8e6594ff22ed05ca84968b28ca94547c332dbbd1398b36f671a256a0b47858;
+  duration2560.72s, range206. Owner/perceptual listening pending. Single renderer
+  6558 continues7; supervisor83718 healthy. No GPU duplicate.
+- Queued sequential Codex final-edition refresh shell35679 for units7–9,
+  13–15,16–18,19–21,22–24. Each reads full3chapter context, checks final accepted
+  source, freezes old artifacts, preserves unchanged chapter/take bytes and
+  validates before releasing ready markers. It cannot render or publish.
+- Codex new25–27 direction shell50175 runs independently in its own unit from
+  accepted hashes and final repair records. No prose author substitution.
+- Next: verify replacement1/3 publication when worker returns to them; check
+  refreshed unit results and prepare28–30 then remaining rolling units. Stop
+  using stale source hashes from pre-whole-book preparation. Continue perchapter
+  publication and objective QA; never claim complete human listening.
