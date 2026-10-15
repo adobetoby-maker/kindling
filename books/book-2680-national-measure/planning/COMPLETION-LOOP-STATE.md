@@ -82,3 +82,14 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Blockers: none.
 - Next: when M3 lands: parallel informed editorial+formula review and fresh cold read; consolidate; freeze;
   same-author repair; fresh recheck; publish; then Movement 4 brief from surviving prose.
+
+## Update 2026-10-15 00:25 MDT — Movement Three drafted; reviews running
+
+- M3 author job `21a609b3` DONE (runtime-reported claude-opus-5-5): ch 17–24, 54,482 words, no output-limit
+  interruption. Kiva 82.5%, cutaways 17.5% (Anwen, Orla, Rhea, Mara, Kellan). Frozen read-only
+  `editions/movement-003-first-draft/` (hashes match author's record).
+- ACTIVE CHILDREN: informed editorial+formula review `b4e11087` (-> `provenance/MOVEMENT-003-EDITORIAL-REVIEW.md`,
+  script `provenance/tools/m3_metrics.py`); manuscript-only cold read `884bf82e`
+  (-> `provenance/MOVEMENT-003-COLD-READ.md`). Prompts: planning/OPUS-5.5-MOVEMENT-003-{EDITORIAL-REVIEW,COLD-READ}.prompt.md.
+- Publishing M3 first draft to PWA labeled draft (chapters 1–24), then supervising reviews.
+- Next: consolidate (max 3), repair prompt, same-author repair, fresh recheck, publish repaired, then Movement 4 brief.

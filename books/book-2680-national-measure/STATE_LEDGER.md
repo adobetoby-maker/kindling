@@ -513,3 +513,134 @@ second month, 2681, to Saturday the 28th, on a river barge south of the Sag ferr
 The gate: Tuesday the 1st of the third month, three days after the 28th. The Bench: Monday the 14th.
 The fifth and sixth hand-to-Ember crossings go at the gate mast, one in seven days. Rhea's last two nights in
 the third month; her card ends on the 30th.
+
+---
+
+## Movement Three block — chapters 17–24 (first draft, 2026-10-14/15)
+
+Status: **from first-draft prose, unreviewed.** Everything here is on the page of
+`manuscript/chapter-17.md` to `chapter-24.md`. The full record is `provenance/MOVEMENT-003-CONTINUITY.md`.
+If review or repair changes the prose, this block is corrected from the surviving text. Span: Monday the
+30th of the second month, 2681 (the coast boat), to seven on Monday the 14th of the third month.
+
+### M3.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified**; one door declared at every board **by her captain's voice**.
+- **Hand to Ember: six of six, certified** by Orla Dane on Thursday the 10th in the Chair's ledger (four at
+  Meridian, two at the Saltmere gate mast, read by N. Bexley). **Two crossings certified**: Ember to still;
+  hand to Ember. One in seven days at most.
+- **Fifth** (Thu 3rd, 0.31) — cold to a hand below the elbow; warm Sun 6th at seven: **three nights.**
+  **Sixth** (Thu 10th, 0.30) — cold to **the elbow, an ache in the joint**; warm **Mon 14th at seven: four
+  nights.** Aske: the reach is at the elbow; he wants it warm on more than one morning before a seventh;
+  **Thursday the 17th is the soonest.** Aske says the price before each crossing.
+- **The notch** at the Saltmere gate mast follows a **single** cliff: **seven seconds** (fifth), **six**
+  (sixth), on every pen. Meridian: eleven, after a second cliff only. Unexplained; "a coast thing."
+- **The two fingers:** say *keeps time* everywhere in Saltmere; say **nothing at slack** (Gannet Creek; the
+  basin grating) and report the slack's end before the water moves. **Hart's method begun:** same question,
+  same hour (a quarter to seven), yes or no; first entry Sun 13th: yes.
+- **The disk:** cold every time, including on the Proprietor's table. Fourth-column lines for both crossings.
+- **Fever, Friday the 11th** after the Counting House: to 112, broke about three; **no dream.** Aske's card:
+  *Fever, the second this year. Both near a Glory master, within the day.*
+- **Near the Proprietor her pulse falls to his count (57)** and her Ember and still door want to fall in; she
+  held them shut.
+- **The dream:** not recurred; **known to nobody new.** The ferry detail of lights "gone white" is **Kiva's
+  alone** (not told to Mara). "Unroofed Sky" and "Breach" do not appear.
+- **Refused** the Proprietor's request for the three-door on a Halden mast (price: forty drams to Seven's
+  book; a seat on his roll at a Torch's wage). **Three doors: three clean; not done.**
+- **Not done:** Ember-to-still crossing; stack; the handed crossing live (one yard rehearsal only).
+
+### M3.2 Team Seven
+
+- **Seeded twelfth of twenty-four** (*won one, lost two; twelve for, sixteen against*): lost 2–7 to the
+  Ropewalk first four (Wed 2nd); won 6–4 against the Ropewalk second four (Sat 5th); lost 4–5 to the Tarn
+  first four (Sat 12th, Pru catching; Kiva stood down on her healer's card).
+- **Seeding board on the page:** 1 the Ropewalk first four; 2 Halden License; 3 the Tarn first four; 6 Old
+  Four; 9 Team Twenty-Eight; 12 Team Seven; 15 the Ropewalk second four.
+- **Corrections:** "make it walk" (a laid person must unlay to move and is nothing for a count; their catcher
+  calls *run* / *lay*); Pru watches hands, Kiva feet.
+- **The book:**
+
+| Line | Drams |
+|---|---:|
+| Carried, the 30th of the second month | 6.23 |
+| Lanes 1–3 (0.43, 0.40, 0.42) | −1.25 |
+| The captain's reading at the gate (Tue 8th) | −0.09 |
+| Hand to Ember, the fifth and sixth | −0.61 |
+| The handed crossing on a yard, borrowed still door (Finch 0.12) | −0.12 |
+| Refused: 12 drams for the sealed plain (Adlam, Thu 10th) | 0.00 |
+| **Held** | **4.16** |
+| **Sealed medical (W, plain)** | **2.0, unopened, bound** |
+
+  Check: 6.23 − 2.07 = 4.16. On the page: 4.70 (Thu 10th), 4.28 (Sun 13th), 4.16 (Jude's entry). The
+  per-line split of lanes and the reading is the author's reconciliation. The sealed tin was declared by Kiva
+  and combed at the gate (W full, I silent).
+- **Injuries:** Jude out of the sling for lanes only; shin still limps. Perrin's ribs as before.
+
+### M3.3 The ch. 13 thread — retired
+
+Perrin's stance at Anwen's back, read at his request on the sanctioned gate mast with two readers (Tue 8th):
+**one line.** Noa: not Rowan's; **not a stack under any rule** (a stack is one person's); "The tape does not know
+the difference. The lodger did." Entered by the Clerk **"in no circuit's column."**
+
+### M3.4 Rules and rulings
+
+- Dray's rule read the Ropewalk's lays as one line; Noa entered "a stack… an incident." **The Clerk's ruling
+  (Tue 8th):** readings stand as readings; incidents are for the candidate's own circuit; **a lay is entered in
+  the Saltmere column and is not an incident for host candidates**; Meridian's conditions bind Meridian; all
+  readings under the rule are posted for the draft boards.
+
+### M3.5 Saltmere and the harbour
+
+- **The Hoop:** a grey ring that rises from the basin mud ten paces from the outfall grating at each spring
+  low-water slack and lies down when it ends; inside it held water trembles **four and four at the bank's
+  count**; while it stands the basin is otherwise **quiet by Hart's hand**. A hand high on the 26th of the ninth
+  month; 4 ft 1 in a fortnight before; **4 ft 6½ in on the 8th and 9th of the third month.**
+- **The basin's slack lags the sea gate's table by twenty-three minutes.**
+- **The Saltmere keeper's entry for the 11th of the third month, 2604** (found by Peverell): a ring a hand high at
+  the outfall; a keeper's fever, two nights; "no roof… nothing over… not empty… not dark. Something was
+  attending"; **the refinery's (Halden's, stepped) lamps on the Long Quay went white and stayed lit; the low
+  town's went out**, half an hour. Known to Peverell, Mara, Kiva.
+- **The prediction (sealed Fri 11th, received 10.07 at the Board's press, opens noon Wed 23rd):** slack at
+  6.09 (6.07–6.12), 18–22 minutes; the ring at 4 ft 11 in (not less than 4 ft 10); water inside at the bank's
+  count, 57 or faster; nothing else in the basin keeping any count. Hart and Rowan; witnessed Peverell, Yeo;
+  watched written, Rusk.
+- **The Step is quickening** (Adlam's bench books): a stepped row fell in at 48 a minute (2402, 2431), 50 in
+  2604, 55 in the ninth month of 2680, **57** now; **the harbour bank beats 57.**
+- **Coast craft on the page:** cut only at the slack; walls laid flat on water as a boom; purses with
+  drawstrings; "a kiddle" (seven posts; works the flood and the ebb; stands at slack; can shed uncut).
+
+### M3.6 Other people
+
+| Person | State |
+|---|---|
+| **Mara Rowan** | At Saltmere since Wed 2nd with Rusk. Has not touched a cell. Sealed the prediction with Hart. Shown the 2604 entry to Kiva only. |
+| **Jessamy Hart** | Met (Fri 4th). Right hand turned out at the Regional's Bench; aches near anything keeping time; quiet at slack; book of slacks. Met Orla once, badly (Sun 6th). Saw Kiva's lips count. |
+| **Orla Dane** | Certified the second crossing. Read the ferry line; did not ask. Told Kiva herself that the meeting with Hart went badly. |
+| **The Proprietor (Ambrose Halden)** | Says he is 103; a bench clerk in the Counting House in 2604; **a fever that night**; saw stepped lamps go white and the low town's go out. **Left hand on the foundation cell's glass case since 2611.** People near him fall into his count. Saw the plate (watch vote **four hands, three fists**: shown in her own hand if she chooses). Asked for the three-door; refused; "glad you said no." |
+| **Mr. Adlam** | Bench books; offered 12 drams for the sealed plain; took no. |
+| **Rhea Sorn** | Went short on the coast night by her card (half a rung, a remark under her name); spring's advice given; **one night left** before the 30th. |
+| **Pike** | Dressings off Fri 4th; fingers close halfway; took far edge and voice at dawn; Kiva's second in the yard on the 13th. |
+| **Pru Finch** | Stayed on the coast night; caught lane 3; watches hands. |
+| **Jude Talley** | Met Yeo ("not yet"); saw the Hoop. |
+| **Anwen Pryce** | Warned Maud Lyle about the lodger and Wenna; taught her the far-end walk. |
+| **Perrin Cade** | Declares for Kiva; asked for the reading; wants a second plant; Trewin rehearsed once. |
+| **Kellan Renn** | Dined with the Proprietor; gave only the record; told Kiva. Halden License seeded second. |
+| **Selka Dray** | Walking without her stick by the 14th. Unpersuaded; "That's fairer." |
+| **New** | Polglase (reader); Juniper Carrow, Maud Lyle, Tolver, Treen (the Ropewalk first four); Wenna; Peverell (met); Davy Penhale (Company catcher); Bray (Company closing officer); Trewin (Tarn captain, still door); Quiller (chandler); the Clerk of the Measure (unnamed). |
+
+### M3.7 Knowledge boundaries, changed
+
+| Fact | Now also known to |
+|---|---|
+| That Kiva dreams | **Nobody new.** |
+| The ferry's "gone white" | Kiva only. |
+| The Saltmere 2604 entry | Peverell, Mara, Kiva. |
+| The Proprietor's 2604 fever and lamps | Kiva, Perrin, Orla. |
+| Kiva's fevers near Glory masters (no content) | Aske, Pru, Orla, Perrin; Kellan saw. |
+| Orla and Hart met, badly | Orla, Hart, Kiva. |
+| What Hart dreamed, if anything | Nobody; Kiva did not ask. |
+
+### M3.8 Dates ahead
+
+The Bench, Mon 14th (Kiva not at the Bench); the Carry, Tue 15th; the Hunt; the Lane, 17th–19th. **Soonest
+seventh crossing Thu 17th.** **The prediction opens at noon on Wed 23rd.** Rhea's card ends on the 30th.

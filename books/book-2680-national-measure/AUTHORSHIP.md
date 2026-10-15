@@ -347,3 +347,101 @@ committed or pushed by the author. The run stops here for movement review.
 - **Movement Two is accepted as editorial context for Movement Three.** All review, cold-read and
   recheck passes were simulated by the same model family; none is human reader feedback or independent
   testing. Formula sentence targets were not reached (see the confirmation file).
+
+## Movement Three, first draft — 2026-10-14/15
+
+- Status: **chapters 17–24 drafted in full as one continuous run. First draft. Not reviewed, not
+  cold-read, not scored, not repaired, not committed, not pushed, not published.** Chapter 25 was not
+  begun.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude
+  Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier
+  `claude-opus-5-5`.** This is what the runtime states; it cannot be verified independently from inside
+  the session. No subagent, other model or delegated worker wrote or edited any prose or record. No codex
+  or OpenAI call was made.
+- Session: Claude Code background job `21a609b3` (job directory `~/.claude/jobs/21a609b3`); remote session
+  `session_01BT5vnbR1vrfRhnEx9kWXaa`. Run began 2026-10-14 about 23:28 MDT and ended 2026-10-15.
+- Brief: delivered in-session as the compiled Movement Three prompt. On inspection its text matches
+  `planning/OPUS-5.5-MOVEMENT-003.prompt.md`, SHA-256
+  `902d5abb0415d5085f422d4649df2e5797a28e6b27e5e96bb8ade94812d3d6b8` (formula source hash in the file
+  `9f97e2f2…30c0b8`). No byte comparison of the delivered text was possible.
+- Packet: `packets/MOVEMENT-003.md`, SHA-256
+  `0222de7d30398320368842900b68307a6181655b55ed11ffb60e7026bdc85b85`.
+- Edition: first draft. Isolation: worked in place in the git worktree
+  `/Users/drive/kindling-2680-book-02` on branch `codex/kindling-2680-book-02`; no commit made.
+- Sources read before and during drafting: chapter 16 (supplied); `STATE_LEDGER.md` (Movement One and Two
+  blocks); `provenance/MOVEMENT-002-CONTINUITY.md` and `MOVEMENT-002-REPAIR.md` (opening sections);
+  `BOOK_MAP.md`, `CHARACTERS.md`, `UNIVERSE_BIBLE.md`, `OWNER_BRIEF.md` (as supplied in the brief);
+  targeted reads of Book Two chapters 2–4 (Hart's cards, the Saltmere parcel), 13 (the license floor) and
+  14 (the van night); targeted searches of the Book One manuscript (`books/book-2680-opening/manuscript`)
+  for Hart's injury (ch. 8), the 2604 entries (chs. 8, 47), the patent and the notch (chs. 26, 32, 46),
+  the watch's vote (chs. 32–33) and Dray's rule (chs. 40, 48). New names checked against both books'
+  manuscripts, planning and provenance files and `universe/NAME_REGISTRY.md`. Nothing from the research
+  corpus.
+- A continuation checkpoint (`provenance/MOVEMENT-003-CHECKPOINT.md`) was written after chapter 18 as a
+  precaution; no output limit intervened. It is superseded by `provenance/MOVEMENT-003-CONTINUITY.md`.
+
+### Word counts (`wc -w`, headings included)
+
+| Chapter | Title | Words |
+|---|---|---:|
+| 17 | Kiva: Thirty-Six Cells | 7,120 |
+| 18 | Kiva: Laid | 8,055 |
+| 19 | Kiva: The Fitter with the Watch | 7,577 |
+| 20 | Kiva: Slack Water | 7,090 |
+| 21 | Kiva: Read | 6,578 |
+| 22 | Kiva: Six of Six | 5,810 |
+| 23 | Kiva: The Proprietor | 6,517 |
+| 24 | Kiva: Twelfth of Twenty-Four | 5,735 |
+| | **Movement Three** | **54,482** |
+
+Inside the packet's 50,000–56,000 working length. Seventy-nine sections; about 690 words a section.
+
+### Viewpoint counts (by section)
+
+| Lens | Section | Words | Share |
+|---|---|---:|---:|
+| Kiva | all other sections | 44,930 | 82.5% |
+| Anwen Pryce | ch. 18, last section (the Ropewalk, with Maud Lyle) | 1,398 | 2.6% |
+| Orla Dane | ch. 19, last two sections (the book; Hart) | 1,872 | 3.4% |
+| Rhea Sorn | ch. 20, last two sections (Gannet Creek at dawn) | 2,022 | 3.7% |
+| Mara Rowan | ch. 21, the outfall and the keeper's room | 2,429 | 4.5% |
+| Kellan Renn | ch. 22, the Counting House | 1,831 | 3.4% |
+| | **Cutaways** | **9,552** | **17.5%** |
+
+Kiva 82.5% is inside the packet's 82–85%. **Cutaways are 52 words over the packet's 9,500 ceiling**;
+recorded, not trimmed. Every cutaway opens with the lens's name and a cue only that person has. No new lens.
+
+### Chapter hashes at the end of the run (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| chapter-17.md | 10ba1df428873aa4af1af6803c9b7a158a170a3fdbe5312fce300ef734c66eb6 |
+| chapter-18.md | c127a92fe598bc7adbaa808ba79043639d2c63ceea21488dd5e99007bcec4e7f |
+| chapter-19.md | 1bcae8cd72b0d3cfda26488bd0ab056fa1abbf8241bc589195522bdb65e1c469 |
+| chapter-20.md | 060c1ed51019dafe20597748b5a251bdba520e714d52c69ab3d277cc60166170 |
+| chapter-21.md | 0a553d0113deec7a0cb886fb06b4ac65a74844e3dbec1c694e2bb35deef57a5a |
+| chapter-22.md | 791249a2fc7b3d25179f677b67c4962e551922d0b5e6b5820e1381824ae11997 |
+| chapter-23.md | 08c050d7d770f8e42b80dd5a2f944a7ba39e6469c35ce25b3f34cb5a05c7a8d3 |
+| chapter-24.md | 37b3f9017ce4a4ff3dc9c998f87fa933a03c6122b8bdf9f30f48cf18eb67cc68 |
+
+### In-run corrections
+
+Blocking contradictions only, by exact-string edit, listed in `provenance/MOVEMENT-003-CONTINUITY.md` §0
+(Dray's rule origin; Hart's injury and Orla's knowledge; Kiva's silence on the coast night; two name
+collisions found at the end, Admiral → Commodore and Bet → Wenna; small date and figure slips). None is a
+review or repair.
+
+### Formula
+
+Written toward the owner's numerical formula (mid-band narration sentences, short beats, short paragraphs,
+scene breaks, middle-third progression density, distributed development beats). **No measure was run in the
+author run**, as instructed; compliance is for the movement review. Known before measurement: section breaks
+run more frequent than the formula's ~950-word scenes.
+
+### Plan departures (detail in the continuity file §14)
+
+Crossings on Thursdays the 3rd and 10th (Aske's "soonest"); Pru caught lane 3 after Kiva's Friday fever; the
+Proprietor states a 2604 fever (no dream); a second fever without a dream near a Glory master; the Hoop and a
+2604 ring a hand high; the notch after a single cliff (seven, then six seconds); the Step quickening 48 → 57;
+cutaways 52 words over ceiling.
