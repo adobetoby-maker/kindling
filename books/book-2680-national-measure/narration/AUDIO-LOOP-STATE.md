@@ -92,3 +92,25 @@ accepted manuscript in rolling three-chapter units as writing progresses.
 - Writing: Movement Three is repaired/rechecked and published, bringing accepted
   text to chapters 1–24. Opus Movement Four drafting job `9f1bbf7e` is active under
   Sonnet showrunner `8491a39c`; no duplication or intervention is needed.
+
+## Heartbeat — first chapter uploaded; publication repair
+
+- Chapter 1 rendered: 241 segments, 2,518.7 seconds (41m 58.7s), approximately
+  140.57 spoken words/minute. Input word-lock and full MP3 decode passed; peak
+  0.98859; 5ms edge fades. Owner/perceptual listen remains pending.
+- Upload initially failed because `git lfs clean` accepts a positional path,
+  not `--filename`. Fixed the worker and uploaded the existing MP3 without
+  regenerating it. Source/audio hashes match the review. The 30,225,357-byte
+  public GitHub LFS media download was verified in full against SHA-256
+  `1e2564541848a7bfbab01a6bb1cb3a502c34084808e05778e74c3171616dba27`.
+- PWA manifest publication commit `3453a07663d160d1fb675dedb37620b619755d7c` is
+  deploying. Verify live manifest before notifying first audio availability.
+- Preserved the active chapter 2 renderer when replacing only its supervisor.
+  New worker PID 29640, shell session 46110; chapter 2 renderer PID 97270.
+- Chapter 7 is prepared. Chapters 8–9 are held for located wording issues;
+  surgical Opus repair `9ab8514b` is active, prompt
+  `planning/OPUS-AUDIO-CLARITY-08-09.prompt.md`. Report expected at
+  `provenance/AUDIO-CLARITY-08-09-REPAIR.md`. Verify report/joins, publish exact
+  repaired source, refresh prepared hashes and Codex recheck before readiness.
+- Chapters 10–12 Codex preparation is active, shell session 53555, prompt
+  `DIRECT-UNIT-10-12.prompt.md`, result `DIRECT-UNIT-10-12.result.md`.

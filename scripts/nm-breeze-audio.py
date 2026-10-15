@@ -41,7 +41,10 @@ def save(path, data):
 
 
 def log(message):
-    print(f'{dt.datetime.now(dt.timezone.utc).isoformat()} {message}', flush=True)
+    line = f'{dt.datetime.now(dt.timezone.utc).isoformat()} {message}'
+    print(line, flush=True)
+    with (QUEUE/'pipeline.log').open('a') as output:
+        output.write(line + '\n')
 
 
 def words(text):
@@ -84,7 +87,7 @@ def publish(number, source, mp3, duration, report):
     rel = f'audio/{BOOK_ID}/local-breeze-directors-cut/chapter-{number:02d}.mp3'
     audio = mp3.read_bytes()
     # Respect kindling's *.mp3 Git LFS policy without touching the author's index.
-    cleaned = subprocess.run(['git', 'lfs', 'clean', '--filename', rel], input=audio,
+    cleaned = subprocess.run(['git', 'lfs', 'clean', rel], input=audio,
                              cwd=ROOT, capture_output=True, check=True).stdout
     if not cleaned.startswith(b'version https://git-lfs.github.com/spec/v1\n'):
         raise RuntimeError('Expected a Git LFS pointer for MP3 publication')
