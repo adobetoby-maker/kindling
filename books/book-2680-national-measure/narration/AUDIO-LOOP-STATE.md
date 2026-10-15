@@ -302,3 +302,23 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   refreshed unit results and prepare28–30 then remaining rolling units. Stop
   using stale source hashes from pre-whole-book preparation. Continue perchapter
   publication and objective QA; never claim complete human listening.
+
+## 2026-10-15 16:54 UTC — final refreshes complete; next clarity loop
+
+- All sequential refresh tasks completed successfully:8/9,13–15,16/17,19–21,22.
+  Unchanged7/18/23/24 preserved, no invented WAV pickups. Inventory verifies all
+  ready1–25 source hashes current; no stale ready tracks. 26/27 correctly blocked.
+- New25–27 reading reviewed602 paragraphs. 25 ready. Found two concrete defects
+  beyond prior whole-book review:26 thirteenth-run arithmetic says after eleven;
+  27 top hauler is simultaneously at foot holding head. Punctuation cannot fix.
+- Authenticated Opus5.5 c8ca0232 handles ONLY26/27 plus recoverable frozen edition
+  and AUDIO-CLARITY-26-27-REPAIR.md. Prompt OPUS-AUDIO-CLARITY-26-27.prompt.md;
+  no broad novel rewrite or model substitution. Fresh Codex recheck shell49569
+  waits for report, then independently validates and refreshes26/27, preserving25.
+  Requires explicit source-publication verdict/addendum; do not publish unchecked
+  changes or pretend whole-book acceptance hashes already include them.
+- Initialized28–30; Codex director shell94701 reads/directs accepted source in
+  its own unit with explicit Breeze override. Preserve separate26/27 author.
+- Single renderer6558 continues7 (last s~160); supervisor83718 healthy. Final
+  opening1/3 pickup markers await its next loop. Live1–6 remain available, with
+  old1/3 explicitly pending replacement. No new media upload since last check.
