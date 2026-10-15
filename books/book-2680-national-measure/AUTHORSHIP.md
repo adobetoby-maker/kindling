@@ -1151,3 +1151,8 @@ Opus5.5 job7c9c2be6 subsequently corrected only chapter37's called names to matc
 the executed head/foot positions. Exact frozen source, repair and independent
 Codex recheck are retained; placement acceptance addendum supersedes that hash,
 with zero word-count change. Codex orchestrated/checked and wrote no novel prose.
+
+Opus5.5 job64f974d4 authored the bounded physical-continuity corrections40/41.
+Exact prior source, repair, independent Codex recheck and hash supersession
+are retained; cumulative total325940. No Codex manuscript prose or human/audio
+approval is implied. Separate44/45 findings are not accepted by this record.

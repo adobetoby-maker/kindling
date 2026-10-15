@@ -224,7 +224,7 @@ Kiva stood up on the second bench. She did not decide to. Her knees decided.
 
 "Your lips counted," said Thrale, down the length of the dock, "when you read her. The sister wrote it down. I've thought about it since the summer. I said at my house that I'd not decided what I thought." She looked at Kiva across three hundred paces of stone with her grey eyes, which did not search. "I've decided. I think you were counting the roads. I think that's all. I think it's a good thing to count, and a hard one to stop."
 
-She turned and walked out of the Graving by the seaward ramp, with the two sisters a step behind her, and the empty cart left standing by the gate, and the thirty-six jars on it in their straw.
+She turned and walked out of the Graving by the seaward ramp, with the two sisters a step behind her, and the cart left standing by the gate, and the thirty-six jars on it in their straw.
 
 The town's count came back up through the bench to where it always was. And the heat in her hands, which she had held off for an hour as she held her face, came up all at once, now that there was nothing left to hold it for, like water when a hand is taken off a pipe.
 

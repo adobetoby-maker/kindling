@@ -288,7 +288,7 @@ They went on. They went through the planks name by name, who had which door and 
 
 What was nearest to a cask full of water, it turned out, was a cask full of water.
 
-The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop. Then they nailed a board across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful.
+The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. Boards had been nailed across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop.
 
 "It's not right," said Brask, looking at it. "It's got a bottom."
 
@@ -316,7 +316,7 @@ On the next pass it was the carry. Treen and Pru and Marten and Yarrow, the catc
 
 "It held," said Treen.
 
-"It held because it's a tun with a board nailed under it." Kiva heard her own voice and made it plainer. "The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page." She did not look at Coombe. "The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to."
+"It held because it's a tun with boards nailed under it." Kiva heard her own voice and made it plainer. "The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page." She did not look at Coombe. "The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to."
 
 Treen did not answer. But she had gone, Kiva saw, a little pale under the wind-brown.
 

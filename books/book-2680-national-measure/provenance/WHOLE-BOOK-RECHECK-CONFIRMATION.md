@@ -117,3 +117,21 @@ is AUDIO-PLACEMENT-37-REPAIR.md. This supersedes only37's historical hash:
 `c39b066241dc7c1027d462ee855c59303805f5fd14eb0062ead5ee0f738afc21`.
 Chapter37 remains6629 words, delta0; total325943. No plot/power/injury/outcome
 changes, owner decisions, human feedback or listening approval are implied.
+
+### Physical clarity addendum — 2026-10-15 23:08 UTC
+
+Opus5.5 job64f974d4 corrected the loaded cart's contradictory adjective in40
+and the rehearsal tun's missing-bottom/filling order in41, including its later
+plural-board reference. No scene/outcome/power change. Independent Codex source
+and both-join recheck passes (AUDIO-PHYSICAL-40-41-RECHECK.md); prior source and
+actual repair provenance are frozen/retained. These supersede only40/41 hashes:
+
+| Chapter | Current words | Current accepted SHA-256 |
+|---:|---:|---|
+| 40 | 7,971 | `bcad51d91d6ca13904beaaae4d30f92c4b0c693533c9dbac83d9cc246d48f38d` |
+| 41 | 7,229 | `260de2fc655313a0cc45dde3581ab6a52ff0b40f5d707adedeb449c89a6f58ae` |
+
+Total325940 words (−3 from the previous addendum). Word-locked narration was
+separately refreshed/validated. This is source acceptance, not human feedback
+or audio listening approval.44/45 findings are still in a separate author/check
+loop; this addendum does not pre-accept those moving source files.
