@@ -4,7 +4,7 @@ There were twelve juniors on the Old Yard at half past six on Tuesday morning, i
 
 "You stamp on one," said Kiva. "All together. Then you lean, on two, toward the sheds. Back on three. And four's a stamp, but lighter. Like this."
 
-She did it. She did it badly, because her knee was strapped and she had never in her life marched in step with anybody; but they watched her the way juniors watch a second-year, with their mouths a little open, and when she had done it twice they did it after her, and on the third time the twelve of them came down on the frozen dirt together with a crunch like a cart going over gravel.
+She did it. She did it badly, because her knee was strapped and she had never in her life marched in step with anybody. But they watched her the way juniors watch a second-year, with their mouths a little open. When she had done it twice they did it after her, and on the third time the twelve of them came down on the frozen dirt together with a crunch like a cart going over gravel.
 
 "That's horrible," said the sandy-voiced one, with great satisfaction. "Do it again."
 
@@ -20,7 +20,7 @@ They were put in three files of four, each file a husk, with a junior at the fro
 
 "You'll know. You'll be stamping when it comes."
 
-Jude stood at the north end of the lane with a broom handle in his fist for an edge. He was still limping. The Wren House had put a white salve on the burn and bound it, and it had stiffened in the night, and he moved like a man getting out of a cold bath; but he had come up the hill at six without being asked and stood on the frost waiting, and when Kiva asked whether he ought to be on his feet, he said that a Kill who couldn't stand on a Tuesday wasn't going to be much use on the twelfth.
+Jude stood at the north end of the lane with a broom handle in his fist for an edge. He was still limping. The Wren House had put a white salve on the burn and bound it, and it had stiffened in the night, so that he moved like a man getting out of a cold bath. But he had come up the hill at six without being asked and stood on the frost waiting. When Kiva asked whether he ought to be on his feet, he said that a Kill who couldn't stand on a Tuesday wasn't going to be much use on the twelfth.
 
 Perrin stood on the shed step with nothing in his hands.
 
@@ -42,7 +42,7 @@ The file sat down. It sat down so suddenly that two of them sat on each other, a
 
 *One. Two. Three,* said twenty-four lips, under twelve breaths.
 
-Then the middle file stamped. The right-hand file stamped half a beat after it. And for perhaps four counts there were two husks on that yard that were not keeping time with each other at all, one heavy and one late, stamping and leaning and treading on their own heels; and Kiva, who was on her knees on the north side with a cloth on her shoulder and no ash under it, felt something in her chest go tight and glad.
+Then the middle file stamped. The right-hand file stamped half a beat after it. And for perhaps four counts there were two husks on that yard that were not keeping time with each other at all, one heavy and one late, stamping and leaning and treading on their own heels. Kiva, who was on her knees on the north side with a cloth on her shoulder and no ash under it, felt something in her chest go tight and glad.
 
 "There," she said. "Look. They've each found a count, and it isn't the same one."
 
@@ -120,7 +120,7 @@ Pru threw the cloth. Jude, limping, slung a sandbag onto the far hem before Gera
 
 "*Dark! One!*"
 
-Kiva had the left hem. She said nothing. She was looking down the lane at the far edge, where Dilys stood grinning with her corner, and the far edge did not lift, because it had a hundredweight of sand lying across it.
+Kiva had the left hem, and said nothing. She was looking down the lane at the far edge, where Dilys stood grinning with her corner, and the far edge did not lift, because it had a hundredweight of sand lying across it.
 
 "*Corners,*" said Pru, at her ten.
 
@@ -146,7 +146,7 @@ They looked at one another.
 
 "Talley, Cade," said Coombe. "You're the string. Take your hundredweight on its pole between you. Tie that sheet's top hem to your belts with a yard of cord, so that it trails behind you on the ground. Walk up the yard. Somebody cuts your rung when I say. Rowan's on the far edge. Go."
 
-It took them five minutes to rig. Jude and Perrin stood shoulder to shoulder with Gerald's pole across both their necks, like a yoke, and the sheet tied to their belts behind; and when they walked, the sheet came after them up the frozen dirt with a soft dry hiss, and the four sandbags that Jude had slung onto its far hem came with it, dragged, bumping, like a sledge.
+It took them five minutes to rig. Jude and Perrin stood shoulder to shoulder with Gerald's pole across both their necks, like a yoke, and the sheet tied to their belts behind. When they walked, the sheet came after them up the frozen dirt with a soft dry hiss, and the four sandbags that Jude had slung onto its far hem came with it, dragged, bumping, like a sledge.
 
 "Cut," said Coombe.
 
@@ -156,7 +156,7 @@ Pru let Gerald go. He came down behind them, on the sheet, as a rung comes down 
 
 And the string kept walking.
 
-It did not mean to. Perrin and Jude had been told to walk, and nobody had told them to stop, and so they went on, two paces, three, with the sheet tied to their belts; and the sheet went with them, and Gerald on it, and the sandbags along its far edge; and the whole lot slid up the yard toward the sheds, away from Pru's hands, away from Kiva's knee, like a tablecloth pulled off a table with the supper still on it.
+It did not mean to. Perrin and Jude had been told to walk, and nobody had told them to stop, and so they went on, two paces, three, with the sheet tied to their belts. The sheet went with them, and Gerald on it, and the sandbags along its far edge. The whole lot slid up the yard toward the sheds, away from Pru's hands, away from Kiva's knee, like a tablecloth pulled off a table with the supper still on it.
 
 "*Far edge!*" said Kiva. It came out of her before she knew. "It's going!"
 
@@ -168,13 +168,13 @@ Perrin and Jude stopped. Perrin looked over his shoulder at the sheet, a yard be
 
 "Oh," he said.
 
-"That's a rung gone," said Coombe. "On a moving thing, with your weight on its skin, you've pinned the skin, and the skin's tied to the thing, and the thing's walking. So your weight goes with it." She tied a knot. "On the Longshore we lost a cloth that way the first season. Then we lost a man's hand, the second, trying to get it back. It's the same lesson that your catcher learned on a wharf. A thing that folds from the far edge doesn't need to fold if it can walk away with the whole cloth."
+"That's a rung gone," said Coombe. "On a moving thing, with your weight on its skin, you've pinned the skin, and the skin's tied to the thing, and the thing's walking. So your weight goes with it. On the Longshore we lost a cloth that way the first season. Then we lost a man's hand, the second, trying to get it back. It's the same lesson that your catcher learned on a wharf. A thing that folds from the far edge doesn't need to fold if it can walk away with the whole cloth."
 
 Nobody said anything.
 
 Kiva was looking at the yard. She had been looking at it for some time, while the others looked at the sheet.
 
-The Old Yard was not flat. Nothing in Meridian was flat; the city was built on a hill, and every yard in it fell somewhere. This one fell toward the bottom wall. She had known it since the spring. She had stood on it a hundred times with her still door open, and she had felt it through the soles of her feet as one feels which way a ship is listing; a hand in ten paces, perhaps, down from the sheds to the wall, and the water that ran off it in a thaw ran down the lane and out under the wall through a drain the size of a fist.
+The Old Yard was not flat. Nothing in Meridian was flat; the city was built on a hill, and every yard in it fell somewhere. This one fell toward the bottom wall, and she had known it since the spring. She had stood on it a hundred times with her still door open, and she had felt it through the soles of her feet as one feels which way a ship is listing: a hand in ten paces, perhaps, down from the sheds to the wall. The water that ran off it in a thaw ran down the lane and out under the wall through a drain the size of a fist.
 
 On the wharf the ground had fallen south, a hand in two paces, to the river. Pike had read it with his heel. *If a rung runs here, it runs to the river.* And the white skin had lain downhill of the thing's legs, on the river side, where the rung would run.
 
@@ -182,15 +182,15 @@ On the wharf the ground had fallen south, a hand in two paces, to the river. Pik
 
 "Rowan."
 
-"Which way does the rung go? When it's cut. On a wharf, it ran downhill. On the cloth. Since the skin was downhill."
+"Which way does the rung go? When it's cut. On a wharf, it ran downhill, onto the cloth, because the skin was downhill."
 
-"The rung goes where rungs go," said Coombe. "Down, and then to the low side, while it's open. Your catcher said so. He's written it; it's in your columns."
+"The rung goes where rungs go," said Coombe. "Off a heavy edge, it falls away from the edge that cut it. Then down, and to the low side, while it's open. Your catcher said so. He's written it; it's in your columns."
 
 "Then the skin's only under the rung if it's downhill of the thing."
 
 "Yes."
 
-"And it's downhill if the thing's facing uphill. Since it trails behind."
+"And it's downhill when the thing faces uphill. The skin trails behind it."
 
 "Yes."
 
@@ -200,7 +200,7 @@ The Marshal did not say *yes.* She did not say anything. She looked at Kiva for 
 
 Pike was sitting on the crate with his bound arms on his knees, looking at the frozen yard. He was looking at it as Kiva had seen him look at a road, before he threw a cloth. His square grey face had gone very still.
 
-"Make it carry its own sheet uphill," said Coombe. "That's what we say on the Longshore. We've said it for three seasons. Nobody's written it down, and the Board's printer has a page of mine on it that it won't print until the Measure's over, in case it's wrong." She tied a knot. "How do you make a thing face downhill when it wants to face something else?"
+"Make it carry its own sheet uphill," said Coombe. "That's what we say on the Longshore. We've said it for three seasons. Nobody's written it down, and the Board's printer has a page of mine on it that it won't print until the Measure's over, in case it's wrong. How do you make a thing face downhill when it wants to face something else?"
 
 "You give it something to face," said Anwen.
 
@@ -226,7 +226,7 @@ Then she shut it.
 
 It took them the rest of the afternoon, and it cost Anwen two-tenths and more off the book.
 
-They rigged it again. Jude and Perrin were the string, with Gerald on his yoke and the sheet on its cords behind them; and this time Anwen brought a wall up in front of them, waist high, silver, across the lane at the shed end, and they walked up to it, as they had been told that a string would, and leaned their yoke on it.
+They rigged it again. Jude and Perrin were the string, with Gerald on his yoke and the sheet on its cords behind them. This time Anwen brought a wall up in front of them, waist high, silver, across the lane at the shed end, and they walked up to it, as they had been told that a string would, and leaned their yoke on it.
 
 Kiva opened her still door on the lane under her right heel, wide, by its corners, and felt the yard go down away from her toward the bottom wall, as plain as a stair.
 
@@ -254,7 +254,7 @@ The wall bent. It did not break. It bowed in the middle like a sail, and Anwen's
 
 "*Mine.*"
 
-It took a long time. It took, by Pru's turnip, two minutes and twenty seconds to walk a lazy string through half a circle on a frozen yard, and at the end of it Anwen was standing at the bottom end of the lane with her hands shaking and her wall in front of her, and Jude and Perrin were leaning their yoke on it, facing the bottom wall, and the sheet lay behind them on the frost on its cords, uphill, toward the sheds.
+It took a long time. It took, by Pru's turnip, two minutes and twenty seconds to walk a lazy string through half a circle on a frozen yard. At the end of it Anwen was standing at the bottom end of the lane with her hands shaking and her wall in front of her, and Jude and Perrin were leaning their yoke on it, facing the bottom wall, with the sheet lying behind them on the frost on its cords, uphill, toward the sheds.
 
 "*Stopped,*" said Anwen.
 
@@ -276,11 +276,11 @@ Pru tied. It was clean.
 
 "Again," said Coombe.
 
-They did it again. They did it five times in all, and it went wrong twice. Once Anwen's wall bowed so far that it broke in the middle and she had to bring it up again from nothing, and the string walked off south in the meantime, dragging its sheet, and Kiva had to say *far edge* and Coombe said *stop.* Once the turn went right and the cut was early, before Anwen had said *stopped,* because Pru's hand on the hoist had slipped; and the rung came down half on the sheet and half off, and lay across the near edge with its top on the skin, and Kiva looked at it and could not tell which way it would go.
+They did it again. They did it five times in all, and it went wrong twice. Once Anwen's wall bowed so far that it broke in the middle and she had to bring it up again from nothing, and the string walked off south in the meantime, dragging its sheet, and Kiva had to say *far edge* and Coombe said *stop.* Once the turn went right and the cut was early, before Anwen had said *stopped,* because Pru's hand on the hoist had slipped. The rung came down half on the sheet and half off, and lay across the near edge with its top on the skin, and Kiva looked at it and could not tell which way it would go.
 
 "*Far edge,*" she said. "I don't know. It's on the hem."
 
-"Then you don't throw," said Coombe. "You wait. You let it run, and you throw where it runs to. If it doesn't run, if it lies on the skin, you put your weight on the far edge and pray. Weight's not a mistake. Weight's what you do when the turn's failed." She tied a knot. "Your catcher's notion was a good one. It's the second line. It isn't the first."
+"Then you don't throw," said Coombe. "You wait. You let it run, and you throw where it runs to. If it doesn't run, if it lies on the skin, you put your weight on the far edge and pray. Weight's not a mistake. Weight's what you do when the turn's failed. Your catcher's notion was a good one. It's the second line. It isn't the first."
 
 On the fifth, it went as it had gone on the first.
 
@@ -306,11 +306,11 @@ Pike looked at his arms.
 
 "Was there a page," he said, "in your book, on it? When you had him?"
 
-"There was a line. *A hem that lies down is ground.* The same line as yours. It was the right line for forty years." Coombe tied a knot. "I've written a page. The printer has it. It says to make the thing carry its sheet uphill, and if that fails, to put dead weight on the far edge. It says the weight was Graywater's, by name, at a wharf below the Hythe. I had that off your Torch's slate. I don't steal."
+"There was a line. *A hem that lies down is ground.* The same line as yours. It was the right line for forty years. I've written a page. The printer has it. It says to make the thing carry its sheet uphill, and if that fails, to put dead weight on the far edge. It says the weight was Graywater's, by name, at a wharf below the Hythe. I had that off your Torch's slate. I don't steal."
 
 "The weight was a laundress's."
 
-"Then I'll have the printer put a laundress." For the first time Kiva saw something move in that weathered face, at one corner, and go again. "And the far edge?"
+"Then I'll have the printer put a laundress." For the first time Kiva saw the Marshal's hands go still on her rope. "And the far edge?"
 
 "The second has it," said Pike. "Two words, once. My Torch wrote that on a slate at four in the morning, and I've thought since that it was the best thing she ever wrote."
 
@@ -342,7 +342,7 @@ Anwen's head came up.
 
 ---
 
-Anwen Pryce went down to the Graywater hall yard that night at eight, alone, with her coat buttoned to the neck and her hands in her sleeves, and she did not tell anybody that she was going.
+Anwen Pryce went down to the Graywater hall yard that night at eight, alone, with her coat buttoned to the neck and her hands in her sleeves and the afternoon's wall still aching in both forearms. She did not tell anybody that she was going.
 
 The hall yard was lit under its one hooded lamp. Doran Mace had his line out on the cinders, as he had most nights that the van was not called: six wards in slate blue, Tibb and Stiles and Greta Stroud and three more, walking a wall along the length of the yard and back, slow, as a crew rows when the boat is going nowhere. She had walked forty paces of that wall in the first month. She knew how it went. She had not come for that.
 
@@ -402,7 +402,7 @@ Anwen stood very still.
 
 "I've no notion what you're talking about. I'm telling you how a wall turns." Mace had his board under his arm. "Try."
 
-She tried. She kept her feet where they were. She brought the far end of her wall round first, a hand, and then another, as one brings the far corner of a sheet over the top on a laundry table, with her arms wide; and the near end of the wall pivoted on its own foot, at her hip, and came round after, and Stroud's wall came with it, sliding, and Stroud said *oh* under her breath, and was turned.
+She tried. She kept her feet where they were. She brought the far end of her wall round first, a hand, and then another, as one brings the far corner of a sheet over the top on a laundry table, with her arms wide. The near end of the wall pivoted on its own foot, at her hip, and came round after, and Stroud's wall came with it, sliding, and Stroud said *oh* under her breath, and was turned.
 
 "Again," said Mace.
 
@@ -420,7 +420,7 @@ She went up the hill on the last tram with her arms aching to the shoulder and h
 
 She had not known that a wall could lead. She had supposed, without ever saying it to herself, that a wall was the thing that stood in front of the people who did.
 
-She thought that she might tell Kiva on Thursday, before the yard. She found that she did not want to wait until Thursday. She got off at Coper Street instead of going on, and went up the shop stair, and knocked.
+She thought that she might tell Kiva on Thursday, before the yard, and found that she did not want to wait so long. She got off at Coper Street instead of going on, and went up the shop stair, and knocked.
 
 ---
 
@@ -436,7 +436,7 @@ Kiva put down the pencil.
 
 Kiva looked at her.
 
-She looked at the brown coat, open, and the hair pinned for a ward line, and the hands that had stopped shaking at last; and she thought of a tool shed in the spring, and a girl who would not speak to her for six weeks, and a ward that had held at the end of a line on a hill while the litter went over.
+She looked at the brown coat, open, and the hair pinned for a ward line, and the hands that had stopped shaking at last. She thought of a tool shed in the spring, and a girl who would not speak to her for six weeks, and a ward that had held at the end of a line on a hill while the litter went over.
 
 "It isn't a thing I had," she said. "It's a thing nobody had. I read the ground. That's mine; I've a door that does it. The wall's yours. I never knew where a wall was leaning. I'd have had to ask you."
 

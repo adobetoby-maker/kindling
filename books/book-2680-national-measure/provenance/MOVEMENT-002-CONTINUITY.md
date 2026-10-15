@@ -6,6 +6,11 @@ Where this file and the manuscript disagree, the manuscript governs. This file i
 It carries forward `provenance/MOVEMENT-001-CONTINUITY.md` (as reconciled after the Movement One
 repair) and `STATE_LEDGER.md`; anything not restated here stands as recorded there.
 
+**Reconciled 2026-10-14 after the same-author consolidated repair** (`provenance/MOVEMENT-002-REPAIR.md`).
+Entries that the repair changed are corrected below to the surviving prose. Each is marked
+*(repair)*. Rechecked by a fresh-context Opus session (`provenance/MOVEMENT-002-RECHECK.md`), one further
+edit made, and accepted as editorial context 2026-10-14 (`provenance/MOVEMENT-002-RECHECK-CONFIRMATION.md`).
+
 Span: Sunday the 1st of the second month, 2681, to Saturday the 28th of the second month, on a
 river barge south of the Sag ferry. The next movement begins at Saltmere on Tuesday the 1st of
 the third month.
@@ -35,7 +40,7 @@ The second month: Sunday the 1st to Monday the 30th. The shed-door number is 44 
 | **Wed 4th** | Old Yard: Coombe watches the sheet drill; **"make it walk"** — the weight-first method fails when the string moves; Kiva sees the fall; **"make it carry its own sheet uphill"**; Anwen calls the turn. Pike on the crate. Night: **Anwen at the Graywater yard** (cutaway); Mace teaches the turn "from the far end." Anwen tells Kiva at the table. | 10 |
 | Thu 5th | Coombe at the pack drill: "Better. You've thought." Who hauls on a four. | 11 |
 | **Fri 6th** | **First van night:** a pack of three husks at the Brickfields tram sheds (stepped). Mace counts; Nairn and Rhea cut between; the last walks on a count of two for the bank house. Varley catches; Purvis throws the second cloth. Closed a quarter to eleven. | 11 |
-| **Sat 7th** | The Pit: **the lodger.** Kiva sent to the far gallery by Coombe. The lodger ignores a single lit cell, enters a laid pair, turns toward two Pit wards holding one sack together. Afternoon, Old Yard: *mine before yours* between Pru's ward and Kiva's Ember reads **one line** on the Low Lane's unsanctioned practice mast; a gap of a count and a third drops the cord; the call **"nobody."** Best: half a count. | 11 |
+| **Sat 7th** | The Pit: **the lodger.** Kiva sent to the far gallery by Coombe. The lodger ignores a single lit cell, enters a laid pair, turns toward two Pit hands holding one sack together *(repair: "Pit hands", not "Pit wards")*. Afternoon, Old Yard: *mine before yours* between Pru's ward and Kiva's Ember reads **one line** on the Low Lane's unsanctioned practice mast; a gap of a count and a third drops the cord; the call **"nobody."** Best: half a count. | 11 |
 | Sun 8th | **Hand to Ember, the second** (0.30). | 11 |
 | Mon 9th | **Kellan writes Seven down** for Pettit (cutaway). Aske: cold to the wrist at seven; warm at four. | 12 |
 | **Tue 10th** | **The Marshal's lane, Old Yard: Halden License beat Seven, six to two.** The tap correction in the third carry. Kellan tells Seven what he used. | 12 |
@@ -51,10 +56,10 @@ The second month: Sunday the 1st to Monday the 30th. The shed-door number is 44 
 | Sat 21st | Weighing and shares at the hut (night of the 20th). Carrier at noon. | 15 |
 | **Sun 22nd** | **Hand to Ember, the fourth** (0.30). | 16 |
 | Mon 23rd | Aske: cold to the middle of the forearm; card held. A purse sheet bought (2.40). Jude reads the month. Kiva's card to the Order; **Mara's letters** (cutaway): to Yeo, and to the Order. | 16 |
-| **Tue 24th** | The ash office: **Mrs. Ottery's "plain" jar, soot-cut; refused.** | 16 |
-| **Wed 25th** | Aske: warm at seven. **The road south** by carrier, round the Sag; Aske travels with Seven. Inn at dusk. | 16 |
+| **Tue 24th** | The ash office: **Mrs. Ottery's "plain" jar, soot-cut; refused.** Combed: silent on the seventh (genuine 2669 plain), **thin on the third** (cut with soot to about half). Not called a first on the page *(repair)*. | 16 |
+| **Wed 25th** | Aske: warm at seven. **The road south** by carrier, round the Sag; Aske travels with Seven. Inn at dusk. Perrin: "Nineteen"; Jude: "Tomorrow's eighteen" *(repair: was Twenty / nineteen)*. | 16 |
 | **Thu 26th** | Down off the Sag's south rim; **the house of the Even Hand** above the ferry; the sister from the Annick reading; supper at dusk; **Clemency Thrale.** The night under the house rule. | 16 |
-| **Fri 27th** | The tin: **1.2 plain, given;** both seals; signed. **The ferry at eight: fever; the dream.** A barge south by noon. | 16 |
+| **Fri 27th** | The tin: **1.2 plain, given;** combed by the sister: third full, seventh silent, which is the first comb since the thaw over *whole* plain ash *(repair)*; both seals; signed. **The ferry at eight: fever; the dream.** A barge south by noon. | 16 |
 | Sat 28th | Fever breaks at about four a.m. Salt on the wind. Perrin: "Sixteen." | 16 |
 
 Not on the page: Sunday the 29th and Monday the 30th (on the river and the coast boat, by the
@@ -105,12 +110,21 @@ is the station transit on the 28th (Movement One).
   under its captain's name. D. Coombe, Marshal.*
 - **One hunt on its own entry,** under Cade (section 6).
 - **Lost the Marshal's lane to Halden License, six to two.**
-- **Injuries carried:** Jude, left shin burned to the knee by a husk's breath (the 2nd; limping into
-  the hunt) and **left arm frosted to the elbow** at the mill (the 20th; "a breath, not taken"; in a
+- **Injuries carried:** Jude, left shin burned to the knee by a husk's breath (the 2nd; Coombe said
+  "limp till Thursday"; still limping into the hunt, which the page now remarks: "outlasted Coombe's
+  Thursday by a fortnight" *(repair)*) and **left arm frosted to the elbow** at the mill (the 20th; "a breath, not taken"; in a
   sling by Mrs. Garside). Perrin's ribs "tell him things" when he lifts or drags. Anwen: no injury.
 - **Equipment:** Pru's own purse sheet (her name on the pole) **frosted to the weave** at the mill and
-  replaced by a new sheet without pole (2.40); she keeps the frosted one. One cord frosted and thrown
-  away. Mrs. Pryce's grey double is the drill sheet. Perrin carries Coombe's knotted rope.
+  replaced by a new sheet without pole (2.40); she keeps the frosted one. *(repair)* Who carried and
+  threw which cloth at the mill:
+  - Kiva went down with two cloths, Seven's and Pru's own. She threw Seven's over the first heap, and
+    Pru's, crooked, over the race lip (the second bag): that is the sheet that was lost.
+  - Pru carried Mrs. Pryce's grey double down on her back. She threw it over the third heap, and the
+    third bag was tied on it.
+  - The double is no longer "left at the hut".
+
+  One cord was frosted and thrown away. Mrs. Pryce's grey double is the drill sheet. Perrin carries
+  Coombe's knotted rope.
 - **New responsibilities, by their own choices on the page:**
   - **Perrin** counts on any floor where a thing keeps time and hauls nothing while he counts; says
     which count when a pack splits; hands the count by *yours/mine;* the tap and the shoulders; opens
@@ -134,7 +148,9 @@ is the station transit on the 28th (Movement One).
 - **Method:** catch (Pru's ward under the cord on its slack, one tap, folded to a penny) → **"nobody"**
   (one word, short, called by Kiva) → carry (Kiva's declared Ember takes the penny; four paces east,
   low) → **"nobody"** called from the air → plant (Perrin's still door, opened on the end of the word,
-  without waiting to see her land). The yard rig is the ninth month's hill: a cord from Gerald on the
+  without waiting to see her land). The yard rig is the Pit of the ninth month, over again (a corner
+  pinning Selka Dray; the page said "the hill" until the repair, but the hill was Stopgate, in the
+  tenth month): a cord from Gerald on the
   hoist to a ring in the south wall pins a sandbag in a hat; the cord is moved four paces east and
   planted.
 - **Readings (Low Lane mast, unsanctioned, Noa's notebook only):** overlap: one line, "on a sanctioned
@@ -157,12 +173,18 @@ is the station transit on the 28th (Movement One).
    a walking thing goes with it) → drill (turn it so the skin trails uphill; the wall leads; the
    catcher reads the fall) → pressure (the license floor: south-west, not south, since the race; the
    Corn Exchange: no fall, so Rhea cut from behind). Weight on the far edge is "the second line."
+   *(repair)* Coombe, the 4th: "Off a heavy edge, it falls away from the edge that cut it. Then down,
+   and to the low side, while it's open." This plants the rule Rhea uses on the 17th.
    Coombe's page with the Board's printer, not to be printed until after the Measure, credits the weight
    to Graywater/a laundress and gives the far edge to **the second, as a place.** A Longshore catcher who
    stood on a skin is a lock-keeper at Hollins.
 3. **An entering form ("a lodger,"** the coast crews' name). A cord without a string. Ignores a single
    lit cell; **enters a laid pair** (both cells quenched); turns to **two people's unlike doors on one
-   thing** (a ward under and a stance on a sack); lies down when one comes off. A Ropewalk girl with two
+   thing** (a ward under and a stance on a sack, held by two Pit hands); lies down when one comes off.
+   *(repair)* On the license floor, Coombe on why she lets one loose near Kiva five days after keeping
+   it away: "On Saturday I kept one off Rowan to teach a rail. This isn't teaching. It's a license,
+   and the Longshore won't keep its lodgers away from her to suit a card." On that floor, Anwen's
+   ward on Kiva's still door is named as two unlike doors, "not a plank" (a plank is two still doors). A Ropewalk girl with two
    laid doors on the flats in the eleventh month is "one door now. She was two." Coombe: "I don't know
    why. I know where it went." Killed on the floor by a cut along its length; it went to ash at once
    both ways.
@@ -180,16 +202,19 @@ is the station transit on the 28th (Movement One).
   back off the wheel; Jude's second cut closed and he was frosted. Perrin and Pru shut the hatch (Perrin
   planted to break the ice in the ring; Pru, reserve, pulled, did not light); Anwen took the count
   ("yours/mine"). Wheel stopped; pack lost its count; Jude cut two more out of time; Anwen turned the
-  last so it fell uphill. One heap ran partly into the race over Kiva's crooked second cast. Bags sealed
-  47 (Pru), 63 (Pru; frosted cloth), 51 (Pru, on her own sheet).
+  last so it fell uphill. One heap ran partly into the race over Kiva's crooked second cast (Pru's own
+  sheet, carried by Kiva). Bags sealed 47 (Pru), 63 (Pru; frosted cloth), 51 (Pru, on Mrs. Pryce's
+  grey double) *(repair)*. **Tallies as now on the page** *(repair)*: Jude, five cuts (four at the mill,
+  one at the kiln); Pru, four cords tied.
 - **The kiln husk:** sitting, legs folded, no frost round it; Kiva's fingers: nothing, pulse 70–72.
   Jude's question; Vane: loose things come down in the thaw; Kiva: "for a hand… I'm not to be trusted
   about it." Jude cut; it came apart without leaning; Pru sealed at 52.
 - **Comb (Vane):** all four **ward, full; trace** on the seventh. **Nothing plain.**
 - **Weights and grades:** 13.8 (First); 12.6 (Second; some lost to the race; cloth frosted); 14.7
   (First); 18.1 (First, the kiln). **59.2 clean.**
-- **Shares (as Mara gave them, and Vane weighed):** civic half, 29.6; casualty reserve an eighth, 7.4;
-  the Line an eighth, 7.4; the Board an eighth (on a hunt card; "new this year"), 7.4; **the four an
+- **Shares (as Vane weighed them at the hut; Mara's earlier explanation is reduced on the page to "If
+  it's quiet, it's a hand"** *(repair)***):** civic half, 29.6; casualty reserve an eighth, 7.4;
+  the Line an eighth, 7.4; the Board an eighth (on a hunt card), 7.4; **the four an
   eighth, 7.40.**
 - Garside did not stop his wheel for the Line; Perrin shut the hatch "under my name" and offered the
   license; Garside will not send to anybody. "You might have knocked."
@@ -198,7 +223,10 @@ is the station transit on the 28th (Movement One).
 
 ## 7. Ledgers
 
-**Team Seven's book (Jude keeps it; read aloud in full on Monday the 23rd).**
+**Team Seven's book (Jude keeps it; read aloud on Monday the 23rd).** *(repair)* On the page, that
+reading now quotes only the opening totals, the sheet, the closing totals and the room left for the
+24th. The other lines are summarized, not restated. Every line below remains on the page where it
+was first entered.
 
 | Date | Entry | Held |
 |---|---|---:|
@@ -218,7 +246,7 @@ is the station transit on the 28th (Movement One).
 | Fri 20th | The four's eighth of 59.2 clean | +7.40 → 8.93 |
 | Sun 22nd | Hand to Ember, the fourth | −0.30 → 8.63 |
 | Mon 23rd | A purse sheet, no pole, to replace Finch's | −2.40 → **6.23** |
-| Tue 24th | Offered: "plain" ward-trace, half a dram, for 2.5; combed, soot-cut; **refused** | 0.00 |
+| Tue 24th | Offered: "plain" ward-trace, half a dram, for 2.5; combed: silent on the seventh, thin on the third; soot-cut to about half; **refused** | 0.00 |
 
 Check: spent 10.81; credited 7.40; 9.64 − 10.81 + 7.40 = **6.23.** Crossings: 1.22 of the 1.8 line.
 **Spoken for:** two crossings at the gate, about 0.60. **Uncommitted: 5.63** (Jude: "every door that
@@ -226,7 +254,9 @@ four people light on four boards"). No call reserve is entered.
 
 **Sealed, medical, W, plain: 2.0** — 0.8 (off a husk on the Sag in the fourth month, 2680) + **1.2 given
 at the house of the Even Hand on Friday the 27th**, "to make good what eased M. Rowan's hand." Combed by
-the sister in the courtyard: the third reed sang; **the seventh did not.** Under both lines in the book,
+the sister in the courtyard: the third reed sang full; **the seventh did not.** *(repair)* The page now
+calls this the first comb since the thaw over ash "that was whole and plain". The ash-office jar on the
+24th was plain but soot-cut, and is not called a first. Under both lines in the book,
 in Jude's hand: *For a hand. Not for a bank, a floor, a crossing or a sale.* Signed by Cade and Rowan;
 the Order's book signed by the sister. Two seals on the tin (Seven's, and the Order's grey: two hands
 laid flat). Thrale: "you will be offered a great deal" for it; if ever spent otherwise, "I'd want to be
@@ -262,7 +292,7 @@ bags (the 12th). **Red, untouched:** everything carried in.
 | **Pettit, Yarrow, Hesketh** | Halden License; Pettit: "We didn't ask you because we thought you'd say no." |
 | **Orla Dane** | Saw four crossings. Will not sign at four or five. **Going south by the Circuit's transit with the officers;** means to find Hart and "not use her to say it." **Kiva has not been told on the page.** |
 | **Ysra Crest** | Ledger entry for the fifth and sixth at the gate mast (section 2). |
-| **Mara Rowan** | **Wrote to Yeo: will come in the first week of the third month, by the Works' transit, with Examiner Rusk; "I will not promise to read your bank."** Has not told Kiva on the page. Answered two of the Order's six questions (content not on the page); wrote that the other four are Kiva's. Explained hunt shares from Rusk. Still cannot read the tide table against Hart's six minutes. |
+| **Mara Rowan** | **Wrote to Yeo: will come in the first week of the third month, by the Works' transit, with Examiner Rusk; "I will not promise to read your bank."** Has not told Kiva on the page. Answered two of the Order's six questions (content not on the page); wrote that the other four are Kiva's. On the hunt she says only "If it's quiet, it's a hand" (the share rule from Rusk was cut in repair). Still cannot read the tide table against Hart's six minutes. |
 | **Healer Aske** | Travelling south with Seven by road; counted the fever all night; knows a fever recurred, not what came with it. |
 | **Hollis Vane** | Witness at Cowl Edge; "That was a good hunt." |
 | **Noa Bexley** | Read every crossing and every rehearsal; the question line in his notebook; going south with Dray's rule (as before). |
@@ -278,7 +308,7 @@ Checked by search against `manuscript/`, `planning/`, `provenance/` and the root
 (`universe/NAME_REGISTRY.md` was not present on this machine): **Garside** (miller), **Mrs. Ottery**
 (widow), **Cowl Edge** (the scarp north of the Sag), **Hollins** (a canal lock on the coast; named only).
 Unnamed: the carrier; the sister of the Even Hand; Mrs. Garside and her children; the Wren House man at
-the Pit; two Pit wards; the bargeman; the ferryman. Terms: **"a lodger"** (the coast crews' name for the
+the Pit; two Pit hands; the bargeman; the ferryman. Terms: **"a lodger"** (the coast crews' name for the
 entering form, per Coombe); **"the handed crossing"** (Jude's); **"nobody"** (the call); **"the tap"**;
 **"make it carry its own sheet uphill"** (the Longshore's saying, per Coombe); **"bog"** (Coombe's chalk
 squares).
@@ -295,7 +325,8 @@ squares).
 4. **Coombe's "one floor a four" is the license trial.** The demonstration floors (the pack, the lodger)
    were hers, charged to Seven only for the doors that Seven lit; their yield was the Board's.
 5. **The hunt-share rule** (civic half; reserve, Line, Board, four an eighth each on Line ground under a
-   hunt card) is the author's, given by Mara from Rusk as "new this year."
+   hunt card) is the author's. *(repair)* On the page it is now stated only by Vane at the weighing.
+   The attribution to Rusk and "new this year" were cut with Mara's explanation.
 6. **The license changes the stake on the page:** "under its captain's name"; no officer takes a remark
    for them. Perrin's name is over the mill's hatch.
 7. **The Order's gift binds the reserve:** *for a hand; not for a bank, a floor, a crossing or a sale.*

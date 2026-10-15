@@ -10,7 +10,7 @@ The carrier put them down at the foot of Cowl Edge at a quarter to three on Thur
 
 The Edge stood up over them in the grey afternoon like the side of a house.
 
-Kiva had never seen it. She had heard of it all her life, as one hears of the sea: a long gritstone scarp on the north side of the Sag, sixty feet high in places, black, with a fringe of dead bracken at its foot and heather on its top; and below it, to the south, the whole country fell away into the great shallow bowl of the Sag itself, where the Line kept its oldest watch. From the lane she could see the bowl's far rim, twelve miles off, blue, with the road to the coast going round it like a thread round a cup.
+Kiva had never seen it. She had heard of it all her life, as one hears of the sea: a long gritstone scarp on the north side of the Sag, sixty feet high in places, black, with a fringe of dead bracken at its foot and heather on its top. Below it, to the south, the whole country fell away into the great shallow bowl of the Sag itself, where the Line kept its oldest watch. From the lane she could see the bowl's far rim, twelve miles off, blue, with the road to the coast going round it like a thread round a cup.
 
 The Line's hut stood at the Edge's foot, where a path went up through a cleft in the rock. It was built of the same black stone, with a turf roof and one window, and there was smoke coming out of its chimney.
 
@@ -52,7 +52,7 @@ Vane's finger went the other way. North, up the moor, away from the gills and th
 
 "It's gone away from everything," said Kiva.
 
-"It's gone as far from everything as there is on this ground," said Vane. "There's no house within three miles of that kiln. No lamp, no wheel, no water but a spring. There's sheep. It's not touched a sheep." He looked at her for the first time. "I've been on this moor thirty years, and I've never seen a thing come off a tear and go *up.* They come down. They go to houses. They go to lamps and wheels and drains and banks. That one went up and sat down."
+"It's gone as far from everything as there is on this ground," said Vane. "There's no house within three miles of that kiln. No lamp, no wheel, no water but a spring. There's sheep. It's not touched a sheep." He looked at her for the first time. "I've been on this moor since the Line first gave me a slate, and I've never seen a thing come off a tear and go *up.* They come down. They go to houses. They go to lamps and wheels and drains and banks. That one went up and sat down."
 
 Kiva found that she had put her left hand flat on the map, on the brown ink of the moor, and she took it off again.
 
@@ -70,13 +70,13 @@ Kiva lay awake for a long time that night on the hut's plank bench, with Pru asl
 
 She was thinking about a wheel.
 
-She had stood on a pavement on the Brickfields road in the tenth month with her palm on a flagstone and felt a push that came, and then a long nothing, and then came again; and it had been a pump, two hundred paces off, driving the water under the street, and the drum that her aunt had filled had fallen in with it. She had stood on the setts outside the tram sheds a week ago and watched a pack walk for a bank house on a count of two.
+She had stood on a pavement on the Brickfields road in the tenth month with her palm on a flagstone and felt a push that came, and then a long nothing, and then came again. It had been a pump, two hundred paces off, driving the water under the street, and the drum that her aunt had filled had fallen in with it. She had stood on the setts outside the tram sheds a fortnight ago and watched a pack walk for a bank house on a count of two.
 
 Everything in this country that came off a tear went toward something that kept time. A string had gone to a drain. A pack had gone to a bank. A cell joined to a bank by nothing but water had fallen into step with it. Three husks were walking down a gill toward an eighteen-foot wheel that turned all night.
 
 And one had gone the other way.
 
-She did not know what that meant. She was very careful, lying on the plank with her eyes open in the dark, not to decide what it meant. She had seen her aunt not decide things for a whole autumn, at a kitchen table, with a pencil, and she had learned how it was done; one wrote down what had happened, and left the square at the end white, and waited.
+She did not know what that meant. She was very careful, lying on the plank with her eyes open in the dark, not to decide what it meant. She had seen her aunt not decide things for a whole autumn, at a kitchen table, with a pencil, and she had learned how it was done. One wrote down what had happened, and left the square at the end white, and waited.
 
 She only knew what she wanted it to mean. She wanted it so much that it frightened her.
 
@@ -90,7 +90,7 @@ She only knew what she wanted it to mean. She wanted it so much that it frighten
 
 They went down the gill in the grey before sunrise, with the frost on the bracken and their breath going up, and they found the husks' track before they had gone a quarter of a mile.
 
-It was a line of white. Each print was three small round marks, set wide, like the feet of a milking stool, frosted into the dead grass so hard that they crunched under a boot; and there were three lines of them, side by side, and every third print in each line was deeper than the others.
+It was a line of white. Each print was three small round marks, set wide, like the feet of a milking stool, frosted into the dead grass so hard that they crunched under a boot. There were three lines of them, side by side, and every third print in each line was deeper than the others.
 
 "Stamp," said Perrin, crouching. "That's the one. Every fourth step, they've stamped." He counted along the line with his finger. "One, two, three, *four.* That's light. They're stamping light on four. Like the Pit."
 
@@ -98,9 +98,9 @@ It was a line of white. Each print was three small round marks, set wide, like t
 
 "Up here. They had their own count up here." Perrin stood up and looked down the gill, where it went into trees. "We'll see what they've got at the bottom."
 
-They went down in the order that they had settled at the hut, by Perrin's word, and nobody argued. Anwen went first, because a wall wanted to be in front. Then Perrin, with nothing in his hands. Then Kiva with a cloth on each shoulder and her left hand in her coat, and Jude behind her on his bad leg, which was better, and Pru last, with the cords and the spare poles and the comb in a bag. Vane came after all of them, a long way back, with his scale on a strap; Kiva did not hear him once.
+They went down in the order that they had settled at the hut, by Perrin's word, and nobody argued. Anwen went first, because a wall wanted to be in front. Then Perrin, with nothing in his hands. Then Kiva, with a cloth on each shoulder, Seven's and Pru's own, and her left hand in her coat. Then Jude on his bad leg, which had outlasted Coombe's Thursday by a fortnight and was better; and Pru last, with Mrs. Pryce's grey double rolled on her back, and the cords and the spare poles and the comb in a bag. Vane came after all of them, a long way back, with his scale on a strap; Kiva did not hear him once.
 
-The gill went down steeply through birches and then through oaks, with the beck loud beside it, white over black stones. The light came up grey. At the bottom of the trees the gill opened out into a small steep valley with the beck going down the middle of it in a cut of its own, and fields either side, and walls; and at the foot of the valley, a quarter of a mile off, there was a stone building with a slate roof and a chimney smoking, and against its end, black and wet and turning, a wheel.
+The gill went down steeply through birches and then through oaks, with the beck loud beside it, white over black stones. The light came up grey. At the bottom of the trees the gill opened out into a small steep valley with the beck going down the middle of it in a cut of its own, and fields either side, and walls. At the foot of the valley, a quarter of a mile off, there was a stone building with a slate roof and a chimney smoking, and against its end, black and wet and turning, a wheel.
 
 Kiva heard it before she could see it properly. It was a deep slow sound under the noise of the water, a creak and a heavy wet slap, over and over, as the buckets came round and emptied.
 
@@ -146,7 +146,7 @@ He went down to the yard gate, and the others went after him, and he stood at th
 
 "Talley."
 
-"Three knots. They're close together. I'll cut the near one first, the one by the house." Jude scratched his jaw. "On your *and.*"
+"Three knots. They're close together. I'll cut the near one first, the one by the house. On your *and.*"
 
 "On the wheel's *and,*" said Perrin. "It's theirs now. I'll count it." He took a breath that Kiva heard. "Finch, you're on the rail with the cords and you don't light. Witness."
 
@@ -314,7 +314,7 @@ Kiva got up off the hem of the second, where it hung over the race's lip, and we
 
 "*Finch!*"
 
-Pru came down the bank at a run with her own sheet off her shoulder, Mrs. Pryce's grey double having been left at the hut, and threw it over the heap from three paces, flat, at the first cast.
+Pru came down the bank at a run with Mrs. Pryce's grey double off her back, and threw it over the heap from three paces, flat, at the first cast.
 
 "*Dark! One!*" said Pru. "I'm not lighting. I'm only saying it."
 
@@ -328,11 +328,11 @@ The second, on the race's lip, was not. When they drew the corners in, the canva
 
 "It's the cloth," said Vane. He had come down into the yard at last with his scale. "That sheet's frosted to the weave. It'll not draw again." He held up the stiff grey corner of it to the light. "I'd not throw that on anything. I'd not lie on it."
 
-It was Pru's sheet. The one with her own name on the pole.
+It was Pru's sheet, the second that Kiva had carried down. The one with her own name on the pole.
 
 She looked at it. She did not say anything for a moment, and then she said, quite steadily, "It's a sheet. It was always going to be a sheet."
 
-The third bag was clean. Pru tied it on her own cloth at fifty-one.
+The third bag was clean. Pru tied it on the grey double at fifty-one.
 
 Vane combed them on the mill's doorstep with the comb from Pru's bag. He held it over each neck in turn, with his head on one side, and Kiva stood beside him with her hands in her coat and listened.
 
@@ -342,9 +342,9 @@ On each the seventh sang under it. It was very faint, a high thread of a note, l
 
 "*Ward,*" said Vane. "*Full. Trace.*" He said it three times. "Clean, the three. They'll count. I'll weigh them at the hut."
 
-Kiva had known that they would sing. She had known it since the field, since the moment she saw three husks in a yard keeping a wheel's time; she had known it at the hut, at the map, when Vane said *Garside's mill,* and she had known it on the tram in the first month, when Kellan said that it had all had the hair since the thaw. She did not mind it. It was what the pack was. They had come for the pack because it was going to hurt somebody, and they had killed it, all three, and there was a child at a mill house window with a woman's hand on her shoulder who was going to go to bed that night in a house that nothing was standing outside.
+Kiva had known that they would sing. She had known it since the field, since the moment she saw three husks in a yard keeping a wheel's time. She had known it at the hut, at the map, when Vane said *Garside's mill,* and she had known it on the tram in the first month, when Kellan said that it had all had the hair since the thaw. She did not mind it. It was what the pack was. They had come for the pack because it was going to hurt somebody, and they had killed it, all three, and there was a child at a mill house window with a woman's hand on her shoulder who was going to go to bed that night in a house that nothing was standing outside.
 
-They had killed well. She knew it, and she let herself know it, standing on that doorstep with the frost on her boots. A pack that kept a wheel's time had been broken by stopping the wheel, and a count had gone from the captain to the Hold without a gap, and a wall had walked a thing round so that it fell uphill; and every one of those things had been a word on a sheet in a kitchen a fortnight ago, and none of them had been hers.
+They had killed well. She knew it, and she let herself know it, standing on that doorstep with the frost on her boots. A pack that kept a wheel's time had been broken by stopping the wheel, and a count had gone from the captain to the Hold without a gap, and a wall had walked a thing round so that it fell uphill. Every one of those things had been a word on a sheet in a kitchen a fortnight ago, and none of them had been hers.
 
 The miller came out of his door while Vane was writing. He was a big grey man in a leather apron with his sleeves rolled, and he looked at the stopped wheel and the hatch shut at the head of his race and the white sheet of water going over it back into the beck, and then he looked at Perrin.
 
@@ -356,7 +356,7 @@ The miller came out of his door while Vane was writing. He was a big grey man in
 
 "I know you did," said Perrin. He had gone red; he did not stop. "They were keeping its time. We couldn't break them while it turned. I shut it. Under my name." He took the license out of his coat, folded, and held it out, as though the miller might want to read it. "That's my name. If you want to send to anybody about the cloth, you'll send to me. T7. Cade."
 
-The miller looked at the paper. He did not take it. He looked at the bag on his doorstep, and at Jude, sitting on his own kitchen bench through the open door with his white arm in Mrs. Garside's lap and a bowl of warm water, and at the child's face at the window.
+The miller looked at the paper and did not take it. He looked at the bag on his doorstep, and at Jude, sitting on his own kitchen bench through the open door with his white arm in Mrs. Garside's lap and a bowl of warm water, and at the child's face at the window.
 
 "I'll open my hatch when you've gone," he said. "I'll not send to anybody." He went back in. At the door he stopped. "You might have knocked."
 
@@ -374,11 +374,11 @@ They went up onto the moor at one o'clock, the five of them and Vane, with two s
 
 "I know I will. I'm telling you that I can."
 
-The moor was not like the gill. Kiva had never been anywhere like it. Once they were up over the lip of the Edge, by the cleft behind the hut, it went away in front of them in every direction, brown and grey and flat and enormous, under a sky that was the same color all the way round, with no tree on it and no wall and no house; and the wind came across it without anything to stop it, from the north, and went through her coat as though she had not got one on. There were patches of old snow in the hollows. There were sheep, far off, that lifted their heads and watched them go by and put them down again.
+The moor was not like the gill. Kiva had never been anywhere like it. Once they were up over the lip of the Edge, by the cleft behind the hut, it went away in front of them in every direction, brown and grey and flat and enormous, under a sky that was the same color all the way round, with no tree on it and no wall and no house. The wind came across it from the north without anything to stop it, and went through her coat as though she had not got one on. There were patches of old snow in the hollows. There were sheep, far off, that lifted their heads and watched them go by and put them down again.
 
 There was nothing that kept time.
 
-She tested it. She did it every half mile, without stopping, without saying so: a hand flat on a stone, or on the frozen peat at the side of the track, light, the two fingers on it and the eight held off. Nothing. Nothing. A slow push once, which she thought was her own heart, since she had been climbing, and Pru, who had seen her do it, came up beside her and took her wrist without being asked and said *eighty-eight,* and it was.
+She tested it. She did it every half mile, without stopping, without saying so: a hand flat on a stone, or on the frozen peat at the side of the track, light, the two fingers on it and the eight held off. Nothing. Nothing. A slow push once, which she thought was her own heart, because she had been climbing, and Pru, who had seen her do it, came up beside her and took her wrist without being asked and said *eighty-eight,* and it was.
 
 Then nothing again.
 
@@ -404,13 +404,13 @@ She waited.
 
 She waited through a slow thirty. She did not count it; she had given that up. She knelt with two dead fingers on a stone on a moor and listened with them as she had listened on a rail and a flagstone and a surface plate and a wharf, and there was nothing. There was a stone. There was the cold, which her thumb told her about. There was not the least push, not now, not after a long nothing, not at all.
 
-She held out her right wrist behind her without looking round, and somebody took it. It was Pru. She knew the fingers.
+She held out her right wrist behind her without looking round, and somebody took it. It was Pru; she knew the fingers.
 
 "Seventy," said Pru, after a moment. "Seventy-two. You're quite calm."
 
 "Then it's not me," said Kiva. "And it's nothing. There's nothing here keeping time. Not the stone. Not that."
 
-She had never in her life put her fingers on anything, since the second month of the autumn, and had them say nothing, and believed them.
+She had never in her life put her fingers on anything, since the autumn, and had them say nothing, and believed them.
 
 She got up and went back to the others.
 
@@ -422,7 +422,7 @@ They all looked at the kiln.
 
 "Ask," said Perrin.
 
-"It's sat there five days. It's not touched a sheep. It went up here away from every wheel and lamp and drain on this ground, and it's sat down." Jude did not take his eyes off the black arch. "If I cut it, and it's plain, it's for a hand. I'll be glad. If I cut it, and it isn't, it's for the book, an eighth of it, and it's sat here five days harming nothing, and I've killed it for a reading." He scratched his jaw with his good hand. "I'm not saying don't. I'm asking what it's for. I'd like to hear somebody say it before I go up there."
+"It's sat there five days. It's not touched a sheep. It went up here away from every wheel and lamp and drain on this ground, and it's sat down." Jude did not take his eyes off the black arch. "If I cut it, and it's plain, it's for a hand. I'll be glad. If I cut it, and it isn't, it's for the book, a share of it, and it's sat here five days harming nothing, and I've killed it for a reading." He scratched his jaw with his good hand. "I'm not saying don't. I'm asking what it's for. I'd like to hear somebody say it before I go up there."
 
 Nobody answered him for a moment. The wind went across the moor.
 
@@ -430,7 +430,7 @@ Nobody answered him for a moment. The wind went across the moor.
 
 "You don't know that," said Jude.
 
-"No. I've thirty years of them coming down. I've never seen one go up." Vane looked at the kiln. "I'd take it."
+"No. I've watched every thaw on this ground bring them down. I've never seen one go up." Vane looked at the kiln. "I'd take it."
 
 "It's for a hand," said Kiva.
 
@@ -464,11 +464,11 @@ It did not lean anywhere. It lay perfectly flat. It did not lean to the north, o
 
 "*Corners,*" she said.
 
-Anwen and Perrin hauled. The neck came up between them, straight. Pru knelt at it and tied, three turns, slowly, the little finger across, and sealed at fifty-two, and did not say anything at all.
+Anwen and Perrin hauled. The neck came up between them, straight. Pru knelt at it and tied, three turns, the little finger across, and sealed at fifty-two, and did not say anything at all.
 
 Vane came forward with the comb.
 
-He knelt on the peat at the kiln's mouth, beside the bag, and held the comb over its neck, with his head on one side, as he had held it on the mill's doorstep; and the six of them stood round him in the wind on the top of the moor, and nobody breathed.
+He knelt on the peat at the kiln's mouth, beside the bag, and held the comb over its neck, with his head on one side, as he had held it on the mill's doorstep. The six of them stood round him in the wind on the top of the moor, and nobody breathed.
 
 The third reed sang. It was clear and thin and very cold, and it went away across the moor in the wind.
 
@@ -476,7 +476,7 @@ Kiva waited for the seventh.
 
 It sang.
 
-It was faint. It was as faint as any that she had ever heard, a thread of a note so high and thin that she thought for a moment that she had made it up, out of wanting; but Vane's head did not move, and Pru's face did not move, and Jude had shut his eyes. It sang under the third, a long way down, like a wet finger round a glass in another house.
+It was faint. It was as faint as any that she had ever heard, a thread of a note so high and thin that she thought for a moment that she had made it up, out of wanting. But Vane's head did not move, and Pru's face did not move, and Jude had shut his eyes. It sang under the third, a long way down, like a wet finger round a glass in another house.
 
 "*Ward,*" said Vane. "*Full.*" He held the comb a moment longer, as though it might change its mind. "*Trace.*"
 
@@ -486,17 +486,17 @@ He lowered it.
 
 Nobody said anything.
 
-Kiva knelt on the peat at the kiln's mouth with her hand on a sealed bag that had come off a thing that had gone up instead of down, and sat, and harmed nothing, and kept no time that two fingers could find; and it had sung the seventh reed exactly as everything else had sung it since the thaw, in every yard and wharf and road and Pit in the country.
+Kiva knelt on the peat at the kiln's mouth with her hand on a sealed bag that had come off a thing that had gone up instead of down, and sat, and harmed nothing, and kept no time that two fingers could find. It had sung the seventh reed exactly as everything else had sung it since the thaw, in every yard and wharf and road and Pit in the country.
 
 She had not known how much she had wanted it until she had it in front of her, sealed, and it was not.
 
-It was not that she was surprised. She had told Jude that she was not to be trusted, and she had meant it, and she had been right. It was that she had let herself want a thing on a moor, for an hour, with her whole body, for the first time since a hill in the autumn; and the wanting had nowhere to go, and went down through her into the frozen peat like a still door with nothing under it.
+It was not that she was surprised. She had told Jude that she was not to be trusted, and she had meant it, and she had been right. It was that she had let herself want a thing on a moor, for an hour, with her whole body, for the first time since a hill in the autumn. The wanting had nowhere to go, and went down through her into the frozen peat like a still door with nothing under it.
 
 "Then it's for the book," said Jude.
 
 He said it quietly, to the bag. He had not opened his eyes.
 
-"An eighth of it. Whatever it weighs." He opened them. "I'll write it. I'll write that it sat five days and went up instead of down and kept no time that Rowan could find, and sang. And I'll write that I asked what it was for before I cut it, and was told, and it was a true answer and it was the wrong one."
+"A share of it. Whatever it weighs." He opened them. "I'll write it. I'll write that it sat five days and went up instead of down and kept no time that Rowan could find, and sang. And I'll write that I asked what it was for before I cut it, and was told, and it was a true answer and it was the wrong one."
 
 "It wasn't wrong," said Kiva. "It was the only one there was."
 
@@ -504,7 +504,7 @@ He said it quietly, to the bag. He had not opened his eyes.
 
 Vane had his slate out. He wrote on it, kneeling, in the wind.
 
-"I'll say a thing," he said, without looking up, "since I said I'd say nothing on your floor, and your floor's done. That was a good hunt. I've walked a deal of fours over this ground in thirty years under a company's officer, and I've never once walked one that went down a gill in the dark and broke a pack at a wheel by shutting a man's hatch, and walked two miles into a north wind after, and killed a thing in a kiln's mouth clean, and asked first what it was for." He finished writing. "It's not plain. Nothing is. I'd have told you so at the hut if you'd asked me. You'd not have believed me, and you'd have been right not to."
+"I'll say a thing," he said, without looking up, "since I said I'd say nothing on your floor, and your floor's done. That was a good hunt. I've walked a deal of fours over this ground under a company's officer, and I've never once walked one that went down a gill in the dark and broke a pack at a wheel by shutting a man's hatch, and walked two miles into a north wind after, and killed a thing in a kiln's mouth clean, and asked first what it was for." He finished writing. "It's not plain. Nothing is. I'd have told you so at the hut if you'd asked me. You'd not have believed me, and you'd have been right not to."
 
 ---
 
@@ -514,9 +514,9 @@ They weighed the bags at the hut that night, on Vane's scale, by the fire, with 
 
 "Half to the city," he said. "Twenty-nine and six. An eighth to the casualty reserve: seven and four. An eighth to the Line, for its ground and its closing and its hand: seven and four. An eighth to the Board, on the card: seven and four." He looked up. "And an eighth to the four. Seven and four-tenths. To T7, under its captain."
 
-Jude wrote it in the team book by the firelight, on his knee, with his good hand, and read it out, slowly, so that everybody heard.
+Jude wrote it in the team book by the firelight, on his knee, with his good hand, and read it out so that everybody heard.
 
-"*Thursday the 19th to Friday the 20th. Cowl Edge and the moor above it, on the Line's ground, under the Board's hunt card, our own entry, under Cade. The card, 0.40. A pack of three husks at Garside's mill, broken by shutting the mill's hatch; three bags. A husk alone, at the old kiln on the tops; one bag. Fifty-nine and two-tenths, clean, after the comb; shared half, and an eighth four times. To the book, 7.40. Pryce, a wall and a walk and a count, 0.31. Talley, four cuts, 0.18. Cade, a stance at the hatch and a stance on the way down, 0.12. Rowan, stances, off her own thimble. Finch, nothing lit; three cords tied, a sheet frosted. A cord frosted and thrown away, 0.06.*" He did it twice in the margin, by the fire. "*Held, eight and ninety-three. Sealed, eight-tenths.* And a sheet to buy."
+"*Thursday the 19th to Friday the 20th. Cowl Edge and the moor above it, on the Line's ground, under the Board's hunt card, our own entry, under Cade. The card, 0.40. A pack of three husks at Garside's mill, broken by shutting the mill's hatch; three bags. A husk alone, at the old kiln on the tops; one bag. Fifty-nine and two-tenths, clean, after the comb; shared half, and an eighth four times. To the book, 7.40. Pryce, a wall and a walk and a count, 0.31. Talley, five cuts, 0.18. Cade, a stance at the hatch and a stance on the way down, 0.12. Rowan, stances, off her own thimble. Finch, nothing lit; four cords tied, a sheet frosted. A cord frosted and thrown away, 0.06.*" He did it twice in the margin, by the fire. "*Held, eight and ninety-three. Sealed, eight-tenths.* And a sheet to buy."
 
 "Eight and ninety-three," said Anwen.
 
@@ -536,7 +536,7 @@ And it had sung.
 
 He was at the table, writing up the card by the lamp. He did not look round.
 
-"Between here and the coast. On the road. I'd not have said it if you'd brought plain off that moor; it'd have been none of my business. You didn't." He blotted the card. "There's a house above the ferry that's never stepped anything in its life. It's never had a lamp-cell in it, nor a pump, nor a clock. It's had plain ash in its cellar since before the patent. It's the only plain ash on the road south that I know of, and I've walked that road thirty years."
+"Between here and the coast. On the road. I'd not have said it if you'd brought plain off that moor; it'd have been none of my business. You didn't." He blotted the card. "There's a house above the ferry that's never stepped anything in its life. It's never had a lamp-cell in it, nor a pump, nor a clock. It's had plain ash in its cellar since before the patent. It's the only plain ash on the road south that I know of, and I've walked that road every year that I've carried a slate."
 
 Kiva did not move.
 

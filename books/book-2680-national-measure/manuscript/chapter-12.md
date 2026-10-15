@@ -64,7 +64,7 @@ Pettit folded the sheets and put them in his jersey.
 
 "I know that now," said Pettit, and went out.
 
-Kellan sat in the locker room for some time after he had gone. He had his cuff in his lap. He was counting the eyelets on it, and he made himself stop at nine.
+Kellan sat in the locker room for some time after he had gone. He had his cuff in his lap and was counting the eyelets on it, and he made himself stop at nine.
 
 It was not a betrayal. He had been over it on the tram from both ends, as a sum, and it was not. Seven knew what he knew; they had been there for every word of it. He had given away nothing that was not already on their own sheets, in Rowan's own hand, in seven columns. All that he had done was to put it in the shape that a four uses when it wants to beat somebody.
 
@@ -90,15 +90,15 @@ The Marshal had the Old Yard to herself when Kiva got there, with a ball of chal
 
 The lane on Tuesday was not the lane that Kiva knew.
 
-It had the same two rows of black posts, and the same scraped strip of dirt between them, forty paces from the sheds to the gap in the bottom wall; and it had the same crate a pace north of where it ought to be, with Orla on it. But Coombe had been at it since seven with a Wren House man and a handcart, and when the first company came down the yard at two and stood along the north row, they found that it had been made into something else.
+It had the same two rows of black posts, and the same scraped strip of dirt between them, forty paces from the sheds to the gap in the bottom wall. It had the same crate a pace north of where it ought to be, with Orla on it. But Coombe had been at it since seven with a Wren House man and a handcart, and when the first company came down the yard at two and stood along the north row, they found that it had been made into something else.
 
-There were two hurdles. Each was a sheep hurdle of woven hazel set upright in the dirt, chest high, across the whole width of the lane; one stood six paces on the sheds' side of the middle and one six paces on the gap's side, so that the middle twelve paces of the lane were a pen with a hurdle at either end of it.
+There were two hurdles. Each was a sheep hurdle of woven hazel set upright in the dirt, chest high, across the whole width of the lane. One stood six paces on the sheds' side of the middle and one six paces on the gap's side, so that the middle twelve paces of the lane were a pen with a hurdle at either end of it.
 
 The litter lay in the middle of the pen. It was Gerald, with his hat on.
 
 And on the dirt inside the pen, and on either side of it, there were squares chalked white, a stride across, five on each side, scattered as though somebody had thrown them.
 
-"Bog," said Coombe. "That's what a chalk square is. A still door doesn't plant in bog. If a foot that's planted is in a square, that's a down, and the planted one kneels. Any other door may cross it. A blade may stand in it all day." She tied a knot. "Circuit rules otherwise. Three for the litter over your own line. One for a down. If the glass runs out, a point to the half where it's lying. And a litter that goes over a hurdle goes over on a pass, two to two, top to top; it's not thrown, it's not dragged, and if it touches the hurdle's top it's dropped and it's anybody's. Three carries. I've a glass." She held it up. "Twenty-Eight and Old Four have had theirs this morning. It was five to four, and I'll not tell you which way."
+"Bog," said Coombe. "That's what a chalk square is. A still door doesn't plant in bog. If a foot that's planted is in a square, that's a down, and the planted one kneels. Any other door may cross it. A blade may stand in it all day. Circuit rules otherwise. Three for the litter over your own line. One for a down. If the glass runs out, a point to the half where it's lying. And a litter that goes over a hurdle goes over on a pass, two to two, top to top; it's not thrown, it's not dragged, and if it touches the hurdle's top it's dropped and it's anybody's. Three carries. I've a glass." She held it up. "Twenty-Eight and Old Four have had theirs this morning. It was five to four, and I'll not tell you which way."
 
 "Old Four," said Selka Dray, from the north row, on her sticks. "She'll not tell you, so I shall. Brask's notebook."
 
@@ -110,7 +110,7 @@ Perrin stood on the shed line with his cuff in his fist.
 
 "Halden License," said Pettit, at the gap. "Captain, Pettit, carry. Still. Catcher, Yarrow. Hand. Hold, Hesketh. Hand. Blade, Renn. Ember."
 
-Kellan stood at the north end of the black-and-gold line with his own cuff laced. He looked down the lane. He looked at Perrin, and at Anwen, and at Jude's white boot, and then at Kiva, quite steadily, for about a count; and then he looked at the chalk squares inside the pen, and Kiva saw his lips move once, as though he were adding something up.
+Kellan stood at the north end of the black-and-gold line with his own cuff laced. He looked down the lane. He looked at Perrin, and at Anwen, and at Jude's white boot, and then at Kiva, quite steadily, for about a count. Then he looked at the chalk squares inside the pen, and Kiva saw his lips move once, as though he were adding something up.
 
 "*Go,*" said Coombe, and turned the glass.
 
@@ -118,7 +118,7 @@ Kellan stood at the north end of the black-and-gold line with his own cuff laced
 
 They did what they had done against Old Four, because it had been the best carry that they had ever made, and because nobody had told them not to.
 
-Perrin went up the north side of the lane at a walk, and Kiva went with him, and Anwen went up the south with her hands low; and at the near hurdle Perrin went over in one heave, with his hands on the hazel, and Kiva after him, and they were in the pen. Jude came last, slowly, on his bad leg, and stood at the hurdle where he could see.
+Perrin went up the north side of the lane at a walk, and Kiva went with him, and Anwen went up the south with her hands low; and at the near hurdle Perrin went over in one heave, with his hands on the hazel, and Kiva after him, and they were in the pen. Jude came last, on his bad leg, and stood at the hurdle where he could see.
 
 Kiva looked at the dirt.
 
@@ -138,7 +138,7 @@ She had done it fifty times since the sixteenth of the first month. She knew how
 
 And Kellan touched him.
 
-Kiva did not see Kellan come. Nobody did. He was at the gap end with his cuff laced and his edge unlit, and then he was not; and then there were two long low bounds along the south row of posts, dark, and a line of blue-white along his fist, and he was in the pen, behind Perrin, a pace off, at exactly the moment that Perrin's weight came off his planted heel and went forward onto his toe.
+Kiva did not see Kellan come. Nobody did. He was at the gap end with his cuff laced and his edge unlit, and then he was not. Then there were two long low bounds along the south row of posts, dark, and a line of blue-white along his fist, and he was in the pen, behind Perrin, a pace off, at exactly the moment that Perrin's weight came off his planted heel and went forward onto his toe.
 
 It was a light touch. It was a tap on a door, between the shoulder blades.
 
@@ -146,15 +146,15 @@ It was a light touch. It was a tap on a door, between the shoulder blades.
 
 Perrin knelt. He knelt with his hands a foot from the poles and his mouth open.
 
-Pettit was in the pen. He had come over Halden's hurdle without anybody seeing him either, because everybody had been looking at Kellan; and he did not go to the litter's head, where Kiva was planted on Perrin's ground with her door open and nothing to lean against. He went to its foot. He took the foot poles and turned the litter round on its head like a gate on a hinge, half a circle, and Yarrow had the head poles before it had stopped, and they were carrying.
+Pettit was in the pen. He had come over Halden's hurdle without anybody seeing him either, because everybody had been looking at Kellan. He did not go to the litter's head, where Kiva was planted on Perrin's ground with her door open and nothing to lean against. He went to its foot. He took the foot poles and turned the litter round on its head like a gate on a hinge, half a circle, and Yarrow had the head poles before it had stopped, and they were carrying.
 
 "*Mine,*" said Anwen.
 
 Her wall came up across the pen, silver, low, between the litter and Halden's hurdle. It was a good wall. It came up fast and true and it stood.
 
-Hesketh's came against it from the other side, and the two walls met in the middle of the pen with a noise like a shut drawer and leaned on each other; and while they leaned, Yarrow and Pettit carried Gerald round the south end of both of them, through the gap between Anwen's wall and the south row of posts, which was exactly a litter's width, because Hesketh had pushed it there.
+Hesketh's came against it from the other side, and the two walls met in the middle of the pen with a noise like a shut drawer and leaned on each other. While they leaned, Yarrow and Pettit carried Gerald round the south end of both of them, through the gap between Anwen's wall and the south row of posts, which was exactly a litter's width, because Hesketh had pushed it there.
 
-At the hurdle they went over two to two. Yarrow put the head poles on the hazel's top and said nothing at all, and Pettit, behind him, put the foot poles on, and the two men on the far side, who were only Hesketh, coming off her wall, and Kellan, coming off his touch, took the poles from beneath, and the litter went over the hurdle as smoothly as a tray going over a counter.
+At the hurdle they went over two to two. Yarrow put the head poles on the hazel's top and said nothing at all, and Pettit, behind him, put the foot poles on. The two on the far side, who were only Hesketh, coming off her wall, and Kellan, coming off his touch, took the poles from beneath, and the litter went over the hurdle as smoothly as a tray going over a counter.
 
 Nobody had said *mine.* Nobody had said *yours.* Kiva had been listening for it with every hair on her head, and it had not been said.
 
@@ -176,7 +176,7 @@ Perrin got up off his knees as though he were a great deal older.
 
 She was very angry. She was surprised to find that she was, and she put the anger down on the dirt beside her, carefully, and looked at it, because it was not useful and she would want to know afterward what it had been.
 
-It was not at Kellan. That was what surprised her. He had done exactly what she would have done, if she had had a year of somebody's words; she would have listened for the one that meant a man's weight was going to move, and gone on it. She was angry at the word. She had said *mine* fifty times since the sixteenth of last month, aloud, in front of everybody, and been pleased with how well it worked; and every time she had said it she had been telling the whole yard that in three counts the carry would step off his heel.
+It was not at Kellan. That was what surprised her. He had done exactly what she would have done, if she had had a year of somebody's words; she would have listened for the one that meant a man's weight was going to move, and gone on it. She was angry at the word. She had said *mine* fifty times since the sixteenth of last month, aloud, in front of everybody, and been pleased with how well it worked. Every time she had said it, she had been telling the whole yard that in three counts the carry would step off his heel.
 
 "It's Brask," she said. "It's Brask with a boy on my marks, over again. Only it's not my test he's read. It's the word after it."
 
@@ -192,7 +192,7 @@ It was not at Kellan. That was what surprised her. He had done exactly what she 
 
 They looked at him.
 
-"I'm the Kill. I'm wanted when there's a thing to cut. In a lane there's nothing to cut but people, and Renn's the one I'd want, and he's not near the litter till he's touched somebody." Jude scratched his jaw. "So I plant, and Rowan tests under me, and Cade goes to the poles from the start without waiting for anybody. And when I step off, I'm the one he touches. I'd sooner it was me than the carry."
+"I'm the Kill. I'm wanted when there's a thing to cut. In a lane there's nothing to cut but people, and Renn's the one I'd want, and he's not near the litter till he's touched somebody. So I plant, and Rowan tests under me, and Cade goes to the poles from the start without waiting for anybody. And when I step off, I'm the one he touches. I'd sooner it was me than the carry."
 
 It was a good notion. Kiva could see nothing wrong with it, which was what worried her.
 
@@ -206,7 +206,7 @@ Jude planted two paces north of the litter's head. Kiva opened her door under hi
 
 "*Mine,*" she said, quite low.
 
-"*Yours,*" said Jude, and did not step off. He stood. He stood on the mark like a man waiting for a tram, with his long arms loose and his head on one side, and his eyes on the south row of posts, where a blue-white line had gone along last time; and Kiva planted on his ground, at his heel, with her door open, and leaned her weight into the dirt, and the yard took her.
+"*Yours,*" said Jude, and did not step off. He stood. He stood on the mark like a man waiting for a tram, with his long arms loose and his head on one side, and his eyes on the south row of posts, where a blue-white line had gone along last time. Kiva planted on his ground, at his heel, with her door open, and leaned her weight into the dirt, and the yard took her.
 
 Perrin had the head poles. He was lifting.
 
@@ -268,7 +268,7 @@ The last of the sand ran out.
 
 He was sitting on the hurdle, at their own end, with his white boot out in front of him. Nobody had told him to sit. He had sat because it was the first place he came to.
 
-"He waited for you to come off the mark, and he knew you'd have to, and then he went past you. He went for Pryce." He scratched his jaw, slowly. "He knew she'd drop her wall to run. She always drops her wall to run. I've seen her do it all year."
+"He waited for you to come off the mark, and he knew you'd have to, and then he went past you. He went for Pryce. He knew she'd drop her wall to run. She always drops her wall to run. I've seen her do it all year."
 
 "So have I," said Anwen. She was standing at the hurdle with her arms crossed and her face quite white. "I didn't know I did it."
 
@@ -278,7 +278,7 @@ He was sitting on the hurdle, at their own end, with his white boot out in front
 
 "It's said," said Kiva.
 
-She was looking at the crate. Orla sat on it with her stick between her boots and her face as still as a shut door; and the Marshal stood beside it with her rope in her hand, and she was not looking at Seven at all. She was looking at Kellan. She had been looking at Kellan, Kiva thought, since the glass was first turned.
+She was looking at the crate. Orla sat on it with her stick between her boots and her face as still as a shut door. The Marshal stood beside it with her rope in her hand, and she was not looking at Seven at all. She was looking at Kellan. She had been looking at Kellan, Kiva thought, since the glass was first turned.
 
 Perrin had not said anything.
 
@@ -298,7 +298,7 @@ So she waited.
 
 "You're wrong about one part," said Coombe.
 
-She had come up the lane. Nobody had seen her come; she was simply at the near hurdle, with her rope, and the pale eyes were on Perrin.
+She had come up the lane. Nobody had seen her come; she was simply at the near hurdle, with her rope, and her eyes were on Perrin.
 
 "It isn't yours. It's your four's, and it was your four's before you were captain of it. But a captain doesn't stand in a pen and tell me whose it is." She tied a knot. "A captain says what's next. Say what's next."
 
@@ -310,7 +310,7 @@ Perrin stared at her.
 
 ---
 
-They stood in the pen in a ring, the four of them, with their heads close, and Pru came over the hurdle from the shed step to stand behind Kiva, since she was the reserve and nobody had told her not to.
+They stood in the pen in a ring, the four of them, with their heads close, and Pru came over the hurdle from the shed step to stand behind Kiva, because she was the reserve and nobody had told her not to.
 
 "He's keeping our count," said Perrin.
 
@@ -364,7 +364,7 @@ He stood up straight. He looked, Kiva thought, about as happy as a man who has b
 
 ---
 
-Kellan heard it too. Kiva watched him hear it, at the gap end, with his cuff laced. She watched him take in the tap and the hand on the knee and the Kill who was to stand between him and the pass, every word of it, as he had taken in every word all afternoon; and she saw his lips move once, adding.
+Kellan heard it too. Kiva watched him hear it, at the gap end, with his cuff laced. She watched him take in the tap and the hand on the knee and the Kill who was to stand between him and the pass, every word of it, as he had taken in every word all afternoon. She saw his lips move once, adding.
 
 It did not matter. That was what Perrin had seen, and what she had not seen until he said it. It did not matter that Kellan had heard what they would do. He had not heard when.
 
@@ -374,7 +374,7 @@ Jude did not move his head. He had his eyes on her hand. He saw it go flat, and 
 
 Perrin had the head poles. Pettit came over Halden's hurdle and leaned on him, and it went down through Perrin and through Kiva and into the ground, and stopped, as it had stopped before. Pettit leaned. Nobody moved.
 
-Anwen's wall came up south. She did not drop it. She walked it, round the end of the pen, slowly, from its far edge, as she had walked it round two boys and a sheet, and Hesketh's wall came against it and could not get round the end of it, because the end was coming round to meet her.
+Anwen's wall came up south. She did not drop it. She walked it round the end of the pen from its far edge, as she had walked it round two boys and a sheet, and Hesketh's wall came against it and could not get round the end of it, because the end was coming round to meet her.
 
 Yarrow came for the foot poles. Anwen's wall was between him and them. He went round the north side, past the chalk, and got a hand on the foot, and Perrin let him, and they stood again, pole to pole, pulling.
 
@@ -402,7 +402,7 @@ Perrin lifted the head poles onto the hurdle's top. He tapped. Once.
 
 Kellan came over Halden's hurdle.
 
-Kiva saw him go. She was planted, with her door open, and she could not have moved if the lane had caught fire, and she saw him come: one bound into the pen, dark, and a second already gathering, along the north row of posts toward the place where Perrin stood at the hurdle with his knuckles on the pole and Anwen waiting under it. He was going for the pass. He had heard the first tap and he had seen Perrin's hand and he had done the sum, as he did every sum, and he was going for the second tap before it came.
+Kiva saw him go. She was planted, with her door open, and she could not have moved if the lane had caught fire. She saw him come: one bound into the pen, dark, and a second already gathering, along the north row of posts toward the place where Perrin stood at the hurdle with his knuckles on the pole and Anwen waiting under it. He was going for the pass. He had heard the first tap and he had seen Perrin's hand and he had done the sum, as he did every sum, and he was going for the second tap before it came.
 
 Jude was between them.
 
@@ -420,7 +420,7 @@ Anwen took the poles from under. She did not say *mine.* Perrin felt her take th
 
 "*Carry,*" said Perrin.
 
-They carried. It was six paces to the hurdle and six more to the shed line, and they had five of the twelve when Hesketh's wall came up across the lane in front of them, silver, from row to row; Hesketh had come round the end of her own pen at a run with her hands up, and Pettit was behind her, and Yarrow had got up out of the dirt.
+They carried. It was six paces to the hurdle and six more to the shed line, and they had five of the twelve when Hesketh's wall came up across the lane in front of them, silver, from row to row. Hesketh had come round the end of her own pen at a run with her hands up, and Pettit was behind her, and Yarrow had got up out of the dirt.
 
 They pushed. Anwen put her own wall against Hesketh's and walked it, from the far end, and Hesketh's bent and gave a foot.
 
@@ -432,13 +432,13 @@ The sand ran out.
 
 They sat on the shed step afterward, in a row, the four of them and Pru, with the frost coming back onto the yard as the light went. Nobody had anything to say.
 
-Coombe stood in front of them. She did not sit. She had her rope in her hand and a great many knots in it.
+Coombe stood in front of them and did not sit. She had her rope in her hand and a great many knots in it.
 
 "You lost," she said.
 
 "Yes, ma'am," said Perrin.
 
-"Six to two. You lost because your best habits were the first things that a good four took off you. Your test, your *mine,* your wall that drops when it runs. You've built every good thing you have this year on saying it aloud, and you said it in front of a man who'd written it down." She tied a knot. "That's not a fault in saying it aloud. On a floor with a thing that has no ears, it's the best habit you've got, and I'll want every word of it on the twelfth. In a lane, against a four that's done its reading, it's a count everybody can hear."
+"Six to two. You lost because your best habits were the first things that a good four took off you. Your test, your *mine,* your wall that drops when it runs. You've built every good thing you have this year on saying it aloud, and you said it in front of a man who'd written it down. That's not a fault in saying it aloud. On a floor with a thing that has no ears, it's the best habit you've got, and I'll want every word of it on the twelfth. In a lane, against a four that's done its reading, it's a count everybody can hear."
 
 Nobody answered.
 
@@ -460,7 +460,7 @@ He stood in front of the shed step where the Marshal had stood. His ears were wh
 
 "Because I said at your table that I wanted to know what I am, and I found out this afternoon that I'm a man who can write you down in an hour," said Kellan. "And I'd sooner be that man where you can see him."
 
-Kiva had the Works paper out. There were three sheets left. She took one and ruled it in seven, on her knee, while he talked, and he talked for a long time, standing in the cold, in order, as things happen on a floor. *The test in the open. Mine, then yours, then three counts with the carry on his heel. The wall that drops when it runs.* He did not leave anything out. He did not make any of it kinder than it was.
+Kiva had the Works paper out, with three sheets left. She took one and ruled it in seven, on her knee, while he talked, and he talked for a long time, standing in the cold, in order, as things happen on a floor. *The test in the open. Mine, then yours, then three counts with the carry on his heel. The wall that drops when it runs.* He did not leave anything out. He did not make any of it kinder than it was.
 
 When he had done, she read it back to him, and he nodded.
 

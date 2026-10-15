@@ -26,7 +26,7 @@ On Tuesday at seven it was warm.
 
 ---
 
-Orla Dane went up the Chair's stair on Monday afternoon, the 16th, at three, with her stick, and she took it a step at a time and did not let the clerk who came down past her offer an arm.
+Orla Dane went up the Chair's stair on Monday afternoon, the 16th, at three, with her stick and her bad left knee, and she took it a step at a time and did not let the clerk who came down past her offer an arm.
 
 The Placement Chair's office was at the top of the Measure Hall, under the slates, with a window that looked down the hill to the river and the Brickfields. Ysra Crest sat behind a deal desk with nothing on it but a ledger and a pen and a paperweight of green glass. She did not get up. She never got up for anybody, and Orla had always rather liked her for it.
 
@@ -74,7 +74,7 @@ Orla got up, by the desk, in two stages.
 
 She went down the stair a step at a time, as she had come up it, and at the bottom she stood for a moment in the Measure Hall's cold passage with her hand on the newel post and her stick under her arm. She had told the Chair. She had told nobody else, and she had not decided whether she would.
 
-The girl would know. She would read it in Orla's face on Sunday on the crate, as she had read a thumb and a hip and a heel, and she would say nothing, because she had learned to say nothing; and that was a thing that Orla had never had from anybody, in twenty years of teaching, and did not yet know how to bear.
+The girl would know. She would read it in Orla's face on Sunday on the crate, as she had read a thumb and a hip and a heel, and she would say nothing, because she had learned to say nothing. That was a thing that Orla had never had from anybody, in twenty years of teaching, and did not yet know how to bear.
 
 ---
 
@@ -84,7 +84,7 @@ Kellan came to the Old Yard on Monday at four, in his own coat, as he had said t
 
 "And you'll write it down," said Kiva.
 
-"I'll write it down. You told me to." He laced his cuff. "I'd like it known, as Cade says, that I've been thinking about your tap for six days, on a blue brick floor, and I've a notion how to read it."
+"I'll write it down. You told me to." He laced his cuff. "I've been thinking about your tap for six days, on a blue brick floor, and I've a notion how to read it."
 
 "So have we," said Perrin.
 
@@ -120,7 +120,7 @@ Kellan was quiet for a long moment.
 
 "Again," he said.
 
-They did it again six times. He touched Anwen on the fourth, before the poles were hers, because he had stopped counting taps and begun watching Perrin's shoulders as she did; and on the fifth Perrin let the poles go on his hips instead, and on the sixth on a breath, and Kellan was late on both.
+They did it again six times. He touched Anwen on the fourth, before the poles were hers, because he had stopped counting taps and begun watching Perrin's shoulders as she did. On the fifth Perrin let the poles go on his hips instead, and on the sixth on a breath, and Kellan was late on both.
 
 "You've changed it," he said.
 
@@ -130,7 +130,7 @@ They did it again six times. He touched Anwen on the fourth, before the poles we
 
 "Nor did I."
 
-Kellan unlaced his cuff. He stood in the lane with it in his hand, and then he took his pencil out of his pocket and wrote on the inside of it, quickly, two lines that Kiva could not read; and then he held it out to her, turned, so that she could.
+Kellan unlaced his cuff. He stood in the lane with it in his hand, and then he took his pencil out of his pocket and wrote on the inside of it, quickly, two lines that Kiva could not read. Then he held it out to her, turned, so that she could.
 
 *Watch his shoulders. Not his hands. It changes every time. Two in six.*
 
@@ -140,7 +140,7 @@ Kellan unlaced his cuff. He stood in the lane with it in his hand, and then he t
 
 "It'll be one in six by the gate if I'm reading it. A coast four that's never seen it won't get two." He laced the cuff again. "I'll tell Pettit. I'll tell him that I've read it twice in six and I'd not want to try on a floor. That's true, so he'll believe it."
 
-He went up the yard. Jude wrote it on his knee. *Monday the 16th. The Old Yard. The tap, against Renn, alone, at a hurdle. Six passes; two read. Pryce, a wall, 0.06. Cade, a stance, 0.05. Talley, 0.04. Spent, 0.15.* And Sunday's, which I've not read out. *Hand to Ember, Rowan, the third, 0.31.*" He did it in the margin. "*Held, two and sixty.*"
+He went up the yard. Jude wrote it on his knee. *Monday the 16th. The Old Yard. The tap, against Renn, alone, at a hurdle. Six passes; two read. Pryce, a wall, 0.06. Cade, a stance, 0.05. Talley, 0.04. Spent, 0.15.* "And Sunday's, which I've not read out. *Hand to Ember, Rowan, the third, 0.31.*" He did it in the margin. "*Held, two and sixty.*"
 
 "Two," he said. "And sixty."
 
@@ -168,7 +168,7 @@ She had heard it the first time. She had heard it and gone still, as she went st
 
 "I think it's the only thing in this country that might be. I don't know. I'd want to find out."
 
-Jude had the book under his arm. He had been listening with his head on one side, and now he scratched his jaw, slowly, and looked at the letter on Perrin's knee.
+Jude had the book under his arm. He had been listening with his head on one side, and now he looked at the letter on Perrin's knee.
 
 "I'll ask a thing," he said. "Since I'd sooner ask than count it up on a moor."
 
@@ -186,7 +186,7 @@ The yard was quiet. The wet wind came up over the bottom wall and moved the fros
 
 He had picked the letter up again. He was reading it a second time, with his lips moving.
 
-"*Three keep together.* That's a pack. On the Edge, north of the Sag, which is where the road goes down to the farms. They've not been near a house since Saturday. That's two days, three by the time we're there." He put the letter down. "If we go for the quiet one and walk past three husks that keep a count, and they're at a farm on Friday, then that's under my name as well. It says so on the paper. *Under its own captain.*"
+"*Three keep together.* That's a pack. On the Edge, north of the Sag, which is where the road goes down to the farms. They've not been near a house since Saturday. That's two days, five by the time we're there." He put the letter down. "If we go for the quiet one and walk past three husks that keep a count, and they're at a farm on Friday, then that's under my name as well. It says so on the paper. *Under its own captain.*"
 
 "So it's both," said Jude.
 
@@ -198,7 +198,7 @@ He went into the shed to find a pen. He walked like a man carrying a great deal 
 
 The card came at eleven on Tuesday night, the 17th, three words long, and Kiva was on the van's side bench at a quarter past with Pru beside her and the rings whining.
 
-Varley sat by the tailboard with a cloth on each shoulder, talking to the left-hand one. Pike sat beside him with his arms on his knees. The dressings were thinner again; Ruddock had taken them down that morning to a band at each wrist, and Pike's hands lay on his knees bare, for the first time since the wharf, grey and swollen and very still, with the skin over the knuckles shining.
+Varley sat by the tailboard with a cloth on each shoulder, talking to the left-hand one. Pike sat beside him with his arms on his knees. The dressings were thinner again. Ruddock had taken them down that morning to a band at each wrist, and Pike's hands lay on his knees bare, for the first time since the wharf, grey and swollen and very still, with the skin over the knuckles shining.
 
 He saw Kiva look at them.
 
@@ -216,25 +216,15 @@ There was a string in the middle of it, on end.
 
 It had three knots and it was skinned to the knee, and behind it on the flags there was a white patch, three paces long and two across, as thin as breath on a window.
 
-"Gate," said Rhea.
+By the time Kiva looked out past the tailboard, Mace's four had the wall up across the yard's east side, silver, from the Exchange wall to the warehouses. The string's head came round, and found the light, and it walked across the flags to the wall on its four thick legs, without hurry, and leaned there. The skin slid after it on the smooth stone and lay down behind its heels, on the west.
 
-Mace's four brought the wall up across the yard's east side, silver, from the Exchange wall to the warehouses. The string's head came round, and found the light, and it walked across the flags to the wall on its four thick legs, without hurry, and leaned there; and the skin slid after it on the smooth stone and lay down behind its heels, on the west.
-
-Rhea did not read the slate at once. She stood with it in her hand and looked at the yard for a long time, the pale eyes going over it as they went over a street.
+Rhea did not read the slate at once. She stood with it in her hand and looked at the yard for a long time, her eyes going over it as they went over a street.
 
 "Flat," she said.
 
 "As a table," said Mace.
 
-"Then its sheet's behind it and the rung'll come down at its heels and lie there. There's no downhill to turn it to." She lifted the slate to the van's lamp. "*Before. A purse string of three, on end, in the Corn Exchange yard. Its skin's laid down behind it on the west. Its tear's in the Exchange's coal hole, and the Line's on it. The yard's level; there's no fall to turn it on. Nothing lit inside sixty paces but my gate; the warehouses are dark on the warden's word, and there's a night watchman in the Exchange who's been told to stay in his box.*" She did not lower it. "*The Marshal's page: make it carry its sheet uphill, and if you can't, weight the far edge. There's no uphill. So I'll not cut where its heels are. The far edge: the second's. To say. Two words, once.*" She looked up. "What's there? Mace."
-
-"A join that I like. Stiles is tired."
-
-"Nairn."
-
-"Three rungs. I'd come at it from the east, over the wall, as it leans."
-
-"Pike."
+"Then its sheet's behind it and the rung'll come down at its heels and lie there. There's no downhill to turn it to." She lifted the slate to the van's lamp. "*Before. A purse string of three, on end, in the Corn Exchange yard. Its skin's laid down behind it on the west. Its tear's in the Exchange's coal hole, and the Line's on it. The yard's level; there's no fall to turn it on. Nothing lit inside sixty paces but my gate; the warehouses are dark on the warden's word, and there's a night watchman in the Exchange who's been told to stay in his box.*" She did not lower it. "*The Marshal's page: make it carry its sheet uphill, and if you can't, weight the far edge. There's no uphill. So I'll not cut where its heels are. The far edge: the second's. To say. Two words, once.*" She looked up. "Pike."
 
 Pike sat on the tailboard. He looked at the flags.
 
@@ -270,7 +260,7 @@ Varley knelt square on the canvas with both knees. His cord was in his coat.
 
 Pike knelt behind him, off the canvas, and a yard to the side, where he could see.
 
-And Rhea Sorn walked round the string's south side, slowly, as she walked on every floor, and stepped onto the white patch at its near end, behind the thing's heels, and stood there.
+And Rhea Sorn walked round the string's south side as she walked on every floor, and stepped onto the white patch at its near end, behind the thing's heels, and stood there.
 
 Kiva saw her do it, and her stomach turned over.
 
@@ -296,7 +286,7 @@ The yellow light went level along the yard and lit the Exchange's blind wall and
 
 It fell forward.
 
-It fell off the front of the thing, away from the edge that had cut it, as Rhea had said it would; it came down off the string's chest in a long low heap onto the flags in front of its feet, on Varley's canvas, a pace from Kiva's knee, and lay there, under the gate's light, with nothing white anywhere near it.
+It fell off the front of the thing, away from the edge that had cut it, as Rhea had said it would. It came down off the string's chest in a long low heap onto the flags in front of its feet, on Varley's canvas, a pace from Kiva's knee, and lay there, under the gate's light, with nothing white anywhere near it.
 
 "*Dark! One!*" said Varley.
 
@@ -320,11 +310,11 @@ She came off it backward, in one long step, without turning round, the way a wom
 
 ---
 
-They took the other two rungs the same way, and Kiva said *far edge* once more, on the third, when two sacks shifted and the white came up between them a hand; and Rhea came off it before Kiva had finished the second word.
+They took the other two rungs the same way, and Kiva said *far edge* once more, on the third, when two sacks shifted and the white came up between them a hand. Rhea came off it before Kiva had finished the second word.
 
 On the last knot the string itself came down, forward, onto the canvas, as a tree falls when it is cut on the right side. The skin went as the others had gone. It thinned from the edges, and was grey, and was a film of fine ash on the flags of the flattest yard in Meridian, under six sacks of somebody's coal.
 
-Varley tied all three bags. He tied them right-handed, three turns, the left thumb pinning, as the book said; and he did it in fifty and in fifty-three and in forty-nine, and on each he put his palm on the neck and held it there.
+Varley tied all three bags. He tied them right-handed, three turns, the left thumb pinning, as the book said. He did it in fifty and in fifty-three and in forty-nine, and on each he put his palm on the neck and held it there.
 
 "Loud," he said, three times.
 
@@ -342,7 +332,7 @@ Kiva wrote it on the back of a laundry order, in the van, on her knee.
 
 Pike did not say anything all the way down the hill.
 
-He sat by the tailboard with his bare hands on his knees and his eyes on Varley's hands, which were folding the left-hand cloth over and over, smoothing it, while Varley talked to it under his breath. Pru was asleep. The rings whined. Ruddock leaned on the tiller and hummed something that Tibb usually hummed.
+He sat by the tailboard with his bare hands on his knees and his eyes on Varley's hands, which were folding the left-hand cloth over and over, smoothing it, while Varley talked to it under his breath. Pru was asleep, and the rings whined. Ruddock leaned on the tiller and hummed something that Tibb usually hummed.
 
 At the gasworks corner Pike got up, carefully, holding the rack with the heels of his hands, and went to the tailboard, and sat down on the very end of it with his back to all of them and his face to the street going by.
 
@@ -384,17 +374,11 @@ Jude read the book that night, late, at the Rowan kitchen table, standing by the
 
 "One and seventy," said Anwen.
 
-"Less four-tenths for the card. Less whatever we light. Less a cord if one's frosted, and a sheet if a sheet is." Jude scratched his jaw. "And plus whatever comes up clean, after shares. The Line's card says shares. It doesn't say what."
+"Less four-tenths for the card. Less whatever we light. Less a cord if one's frosted, and a sheet if a sheet is. And plus whatever comes up clean, after shares. The Line's card says shares. It doesn't say what."
 
-"Half," said Mara.
+Mara was at the far end of the table with the tide table, as she was every night now. She looked up, at last, over the lamp.
 
-She had been at the far end of the table with the tide table, as she was every night now, and she had not looked up.
-
-"On Line ground. A thing killed on Line ground by anybody who isn't the Line is shared civic first, half, since the city owns the light. Then the casualty reserve, an eighth. Then the Line, an eighth, for its ground and its closing and its hand that weighs. Then the Board, an eighth, on a hunt card; that's new this year. Then the four." She made a mark on the tide table. "An eighth. I had it off Rusk on Saturday; the Works has been arguing with the Board about it since the first month. I didn't think you'd want to hear it before you'd a license."
-
-"An eighth," said Perrin.
-
-"Of whatever's clean," said Mara. "Nothing of whatever isn't. And nothing at all of anything that comes up plain, since plain doesn't go on a hunt card. Plain's medical. It goes in a tin with a seal on it, and nobody shares it, and it's for whoever's hurt." She looked up, at last, over the lamp. "I'd not go up a moor thinking a quiet thing was going to pay for a gate. If it's quiet, it's a hand. That's all it is."
+"If it's quiet, it's a hand," she said.
 
 "That's what it's for," said Jude.
 

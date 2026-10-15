@@ -402,11 +402,13 @@ the 30th of the third month.
 
 ## Movement Two block — chapters 9–16 (first draft, 2026-10-14)
 
-Status: **from first-draft prose, unreviewed.** Everything here is on the page of
-`manuscript/chapter-09.md` to `chapter-16.md`. The full record is
-`provenance/MOVEMENT-002-CONTINUITY.md`. If review or repair changes the prose, this block is
-corrected from the surviving text. Span: Sunday the 1st of the second month, 2681, to Saturday the
-28th, on a river barge south of the Sag ferry.
+Status: **from first-draft prose. Reviewed (editorial review and simulated cold read). Same-author
+consolidated repair applied 2026-10-14** (`provenance/MOVEMENT-002-REPAIR.md`). **Rechecked (fresh-context, same
+family) and accepted as context 2026-10-14; one defect fixed.** Everything here is on the page of `manuscript/chapter-09.md` to `chapter-16.md` as
+repaired. The full record is `provenance/MOVEMENT-002-CONTINUITY.md` (reconciled the same day). The
+repair changed no event, date, ash figure, power limit, injury or knowledge boundary. It corrected
+which cloth was lost at the mill and how the plain jar combed (below). Span: Sunday the 1st of the
+second month, 2681, to Saturday the 28th, on a river barge south of the Sag ferry.
 
 ### M2.1 Kiva Rowan
 
@@ -446,8 +448,10 @@ corrected from the surviving text. Span: Sunday the 1st of the second month, 268
   plain;** the four's eighth, 7.40.
 - **Injuries:** Talley, left shin burned (the 2nd) and left arm frosted to the elbow (the 20th, not
   taken; sling). Cade's ribs complain when he lifts.
-- **Equipment:** Finch's own purse sheet frosted and replaced (2.40, no pole). Perrin keeps Coombe's
-  knotted rope.
+- **Equipment:** Finch's own purse sheet (her name on the pole) frosted and replaced (2.40, no pole).
+  Kiva had carried it to the mill as her second cloth, and it went over the race lip. Finch keeps the
+  frosted sheet. Mrs. Pryce's grey double went over the third heap, and it is still the drill sheet.
+  Perrin keeps Coombe's knotted rope.
 - **The book:**
 
 | Line | Drams |
@@ -466,7 +470,9 @@ corrected from the surviving text. Span: Sunday the 1st of the second month, 268
 | **Sealed medical (W, plain)** | **2.0** (0.8 + 1.2 given by the Order) |
 
   Check: 9.64 − 10.81 + 7.40 = 6.23. **The sealed 2.0 is bound in both books: *For a hand. Not for a
-  bank, a floor, a crossing or a sale.*** Signed Cade and Rowan.
+  bank, a floor, a crossing or a sale.*** Signed Cade and Rowan. The Order's 1.2 combed full on the
+  third and silent on the seventh. That is the first comb since the thaw over *whole* plain ash. The
+  soot-cut 2669 jar refused on the 24th was silent on the seventh and thin on the third.
 
 ### M2.3 The night van
 

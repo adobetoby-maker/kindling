@@ -4,7 +4,7 @@ Coombe watched the pack drill on Thursday morning from the shed step for the who
 
 "Again."
 
-Bettony's twelve stamped. Perrin stood on the step below the Marshal with his hands in his pockets and counted aloud, and when Jude's broom handle tapped a junior on the *and* and a file sat down, Perrin said "*Nearest,*" and named the nearer of the two counts that were left, and counted it; and Anwen, behind him, with her eyes on the files' feet, counted the other under her breath, so that when Perrin lost his she could say *yours,* and he could say *mine,* and nobody was left holding nothing. Jude cut a second junior out of time inside four beats. Twice, the third file never found its count at all before Jude's handle was on its shoulder.
+Bettony's twelve stamped. Perrin stood on the step below the Marshal with his hands in his pockets and counted aloud, and when Jude's broom handle tapped a junior on the *and* and a file sat down, Perrin said "*Nearest,*" and named the nearer of the two counts that were left, and counted it. Anwen, behind him, with her eyes on the files' feet, counted the other under her breath, so that when Perrin lost his she could say *yours,* and he could say *mine,* and nobody was left holding nothing. Jude cut a second junior out of time inside four beats. Twice, the third file never found its count at all before Jude's handle was on its shoulder.
 
 The fourth time, Pru was on the north corner of the empty cloth, hauling, and Anwen on the south, so that the captain had nothing in his hands but a number.
 
@@ -14,17 +14,17 @@ It was the first thing that she had said that was not *again.* Perrin turned rou
 
 "Finch, ma'am. And Pryce, when her wall's down."
 
-"Finch isn't on your floor. Your floor's a four." The Marshal tied a knot. "On the twelfth there'll be four of you on that cinder and I'll mark four. On the Longshore there'll be four. Who hauls?"
+"Finch isn't on your floor. Your floor's a four. On the twelfth there'll be four of you on that cinder and I'll mark four. On the Longshore there'll be four. Who hauls?"
 
 Perrin looked at Kiva. Kiva looked back, and did not help him, and saw him see that she was not going to.
 
-"Pryce," he said slowly. "When her wall's down. And Talley, when he's cut. He's nothing to do once a thing's fallen but stand over it, and I've seen what happens when he stands over it." He swallowed. "And if Pryce's wall's up and Talley hasn't cut, then nobody hauls, and Rowan waits on her hem with the cloth on the heap, and the bag's slow. I'd sooner have a slow bag than a lost count."
+"Pryce," he said. "When her wall's down. And Talley, when he's cut. He's nothing to do once a thing's fallen but stand over it, and I've seen what happens when he stands over it." He swallowed. "And if Pryce's wall's up and Talley hasn't cut, then nobody hauls, and Rowan waits on her hem with the cloth on the heap, and the bag's slow. I'd sooner have a slow bag than a lost count."
 
 "Would you."
 
 "Yes, ma'am. I've thought about it. I lost one on Monday."
 
-The Marshal looked at him for a moment with her pale eyes, and then she looked at the files of juniors, red-faced, stamping in the frost.
+The Marshal looked at him for a moment, and then she looked at the files of juniors, red-faced, stamping in the frost.
 
 "Better," she said. "You've thought." She coiled her rope. "Now think about what you do on the Longshore when the count your pack finds isn't one that a child can stamp."
 
@@ -44,7 +44,7 @@ He was Imrie's catcher, lent, and Kiva had met him on Tuesday in the mending roo
 
 Pike sat beside him on the bench, in his coat, with his two arms laid along his knees in their linen.
 
-The dressings were thinner than they had been. Ruddock had changed them on Wednesday, and the white went only to a hand above each wrist now, and the fingers showed at the ends of it, grey and stiff and swollen, like the fingers of a glove that has been left out in the rain. He could move them a little. He had shown Kiva on Tuesday. He had shut his right hand, very slowly, a quarter of the way, and opened it again, and then he had put both hands back on his knees and not done it again.
+The dressings were thinner than they had been. Ruddock had changed them on Wednesday, and the white went only to a hand above each wrist now, and the fingers showed at the ends of it, grey and stiff and swollen, like the fingers of a glove that has been left out in the rain. He could move them a little; he had shown Kiva on Tuesday. He had shut his right hand, very slowly, a quarter of the way, and opened it again, and then he had put both hands back on his knees and not done it again.
 
 "I read them," he said, under the noise of the rings. "Your two sheets. The pack and the turn. I gave them to Sorn."
 
@@ -82,7 +82,7 @@ Rhea tilted her slate to the van's lamp.
 
 "Pike."
 
-Pike sat on the tailboard. He did not get down. He looked at the road for a long moment, the setts and the gutter and the line of frost going from the husks toward the doors.
+Pike sat on the tailboard and did not get down. He looked at the road for a long moment, the setts and the gutter and the line of frost going from the husks toward the doors.
 
 "Setts," he said. "They fall to the gutter, east, a hand in four paces. They'll run toward the doors. Varley lays west of the near one with his seam up the fall." He stopped. "Varley lays where he likes. He's the cloth."
 
@@ -94,7 +94,7 @@ Pike sat on the tailboard. He did not get down. He looked at the road for a long
 
 Kiva knelt at Varley's left hem, on the cold setts, a pace and a half down from the corner.
 
-It was not the same as kneeling at Pike's. She had known that it would not be, and it was not, in ways that she had not foreseen. Varley threw the cloth once, and it lay flat at the first cast, but its seam ran a hand off true up the fall, and he knelt and looked at it and left it. He knelt with the gate at his back, as the book said. He put his left knee on the hem, a hand from hers, as Pike had; and then he put his right knee down as well, beside it, so that he was kneeling square on the canvas with both, like a man at prayer, and both his hands were on his thighs.
+It was not the same as kneeling at Pike's. She had known that it would not be, and it was not, in ways that she had not foreseen. Varley threw the cloth once, and it lay flat at the first cast, but its seam ran a hand off true up the fall, and he knelt and looked at it and left it. He knelt with the gate at his back, as the book said. He put his left knee on the hem, a hand from hers, as Pike had. Then he put his right knee down as well, beside it, so that he was kneeling square on the canvas with both, like a man at prayer, and both his hands were on his thighs.
 
 His cord was in his coat. She saw the bulge of it.
 
@@ -130,7 +130,7 @@ Rhea Sorn was already moving. She came round the end of Mace's wall on the shed 
 
 Rhea's left heel came down flat on the setts.
 
-Pike's head came up. Kiva saw it. She saw his eyes go to the heel, as they had gone to it for eleven years, and saw his mouth open; and then she saw him shut it, with his teeth, as she had once shut hers on a Hobday's corner, because there was a man kneeling square on that cloth whose word it was and not his.
+Pike's head came up. Kiva saw it. She saw his eyes go to the heel, as they had gone to it for eleven years, and saw his mouth open. Then she saw him shut it, with his teeth, as she had once shut hers on a Hobday's corner, because there was a man kneeling square on that cloth whose word it was and not his.
 
 "*—and,*" said Mace.
 
@@ -162,9 +162,9 @@ It fell on the setts in front of the wall. It lay. It was a long way from the cl
 
 Kiva watched it run.
 
-She had nothing to do. It was not hers to do anything. She had the far edge of a cloth that had two heaps on it already, and the far edge lay flat on the setts, and there was nothing white anywhere near it; and the third heap was running into a drain twenty paces off, and the only person on that floor whose business it was to stop it was kneeling square on a canvas with both his knees, and he had not moved.
+She had nothing to do; it was not hers to do anything. She had the far edge of a cloth that had two heaps on it already, and the far edge lay flat on the setts, and there was nothing white anywhere near it. The third heap was running into a drain twenty paces off, and the only person on that floor whose business it was to stop it was kneeling square on a canvas with both his knees, and he had not moved.
 
-He did not need to. Purvis was at the doors already, with the second cloth, which he had brought off the van on his shoulder without being told because he had nine years of a man who liked to have two; and he threw it over the running heap from the shed side, flat, at the first cast, and put both his boots on its downhill hem.
+He did not need to. Purvis was at the doors already, with the second cloth, which he had brought off the van on his shoulder without being told because he had nine years of a man who liked to have two. He threw it over the running heap from the shed side, flat, at the first cast, and put both his boots on its downhill hem.
 
 "*Dark,*" said Purvis, rather breathless. "*One.* I've no catcher."
 
@@ -174,7 +174,7 @@ He did not need to. Purvis was at the doors already, with the second cloth, whic
 
 It took nineteen minutes from the gate to the last seal, and Kiva said nothing in any of them.
 
-She watched. She watched Varley wait eleven counts on the first heap before he called the corners, and nine on the second; she watched him look at each heap while he waited, as Pike looked, and saw that each of them leaned a hair toward the shed doors and the bank house behind them, and settled; and she saw that he saw it, because his long face did not change, and he called the corners as though it were an ordinary thing. She watched his cord come out of his coat warm. She watched him tie the three turns with his left thumb pinning and his right taking the long end under, the right way round, the way that the book said, because his right thumb was not slow.
+She watched. She watched Varley wait eleven counts on the first heap before he called the corners, and nine on the second. She watched him look at each heap while he waited, as Pike looked, and saw that each of them leaned a hair toward the shed doors and the bank house behind them, and settled. She saw that he saw it, because his long face did not change, and he called the corners as though it were an ordinary thing. She watched his cord come out of his coat warm. She watched him tie the three turns with his left thumb pinning and his right taking the long end under, the right way round, the way that the book said, because his right thumb was not slow.
 
 On the first bag she watched Pike watch him, and saw the white bound hands on Pike's knees close, both of them, a quarter of the way, on the third turn, and open again.
 
@@ -182,7 +182,7 @@ On the first bag she watched Pike watch him, and saw the white bound hands on Pi
 
 "Sealed. Forty-eight."
 
-He went to Purvis at the shed doors on his knees, dragging nothing, and knelt on the second cloth's hem, and looked at the third heap for nine counts while Purvis held his boots on the downhill edge, and then he called the corners to two corner-hands who had never in their lives hauled a cloth that their own catcher had not thrown.
+He went to Purvis at the shed doors on his knees, dragging nothing, and knelt on the second cloth's hem, and looked at the third heap for nine counts while Purvis held his boots on the downhill edge. Then he called the corners to two corner-hands who had never in their lives hauled a cloth that their own catcher had not thrown.
 
 "Sealed. Fifty-six." He sat back on his heels. "That's slow. It ran a yard before Purvis had it."
 
@@ -226,7 +226,7 @@ At the hall gate, as Ruddock was backing the van in, he said, to nobody, "He wai
 
 The Pit was cold on Saturday morning and full, and this time the Marshal had something on her cart that nobody could see at all.
 
-The cage stood in the middle of the cinder where it had stood on Monday, under its grey ward. There were two stools beside it, eight paces apart, and on each stool stood a lamp-cell of the Wren House's pattern, brass-bound, the size of a loaf; and a Wren House man in a brown apron stood between them with his hands in his sleeves.
+The cage stood in the middle of the cinder where it had stood on Monday, under its grey ward. There were two stools beside it, eight paces apart, and on each stool stood a lamp-cell of the Wren House's pattern, brass-bound, the size of a loaf. A Wren House man in a brown apron stood between them with his hands in his sleeves.
 
 The first company was on the rail, all sixteen, and the reserves behind. Selka Dray was at the end, on her two sticks, upright, with Marten beside her. Old Four had Brask's notebook open before anybody had said a word. Kellan stood with Halden in black and gold at the west end, and did not look along the rail, and Kiva did not look at him.
 
@@ -236,15 +236,15 @@ The first company was on the rail, all sixteen, and the reserves behind. Selka D
 
 "The far gallery. By the mast. Twenty paces from the cage at the least, and you stay there."
 
-Kiva went. She did not ask why. She went round the rail with every head on it turning to watch her go, and stood by the old mast at the east end, by herself, with her hands on the cold oak; and she saw the Marshal watch her all the way there, and nod once when she stopped.
+Kiva went, and did not ask why. She went round the rail with every head on it turning to watch her go, and stood by the old mast at the east end, by herself, with her hands on the cold oak. She saw the Marshal watch her all the way there, and nod once when she stopped.
 
-"I've no notion what this would do near her," said Coombe, to the rail at large. "None. She's three doors and declares one, and I've read her tapes. It may be that it would do nothing. I'll not find out on a Saturday morning in a Pit to teach sixteen people a thing they can learn without her." She tied a knot. "That's said once."
+"I've no notion what this would do near her," said Coombe, to the rail at large. "None. She's three doors and declares one, and I've read her tapes. It may be that it would do nothing. I'll not find out on a Saturday morning in a Pit to teach sixteen people a thing they can learn without her. That's said once."
 
 She laid her palm on the ward and drew it back.
 
 At first Kiva thought that the cage was empty. Then she saw, on its floor, lying in loose coils like a rope that has been thrown down on a quay, something grey. It was as thick as her wrist and as long as a man, perhaps longer; she could not see where it began. It did not breathe. It did not stamp. One end of it was lifted a hand's breadth off the iron floor of the cage, and turning, very slowly, as the tip of a vine turns in a greenhouse when nobody is looking.
 
-"On the Longshore the crews call that a lodger," said Coombe. "Since it moves in. It's a cord, without a string. It came out of a tear on the flats in the eleventh month by itself and lay on the sand for a week and went nowhere, and the crew that found it thought it was dead. Then a girl came down the flats from the Ropewalk School on a Saturday, with her two doors laid, as they lay them at the Ropewalk, to look at it." She tied a knot. "Light the left cell. Alone."
+"On the Longshore the crews call that a lodger," said Coombe. "Since it moves in. It's a cord, without a string. It came out of a tear on the flats in the eleventh month by itself and lay on the sand for a week and went nowhere, and the crew that found it thought it was dead. Then a girl came down the flats from the Ropewalk School on a Saturday, with her two doors laid, as they lay them at the Ropewalk, to look at it." She turned to the Wren House man. "Light the left cell. Alone."
 
 The Wren House man put his palms over the left lamp-cell and it lit, a steady yellow, alone on its stool.
 
@@ -252,11 +252,11 @@ The lodger's tip did not turn to it.
 
 "Now the right. Two cells, in one case. Lit together. Tuned to agree."
 
-The man went to the right-hand stool. There were two cells in its brass case, Kiva saw now, side by side, and he put a palm over each, and lit them both at once, and turned a screw at the case's foot with his thumb, and the two lights went from a yellow and a slightly paler yellow to one yellow, steady, exactly the same, as two voices on a hymn find the same note.
+The man went to the right-hand stool. There were two cells in its brass case, Kiva saw now, side by side. He put a palm over each, and lit them both at once, and turned a screw at the case's foot with his thumb. The two lights went from a yellow and a slightly paler yellow to one yellow, steady, exactly the same, as two voices on a hymn find the same note.
 
 The lodger's tip turned.
 
-It came out of the cage. It came out over the iron sill, slowly, the whole grey length of it following the tip as a rope follows its end over a gunwale, and it went across the cinder toward the right-hand stool, not hurrying. It went past the left-hand stool and the one lit cell on it without lifting its tip an inch. It reached the right-hand stool and went up the leg.
+It came out of the cage. It came out over the iron sill, the whole grey length of it following the tip as a rope follows its end over a gunwale, and it went across the cinder toward the right-hand stool, not hurrying. It went past the left-hand stool and the one lit cell on it without lifting its tip an inch. It reached the right-hand stool and went up the leg.
 
 Somebody on the rail made a small sound.
 
@@ -264,7 +264,7 @@ The tip came to the brass case. It touched the place where the two cells sat sid
 
 Then it went in.
 
-Kiva did not see how. She saw the two yellow lights go grey, both together, as though somebody had breathed on a window; and she saw the tip of the cord go into the seam between them as though there were a door there and the door had been left open, and the grey length on the cinder behind it draw up after it, and grow shorter. The two cells went dark.
+Kiva did not see how. She saw the two yellow lights go grey, both together, as though somebody had breathed on a window. She saw the tip of the cord go into the seam between them as though there were a door there and the door had been left open, and the grey length on the cinder behind it draw up after it, and grow shorter. The two cells went dark.
 
 "Quench," said Coombe.
 
@@ -282,9 +282,9 @@ Selka Dray had her sunk grey eyes on the brass case.
 
 She lifted the lodger off the stool. She did it with the grey ward, drawn under it like a hand under a sleeping cat, and the whole length of it came up off the cinder and went back into the cage, coil by coil, and lay there with its tip turning.
 
-"Two of you," she said, to two Pit wards in brown who had been standing at the lattice. "A sack."
+"Two of you," she said, to two Pit hands in brown who had been standing at the lattice. "A sack."
 
-There was a sandbag on the cinder, ten paces from the cage. The first ward put a hand door under it, a tray of silver, low, as Kiva put hers under a thing for a tap. The second put a still door on it from above, a stance, his boot on the sack's top.
+There was a sandbag on the cinder, ten paces from the cage. The first put a hand door under it, a tray of silver, low, as Kiva put hers under a thing for a tap. The second put a still door on it from above, a stance, his boot on the sack's top.
 
 "Both," said Coombe. "Together. You've the sack between you. Agree on it."
 
@@ -292,11 +292,11 @@ They held it. The ward under and the stance on, both on one sandbag, both open a
 
 The lodger's tip turned.
 
-It turned toward them. Kiva saw it, from twenty paces, by the old mast; she saw it lift a hand off the floor of the cage and swing, slowly, past the dark cells on their stool, and stop, pointing, at a sandbag on the cinder with two people's doors on it.
+It turned toward them. Kiva saw it, from twenty paces, by the old mast; she saw it lift a hand off the floor of the cage and swing past the dark cells on their stool, and stop, pointing, at a sandbag on the cinder with two people's doors on it.
 
 "*Off,*" said Coombe. "One of you. Now."
 
-The still-door ward took his boot off the sack.
+The one with the stance took his boot off the sack.
 
 The lodger's tip hung in the air a moment, pointing. Then it swung away, as a dog's head swings away when the smell it had has gone, and lay down again on the floor of the cage.
 
@@ -306,7 +306,7 @@ The lodger's tip hung in the air a moment, pointing. Then it swung away, as a do
 
 She had not meant to say it aloud. She was twenty paces off by the mast, and it came out of her quite flatly, and carried, because the Pit was very quiet.
 
-"Two people," said Coombe. "A ward and a stance, on one thing, at once, agreeing. I don't know that it's a stack. I don't know what it is. I've no rule for it and no reading. I know that the lodger went to it." She looked along the rail, slowly, from one end to the other. "Every one of you has done it. You've put two hands on one litter. You've had a ward under a thing and a stance on it and called it a good hold. On a floor with one of those on it, you'll want to know whether you're doing it, and for how long."
+"Two people," said Coombe. "A ward and a stance, on one thing, at once, agreeing. I don't know that it's a stack. I don't know what it is. I've no rule for it and no reading. I know that the lodger went to it." She looked along the rail from one end to the other. "Every one of you has done it. You've put two hands on one litter. You've had a ward under a thing and a stance on it and called it a good hold. On a floor with one of those on it, you'll want to know whether you're doing it, and for how long."
 
 "*Mine before yours,*" said Perrin.
 
@@ -318,7 +318,7 @@ It was the best thing that they had. It had been a hand of four people on the po
 
 It had never been a ward and an Ember on one load.
 
-She had meant it to be. She had lain awake on Thursday night with her book, and the old word that Hollis Vane had read out of a ledger in the autumn, *crossing,* and Pru's fold, and Pike's columns; and she had worked out, at about three in the morning, that the thing she did alone with three doors could be done by three people with one each, and that the place where it would have to go from one of them to the next was the place where *mine* would have to come before *yours.*
+She had meant it to be. She had lain awake on Thursday night with her book, and the old word that Hollis Vane had read out of a ledger in the autumn, *crossing,* and Pru's fold, and Pike's columns. At about three in the morning she had worked out that the thing she did alone with three doors could be done by three people with one each, and that the place where it would have to go from one of them to the next was the place where *mine* would have to come before *yours.*
 
 "Ma'am," said Kiva. "If it's three people. A ward and an Ember and a stance. Passing one thing. And each of them takes it before the last lets go."
 
@@ -326,7 +326,7 @@ She had meant it to be. She had lain awake on Thursday night with her book, and 
 
 "I am," said Kiva.
 
-The Marshal looked at her across twenty paces of cinder, by the old mast, with her pale eyes.
+The Marshal looked at her across twenty paces of cinder, by the old mast.
 
 "Then you'd best find out what your mast says about it," she said. "Before your floor."
 
@@ -342,7 +342,7 @@ Noa brought the mast. It was not the Circuit's; that went back to the Chair's of
 
 They rigged it as Kiva had drawn it on the back of the tide table at three in the morning, with her aunt's leave.
 
-Gerald hung from the hoist on his pole. A cord ran from his belt across the lane to a ring in the south wall, taut, a yard off the ground; and under the cord, at the wall end, lay a second sandbag with a hat on it, which was the person who was pinned. It was the hill again, in the ninth month: a corner pinning Selka Dray to the ground, and the thing that had had to be done was to take the cord off her and carry it four paces east and plant it, so that the people who had her could pull her out.
+Gerald hung from the hoist on his pole. A cord ran from his belt across the lane to a ring in the south wall, taut, a yard off the ground. Under the cord, at the wall end, lay a second sandbag with a hat on it, which was the person who was pinned. It was the Pit in the ninth month, over again: a corner pinning Selka Dray to the ground, and the thing that had had to be done was to take the cord off her and carry it four paces east and plant it, so that the people who had her could pull her out.
 
 She had done that alone, once, with three doors.
 
@@ -356,7 +356,7 @@ They lit. Jude swung Gerald, and the cord went slack for a beat, and Pru's ward 
 
 Kiva opened the Ember door.
 
-The bar came down her right fist, long and narrow and dull orange, and she put the end of it to the penny in Pru's palms, as she had planned, and felt the cord's pull come up into the Ember through the touch like the tug of a fish on a line; and Pru had not shut yet, because *mine* had not been said, and for that moment the cord's whole pull lay between them on two doors at once, Pru's silver under and Kiva's orange over, and they agreed. She could feel them agree. It was soft. It was very soft, and very easy, and it cost nothing at all.
+The bar came down her right fist, long and narrow and dull orange, and she put the end of it to the penny in Pru's palms, as she had planned, and felt the cord's pull come up into the Ember through the touch like the tug of a fish on a line. Pru had not shut yet, because *mine* had not been said, and for that moment the cord's whole pull lay between them on two doors at once, Pru's silver under and Kiva's orange over, and they agreed. She could feel them agree. It was soft. It was very soft, and very easy, and it cost nothing at all.
 
 She knew that feeling. She had had it three times in the summer, and written it down: *Stacked again. Soft. I knew as I did it.*
 
@@ -382,13 +382,13 @@ Noa had not moved from the mast. He had the tape in his fingers, and he was look
 
 Nobody understood him.
 
-"It draws one line," said Noa. "For whoever's lit. I said. And when Finch had her ward up, it drew a ward line, and when Rowan lit, it drew—" He stopped. "It didn't draw two. It drew one. A ward line and an Ember line on top of each other, agreeing, for a count and a half. One line. It can't tell that there were two of you. There's nothing on this tape that says there were two of you." He looked up, and his face was white. "On a sanctioned tape, I'd have to call that a stack."
+"It draws one line," said Noa. "For whoever's lit. I said. And when Finch had her ward up, it drew a ward line, and when Rowan lit, it drew—" He stopped. "It didn't draw two. It drew one. A ward line and an Ember line on top of each other, agreeing, for a count and a half. One line. It can't tell that there were two of you. There's nothing on this tape that says there were two of you. And there's the same again at the second pass. Ember and stance. One line, for a count." He looked up, and his face was white. "On a sanctioned tape, I'd have to call that a stack."
 
 The yard was very quiet.
 
 "Whose?" said Anwen.
 
-"I don't know whose. A tape doesn't know whose. It knows that two doors were open on one thing and agreed." Noa held the tape out, at arm's length, as though it might go off. "And there's the same again at the second pass. Ember and stance. One line. A count."
+"I don't know whose. A tape doesn't know whose. It knows that two doors were open on one thing and agreed." Noa held the tape out, at arm's length, as though it might go off.
 
 Kiva stood by Perrin's mark with her Ember shut and her left hand cold.
 
@@ -402,7 +402,7 @@ If Noa had been at the Circuit's mast instead of the Low Lane's, and the Chair's
 
 "I'll say so to anybody."
 
-"I know you will." Kiva looked at the hat on the sandbag by the wall, lying free. "It doesn't matter whose. Coombe said. The lodger doesn't care whose. It went to two Pit wards on a sack who'd never laid a door in their lives."
+"I know you will." Kiva looked at the hat on the sandbag by the wall, lying free. "It doesn't matter whose. Coombe said. The lodger doesn't care whose. It went to two Pit hands on a sack who'd never laid a door in their lives."
 
 "Then we don't do *mine* before *yours,*" said Jude.
 
@@ -458,7 +458,7 @@ Kiva had not thought of one. She found that she had one ready, all the same; it 
 
 "*Nobody,*" she said.
 
-They tried it four more times, before the light went, and it did not work. It was better each time. The gap went from a count and a third to a count, and to two-thirds, and on the last it was a half; and on the last the cord went back across the lane only a hand's width before the Ember caught it, and jerked, and came, and Kiva went four paces east with it and called *nobody* in the air and Perrin opened late, and it went back again, all the way, to the hat.
+They tried it four more times, before the light went, and it did not work. It was better each time. The gap went from a count and a third to a count, and to two-thirds, and on the last it was a half. On the last the cord went back across the lane only a hand's width before the Ember caught it, and jerked, and came; and Kiva went four paces east with it and called *nobody* in the air, and Perrin opened late, and it went back again, all the way, to the hat.
 
 "Half," said Noa. "Clean. Two gaps, nothing across either." He wound the tape. "It isn't a quarter."
 
@@ -486,7 +486,7 @@ Noa was still at the mast. He had his notebook open on the drum, and he was writ
 
 "It's your tape." Noa went pink. "I'm asking."
 
-She looked at the page. She thought about being asked, and about all the people in that city who had been read off a tape in the last year without anybody asking them first, herself among them; and about a boy who went to the superseded stacks on his own time to look up a word.
+She looked at the page. She thought about being asked, and about all the people in that city who had been read off a tape in the last year without anybody asking them first, herself among them. She thought about a boy who went to the superseded stacks on his own time to look up a word.
 
 "Yes," she said. "Ask it."
 
@@ -502,7 +502,7 @@ It went as the first had gone. *Hand, to Ember. Rowan, changing on three.* The w
 
 The hand was white to the wrist and an inch above it. Kiva held it up to the grey morning and looked at it, and opened and shut it, and the eight fingers went slower than they had gone a week before, the order taking a long way round.
 
-She thought about the yard the afternoon before, and the cord going back across the lane to a hat. She thought about a quarter of a dram going out of her, alone, between two of her own doors, for a gap that nobody else could feel; and about a gap between two people that could be called, and heard, and timed by a boy with a tape, and that cost nothing at all except that somebody had to say the word at the right moment and somebody else had to believe her.
+She thought about the yard the afternoon before, and the cord going back across the lane to a hat. She thought about a quarter of a dram going out of her, alone, between two of her own doors, for a gap that nobody else could feel. She thought, too, about a gap between two people that could be called, and heard, and timed by a boy with a tape, and that cost nothing at all except that somebody had to say the word at the right moment and somebody else had to believe her.
 
 It was a queer exchange. It was ash for trust. She had never before been on the side of it that had the trust.
 

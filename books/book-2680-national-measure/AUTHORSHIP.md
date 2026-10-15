@@ -237,3 +237,113 @@ editorial pass.
 
 No frozen edition exists for Movement Two. The working tree is the first draft. Nothing was
 committed or pushed by the author. The run stops here for movement review.
+
+## Movement Two, consolidated repair — 2026-10-14
+
+- Status: **same-author repair of chapters 9–16, in place. Not rechecked, not cold-read after
+  repair, not accepted, not committed, not published.** Chapter 17 was not drafted.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier
+  `claude-opus-5-5`.** This cannot be verified independently from inside the session. No
+  subagent, other model or delegated worker wrote or edited any prose or record. No codex or
+  OpenAI call was made.
+- Session: Claude Code background job `80479656` (session
+  `80479656-0763-4f3d-9f66-f2642fb2b403`); remote session `session_01T4x7XmJ1EMJ7Cgi5u6Hx6E`.
+- Brief: delivered in-session. On inspection its text matches
+  `planning/OPUS-5.5-MOVEMENT-002-REPAIR.prompt.md`, SHA-256
+  `fbd07ebfebb72d9e9e73a58eac3a22195ca128266fb69f955a72a9b4793c73b1`.
+- Inputs, read in this order: `provenance/MOVEMENT-002-EDITORIAL-REVIEW.md`,
+  `provenance/MOVEMENT-002-COLD-READ.md`, `provenance/MOVEMENT-002-CONTINUITY.md`,
+  `STATE_LEDGER.md`, `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, then chapters 9–16 in full.
+  One Book One fact (the hill versus the Pit) was checked against the Book One context in
+  `planning/OPUS-5.5-MOVEMENT-001.v2.prompt.md`.
+- Scope, in three priorities:
+  - **Factual line fixes (seventeen, F1–F17 in the record):**
+    - the comb: one "first", now at the Order; Pru blames the thin third
+    - Pru's lost sheet and the grey double
+    - Jude's five cuts and Pru's four cords
+    - the countdown, 19/18
+    - six days, a fortnight, and five days
+    - "the feeling in two fingers"
+    - Hesketh's "two"
+    - Aske's colleague and the boot
+    - the stray quote in ch. 14
+    - the shed step, not the kitchen table
+    - the Pit, not the hill
+    - "since the autumn"
+    - Jude's limp acknowledged
+    - "a share" before Vane's weighing
+    - one slip that I introduced during the repair and corrected before finishing
+  - **Clarity:**
+    - "Pit hands" for the people formerly called wards
+    - "not a plank", with the unlike pair named
+    - the ch. 10 "since" chain made into short sentences
+    - the rung rule planted in ch. 10
+    - one Coombe line on why a license floor differs from a demonstration
+    - Noa's whole reading given before the Chair's sentence
+    - fifteen causal "since" recast
+    - four point-of-view sections anchored in their first sentence (Kellan's already was)
+    - a narration-only sentence pass: about 100 split points in about 90 sentences, and about
+      15 joins
+  - **Thinning:**
+    - "tied a knot" 21 → 7
+    - "I'd like it known" returned to Perrin alone (11 → 10)
+    - the corner-of-mouth tell kept for Kellan only
+    - Vane given his slate instead of "thirty years"
+    - "slowly" 39 → 26, "scratched his jaw" 10 → 4, "pale eyes" 8 → 3
+    - the ch. 14 van scene opened partway
+    - the ch. 16 month reading and Mara's ch. 14 share speech reduced
+
+  No event, outcome, date, ash figure, power limit, injury, knowledge boundary or reserved
+  disclosure was changed. Every ledger total is still on the page.
+- Record: `provenance/MOVEMENT-002-REPAIR.md`, with every correction and its evidence, the
+  before/after metrics, and the items deliberately left unchanged (for example, the open question
+  of whether the Pit's mast read the floor).
+- Word counts (`wc -w`): 59,623 → **59,234**. By chapter: ch. 9 8,917; ch. 10 6,225; ch. 11 7,891;
+  ch. 12 7,350; ch. 13 7,315; ch. 14 6,129; ch. 15 8,375; ch. 16 7,032.
+- Sentence measures (`provenance/tools/m2_metrics.py`, SHA-256 prefix `67e20cae24cf`).
+
+  | Measure | Before | After |
+  |---|---:|---:|
+  | All text: mean | 10.84 | 10.72 |
+  | All text: median | 6 | 6 |
+  | All text: ≤5 words | 46.0% | 44.6% |
+  | All text: ≥40 words | 4.6% | 3.6% |
+  | All text: longest sentence | 96 | 78 |
+  | Narration: median | 7 | 7 |
+  | Narration: ≤5 words | 43.5% | 41.4% |
+  | Narration: ≥40 words | 8.0% | 6.2% |
+
+  The editorial waypoint for narration (median 8–9, about 38% short, 3–4% long) was **not**
+  reached. The formula targets were not changed. Dialogue was not reshaped; that is pending an
+  owner decision.
+- Frozen edition `editions/movement-002-first-draft/` was not modified. `SHA256SUMS.txt` was
+  verified for all eight files before and after. Chapters 1–8 were not touched.
+- Records reconciled to the surviving prose: `provenance/MOVEMENT-002-CONTINUITY.md` (entries
+  marked *(repair)*) and the Movement Two block of `STATE_LEDGER.md`.
+- **Second repair (same day, job `fdbd4fb4`, runtime-reported `claude-opus-5-5`):** after the
+  fresh-context recheck (job `7508774e`), ch. 16 l.135 now reads "in the Pit in the autumn" in place
+  of "on a hill in the dark". Two continuity lines were corrected ("new this year" dropped; "two Pit
+  hands"). The record is in `provenance/MOVEMENT-002-REPAIR.md` §10. This is not confirmed and not
+  accepted.
+
+## Movement Two, targeted recheck, second repair and acceptance — 2026-10-14
+
+- Fresh-context targeted verifier: runtime-reported Claude Opus 5.5 (`claude-opus-5-5`), job `7508774e`
+  (session `7508774e-cd8e-49b8-b08c-951d352d2aff`). Prompt
+  `planning/OPUS-5.5-MOVEMENT-002-RECHECK.prompt.md`, SHA-256
+  `31b5407644c795cb5264f67dce555cee8949e8d75f6b3d92ec77c605fe5b57bc`. Report
+  `provenance/MOVEMENT-002-RECHECK.md`: seventeen factual corrections, the clarity edits and every
+  changed line checked; one defect found (`manuscript/chapter-16.md:135`).
+- Second repair by the same author seat: runtime-reported Claude Opus 5.5, job `fdbd4fb4`
+  (session `fdbd4fb4-e073-4ad5-884b-c2c3b3436ee6`), resumed from repair job `80479656`'s context.
+  Prompt `planning/OPUS-5.5-MOVEMENT-002-SECOND-REPAIR.prompt.md`, SHA-256
+  `4e16ccf8770234538c91b5e18d73a347007790c765270a9f0c95e45770f58fad`. Three edits only.
+  Showrunner (Sonnet 5.5) wrote no prose; it wrote the consolidated briefs, launched the children,
+  froze the pre-repair edition, and wrote the records.
+- First-repair prompt SHA-256 `fbd07ebfebb72d9e9e73a58eac3a22195ca128266fb69f955a72a9b4793c73b1`.
+  Frozen first draft: `editions/movement-002-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK).
+- Final word count 59,234 (`wc -w`). Final hashes: `provenance/MOVEMENT-002-RECHECK-CONFIRMATION.md`.
+- **Movement Two is accepted as editorial context for Movement Three.** All review, cold-read and
+  recheck passes were simulated by the same model family; none is human reader feedback or independent
+  testing. Formula sentence targets were not reached (see the confirmation file).

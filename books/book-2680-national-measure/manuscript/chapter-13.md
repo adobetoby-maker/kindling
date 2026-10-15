@@ -6,7 +6,7 @@
 
 "Then you'll not know what it looks like, and you'll have to take my word." Pru reached across and pressed Anwen's left thumb down onto the cord with one finger, as one presses a stamp onto an envelope. "There. That's the pin. Now the long end over and under, and you don't lift the thumb, whatever it wants."
 
-It was Wednesday afternoon, the 11th, and the two of them were sitting on the shed step with a sandbag between their knees, and the neck of an old purse sheet drawn up round the sandbag's top; and Anwen Pryce, who had the best Hold in the Third Division, was trying to tie three turns on it and making a very poor job of the third.
+It was Wednesday afternoon, the 11th, and the two of them were sitting on the shed step with a sandbag between their knees, and the neck of an old purse sheet drawn up round the sandbag's top. Anwen Pryce, who had the best Hold in the Third Division, was trying to tie three turns on it and making a very poor job of the third.
 
 "It won't go under."
 
@@ -30,7 +30,7 @@ Kiva was at the hoist with Perrin and Gerald and the Low Lane's old mast, and sh
 
 She had been working, all the morning, at a quarter of a count.
 
-They had the cord across the lane again, from Gerald's belt to the ring in the south wall, taut, with the second sandbag lying under it in its hat. Pru had caught the cord on its slack four times, and folded it, and held the penny out; and Kiva had said *nobody,* shorter, as Orla had told her, a word and a swallow, and Pru had shut on the *n* and Kiva had opened the Ember on the end of the word. On the third try the cord had come up into her bar with no more than a jerk. On the fourth it had come up with nothing at all, as clean as a coin from one palm to another.
+They had the cord across the lane again, from Gerald's belt to the ring in the south wall, taut, with the second sandbag lying under it in its hat. Pru had caught the cord on its slack four times, and folded it, and held the penny out. Kiva had said *nobody,* shorter, as Orla had told her, a word and a swallow, and Pru had shut on the *n* and Kiva had opened the Ember on the end of the word. On the third try the cord had come up into her bar with no more than a jerk. On the fourth it had come up with nothing at all, as clean as a coin from one palm to another.
 
 "A quarter," Noa had said, from the mast. "Or a hair over. Two lines. Nothing across the gap." He had not raised his voice. "That's clean."
 
@@ -90,7 +90,7 @@ Jude wrote it on his knee. *Wednesday the 11th. The Old Yard. The Low Lane's mas
 
 The Pit was full on Thursday morning, and the Marshal's floor was the only thing in it.
 
-There were people on every foot of the rail, three deep. The first company had come, all sixteen, because Coombe had said on Monday that anybody who was not standing a floor that day might watch and learn; and behind them there were the reserves, and a dozen juniors who had come down the hill at six with Bettony at their head, and Orla on a crate that somebody had carried down the steps for her, and Healer Aske by the old mast with his bag. Mara was there. She had not said that she would come. She stood at the west end of the gallery in her work apron with her hands in its pocket, as she stood at a pump house, out of everybody's way.
+There were people on every foot of the rail, three deep. The first company had come, all sixteen, because Coombe had said on Monday that anybody who was not standing a floor that day might watch and learn. Behind them there were the reserves, and a dozen juniors who had come down the hill at six with Bettony at their head, and Orla on a crate that somebody had carried down the steps for her, and Healer Aske by the old mast with his bag. Mara was there. She had not said that she would come. She stood at the west end of the gallery in her work apron with her hands in its pocket, as she stood at a pump house, out of everybody's way.
 
 Pike was there. Kiva saw him on the steps with Greta Stroud, his white arms on his knees.
 
@@ -104,7 +104,7 @@ Perrin declared. He did it straight through, from his cuff, without stopping, an
 
 "Yes, ma'am."
 
-"There's a lodger on this floor as well. I let it out at six. It's somewhere. I'll not tell you where." The pale eyes went along the four of them. "If it goes into one of you, I'll be there before it's finished. I'll not be there before it's started. You'll want to know where it is."
+"There's a lodger on this floor as well. I let it out at six. It's somewhere. I'll not tell you where." Her eyes went along the four of them. "If it goes into one of you, I'll be there before it's finished. I'll not be there before it's started. You'll want to know where it is. On Saturday I kept one off Rowan to teach a rail. This isn't teaching. It's a license, and the Longshore won't keep its lodgers away from her to suit a card."
 
 Nobody said anything. Kiva looked at the cinder, and the race along the south side, and the lattice at the north, and the steps; and she could not see it. There was no grey coil lying anywhere that she could see. There was a great deal of floor.
 
@@ -190,7 +190,7 @@ It leaned. It leaned a hair to the north, toward the lattice, toward the lit wal
 
 There was nobody to haul them.
 
-She had known there would not be. She had sat at a kitchen table on Thursday night and heard Perrin say it: *Pryce, when her wall's down. Talley, when he's cut.* And Anwen's wall was up, with a string leaning on it, and could not come down; and Jude was standing at the string's flank with his kill spent, because he was waiting for the second knot.
+She had known there would not be. She had stood by the shed step last Thursday morning and heard Perrin say it to the Marshal: *Pryce, when her wall's down. Talley, when he's cut.* And Anwen's wall was up, with a string leaning on it, and could not come down; and Jude was standing at the string's flank with his kill spent, because he was waiting for the second knot.
 
 "*Talley,*" said Perrin, from the lattice. "Corner. North."
 
@@ -212,15 +212,15 @@ There was a pause. It was not long.
 
 "*Rowan's ground,*" said Anwen.
 
-Kiva did not understand her. Then she did.
+Kiva did not understand her.
 
 "*I can't,*" she said. "I've the still declared. I can't put up a ward."
 
 "Not a ward. Your ground. Put your still door under my heels and *hold* me. I'll let the far end down and keep the near end up, at my hip, a yard of it, and if the string's leaning on a yard of wall that's planted on your ground, it'll stand. I've seen Stroud hold the end of Mace's line with a still-door at her back." Anwen's voice was very quick and very level. "Then I can come off with one hand. One. And tie."
 
-It was a plank.
+It was not a plank. A plank was two still doors on one patch of ground.
 
-It was a ward on a still door's ground. It was two unlike doors on one thing, at once.
+This was a ward on a still door's ground, Anwen's hand door on Kiva's still: two unlike doors on one thing, at once.
 
 "*No,*" said Kiva. "There's a lodger."
 
@@ -292,7 +292,7 @@ Jude went up the west side.
 
 "*Now?*"
 
-"*Now,*" said Kiva, since there was no time to wait for anything.
+"*Now,*" said Kiva, because there was no time to wait for anything.
 
 The second knot came off. The rung fell at the string's heels, on the downhill side, and the skin was half round behind it, half on the slope, and the rung came down on the skin's near edge, half on and half off, and lay there across it, and did not run.
 
@@ -348,7 +348,7 @@ Jude looked at Kiva.
 
 "And if it comes at me?"
 
-"It won't. You're one door." She stopped. "I think. It went for two. It went for the pair in the case and two wards on a sack and Perrin and Anwen. It's never been near one."
+"It won't. You're one door." She stopped. "I think. It went for two. It went for the pair in the case and two Pit hands on a sack and Perrin and Anwen. It's never been near one."
 
 "You think," said Jude.
 
@@ -360,7 +360,7 @@ It did not fall. It came apart. It went to ash all along its length at once, fro
 
 Nobody threw a cloth. There was nowhere to throw it.
 
-"Leave it," said Coombe. "That one's mine. I'll have the Wren House shovel it out." She came down the steps for the first time that morning, and stood on the cinder, and looked at the four of them, and at the three bags lying on the floor, and at Perrin at the lattice end with his hands hanging. She tied a knot. "Bags."
+"Leave it," said Coombe. "That one's mine. I'll have the Wren House shovel it out." She came down the steps for the first time that morning, and stood on the cinder, and looked at the four of them, and at the three bags lying on the floor, and at Perrin at the lattice end with his hands hanging. "Bags."
 
 The Wren House man brought the comb. He held it over each neck in turn. On each the third reed sang, and the seventh sang under it, faint, a thin high thread of a note. *Ward. Full. Trace.*
 
@@ -372,7 +372,7 @@ The Wren House man brought the comb. He held it over each neck in turn. On each 
 
 "Why?"
 
-"Because I'd not have Rowan put a ward under my heels with a lodger on the floor, and I'd not drop the string, and there was nobody else." Anwen's chin was up. "It's a remark. I know it's a remark."
+"Because I'd not have Rowan put her still door under my heels with a lodger on the floor, and I'd not drop the string, and there was nobody else." Anwen's chin was up. "It's a remark. I know it's a remark."
 
 "It's a remark. It's the only one." The Marshal turned. "Rowan."
 
@@ -386,7 +386,7 @@ The Wren House man brought the comb. He held it over each neck in turn. On each 
 
 "It was the only weight on the floor," said Kiva. "Pike said dead weight. I wasn't dead weight. I was planted. I don't know that it's the same. It held."
 
-"It held." Coombe looked at her for a long time with her pale eyes. "If it hadn't, you'd have had your boots in a fold with sixty drams of open ash, and I'd have been on that cinder before it finished and not before it started, as I said." She tied a knot. "I'll not have you do it again. I'll put it on the page, all the same. A planted foot on the far edge, by a catcher who had nothing else. With a line under it."
+"It held." Coombe looked at her for a long time with her pale eyes. "If it hadn't, you'd have had your boots in a fold with sixty drams of open ash, and I'd have been on that cinder before it finished and not before it started, as I said. I'll not have you do it again. I'll put it on the page, all the same. A planted foot on the far edge, by a catcher who had nothing else. With a line under it."
 
 "Yes, ma'am."
 
@@ -398,7 +398,7 @@ Perrin's head came up.
 
 "She did," said Perrin. "Yesterday. With my eyes shut."
 
-The Marshal looked at him. Something happened at one corner of her weathered mouth, and went again.
+The Marshal looked at him. Her hands went still on the rope.
 
 "Up," she said. "All of you. I'll sign it at the top."
 
@@ -430,7 +430,7 @@ Perrin looked at the sheet for a long time.
 
 She came to the Old Yard on Friday afternoon, the 13th, for the last time, and she stood on the shed step for an hour and watched three people pass a cord.
 
-Nobody had asked her to come. She was simply there, at two, with a fresh length of rope; and Pike was on the crate beside Orla, with his arms on his knees, and Noa was at the Low Lane's old mast, and Pru had Gerald on the hoist.
+Nobody had asked her to come. She was simply there, at two, with a fresh length of rope. Pike was on the crate beside Orla, with his arms on his knees, and Noa was at the Low Lane's old mast, and Pru had Gerald on the hoist.
 
 "Show me," said Coombe.
 
@@ -446,7 +446,7 @@ She went. Four paces east, low, with the cord riding along her fist, and at the 
 
 *"Nobody."*
 
-Perrin opened on the end of it. His eyes were open. He was looking at her as she came down at him, and he did not wait to see her land; he had heard the word and he believed it, and his still door was open under his heels before her foot came down beside them, and the cord went out of her fist and down into the dirt at his boots as though it had been nailed.
+Perrin opened on the end of it. His eyes were open. He was looking at her as she came down at him, and he did not wait to see her land. He had heard the word and he believed it, and his still door was open under his heels before her foot came down beside them; the cord went out of her fist and down into the dirt at his boots as though it had been nailed.
 
 The hat on the sandbag lay still.
 
@@ -460,11 +460,11 @@ The Marshal came down off the step.
 
 She walked along the scraped strip of the lane to where the cord went into the dirt at Perrin's boots, and looked at it. She looked at the three of them, one after the other: Pru with her palms open and nothing in them, and Kiva with her Ember shut and her left hand in her coat, and Perrin on his mark.
 
-"I've seen mixed fours pass a load hand to hand on the Longshore," she said. "A ward to a blade, to get a thing off a man. Badly. Every time I've seen it, it was two people grabbing at once and hoping. Twice it killed somebody." She tied a knot. "I've never seen it called."
+"I've seen mixed fours pass a load hand to hand on the Longshore," she said. "A ward to a blade, to get a thing off a man. Badly. Every time I've seen it, it was two people grabbing at once and hoping. Twice it killed somebody." She looked down at the rope in her hands. "I've never seen it called."
 
 "It's a crossing," said Jude.
 
-He was at the hoist, with Gerald's rope in his fist, and he said it as he said everything, slowly, scratching his jaw.
+He was at the hoist, with Gerald's rope in his fist, and he said it as he said everything, slowly.
 
 "It's what she does with three doors. Catch, carry, plant. Only it's handed. From one of us to the next." He looked at Kiva. "The Line had a word for it once. The other kind. Vane read it out of a ledger. *A crossing.* I'd call this one handed."
 

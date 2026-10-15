@@ -74,7 +74,7 @@ The first chalk mark was hers to stand on. The second was six paces on, down the
 
 "Then say it," said Orla.
 
-She turned to the mast. Noa had the white flag up. Pru had stopped making turns.
+She turned to the mast, where Noa had the white flag up. Pru had stopped making turns.
 
 "*Hand, to Ember. Rowan, changing on three.*"
 
@@ -82,17 +82,17 @@ She turned to the mast. Noa had the white flag up. Pru had stopped making turns.
 
 The hand door came up at her right hip.
 
-It was low and silver and about the size of a tea tray, as it always was now, and it lay across the eight fingers that reported like a thing that had been set down there and was not heavy. The first two fingers of her left hand stood clear of it, stiff, like the prongs of a fork. She had stopped trying to make them do otherwise. They were passengers on a ward. They went where it went and held nothing.
+It was low and silver and about the size of a tea tray, as it always was now, and it lay across the eight fingers that reported like a thing that had been set down there and was not heavy. The first two fingers of her left hand stood clear of it, stiff, like the prongs of a fork. She had stopped trying to make them do otherwise; they were passengers on a ward, and went where it went and held nothing.
 
 Orla leaned forward off her crate and tapped the ward with the end of her stick, once.
 
-It rang. It was a small, clear, cold sound, like a spoon on a glass, and Kiva felt it come up through the silver and into her palms; and that was the tap that a ward was for, the one tap, the shove of a thing that has to be caught. A catcher's ward that had been tapped had done its work, and the next thing that it did was fold.
+It rang. It was a small, clear, cold sound, like a spoon on a glass, and Kiva felt it come up through the silver and into her palms. That was the tap that a ward was for, the one tap, the shove of a thing that has to be caught. A catcher's ward that had been tapped had done its work, and the next thing that it did was fold.
 
 "*Two.*"
 
 She folded it from the far edge. The far edge came home over the near, and the near over itself, and the whole bright tray went down in her hands, as a sheet goes down on a laundress's table, until there was a penny of silver between her right palm and her left and nothing else. Then she shut the door on the penny.
 
-It was the near door. It always had been. The hand door lay closest of the three, just under the skin of her palms, and it went shut there with a small cold click that she felt in the bones of both wrists at once.
+It was the near door, and always had been. The hand door lay closest of the three, just under the skin of her palms, and it went shut there with a small cold click that she felt in the bones of both wrists at once.
 
 "*Three.*"
 
@@ -102,7 +102,7 @@ She had known it would be nobody. She had been nobody in the air over an oak flo
 
 The other gap had been in the air between two places. This one was in her hands.
 
-The cold did not wait to be paid for. It was in the first two fingers at once, which could not feel it, and then in the rest of the hand, which could; and it went up, over the knuckles and the back of the hand, toward the wrist, while she was still nobody, as though the door that had just shut had been the only thing between that hand and a great deal of winter.
+The cold did not wait to be paid for. It was in the first two fingers at once, which could not feel it, and then in the rest of the hand, which could. It went up over the knuckles and the back of the hand toward the wrist while she was still nobody, as though the door that had just shut had been the only thing between that hand and a great deal of winter.
 
 *Arrive before you're there.*
 
@@ -124,7 +124,7 @@ Noa did not answer at once. He had his face close to the drum, and the tape was 
 
 Kiva held up her left hand.
 
-It was white. It was white to the wrist and a little past, and the skin over the knuckles had the look of a candle end; and when she shut the hand, it shut slowly, all of it, the eight fingers as well as the two, as though the order had to go a long way to reach them. There was no pain in it. There was simply a great deal of cold, in a place that she was used to listening to, and the listening had stopped.
+It was white. It was white to the wrist and a little past, and the skin over the knuckles had the look of a candle end. When she shut the hand, it shut slowly, all of it, the eight fingers as well as the two, as though the order had to go a long way to reach them. There was no pain in it. There was simply a great deal of cold, in a place that she was used to listening to, and the listening had stopped.
 
 Pru had come up beside her. She took the wrist without asking and held it, two fingers on the pulse, and looked at the shed clock through the open door.
 
@@ -134,7 +134,7 @@ Pru had come up beside her. She took the wrist without asking and held it, two f
 
 "You'll stop when you stop. I'm only telling you what it is." She did not let go. "Is it worse than the other way?"
 
-Kiva thought about that honestly, since she had been asked.
+Kiva thought about that honestly, because she had been asked.
 
 "It isn't worse," she said. "It's nearer. Ember to still, the gap's out there, between two places, and you pay it and you're across. This one's in the hand. You shut the ward and the hand's the thing with nothing in front of it." She turned it over and looked at the white palm. "Orla. Is that what you meant? *The wrong half.*"
 
@@ -156,7 +156,7 @@ Perrin had gone to the shed door and was looking at the *43.*
 
 "One," he said, to the door. "I'd like it known that I'm not chalking those as well. I've one number to wipe off every morning and I find it's plenty."
 
-Kiva put her left hand inside her coat, against her ribs, where it could borrow some warmth, and found the disk there in the inside pocket where she kept it. It was cold. She had known it would be. She looked anyway, as she always looked, since there was a column in a book on a creaking stair that wanted the word written within the week, and she would not write a word that she had not checked.
+Kiva put her left hand inside her coat, against her ribs, where it could borrow some warmth, and found the disk there in the inside pocket where she kept it. It was cold, as she had known it would be. She looked anyway, as she always looked, because there was a column in a book on a creaking stair that wanted the word written within the week, and she would not write a word that she had not checked.
 
 ---
 
@@ -184,7 +184,7 @@ She found that she liked him the better for saying it, and that she had never ye
 
 The Pit was sunk below the Measure Hall's east yard like a dry dock with its water let out, and on that Monday morning it had sixteen students standing round its rail, and a cart in the middle of its floor.
 
-Kiva knew the Pit. Everybody on that rail knew it. It was a floor of packed cinder forty paces by twenty, with a stone race running the length of its south side and a lattice of black iron across the north end, where the Wren House kept what it kept; and in the spring she had stood on that cinder for a Flask qualifier with her heart in her mouth, and in the autumn there had been a square of skinned husks over the race with a white cord between them. There was a sixty-year-old mast on the gallery and a rail of worn oak round the top, and the steps down were steep and narrow and slick in frost.
+Kiva knew the Pit, as everybody on that rail knew it. It was a floor of packed cinder forty paces by twenty, with a stone race running the length of its south side and a lattice of black iron across the north end, where the Wren House kept what it kept. In the spring she had stood on that cinder for a Flask qualifier with her heart in her mouth, and in the autumn there had been a square of skinned husks over the race with a white cord between them. There was a sixty-year-old mast on the gallery and a rail of worn oak round the top, and the steps down were steep and narrow and slick in frost.
 
 The cart was new.
 
@@ -208,7 +208,7 @@ She did not say who she was. She did not need to say that either. There were six
 
 "Fours," said the Hunt Marshal again. "I'll not ask a third time."
 
-It was Wilf Marten who went first, since he had a chair to push and was used to being first. Twenty-Eight's captain declared his four by role and by door. Selka Dray was in it, on two sticks, standing; she was the blade, and she declared her own door herself before Marten could, and he let her. Then Old Four, in Lowen Brask's flat voice, though Brask was not its captain and said so. Then Halden License, by Pettit, who was.
+It was Wilf Marten who went first, because he had a chair to push and was used to being first. Twenty-Eight's captain declared his four by role and by door. Selka Dray was in it, on two sticks, standing; she was the blade, and she declared her own door herself before Marten could, and he let her. Then Old Four, in Lowen Brask's flat voice, though Brask was not its captain and said so. Then Halden License, by Pettit, who was.
 
 *Blade: Renn, K. Ember.*
 
@@ -238,11 +238,11 @@ Nobody spoke. Kiva felt the whole rail decide not to look at her, all at the sam
 
 She did not explain what a pack was. She opened the cage.
 
-She did it by laying her palm flat on the grey ward and drawing it aside, as one draws back a curtain, and the ward came away from one end of the box in a single heavy fold and hung there from her hand. It did not tremble. Kiva had seen wards held by Torches, and by Doran Mace's whole line at once, and by Anwen at the end of a long wall with her teeth set; she had never seen one held as this was, by one hand, without the least sign that it was being held at all.
+She did it by laying her palm flat on the grey ward and drawing it aside, as one draws back a curtain, and the ward came away from one end of the box in a single heavy fold and hung there from her hand. It did not tremble. Kiva had seen wards held by Torches, and by Doran Mace's whole line at once, and by Anwen at the end of a long wall with her teeth set. She had never seen one held as this was, by one hand, without the least sign that it was being held at all.
 
 The three things came out onto the cinder.
 
-They were husks. Kiva had seen husks since she was thirteen, and these were like all the others and not like any of them. Each was the height of a tall man, a column of grey stuff like a sack of fine ash stood on end, belted at the middle by a knot as thick as a man's arm; and each stood on three thin legs, set wide, like a milking stool. They had no faces. They had a breath, which came out of them all over, as frost comes off a field at dawn, and wherever the breath touched the cinder it went white.
+They were husks. Kiva had seen husks since she was thirteen, and these were like all the others and not like any of them. Each was the height of a tall man, a column of grey stuff like a sack of fine ash stood on end, belted at the middle by a knot as thick as a man's arm. Each stood on three thin legs, set wide, like a milking stool. They had no faces. They had a breath, which came out of them all over, as frost comes off a field at dawn, and wherever the breath touched the cinder it went white.
 
 They stood in a row. Then they stamped.
 
@@ -258,7 +258,7 @@ She did not believe it. Her heart was going hard, and she knew that it was, and 
 
 *Pushing. And not.*
 
-It was slow. It was not her pulse, which was quick. It might have been the husks. It might have been the cart, or the race, or the old mast, or the bank of lamp-cells in the Measure Hall's cellar, sixty yards off through the ground. A needle with no scale said that something was keeping time, and said nothing about what.
+It was slow, and it was not her pulse, which was quick. It might have been the husks. It might have been the cart, or the race, or the old mast, or the bank of lamp-cells in the Measure Hall's cellar, sixty yards off through the ground. A needle with no scale said that something was keeping time, and said nothing about what.
 
 "Who'll go first?" said Coombe.
 
@@ -272,7 +272,7 @@ They went down the steps.
 
 Kiva had been on that cinder before and she knew where she wanted to be, and she went there: east of the husks, eight paces back, on ground that she tested under her heel through her door before she put her weight on it, with her cloth over her shoulder and her left hand in her coat. Anwen went to the south, between the husks and the race, and brought her wall up low across the cinder, a pace long and then two and then four, silver, steady, her hands down by her hips. Perrin went to the middle, where he could see everything and be in the way of nothing. Jude went forward.
 
-He walked toward the near husk with his long arms loose and his head on one side, as he always walked toward a thing that wanted killing; and Kiva watched him come into the frost that the three of them breathed, and saw his boots go white at the toes.
+He walked toward the near husk with his long arms loose and his head on one side, as he always walked toward a thing that wanted killing. Kiva watched him come into the frost that the three of them breathed, and saw his boots go white at the toes.
 
 *One.* They stamped. *Two.* They leaned. *Three.* They came back.
 
@@ -286,7 +286,7 @@ It was a good cut. It came down out of his shoulder, heavy and straight, and wen
 
 The other two stamped.
 
-And the near husk did not fall. The cut closed. It closed from the bottom up, as water closes behind an oar, and the knot was whole again; and the two husks beside it had leaned in toward it on the stamp, one from each side, close enough to touch, so that for the length of a breath there were not three things standing on that cinder but one, broad, with nine legs.
+And the near husk did not fall. The cut closed. It closed from the bottom up, as water closes behind an oar, and the knot was whole again. The two husks beside it had leaned in toward it on the stamp, one from each side, close enough to touch, so that for the length of a breath there were not three things standing on that cinder but one, broad, with nine legs.
 
 Then the three of them stepped forward together onto Jude.
 
@@ -332,7 +332,7 @@ It was slower than her heart. She was nearly sure.
 
 "And the other two were there. On the same count. They're always there on the count." She stopped. "I don't know that. It's what I saw."
 
-"It's what you saw. I'll take what you saw." Coombe tied a knot. "And whose is the count?"
+"It's what you saw. I'll take what you saw. And whose is the count?"
 
 Kiva had the answer to that. She had had it on a list since the ninth month, and she had said it on a pavement on the Brickfields road with a warden listening.
 
@@ -364,7 +364,7 @@ He said it in a voice of deep injury. He was standing at the foot of the steps w
 
 Halden went down the steps in black and gold.
 
-Kiva watched them as she had watched a laundress, with her hands still and her head still, because it was a thing worth watching. They were very good. Hesketh had her wall up before her boots were on the cinder, and Pettit was in the middle, and Yarrow was east with his cloth over his shoulder, almost where Kiva had stood; and Kellan went up the north side on his struts in two long low bounds, dark, and stood behind the far husk with his edge unlit, and looked over his shoulder.
+Kiva watched them as she had watched a laundress, with her hands still and her head still, because it was a thing worth watching. They were very good. Hesketh had her wall up before her boots were on the cinder, and Pettit was in the middle, and Yarrow was east with his cloth over his shoulder, almost where Kiva had stood. Kellan went up the north side on his struts in two long low bounds, dark, and stood behind the far husk with his edge unlit, and looked over his shoulder.
 
 "*Now?*"
 
@@ -372,7 +372,7 @@ He said it to Yarrow, and Kiva's stomach did a thing that she had not expected a
 
 "*Now,*" said Yarrow.
 
-The edge came blue-white down Kellan's fist. It went in at the far husk's knot, level, exact, the best cut that Kiva had seen on that cinder in her life; and it went in on the stamp, since the stamp was when the far husk stood still. The knot closed behind it. The three leaned in. Kellan was gone before they stepped, back along the north side in one bound, dark, untouched, and he landed behind a post of the lattice and stood there with his hand down.
+The edge came blue-white down Kellan's fist. It went in at the far husk's knot, level, exact, the best cut that Kiva had seen on that cinder in her life; and it went in on the stamp, because the stamp was when the far husk stood still. The knot closed behind it. The three leaned in. Kellan was gone before they stepped, back along the north side in one bound, dark, untouched, and he landed behind a post of the lattice and stood there with his hand down.
 
 "Out," said Coombe.
 
@@ -446,7 +446,7 @@ She said it without any expression. She had not lit, and she had not moved, and 
 
 Jude did not argue. He looked at his white boot.
 
-"That's what a pack is," said Coombe, to the rail. "On the Longshore they come in fives. Cut one in time and the others close it. Cut one out of time and you've broken it, and you've three counts, perhaps four, while they find their feet. In those three counts you've to cut the next. Out of time again. And the count they find, when they find it, isn't always the one they had." She tied a knot. "Who had the count when the first one fell?"
+"That's what a pack is," said Coombe, to the rail. "On the Longshore they come in fives. Cut one in time and the others close it. Cut one out of time and you've broken it, and you've three counts, perhaps four, while they find their feet. In those three counts you've to cut the next. Out of time again. And the count they find, when they find it, isn't always the one they had. Who had the count when the first one fell?"
 
 "Me," said Perrin. "And then I hadn't."
 
@@ -458,7 +458,7 @@ Jude did not argue. He looked at his white boot.
 
 She went down the steps, alone, and walked across the cinder between the two stamping husks as though they were cows in a lane, and picked up the sealed bag by its neck, and walked back. Neither husk turned its head. Kiva did not breathe until the Marshal was on the bottom step again.
 
-"Board's yield," said Coombe, and gave the bag to the Wren House man, who put a tag on it. She looked down at the cart, and at the grey ward lying folded over its open end, and closed the ward again with one hand, as one draws a curtain, with the two husks inside; Kiva never saw them go in. "That's not your floor, Seven. That was mine. Your floor's the twelfth, at a dram a head, and you'll have one, and I'll mark it. Before then I want three things, and I'll be at your yard to see them, and I'll not be told about any of them. I'll be shown."
+"Board's yield," said Coombe, and gave the bag to the Wren House man, who put a tag on it. She looked down at the cart, and at the grey ward lying folded over its open end, and closed the ward again with one hand, as one draws a curtain, with the two husks inside. Kiva never saw them go in. "That's not your floor, Seven. That was mine. Your floor's the twelfth, at a dram a head, and you'll have one, and I'll mark it. Before then I want three things, and I'll be at your yard to see them, and I'll not be told about any of them. I'll be shown."
 
 "Three, ma'am?" said Perrin.
 
@@ -482,7 +482,7 @@ Jude read the book out that evening at the Rowan kitchen table, standing by the 
 
 "You're saying it for Kellan," said Anwen.
 
-"I'm saying it since somebody has to. I've found I like the sound of it. I'd no notion." He scratched his jaw and then winced, because he had moved his leg. "And *burned, Talley, the left shin, a husk's breath, to the knee; not taken.* I've written that too. I'd want it in."
+"I'm saying it since somebody has to. I've found I like the sound of it. I'd no notion." He shifted against the dresser and winced, because he had moved his leg. "And *burned, Talley, the left shin, a husk's breath, to the knee; not taken.* I've written that too. I'd want it in."
 
 Mara was at the far end of the room, at her half of the oilcloth, with Saltmere's tide table spread under the lamp like a railway guide. She had a pencil behind her ear and another in her hand, and she had not spoken since they came in. Perrin sat on the stool with his head in his hands. Pru was on the floor by the stove with her back against the dresser's end, and she had a hank of cord round her wrist and was not making turns on it.
 
@@ -532,7 +532,7 @@ Nobody answered. It was the Pit again, the same quiet, with a question in it tha
 
 "You hauled a corner."
 
-"I hauled a corner since I've always hauled a corner. It's habit. It's a good habit; you can't get a neck up with fewer than two." He scratched the back of his neck. "So somebody else hauls it. Finch, if she's on the floor. Pryce, if her wall's down. Anybody. And I stand at the side like a man at a football match and say *one and two and.*"
+"I hauled a corner because I've always hauled a corner. It's habit. It's a good habit; you can't get a neck up with fewer than two." He scratched the back of his neck. "So somebody else hauls it. Finch, if she's on the floor. Pryce, if her wall's down. Anybody. And I stand at the side like a man at a football match and say *one and two and.*"
 
 "And if somebody's hurt?" said Jude.
 
@@ -548,7 +548,7 @@ It was the first thing that she had said since they sat down. She was looking at
 
 "From *him.* If Cade's counting and he has to go, and Pryce takes it. Does she take it from him or from the pack? Because those aren't the same. If he says *four* and she says *one,* she's on his count. But if he's lost it—" Pru went pink, and kept going. "If he's lost it, then she's taking a wrong count off him. And the pack doesn't care what we say."
 
-"She'd take it off the pack," said Anwen slowly. "She'd have to look at their feet."
+"She'd take it off the pack," said Anwen. "She'd have to look at their feet."
 
 "Then she ought to be looking at their feet already," said Pru. "Before he hands it over. Not after."
 
@@ -558,7 +558,7 @@ Kiva looked at the sheet. She had *mine* before *yours* on a sheet of her own, i
 
 It was the same thing. She had not seen that it would be.
 
-She wrote it under *Second try,* since that was where it went. *Whoever takes the count is counting before it's given. Then it's said: "yours." Then "mine." P.F.*
+She wrote it under *Second try,* because that was where it went. *Whoever takes the count is counting before it's given. Then it's said: "yours." Then "mine." P.F.*
 
 "That's yours," she said. "I've put your initials."
 
@@ -582,7 +582,7 @@ Mara had put her pencil down.
 
 "I asked Perrin," said Kiva. "He counted it. He said four, and a light stamp."
 
-"Then you asked the right person." Her aunt picked up the pencil again, and looked at the tide table, and did not write anything. "Your needle has no scale on it. His has. Put the two together and you've an instrument." Something moved at the corner of her mouth. "I've been trying to make one out of a fitter's watch and a table of the sea for a month. It's a comfort to see it done at a kitchen table in an hour."
+"Then you asked the right person." Her aunt picked up the pencil again, and looked at the tide table, and did not write anything. "Your needle has no scale on it. His has. Put the two together and you've an instrument." Her pencil tapped once on the tide table. "I've been trying to make one out of a fitter's watch and a table of the sea for a month. It's a comfort to see it done at a kitchen table in an hour."
 
 "It didn't work. It broke one in three."
 
@@ -596,7 +596,7 @@ Kiva wrote it.
 
 She had not expected to fill it. She had found that she was easier with an empty *why* than she used to be. A square that was left white was a square that somebody might fill one day without having to rub anything out first.
 
-She held up her left hand to the lamp before she put the pencil down. It had been warm since noon, as Aske had said it would be, and he had walked down to the Pit to see it and said so, and written it, and gone back up again with Jude's colleague's boot under his arm. The eight fingers shut when she told them. The two stuck out. It was as before.
+She held up her left hand to the lamp before she put the pencil down. It had been warm since noon, as Aske had said it would be, and he had walked down to the Pit to see it and said so, and written it, and gone back up again with his colleague, who had seen to Jude's boot. The eight fingers shut when she told them, and the two stuck out, as before.
 
 She wrote that too, on the right, small: *Hand to Ember, one. Cold to the knuckle at seven; warm at noon. Five more wanted. Four can be had here.*
 
