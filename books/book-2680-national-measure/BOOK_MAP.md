@@ -365,6 +365,8 @@ what the gathering is for, or what happens when the roof is off.
 | The Order's house on the latch (Book One) | Entered on Kiva's terms, for ash and not for a year (Two). |
 | Jude: "I'd want to see the sea" (Book One) | He stays beside it (Six). |
 
+Note, 2026-10-15 (Movement Three repair): Rhea went short in **Movement Three** (ch. 20, Gannet Creek), as `packets/MOVEMENT-003.md` authorised, not in Four as the row above says (review C17).
+
 ## 13. Reserved (do not spend in Book Two)
 
 The full loss of the filter. Pure Glory presence. The cause of the Fall. The disk's origin and

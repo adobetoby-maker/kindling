@@ -518,9 +518,13 @@ the third month; her card ends on the 30th.
 
 ## Movement Three block — chapters 17–24 (first draft, 2026-10-14/15)
 
-Status: **from first-draft prose, unreviewed.** Everything here is on the page of
-`manuscript/chapter-17.md` to `chapter-24.md`. The full record is `provenance/MOVEMENT-003-CONTINUITY.md`.
-If review or repair changes the prose, this block is corrected from the surviving text. Span: Monday the
+Status: **from first-draft prose. Reviewed (editorial review and simulated cold read, same family). Same-author
+consolidated repair applied 2026-10-15** (`provenance/MOVEMENT-003-REPAIR.md`). **Rechecked (fresh-context, same family); one sentence fixed; accepted as editorial context 2026-10-15** (`provenance/MOVEMENT-003-RECHECK-CONFIRMATION.md`).
+Everything here is on the page of `manuscript/chapter-17.md` to `chapter-24.md` as repaired. The full record
+is `provenance/MOVEMENT-003-CONTINUITY.md` (reconciled the same day). The repair changed no event, date, ash
+figure, power limit, injury, knowledge boundary or reserved disclosure. It corrected how lane 2 is tallied by
+carry, the bag count on Rhea's slate, Aske's Friday night count, the Hoop's Tuesday end time and the order in
+which Thursday's hand checks are told. Those lines are marked *(repair)* below. Span: Monday the
 30th of the second month, 2681 (the coast boat), to seven on Monday the 14th of the third month.
 
 ### M3.1 Kiva Rowan
@@ -530,8 +534,9 @@ If review or repair changes the prose, this block is corrected from the survivin
   Meridian, two at the Saltmere gate mast, read by N. Bexley). **Two crossings certified**: Ember to still;
   hand to Ember. One in seven days at most.
 - **Fifth** (Thu 3rd, 0.31) — cold to a hand below the elbow; warm Sun 6th at seven: **three nights.**
-  **Sixth** (Thu 10th, 0.30) — cold to **the elbow, an ache in the joint**; warm **Mon 14th at seven: four
-  nights.** Aske: the reach is at the elbow; he wants it warm on more than one morning before a seventh;
+  **Sixth** (Thu 10th, 0.30) — cold to **the elbow, an ache in the joint** (noon and four; a hand below at
+  ten; the noon check is told after Adlam's 11.30 visit and the wire *(repair)*); Aske on Friday at seven:
+  "three nights to go" *(repair)*; warm **Mon 14th at seven: four nights.** Aske: the reach is at the elbow; he wants it warm on more than one morning before a seventh;
   **Thursday the 17th is the soonest.** Aske says the price before each crossing.
 - **The notch** at the Saltmere gate mast follows a **single** cliff: **seven seconds** (fifth), **six**
   (sixth), on every pen. Meridian: eleven, after a second cliff only. Unexplained; "a coast thing."
@@ -540,7 +545,8 @@ If review or repair changes the prose, this block is corrected from the survivin
   same hour (a quarter to seven), yes or no; first entry Sun 13th: yes.
 - **The disk:** cold every time, including on the Proprietor's table. Fourth-column lines for both crossings.
 - **Fever, Friday the 11th** after the Counting House: to 112, broke about three; **no dream.** Aske's card:
-  *Fever, the second this year. Both near a Glory master, within the day.*
+  *Fever, the second this year. Both near a Glory master, within the day.* Kiva said aloud, "Nothing came."
+  Aske wrote a line on the card that she did not see.
 - **Near the Proprietor her pulse falls to his count (57)** and her Ember and still door want to fall in; she
   held them shut.
 - **The dream:** not recurred; **known to nobody new.** The ferry detail of lights "gone white" is **Kiva's
@@ -552,12 +558,14 @@ If review or repair changes the prose, this block is corrected from the survivin
 ### M3.2 Team Seven
 
 - **Seeded twelfth of twenty-four** (*won one, lost two; twelve for, sixteen against*): lost 2–7 to the
-  Ropewalk first four (Wed 2nd); won 6–4 against the Ropewalk second four (Sat 5th); lost 4–5 to the Tarn
-  first four (Sat 12th, Pru catching; Kiva stood down on her healer's card).
+  Ropewalk first four (Wed 2nd); won 6–4 against the Ropewalk second four (Sat 5th; by carry 4–0, 4–4, 6–4,
+  the first-carry down added in repair so the carries sum to the marshal's total *(repair)*); lost 4–5 to the
+  Tarn first four (Sat 12th, Pru catching; Kiva stood down on her healer's card).
 - **Seeding board on the page:** 1 the Ropewalk first four; 2 Halden License; 3 the Tarn first four; 6 Old
   Four; 9 Team Twenty-Eight; 12 Team Seven; 15 the Ropewalk second four.
 - **Corrections:** "make it walk" (a laid person must unlay to move and is nothing for a count; their catcher
-  calls *run* / *lay*); Pru watches hands, Kiva feet.
+  calls *run* / *lay*); Pru watches hands, Kiva feet. Seven's own rule *(repair, stated in lane 1)*: the
+  catcher's hands stay off the poles while her one declared door is open on the hurdle. Carrying needs no door.
 - **The book:**
 
 | Line | Drams |
@@ -594,7 +602,9 @@ the difference. The lodger did." Entered by the Clerk **"in no circuit's column.
 - **The Hoop:** a grey ring that rises from the basin mud ten paces from the outfall grating at each spring
   low-water slack and lies down when it ends; inside it held water trembles **four and four at the bank's
   count**; while it stands the basin is otherwise **quiet by Hart's hand**. A hand high on the 26th of the ninth
-  month; 4 ft 1 in a fortnight before; **4 ft 6½ in on the 8th and 9th of the third month.**
+  month; 4 ft 1 in a fortnight before; **4 ft 6½ in on the 8th and 9th of the third month.** Stood 6.12–6.33
+  on the 8th (21 minutes; *repair*, was 6.35) and 6.13–6.33 on the 9th (20 minutes). Open owner item: the
+  slack's start moves one minute between consecutive days (review C12).
 - **The basin's slack lags the sea gate's table by twenty-three minutes.**
 - **The Saltmere keeper's entry for the 11th of the third month, 2604** (found by Peverell): a ring a hand high at
   the outfall; a keeper's fever, two nights; "no roof… nothing over… not empty… not dark. Something was
@@ -618,7 +628,7 @@ the difference. The lodger did." Entered by the Clerk **"in no circuit's column.
 | **Orla Dane** | Certified the second crossing. Read the ferry line; did not ask. Told Kiva herself that the meeting with Hart went badly. |
 | **The Proprietor (Ambrose Halden)** | Says he is 103; a bench clerk in the Counting House in 2604; **a fever that night**; saw stepped lamps go white and the low town's go out. **Left hand on the foundation cell's glass case since 2611.** People near him fall into his count. Saw the plate (watch vote **four hands, three fists**: shown in her own hand if she chooses). Asked for the three-door; refused; "glad you said no." |
 | **Mr. Adlam** | Bench books; offered 12 drams for the sealed plain; took no. |
-| **Rhea Sorn** | Went short on the coast night by her card (half a rung, a remark under her name); spring's advice given; **one night left** before the 30th. |
+| **Rhea Sorn** | Went short on the coast night by her card (half a rung, a remark under her name); slate: *seven bags, and the net's tin; the seventh bag light* *(repair; was "six… the sixth")*; a second "since the first month" *(repair)*; spring's advice given; **one night left** before the 30th. |
 | **Pike** | Dressings off Fri 4th; fingers close halfway; took far edge and voice at dawn; Kiva's second in the yard on the 13th. |
 | **Pru Finch** | Stayed on the coast night; caught lane 3; watches hands. |
 | **Jude Talley** | Met Yeo ("not yet"); saw the Hoop. |
@@ -637,10 +647,20 @@ the difference. The lodger did." Entered by the Clerk **"in no circuit's column.
 | The Saltmere 2604 entry | Peverell, Mara, Kiva. |
 | The Proprietor's 2604 fever and lamps | Kiva, Perrin, Orla. |
 | Kiva's fevers near Glory masters (no content) | Aske, Pru, Orla, Perrin; Kellan saw. |
+| That Kiva expected something to come with the fever ("Nothing came," said aloud) | **Aske and Pru now suspect.** No content. A decision made on the page *(recorded at repair; no prose change)*. |
 | Orla and Hart met, badly | Orla, Hart, Kiva. |
 | What Hart dreamed, if anything | Nobody; Kiva did not ask. |
 
 ### M3.8 Dates ahead
 
-The Bench, Mon 14th (Kiva not at the Bench); the Carry, Tue 15th; the Hunt; the Lane, 17th–19th. **Soonest
+The Bench, Mon 14th (Seven stands; Kiva not at the Bench, by her card *(repair)*); the Carry, Tue 15th; the
+Hunt; the Lane, 17th–19th. **Soonest
 seventh crossing Thu 17th.** **The prediction opens at noon on Wed 23rd.** Rhea's card ends on the 30th.
+
+### M3.9 Open owner items carried from the Movement Three repair (prose unchanged)
+
+The harbour clock (the basin's slack moves one minute between consecutive days; review C12). The 41-minute
+hold against a twenty-minute quiet (C13). The brown-ink "temperature" line (C14). "My best machine" (C21).
+Whether the sentence targets govern dialogue. The front-load progression arithmetic. Accepted as departures at
+repair, per the brief: the Graving used as a seeding floor (C15) and Rhea's slate written out again (C16).
+See `provenance/MOVEMENT-003-REPAIR.md` §5.

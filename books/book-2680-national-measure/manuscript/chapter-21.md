@@ -2,7 +2,7 @@
 
 The gate mast was lit at six on Tuesday morning by four lamps on poles, and there were more people round it than Kiva had seen at any reading in her life.
 
-She had slept for three hours. She had come up Quay Street at two with mud to her knees and Jude's lantern going out. Aske had been awake in the bed by the door, and he had said nothing, and had held her wrist for a minute in the dark, and then turned over. Now she stood on the boards of the timber pond in a clean skirt with her hair wet from the pump. The sky was grey over the Graving's glass roof, and she could still feel the creek's cold in the bones of her knees.
+She had slept for three hours. She had come up Quay Street at two with mud to her knees and Jude's lantern going out. Aske had been awake in the bed by the door, and he had held her wrist for a minute in the dark without a word, and then turned over. Now she stood on the boards of the timber pond in a clean skirt with her hair wet from the pump. The sky was grey over the Graving's glass roof, and she could still feel the creek's cold in the bones of her knees.
 
 The Ropewalk had come. All of it, it seemed: the first four in front, Carrow with her arms folded and Lyle half a pace behind, and behind them a crowd in green. They did not say anything. They had not come to say anything. They had come to watch Meridian be read in front of them, as their own people had been read in front of the town a week ago.
 
@@ -46,17 +46,15 @@ She did not do anything clever. She stood with her weight even, as Carrow had st
 
 Kiva shut. She stepped off the cross.
 
-The Clerk had not moved. She stood with her hands folded and looked at the two tapes, at the single line on each, and said nothing at all. Then she inclined her head an inch toward the clerk with the list, as a person does who has seen what she came to see.
+The Clerk had not moved. She stood with her hands folded and looked at the two tapes, at the single line on each. Then she inclined her head an inch toward the clerk with the list, as a person does who has seen what she came to see.
 
 "That's the candidate under the rule," said the clerk with the list. "The reading's done."
 
 "No," said Perrin.
 
----
-
 Everybody looked at him.
 
-He had gone red. He had known that he would, and he did not seem to mind it. He stood by the reading desks with his big hands at his sides and the coil of Coombe's rope over one shoulder, where it had been since the moor.
+His jaw was set hard at the hinge, as it had been in the Ropewalk. He did not seem to mind that anybody saw it. He stood by the reading desks with his big hands at his sides and the coil of Coombe's rope over one shoulder, where it had been since the moor.
 
 "I'd like a thing read," he said. "Under my own name. It isn't her. It's me and Pryce."
 
@@ -83,8 +81,6 @@ The Clerk of the Measure looked at Perrin for a long moment. Her face did not ch
 "It's on our book. Talley's got it."
 
 "Then read it," said the Clerk to the two desks. "And write down what it is."
-
----
 
 They did it on the boards under the mast, between the two white crosses, with the whole of the Ropewalk watching.
 
@@ -162,7 +158,7 @@ Carrow was at the tent pole when Kiva went to read it. She had read it already. 
 
 "There's a thing in the mud on your Longshore," said Kiva. "Coombe calls it a lodger. It goes to two doors agreeing."
 
-"I know. Maud told me last night. Your Hold told her." Carrow looked at her steadily. "Wenna had a bad night. That's what we say. I've laid on the flats every spring since I was fourteen, and so has Maud, and we've both still got two." She unfolded her arms. "I'll think about it. I'll not stop. I'll think about it."
+"I know. Maud told me. Your Hold told her." Carrow looked at her steadily. "Wenna had a bad night. That's what we say. I've laid on the flats every spring since I was fourteen, and so has Maud, and we've both still got two." She unfolded her arms. "I'll think about it. I'll not stop. I'll think about it."
 
 "That's all anybody asked."
 
@@ -202,7 +198,7 @@ It stopped.
 
 Inside the ring there was water.
 
-It was brown harbour water, level with the ring's lip, four and a half feet above the mud. It should have run out. There was nothing to hold it but a ring of grey that stood on the mud like a wall round a pond. But it was held. It stood up inside the ring, flat and brown and full, four and a half feet higher than the water outside, as though the ring were a cup and somebody had filled it.
+It was brown harbour water, level with the ring's lip, four and a half feet above the mud. It should have run out. But it was held. Although there was nothing to hold it but a ring of grey set on the mud like a wall round a pond, it stood up inside the ring, flat and full, four and a half feet higher than the water outside, as though the ring were a cup and somebody had filled it.
 
 And its surface moved.
 
@@ -222,11 +218,11 @@ The outfalls below her went on pouring into the basin, four and four, in step wi
 
 "It's not in my fault column," said Peverell. "Nothing's at fault. The pumps are sound. The cells are sound. It's not a fault for a ring to come up out of the mud at the bottom of a spring tide and stand there." She was holding the rail very hard. "It's in my remarks. Every one. Since the twenty-sixth of the ninth month, a hand high. My first keeper taught me what goes in remarks."
 
-Rusk had opened his eyes. He was looking at the ring with an expression that Mara had never seen on him, and she had seen him look at a great many things. He did not say anything. He took a pencil out of his waistcoat and wrote in a small book with a black cover.
+Rusk had opened his eyes. He was looking at the ring with an expression that Mara had never seen on him, and she had seen him look at a great many things. He took a pencil out of his waistcoat and wrote in a small book with a black cover.
 
 The ring stood for twenty-one minutes.
 
-At six thirty-five Hart said, "Ache," and the ring went down.
+At six thirty-three Hart said, "Ache," and the ring went down.
 
 It went down as it had come up, all round at once, into the mud. The water inside it came over its lip as it sank. It came out in a sheet on all sides, brown and then white, frosting as it went, and spread across the mud in a long flat wave and was gone. The ring went down into the mud and the mud closed over it. There was a place that lay a little darker, and then there was nothing.
 
@@ -284,7 +280,7 @@ A man could build a creed on that line, Mara thought. A sensible man. A man who 
 
 "I've been up since four." Mara shut the book gently on its straw. "Keep that page, Mrs. Peverell. Under lock, if you've a lock. Don't let anybody copy it till I've written to a man at Ferren whose book says the same night."
 
-"I've a lock." Peverell took the book back. She held it against her apron. "I'll say one thing, Mrs. Rowan, since you've gone a colour, and then I'll not say it again. I've kept this house nine years. My cells have not dropped a stroke in six months. Everybody in this town is proud of them, and so am I." She looked at Mara with her small eyes behind the spectacles. "I'll not be the keeper who stopped the pumps. If they're stopped, I'll be the keeper who wrote down that somebody else did, and why, in seven columns. I'd want that understood before you go any further."
+"I've a lock." Peverell took the book back. She held it against her apron. "I'll say one thing, Mrs. Rowan, because you've gone a colour, and then I'll not say it again. I've kept this house nine years. My cells have not dropped a stroke in six months. Everybody in this town is proud of them, and so am I." She looked at Mara with her small eyes behind the spectacles. "I'll not be the keeper who stopped the pumps. If they're stopped, I'll be the keeper who wrote down that somebody else did, and why, in seven columns. Enter that in your book before you go any further."
 
 "I understand it."
 
@@ -298,7 +294,7 @@ She did not lay it on anything. She held it in front of her and looked at it. It
 
 She would show the girl the page. That was the first thing, and it was not a choice; it was the girl's as much as hers, and more. She would show it to nobody else. Not Yeo, who was looking at her from the window, nor Rusk, who had written something in his black book that he had not shown anybody. Not the Board, and not the Order, and not the man at the Library press. Not yet.
 
-And the hand. She looked at it and thought of a ring of grey with the bank's count shaking in the water inside it, and of thirty-six cells on two galleries, and of eleven minutes that the low town would bear on a making tide. She thought of twenty-one minutes of slack, which was all there was. She thought of what Hart had said: *as if the count goes out of the harbour and into that, and nowhere else.*
+And the hand. She looked at it and thought of a ring of grey with the bank's count shaking in the water inside it, and of thirty-six cells on two galleries, and of the eleven minutes without pumps that the low town would bear on a making tide. She thought of twenty-one minutes of slack, which was all there was. She thought of what Hart had said: *as if the count goes out of the harbour and into that, and nowhere else.*
 
 If that was so, then the harbour was still at the slack. All of it, except one thing.
 
@@ -310,7 +306,7 @@ She put the hand back in her pocket. She had not decided anything. But she had f
 
 On Wednesday at a quarter to six, Kiva went down the ladder to the grating with Hart.
 
-Jude came too. He had asked at supper, very formally, whether he might, and Hart had looked at him over the table at the Works' lodging and said, *If you'll stand where I put you and not fall in.* Mara was on the gallery above with Peverell. She had shown Kiva nothing yet and said nothing, and she had a look on her face that Kiva knew from the year of the Ferren bank. It meant that she had something under the brass weight.
+Jude came too. He had asked at supper, very formally, whether he might, and Hart had looked at him over the table at the Works' lodging and said, *If you'll stand where I put you and not fall in.* Mara was on the gallery above with Peverell. She had shown Kiva nothing yet, and she had a look on her face that Kiva knew from the year of the Ferren bank. It meant that she had something under the brass weight.
 
 "Lay them on the bar," said Hart. "Light. The way you would."
 
@@ -346,7 +342,7 @@ And under her fingers there was nothing.
 
 Hart said nothing for a long moment.
 
-"Your aunt said the same thing yesterday," he said. "In nearly those words. On the gallery." He turned his watch an inch on his wrist. "I've been looking at it for six months and I never said it to anybody, because I couldn't prove it. You two have said it in two days." He did not sound pleased or displeased. He sounded like a man who had set down something heavy and was not sure yet whether he would be let pick it up again. "I'd want it in my book that somebody else said it first."
+"Your aunt asked me *how* yesterday," he said. "On the gallery. I told her what it looks like. It was the first time in six months I'd said it aloud, because I couldn't prove it." He turned his watch an inch on his wrist. "You've said it without being told. And you've said more than I did." He did not sound pleased or displeased. He sounded like a man who had set down something heavy and was not sure yet whether he would be let pick it up again. "That goes in my book. Somebody else got there by herself."
 
 Jude was standing where he had been put, at the back of the landing, against the masonry. He was not looking at the ring. He was looking past it, at the sea gate, at the harbour, at the masts.
 
@@ -384,7 +380,7 @@ She did not tell Mara now.
 
 She stood at the table with her right hand flat on it and her lips shut, and she made them stay shut. It was harder than it had been on the ferry. On the ferry there had been nobody whose word it was. Here there was her aunt, a yard away, who had sealed a page so that nobody could say Kiva had borrowed, and who had shown her this one because it was hers.
 
-It was not that she did not trust Mara. It was that she did not know what she had seen. She did not know whether *white* on a ferry and *white* in a keeper's book seventy-seven years ago were the same word. If she said it aloud, even here, even to Mara, then it would be a thing that had been said. And she had not decided anything.
+She trusted Mara. What she lacked was any knowledge of what she had seen, or whether *white* on a ferry and *white* in a keeper's book seventy-seven years ago were the same word. If she said it aloud, even here, even to Mara, it would be a thing that had been said, and she had decided nothing yet.
 
 "There's a line about the lamps," said Mara.
 

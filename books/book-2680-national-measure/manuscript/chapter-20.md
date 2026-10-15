@@ -6,7 +6,7 @@ Kiva was kneeling in the mud at the edge of the hard, with Pike on her left and 
 
 The kiddle stood across the creek's mouth, forty paces off.
 
-The Company crews had given it that name when they first saw one. It was the old coast word for a fish weir, the kind of fence of stakes that men had once driven across a creek to catch what the tide brought in. This was seven posts. They were grey, the height of a tall man above the water, and they stood in a line across the creek, five paces apart, with the flood pouring between them. Between each post and the next there hung a skin. It was grey-white and close-woven like canvas, and it went down into the water out of sight, and the flood went through it as water goes through a net.
+The Company crews had given it that name when they first saw one, because it was the old coast word for a fish weir, the kind of fence of stakes that men had once driven across a creek to catch whatever the tide brought in. This was seven posts. They were grey, the height of a tall man above the water, and they stood in a line across the creek, five paces apart, with the flood pouring between them. Between each post and the next there hung a skin. It was grey-white and close-woven like canvas, and it went down into the water out of sight, and the flood went through it as water goes through a net.
 
 Where the water went through, it went white. It came out on the landward side of the skin frosted, with a skin of ice on it as thin as paper, and the ice broke up and went away up the creek in plates. The cold came off it in a breath that Kiva could feel on her face from forty paces.
 
@@ -82,7 +82,7 @@ Then, because she held them there and did not lean, the other thing came.
 
 It was slow. It was slower than the bollard on the quay. It came and went in long lifts, irregular, a long one and a short one and a long one. That was the flood, she thought, the surges, the thing that Jude had stood at the rail and counted and called *every count at once.* And under it, so faint that she was not sure, there was something else. Four and four.
 
-Pru was on her right, kneeling on the line of the second purse with the cord round her fist. She took Kiva's right wrist without being asked and looked at the lamp on the causeway, since there was no clock, and counted under her breath.
+Pru was on her right, kneeling on the line of the second purse with the cord round her fist. She took Kiva's right wrist without being asked and looked at the lamp on the causeway, because there was no clock, and counted under her breath.
 
 "Seventy-six," she breathed. "You're quite calm."
 
@@ -138,8 +138,6 @@ The rung was in a closed purse at the bottom of a creek, under six feet of still
 
 "*Second post,*" said Rhea.
 
----
-
 The second went as the first had gone. Pike said *not yet* and *now,* and Rhea cut, and the rung went down through the still water, and Pru hauled.
 
 She hauled well. Kiva watched her and was proud and did not say so. Pru had never hauled a drawstring in her life, and she had been shown how by Penhale at six that evening, once, in the mud. She took it in hand over hand with the cord round her fist and her face scarlet in the lamplight, and when the line stopped she leaned back on it with all her weight, as he had.
@@ -189,8 +187,6 @@ Pru had already let go of her own. She went down the hard on her knees in the mu
 "One fathom," said Penhale, beside her. He had his hand over hers on the line. "Two fathom. Three. It's shut." He looked at her sideways. "You'd make a coast catcher, miss, if you'd stand the wet."
 
 Pru went scarlet to the ears. She did not let go of the line.
-
----
 
 The slack ended at fourteen minutes past midnight.
 
@@ -290,7 +286,7 @@ The causeway was old, a raised track of stone across the flats, wide enough for 
 
 Kiva did not look back at the creek. She found that it was hard not to, and that she could do it.
 
-Jude did not say anything for a long time. He walked on the seaward side with the lantern in his good hand, limping, and he looked at the sea the whole way.
+Jude was quiet for a long time. He walked on the seaward side with the lantern in his good hand, limping, and he looked at the sea the whole way.
 
 "It's going out," he said at last.
 
@@ -316,7 +312,7 @@ He had asked what ash was for of everybody since the autumn. He had asked it of 
 
 ---
 
-Rhea Sorn stood on the Gannet Creek hard at twenty past six on Tuesday morning, with the light coming grey off the flats and four posts standing in the mud in front of her, and no second.
+Rhea Sorn stood on the Gannet Creek hard at ten past six on Tuesday morning, with the light coming grey off the flats and four posts standing in the mud in front of her, and no second.
 
 The tide was out. The creek was a creek again, a narrow thread of water a yard wide running through the bottom of a great channel of grey mud. The marsh grass lay flat and wet on both banks, white in a long line where the shed rung had gone over it at eleven. The kiddle stood across the channel. Its four uncut posts stood up out of the mud like the stakes of a fence. Its three cut ones were stumps. Between them hung the skins, grey, slack, with their lower edges lying in the mud.
 
@@ -352,7 +348,7 @@ Rhea went to it. Penhale stood in front of it, below, in the mud, with his purse
 
 "*Not yet,*" said Pike.
 
-Rhea looked up at the top of the post. She did not look at Pike. She had never needed to. On every floor for six years she had had a catcher who watched her heel and a second who watched the far edge, and she had cut when the voice behind her said *now.* She waited for it.
+Rhea looked up at the top of the post. She did not look at Pike. She had never needed to. On every floor for six years she had had a catcher who watched her heel, and since the first month a second who watched the far edge, and she had cut when the voice behind her said *now.* She waited for it.
 
 It did not come.
 
@@ -390,13 +386,13 @@ She wrote the slate at seven, on the hard, with the flood coming in over the mud
 
 *Works: the marsh grass of Gannet Creek, frosted for a quarter mile inland. A sheep.*
 
-*Tinned: six bags, and the net's tin. The sixth bag light.*
+*Tinned: seven bags, and the net's tin. The seventh bag light.*
 
 She did not write the figure. Penhale would weigh it at the Company's yard. She knew what it would be, near enough, and she knew what the fourth rung would have weighed if it had all gone into the purse.
 
 *Remarks: three.*
 
-*The officer cut three posts in the high water slack and four in the low, from a boat and from the mud. A post shed a rung at the top of the flood before the slack, uncut. Held in part on walls laid flat on the water. That remark is the creek's.*
+*The officer cut three posts in the high water slack and four in the low, from a boat and from the mud. A post shed a rung at the top of the flood before the slack, uncut. Held in part on walls lying flat on the water. That remark is the creek's.*
 
 *The second called the far edge once, at midnight, and the line came off it. The second also had the slack's end by the hand, a breath before the grass. That is entered for whoever reads this.*
 

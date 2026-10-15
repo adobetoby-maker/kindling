@@ -58,7 +58,7 @@ It was low. That was the first thing.
 
 The cliffs fell away on the left hand into a long ridge of grey roofs, climbing a hill. Below the ridge, between the hill and the sea, there was a wide flat country of slate roofs and chimneys, a whole town of them, lying lower than she would have believed a town could lie. And between that town and the sea there was a wall.
 
-It was a great curved wall of grey stone, a mile of it, coming out from the foot of the hill and bending round in an arm. The sea broke on its outside. Inside it, the water was flat and brown and crowded with masts. Where the arm came nearest to closing, there was a gap, and over the gap there was an arch of stone with something hanging in it, black, like a portcullis in a picture of a castle.
+It was a great curved wall of grey stone, a mile of it, which came out from the foot of the hill and bent round in an arm, so that the sea broke white along its outside while the water within it lay flat and brown, crowded with masts. Where the arm came nearest to closing, there was a gap, and over the gap there was an arch of stone with something hanging in it, black, like a portcullis in a picture of a castle.
 
 "The Mole," said the bosun, at her elbow, as he had been saying things all the way down the coast. "That's the sea gate. It comes down in a gale. It's not been down since the winter before last." He pointed with his chin at the low town. "That's under the sea, that is. Half of it. At high water on a spring you could stand on the Mole and look down the chimneys."
 
@@ -164,13 +164,13 @@ Kellan nearly laughed. It went across his face and did not stay.
 
 "Who from?"
 
-"Talley wrote it on the outside of a parcel to my mother. *Rowan had a fever on the ferry, broke Saturday, tell Renn.* My mother sent it on." He looked at her. "You look all right."
+"Talley wrote it on the outside of a parcel to my mother. *Rowan had a fever on the ferry, broke Saturday, tell Renn.* My mother wired it on." He looked at her. "You look all right."
 
 "I am all right."
 
 He nodded, and went back to the boot, and did not ask her anything else. She was grateful for that. She had found, since the ferry, that she was grateful to anybody who did not ask her anything.
 
-They had six beds at the north end, next to Dray's. Aske looked at them, and at the stove, which was at the other end of the room, and at the north window, which did not fit. He said nothing. He put his bag on the bed nearest the door, where he would have to be climbed over by anybody who went out in the night.
+They had six beds at the north end, next to Dray's. Aske looked at them, and at the stove, which was at the other end of the room, and at the north window, which did not fit. He put his bag on the bed nearest the door, where he would have to be climbed over by anybody who went out in the night.
 
 Kiva took the bed by the window.
 
@@ -184,13 +184,13 @@ She went to sleep counting, and did not know whose count it was.
 
 The Charter Board's gate was in the old timber pond, at the landward end of the Graving.
 
-Kiva had not known what the Graving was until she stood beside it. It was a dry dock. It was a great stone trench cut into the shore, three hundred paces long and as deep as a church, with stone steps going down its sides in tiers, like the seats of a theatre. At its seaward end there was a gate, a floating thing of black timber and iron, holding the harbour out. At its landward end there was nothing but a stone lip and a drop. Somebody had roofed the tiers with iron and glass on iron pillars, so that it was half a dock and half a hall.
+Kiva had not known what the Graving was until she stood beside it. It was a dry dock. It was a great stone trench cut into the shore, three hundred paces long and as deep as a church, with stone steps going down its sides in tiers like the seats of a theatre, so that a whole town could sit on its walls and look down at whatever was done on its floor. At its seaward end there was a gate, a floating thing of black timber and iron, holding the harbour out. At its landward end there was nothing but a stone lip and a drop. Somebody had roofed the tiers with iron and glass on iron pillars, so that it was half a dock and half a hall.
 
 "That's where the boards are," said Anwen. "The Bench and the Lane. On the floor of it."
 
 They stood at the lip and looked down. The floor of the Graving was eighty feet below them, flat stone, wet in places, with men chalking lines on it. It looked very small and very far away.
 
-"I'd want to know how they get the litter up," said Perrin.
+"I'd pay money to know how they get the litter up," said Perrin.
 
 "They don't. You carry it out at the bottom." Jude was looking at the gate at the far end. "They shut that, and pump it dry, and it stays dry. The bosun said. The whole sea on one side of a door and you on the other."
 
@@ -240,7 +240,7 @@ The clerk looked up. He was an old man with a grey moustache, and he had been co
 
 "Plain," he said.
 
-"It's written in our book, and in the book of the Order of the Even Hand. Eight-tenths was off a husk on the Sag in the fourth month of last year. A dram and two-tenths was given us by the Order on Friday the 27th, to make good a hand. It's bound." She kept her voice level, as she would have kept it on a hem. "It's for a hand. It's not for a floor, or a bank, or a crossing, or a sale. I'd want that written beside whatever the comb says."
+"It's written in our book, and in the book of the Order of the Even Hand. Eight-tenths was off a husk on the Sag in the fourth month of last year. A dram and two-tenths was given us by the Order on Friday the 27th, to make good a hand. It's bound." She kept her voice level, as she would have kept it on a hem. "It's for a hand. It's not for a floor, or a bank, or a crossing, or a sale. Please write that beside whatever the comb says."
 
 The clerk looked at the tin, at the grey seal with its two flat hands. He looked at her.
 
@@ -284,17 +284,17 @@ The seventh was silent.
 
 Kiva heard Pru draw in her breath beside her. She heard it because she had drawn her own. It was the same thin note that had gone along a counter in Meridian a week ago, in front of a woman in black with red hands.
 
-The clerk tipped the jar toward the light. He did not say anything. He held it out to the girl, so that she could look into it herself, and Kiva saw her look, and saw the black streaks in the grey, fine and dull.
+The clerk tipped the jar toward the light. He held it out to the girl, so that she could look into it herself, and Kiva saw her look, and saw the black streaks in the grey, fine and dull.
 
 "I don't—" said the girl.
 
 "It's cut," said the clerk. He said it quite kindly. "It's old enough. The seventh's right. But it's been stretched to make the weight, with soot by the look of it, and there's half of it here, perhaps less." He wrote. "It's not your doing, miss. I'll write that."
 
-"He'd not have," said the girl. Her face had gone scarlet to the ears. "He'd never."
+"He'd not have," said the girl. Her chin had begun to shake. "He'd never."
 
 "Very likely not. It may have been done before it came to him. It may have been done last week by somebody who wanted a shilling." The clerk shut the jar. "That's the third I've combed this morning. It's everywhere, this winter. Folk have a little plain, and it's worth ten times what it was, and they stretch it, or somebody does. It's not a crime that I know of. It's a pity."
 
-The girl took the jar back. She held it in both hands. Her captain, who was a broad slow boy with a face like a gatepost, put his hand on her shoulder and said nothing at all.
+The girl took the jar back. She held it in both hands. Her captain, who was a broad slow boy with a face like a gatepost, put his hand on her shoulder and left it there.
 
 Pru had gone white instead of red. That was unusual in her. She stood looking at the stone jar with her mouth shut tight, and Kiva knew what she was seeing, because she was seeing it too: a counter, and a jar, and a woman saying *he was a good carter.*
 
@@ -328,11 +328,9 @@ At the mast, Noa had finished threading. He stood at the reading desk with his t
 
 "Who's that?" said Perrin.
 
-"Their reader," said Orla. "Polglase. He's read on that mast for forty years. They asked for him to stand beside ours, since it's our rule that's reading their people." She said it flatly. "I'd have asked the same."
+"Their reader," said Orla. "Polglase. He's read on that mast for forty years. They asked for him to stand beside ours, because it's our rule that's reading their people." She said it flatly. "I'd have asked the same."
 
-Kiva knew about the rule. Everybody from Meridian knew about the rule. It had gone south in the Chair's own satchel, under seal, and the Board had broken the seal at its sitting and adopted it for the Measure: *any candidate with more than one door to be read from a sanctioned mast by a reader of the Meridian office.* It had been written for her. At the Regional she had been read on every floor from a sanctioned mast, as a condition on her certificate, because she had three doors and nobody else had. Selka Dray had asked afterward, in pencil, from an infirmary bed with her leg in a board, that the condition stand for anybody with more than one door. She had said that it worked. She had said it so that nobody need ever again stand in a lane against somebody with more than one door and not know what was being done.
-
-It had not been written for anybody else. But it said *any candidate.* And the Board had read it as it was written.
+Kiva knew about the rule. Everybody from Meridian knew about it. It had gone south in the Chair's own satchel, under seal, and the Board had broken the seal at its sitting and adopted it for the Measure: *any candidate with more than one door to be read from a sanctioned mast by a reader of the Meridian office.*
 
 A clerk in grey stood up at the foot of the mast with a list.
 
@@ -343,6 +341,8 @@ Two girls came out of the crowd at the rail.
 The first was tall and very straight, with black hair tied back hard and a face that had been in the wind all its life. She was perhaps eighteen. She wore Saltmere green with a rope worked on the sleeve in yellow thread, and she walked onto the boards under the mast as though she had been walking onto boards all her life and had never yet found one that she did not own. The second was shorter and broader, with fair hair cut to her ears and a square, careful face. She walked half a pace behind the first, and a little to one side, the way that Anwen walked behind a wall.
 
 "Carrow," said Orla. "Juniper Carrow. Captain. The best blade on the coast, they tell me, and the papers tell me twice. The other's Lyle."
+
+The rule had been written for Kiva. At the Regional she had been read on every floor from a sanctioned mast, as a condition on her certificate, because she had three doors and nobody else had. Now a girl with a rope on her sleeve had walked out under a mast of the same kind, in her own town.
 
 "Which doors?" said Kiva.
 
@@ -355,6 +355,8 @@ Kiva felt Perrin go still beside her.
 "Laid," he said. "That's—"
 
 "That's what they call it," said Orla. "Hush."
+
+After the Regional, Selka Dray had asked in pencil, from an infirmary bed with her leg in a board, that Kiva's condition stand for anybody with more than one door. She had said that it worked. She had said it so that nobody need ever again stand in a lane against somebody with more than one door and not know what was being done. It had not been written for anybody else. But it said *any candidate,* and the Board had read it as it was written.
 
 Carrow went to the white cross on the boards under the mast. She did not do anything that Kiva could see for a moment. She stood with her weight even and her hands down. Then she opened.
 
@@ -424,7 +426,7 @@ But it had not looked like a miss. It had looked like the easiest thing in the w
 
 Carrow looked at her for a moment longer.
 
-"Well," she said. "That's more than your reader said." She turned to go, and turned back. "We've drawn you. Tomorrow at nine, in the Ropewalk. The first seeding lane. I thought I'd say so, since you're polite."
+"Well," she said. "That's more than your reader said." She turned to go, and turned back. "We've drawn you. Tomorrow at nine, in the Ropewalk. The first seeding lane. I thought I'd say so, because you're polite."
 
 "I know," said Perrin. He had the draw in his pocket; it had gone up on the tent at noon. "We'll be there."
 

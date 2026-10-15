@@ -32,11 +32,11 @@ It was not hers to say. She knew that before he asked it. It was the captain's, 
 
 The Graving was full.
 
-Kiva had stood at its landward lip on the first day and looked down eighty feet to a floor with men chalking lines on it. Now she sat on its tiers, two-thirds of the way down, wrapped in a grey blanket with Aske on one side and Orla on the other. Every tier above her and below her and across the dock was full. They were Saltmere green, mostly, and the brown and buff of the Tarn, and Meridian's colours in a knot near the middle. The iron and glass roof went over all of it. The light came down through the glass grey and even, as it comes into a church.
+Kiva had stood at its landward lip on the first day and looked down eighty feet to a floor with men chalking lines on it. Now she sat on its tiers, two-thirds of the way down, wrapped in a grey blanket with Aske on one side and Orla on the other. Every tier above her and below her and across the dock was full. They were Saltmere green, mostly, and the brown and buff of the Tarn, and Meridian's colours in a knot near the middle. The iron and glass roof went over all of it, so that the light, which came down through the glass grey and even as it comes into a church, fell alike on green and buff and on the white chalk of the pen eighty feet below.
 
 At the seaward end, three hundred paces off, the floating gate held the harbour out. Kiva could hear the sea on the other side of it. It was not loud. It was a long low breathing, coming and going against the timber. Under that, faint, through the stone of the tier she sat on, there was the town's count.
 
-The pen was chalked on the dock floor, twenty paces wide, as at home. The Tarn's first four stood behind their hurdle in brown and buff. Kiva knew their captain. He was the broad slow boy with a face like a gatepost who had put his hand on a plaited girl's shoulder at the gate, a fortnight ago, over a stone jar that sang thin. The girl was on the reserve bench now, at the dock's side, with her plaits pinned up.
+The pen was chalked on the dock floor, twenty paces wide, as at home. The Tarn's first four stood behind their hurdle in brown and buff. Kiva knew their captain. He was the broad slow boy with a face like a gatepost who had put his hand on a plaited girl's shoulder at the gate, eleven days ago, over a stone jar that sang thin. The girl was on the reserve bench now, at the dock's side, with her plaits pinned up.
 
 "Trewin," said Orla. "Their captain. Still door. He's very good. Slow, but he never moves when he doesn't mean to." She did not look at Kiva. "They sequence, the Tarn. As we do. They've got nobody who lays. They'll be a plain fight."
 
@@ -82,15 +82,13 @@ And the Tarn's carry took his left hand off the pole to reach for a pass. Anwen 
 
 "She's a hand door," said Aske, on her other side. "She folds with her hands. She'd watch hands." He did not take his eyes off the floor. "You're a still door. You watch where people put their feet."
 
-Kiva had not thought of that. She sat with it.
+Kiva had not thought of that. Aske meant Pru's one door, the ward, the tray she lifted and folded with, and not a hand like the cold one in Kiva's own blanket. She sat with it.
 
 The second carry went to Seven. They took the litter wide along the north side, as they had learned at the Ropewalk. They made the Tarn's square stretch to cover it, and the square was slow to stretch, because it had never been made to. Perrin tapped once and let his shoulders go, and Anwen took the poles. Pru called *now* to Jude, off the Tarn blade's hand coming down, and Jude was between him and the pass. The Commodore went over Seven's hurdle two to two.
 
 "*Three to Seven,*" said the marshal. "And a down. Four to four."
 
 The tiers made a sound. The Meridian knot in the middle stood up and shouted. Kiva did not stand up. Aske's hand was on her blanket at the knee, quite lightly, and she did not stand.
-
----
 
 The third carry was the glass.
 
@@ -134,7 +132,7 @@ Pru stood with the cord in her fist and her face going slowly from scarlet to so
 
 "By the head of a dummy on a chalk line."
 
-"We still lost." Pru put the cord away. "I'm not grateful for it. That I stood. I'd want you to know that. It's not a favour. Aske said it and Cade said it and I'm the reserve and I stood." She looked at Kiva, very straight. "I'm glad you saw the hands. I'm going to go and be sick behind the Company's van now, I think."
+"We still lost." Pru put the cord away. "I'm not grateful for it. That I stood. You should know that. It's not a favour. Aske said it and Cade said it and I'm the reserve and I stood." She looked at Kiva, very straight. "I'm glad you saw the hands. I'm going to go and be sick behind the Company's van now, I think."
 
 She went. Kiva watched her go along the dock's edge, small and quick, with her sleeves rolled up, and thought that she had never seen anybody walk so exactly like a catcher.
 
@@ -190,11 +188,11 @@ Perrin looked at the door at the head of the stair. Kiva turned round.
 
 There was a broad slow boy standing at the top of it in brown and buff, with his hat in his hands and a face like a gatepost.
 
-"Trewin," said Perrin. "He came up at seven and asked what *nobody* was. He'd heard Finch say it on the floor yesterday, in the third carry, to Talley. She said it once when she meant *nobody's got the blade.* He wanted to know if it was a call." Perrin went red. "I told him it was a call. I told him what for. He asked if he could learn it."
+"Trewin," said Perrin. "He came up at seven and asked what *nobody* was. He'd heard Finch say it on the floor yesterday, in the third carry, to Talley. She said it once when she meant *nobody's got the blade.* He wanted to know if it was a call." Perrin rubbed the back of his neck. "I told him it was a call. I told him what for. He asked if he could learn it."
 
 Trewin came down the room. He did not hurry. He stood at the end of the table and looked at Kiva, and nodded, slowly, as though nodding were a thing that had to be done properly.
 
-"I'm a still door," he said. His voice was very deep and very polite. "I've been one since I was twelve. I've never planted on anybody's word but my own." He paused. "I watched your captain plant on the Ropewalk's boards on Tuesday, at his Hold's back, to be read. I'd like to know how you do the other thing. The pass. Where nobody stands together."
+"I'm a still door," he said. His voice was very deep and very polite. "I've been one since I was twelve. I've never planted on anybody's word but my own." He paused. "I watched your captain plant on the gate's boards on Tuesday, at his Hold's back, to be read. I'd like to know how you do the other thing. The pass. Where nobody stands together."
 
 "It's not live," said Kiva. "It's not been done live. It's a yard thing."
 
@@ -237,8 +235,6 @@ Trewin looked at her for a long time.
 "I've got today," said Trewin. "And then I'm on the Bench."
 
 "Then you'll be late," said Kiva. "That's all right. It's a yard. Being late on a yard's the point."
-
----
 
 Pru folded at ten past ten.
 
@@ -290,7 +286,7 @@ She did not say anything about it. She turned to Saturday, and read the lane, an
 
 Kiva did not move.
 
-"On Sunday last. At the pump house. On his landing." Orla's crooked face did not change at all. "It went badly. I said the wrong thing first and I couldn't find the right one after. He told me so." She took a breath. "I'd want you to hear it from me and not from him. That's all. It's not yours. It's mine."
+"On Sunday last. At the pump house. On his landing." Orla's crooked face did not change at all. "It went badly. I said the wrong thing first and I couldn't find the right one after. He told me so." She took a breath. "You'll hear it from me and not from him. That's all. It's not yours. It's mine."
 
 "He said you'd come," said Kiva. "On the Friday. He said, *your sponsor's in town.* That was all."
 
@@ -302,7 +298,7 @@ Kiva did not move.
 
 She went away across the boards toward the officers' lodging, a step at a time, with her stick. Halfway she stopped and turned round.
 
-"Six of six," she said. "I signed it. I'd want you to know that I've never signed anything I was gladder to."
+"Six of six," she said. "I signed it. I've never signed anything I was gladder to."
 
 ---
 
@@ -322,11 +318,11 @@ Then she laid the first two fingers of her left hand on the iron rail. The hand 
 
 She wrote it. *Sunday the 13th of the third month. A quarter to seven in the evening. The rail of the outfall walk, Saltmere. Yes.*
 
-That was all. It was one line. It told her nothing that she did not know. A thing kept time, in a town where everything kept time. She had known it since the first night, with two fingers on a bollard.
+That was all: one line, which told her only what she had known since the first night, with two fingers on a bollard, that a thing kept time in a town where everything kept time.
 
-But tomorrow at a quarter to seven she would lay them on something again, wherever she was. And the day after, and the day after that. She would write *yes* or *no,* and never *what.* And after a year, if a man with a ruined hand and a book of slacks was right, the book would know something that the fingers never would.
+But tomorrow at a quarter to seven she would lay them on something again, wherever she was, and the day after, and the day after that. She would write *yes* or *no,* and never *what.* And after a year, if a man with a ruined hand and a book of slacks was right, the book would know something that the fingers never would.
 
-She did not know what it would know. That was the point of it.
+What it would know, she could not say. That was the point of it.
 
 She shut the book. Behind her, on the gallery, a door opened. She heard a step she knew, slow and uneven, and did not turn round.
 
@@ -342,7 +338,7 @@ She shut the book. Behind her, on the gallery, a door opened. She heard a step s
 
 "She said."
 
-"It went badly on both sides," said Hart. "I'd want you to know that I said so. To somebody." The door shut behind him. She heard his step going away along the gallery, slow and uneven, toward the pumps.
+"It went badly on both sides," said Hart. "I've said so now. To somebody." The door shut behind him. She heard his step going away along the gallery, slow and uneven, toward the pumps.
 
 ---
 
@@ -374,7 +370,7 @@ Perrin was at the foot of her bed. He had the coil of Coombe's rope on his shoul
 
 "It's on my card."
 
-"Then you'll sit on the tiers with Aske, and watch Halden do it, and Old Four, and Twenty-Eight. And tomorrow there's the Carry." He went a deep dull red, all the way up into his hair. "That's mine. The Carry. I'd like it known that I've not slept."
+"Then you'll sit on the tiers with Aske, and watch us do it, and Halden, and Old Four, and Twenty-Eight. And tomorrow there's the Carry." He shifted the rope on his shoulder, and shifted it back. "That's mine. The Carry. I'd like it known that I've not slept."
 
 "Nobody's slept," said Anwen, from the next bed, putting on her boots.
 

@@ -22,7 +22,7 @@ Pike closed them. The fingers came in, slowly, all ten. They came about halfway 
 
 The fingers went out again. They went out more easily than they had come in. Pike looked at them for some time.
 
-"A cord's three turns," he said. "And a thumb to pin. And the little finger across." He did not say it to anybody in particular. "I'd want them all the way to the palm for the first, and the thumb hard for the second. I've neither."
+"A cord's three turns," he said. "And a thumb to pin. And the little finger across." He did not say it to anybody in particular. "The first wants them all the way to the palm, and the second wants the thumb hard. I've neither."
 
 "You'll have the first in a month," said Ruddock. "I'd not promise the thumb."
 
@@ -68,7 +68,7 @@ It was the long stone building with the organ-pipe chimneys. From here it was en
 
 Kiva went in.
 
-It was a hall. It was taller than the Ferren pump house and three times as long, and the light came down from windows high in its roof onto two rows of cells, eighteen on each side, along a gallery at the height of a first floor. The cells were the old kind, iron drums the size of barrels, each with a hood and a gauge and a brass handle. Below the gallery, on the floor of the hall, were the pumps. There were six of them, great black iron things like the legs of a beetle, going up and down. They went up and down together. Every one of them, on the same stroke.
+It was a hall. It was taller than the Ferren pump house and three times as long, with windows high in its roof from which the light came down onto two rows of cells, eighteen on each side, that stood along a gallery at the height of a first floor. The cells were the old kind, iron drums the size of barrels, each with a hood and a gauge and a brass handle. Below the gallery, on the floor of the hall, were the pumps. There were six of them, great black iron things like the legs of a beetle, going up and down. They went up and down together. Every one of them, on the same stroke.
 
 It was very beautiful. That was the thing that Kiva had not expected. Six great pumps and thirty-six cells, keeping time with each other so perfectly that it looked like one machine breathing.
 
@@ -94,7 +94,7 @@ It was a stone walk along the seaward side of the building, with an iron rail, a
 
 "You didn't say."
 
-"No." Mara had her hands on the rail. The left one, the reading one, lay flat on the iron; the right one held it. "I meant to tell you on the cart. Then I meant to tell you at the house of the Even Hand. Then you had a fever on the ferry and I was on a transit two days behind you, and I thought, I'll write it to Saltmere. And then I thought, she'll have had a week of standing in a strange town on one door, and here's a letter to say her aunt's coming to read the bank that everybody's proud of." She did not look at Kiva. "I decided it at the kitchen table in the middle of the night, and I didn't tell anybody until it was too late for them to argue. I've done that all winter. I don't like it in myself. I've not stopped."
+"No." Mara had her hands on the rail. The left one, the reading one, lay flat on the iron; the right one held it. "I meant to tell you on the cart. Then I meant to write to you at the house of the Even Hand. Then you had a fever on the ferry, and I heard of it at the kitchen table with my bag not yet packed, and I thought, I'll write it to Saltmere. And then I thought, she'll have had a week of standing in a strange town on one door, and here's a letter to say her aunt's coming to read the bank that everybody's proud of." She did not look at Kiva. "I decided it at the kitchen table in the middle of the night, and I didn't tell anybody until it was too late for them to argue. I've done that all winter. I don't like it in myself. I've not stopped."
 
 "You don't have to read it," said Kiva.
 
@@ -242,7 +242,7 @@ He looked at her as he had looked at her from the foot of the stair, with that l
 
 He went up the ladder one-handed, with his right hand in his jacket. At the top, on the gallery, he stopped and looked down at her.
 
-"Your sponsor's in town," he said.
+"Your sponsor's in town?" he said.
 
 "Yes."
 
@@ -256,7 +256,7 @@ They were younger than the first four, and they knew it, and they had watched Se
 
 "*Over,*" said Perrin, at the hurdle.
 
-They went over. Anwen took the poles from under, and Jude, and it was three to Seven before the glass was half run.
+Their blade shut and ran for the hazel to stop it, and Jude was there first and put the flat of his edge on him before he could open again. Then they went over. Anwen took the poles from under, and Jude, and it was three to Seven and a down before the glass was half run.
 
 "That's the wall that doesn't walk," said Perrin, coming back. "She saw what happened on Wednesday and she's not running. So she's no use to them at all where she stands."
 
@@ -266,7 +266,7 @@ She walked it badly. She walked it from the near end, the way everybody did befo
 
 "*Down.*"
 
-Then their carry and their catcher took the Commodore and went for their hurdle, and Anwen's wall was a pace too slow, and they went over. Three. Three and a down. Four to three, to them.
+Then their carry and their catcher took the Commodore and went for their hurdle, and Anwen's wall was a pace too slow, and they went over. Three. Three and a down. Four all.
 
 "They've stopped laying," said Jude.
 
@@ -280,11 +280,11 @@ In the third carry, Seven was better at it. Anwen walked her wall from the far e
 
 There was a little sound from the rails. It was not the warm sound. It was quieter and more puzzled, like a crowd that has watched a familiar dog do a trick it did not know.
 
-Perrin did not say anything at the hurdle. He went across the pen to the second four's captain and shook his hand, and said something that Kiva could not hear. The stocky boy laughed, rather ruefully, and said something back.
+Perrin went past the hurdle without a word. He went across the pen to the second four's captain and shook his hand, and said something that Kiva could not hear. The stocky boy laughed, rather ruefully, and said something back.
 
 "What did he say?" said Kiva, when Perrin came back.
 
-"He said they'd never walked a wall in a lane in their lives." Perrin was very red. "He said, *We don't have to, here. Nobody makes us.* I told him I was sorry for it. He said not to be. He said he'd learned more in that glass than in a month."
+"He said they'd never walked a wall in a lane in their lives." Perrin was rubbing the back of his neck. "He said, *We don't have to, here. Nobody makes us.* I told him I was sorry for it. He said not to be. He said he'd learned more in that glass than in a month."
 
 ---
 
@@ -328,7 +328,7 @@ Yeo was quiet for a moment. Kiva saw her look down the hill, past the high town 
 
 "Then it's always the same thing."
 
-"It's always the same thing." Yeo turned to go back in. "That's why I've asked the Works twice for its reader. If the thing that keeps the kitchen dry is a hazard, I'd want to know before the sea does." She paused on the step. "You stood well, Talley. On that leg."
+"It's always the same thing." Yeo turned to go back in. "That's why I've asked the Works twice for its reader. If the thing that keeps the kitchen dry is a hazard, I mean to know before the sea does." She paused on the step. "You stood well, Talley. On that leg."
 
 She went in past Kiva, and nodded to her without stopping, and went back to the rail.
 
@@ -338,13 +338,11 @@ Jude sat on the step. After a while he said, without turning his head, "You were
 
 "I'd want you to have heard it." He looked at the harbour. "*It's always the same thing.* I've been asking since the autumn. Nobody's said that."
 
----
-
 On Sunday at seven, in the loft, by the north window, Aske held the hand for two minutes by his watch and said, "Warm."
 
 He wrote it standing, against the window frame. *Warm at seven on Sunday the 6th. A sulk of three nights. Five of six.*
 
-He did not say anything else. He looked at the line he had written for a moment, and then he put the card in his bag and went down the stair for his breakfast. Kiva sat on the bed and opened and shut the hand, and all eight fingers that reported came in to the palm when she told them, and the two that did not came in with them.
+He looked at the line he had written for a moment, and then he put the card in his bag and went down the stair for his breakfast. Kiva sat on the bed and opened and shut the hand, and all eight fingers that reported came in to the palm when she told them, and the two that did not came in with them.
 
 Three nights. She had known it would be.
 
@@ -386,7 +384,7 @@ She turned forward to Thursday, and the fifth, and the notch. *A notch at seven 
 
 She would give it back on Thursday, after the sixth, if the healer said yes. She would sign at six and not before.
 
-She sat on the crate for some time after that. Then she got up, in two stages, and hooked the stick over her arm, and went down to the harbour.
+She sat on the crate for some time after that. Then she got up off it, and hooked the stick over her arm, and went down to the harbour.
 
 ---
 

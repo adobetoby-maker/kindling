@@ -1,6 +1,6 @@
 # Chapter 23 — Kiva: The Proprietor
 
-At seven on Friday morning the hand was cold to the middle of the forearm, and Aske wrote it down, and said, "That's two nights to go, if I'm right."
+At seven on Friday morning the hand was cold to the middle of the forearm, and Aske wrote it down, and said, "That's three nights to go, if I'm right."
 
 At nine Kiva was in the keeper's room at the pump house, watching her aunt write a page that could be found wrong.
 
@@ -36,7 +36,7 @@ At half past nine she put the pen down and turned the sheet round so that they c
 
 "Fifty-seven or faster," said Kiva.
 
-"Mr. Adlam timed the bank on Saturday," said Mara. "He came to the door with his watch. He told me what his bench books say." She did not look at Kiva. "I'd not write a slower count than the one we have. If it's quicker by the 23rd, I'd want that written as well."
+"Mr. Adlam timed the bank on Saturday," said Mara. "He came to the door with his watch. He told me what his bench books say." She did not look at Kiva. "I'd not write a slower count than the one we have. If it's quicker by the 23rd, that goes in too."
 
 "*Witnessed,*" said Peverell. She came from the press and took up the pen and wrote at the foot, in her small crabbed hand. *Witnessed, Peverell, keeper, who does not know why either.* She gave the pen to Yeo. Yeo wrote *Yeo, officer* under it, in the brisk upright hand from the letter under the brass weight, and gave the pen back to Mara.
 
@@ -88,7 +88,7 @@ Outside, on the boards of the timber pond, the rain had stopped. The gate mast s
 
 "If I choose. The seven said I may."
 
-Mara did not say anything for some time. A gull came down on the black water of the timber pond and sat there, turning slowly.
+Mara was quiet for some time. A gull came down on the black water of the timber pond and sat there, turning slowly.
 
 "He was alive that night," said Mara. "He was in this town. The refinery on the Long Quay is his house." She did not look at Kiva. "I've read a line in a keeper's book about which lamps stayed lit. I expect you have too."
 
@@ -112,7 +112,7 @@ She said it at six, in the loft, to Perrin and Orla. They were sitting at the lo
 
 "The team is. The plate isn't. The three aren't." She looked at him. "I'd like you there. I'd like you to hear it. I don't want you to say it for me."
 
-Perrin went red, and then he went the colour that he went when he was thinking very hard.
+Perrin looked down at his big hands on the table, and then he went the colour that he went when he was thinking very hard.
 
 "All right," he said. "I'll sit there like a post. I've had practice."
 
@@ -122,7 +122,7 @@ Orla had not said anything. She sat at the end of the table with her stick acros
 
 Kiva looked at her.
 
-Orla did not explain. She got up, in two stages, and stood leaning on her stick by the window, looking out at the harbour going grey.
+Orla did not explain. She got up, stick first, and stood leaning on it by the window, looking out at the harbour going grey.
 
 "Eight o'clock," she said. "I'll meet you at the door. I'll not climb that stair again tonight."
 
@@ -136,7 +136,7 @@ Orla was at the door, as she had said. Perrin was beside Kiva with Coombe's rope
 
 A man in Halden's livery opened the door before they knocked.
 
-Inside there were lamps everywhere. Kellan had said nineteen between the door and the dining room. Kiva counted twenty-three between the door and the long room at the top of the stair. She did not mean to count them. She found she had. They burned white on brass brackets, and in glass globes on the newel posts, and in a great iron ring hung from the ceiling of the stairwell, and every one of them burned without a flicker.
+Inside there were lamps everywhere. Kellan had said nineteen between the door and the dining room. Kiva counted twenty-three between the door and the long room at the top of the stair. She did not mean to count them. She found she had. Whether they hung on brass brackets or stood in glass globes on the newel posts or burned in the great iron ring that was slung from the ceiling of the stairwell, every one of them was white, and not one of them flickered.
 
 And as she climbed the stair, her heart began to slow.
 
@@ -159,8 +159,6 @@ At once, strongly. Four and four. It was not her own pulse. Her own pulse was in
 She said it quite quietly. She did not let go.
 
 "You've never been fifty-seven in your life. You're seventy on a quiet day." Orla looked up the last step at the door of the long room, which was open, with white light coming out of it. "It's him."
-
----
 
 The long room ran the whole depth of the house, front to back, with windows at both ends. One end looked over the harbour and the other over the high town. There was a fire at one side. There was a table down the middle, long and dark and polished, with nothing on it but a white cloth at the far end, and two candlesticks, and a glass case with a brass frame.
 
@@ -192,11 +190,9 @@ She moved one chair further down. Her heart came up. She felt it come up, a beat
 
 "Thank you for not going to the end," said the Proprietor. "I'd have understood it. I'd have been sorry." He looked at Orla and Perrin, standing in the door. "Please sit. Anywhere you like. Mr. Cade, you'll have the rope off your shoulder for a chair, I hope. It's Coombe's, isn't it? I'd know that knot anywhere. She tied one on my yard in 2660 and I've never got it out."
 
-Perrin went very red and took the rope off his shoulder.
+Perrin cleared his throat and took the rope off his shoulder.
 
----
-
-He was not what she had expected.
+The Proprietor was not what she had expected.
 
 She did not know what she had expected. Something tall, perhaps, as she had expected Saltmere to be tall. Something like Thrale: enormous and quiet and very close. He was a man of about fifty-five by his face, lean, with dark hair grey at the temples and deep lines from his nose to the corners of his mouth. He wore a plain dark coat. His right hand lay on the table near a glass of water. His left lay on the glass case, flat, as a man lays his hand on a dog's head, and inside the case, on black velvet, sat an old iron cell with a brass cap.
 
@@ -219,8 +215,6 @@ He said it without any embarrassment at all, as he might have said the time.
 "Then that's how I'll see it, if you choose."
 
 Kiva put her right hand up to her collar and drew out the cord.
-
----
 
 She laid the disk on the table in front of her, on the dark polished wood, with the cord still round her neck and her right hand on the cord. It lay there, dark and smooth, the width of her palm. In the white lamplight she could see the nine rings on it, very faint, going round, one inside another. There was still a thread of grey Kennel ash in three of the grooves.
 
@@ -268,9 +262,9 @@ Kiva sat at the table with her hands in her lap.
 
 She was on a ferry in the middle of a river, with no roof. There were roads, and lights on them, from every side, a great many. Some were bright. Some were dull. Some were going out. And some had gone white.
 
-She had not told anybody. She had not told Mara, with the keeper's book open on the table between them. She did not know what she had seen. She did not know whether *white* on a ferry and *white* on the Long Quay seventy-seven years ago were the same word. And here was a man who had stood at a window with a fever on him, and seen lamps go white and lamps go out, and had built his whole life on it, and he was not a fool.
+She had told nobody, not even Mara, with the keeper's book open on the table between them. What she had seen was still a thing without a name, and she could not say whether *white* on a ferry and *white* on the Long Quay seventy-seven years ago were the same word. And here was a man who had stood at a window with a fever on him, and seen lamps go white and lamps go out, and had built his whole life on it, and he was not a fool.
 
-Her jaw ached. She found she had her teeth together so hard that the ache went up into her ears. Her hands in her lap were hot.
+Her jaw ached; she had her teeth together so hard that the ache went up into her ears, and her hands in her lap were hot.
 
 She kept her mouth shut.
 
@@ -279,8 +273,6 @@ She kept her mouth shut.
 "You think she's wrong."
 
 "I think she may be right about the harbour and wrong about the country. I think I may be wrong about both." He looked at her again. "I'm a hundred and three years old, Miss Rowan. I've been wrong a great many times. I've never yet been wrong about what I saw from that window."
-
----
 
 "I'd like to ask you something," said the Proprietor. "I'll ask it plainly, and I'll name a price, and you'll say what you say."
 
@@ -334,7 +326,7 @@ Then the Proprietor did something she had not expected. He laughed. It was not a
 
 Orla looked up from the fire.
 
-"I was asked not to," she said. "By her. I've done it." She paused. "She said no for herself. I'd want that known in this house. I've not said a word, and nor has her captain."
+"I was asked not to," she said. "By her. I've done it." She paused. "She said no for herself. Mark that, in this house. I've not said a word, and nor has her captain."
 
 "I'd seen that," said the Proprietor. "I'd like you to know I'd seen it." He looked at Perrin. "Mr. Cade."
 
@@ -358,7 +350,7 @@ Orla stopped her under a lamp. The lamp burned white and did not flicker.
 
 "It's in your book. *A hundred and twelve, by Finch.*" Orla's crooked face was quite close, and quite still. "I read your book every Sunday. I'm not a fool."
 
-She did not say anything else. She took Kiva's arm on one side, and Perrin took it on the other, and they went along the Long Quay to Quiller's with Orla's stick ringing on the granite. Kiva walked between them. She did not think about anything except keeping her teeth together.
+She took Kiva's arm on one side, and Perrin took it on the other, and they went along the Long Quay to Quiller's with Orla's stick ringing on the granite. Kiva walked between them. She did not think about anything except keeping her teeth together.
 
 Aske was awake. He was always awake. He had her on the bed by the north window inside a minute, with the candle lit and his watch out and Pru on her knees on the other side.
 
@@ -380,7 +372,7 @@ He sat on the upturned bucket that he had brought from somewhere and took her wr
 
 She lay on the bed by the north window with the quay lamps in a row along the black water, and she waited for the roof to go.
 
-She knew it would. She had felt it coming in the long room with the fire ticking and her teeth together, as she had felt it on the ferry with her hands on the rail. She lay with her eyes open and her jaw shut and waited. The candle burned. Aske counted. Pru held her other wrist and said nothing. Somewhere at the far end of the loft, Old Four was asleep and Halden was asleep and Dray was asleep. Kellan was not; she could see his shape at the south window, sitting up.
+She knew it would. She had felt it coming in the long room with the fire ticking and her teeth together, as she had felt it on the ferry with her hands on the rail. She lay with her eyes open and her jaw shut and waited. The candle burned. Aske counted. Pru held her other wrist. Somewhere at the far end of the loft, Old Four was asleep and Halden was asleep and Dray was asleep. Kellan was not; she could see his shape at the south window, sitting up.
 
 The fever climbed. A hundred and ten, Aske said, at midnight. A hundred and twelve at one.
 
@@ -410,7 +402,7 @@ Pru took her hand away from her face. She looked at Kiva for a long moment in th
 
 "Good," said Pru. "Go to sleep."
 
-Kiva did not sleep at once. She lay with her eyes shut and the sweat going cold on her. She thought of a man at a window seventy-seven years ago, with a fever on him, watching lamps go white. She thought that she had sat across a table from him tonight and he had told her that, and she had not told him anything. And she thought that she did not know what she would have told him if she had.
+Kiva did not sleep at once. She lay with her eyes shut and the sweat going cold on her. She thought of a man at a window seventy-seven years ago, with a fever on him, watching lamps go white. She thought that she had sat across a table from him tonight and he had told her that, and she had told him nothing in return. And she thought that she had no idea what she would have told him if she had.
 
 She would write it in the book in the morning. *Fever, after the Counting House. A hundred and twelve, by Aske. Broke at three.* On the left. And on the right, nothing. There was nothing on the right that she could write. Not yet.
 

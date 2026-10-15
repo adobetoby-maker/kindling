@@ -2,7 +2,7 @@
 
 The Ropewalk was a quarter of a mile long and twelve paces wide.
 
-It ran along the spine of the ridge above the high town, a single tarred shed with a low roof and a window every ten paces down both sides. Kiva saw it from the bottom of Tar Lane at half past eight on Wednesday morning, and she thought at first that it was a wall. Then she saw the chimneys along its ridge and the smoke from the far end, where somebody was boiling tar, and understood that it was a building, and that it went on for as far as she could see.
+It ran along the spine of the ridge above the high town, a single tarred shed with a low roof and a window every ten paces down both sides. Kiva saw it from the bottom of Tar Lane at half past eight on Wednesday morning, and she thought at first that it was a wall. Then, when she saw the chimneys along its ridge and the smoke at the far end, where somebody was boiling tar, she understood that it was a building, and that it went on along the ridge for as far as she could see.
 
 "They made rope in it," said Jude. "For two hundred years. A man walked backward down the whole length of it, spinning, with the hemp round his waist. The bosun said."
 
@@ -58,8 +58,6 @@ It was a plan for a pen that was twenty paces wide.
 
 "Go," said the marshal, and turned the glass.
 
----
-
 Lyle was in the pen before Perrin was over the hurdle.
 
 She did not go to the litter. She ran straight down the middle of the pen, past the Commodore, past the chalk squares, to a place on the boards five paces short of Seven's hurdle. She stopped there, square, facing Seven, and opened.
@@ -98,9 +96,7 @@ The Commodore went over the hazel as smoothly as a tray goes over a counter.
 
 The rails made a sound. It was not a cheer. It was the low warm sound that a crowd makes when a thing has gone as it was expected to go.
 
----
-
-Seven stood behind its hurdle and did not say anything for a moment.
+Seven stood behind its hurdle in silence for a moment.
 
 Lyle had shut her wall. She walked back up the pen to her own end without hurry, and she did not look at Anwen as she went. Anwen was white. She had both hands in her sleeves again, and her forearms were shaking inside them.
 
@@ -154,7 +150,7 @@ Jude dragged it. He dragged the Commodore backward by the head poles, alone, wit
 
 Perrin stood planted in the middle of the pen, on a piece of floor that nobody had wanted, with his still door open into the ridge and nothing to do with it.
 
-He shut. He walked back to the hurdle. He was a deep dull red, all the way up into his hair.
+He shut. He walked back to the hurdle. His jaw was set so hard that it stood out at the hinge.
 
 "I planted on her place," he said. "And she went and stood on another one."
 
@@ -165,8 +161,6 @@ He shut. He walked back to the hurdle. He was a deep dull red, all the way up in
 Kiva had been waiting for somebody to ask that.
 
 "Watch Treen," she said. "Not Carrow. Watch the catcher."
-
----
 
 They watched in the pause between carries, while the marshal turned his glass and the people at the rails talked.
 
@@ -196,7 +190,7 @@ There was a little silence.
 
 "It's for anything that's strong standing still," said Kiva.
 
-Perrin put his big hand on the hazel of the hurdle and looked down the pen. He was not red any more. He had gone the colour that he went when he was thinking very hard and did not want anybody to see it, which was no colour at all.
+Perrin put his big hand on the hazel of the hurdle and looked down the pen. His jaw had come loose. He had gone the colour that he went when he was thinking very hard and did not want anybody to see it, which was no colour at all.
 
 "Wide," he said. "We don't go down the middle. We go along the wall. The north wall, the shed wall, all the way, with the litter. Lyle has to come off her place to get in front of us. She has to run to do it." He turned to Jude. "And when she runs, she's nothing. And you're there."
 
@@ -204,9 +198,7 @@ Perrin put his big hand on the hazel of the hurdle and looked down the pen. He w
 
 "Then she'll not run, and we'll walk the litter down the north wall to our hurdle, and that's three." Perrin took his hand off the hazel. "Either she runs or we score. I'll take either."
 
----
-
-Carrow saw it. Kiva had known she would.
+It was the third carry, and Carrow saw it. Kiva had known she would.
 
 At the bell, Seven did not run for the litter. Perrin and Jude went up the north side of the pen, close against the shed's wall, between the posts and the window light, and Anwen went with them on the inside. They took the Commodore by the head poles together, and lifted, and did not turn him toward the middle. They carried him straight along the north wall, at a walk, toward Seven's hurdle.
 
@@ -226,7 +218,7 @@ Lyle knelt in the gap. Her face did not change. Kiva saw her look up at Jude fro
 
 The rails had gone very quiet.
 
-Perrin and Anwen had the Commodore moving. They walked him past Lyle, kneeling, along the north wall, five paces from Seven's hurdle, four. Kiva was at the hurdle with her door ready. Jude was coming back for the foot poles. It was going to go over.
+Perrin and Anwen had the Commodore moving. They walked him past Lyle, kneeling, along the north wall, five paces from Seven's hurdle, four. Kiva was at the hurdle with her door open on it, holding it planted. Jude was coming back for the foot poles. It was going to go over.
 
 Carrow did not run.
 
@@ -244,15 +236,13 @@ They went through. It was the only way to go. Perrin on the head poles, Anwen on
 
 Anwen knelt. The foot of the litter went down. Perrin stood with the head poles in his hands, a pace and a half from his own hurdle, and the Commodore lying behind him on the boards like a felled tree.
 
-Jude took the foot. He had come back for it, and he took it, and they lifted. Perrin backed to the hurdle and put the head poles on the hazel. There was nobody on the far side to take them from under, because Kiva was there, and Kiva had her still door declared and no hands for a litter. That was the rule, and Seven had chosen it.
+Jude took the foot. He had come back for it, and he took it, and they lifted. Perrin backed to the hurdle and put the head poles on the hazel. There was nobody on the far side to take them from under. Kiva was there, with her declared door open on the hurdle as the plan had it. Seven's catcher kept her hands off the poles while her door was open; if she shut it to lift, the hurdle would stand unplanted with Carrow two paces off. That was the rule, and Seven had chosen it.
 
 "*Hold it,*" said Perrin. He was holding the head on the hazel's top, just clear, with his arms shaking. "Rowan. Don't. Talley—"
 
 Jude could not get over the hurdle and take the head from under while he held the foot. Anwen was kneeling. And the glass ran out.
 
 "*Time.* The litter's on the hurdle." The marshal leaned over to look. "Not over. Not touching. In Seven's half. A point to Seven. A down each way." He wrote. "Seven to two. The Ropewalk."
-
----
 
 The rails made their warm sound again. It went on for some time. Then it changed, and became something else, and Kiva could not at first tell what. She looked along the rail and saw that the people in green were looking at Jude. He was standing at Seven's hurdle with his edge dark and his left arm held against his chest, very white about the mouth.
 
@@ -266,7 +256,7 @@ She walked. She did not hurry. She stopped on the other side of Seven's hurdle a
 
 "It got us one," said Perrin.
 
-"It got you two. You'd have had three if your catcher could carry." Carrow tilted her head at Kiva. "You can't, can you? You've a door declared and that's all you're let open."
+"It got you two. You'd have had three if your catcher could carry." Carrow tilted her head at Kiva. "You can't, can you? Not while your door's on the hurdle, and it's the only one you're let open."
 
 "That's all," said Kiva.
 
@@ -286,7 +276,7 @@ She turned to go. Then she turned back, as she had at the mast.
 
 "Yes."
 
-"Polglase will be beside him. He's never read anybody from Meridian." She was quiet for a moment. "He'll be very fair. He'll write down exactly what he sees. I thought I'd tell you, since I've seen what your man wrote about mine."
+"Polglase will be beside him. He's never read anybody from Meridian." She was quiet for a moment. "He'll be very fair. He'll write down exactly what he sees. I thought I'd tell you, because I've seen what your man wrote about mine."
 
 She went away up the pen. Lyle had got up off her knee and was standing by the Ropewalk's hurdle, and Carrow put a hand on her shoulder as she passed. Lyle did not look at her. She was looking at Anwen.
 
@@ -300,7 +290,7 @@ Nobody spoke until the bottom. The lane came out onto a little square with a pum
 
 "Seven to two," said Jude.
 
-"I know the figure. I'm saying it so that it's said. They beat us, on their own floor, with their own doctrine, and they didn't cheat." He turned round. "I want that written in the book. Not *lost to the Ropewalk.* I want *beaten, fairly, by a better four, on a floor twelve paces wide that they've stood on since they were eleven.*"
+"I know the figure. I'm saying it out loud. They beat us, on their own floor, with their own doctrine, and they didn't cheat." He turned round. "I want that written in the book. Not *lost to the Ropewalk.* I want *beaten, fairly, by a better four, on a floor twelve paces wide that they've stood on since they were eleven.*"
 
 "It's a long line," said Jude.
 
@@ -344,11 +334,13 @@ Now he stood at the foot of the mast with his bag between his feet, and Orla sat
 
 "That's all," said Aske. "That's the price, as near as I can say it."
 
-Orla said nothing. She had not argued with him. Kiva saw that she had decided not to, and that it had cost her something to decide.
+Orla held her tongue. She had not argued with him. Kiva saw that she had decided not to, and that it had cost her something to decide.
 
-Perrin was standing behind the reading desks, with Anwen and Jude and Pru. He had not been asked to come. At Saltmere her declarations went by her captain's voice, and he had read that line in the Chair's conditions on the boat, three times, with his lips moving, and had said nothing about it until last night.
+Perrin was standing behind the reading desks, with Anwen and Jude and Pru. He had not been asked to come. At Saltmere her declarations went by her captain's voice, and he had read that line in the Chair's conditions on the boat, three times, with his lips moving, and had kept it to himself until last night.
 
 "*Hand,*" said Perrin now, loud and clear, to the two readers. "*To Ember. Rowan, changing on three.*"
+
+*Hand,* on a reader's list, meant her hand door: the ward, the low tray that a catcher lifts and folds a load on. It did not mean the left hand at the end of her arm, though that was the one that would pay.
 
 Kiva went to the first cross.
 
@@ -464,7 +456,7 @@ It was Lyle. She was standing just inside the door, in her shirtsleeves, with a 
 
 "I'm the Hold," said Anwen. "Pryce."
 
-"Lyle. Maud." Lyle did not offer a hand. She looked at Anwen with the same square careful look that she had worn at the mast and on her knees. "You leaned well. This morning. You've a good wall."
+"Lyle. Maud." Lyle did not offer a hand. She looked at Anwen with the same square careful look that she had worn at the mast and on her knees. "You leaned well. Yesterday. You've a good wall."
 
 "It didn't move yours."
 
@@ -474,7 +466,7 @@ Anwen did not know what to say to that, so she said nothing. They stood and watc
 
 "How long?" she said at last.
 
-"To lay? Most of them get it in a year. It's easy." Lyle nodded at the nearest pair, a boy and a girl of about twelve. The girl had a wall up, small and wavering, and her feet in the boards, and the boy was pushing on the wall with both hands and his face scarlet. "It's easier than one door. That's the thing nobody believes. One door on its own is like holding a rope with one hand. Two laid is two hands on the rope, pulling the same way. It's quiet. You stop having to think about either."
+"To lay? Most of them get it in a year. It's easy." Lyle nodded at the nearest pair, a boy and a girl of about twelve. The girl had a wall up, small and wavering, and her feet in the boards, and the boy was pushing on the wall with both hands and his face screwed up tight. "It's easier than one door. That's the thing nobody believes. One door on its own is like holding a rope with one hand. Two laid is two hands on the rope, pulling the same way. It's quiet. You stop having to think about either."
 
 "Quiet," said Anwen.
 
@@ -494,7 +486,7 @@ Lyle's face did not change. But she was very still.
 
 "Wenna," said Lyle.
 
-She said it very flatly. Then she said nothing for a while. Down the shed, the woman in green had stopped beside a pair and was showing the boy where to put his hands.
+She said it very flatly. Then she was quiet for a while. Down the shed, the woman in green had stopped beside a pair and was showing the boy where to put his hands.
 
 "Wenna had a bad night," said Lyle. "On the Longshore. In the dark, on the flood, with a Company crew. Everybody has a bad night once. She's on one door now, and she's teaching the little ones, and she says she likes it better." Lyle's voice did not change. "That's what Meridian says about everything. That it's open. That it's soft. You say it about our wall and our blade and our whole school. You've said it for forty years."
 
@@ -512,7 +504,7 @@ That surprised Lyle. Anwen saw it go across the square careful face and not stay
 
 "Nor am I," said Anwen. "As good as I'd like."
 
-They stood a little longer. Then Lyle said, without looking at her, "How do you walk a wall? On your own? I saw you do it this morning, at the end. You walked it from the far end."
+They stood a little longer. Then Lyle said, without looking at her, "Somebody taught you to lean from the floor. Did they teach you to walk a wall as well? On your own?"
 
 "A man called Mace taught me. On a van's line, at home." Anwen hesitated. "You don't push the near end. You walk the far end round, and the near end comes after it."
 
@@ -522,7 +514,7 @@ So Anwen showed her, at the near end of the Ropewalk, on the bare boards, with t
 
 It did not walk. Her feet were in the floor.
 
-She shut her stance. Only the stance, and kept the wall. Anwen saw her do it, and saw that it was hard for her, harder than anything she had done that morning in the lane. Her wall shook from end to end. Then she walked the far end round, a step, two steps, on one door, like anybody.
+She shut her stance. Only the stance, and kept the wall. Anwen saw her do it, and saw that it was hard for her, harder than anything she had done yesterday in the lane. Her wall shook from end to end. Then she walked the far end round, a step, two steps, on one door, like anybody.
 
 "It's loud," said Lyle, between her teeth. "One door. It's so loud."
 

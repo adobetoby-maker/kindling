@@ -32,7 +32,7 @@ Noa was bent over his tape. So was Polglase. This time Kiva did not go to the de
 
 "Six seconds," said Polglase.
 
-He had said it first. Noa looked up at him. The old man had his dividers out, a pair of brass ones that he must have brought in the black book's spine, and he had measured before Noa had.
+He had said it first. Noa looked up at him. The old man had his own dividers out, a small brass pair, and he had measured before Noa had.
 
 "Six," said Noa, after a moment, measuring. "On every pen. Six seconds after the cliff. A week ago, seven."
 
@@ -68,15 +68,15 @@ She knew Orla had read the ferry. She knew Orla had read *I kept my mouth shut,*
 
 Orla did not. She looked at Kiva for a moment with her crooked face quite still, and then she looked at the mast, and then at her stick.
 
-"It's a good book," she said. "It's got everything in it that ought to be in it. I'd say it's the best I've ever read, and I've read twenty years of candidates' books." She got up off the crate, in two stages. "Go and eat. Your healer wants that hand at noon."
+"It's a good book," she said. "It's got everything in it that ought to be in it. I'd say it's the best I've ever read, and I've read twenty years of candidates' books." She got up off the crate. "Go and eat. Your healer wants that hand at noon."
 
 Kiva went to the edge of the boards and stood by the black water with the book in her right hand and the cold hand in her coat.
 
-It was certified. Two crossings now: Ember to still, from the summer, and hand to Ember, from this morning. They were in her name, on her certificate, on ordinary terms. They were one in seven days, read on a sanctioned mast, declared to a count, with the price said first. Anybody could read the terms. Anybody could hold her to them.
+It was certified: two crossings now, Ember to still from the summer and hand to Ember from this morning, in her name, on her certificate, on ordinary terms. They were one in seven days, read on a sanctioned mast, declared to a count, with the price said first, and anybody could read the terms and hold her to them.
 
-She had done three doors three times, and it had cost two fingers and an arm for four days, and nobody could hold her to it, because nobody knew what it was. It was not on any certificate. The Chair had written that it was not to be asked.
+She had done three doors three times, and it had cost two fingers and an arm for four days, and nobody could hold her to it, because nobody knew what it was. It was on no certificate; the Chair had written that it was not to be asked.
 
-This was different. This was a thing with a page, and figures, and a sponsor's name and a reader's. It was small. It was a hand door folding a load and an Ember carrying it six paces. Pru could fold. Perrin could carry, in his way. A girl in the Ropewalk could probably do both at once, laid, and never feel the gap.
+This was different, a thing with a page and figures and a sponsor's name and a reader's. It was small: a hand door folding a load, and an Ember carrying it six paces. Pru could fold; Perrin could carry, in his way; a girl in the Ropewalk could probably do both at once, laid, and never feel the gap.
 
 But it was hers, and it was written down, and she could do it again next week. She found that she was glad of it in a way that she had never been glad of the three.
 
@@ -88,23 +88,7 @@ And on the left, under it: *A notch at six seconds. Every pen. Mr. Polglase says
 
 ---
 
-Aske had the hand at noon, in the loft, by the north window.
-
-"Cold to the elbow," he said. He held two fingers in the crook of it for a full minute. "And it aches there. In the joint."
-
-"Yes."
-
-"You'd not have said, if I hadn't asked."
-
-"I'd have said at four."
-
-"At four I'd have known." He wrote. *Cold to the elbow at noon on Thursday. An ache in the joint, reported when asked.* "I'll see it at four, and tonight, and in the morning. I said four nights. I'll be glad to be wrong."
-
-At four it was cold to the elbow still. At ten that night it was cold to a hand below. Aske wrote both, and said nothing about either.
-
----
-
-Mr. Adlam came to the loft at half past eleven that morning, before the noon, as he had promised, with two books under his arm and his hat in his hand.
+Mr. Adlam came to the loft at half past eleven, as he had promised, with two books under his arm and his hat in his hand.
 
 Seven was there: Perrin, Anwen and Jude at the long table under the south window, which Halden had left empty when it went to its lane. Pru was on the end of a bed with a cord in her lap. Kiva had come up from the gate. Noa had come with Mr. Adlam, because Mr. Adlam had asked him to. He stood by the stove with his satchel and looked uncomfortable.
 
@@ -145,8 +129,6 @@ Noa took out his notebook. He did not open it at once. Kiva saw him look at it, 
 Mr. Adlam looked at her.
 
 "I timed it on Saturday," he said. "At the pump house wall. Fifty-seven." He was quiet a moment. "It went into step at twenty past two on the seventeenth of the ninth month. Nobody salted it. Nothing was ever salted into it off any stock. And it's beating at exactly the count that my bench salted a row at last month." He shook his head. "I'd like somebody to tell me I'm wrong about that. Nobody has."
-
----
 
 "That's the first thing," said Mr. Adlam. "The second's an offer. I'll make it plainly."
 
@@ -208,13 +190,27 @@ She did not know what he wanted with it. She would not know unless she went.
 
 "He'll have whoever you bring," said Perrin. "Adlam said so. On the stair, after." He took the wire from her and read it again. "He said, *Tell her the Proprietor expects nothing less.*"
 
+Aske had the hand at noon, when they came back up the loft stair, by the north window.
+
+"Cold to the elbow," he said. He held two fingers in the crook of it for a full minute. "And it aches there. In the joint."
+
+"Yes."
+
+"You'd not have said, if I hadn't asked."
+
+"I'd have said at four."
+
+"At four I'd have known." He wrote. *Cold to the elbow at noon on Thursday. An ache in the joint, reported when asked.* "I'll see it at four, and tonight, and in the morning. I said four nights. I'll be glad to be wrong."
+
+At four it was cold to the elbow still. At ten that night it was cold to a hand below. Aske wrote both down without a word about either.
+
 ---
 
 Kellan Renn had never been in a room with the Proprietor, and on Thursday evening at seven he sat at the man's own table.
 
 It was in the Counting House on the Long Quay. That was Halden's house in Saltmere, and had been since before the pump house was built: a tall narrow building of grey stone with a great many windows, all lit, and a brass plate by the door so old that the letters had worn to shadows. Inside, every room had lamps, and every lamp burned white and steady without a flicker. Kellan had counted nineteen of them between the door and the dining room. He had found himself counting them as Rowan counted things, without meaning to.
 
-Halden License had won its two seeding lanes. It had won them well. Pettit had been pleased in his slow sleepy way, and Yarrow had been loudly pleased, and Hesketh had said nothing and gone for a walk on the Mole. And at five a man in Halden's livery had come to the loft with a card. *The Proprietor asks the Halden License four to dine at seven.*
+Halden License had won its two seeding lanes. It had won them well. Pettit had been pleased in his slow sleepy way, and Yarrow had been loudly pleased, and Hesketh had gone for a walk on the Mole by herself. And at five a man in Halden's livery had come to the loft with a card. *The Proprietor asks the Halden License four to dine at seven.*
 
 So they sat at a long table in a long room with white lamps, the four of them, in their best black and gold. At the head of the table sat a man who had owned the Halden foundation and its pattern since before any of their grandparents had been born.
 
@@ -246,8 +242,6 @@ Kellan found that he could not look away from it either. He was aware of his own
 
 Kellan did not move further. He sat with his heart going slowly and his hands on the cloth and waited.
 
----
-
 The Proprietor asked each of them about their lanes. He asked Pettit about his captaincy and listened to the answer. He asked Yarrow about the Ropewalk's lay and listened to that, and asked two questions that Yarrow could not answer and did not seem to mind. He asked Hesketh about her wall. Then he turned to Kellan.
 
 "You stood for Team Seven last year," he said. "On their book. Mr. Adlam says you still do, for calls in Meridian."
@@ -266,7 +260,7 @@ There it was. Kellan had known since five, when the card came, that it would com
 
 "That's a careful answer."
 
-"It's a careful subject." Kellan made himself look at the man and not at the cell. "I'll tell you what's on the record. Anybody could tell you that. She's seated in the Third Division, unclassified, and catcher on Seven. Her Draw read one-six on the new year. Her Hold reads Edge three-one, Ward four-five, Stance six-five. On one door the frame says Flame. On two it gives dashes. She has two crossings certified; the second was this morning, on that mast down the quay. She's read under the rule. One crossing in seven days. Her two fingers don't report." He drew a breath. "That's the sum. I'd expect nothing less of anybody who asked."
+"It's a careful subject." Kellan made himself look at the man and not at the cell. "I'll tell you what's on the record. Anybody could tell you that. She's seated in the Third Division, unclassified, and catcher on Seven. Her Draw read one-six on the new year. On the Hold rig she reads Edge three-one, Ward four-five, Stance six-five. On one door the frame says Flame. On two it gives dashes. She has two crossings certified; the second was this morning, on that mast down the quay. She's read under the rule. One crossing in seven days. Her two fingers don't report." He drew a breath. "That's the sum. I'd expect nothing less of anybody who asked."
 
 "And the three?"
 
@@ -288,7 +282,7 @@ Kellan thought of a girl on a frozen yard with her arm gone white to above the e
 
 "Because it lives in one hand. And it cost her two fingers the first time, and an arm for four days the third, and her healer doesn't know it would come back a fourth." Kellan heard himself, and kept going. "And because she's spent the whole winter making something that three people can do instead. She'd say so. She'd say it to your face. I'd expect nothing else."
 
-The table was very quiet. Pettit was looking at his plate. Yarrow had gone red.
+The table was very quiet. Pettit was looking at his plate. Yarrow had put his fork down.
 
 The Proprietor did not seem offended. He seemed, if anything, pleased, as a man is pleased when a fact turns out to be the shape he had guessed.
 
@@ -296,9 +290,7 @@ The Proprietor did not seem offended. He seemed, if anything, pleased, as a man 
 
 He talked to Pettit about the Bench for the rest of the meal. He did not mention Rowan again.
 
----
-
-Kellan walked back along the Long Quay at half past nine with the others. The white lamps stood on their fluted posts without a flicker. Pettit walked beside him and said nothing for a long way.
+Kellan walked back along the Long Quay at half past nine with the others. The white lamps stood on their fluted posts without a flicker. Pettit walked beside him and was quiet for a long way.
 
 "He's going to ask her," said Pettit at last.
 
@@ -318,7 +310,7 @@ Pettit looked at him, and at the candle, and nodded, and went up.
 
 ---
 
-Kiva was sitting on her bed by the north window with her book on her knee and her left hand inside her coat. Aske was asleep in the bed by the door; Kellan had to step over his boots. Perrin was asleep with Coombe's rope for a pillow. Pru was awake. She looked at Kellan coming down the room and did not say anything, and then she turned over toward the wall, which in Pru was a kind of tact.
+Kiva was sitting on her bed by the north window with her book on her knee and her left hand inside her coat. Aske was asleep in the bed by the door; Kellan had to step over his boots. Perrin was asleep with Coombe's rope for a pillow. Pru was awake. She looked at Kellan coming down the room, and then she turned over toward the wall, which in Pru was a kind of tact.
 
 Kellan sat on the end of Jude's bed, across the narrow gap from Kiva's. Jude did not wake.
 
@@ -334,7 +326,7 @@ Kellan sat on the end of Jude's bed, across the narrow gap from Kiva's. Jude did
 
 Kiva did not move.
 
-"I said I didn't think you would," said Kellan. "He asked why. I told him. I don't know if I'd any business to." He was quiet a moment. "He was pleased. As if I'd told him something he'd guessed. I don't know what he's going to ask you tomorrow. I don't know if it's the three. I think it is." He turned his head and looked at her. "I'm in his four. I wear his colours. I'll stand in a lane for his house on Thursday and I want to win it. I'd want you to know that I told you this anyway."
+"I said I didn't think you would," said Kellan. "He asked why. I told him. I don't know if I'd any business to." He was quiet a moment. "He was pleased. As if I'd told him something he'd guessed. I don't know what he's going to ask you tomorrow. I don't know if it's the three. I think it is." He turned his head and looked at her. "I'm in his four. I wear his colours. I'll stand in a lane for his house on Thursday and I want to win it. That's one side. The other side is that I told you this anyway."
 
 "I know you did."
 
@@ -352,7 +344,7 @@ Kellan thought about it honestly. He had always done that, and he had always don
 
 He went down the room, over Aske's boots, to the stair. At the top he turned round.
 
-"He'll ask nicely," he said. "That's what I'd be careful of. Not that he'll ask. That he'll ask so nicely, and be so right about so many things, that you'll want to give him whatever it is just to have been asked by somebody like that." He hesitated. "I did, a bit. At the table. I'd want you to know that too."
+"He'll ask nicely," he said. "That's what I'd be careful of. Not that he'll ask. That he'll ask so nicely, and be so right about so many things, that you'll want to give him whatever it is just to have been asked by somebody like that." He hesitated. "I did, a bit. At the table. Add that in."
 
 He went down. Kiva sat with the book on her knee and her cold hand in her lap.
 

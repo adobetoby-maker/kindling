@@ -93,3 +93,18 @@ Owner instruction: continue until book and complete local Breeze audio are publi
   (-> `provenance/MOVEMENT-003-COLD-READ.md`). Prompts: planning/OPUS-5.5-MOVEMENT-003-{EDITORIAL-REVIEW,COLD-READ}.prompt.md.
 - Publishing M3 first draft to PWA labeled draft (chapters 1–24), then supervising reviews.
 - Next: consolidate (max 3), repair prompt, same-author repair, fresh recheck, publish repaired, then Movement 4 brief.
+
+## Update 2026-10-15 00:50 MDT — Movement Three reviewed; repair running
+
+- Published to PWA: ch 1–24, version 1.18.38, sw-v1214, PWA main f660d7d; ch 17–24 labeled "first draft awaiting review";
+  all 24 chapters byte-identical to source on books.worker-bee.app. Source main f529390 (+ local 5d8f25d review artifacts).
+- Reviews DONE: editorial `b4e11087` (`provenance/MOVEMENT-003-EDITORIAL-REVIEW.md`), cold read `884bf82e`
+  (`provenance/MOVEMENT-003-COLD-READ.md`). Both simulated/same-family.
+- Consolidated: P1 numbers/clock/logic line fixes (lane-2 tally, litter rule, nights, bag count 7, timestamps, Bench);
+  P2 scene-structure (remove 15–20 intra-scene breaks), sentence contrast (over-corrected: >=40 share 0.4%), footholds;
+  P3 distinct voices ("I'd want" 28 -> Jude/Anwen only; said nothing; scarlet; since).
+- ACTIVE CHILD: M3 repair `8e3ee375` (prompt planning/OPUS-5.5-MOVEMENT-003-REPAIR.prompt.md sha256 c0ca2755…80fb).
+  Output `provenance/MOVEMENT-003-REPAIR.md`. Pre-repair manuscript hashes in job tmp.
+- Owner items logged: dialogue vs sentence targets; front-load arithmetic; harbour tide clock (slack moves 1 min/day);
+  Graving seeding floor and slate template accepted as departures; BOOK_MAP s12 Rhea-short moved to M3.
+- Next: fresh recheck -> publish repaired -> Movement 4 brief.

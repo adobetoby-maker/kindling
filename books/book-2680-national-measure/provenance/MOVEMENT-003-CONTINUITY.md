@@ -1,8 +1,10 @@
 # Kindling 2680 — Book Two, Movement Three — continuity checkpoint
 
 Edition: **first draft, 2026-10-14/15**, chapters 17–24. Written by the drafting author directly after
-the run, from the prose as written. **Not reviewed, not cold-read, not scored, not repaired.** Where
-this file and the manuscript disagree, the manuscript governs. This file is not manuscript. It
+the run, from the prose as written. **Reviewed and cold-read (simulated, same family), then repaired by
+the same author on 2026-10-15** (`provenance/MOVEMENT-003-REPAIR.md`). Lines changed by that repair are
+marked *(repair)*. Rechecked by a fresh-context Opus session (`provenance/MOVEMENT-003-RECHECK.md`), one sentence fixed, accepted as editorial context 2026-10-15 (`provenance/MOVEMENT-003-RECHECK-CONFIRMATION.md`). Where this file and the manuscript disagree, the
+manuscript governs. This file is not manuscript. It
 carries forward `provenance/MOVEMENT-002-CONTINUITY.md` (as reconciled after the Movement Two repair)
 and `STATE_LEDGER.md`; anything not restated here stands as recorded there.
 
@@ -47,19 +49,19 @@ The third month: Tuesday the 1st to Wednesday the 30th. Perrin's count to the Be
 |---|---|---|
 | Sun 29th–**Mon 30th** (2nd) | Coast boat south. Jude at the rail since Sunday ("It's every count at once"). Aske: hand warm; "Thursday at the soonest" for the fifth. Perrin: "Fourteen." Saltmere at four; the Mole, the sea gate (hung iron, ten feet above the water), the low town below high water, the pump house. Long Quay at five; the *Regiment* bills; Kiva's two fingers on a bollard: *keeps time*, four and four; Pru: 80. The loft over **Quiller's** chandlery (Meridian's first company). Dray on **one** stick. Kellan offered to pay half the fares; Perrin refused in twelve lines. | 17 |
 | **Tue 1st** | The Board's gate in the old timber pond beside the **Graving**. Every dram combed. **Seven's sealed plain declared by Kiva before combing**; combed W full, I silent ("the first silent on the seventh" of ~400 that morning); line written beside it. The Tarn reserve's "plain" jar: soot-cut (the clerk's third that morning; "it's everywhere this winter"). Orla on a fish crate at the mast. Noa and **Polglase** (Saltmere's reader) at two desks. **Carrow and Lyle read: one line each.** Noa enters "a stack. Under the rule, an incident." Polglase: "Laid. As taught… not an incident in this town." Uproar. Carrow to Kiva. Dray: "That's fairer." The draw. Clerk's notice: lanes go ahead under protest. "GAPPERS GO HOME." Perrin: "Thirteen." | 17 |
-| **Wed 2nd** | Jude's sling off for the lane (Aske). **Lane 1, the Ropewalk: Ropewalk first four 7, Seven 2.** Treen calls *run* / *lay*. "Make it walk." Perrin: *beaten, fairly, by a better four…* written in the book. | 18 |
-| **Thu 3rd** | Aske, six: warm; the price said. **Fifth hand-to-Ember crossing, gate mast, 7 a.m.** (Perrin declares): one cliff, twenty-six, **thirty-one in all**. "Five." **Notch on all eight pens, seven seconds after the cliff** (first after a single cliff). Polglase: "a hair… most mornings at the springs… the harbour." Cold to **a hand below the elbow** at 7.15. Orla: "I'll sign at six." Fourth column: *Cold. As before.* Evening: **Anwen cutaway** at the Ropewalk with Maud Lyle. Graywater's van arrives by the coast road that night. | 18 |
-| **Fri 4th** | 8 a.m. **Pike's dressings off** (Ruddock): fingers close halfway (a quarter the week before); "the first in a month; I'd not promise the thumb." Rhea: a Board warrant; two nights left. Hand: mid-forearm at seven, wrist at four. Kiva walks alone through the low town to the **harbour pump house**; finds **Mara** (came Wed 2nd by the Works' transit with Rusk). "It's yours." **Meets Hart.** His staff, grating, book of slacks. He knows she has a shut door; she does not ask her question. "Your sponsor's in town." | 19 |
-| **Sat 5th** | **Lane 2, the Ropewalk: Seven 6, Ropewalk second four 4.** The second four unlays and walks walls badly. **Yeo and Jude** on the Ropewalk steps: "It's always the same thing… a kitchen in the low town." | 19 |
+| **Wed 2nd** | Jude's sling off for the lane (Aske). **Lane 1, the Ropewalk: Ropewalk first four 7, Seven 2.** Treen calls *run* / *lay*. "Make it walk." Carry 3 ends on the hazel because Seven's catcher keeps her hands off the poles while her one declared door is open on the hurdle (Seven's own rule; carrying needs no door) *(repair)*. Perrin: *beaten, fairly, by a better four…* written in the book. | 18 |
+| **Thu 3rd** | Aske, six: warm; the price said. **Fifth hand-to-Ember crossing, gate mast, 7 a.m.** (Perrin declares): one cliff, twenty-six, **thirty-one in all**. "Five." **Notch on all eight pens, seven seconds after the cliff** (first after a single cliff). Polglase: "a hair… most mornings at the springs… the harbour." Cold to **a hand below the elbow** at 7.15. Orla: "I'll sign at six." Fourth column: *Cold. As before.* Evening: **Anwen cutaway** at the Ropewalk with Maud Lyle (Lyle: "You leaned well. Yesterday."; she asks to be taught to walk a wall, having seen only the lean) *(repair)*. Graywater's van arrives by the coast road that night. | 18 |
+| **Fri 4th** | 8 a.m. **Pike's dressings off** (Ruddock): fingers close halfway (a quarter the week before); "the first in a month; I'd not promise the thumb." Rhea: a Board warrant; two nights left. Hand: mid-forearm at seven, wrist at four. Kiva walks alone through the low town to the **harbour pump house**; finds **Mara** (came Wed 2nd by the Works' transit with Rusk). "It's yours." **Meets Hart.** His staff, grating, book of slacks. He knows she has a shut door; she does not ask her question. "Your sponsor's in town?" *(repair: a question)* | 19 |
+| **Sat 5th** | **Lane 2, the Ropewalk: Seven 6, Ropewalk second four 4.** By carry *(repair)*: (1) Seven over, and a down (Jude on their blade, run for the hazel unlaid), 4–0; (2) the second four over, and a down (Perrin on the poles), "Four all"; (3) a point to Seven in its half, and a down, 6–4. The second four unlays and walks walls badly. **Yeo and Jude** on the Ropewalk steps: "It's always the same thing… a kitchen in the low town." | 19 |
 | **Sun 6th** | Aske: **warm at seven, "a sulk of three nights. Five of six."** Book to Orla. **Orla cutaway:** reads the ferry line; goes to the pump house at six; **meets Hart, badly.** | 19 |
 | **Mon 7th (night)** | **Coast night, Gannet Creek**, on the Board's warrant, Company ground: a **kiddle** (seven posts). Kiva second to Pike; **Davy Penhale** (Company catcher) at the purses. A post sheds a rung uncut at the top of the flood (~11 p.m.); Mace's walls laid flat on the water hold part. **High-water slack 11.54 p.m.–12.14 a.m.**; three posts cut from a punt; **"Far edge," once**, at the third. Kiva's fingers on a purse pole go quiet at the slack and come back before the grass moves (sleeve signals). **1.20 a.m.:** Jude with Noa's note (Clerk's order) and Perrin's line. Rhea: "Go." **Rhea's spring advice.** Pru stays. | 20 |
-| **Tue 8th** | **Rhea cutaway, low-water slack 6.15:** posts five to seven clean; Pike takes the far edge and the voice; the fourth's "now" a count late; **half a rung into the creek**; closed **6.45** by Bray's crew; six bags and the net's tin, the sixth light. **6 a.m. gate:** Kiva read (stance, one line). **Perrin's test with Anwen: one line.** Noa's answer (not hers; not a stack under any rule; "The lodger did"). **Clerk's ruling** at noon. Carrow: "I'll think about it." **Mara cutaway at dawn:** the **Hoop** rises at 6.14 (Hart's hand quiet 6.12–6.13), stands at **4 ft 6½ in** on the basin staff, 21 minutes, down at 6.35; Peverell's **2604 entry**. | 20, 21 |
+| **Tue 8th** | **Rhea cutaway, low-water slack 6.15:** posts five to seven clean; Pike takes the far edge and the voice; the fourth's "now" a count late; **half a rung into the creek**; closed **6.45** by Bray's crew; **seven bags** and the net's tin, the seventh (the fourth post's) light *(repair; was "six… the sixth")*. **6 a.m. gate:** Kiva read (stance, one line). **Perrin's test with Anwen: one line.** Noa's answer (not hers; not a stack under any rule; "The lodger did"). **Clerk's ruling** at noon. Carrow: "I'll think about it." **Mara cutaway at dawn:** Hart's hand quiet at 6.12 (the table's figure 6.13); the **Hoop** rises, stands at **4 ft 6½ in** on the basin staff, 21 minutes, down at **6.33** *(repair; was 6.35)*; Peverell's **2604 entry**. | 20, 21 |
 | **Wed 9th** | Kiva at the grating with Hart and Jude: quiet 6.13; the Hoop rises; **"It's gone out of the harbour, into that"**; ache 6.33; 4 ft 6½. 7 a.m. Mara shows Kiva the 2604 entry; Kiva's lips move; Hart: "You count when you read." **Adlam** brings the Proprietor's request to see the plate (wired to the Line Sat 5th). | 21 |
-| **Thu 10th** | Aske's price. **Sixth crossing**: one cliff, twenty-six, **thirty in all**. "Six." **Notch at six seconds**, all pens; Polglase's book of times (hairs at every reading at every spring since the ninth month). **Orla certifies.** Fourth column: *Certified. Cold. As before.* Hand: **cold to the elbow, an ache in the joint** (noon, four); a hand below at ten. 11.30 **Adlam's bench books** and offer; refused. **The watch's wire.** 7 p.m. **Kellan cutaway** at the Counting House. ~10 p.m. Kellan at the loft: "Don't go alone." | 22 |
-| **Fri 11th** | Seventy-seven years after the 2604 night. Hand mid-forearm at seven. **Prediction written and sealed** at the pump house (9.30), received at the Board's press **10.07**, to be opened **noon on the 23rd**. 8 p.m. **the Proprietor**: plate shown, cold; his 2604 account; **the three-door asked for a price; refused.** Fever on the quay (104 by Orla), 108 at the loft, 110 at midnight, **112 at one; broke about three. No dream.** | 23 |
+| **Thu 10th** | Aske's price. **Sixth crossing**: one cliff, twenty-six, **thirty in all**. "Six." **Notch at six seconds**, all pens; Polglase's book of times (hairs at every reading at every spring since the ninth month). **Orla certifies.** Fourth column: *Certified. Cold. As before.* 11.30 **Adlam's bench books** and offer; refused. **The watch's wire.** Noon: hand **cold to the elbow, an ache in the joint**; four, the same; a hand below at ten *(repair: the page now tells these in this order; the hand check followed the wire)*. 7 p.m. **Kellan cutaway** at the Counting House. ~10 p.m. Kellan at the loft: "Don't go alone." | 22 |
+| **Fri 11th** | Seventy-seven years after the 2604 night. Hand mid-forearm at seven; Aske: "three nights to go" *(repair; was "two")*. **Prediction written and sealed** at the pump house (9.30), received at the Board's press **10.07**, to be opened **noon on the 23rd**. 8 p.m. **the Proprietor**: plate shown, cold; his 2604 account; **the three-door asked for a price; refused.** Fever on the quay (104 by Orla), 108 at the loft, 110 at midnight, **112 at one; broke about three. No dream.** | 23 |
 | **Sat 12th** | Aske: no lane. **Lane 3, the Graving: the Tarn first four 5, Seven 4** (Pru catches; "Rowan stands down, on her healer's card"). Kiva watches from the tiers. **Seeding board, 6 p.m.: Seven twelfth of twenty-four.** | 24 |
 | **Sun 13th** | Hand cold to the wrist at seven. Perrin wants a second plant. **Trewin** (Tarn captain, still door) asks to learn *nobody*. **Handed crossing rehearsed** in the Company van yard (Finch, Rowan's declared Ember, Trewin): late a count at the second gap. Pike: "You call from the air." Orla takes the book; **tells Kiva the meeting with Hart went badly**; "Six of six… gladder." 6.45 p.m. **Kiva's yes/no log begins** (the outfall-walk rail: yes). Hart: "It went badly on both sides." | 24 |
-| **Mon 14th** | **7 a.m. Aske: "Warm." A sulk of four nights. Six of six; certified.** "Thursday's the soonest." Perrin: "Nought." The Bench at nine; Kiva not at the Bench. | 24 |
+| **Mon 14th** | **7 a.m. Aske: "Warm." A sulk of four nights. Six of six; certified.** "Thursday's the soonest." Perrin: "Nought." The Bench at nine: **Seven stands; Kiva not with it** (her card); she watches from the tiers with Aske *(repair: Perrin's "watch us do it")*. Who stands in her place is not on the page. | 24 |
 
 ## 2. Kiva Rowan at exit
 
@@ -102,7 +104,8 @@ The third month: Tuesday the 1st to Wednesday the 30th. Perrin's count to the Be
 
 - **Seeded twelfth of twenty-four**: *Won one, lost two. Points twelve for, sixteen against.*
   - Lane 1 (Wed 2nd, the Ropewalk): **lost 2–7** to the Ropewalk first four.
-  - Lane 2 (Sat 5th, the Ropewalk): **won 6–4** against the Ropewalk second four.
+  - Lane 2 (Sat 5th, the Ropewalk): **won 6–4** against the Ropewalk second four (4–0, 4–4, 6–4 by
+    carry; the first-carry down added in repair so the carries sum to the marshal's total).
   - Lane 3 (Sat 12th, the Graving): **lost 4–5** to the Tarn first four (glass point by the dummy's head).
 - **Seeding board (top and Meridian lines on the page):** 1 the Ropewalk first four (won three);
   2 Halden License (won three); 3 the Tarn first four (won three); 6 Old Four; 9 Team Twenty-Eight;
@@ -110,7 +113,8 @@ The third month: Tuesday the 1st to Wednesday the 30th. Perrin's count to the Be
 - **Corrections learned:** a laid person cannot walk laid; to move they unlay and are nothing for a count
   or two, and their catcher calls it (*run* / *lay*) — **"make it walk"** (Kiva's, in the book in her name).
   Carrow adapts by *walking* where nobody is near and relaying in the path. Pru watches **hands** (a hand
-  door); Kiva watches **feet** (a still door).
+  door); Kiva watches **feet** (a still door). Seven's own rule, stated in lane 1 *(repair)*: the
+  catcher's hands stay off the poles while her declared door is open on the hurdle.
 - **Perrin:** declares for Kiva; asked for and paid for the reading of his stance at Anwen's back; "nobody
   stands together" restated as a rule about the lodger; wants a second plant; Coombe's rope.
 - **Anwen:** told Maud Lyle about the lodger and Wenna; taught her to walk a wall from its far end; admitted
@@ -145,7 +149,8 @@ stance; the Ember carry on the 13th); Pru's pay; the coast night (a second draws
 
 **Graywater's coast slate (Tue 8th):** *Closed: a quarter to seven, by the Company, on the Board's
 warrant. Lives: none. Works: the marsh grass of Gannet Creek, frosted for a quarter mile inland. A sheep.
-Tinned: six bags, and the net's tin. The sixth bag light.* Remarks three (the shed rung, the creek's; the
+Tinned: seven bags, and the net's tin. The seventh bag light.* *(repair; three purses at the high-water
+slack, four at dawn)* Remarks three (the shed rung, the creek's; the
 second's far edge and slack; the officer's going short: "She wrote the card"). Penhale weighs at the
 Company yard; no figure on the page. Earlier: about twenty drams lost to the creek on the flood (Penhale's
 guess); half the fourth post's rung lost at dawn ("twenty drams, perhaps," Rhea).
@@ -184,9 +189,13 @@ guess); half the fourth post's rung lost at dawn ("twenty drams, perhaps," Rhea)
   basin, **trembling four and four at the bank's count**. While it stands, **Hart's hand on the grating is
   quiet** (nothing in the basin keeps time) though the pumps run. It lies down and the held water spills in a
   white sheet. First noted the **26th of the ninth month, a hand high**; **4 ft 1 in** at the springs a
-  fortnight before the 8th; **4 ft 6½ in** on the 8th and the 9th. Stood 6.14–6.35 (8th), 6.13–6.33 (9th).
-- **Readings voiced (not established):** Hart: "as if the count goes out of the harbour at the slack and into
-  that." Mara (the 8th) and Kiva (the 9th) said the same. Jude: "twenty minutes when you can see what's
+  fortnight before the 8th; **4 ft 6½ in** on the 8th and the 9th. Stood 6.12–6.33 (8th, 21 minutes)
+  *(repair; was 6.14–6.35)*, 6.13–6.33 (9th, 20 minutes).
+- **Readings voiced (not established):** Hart, to Mara on the 8th, aloud for the first time in six months:
+  "as if the count goes out of the harbour at the slack and into that." Mara asked only "How". Kiva on the
+  9th said it unprompted ("It's gone out of the harbour, into that") and added "taking it in. Holding it."
+  Hart: "Somebody else got there by herself." *(repair; was "Mara (the 8th) and Kiva (the 9th) said the
+  same")* Jude: "twenty minutes when you can see what's
   keeping time." Mara: "the harbour was still at the slack. All of it, except one thing."
 - **Seen by:** Hart, Peverell, Yeo, Rusk, Mara (8th); Hart, Kiva, Jude, Mara, Peverell (9th); the low town's
   children at the springs.
@@ -300,6 +309,7 @@ conditions bind Meridian candidates; every reading under the rule is posted for 
 | The Saltmere 2604 entry (fever, no roof, "something was attending", the ring, lamps white / out) | Peverell (found it), **Mara**, **Kiva**. Hart, Yeo and Rusk were in the room on the 8th; whether they read the page is not stated. Hart has read his keeper's books generally (not stated for this page). |
 | That the Proprietor had a fever on the 2604 night and saw the lamps | Kiva, Perrin, Orla (his words). He did not mention a dream. |
 | That Kiva has fevers near Glory masters | Aske (card), Pru, Orla, Perrin; Kellan saw the night. Content: none. |
+| That Kiva expected something to come with the fever ("Nothing," … "Nothing came," said aloud on the 11th–12th) *(repair: recorded, no prose change)* | **Aske and Pru now suspect** that there is something she expects with a fever (Aske wrote a line on the card unseen; Pru: "I want to, though… I'm not asking"). Neither knows any content. A decision made on the page. |
 | The Proprietor's ask and Kiva's refusal | Kiva, Perrin, Orla; Kellan and Pettit expected it. |
 | Orla and Hart met, badly | Orla, Hart, Kiva (told by both). |
 | The Hoop's behaviour; the prediction's text | Hart, Mara, Peverell, Yeo, Rusk, Kiva, Jude; the Clerk holds it sealed. |
@@ -325,8 +335,9 @@ clerk; Halden's livery men; the Company boatman; the bosun.
 1. **Length 54,482 words** (`wc -w`), inside 50,000–56,000.
 2. **Viewpoint: Kiva 82.5%** (44,930); cutaways **9,552** — Anwen 1,398; Orla 1,872; Rhea 2,022; Mara 2,429;
    Kellan 1,831. **52 words over the 9,500 ceiling.** Recorded, not trimmed.
-3. **Sections: 79**, about 690 words a section (formula target ~950; ~8.7 breaks per 10k words). Above the
-   target frequency.
+3. **Sections: 79** internal breaks at drafting, about 690 words a section (formula target ~950; ~8.7 breaks
+   per 10k words). Above the target frequency. *(repair: twenty intra-scene breaks removed; 59 internal
+   breaks, script section mean 813 words, 10.8 internal breaks per 10k.)*
 4. **Crossings placed Thursdays (3rd, 10th),** not Sundays: Aske ruled "Thursday at the soonest" after the coast
    boat; Thursday the 10th keeps a crossing available from Thursday the 17th (the Lane), and the 23rd (the
    Slack) is reachable either way. The sixth is Orla's certification. Aske says the price before each.
@@ -350,11 +361,51 @@ clerk; Halden's livery men; the Company boatman; the bosun.
     Saltmere Company death; the point of light; the hull; any explanation of the Step, the notch, the Hoop, the
     disk or the dream. No villain.
 16. **Formula measures** (sentence distribution, paragraph proxy, readability, progression and combat density,
-    development cadence) were written toward and **have not been measured** in the author run.
+    development cadence) were written toward and **have not been measured** in the author run. *(Measured
+    since: `provenance/MOVEMENT-003-EDITORIAL-REVIEW.md` §4 and `MOVEMENT-003-REPAIR.md` §3.)*
+17. **The Graving used as a seeding floor** (lane 3, Saturday the 12th; review C15). The packet said the
+    Graving is "not played this movement". **Recorded as an accepted departure (repair, 2026-10-15, per the
+    repair brief):** it is a seeding lane, not a national board; the national boards on the Graving remain
+    Movement Four's. The owner may revisit.
+18. **Rhea's van slate written out in full again** (ch. 20; review C16) against the packet's "do not repeat the
+    van-slate template a third time". **Recorded as an accepted departure (repair, 2026-10-15, per the repair
+    brief):** the template carries the officer's remark against herself. The scene itself opens in the middle
+    of the work. The owner may revisit.
 
 ## 15. Dates ahead
 
-The Bench, Monday the 14th, nine o'clock (Kiva not at the Bench). The Carry, Tuesday the 15th (Perrin's). The
-Hunt on the Longshore. **The soonest seventh crossing: Thursday the 17th**, hand warm on more than one morning,
-price said first. The Lane, the 17th–19th. **The prediction opens at noon on Wednesday the 23rd** (the dawn
-slack). Rhea's last night on the card before the 30th.
+The Bench, Monday the 14th, nine o'clock (Seven stands; Kiva not at the Bench). The Carry, Tuesday the 15th
+(Perrin's). The Hunt on the Longshore. **The soonest seventh crossing: Thursday the 17th**, hand warm on more
+than one morning, price said first. The Lane, the 17th–19th. **The prediction opens at noon on Wednesday the
+23rd** (the dawn slack). Rhea's last night on the card before the 30th.
+
+## 16. Repair of 2026-10-15: other line changes and items left open
+
+The full record is `provenance/MOVEMENT-003-REPAIR.md`. These line changes alter what the page states and are
+not covered above:
+
+- Rhea at dawn (ch. 20): "a catcher who watched her heel, and **since the first month** a second who watched the
+  far edge". This agrees with Pike's "twenty years" and with the slate line of the 23rd of the first month.
+  Rhea's dawn section opens at **6.10**, with the slack at 6.15 (was "twenty past six").
+- Mara (ch. 19): she heard of the ferry fever "at the kitchen table with my bag not yet packed" and had meant to
+  write to Kiva at the house of the Even Hand. She was never on a transit behind Seven.
+- Kellan (ch. 17): his mother **wired** Talley's parcel note on.
+- Carrow (ch. 21): "Maud told me." No "last night"; the day she heard is not stated.
+- Trewin (ch. 24): Perrin was read "on the **gate's** boards"; the gate was "**eleven days** ago".
+- Mara (ch. 21): "the eleven minutes **without pumps** that the low town would bear on a making tide".
+- Hart (ch. 19): "Your sponsor's in town?" is a question.
+- Lyle (ch. 18): asks Anwen to teach her the far-end walk after seeing only her lean. The walk is first used in
+  a lane on Saturday the 5th.
+- Footholds added: what *hand* means on a reader's list (ch. 18, the fifth crossing); Aske's "hand door" glossed
+  (ch. 24); Kellan gives Kiva's Hold figures as "on the Hold rig" (ch. 22).
+
+**Left open for the owner (unchanged in prose):**
+- The harbour clock: the basin's low-water slack begins at 6.12 on Tuesday the 8th and 6.13 on Wednesday the 9th.
+  That is one minute in a day; an Earth-like tide moves about fifty. Review C12, cold read T4. This is a
+  Movement Four and owner item. The repair moved only Tuesday's *end* (6.35 → 6.33).
+- The 41-minute hold in the eleventh month against a twenty-minute quiet at the springs (C13).
+- The brown-ink "temperature" line read as a keeper's-book gloss (C14); needs a Book One check.
+- "my best machine" in the Proprietor's mouth (C21).
+- Whether the sentence targets govern dialogue, and how long a read-aloud "long" sentence may be.
+- The front-load progression arithmetic.
+- `BOOK_MAP` §12 now carries a dated note that Rhea went short in Movement Three, as the packet authorised (C17).

@@ -445,3 +445,100 @@ Crossings on Thursdays the 3rd and 10th (Aske's "soonest"); Pru caught lane 3 af
 Proprietor states a 2604 fever (no dream); a second fever without a dream near a Glory master; the Hoop and a
 2604 ring a hand high; the notch after a single cliff (seven, then six seconds); the Step quickening 48 → 57;
 cutaways 52 words over ceiling.
+
+## Movement Three, consolidated repair — 2026-10-15
+
+- Status: **same-author repair of chapters 17–24, in place. Not rechecked, not cold-read after repair, not
+  accepted, not committed, not pushed, not published.** Chapter 25 was not drafted. No Movement Four work.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.**
+  This cannot be verified independently from inside the session. No subagent, other model or delegated worker
+  wrote or edited any prose or record. No codex or OpenAI call was made.
+- Session: Claude Code background job `8e3ee375` (job directory `~/.claude/jobs/8e3ee375`); remote session
+  `session_01Qyomxormkxi2vUXobQ81Fh`. Worked in place in the worktree `/Users/drive/kindling-2680-book-02`,
+  branch `codex/kindling-2680-book-02`; no commit made.
+- Brief: delivered in-session. On inspection its text matches `planning/OPUS-5.5-MOVEMENT-003-REPAIR.prompt.md`,
+  SHA-256 `c0ca27554b17df3e7dc9ee0d8036cd9555183e4cf1fc750019852dc8d1b380fb`.
+- Inputs, read in this order before the first edit: `provenance/MOVEMENT-003-EDITORIAL-REVIEW.md`,
+  `provenance/MOVEMENT-003-COLD-READ.md`, `provenance/MOVEMENT-003-CONTINUITY.md`, `STATE_LEDGER.md`,
+  `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`, `CHARACTERS.md`, `packets/MOVEMENT-003.md`, then chapters 17–24 in full.
+  One targeted search of chapters 10–16 checked how a lodger is killed (C20; it agrees, so it was not edited).
+- Scope:
+  - **Twenty factual and logic line fixes (F1–F20):**
+    - the lane 2 tally by carry (6–4, board unchanged)
+    - the catcher and the litter, stated as one rule of Seven's
+    - Lyle's "yesterday" ×3 and the far-end walk
+    - "three nights to go"
+    - Rhea's second "since the first month"
+    - seven bags
+    - the Hoop's 6.33
+    - Rhea's dawn at 6.10
+    - Thursday's hand checks told in order
+    - Seven at the Bench
+    - Hart's line about Mara
+    - the gate's boards
+    - eleven days
+    - Mara at the kitchen table
+    - wired
+    - "Maud told me"
+    - Hart's question mark
+    - the dividers
+    - "without pumps"
+    - *lying* flat
+  - **Structure:**
+    - twenty intra-scene `---` breaks removed (79 → 59 internal), including three short bridges folded
+    - eight long set-piece sentences (43–55 words)
+    - four reflective runs joined
+    - the ch. 17 rule history split into three beats
+    - footholds for *hand* and *Hold*
+  - **Voices:**
+    - "I'd want" 28 → 14 (Jude's, Anwen's and Aske's price speech kept)
+    - "said nothing" 22 → 10
+    - "did not say anything" 14 → 5
+    - non-Pru blushes given their own tells
+    - "in two stages" 5 → 2
+    - "so that it's said" 3 → 2
+    - causal *since* 5 → 0
+    - the worst negation runs in ch. 21 and 23 recast
+- Record: `provenance/MOVEMENT-003-REPAIR.md`. It has every correction with its evidence, the break list, the
+  before/after measures and the items deliberately left unchanged. The owner items left are: the harbour clock
+  (C12), the 41-minute hold (C13), the brown-ink line (C14), "my best machine" (C21), dialogue targets, and the
+  front-load arithmetic.
+- Word counts (`wc -w`): 54,482 → **54,610**. By chapter: ch. 17 7,158; ch. 18 8,132; ch. 19 7,611; ch. 20 7,091;
+  ch. 21 6,562; ch. 22 5,784; ch. 23 6,511; ch. 24 5,761.
+- Measures (`provenance/tools/m3_metrics.py`, unmodified, SHA-256 prefix `12036c794861`), before → after:
+  - section mean 625 → 813
+  - internal breaks per 10k 14.54 → 10.83
+  - all-text median 7 → 7, ≤5 40.3% → 40.3%, ≥40 0.4% → 0.5%, SD 7.92 → 8.05
+  - narration median 7 → 7, ≤5 37.3% → 37.1%, ≥40 0.6% → 0.8%
+
+  The narration waypoint (median 8–9, about 33% short, 1.5–2.5% long) was **not** reached. Viewpoint is
+  unchanged: Kiva 82.5%, cutaways 9,544 words, recounted with the script's section map renumbered.
+- Frozen edition `editions/movement-003-first-draft/` was not modified. `SHA256SUMS.txt` verified OK for all eight
+  files before and after. Chapters 1–16 were not touched.
+- Records reconciled to the surviving prose: `provenance/MOVEMENT-003-CONTINUITY.md` (entries marked *(repair)*,
+  new §16), the Movement Three block of `STATE_LEDGER.md` (status, M3.1–M3.8 lines marked *(repair)*, new M3.9),
+  and a one-line dated note in `BOOK_MAP.md` §12 (C17). The Graving used as a seeding floor (C15) and the re-run
+  slate (C16) are recorded as accepted departures in the continuity file §14, as the brief directed.
+- **Second repair (same day, job `ca51c377`, runtime-reported `claude-opus-5-5`):** after the fresh-context
+  recheck (job `a495af2f`, defect D1), `manuscript/chapter-23.md:195` now reads "The Proprietor was not what she
+  had expected." in place of "He was not…"; one line only, recorded in `provenance/MOVEMENT-003-REPAIR.md` §9.
+
+## Movement Three, review, repair, recheck and acceptance — 2026-10-15
+
+- Reviews (both simulated, same model family, runtime-reported `claude-opus-5-5`): informed editorial and
+  formula review, job `b4e11087` (prompt `planning/OPUS-5.5-MOVEMENT-003-EDITORIAL-REVIEW.prompt.md`, SHA-256
+  `668b3816a353021879f149c54548717e5695e53fff52877df6097c42460098be`); manuscript-only cold read, job
+  `884bf82e` (prompt `...-COLD-READ.prompt.md`, SHA-256 `bce5d1d1e4cadfd5dae3664e4dbfcb1ba9ee6a29fbcf03d758844b56b3f0bd58`).
+  Neither is human reader feedback.
+- Consolidated repair by the Opus 5.5 author seat, job `8e3ee375` (session `8e3ee375-4df3-42bf-aa79-6edab6a63c4c`),
+  prompt `planning/OPUS-5.5-MOVEMENT-003-REPAIR.prompt.md`, SHA-256
+  `c0ca27554b17df3e7dc9ee0d8036cd9555183e4cf1fc750019852dc8d1b380fb`. Record `provenance/MOVEMENT-003-REPAIR.md`.
+- Fresh-context targeted recheck, job `a495af2f` (prompt SHA-256
+  `d7e8eb4e60e2dabf086ca64e254a6e1fe221389fbfd2d0c9a2d5a09bfc1ec2c3`): one defect (ch. 23:195). Second repair, job
+  `ca51c377` (resumed from the repair conversation; prompt SHA-256
+  `e7a51af56f2753b465f6c8825c2468d96c5a25916105e1dcd54d0909ad2fad0a`): one sentence.
+- Frozen first draft `editions/movement-003-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK).
+- Final word count 54,611 (`wc -w`). Final hashes: `provenance/MOVEMENT-003-RECHECK-CONFIRMATION.md`.
+- The showrunner (Sonnet 5.5) wrote no prose. **Movement Three is accepted as editorial context for Movement
+  Four.** Formula sentence targets were not reached (see the confirmation file).
