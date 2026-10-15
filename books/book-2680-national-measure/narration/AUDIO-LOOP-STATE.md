@@ -245,3 +245,34 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   second repair1a27a443 active. No competing writer launched.
 - Storage primary85GiB free; Drive2 1.1TiB free. This book's audio tree1.3GiB,
   so no accepted checkpoints need removal/migration at this point.
+
+## 2026-10-15 14:53 UTC — audio4/5 live; final-edition refresh queued
+
+- Chapter4 one-segment pickup passed; chapter5 passed unchanged. Both live
+  manifests, full media SHA256 and HTTP206 verified. Duration4=2408.43s,
+  sha c1688879b35f7f61b30dc8ac20039d6e5eab2aef037afc02978fb1840b310756;
+  duration5=2603.42s,
+  sha35e5b458af50479dd2c0f9f0d58a321e4c0391d9e12bc2dc9724532323fc95df.
+  No owner listening certification. Single renderer53558 continues chapter6.
+- 22–24 direction completed:556 paragraph reviews, wordlock/harness pass.
+  Initialized25–27 only; did not direct moving/unaccepted whole-book source.
+- M6 closed; repaired48-chapter edition live at PWA1.18.45 (326226 words),
+  including earlier audio clarity corrections. Whole-book repair32af798e is
+  actually DONE (CLI's stale blocked state showed an idle completed report,
+  not an auth/permission problem); fresh recheck59421479 is working. Leave it.
+- Whole-book edits now make prior prepared direction stale in chapters
+  1,3,8,9,13,14,15,16,17,19,20,21,22. Existing public1/3 match the prior published
+  manuscript edition, not yet this unaccepted final repair. Do not overwrite
+  their source hashes or claim they narrate final revised words.
+- Queued Codex opening1–3 refresh shell45360 behind actual
+  provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md. If showrunner uses another
+  acceptance filename, inspect it and adjust this wait next heartbeat. Prompt
+  REFRESH-OPENING-FINAL-EDITION.prompt.md requires current acceptance, full
+  rolling read, frozen old publication/direction, exact per-segment text+instruct
+  comparison and safe archival of changed WAVs only. It releases fresh1/3 to
+  independent worker without discarding unchanged takes; chapter2 unchanged.
+  Need equivalent rolling refresh of other stale units once final prose accepted.
+- Worker still intentionally skips published.json, so this explicit refreshed
+  edition/archive step is necessary; do not silently reuse old segment WAVs
+  after changing direction. New unrendered stale tracks remain protected by
+  source-hash check. No duplicate GPU renderer, author or paid API invoked.
