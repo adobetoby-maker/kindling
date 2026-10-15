@@ -30,7 +30,7 @@ Kiva had found it on the wharf, at about the fourteenth count, and had not known
 
 She had the pencil on the line, and she did not want to write it.
 
-"He reached," said Pike. "Three words. I'll spell them if you like."
+"He reached," said Pike. "Two words. I'll spell them if you like."
 
 "I was a count late."
 
@@ -164,7 +164,7 @@ He had his pencil out. He had been waiting, Kiva thought, for somebody to say a 
 
 "I've not asked for that," said Kiva.
 
-"No. I'm only saying where it would come from." He drew a line under the column. "Three drams and eighty-four hundredths. That's what this team has to its name, on the thirtieth day of the first month, with a board called the Hunt in front of it. I've not put down a call reserve. I've not put down a cord, or a lamp, or what a purse sheet costs when a string's frosted it."
+"No. I'm only saying where it would come from." He drew a line under the column. "Three drams and eighty-four hundredths. That's what this team has to its name, on the twenty-fifth day of the first month, with a board called the Hunt in front of it. I've not put down a call reserve. I've not put down a cord, or a lamp, or what a purse sheet costs when a string's frosted it."
 
 "I said in the tenth month that we'd something over," said Jude. "You said so. You said that you'd never had a figure come out that way."
 

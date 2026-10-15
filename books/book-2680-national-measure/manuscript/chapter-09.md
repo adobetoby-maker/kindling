@@ -124,7 +124,7 @@ Noa did not answer at once. He had his face close to the drum, and the tape was 
 
 Kiva held up her left hand.
 
-It was white. It was white to the wrist and a little past, and the skin over the knuckles had the look of a candle end. When she shut the hand, it shut slowly, all of it, the eight fingers as well as the two, as though the order had to go a long way to reach them. There was no pain in it. There was simply a great deal of cold, in a place that she was used to listening to, and the listening had stopped.
+It was white. It was white to the wrist and a little past, and the skin over the knuckles had the look of a candle end. When she shut the hand, it shut slowly, all of it, the three fingers as well as the two, as though the order had to go a long way to reach them. There was no pain in it. There was simply a great deal of cold, in a place that she was used to listening to, and the listening had stopped.
 
 Pru had come up beside her. She took the wrist without asking and held it, two fingers on the pulse, and looked at the shed clock through the open door.
 
@@ -142,7 +142,7 @@ Kiva thought about that honestly, because she had been asked.
 
 "It costs the hand."
 
-"It costs the hand. I'd not have asked if I'd thought it would cost less." Her sponsor's voice did not soften by a hair, and Kiva was glad of that. "Five more. Four in this city. And the hand seen every Monday by a man who won't round down."
+"It costs the hand. I'd not have asked if I'd thought it would cost less." Her sponsor's voice did not soften by a hair, and Kiva was glad of that. "Five more. Three in this city. And the hand seen every Monday by a man who won't round down."
 
 Jude was writing in the book on his knee, on the shed step, with his tongue between his teeth.
 
@@ -164,7 +164,7 @@ Healer Aske had the hand at seven on Monday morning, under the lamp at the Wren 
 
 He did it with the pin and the penny and the cup and the cord, in the same order as always, and then he did a thing that he had not done before. He took her left wrist between his finger and thumb and held it, quite still, with his eyes on his own watch, for a whole minute by the second hand.
 
-"Cold to the knuckle," he said. "Not past. The palm's warm. The two that don't report are as they were. The other eight are slow to shut, and they'll be slow until about noon, I'd think, and then they won't be." He let go. "It's sulking."
+"Cold to the knuckle," he said. "Not past. The palm's warm. The two that don't report are as they were. The other three are slow to shut, and they'll be slow until about noon, I'd think, and then they won't be." He let go. "It's sulking."
 
 "It did that in the summer."
 
@@ -320,7 +320,7 @@ It was a long wait. The husks stamped twice in it.
 
 "Closer."
 
-Kiva had taken her left hand out of her coat. She had come back to the foot of the rail, and she laid the hand flat on the iron upright of the steps, light, the two dead fingers on the cold metal and the other eight held off it.
+Kiva had taken her left hand out of her coat. She had come back to the foot of the rail, and she laid the hand flat on the iron upright of the steps, light, the two dead fingers on the cold metal and the other three held off it.
 
 *Pushing. And not. And pushing.*
 
@@ -596,9 +596,9 @@ Kiva wrote it.
 
 She had not expected to fill it. She had found that she was easier with an empty *why* than she used to be. A square that was left white was a square that somebody might fill one day without having to rub anything out first.
 
-She held up her left hand to the lamp before she put the pencil down. It had been warm since noon, as Aske had said it would be, and he had walked down to the Pit to see it and said so, and written it, and gone back up again with his colleague, who had seen to Jude's boot. The eight fingers shut when she told them, and the two stuck out, as before.
+She held up her left hand to the lamp before she put the pencil down. It had been warm since noon, as Aske had said it would be, and he had walked down to the Pit to see it and said so, and written it, and gone back up again with his colleague, who had seen to Jude's boot. The three fingers shut when she told them, and the two stuck out, as before.
 
-She wrote that too, on the right, small: *Hand to Ember, one. Cold to the knuckle at seven; warm at noon. Five more wanted. Four can be had here.*
+She wrote that too, on the right, small: *Hand to Ember, one. Cold to the knuckle at seven; warm at noon. Five more wanted. Three more can be had here.*
 
 Then, because it was true, and because she had promised herself in the autumn that she would write a thing on the right side of the book when she thought it and not when it was convenient, she wrote one line more.
 
