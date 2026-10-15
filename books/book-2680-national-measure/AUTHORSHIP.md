@@ -811,3 +811,18 @@ by name with a cue only that person has. No new lens.
 - Files written by this run: `manuscript/chapter-33.md` to `chapter-40.md`, `provenance/MOVEMENT-005-CHECKPOINT.md`,
   `provenance/MOVEMENT-005-CONTINUITY.md`, this entry, and the Movement Five block of `STATE_LEDGER.md`. No other file
   was edited.
+
+## Audio-clarity text repair, chapters 8–9 — 2026-10-15
+
+- Commissioned by the audio supervisor (Codex) from the narration clarity findings for chapters 8 and 9; written by
+  Claude Opus 5.5 (runtime-reported `claude-opus-5-5`), background job `9ab8514b`, brief
+  `planning/OPUS-AUDIO-CLARITY-08-09.prompt.md`. Record: `provenance/AUDIO-CLARITY-08-09-REPAIR.md`. Frozen pre-repair copies:
+  `editions/audio-clarity-08-09-pre-repair/` (read-only; `SHA256SUMS.txt` verified OK).
+- Eight one- or two-word substitutions (two dates/counts in chapter 8, six finger and crossing counts in chapter 9). They
+  were first-draft slips that survived the movement review, repair and recheck passes.
+- **Hashes supersede the Movement One and Two confirmation tables for these two files only:** chapter 8
+  `2cf6a1091908ef2c91b399da139ab3a5291856f922e804fcb16e62d09e1b858c` (was `da17e213…`); chapter 9
+  `3a2316f2ef3e3e8f2f0da99b110d29cc27690b6c23d2610ef6f8740788728c0d` (was `60912ab0…`). Word counts: chapter 8 unchanged
+  (6,977); chapter 9 8,918 (+1); Movement Two 59,235.
+- Showrunner (Sonnet 5.5) verified the report's hashes against the files and committed exactly these files; it did not
+  author the changes. This is a text repair only; nothing has been re-narrated or listened to.

@@ -8,10 +8,11 @@ worker file and its no-store header. Does not commit or push.
 
 usage: nm-publish-pwa.py --through 24 --subtitle "..." --description "..." --note "..." --slug "..."
 """
-import argparse, json, re, shutil, sys
+import argparse, json, re, shutil, subprocess, sys
 from pathlib import Path
 
 BOOK = Path("/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript")
+REPO = Path("/Users/drive/kindling-2680-book-02")
 PWA = Path("/Users/drive/boundary-universe-2680-publish")
 DEST = PWA / "public/manuscripts/books/book-2680-national-measure/manuscript"
 BOOK_ID = "kindling-2680-book-02"
@@ -31,13 +32,17 @@ a = ap.parse_args()
 DEST.mkdir(parents=True, exist_ok=True)
 changed = []
 for n in range(1, a.through + 1):
-    src = BOOK / f"chapter-{n:02d}.md"
-    dst = DEST / src.name
-    if not src.exists():
-        sys.exit(f"missing source {src}")
-    if not dst.exists() or dst.read_bytes() != src.read_bytes():
-        shutil.copyfile(src, dst)
-        changed.append(src.name)
+    name = f"chapter-{n:02d}.md"
+    dst = DEST / name
+    # exact COMMITTED bytes only (HEAD), so uncommitted edits by another session never publish
+    rel = f"books/book-2680-national-measure/manuscript/{name}"
+    try:
+        data = subprocess.check_output(["git", "-C", str(REPO), "show", f"HEAD:{rel}"])
+    except subprocess.CalledProcessError:
+        sys.exit(f"missing committed source {rel}")
+    if not dst.exists() or dst.read_bytes() != data:
+        dst.write_bytes(data)
+        changed.append(name)
 print("copied/changed:", changed)
 
 # 2. manuscript index
