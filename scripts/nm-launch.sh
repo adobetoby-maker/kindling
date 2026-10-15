@@ -11,7 +11,7 @@ echo "prompt_sha256=$(shasum -a 256 "$prompt_path" | awk '{print $1}')"
 cd "$repo_root"
 exec claude --bg --model opus --effort high --permission-mode acceptEdits \
   --name "$name" --add-dir /Users/drive/penname \
-  --disallowedTools EnterWorktree ExitWorktree Agent Workflow \
+  --disallowedTools EnterWorktree ExitWorktree Agent Workflow Skill \
   --allowedTools Read Edit Write Glob Grep \
     "Bash(python3:*)" "Bash(wc:*)" "Bash(grep:*)" "Bash(rg:*)" "Bash(shasum:*)" "Bash(diff:*)" \
     "Bash(cmp:*)" "Bash(ls:*)" "Bash(cat:*)" "Bash(head:*)" "Bash(tail:*)" "Bash(date:*)" \
