@@ -78,3 +78,17 @@ accepted manuscript in rolling three-chapter units as writing progresses.
   first unit and active render. Check it before launching more preparation.
 - Writing showrunner and Movement Three repair are healthy. No intervention or
   duplicate writing/audio worker is required.
+
+## Heartbeat — chapter 1 progressing; next units prepared
+
+- The chapter 1 renderer remains healthy: 181/241 segment WAV checkpoints were
+  present at inspection. One worker and one renderer; no complete MP3 yet.
+- Chapters 4–6 finished Codex preparation. Independent harness validation passed
+  for all 746 paragraph reviews, complete source word locks, and zero blockers.
+  They are queued behind chapters 1–3 without a separate owner instruction.
+- Chapters 7–9 are now being read/directed: prompt
+  `DIRECT-UNIT-07-09.prompt.md`, result `DIRECT-UNIT-07-09.result.md`, shell session
+  `66924`. Check this process before launching the next preparation unit.
+- Writing: Movement Three is repaired/rechecked and published, bringing accepted
+  text to chapters 1–24. Opus Movement Four drafting job `9f1bbf7e` is active under
+  Sonnet showrunner `8491a39c`; no duplication or intervention is needed.
