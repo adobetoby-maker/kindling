@@ -177,3 +177,33 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   no model substitution or competing writer. Master showrunner remains healthy.
 - Chapter 3 continues synthesis (last inspected s185); chapters 1–2 remain live.
   No new upload or owner action is required at this check.
+
+## 2026-10-15 11:52 UTC — bounded recovery and next narration unit
+
+- M5 is repaired/rechecked and published (55,497 words). M6 draft 41–48 has
+  landed; master Sonnet 8491a39c owns reviews and whole-book closure. M6 editorial
+  c89e8156 attempted the wrong Codex-backed penname-editor skill; declined that
+  skill and instructed the same Opus session to perform its supplied review.
+  It is working again; cold read 2dcf4399 also runs. No substitute author.
+- Chapter 3 completed synthesis but technical gate held it: only s129.wav has
+  one sample at PCM rail (0.999969, sample 96170, 4.00708s). Preserved that exact
+  take as held-takes/s129.possible-clipping.wav; all other takes untouched.
+  No attenuation is being passed off as repair of potentially clipped audio.
+  Restarted only supervisor 29640 as 55205 (shell74336); active chapter4 renderer
+  4584 was preserved. The single worker waits for it, then retries chapter3's
+  one missing segment and rechecks its complete assembly before publication.
+- Hand/spatial fresh recheck passed11/19/24 but found two concrete residual
+  defects in14/15. Chapter14 old ready marker is preserved under
+  direction.blocked-clarity; chapter15 remains blocked. No affected source was
+  committed or published. Opus6754e4fb continues f842bac9's context to fix only
+  those two defects. Report AUDIO-FINAL-14-15-REPAIR.md.
+- Fresh Codex recheck queued shell71795 behind that report: prompt
+  narration/RECHECK-FINAL-14-15.prompt.md. It must verify cumulative five source
+  chapters and refresh14/15 before ready markers/publication. Wait for actual
+  acceptance before source commit; do not publish those uncommitted five files.
+- Initialized16–18 and launched Codex director shell85936 with
+  DIRECT-UNIT-16-18.prompt.md. It reads all three chapters and extends17/18
+  contexts honestly beyond the provisional16-chapter bible, with explicit Breeze
+  override. No local GPU context model or duplicate audio renderer launched.
+- Live PWA audio remains chapters1–2. Per-chapter publication continues as soon
+  as each technical candidate passes; no owner listening certification implied.
