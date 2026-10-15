@@ -59,3 +59,22 @@ accepted manuscript in rolling three-chapter units as writing progresses.
   heartbeat must verify live manifest/audio and record that result.
 - No ready audio existed at this update. First three-chapter direction is still
   in progress. Later accepted units remain queued for Codex preparation.
+
+## Heartbeat — opening unit rendering
+
+- Codex opening-unit task completed. All 697 prose paragraphs across chapters
+  1–3 were reviewed; per-chapter word-lock, clarity coverage and harness validation
+  passed. Inspect `DIRECT-OPENING-UNIT.result.md` and each chapter's
+  `preparation-review.json` for exact evidence. One nonblocking headcount query is
+  recorded for Writing Monroe; it did not require a spoken-text change.
+- The one Breeze worker is actively synthesizing chapter 1. Last checked checkpoint
+  was `chapter-01/breeze-directed/s012.wav`; render process PID 25944, supervising
+  worker PID 12344. Rediscover rather than trusting those PIDs indefinitely.
+- Chapters 2 and 3 have validated direction.ready markers and will follow without
+  another owner instruction. No complete chapter recording is published yet.
+- The next Codex unit, chapters 4–6, was initialized and launched as shell session
+  `97456`; prompt `DIRECT-UNIT-04-06.prompt.md`, result
+  `DIRECT-UNIT-04-06.result.md`. It prepares text/direction only and preserves the
+  first unit and active render. Check it before launching more preparation.
+- Writing showrunner and Movement Three repair are healthy. No intervention or
+  duplicate writing/audio worker is required.
