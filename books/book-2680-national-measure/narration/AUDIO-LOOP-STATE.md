@@ -408,3 +408,24 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Single renderer70899 continues9 (verifieds223), parent97481 healthy. Live1–8
   unchanged and source-current. No duplicate Metal, no paid API/ElevenLabs.
 - Next: prepare43–45/46–48; finish37 source loop; verify9 when it publishes.
+
+## 2026-10-15 22:02 UTC — chapter9 live;37 accepted; physical repair loop
+
+- Chapter9 peak pickups passed; live manifest/full media SHA256 and HTTP206
+  verified. Duration3870.62s, bytes46448397,
+  sha eef1ff0aec301fb281241f7dd08d4dd611e196b8273cbde2402d23843ccdd55b.
+  Owner/perceptual listening pending. Single renderer33794 continues10 (s083
+  at check); parent97481 healthy. No other GPU worker launched.
+-37 source repair fresh recheck PASSED. Adopted exact two-name call swap via
+  explicit hash addendum and authorship; committed14cf4fc with frozen edition
+  and provenance. Source publication pushed/reconciled with remote audio; PWA37
+  still owes copy/deployment at next exact-source publish (can batch40/41 if
+  their repair passes). Total325943 unchanged,37=6629 words.
+-40–42 preparation:42 ready;40 loaded cart called empty,41 open-bottom tun
+  filled before bottom attached are actual physical contradictions. Opus64f974d4
+  scoped ONLY40/41, frozen edition and AUDIO-PHYSICAL-40-41-REPAIR.md. Fresh
+  Codex recheck shell92158 waits for report, then independent source/joins check
+  and only40/41 preparation refresh, preserving42. No ready markers for blockers.
+- Initialized43–45; Codex director shell72352 active, own unit accepted source.
+  Next46–48 completes first narration read-through, then resolve any actual
+  remaining blockers and publish exact accepted text corrections before audio.
