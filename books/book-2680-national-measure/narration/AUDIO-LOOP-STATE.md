@@ -344,3 +344,26 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
  31–33; Codex director shell8470 active, own unit/current accepted prose.
 - Next: adopt/publish exact26/27 corrections only after residual recheck; then
   prepare34–36 onward. Verify replacement1/3 media/hash when worker publishes.
+
+## 2026-10-15 18:57 UTC — repair report handoff recovered
+
+- Opus6148611b was DONE, not blocked. It saved its correct terminology repair
+  as provenance/TOLVER-STANCE-26-27-REPAIR.md, not the requested AUDIO-STANCE
+  name. Read actual report; it makes three laid→planted substitutions, preserves
+  the two earlier arithmetic/hauler edits and clarifies declared stance at the
+  Carry without falsely asserting Tolver has only one door in his whole life.
+  Frozen edition editions/tolver-stance-26-27-pre-repair/.
+- Killed only waiting shell97669 (wrong report path); started existing fresh
+  recheck prompt immediately as shell26372, with actual report discoverable.
+  Do not wait again for a nonexistent AUDIO-STANCE-26-27-REPAIR.md. Expected
+  recheck output AUDIO-STANCE-26-27-RECHECK.md and RECHECK-STANCE-26-27.result.md.
+  26/27 remain uncommitted/unpublished until cumulative source passes/addendum.
+- 31–33 direction:721 paragraph reviews;31/32 ready,33 blocked on33:367
+  'She was a small fair boy' then he/his. Opus95089cc9 does ONLY that pronoun,
+  frozen edition/report AUDIO-PRONOUN-33-REPAIR.md. Fresh Codex recheck queued
+  shell51849; preserves31/32 and refreshes33 after actual source pass.
+- Initialized34–36, Codex director shell20535 active, own unit/current source.
+- Single shared renderer77848 continues8 (s276 verified), parent97481 healthy.
+  Refreshed1/3 markers remain ready, with old publication preserved in editions;
+  earliest-ready queue will run their small pickups when8 finishes. Live1–7
+  unchanged since prior verification. No duplicate GPU, no ElevenLabs spend.
