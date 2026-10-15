@@ -367,3 +367,27 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   Refreshed1/3 markers remain ready, with old publication preserved in editions;
   earliest-ready queue will run their small pickups when8 finishes. Live1–7
   unchanged since prior verification. No duplicate GPU, no ElevenLabs spend.
+
+## 2026-10-15 19:56 UTC — revised opening and8 live; source corrections published
+
+- Worker published final-edition1/3 pickups and new8. All three live manifest
+  source/audio hashes, full media SHA256 and range206 verified. Revised1
+  duration2519.82s sha ed638da7dd9b1dc6845aefdb6d2911ebba5f291089fbe7f1b85c32a27daa9661;
+  revised3 duration2377.54s sha e02f0bbbbe989ee19e61c4fa8da6992a6f5b3f58c08516a831686a2aba4b8da5;
+  8 duration3053.94s sha6846855b2b3b57dc829a7dfeeb690eda6e80c5d5d73f8f60ae0cb5cf77bcdc8d.
+  Owner/perceptual listening pending. Single renderer70899 continues9; parent97481.
+- Residual26/27 and pronoun33 fresh rechecks PASS. Adopted exact bounded Opus
+  prose changes, explicit hash supersession/addendum and authorship, frozen
+  editions/reports, committed5ff281b; merged remote audio safely, source main
+  cc07940. Total325943 words (+10 only in27). All prior chapter hashes unchanged.
+  Normal push hit LFS locking API network timeout; retried text-only push with
+  GIT_LFS_SKIP_PUSH=1 because all merged LFS pointers/objects already existed on
+  origin/main and had live-media verification. No audio objects were omitted.
+- PWA clean main reconciled; exact committed26/27/33 copied by publish helper,
+  catalog/count/version updated1.18.47 sw1223. Typecheck and diff check pass.
+  PWA main305f0e3 pushed; deployment verification pending the current check.
+- 34–36 direction ready (536paragraphs, wordlocks/harness pass). Initialized
+  37–39; Codex director shell4755 reads current accepted source, own unit. No
+  active prose author or duplicate Metal worker. Ready inventory now1–36.
+- Next: confirm1.18.47 live26/27/33 bytes, prepare40–42 onward, verify9 as it
+  publishes. Preserve old audio editions; final complete listening still pending.
