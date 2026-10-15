@@ -826,3 +826,116 @@ by name with a cue only that person has. No new lens.
   (6,977); chapter 9 8,918 (+1); Movement Two 59,235.
 - Showrunner (Sonnet 5.5) verified the report's hashes against the files and committed exactly these files; it did not
   author the changes. This is a text repair only; nothing has been re-narrated or listened to.
+
+## Movement Five, consolidated repair — 2026-10-15
+
+- Status: **same-author line repair of chapters 33–40, in place. Not rechecked, not cold-read after repair, not
+  accepted, not committed, not pushed, not published.** Chapter 41 was not begun. No Movement Six work.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.** This cannot
+  be verified independently from inside the session. No subagent, other model or delegated worker read, wrote or edited
+  any prose or record. No Codex or OpenAI call was made.
+- Session: Claude Code background job `89938c88` (job directory `~/.claude/jobs/89938c88`). Worked in place in the
+  worktree `/Users/drive/kindling-2680-book-02`, branch `codex/kindling-2680-book-02`; no commit made.
+- Brief: delivered in-session; on spot comparison it matches `planning/OPUS-5.5-MOVEMENT-005-REPAIR.prompt.md` (188 lines),
+  SHA-256 `f73100865d31d3558ece9bbcd194b5cd6a01fdf23fcddcf8274978ace111d9be`.
+- Inputs, read in order before the first edit: `provenance/MOVEMENT-005-EDITORIAL-REVIEW.md`, `MOVEMENT-005-COLD-READ.md`,
+  `MOVEMENT-005-CONTINUITY.md`, `STATE_LEDGER.md` (§1–§11 and the Movement Five block), `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`,
+  `CHARACTERS.md`, `packets/MOVEMENT-005.md`, then chapters 33–40 in full. Targeted read-only checks of Book Two ch. 17–32
+  (ch. 21 and 24) and Book One ch. 23–24.
+- Scope (detail and evidence in `provenance/MOVEMENT-005-REPAIR.md`):
+  - **Sums and evidence:**
+    - Thursday's lane 7–2 everywhere it is spoken or printed (17 for, 12 against; Seven still ninth in the Lane, 16
+      marks, 69, seventh by one mark; the unnamed eighth Lane four reconciled to +6)
+    - Kiva's 1 p.m. sum made conditional on Old Four; Kellan's two fingers moved to after three
+    - the Proprietor's question no longer cites the *Mercury*
+    - the Pit added to every list of occasions
+    - "the one piece of the dream she had words for and had kept"
+    - "a week ago… the Tarn's first four"
+    - the Measure's rows
+    - "this morning"; "since the clerk drew it"; "a girl of seventeen"
+    - Dray's fourteen cut
+    - "your hurt four"
+    - Thrale's 1.2 "in her four's sealed tin"
+    - Mara's three twelves
+    - the Proprietor's reading at twenty-seven
+    - the closing survey anchored in Kiva's thought
+    - Peverell's "great-grandfather's book" (an internal contradiction found during the repair)
+  - **The Graving and the rules:**
+    - the keepers in one sentence each
+    - the Proprietor's re-read reduced to its new line, Kiva's answer and the reaction, and placed before the returns
+      (the Clerk's announced order), so that the new Holloway wire is the peak
+    - the old Holloway form in a clause in ch. 36
+    - "and no change" given a stated cost, a point and the word, with Perrin's open mouth as his offer to bear it
+    - Friday's change declared at the marshal's call
+    - one early moment of opposition in the Salt Hall
+  - **Mass and idiom:**
+    - seven long hearing speeches broken once each, no words cut
+    - three long chains split
+    - "I'd sooner" 13 → 6
+    - narration "table" restatements cut
+    - the third "sent for" dropped
+    - causal *since* 4 → 0
+    - nineteen padding "that"
+- Word counts (`wc -w`): 55,218 → **55,497**. By chapter:
+
+  | Chapter | Words |
+  |---|---:|
+  | 33 | 8,542 |
+  | 34 | 6,369 |
+  | 35 | 6,023 |
+  | 36 | 8,147 |
+  | 37 | 6,636 |
+  | 38 | 6,135 |
+  | 39 | 5,585 |
+  | 40 | 8,060 |
+- Measures (`provenance/tools/m5_metrics.py`, unmodified; no section joined or split, so the viewpoint map was not
+  remapped), before → after:
+  - sentence median 7 → 7
+  - ≤5 words 40.6% → 40.3%
+  - ≥40 words 2.3% → 2.3%
+  - longest sentence 88 → 73
+  - paragraph median 25 → 25; over 60 words 23.6% → 23.6%
+  - internal breaks per 10k 5.62 → 5.59
+  - Flesch 93.8 → 93.8
+  - Kiva 87.0% → 87.0%; cutaways 7,181 → 7,196
+- Frozen edition `editions/movement-005-first-draft/` was not modified; `SHA256SUMS.txt` verified OK for all eight files
+  before and after.
+- Records reconciled to the surviving prose:
+  - `provenance/MOVEMENT-005-CONTINUITY.md` (lines marked *(repair)*; new §15)
+  - the Movement Five block of `STATE_LEDGER.md` (lines marked *(repair)*)
+  - the ledger's §2 dream line (it omitted the Pit) and the §7 and M3.7 knowledge rows (Orla), by dated notes
+- Chapters 1–32 were not edited.
+- Owner items left untouched:
+  - the colour's public existence
+  - Thrale holding the fever down
+  - whether sentence targets govern dialogue
+  - the progression shape
+  - section rhythm
+  - the Movement Three and Four open items
+- New owner items raised by this repair:
+  - the "no change" penalty rule now on the page
+  - the 2604 Saltmere keeper as Peverell's great-grandfather
+- A fresh-context targeted recheck is owed before acceptance.
+- Second repair (same session, job `89938c88`, brief `planning/OPUS-5.5-MOVEMENT-005-SECOND-REPAIR.prompt.md`):
+  after the fresh-context recheck (`provenance/MOVEMENT-005-RECHECK.md`, job `01a5e43b`), two dropped reopening quotation
+  marks were restored (ch. 36, ch. 40) and three continuity figures corrected, with a quote-parity scan returning zero
+  odd paragraphs (`provenance/MOVEMENT-005-REPAIR.md` §11). Not accepted, committed or published.
+
+## Movement Five, review, repair, recheck and acceptance — 2026-10-15
+
+- Reviews (both simulated, same model family, runtime-reported `claude-opus-5-5`): informed editorial and formula review, job
+  `887082aa` (prompt SHA-256 `8ab7d01f34c4dfcb743142817c2c9aaf7df1c0eefd7158e4ee3c22874ac69963`); manuscript-only cold read,
+  job `165093a7` (prompt SHA-256 `3c273f45463b7ddb32cb0369ab12c6e8c733dfa2affaa0784a9738e89415e836`). Neither is human reader
+  feedback.
+- Consolidated repair by the Opus 5.5 author seat, job `89938c88`, prompt `planning/OPUS-5.5-MOVEMENT-005-REPAIR.prompt.md`, SHA-256
+  `f73100865d31d3558ece9bbcd194b5cd6a01fdf23fcddcf8274978ace111d9be`. Record `provenance/MOVEMENT-005-REPAIR.md` (the Lane's
+  7–2 and full bracket, the Proprietor's source, the Pit in every list, the compressed Graving evidence, the declaration rule,
+  idiom and paragraph-mass passes).
+- Fresh-context targeted recheck, job `01a5e43b` (prompt SHA-256 `a152bae12d9a8183cfcd4dfde3c725004e483fa9e40e196d5203b509e43d172d`):
+  two one-character quotation-mark defects and three record lines. Second repair by the same author seat, job `f517a39f`
+  (prompt SHA-256 `94c0b14cdfdea9810bfb6062654c33df626c3813cbf9fafc461a3a96a24a8272`): exactly those edits.
+- Frozen first draft `editions/movement-005-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK).
+- Final word count 55497 (`wc -w`). Final hashes: `provenance/MOVEMENT-005-RECHECK-CONFIRMATION.md`.
+- The showrunner (Sonnet 5.5) wrote no prose. **Movement Five is accepted as editorial context for Movement Six.** Formula sentence
+  targets were not reached.

@@ -26,7 +26,7 @@ That was all. It did not say *a stow* anywhere, or *a sleeve.* It did not need t
 
 He went off down the street at a trot. Quiller looked at the page in her hand over the top of his spectacles, and then he took the second copy the boy had left on his step, and went back inside without a word and shut the door.
 
-Kiva stood in the grey street and read it again. She did not cry. She had thought on the cart yesterday that she might, sometime, and had found that it was not that kind of thing. It was a page that had been held back in case it was wrong, and it was out now with a dead man's name at the top, and every catcher on the coast would have it in a pocket by breakfast. She folded it in four and put it inside her coat, against her ribs, where the disk was.
+Kiva stood in the grey street and read it again. She did not cry. She had thought on the cart yesterday that she might, sometime, and had found it was not that kind of thing. It was a page that had been held back in case it was wrong, and it was out now with a dead man's name at the top, and every catcher on the coast would have it in a pocket by breakfast. She folded it in four and put it inside her coat, against her ribs, where the disk was.
 
 ---
 
@@ -46,7 +46,7 @@ She had not slept. It was in her face, and in the way she walked, square and ste
 
 "Tell her yes," said Kiva. "Not a Lane night."
 
-Ivey went away down Quay Street toward the low town and the Company yard, where the vans were. Kiva stood at the foot of the stair with her own sheets under her arm, which smelled faintly now of the Company's tar and somebody else's lamp, and found that she did not mind it.
+Ivey went away down Quay Street toward the low town and the Company yard, where the vans were. Kiva stood at the foot of the stair with her own sheets under her arm, which smelled faintly now of the Company's tar and somebody else's lamp, and found she did not mind it.
 
 ---
 
@@ -78,7 +78,7 @@ Perrin looked up from the end of his bed. He was the captain. He was entitled to
 
 "Not wanted in the Lane?"
 
-"Not in the Lane. Not today, nor Friday, nor Saturday." She found that she could say it quite plainly. "It's the week's crossing. I'd like to keep it for Wednesday. If nobody wants it on Wednesday, I'll have kept it for nothing, and that's all right. But if I spend it on a lane, I can't have it back."
+"Not in the Lane. Not today, nor Friday, nor Saturday." She found she could say it quite plainly. "It's the week's crossing. I'd like to keep it for Wednesday. If nobody wants it on Wednesday, I'll have kept it for nothing, and that's all right. But if I spend it on a lane, I can't have it back."
 
 "You'll fight Saturday on one door," said Perrin. "Whoever we draw."
 
@@ -90,7 +90,7 @@ He looked at her for a long moment, with his big hands on his knees and his face
 
 Aske had not moved.
 
-"I've said the price once now," he said, "for a crossing nobody's going to make. I'll say it again on Saturday morning, at this window, in case anybody's changed their mind by then." He looked at her steadily. "I'd sooner say it twice for nothing than once too late. Put that in your book, on the right."
+"I've said the price once now," he said, "for a crossing nobody's going to make. I'll say it again on Saturday morning, at this window, in case anybody's changed their mind by then." He looked at her steadily. "Twice for nothing is cheaper than once too late. Put that in your book, on the right."
 
 "I will."
 
@@ -146,7 +146,7 @@ Pru held up her ten caps.
 
 "Ten," said Aske, before he had taken one off. "I know. I did them." He took the first cap off and looked at the fingertip under it, which was blistered and pink and peeling at the edge, and put the cap back on, and did the next. It took him four minutes. Nobody spoke. Dray had come back up the stair for something she had forgotten and stood at the head of it, waiting for him to finish, with her face shut.
 
-"Your door's in your hand," said Aske at last, to Pru. "It's not in your fingertips. You'll catch. You'll not grip a pole with those today, and if you try, you'll tear them, and then you'll not catch on Saturday either." He looked round the four of them, and at Kiva last. "That's your four. A captain who can't plant. A blade with one arm. A catcher who can't grip, and another with a burned hand that writes left-handed." He shut his bag. "I've seen worse go into a lane. Not often."
+"Your door's in your hand," said Aske at last, to Pru. "It's not in your fingertips. You'll catch. You'll not grip a pole with those today, and if you try, you'll tear them, and then you'll not catch on Saturday either." He looked round the four of them, and at Kiva last. "That's your hurt four. A captain who can't plant. A blade with one arm. A catcher who can't grip, and another with a burned hand that writes left-handed." He shut his bag. "I've seen worse go into a lane. Not often."
 
 He went down the stair to his breakfast. Dray stepped aside to let him by, and then went to her bed and took up a glove she had left on the blanket and went down after him.
 
@@ -412,7 +412,7 @@ The head of the Commodore came over the hazel. Kiva did not put up her hands. Sh
 
 They walked backward three paces with the Commodore on their arms, clear of the hazel. Nothing touched it.
 
-"*Over,*" said the marshal. "*Three to Seven.*" He leaned over his box and looked at them, at the two catchers standing behind Seven's hurdle with a canvas dummy lying across their arms, and his face did something that a marshal's face is not meant to do. "Six to Seven. Two to the Tarn."
+"*Over,*" said the marshal. "*Three to Seven.*" He leaned over his box and looked at them, at the two catchers standing behind Seven's hurdle with a canvas dummy lying across their arms, and his face did something that a marshal's face is not meant to do. "Seven to Seven. Two to the Tarn."
 
 The tiers made a sound that was not the warm sound. It was somebody laughing, high up, and then a great many people laughing, and then the laughing turned into something else. It was clapping, which Kiva had not heard in the Graving all week except for the Ropewalk. It was not loud. It went on a long time.
 
@@ -434,9 +434,9 @@ The board went up at six with Thursday's twelve lanes on it.
 
 Kiva read it at the back of the crowd with Pru beside her and Perrin behind, under the lamp, while the tide went out of the timber pond's black water under the boards. Every one of the twelve lanes had gone to the four that stood higher. The Tarn's first four had stood with Trewin on frosted feet and a reserve at Bridie's place, and had won by a single point and the glass. Halden License had beaten the twenty-fourth six to two. The Ropewalk's seven to nothing stood at the head of the column, alone.
 
-*Team Seven (9) beat the Tarn, second four (16). Six to two.*
+*Team Seven (9) beat the Tarn, second four (16). Seven to two.*
 
-"Six," said Perrin. "With no fingers."
+"Seven," said Perrin. "With no fingers."
 
 "With elbows," said Pru.
 
@@ -472,7 +472,7 @@ Then, under it, on the right, where the reasons went, she wrote a line she had p
 
 *Kept the week's crossing for Wednesday. Said so at seven. Nobody has asked for it. If nobody does, I've kept it for nothing, and that's all right.*
 
-She looked at the line for a while. It was a plain thing to have decided. She had decided harder things on worse mornings. But she had never before decided not to use a thing she was let use, on purpose, so that it would be there for somebody else, and she found that it sat in her differently from a refusal. It did not feel like a door shut. It felt like a coin put by.
+She looked at the line for a while. It was a plain thing to have decided. She had decided harder things on worse mornings. But she had never before decided not to use a thing she was let use, on purpose, so that it would be there for somebody else, and she found it sat in her differently from a refusal. It did not feel like a door shut. It felt like a coin put by.
 
 Behind her, along the boards, Noa was still at the gate mast with Polglase, in the last of the light, with the day's tape unrolled on his desk. A boy from the Board's wire office was standing beside him with a fistful of yellow forms. Noa was reading them one after another, with his pencil not moving, and his narrow face had a look on it that she had not seen there before.
 

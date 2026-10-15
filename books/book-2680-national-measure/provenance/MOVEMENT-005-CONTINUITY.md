@@ -3,7 +3,9 @@
 > Built by TAC
 
 Edition: **first draft, 2026-10-15**, chapters 33–40 ("A Declared Count"). Written by the drafting author directly
-after the run, from the prose as written. **Not reviewed, not repaired, not accepted, not committed.** Where this
+after the run, from the prose as written. **Reconciled 2026-10-15 to the consolidated same-author repair**
+(`provenance/MOVEMENT-005-REPAIR.md`): lines the repair changed are marked *(repair)*, and §15 lists them. **Not
+rechecked, not accepted, not committed.** Where this
 file and the manuscript disagree, the manuscript governs. It carries forward `provenance/MOVEMENT-004-CONTINUITY.md`
 (as repaired and accepted) and `STATE_LEDGER.md`; anything not restated here stands as recorded there.
 
@@ -38,7 +40,9 @@ below. None is a review or repair.
   Clerk's finding.
 - Idiom spread (packet craft note): "before, not after" given to Orla alone; "four thousand" cut from 9 to 4; "the
   smallest thing in the Graving" 4 → 2; Thrale's "as a hand rests on a table" kept once; one "wince", one "as a
-  church stands", two "coin" images; "slowly" 14 → 9; one causal *since* → *because*.
+  church stands", two "coin" images; "slowly" 14 → 9; one causal *since* → *because*. *(Review note: the metrics
+  script counts 15 whole-word "slowly" in ch. 33–40, before and after the repair; the "14 → 9" above was the
+  author's own count and is not reproduced.)*
 - **Sections:** 38 `---` breaks placed inside continuous scenes (the Thursday loft, the three lanes, the first sitting,
   the Counting House, the Graving sitting, the Measure's reading) were joined, as the packet directs. No word changed
   at the joins. Internal breaks 69 → **31**.
@@ -47,9 +51,12 @@ below. None is a review or repair.
 
 | Day | Events | Ch. |
 |---|---|---|
-| **Thu 17th** | 5 a.m. Coombe's page delivered by the printer's boy ("Mr. Tregear set it himself"); head line names Penhale. 5.30 Ivey returns Kiva's sheets (copied twice; read to the closing crew's officer; to the crew at six); Yeo wants the columns for every crew and Kiva at the Company yard "not a Lane night" — Kiva says yes. **7 a.m. Aske: warm, four mornings; the price, first time. Kiva: "It's not for this week… the week's crossing… for Wednesday." Perrin: "Not wanted in the Lane."** Aske finds Perrin lifted at the spur (card: a fortnight **from Wednesday**); examines Jude's arm at last (mending; a stripe from the Carry's loop; edge on the right fist only; nothing gripped with the left till Monday); Pru's caps. **8 a.m. Anwen cutaway** (§6). The Lane draw (posted Wed 9 p.m.). Draft board opened (eleven cards by 9.45). 10.30 the Ropewalk first four 7–0. **2 p.m. Seven 6–2 the Tarn's second four** (§2). 6 p.m. Thursday's board; **Friday's draw by lot: Seven v the Ropewalk first four at eleven.** 6.45 yes/no. 6.50 Noa's first returns (§7); the gate tape's hair at 12.52 a.m. **Evening: Kiva decides to put the dream on the table. 8 p.m. tells Anwen, Perrin, Jude, Pru at Quiller's shop** (holds back the ferry's remaining detail). **10 p.m. Mara cutaway** (§6): two wires sent ~10.45. | 33–34 |
+| **Thu 17th** | 5 a.m. Coombe's page delivered by the printer's boy ("Mr. Tregear set it himself"); head line names Penhale. 5.30 Ivey returns Kiva's sheets (copied twice; read to the closing crew's officer; to the crew at six); Yeo wants the columns for every crew and Kiva at the Company yard "not a Lane night" — Kiva says yes. **7 a.m. Aske: warm, four mornings; the price, first time. Kiva: "It's not for this week… the week's crossing… for Wednesday." Perrin: "Not wanted in the Lane."** Aske finds Perrin lifted at the spur (card: a fortnight **from Wednesday**); examines Jude's arm at last (mending; a stripe from the Carry's loop; edge on the right fist only; nothing gripped with the left till Monday); Pru's caps. **8 a.m. Anwen cutaway** (§6). The Lane draw (posted Wed 9 p.m.). Draft board opened (eleven cards by 9.45). 10.30 the Ropewalk first four 7–0. **2 p.m. Seven 7–2 the Tarn's second four** (§2) *(repair; was 6–2)*. 6 p.m. Thursday's board; **Friday's draw by lot: Seven v the Ropewalk first four at eleven.** 6.45 yes/no. 6.50 Noa's first returns (§7); the gate tape's hair at 12.52 a.m. **Evening: Kiva decides to put the dream on the table. 8 p.m. tells Anwen, Perrin, Jude, Pru at Quiller's shop** (holds back the ferry's remaining detail). **10 p.m. Mara cutaway** (§6): two wires sent ~10.45. | 33–34 |
 | **Fri 18th** | 7 a.m. Aske: warm, five mornings; Kiva tells him something came on the ferry; he shows the back of the card (§5). 7.30 Orla told, on her crate. 8 a.m. Kellan told at the draft board. Draft board: Jude's Company card; Perrin's two cards (§8). **11 a.m. the Ropewalk first four 5–4 Seven** (§2). Carrow: "You'll not cross this week… Why?" "It's spoken for." 2.19–2.39 p.m. basin slack (neap): Kiva asks Hart to speak; he agrees. **4 p.m. Kellan cutaway** (§6). 6.45 yes/no (Salt Hall gallery rail). **7–~9 p.m. the Board's first sitting, Salt Hall** (§3). The Harbour Committee answered at 8.40. Kiva stands ~8.42. The Proprietor's letter received 8.56. Board rises. Dray on the quay. **9 p.m. Saturday's draw: Seven v Twenty-Eight at ten.** | 34–36 |
-| **Sat 19th** | 7 a.m. the Mercury: *THE FOUNDATION WITHDRAWS…* (§10). 7.15 **Aske: warm, six mornings; the price, second time.** Kiva tells Dray across the beds. 8 a.m. plan: **Pru calls the pen; Kiva calls nothing.** **10 a.m. Seven 6–5 Twenty-Eight** (§2). **Rhea cutaway** (§6): Anwen's Graywater card pinned at noon. 1 p.m. Halden 2–5 Holloway second; 2 p.m. Old Four 2–5 Westerley first; 3 p.m. the Ropewalk first 5–3 Holloway first. **4.50 p.m. Thrale lands** with a cart of thirty-six jars (§4). 6.45 yes/no (Graving lip rail). **8 p.m. the Measure read** (§2). 9.35 p.m. the Reader arrives on the transit. 10.15 Anwen tells Kiva she has said yes. | 37–38 |
+| **Sat 19th** | 7 a.m. the Mercury: *THE FOUNDATION WITHDRAWS…* (§10). 7.15 **Aske: warm, six mornings; the price, second time.** Kiva tells Dray across the beds. 8 a.m. plan: **Pru calls the pen; Kiva calls nothing.** **10 a.m. Seven 6–5 Twenty-Eight** (§2). **Rhea cutaway** (§6): Anwen's Graywater card pinned at the baize in the late morning, straight after the lane
+(Anwen: "this morning, after our lane"; she reads it at one) *(repair; was "at noon")*. 1 p.m. Halden 2–5 Holloway second
+(Kiva's sum on the tiers is now conditional on Old Four's 2 p.m. lane; Kellan's two fingers come after the 3 p.m.
+lane *(repair)*); 2 p.m. Old Four 2–5 Westerley first; 3 p.m. the Ropewalk first 5–3 Holloway first. **4.50 p.m. Thrale lands** with a cart of thirty-six jars (§4). 6.45 yes/no (Graving lip rail). **8 p.m. the Measure read** (§2). 9.35 p.m. the Reader arrives on the transit. 10.15 Anwen tells Kiva she has said yes. | 37–38 |
 | **Sun 20th** | **6 a.m. Orla cutaway** (§6): the Chair; Hart at 6.45. **9 a.m. the Board's commission at the Counting House** (§3). Noon: Kiva warm; Mara asks her to break the seal with her. **2–~3.15 p.m. the Board sits in the Graving** (§3). Thrale's hour, 2–2.55. Kiva's fever from ~2.50. 6.45 yes/no (bed rail; written by Pru). 10 p.m. Mercury late sheet: *THE UNROOFED SKY.* Fever breaks a little after eleven; "Nothing came." | 39–40 |
 
 ## 2. The Lane and the Measure
@@ -59,23 +66,34 @@ lot at the pole the evening before (Saturday's put back to nine for the sitting)
 twice; placed by lanes won, then points for less against; marked by place. Lane rules as Book One and ch. 18: three
 for the litter over your own hurdle, a down one, two halves a down, a point at the glass to the half; a change of door
 declared to a count by the captain's voice. The Board's lane mast stands on the Graving floor (Noa, Polglase).
+*(Repair, two rule lines now on the page.)* Friday: "*A change between carries, declared to the box, with nothing
+open in the pause. It's on her card*" (the marshal, at Kiva's stance → Ember change; a change, not a second door,
+under the Chair's seventh-month condition). Saturday: after "*and no change*" a captain may still call a change; it
+costs a point to the other four "for the word" and goes on both cards "that the word didn't hold" (the marshal at the
+box; Perrin: "I know the book").
 
 **Seven's lane four:** Kiva, Anwen, Jude, Pru; Perrin captains and declares from outside the pen ("standing out on
 his healer's card").
 
 | Day | Lane | Seven's declaration | Score | How |
 |---|---|---|---|---|
-| Thu 2 p.m. | v the Tarn, second four (16th after three) | Rowan, stance | **6–2** | Carry 1: the pass fails (no grips); Tarn down + glass, 0–2. Carry 2: Kiva sits on the litter's head (Perrin's "hen"); Jude two downs, glass, 3–2. Carry 3: Anwen walks the foot round the Tarn's planted girl; Jude down; **over on Kiva's and Pru's forearms** ("elbows"), 6–2. Tarn captain: Bridie Hebden's cousin. |
+| Thu 2 p.m. | v the Tarn, second four (16th after three) | Rowan, stance | **7–2** *(repair; was 6–2)* | Carry 1: the pass fails (no grips); Tarn down + glass, 0–2. Carry 2: Kiva sits on the litter's head (Perrin's "hen"); Jude two downs, glass, 3–2. Carry 3: Anwen walks the foot round the Tarn's planted girl; **Jude downs the Tarn still door (+1)**; **over on Kiva's and Pru's forearms** ("elbows", +3), **7–2**. The marshal: "Seven to Seven. Two to the Tarn." Tarn captain: Bridie Hebden's cousin. |
 | Fri 11 a.m. | v the Ropewalk, first four | stance (carry 1), **Ember** (carries 2–3) | **4–5** | Carrow declared "*edge. Declared. Single*"; Lyle stance only, leaning from the floor (Anwen's teaching). Carrow strikes on **Treen's word "set"** (Kiva's ladder word). Carry 1: Kiva downed on the litter; 3+1 RW. Carry 2 (Pru's idea): carry on forearms so Treen has no hands to read; Anwen walks her wall away from Lyle; Jude downs Lyle; over, 4–4. Carry 3: Treen reads feet; Kiva and Pru call at once ("two places"); Jude freezes; Lyle leans the litter a hand over the chalk; glass to RW, 4–5. |
 | Sat 10 a.m. | v Team Twenty-Eight | **Ember, declared, single, "and no change"** | **6–5** | Pru calls the pen; Kiva calls nothing. Carry 1: Dray on Jude's one-armed left; down; 0–4. Carry 2: Jude does not turn; Anwen walks round Bannock; Jude down; over on forearms; 4–4. Carry 3: **the exchange** — Kiva at the head, Dray two paces off waiting for "changing on three"; Perrin's mouth opens on the count; Kiva shakes her head; she bounds on Ember a pace and a half; **Dray downs her** (TT28 +1); Jude downs Marten (+1); Anwen's wall over the litter's middle; Kiva kneeling by the head (nobody touches a downed fighter); glass to Seven by a foot (+1). |
 
-Seven's Lane: won two, lost one, **16 for, 12 against**, **ninth** (marks 16).
+Seven's Lane: won two, lost one, **17 for, 12 against (+5)** *(repair; was 16 for, +4)*, **ninth** (marks 16).
 
 **The Lane on the page (top three and Seven's group):** 1 the Ropewalk first (won three); 2 Westerley first; 3
-Holloway second; … 9 Seven; 10 Halden ("by two points"); 11 Old Four ("by one"); 24 a four of the sixth circuit
-(lost three, four points). *Author's reconciliation, not on the page:* 4 the Tarn second (+10), 5 the Ropewalk second
-(+9), 6 an unnamed four (+8), 7 Holloway first (+7), 8 an unnamed four (+5), 12 Westerley second (−1), 14 Twenty-Eight
-(−1). Records and scores used: Ropewalk first 7–0, 5–4, 5–3; Westerley first 6–3, 6–3, 5–2; Holloway second 5–3, 6–4,
+Holloway second; … 9 Seven; 10 Halden ("two points to the good", +2); 11 Old Four ("one to the good", +1)
+*(repair: wording made a difference, not a gap to Seven)*; 24 a four of the sixth circuit (lost three, four points).
+*Author's reconciliation, not on the page:* 4 the Tarn second (+10), 5 the Ropewalk second (+9), 6 an unnamed four
+(+8), 7 Holloway first (+7), **8 an unnamed four (+6)** *(repair; was +5, which would tie Seven's new +5)*, 12
+Westerley second (−1), 14 Twenty-Eight (−1). *(Repair.)* The Tarn second's Thursday is now 2–7 (−5); its two
+off-page Friday and Saturday wins are taken to +15 between them, so it stays +10 and fourth. *(Repair, review C10.)*
+The Tarn's first four (39 after three) won its Thursday lane against a lower four, so it stood eleventh or twelfth
+after three, with at most one unnamed four between the Ropewalk second's 46 and 39; the two unnamed Lane fours (sixth
+and eighth) are both fours that lost on Thursday and won Friday and Saturday, each 39 or fewer after three, so neither
+passes 58 in the Measure (39 + 19, 39 + 17) and the Tarn second's printed 59 stays eleventh. Records and scores used: Ropewalk first 7–0, 5–4, 5–3; Westerley first 6–3, 6–3, 5–2; Holloway second 5–3, 6–4,
 5–2; Holloway first 7–1, 6–3, 3–5; Halden 6–2, 5–4, 2–5; Old Four 6–3, 5–4, 2–5; Westerley second 5–4, 3–6, 5–4;
 Twenty-Eight 5–3, 4–6, 5–6.
 
@@ -122,8 +140,9 @@ Committee's midnight deadline (to go to the magistrate in the morning); the Boar
   on the coast boat, arriving Saturday at five, to speak for the cellar herself.
 - **The answer to the Committee (8.40):** "The Board does not stop banks. It does not keep them… The keeper keeps her
   house."
-- **Kiva stands** (~8.42): she has had it, at thirteen, on Classification Day and on the ferry; the page in the
-  Library press; asks the Board to open it. Anwen stands with her; Aske stands at the back; Perrin's hand flat on the
+- **Kiva stands** (~8.42): she has had it, at thirteen, on Classification Day, **in the Pit at home last spring**
+  *(repair; the Pit was missing from every list)* and on the ferry; the page in the Library press; asks the Board to
+  open it. Anwen stands with her; Aske stands at the back; Perrin's hand flat on the
   bench. **The Board will sit Sunday at two in the Graving** and asks for the page, Annick, Personal (in the Reader's
   custody) and the Ferren book for 2604.
 - **The Proprietor's letter** (received 8.56; Adlam had gone along the quay at 8.45): he asks to be heard on the same
@@ -135,9 +154,13 @@ on the stair; she does not touch the banister). The Proprietor's evidence (the t
 fever; **"I dreamed that night… no roof… something in it. Paying attention." Eleven times since; the last on the 17th
 of the ninth month, 2680, in the evening; always with a fever; never once since 2611 without his hand on the glass.**
 Told nobody: "I was ashamed." He read Annick in the Library in **2610**; the **2611 settlement** followed from it. His
-reading: *some go out, some go white*; step the country "so that whatever comes finds them lit." **"I'm sure of my
-reading. I'm not certain I'm right."** He asks Kiva, through the Board, whether any lights were white. **Kiva answers
-yes** (the ferry only; lower; "I'll not have it said I saw more"); she tells it because withholding it would be choosing
+reading: *some go out, some go white*; step the country "so that whatever comes finds them lit"; the reading "came
+to me a year after the window", at twenty-seven *(repair; he was twenty-six on the night)*. **"I'm sure of my
+reading. I'm not certain I'm right."** He asks Kiva, through the Board: "The ferry. Below the Order's house. Last
+month. Were any of the lights white?" *(repair: he no longer cites the Mercury for lower, nearer and going out,
+which only her four had heard, in the shut shop)*. **Kiva answers yes** and volunteers the rest herself (the ferry
+only, "not on Classification Day, not in the Pit, and not when I was thirteen"; lower; the lights nearer; some going
+out; "I'll not have it said I saw more"); she tells it because withholding it would be choosing
 a side by leaving a thing out of a column. He covers his eyes with his right hand for a count of ten; left hand never
 moves. "It doesn't prove me right… It proves you saw what… I saw." **The Clerk asks if there is anything else: "There's
 one thing I've no word for… I'll not put a thing on the Board's table that I can't name."** Mara: it is not on her page;
@@ -153,9 +176,13 @@ one thing I've no word for… I'll not put a thing on the Board's table that I c
   use for both."**). Noa writes *N.B.* and nothing after.
 - **Annick, Personal**, read aloud by the Reader with the Master's leave ("Read it… so that it belongs to nobody. And
   don't make it anything"). Includes *Some go out. Some go white. One turns a colour I have no word for.*
-- The Ferren book (Lumb's) read by the Reader; Peverell reads her house's 2604 page herself; Noa reads the returns and
-  **the new Holloway return** (§7).
-- The Proprietor's evidence read by the thin clerk.
+- The Ferren book (Lumb's) read by the Reader; Peverell reads her house's 2604 page herself (both summarised in one
+  sentence each on the page *(repair)*).
+- The Proprietor's evidence read in full by the thin clerk; on the page, only its one new line for the town ("*I dreamed
+  that night*"), Kiva's answer and the Graving's reaction *(repair; compressed)*.
+- Noa reads the returns (by clause) and then **the new Holloway return** in full (§7), the peak of the evidence run.
+  *(Repair: the returns now follow the Proprietor's evidence, which is the order the Clerk announces at the start of
+  the sitting.)*
 - **Thrale testifies:** one door, a ward, since nineteen; **dreamed it three times: at nineteen, the night she took her
   door; in 2670, the night she was made Master; the 17th of the ninth month 2680, at her window over the river at twenty
   past two in the afternoon, with a fever gone by dark.** Told nobody. Her reading: "one door, and one quiet thing, and
@@ -187,7 +214,8 @@ one thing I've no word for… I'll not put a thing on the Board's table that I c
   book records "Given to a bank, by the Master, who broke the house's rule to do it, and said the price first… and that
   I'd do it again"; (2) four jars left for every hurt hand on the road south; (3) **the thirty-six cells never to be
   stepped again while the pump house stands, each its own count, not two alike** — written by Peverell in the keeper's
-  book for 2604 (the page after the white lamps): *Received from the Order of the Even Hand, thirty-six jars of plain. In
+  book for 2604, "my great-grandfather's book" *(repair; her spoken "my father's father's book" contradicted the
+  closing survey)* (the page after the white lamps): *Received from the Order of the Even Hand, thirty-six jars of plain. In
   return, the harbour bank never to be stepped again while the house stands. Each cell its own count. Peverell, keeper.*
   **Signed by the Harbour Committee's chairman.** "Then they're given. Not brought. Given."
 - The jars stand on the cart at the Graving's seaward end overnight Sunday.
@@ -218,7 +246,10 @@ one thing I've no word for… I'll not put a thing on the Board's table that I c
   and that's all right.* Jude's team line (Thu, Quiller's): *Rowan told us a thing of her own. We'll stand where she
   stands* — signed by the four and Kiva.
 - **The dream: now public.** Told Thu night (Anwen, Perrin, Jude, Pru); Fri morning (Aske, Orla, Kellan); Fri night (the
-  Board, the Salt Hall). **The ferry's white lights: told to the Board's commission at the Counting House, Sunday.**
+  Board, the Salt Hall). **Occasions as she now gives them** *(repair)*: at thirteen (Kindled, in a yard); Classification
+  Day; **the Pit, the 29th of the fifth month, 2680** (the dream came in the Pit itself, Book One ch. 23; that night's
+  fever brought none, and she told it to Mara at ten, who wrote the sealed page, Book One ch. 24); the ferry below the
+  Order's house (second month, 2681). **The ferry's white lights: told to the Board's commission at the Counting House, Sunday.**
   **The colour with no word: hers alone; "not put on the table"; Mara has never been told it.**
 - Kiva's development beats on the page: the week's crossing kept; elbows; "she's not reading the lane, she's being
   read for"; the decision at the Graving wall; telling her four first; "one voice" (Pru's pen); losing the exchange by
@@ -229,12 +260,15 @@ one thing I've no word for… I'll not put a thing on the Board's table that I c
 | Lens | Ch. | Words | What it shows |
 |---|---|---:|---|
 | Anwen | 33 | 1,154 | Thu 8 a.m., the Ropewalk: teaches Lyle to lean from the floor (moves Anwen half a pace, then a pace); Carrow walking on Treen's "set"; "If the lot falls that way tomorrow, she'll lean on your four." "I said I would." |
-| Mara | 34 | 1,977 | Thu 10 p.m., the keeper's room: three training cells (own count; Peverell's "rug"; the bank's); twelve fitters; *Town* or *mine*; Hart's mate: "nothing under it but more of itself." Kiva knocks twice and once; Mara asks only "Who first?"; writes the two wires on fault paper. "Mine." |
+| Mara | 34 | 1,994 *(repair; was 1,977)* | Thu 10 p.m., the keeper's room: three training cells (own count; Peverell's "rug"; the bank's); twelve fitters, "the first watch of Peverell's thirty-six, who would come to the table in three twelves before Wednesday" *(repair)*; *Town* or *mine*; Hart's mate: "nothing under it but more of itself." Kiva knocks twice and once; Mara asks only "Who first?"; writes the two wires on fault paper. "Mine." |
 | Kellan | 36 | 1,376 | Fri 4 p.m., Halden technical office: Halden's card (junior assessor, Fire's wage) with counsel's line "given through the foundation's counsel"; Pettit; Adlam will read his books; Kellan writes *No… under my own name… With thanks. K. Renn.* |
 | Rhea | 37 | 1,108 | Sat, fourth tier, with Pike: "Cade… He'd his mouth open on the count. She shook her head." Rhea's advice rule kept to the letter, broken in spirit ("*Mine*"). Writes **Anwen's Graywater card**; will not write Kiva's before the 30th. |
-| Orla | 39 | 1,573 | Sun 6 a.m.: the Chair's answer to the Proprietor; **Orla asks the Chair to strike her own sponsor's line when no longer needed**; 6.45 Hart on the gallery: one true sentence each (below). |
+| Orla | 39 | 1,563 | Sun 6 a.m.: the Chair's answer to the Proprietor; **Orla asks the Chair to strike her own sponsor's line when no longer needed**; 6.45 Hart on the gallery: one true sentence each (below). |
 
-Viewpoint (script count over sections): **Kiva 47,999 of 55,187 body words, 87.0%**; cutaways **7,188**.
+Viewpoint (script count over sections): **Kiva 47,999 of 55,187 body words, 87.0%**; cutaways **7,188**. *(Repair:
+`m5_metrics.py` after the repair gives Kiva 48,220 of 55,416 body words, 87.0%; Mara 1,994; Orla 1,563; Kellan 1,377;
+Anwen 1,154; Rhea 1,108; cutaways 7,196. No section was joined or split, so the script's first-draft map applies
+unchanged.)*
 
 ## 7. Evidence
 
@@ -301,7 +335,7 @@ Kiva's own offers: none (Rhea will not write hers before the 30th). Pru: none ("
 
 | Person | State |
 |---|---|
-| **Mara Rowan** | Took the national risk on her name (Fri). Did not own Kiva's choice; sent the wires; broke the seal with Kiva; read the page aloud. **Has learned on the page that there is a white she was never told and a thing with no word that she has never been told; will not ask.** "Don't be one engine." Teaching the thirty-six (twelve fitters first). Still has **not touched a cell**. |
+| **Mara Rowan** | Took the national risk on her name (Fri). Did not own Kiva's choice; sent the wires; broke the seal with Kiva; read the page aloud. **Has learned on the page that there is a white she was never told and a thing with no word that she has never been told; will not ask.** "Don't be one engine." Teaching the thirty-six (three twelves; twelve fitters first). Still has **not touched a bank cell** *(repair; she lays her reading hand on the training cells in the keeper's room, twice)*. |
 | **Orla Dane** | Told by Kiva (Fri). Asked the Chair to strike her line when no longer needed (entered: *on evidence*). **One true sentence each with Hart:** Orla, "I didn't write after the Bench because I was afraid you'd write back and tell me it was my fault, and it was." Hart, "I went onto that Bench with a door I knew wasn't ready, because I wanted you to see me do it." "I'll not say it's all right." "I'd not believe you." Nothing mended. |
 | **Ysra Crest** | Answered the Proprietor on Sun at 5 a.m.: *The sequence is not to be asked of her… I set none.* Was the ward-holder at the 2660 Bench when Hart's hand went. Wrote the **third *Witnessed* line**. |
 | **Jessamy Hart** | Spoke under his name at the Salt Hall (Kiva asked him). The Orla sentence. Will teach the twelve at a slack. |
@@ -321,7 +355,7 @@ Kiva's own offers: none (Rhea will not write hers before the 30th). Pru: none ("
 | **Coombe, Ivey, Yeo** | Page delivered. Ivey's copies made; Yeo wants Kiva at the Company yard "not a Lane night" (agreed; not yet held). Yeo had the Mole hut swept. |
 | **Pike** | Hands close halfway. On the tiers with Rhea; "That's a captain." |
 | **Gower (Old Four)** | Envies Perrin's two cards. |
-| **The Tarn** | Thursday: first four won by a point on the glass; second four 6–2 to Seven; Bridie's cousin is the second four's captain; Bridie to stand on Friday (not shown). |
+| **The Tarn** | Thursday: first four won by a point on the glass; second four 7–2 to Seven; Bridie's cousin is the second four's captain; Bridie to stand on Friday (not shown). |
 | **The Harbour Committee's chairman** | Ship's chandler; gold watch; asked for Seven's tin; signed the Order's price. |
 | **The Mercury's young man** | Three pencils; Sat morning sheet and Sun late sheet. |
 
@@ -340,6 +374,8 @@ Kiva's own offers: none (Rhea will not write hers before the 30th). Pru: none ("
 | Orla's and Hart's sentences | Orla, Hart. |
 | Rhea's thought "*Mine*" | Rhea; Pike suspects. |
 | Kellan's card answer | Kellan, Pettit, counsel (pinned face to the board). |
+| The Ferren keeper's leaf of 2604 | **Orla** *(repair, review C13)*: read it "over your aunt's shoulder in the autumn" and said nothing (ch. 34). |
+| The Saltmere keeper's 2604 entry | **Orla** *(repair, review C13)*: read it in Kiva's book, on the left, in the third month (ch. 34). |
 
 ## 12. New names (checked against every manuscript, planning and provenance file and `universe/NAME_REGISTRY.md`; no collision; pending owner review)
 
@@ -388,3 +424,36 @@ name, none obliged; the Order's jars at the stated price. Kiva's week's crossing
 Rhea's last night on the van before the 30th; her card ends on the 30th; she will ask then and write only if Kiva says
 yes. Anwen to Graywater from the 1st of the fourth month; Jude to answer Yeo after Wednesday; Perrin's Works card to be
 answered at home.
+
+## 15. Repair reconciliation (2026-10-15)
+
+Made from the surviving prose after the consolidated same-author repair (`provenance/MOVEMENT-005-REPAIR.md`, which
+holds the evidence for each item). No event, outcome, date, ash figure, injury, power limit or reserved disclosure
+moved, except where a line below says a stated figure was corrected.
+
+| Item | Was | Now (on the page) |
+|---|---|---|
+| Thursday's lane v the Tarn second | 6–2 (the third carry's down uncounted) | **7–2**; Seven's Lane 17 for, 12 against, +5; still ninth (16 marks); Measure 69 and seventh unchanged |
+| Lane reconciliation (off the page) | unnamed eighth +5 | unnamed eighth **+6**; the Tarn second's off-page wins +15 so it stays +10; the unnamed sixth and eighth are Thursday losers at 39 or fewer after three (C10) |
+| Halden and Old Four in the Lane reading | "tenth, by two points… eleventh by one" | "tenth, two points to the good… eleventh, one to the good" (differences, as before) |
+| Kiva's sum at 1 p.m. Saturday | assumed Old Four's 2 p.m. lane | conditional on Westerley beating Old Four; Kellan's two fingers moved to after the 3 p.m. lane |
+| The Proprietor's question | cited the Mercury for "lower… nearer… going out" | "The ferry. Below the Order's house. Last month. Were any of the lights white?"; Kiva volunteers the rest |
+| Kiva's list of occasions (ch. 34, 36, 39; the Mercury in ch. 37) | thirteen; Classification Day; the ferry | thirteen; Classification Day; **the Pit**; the ferry |
+| "the one piece of the dream she had kept" | contradicted 50 lines later | "the one piece of the dream she had words for and had kept" |
+| "On Saturday, against the Tarn" (ch. 35, twice) | read as Thursday's lane | "a week ago… against the Tarn's first four" (the seeding lane of the 12th) |
+| The Measure's rows (ch. 38) | the girl in sea blue "behind Kiva, in the seventh row"; Dray "two rows in front" | the seventh row is two rows in front of Seven's ninth; Dray in the fifth row, four rows in front |
+| Anwen's card | "pinned… at noon" | "this morning, after our lane" |
+| The draw (ch. 37) | known "since the bag was opened" | "since the clerk drew it" |
+| Mara's age for the page (ch. 39) | "a girl of thirteen" | "a girl of seventeen" |
+| Dray (ch. 37) | "one in fourteen… if your healer's right" | "You'll not spend it on a lane, this year or next" (the Slack's cost stays unspoken) |
+| The Proprietor's age | 26 on the night; reading "since I was twenty-seven" | the reading "came to me a year after the window" |
+| Thrale's tin (ch. 40) | "a dram and two-tenths in her tin" | "a dram and two-tenths of it in her four's sealed tin" (the 1.2 that made Seven's sealed 2.0) |
+| Mara's twelve fitters | twelve, then thirty-six, unexplained | "the first watch of Peverell's thirty-six… in three twelves before Wednesday" |
+| Aske (ch. 33) | "That's your four" | "That's your hurt four" |
+| Peverell's book (ch. 40) | "my father's father's book" v the survey's "great-grandfather's book" | "my great-grandfather's book" |
+| Friday's change of door | unexplained | the marshal's line: a change between carries, declared, nothing open, on her card |
+| Saturday's "and no change" | binding, so the crossing looked unavailable | a change remains possible at the cost of a point and the word, on both cards |
+| The old Holloway form in the Salt Hall (ch. 36) | read nearly in full | a clause, then its last three lines (the gallery's laugh kept) |
+| The Graving's evidence order | page, Annick, keepers, returns, Proprietor (the Clerk had announced Proprietor before returns) | page, Annick, keepers (one sentence each), Proprietor (compressed), returns with the new Holloway wire in full |
+| The closing survey | "and nobody saw him" | "and, Kiva thought, his right over his eyes, where nobody could see him" |
+| Records only | "has not touched a cell"; Orla not listed for the 2604 leaves | "a bank cell"; Orla added (§11) |

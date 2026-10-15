@@ -100,8 +100,11 @@ the 16th and Saturday the 17th); the tenth on a Saturday.
   Rowan; not equipment, an instrument, or evidence; no hand but the bearer's without a vote of
   the watch; the bearer writes in the fourth column within the week after any crossing. What
   it is for is unknown. The first bearer's book is lost.
-- **The dream.** No recurrence since Classification Day, 2680. No fever on any night of the
-  autumn. She has Annick's phrase *the sky unroofed* and the Ferren keeper's line of 2604.
+- **The dream.** Occasions on record: at thirteen (Kindled, in a yard); Classification Day, 2680; **the Pit, the
+  29th of the fifth month, 2680** (Book One ch. 23; that night's fever brought no dream, and she told the Pit's to
+  Mara at ten, who wrote the sealed page, ch. 24). *(Corrected 2026-10-15 at the Movement Five repair: this line read
+  "No recurrence since Classification Day, 2680", which Book One ch. 23 contradicts. No later recurrence is recorded
+  here.)* No fever on any night of the autumn. She has Annick's phrase *the sky unroofed* and the Ferren keeper's line of 2604.
   **The name "the Unroofed Sky" has never appeared on the page.**
 - **Her book.** Green cover, soft at the corners; a spring, a summer, and an autumn; no page
   ever torn out. It goes to Orla weekly and lies on the kitchen table nightly for Mara.
@@ -220,7 +223,7 @@ Saturday the 15th of the tenth month:
 | That a dream came on Classification Day, with no content | **Ysra Crest** | — |
 | Annick's fever entry, read in the room | Kiva (the sixth month); Orla (2664). Neither has told the other what it says. Orla has not been told that Kiva dreams. | Mara has not read it |
 | That Kiva's lips moved, counting, as she read Annick | The sister of the Even Hand; the Halden endowment's observer | — |
-| The Ferren keeper's entry of 2604 | Kiva, Mara, Lumb (as a page in his book) | Aske, A. Renn, Lumb, and Mr. Adlam were out of earshot and **do not know that Kiva has dreamed** |
+| The Ferren keeper's entry of 2604 | Kiva, Mara, Lumb (as a page in his book). *(Note 2026-10-15, Movement Five repair: Orla also read it, "over your aunt's shoulder in the autumn", by her own account in ch. 34.)* | Aske, A. Renn, Lumb, and Mr. Adlam were out of earshot and **do not know that Kiva has dreamed** |
 | The four T-0 entries, the 2446 margin, the disputed box, Orla's 2664 reading | Anwen, Kellan, Perrin, Pru, Noa | **None of them knows of the dream** |
 | **Jessamy Hart's card and his request to read Kiva's work** | **Orla Dane only** | **Kiva.** Also Mara, the four, the Chair |
 | That Hart is a pump-fitter on the south coast whose harbour bank stepped | Orla | Kiva |
@@ -644,7 +647,7 @@ the difference. The lodger did." Entered by the Clerk **"in no circuit's column.
 |---|---|
 | That Kiva dreams | **Nobody new.** |
 | The ferry's "gone white" | Kiva only. |
-| The Saltmere 2604 entry | Peverell, Mara, Kiva. |
+| The Saltmere 2604 entry | Peverell, Mara, Kiva. *(Note 2026-10-15, Movement Five repair: Orla also read it, in Kiva's book "on the left, in the third month", by her own account in ch. 34.)* |
 | The Proprietor's 2604 fever and lamps | Kiva, Perrin, Orla. |
 | Kiva's fevers near Glory masters (no content) | Aske, Pru, Orla, Perrin; Kellan saw. |
 | That Kiva expected something to come with the fever ("Nothing came," said aloud) | **Aske and Pru now suspect.** No content. A decision made on the page *(recorded at repair; no prose change)*. |
@@ -805,8 +808,10 @@ brown-ink line, "my best machine"). See `provenance/MOVEMENT-004-REPAIR.md` §8.
 
 ## Movement Five block — chapters 33–40 (first draft, 2026-10-15)
 
-Status: **from first-draft prose, unreviewed.** Everything here is on the page of `manuscript/chapter-33.md` to
-`chapter-40.md`. The full record is `provenance/MOVEMENT-005-CONTINUITY.md`. If review or repair changes the prose,
+Status: **from first-draft prose; reconciled 2026-10-15 to the consolidated same-author repair**
+(`provenance/MOVEMENT-005-REPAIR.md`; lines it changed are marked *(repair)*). Rechecked (fresh-context, same family, job `01a5e43b`), two quotation marks fixed, accepted as editorial context 2026-10-15 (`provenance/MOVEMENT-005-RECHECK-CONFIRMATION.md`).
+Everything here is on the page of `manuscript/chapter-33.md` to `chapter-40.md`. The full record is
+`provenance/MOVEMENT-005-CONTINUITY.md` (§15 lists the repair). If review or repair changes the prose,
 this block is corrected from the surviving text. Span: 5 a.m. Thursday the 17th of the third month, 2681, to about
 midnight on Sunday the 20th.
 
@@ -826,15 +831,22 @@ midnight on Sunday the 20th.
 - **The disk:** cold, including beside both masters and through the fever.
 - **Yes/no log:** Thu mooring ring by the Graving, yes; Fri Salt Hall gallery rail, yes; Sat Graving lip rail, yes; Sun
   loft bed rail, yes (written by Pru).
-- **The dream is public** (Salt Hall Fri; Mara's sealed page opened and read in the Graving Sun; the Mercury). **The ferry's
+- **The dream is public** (Salt Hall Fri; Mara's sealed page opened and read in the Graving Sun; the Mercury). Her
+  public list of occasions: at thirteen, Classification Day, **the Pit** (the page's occasion), the ferry *(repair;
+  the Pit was missing)*. **The ferry's
   white lights told to the Board's commission at the Counting House** (Sun). **The colour with no word: Kiva alone; "not
   put on the table"; Mara has never been told it.** The *Witnessed* page has a third line (§M5.5).
 
 ### M5.2 The Lane and the Measure
 
-- Lanes: **Thu 6–2 v the Tarn second four** (stance; the hen; elbows); **Fri 4–5 v the Ropewalk first four** (Carrow,
-  edge only, striking on Treen's "set"; "two places" lost the glass); **Sat 6–5 v Team Twenty-Eight** (Pru calls the pen;
-  Kiva calls nothing). Seven: won two, lost one, 16 for, 12 against; **ninth in the Lane (16 marks).**
+- Lanes: **Thu 7–2 v the Tarn second four** *(repair; was 6–2: the third carry's down is now counted)* (stance; the
+  hen; elbows); **Fri 4–5 v the Ropewalk first four** (Carrow, edge only, striking on Treen's "set"; "two places" lost
+  the glass); **Sat 6–5 v Team Twenty-Eight** (Pru calls the pen; Kiva calls nothing). Seven: won two, lost one, **17
+  for, 12 against (+5)** *(repair; was 16 for)*; **ninth in the Lane (16 marks).** Off the page, the unnamed eighth
+  Lane four is +6 (was +5) and the Tarn second stays +10 (its off-page wins +15); see the continuity file §2.
+- **Declaration rules now on the page** *(repair)*: a change between carries, declared to the box with nothing open in
+  the pause, is entered on the card (Fri, stance → Ember); after "*and no change*" a captain may still call a change at
+  the cost of a point to the other four, entered on both cards "that the word didn't hold" (Sat).
 - **The Measure, read Sat 8 p.m., no board struck:** 1 the Ropewalk first 82; 2 Halden License 80; 3 Westerley first 79;
   4 Old Four 78; 5 Holloway first 77; 6 Holloway second 76; **7 Team Seven 69 (19 + 24 + 10 + 16)**; 8 Team Twenty-Eight
   68 and 9 Westerley second 68 (**tie broken by the best single place on any board: Twenty-Eight first on the Hunt**);
@@ -905,9 +917,9 @@ midnight on Sunday the 20th.
 
 | Person | State |
 |---|---|
-| **The Proprietor** | Testified under his name that he dreamed it (2604; eleven times since; last the 17th of the ninth month 2680, evening). Read Annick in 2610 (the 2611 settlement followed). "Sure of my reading… not certain I'm right." Left hand never lifted. |
+| **The Proprietor** | Testified under his name that he dreamed it (2604; eleven times since; last the 17th of the ninth month 2680, evening). His reading formed a year after the window, at twenty-seven *(repair)*. Read Annick in 2610 (the 2611 settlement followed). "Sure of my reading… not certain I'm right." Asked Kiva only "Were any of the lights white?" about the ferry (no source cited) *(repair)*. Left hand never lifted. |
 | **Clemency Thrale** | In Saltmere from Sat 4.50 p.m.; lodges in the Company's watch hut at the Mole's end; an hour at a time in the town; testified (dreamed it three times: at nineteen; 2670; 17th ninth month 2680 at 2.20 p.m.); her reading: one door, one quiet thing, let nothing in that asks. Kiva's doors lie down at forty paces. |
-| **Mara Rowan** | Took the national risk on her name (Fri). Sent the wires; broke the seal with Kiva; read the page aloud. "Don't be one engine." Has not touched a cell. Knows there was a white she wasn't told and a thing with no word she hasn't been told. |
+| **Mara Rowan** | Took the national risk on her name (Fri). Sent the wires; broke the seal with Kiva; read the page aloud. "Don't be one engine." Has not touched a bank cell *(repair; she lays her reading hand on the training cells in the keeper's room)*; teaching the thirty-six in three twelves. Knows there was a white she wasn't told and a thing with no word she hasn't been told. |
 | **Orla Dane** | One true sentence each with Hart (Sun 6.45 a.m.); nothing mended. Asked the Chair to strike her line when no longer needed. |
 | **Jessamy Hart** | Spoke under his name at the Salt Hall ("ruined… the one that reads"). |
 | **Peverell** | "The keeper who let it be tried." Thirty-six names on fault paper, not hers. |
@@ -929,6 +941,8 @@ midnight on Sunday the 20th.
 | The Proprietor's and Thrale's dreams | Everyone. |
 | The Holloway lamp-man's name | The Board only. |
 | Orla's request; the Orla–Hart sentences | The Chair and Orla; Orla and Hart. |
+| The Ferren keeper's leaf of 2604 | **Orla** too *(repair, review C13)*: read "over your aunt's shoulder in the autumn" (ch. 34); add her to §7. |
+| The Saltmere keeper's 2604 entry | **Orla** too *(repair, review C13)*: read in Kiva's book, on the left, in the third month (ch. 34); add her to M3.7. |
 
 ### M5.9 New names (pending owner review)
 

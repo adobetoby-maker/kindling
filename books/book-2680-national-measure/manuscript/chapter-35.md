@@ -16,7 +16,7 @@ He heard her and did not turn.
 
 He turned round then.
 
-She told him on the boards by the draft board, with the timber pond lying black beside them and the gate mast standing over Noa's empty desk. She did not tell him all of it. She told him that she dreamed with a fever, and had since she was thirteen; that it was the thing in Annick's notebook and the Ferren keeper's book and the keeper's book at the pump house here, on the same night in 2604; that her aunt had written it down the same night last spring, in her words, and had it sealed before she read anybody else's; and that she meant to stand up at the Salt Hall at seven and ask the Board to open the page.
+She told him on the boards by the draft board, with the timber pond lying black beside them and the gate mast standing over Noa's empty desk. She did not tell him all of it. She told him that she dreamed with a fever, and had since she was thirteen. It was the thing in Annick's notebook and the Ferren keeper's book and the keeper's book at the pump house here, on the same night in 2604. Her aunt had written it down the same night last spring, in her words, and had it sealed before she read anybody else's. And she meant to stand up at the Salt Hall at seven and ask the Board to open the page.
 
 Kellan listened with his face quite still. When she had done, he did not say anything for a while. He looked at the gate mast.
 
@@ -80,13 +80,13 @@ They went down the Graving's steps together, slowly, with Perrin a step at a tim
 
 "Aren't you?"
 
-"I'm pleased about the grey one." He went on down. "I'd thought being envied would feel like the top of the ladder. It feels like Gower eating a pasty and counting." He was quiet for three steps. "I'd sooner be at the foot of the ladder with you saying *set.*"
+"I'm pleased about the grey one." He went on down. "I'd thought being envied would feel like the top of the ladder. It feels like Gower eating a pasty and counting." He was quiet for three steps. "Give me the foot of the ladder, and you saying *set.*"
 
 ---
 
 The Graving was full at a quarter to eleven, and the whole of it was green.
 
-Kiva had thought it was full on Saturday, against the Tarn. She had been wrong. On Saturday there had been room on the tiers to put a hand down beside you. Now the green came down the steps to the floor's edge and stood there, ten deep on the bottom tier, and the boys who sold pasties had given up selling and were sitting on their baskets. The brown and buff of the Tarn sat in its knot in the middle. Meridian's colours were above it, all four of the first company, and Kellan among them in his black and gold. The iron and glass roof went over all of it, and the grey light came down on the white chalk of the pen eighty feet below as it comes down into a church.
+Kiva had thought it was full a week ago, on the Saturday, against the Tarn's first four. She had been wrong. That Saturday there had been room on the tiers to put a hand down beside you. Now the green came down the steps to the floor's edge and stood there, ten deep on the bottom tier, and the boys who sold pasties had given up selling and were sitting on their baskets. The brown and buff of the Tarn sat in its knot in the middle. Meridian's colours were above it, all four of the first company, and Kellan among them in his black and gold. The iron and glass roof went over all of it, and the grey light came down on the white chalk of the pen eighty feet below as it comes down into a church.
 
 At the seaward end the floating gate held the harbour out, and Kiva could hear the sea breathing against its timber. Under that, through the stone of the dock floor, there was the town's count.
 
@@ -204,6 +204,8 @@ Perrin made a sound that was not quite a laugh. He took his hands off the hazel.
 
 "*Ember,*" said Perrin, before Kiva could open her mouth. "*Rowan, Ember, declared, single, by her captain's voice.*" He did not look at her. "You'll not need your stance if you're not sitting on it. You'll need your legs."
 
+"*A change between carries,*" said the marshal, "*declared to the box, with nothing open in the pause. It's on her card.*"
+
 At the mast, Noa wrote.
 
 The second carry was the best four minutes of lane Kiva had ever stood in, and she could not afterward remember more than half of it.
@@ -240,7 +242,7 @@ The Graving made a sound that Kiva had not heard it make all week. It was not th
 
 They lost the third carry by the glass, and it was Kiva's fault, and Pru's, and nobody's.
 
-The Ropewalk had learned. Kiva watched Treen learn it in the pause, at the far hurdle, with Carrow bent beside her and the two of them talking very fast and low. When the bell went, Treen did not look for hands. She looked at feet. She had watched Jude's feet in the second carry and found that she could read them, and now she was reading everybody's: Anwen's heels, Pru's quick small steps, Kiva's own boots coming down after the Ember's bound.
+The Ropewalk had learned. Kiva watched Treen learn it in the pause, at the far hurdle, with Carrow bent beside her and the two of them talking very fast and low. When the bell went, Treen did not look for hands. She looked at feet. She had watched Jude's feet in the second carry and found she could read them, and now she was reading everybody's: Anwen's heels, Pru's quick small steps, Kiva's own boots coming down after the Ember's bound.
 
 She had taken that off Kiva too. Kiva watched feet. Everybody on the Circuit knew it. Pike had said it on a tailboard in front of half Graywater. *You watch where people put their feet.*
 
@@ -262,7 +264,7 @@ Carrow came down. She did not touch Jude. She did not need to. She put her edge 
 
 She did not lean on anybody. She leaned on the litter. She was planted at the foot with her shoulder against the canvas, and she put her weight down into the floor and let it come back up through her heels, from the floor, as Anwen had taught her; and the Commodore went east under her shoulder a hand's breadth, and another, with a scrape of canvas on stone, until its middle lay across the chalk.
 
-"*Glass,*" said the marshal. He came down off his box and looked, and walked round it twice, as the marshal had walked round it on Saturday against the Tarn. "*In the Ropewalk's half. By a hand.*" He went back up. "*A point to the Ropewalk. Five to the Ropewalk. Four to Seven.*"
+"*Glass,*" said the marshal. He came down off his box and looked, and walked round it twice, as the marshal had walked round it a week ago against the Tarn's first four. "*In the Ropewalk's half. By a hand.*" He went back up. "*A point to the Ropewalk. Five to the Ropewalk. Four to Seven.*"
 
 The Graving let out its breath.
 
@@ -290,7 +292,7 @@ Carrow looked at her for a long moment.
 
 "Why?"
 
-Kiva thought about whether to say. She found that she did not mind saying it to Carrow, here, over a hurdle, with the whole town talking about elbows.
+Kiva thought about whether to say. She found she did not mind saying it to Carrow, here, over a hurdle, with the whole town talking about elbows.
 
 "It's spoken for," she said. "For Wednesday, if anybody asks."
 

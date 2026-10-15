@@ -88,7 +88,7 @@ She folded it again, along its old folds, and held it in her lap under her readi
 
 The Graving did not make the warm sound, or the long sound, or the sound it had made for Carrow. It did not make any sound at all for so long that Kiva could hear the sea against the floating gate, three hundred paces off, where the Master of the Order stood with her back to the timber. She could hear, under it, through the stone of the bench, the town's count, faint, four and four.
 
-She sat with her hot hands in her lap and found that she was not ashamed. She had thought, on the bench, that she might be. She had thought that hearing her own words read out in her aunt's voice, the words of a girl of seventeen with a wet cloth on her chest who did not know what any of it meant, would be like being stripped in front of a town. It was not. It was like hearing a fault report read: a thing that had happened, written down the same night by somebody who knew how to write things down, and kept in the dark so that it could be believed.
+She sat with her hot hands in her lap and found she was not ashamed. She had thought, on the bench, that she might be. She had thought that hearing her own words read out in her aunt's voice, the words of a girl of seventeen with a wet cloth on her chest who did not know what any of it meant, would be like being stripped in front of a town. It was not. It was like hearing a fault report read: a thing that had happened, written down the same night by somebody who knew how to write things down, and kept in the dark so that it could be believed.
 
 She thought it was the best page her aunt had ever written. She thought she would tell her so, sometime, when it would not make her angry.
 
@@ -120,11 +120,21 @@ At the gate, Thrale had not moved. But her folded hands had moved. One thumb cro
 
 The keepers took less time, and they were worse.
 
-The Reader read the Ferren book for 2604, because Lumb had sent it in her keeping and was two hundred miles away being uncivil about it. *Keeper took ill in the evening; a fever, three nights. Entered here because the needles did it too. Dreamt that the roof was off the house and there was nothing over it. Not dark. Nothing. And all four-and-twenty stood up together, and were looking.*
+The Reader read the Ferren page for Lumb, who was two hundred miles away being uncivil about it: a fever of three nights, entered because the needles did it too, and the roof off the house, and all four-and-twenty standing up together, looking.
 
-Peverell read her own house's book herself. She stood up at the end of the first bench with her spectacles on and the calf book open on her two small crabbed hands, and read the page that she had found for Mara on a Tuesday in the third month, in a keeper's hand that leaned the other way and made its *s* long. *Dreamed there was no roof on the house nor on anything, and nothing over. The nothing was not empty and it was not dark. Something was attending.* And the lamps. *The refinery's lamps on the Long Quay went white about three in the morning and stayed lit. The low town's went out.*
+Peverell read her house's page herself, standing, the long *s* and *something was attending* and the white lamps on the Long Quay, and sat down without a word.
 
-She shut the book and sat down without a word.
+The Board's thin clerk read the Proprietor's evidence from the cream sheets, every word that had been said at the long table on the Long Quay at nine, in a flat careful voice. The town had heard about the window at second hand for seventy-seven years. It had never heard the line that came before it. *I dreamed that night.*
+
+And then the question, and Kiva's answer, in her own words, as he had asked.
+
+*Some had gone white. On the ferry. I was lower than I'd been. I don't know what it means. I'll not have it said I saw more.*
+
+And under it: *A thing she has no word for. Not put on the table.*
+
+The Graving heard it. Kiva heard it hear. There was a sound from the tiers like wind in a field, a long way off, and then it stopped. Halden's counsel, at the end of the first bench, did not move, and did not write anything in his folder. Two benches back, Kellan sat with his hands in his lap and his face quite white, looking at the cream sheets in the thin clerk's hands.
+
+"That's Mr. Halden's evidence," said the Clerk. "Under his own name. The returns, Mr. Bexley."
 
 Noa read the returns. He read Westerley, and Tarnfoot, and Holloway, as he had read them on Friday, and the Graving was quiet for every one of them, and nobody laughed. Then he picked up one more yellow form, which was new.
 
@@ -140,21 +150,11 @@ Noa put it down.
 
 "His name's on the form," he said. "I'll not read it, because he's asked. The Board can see it."
 
-Kiva did not hear anything for a moment after that. She was aware of Anwen's shoulder against hers on the left, quite hard. She was aware of Jude on her right, very still, with the book under his arm, and of his hand, which had come off the book and lay on the bench between them, flat, not touching. She was aware of the heat in her own hands, and of the page folded in Mara's lap, and of a man two hundred miles off who had lit lamps for a living and had a fever and had been laughed at once in a gallery, and who had read in a wire that a girl had stood up, and had stood up.
+Kiva did not hear anything for a moment after that. She was aware of Anwen's shoulder against hers on the left, quite hard. She was aware of Jude on her right, very still, with the book under his arm, and of his hand, which had come off the book and lay on the bench between them, flat, not touching. She was aware of the heat in her own hands, and of the page folded in Mara's lap. And she was aware of a man two hundred miles off who had lit lamps for a living and had a fever and had been laughed at once in a gallery. He had read in a wire that a girl had stood up, and he had stood up.
 
 She had not done it for him. She had done it so that the thing would not live in one head. She had not thought, once, that it would get another head to say it.
 
-The Board's thin clerk read the Proprietor's evidence from the cream sheets, in a flat careful voice, every word that had been said at the long table on the Long Quay at nine. The window. The fever. *I dreamed that night.* Eleven times since. The Library in 2610, and the settlement. *Some go out. Some go white.* His reading: every lamp in the country white and not out. *I'm sure of my reading. I'm not certain I'm right.*
-
-And then the question, and Kiva's answer, in her own words, as he had asked.
-
-*Some had gone white. On the ferry. I was lower than I'd been. I don't know what it means. I'll not have it said I saw more.*
-
-And under it: *A thing she has no word for. Not put on the table.*
-
-The Graving heard it. Kiva heard it hear. There was a sound from the tiers like wind in a field, a long way off, and then it stopped. Halden's counsel, at the end of the first bench, did not move, and did not write anything in his folder. Two benches back, Kellan sat with his hands in his lap and his face quite white, looking at the cream sheets in the thin clerk's hands.
-
-"That's Mr. Halden's evidence," said the Clerk. "Under his own name." She looked at the clock on the table. "It's twenty-five to three. Master."
+The Clerk looked at the clock on the table. "It's twenty-five to three," she said. "Master."
 
 Clemency Thrale did not come forward. She spoke from where she stood, with her back to the floating gate and the sea breathing behind its timber, and her voice came the length of the dock as though there were nothing in between.
 
@@ -182,7 +182,7 @@ She stopped.
 
 She did not move from the gate. One of the sisters behind her stepped aside, and Kiva saw the low flat cart standing in the shadow of the gate's timber with its iron wheels and its grey cloth, where nobody had noticed it come down the dock's ramp. The sister drew back the cloth. The jars stood in their straw in rows, small and round and stone-coloured, each with a grey seal at its neck with a mark on it like two hands laid flat side by side.
 
-"There were forty-one in my cellar when I was made Master," said Thrale. "There were forty-four before that. There were forty when Miss Rowan left my house in the second month with a dram and two-tenths in her tin, to make good a hand. There are thirty-six on that cart. There are four in my cellar." She did not look at the jars. "It's never heard a beat. Some of it was tinned before the Halden patent. Some before there was a Halden. It's the last of what my house has. And I've not given it. I've brought it."
+"There were forty-one in my cellar when I was made Master," said Thrale. "There were forty-four before that. There were forty when Miss Rowan left my house in the second month with a dram and two-tenths of it in her four's sealed tin, to make good a hand. There are thirty-six on that cart. There are four in my cellar." She did not look at the jars. "It's never heard a beat. Some of it was tinned before the Halden patent. Some before there was a Halden. It's the last of what my house has. And I've not given it. I've brought it."
 
 The Graving waited.
 
@@ -190,13 +190,17 @@ The Graving waited.
 
 She looked along the dock at Peverell, on the first bench.
 
-"Keeper. I said on the quay you'd hear the price first. Here it is." She did not raise her voice. "My house breaks its rule, and writes in its own book that the Master broke it, on this day, in this dock, and why. That's mine to pay, and I'll pay it. And four jars are what's left for every hand that's hurt on the road south, for as long as there's no more plain in the country. That's my house's to pay." She was quiet a moment. "And this is yours. If those thirty-six jars go into your cells on Wednesday, those thirty-six cells are never stepped again. Not by Mr. Halden's house, nor the Works, nor the Committee, nor you, nor any keeper after you, while your pump house stands. Each on its own count, not two alike, for good. Written in your book and in mine, under your name and the Committee's." She looked at the Committee's bench. "You'll keep a slower bank, and a dearer one, and your fitters will curse it every winter for the rest of their lives. That's the price. It's not ash. It's that."
+"Keeper. I said on the quay you'd hear the price first. Here it is." She did not raise her voice. "My house breaks its rule, and writes in its own book that the Master broke it, on this day, in this dock, and why. That's mine to pay, and I'll pay it. And four jars are what's left for every hand that's hurt on the road south, for as long as there's no more plain in the country. That's my house's to pay." She was quiet a moment.
+
+On the Committee's bench, the chairman had taken his gold watch out of his pocket, and was holding it shut in his palm.
+
+"And this is yours, keeper," said Thrale. "If those thirty-six jars go into your cells on Wednesday, those thirty-six cells are never stepped again. Not by Mr. Halden's house, nor the Works, nor the Committee, nor you, nor any keeper after you, while your pump house stands. Each on its own count, not two alike, for good. Written in your book and in mine, under your name and the Committee's." She looked at the Committee's bench. "You'll keep a slower bank, and a dearer one, and your fitters will curse it every winter for the rest of their lives. That's the price. It's not ash. It's that."
 
 Peverell stood up.
 
 She stood for a long moment at the end of the first bench with her spectacles on their cord and her apron on, because she had come from the pump house, and her small crabbed hands at her sides. Then she took the keeper's book for 2604 off the Board's table, where she had laid it, and opened it at the back, at a clean page, and took the pencil out of her apron pocket.
 
-"I'll write it," she said. "In this. My father's father's book. The page after the night the lamps went white." She wrote, standing, against the table, in her small crabbed hand. "*Received from the Order of the Even Hand, thirty-six jars of plain. In return, the harbour bank never to be stepped again while the house stands. Each cell its own count. Peverell, keeper.*" She held the pencil out to the chairman of the Harbour Committee without looking at him. "Mr. Chairman."
+"I'll write it," she said. "In this. My great-grandfather's book. The page after the night the lamps went white." She wrote, standing, against the table, in her small crabbed hand. "*Received from the Order of the Even Hand, thirty-six jars of plain. In return, the harbour bank never to be stepped again while the house stands. Each cell its own count. Peverell, keeper.*" She held the pencil out to the chairman of the Harbour Committee without looking at him. "Mr. Chairman."
 
 The chairman looked at the pencil.
 
@@ -238,7 +242,11 @@ The Clerk had not moved through any of it. She sat at the middle of the Board's 
 
 Mara stood. She still had the page folded under her reading hand.
 
-"The Works hasn't got one either," she said. "The Works doesn't believe anything that hasn't happened. Mr. Rusk will tell you so." She did not look at Rusk. "I'll tell you mine, since you've asked. It's the Home Line's as well; a foreman told me so in the autumn, on a hill, about a drum." Her voice was dry and exact. "I don't know what's coming. Nobody here does. The Proprietor thinks it'll find stepped lamps white. The Master thinks it'll find nothing to answer in a house with one door. I don't know which of them is right, or whether either is." She looked at the Board. "I know one thing, and I've known it since a bank on a hill went into step with a pump through the water. Whatever's coming, don't be one engine when it comes. Not one count, in everything, that one hand can drive and one fault can stop. Thirty-six counts, not two alike, each with a hand on it that isn't mine." She sat down. "That's not a reading. It's a fitter's rule. It's all I've got."
+"The Works hasn't got one either," she said. "The Works doesn't believe anything that hasn't happened. Mr. Rusk will tell you so." She did not look at Rusk. "I'll tell you mine, because you've asked. It's the Home Line's as well; a foreman told me so in the autumn, on a hill, about a drum." Her voice was dry and exact. "I don't know what's coming. Nobody here does. The Proprietor thinks it'll find stepped lamps white. The Master thinks it'll find nothing to answer in a house with one door. I don't know which of them is right, or whether either is." She looked at the Board.
+
+Somewhere behind her, Rusk took his thumbs out of his waistcoat.
+
+"I know one thing," said Mara, "and I've known it since a bank on a hill went into step with a pump through the water. Whatever's coming, don't be one engine when it comes. Not one count, in everything, that one hand can drive and one fault can stop. Thirty-six counts, not two alike, each with a hand on it that isn't mine." She sat down. "That's not a reading. It's a fitter's rule. It's all I've got."
 
 The Clerk of the Measure stood up.
 
@@ -248,7 +256,11 @@ She stood behind the middle chair with her gold chain on her coat, and when she 
 
 She did not look at a paper.
 
-"The Board records that a thing has been dreamed, with a fever, by people who never heard of each other. By the Master Annick of the Even Hand, between 2446 and 2450, in a notebook she showed nobody. By the keeper at Ferren and the keeper at Saltmere, on the same night in 2604, in their remarks columns, because a fever isn't a fault. By the keeper at Westerley, that night, in the morning, to his wife. By Mr. Ambrose Halden, that night and eleven times since. By the Master Thrale, three times. By a lamp-man at Holloway on the 17th of the ninth month last year, who's asked his name not be printed, and who'll have his wish. And by Miss Kiva Rowan, of Meridian, at thirteen and since, whose account the Board has had read to it from a page that was shut before she could have borrowed it from anybody." The Clerk paused. "The Board believes that page. It's had thirty years of pages in a great many rooms. It knows a shut one."
+"The Board records that a thing has been dreamed, with a fever, by people who never heard of each other. By the Master Annick of the Even Hand, between 2446 and 2450, in a notebook she showed nobody. By the keeper at Ferren and the keeper at Saltmere, on the same night in 2604, in their remarks columns, because a fever isn't a fault."
+
+At the end of the first bench, Peverell's small crabbed hands closed in her lap.
+
+"By the keeper at Westerley," said the Clerk, "that night, in the morning, to his wife. By Mr. Ambrose Halden, that night and eleven times since. By the Master Thrale, three times. By a lamp-man at Holloway on the 17th of the ninth month last year, who's asked his name not be printed, and who'll have his wish. And by Miss Kiva Rowan, of Meridian, at thirteen and since, whose account the Board has had read to it from a page that was shut before she could have borrowed it from anybody." The Clerk paused. "The Board believes that page. It's had thirty years of pages in a great many rooms. It knows a shut one."
 
 The Graving did not make a sound.
 
@@ -280,7 +292,7 @@ Then Aske stood up behind her, and put his hand under her arm, and said *now,* a
 
 The fever came up along the Long Quay, in the white lamps, as it had come a week ago.
 
-She had expected it. She found that expecting it did not help. By the third bollard she was shaking, and by Quiller's door she could not have climbed the stair if Jude had not taken one arm and Perrin, against every card he had, the other, until Aske said *Cade* in a voice Kiva had never heard him use, and Anwen took Perrin's place without a word.
+She had expected it. She found expecting it did not help. By the third bollard she was shaking, and by Quiller's door she could not have climbed the stair if Jude had not taken one arm and Perrin, against every card he had, the other, until Aske said *Cade* in a voice Kiva had never heard him use, and Anwen took Perrin's place without a word.
 
 Aske had her on the bed by the north window inside a minute, with the candle lit and his watch out and Pru on her knees on the other side with her capped fingers on Kiva's wrist, very lightly, because she could not grip.
 
@@ -292,7 +304,7 @@ Aske had her on the bed by the north window inside a minute, with the candle lit
 
 She lay with her eyes open and her jaw shut and waited for the roof to go.
 
-She knew how it would come, if it came. She had felt it come on a ferry with her hands on the rail. She lay with the candle burning and Aske counting and Pru's light fingers on her wrist and the quay lamps in a row along the black water outside the window, and the fever climbed through her like a tide coming in over flats, and she waited for the nothing and the roads and the lights, and for whatever was paying attention to pay it to her.
+She knew how it would come, if it came. She had felt it come on a ferry with her hands on the rail. She lay with the candle burning and Aske counting and Pru's light fingers on her wrist, and the quay lamps in a row along the black water outside the window. The fever climbed through her like a tide coming in over flats. She waited for the nothing and the roads and the lights, and for whatever was paying attention to pay it to her.
 
 It did not come.
 
@@ -340,7 +352,7 @@ It was a name. It was not hers. It had been a Glory master's phrase in a noteboo
 
 Everybody in this city knew that she dreamed. Everybody would know by Wednesday. Nobody knew what it was. The Board had said so, and so had the Proprietor, and so had the Master, and so had she.
 
-She found that she did not mind it. She had thought that she would, for four years. She had kept her mouth shut for four years so that she would never have to lie in a bed and look at a sheet like this. And now she was lying in a bed looking at a sheet like this, and it was only a name. It did not say what the thing was. It did not say what she was. It said that a thing had been put on a table where anybody could see it, and that nobody owned it now, not her, not the Proprietor, not the Order, not the Board. It belonged to the lamp-man at Holloway as much as to anybody.
+She found she did not mind it. She had thought she would, for four years. She had kept her mouth shut for four years so that she would never have to lie in a bed and look at a sheet like this. And now she was lying in a bed looking at a sheet like this, and it was only a name. It did not say what the thing was. It did not say what she was. It said that a thing had been said aloud, and that nobody owned it now, not her, not the Proprietor, not the Order, not the Board. It belonged to the lamp-man at Holloway as much as to anybody.
 
 She put her hand inside her shirt and found the disk.
 
@@ -360,7 +372,7 @@ She shut her eyes.
 
 Kiva lay with her hand on the cold disk and her eyes open.
 
-Outside the window, under the white lamps on the Long Quay and the yellow ones in the low town, Saltmere went on keeping its count. Four and four. Fifty-seven to the minute, or faster. At the end of the Mole, in a swept hut on the sea side where nothing kept time, a woman in grey who had broken her house's only rule was lying awake with her hands folded, and two sisters were writing it in a book. On a cart at the seaward end of the Graving, under a grey cloth, thirty-six jars stood in their straw, given. On the second floor of a pump house a keeper had written a line in her great-grandfather's book and gone to bed for the first time since Tuesday. In a tall grey house on the Long Quay, every window lit, a man of a hundred and three sat with his left hand flat on a glass case and his right over his eyes, and nobody saw him.
+Outside the window, under the white lamps on the Long Quay and the yellow ones in the low town, Saltmere went on keeping its count. Four and four. Fifty-seven to the minute, or faster. At the end of the Mole, in a swept hut on the sea side where nothing kept time, a woman in grey who had broken her house's only rule was lying awake with her hands folded, and two sisters were writing it in a book. On a cart at the seaward end of the Graving, under a grey cloth, thirty-six jars stood in their straw, given. On the second floor of a pump house a keeper had written a line in her great-grandfather's book and gone to bed for the first time since Tuesday. In a tall grey house on the Long Quay, every window lit, a man of a hundred and three sat with his left hand flat on a glass case and, Kiva thought, his right over his eyes, where nobody could see him.
 
 In the Board's press, in a black iron box with three locks, there was a paper with a seal on it and the hour, which would be opened at noon on Wednesday. At dawn on Wednesday, if two people were right, the basin would go still at nine minutes past six. There were three days.
 

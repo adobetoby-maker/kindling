@@ -6,7 +6,7 @@ Ysra Crest opened it herself. She was dressed. Orla had known she would be. She 
 
 "Dane," said the Chair.
 
-"Crest." Orla did not come in. "Two minutes. Then I'll go down to the pump house and you'll go to a dining room on the quay with a man who can't stand up. I'd sooner say it before than after."
+"Crest." Orla did not come in. "Two minutes. Then I'll go down to the pump house and you'll go to a dining room on the quay with a man who can't stand up. It wants saying before, not after."
 
 The Chair stood aside. Orla came in, stick first, and sat down on the room's one hard chair without being asked, because she would have fallen over otherwise. The Chair did not sit. She stood by the table with the pen in her hand.
 
@@ -90,7 +90,7 @@ Hart did not say anything for a long time.
 
 "I know you wouldn't. That's why I'm not." He bent to the pump's crank and put a drop of oil on it, very carefully, with his left hand. "Go down. You've a girl standing up in a dock at two, and I've a hand to stand up beside her. I'll see you there."
 
-She went down. At the foot of the stair she stopped and looked back up at the gallery, where he was oiling the pump with his back to her, and she thought that nothing had been mended. Nothing was going to be mended. It had been said, by both of them, in a building full of things keeping time, and it would stay said.
+She went down. At the foot of the stair she stopped and looked back up at the gallery, where he was oiling the pump with his back to her, and she thought nothing had been mended. Nothing was going to be mended. It had been said, by both of them, in a building full of things keeping time, and it would stay said.
 
 That was not nothing. She had thought, for twenty years, that it would be.
 
@@ -142,7 +142,7 @@ Mara sat beside her. The Chair sat on the window side. The Clerk sat at the midd
 
 He told it to the harbour window.
 
-He told it as he had told it to Kiva a week ago, at the same table, in nearly the same words, and she found that she could hear the places where the words had worn smooth from being said to himself for seventy-seven years. A bench clerk on the second floor, twenty-six, four years in the house, who had written nothing in his life but counts. *Fell in at fifty to the minute.* A fever on the evening of the 11th of the third month, 2604. A window at three in the morning. Every lamp on the Long Quay going white, very bright, and staying lit; every lamp in the low town going out, all at once, as if a hand had been put over them; and half an hour; and the low town's lamps coming on again of themselves; and no fault found.
+He told it as he had told it to Kiva a week ago, at the same table, in nearly the same words, and she found she could hear the places where the words had worn smooth from being said to himself for seventy-seven years. A bench clerk on the second floor, twenty-six, four years in the house, who had written nothing in his life but counts. *Fell in at fifty to the minute.* A fever on the evening of the 11th of the third month, 2604. A window at three in the morning. Every lamp on the Long Quay going white, very bright, and staying lit; every lamp in the low town going out, all at once, as if a hand had been put over them; and half an hour; and the low town's lamps coming on again of themselves; and no fault found.
 
 The thin woman wrote it down.
 
@@ -158,7 +158,11 @@ The heavy Board member had taken his spectacles off his forehead and was holding
 
 *The 17th of the ninth month. Twenty past two.* The bank in this harbour, falling into step. The Pit. The lamp-man at Holloway with a fever two nights, who would not have it written.
 
-"I've told nobody," said the Proprietor. "Not my house. Not my counsel." He did not look round at the neat grey man standing behind his chair. "I'm a hundred and three years old, and I hold the foundation's pattern, and the foundation's patent, and the country's largest yard, and I was ashamed. A Proprietor with a fever who dreams the sky's gone. They'd have taken the glass off me in a week, and they'd have been right to." He looked down at his hand on the case. "And then on Friday night a girl of seventeen with two dead fingers stood up in the Salt Hall in front of the whole town, under her own name, and said she'd had it. With a sealed page to prove she'd not borrowed it." He looked back up at Kiva. "Mr. Adlam came along the quay to tell me at a quarter to nine. I wrote to the Board at ten to. I'd have been ashamed not to."
+"I've told nobody," said the Proprietor. "Not my house. Not my counsel." He did not look round at the neat grey man standing behind his chair. "I'm a hundred and three years old, and I hold the foundation's pattern, and the foundation's patent, and the country's largest yard, and I was ashamed. A Proprietor with a fever who dreams the sky's gone. They'd have taken the glass off me in a week, and they'd have been right to."
+
+Behind his chair, his counsel looked at the floor.
+
+The Proprietor looked down at his hand on the case. "And then on Friday night a girl of seventeen with two dead fingers stood up in the Salt Hall in front of the whole town, under her own name, and said she'd had it. With a sealed page to prove she'd not borrowed it." He looked back up at Kiva. "Mr. Adlam came along the quay to tell me at a quarter to nine. I wrote to the Board at ten to. I'd have been ashamed not to."
 
 He turned to the thin woman with the ledger.
 
@@ -178,7 +182,7 @@ He did not wait for the Clerk to let him.
 
 Kiva sat very still at the far end of the table.
 
-"Some go white," said the Proprietor. "Some go out. And on the Long Quay in 2604, the lamps that went white were the lamps that kept time together, and the lamps that went out were the lamps that kept their own." He did not raise his voice. "That's my reading. I've had it since I was twenty-seven. If whatever comes, comes again, I want this country's lamps white and not out. I want every bank stepped, every pump house, every box in every tenement, all keeping one time, so that whatever comes finds them lit." He looked at the Clerk. "That's why the foundation claims what it claims. Not for the ash. I don't want the ash. I want the country ready."
+"Some go white," said the Proprietor. "Some go out. And on the Long Quay in 2604, the lamps that went white were the lamps that kept time together, and the lamps that went out were the lamps that kept their own." He did not raise his voice. "That's my reading. It came to me a year after the window, and I've had it since I was twenty-seven. If whatever comes, comes again, I want this country's lamps white and not out. I want every bank stepped, every pump house, every box in every tenement, all keeping one time, so that whatever comes finds them lit." He looked at the Clerk. "That's why the foundation claims what it claims. Not for the ash. I don't want the ash. I want the country ready."
 
 "And you're certain," said the heavy Board member.
 
@@ -194,7 +198,7 @@ The Clerk looked at Kiva.
 
 The Proprietor looked at her for a long moment, down thirty feet of polished wood, past the two candlesticks and the white cloth. Her heart was going steadily. Her still door was still. Her hands were hot in her lap.
 
-"The ferry," he said. "Below the Order's house. Last month. The Mercury says you were lower than before, and that the lights were nearer, and that some were going out." He did not lean forward; he could not. "Were any of them white?"
+"The ferry," he said. "Below the Order's house. Last month." He did not lean forward; he could not. "Were any of the lights white?"
 
 She had known he would ask. She had known since the shop on Thursday night, when she held the ferry back from her four and told them she did not yet know whom it was for. She had known on a gallery in a pump house, and on the quay with Kellan, who had said *every time he gets to white his voice goes quiet.* She had known all night, lying awake by the north window with the Mercury under her pillow.
 
@@ -204,7 +208,7 @@ If she said *yes,* every word of it would go into the thin woman's ledger, under
 
 She did not know that it meant that. She did not know what it meant at all.
 
-If she said *no,* or said nothing, he would never know. Nobody would. It was hers alone. She had told Mara everything for four years at a kitchen table, and she had not told Mara this. It was the one piece of the dream she had kept, even from the page.
+If she said *no,* or said nothing, he would never know. Nobody would. It was hers alone. She had told Mara everything for four years at a kitchen table, and she had not told Mara this. It was the one piece of the dream she had words for and had kept, even from the page.
 
 She thought of a lamp-man in Holloway who would not have it written, because he would be laughed at. She thought that he had not been the only one keeping a thing back for fear of what it would be taken to mean. The Proprietor had kept his for seventy-seven years, from shame. She had been about to keep hers for the opposite reason. She would be keeping it because she did not like whose side it would be put on.
 
@@ -214,7 +218,7 @@ That was not a reason. That was choosing a side by leaving a thing out of a colu
 
 The room was very quiet.
 
-"Some had gone white," she said. "On the ferry. Not on Classification Day, and not when I was thirteen. Only the last time. I was lower than I'd been, and the lights on the roads were nearer, and I could see them better. Some were bright and some were dull. Some were going out. And some had gone white." She kept her voice level, as she would have kept it at a hem. "I've told nobody. Not my aunt. It's not on her page, because her page is from before. I'm saying it now because you've asked, and because I'd be leaving it out of the column on purpose if I didn't, because I didn't want it to be yours."
+"Some had gone white," she said. "On the ferry. Not on Classification Day, not in the Pit, and not when I was thirteen. Only the last time. I was lower than I'd been, and the lights on the roads were nearer, and I could see them better. Some were bright and some were dull. Some were going out. And some had gone white." She kept her voice level, as she would have kept it at a hem. "I've told nobody. Not my aunt. It's not on her page, because her page is from before. I'm saying it now because you've asked, and because I'd be leaving it out of the column on purpose if I didn't, because I didn't want it to be yours."
 
 The Proprietor did not move.
 
@@ -230,7 +234,7 @@ He held it there for perhaps a count of ten. His left hand did not move on the g
 
 The thin woman wrote it.
 
-"I'll say one thing about it," said the Proprietor, "and then I've done." He looked at Kiva down the length of the table. "It doesn't prove me right. I'd like that written as well, since I'm the one who'd most like it to. It proves you saw what Master Annick saw, and what I saw from that window. It doesn't prove what white means." He looked at his own hand on the case. "I've known for seventy-seven years that white is what I saw. I've never once known what white is. Nor have you. Nor did she."
+"I'll say one thing about it," said the Proprietor, "and then I've done." He looked at Kiva down the length of the table. "It doesn't prove me right. I'd like that written as well, because I'm the one who'd most like it to. It proves you saw what Master Annick saw, and what I saw from that window. It doesn't prove what white means." He looked at his own hand on the case. "I've known for seventy-seven years that white is what I saw. I've never once known what white is. Nor have you. Nor did she."
 
 "No," said Kiva.
 
@@ -254,9 +258,9 @@ She said it to Kiva, not to the Proprietor. She had not moved through any of it.
 
 Kiva thought about it, honestly, because she had been asked.
 
-There was one thing. It had been in the dream at thirteen and on Classification Day and on the ferry, every time. It was not white and it was not out. It was not on Mara's page, because she had never told Mara; she had tried once, at thirteen, and found she had no word for it, and had never tried again. It was in Annick's notebook too, in one line. She had read that line in the room in the summer and her lips had counted, and she had not let it into her face.
+There was one thing. It had been in the dream at thirteen and on Classification Day and in the Pit and on the ferry, every time. It was not white and it was not out. It was not on Mara's page, because she had never told Mara; she had tried once, at thirteen, and found she had no word for it, and had never tried again. It was in Annick's notebook too, in one line. She had read that line in the room in the summer and her lips had counted, and she had not let it into her face.
 
-"There's one thing I've no word for," she said. "It's been there each time. I can't name it, and if I tried I'd be lying." She held the Clerk's eyes. "I'll not put a thing on the Board's table that I can't name. I'd sooner it were left off than written wrong."
+"There's one thing I've no word for," she said. "It's been there each time. I can't name it, and if I tried I'd be lying." She held the Clerk's eyes. "I'll not put a thing on the Board's table that I can't name. I'll have it left off before I'll have it written wrong."
 
 "That's in your aunt's page?"
 
@@ -298,7 +302,7 @@ Mara stood with her reading hand in her coat pocket, looking at the brown water 
 
 "I tried to tell you. At thirteen. There wasn't a word."
 
-"I'll not ask now." Mara took her hand out of her pocket and laid it, very briefly, on Kiva's arm above the bandage, as she had laid it on the cold arm a week ago on the boards of the timber pond. "That one's yours. You've kept everything else out of the dark. Keep that." She took her hand away. "At two they'll break my seal in front of the whole town. My mark, and the Reader's wax over it. And they'll read out what a girl of thirteen said with a wet cloth on her chest." Her dry exact face did not change. "I'd like you to break it with me. Your hand and mine. It's both of ours."
+"I'll not ask now." Mara took her hand out of her pocket and laid it, very briefly, on Kiva's arm above the bandage, as she had laid it on the cold arm a week ago on the boards of the timber pond. "That one's yours. You've kept everything else out of the dark. Keep that." She took her hand away. "At two they'll break my seal in front of the whole town. My mark, and the Reader's wax over it. And they'll read out what a girl of seventeen said with a wet cloth on her chest." Her dry exact face did not change. "I'd like you to break it with me. Your hand and mine. It's both of ours."
 
 "Yes," said Kiva.
 

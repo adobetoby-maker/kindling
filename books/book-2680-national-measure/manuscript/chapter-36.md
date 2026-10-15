@@ -116,6 +116,12 @@ Kiva had seen the Chair perhaps a dozen times in her life, and every time the Ch
 
 She sat down. It had taken less than a minute.
 
+Halden's counsel half rose on the front bench with his folder in his hand. "The foundation would note, ma'am," he said pleasantly, "that a minute isn't a cause."
+
+The Chair did not stand again. "So would Mr. Bexley," she said. "Ask him."
+
+Counsel sat. Somebody in the gallery said *hear, hear,* and nobody could have said afterward which of them he meant.
+
 Noa stood up at his little table. He unrolled his sheet and held it up, and two of the Board's clerks came and took the corners and held it high for the hall.
 
 There were four columns on it now. Kiva saw the hall see that. People, and rifts and spawn, and Saltmere, in his small square hand, as they had been on the Rowan kitchen table in the autumn; and a fourth, newer, ruled in fresher ink. *Ash. What the comb says.* Along the bottom there was one rule for the weeks. Above it four lines went up, each in its own column, slowly from the thaw and then faster from the fifth month, and there was not a mark between any of them.
@@ -130,9 +136,9 @@ The heavy man looked at him over his pushed-up spectacles for a long moment. The
 
 "The returns," said the Clerk.
 
-Noa read them. He read the eight *nothing found* first, quickly, by house, and the hall shifted on its benches. Then he read Westerley. *At three the stepped lamps on the quay white. Town lamps out half hour. Keeper ill of a fever, his wife sat up. He said in the morning the roof was off. Not fault.* The hall went quiet. He read Tarnfoot. *The four drums stood up together a little after three and lay down.* Then he read Holloway.
+Noa read them. He read the eight *nothing found* first, quickly, by house, and the hall shifted on its benches. Then he read Westerley. *At three the stepped lamps on the quay white. Town lamps out half hour. Keeper ill of a fever, his wife sat up. He said in the morning the roof was off. Not fault.* The hall went quiet. He read Tarnfoot. *The four drums stood up together a little after three and lay down.* Then he read Holloway, the night lamp-man's fever of two nights and the warden's question, and the end of it as it came.
 
-*Night lamp-man took ill that evening, a fever two nights. Asked by the warden what he saw in it. Would not have it written. Said he would be laughed at. A fever is not a fault.*
+*Would not have it written. Said he would be laughed at. A fever is not a fault.*
 
 Somebody in the gallery laughed.
 
@@ -158,7 +164,11 @@ Adlam stood up, with the black tin box in both hands.
 
 Halden's counsel did not turn round. But Kiva saw his shoulders change. They did not move. They went still, as a man's shoulders go still when he hears a step behind him that he had asked not to hear.
 
-"The foundation's bench books," said Adlam. He opened the box on the bench in front of him. Inside it there were five books, old and new, in calf and in cloth, with straws in them. "The technical office keeps a count of every stepped row that's fallen in on a bench in this house, and the rate it fell in at. A man with a watch writes it down. He's always written it down. Nobody's ever asked him for it." He took out the first book, which was very old, and opened it at its straw. "2402. *Fell in at forty-eight to the minute.*" He laid it down and took out the next. "2431. *Forty-eight.*" The next. "2604. *Fifty.*" The next, which was cloth and not calf. "The ninth month of last year. *Fifty-five.*" The last, which was a clerk's notebook with a pencil still in its spine. "Saturday the 5th of this month, at the door of the harbour pump house, by my own watch. The harbour bank. *Fifty-seven.*"
+"The foundation's bench books," said Adlam. He opened the box on the bench in front of him. Inside it there were five books, old and new, in calf and in cloth, with straws in them. "The technical office keeps a count of every stepped row that's fallen in on a bench in this house, and the rate it fell in at. A man with a watch writes it down. He's always written it down. Nobody's ever asked him for it."
+
+On the front bench, Halden's counsel turned a page in his folder that did not need turning.
+
+Adlam took out the first book, which was very old, and opened it at its straw. "2402. *Fell in at forty-eight to the minute.*" He laid it down and took out the next. "2431. *Forty-eight.*" The next. "2604. *Fifty.*" The next, which was cloth and not calf. "The ninth month of last year. *Fifty-five.*" The last, which was a clerk's notebook with a pencil still in its spine. "Saturday the 5th of this month, at the door of the harbour pump house, by my own watch. The harbour bank. *Fifty-seven.*"
 
 He put the notebook down on top of the others.
 
@@ -172,7 +182,7 @@ The hall was very quiet. The chairman of the Harbour Committee looked at his gol
 
 Kellan stood up.
 
-Kiva had heard Kellan do a great many sums aloud. She had heard him do them at the Rowan kitchen table and in the Old Yard and on a frozen tram road at three in the morning. She had never heard him do one in a hall full of strangers with his own house's counsel sitting six feet in front of him, and she found that she was holding her breath.
+Kiva had heard Kellan do a great many sums aloud. She had heard him do them at the Rowan kitchen table and in the Old Yard and on a frozen tram road at three in the morning. She had never heard him do one in a hall full of strangers with his own house's counsel sitting six feet in front of him, and she found she was holding her breath.
 
 He did not hold a paper. He had it in his head.
 
@@ -180,13 +190,21 @@ He did not hold a paper. He had it in his head.
 
 The thin Board member had stopped writing and was looking at him.
 
-"The Hunt," said Kellan. "Four hundred and twelve drams and four-tenths combed off the Longshore on Wednesday. Three hundred and seventy-one and three-tenths red. Forty-one and a tenth clean. Every dram of the clean was dry. Nine-tenths." He paused. "That's the Board's. This is the house's." He did look at counsel's back then, once. "I stood at the gate on Wednesday and read the claims clerk's ledger over his shoulder. He's a good clerk. He was doing his work. Every red tag in the Hunt, *claimed, under the patent of 2391.* Three hundred and seventy-one drams and three-tenths. And the house's own index, which I've read at the yard on Tuesdays, because I've the yard on Tuesdays and nobody's ever told me not to read the index." He was quite white. "From 2391 to 2600, the house claimed a hundred and nine drams of ash exhibiting the Step. All of it from its own yards. Every grain of it the house had stepped itself. In 2680, in the district of Meridian alone, outside its yards, the house claimed one thousand one hundred and seventy-five drams and a tenth. Off tears in the street. Off a pit. Off a sluice."
+"The Hunt," said Kellan. "Four hundred and twelve drams and four-tenths combed off the Longshore on Wednesday. Three hundred and seventy-one and three-tenths red. Forty-one and a tenth clean. Every dram of the clean was dry. Nine-tenths." He paused. "That's the Board's. This is the house's." He did look at counsel's back then, once. "I stood at the gate on Wednesday and read the claims clerk's ledger over his shoulder. He's a good clerk. He was doing his work. Every red tag in the Hunt, *claimed, under the patent of 2391.* Three hundred and seventy-one drams and three-tenths. And the house's own index, which I've read at the yard on Tuesdays, because I've the yard on Tuesdays and nobody's ever told me not to read the index." He was quite white.
+
+The heavy Board member brought his spectacles down off his forehead and onto his nose.
+
+"From 2391 to 2600," said Kellan, "the house claimed a hundred and nine drams of ash exhibiting the Step. All of it from its own yards. Every grain of it the house had stepped itself. In 2680, in the district of Meridian alone, outside its yards, the house claimed one thousand one hundred and seventy-five drams and a tenth. Off tears in the street. Off a pit. Off a sluice."
 
 He stopped.
 
 "Those are the figures," said the Clerk. "Is there more?"
 
-"There's what they come to," said Kellan. "It isn't a figure. I'll say it, because I did the sum, and nobody else here will." He did not raise his voice. "If the claim's good, and the comb's right, then on this week's figures the house has a claim on every dram of ash killed in this country, except the tenth that happens to be dry when it's bagged. And if Mr. Bexley's fourth column goes on the way it's going, by next spring it's every dram." He took a breath. "I'm not saying the house wants that. I've sat at the Proprietor's table four times and I don't think he wants it. I'm saying it's what the patent says, now. It didn't say it in 2391, because in 2391 ash didn't keep time unless somebody taught it. Now everything keeps time." He looked at the Clerk. "I'm on the house's licence. I'm on its yard. I was on its card until four this afternoon. I'd like that written next to the figures, so that nobody thinks I'd a grudge."
+"There's what they come to," said Kellan. "It isn't a figure. I'll say it, because I did the sum, and nobody else here will." He did not raise his voice. "If the claim's good, and the comb's right, then on this week's figures the house has a claim on every dram of ash killed in this country, except the tenth that happens to be dry when it's bagged. And if Mr. Bexley's fourth column goes on the way it's going, by next spring it's every dram." He took a breath.
+
+Counsel's pencil, which had been moving on his folder all evening, stopped.
+
+"I'm not saying the house wants that," said Kellan. "I've sat at the Proprietor's table four times and I don't think he wants it. I'm saying it's what the patent says, now. It didn't say it in 2391, because in 2391 ash didn't keep time unless somebody taught it. Now everything keeps time." He looked at the Clerk. "I'm on the house's licence. I'm on its yard. I was on its card until four this afternoon. I'd like that written next to the figures, so that nobody thinks I'd a grudge."
 
 He sat down. Adlam, beside him, did not look at him. But Kiva saw the old man's hand move on the bench, an inch, and stop near Kellan's, and stay there, not touching, as Rhea's hand had stayed near Pike's on a tailboard.
 
@@ -246,7 +264,7 @@ Mara did not take anything out. She stood with her reading hand at her side and 
 
 The chairman opened his mouth, and shut it.
 
-"There's one thing more," said Mara. "It needs thirty-six jars of plain ash. Ash that's never heard a beat. One to a cell. There isn't any in Saltmere. There's none in Meridian. The soot-cut stock's spoilt, and every tin that came through this Board's gate sang on the seventh, but four." She looked at Kellan, briefly. "Mr. Renn's said so. Without thirty-six jars there's no Wednesday. I'd sooner the Board knew that tonight than found it out at six in the morning on the landing."
+"There's one thing more," said Mara. "It needs thirty-six jars of plain ash. Ash that's never heard a beat. One to a cell. There isn't any in Saltmere. There's none in Meridian. The soot-cut stock's spoilt, and every tin that came through this Board's gate sang on the seventh, but four." She looked at Kellan, briefly. "Mr. Renn's said so. Without thirty-six jars there's no Wednesday. The Board should know that tonight, and not find it out at six in the morning on the landing."
 
 "One of the four," said the chairman of the Harbour Committee, at once, "is Meridian's. That team's. Their sealed tin. Two drams of plain." He turned on his bench and looked along the rows to Seven. "I read it in the Board's tally myself. If the town's to be wet for eleven minutes, the town might ask what's in their tin."
 
@@ -304,7 +322,7 @@ The Clerk looked at her. Her small grey face did not change at all.
 
 Somebody in the gallery drew in his breath.
 
-"I've had it," said Kiva. "With a fever. At thirteen, when I was Kindled, and on Classification Day, and on the ferry below the Order's house last month. The same thing. No roof, and nothing over, and the nothing paying attention." Her hands were hot. She did not look at them. "I'm not saying what it is. I don't know. Nobody does. I'm saying I've had it, under my own name, in this hall."
+"I've had it," said Kiva. "With a fever. At thirteen, when I was Kindled, and on Classification Day, and in the Pit at home last spring, and on the ferry below the Order's house last month. The same thing. No roof, and nothing over, and the nothing paying attention." Her hands were hot. She did not look at them. "I'm not saying what it is. I don't know. Nobody does. I'm saying I've had it, under my own name, in this hall."
 
 The hall did not make a sound.
 

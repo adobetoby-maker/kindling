@@ -1,6 +1,6 @@
 # Chapter 37 — Kiva: A Declared Count
 
-The draw had gone up at nine on Friday night, out of the canvas bag, with Selka Dray standing at the front of the crowd under the lamp, and it had said what everybody in the loft had known it would say since the bag was opened.
+The draw had gone up at nine on Friday night, out of the canvas bag, with Selka Dray standing at the front of the crowd under the lamp, and it had said what everybody in the loft had known it would say since the clerk drew it.
 
 *Saturday. Ten o'clock. Team Seven, Meridian, against Team Twenty-Eight, Meridian.*
 
@@ -16,13 +16,13 @@ And under that, in a column of its own, in italics: *The Proprietor Asks the Boa
 
 She did not go down to buy one. Pru did. Pru came back up the stair with it under her arm and laid it on the end of Kiva's bed without a word, and went red, and went to have her caps seen to.
 
-Kiva read it sitting on the bed with her hand in her lap. The Mercury's young man had got most of it right. He had got her name right and the ferry and Classification Day, and he had put *at thirteen, when she was Kindled* in a place where it read as though she had been Kindled on the ferry. He had written that she spoke *in a level voice, with a bandaged hand, without notes.* He had not said what she had seen, because she had not said what she had seen, only that it was the same thing the keepers had written. He had put in the lamp-man at Holloway, and the laugh from the gallery, and that the laugh had stopped.
+Kiva read it sitting on the bed with her hand in her lap. The Mercury's young man had got most of it right. He had got her name right, and the Pit and the ferry and Classification Day, and he had put *at thirteen, when she was Kindled* in a place where it read as though she had been Kindled on the ferry. He had written that she spoke *in a level voice, with a bandaged hand, without notes.* He had not said what she had seen, because she had not said what she had seen, only that it was the same thing the keepers had written. He had put in the lamp-man at Holloway, and the laugh from the gallery, and that the laugh had stopped.
 
 At the foot of the column he had written one line of his own.
 
 *Whether any of this means anything, the Board will say on Sunday, at two, in the Graving. The Board has never yet said that a fever was a fault.*
 
-She folded the sheet and put it under her pillow, and found that she did not want to read it again.
+She folded the sheet and put it under her pillow, and found she did not want to read it again.
 
 ---
 
@@ -80,7 +80,7 @@ Dray was quiet for a long time. Down the room Old Four had stopped arguing, and 
 
 Dray stood up. She stood on two feet, and Kiva saw her weight settle, more on the right than the left, as it always did now; and she saw Dray see her see it, and not care.
 
-"Then it's declared," said Dray. "All of it." She took her coat off the end of the bed. "That's fair. I've not changed my mind about you." She went to the stair, and stopped at the head of it with her hand on the post, as she had stopped on Thursday. "I'd sooner have beaten your crossing. I'll say that once."
+"Then it's declared," said Dray. "All of it." She took her coat off the end of the bed. "That's fair. I've not changed my mind about you." She went to the stair, and stopped at the head of it with her hand on the post, as she had stopped on Thursday. "I wanted your crossing. I'll say that once."
 
 She went down.
 
@@ -124,7 +124,7 @@ The Graving was full at ten, and half of the full had come to look at a girl who
 
 Kiva felt them as she came out of the side door onto the floor. It was not like Friday. On Friday the whole town had stood up for Carrow, and Kiva had been one of eight people on a floor. Today it did not stand. It sat, tier after tier, in green and in grey and in the colours of six circuits, and every face in the lower tiers turned as she came out of the door and followed her across the stone to Seven's hurdle, and she felt it on the side of her face and the back of her neck like the sun.
 
-It was not unkind. Somebody in the third tier called *elbows!* as she passed, and somebody near him laughed. But under it there was the other thing, the thing Perrin had said in the shop. They were looking at her as people look at a thing that has been sent for.
+It was not unkind. Somebody in the third tier called *elbows!* as she passed, and somebody near him laughed. But under it there was the other thing, the thing Perrin had said in the shop. They were looking at her as the Long Quay had looked at her last night.
 
 She kept her eyes on the stone.
 
@@ -156,7 +156,11 @@ The marshal looked at Perrin over his box.
 
 "It's declared."
 
-"Then I'll hold you to it." He turned his glass. "*Ready.*"
+"Then I'll hold you to it." He did not turn his glass yet. "You know the book, Cade. A captain may still call a change after *no change.* It's a point to the other four for the word, and it goes on her card and yours that the word didn't hold."
+
+"I know the book," said Perrin.
+
+The marshal turned his glass. "*Ready.*"
 
 The first carry was Twenty-Eight's, and it showed Kiva that Dray had not been idle.
 
@@ -186,7 +190,7 @@ They walked it home. At the hurdle Dray shut and went over and turned and took t
 
 "*Three. And a down. Four to Twenty-Eight.*"
 
-The Graving made the warm sound. It was for Dray. Kiva heard that it was for Dray, and found that she did not grudge it.
+The Graving made the warm sound. It was for Dray. Kiva heard that it was for Dray, and found she did not grudge it.
 
 "She's on Talley's arm," said Kiva, at the hurdle.
 
@@ -258,11 +262,11 @@ Kiva could see what a crossing would do. She could see it as plainly as she had 
 
 And Dray would be waiting on the third count. Dray had been waiting on it since a chair in the ninth month. Dray would hear Perrin say *Rowan, changing on three,* and she would know to the quarter count when the ward came down, and she would bring her edge into the gap.
 
-Kiva did not know whether Dray would be fast enough. That was the thing. She had been inside the gap. She knew how short it was. She thought, very likely, that she would be out of it before Dray's edge came down, and the litter would be in Seven's half, and the lane would be Seven's on the glass by two clear points.
+Kiva did not know whether Dray would be fast enough. That was the thing. She had been inside the gap. She knew how short it was. She thought, very likely, that she would be out of it before Dray's edge came down, and the litter would be in Seven's half at the glass, and the lane would probably be Seven's, even with a point given away for the change. It would cost that point. It would cost the word Perrin had given at the box, and the one she had given Dray across the beds. And it would cost Wednesday.
 
 Outside the pen, at the hurdle, Perrin had opened his mouth.
 
-He had not said anything. He was standing with his hands on the hazel and his mouth open on the first word of a count, looking at her across twenty paces of stone, and she knew what the word was. He was the captain. It was his voice that declared her. It was his to say, if she let him.
+He had not said anything. He was standing with his hands on the hazel and his mouth open on the first word of a count, looking at her across twenty paces of stone, and she knew what the word was. He was the captain. It was his voice that declared her, and his word that would be broken, and his name the point would go against first. It was his to say, if she let him.
 
 She shook her head. Once, very slightly.
 
@@ -282,7 +286,7 @@ Kiva let go. She had to; a downed fighter lets go. The head of the Commodore wen
 
 She counted ten.
 
-She had lost the exchange. She had known she would, since a quarter past seven, at three feet, across two beds. She had chosen to. It did not feel like a thing that had been done to her. It felt like the other thing she had done this week: a thing set down where anybody could see it, Dray and the tiers and Perrin at the hurdle with his mouth shut, and that was all.
+She had lost the exchange. She had known she would, since a quarter past seven, at three feet, across two beds. She had chosen to. It did not feel like a thing that had been done to her. It felt like a thing she had chosen, in front of Dray and the tiers and Perrin at the hurdle with his mouth shut, and that was all.
 
 "*Hands, Marten, foot,*" said Pru.
 
@@ -318,7 +322,7 @@ Dray was still standing over the head of the Commodore. Her edge was dark now. S
 
 Dray was silent. Her jaw moved, once.
 
-"That's a thing I'll not know now," she said. "Ever. Not on this coast. Not next year. You'll be on one in fourteen by then, if your healer's right, and you'll not spend it on a lane." Her voice was quite flat. "You chose that. At three feet, this morning. And on the floor, with your head."
+"That's a thing I'll not know now," she said. "Ever. Not on this coast. You'll not spend it on a lane, this year or next." Her voice was quite flat. "You chose that. At three feet, this morning. And on the floor, with your head."
 
 "Yes."
 

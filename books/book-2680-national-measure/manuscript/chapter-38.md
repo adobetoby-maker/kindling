@@ -14,19 +14,17 @@ The Graving made the long sound of breath let out. It went round the tiers twice
 
 "That's the Measure," said Aske, beside her, quite quietly. "Isn't it."
 
-"It's the Ropewalk's," said Kiva, "if they beat Holloway's first four at three."
+"It's the Ropewalk's," said Kiva, "if Westerley beat Old Four at two, and the Ropewalk beat Holloway's first four at three."
 
 "And if they don't?"
 
-"Then it's still not Halden's." She had done the sum on the tiers, with her left hand on her knee, as Kellan would have done it. "Halden's sixty-five and the Lane. They'd have needed to win today and stand fourth or better. They've lost a lane. They'll be ninth or tenth in the Lane, on points. Eighty, or eighty-one." She looked down at the floor, where Kellan was walking back to Halden's hurdle with his edge dark and Pettit's hand on his shoulder. "The Ropewalk's fifty-eight. If they win at three, they're first in the Lane, or near it. Eighty-two."
+"Then it's somebody else's. It's still not Halden's." She had done the sum on the tiers, with her left hand on her knee, as Kellan would have done it. "Halden's sixty-five and the Lane. They'd have needed to win today and stand fourth or better. They've lost a lane. They'll be ninth or tenth in the Lane, on points. Eighty, or eighty-one." She looked down at the floor, where Kellan was walking back to Halden's hurdle with his edge dark and Pettit's hand on his shoulder. "Old Four's sixty-four. If they win at two, they've won three, and it's theirs. If they lose, it's the Ropewalk's fifty-eight, and if the Ropewalk win at three, they're first in the Lane, or near it. Eighty-two."
 
 "You'd make a grader," said Aske.
 
 "His mother's a grader," said Kiva.
 
-Below them, at Halden's hurdle, Kellan had stopped. He stood with Pettit's hand still on his shoulder, and he looked up at the tiers, at the Meridian knot, and found Seven in it, and found her. He did not wave. He did a thing Kiva had seen him do once before, at a gate, with a pencil: he held up one finger, and then a second, and then let his hand fall.
-
-Two. By two marks. He had done the sum on the floor, before the glass had stopped running.
+Below them, at Halden's hurdle, Kellan had stopped. He stood with Pettit's hand still on his shoulder, and he looked up at the tiers, at the Meridian knot, and found Seven in it, and found her. He did not wave. He looked at her for a moment, and then at the side door, where Old Four would come out at two, and Kiva knew that he had begun the same sum and that it would not come out until three.
 
 ---
 
@@ -34,7 +32,7 @@ Old Four lost to Westerley's first four at two, five to two, and Lowen Brask wal
 
 At three, the Ropewalk's first four came out of the side door for the last lane of the National Measure, and the Graving stood up for Carrow as it had stood up on Friday.
 
-Kiva stood with it. She found that she wanted to.
+Kiva stood with it. She found she wanted to.
 
 Holloway's first four had been third on the board after three, and they were good: a big quiet four in dark red who had found in two minutes on the Bench what Seven had needed four to find. They did not lay. They sequenced, as Meridian did, with a still door who planted on his captain's word and a blade who did not move until she was sure. Kiva had watched them beat the Ropewalk's second four on Friday and thought they were the best four in the Measure that nobody talked about.
 
@@ -63,6 +61,10 @@ In the third carry, with the Measure on the glass, Holloway's blade came for Car
 "*Five to the Ropewalk,*" said the marshal at the glass. "*Three to Holloway.*"
 
 The Graving did not stand. It was already standing. It shouted, all of it, for the first time all week. It shouted for a long time, and Carrow stood in the middle of the pen with her edge dark and her hands at her sides and did not look up at any of it. She looked at Lyle, who was standing by the Ropewalk's hurdle with nothing at her hip. Then she walked across to her and put her hand on her shoulder, and stood there.
+
+Down at the floor's edge by the side door, among the black and gold, Kellan looked up at the tiers and found Kiva. He did a thing she had seen him do once before, at a gate, with a pencil: he held up one finger, and then a second, and then let his hand fall.
+
+Two. By two marks. He had done the sum before the shouting stopped.
 
 ---
 
@@ -140,9 +142,9 @@ Seven stood in the ninth row. Perrin had been let stand, by Aske, on condition h
 
 The Clerk of the Measure stood on the chalk of the pen's middle line, alone, the smallest thing in the Graving. She did not have a box. She did not have a paper. When she spoke, everybody heard her.
 
-"The National Measure," she said. "At Saltmere. Four boards. Twenty-four fours. No board struck." She waited for the sound that went round the tiers, and it went round and stopped. "The Lane first, since it's the board that's not been read. Then the Measure, from the bottom."
+"The National Measure," she said. "At Saltmere. Four boards. Twenty-four fours. No board struck." She waited for the sound that went round the tiers, and it went round and stopped. "The Lane first, because it's the board that's not been read. Then the Measure, from the bottom."
 
-She read the Lane. She read it from the top, because that was how a board was read. *First, the Ropewalk School, first four. Won three. Second, Westerley, first four. Won three. Third, Holloway, second four. Won three.* She read the nine who had won two, in their order, by points for less points against, and Kiva heard Seven in the middle of it, *ninth, Team Seven, Meridian, won two, lost one, sixteen for, twelve against,* and Halden after it, tenth, by two points, and Old Four eleventh by one. She read down to the twenty-fourth, which was a four from the sixth circuit that had lost three and scored four points in three days and stood at the back of the dock by the gate with their heads up.
+She read the Lane. She read it from the top, because that was how a board was read. *First, the Ropewalk School, first four. Won three. Second, Westerley, first four. Won three. Third, Holloway, second four. Won three.* She read the nine who had won two, in their order, by points for less points against, and Kiva heard Seven in the middle of it, *ninth, Team Seven, Meridian, won two, lost one, seventeen for, twelve against,* and Halden after it, tenth, two points to the good, and Old Four eleventh, one to the good. She read down to the twenty-fourth, which was a four from the sixth circuit that had lost three and scored four points in three days and stood at the back of the dock by the gate with their heads up.
 
 Then she was quiet for a count of five.
 
@@ -168,15 +170,15 @@ The Graving went quiet. It was not the quiet of people waiting. It was the quiet
 
 "*Westerley, second four. Sixty-eight. Team Twenty-Eight, Meridian. Sixty-eight.*" The Clerk did not look at either. "The Board's rule. A tie on marks goes to the four with the best single place on any board. Westerley's second four stood third on the Hunt. Team Twenty-Eight stood first on the Hunt." She paused, for a breath. "*Eighth, Team Twenty-Eight. Ninth, Westerley, second four.*"
 
-There was a sound from somewhere behind Kiva, in the seventh row. It was not a word. It was the sound of a girl in sea blue, a Hold by her shoulders, who had been on the national roll a moment ago, and was not, and had not yet understood it. The boy beside her put his arm round her and turned her face into his coat.
+There was a sound from two rows in front of Kiva, in the seventh row. It was not a word. It was the sound of a girl in sea blue, a Hold by her shoulders, who had been on the national roll a moment ago, and was not, and had not yet understood it. The boy beside her put his arm round her and turned her face into his coat.
 
-Kiva did not look round. She looked at the back of Selka Dray's head, two rows in front.
+Kiva did not look at her. She looked past her at the back of Selka Dray's head, in the fifth row, four rows in front.
 
 Dray had not moved. She stood in Twenty-Eight's row with her weight on her right foot and her face, Kiva supposed, shut. Marten beside her had put his hand over his eyes. Dray did not put her hand anywhere. She stood, and the Graving's lamps lit the side of her face, and Kiva saw her jaw move once.
 
 *The Hunt.* The board that had put Twenty-Eight on the roll by a tie was the one that had been read on Wednesday night under a line in a clerk's hand. *D. Penhale, catcher, the Saltmere Company, reserve to the officer, lost. The Board records it.* Dray had stood under that line and said *I'll take it. I'd not want anybody to think I was pleased.*
 
-She was not pleased now. Kiva could see that from two rows back.
+She was not pleased now. Kiva could see that from four rows back.
 
 "*Seventh,*" said the Clerk. "*Team Seven, Meridian. Sixty-nine.*"
 
@@ -184,11 +186,11 @@ Kiva did not hear anything for a moment after that.
 
 She was aware of Perrin at the other end of the row taking his hand off his side. She was aware of Anwen's shoulder against hers, quite hard, and of Jude, between them, very still, with the book under his good arm. She was aware of Pru behind her making a sound like somebody who has been holding their breath for a week. She was aware of the Graving making a sound as well, a long sound, from the Meridian knot in the middle tiers outward, that was partly the warm sound and partly something else.
 
-*Sixty-nine.* Nineteen on the Bench, sixth, without her. Twenty-four on the Carry, first, on Perrin's back, up a ladder that he had climbed with a cracked rib on her word. Ten on the Hunt, fifteenth, with clean work on their stow and a pass in three that had held for a girl and been too late for a man. Sixteen on the Lane. Six to two with no fingers, four to five against Carrow's one door, six to five on the glass, with her on her knees beside the litter's head and Pru calling.
+*Sixty-nine.* Nineteen on the Bench, sixth, without her. Twenty-four on the Carry, first, on Perrin's back, up a ladder that he had climbed with a cracked rib on her word. Ten on the Hunt, fifteenth, with clean work on their stow and a pass in three that had held for a girl and been too late for a man. Sixteen on the Lane. Seven to two with no fingers, four to five against Carrow's one door, six to five on the glass, with her on her knees beside the litter's head and Pru calling.
 
 Not one mark of it was three doors. She had not opened three doors since the fifth of the tenth month, and she had not crossed once since Thursday the 10th. She had stood every lane of the Measure on one door. Seven was on the national roll for the year by one mark, and it had got there with a ladder, a stow, a hen, a pair of elbows and a girl who called the pen.
 
-She found that this mattered more than she could have said. She had come two hundred miles with a thing in one hand that nobody else could do, and she had not used it. Seven had been put on the roll by a four and a method, by things with handles, that anybody in the Graving had watched and could do next year. Holloway's second four had done the hen to Halden this afternoon. The Ropewalk had done the elbows. Treen had called *far edge.*
+She found this mattered more than she could have said. She had come two hundred miles with a thing in one hand that nobody else could do, and she had not used it. Seven had been put on the roll by a four and a method, by things with handles, that anybody in the Graving had watched and could do next year. Holloway's second four had done the hen to Halden this afternoon. The Ropewalk had done the elbows. Treen had called *far edge.*
 
 She stood in the ninth row with her bound hand against her coat and did not cry, because it was not that kind of thing.
 
@@ -284,7 +286,7 @@ She had not gone up. The loft's window was lit above, and Kiva could hear Old Fo
 
 "Pryce," said Kiva.
 
-"I've a card," said Anwen. "Rhea Sorn pinned it at the baize at noon, after our lane. I read it at one. I took it down at two." She took one hand out of her sleeve with the card in it, slate blue, and held it out. "Read it. I want you first. Before Perrin, before my mother. I've decided, and I want it said plainly, and I want you to hear it before anybody tells you."
+"I've a card," said Anwen. "Rhea Sorn pinned it at the baize this morning, after our lane. I read it at one. I took it down at two." She took one hand out of her sleeve with the card in it, slate blue, and held it out. "Read it. I want you first. Before Perrin, before my mother. I've decided, and I want it said plainly, and I want you to hear it before anybody tells you."
 
 Kiva took it in her left hand and read it by the light from Quiller's window.
 

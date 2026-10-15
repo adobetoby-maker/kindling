@@ -104,7 +104,7 @@ Kiva did not sit. She stood on the other side of the counter, where Ivey had sto
 
 It was very quiet in the shop. Outside, a cart went along Quay Street on the cobbles, and the gratings in the gutter rattled on the count.
 
-"Not like anybody dreams," she said. "With a fever. When I was Kindled, at thirteen, in a yard. On Classification Day, in the hall. And on the ferry below the Order's house, last month." She kept her voice level, as she would have kept it at a hem. "It's always the same, more or less. I'll tell you what it is, once, and then you'll know, and I'll not have to wonder what you'd think if you knew."
+"Not like anybody dreams," she said. "With a fever. When I was Kindled, at thirteen, in a yard. On Classification Day, in the hall. In the Pit last spring, and my aunt wrote that one down the same night. And on the ferry below the Order's house, last month." She kept her voice level, as she would have kept it at a hem. "It's always the same, more or less. I'll tell you what it is, once, and then you'll know, and I'll not have to wonder what you'd think if you knew."
 
 She told them.
 
@@ -112,7 +112,7 @@ She told it as she had told it to Mara at a kitchen table at ten o'clock at nigh
 
 She told them that on the ferry she had been lower than before, and that the lights had been nearer, and that some of them had been going out.
 
-She did not tell them the rest of the ferry. She found that she had not decided, yet, whom that was for. It was not a thing to be said in a shop to four people who had come down a stair at eight o'clock because she asked. It might be a thing for somebody else. She held it back, and knew that she was holding it back, and let them see that she knew.
+She did not tell them the rest of the ferry. She found she had not decided, yet, whom that was for. It was not a thing to be said in a shop to four people who had come down a stair at eight o'clock because she asked. It might be a thing for somebody else. She held it back, and knew that she was holding it back, and let them see that she knew.
 
 "There's more about the ferry," she said. "I'll say it where it's asked for. I'm not keeping it from you. I don't yet know who it's for."
 
@@ -148,7 +148,7 @@ Perrin had not moved from the counter. He had his hand pressed to his side under
 
 "They look at the girl with three doors. That's different. That's a thing you can do." He breathed carefully. "This is a thing you are. They'll look at you as though you'd been sent for. I know you. You'd hate that worse than anything." He paused. "I'm not saying don't. I'm the captain, and it's not a captain's to say. I'm saying I know what it'll cost you, and I'll be on the hurdle with my hands in my pockets when they look."
 
-Kiva found that she could not say anything to that, so she nodded.
+Kiva found she could not say anything to that, so she nodded.
 
 Jude had not spoken. He was standing by the door with the book under his arm, scratching his jaw slowly with his right hand, and looking at the counter, at her hand on it.
 
@@ -190,7 +190,7 @@ It was the training cell. Peverell had had it carried up from the fitting shop o
 
 Beside it on the table there were two more cells. One was keeping a count Peverell had given it with her own hands that morning, three slow and a quick, like a woman beating a rug. The other was in step. Peverell had salted it from the pump house's own store, which was all the bank's, and it went four and four, fifty-seven to the minute, like everything else in this town.
 
-Round the table, on stools, sat twelve fitters in their aprons, with their hands on their knees.
+Round the table, on stools, sat twelve fitters in their aprons, with their hands on their knees: the first watch of Peverell's thirty-six, who would come to the table in three twelves before Wednesday.
 
 "Again," said Mara. "Hart's mate. You."
 
@@ -298,7 +298,7 @@ Aske held the hand at seven on Friday morning and said, "Warm. Five mornings." H
 
 Aske did not move.
 
-"I'm telling you because I'm telling the Board tonight," said Kiva. "I'd sooner you heard it from me at this window than from the Salt Hall."
+"I'm telling you because I'm telling the Board tonight," said Kiva. "I wanted you to hear it from me at this window, not from the Salt Hall."
 
 He looked at her for a long moment. Then he took the card out again, and turned it over, and showed her the line on the back that she had not seen on the 11th. It was in pencil, in his small cramped hand.
 
@@ -334,7 +334,7 @@ Orla was silent for so long that Kiva thought she was not going to answer.
 
 "No. It's not anything. It's only a thing I am."
 
-"Then it's not mine to sponsor and it's not mine to stop." Orla took her hand off the stick again. "I'll say one thing, since I'm the one person on this coast who's read that notebook and isn't from the Order or the Library. She wrote that she told nobody in her house. She said they'd make it into doctrine by spring." She looked at Kiva for the first time. "Don't let anybody make you into doctrine. Not the Order. Not that man on the Long Quay. Not the Board. Not me. Say what you saw, and then go back to your hurdle."
+"Then it's not mine to sponsor and it's not mine to stop." Orla took her hand off the stick again. "I'll say one thing, because I'm the one person on this coast who's read that notebook and isn't from the Order or the Library. She wrote that she told nobody in her house. She said they'd make it into doctrine by spring." She looked at Kiva for the first time. "Don't let anybody make you into doctrine. Not the Order. Not that man on the Long Quay. Not the Board. Not me. Say what you saw, and then go back to your hurdle."
 
 "That's what I mean to do."
 
