@@ -159,3 +159,22 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - Publish helper now reads committed bytes (git show HEAD:) so another session's uncommitted edits never publish.
 - Blockers: none.
 - Next: consolidate M5 reviews -> repair -> recheck -> publish -> M6 brief (the Slack) -> M6 -> whole-book review.
+
+## Update 2026-10-15 05:20 MDT — Movement Five CLOSED and published; Movement Six (the ending) drafting
+
+- M5: draft `dd002b97` (55,218) -> editorial `887082aa` + cold read `165093a7` -> repair `89938c88` (Lane re-derived 7–2 with the
+  printed Measure totals intact; Proprietor's source; the Pit in every list; Graving evidence compressed; declaration rule;
+  idiom/paragraph pass; 55,497 words) -> recheck `01a5e43b`: two dropped opening quotation marks + 3 record lines -> second repair
+  `f517a39f` -> accepted as editorial context (`provenance/MOVEMENT-005-RECHECK-CONFIRMATION.md`, final hashes).
+- Source: kindling main `316f65f` (+ local helper commit pending push). PWA: boundary-universe main `6814d0d`, version 1.18.43,
+  sw-v1219; chapters 1–40 repaired, byte-identical to committed source on books.worker-bee.app. (Shelf text says 269,788 words;
+  committed text is 269,789 — corrected at next publish; helper now computes the total.)
+- ACTIVE CHILD: Movement Six author `35fbff1b` (Opus 5.5), prompt `planning/OPUS-5.5-MOVEMENT-006.prompt.md` sha256
+  10b3d55e…6feb, packet `packets/MOVEMENT-006.md` (chapters 41–48: rehearsal, the Slack, the grid order, the commission,
+  the last image). Checkpoint if limited: `provenance/MOVEMENT-006-CHECKPOINT.md`.
+- CONCURRENT AUDIO ACTIVITY (recorded, untouched): the audio session has uncommitted clarity edits in manuscript chapters
+  11, 14, 15 (working tree; `DIRECT-UNIT-10-12` track). I will verify its report and hashes and commit/publish only after it is
+  complete, as I did for chapters 8–9. Publishing reads committed bytes only.
+- Blockers: none.
+- Next: M6 reviews -> consolidate -> repair -> recheck -> publish -> whole-book review (continuity, chronology, power limits,
+  progression/relationships, promises/payoffs, scene clarity, read-aloud) with bounded Opus repairs -> final publish and report.
