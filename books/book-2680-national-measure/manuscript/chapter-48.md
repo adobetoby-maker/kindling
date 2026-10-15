@@ -86,7 +86,7 @@ She uncapped the pen.
 
 *Rowan, K.,* she wrote, on Coombe's empty line. *Catcher. Caller of the pass in three: a ward to an Ember to a still door, called, nobody holding it twice. One door declared at every response. Two crossings certified, Ember to still and hand to Ember; one in fourteen days, by her healer's card; the three doors not to be asked. Dark hands till her healer's card is up, from the 15th of the fourth month. Under D. Coombe's hand. Until the last of the ninth month.*
 
-She stopped. She looked at it for a long time.
+She stopped.
 
 Then she wrote the last line, which was the only line on it that was hers.
 
@@ -104,7 +104,7 @@ Pike came round the side of the van with two cups of tea held against his chest 
 
 "Not under me." Rhea drank her tea. "I'd have kept her, Pike. I'd have been very good to her, and kept her."
 
-"I know you would." Pike looked at the sheet a moment longer. "So would I. That's why it's Coombe's." His long brown face did the thing it did, nearly. "You've no advice left, have you. For the spring."
+"I know you would." Pike looked at the sheet a moment longer. "So would I. That's why it's Coombe's." His square grey face did the thing it did, nearly. "You've no advice left, have you. For the spring."
 
 "I spent it at Gannet Creek."
 
@@ -242,7 +242,7 @@ Pru took it in her capped hand and held it as though it were still warm.
 
 "I'll seal things," she said.
 
-"Seal them properly," said Anwen. "Thumb in the middle. Not the edge." She looked round at the four of them. At Perrin with his hand pressed to his side, at Jude with his white knuckles and his card from the Company in his coat pocket, at Pru with the book under one arm and the wax in her capped hand, at Kiva with her left hand in her coat. She did not go red. Anwen never went red.
+"Seal them properly," said Anwen. "Thumb in the middle. Not the edge." She looked round at the four of them. At Perrin, at Jude with his white knuckles and his card from the Company in his coat pocket, at Pru with the book under one arm and the wax in her capped hand, at Kiva with her left hand in her coat.
 
 "I'm not going to say anything about the year," she said. "You all know it. I'd only say it wrong."
 

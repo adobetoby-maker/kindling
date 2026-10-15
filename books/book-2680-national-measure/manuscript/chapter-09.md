@@ -24,7 +24,7 @@ Orla was on her crate, a pace north of where it had stood for one-and-twenty yea
 
 Kiva sat on the end of the crate, which was the only place there was.
 
-"Six," said Orla. "Of mine. On the Chair's mast, read by Bexley, with me on this crate, from this month. That's the certificate's word and it's mine. Hand to Ember. What you did in the eighth month is in your book, and in your book it stays. I'll not count a thing that I didn't see on a tape."
+"Six," said Orla. "Of mine. On the Chair's mast, read by Bexley, with me on this crate, from this month. That's the certificate's word and it's mine. Hand to Ember. What you did in the eighth month is in your book, and in your book it stays. I'll not count a thing you told the mast didn't count."
 
 "I know."
 

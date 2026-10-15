@@ -2,7 +2,7 @@
 
 The four walls went forward on *one* and did not come off on the rest.
 
-They went in under the grey staves at the foot, where the mud had slid away from them, low and flat, the way a spade goes in under a sod. Anwen's went in first, because she was nearest, and Edda's beside it, and Hesketh's, and Sedge's at the end, four silver edges sliding under the chime of a cask as wide as a cart is long, side by side, until there was a floor of ward under the whole west half of it.
+They went in under the grey staves at the foot, where the mud had slid away from them, low and flat, the way a spade goes in under a sod. Anwen's went in first, because she was nearest, and Edda's beside it, and Hesketh's, and Shapter's at the end, four silver edges sliding under the chime of a cask as wide as a cart is long, side by side, until there was a floor of ward under the whole west half of it.
 
 And it came to them.
 
@@ -10,7 +10,7 @@ Kiva saw it come. The held water leaned at the line, four feet eleven inches of 
 
 The weight went into four girls' arms.
 
-Kiva was at Anwen's left, a pace off, with her Ember lit at her side. She saw it go into Anwen. She saw Anwen's shoulders go down an inch and her elbows lock and her face go white to the mouth, and she saw the same thing happen to Edda beside her, and to Hesketh, and to Sedge, one after another along the line as the weight found them, like a wave going along a row of posts. Nobody made a sound. The cold came off the staves onto Kiva's face. Frost began to form along the silver edges of the walls where the grey sat on them.
+Kiva was at Anwen's left, a pace off, with her Ember lit at her side. She saw it go into Anwen. She saw Anwen's shoulders go down an inch and her elbows lock and her face go white to the mouth, and she saw the same thing happen to Edda beside her, and to Hesketh, and to Shapter, one after another along the line as the weight found them, like a wave going along a row of posts. Nobody made a sound. The cold came off the staves onto Kiva's face. Frost began to form along the silver edges of the walls where the grey sat on them.
 
 "*Two,*" said Dray, on the wall. "*Three. Four.*"
 
@@ -238,7 +238,7 @@ It was Aske. He had come along the sill from its north end, where Bannock had sa
 
 The first ward line came down the steps at the dock mouth's south side at twelve minutes past.
 
-They had run the whole length of the basin wall from the outfalls, along the top, the four of them, while the second pass walked across the mud below them. Anwen came down the steps first with her cap gone and her hair coming down at one side. Edda came behind her, small and stern, and then Hesketh, and Sedge last, breathing hard. They went past the cask on the dock floor side, inside the mouth, and stood in their line on the dock floor at the sill's inner edge, on the far side of it from Kiva, between the cask and the dock. Four walls came up at their knees, low and silver.
+They had run the whole length of the basin wall from the outfalls, along the top, the four of them, while the second pass walked across the mud below them. Anwen came down the steps first with her cap gone and her hair coming down at one side. Edda came behind her, small and stern, and then Hesketh, and Shapter last, breathing hard. They went past the cask on the dock floor side, inside the mouth, and stood in their line on the dock floor at the sill's inner edge, on the far side of it from Kiva, between the cask and the dock. Four walls came up at their knees, low and silver.
 
 Behind them, on the dock floor, Jude and Gower were waiting with their bars unlit and their knuckles white.
 
@@ -492,7 +492,7 @@ The hand lay there at the end of it. It was her hand. It had the two dead finger
 
 He did not say anything to that. He sat beside her on the wet floor of the Graving, an old catcher with his hands closed halfway, and looked down the dock to the mouth, where the Master stood with her back to them and her ward across the opening and the flood not yet come.
 
-"You were my second all winter," said Pike after a while. "I've been yours for an hour." His long brown face did the thing it did, very nearly. "It's a hard job. I'd not known."
+"You were my second all winter," said Pike after a while. "I've been yours for an hour." His square grey face did the thing it did, very nearly. "It's a hard job. I'd not known."
 
 "Two words, once."
 

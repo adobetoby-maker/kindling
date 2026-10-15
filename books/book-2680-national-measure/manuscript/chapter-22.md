@@ -240,7 +240,7 @@ Kellan found that he could not look away from it either. He was aware of his own
 
 "Ah," said the Proprietor. "You've felt it. Move as far as you like, Mr. Renn. Young people fall in with it. I've had clerks faint." He said it quite kindly. "The far end of the table's better. Nobody's ever fainted at the far end."
 
-Kellan did not move further. He sat with his heart going slowly and his hands on the cloth and waited.
+Kellan did not move further. He sat with his hands on the cloth and waited.
 
 The Proprietor asked each of them about their lanes. He asked Pettit about his captaincy and listened to the answer. He asked Yarrow about the Ropewalk's lay and listened to that, and asked two questions that Yarrow could not answer and did not seem to mind. He asked Hesketh about her wall. Then he turned to Kellan.
 

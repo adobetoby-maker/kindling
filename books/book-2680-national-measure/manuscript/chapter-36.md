@@ -26,7 +26,7 @@ That was all. It was in counsel's hand, which was small and very neat and had ne
 
 Kellan looked at the claims slip, where the sum was, in his own figures.
 
-*Combed at the gate, 1st to 16th: 1,106 tins, jars and bags. Seventh reed sang: 1,102. Silent: 4. The Hunt, the 16th: 412.4 dr. combed off the Longshore. Red: 371.3. Clean: 41.1, every dram of it dry. Nine-tenths.* And under it, in a column of its own: *Claimed under the patent of 2391, by the house's own index. 2391–2600, all from its own yards: 109 dr. 2680, Meridian district alone, outside its yards: 1,175.1. The Measure to date: 371.3.*
+*Combed at the gate, 1st to 16th: 1,106 tins, jars and bags. Seventh reed sang: 1,102. Silent: 4. The Hunt, the 16th: 4,647.2 dr. combed off the Longshore. Red: 4,181.2. Clean: 466.0, every dram of it dry. Nine-tenths.* And under it, in a column of its own: *Claimed under the patent of 2391, by the house's own index. 2391–2600, all from its own yards: 109 dr. 2680, Meridian district alone, outside its yards: 1,175.1. The Measure to date: 4,181.2.*
 
 And at the foot, the line he had written on Wednesday night and not liked.
 
@@ -100,7 +100,7 @@ Yeo was there, and Ivey beside her with her square dark hands in her lap. Coombe
 
 The sister. The Order's.
 
-"She came on Wednesday's boat," said Mara, very low. "She's been at the Works' lodging asking for me every day. I've been at the pump house." She did not look at the sister. "She's not said what for."
+"She came on Wednesday's boat," said Mara, very low. "She's been at the Works' lodging asking for me every day. I've been at the pump house. She's not said what for."
 
 Selka Dray sat on the end of the Meridian bench, behind Halden, on two feet, with her face like a shut door. The Mercury's young man sat at the very end of the front row with three pencils.
 
@@ -112,7 +112,7 @@ Ysra Crest stood up from a chair set by itself at the end of the long table.
 
 Kiva had seen the Chair perhaps a dozen times in her life, and every time the Chair had been sitting behind a desk with a page in front of her and a pen beside it. She had never seen her stand in a hall. She was a lean woman in a plain dark coat, older than Kiva remembered, with grey hair pulled back and the level eyes of somebody who had held a ward on a Bench in 2660 and had never since needed to raise her voice.
 
-"Three sheets," said the Chair. "Mr. Bexley's columns. People: what the class of 2680 measured, against forty years. Rifts and spawn: how many tears, of what kind, since the thaw. And Saltmere: a bank that went into step at twenty past two on the 17th of the ninth month, in the same minute as four husks stood a square in a pit at Meridian." She did not look at a paper. "I sent them because a Circuit can't ask a nation to look at its banks. A Chair can ask who else has a keeper with a book. I asked. Mr. Bexley has the returns."
+"Three sheets," said the Chair. "Mr. Bexley's columns. People: what the class of 2680 measured, against forty years. Rifts and spawn: how many tears, of what kind, since the thaw. And Saltmere: a bank that went into step at twenty past two on the 17th of the ninth month, in the same minute as four husks stood a square in a pit at Meridian. I sent them because a Circuit can't ask a nation to look at its banks. A Chair can ask who else has a keeper with a book. I asked. Mr. Bexley has the returns."
 
 She sat down. It had taken less than a minute.
 
@@ -190,7 +190,7 @@ He did not hold a paper. He had it in his head.
 
 The thin Board member had stopped writing and was looking at him.
 
-"The Hunt," said Kellan. "Four hundred and twelve drams and four-tenths combed off the Longshore on Wednesday. Three hundred and seventy-one and three-tenths red. Forty-one and a tenth clean. Every dram of the clean was dry. Nine-tenths." He paused. "That's the Board's. This is the house's." He did look at counsel's back then, once. "I stood at the gate on Wednesday and read the claims clerk's ledger over his shoulder. He's a good clerk. He was doing his work. Every red tag in the Hunt, *claimed, under the patent of 2391.* Three hundred and seventy-one drams and three-tenths. And the house's own index, which I've read at the yard on Tuesdays, because I've the yard on Tuesdays and nobody's ever told me not to read the index." He was quite white.
+"The Hunt," said Kellan. "Four thousand six hundred and forty-seven drams and two-tenths combed off the Longshore on Wednesday. Four thousand one hundred and eighty-one and two-tenths red. Four hundred and sixty-six clean. Every dram of the clean was dry. Nine-tenths." He paused. "That's the Board's. This is the house's." He did look at counsel's back then, once. "I stood at the gate on Wednesday and read the claims clerk's ledger over his shoulder. He's a good clerk. He was doing his work. Every red tag in the Hunt, *claimed, under the patent of 2391.* Four thousand one hundred and eighty-one drams and two-tenths. And the house's own index, which I've read at the yard on Tuesdays, because I've the yard on Tuesdays and nobody's ever told me not to read the index." He was quite white.
 
 The heavy Board member brought his spectacles down off his forehead and onto his nose.
 
@@ -206,7 +206,7 @@ Counsel's pencil, which had been moving on his folder all evening, stopped.
 
 "I'm not saying the house wants that," said Kellan. "I've sat at the Proprietor's table four times and I don't think he wants it. I'm saying it's what the patent says, now. It didn't say it in 2391, because in 2391 ash didn't keep time unless somebody taught it. Now everything keeps time." He looked at the Clerk. "I'm on the house's licence. I'm on its yard. I was on its card until four this afternoon. I'd like that written next to the figures, so that nobody thinks I'd a grudge."
 
-He sat down. Adlam, beside him, did not look at him. But Kiva saw the old man's hand move on the bench, an inch, and stop near Kellan's, and stay there, not touching, as Rhea's hand had stayed near Pike's on a tailboard.
+He sat down. Adlam, beside him, did not look at him. But Kiva saw Adlam's hand move on the bench, an inch, and stop near Kellan's, and stay there, not touching, as Rhea's hand had stayed near Pike's on a tailboard.
 
 Halden's counsel stood up.
 
@@ -226,7 +226,7 @@ Peverell did not stand up at once. She sat with her hands folded on the book in 
 
 The chairman began to speak. She went on over him, not loudly.
 
-"My pumps will run on Wednesday. They'll stop for eleven minutes at the slack, by my hand, at my word, and start again on my word, each on its own eight cells, because that's what the method says, and I've read it. I've written thirty-six names on my fault paper. My own isn't on it." She did not look at Mara. "If the bank comes out, it'll be because thirty-six people put their hands on thirty-six cases on a word, and I'll write that in seven columns. If it doesn't, it'll be found wrong, under seal, and I'll write that too." She took her spectacles off. "I'll not be the keeper who stopped the pumps. I'll be the keeper who let it be tried. That's a different line in my book."
+"My pumps will run on Wednesday. They'll stop for eleven minutes at the slack, by my hand, at my word, and start again on my word, each on its own eight cells, because that's what the method says, and I've read it. I've written thirty-six names on my fault paper. My own isn't on it. If the bank comes out, it'll be because thirty-six people put their hands on thirty-six cases on a word, and I'll write that in seven columns. If it doesn't, it'll be found wrong, under seal, and I'll write that too." She took her spectacles off. "I'll not be the keeper who stopped the pumps. I'll be the keeper who let it be tried. That's a different line in my book."
 
 She sat down.
 
@@ -380,7 +380,7 @@ Somebody fell into step on her left. It was Selka Dray, on two feet, with her fa
 
 She turned off toward the gate at the Graving's end of the quay, where the draw would go up, and did not look back.
 
-At Quiller's door, Mara stopped. She had walked the length of the Long Quay without a word, with her reading hand in her coat pocket. Now she took it out and looked at it under the white lamp, as she had looked at it on a gallery at the pump house a fortnight ago.
+At Quiller's door, Mara stopped. She had walked the length of the Long Quay without a word, with her reading hand in her coat pocket. Now she took it out and looked at it under the white lamp, as she had looked at it on a gallery at the pump house on Wednesday night.
 
 "I said it on my name," she said. "And then you stood up and said yours."
 

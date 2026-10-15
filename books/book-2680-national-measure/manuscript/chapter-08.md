@@ -272,7 +272,7 @@ Kellan did not laugh. He turned back his left cuff instead, where there were two
 
 "The Hunt's marked on clean," said Anwen.
 
-"The Hunt's marked on clean. And that four has never bagged a rung anywhere else." He buttoned the cuff. "I've not said it to Birch. I shall have to. I thought that you might as well hear what I'm walking into."
+"The Hunt's marked on clean. And that four has never bagged a rung anywhere else." He buttoned the cuff. "I've not said it to Birch. I thought that you might as well hear what I'm walking into."
 
 Mara had turned round.
 

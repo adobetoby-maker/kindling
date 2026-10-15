@@ -294,7 +294,7 @@ Kiva took it in her left hand and read it by the light from Quiller's window.
 
 On the back, in Anwen's hand, square and pressed hard into the card: *Yes. A. Pryce.*
 
-"It's not a relief," said Anwen. "It's a place. Mine. Mace's line. At home." She did not go red. Anwen never went red. "I'll be on the van from the first of next month, two nights a week, and the Hall the rest. I'll not be in Seven's lanes after the summer. Not every one." She looked at Kiva in the dark. "I'm not leaving. I'm going somewhere. I wanted you to know the difference, from me."
+"It's not a relief," said Anwen. "It's a place. Mine. Mace's line. At home. I'll be on the van from the first of next month, two nights a week, and the Hall the rest. I'll not be in Seven's lanes after the summer. Not every one." She looked at Kiva in the dark. "I'm not leaving. I'm going somewhere. I wanted you to know the difference, from me."
 
 Kiva stood on the cobbles with the slate-blue card in her hand.
 

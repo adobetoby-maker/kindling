@@ -32,9 +32,9 @@ Kellan listened with his face quite still. When she had done, he did not say any
 
 "That's why I told you first," said Kiva.
 
-He looked at her for a long moment. Then he nodded, once, and glanced back at the card on the baize behind him, with the Halden mark at its head.
+He looked at her. Then he nodded, once, and glanced back at the card on the baize behind him, with the Halden mark at its head.
 
-"I've a thing of my own tonight," he said. "In that hall. It's not as big as yours. It's big enough." He did not explain. "I'll see you on the floor at eleven. Halden's at nine. I'll be on the tiers for Carrow, with the rest of Meridian, wanting you to lose and wanting you to win." He nearly smiled. "I'd expect nothing else of myself."
+"I've a thing of my own tonight," he said. "In that hall. It's not as big as yours. It's big enough." He did not explain. "I'll see you on the floor at eleven. Halden's at nine. I'll be on the tiers for Carrow, with the rest of Meridian, wanting you to lose and wanting you to win. I'd expect nothing else of myself."
 
 He went away toward the Graving's steps with his hands back in his pockets.
 
@@ -68,7 +68,7 @@ Perrin stood looking at the two cards with his hand pressed to his side.
 
 "I wanted it," he said. Kiva did not think he was saying it to her. "On the boat. Something with only my name on it. I said so to Pryce on the Ropewalk steps." He reached out with his free hand and took the Halden card down off its pin. "That one hasn't got my name on it. It's got *the winner of the Carry.* They've carded a Tuesday."
 
-He took a pencil out of his coat and wrote on the back of it, against the baize, with his hand pressed to his side, in his round careful hand. *No, with thanks. It was mine, the ladder, but it was one Tuesday. P. Cade.* Then he pinned the card back up, face to the board, so that only the back showed.
+He took a pencil out of his coat and wrote on the back of it, against the baize, in his round careful hand. *No, with thanks. It was mine, the ladder, but it was one Tuesday. P. Cade.* Then he pinned the card back up, face to the board, so that only the back showed.
 
 "And the other?"
 
@@ -348,6 +348,6 @@ Hart did not ask what. She had thought he might. He looked at her face for a lon
 
 "Not yet. A quarter to seven."
 
-"Then you'll be in a hall at a quarter to seven, standing up." He nearly smiled. "Lay them on the rail of the Salt Hall's gallery. It's iron. It'll say *yes.* Everything in this town says *yes.* Write it down anyway."
+"Then you'll be in a hall at a quarter to seven, standing up. Lay them on the rail of the Salt Hall's gallery. It's iron. It'll say *yes.* Everything in this town says *yes.* Write it down anyway."
 
 She went back along the walk toward the low town. Behind her, on the landing, she heard him open his book again and write, in his slow left hand, and she did not look back to see what.

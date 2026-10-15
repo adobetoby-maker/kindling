@@ -144,11 +144,11 @@ And now she had to lean it on somebody else's.
 
 "*One,*" said Dray, from the step of the bottom tier, where Coombe had put her. "*Two. Three. Four. Rest.*"
 
-Anwen leaned. Edda leaned beside her, small and stern, and Hesketh beyond Edda, and Sedge at the end, and the four walls went forward a hand's breadth together toward the tun, and pressed, and came off on the rest. On the next *one* Hesketh was late. On the one after that Sedge was early, because she had been listening to Hesketh being late and trying to make it up.
+Anwen leaned. Edda leaned beside her, small and stern, and Hesketh beyond Edda, and Shapter at the end, and the four walls went forward a hand's breadth together toward the tun, and pressed, and came off on the rest. On the next *one* Hesketh was late. On the one after that Shapter was early, because she had been listening to Hesketh being late and trying to make it up.
 
 "Don't listen to each other," said Anwen. "Listen to her."
 
-"I can't not listen to the person next to me," said Sedge. She was a tall fair girl from Twenty-Eight with a wall like a sheet of tin, and she had beaten Anwen's wall twice in the Lane and been beaten by it once. "That's what a line is."
+"I can't not listen to the person next to me," said Shapter. She was a tall fair girl from Twenty-Eight with a wall like a sheet of tin, and she had beaten Anwen's wall twice in the Lane and been beaten by it once. "That's what a line is."
 
 "Not this one." Anwen did not know how she knew it. She found she did. "This one's four people listening to the same voice. If we listen to each other we'll all be wrong together, a little, and it'll go to whichever of us is least wrong." She looked along the line. "It'll go to one of us. And that one's the one it folds on."
 
@@ -176,7 +176,7 @@ At eleven Coombe called a rest, and the line shut, and Anwen walked across the w
 
 "You're moving your foot," she said.
 
-Lyle looked at her. She had a long pale face and very dark eyes, and she had looked at Anwen like that on Thursday on the Ropewalk's floor when Anwen walked her wall away and left her leaning on nothing.
+Lyle looked at her. She had a square pale face and very dark eyes, and she had looked at Anwen like that on Thursday on the Ropewalk's floor when Anwen walked her wall away and left her leaning on nothing.
 
 "I know," said Lyle.
 
@@ -204,7 +204,7 @@ Kiva had stopped writing.
 
 Kiva wrote something in the book, small, and turned it so that Anwen could see. *M3: Lyle. Asked to be asked, before. Pryce has her far edge.*
 
-Anwen read it. She did not go red, because she never did.
+Anwen read it. She did not go red.
 
 "That's what you'll be doing," she said after a while. "Wherever it is you end up. This. Writing down whose foot moves." She stood up. "I'll be on Mace's line. Doing it for a van." She brushed the wet off her skirt. "I'd not have thought, a year ago, that we'd be doing the same thing in two places. I'd have thought one of us would be doing it for the other."
 
@@ -294,7 +294,7 @@ It was Kellan who spoke next. He had not moved from his place by the chair. He w
 
 "Sir," he said. "That pump's cells were lit. When you let go, they took it back. Tomorrow the cells will be dark when you take the pumps. All six. There'll be nothing under them to take it back." He looked up. "What happens when you let go of a pump that's only got you?"
 
-The Proprietor turned his head and looked at him for a long moment.
+The Proprietor turned his head and looked at him.
 
 "Then it stops, Mr. Renn," he said. "And it's mine to let go of. That's simpler, not harder." He laid his right hand flat on his knee. "Write down that you asked. In your book, that you asked before."
 
@@ -356,7 +356,7 @@ The sister walking beside the cart nodded to Kiva as it passed, and did not stop
 
 She did not sleep much.
 
-She lay on the bed by the north window in the loft with her book under her pillow and the quay lamps in a row along the black water. The town's count came up through the iron of the bedstead, four and four, the way it had come up through every bed and bollard and rail she had touched since the boat came in under the sea gate three weeks ago. She had gone to sleep to it every night. She had woken to it. She had laid her fingers on it every morning at a quarter to seven and written *yes.*
+She lay on the bed by the north window in the loft with her book under her pillow and the quay lamps in a row along the black water. The town's count came up through the iron of the bedstead, four and four, the way it had come up through every bed and bollard and rail she had touched since the boat came in under the sea gate three weeks ago. She had gone to sleep to it every night. She had woken to it. She had laid her fingers on it every day at a quarter to seven and written *yes.*
 
 If it went right tomorrow, she would never feel it again. Not this one. The bank would come out at half past six, and the pumps would start one at a time on their own uneven counts, and the town would stop keeping one time in everything. The bollards would go quiet. The gratings in the gutters would stop rattling four and four. Penhale's mother would stand in her kitchen in Ropery Row with her feet wet for five minutes and then dry again, on a count nobody had given her.
 

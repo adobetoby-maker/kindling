@@ -2,7 +2,7 @@
 
 > Built by TAC
 
-Status: **Book One complete and accepted (2026-10-12). Book Two planned, not drafted. Book
+Status: **Book One complete and accepted (2026-10-12). Book Two, *The National Measure*, drafted in full (chapters 1–48) and accepted as editorial context 2026-10-15; its exit state is `STATE_LEDGER.md` (Movement Six block). The NOW and NEXT sections below are the pre-draft planning record, not the exit state. Book
 Three is horizon.** This file carries the series forward from
 `books/book-2680-opening/SERIES_MAP.md`. It does not rewrite Book One; where they differ on
 anything Book One put on the page, Book One's manuscript and ledger govern.

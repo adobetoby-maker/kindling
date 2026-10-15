@@ -66,7 +66,7 @@ There was a moment in the ash office when nobody breathed. Kiva felt it go along
 
 Pru tipped the jar, very slightly, toward the window, and looked into it.
 
-She did not say anything. She held it out to Kiva, without a word, and Kiva looked.
+She held it out to Kiva, without a word, and Kiva looked.
 
 The ash in the jar was grey, as ward-trace is grey. But it was not all grey. There was black in it, fine and dull, in streaks, like pepper stirred into flour and not stirred enough; and where the black was, it lay heavier, and did not shine at all.
 
@@ -82,7 +82,7 @@ The woman stood at the counter with her red hands on the jar.
 
 Nobody answered her; the clerk looked at the ledger. Kiva thought about a can of civic stock in the Works' store, in the autumn, that somebody had found cut with soot and put down and nobody had taken up, and about a carter who kept his winter boots on the top shelf of a cupboard, and about thirty years of hard winters on the Levee end. She did not say any of it, because it was not hers to say to a woman in black at a counter.
 
-"We'll not buy it," said Anwen. "I'm sorry. I'd want it said that we're sorry."
+"We'll not buy it," said Anwen. "I'm sorry."
 
 "I'll not sell it, then." Mrs. Ottery put the lid back on with great care, and put the jar in her bag. "I'll not sell it to anybody. I'll put it back on his shelf." She went to the door. At the door she turned round. "He was a good carter," she said, and went out.
 
@@ -218,7 +218,7 @@ The room behind it was small, with a fire and two chairs and a window over the r
 
 Kiva felt her before she saw her face.
 
-She had been near a Blaze for a month. She had stood on a cinder floor while a Hunt Marshal drew back a ward over a cage with one hand, as one draws a curtain, and she had felt it from the rail like a stove from a doorway. This was not like that. There was nothing to feel from a doorway. The air in the small room was quite still and quite ordinary, and the fire burned in the grate, and the woman at the window was only a tall thin woman in grey with her hands folded at her waist.
+She had been near a Blaze for a fortnight. She had stood on a cinder floor while a Hunt Marshal drew back a ward over a cage with one hand, as one draws a curtain, and she had felt it from the rail like a stove from a doorway. This was not like that. There was nothing to feel from a doorway. The air in the small room was quite still and quite ordinary, and the fire burned in the grate, and the woman at the window was only a tall thin woman in grey with her hands folded at her waist.
 
 Kiva's doors lay down.
 
@@ -350,7 +350,7 @@ Then the roof went.
 
 It was not a roof. It was not the sky over a river valley in the second month, grey and white with the sun coming through it. It was nothing.
 
-She had known it would be. She knew it as she knew the order of her own doors. It came as it had come when she was thirteen and on Classification Day, all at once and from every side, and there was nothing over her at all; and the nothing was not empty, and it was not dark. It was enormous. It was paying attention.
+She had known it would be. She knew it as she knew the order of her own doors. It came as it had come when she was thirteen, and on Classification Day, and in the Pit, all at once and from every side, and there was nothing over her at all; and the nothing was not empty, and it was not dark. It was enormous. It was paying attention.
 
 There were roads. There were lights on them, going along them, a great many, unlike, from every side, small and far off and moving; and she was above them, as she always was, looking down.
 

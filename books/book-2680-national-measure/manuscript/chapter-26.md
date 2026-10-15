@@ -60,7 +60,7 @@ She did not say any of it. He knew it better than she did.
 
 Kiva looked at him for a long time.
 
-"Your ribs," she said. "Sprung in the autumn. Mended, Aske says, and telling you things. Twenty-two times your arms take eighty-five kilos and your own weight with the straps across your chest. One of them goes, likely. Perhaps two. Then you're on a ladder with a man on your back and nothing in your chest, and the water's coming up under you." She made herself go on. "And tomorrow's the Longshore. If they go today, you don't plant tomorrow. Not for us and not for anybody."
+"Your ribs," she said. "Sprung in the autumn. Mended, Aske says, and telling you things. Twenty-two times your arms take eighty-five kilos and your own weight with the straps across your chest. One of them goes, likely. Perhaps two. Then you're on a ladder with a man on your back and nothing in your chest, and the water's coming up under you." She made herself go on. "And Wednesday's the Longshore. If they go on Tuesday, you don't plant on Wednesday. Not for us and not for anybody."
 
 "Yes," said Perrin.
 

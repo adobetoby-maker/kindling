@@ -390,7 +390,7 @@ He turned to go. Then he turned back.
 
 Mr. Adlam found her on the way back along the Long Quay, at half past six, under the first of the white lamps.
 
-He came out of the door of the Counting House as she passed it, quite as if he had been waiting behind it, and fell into step with her. He was a thin grey man with a stoop and a habit of looking astonished, and he looked astonished now.
+He came out of the door of the Counting House as she passed it, quite as if he had been waiting behind it, and fell into step with her. He was a pleasant man of forty or so with a narrow gold cord at his cuff and a habit of looking astonished, and he looked astonished now.
 
 "Miss Rowan," he said. "I watched your four. From the far gallery. I've not seen a jacket drained at a Bench in sixteen years."
 

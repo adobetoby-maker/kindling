@@ -56,7 +56,7 @@ The Chair turned to the ledger and took up her pen and wrote, standing, at the f
 
 ---
 
-He was on the gallery at a quarter to seven, oiling the second pump, with his book of slacks in his jacket and his bad hand at his side.
+Hart was on the gallery at a quarter to seven, oiling the second pump, with his book of slacks in his jacket and his bad hand at his side.
 
 It was the middle of a neap ebb, and the basin was going out quietly under the sea gate, brown and slow. The six pumps went up and down on their stroke, and the thirty-six cells in their tall glass cases turned their lights together, four and four, and the whole hall hummed with it like a held note. Orla came up the iron stair a step at a time with her stick ringing on each tread, and he heard her at the bottom, and did not turn round until she was at the top.
 
@@ -186,7 +186,7 @@ Kiva sat very still at the far end of the table.
 
 "And you're certain," said the heavy Board member.
 
-"I'm sure of my reading," said the Proprietor. "I've been sure of it for seventy-seven years. I'm not certain I'm right." He said it quite simply, as he might have said the time. "Those are two different things, sir. I've been a clerk. I know the difference between a count and what it means." He turned his head and looked down the table at Kiva again. "Which is why I asked the Board to bring Miss Rowan. I'd like to ask her one question. Through the Board, if the Board allows it. She's not obliged to answer."
+"I'm sure of my reading," said the Proprietor. "I've been sure of it for seventy-six years. I'm not certain I'm right." He said it quite simply, as he might have said the time. "Those are two different things, sir. I've been a clerk. I know the difference between a count and what it means." He turned his head and looked down the table at Kiva again. "Which is why I asked the Board to bring Miss Rowan. I'd like to ask her one question. Through the Board, if the Board allows it. She's not obliged to answer."
 
 The Clerk looked at Kiva.
 

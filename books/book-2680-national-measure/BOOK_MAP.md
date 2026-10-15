@@ -2,7 +2,7 @@
 
 > Built by TAC
 
-Status: **planned, not drafted.** This map states intended change, pressure, and payoff. It is
+Status: **the plan, kept as the plan; the book is now drafted (chapters 1–48) and the surviving prose governs.** Departures from this map are recorded in the movement continuity and review files and in `STATE_LEDGER.md`. This map states intended change, pressure, and payoff. It is
 not a set of chapter contracts. The author owns scene selection, chapter boundaries, tactics,
 conversation, humor, and the route through each movement. Entry state is `STATE_LEDGER.md`.
 Everything here is `PLANNED` until surviving prose makes it canon.
@@ -85,6 +85,11 @@ an industrial house its oldest property.
 
 **What it does not settle** is whether the Proprietor was right. He has believed for
 seventy-seven years that stepped lamps are the ones that go white instead of out.
+
+Note, 2026-10-15 (whole-book repair, P4): the prose gives **seventy-six** years of belief (the reading formed a year after
+the window, ch. 39) at ch. 47:183 and 47:233; "seventy-seven years" stands where it counts from the window (ch. 47:225). Second repair, same
+day (D3): 39:189 is now seventy-six as well, so the three lines giving the reading's age are **39:189, 47:183 and 47:233**;
+39:145, 39:251 and 47:225 count from the window and stay at seventy-seven.
 
 **Kiva's cost.** The hand is gone to the wrist for three weeks and returns as before. What
 does not return is the rate: Aske's card now reads **one crossing in fourteen days.** Three

@@ -224,7 +224,7 @@ The near post was a stump. The mouth of the stow had hung between the near post 
 
 Its far end lifted.
 
-The closed end, the end furthest from the posts, came up off the mud. It came up in a long grey lip, streaming, frosting the mud as it left it. And it bent over, slowly, as a page turns. It was turning toward the nearest line. It was turning toward the first purse's line, and toward the girl on her knees at the end of it.
+The closed end, the end furthest from the posts, came up off the mud. It came up in a long grey lip, streaming, frosting the mud as it left it. And it bent over as a page turns. It was turning toward the nearest line. It was turning toward the first purse's line, and toward the girl on her knees at the end of it.
 
 Kiva let go of the line.
 

@@ -112,8 +112,6 @@ They stood back from the table, and Jude opened the book on his arm and wrote.
 
 "The most we've had since the hills." Jude did not look up. "I'd give it all back."
 
-Nobody said anything to that.
-
 At the next table along the boards, a man in Halden's black and gold was sitting with a ledger.
 
 Kiva had seen him from the queue and had not thought anything of it. Halden's technical office had a clerk at every board; Mr. Adlam had said so. He sat with his ledger open and wrote, and every time a bag on the comb table got a red tag, he leaned over and read the tag and wrote a line.
@@ -176,7 +174,7 @@ It was a day's tape off the mast, a long white strip, with eight lines running a
 
 "It's the neap," said Noa.
 
-Polglase did not answer that. He took his spectacles off and polished them.
+Polglase took his spectacles off and polished them.
 
 Kiva looked at the hair on the tape. Twelve forty-four.
 
@@ -432,7 +430,7 @@ Coombe stood at the counter with her hands on it. She did not sit down. Orla wat
 
 Orla looked at her stick.
 
-"I held a card a season," she said. "From a boy I put on a Bench twenty years ago, and never wrote to after. I didn't show it to anybody, in case I was wrong about him, and in case I was right." She did not look up. "The girl found him in a week. By walking down a quay."
+"I held a card ten days," she said. "From a boy I put on a Bench twenty years ago, and never wrote to after. I didn't show it to anybody, in case I was wrong about him, and in case I was right." She did not look up. "The girl found him in a week. By walking down a quay."
 
 Coombe turned her head.
 
@@ -440,7 +438,7 @@ Coombe turned her head.
 
 "He'd have read it," said Coombe. "He said so on the causeway this morning, in the queue, to anybody who'd listen. *When it's printed, I'll read it. I'm not one for reading.*" Her hands were still on the counter. "That's what I can't get past. He was going to read it."
 
-Orla did not answer that. There was no answer to it. She sat on the hard chair in the printer's shop with her bad knee out straight and listened to type being set in the dark, a letter at a time, small hard clicks, like somebody counting.
+There was no answer to that. Orla sat on the hard chair in the printer's shop with her bad knee out straight and listened to type being set in the dark, a letter at a time, small hard clicks, like somebody counting.
 
 After a while Coombe took her hands off the counter and picked up her rope. She began, slowly, to tie a knot in it.
 
@@ -462,7 +460,7 @@ She held her hand an inch from the glass. She could feel the count in it, throug
 
 "I'll not," she said.
 
-Hart did not say anything, but Peverell turned her head.
+Peverell turned her head.
 
 "I've been deciding for a fortnight," said Mara. "Whether to touch one. Rusk has asked me twice. You've asked me with your face every morning. Jessamy said on Monday night that somebody would have to, before the 23rd, or we'd be standing on the landing watching a ring we'd written down." She did not take her hand away from the glass. "He's right. Somebody will have to. Somebody will have to touch all thirty-six of them at once, on one word, at nine minutes past six, with the water still. If anybody's going to do it at all."
 
@@ -480,7 +478,7 @@ Peverell looked at her for a long time.
 
 "You'll be the keeper whose fitters read them," said Mara. "That's a different line in your book."
 
-Peverell said nothing. Then she took a pencil out of her apron pocket and a fold of the pump house's fault paper, and she began, slowly, in her small crabbed hand, to write names.
+Peverell took a pencil out of her apron pocket and a fold of the pump house's fault paper, and she began, slowly, in her small crabbed hand, to write names.
 
 Hart had not moved. Mara turned her head and looked at him.
 
@@ -586,7 +584,7 @@ Down the room, Aske turned over in his bed and said, without waking, or perhaps 
 
 Kiva blew out the candle.
 
-Outside the window, under the white lamps and the yellow ones and the dark, the town went on keeping its count. Four and four. Fifty-seven to the minute, or faster. On the Longshore the flood was at the top of its neap, quiet, over the flats and the creeks and Mallow Creek, over the place where a stow had stood and a man had knelt. In a shop on Quay Street a printer was setting a page, a letter at a time, with a dead man's name at the top of it. In a pump house a keeper was writing thirty-six names on fault paper. In a long tarred shed on the ridge, a girl with one door was walking up and down by lamplight, ten paces and back, learning to hear it.
+Outside the window, under the white lamps and the yellow ones and the dark, the town went on keeping its count. On the Longshore the flood was at the top of its neap, quiet, over the flats and the creeks and Mallow Creek, over the place where a stow had stood and a man had knelt. In a shop on Quay Street a printer was setting a page, a letter at a time, with a dead man's name at the top of it. In a pump house a keeper was writing thirty-six names on fault paper. In a long tarred shed on the ridge, a girl with one door was walking up and down by lamplight, ten paces and back, learning to hear it.
 
 The Measure went on. In the morning there would be the Lane.
 
@@ -594,4 +592,4 @@ She lay down in the dark with her bandaged hand on her chest and her warm hand a
 
 *It keeps time.*
 
-It was not a quarter to seven. It was not on purpose. She did not write it down.
+She did not write it down.

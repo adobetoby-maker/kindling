@@ -35,7 +35,7 @@ None is a review or repair.
   same afternoon); "the Monday/Tuesday of last week" for the coast night; Rhea's own beat cut by her two fours
   on her word.
 - ch. 32: Halden's second-line loss put to the pill by Bray (one remark, matching the board); Orla held Hart's
-  card "a season" (twenty years since the Bench); Coombe's source for "When it's printed, I'll read it" is
+  card "ten days" *(whole-book repair, 2026-10-15, W9; was "a season": she had it about ten days, Book One ch. 48 and 2:353)*; Coombe's source for "When it's printed, I'll read it" is
   Penhale himself in the causeway queue. *(repair)* Ch. 29 now has Penhale add "I've told half the causeway so"
   when he says it again to Kiva in the channel, so both sources stand: he said it twice.
 - **Section breaks:** at the end of the run, 22 `---` breaks that the draft had placed inside continuous
@@ -270,8 +270,8 @@ boards. The Lane, in brackets, from Thursday.* Every sum checks place by place (
 | **Ivey** (new) | Short, broad, square dark hands; catcher to Yeo's closing crew. Opened Penhale's fingers and turned him. Took Kiva's ten sheets and the pass sheet overnight to copy; will read them to Yeo's crew at six. Means to have a second. |
 | **Rhea Sorn** | Officer of Gannet Creek on the Hunt (Old Four; Westerley first); *Lives: none* at one o'clock. At the Company yard with Yeo at four. Advice for the season already spent; none given. Card ends on the 30th; one night left. "That's not advice. That's a thing I know about her." |
 | **Pike** | Came to sit at Gannet Creek; at the Company yard: "He did my place, that night… He had nobody at his far edge." Hands close halfway. |
-| **Dinah Coombe** | Drill at the causeway; late to Mallow as she said she would be; knelt with Yeo. **Had her page printed Wed night** with a new head line: *After D. Penhale, catcher, the Saltmere Company, at Mallow Creek… who went in by the book.* The Clerk's leave given at eight. Out by five on Thursday to every beat, van and catcher. |
-| **Orla Dane** | At the Bench gallery and the Hunt cart. Walked with Coombe from the causeway to the printer. Told Coombe she held Hart's card a season. Read Mon's book. |
+| **Dinah Coombe** | Drill at the causeway, with a new rope (Perrin keeps the old) *(whole-book repair, 2026-10-15, W18)*; late to Mallow as she said she would be; knelt with Yeo. **Had her page printed Wed night** with a new head line: *After D. Penhale, catcher, the Saltmere Company, at Mallow Creek… who went in by the book.* The Clerk's leave given at eight. Out by five on Thursday to every beat, van and catcher. |
+| **Orla Dane** | At the Bench gallery and the Hunt cart. Walked with Coombe from the causeway to the printer. Told Coombe she held Hart's card ten days *(whole-book repair, 2026-10-15, W9)*. Read Mon's book. |
 | **Mara Rowan** | Mon night with Hart (§9). **Wed night: decided not to read the bank herself — thirty-six hands, taught by the 22nd** (Peverell's fitters, six of the Works', Rusk's men, the Company's closing crews if Yeo lends them); Hart to teach the slack; she will stand on the landing with a watch and say *now*. Has still **not touched a cell**. |
 | **Jessamy Hart** | Showed Mara the springs/neaps record. "I'll teach your thirty-six… what quiet feels like." |
 | **Peverell** | Knew Penhale's mother (takes in washing in **Ropery Row**, below the high-water line). Began writing names on fault paper. "I'll not be the keeper who stopped the pumps." |
@@ -405,3 +405,14 @@ moved. Full record: `provenance/MOVEMENT-004-REPAIR.md`.
 
 The editorial review said this file's §1 had Kiva hearing of Skerry Pill "at three, at the gate". No such line
 was found here; the slip was the prose's (ch. 30), and that is now fixed.
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 25: Adlam "a pleasant man of forty or so" (WB-02). ch. 26: "Wednesday's the Longshore. If they go on Tuesday…" (WB-09).
+ch. 29: Coombe with "a new rope, half knotted already" (W18); the Clerk's "She did not look at a paper" cut (R16).
+ch. 31: Rhea's "eleven years" twice (WB-01); "a corner" (WB-18); two silence beats cut (R09, R10). ch. 32: Orla "held a
+card ten days" (W9); five silence beats cut (R11–R15); the movement's end no longer repeats ch. 24's refrain or its last
+three sentences (R07, R01): *It keeps time. / She did not write it down.* ch. 28, 30: "slowly" cut once each.

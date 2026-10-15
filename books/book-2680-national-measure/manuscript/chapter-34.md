@@ -158,7 +158,7 @@ Jude had not spoken. He was standing by the door with the book under his arm, sc
 
 Anwen got up off the coil of rope. She did not come round the counter. She put her hands flat on it, opposite Kiva's, as she put her hands on a card before she signed it.
 
-"I want it said too," she said. "When they look at you tomorrow, I'll be at your back with my wall up, and if anybody says a word on that floor that isn't about the litter, they'll be saying it to me." She did not go red. Anwen never went red. "And when you tell the Board, I'll be there. Not to say anything. To be there."
+"I want it said too," she said. "When they look at you tomorrow, I'll be at your back with my wall up, and if anybody says a word on that floor that isn't about the litter, they'll be saying it to me." She did not go red. "And when you tell the Board, I'll be there. Not to say anything. To be there."
 
 "So will I," said Pru. Then she went scarlet all over again. "I'd like to see Halden's face."
 

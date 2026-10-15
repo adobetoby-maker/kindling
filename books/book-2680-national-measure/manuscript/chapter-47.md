@@ -46,7 +46,7 @@ Nothing. The iron was under it, she supposed. She could see it was. She could no
 
 "I've done it every day since the 13th."
 
-"I know. You wrote *yes* every morning. Then yesterday you wrote *no answer.*" He did not look at her. "Your aunt told me. She tells me what's in your book, sometimes, when she's tired, and then she's angry with herself for it." He was quiet. "You'll be wanting to stop. For three weeks. Because there's no answer, and it seems foolish to lay a dead hand on a rail at a quarter to seven and write down that it's dead."
+"I know. You wrote *yes* every day. Then yesterday you wrote *no answer.*" He did not look at her. "Your aunt told me. She tells me what's in your book, sometimes, when she's tired, and then she's angry with herself for it." He was quiet. "You'll be wanting to stop. For three weeks. Because there's no answer, and it seems foolish to lay a dead hand on a rail at a quarter to seven and write down that it's dead."
 
 Kiva did not say anything.
 
@@ -144,7 +144,7 @@ Jude had come round the half circle and was reading over her shoulder, as he alw
 
 The Charter Board sat in the Salt Hall at two on Friday afternoon, and every seat was taken, and the gallery was full to the rail.
 
-Kiva sat on the third bench with Seven. Perrin at the end with his hand pressed to his side, Anwen, Jude, Pru, herself, with her left hand in her lap under her right. Behind them, the Ropewalk. Behind them, Twenty-Eight, with Bannock sitting very carefully on the end of the bench with his legs out straight in front of him in bandages, because Aske had said Friday and it was Friday. At the front, at the long table under the windows, the Clerk sat with the two Board members, and the Chair at the end with her ledger, and the Harbour Committee's chairman on his own bench with his gold watch in his hand.
+Kiva sat on the third bench with Seven. Perrin at the end, Anwen, Jude, Pru, herself, with her left hand in her lap under her right. Behind them, the Ropewalk. Behind them, Twenty-Eight, with Bannock sitting very carefully on the end of the bench with his legs out straight in front of him in bandages, because Aske had said Friday and it was Friday. At the front, at the long table under the windows, the Clerk sat with the two Board members, and the Chair at the end with her ledger, and the Harbour Committee's chairman on his own bench with his gold watch in his hand.
 
 Halden's counsel sat at the end of the first bench with a folder. The Proprietor was not there. Kellan sat behind counsel in his black and gold with a sheet of figures on his knee, and Adlam beside him.
 
@@ -180,11 +180,11 @@ Halden's counsel stood up at the end of the first bench.
 
 "The foundation will not contest the order," he said. His voice was neat and dry, and it was, Kiva thought, very tired. "I'm instructed to say so. I'm instructed to say that the foundation's yards, refineries and lift yards will remain stepped, as they are the foundation's own and not the country's, and that the Board's order does not reach them, and that the foundation does not ask it to."
 
-He looked at the Clerk. "And I'm instructed by the Proprietor to say one thing in his own words, which I've written down so that I'll not improve it." He read from a slip. "*I am not certain I was wrong. I believed for seventy-seven years that the lamps that keep time together are the ones that go white instead of out. On Wednesday they did neither. I do not know what they did. Nor does the Board. I would ask the Board not to say in its order that I was wrong, because it doesn't know that either.*" He folded the slip. "That's all, ma'am."
+He looked at the Clerk. "And I'm instructed by the Proprietor to say one thing in his own words, which I've written down so that I'll not improve it." He read from a slip. "*I am not certain I was wrong. I believed for seventy-six years that the lamps that keep time together are the ones that go white instead of out. On Wednesday they did neither. I do not know what they did. Nor does the Board. I would ask the Board not to say in its order that I was wrong, because it doesn't know that either.*" He folded the slip. "That's all, ma'am."
 
-The Clerk looked at him for a long moment.
+The Clerk looked at him.
 
-"The Board doesn't say he was wrong," she said. "The Board says it doesn't know, and that a country that doesn't know shouldn't be one engine while it finds out." Something moved at the corner of her mouth, and was gone. "That's the Works' reading. It's the only one in this hall that isn't a reading of what's coming. It's a reading of what to do in the meantime." She folded her hands. "Write that the Board heard Mr. Halden, and that it doesn't say he was wrong, and that it doesn't say he was right, and that it orders the banks on their own counts anyway, because a fitter's rule is all it's got."
+"The Board doesn't say he was wrong," she said. "The Board says it doesn't know, and that a country that doesn't know shouldn't be one engine while it finds out. That's the Works' reading. It's the only one in this hall that isn't a reading of what's coming. It's a reading of what to do in the meantime." She folded her hands. "Write that the Board heard Mr. Halden, and that it doesn't say he was wrong, and that it doesn't say he was right, and that it orders the banks on their own counts anyway, because a fitter's rule is all it's got."
 
 The heavy Board member pushed his spectacles up onto his forehead.
 
@@ -192,7 +192,7 @@ The heavy Board member pushed his spectacles up onto his forehead.
 
 "Yes," said the Clerk. "That's the price. It was said first. The Board rises."
 
-On the Harbour Committee's bench the chairman had opened his gold watch and was looking at it. He looked at it for a long time. Then he shut it and put it in his pocket, and Kiva saw that he had not looked at the time at all. He had only wanted to hold something.
+On the Harbour Committee's bench the chairman had opened his gold watch and was looking at it. Then he shut it and put it in his pocket, and Kiva saw that he had not looked at the time at all. He had only wanted to hold something.
 
 ---
 
@@ -220,7 +220,7 @@ She did not go to the far chair. She stopped halfway down the table, with the wi
 
 "Yes. I'd imagine that's the case." He looked at the glass case beside him, at the print on it and the slow uneven light under it. "It's its own now. The first. I put my hand back on it on Wednesday night, when they'd carried me home, to see. It didn't come back to me. It went on doing that." He watched the light go round, three and a pause and two. "I've decided to leave it on the table where I can see it. The foundation would like me to put it in the vault. I've said no."
 
-Kiva did not say anything.
+Kiva waited.
 
 "I asked you here for nothing," said the Proprietor, "and I'll keep to that. I'll not ask you anything. I'd only like to say one thing to you, because you're the only person who's sat at this table who saw what I saw from that window, and you'll understand it, and nobody else will." He looked at her. "On Wednesday at twenty-two minutes past six, every lamp I could see from the outfall walk went to a point. Not white. Not out. A point." He was quiet. "I've waited seventy-seven years to see the lamps do it again. White or out. I've arranged my whole house and half the country so that when they did, they'd go white. And they did neither. They did a thing I hadn't got a word for."
 
@@ -230,7 +230,7 @@ She knew what he was not asking. She had heard him read Annick in a Board's evid
 
 "I don't know what they did either," said Kiva.
 
-"No." The Proprietor smiled then. It was not his short real laugh. It was smaller, and it stayed. "I've believed one thing for seventy-seven years, Miss Rowan. I believe it still. Some go white and some go out, and I'd still sooner they went white. I'm not certain I was wrong. I'm only certain I let go." He looked at his hand on the wood. "That's a different thing to be certain of. I'd not have thought, at a hundred and three, that I'd find a new thing to be certain of."
+"No." The Proprietor smiled then. It was not his short real laugh. It was smaller, and it stayed. "I've believed one thing for seventy-six years, Miss Rowan. I believe it still. Some go white and some go out, and I'd still sooner they went white. I'm not certain I was wrong. I'm only certain I let go." He looked at his hand on the wood. "That's a different thing to be certain of. I'd not have thought, at a hundred and three, that I'd find a new thing to be certain of."
 
 They sat for a while. The fire ticked. The cell in the glass case went round, three and a pause and two.
 
@@ -250,7 +250,7 @@ Kiva gave it back.
 
 "You said no twice," she said.
 
-"I said no to counsel twice. Twice to a card with a line on the back that said *given through the foundation's counsel, as the foundation's.*" Kellan turned the card over. There was nothing on the back. "This one hasn't got a back."
+"I said no at his table, and I said no to counsel, on a card with a line on the back that said *given through the foundation's counsel, as the foundation's.*" Kellan turned the card over. There was nothing on the back. "This one hasn't got a back."
 
 "And you'll say yes."
 
@@ -264,7 +264,7 @@ He looked at the sea. "My mother's a grader. She says the worst thing you can do
 
 "And Seven."
 
-"Seven's going four ways," said Kellan. "I was only ever on its book as a blade who's told where he's wanted." He nearly smiled. "I was told where I was wanted, and went. Every time."
+"Seven's going four ways," said Kellan. "I was only ever on its book as a blade who's told where he's wanted. I was told where I was wanted, and went. Every time."
 
 ---
 
@@ -338,7 +338,7 @@ He did not look at her. He went on calling the hem in, low, in the old words, an
 
 Then he looked at her.
 
-"You'd your mouth shut the whole time," he said. "Till the far end. Then two words." His long brown face did the thing it did. It went the whole way, this time. Kiva had never seen it go the whole way. It was a smile. "That's a second. I'd not had a better."
+"You'd your mouth shut the whole time," he said. "Till the far end. Then two words." His square grey face did the thing it did. It went the whole way, this time. Kiva had never seen it go the whole way. It was a smile. "That's a second. I'd not had a better."
 
 "You were mine on Wednesday."
 

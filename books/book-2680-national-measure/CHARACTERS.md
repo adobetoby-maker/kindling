@@ -35,6 +35,14 @@ has no name yet; the author names it at need, after a registry check, and record
 | **Examiner Rusk, Lumb, A. Renn, Halloran, the Reader** | Works, pump house, grading, shelf, Library | — | Rusk and A. Renn travel. Lumb's notion becomes a national reading. Halloran keeps her shelf. |
 | **Wilf Marten, Wace, Hendry Moss, Gower, Edda, Hesketh, Yarrow, Pettit, Foreman Birch** | The other Meridian fours | — | They go to Saltmere. Some stand in the cohort at the Slack. |
 
+Note, 2026-10-15 (whole-book repair), descriptors as the prose now holds them: **Pike** has a square grey face (Book One's
+"square head"; Movement Six's "long brown face" corrected four times). **Mr. Adlam** is pleasant and about forty, with a narrow
+gold cord at his cuff (Book One ch. 26; Book Two 21:403, 25:393). **Maud Lyle** has a square, careful face (17:341; 42:179).
+**Shapter** (she) is Team Twenty-Eight's Hold, a ward, a tall fair girl; first named "Sedge" in Movement Five and renamed
+because Book One's Kiln warden is Sedge. Pettit's and Yarrow's doors differ from Book One's (Pettit an Ember blade there, a
+still door here; Yarrow a still door there, a hand door here); this is an owner item, unchanged (see
+`provenance/WHOLE-BOOK-REPAIR.md`).
+
 ## New for Book Two (names pending owner review)
 
 | Name or role | Function | Independent want | Note |

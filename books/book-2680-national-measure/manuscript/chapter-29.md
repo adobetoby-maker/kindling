@@ -46,11 +46,11 @@ Coombe came along the causeway at a quarter to eight in her grey Board coat, wit
 
 Kiva had not seen her since the second month. She looked exactly the same. She walked as if the causeway were a quay she was counting heads on, and her pale eyes went over the fours in their colours one after another without stopping on any of them. She stopped at the comb table. The Clerk was there, in her own grey coat with the gold chain, and they did not greet each other. They stood side by side, two women in the Board's grey, and the Clerk read the rules.
 
-"The Hunt," said the Clerk. "The third board. Twelve beats on the Longshore, two fours to a beat, one officer to each, by the Board's draw. A four works on its officer's word and on nothing else. Nothing is lit without it. Nothing is cut without it. A four does not go onto the mud below a form on running water, but on its officer's word. A person down on the mud is the officer's crew's; the fours stand off. Students close no tear." She did not look at a paper. "Every bag is combed at the gate. A four is marked on its quarter of its clean yield, after the Board's half and the officer's company's quarter, and less a dram on the mark for every remark on its officer's slate. The Hunt closes at three, or when the flood is over the flats, whichever comes first."
+"The Hunt," said the Clerk. "The third board. Twelve beats on the Longshore, two fours to a beat, one officer to each, by the Board's draw. A four works on its officer's word and on nothing else. Nothing is lit without it. Nothing is cut without it. A four does not go onto the mud below a form on running water, but on its officer's word. A person down on the mud is the officer's crew's; the fours stand off. Students close no tear. Every bag is combed at the gate. A four is marked on its quarter of its clean yield, after the Board's half and the officer's company's quarter, and less a dram on the mark for every remark on its officer's slate. The Hunt closes at three, or when the flood is over the flats, whichever comes first."
 
 She stepped back. It was Coombe's turn.
 
-Coombe did not step forward. She stood where she was by the comb table with her rope, and she began to tie a knot in it, and while she tied it she spoke.
+Coombe did not step forward. She stood where she was by the comb table with a new rope, half knotted already, and she began to tie a knot in it, and while she tied it she spoke.
 
 "Who has your far edge?" she said.
 

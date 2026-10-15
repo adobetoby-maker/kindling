@@ -545,7 +545,9 @@ which Thursday's hand checks are told. Those lines are marked *(repair)* below. 
   (sixth), on every pen. Meridian: eleven, after a second cliff only. Unexplained; "a coast thing."
 - **The two fingers:** say *keeps time* everywhere in Saltmere; say **nothing at slack** (Gannet Creek; the
   basin grating) and report the slack's end before the water moves. **Hart's method begun:** same question,
-  same hour (a quarter to seven), yes or no; first entry Sun 13th: yes.
+  same hour, yes or no; first entry Sun 13th: yes. **The hour, recorded once here** *(whole-book repair, 2026-10-15, W11)*: a quarter to
+  seven in the **evening** from Sun 13th to Sun 20th (24:319; Sunday's written by Pru); a quarter to seven in the
+  **morning** from Mon 21st (41:3). The later blocks give the hour without restating this.
 - **The disk:** cold every time, including on the Proprietor's table. Fourth-column lines for both crossings.
 - **Fever, Friday the 11th** after the Counting House: to 112, broke about three; **no dream.** Aske's card:
   *Fever, the second this year. Both near a Glory master, within the day.* Kiva said aloud, "Nothing came."
@@ -752,7 +754,7 @@ midnight on Wednesday the 16th.
 |---|---|
 | **Yeo** | Officer at Mallow; told Bridie "by the book" it was ground; carries it. Decided the pass. *Remarks: none, to any four.* Wants Kiva's columns for her crew. *(repair)* Her slate records the turn "at a quarter to one, in the slack"; the seven minutes are in her words to Coombe and in Noa's ledger. |
 | **Ivey** (new) | Company catcher to Yeo's closing crew; copying Kiva's columns; means to have a second. |
-| **Coombe** | Drill at the causeway ("Who has your far edge?"). Had her page printed Wed night, headed with Penhale's name, by the Clerk's leave; out Thursday at five. *(repair)* Heard Penhale say "When it's printed, I'll read it" in the causeway queue; he said it again to Kiva in the channel ("I've told half the causeway so"). |
+| **Coombe** | Drill at the causeway ("Who has your far edge?"); ties a new rope at the comb table (29:53; Perrin keeps the old) *(whole-book repair, 2026-10-15, W18)*. Had her page printed Wed night, headed with Penhale's name, by the Clerk's leave; out Thursday at five. *(repair)* Heard Penhale say "When it's printed, I'll read it" in the causeway queue; he said it again to Kiva in the channel ("I've told half the causeway so"). |
 | **Rhea Sorn** | Hunt officer at Gannet Creek (*Lives: none*). With Yeo at the Company yard. One night left; card ends the 30th. |
 | **Pike** | "He had nobody at his far edge." |
 | **Mara Rowan** | Has **not touched a cell**. Decided Wed night: **thirty-six hands, taught by the 22nd, not hers**; Hart to teach the slack; she says *now* from the landing. |
@@ -918,12 +920,12 @@ midnight on Sunday the 20th.
 | Person | State |
 |---|---|
 | **The Proprietor** | Testified under his name that he dreamed it (2604; eleven times since; last the 17th of the ninth month 2680, evening). His reading formed a year after the window, at twenty-seven *(repair)*. Read Annick in 2610 (the 2611 settlement followed). "Sure of my reading… not certain I'm right." Asked Kiva only "Were any of the lights white?" about the ferry (no source cited) *(repair)*. Left hand never lifted. |
-| **Clemency Thrale** | In Saltmere from Sat 4.50 p.m.; lodges in the Company's watch hut at the Mole's end; an hour at a time in the town; testified (dreamed it three times: at nineteen; 2670; 17th ninth month 2680 at 2.20 p.m.); her reading: one door, one quiet thing, let nothing in that asks. Kiva's doors lie down at forty paces. |
+| **Clemency Thrale** | In Saltmere from Sat 4.50 p.m.; lodges in the Company's watch hut at the Mole's end; an hour at a time in the town; testified (dreamed it three times: at nineteen; 2670; 17th ninth month 2680 at 2.20 p.m.); her reading: one door, one quiet thing, let nothing in that asks. Kiva's doors lie down at forty paces; in the Graving they lay down as she passed the bench and got up as she walked on to the gate, three hundred paces off, and Kiva held her own heat off for the hour *(whole-book repair, 2026-10-15, W5)*. |
 | **Mara Rowan** | Took the national risk on her name (Fri). Sent the wires; broke the seal with Kiva; read the page aloud. "Don't be one engine." Has not touched a bank cell *(repair; she lays her reading hand on the training cells in the keeper's room)*; teaching the thirty-six in three twelves. Knows there was a white she wasn't told and a thing with no word she hasn't been told. |
 | **Orla Dane** | One true sentence each with Hart (Sun 6.45 a.m.); nothing mended. Asked the Chair to strike her line when no longer needed. |
 | **Jessamy Hart** | Spoke under his name at the Salt Hall ("ruined… the one that reads"). |
 | **Peverell** | "The keeper who let it be tried." Thirty-six names on fault paper, not hers. |
-| **Kellan Renn** | Read his figures under his own name (1,106/1,102/4; 412.4/371.3/41.1; 109 drams 2391–2600; 1,175.1 in 2680). Halden second by two marks. |
+| **Kellan Renn** | Read his figures under his own name (1,106/1,102/4; 4,647.2/4,181.2/466.0, and 4,181.2 claimed *(whole-book repair, 2026-10-15, W2; was 412.4/371.3/41.1, which the Hunt board's own rule could not hold)*; 109 drams 2391–2600; 1,175.1 in 2680). Halden second by two marks. |
 | **Mr. Adlam** | Read the bench books (48, 48, 50, 55, 57). |
 | **Noa Bexley** | Fourth column (ash). Wired the Holloway warden himself. Two hairs (12.44 Wed; 12.52 a.m. Thu, as a tear shut); no line. |
 | **Selka Dray** | Read on the mast at her own request; beat Kiva in the exchange; "the fairest lane I've ever lost." Twenty-Eight on the roll by the tie. "Wednesday… I'll be there. On my feet." Not a friend. |
@@ -946,7 +948,7 @@ midnight on Sunday the 20th.
 
 ### M5.9 New names (pending owner review)
 
-Mr. Tregear (the Board's printer); Sedge and Bannock (Team Twenty-Eight); Lavinia (the Reader's given name).
+Mr. Tregear (the Board's printer); **Shapter** and Bannock (Team Twenty-Eight) *(whole-book repair, 2026-10-15, W16: Twenty-Eight's Hold was "Sedge", which collides with Book One's Kiln warden; renamed at all sixteen places)*; Lavinia (the Reader's given name).
 
 ### M5.10 Dates ahead
 
@@ -957,6 +959,8 @@ fourth month.
 ---
 
 ## Movement Six block — chapters 41–48 (first draft, 2026-10-15)
+
+**Whole-book pass (2026-10-15).** After the whole-book review, repair and recheck (`provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md`) the following changed in the prose and are reflected in the blocks above where noted: the sealed page records the Pit (not thirteen and Classification Day alone); Kellan's Hunt figures are 4,647.2 combed / 4,181.2 red / 466.0 clean; Twenty-Eight's Hold is **Shapter** (was Sedge); the first Barrel weighs 686.4 drams; the Proprietor's reading is seventy-six years old; Pike's face is square and grey; Adlam is about forty; Rhea has been an officer eleven years; the yes/no hour is the morning quarter to seven from Monday the 21st; Yeo told Mrs. Penhale on Wednesday night. The deferred W4 (Pettit and Yarrow against Book One) is an owner item.
 
 Status: **from first-draft prose; reconciled 2026-10-15 to the consolidated same-author repair**
 (`provenance/MOVEMENT-006-REPAIR.md`; lines it changed are marked *(repair)*). **Rechecked (fresh-context, same family, job `22f7111d`), bounded second repair made, accepted as editorial context 2026-10-15 (`provenance/MOVEMENT-006-RECHECK-CONFIRMATION.md`). The book's last
@@ -970,7 +974,8 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 - Seventeen; seated; **unclassified** (no column made). **Certificate in her own name:** the Chair struck Orla Dane's
   sponsor's line on Wednesday the 23rd at four, *on evidence* (the first crossing below); the conditions stand as written;
   her book goes weekly to the Chair.
-- **Crossings:** the seventh, Wed 23rd, 6.11.40, Ember to still, at the Graving's sill (planted into the sill's tested granite,
+- **Crossings** (Aske's numbering, which counts from the hand-to-Ember series; they are **the eighth and ninth crossings in Book
+  Two** *(whole-book repair, 2026-10-15)*): the seventh, Wed 23rd, 6.11.40, Ember to still, at the Graving's sill (planted into the sill's tested granite,
   Kiva at its outer edge, Wace a pace in *(repair)*), read by N. Bexley at the Board's lane
   mast, declared by Cade at six: **inside her certificate.** The eighth, 6.14.50, Ember to still, at M3 inside the dock, **the
   second in the hour, against her healer's card**, the price said first by Aske (Monday; and at 6.13 inside a ten-count),
@@ -984,7 +989,7 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 - No fever after the Slack (*Two masters, and touching, and nothing*).
 - **The disk: cold throughout**, including at 6.22 and at the hull. Fourth-column lines: *Cold. Both. As before.* (Wed);
   *The disk is cold.* (Thu 1st).
-- **Yes/no log:** Mon *yes*; from Wed 23rd *no answer* (kept daily on Hart's method, at a quarter to seven; on Thu 1st the
+- **Yes/no log:** Mon *yes*; from Wed 23rd *no answer* (kept daily on Hart's method, at a quarter to seven in the morning from Mon 21st, see M3.1; on Thu 1st the
   morning's hour was let go by at Anwen's van and the evening's taken instead *(repair)*).
 - The seventh crossing's forecast cold never began; the second took it with it ("one bill, not two", Aske) *(repair)*.
 - Read a count through her still door for the first time (at the cut).
@@ -1030,7 +1035,7 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 - **The prediction (opened noon Wed; sealed twelve days before *(repair)*):** 6.08 (in the limits; a minute off); 23 minutes,
   not clean (wrong); 4 ft 11 (right); 57 (right); "lie down" not tested by design; "nothing else" wrong once by the hand on
   the grating and twice by the operation's own doing *(repair)*. Not on the page: the point of light.
-- **Ledger:** the Order's 36 jars into 36 cells (cellar: **4**). The purse: **286.4 drams, all red**, held by the Board as
+- **Ledger:** the Order's 36 jars into 36 cells (cellar: **4**). The purse: **686.4 drams, all red** *(whole-book repair, 2026-10-15, P3; was 286.4, under the Flask scale of ch. 2:71)*, held by the Board as
   evidence; **no claim; no share paid.** Thirty-six old cans boxed red as evidence. Kiva's crossings on the Board's ash.
 
 ### M6.4 Rulings
@@ -1108,4 +1113,5 @@ The colour "brushed twice" (ch. 45; ch. 48); the certificate precedent (the seco
 the new interaction properties (reading a count through the still door; "one hold"; Thrale's ward holding water and the
 flood; packs keeping no count after the bank came out; no fever after two masters touching); the bible's §6 revised in-world
 (the caller need not have crossed); Hollis Vane's absence from the Slack; whether the sentence targets govern dialogue; the
-progression shape and density. See `provenance/MOVEMENT-006-REPAIR.md` §8.
+progression shape and density. See `provenance/MOVEMENT-006-REPAIR.md` §8. The whole-book repair's corrections and its owner
+items (Pettit and Yarrow against Book One, among them) are in `provenance/WHOLE-BOOK-REPAIR.md`.

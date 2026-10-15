@@ -1,10 +1,10 @@
 # Chapter 41 — Kiva: A Full Bucket
 
-At a quarter to seven on Monday morning Kiva laid the first two fingers of her left hand on the iron latch of the loft's north window, because it was the nearest thing and she could not yet stand up for long enough to reach anything else.
+At a quarter to seven on Monday morning Kiva laid the first two fingers of her left hand on the iron latch of the loft's north window, because it was the nearest thing and she could not yet stand up for long enough to reach anything else. She meant to keep the morning's quarter to seven from now on; Sunday evening's had been Pru's, written for her.
 
 *It keeps time.*
 
-It came up through the latch from the frame, and through the frame from the wall, and through the wall from the chandlery and the quay and the black water under the quay. Four and four. Fifty-seven to the minute, or faster. It was the same answer it had given every morning since Hart had taught her to ask, and she found she was glad of it, the way a person is glad to find the stair where she left it in the dark.
+It came up through the latch from the frame, and through the frame from the wall, and through the wall from the chandlery and the quay and the black water under the quay. Four and four. Fifty-seven to the minute, or faster. It was the same answer it had given every day since Hart had taught her to ask, and she found she was glad of it, the way a person is glad to find the stair where she left it in the dark.
 
 She wrote it in her book with her left hand, badly. *Monday the 21st. A quarter to seven. The north window latch. Yes.*
 
@@ -110,7 +110,7 @@ When Seven came to the table, Perrin signed first, because he was the captain. H
 
 "Then write what you'll do," said the clerk, not unkindly.
 
-Perrin wrote: *To declare for the four, and keep the brake. Not on the mud.* He handed the pen to Anwen. She signed without saying anything, and so did Jude, who wrote *Talley* with his left hand for the first time in a week, because Aske had said Monday, and it was Monday. Pru went scarlet at the table, for no reason anybody could see, and wrote *Finch* very small.
+Perrin wrote: *To declare for the four, and keep the brake. Not on the mud.* He handed the pen to Anwen. She signed without saying anything, and so did Jude, who steadied the sheet with his left hand while he wrote *Talley,* because Aske had said Monday, and it was Monday. Pru went scarlet at the table, for no reason anybody could see, and wrote *Finch* very small.
 
 Kiva signed last.
 
@@ -122,7 +122,7 @@ The clerk read it and blotted it.
 
 Behind them in the queue somebody had come along the boards without a stick.
 
-Selka Dray signed under Twenty-Eight's name, after Marten and Sedge and Bannock. She wrote her own name, standing, with her weight on the healed leg, and she did not write anything after it, because Dray never had. Then she turned round and found Kiva still beside the table.
+Selka Dray signed under Twenty-Eight's name, after Marten and Shapter and Bannock. She wrote her own name, standing, with her weight on the healed leg, and she did not write anything after it, because Dray never had. Then she turned round and found Kiva still beside the table.
 
 "Wednesday," said Dray.
 
@@ -246,7 +246,7 @@ They all looked at Kiva.
 
 She had known they would. She had thought about it since a ferry and a fever and a creek with a man's boot sticking out from under a fold, and she had known since Thursday what she would say, and she found now that saying it at a table in the middle of six iron pumps was not the same as knowing it on a bench.
 
-"Nobody carries it far," she said. "That's the whole of it. Nobody holds it long enough for it to fold on them." She put her left hand on the table, flat, the way Anwen put her hands on a card. "It's the pass. Catch, carry, plant. Three people with unlike doors, and somebody to call the pass who's been inside both gaps. We did it on a yard in the second month. We did it at Mallow Creek with a sleeve ten paces long, and it held. This is bigger. So it's not three people. It's three planks. Wards together for the catch. Embers together for the carry. Still doors together for the plant."
+"Nobody carries it far," she said. "That's the whole of it. Nobody holds it long enough for it to fold on them." She put her left hand on the table, flat, the way Anwen put her hands on a card. "It's the pass. Catch, carry, plant. Three people with unlike doors, and somebody to call the pass who's been inside both gaps. We did it on a yard in the second month. We did it at Mallow Creek with a sleeve ten paces long, and it held. This is bigger. So it's not three people. It's three planks: like doors on one load, not two still doors on a patch of ground. Wards together for the catch. Embers together for the carry. Still doors together for the plant."
 
 She looked at Yeo's lines in the dust. "And it's not one pass. A carry can't go the whole way with a thing like that on its fists. On one pair of fists it'll start to unfold by twenty paces. On two, with a count, by fifty, maybe. So it's three passes, and none of them longer than fifty. Off the water to a mark on the mud. From the mud to the sill. From the sill to the plant, past the Master's forty."
 
@@ -288,7 +288,7 @@ They went on. They went through the planks name by name, who had which door and 
 
 What was nearest to a cask full of water, it turned out, was a cask full of water.
 
-The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop. Then they nailed a plank across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful.
+The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop. Then they nailed a board across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful.
 
 "It's not right," said Brask, looking at it. "It's got a bottom."
 
@@ -298,17 +298,17 @@ They began at a quarter past two, with the tiers empty above them and the iron a
 
 It went badly in a way Kiva had not foreseen, and it took her most of that hour to see why.
 
-The catch was not the trouble. Four wards came up together under the tun's foot, Anwen's and Edda's and Hesketh's and Sedge's, silver and low, and lifted it an inch off the stone, and held. That was good. The carry was not the trouble either. Jude and Gower stood behind the wards with their edges lit on their right fists, and when the word came they took the weight on the bars and walked it, slow and steady, ten paces down the floor, with the water slopping at the top hoop. And the plant was not the trouble. Brask and Tolver were still doors, and they stood square on the chalk with their hands open, and when the word came their doors went down into the stone and the tun came down onto them and stood.
+The catch was not the trouble. Four wards came up together under the tun's foot, Anwen's and Edda's and Hesketh's and Shapter's, silver and low, and lifted it an inch off the stone, and held. That was good. The carry was not the trouble either. Jude and Gower stood behind the wards with their edges lit on their right fists, and when the word came they took the weight on the bars and walked it, slow and steady, ten paces down the floor, with the water slopping at the top hoop. And the plant was not the trouble. Brask and Tolver were still doors, and they stood square on the chalk with their hands open, and when the word came their doors went down into the stone and the tun came down onto them and stood.
 
 The trouble was the word.
 
 "*Nobody,*" said Kiva, the first time, short, with the swallow, the way she had said it at Mallow Creek.
 
-Anwen's wards opened. Edda's opened. Hesketh's opened, half a count late. And Sedge's did not open at all. It held on under the tun's foot, alone, a quarter count and then a half, and the tun tipped on it, and slopped a bucket of the Company's water over Sedge's boots and Jude's, and Gower swore.
+Anwen's wards opened. Edda's opened. Hesketh's opened, half a count late. And Shapter's did not open at all. It held on under the tun's foot, alone, a quarter count and then a half, and the tun tipped on it, and slopped a bucket of the Company's water over Shapter's boots and Jude's, and Gower swore.
 
 "Again," said Coombe, from her step on the bottom tier.
 
-They did it again. This time Sedge opened on the word and Hesketh held. The third time, Hesketh and Sedge both opened and Edda held, because she had been watching the other two and not listening.
+They did it again. This time Shapter opened on the word and Hesketh held. The third time, Hesketh and Shapter both opened and Edda held, because she had been watching the other two and not listening.
 
 On the next pass it was the carry. Treen and Pru and Marten and Yarrow, the catchers' plank, caught the tun from Brask and Tolver's plant, and Kiva called the pass to the Pascoes, who were brother and sister from Holloway, both Embers, both tall and fair and both very silent. And Treen held. Treen held on under the tun a full count after the word, with her ward low at her hip and her quick dark face set, and the Pascoes' edges were under it as well, and for a full count the tun belonged to two planks at once. It did not slop. It went perfectly steady. Treen looked up, pleased.
 
@@ -316,7 +316,7 @@ On the next pass it was the carry. Treen and Pru and Marten and Yarrow, the catc
 
 "It held," said Treen.
 
-"It held because it's a tun with a plank nailed under it." Kiva heard her own voice and made it plainer. "The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page." She did not look at Coombe. "The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to."
+"It held because it's a tun with a board nailed under it." Kiva heard her own voice and made it plainer. "The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page." She did not look at Coombe. "The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to."
 
 Treen did not answer. But she had gone, Kiva saw, a little pale under the wind-brown.
 

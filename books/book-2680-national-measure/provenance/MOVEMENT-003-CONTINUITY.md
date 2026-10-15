@@ -82,7 +82,7 @@ The third month: Tuesday the 1st to Wednesday the 30th. Perrin's count to the Be
   cliff. Noa draws no line. Polglase: "the harbour" / "a coast thing," then "I've no idea."
 - **The two fingers:** a bollard, a purse pole, a grating, a banister — *keeps time*. **At slack** (Gannet
   Creek and the basin grating) they say **nothing**, and they report the slack's end before the water
-  visibly moves. **Hart's method adopted:** same question, same hour (a quarter to seven), yes or no,
+  visibly moves. **Hart's method adopted:** same question, same hour (a quarter to seven in the evening; from Mon 21st in the morning, *(whole-book repair, 2026-10-15, W11)*), yes or no,
   never *what*; first entry Sun 13th, *yes*.
 - **The disk:** cold at every look, including on the Proprietor's table and through the fever.
   Fourth-column lines after the fifth (*Cold. As before.*) and the sixth (*Certified. Cold. As before.*).
@@ -409,3 +409,14 @@ not covered above:
 - Whether the sentence targets govern dialogue, and how long a read-aloud "long" sentence may be.
 - The front-load progression arithmetic.
 - `BOOK_MAP` §12 now carries a dated note that Rhea went short in Movement Three, as the packet authorised (C17).
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 17: Halden License came by transit "the night before" (W6); the clerk's soot-cut jar is "the third I've heard of since
+the new year" (W8). ch. 19: "a winter" since the fingers (W14); the 19:391 section opens "when Orla got there" (WB-14);
+"slowly" cut at 19:15. ch. 20: Rhea's catcher "for eleven years" (WB-01); "The Company man on the third line" (WB-16).
+ch. 21: Mara's memory now has the sealed page record the Pit (W1). ch. 22: Kellan's "heart going slowly" (third in five
+lines) cut. The yes/no hour recorded inline (W11).

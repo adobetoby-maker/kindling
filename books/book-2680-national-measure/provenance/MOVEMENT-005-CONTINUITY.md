@@ -123,8 +123,8 @@ Committee's midnight deadline (to go to the magistrate in the morning); the Boar
   *57* (the harbour bank, by his watch). "The count isn't the foundation's. It's got quicker." Leaves them on the table.
 - **Kellan's figures, under his own name:** combed at the gate 1st–16th: **1,106 tins, jars and bags; seventh reed sang
   on 1,102; silent on 4** (Seven's sealed medical; the Tarn's soot-cut jar; a Westerley healer's tin from before the
-  thaw; the Board's reference jar). The Hunt: **412.4 combed; 371.3 red; 41.1 clean, all dry.** The claims ledger:
-  371.3 claimed. The house's own index: **2391–2600, 109 drams, all from its own yards; 2680, Meridian district outside
+  thaw; the Board's reference jar). The Hunt: **4,647.2 combed; 4,181.2 red; 466.0 clean, all dry.** The claims ledger:
+  4,181.2 claimed. *(whole-book repair, 2026-10-15, W2: was 412.4 / 371.3 / 41.1, under what the Hunt board's rule implies)* The house's own index: **2391–2600, 109 drams, all from its own yards; 2680, Meridian district outside
   its yards, 1,175.1.** What they come to: "every dram of ash killed in this country, except the tenth that happens to
   be dry… by next spring it's every dram." **Counsel withdraws the request "for the present"; "Well done, Renn."**
 - The Committee's chairman (a ship's chandler, gold watch). **Peverell:** her pumps will stop eleven minutes at the
@@ -238,7 +238,8 @@ one thing I've no word for… I'll not put a thing on the Board's table that I c
   dream. "Nothing came," said aloud; Aske writes *Fever, the third. Nothing came. Said so.*** and shows her. Card line:
   *The third this year. Two Glory masters inside six hours.*
 - **Near the Proprietor:** pulse falls on the stair; far chair by choice; no banister. **Near Thrale:** doors lie down
-  at forty paces (quay) and on the Graving bench; her heat held while Thrale was in the dock and came up when she left.
+  at forty paces (quay), and in the Graving as Thrale passed the bench, getting up as she walked on to the gate (three
+  hundred paces); Kiva held her own heat off for the hour, and it came up when Thrale left *(whole-book repair, 2026-10-15, W5)*.
 - **The disk:** cold — at the Counting House, in the Graving, through the fever. No fourth-column entry owed.
 - **Yes/no log (a quarter to seven):** Thu a mooring ring in the coping by the Graving, yes; Fri the Salt Hall gallery
   rail, yes; Sat the rail at the Graving's lip, yes; Sun the bed rail in the loft, yes (written by Pru, capped fingers).
@@ -380,7 +381,9 @@ Kiva's own offers: none (Rhea will not write hers before the 30th). Pru: none ("
 ## 12. New names (checked against every manuscript, planning and provenance file and `universe/NAME_REGISTRY.md`; no collision; pending owner review)
 
 - **Mr. Tregear** — the Board's printer on Quay Street (named by the printer's boy).
-- **Sedge** (Twenty-Eight's Hold, a tall fair girl) and **Bannock** (Twenty-Eight's still door, very big).
+- **Shapter** (Twenty-Eight's Hold, a tall fair girl) and **Bannock** (Twenty-Eight's still door, very big). *(whole-book repair, 2026-10-15, W16: first
+  named **Sedge**, which was a collision after all: Book One's Kiln warden is Sedge (Book One ch. 21, 38; its ledger). The
+  "no collision" above was wrong for that name. Renamed at all sixteen places in ch. 37, 41–44.)*
 - **Lavinia** — the Reader's given name (surname Arkwright is Book One's); Reader since 2649.
 - Unnamed on purpose: the printer's boy; the Tarn's second-four captain (Bridie's cousin); the Board's two members; the
   Harbour Committee's chairman; Halden's counsel; the Holloway lamp-man and warden; the Westerley keeper; the sixth
@@ -457,3 +460,17 @@ moved, except where a line below says a stated figure was corrected.
 | The Graving's evidence order | page, Annick, keepers, returns, Proprietor (the Clerk had announced Proprietor before returns) | page, Annick, keepers (one sentence each), Proprietor (compressed), returns with the new Holloway wire in full |
 | The closing survey | "and nobody saw him" | "and, Kiva thought, his right over his eyes, where nobody could see him" |
 | Records only | "has not touched a cell"; Orla not listed for the 2604 leaves | "a bank cell"; Orla added (§11) |
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 33: the sentence counting the glass cases' hands is cut (W12, completed at the second repair: the number of hands was
+Mara's Wednesday-night decision, which Kiva did not yet know); the paragraph runs from the still basin to "Somewhere in it".
+ch. 36: Kellan's Hunt figures restated (W2; see §3 inline and `WHOLE-BOOK-REPAIR.md` for the 24-place reconciliation);
+"Adlam's hand" (WB-02); Mara's gallery "on Wednesday night" (WB-10); three "did not look at" tags cut. ch. 37: Dray
+"on one stick at the gate" (W7); "Shapter, ward" (W16). ch. 34, 38: "Anwen never went red" cut (WB-04). ch. 39: "Hart was on
+the gallery" (WB-15). ch. 40: Thrale's reach (W5, inline in §5); the fever night no longer repeats ch. 23's sentences
+(R02–R05); the movement's end keeps its survey and turn without the refrain or the black-box sentence (R06, R08).
+ch. 35: three "nearly smiled" not Pike's (Kellan ×2, Hart) and one "pressed to his side" cut.

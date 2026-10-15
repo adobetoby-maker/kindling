@@ -12,7 +12,7 @@ Ruddock unwound the linen. He did it from the elbow down, slowly, a turn at a ti
 
 "Close them," said Ruddock.
 
-Pike closed them. The fingers came in, slowly, all ten. They came about halfway to the palm and stopped there, trembling a little, and stayed.
+Pike closed them. The fingers came in, all ten. They came about halfway to the palm and stopped there, trembling a little, and stayed.
 
 "Half," said Ruddock. "Last week it was a quarter."
 
@@ -164,7 +164,7 @@ He bent and put the long neck of the oiler into a hole in the pump's casing, and
 
 Kiva stood on the pump-house floor with her cold hand inside her coat.
 
-She had spent a year trying to make the two fingers tell her something. She had tested them and measured them and written down six in seven and called it a reason to look. She had never once thought of them as a thing that could be read like a gauge. She had thought of them as a loss with a small amount left over.
+She had spent a winter trying to make the two fingers tell her something. She had tested them and measured them and written down six in seven and called it a reason to look. She had never once thought of them as a thing that could be read like a gauge. She had thought of them as a loss with a small amount left over.
 
 "How long?" she said.
 
@@ -388,7 +388,7 @@ She sat on the crate for some time after that. Then she got up off it, and hooke
 
 ---
 
-The pump house was lit when she got there. It was a little after six, and the light was going, and the long hall glowed through its high windows like a chapel.
+The pump house was lit when Orla got there. It was a little after six, and the light was going, and the long hall glowed through its high windows like a chapel.
 
 She did not go in. She had come to the door four times since Tuesday and not gone in. She went along the outside of it instead, by a stone walk with an iron rail, to the seaward side, where the pumps' outfalls poured into the basin on the count.
 

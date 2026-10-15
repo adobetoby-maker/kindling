@@ -224,7 +224,7 @@ They carried Bridie up the west bank first, on the punt's floorboards, which the
 
 They carried Penhale across the channel to the east side.
 
-The water was coming in now. It was coming up the thread from the sea, a hand deep, two, brown and quick, and it was at their shins by the time they had him on the boards. Ivey took the head. Trewin took the foot, in his white boots, with his face set. Jude went back down into the water to take a side, and the boatman the other, and Kiva took the fourth corner with her left hand, because her right would not close.
+The water was coming in now. It was coming up the thread from the sea, a hand deep, two, brown and quick, and it was at their shins by the time they had him on the boards. Ivey took the head. Trewin took the foot, in his white boots, with his face set. Jude went back down into the water to take a side, and the boatman the other, and Kiva took a corner with her left hand, because her right would not close.
 
 They went up the east bank with him. It was steep. It was mud. Halfway up, Jude's bad foot went from under him and the board tipped, and Kiva felt the weight come onto her left arm all at once, and her two fingers said *something's pushing,* and she held.
 
@@ -318,7 +318,7 @@ He had his left arm against his chest and his good hand open at his side. He was
 
 "I'd want it said," said Jude, to nobody, very quietly, "that I've seen it come in now. Over somebody."
 
-Nobody answered him. Yeo, behind him, put her notebook in her coat and stood for a moment with her hand still on it. She looked at the back of his head. She did not say anything either.
+Nobody answered him. Yeo, behind him, put her notebook in her coat and stood for a moment with her hand still on it. She looked at the back of his head.
 
 ---
 
@@ -342,7 +342,7 @@ Across the yard, by the shed doors, Pike was sitting on an upturned crate. He ha
 
 "Davy didn't know that." Yeo looked at her hands. "He'd been reserve on four Hunts. He'd never gone onto the mud. He said it was dull, and he was paid for it, and his mother liked it."
 
-Rhea had nothing to say to that, so she did not say anything.
+Rhea had nothing to say to that.
 
 "I told the girl it was ground," said Yeo. "It was lying on the mud like a hem, and it was on a post, and I didn't look at the post. I looked at the skin." Her voice did not change. "Coombe's page is at the printer. *A hem that lies down under a thing on its feet is not ground.* I heard her say it at Hollins three seasons gone, over a lock-keeper. I thought it was a good line. I thought, when it's printed, I'll teach it."
 
@@ -362,7 +362,7 @@ Rhea turned her head.
 
 "Before that?"
 
-"Before that I'd a catcher who watched my heel, and nobody at the far edge at all, for six years. And I'd have told you we didn't need one." Rhea looked across the yard at Pike on his crate. "Then I had a second. A girl of seventeen with two dead fingers. She called the far edge in my van this winter, and on Gannet Creek in the dark, and the line came off it. And on the Tuesday of last week, at dawn, I went short, by my own card, and for one count at dawn there was nobody at the far edge but a man with half a fist doing two things at once." She was quiet. "Half a rung went into Gannet Creek. That's all it cost me."
+"Before that I'd a catcher who watched my heel, and nobody at the far edge at all, for eleven years. And I'd have told you we didn't need one." Rhea looked across the yard at Pike on his crate. "Then I had a second. A girl of seventeen with two dead fingers. She called the far edge in my van this winter, and on Gannet Creek in the dark, and the line came off it. And on the Tuesday of last week, at dawn, I went short, by my own card, and for one count at dawn there was nobody at the far edge but a man with half a fist doing two things at once." She was quiet. "Half a rung went into Gannet Creek. That's all it cost me."
 
 Yeo did not say anything.
 
@@ -398,7 +398,7 @@ Rhea took her slate off her belt. She did not know why. It was written; Gannet C
 
 "Then I'll ask the girl."
 
-Rhea looked at the slate on her knee for a long time. She had ruled it herself, every line of it, every night for six years, and she had written *Lives: none* on it more times than she could count, and twice she had not. She thought of a card in a kitchen in the autumn, slate blue, read aloud, signed on the back by four children. *Then we look again, and either of us may say no.* She thought of the thirtieth, a fortnight off.
+Rhea looked at the slate on her knee for a long time. She had ruled it herself, every line of it, every night for eleven years, and she had written *Lives: none* on it more times than she could count, and twice she had not. She thought of a card in a kitchen in the autumn, slate blue, read aloud, signed on the back by four children. *Then we look again, and either of us may say no.* She thought of the thirtieth, a fortnight off.
 
 She had spent the spring's advice already. She had spent it at Gannet Creek at one in the morning on a mud hard. She did not have another.
 

@@ -68,7 +68,7 @@ Kiva sat on the edge of her bed with the hand in her lap.
 
 She had been thinking about it since the cart yesterday, coming back along the causeway with the Longshore going under brown water and Bridie Hebden's legs white under a sheet in the tent behind them. She had thought about it in the printer's street at five, and on the stair with Ivey. She had not said it to anybody, because nobody had asked, and because she had wanted to be sure it was hers before she said it.
 
-On Wednesday at nine minutes past six, if two people and a sealed paper were right, the basin would go still for twenty minutes. Thirty-six hands that were not her aunt's would be on thirty-six glass cases. Somewhere in it, if anybody asked her, she would be calling a thing that three people did, catch and carry and plant, with a count that was not hers. And if one of the three failed, there was exactly one thing in her certificate that could stand in the gap, which was a crossing, on a sanctioned mast, read by the office's reader, one in seven days.
+On Wednesday at nine minutes past six, if two people and a sealed paper were right, the basin would go still for twenty minutes. Somewhere in it, if anybody asked her, she would be calling a thing that three people did, catch and carry and plant, with a count that was not hers. And if one of the three failed, there was exactly one thing in her certificate that could stand in the gap, which was a crossing, on a sanctioned mast, read by the office's reader, one in seven days.
 
 Nobody had asked her for Wednesday. That was the point. If somebody asked on Tuesday, she wanted to be able to say yes without asking anybody to write a new line in a ledger.
 

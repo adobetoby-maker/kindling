@@ -252,7 +252,7 @@ Trewin turned back to Perrin.
 
 "No," said Perrin.
 
-"Then I'm the third." Trewin took the hand at last. He shook it slowly and properly, once, as he nodded. "If the officer says. And if it's wanted, which I hope it won't be, I'll not wait to see her land."
+"Then I'm the third." Trewin took the hand at last. He shook it properly, once, as he nodded. "If the officer says. And if it's wanted, which I hope it won't be, I'll not wait to see her land."
 
 ---
 

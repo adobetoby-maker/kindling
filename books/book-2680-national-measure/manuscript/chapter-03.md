@@ -146,7 +146,7 @@ Kiva read the last line, and then she did not read anything for a while.
 
 It was not that she had forgotten; one did not forget it. But she had not let herself look straight at it since the night in the pump house, with three pumps going and a calf book open under a desk lamp.
 
-She had been thirteen the first time, and it had come again in the spring, on Classification Day, with a fever after it. There had been no roof. That was the part that she could never get said properly, even to Mara: it was not that the roof was gone and one saw the dark. There was nothing over her at all, and the nothing was not empty. It was enormous, and it was paying attention.
+She had been thirteen the first time, and it had come again in the spring, on Classification Day, with a fever after it, and once more in the Pit, in the fifth month. There had been no roof. That was the part that she could never get said properly, even to Mara: it was not that the roof was gone and one saw the dark. There was nothing over her at all, and the nothing was not empty. It was enormous, and it was paying attention.
 
 A woman had written that down, lifetimes ago, in a house on a hill, and a pump keeper had written it in 2604, in brown ink, with his needles standing up. *Not dark. Nothing.*
 

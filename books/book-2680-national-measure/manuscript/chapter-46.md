@@ -6,7 +6,7 @@ She had done it with her right hand. She had picked up the left by the wrist and
 
 Nothing. Not *something's pushing.* Not *keeps time.* Not the stillness of the slack, which was a thing in itself, and which the fingers had always told her about. Nothing at all. The hand lay on the stone and the stone lay under it and the one did not say anything about the other.
 
-She had written it in her book with her right hand, for the first time since Sunday, with the pencil held badly in fingers that had only just finished peeling. *Wednesday the 23rd. A quarter to seven. The floor of the Graving, forty-five paces in. No answer.*
+She had written it in her book with her right hand, for the first time since the Hunt, with the pencil held badly in fingers that had only just finished peeling. *Wednesday the 23rd. A quarter to seven. The floor of the Graving, forty-five paces in. No answer.*
 
 It was the first entry in the column that was not *yes.* She had looked at it for a while. Then she had shut the book.
 
@@ -36,7 +36,7 @@ He held it as he always held it, palm down and then palm up, and pressed the bac
 
 The tin was in Jude's satchel, under the book, where it had been since the second month.
 
-Seven stood round it in the keeper's room at the harbour pump house at twenty-five past seven: Perrin with his hand pressed to his side, Jude with his knuckles white across the backs where the cask had wrapped them, Anwen with her cap gone and her hair down, Pru with her caps torn on two fingers from the catchers' plank, and Kiva with her left hand hanging. Peverell had given them the room. On the keeper's table, where the three training cells had stood on Thursday night, there was nothing now but the tin, small and round and sealed with Anwen's wax, with the label on its lid in Perrin's slow careful capitals.
+Seven stood round it in the keeper's room at the harbour pump house at twenty-five past seven: Perrin with his ribs strapped, Jude with his knuckles white across the backs where the cask had wrapped them, Anwen with her cap gone and her hair down, Pru with her caps torn on two fingers from the catchers' plank, and Kiva with her left hand hanging. Peverell had given them the room. On the keeper's table, where the three training cells had stood on Thursday night, there was nothing now but the tin, small and round and sealed with Anwen's wax, with the label on its lid in Perrin's slow careful capitals.
 
 *W. PLAIN. 2.0. FOR A HAND. NOT FOR A BANK, A FLOOR, A CROSSING OR A SALE.*
 
@@ -76,7 +76,7 @@ He unwrapped the linen. The hand lay in it, red and whole and closing. Loveday c
 
 Anwen took a stick of wax out of her pocket and a box of matches, and sealed the tin again, on the table, with her thumb pressed into the warm wax where the old seal had been.
 
-"It's eight-tenths," said Perrin. "Like it was. Before the Order." He looked at it. "It was eight-tenths in the autumn and Rowan said it'd stay eight-tenths till somebody killed something quiet."
+"It's eight-tenths," said Perrin. "Like it was. Before the Order." He looked at it. "It was eight-tenths in the autumn and Pryce said it'd stay eight-tenths till somebody killed something quiet."
 
 "Nobody's killed anything quiet," said Pru. "Nobody's going to. There isn't anything quiet."
 
@@ -98,7 +98,7 @@ The Graving was shut. The gate stood seated on its sill with the flood brown aga
 
 The catchers went down into it with their own sheets.
 
-Pru went first, because she had her own sheet: a new one, bought in the second month after the old one, with her name on its pole, went over a race lip at a mill. She had written her name on the new one's hem in ink. She waded out into the pool in her boots to the ankle with the sheet folded over her arm and Treen beside her with the Ropewalk's, and they laid the sheets on the stone under the water at the edge of the first drift and drew them in from the far edge, the way a catcher draws a purse string, and the ash came in onto them with the water running off.
+Pru went first, because she had her own sheet: a new one, bought in the second month after the old one, with her name on its pole, had gone over a race lip at a mill. She had written her name on the new one's hem in ink. She waded out into the pool in her boots to the ankle with the sheet folded over her arm and Treen beside her with the Ropewalk's, and they laid the sheets on the stone under the water at the edge of the first drift and drew them in from the far edge, the way a catcher draws a purse string, and the ash came in onto them with the water running off.
 
 Kiva stood on the sill with her left hand in her coat and watched.
 
@@ -122,11 +122,11 @@ At eleven the last drift was off the stone. The catchers came up out of the pool
 
 It was red. Kiva went along the quay with the cart to the gate and stood by the comb while the Board's combers did it, bag after bag, under the Clerk's eye. Every bag sang full on the seventh reed, like a kettle, as Jude had said Yeo said it would. It had kept the town's time for six months. It could not do anything else.
 
-"Two hundred and eighty-six drams," said the Board's clerk at the scale, at a quarter to twelve, "and four-tenths. Every dram of it red. Combed at the gate, under the Clerk." He wrote. "To the Board's press, as evidence."
+"Six hundred and eighty-six drams," said the Board's clerk at the scale, at a quarter to twelve, "and four-tenths. Every dram of it red. Combed at the gate, under the Clerk." He wrote. "To the Board's press, as evidence."
 
 "Who claims it?" said the Clerk.
 
-She said it the way she said everything, without expression, to the gate in general. Halden's counsel was not there. Nobody was there from the Counting House at all. Kellan Renn, standing at the back of the small crowd at the gate with his mother's watch in his pocket and a folded sheet of fault paper that he had given to the Clerk at a quarter past eight, did not say anything.
+She said it the way she said everything, without expression, to the gate in general. Halden's counsel was not there. Nobody was there from the Counting House at all. Kellan Renn, who had given the Clerk a folded sheet of fault paper at a quarter past eight, stood at the back of the small crowd at the gate with his mother's watch in his pocket and did not say anything.
 
 "Nobody claims it," said the Clerk, answering herself. "As of twenty-five minutes to seven this morning, by a line on the harbour pump house's fault paper in the Proprietor's own hand, witnessed, which I have in my press. The foundation's counsel has sent me nine pages saying the same thing in longer words since, and I have those too." She looked at the bags. "So it's the Board's, as evidence. The warrant pays no share on red. Write that, please. *No share paid. No claim. Held.*"
 
@@ -172,7 +172,7 @@ Jude finished the corner. He leaned the broom against the copper, where she had 
 
 "Ma'am," he said. "The Company's offered me his place. Not his. A place. On Mrs. Yeo's closing crew. From the first of next month."
 
-"I know. Mrs. Yeo told me on Saturday. She came down to tell me before she carded you." Mrs. Penhale looked at him with her small hard grey eyes. "She asked if I minded. I said I didn't know you. Do you mean to take it?"
+"I know. Mrs. Yeo told me on Wednesday night. She came down to tell me before she carded you." Mrs. Penhale looked at him with her small hard grey eyes. "She asked if I minded. I said I didn't know you. Do you mean to take it?"
 
 "I said I'd answer after Wednesday." Jude scratched his jaw with his right hand. "It's after Wednesday."
 
@@ -188,7 +188,7 @@ Jude looked up at her from the kitchen floor for a long moment.
 
 "Say it."
 
-"I asked you in the second month what ash was for," said Jude, "on the Ropewalk steps. You said keeping the sea out. On Tuesday I asked you what the Barrel's ash was for, when it was cut, and you said nothing; it'd be red, and go in the Board's press, and stay there." He did not look away. "I'll carry it up a bank for six months. Every bag. Put it on my card that I'm told where every bag goes after, and what it's for. Even if it's for nothing. I'll not carry ash up a bank and not know."
+"I asked you what ash was for," said Jude, "on the Ropewalk steps. You said keeping the sea out. On Tuesday I asked you what the Barrel's ash was for, when it was cut, and you said nothing; it'd be red, and go in the Board's press, and stay there." He did not look away. "I'll carry it up a bank for six months. Every bag. Put it on my card that I'm told where every bag goes after, and what it's for. Even if it's for nothing. I'll not carry ash up a bank and not know."
 
 Yeo looked at him. Her flat brisk face did not change, and Kiva, who had watched it decide a thing at Mallow Creek in three seconds that was in no book, watched it now take longer than that.
 
@@ -256,7 +256,7 @@ Hart looked at his bad hand.
 
 She lowered the paper at last.
 
-"The Board records," she said, "that a slack was predicted under seal twelve days before it came, by a fitter and a reader. The prediction was right in the limits of its hour, right in the height of the ring, and right in its count. It was wrong in its length, by a minute, for reasons the man who wrote it does not know; wrong in its last line, once by the hand on the grating and twice by the operation's own doing; and not tested in one line, by design." She did not look at a paper. "That's a better record than most sealed papers the Board has opened in thirty years. The Board would like that written too."
+"The Board records," she said, "that a slack was predicted under seal twelve days before it came, by a fitter and a reader. The prediction was right in the limits of its hour, right in the height of the ring, and right in its count. It was wrong in its length, by a minute, for reasons the man who wrote it does not know; wrong in its last line, once by the hand on the grating and twice by the operation's own doing; and not tested in one line, by design. That's a better record than most sealed papers the Board has opened in thirty years. The Board would like that written too."
 
 Then she looked down at a second sheet on the trestle beside the box, which Kiva had not noticed, in Noa's narrow hand.
 

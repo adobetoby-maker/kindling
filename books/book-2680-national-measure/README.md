@@ -4,7 +4,7 @@ Public byline: **Monroe Jackson**
 Internal seat: **Monroe Jackson 1.3.0 / O'Connor 1.3.0**  
 Default prose author: **Claude Opus 5.5**
 
-Status: **planned; prose not yet drafted.**
+Status: **complete first edition, chapters 1–48 (about 326,000 words), drafted by Claude Opus 5.5 under Monroe Jackson 1.3.0 / O'Connor 1.3.0 and reviewed, repaired and rechecked movement by movement and as a whole book on 2026-10-15** (editorial passes by the same model family; no human reader; no narration approved). See `AUTHORSHIP.md`, `STATE_LEDGER.md` and `provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md`.
 
 Book Two begins after Kiva Rowan's first collegiate season and widens the progression
 ladder from Meridian's regional circuit to the National Measure at Saltmere. The complete

@@ -136,7 +136,7 @@ Pru looked at her for a moment, as she looked at a cord before she tied it.
 
 ---
 
-The Meridian Collegiate Circuit had taken the sail loft over Quiller's chandlery, two doors along from the Company's office. It was one long room under the roof, with a window at each end and twenty iron beds in two rows. It smelled of tar and new rope and the paraffin in the stove. Halden License had come down by the station transit three days before and had the beds by the south window. Old Four had come by the road and the coast boat a day ahead of Seven and had the beds by the stove, and had been warm ever since, and said so.
+The Meridian Collegiate Circuit had taken the sail loft over Quiller's chandlery, two doors along from the Company's office. It was one long room under the roof, with a window at each end and twenty iron beds in two rows. It smelled of tar and new rope and the paraffin in the stove. Halden License had come down by the station transit the night before and had the beds by the south window. Old Four had come by the road and the coast boat a day ahead of Seven and had the beds by the stove, and had been warm ever since, and said so.
 
 Selka Dray was sitting on a bed by the north window with her left leg straight out in front of her.
 
@@ -292,7 +292,7 @@ The clerk tipped the jar toward the light. He held it out to the girl, so that s
 
 "He'd not have," said the girl. Her chin had begun to shake. "He'd never."
 
-"Very likely not. It may have been done before it came to him. It may have been done last week by somebody who wanted a shilling." The clerk shut the jar. "That's the third I've combed this morning. It's everywhere, this winter. Folk have a little plain, and it's worth ten times what it was, and they stretch it, or somebody does. It's not a crime that I know of. It's a pity."
+"Very likely not. It may have been done before it came to him. It may have been done last week by somebody who wanted a shilling." The clerk shut the jar. "That's the third I've heard of since the new year. It's everywhere, this winter. Folk have a little plain, and it's worth ten times what it was, and they stretch it, or somebody does. It's not a crime that I know of. It's a pity."
 
 The girl took the jar back. She held it in both hands. Her captain, who was a broad slow boy with a face like a gatepost, put his hand on her shoulder and left it there.
 

@@ -38,8 +38,6 @@ His finger had moved half a mile.
 
 "Garside's mill." Vane did not look up. "A fulling mill, on the beck. Old. Garside and his wife and two children and a man. It has a wheel."
 
-Nobody said anything for a moment.
-
 "A wheel," said Kiva.
 
 "An overshot wheel, eighteen feet. It turns all day and all night, since he has cloth in the stocks for a merchant at the Sag and he's late with it. I sent the lad down this morning to tell him to stop it. He said he'd stop it when the Line paid for the cloth." Vane's voice did not change. "He's not wrong. The Line can't."
@@ -483,8 +481,6 @@ It was faint. It was as faint as any that she had ever heard, a thread of a note
 He lowered it.
 
 "Clean," he said. "It'll count. It's not plain."
-
-Nobody said anything.
 
 Kiva knelt on the peat at the kiln's mouth with her hand on a sealed bag that had come off a thing that had gone up instead of down, and sat, and harmed nothing, and kept no time that two fingers could find. It had sung the seventh reed exactly as everything else had sung it since the thaw, in every yard and wharf and road and Pit in the country.
 

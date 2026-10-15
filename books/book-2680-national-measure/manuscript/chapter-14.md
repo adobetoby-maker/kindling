@@ -240,8 +240,6 @@ There was a pause in the van.
 
 "At the near end. Where it doesn't mind a boot." Rhea put her hands in her pockets. "I'll want weight on the far end before I go. Sacks; we've six in the rack since the wharf. And the second has the far edge, and if she says two words, I come off it."
 
-Nobody said anything for a moment.
-
 "Varley lays east," said Pike. "In front of the thing. Under the gate's light, between its feet and the wall. If Sorn's right, that's where the rung comes down."
 
 "East," said Varley. "In front."

@@ -260,7 +260,7 @@ She was aware of Hart in the doorway behind her, and of Yeo and Rusk by the wind
 
 *No roof. Nothing over. Not empty, not dark.*
 
-She had sat at her own kitchen table in the fifth month of last year with her niece across the oilcloth, white and sweating, telling her what she had seen when she was thirteen and again on Classification Day. Mara had written it down in the girl's own words and sealed it and had the hour put on it, so that nobody could ever say that she had borrowed it. Then she had read a Ferren keeper's line in brown ink by a desk lamp, and had felt the floor go out from under her, and had said aloud that it was a comfort. *It isn't you. It's older than you. It's wider.*
+She had sat at her own kitchen table in the fifth month of last year with her niece across the oilcloth, white and sweating, telling her what she had seen that morning in the Pit. Mara had written it down in the girl's own words and sealed it and had the hour put on it, so that nobody could ever say that she had borrowed it. Then she had read a Ferren keeper's line in brown ink by a desk lamp, and had felt the floor go out from under her, and had said aloud that it was a comfort. *It isn't you. It's older than you. It's wider.*
 
 And here it was again, two hundred miles from Ferren, in another keeper's hand, on the same night. *Something was attending.*
 

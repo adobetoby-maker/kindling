@@ -118,7 +118,7 @@ let go of a pump that's only got you?" "Then it stops… That's simpler, not har
 |---|---|
 | 6.08 | Kiva's two fingers on M3 go quiet first ("Quiet," aloud); Noa: *eight minutes past*; Hart says it a breath after. Kiva tests M3, M2 (sill), M1 (stake): all still. |
 | 6.09 | The ring up: **4 ft 11** (Hart's level; Polglase calls it). Grey staves, a frosted chime, the held water leaning at the outfalls. Kiva lights Ember (Polglase: *Read*). Ward line A lights; keeps Dray's count; the water turns to them on the fourth count. *Far edges.* "**Take.**" |
-| 6.09–6.10 | **Pass 1.** Ward line A (Anwen, Edda, Hesketh, Sedge) slides under the foot; the cask slides a pace west onto them. "Nobody." Jude and Gower carry 25 paces (the grey wraps their knuckles from 15). "Nobody." Brask and Tolver plant at M1. *Planted.* Polglase: *ten past.* |
+| 6.09–6.10 | **Pass 1.** Ward line A (Anwen, Edda, Hesketh, Shapter) slides under the foot; the cask slides a pace west onto them. "Nobody." Jude and Gower carry 25 paces (the grey wraps their knuckles from 15). "Nobody." Brask and Tolver plant at M1. *Planted.* Polglase: *ten past.* |
 | 6.10–6.14 | The tear open where the ring stood: threads. Carrow (declared, read) and Dray cut on Dray's count as **one line, two people** (Polglase: "a lay. Between two… not an incident under any rule I've got"; Dray: "That's fairer"). **Ivey's crew closes the tear at 6.14**; Tamsin calls Ivey's far edge once. |
 | 6.11 | **Pass 2.** Catchers' plank (Pru, Treen, Marten, Yarrow) at the four quarters; the Pascoes carry. At the sill the younger Pascoe goes knee-deep in slurry; the held water slops over the far lip; Pru: "Far edge." Wace steps back; **Bannock frosted hip to boot; his door goes out. Failure 1.** The Pascoes' wrap past the wrist. Wace comes back up onto the granite a pace in from its outer edge; Kiva goes round the cask's north side and steps up onto the sill's outer edge, the stone she tested at 6.08 *(repair)*. "Nobody." Kiva takes it on her Ember at the cask's west rim (knees to the granite), shuts, gap, opens still into the tested stone; plants with Wace on the sill *(repair: was "knees to the slurry", the still door into the untested granite at the sill's foot)*. Noa: *Cliff… a crossing, single, declared at six… eleven minutes past six and forty seconds. Read. The notch at five.* **Seventh crossing, Ember to still, inside her certificate.** Hand still warm. Aske at her side. |
 | 6.12–6.13 | Ward line A runs the wall and comes down to the sill's dock side. **Pass 3** begins: ward line A takes from Kiva and Wace; Kiva shuts and is dark; Jude and Gower carry inward. |
@@ -140,11 +140,11 @@ On the warrant by name (Monday): **the Ropewalk first** (Carrow, Lyle, Tolver, T
 Hesketh; *Renn, by the Proprietor's leave, at the pump house; not on the mud*); **Old Four** (Brask, Wace, Edda, Gower);
 **Holloway second** (Bolitho, captain; the two Pascoes, Embers; their ward and still door on the wall); **Team Seven**
 (*Cade, P., captain: to declare for the four, and keep the brake. Not on the mud*; Pryce; Talley; Finch; *Rowan, K.,
-catcher. Caller, if the officer will have me. One crossing kept, as certified*); **Twenty-Eight** (Marten, Sedge, Bannock,
+catcher. Caller, if the officer will have me. One crossing kept, as certified*); **Twenty-Eight** (Marten, Shapter, Bannock,
 Dray). **Not standing:** Westerley first (*We've a keeper at home who'd want us there*) and Holloway first (*With
 respect*); the clerk wrote under each *Loses nothing by it.* Twenty-four on the wall.
 
-Planks: ward line A (Anwen, Edda, Hesketh, Sedge); catchers' plank B (Pru, Treen, Marten, Yarrow); Embers A/C (Jude,
+Planks: ward line A (Anwen, Edda, Hesketh, Shapter); catchers' plank B (Pru, Treen, Marten, Yarrow); Embers A/C (Jude,
 Gower), B (the Pascoes); still A (Brask, Tolver), B (Bannock, Wace), C (Pettit, Lyle); the wall (Carrow, Dray, Holloway's
 two). Professionals: Yeo (officer; slate and whistle), Ivey's crew of five and Tamsin, Coombe, Rhea (officer of the purse),
 Pike (Kiva's far edge), Aske (the sill), Mara (landing, watch), Hart (grating), Peverell (doorway, levers), thirty-six
@@ -233,10 +233,10 @@ only that person has. No new lens. The Tanyard section (ch. 47) is Kiva's.
   29th: *Held 5.15. Sealed 0.8, bound as before.*
 - **Jars:** the Order's thirty-six combed at the gate Tuesday (third full, seventh silent), slept at the Mole hut, carried
   by thirty-six fitters by hand at 5.30, **thirty-six into thirty-six cells** at 6.22. Order's cellar: **4.**
-- **Kiva's crossings:** seventh (6.11.40) and eighth (6.14.50), Ember to still each; on the Board's ash. Figures per
+- **Kiva's crossings:** seventh (6.11.40) and eighth (6.14.50) by Aske's count (the eighth and ninth crossings in Book Two) *(whole-book repair, 2026-10-15)*, Ember to still each; on the Board's ash. Figures per
   crossing are not stated on the page (about 0.30 each by precedent).
 - **The Slack's yield:** the purse bagged wet on catchers' own sheets (Pru, Treen, Marten, Yarrow, Wace) 7.30–11.00; combed
-  at the gate 11.45: **286.4 drams; every dram sang on the seventh; red.** *No claim* (relinquished). **The Board's, as
+  at the gate 11.45: **686.4 drams; every dram sang on the seventh; red.** *(whole-book repair, 2026-10-15, P3; was 286.4)* *No claim* (relinquished). **The Board's, as
   evidence. "The warrant pays no share on red… No share paid. No claim. Held."**
 - **Old cans:** thirty-six drawn stepped, boxed, red-tagged, to the Board's press as evidence.
 - **The Tanyard bag** (Mon 28th): one, Handful, combed red two days later.
@@ -356,3 +356,18 @@ now states differently, besides the *(repair)* marks above:
   the seventh crossing's cold is folded into the eighth's bill; Jude's and Gower's knuckles white, not taken.
 - **Voice:** sixteen of twenty-three "I'd want" recast (Jude's four, Dray's "clear", Rhea's "every card" and the Proprietor's
   "where it happened" kept); closing restatements cut in ch. 41, 46, 47 and 48; summary chains split; heavy speeches broken once.
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 41: from Monday the 21st the yes/no is the morning's quarter to seven (W11); Jude "steadied the sheet with his left
+hand while he wrote *Talley*" (WB-05); *plank* widened once at its first use, "like doors on one load, not two still doors on
+a patch of ground" (WB-20, OD-5 a); the tun's "plank" is "a board" twice (WB-19). ch. 41–44: Sedge → **Shapter** (W16).
+ch. 42: Lyle's "square pale face" (W15); "every day" (W11). ch. 43, 44, 47, 48: Pike's "square grey face" (WB-03). ch. 46:
+"Pryce said" (W10); "since the Hunt" (W13); "Mrs. Yeo told me on Wednesday night" (P1); **the purse 686.4** (P3, inline
+§8); "I asked you what ash was for" (WB-07); "had gone over a race lip" (WB-12); Kellan's sentence reordered (WB-13). ch. 47:
+"seventy-six years" twice (P4); "I said no at his table, and I said no to counsel" (P2); "You wrote *yes* every day" (W11).
+ch. 48: "Anwen never went red" cut (WB-04). Habit cuts R17, R19, R21, R22, R28–R30, R35, R39–R41, R47–R49. The last section
+of ch. 48 is unchanged. Numbering of the Slack's crossings clarified inline (§8).

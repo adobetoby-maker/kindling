@@ -170,7 +170,7 @@ It lifted out of the water. It came up on the sea side of the kiddle in a long g
 
 Two words. She did not say them loudly. She said them as Pike had taught her to say them, short, with the swallow, so that they went across forty paces of still water to the only person who needed them.
 
-The Company man let go of the line.
+The Company man on the third line let go of it.
 
 He let go and stepped back on the hard, as Rhea had stepped back off a skin in the Corn Exchange yard, without turning round. The fold came over and came down. It came down on the water where the line had been, flat, with a slap, and lay there steaming. The line went slack under it. The purse at the bottom of the creek, below the third post, was half drawn and no more.
 
@@ -348,7 +348,7 @@ Rhea went to it. Penhale stood in front of it, below, in the mud, with his purse
 
 "*Not yet,*" said Pike.
 
-Rhea looked up at the top of the post. She did not look at Pike. She had never needed to. On every floor for six years she had had a catcher who watched her heel, and since the first month a second who watched the far edge, and she had cut when the voice behind her said *now.* She waited for it.
+Rhea looked up at the top of the post. She did not look at Pike. She had never needed to. On every floor for eleven years she had had a catcher who watched her heel, and since the first month a second who watched the far edge, and she had cut when the voice behind her said *now.* She waited for it.
 
 It did not come.
 

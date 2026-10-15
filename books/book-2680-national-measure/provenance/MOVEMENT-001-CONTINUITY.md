@@ -422,3 +422,12 @@ scoring or repair was done by the author.
   seven days; two fingers that are "a reason to look"; and ten sheets of somebody else's craft.
 - **Four nights owed to Graywater,** as second to a catcher who can only speak.
 - **Open by letter:** Hart's answer about his own hand; Saltmere's hour; Yeo's request.
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 1: "four of them besides" → three (WB-11); "eleven and four days" → eleven weeks and four days, and ten (WB-17).
+ch. 3: the dream's occasions now include the Pit, in the fifth month (W1). ch. 8: Kellan's "I shall have to" [tell Birch] cut;
+he has still not told Birch, as the Kellan entry above records (P5).

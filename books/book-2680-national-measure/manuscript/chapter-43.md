@@ -8,7 +8,7 @@ Aske had the hand at a quarter to five, by candle, at the north window, with the
 
 "Then eat." He shut his bag. "Quiller's left bread and cheese on the counter for everybody, and tea in the big can, and he's gone down to the quay himself to watch, the old fool, with a blanket. Eat while you can still hold the bread in that hand."
 
-She ate on the stair, because there was nowhere else to sit. The loft emptied past her in the dark, one at a time, in ones and twos. Old Four went first, solid and silent, in their coats. The Ropewalk's four had not slept in the loft; they lived in Saltmere, in the high town, and would come down from the hill. Twenty-Eight went past her on the stair in a body: Marten, Sedge with her pale hair tied back hard, Bannock filling the stairwell from wall to wall, and Dray last, on her healed leg, with her watch already in her hand. Dray did not look at her. Kiva had not expected her to.
+She ate on the stair, because there was nowhere else to sit. The loft emptied past her in the dark, one at a time, in ones and twos. Old Four went first, solid and silent, in their coats. The Ropewalk's four had not slept in the loft; they lived in Saltmere, in the high town, and would come down from the hill. Twenty-Eight went past her on the stair in a body: Marten, Shapter with her pale hair tied back hard, Bannock filling the stairwell from wall to wall, and Dray last, on her healed leg, with her watch already in her hand. Dray did not look at her. Kiva had not expected her to.
 
 Seven came down together, because that was how they came down.
 
@@ -98,7 +98,7 @@ Out at the head of the basin the outfalls went on pouring, four and four.
 
 "That's one engine. That's the thing my aunt stood up in a dock on Sunday and said not to be." She took a breath. "The bank has to come out on things with handles. Wards and Embers and still doors and a word anybody can call. If it can't, then it can't, and we'll have found that out, and written it down."
 
-The Proprietor looked at her for a long time.
+The Proprietor looked at her.
 
 "And a fourth," he said. "There's never been a fourth. Your healer's card doesn't have one on it."
 
@@ -138,7 +138,7 @@ At the head of the basin, the pump house. Its six outfalls along its foot, pouri
 
 On the basin wall above the landing, Yeo, with her slate and her whistle. Coombe beside her with her rope. The Chair, in her grey coat with her ledger under her arm, and the Clerk of the Measure beside the Chair, small and grey, with her gold chain. The two Board members.
 
-On the mud ten paces out from the outfalls, round the dark place where the ring would come up, a circle of little stakes that Hart had driven on Tuesday evening by his book, to show where the rim would stand. And a pace west of the stakes, on the Graving side, the first ward line, four of them in a row with their hands at their sides and their doors shut: Anwen, Edda, Hesketh, Sedge. Behind them, Jude and Gower, Embers, unlit. Behind them, twenty-five paces west across the mud at the first stake, Brask and Tolver, the first still plank.
+On the mud ten paces out from the outfalls, round the dark place where the ring would come up, a circle of little stakes that Hart had driven on Tuesday evening by his book, to show where the rim would stand. And a pace west of the stakes, on the Graving side, the first ward line, four of them in a row with their hands at their sides and their doors shut: Anwen, Edda, Hesketh, Shapter. Behind them, Jude and Gower, Embers, unlit. Behind them, twenty-five paces west across the mud at the first stake, Brask and Tolver, the first still plank.
 
 By the outfalls, between the ring's stakes and the pump house wall, Ivey's closing crew in green, five of them on their knees on the mud with their hands on their thighs, and a girl behind Ivey whom Kiva did not know, kneeling at her left hip. Ivey's second.
 
@@ -154,7 +154,7 @@ And forty-five paces inside the dock, on Noa's long chalk line across the wet st
 
 Kiva went down the ladder onto the mud.
 
-She did not stop at the ring's stakes. She walked west, past the first ward line, past Jude, who looked at her and did not say anything, past Brask and Tolver at the first stake, past the catchers' plank, where Pru's capped fingers moved very slightly as she passed, and on across the mud to the sill. She stepped up onto the granite past Bannock and Wace and Aske on his bag, and walked in onto the dock floor. The walls of the Graving went up on either side of her into the tiers, and the tiers were full. She had not looked up at them from the basin. She looked now. The whole of Saltmere that was not on the basin wall was sitting on the Graving's tiers in the grey light, under the iron and glass roof, in silence, with every lamp along every tier lit.
+She did not stop at the ring's stakes. She walked west, past the first ward line, past Jude, who looked at her, past Brask and Tolver at the first stake, past the catchers' plank, where Pru's capped fingers moved very slightly as she passed, and on across the mud to the sill. She stepped up onto the granite past Bannock and Wace and Aske on his bag, and walked in onto the dock floor. The walls of the Graving went up on either side of her into the tiers, and the tiers were full. She had not looked up at them from the basin. She looked now. The whole of Saltmere that was not on the basin wall was sitting on the Graving's tiers in the grey light, under the iron and glass roof, in silence, with every lamp along every tier lit.
 
 She walked forty-five paces up the dock floor and knelt on Noa's chalk, between Pettit's boots and Lyle's.
 
@@ -188,7 +188,7 @@ She heard Anwen's voice first, from a hundred paces off across the mud, very cle
 
 Everybody on the chalk turned their heads.
 
-He had come up behind Kiva without a sound. He stood a pace behind her left shoulder with his half-closed hands at his sides and his long brown face doing the thing it did, which was very nearly a smile and was not one.
+He had come up behind Kiva without a sound. He stood a pace behind her left shoulder with his half-closed hands at his sides and his square grey face doing the thing it did, which was very nearly a smile and was not one.
 
 "*Third plank, Lyle's,*" said Pike, to the dock floor. "*And the caller's, mine.*" He looked down at Kiva. "Nobody's named yours. You've a far edge too. You'll be on your knees on this line with your fingers on the stone and a cask coming at you, and you'll not see what's behind you." He did not look away. "You were my second all winter. I'll be yours this morning. Two words, once. That's all."
 
@@ -246,7 +246,7 @@ Nothing. Still.
 
 "Second mark," she said. "It's good."
 
-Aske, on his bag at the north end of the sill, did not say anything. He was looking at her hand.
+Aske, on his bag at the north end of the sill, was looking at her hand.
 
 She went down off the sill onto the mud. Twenty-five paces. The mud took her boots to the ankle and let them go, and took them again. The catchers' plank stood at the first stake, Pru and Treen and Marten and Yarrow, and she went past them and knelt at the stake and laid her two fingers on the wet wood where it went into the mud.
 
@@ -278,7 +278,7 @@ It came up glad under her breastbone, as it always came, as though it had been w
 
 "*Read,*" said Polglase. "*Rowan. Ember. Single.*"
 
-Kiva looked along the first ward line. Anwen, at her right, with her face very white and her hands at her sides. Edda beyond. Hesketh. Sedge at the end, with her pale hair tied back hard and her jaw set. Behind them Jude and Gower with their hands open, unlit, waiting for the word.
+Kiva looked along the first ward line. Anwen, at her right, with her face very white and her hands at her sides. Edda beyond. Hesketh. Shapter at the end, with her pale hair tied back hard and her jaw set. Behind them Jude and Gower with their hands open, unlit, waiting for the word.
 
 She looked up at the wall, where Dray stood above the tear's place with her watch in her hand.
 

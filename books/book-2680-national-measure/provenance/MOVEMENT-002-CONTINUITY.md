@@ -283,7 +283,7 @@ bags (the 12th). **Red, untouched:** everything carried in.
 | Person | State |
 |---|---|
 | **Dinah Coombe** | Met. Blaze; sixty or so; grey Board coat; a knotted tarred rope as tally; "Again"; "Show me." Twelve days in Meridian ("the Board thinks you'll drown"). Never lit on the page except to hold the cage ward. Left on the 14th; will be at the Longshore. Her page is with the Board's printer. |
-| **Clemency Thrale** | Met. Master of the Order of the Even Hand; Glory; one door for life; looks about fifty; white hair under a plain cap; hands folded at her waist. Kiva's doors "lay down" near her. Forty-one jars of plain in the cellar (forty-four when she was made Master); after the gift, forty. **Has not been past the gate in eleven years; has gone out twice in her life;** "I'd like to see the sea again." Will not ask Kiva the four remaining questions. Has not decided what Kiva's counting means. |
+| **Clemency Thrale** | Met. Master of the Order of the Even Hand; Glory; one door for life; looks about fifty; white hair under a plain cap; hands folded at her waist. Kiva's doors "lay down" near her. Forty-one jars of plain in the cellar since she was made Master (forty-four before) *(whole-book repair, 2026-10-15: record corrected to 16:247 and 40:185)*; after the gift, forty. **Has not been past the gate in eleven years; has gone out twice in her life;** "I'd like to see the sea again." Will not ask Kiva the four remaining questions. Has not decided what Kiva's counting means. |
 | **The sister** (unnamed) | The Order's observer at the Annick reading; kept the gate; "Your lips didn't move." |
 | **Pike** | Dressings down to a band at each wrist by the 17th; fingers move a quarter; "the fourth of next month, Ruddock says. Slow." Rode both nights as a voice. Watched Varley call off Rhea's heel; wept at the tailboard (not written); asked for *The cost of a craft written down is that another man can do it. P. says that it is worth it.* |
 | **Varley** | Imrie's catcher; about thirty-five; talks to his cloths; kneels on both knees; waits eleven when it's quiet (Pike: eight); tied right-handed; read Kiva's sheet and called off the heel. |
@@ -348,3 +348,13 @@ squares).
 13. **Formula measures** (sentence distribution, paragraph and scene proxies, readability, progression
     and combat density, development cadence) were written toward and **have not been measured.** Section
     breaks: 67 across eight chapters, about 890 words a section.
+
+## Whole-book repair reconciliation (2026-10-15)
+
+Same-author bounded repair of located whole-book findings; see `provenance/WHOLE-BOOK-REPAIR.md` for every before/after.
+In this movement's chapters:
+
+ch. 9: Orla will not count "a thing you told the mast didn't count" (W3; she did see the eighth-month tape, Book One ch.
+36). ch. 16: the dream comes "as it had come when she was thirteen, and on Classification Day, and in the Pit" (W1); Coombe
+"near a Blaze for a fortnight" (W17); Anwen's "I'd want it said that we're sorry" cut to "I'm sorry" (R50, Jude's tag).
+Silence beats cut: 13:507, 14:243, 15:41, 15:487, 16:69 (R23–R27). §8 Thrale's jars corrected inline.

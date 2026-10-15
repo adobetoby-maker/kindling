@@ -134,13 +134,13 @@ Twenty-Eight came out of the far door. Marten first, slow and square, with the l
 
 The Graving stood up for Dray.
 
-It did not stand all at once. It stood in pieces, from the lower tiers upward, the way a field of birds gets up. The green did not know Dray. They knew she had been in a chair in the ninth month, and that she had walked onto the timber pond on two sticks a fortnight ago and onto the Long Quay on one, and that she was walking now on none. They stood for that.
+It did not stand all at once. It stood in pieces, from the lower tiers upward, the way a field of birds gets up. The green did not know Dray. They knew she had been in a chair in the ninth month, and that she had walked onto the timber pond on one stick at the gate, and that she was walking now on none. They stood for that.
 
 Dray did not look at them. She looked at Kiva across the pen, once, and then at the Commodore lying in the middle with his tarred hat over one eye.
 
 "*Declarations,*" said the marshal.
 
-"*Twenty-Eight,*" said Marten. "*Marten, ward, catcher. Sedge, ward. Bannock, stance. Dray—*" He stopped. He did not say *edge.* Twenty-Eight had nobody with more than one door, and Dray had said in the autumn, in a chair, that she would always declare her own.
+"*Twenty-Eight,*" said Marten. "*Marten, ward, catcher. Shapter, ward. Bannock, stance. Dray—*" He stopped. He did not say *edge.* Twenty-Eight had nobody with more than one door, and Dray had said in the autumn, in a chair, that she would always declare her own.
 
 "*Dray,*" said Dray herself, before anybody could stop her, "*edge. Declared. Single. Read.*"
 

@@ -1106,3 +1106,34 @@ with a cue only that person has. No new lens.
   author seat, job `1a27a443` (prompt SHA-256 `78cfa0abf43fa79d3f64408341fca008a429c8ddb8329f345a619d73825fc4c5`): exactly those edits.
 - Frozen first draft `editions/movement-006-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK). Final hashes: `provenance/MOVEMENT-006-RECHECK-CONFIRMATION.md`. Final word count 56384 (`wc -w`).
 - The showrunner (Sonnet 5.5) wrote no prose. **Movement Six is accepted as editorial context for the whole-book review.** Formula sentence targets were not reached.
+
+## Whole-book consolidated repair (located defects only) — 2026-10-15
+
+- Author seat: Claude Opus 5.5, runtime-reported `claude-opus-5-5` (not verifiable from inside the session), background job
+  `32af798e`, prompt `planning/OPUS-5.5-WHOLE-BOOK-REPAIR.prompt.md`, SHA-256
+  `3bfd58b11cebcb2ebab2b865ab6928952697f2c393ac6c0e76ebdccdda202283`. No subagent, other model or Skill tool. Byline Monroe
+  Jackson; seat Monroe Jackson 1.3.0 / O'Connor 1.3.0.
+- Inputs: the three simulated whole-book reviews (continuity, promises, seams; same model family, not human reader feedback),
+  the repetition data, the ledgers and records, and Book One at located points.
+- One bounded same-author repair of the located findings: W1–W18 (W4 deferred to the owner), P1–P5 (P6 left), WB-01–WB-22 with
+  F01–F19 (F06 replaced by P1's wording), and R01–R50 (R37 declined). Showrunner decisions applied: the Hunt restated as
+  4,647.2 / 4,181.2 / 466.0; Thrale's reach in the Graving (option b); the yes/no hour moves to the morning from Monday the 21st;
+  Twenty-Eight's Hold renamed **Shapter**; the Barrel **686.4**; *plank* widened once; the movement-end refrain kept whole only
+  at ch. 24.
+- 35 chapters edited, 326,226 → 325,945 words (`wc -w`). The last section of ch. 48 is byte-identical. Quote parity: 0 new odd
+  paragraphs. Frozen edition `editions/whole-book-pre-repair/` verified OK ×48 and not written.
+- Records reconciled: `STATE_LEDGER.md`, the six movement continuity files, `BOOK_MAP.md` (one dated note), `CHARACTERS.md`
+  (one dated note). Every disposition, before/after, hash and owner item: `provenance/WHOLE-BOOK-REPAIR.md`.
+- Second repair, same day, from the fresh-context recheck (`provenance/WHOLE-BOOK-RECHECK.md`, job `59421479`): four located items only (D1 ch. 33:71 sentence cut; D2 ch. 42:207; D3 ch. 39:189 "seventy-six"; D4 three stale "Sedge" in `MOVEMENT-006-CONTINUITY.md`), recorded in `provenance/WHOLE-BOOK-REPAIR.md` §8.
+- Not rechecked, not accepted, not committed, not published.
+
+## Whole book, review, repair, recheck and acceptance — 2026-10-15
+
+- Whole-book reviews (fresh context, read-only, same model family, runtime-reported `claude-opus-5-5`; simulated, not human): continuity, job `6f04bed8` (prompt SHA-256 `477357469ffac1bac980fcbef5dfa2a5e2410406a380e77d5e234cf9f233ebaf`);
+  promises, job `26886465` (`d7e68d9eab6ee7e9cd07a36536eb8aab6a06600b30823a8de91ee65839d89e7e`); seams, job `ffc1e86f` (`5bc5b0afa3403eff4dd62330b9d29b8e743ad16d082519c69acc440a20c7db7d`, a partial read that says so).
+- Whole-book repair by the Opus 5.5 author seat, job `32af798e`, prompt `planning/OPUS-5.5-WHOLE-BOOK-REPAIR.prompt.md` (SHA-256 `3bfd58b11cebcb2ebab2b865ab6928952697f2c393ac6c0e76ebdccdda202283`); record `provenance/WHOLE-BOOK-REPAIR.md`.
+  Showrunner decisions on owner-level items are recorded in the brief §B and the repair report §1.
+- Fresh-context targeted recheck, job `59421479` (prompt SHA-256 `1174bc1cb0a7daedd6f2eaece70d068c2ae42c3b6a66d8d88aeb056beb8c849c`): four items. Bounded second repair, job `0176bac3` (prompt SHA-256 `a341c3fb4d8f683d3a7e27455bf4a5adad1f78755ca4aa2559a587686adfe982`).
+- Frozen pre-repair book: `editions/whole-book-pre-repair/` (48 chapters, `SHA256SUMS.txt`, read-only, verified OK). Final hashes and word counts: `provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md` (325,933 words).
+- The showrunner (Sonnet 5.5) wrote no prose at any point in this book's second half. **The complete book, chapters 1–48, is accepted as editorial context for publication.** No human reader has read it; no narration has been approved; the owner's formula
+  sentence-length targets were not reached.

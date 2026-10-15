@@ -164,7 +164,7 @@ The Graving was so quiet that Kiva could hear her own heart, which was going a l
 
 "I've dreamed it," said Thrale. "Three times. At nineteen, the night I took my door. In 2670, the night I was made Master, in my own house, with nothing in it that kept time. And on the 17th of the ninth month of last year, at my window over the river, at twenty past two in the afternoon, with a fever that came on me at the window and was gone by dark." She did not look at anybody. "No roof. Nothing over. Not empty. Something paying attention. I'll not describe it further. The Master Annick described it better, and so did a girl of seventeen, and so, I find, did a man I've been told for eleven years is my house's enemy."
 
-On the bench, Kiva felt her doors, which had been lying down since two, lie flatter still, as dogs do when the person they do not need to watch sits down.
+On the bench, Kiva's doors did not stir. They had lain down as the Master passed the bench, and had got up again, one at a time, as she walked on to the gate, as dogs do when the person they need not watch has gone to the far end of the room.
 
 "I've told nobody," said Thrale. "Not my house. Not the sister at the gate, who's standing behind me and has just heard it with everybody else." She did not turn round. "I'd my reasons. They were the Master Annick's. A house that keeps one door each would make a dream into a rule by spring, and I've spent my life making sure it hasn't any rules but the ones it needs." She was quiet for a moment. "Mr. Halden reads it one way. I've heard his reading now, from the Board's clerk. He wants every lamp in the country white, keeping one time, so that whatever comes finds them lit."
 
@@ -226,7 +226,7 @@ Kiva stood up on the second bench. She did not decide to. Her knees decided.
 
 She turned and walked out of the Graving by the seaward ramp, with the two sisters a step behind her, and the empty cart left standing by the gate, and the thirty-six jars on it in their straw.
 
-Kiva's doors got up, one at a time, as she went, and stood, and shook themselves. The town's count came back up through the bench to where it always was. And the heat in her hands, which had been held, she understood now, by the same thing that had held her doors down, came up all at once like water when a hand is taken off a pipe.
+The town's count came back up through the bench to where it always was. And the heat in her hands, which she had held off for an hour as she held her face, came up all at once, now that there was nothing left to hold it for, like water when a hand is taken off a pipe.
 
 She sat down rather quickly.
 
@@ -242,7 +242,7 @@ The Clerk had not moved through any of it. She sat at the middle of the Board's 
 
 Mara stood. She still had the page folded under her reading hand.
 
-"The Works hasn't got one either," she said. "The Works doesn't believe anything that hasn't happened. Mr. Rusk will tell you so." She did not look at Rusk. "I'll tell you mine, because you've asked. It's the Home Line's as well; a foreman told me so in the autumn, on a hill, about a drum." Her voice was dry and exact. "I don't know what's coming. Nobody here does. The Proprietor thinks it'll find stepped lamps white. The Master thinks it'll find nothing to answer in a house with one door. I don't know which of them is right, or whether either is." She looked at the Board.
+"The Works hasn't got one either," she said. "The Works doesn't believe anything that hasn't happened. Mr. Rusk will tell you so. I'll tell you mine, because you've asked. It's the Home Line's as well; a foreman told me so in the autumn, on a hill, about a drum." Her voice was dry and exact. "I don't know what's coming. Nobody here does. The Proprietor thinks it'll find stepped lamps white. The Master thinks it'll find nothing to answer in a house with one door. I don't know which of them is right, or whether either is." She looked at the Board.
 
 Somewhere behind her, Rusk took his thumbs out of his waistcoat.
 
@@ -296,7 +296,7 @@ She had expected it. She found expecting it did not help. By the third bollard s
 
 Aske had her on the bed by the north window inside a minute, with the candle lit and his watch out and Pru on her knees on the other side with her capped fingers on Kiva's wrist, very lightly, because she could not grip.
 
-"A hundred and four," said Aske. "Going up." He put the back of his hand against her cheek, as her aunt used to. "Two of them. In one day. A man with his hand on a glass in the morning, and a woman with her back to the sea in the afternoon." He wrote it on the card, standing, against the window frame, and Kiva watched him write it and could not read it for the heat. "*The third this year. Two Glory masters inside six hours.* That's all I'll write. It's all I know."
+"A hundred and four," said Aske. "Going up. Two of them. In one day. A man with his hand on a glass in the morning, and a woman with her back to the sea in the afternoon." He wrote it on the card, standing, against the window frame, and Kiva watched him write it and could not read it for the heat. "*The third this year. Two Glory masters inside six hours.*"
 
 "I knew," said Kiva. Her teeth were together. "On the quay. Before."
 
@@ -308,7 +308,7 @@ She knew how it would come, if it came. She had felt it come on a ferry with her
 
 It did not come.
 
-There was the loft's ceiling, dark, with its beams. There was the candle. There was the count, under the floor and the chandlery and the quay, four and four, going on. There was Aske's voice, saying a number every few minutes, and Pru's breathing, and somewhere at the far end of the loft somebody turning over who was not asleep.
+There was the loft's ceiling, dark, with its beams. There was the candle. There was Aske's voice, saying a number every few minutes, and Pru's breathing, and somewhere at the far end of the loft somebody turning over who was not asleep.
 
 At a quarter to seven, by Aske's watch, with the fever at a hundred and four and her teeth together, she took her left hand out from under the blanket and laid the first two fingers on the iron rail of the bed. She did it on purpose. It was the hour.
 
@@ -324,9 +324,7 @@ The fever broke a little after eleven, in a long sweat that soaked the blanket t
 
 She said it aloud, as she had said it a week ago. Her voice was very hoarse.
 
-Aske looked at her over his spectacles in the candlelight.
-
-"Nothing came," he said. It was not a question.
+"Nothing came," said Aske. It was not a question.
 
 "Nothing came." She shut her eyes. "That's all. I'd have told you if it had. I'd tell anybody now."
 
@@ -346,7 +344,7 @@ The headline went across the top of the folded sheet in letters as big as her th
 
 And under it, smaller: *The Board Names What Nobody Can Say. Two Masters and a Catcher. The Order Gives Its Cellar to the Bank. The Board Warrants Wednesday.* And under that, in a column with a line round it: *"Some Go Out. Some Go White." "I'll Not Have It Said I Saw More."*
 
-She looked at it for a long time.
+She read the top line again.
 
 It was a name. It was not hers. It had been a Glory master's phrase in a notebook nobody had been let read, and a clerk had borrowed it in a dock for want of a better, and now it was in letters as big as her thumb on a penny sheet that a boy with ink on his thumbs had sold up and down Quay Street. By the morning it would be in every town on the coast. By the end of the week it would be in Meridian, on Coper Street, in the shop.
 
@@ -372,9 +370,9 @@ She shut her eyes.
 
 Kiva lay with her hand on the cold disk and her eyes open.
 
-Outside the window, under the white lamps on the Long Quay and the yellow ones in the low town, Saltmere went on keeping its count. Four and four. Fifty-seven to the minute, or faster. At the end of the Mole, in a swept hut on the sea side where nothing kept time, a woman in grey who had broken her house's only rule was lying awake with her hands folded, and two sisters were writing it in a book. On a cart at the seaward end of the Graving, under a grey cloth, thirty-six jars stood in their straw, given. On the second floor of a pump house a keeper had written a line in her great-grandfather's book and gone to bed for the first time since Tuesday. In a tall grey house on the Long Quay, every window lit, a man of a hundred and three sat with his left hand flat on a glass case and, Kiva thought, his right over his eyes, where nobody could see him.
+Outside the window, under the white lamps on the Long Quay and the yellow ones in the low town, Saltmere went on keeping its count. At the end of the Mole, in a swept hut on the sea side where nothing kept time, a woman in grey who had broken her house's only rule was lying awake with her hands folded, and two sisters were writing it in a book. On a cart at the seaward end of the Graving, under a grey cloth, thirty-six jars stood in their straw, given. On the second floor of a pump house a keeper had written a line in her great-grandfather's book and gone to bed for the first time since Tuesday. In a tall grey house on the Long Quay, every window lit, a man of a hundred and three sat with his left hand flat on a glass case and, Kiva thought, his right over his eyes, where nobody could see him.
 
-In the Board's press, in a black iron box with three locks, there was a paper with a seal on it and the hour, which would be opened at noon on Wednesday. At dawn on Wednesday, if two people were right, the basin would go still at nine minutes past six. There were three days.
+At dawn on Wednesday, if two people were right, the basin would go still at nine minutes past six. There were three days.
 
 And after that there was Rhea Sorn's last night on the van, and the last of the third month, and a card that had not been written yet, and either of them might say no.
 

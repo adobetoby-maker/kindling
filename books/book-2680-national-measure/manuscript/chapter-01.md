@@ -64,7 +64,7 @@ It was a fair thing to ask. It was the fairest question that she had been asked 
 
 He laughed, once. He put the parcel under his own arm, quite gently, and went up the plank with it.
 
-She stood on the stair a moment longer. Healer Aske had counted the weeks for her, so that she need not, and she had gone on counting them anyway. There had been eleven and four days. There were ten and four days now. *Not a step,* he had said. *Not a ward for a tap.* The ash office had stopped her Monday thimble, the half dram a week that was hers to work with, on the strength of his card; a candidate who was stood down drew nothing, and that was only sense.
+She stood on the stair a moment longer. Healer Aske had counted the weeks for her, so that she need not, and she had gone on counting them anyway. There had been eleven weeks and four days. There were ten weeks and four days now. *Not a step,* he had said. *Not a ward for a tap.* The ash office had stopped her Monday thimble, the half dram a week that was hers to work with, on the strength of his card; a candidate who was stood down drew nothing, and that was only sense.
 
 She had three doors, the hand and the Ember and the still, which were the three ways that she could take ash in and work it; and every one of them was shut, and a good many people had gone to some trouble to see that they stayed so.
 
@@ -92,7 +92,7 @@ The needle nodded. It went up, and came down, with a slow dreadful ease. It had 
 
 "Those. I've come to depend on them."
 
-There were four of them besides. The warden of nineteen was a stout man in a carter's apron, with his handbell hung at his belt like a tool. There was a Works fitter whom Kiva knew, because he had once dug up the mark that she landed on, and with him his boy, Ned, who was fourteen and had silt in his hair on the last occasion that she had seen him. Ned had a can on a hand truck. He looked at Kiva's left arm with frank interest and was nudged.
+There were three of them besides. The warden of nineteen was a stout man in a carter's apron, with his handbell hung at his belt like a tool. There was a Works fitter whom Kiva knew, because he had once dug up the mark that she landed on, and with him his boy, Ned, who was fourteen and had silt in his hair on the last occasion that she had seen him. Ned had a can on a hand truck. He looked at Kiva's left arm with frank interest and was nudged.
 
 "Seven drums," said Mara. "One a day. I mean to do them as I did four-and-twenty on a wall, as I know of no other way, and because it worked. So I'll say it aloud, the whole of it, and anybody who hears a thing left out is to stop me." She held up her right hand, the one that told her nothing, and counted on it. "The streets are warned, and on their boxes for an hour. The drum's quenched. The dead can comes out. A fresh one goes home, with a pinch in it of ash that has never heard a beat. It's open for a slow sixty, and in that sixty it's tuned to a count of its own, off a card. And nothing near it keeps time."
 

@@ -504,7 +504,7 @@ Jude entered the floor and the yard on Saturday morning, at the Rowan kitchen ta
 
 "*Friday the 13th. The Old Yard. The handed crossing, called; four tries before the Marshal, on the Low Lane's mast, unsanctioned. Finch, two wards, 0.12. Cade, two stances, 0.06. Rowan, Embers, off her own thimble. Spent, 0.18. Held, three and six hundredths.*" He shut the book. "Sealed, eight-tenths. That adds."
 
-Nobody said anything for a moment. Mara, at the far end of the table, did not look up from the tide table, and her pencil did not move.
+Mara, at the far end of the table, did not look up from the tide table, and her pencil did not move.
 
 "Three," said Perrin. He had the license in front of him on the oilcloth, flat, with the coil of tarred rope beside it. "We had nine on the first. We've three."
 
