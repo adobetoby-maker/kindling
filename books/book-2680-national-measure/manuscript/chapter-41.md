@@ -72,7 +72,9 @@ He did not look up from the card.
 
 "No."
 
-"Here's the thing I haven't said." He took his spectacles off and folded them, which he did not often do, and held them in his hand. "Nobody's asked me, and I'd rather say it now than at six on Wednesday with the water running. If you make your crossing, and something goes wrong after it, and you make another in the same hour, against my card." He did not raise his voice. "I don't know what it costs. Nobody does; it's never been done. I'll tell you what I think. I think the hand goes. Not cold up the arm, the way it's gone after every one of these. Gone. The hand itself, to the wrist, the way your two fingers went and didn't come back, except I think the rest of it comes back, in weeks and not in nights. Three, if I'm guessing well. And then I think your arm's told me something about itself it can't untell, and I'll not sign one in seven after that. I'd want a fortnight between, for the rest of the year at the least."
+"Here's the thing I haven't said." He took his spectacles off and folded them, which he did not often do, and held them in his hand. "Nobody's asked me, and I'd rather say it now than at six on Wednesday with the water running. If you make your crossing, and something goes wrong after it, and you make another in the same hour, against my card."
+
+He did not raise his voice. "I don't know what it costs. Nobody does; it's never been done. I'll tell you what I think. I think the hand goes. Not cold up the arm, the way it's gone after every one of these. Gone. The hand itself, to the wrist, the way your two fingers went and didn't come back, except I think the rest of it comes back, in weeks and not in nights. Three, if I'm guessing well. And then I think your arm's told me something about itself it can't untell, and I'll not sign one in seven after that. A fortnight between, for the rest of the year at the least."
 
 Kiva sat very still on the edge of the bed.
 
@@ -136,7 +138,9 @@ They did not meet in the keeper's room. There were too many of them for it. Peve
 
 It was the loudest room Kiva had ever sat down in. The six iron pumps went up and down on either side of the table, slow and enormous, each one as tall as a cart standing on end, and the whole floor shook with them, four and four. Every voice at the table had to be lifted a little to be heard over the stroke. It was the strangest place in the world, Kiva thought, to make a plan for stopping a thing: in the middle of it, with your feet on it.
 
-Yeo sat at the head, because it was her warrant. Mara sat at her right with her reading hand flat on a sheaf of fault paper. Peverell sat at her left in her apron with her spectacles on their cord. Hart stood behind the keeper's chair with his good hand on its back and his bad one in his jacket. Rusk had a stool at the far end, with his thumbs in his waistcoat and his eyes half shut. Coombe sat on a crate with her rope in her lap. Rhea Sorn stood by the fifth pump in her slate blue with her own slate on her belt, because the officer had asked Graywater for an officer and Graywater had sent her. Noa had his ledger. And beside Noa, very upright on a borrowed stool, sat a sister of the Order of the Even Hand in plain grey, with her hands in her sleeves: the one who had stood at the Order's gate in the second month and looked at Kiva as though she were a parcel that had come to the wrong house.
+Yeo sat at the head, because it was her warrant. Mara sat at her right with her reading hand flat on a sheaf of fault paper. Peverell sat at her left in her apron with her spectacles on their cord. Hart stood behind the keeper's chair with his good hand on its back and his bad one in his jacket. Rusk had a stool at the far end, with his thumbs in his waistcoat and his eyes half shut. Coombe sat on a crate with her rope in her lap. Rhea Sorn stood by the fifth pump in her slate blue with her own slate on her belt, because the officer had asked Graywater for an officer and Graywater had sent her. Noa had his ledger.
+
+And beside Noa, very upright on a borrowed stool, sat a sister of the Order of the Even Hand in plain grey, with her hands in her sleeves: the one who had stood at the Order's gate in the second month and looked at Kiva as though she were a parcel that had come to the wrong house.
 
 The captains sat along one side. Carrow, Pettit, Brask, Marten, a tall freckled girl from Holloway's second four called Bolitho, who looked at the pumps as though she had never seen one so big, and Perrin, at the end, with his hand pressed to his side. Kiva sat beside Perrin. She had been asked for.
 
@@ -152,7 +156,7 @@ Mara did not look at anybody. She looked at her own hand on the fault paper, as 
 
 Nobody said anything for a moment. The pumps went up and down.
 
-"I could say that back," said Perrin. "I'd want to know what the bucket weighs."
+"I could say that back," said Perrin. "What I'd like to know is what the bucket weighs."
 
 "So would I," said Brask. He was the big mild captain of Old Four, who read things the way other people read the labels on jars, and he had been looking up at the galleries while Mara spoke, at the cells. "It's not a bucket, though. I've watched it twice from the wall. It's a cask. It's got staves up the outside, at the springs, grey ones, and a chime round the top, and no head and no bottom." He scratched his cheek. "The water's its head. And the head's keeping time."
 
@@ -230,7 +234,9 @@ The sister of the Order had not moved while they talked about the pumps. When th
 
 The sister looked at her, and did not say yes or no.
 
-"Then the plant's past forty," said Yeo. She drew it on the table with her finger, in the dust from the pumps, and they all leaned in to see. The basin, with the pump house at its head. The ring, ten paces out from the outfalls. The Graving lying along the west side, with its mouth opening onto the basin at the south-west corner, fifty paces from the ring across the mud. "The gate's floated out tomorrow on the noon high water. It can't go back in till there's a flood under it to float it, an hour after the slack, maybe more. The Master holds the mouth till it's back. The thing goes in past her, and down the dock floor, and it's planted forty-five paces in, where her stillness can't reach whoever's planting it. And it's cut there, on an officer's slate." She looked up at Rhea. "Sorn, it's yours, the cut. If you'll have it."
+"Then the plant's past forty," said Yeo. She drew it on the table with her finger, in the dust from the pumps, and they all leaned in to see. The basin, with the pump house at its head. The ring, ten paces out from the outfalls. The Graving lying along the west side, with its mouth opening onto the basin at the south-west corner, fifty paces from the ring across the mud.
+
+"The gate's floated out tomorrow on the noon high water. It can't go back in till there's a flood under it to float it, an hour after the slack, maybe more. The Master waits back on the outer quay till the last plant's called, well clear of the sill. Then she holds the mouth till the gate's back. The thing goes in past where she'll stand, and down the dock floor, and it's planted forty-five paces in, where her stillness can't reach whoever's planting it. And it's cut there, on an officer's slate." She looked up at Rhea. "Sorn, it's yours, the cut. If you'll have it."
 
 "I'll have it," said Rhea.
 
@@ -240,7 +246,9 @@ They all looked at Kiva.
 
 She had known they would. She had thought about it since a ferry and a fever and a creek with a man's boot sticking out from under a fold, and she had known since Thursday what she would say, and she found now that saying it at a table in the middle of six iron pumps was not the same as knowing it on a bench.
 
-"Nobody carries it far," she said. "That's the whole of it. Nobody holds it long enough for it to fold on them." She put her left hand on the table, flat, the way Anwen put her hands on a card. "It's the pass. Catch, carry, plant. Three people with unlike doors, and somebody to call the pass who's been inside both gaps. We did it on a yard in the second month. We did it at Mallow Creek with a sleeve ten paces long, and it held. This is bigger. So it's not three people. It's three planks. Wards together for the catch. Embers together for the carry. Still doors together for the plant." She looked at Yeo's lines in the dust. "And it's not one pass. A carry can't go the whole way with a thing like that on its fists. On one pair of fists it'll start to unfold by twenty paces. On two, with a count, by fifty, maybe. So it's three passes, and none of them longer than fifty. Off the water to a mark on the mud. From the mud to the sill. From the sill to the plant, past the Master's forty."
+"Nobody carries it far," she said. "That's the whole of it. Nobody holds it long enough for it to fold on them." She put her left hand on the table, flat, the way Anwen put her hands on a card. "It's the pass. Catch, carry, plant. Three people with unlike doors, and somebody to call the pass who's been inside both gaps. We did it on a yard in the second month. We did it at Mallow Creek with a sleeve ten paces long, and it held. This is bigger. So it's not three people. It's three planks. Wards together for the catch. Embers together for the carry. Still doors together for the plant."
+
+She looked at Yeo's lines in the dust. "And it's not one pass. A carry can't go the whole way with a thing like that on its fists. On one pair of fists it'll start to unfold by twenty paces. On two, with a count, by fifty, maybe. So it's three passes, and none of them longer than fifty. Off the water to a mark on the mud. From the mud to the sill. From the sill to the plant, past the Master's forty."
 
 "Three in a row," said Coombe.
 
@@ -270,9 +278,9 @@ There was a short silence.
 
 "Then it's written," said Yeo, and Noa wrote it.
 
-They went on. They went through the planks name by name, who had which door and who had rehearsed with whom, and Kiva saw, as the names went down on Noa's sheet, that most of them had never stood in a pass in their lives and that some of them had never stood beside each other on any floor. The Ropewalk's four had beaten Seven twice. Old Four had protested Seven's Carry. Twenty-Eight had beaten Seven in a lane on Saturday, two hours before the Measure was read. Halden License had beaten everybody, and was standing without its blade. And they were going to put their hands under one thing together at nine minutes past six on Wednesday and let go of it on a word.
+They went on. They went through the planks name by name, who had which door and who had rehearsed with whom, and Kiva saw, as the names went down on Noa's sheet, that most of them had never stood in a pass in their lives and that some of them had never stood beside each other on any floor. The Ropewalk's four had beaten Seven twice. Old Four had protested Seven's Carry. Twenty-Eight's blade had beaten Seven's catcher in a lane on Saturday, two hours before the Measure was read. Halden License had beaten nearly everybody, and was standing without its blade. And they were going to put their hands under one thing together at nine minutes past six on Wednesday and let go of it on a word.
 
-"It can't be done by strangers," said Perrin. He said it quietly, to the table, with his hand pressed to his side. "I'd want that known. It's on Rowan's sheet. It's the first line under the limits."
+"It can't be done by strangers," said Perrin. He said it quietly, to the table, with his hand pressed to his side. "It's on Rowan's sheet, under the limits."
 
 "Then they'd better stop being strangers," said Coombe. "By Wednesday." She stood up off her crate with her rope in her hands. "The Graving floor at two. All of them. Bring whatever's nearest to a cask full of water that you can lift with three wards. I'll bring the rope."
 
@@ -342,9 +350,9 @@ At half past four they ran it end to end three times, on the dry floor, with the
 
 She stood by the tun at the end of the third run, with the water slopping quietly against its top hoop and the grey light coming down through the glass, and understood that she had been calling the pass for four months as though it were hers.
 
-It had never been hers. It had been Jude's name for it, and Pru's fold, and Perrin's plant, and the Line's old word. She had only been the one who could hear both gaps. Now there were eighteen people and a tun and a word, and the word had to be something any of them could have called if they had stood where she stood. She thought that if she did it right on Wednesday, somebody else would be able to stand there next time.
+It had never been hers. It had been Jude's name for it, and Pru's fold, and Perrin's plant, and the Line's old word.
 
-She had not thought of that before. She wrote it in her book that night, on the right, left-handed, under the day's line. *The call's not mine. It wants to be a word anybody can hear.* Then, after a while, under that: *Somebody else will have to call it. Teach it so they can.*
+She wrote in her book that night, on the right, left-handed, under the day's line: *The call's not mine.* Then, after a while, under that: *Somebody else will have to call it. Teach it so they can.*
 
 At five Coombe took her rope and went up the steps.
 

@@ -22,7 +22,7 @@ The ring stood on the ward line and its held water trembled, four times, leaning
 
 She said it as she had learned to say it on the Graving floor on Monday, from her stomach, long, a word that belonged to nobody's ear in particular. Four walls opened. They opened together, on the end of the word, into the air, as eighteen strangers had let go of a rope's end above an open hand. And for a quarter of a count the cask stood on nothing.
 
-It hung a hand's breadth above the frosted mud with nothing under it at all, grey and staved, with its brown water standing in it, belonging to nobody. Kiva had seen a sleeve hang like that at Mallow Creek. It had been the length of a room. This was the height of a man and as wide as a cart, and full, and it hung there in the grey morning in front of twenty-four people on a wall and the whole of Saltmere behind them, and did not fall.
+It hung a hand's breadth above the frosted mud with nothing under it at all, grey and staved, with its brown water standing in it, belonging to nobody. Kiva had seen a sleeve hang like that at Mallow Creek. It had been the length of a room. This was taller than a child and as wide as a cart, and full, and it hung there in the grey morning in front of twenty-four people on a wall and the whole of Saltmere behind them, and did not fall.
 
 Then Jude and Gower had it.
 
@@ -72,7 +72,7 @@ Kiva let her breath out. She had not known she was holding it.
 
 Jude was looking at his right hand. The skin across the knuckles was white where the wrap had been, and he turned it over and back and flexed the fingers.
 
-"It's all right," he said. "It's cold. It's not taken." He looked at the cask standing by the stake, a pace from him, with its water over his head. "I'd want it said I was frightened."
+"It's all right," he said. "It's cold. It's not taken." He looked at the cask standing by the stake, a pace from him, with its water standing to his shoulder. "I'd want it said I was frightened."
 
 "Everybody was," said Gower, who was a blade from Old Four and had never said three words to Jude in his life. "Come on. We've the sill to get to."
 
@@ -136,7 +136,7 @@ The four trays leaned on the count. The held water came round to them.
 
 "*Nobody.*"
 
-Brask and Tolver shut. The cask came off their stillness and hung on nothing, and the four catchers' trays were under its foot at the four quarters before it had finished hanging. Kiva saw Pru's capped fingers whiten on the silver. She saw Treen's quick dark face set. They held it. Four small trays held a cask as tall as a man, full of water, at the four quarters of its foot, the way four people hold up the corners of a table.
+Brask and Tolver shut. The cask came off their stillness and hung on nothing, and the four catchers' trays were under its foot at the four quarters before it had finished hanging. Kiva saw Pru's capped fingers whiten on the silver. She saw Treen's quick dark face set. They held it. Four small trays held a cask that stood higher than their heads where they knelt, full of water, at the four quarters of its foot, the way four people hold up the corners of a table.
 
 "*Nobody,*" said Kiva, on the next rest.
 
@@ -172,7 +172,7 @@ He was a still door and nothing else. His door was open into the granite, and a 
 
 He made a sound. It was not loud. It was the sound a big man makes when he puts his hand on a stove he did not know was lit. And his door went out. Kiva felt it go, through the granite, the way she had felt Brask's go in: a post pulled out of wet ground. He sat down on the sill where he stood, with his legs white from the hip to the boot and frost going over them like salt, and did not get up.
 
-The Pascoes were at the sill's foot with the cask on their bars, the younger one still down to the knee in slurry, and nothing to plant it on but Wace, alone, a pace back on the dock floor, opening his door again into the stone, alone.
+The Pascoes were at the sill's foot with the cask on their bars, the younger one still down to the knee in slurry, and nothing to plant it on but Wace. He had shut and stepped back off the sill when Pru called. Now he came up onto the granite again, a pace in from its outer edge, and opened his door into the stone, alone.
 
 One still door could not plant a cask that size. They had found that out on Monday with the tun. A plank was two.
 
@@ -182,13 +182,15 @@ Kiva looked at his fist. The grey had come round his bar and his knuckles and hi
 
 She did not decide it. She had decided it on Monday, at a trestle, in a room full of pumps. She had decided it in a ferry's fever and on a bench in a dock. She had decided it on Thursday morning, at a window, when she told her healer what the week's crossing was for.
 
+She went round the cask's north side through the slurry, past the younger Pascoe on her one sunk leg, and stepped up out of it onto the sill: onto the granite at its outer edge, where the gate's iron seating went into the stone, the place her two fingers had called good three minutes before. Wace was a pace behind her on the stone.
+
 "*Nobody,*" said Kiva.
 
 The Pascoes opened their fists. The cask hung in the air over the slurry at the sill's foot, on nothing, grey and staved and full, with the frost on its south side where the sheet had gone over, and it belonged to nobody.
 
 She took it.
 
-She put her right fist under the chime with the bar lit along it, at the north side, where the elder Pascoe's had been, and it came down onto her bar. It came down onto her the way a wall comes down onto a man who has put his shoulder under it to hold it up: all of it, at once, everything a Barrel weighs and everything the town's count weighs inside it, onto one girl's right fist. Her knees went. They went to the mud and she let them go, because she could not have stopped them, and she knelt in the slurry at the foot of the sill with the cask riding on her bar a foot above her head and the held water leaning at her, four and four, and the grey beginning at once to come round her knuckles.
+She put her right fist under the chime with the bar lit along it, at the west rim, where the cask hung nearest the sill, and it came down onto her bar. It came down onto her the way a wall comes down onto a man who has put his shoulder under it to hold it up: all of it, at once, everything a Barrel weighs and everything the town's count weighs inside it, onto one girl's right fist. Her knees went. They went to the granite and she let them go, because she could not have stopped them. She knelt on the sill's edge with the cask riding on her bar a foot above her head, and the held water leaning at her, four and four, and the grey beginning at once to come round her knuckles.
 
 It was heavier than anything she had ever carried in any door. It was heavier than she had known an Ember could hold. It was heavier than the sleeve at Mallow Creek by so much that she understood, kneeling there, that she had never really known what a Barrel was. She had read the word in the Board's books for a year. This was what it meant.
 
@@ -200,25 +202,23 @@ She could hold it for a count. Perhaps two.
 
 She shut her Ember.
 
-There is a moment in a crossing when nothing is open. Kiva had been through it six times on sanctioned masts and once in the Pit with a field direction and three times with three doors, and she knew it as she knew the stair at home in the dark. It was a quarter of a count, perhaps a little more, with every door she had shut and the ash in her going nowhere, and in it she was nobody's either. She was not a catcher or an Ember or a still door. She was a girl kneeling in mud with her hands empty.
+There is a moment in a crossing when nothing is open. Kiva had been through it a dozen times on sanctioned masts and once in the Pit with a field direction and three times with three doors, and she knew it as she knew the stair at home in the dark. It was a quarter of a count, perhaps a little more, with every door she had shut and the ash in her going nowhere, and in it she was nobody's either. She was not a catcher or an Ember or a still door. She was a girl kneeling on wet stone with her hands empty.
 
 The cask hung over her on nothing.
 
 Then her still door opened.
 
-It opened down through her knees into the slurry and through the slurry into the granite at the sill's foot, and it was slow and heavy and very sure, as it always was, the way a post goes into wet ground. She felt it find the stone. She felt Wace's beside it, a pace off, already there. And the cask came down onto the two of them together, onto her stillness and his, and stood. It stood on the sill of the Graving's open mouth, upright and full, with the held water trembling in it four and four over her head, and did not fold, because there was nothing in a still door for it to fold onto. There was only ground.
+It opened down through her knees into the granite of the sill, into the stone she had tested, and it was slow and heavy and very sure, as it always was, the way a post goes into wet ground. She felt it find the stone. She felt Wace's beside it, a pace off, already there. And the cask came down onto the two of them together, onto her stillness and his, and stood. It stood on the sill of the Graving's open mouth, upright and full, with the held water trembling in it four and four over her head, and did not fold, because there was nothing in a still door for it to fold onto. There was only ground.
 
 "*Planted,*" said Wace.
 
-Kiva knelt in the slurry with her still door open and her hands on her knees and the cask standing on her.
+Kiva knelt on the granite with her still door open and her hands on her knees and the cask standing on her.
 
 Ten paces inside the dock, at his desk under the lane mast, Noa looked at his pens.
 
 "*Cliff,*" he said. His thin reader's voice carried up the dock and out of the mouth to the basin wall as clearly as Dray's. "*Ember shut. Gap. Still open. A crossing, single, declared at six, by the captain's voice.*" He wrote. "*Eleven minutes past six and forty seconds. Read.*" He wrote again, and looked at the tape a moment longer. "*The notch at five.*"
 
-On the basin wall, under the travelling mast, Perrin had his hand pressed hard to his side. Beside him Orla sat on her crate with her stick across her knees, and she did not move at all. The Chair, further along the wall, had opened her ledger against her arm and was writing.
-
-Kiva did not see any of them. She was looking at her own left hand, lying on her knee in the slurry.
+She knew afterward that on the basin wall, under the travelling mast, Perrin had had his hand pressed hard to his side; that Orla beside him on her crate had not moved at all; that the Chair, further along the wall, had opened her ledger against her arm and written. She did not see it. She was looking at her own left hand, lying on her knee.
 
 It was warm. It had been warm for ten mornings, and it was warm now. Nothing had happened to it yet. Aske had said the seventh went past the elbow and sulked five nights, and that it would begin within the hour, at the knuckle, and come up. It had not begun. She had crossed, on a sanctioned mast, read by the office's reader, declared by her captain's voice, inside her certificate, on her own word, with her sponsor sitting on a crate on the wall thirty paces away. It was the first thing she had ever done that mattered that was entirely inside the lines somebody else had written for her. She found that she did not feel anything about it at all, except that the cask was very heavy and her knees were wet.
 
@@ -238,11 +238,11 @@ It was Aske. He had come along the sill from its north end, where Bannock had sa
 
 The first ward line came down the steps at the dock mouth's south side at twelve minutes past.
 
-They had run the whole length of the basin wall from the outfalls, along the top, the four of them, while the second pass walked across the mud below them. Anwen came down the steps first with her cap gone and her hair coming down at one side. Edda came behind her, small and stern, and then Hesketh, and Sedge last, breathing hard. They went past the cask on the dock floor side, inside the mouth, and stood in their line on the granite on the far side of it from Kiva, between the cask and the dock. Four walls came up at their knees, low and silver.
+They had run the whole length of the basin wall from the outfalls, along the top, the four of them, while the second pass walked across the mud below them. Anwen came down the steps first with her cap gone and her hair coming down at one side. Edda came behind her, small and stern, and then Hesketh, and Sedge last, breathing hard. They went past the cask on the dock floor side, inside the mouth, and stood in their line on the dock floor at the sill's inner edge, on the far side of it from Kiva, between the cask and the dock. Four walls came up at their knees, low and silver.
 
 Behind them, on the dock floor, Jude and Gower were waiting with their bars unlit and their knuckles white.
 
-"*First line,*" said Kiva, from the slurry. "*Far edge.*"
+"*First line,*" said Kiva, from her knees on the sill. "*Far edge.*"
 
 "*Pryce has it,*" said Anwen.
 
@@ -258,7 +258,7 @@ She shut her still door. Wace shut his. The cask came up off the sill on nothing
 
 Kiva was dark.
 
-She knelt in the slurry with every door shut and her hands empty and her knees soaked through, and she was nobody's. The cask was on Anwen's line, a pace off across the granite. In a moment it would be on Jude's bar and Gower's, and they would walk it in, forty-five paces up the dock floor, the long pass, the one Kiva had said on Monday was nearly too long, to Noa's chalk line, where Pettit and Lyle were waiting with their doors open to plant it.
+She knelt on the granite with every door shut and her hands empty and her knees soaked through from the slurry, and she was nobody's. The cask was on Anwen's line, a pace off across the granite. In a moment it would be on Jude's bar and Gower's, and they would walk it in, forty-five paces up the dock floor, the long pass, the one Kiva had said on Monday was nearly too long, to Noa's chalk line, where Pettit and Lyle were waiting with their doors open to plant it.
 
 "*Nobody,*" she said, on the next rest, from her knees.
 
@@ -302,7 +302,7 @@ The cask would spill on a dock floor open to the basin, with the slack going, an
 
 Kiva knelt on the sill with every door shut.
 
-She had made one crossing. It was the week's. It was on her certificate, and on her healer's card, one in seven days, and she had made it eleven minutes ago, and it was spent.
+She had made one crossing. It was the week's. It was on her certificate, and on her healer's card, one in seven days, and she had made it at eleven minutes past, and it was spent.
 
 She looked at Aske.
 
@@ -342,11 +342,11 @@ His voice came across the basin and in at the mouth and up the dock floor, as it
 
 Kiva lit her Ember.
 
-It came up under her breastbone as it always came, glad, as though it had been waiting by the door, and it did not know anything about cards. The bar came down her right fist. She got up off her knees out of the slurry onto the granite, and past Aske, who did not move, and down off the sill onto the dock floor, and ran.
+It came up under her breastbone as it always came, glad, as though it had been waiting by the door, and it did not know anything about cards. The bar came down her right fist. She got up off her knees on the granite, and went past Aske, who did not move, and down off the sill onto the dock floor, and ran.
 
 ---
 
-She ran forty paces up the dock floor of the Graving between the walls, with the tiers going up on either side of her full of people who made no sound at all, and the lamps burning white along every tier, and her own boots loud on the wet stone, and ahead of her two figures and a grey cask, going slower and slower.
+She ran up the dock floor of the Graving between the walls, with the tiers going up on either side of her full of people who made no sound at all, and the lamps burning white along every tier, and her own boots loud on the wet stone, and ahead of her two figures and a grey cask, going slower and slower.
 
 Coombe had said that a caller who runs arrives at her mark with her pulse in her fingers. It did not matter now. There was no mark to test. The mark was tested; she had tested it at eight minutes past with her two fingers on the chalk, and said *good,* and it was still good. She needed only to get there.
 
@@ -404,9 +404,9 @@ He did not say anything about the notch. Kiva did not ask.
 
 ---
 
-On the outer quay, high above the dock mouth, the Master of the Order of the Even Hand came down the steps.
+The Master of the Order of the Even Hand came along the outer quay and down the steps.
 
-Kiva did not see her come down. She felt it. She was standing on the chalk with her still door open into the stone and a cask standing on it, forty-five paces from the sill, and her doors felt the Master come down the steps one at a time, the way a dog in a yard feels a stranger come in at the gate long before it lifts its head. When the Master reached the sill, Kiva felt her stop there, and stand, and turn to face the basin with her back to the dock.
+Kiva did not see her come. She felt it. She was standing on the chalk with her still door open into the stone and a cask standing on it, forty-five paces from the sill, and her doors felt the Master come along the quay and down the steps one at a time, the way a dog in a yard feels a stranger come in at the gate long before it lifts its head. When the Master reached the sill, Kiva felt her stop there, and stand, and turn to face the basin with her back to the dock.
 
 Then the ward came up.
 
@@ -468,7 +468,7 @@ Kiva shut her still door and stepped back. She stepped back and to her left, the
 
 The cask fell in on itself. There was no sound. It went down into the white water spreading over the dock floor as a sandcastle goes down when the tide reaches it, and was grey, and then was nothing but a long low drift of grey under the moving water, and the water ran on down the dock floor's slope toward the mouth.
 
-It ran forty-five paces down the Graving, white and then brown and then grey, spreading from wall to wall, carrying the drift with it. Kiva watched it go. She watched it reach the sill, where Aske stood over his bag and Anwen's line stood shut on the granite and Bannock sat with Wace's coat over his legs. She watched it reach the Master's ward.
+It ran forty-five paces down the Graving, white and then brown and then grey, spreading from wall to wall, carrying the drift with it. Kiva watched it go. She watched it reach the sill, where Aske stood over his bag and Anwen's line stood shut on the sill's edge and Bannock sat with Wace's coat over his legs. She watched it reach the Master's ward.
 
 It stopped.
 

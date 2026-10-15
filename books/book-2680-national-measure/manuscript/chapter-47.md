@@ -50,7 +50,9 @@ Nothing. The iron was under it, she supposed. She could see it was. She could no
 
 Kiva did not say anything.
 
-"Don't stop," said Hart. "That's all I came down here at six to work out, and I've worked it out." He looked at his own hand on the iron. "I told you I asked mine the wrong question for ten years. I didn't tell you what it said, the first of those years, when I'd only just come to this coast and didn't know what to ask at all. It said nothing. Not ache, not quiet. I'd lay it on the grating every morning because the grating was here, and it was a lump of meat on the end of my arm, and I'd write *nothing* in a book, and I never knew why I bothered." He turned the hand over. "Then one morning it ached, at the pumps, and nowhere else. And I'd a year of *nothing* written down at the same hour to set it against. That's how I knew it was new. That's how I knew it was the pumps and not the weather."
+"Don't stop," said Hart. "That's all I came down here at six to work out, and I've worked it out." He looked at his own hand on the iron. "I told you I asked mine the wrong question for ten years. I didn't tell you what it said, the first of those years, when I'd only just come to this coast and didn't know what to ask at all. It said nothing. Not ache, not quiet. I'd lay it on the grating every morning because the grating was here, and it was a lump of meat on the end of my arm, and I'd write *nothing* in a book, and I never knew why I bothered."
+
+He turned the hand over. "Then one morning it ached, at the pumps, and nowhere else. And I'd a year of *nothing* written down at the same hour to set it against. That's how I knew it was new. That's how I knew it was the pumps and not the weather."
 
 He put the hand back in his jacket.
 
@@ -82,7 +84,7 @@ Kiva did not say anything for a moment.
 
 "I expect so."
 
-"Good." Orla turned to go, and stopped, and did not turn back. "You waited for the price. Both times. On the sill, with Aske counting you ten." Her voice did not change. "I'd liked to say I taught you that. I didn't. I didn't know it, at your age, or for twenty years after." She went off along the boards toward the gate with her stick, and did not look round.
+"Good." Orla turned to go, and stopped, and did not turn back. "You waited for the price. Both times. On the sill, with Aske counting you ten." Her voice did not change. "Nobody taught you that on the Line." She went off along the boards toward the gate with her stick, and did not look round.
 
 ---
 
@@ -100,7 +102,7 @@ She had them stand in threes round the sack: a ward, an Ember, and a still door,
 
 "Again," said Kiva.
 
-They did it again. They did it for an hour. She had them let go of a rope's end into the air above an open hand, as Coombe had, and they laughed at it and then stopped laughing. She stood in the middle of the yard with her right hand in her coat and her left hanging, and watched three Company hands who had never stood together pass a sack of wet sand from a ward to an Ember to a still door on her word, and drop it, and pass it again, and not drop it.
+They did it again. They did it for an hour. She had them let go of a rope's end into the air above an open hand, as Coombe had, and they laughed at it and then stopped laughing. She stood in the middle of the yard with her right hand in her coat and her left hanging. She watched three Company hands who had never stood together pass a sack of wet sand from a ward to an Ember to a still door on her word, and drop it, and pass it again, and not drop it.
 
 At three she stopped calling.
 
@@ -126,11 +128,9 @@ The crew did not cheer. They were the Company's, and the Company does not cheer 
 
 "Again," said Ivey, and called it again, to a different three.
 
-Kiva stood in the yard and watched her. She did not say anything for a while. She found that she was thinking about the word on the Graving floor on Monday, and what she had written that night in her book, under the day's line, left-handed. *Somebody else will have to call it.* She had thought it would take a year, and somebody who had crossed, and her own sheets read over and over. It had taken an hour in a yard with a sack of sand and a girl of sixteen to count.
+Kiva stood in the yard and watched her for a while. Then she took her book out and wrote, right-handed, standing.
 
-She took her book out and wrote it, right-handed, standing.
-
-*Thursday the 24th. The Company yard. Ivey called the pass, three strangers, a sack. Tamsin counted. Ivey has one door and has never crossed.* She looked at it. Then under it: *The caller doesn't have to have been inside both gaps. The count does it. Somebody has to keep the count who isn't carrying.* And under that: *My sheet's wrong on the first line of the limits. Write it again.*
+*Thursday the 24th. The Company yard. Ivey called the pass, three strangers, a sack. Tamsin counted.* She looked at it. Then under it: *My sheet's wrong on the first line of the limits. Write it again.*
 
 Jude had come round the half circle and was reading over her shoulder, as he always did, without asking.
 
@@ -150,7 +150,9 @@ Halden's counsel sat at the end of the first bench with a folder. The Proprietor
 
 The Clerk read the order. She read it without a paper, in her even voice, and it took eleven minutes, and the Salt Hall did not make a sound for any of them.
 
-She read that the Charter Board, having had the evidence of the Measure and the sittings of the 18th and the 20th, and the record of the 23rd at the Saltmere harbour pump house, ordered that every municipal bank in the country, of whatever kind, pump house and lamp office and drum and tenement box and tram shed, be put on its own count, each cell to its own and no two alike in any house, each pump on its own cells, and kept there. That no municipal bank be stepped from this day, nor joined by water or by iron to any bank that was, and that any that had fallen into step be taken out of it by the Board's own officers as plain ash could be found for it. That every jar and tin of plain ash in the country, in any hand, be declared to the Board within the year, not taken; declared, and counted, so that the Board would know what there was; and that what there was be allotted to banks first and hands with them, and no bank before a hand.
+She read that the Charter Board had had the evidence of the Measure, the sittings of the 18th and the 20th, and the record of the 23rd at the Saltmere harbour pump house. It ordered that every municipal bank in the country, of whatever kind, be put on its own count: pump house, lamp office, drum, tenement box and tram shed. Each cell was to keep its own, no two alike in any house, each pump on its own cells, and each to be kept there. No municipal bank was to be stepped from this day, nor joined by water or by iron to any bank that was. Any that had fallen into step was to be taken out of it by the Board's own officers as plain ash could be found for it.
+
+Every jar and tin of plain ash in the country, in any hand, was to be declared to the Board within the year. Not taken; declared, and counted, so that the Board would know what there was. What there was would be allotted to banks first and hands with them, and no bank before a hand.
 
 She read that the Board would raise a travelling commission to do it, under its Hunt Marshal, Dinah Coombe, with readers from the Works of every circuit that would lend them and officers from every company that would, to go to every municipal bank on the Board's roll within two years and read it, and put it on its own count, and write down in seven columns what was got wrong first.
 
@@ -176,7 +178,9 @@ He sat down.
 
 Halden's counsel stood up at the end of the first bench.
 
-"The foundation will not contest the order," he said. His voice was neat and dry, and it was, Kiva thought, very tired. "I'm instructed to say so. I'm instructed to say that the foundation's yards, refineries and lift yards will remain stepped, as they are the foundation's own and not the country's, and that the Board's order does not reach them, and that the foundation does not ask it to." He looked at the Clerk. "And I'm instructed by the Proprietor to say one thing in his own words, which I've written down so that I'll not improve it." He read from a slip. "*I am not certain I was wrong. I believed for seventy-seven years that the lamps that keep time together are the ones that go white instead of out. On Wednesday they did neither. I do not know what they did. Nor does the Board. I would ask the Board not to say in its order that I was wrong, because it doesn't know that either.*" He folded the slip. "That's all, ma'am."
+"The foundation will not contest the order," he said. His voice was neat and dry, and it was, Kiva thought, very tired. "I'm instructed to say so. I'm instructed to say that the foundation's yards, refineries and lift yards will remain stepped, as they are the foundation's own and not the country's, and that the Board's order does not reach them, and that the foundation does not ask it to."
+
+He looked at the Clerk. "And I'm instructed by the Proprietor to say one thing in his own words, which I've written down so that I'll not improve it." He read from a slip. "*I am not certain I was wrong. I believed for seventy-seven years that the lamps that keep time together are the ones that go white instead of out. On Wednesday they did neither. I do not know what they did. Nor does the Board. I would ask the Board not to say in its order that I was wrong, because it doesn't know that either.*" He folded the slip. "That's all, ma'am."
 
 The Clerk looked at him for a long moment.
 
@@ -250,7 +254,9 @@ Kiva gave it back.
 
 "And you'll say yes."
 
-"I've done the sum." He put the card in his shirt pocket and buttoned the pocket over it. "The foundation's got a hundred and twelve works to give up, and its yards to keep, and a claim it's let go of, and a ledger that's been kept for two hundred and ninety years by men who wrote down what the house wanted to hear. Somebody's going to count it now. Either it's somebody who's never stood in that house, and doesn't know where the figures hide, or it's somebody who has." He looked at the sea. "My mother's a grader. She says the worst thing you can do to a number is let it mean what somebody needs it to. I've been doing figures against that house since the autumn from the outside. I'd like to try doing them from the inside, where it's harder, for a man who's asked for it."
+"I've done the sum." He put the card in his shirt pocket and buttoned the pocket over it. "The foundation's got a hundred and twelve works to give up, and its yards to keep, and a claim it's let go of. And a ledger that's been kept for two hundred and ninety years by men who wrote down what the house wanted to hear. Somebody's going to count it now. Either it's somebody who's never stood in that house, and doesn't know where the figures hide, or it's somebody who has."
+
+He looked at the sea. "My mother's a grader. She says the worst thing you can do to a number is let it mean what somebody needs it to. I've been doing figures against that house since the autumn from the outside. I'd like to try doing them from the inside, where it's harder, for a man who's asked for it."
 
 "He'll not be there forever."
 
@@ -258,7 +264,7 @@ Kiva gave it back.
 
 "And Seven."
 
-"Seven's going four ways," said Kellan. "I was only ever on its book as a blade who's told where he's wanted." He nearly smiled. "I'd want it known I was told, and went. Every time."
+"Seven's going four ways," said Kellan. "I was only ever on its book as a blade who's told where he's wanted." He nearly smiled. "I was told where I was wanted, and went. Every time."
 
 ---
 
@@ -282,15 +288,15 @@ He was quiet for a while.
 
 "And you'd have been wrong."
 
-"And I'd have been wrong." He put the letter in his coat. "I'd like it known that I was nearly wrong, and wasn't. That's a thing with only my name on it." He looked at the sea. "Nobody'll envy me for it. That's how I know it's mine."
+"And I'd have been wrong." He put the letter in his coat. "I'd like it known that I was nearly wrong, and wasn't." He looked at the sea.
 
 ---
 
 The Company's runner came to Quiller's door at a quarter past eleven on Monday night with the call for Rhea Sorn's last night on the van, and Kiva went with dark hands, because that was all she had and it was all a second ever had.
 
-It was a cellar in the Tanyard, below Ropery Row, where the water had stood to the shin on Wednesday morning for seven minutes and gone out again. Something had come up in it on Monday evening, the runner said. A householder had gone down for coal at ten and seen a grey thing standing in the corner where the water had lain longest, and had come up again very fast and shut the trap and sent for the Company, and the Company had sent for Graywater, because Graywater's van was in Saltmere on the Board's warrant and the Company's crews were all on the Longshore at the night low.
+It was a cellar in the Tanyard, below Ropery Row, where the water had stood to the shin on Wednesday morning for seven minutes and gone out again. Something had come up in it on Monday evening, the runner said. A householder had gone down for coal at ten and seen a grey thing standing in the corner where the water had lain longest. He had come up again very fast and shut the trap and sent for the Company. The Company had sent for Graywater, because Graywater's van was in Saltmere on the Board's warrant and the Company's crews were all on the Longshore at the night low.
 
-Graywater's van stood at the head of the Tanyard with its lamps lit. Rhea was at its tailboard with her slate. Doran Mace was there with the ward line, and Nairn, and Ruddock and Tibb. And Pike sat on the tailboard with his hands on his knees, half closed, the way they had been since the second month.
+Graywater's van stood at the head of the Tanyard with its lamps lit. Rhea was at its tailboard with her slate. Doran Mace was there with the ward line, and Nairn, and Ruddock and Tibb. And Pike sat on the tailboard with his hands on his knees, half closed, the way they had been since the dressings came off.
 
 "A string," said Rhea, when Kiva came up with Pru beside her. "Three husks on a cord. Handful at most. In a cellar ten feet by twelve, with a coal heap in one corner and a copper in another, and one trap to get in by." She looked at Kiva's left hand. "Pike's catcher tonight. His hands close halfway and he can carry a voice and a corner. You're his second, as the card says. Dark hands." She did not look away. "That's what you've got. It's the last night on the card. I'll not ask you for more than's on it."
 
@@ -336,7 +342,7 @@ Then he looked at her.
 
 "You were mine on Wednesday."
 
-"I was. It's harder from the other side." He picked up the bag with his half-closed hands, carefully, against his chest. "I watched yours. You watched mine. That's the whole of it. Two people watching the other one's far edge, so neither of them has to." He held the bag out to Rhea at the ladder's foot. "I'd not known it was the whole of it until tonight. I've been doing it for twenty-six years with nobody at my far edge but the corner-hand."
+"I was. It's harder from the other side." He picked up the bag with his half-closed hands, carefully, against his chest. "I watched yours. You watched mine." He held the bag out to Rhea at the ladder's foot. "Twenty-six years, I've been doing it, with nobody at my far edge but the corner-hand."
 
 Rhea took the bag. She looked at it, and at Pike, and at Kiva kneeling on the cellar floor with her right hand on the stone and her left in her lap. Then she wrote on her slate, standing at the ladder's foot by the light of Mace's lamp on the copper, slowly, every column.
 

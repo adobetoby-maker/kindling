@@ -1043,3 +1043,66 @@ with a cue only that person has. No new lens.
   - chapter 24: `bf68b73a52ff1e62f35e523c2da1977bd6463d4529c33953740fde4d8e17f547`
 - Text repairs only: nothing here has been listened to or re-narrated. The showrunner (Sonnet 5.5) verified the frozen manifests and the final hashes against the audio
   recheck's chain and committed exactly the five chapters, the three frozen editions and the three repair records; it did not author the changes.
+
+## Movement Six, consolidated repair — 2026-10-15
+
+- Status: **same-author line repair of chapters 41–48 (the book's ending), in place. Not rechecked, not cold-read after repair,
+  not accepted, not committed, not pushed, not published.** No new book, chapter or scene; no Book Three work.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.** This cannot be
+  verified independently from inside the session. No subagent, other model, Skill tool or delegated worker read, wrote or
+  edited any prose or record. No Codex or OpenAI call was made.
+- Session: Claude Code background job `3311fe04` (job directory `~/.claude/jobs/3311fe04`). Worked in place in the worktree
+  `/Users/drive/kindling-2680-book-02`, branch `codex/kindling-2680-book-02`; no commit made.
+- Brief: delivered in-session; its text matches `planning/OPUS-5.5-MOVEMENT-006-REPAIR.prompt.md` (164 lines), SHA-256
+  `4b57c0f2cf4f76be845487c0e05fe1e08326ac747dd767d597df08031644891c`.
+- Inputs, read in order before the first edit: `provenance/MOVEMENT-006-EDITORIAL-REVIEW.md`, `MOVEMENT-006-COLD-READ.md`,
+  `MOVEMENT-006-CONTINUITY.md`, `STATE_LEDGER.md` (Movement Five and Six blocks), `UNIVERSE_BIBLE.md`, `BOOK_MAP.md`,
+  `CHARACTERS.md`, `packets/MOVEMENT-006.md`, then chapters 41–48 in full.
+- Scope (detail and evidence in `provenance/MOVEMENT-006-REPAIR.md`):
+  - **The climax's rules:** the Master waits on the outer quay sixty paces from the sill until the last plant is called; the
+    4 ft 11 cask drawn at eye, chin and shoulder height; her one pace back priced and her overrun said first; Carrow and Dray's
+    bearing; Kiva's doors "since the cut", forty-eight minutes; the second plant on the sill's tested granite with Wace's
+    place stated; Kellan "after twenty-four"; Mara no longer hears Aske's unraised count; the first-crossing wall scene put
+    in Kiva's afterward-knowledge; the seventh's cost folded into the eighth's; Jude's and Gower's knuckles.
+  - **Sums, clocks and records:** Saturday's lane; C4a–k; twelve days; Hart's knowledge of the strike; the first line of the
+    limits; the catchers' plank of four; the Thursday hour; the Chair's "sanctioned" wording; Hart's once/twice; "the man who
+    held it before me"; Carrow–Kiva paid both ways; Peverell's seven columns in a clause.
+  - **Voice:** 16 of 23 "I'd want" recast (Jude's four, Dray's "clear", Rhea's "every card", the Proprietor's "where it
+    happened" kept); six closing restatements cut or shortened; ch. 48 "scarlet" 4 → 2; summary chains split; heavy speeches
+    broken once; the three accounts at the box in one sentence; the sealed paper's re-reporting trimmed.
+- Untouched: the frozen first draft (`editions/movement-006-first-draft/`, `shasum -a 256 -c` OK ×8); chapters 1–40; the last
+  section, ch. 48 §6, from the ninth *no answer* to *The disk is cold.* (byte-identical).
+- Words (`wc -w`): 56,569 → **56,373**. Viewpoint (whitespace tokens): Kiva 48,005 of 56,261 (85.33%); cutaways 8,256.
+  Quote parity: 0 odd paragraphs.
+- Files written: `manuscript/chapter-41.md` to `chapter-48.md`; `provenance/MOVEMENT-006-REPAIR.md` (new);
+  `provenance/MOVEMENT-006-CONTINUITY.md` and the Movement Six block of `STATE_LEDGER.md` (reconciled); this entry.
+- Second repair (2026-10-15, job `1a27a443`, same runtime-reported model): four bounded line fixes and two optional ones from the
+  recheck (`provenance/MOVEMENT-006-RECHECK.md`) in ch. 41, 43, 44, 47 and 48, recorded with new hashes in
+  `provenance/MOVEMENT-006-REPAIR.md` §12; the hash table below is from the first repair.
+
+### Final hashes (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| chapter-41.md | 64313e5dec406d2fa60234334f3db212f7e21b5a72a09602fdcf2da182dd3a4e |
+| chapter-42.md | 7ff5d82ec7129b91ba3f522673511034a7e73ca6bd5b44527a6bc97ac91386e6 |
+| chapter-43.md | 6601ea020939c9f28b9b89a8b6020cd4de60a6cb91af7e8d611115ae4fd0194c |
+| chapter-44.md | e55f88e1c57ff062f7df7cae669f2002b74e30c4c1a18672a4a449b6c4bc11a0 |
+| chapter-45.md | f8467d4d06ab05d22f75c7efea3c034e8b4604f7f32700a22712dfa0410e1edd |
+| chapter-46.md | 3de722446b1d292259b33607c851e83d1631251e7fbca8b6e2d3435641d2f582 |
+| chapter-47.md | bbe72fb2c162acab9398c4a677be7bb006a12cd63de3bb416c4726ccd0f45ce4 |
+| chapter-48.md | d4d03fbe91f9cc8b2dd16b2af542d402c26207caa524a7ec81d46ee3ef579d7a |
+
+## Movement Six, review, repair, recheck and acceptance — 2026-10-15
+
+- Reviews (both simulated, same model family, runtime-reported `claude-opus-5-5`): informed editorial and formula review, restarted as job `6e915e3e` after the first editorial child (`c89e8156`)
+  was interrupted by a supervisor message ("Perform this editorial review yourself… Do not invoke penname-editor, Codex…") that was left unsent in its input (prompt SHA-256
+  `7463489990ef200e67de8f422bcb95cc79cac622fb7184b31cdeda6c04c52c36`); manuscript-only cold read, job `2dcf4399` (prompt SHA-256 `f371296617bc54ae787714a20d8fb054e4e79059f1d6a518ea42575d0d2f989d`).
+  Neither is human reader feedback. The Skill tool was disabled for child runs from this point (`scripts/nm-launch.sh`).
+- Consolidated repair by the Opus 5.5 author seat, job `3311fe04`, prompt `planning/OPUS-5.5-MOVEMENT-006-REPAIR.prompt.md`, SHA-256 `4b57c0f2cf4f76be845487c0e05fe1e08326ac747dd767d597df08031644891c`.
+  Record `provenance/MOVEMENT-006-REPAIR.md`.
+- Fresh-context targeted recheck, job `22f7111d` (prompt SHA-256 `1fe13ff3bf45b4672a05fc7d7d06f0e84e12c6acd61cf4e363ca6970b55146c7`): four bounded line fixes and two optional. Second repair by the same
+  author seat, job `1a27a443` (prompt SHA-256 `78cfa0abf43fa79d3f64408341fca008a429c8ddb8329f345a619d73825fc4c5`): exactly those edits.
+- Frozen first draft `editions/movement-006-first-draft/` (`SHA256SUMS.txt`, read-only, verified OK). Final hashes: `provenance/MOVEMENT-006-RECHECK-CONFIRMATION.md`. Final word count 56384 (`wc -w`).
+- The showrunner (Sonnet 5.5) wrote no prose. **Movement Six is accepted as editorial context for the whole-book review.** Formula sentence targets were not reached.

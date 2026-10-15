@@ -6,7 +6,7 @@ Mara Rowan had her watch open in her left hand and her reading hand in her coat 
 
 "Quiet," said Hart. His bad hand lay flat on the bars. "Still quiet."
 
-She had not seen the dock. She had not seen anything of it after the cask went past the first stake and the second pass took it on toward the Graving's mouth, a grey shape riding across the mud between two fair heads. She had heard Noa's thin voice say *cliff* from the far side of the basin, eleven minutes past and forty seconds, and *read,* and she had kept her watch hand still. She had heard a girl's voice say *I can't* a long way off, and a healer's say *one,* and then *ten,* and Perrin Cade say that it was his as well. She had heard *cliff* again. She had kept her watch hand still. She had told her niece at half past five that she would not ask anybody to run and tell her anything, and she had not.
+She had not seen the dock. She had not seen anything of it after the cask went past the first stake and the second pass took it on toward the Graving's mouth, a grey shape riding across the mud between two fair heads. She had heard Noa's thin voice say *cliff* from the far side of the basin, eleven minutes past and forty seconds, and *read,* and she had kept her watch hand still. She had heard a girl's voice say *I can't* a long way off, and then a long quiet, and then Perrin Cade's voice from the wall, declaring, and saying that it was his as well. She had heard *cliff* again. She had kept her watch hand still. She had told her niece at half past five that she would not ask anybody to run and tell her anything, and she had not.
 
 Now the whistle said the Master's ward was up and the sink was shut, and the rest of it was hers.
 
@@ -92,13 +92,13 @@ Kellan had read about that hand in his mother's newspaper when he was eight. Eve
 
 "What happens to it," said Kellan, "if you lift it for longer?"
 
-"I don't know." The Proprietor did not look up. "Nobody's ever lifted it for longer. Not me. Not the two who held it before me, that I was ever told." He was quiet. "I think it goes to its own count. I think the first stepped cell in this country, that's kept the foundation's time since 2391, goes to whatever it would have kept if nobody had ever salted it. I think that's the foundation's oldest property gone in a minute, and I'm the man who let it go." He breathed in. "And I think something else. I've kept that count in my own chest for seventy years, Mr. Renn. Fifty-seven. My heart's kept it. I don't know what I am if it stops."
+"I don't know." The Proprietor did not look up. "Nobody's ever lifted it for longer. Not me. Not the man who held it before me." He was quiet. "I think it goes to its own count. I think the first stepped cell in this country, that's kept the foundation's time since 2391, goes to whatever it would have kept if nobody had ever salted it. I think that's the foundation's oldest property gone in a minute, and I'm the man who let it go." He breathed in. "And I think something else. I've kept that count in my own chest for seventy years, Mr. Renn. Fifty-seven. My heart's kept it. I don't know what I am if it stops."
 
 "Twenty-one," said Kellan.
 
 He found that he had his right hand on the old man's left wrist, the free one, with two fingers on the pulse, the way Talley had taught him on a boat because Finch had taught Talley. He did not remember putting it there. The pulse under his fingers was going fifty-seven to the minute, steady as a clock, four and four.
 
-"You asked me," said Kellan, "to tell you what you wouldn't like to hear. On the card. Not counsel's. Yours." He did not take his eyes off his mother's watch. "Seventy years is twenty-five thousand days, and something. This is three minutes. If you lift at twenty-two, there's time. If you lift at twenty-four, there's not. If you don't lift, the low town's dry this morning, and the bank keeps your count, and the next time anything in this harbour falls into step it'll be because it was never got out, and every keeper in the country will know it was got as far as the salt and stopped because a man couldn't take his hand off a glass." He breathed. "That's the sum. It's the same number whichever way I do it. I've done it four ways since you said *one hold.*"
+"You asked me," said Kellan, "to tell you what you wouldn't like to hear. On the card. Not counsel's. Yours." He did not take his eyes off his mother's watch. "Seventy years is twenty-five thousand days, and something. This is three minutes. If you lift at twenty-two, there's time. If you lift after twenty-four, there's not. If you don't lift, the low town's dry this morning, and the bank keeps your count, and the next time anything in this harbour falls into step it'll be because it was never got out, and every keeper in the country will know it was got as far as the salt and stopped because a man couldn't take his hand off a glass." He breathed. "That's the sum. It's the same number whichever way I do it. I've done it four ways since you said *one hold.*"
 
 The Proprietor looked at him.
 
@@ -142,7 +142,7 @@ Kellan looked down at his mother's watch.
 
 Kiva was sitting on the dock floor forty-five paces in from the sill with her dead hand in her lap when it came across the basin.
 
-She did not know what it was. She knew afterward, because the whole town knew afterward, that it was twenty-two minutes past six and that the Proprietor had lifted his hand. She did not know it then. She knew only that her doors, which had been lying down since the Master's ward came up, flat and quiet as dogs on a hearth, lifted their heads all at once. And she felt something come across the mud and in at the dock mouth, toward the ward, the way a wave comes across a bay toward a wall.
+She did not know what it was. She knew afterward, because the whole town knew afterward, that it was twenty-two minutes past six and that the Proprietor had lifted his hand. She did not know it then. She knew only that her doors, which had been lying down since the cut, flat and quiet as dogs on a hearth, lifted their heads all at once. And she felt something come across the mud and in at the dock mouth, toward the ward, the way a wave comes across a bay toward a wall.
 
 It was a count.
 
@@ -284,11 +284,15 @@ They brought it in on the flood the way they had taken it out on Tuesday, on lin
 
 It went down very slowly.
 
-At ten to seven the Master's hour was up. Kiva knew it, because the sister had told her so on the basin wall at ten to six, and she had done the sum then and seen that everybody had done it. Nobody on the dock floor said anything. On the tiers above, three thousand people who had seen every lamp they could see go to a point and come back did not say anything either. The gate went down a foot. The Master stood.
+At ten to seven the Master's hour was up. Kiva knew it, because the sister had told her so on the basin wall at ten to six, and she had done the sum then and seen that everybody had done it. At the sill the sister turned her head and spoke up the dock, flatly, in the low clear voice that did not need lifting.
+
+"She says she'll be late. She's saying it first."
+
+Nobody on the dock floor answered. On the tiers above, three thousand people who had seen every lamp they could see go to a point and come back did not say anything either. The gate went down a foot. The Master stood.
 
 At five to seven the gate's foot touched the granite outside the ward, and the Company's men on it shouted to each other, short Company words, and let in more water, and it settled. The Master stepped back.
 
-It was the first time she had moved since a quarter past six. She stepped back off the sill onto the dock floor, one pace, with her hands still folded and her ward still up, so that the gate could come home onto the seating where she had been standing. She stepped back as a person steps who does not trust the floor. Her sister put a hand under her elbow and she let it stay there.
+It was the first time she had moved since a quarter past six. She stepped back off the sill onto the dock floor, one pace, with her hands still folded and her ward still up, so that the gate could come home onto the seating where she had been standing. The grey across the mouth shivered from wall to wall as she went, and the flood against it came a hand nearer before it held. She stepped back as a person steps who does not trust the floor. Her sister put a hand under her elbow and she let it stay there.
 
 At four minutes past seven the gate seated.
 
@@ -296,13 +300,13 @@ Kiva heard it. Everybody in the Graving heard it: one long deep sound of timber 
 
 The Master let go.
 
-Kiva felt the ward go. It went out of the dock mouth the way a held breath goes out of a chest when there is no more need to hold it, and her doors, which had been lying down for forty-nine minutes, got up all at once, one after another, and stood, and shook themselves. She felt her Ember turn over under her breastbone. She felt her still door come up through her boots into the stone, wanting nothing. And she felt, through the stone of the dock floor, from a long way off, from the head of the basin, six counts at once, all different, none of them hers, none of them anybody's in particular, going on.
+Kiva felt the ward go. It went out of the dock mouth the way a held breath goes out of a chest when there is no more need to hold it, and her doors, which had been lying down for forty-eight minutes, got up all at once, one after another, and stood, and shook themselves. She felt her Ember turn over under her breastbone. She felt her still door come up through her boots into the stone, wanting nothing. And she felt, through the stone of the dock floor, from a long way off, from the head of the basin, six counts at once, all different, none of them hers, none of them anybody's in particular, going on.
 
 The Master of the Order of the Even Hand stood on the dock floor a pace inside the shut gate, grey to the lips, with her sister's hand under her elbow and her own hands at last unfolded at her sides. She did not fall. Kiva watched her not fall for a long time.
 
 Then the second sister came down the steps from the outer quay with the Order's flat iron-wheeled cart, empty, that had carried thirty-six jars along the Long Quay on Saturday and back to the Mole and back again, and the two sisters helped the Master onto it. She sat on the cart's bare boards with her hands in her lap and her long grey face turned toward the shut gate.
 
-Kiva got up off the dock floor. She did it badly, with one hand, and Pike helped her with his half-closed one, and she walked down the dock to the gate on legs that had knelt in slurry and carried a Barrel and did not want to walk anywhere. Her doors stood up as she went and did not lie down, because there was nothing to lie down for. The Master was only a woman on a cart.
+Kiva got up off the dock floor. She did it badly, with one hand, and Pike helped her with his half-closed one, and she walked down the dock to the gate on legs that had waded slurry and carried a Barrel and did not want to walk anywhere. Her doors stood up as she went and did not lie down, because there was nothing to lie down for. The Master was only a woman on a cart.
 
 She stopped at the cart's side.
 

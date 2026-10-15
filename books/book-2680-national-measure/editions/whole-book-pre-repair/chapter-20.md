@@ -1,0 +1,427 @@
+# Chapter 20 — Kiva: Slack Water
+
+The flood had been running for five hours when the kiddle shed its first rung.
+
+Kiva was kneeling in the mud at the edge of the hard, with Pike on her left and the creek in front of her, black and fast and full to the brim. It was a little after eleven on Monday night. The tide was nearly at the top of its spring, and the whole of the Longshore had gone under water, so that the creek was no longer a creek. It was a river running the wrong way, inland, out of the sea, with the marsh grass streaming flat under it on both sides like hair.
+
+The kiddle stood across the creek's mouth, forty paces off.
+
+The Company crews had given it that name when they first saw one, because it was the old coast word for a fish weir, the kind of fence of stakes that men had once driven across a creek to catch whatever the tide brought in. This was seven posts. They were grey, the height of a tall man above the water, and they stood in a line across the creek, five paces apart, with the flood pouring between them. Between each post and the next there hung a skin. It was grey-white and close-woven like canvas, and it went down into the water out of sight, and the flood went through it as water goes through a net.
+
+Where the water went through, it went white. It came out on the landward side of the skin frosted, with a skin of ice on it as thin as paper, and the ice broke up and went away up the creek in plates. The cold came off it in a breath that Kiva could feel on her face from forty paces.
+
+And the posts leaned. All seven leaned inland, with the flood, the way a line of men leans into a wind. When a big surge came in under the darkness, they leaned further, and the skins between them bellied out, white, and the water went through faster. When it eased, they came back an inch.
+
+"Working," said Davy Penhale, beside her in the mud. "That's what we say. It's working the flood. It'll work the ebb the other way, when it turns."
+
+He was the Company's catcher. The Board's warrant had put Graywater on Company ground, and the Company had sent its own man to catch, because Pike's hands were half a fist and a voice. Penhale was perhaps thirty, broad, red-bearded, in thigh boots and a canvas smock that had been black once. He talked all the time, low and cheerful. He had been talking since nine.
+
+Kiva did not ask him what it was working for. She was a second. A second did not open her mouth until the bag was sealed, and there was no bag yet, and she had been told that on a van in Meridian in plainer words than she had ever been told anything. Penhale seemed to hear the question anyway.
+
+"Lord knows what for," he said. "Same as a pump. Water comes in, water goes through, water goes out. My dad said they're only trying to be useful." He grinned in the dark. "He said that about my brother as well."
+
+A surge came in.
+
+It came in under the black water from the sea, a long low lift that Kiva felt in the mud under her knees before she saw it. The creek rose a hand. The seven posts leaned. The skins bellied, white, and the water through them went white, and the cold came off it in a gust.
+
+And the fourth post, in the middle of the creek, cracked at the top.
+
+It was a sound like a branch going in frost. The top of the post, a yard of it, came away and fell. It fell into the flood on the landward side of the skin. It was a heap of grey ash as it fell, a rung, as a rung comes off a string when a blade goes through the knot. Nobody had cut it. It had come off on its own, on the surge.
+
+It hit the water and did not sink. It spread.
+
+Kiva had never seen ash go into water. She saw it now. It went out on the black surface like milk poured into tea, grey, fast, in a long fan, and the flood took the fan and carried it inland up the creek, toward the hard, toward them. Where it went, the water steamed. The marsh grass under it went white.
+
+"*Mace,*" said Rhea Sorn, from the causeway.
+
+She did not raise her voice. She had been standing on the causeway behind them since nine, with her hands in her pockets, watching. Now one hand came out.
+
+Doran Mace's line was on the creek's two banks, landward of the hard, three on each side. They had been standing there with their walls unlit for two hours. Now six walls came up together, silver, out over the black water. They did not stand on the water. They lay on it, flat, a hand deep in it, like a boom of logs lying across a river's mouth. They met in the middle, Tibb's from the north bank and Stroud's from the south, with a sound like two doors closing in another room.
+
+The grey fan came up the creek and met the walls and stopped.
+
+Most of it stopped. It piled against the silver like scum against a weir, steaming. But the walls lay only a hand deep in the water, and the flood was six feet deep, and some of the grey went under. Kiva saw it go. She saw it come up on the far side of the walls, thinner, and go away up the creek into the dark. It left a line of white in the grass on both banks as far as she could see.
+
+"Hold it," said Mace. "Hold it, hold it. Stroud, down a hand. Tibb, down."
+
+The walls went down. They lay deeper in the water. The grey stopped going under. It lay against the silver, steaming, and the flood pushed on it, and Mace's line leaned on their heels on the two banks and held.
+
+---
+
+"That's why you wait," said Penhale.
+
+He said it quite quietly, with no cheer in it. He was looking at the line of white in the grass going away inland.
+
+"That's the Board's ash, that is, gone up Gannet Creek to frost somebody's sheep. Twenty drams, maybe." He looked at the kiddle. "Can't cut on the flood. Can't cut on the ebb. Cut on the flood and the rung goes into the water and away inland. Cut on the ebb and it goes away out to sea and into the harbour mouth, and the Lord knows what that does to the Regiment." He sniffed. "You cut at the slack. Twenty minutes, at a spring. You cut every post you can in twenty minutes, and then you wait six hours, and you do it again."
+
+"And if it sheds before?"
+
+"Then you lose it, and you hold what you can, like Mace is holding." He jerked his chin at the walls. "Inland vans don't have that. A wall on water. We've had it on this coast two hundred years. You put your ward flat and you hold the loose stuff the way a boom holds oil. Your Mace learned it in two hours this afternoon." He sounded pleased. "He's quick, your Mace."
+
+The rest of the shed rung lay against the walls in a grey crust. Two of the Company's men had come down the north bank with a long-handled net, like a shrimper's net, and were working it along the edge of the silver, scooping. What came up in the net was grey sludge, and it steamed, and they tipped it into a tin. It was not a bag. It was what could be saved.
+
+Pike had not said anything. He was kneeling on Kiva's left, on a folded sack, with his bare grey hands on his knees and his eyes on the kiddle.
+
+"It shed at the top of a surge," he said at last. "The fourth. The middle one. It leaned furthest."
+
+"Yes."
+
+"Then it'll shed again at the next big one, if there's a next big one before the slack." He turned his head and looked at her. "Don't tell me what the water's doing. You're a second; you've a mouth to keep. But if it changes, touch my sleeve. That's not talking."
+
+She did not know what the water was doing. Nobody had ever asked her to know what the sea was doing.
+
+But there was a pole beside her. It was one of Penhale's, an ash pole as thick as her wrist, driven into the mud at the creek's edge to carry the line of his first purse out across the water. It was solid. It went down into the mud and the mud went down to whatever was under the creek, and the creek went out to the kiddle, and to the sea.
+
+She took her left hand out of her coat. It was warm; it had been warm since Sunday at seven. She laid the first two fingers on the pole, at a light touch, above the water.
+
+*Something's pushing.*
+
+Then, because she held them there and did not lean, the other thing came.
+
+*It keeps time.*
+
+It was slow. It was slower than the bollard on the quay. It came and went in long lifts, irregular, a long one and a short one and a long one. That was the flood, she thought, the surges, the thing that Jude had stood at the rail and counted and called *every count at once.* And under it, so faint that she was not sure, there was something else. Four and four.
+
+Pru was on her right, kneeling on the line of the second purse with the cord round her fist. She took Kiva's right wrist without being asked and looked at the lamp on the causeway, because there was no clock, and counted under her breath.
+
+"Seventy-six," she breathed. "You're quite calm."
+
+So it was not her own pulse. It was the water. It surged, a long one and a short one, and under the surges, faint, there was the town. Kiva kept her mouth shut on all of it and kept her fingers on the pole.
+
+---
+
+The slack came at six minutes to midnight.
+
+Kiva knew it before anybody saw it. She had kept the two fingers on the pole for most of an hour, with Pru taking her wrist every quarter, and the water had gone on keeping its long uneven time through the fingers into her hand. The surges had grown smaller. The long ones had grown shorter and the short ones had stopped. And then, quite suddenly, between one breath and the next, the fingers said nothing.
+
+Not *pushing.* Not *keeps time.* Nothing at all.
+
+She put her right hand on Pike's sleeve.
+
+He did not look at her. He lifted his head and looked at the creek, and Kiva looked with him.
+
+The water had not changed. It was still black and still full to the brim, and the marsh grass still lay flat under it. But the grass had stopped streaming. It lay quite still, like hair in a bath. The plates of ice that had been going away inland from the skins had stopped going anywhere; they turned slowly on the surface where they were. And the seven posts of the kiddle stood up.
+
+They came upright together. They did not lean inland and they did not lean to sea. They stood straight up out of the black water like the stakes of a fence on a calm day, and the skins between them hung straight down. The white went out of the water that went through them, because no water was going through them. Everything was still.
+
+It was the stillest thing that Kiva had ever seen. It was stiller than the courtyard at the house of the Even Hand. It was a whole creek mouth and a whole marsh and a mile of sea, all stopped at once.
+
+"*Slack,*" said Penhale, aloud. "Six to twelve. Twenty minutes, near enough, if the wind holds."
+
+"*Boat,*" said Rhea.
+
+She was already in it. The Company had brought two of its own boats down on the roofs of its green vans, flat-bottomed punts with square ends, and one of them was at the foot of the hard with a Company man in it holding a pole. Rhea stepped into it as she stepped onto any floor. The Company man pushed off. The punt went out across the black still water toward the kiddle without a ripple, because there was nothing in the water to make one.
+
+Penhale was on his feet. He had the line of his first purse in his two fists, and Pru had the second, and a Company man had the third. The lines went out from the hard across the water in three long curves and down into it below the first three posts. Under the water there, Kiva knew, there were three purses. They were sheets laced to iron rings, lying open on the creek bed under the posts, with a drawstring round each. They had been set at the last low water, at six that evening, by men in thigh boots standing in mud, before the tide had come in over them.
+
+"First post," said Rhea, from the punt. She was standing in its bow, a pace from the post nearest the north bank. Her blade arm was down.
+
+"*Not yet,*" said Pike.
+
+He said it to Penhale, low and thick, as he had said it to Varley in a flat yard in Meridian. Penhale did not look round. Kiva saw his head go a little on one side, listening.
+
+The post stood in the still water. Rhea's left heel came down flat on the punt's bottom boards.
+
+"*Now,*" said Pike.
+
+The yellow light went level across the creek, and the top of the first post came off and fell.
+
+It fell straight down. There was no flood to take it and no ebb. It fell like a stone into still water, and the water closed over it with a grey bloom, and it went down out of sight, onto the purse lying open on the creek bed below.
+
+"*Dark! One!*" said Penhale, and hauled.
+
+The line came in through his fists, fast, hand over hand. Under the water, the drawstring would be closing the purse round the rung like the neck of a bag. He hauled until the line stopped coming, and then he put his weight back on it and held it there.
+
+"*Closed,*" he said. "One fathom. Two fathom." He was counting. It was his own count, the coast's, and Kiva had never heard it before. "Three fathom. Shut. It's shut."
+
+The rung was in a closed purse at the bottom of a creek, under six feet of still water, and nobody could touch it until the tide went out. But it was not loose. It was not going anywhere.
+
+"*Second post,*" said Rhea.
+
+The second went as the first had gone. Pike said *not yet* and *now,* and Rhea cut, and the rung went down through the still water, and Pru hauled.
+
+She hauled well. Kiva watched her and was proud and did not say so. Pru had never hauled a drawstring in her life, and she had been shown how by Penhale at six that evening, once, in the mud. She took it in hand over hand with the cord round her fist and her face scarlet in the lamplight, and when the line stopped she leaned back on it with all her weight, as he had.
+
+"*Shut,*" said Pru. "I think. It's stopped."
+
+"It's shut," said Penhale. "I felt it from here."
+
+"*Third,*" said Rhea.
+
+The punt moved along the line of posts. The Company man poled it without a sound. Rhea stood in the bow in front of the third post, the one nearest the middle, and the skin between the third post and the fourth hung down beside her into the black water like a curtain.
+
+Kiva was not watching Rhea.
+
+She was watching the skin. She was watching the far side of it, the sea side, where it went down into the water out of the light. That was the far edge. The skin hung between two posts. When one post was cut, the skin on that side would have nothing to hang from. On a wharf in Meridian a skin with nothing on it had tried to fold over a catcher. On a level yard it had tried to fold an officer. She did not know what a skin did in a creek. She did not think anybody here knew. The Company had only seen kiddles since the autumn.
+
+"*Not yet,*" said Pike.
+
+Her fingers were still on the pole. They said nothing. Still nothing. The slack held.
+
+"*Now.*"
+
+The top of the third post came off. It fell straight down into the still water, and Penhale's Company man hauled the third line.
+
+And the skin between the third post and the fourth lifted at its far edge.
+
+It lifted out of the water. It came up on the sea side of the kiddle in a long grey fold, streaming, a yard of it and then two, and it bent over, slowly, as a page turns. It was folding over the cut post toward the line that ran from the third purse to the hard, toward the man hauling on it. The water ran off it in sheets, frosted, white.
+
+"*Far edge,*" said Kiva.
+
+Two words. She did not say them loudly. She said them as Pike had taught her to say them, short, with the swallow, so that they went across forty paces of still water to the only person who needed them.
+
+The Company man let go of the line.
+
+He let go and stepped back on the hard, as Rhea had stepped back off a skin in the Corn Exchange yard, without turning round. The fold came over and came down. It came down on the water where the line had been, flat, with a slap, and lay there steaming. The line went slack under it. The purse at the bottom of the creek, below the third post, was half drawn and no more.
+
+"*Hold,*" said Rhea, from the punt.
+
+She did not cut the skin. Kiva saw her look at it and decide. She leaned out of the bow and put the flat of her lit blade on the fold where it lay on the water, not the edge, only the flat, as Carrow had put hers on Jude in a lane. The skin lay down under it. It went grey, and thin, and was still.
+
+"*Line,*" said Rhea.
+
+Pru had already let go of her own. She went down the hard on her knees in the mud to where the third line lay slack, and took it up, and hauled. It came in. It came in slowly, from under the skin lying on the water, and then it stopped.
+
+"*Shut,*" said Pru. "It's—I think it's shut. It's heavy."
+
+"One fathom," said Penhale, beside her. He had his hand over hers on the line. "Two fathom. Three. It's shut." He looked at her sideways. "You'd make a coast catcher, miss, if you'd stand the wet."
+
+Pru went scarlet to the ears. She did not let go of the line.
+
+The slack ended at fourteen minutes past midnight.
+
+Kiva knew it a breath before anybody else. The two fingers on the pole had said nothing for twenty minutes. And then they said *pushing,* faint, and then *keeps time.* It was a long lift, very slow, outward, toward the sea. And she looked at the water, and the water had not moved. The grass lay still. The ice plates turned where they were. Nothing had changed that she could see.
+
+She put her hand on Pike's sleeve again.
+
+He looked at the creek. Nothing had moved.
+
+Then the marsh grass on the near bank stirred. It stirred very slightly, all together, the other way, toward the sea. And the seven posts, four with their tops and three without, began to lean. They leaned the other way, out, as the water under them began to go back the way it had come.
+
+"*Ebb,*" said Penhale. "Twelve fourteen. Out of the boat, officer, if you please. It'll work the ebb now till dawn." He took his hands off the first line. "Three purses shut. On this coast a shut purse is a sealed bag, miss. We tie them at the low water for the Board's sake." He looked sideways at Kiva. "You may talk now, if you've a mind to. I've been talking for both of us."
+
+Rhea was already coming back. The punt slid across the water to the hard, and the water was moving under it now, and the Company man had to push. Rhea stepped out onto the stone.
+
+She did not look at Kiva. She took her slate out of her pocket and wrote on it under the causeway lamp, quite fast, in the middle of the work, with four posts still standing behind her in the creek.
+
+"Three," she said. "Three posts in the slack. One shed on the flood and held on Mace's walls, part of it. Four to stand till low water. A fold on the third that came off the far edge onto the line, and the second said so, and the line came off it." She did not look up. "And the second had the slack's end by the hand, a breath before the grass. Pike."
+
+"She touched my sleeve," said Pike.
+
+"Did you know it before she did?"
+
+"No." Pike's hands lay on his knees. "I knew it by the grass, like anybody."
+
+Rhea wrote it down.
+
+Kiva had taken her fingers off the pole. She knelt in the mud and looked at them, the first two of her left hand, which bent and gripped and reported pressure and nothing else. She had told herself all winter that they were a loss with a little left over.
+
+She thought of a man on an iron landing with a book of slacks in his pocket. *Ache. Quiet. Ache.* He had laid a dead hand on a grating twice a day for six months. And the bad hand had known, before anything in the harbour moved, when the water stopped and when it started again.
+
+"It went quiet," she said to Pike, under her breath. The bags were sealed; she could say it now. "Through the pole. When the tide stopped, it went quiet. All of it, the surges and the town under them. And it came back before the water moved."
+
+Pike looked at her. It was the long considering look that she had seen him give a hem.
+
+"Then you've a gauge," he said. "I'd not have thought it. Two fingers that tell you nothing, and they tell you that." He nearly smiled. "Write it down before you sleep."
+
+---
+
+At twenty past one, a lantern came along the causeway from the direction of the Mole.
+
+It came slowly, swinging, and it limped. Kiva knew who it was before the light reached the lamp on the hard. It was Jude, with his left arm in its linen and his right hand holding the lantern up, and his coat buttoned to the chin against the wind off the flats. He came down the hard to where Rhea stood, and stopped, and held out a paper.
+
+"Officer," he said. "From Seven. I'd want it said that I'm sorry."
+
+Rhea took the paper and read it under the causeway lamp.
+
+It was Noa's hand. Kiva could see that from where she knelt; nobody else wrote so narrow and so upright. Rhea read it twice, and then she held it out to Kiva without a word.
+
+*By order of the Clerk of the Measure, at the protest of the host circuit: every candidate of the Meridian circuit who stands under the rule is to be read on the gate mast at six this morning, in the presence of both readers, before the Clerk rules on the host's entries. A candidate absent is struck from the seeding. Rowan, K., stands under the rule. N.B.*
+
+And under it, in Perrin's large round hand, pressed hard:
+
+*Seven calls her. I'm sorry. P.C., captain.*
+
+"Six," said Kiva.
+
+"Six," said Jude. "It went up on the tent at half past eleven. The Ropewalk asked for it. They said that if Meridian's reader could read their people in front of their town, their reader could read Meridian's in front of the Board." He scratched his jaw with the lantern hand, so that the light swung. "It's fair. Cade said it was fair. He said it twice, and then he wrote that, and then he sent me."
+
+Kiva looked at Rhea.
+
+The officer stood on the hard with the slate in one hand and Noa's paper in the other. Behind her, in the creek, four grey posts leaned out to sea on the ebb, with the black water going through the skins between them and coming out white. There were four rungs still to come off them at low water, at dawn. There would be four lines to haul and four far edges, and Pike to call *not yet* and *now* to a catcher who could not see the tops of the posts from the water.
+
+*If T7 is called on a night of mine, she is T7's and I go short.*
+
+Rhea had written that. She had written it in the autumn, on a slate-blue card, and read it aloud to four people in a kitchen, and they had all signed it on the back.
+
+"Go," said Rhea.
+
+"There's four posts—"
+
+"There's four posts and I've a catcher and a voice and a Company boat and six walls on the water. I'll go short." Rhea folded Noa's paper and gave it back to her. "That's what the card says. I wrote it so that I'd not have to decide it at one in the morning on a mud hard. I'm not deciding anything. I'm reading you what I wrote."
+
+Kiva got up out of the mud. Her knees were stiff and wet through.
+
+Pru had got up too. She stood on the hard with the cord still round her fist and the third line at her feet, and she looked from Kiva to Rhea and back again.
+
+"I'm not read," said Pru. "I've one door. Nobody's calling me." She went red and kept going. "I'm the cord. If the officer will have me, I'll stay. I'd like to haul the four at dawn. I've only hauled two."
+
+"Three," said Penhale.
+
+"Three. I'd like to haul seven."
+
+Rhea looked at her for a moment.
+
+"I'll have you," she said. "Gladly."
+
+Then she turned to Kiva, and did a thing that Kiva had never seen her do. She put her hand on Kiva's shoulder, lightly, for a moment, the way one steadies a person on a stair.
+
+"I allow myself one piece of advice a season," she said. "I spent the winter's in the first month. This is the spring's, and it's the only one you'll get." She took her hand away. "When you're called, go. Don't look back at the creek."
+
+---
+
+They walked back along the Longshore causeway in the dark, Kiva and Jude, with the lantern.
+
+The causeway was old, a raised track of stone across the flats, wide enough for a cart. On their left the marsh went away inland, black, with the tide going off it. On their right was the sea. It was a long way out now and going further, a pale line under the sky. Between the causeway and the sea there was nothing but flat wet sand. It shone faintly where the sky lay on it.
+
+Kiva did not look back at the creek. She found that it was hard not to, and that she could do it.
+
+Jude was quiet for a long time. He walked on the seaward side with the lantern in his good hand, limping, and he looked at the sea the whole way.
+
+"It's going out," he said at last.
+
+"It's the ebb."
+
+"I know it's the ebb. Penhale told me. He told me at six, when I brought the sacks." He did not turn his head. "I've never seen it go out. From the boat it just was. It was there all the time. Now there's a mile of sand where it was at eleven, and it's still going."
+
+"It'll come back."
+
+"At dawn. And then it'll go again. Twice a day, for ever." He walked a few paces. "Yeo said it was always the same thing. What ash is for. Keeping that out." He lifted the lantern a little toward the pale line. "I've been thinking about it since Saturday. I'd want to know what it's like to do that. Not for a lane. Not for a board. For a kitchen."
+
+Kiva looked at him.
+
+He had asked what ash was for of everybody since the autumn. He had asked it of a Marshal on a moor and a foreman on a scarp and his own four on a shed step, and he had been given a hand and a floor and a cell. He had never sounded like this, asking. He sounded as though he had found the answer and did not know yet what it would cost him.
+
+"You could ask her," she said. "Yeo."
+
+"I could." Jude walked on. "Not yet. There's a Measure first. I'm on the book for it, and I signed the warrant, and Cade's captain." He was quiet for a moment. "I'd want it said that I thought about it, though. On a causeway, at two in the morning. In case anybody asks."
+
+"I'll say it."
+
+"Good," said Jude. He did not look away from the sea.
+
+---
+
+Rhea Sorn stood on the Gannet Creek hard at ten past six on Tuesday morning, with the light coming grey off the flats and four posts standing in the mud in front of her, and no second.
+
+The tide was out. The creek was a creek again, a narrow thread of water a yard wide running through the bottom of a great channel of grey mud. The marsh grass lay flat and wet on both banks, white in a long line where the shed rung had gone over it at eleven. The kiddle stood across the channel. Its four uncut posts stood up out of the mud like the stakes of a fence. Its three cut ones were stumps. Between them hung the skins, grey, slack, with their lower edges lying in the mud.
+
+They were leaning seaward. The ebb was nearly done. In a few minutes they would stand up straight.
+
+The Company's closing crew was on the south bank: four men with a closing licence and their own officer, a big slow woman called Bray with a voice like a foghorn. They had been there since five. They were waiting for the posts to come down so that they could get at the tear. It lay in the creek bed under the fourth post, the middle one, under a yard of mud and a hand of water, and nobody could close it while the kiddle stood on it.
+
+Penhale was in the channel, in the mud to his knees, in front of the fourth post. He had reset the purses at the end of the ebb, four of them, on the mud, open, with their lines up the bank. Pru had the line of the fourth. She had not slept. She was sitting on a sack on the hard with the cord round her fist and her eyes on the post. She had said four words since three o'clock. One of them had been *please,* when Purvis gave her his coat.
+
+And Pike was on the hard on his knees, on his folded sack, at the edge of the mud, a yard from where the girl had knelt. Rhea had seen him go there at six. He had not asked.
+
+"I'll have the far edge," he had said. "I've hands enough to point."
+
+"And the voice?"
+
+"And the voice." He had not looked at her. "I'll do both. I did both for twenty years before there was ever a second in this van."
+
+She had let him. She had written it on the slate, under *Before,* in the middle of the night. *Second gone to her four, by the card. The catcher's voice takes the far edge as well. One pair of eyes for two places.* And she had looked at the line, and at Pike's grey hands lying on his knees, and had not crossed it out.
+
+The posts stood up.
+
+They came upright together, all four, out of the mud, as they had come upright in the still water at midnight. The thread of the creek in the channel's bottom stopped running. It lay in its bed like a ribbon. Low water slack: a quarter past six by Rhea's watch, and the morning very quiet, with a curlew calling a long way off over the flats.
+
+She went down into the channel.
+
+She cut the fifth post standing in the mud beside it, with her boots sunk to the ankle. Pike said *not yet* and *now* to Penhale, low. The rung came down onto the open purse in the mud, and Penhale's man drew it, and it was shut. The sixth went the same way. On the sixth the skin's far edge stirred, a hand, and lay down. Pike watched it and said nothing, because it lay down.
+
+The seventh went clean.
+
+That left the fourth, the middle one, the tall one that had shed at the top of the surge. It stood over the tear. Its skin hung from it on both sides, to the third stump and the fifth, and lay in the mud on the sea side in a long grey sheet.
+
+Rhea went to it. Penhale stood in front of it, below, in the mud, with his purse open at his knees and the thread of the creek running past a yard to his left. It was not running now. It lay still.
+
+"*Not yet,*" said Pike.
+
+Rhea looked up at the top of the post. She did not look at Pike. She had never needed to. On every floor for six years she had had a catcher who watched her heel, and since the first month a second who watched the far edge, and she had cut when the voice behind her said *now.* She waited for it.
+
+It did not come.
+
+She waited a count. She heard Pike draw breath. She looked round.
+
+He was not looking at her heel. He was looking past her, past the post, at the sea side, where the skin lay in the mud. Its far edge had lifted. It was coming up out of the mud in a long grey lip, streaming, as the third skin had come up out of the water at midnight. It was turning over toward the purse, toward Penhale standing in the mud with nobody watching for him.
+
+"*Far edge,*" said Pike.
+
+Penhale stepped back. He stepped back to the left, out of the fold's way, which was the only way to step in a channel of mud. The fold came over and came down where he had been, flat, on the mud and on the edge of the open purse, half on it and half off.
+
+And Pike said, a count late, because his eyes had been on the far edge and not on the heel, "*Now.*"
+
+Rhea cut.
+
+She knew as she cut that it was late. The fold lay across half the purse's mouth. The rung came off the top of the fourth post and fell straight down, because the water was still, onto the purse and onto the fold lying across it. Half of it went in. Half of it hit the grey skin and slid off it, sideways, into the creek's thread a yard to Penhale's left.
+
+The thread was still. For a moment the grey lay in it like a spill of flour in a gutter.
+
+Then the slack ended. The thread stirred. It began to run, very slowly, inland, as the flood came back. The grey went with it in a long fan. Where it went, the mud went white.
+
+"*Shut,*" said Pru, on the hard. She was hauling the fourth line hand over hand. "It's—it's light. It's shut. It's light."
+
+"*Mace,*" said Rhea.
+
+The walls came down on the thread. Six of them, across the channel, flat on the water, a hand deep. They held what they could. The Company's net went along the edge of the silver. It came up grey and steaming.
+
+---
+
+She wrote the slate at seven, on the hard, with the flood coming in over the mud behind her and the Company's crew down in the channel at the tear. The kiddle was gone. Its seven stumps had gone to ash in the mud, and the skins with them, in a long grey film that the tide was lifting off the channel's floor. Bray stood over the tear with her hands out, and her crew round her, and the light under their hands was steady and white.
+
+*Closed: a quarter to seven, by the Company, on the Board's warrant.*
+
+*Lives: none.*
+
+*Works: the marsh grass of Gannet Creek, frosted for a quarter mile inland. A sheep.*
+
+*Tinned: seven bags, and the net's tin. The seventh bag light.*
+
+She did not write the figure. Penhale would weigh it at the Company's yard. She knew what it would be, near enough, and she knew what the fourth rung would have weighed if it had all gone into the purse.
+
+*Remarks: three.*
+
+*The officer cut three posts in the high water slack and four in the low, from a boat and from the mud. A post shed a rung at the top of the flood before the slack, uncut. Held in part on walls lying flat on the water. That remark is the creek's.*
+
+*The second called the far edge once, at midnight, and the line came off it. The second also had the slack's end by the hand, a breath before the grass. That is entered for whoever reads this.*
+
+She stopped. She looked out over the flats, where the sea was coming back in a long pale line, faster than a man could walk.
+
+*At one in the morning the second was called to her four by the card. The officer went short. At low water the catcher's voice took the far edge as well, by his own wish and with the officer's leave. One pair of eyes for two places. He called the far edge and the catcher came off it. He called the cut a count late, because his eyes were where they ought to have been. Half a rung went into the creek. That remark is the officer's. She wrote the card.*
+
+She read it over. She did not cross anything out.
+
+Pike was sitting on the tailboard of the Company's van with his hands on his knees. They were shaking. He had not said anything since the bags were shut. Pru was beside him, asleep, sitting up, with her head against the van's side and Purvis's coat round her and the cord still round her fist.
+
+"It was mine," said Pike, when Rhea came. "The count late."
+
+"It was the card's. I wrote it." She hung the slate on her belt. "You watched the right place."
+
+"She'd have had the heel and the far edge both. Two of us. One each." He looked at his hands. "I used to do both. Twenty years. I don't know when I stopped being able to."
+
+"You stopped when you had a second," said Rhea. "So did I. That's what a second's for. You don't know you've stopped till she's gone." She sat down beside him on the tailboard, which she did not often do. "She went. I told her to. I'd do it again."
+
+"I know you would."
+
+They sat for a while and watched the tide come in over Gannet Creek. Bray's crew came up out of the channel with their hands dark. The thread of water became a creek, and then a channel full of grey water, and then the flats were going under again for the second time since midnight. It would go on doing that for ever, Rhea thought, whatever anybody tinned.
+
+Half a rung. Twenty drams, perhaps, of the Board's warrant, gone into Gannet Creek. And a remark under her own name on a coast slate that a Company officer would read.
+
+She had written that card in the autumn, at a kitchen table that was not hers, for a girl she had not yet decided she wanted. She had written it so that the girl's four would always have the first word. She had not thought about what it would cost to keep, because she had not yet had to keep it.
+
+It had cost half a rung. She found that she did not mind as much as she would have expected, and that she minded something else a great deal more. She had stood in the mud with a blade on her arm and waited for a voice behind her, and the voice had been late. For one count she had been an officer with nobody watching the far edge but a man with half a fist, doing two things at once. She had known exactly how much she had come to lean on a girl of seventeen who was not hers.
+
+The card ended on the thirtieth. *Then we look again, and either of us may say no.*
+
+She took the slate off her belt and looked at it once more, and put it back, and said nothing to anybody about that at all.

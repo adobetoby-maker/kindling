@@ -132,7 +132,7 @@ She looked up at the wall. Dray had shut her watch and put it away, and folded h
 
 Dray looked down at her for a long moment, with her shut face and her healed leg under her, in a row of people she had beaten in lanes and been beaten by.
 
-"I'll call it," said Dray. "On my feet." She paused. "Not because I've changed my mind about you. Because you can't hear it and I can, and that's the job." She turned away along the wall. "I'd want my name on whatever gets written. So it's mine if it's wrong."
+"I'll call it," said Dray. "On my feet." She paused. "Not because I've changed my mind about you. Because you can't hear it and I can, and that's the job." She turned away along the wall. "Put my name on whatever gets written. So it's mine if it's wrong."
 
 ---
 
@@ -166,7 +166,7 @@ Across the dock floor, at the chalk mark Coombe had drawn forty-five paces up fr
 
 Anwen watched her between counts.
 
-Lyle stood the way she had always stood, very straight, with her chin up and her feet a little apart. She had been the Ropewalk's laid ward once, ward and stance together, the best two-door Hold on the coast; and then a lodger had gone into her at the left ankle on Skerry Pill, eight days ago, and taken the ward with it, and she had a stance and nothing else. Anwen had taught her to lean from the floor on the Thursday after. She had learned it in an afternoon. She had leaned on Seven's litter in the Lane on Friday and very nearly cost them a carry.
+Lyle stood the way she had always stood, very straight, with her chin up and her feet a little apart. She had been the Ropewalk's laid ward once, ward and stance together, the best two-door Hold on the coast. Then a lodger had gone into her at the left ankle on Skerry Pill, six days ago, and taken the ward with it, and she had a stance and nothing else. Anwen had taught her to lean from the floor on the Thursday after. She had learned it in an afternoon. She had leaned on Seven's litter in the Lane on Friday and very nearly cost them a carry.
 
 She was not leaning now. She was standing on the chalk with her stance open and her hands at her sides, and every time Dray said *one*, and the four walls went forward toward the tun across the floor, Lyle's left foot moved. It moved an inch back. On *rest* it came forward again.
 
@@ -258,7 +258,7 @@ Mara came down the stair from the gallery. Rusk came after her, and Peverell. Th
 
 "Mr. Halden," she said.
 
-"Mrs. Rowan." His voice was pleasant and dry, and carried along the walk to where Kiva stood. "I'm told the Works would like to see it done before it's done. I'd want the same, in your place." He looked up at the pump house wall, at the six iron mouths along its foot, pouring into the brown water on the ebb. "Which?"
+"Mrs. Rowan." His voice was pleasant and dry, and carried along the walk to where Kiva stood. "I'm told the Works would like to see it done before it's done. I'd ask the same, in your place." He looked up at the pump house wall, at the six iron mouths along its foot, pouring into the brown water on the ebb. "Which?"
 
 "The third," said Peverell. "Its six are lit. My fitters have their hands on all six. If anything goes into them that isn't theirs, they'll say *town,* out loud, and I'll hear it from here."
 
@@ -296,7 +296,7 @@ It was Kellan who spoke next. He had not moved from his place by the chair. He w
 
 The Proprietor turned his head and looked at him for a long moment.
 
-"Then it stops, Mr. Renn," he said. "And it's mine to let go of. That's simpler, not harder." He laid his right hand flat on his knee. "Write down that you asked. I'd want it in your book that you asked before."
+"Then it stops, Mr. Renn," he said. "And it's mine to let go of. That's simpler, not harder." He laid his right hand flat on his knee. "Write down that you asked. In your book, that you asked before."
 
 Kellan wrote it down.
 
@@ -336,7 +336,7 @@ Of course it did. It was the evening low and not the slack, and the pumps were p
 
 She stood on the mud by the place where the ring would rise with her fingers still cold from the stake, and understood that she could not test the marks tonight. Nor could she have tested them this morning, because this morning she had been on the landing, and the marks had not been driven. The only time any mark on this route would ever be quiet, and say *nothing* under her fingers, was in the twenty minutes of the dawn slack tomorrow, when the count had gone out of the whole basin into the one thing standing in it.
 
-So she would test every mark tomorrow, in the minute before its pass. With the ring up, and the planks waiting on her. She would kneel and lay her two fingers on a stake while a cask of held water stood on somebody's trays and twenty-four people and the town watched from the wall, and if the stake said *keeps time,* there would be no mark there, and no plant, and she would have to say so.
+So she would test every mark tomorrow, in the minute before its pass. With the ring up, and the planks waiting on her. She would kneel and lay her two fingers on a stake while a cask of held water stood on somebody's trays and twenty-four people and the town watched from the wall. If the stake said *keeps time,* there would be no mark there, and no plant, and she would have to say so.
 
 She told Coombe, on the wall.
 
@@ -356,7 +356,7 @@ The sister walking beside the cart nodded to Kiva as it passed, and did not stop
 
 She did not sleep much.
 
-She lay on the bed by the north window in the loft with her book under her pillow and the quay lamps in a row along the black water, and the town's count coming up through the iron of the bedstead, four and four, the way it had come up through every bed and bollard and rail she had touched since the boat came in under the sea gate three weeks ago. She had gone to sleep to it every night. She had woken to it. She had laid her fingers on it every morning at a quarter to seven and written *yes.*
+She lay on the bed by the north window in the loft with her book under her pillow and the quay lamps in a row along the black water. The town's count came up through the iron of the bedstead, four and four, the way it had come up through every bed and bollard and rail she had touched since the boat came in under the sea gate three weeks ago. She had gone to sleep to it every night. She had woken to it. She had laid her fingers on it every morning at a quarter to seven and written *yes.*
 
 If it went right tomorrow, she would never feel it again. Not this one. The bank would come out at half past six, and the pumps would start one at a time on their own uneven counts, and the town would stop keeping one time in everything. The bollards would go quiet. The gratings in the gutters would stop rattling four and four. Penhale's mother would stand in her kitchen in Ropery Row with her feet wet for five minutes and then dry again, on a count nobody had given her.
 

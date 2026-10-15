@@ -3,8 +3,10 @@
 > Built by TAC
 
 Edition: **first draft, 2026-10-15**, chapters 41–48 ("The Slack"), the last movement of *The National Measure*. Written by
-the drafting author directly after the run, from the prose as written. **Not reviewed, not cold-read, not scored, not
-repaired, not committed, not published.** Where this file and the manuscript disagree, the manuscript governs. It carries
+the drafting author directly after the run, from the prose as written. **Reconciled 2026-10-15 to the consolidated
+same-author repair** (`provenance/MOVEMENT-006-REPAIR.md`; §15 below lists what it changed; lines it changed here are marked
+*(repair)*). Reviewed (editorial; simulated cold read); **not rechecked, not accepted, not committed, not published.** Where
+this file and the manuscript disagree, the manuscript governs. It carries
 forward `provenance/MOVEMENT-005-CONTINUITY.md` (as repaired and accepted), `MOVEMENT-005-REPAIR.md` and `STATE_LEDGER.md`;
 anything not restated here stands as recorded there. It supersedes `provenance/MOVEMENT-006-CHECKPOINT.md` (the author's
 private plan).
@@ -21,7 +23,8 @@ Blocking contradictions and drafting slips only, by exact-string edits as each w
   one "I'd sooner" → "I'd rather"; rehearsal head-count "twelve" → **eighteen** (the planks on the floor).
 - ch. 41/43: route distances reconciled to the marks: the dock mouth **fifty** paces from the ring (not ninety); the carry
   limit stated as "on two fists, with a count, by fifty, maybe"; the bank "a hundred paces" from the third mark (not a
-  hundred and forty); Kiva on the basin wall **seventy** paces from Thrale.
+  hundred and forty); Kiva on the basin wall **seventy** paces from Thrale. *(repair: the "hundred and forty" at ch. 43 §7
+  had not in fact been corrected in the first draft; it was corrected at the repair.)*
 - ch. 41: **Aske's ten-count rule planted** (dark for ten counts after a crossing before lighting again), which ch. 44 cites.
 - ch. 42: the standing cohort is **twenty-four** (not thirty-one); the Proprietor's Tuesday test is on the ebb (not the
   flood); no tier lamps lit at noon.
@@ -29,7 +32,8 @@ Blocking contradictions and drafting slips only, by exact-string edits as each w
   (before the bank work), not twenty past; Perrin and Orla **thirty** paces from the sill; Yeo's ward signal is **three short
   notes** (one long note was the positions call); Ivey's second named **Tamsin** ("Merrin" is in Book One's records);
   Kiva's reading of the count through her still door tied to its established wanting-to-beat near the Proprietor.
-- ch. 45: an invented line of Proprietors removed ("the two who held it before me, that I was ever told"); the Order's
+- ch. 45: an invented line of Proprietors removed ("the two who held it before me, that I was ever told") *(repair: it had
+  not in fact been removed in the first draft; at the repair it became "Not the man who held it before me", after ch. 23)*; the Order's
   sister left unnamed ("Agnes" is Book One's allotment warden); Kellan's watch four seconds behind; **Yeo's whistle read by
   Mara at fifteen minutes past and forty seconds** so that it falls before the cut Noa timed at sixteen past.
 - ch. 46: Pru's sheet matched to canon (the old sheet with her name on its pole went over the mill's race lip; the 2.40
@@ -51,7 +55,7 @@ Blocking contradictions and drafting slips only, by exact-string edits as each w
 |---|---|---|
 | **Mon 21st** | 6.45 yes/no (north window latch, yes). Kellan shows the **first white card** (the Proprietor's own: a clerk by his chair on Wednesday who will tell him the time and count; *not the foundation's request*); Kellan will go. 7.15 **Aske: warm, eight mornings; the price of a second crossing in the hour said (a guess: the hand gone to the wrist, weeks, three; then he'd not sign one in seven; a fortnight between); the ten-count rule.** 9 a.m. the warrant at the Board's tent: who stands (§3). 10.30 **the plan, at a trestle on the pump hall floor** (§2). 2–5 p.m. dry rehearsal on the Graving floor with a brewer's tun; the laid habit; Coombe's rope drill; "eighteen strangers". Night: Kiva's book: *The call's not mine… Somebody else will have to call it. Teach it so they can.* | 41 |
 | **Tue 22nd** | 6.09–6.31 spring dawn slack watched from the basin wall (ring **4 ft 10½**); **the bad assumption found** (§2). Dray agrees to call the count. 10–noon **Anwen cutaway** (§6). **12.20 the Graving's floating gate floated out on the noon high water** and moored to the outer quay; the dock open to the basin. Jude asks Yeo what the Barrel's ash is for ("nothing… red… the Board's press"). **3 p.m. the Proprietor carried along the Long Quay**; one-pump test (§2). Evening low (~6.30): the route walked and run with the tun; marks driven and chalked; marks testable only at the dawn slack. Jars combed at the gate (all silent on the seventh) and returned to the Mole hut. Night: Pru will call the catchers' far edge. | 42 |
-| **Wed 23rd** | 4.45 Aske: warm, ten mornings. 5.30 thirty-six fitters carry the thirty-six jars from the Mole by hand. **5.40 the Proprietor asks for the three doors; refused, with why** (§4). 5.50 Thrale on the outer quay; her hour begins. 5.45 positions; 6.00 Perrin declares; far edges named; Pike names himself Kiva's. **The Slack** (§2). 7.20 Aske: the hand gone to the wrist. 7.25 **Seven's sealed tin opened for a hand** (§8). 7.30–11.00 the purse bagged; 11.45 combed: **286.4, all red** (§8). 9.30 **Jude in Ropery Row; yes to Yeo** (§7). **Noon: the prediction opened** (§5). 4 p.m. **Orla cutaway** (§6). 6 p.m. no fever. 9 p.m. Mara at the loft (§7). | 43–46 |
+| **Wed 23rd** | 4.45 Aske: warm, ten mornings. 5.30 thirty-six fitters carry the thirty-six jars from the Mole by hand. **5.40 the Proprietor asks for the three doors; refused, with why** (§4). 5.50 Thrale on the outer quay, waiting by the gate's moorings sixty paces from the sill *(repair)*; her hour begins. 5.45 positions; 6.00 Perrin declares; far edges named; Pike names himself Kiva's. **The Slack** (§2). 7.20 Aske: the hand gone to the wrist. 7.25 **Seven's sealed tin opened for a hand** (§8). 7.30–11.00 the purse bagged; 11.45 combed: **286.4, all red** (§8). 9.30 **Jude in Ropery Row; yes to Yeo** (§7). **Noon: the prediction opened** (§5). 4 p.m. **Orla cutaway** (§6). 6 p.m. no fever. 9 p.m. Mara at the loft (§7). | 43–46 |
 | **Thu 24th** | 7 a.m. **Aske writes the fourteen** (§1a). 9 a.m. Hart and Kiva on the landing (§7). 10.15 Orla tells Kiva the line is struck. 2 p.m. **the Company yard: Kiva teaches the call; Ivey calls a pass with one door, Tamsin counting** (§7). Jude signs his card. | 47 |
 | **Fri 25th** | 2 p.m. **the Charter Board's grid order**, the Salt Hall (§9). | 47 |
 | **Sat 26th** | 10 a.m. Kiva at the Counting House (§7). Afternoon: **Kellan's second white card**, on the Mole (§7). | 47 |
@@ -59,7 +63,7 @@ Blocking contradictions and drafting slips only, by exact-string edits as each w
 | **Mon 28th** | 11.15 p.m. – 12.45 a.m. **Rhea Sorn's last night on the van**: the Tanyard cellar (§7). | 47 |
 | **Tue 29th** | Jude gives Pru Seven's book; Pru says no to Ivey (§7). 6 p.m. Twenty-Eight leaves by transit; Dray; Carrow (§7). | 48 |
 | **Wed 30th** | 11 a.m. **Rhea cutaway** (§6). Noon: **Rhea and Kiva look again** (§10). 4 p.m. Mara signs the commission as guardian. | 48 |
-| **Thu 1st, fourth month** | 7 a.m. **Anwen goes north on Graywater's van** (§7). 6.45 p.m. yes/no (the Mole rail: no answer). 6.55 **Noa's wires; the hull** (§11). | 48 |
+| **Thu 1st, fourth month** | 7 a.m. **Anwen goes north on Graywater's van** (§7). 6.45 p.m. yes/no (the Mole rail: no answer; the morning's hour let go by at Anwen's van, so taken at the evening quarter to seven *(repair)*). 6.55 **Noa's wires; the hull** (§11). | 48 |
 
 ### 1a. Aske's card at exit (written Thursday the 24th, 7 a.m., shown)
 
@@ -88,10 +92,14 @@ dock floor against the south wall, ten paces from M3 (Noa); both sanctioned in w
 
 **Rules and prices said before (Monday):** students close nothing; Ivey's crew closes the tear; students on the wall cut on
 Yeo's slate; every plank names its far edge before its pass; Kiva calls, tests every mark first, and carries an Ember lit,
-declared, as reserve to every carry, with a crossing to still if a plant fails; Thrale's reach forty paces; the Proprietor
+declared, as reserve to every carry, with a crossing to still if a plant fails; Thrale's reach forty paces, and **the Master
+waits back on the outer quay till the last plant's called, well clear of the sill** (Yeo) *(repair)*; the Proprietor
 holds the pumps from the quench to the salt and lets go on Mara's word; Rusk's correction: **each pump on its own six
 cells** (Peverell's "eight" at the Salt Hall was the Ferren figure; on Monday she says she will say it was wrong in front
-of the Board, in seven columns; that saying is not on the page).
+of the Board, in seven columns; *(repair)* paid in a clause on the 30th: Mara reports Peverell has put her seven columns
+before the Board and Rusk is copying them first into the Saltmere sheet; not staged). The planks' limits on Kiva's sheet
+include "it cannot be done by strangers"; **the first line under the limits is the caller line** ("A caller who has been inside both
+gaps"), which Ivey proves wrong on Thursday *(repair: Perrin no longer calls "strangers" the first line)*.
 
 **Bad assumption found in time (Tuesday dawn):** the catch was planned as Mallow's, "be the nearest thing". The held water
 leans at the outfalls ("It's looking at the pipes," Dray). A ward lit on the landing (Anwen; Coombe's leave; Yeo's word;
@@ -112,11 +120,11 @@ let go of a pump that's only got you?" "Then it stops… That's simpler, not har
 | 6.09 | The ring up: **4 ft 11** (Hart's level; Polglase calls it). Grey staves, a frosted chime, the held water leaning at the outfalls. Kiva lights Ember (Polglase: *Read*). Ward line A lights; keeps Dray's count; the water turns to them on the fourth count. *Far edges.* "**Take.**" |
 | 6.09–6.10 | **Pass 1.** Ward line A (Anwen, Edda, Hesketh, Sedge) slides under the foot; the cask slides a pace west onto them. "Nobody." Jude and Gower carry 25 paces (the grey wraps their knuckles from 15). "Nobody." Brask and Tolver plant at M1. *Planted.* Polglase: *ten past.* |
 | 6.10–6.14 | The tear open where the ring stood: threads. Carrow (declared, read) and Dray cut on Dray's count as **one line, two people** (Polglase: "a lay. Between two… not an incident under any rule I've got"; Dray: "That's fairer"). **Ivey's crew closes the tear at 6.14**; Tamsin calls Ivey's far edge once. |
-| 6.11 | **Pass 2.** Catchers' plank (Pru, Treen, Marten, Yarrow) at the four quarters; the Pascoes carry. At the sill the younger Pascoe goes knee-deep in slurry; the held water slops over the far lip; Pru: "Far edge." Wace steps back; **Bannock frosted hip to boot; his door goes out. Failure 1.** The Pascoes' wrap past the wrist. "Nobody." Kiva takes it on her Ember (knees to the slurry), shuts, gap, opens still; plants with Wace on the sill. Noa: *Cliff… a crossing, single, declared at six… eleven minutes past six and forty seconds. Read. The notch at five.* **Seventh crossing, Ember to still, inside her certificate.** Hand still warm. Aske at her side. |
+| 6.11 | **Pass 2.** Catchers' plank (Pru, Treen, Marten, Yarrow) at the four quarters; the Pascoes carry. At the sill the younger Pascoe goes knee-deep in slurry; the held water slops over the far lip; Pru: "Far edge." Wace steps back; **Bannock frosted hip to boot; his door goes out. Failure 1.** The Pascoes' wrap past the wrist. Wace comes back up onto the granite a pace in from its outer edge; Kiva goes round the cask's north side and steps up onto the sill's outer edge, the stone she tested at 6.08 *(repair)*. "Nobody." Kiva takes it on her Ember at the cask's west rim (knees to the granite), shuts, gap, opens still into the tested stone; plants with Wace on the sill *(repair: was "knees to the slurry", the still door into the untested granite at the sill's foot)*. Noa: *Cliff… a crossing, single, declared at six… eleven minutes past six and forty seconds. Read. The notch at five.* **Seventh crossing, Ember to still, inside her certificate.** Hand still warm. Aske at her side. |
 | 6.12–6.13 | Ward line A runs the wall and comes down to the sill's dock side. **Pass 3** begins: ward line A takes from Kiva and Wace; Kiva shuts and is dark; Jude and Gower carry inward. |
 | 6.13 | Lyle at M3: "*I can't. I'm saying it before.*" Her left foot back a yard. **Failure 2.** Jude and Gower keep walking. Kiva: "Count me ten." **Aske counts ten dark and says the price inside the count** (the hand; to the wrist; weeks, three; then as it was; one in fourteen; "I don't know what else"; "twice"). Kiva: "Heard." **Perrin declares from the wall** (*the second in the hour; against her card, with the price said first… I'd like it known it's mine as well*); Noa: *Read.* |
 | 6.14 | Kiva lights, runs, catches them at 34 paces (their wrap past the wrist), "Nobody", takes it standing, carries 11 paces (the wrap to past her wrist), shuts, gap: **her left hand goes** (to the wrist, all at once, not cold); still opens; plants with Pettit on M3. Noa: *Cliff… the second inside the hour, declared by the captain's voice, the price said first. Fourteen minutes past six and fifty seconds. Read.* **Eighth crossing, Ember to still, against her card.** |
-| 6.15 | Thrale comes down to the sill; her **ward across the mouth** (grey, wall to wall). Yeo's whistle, three short notes (Mara reads it at **6.15.40**). Kiva's and Pettit's still doors, at 45 paces, want to lie down; they hold. |
+| 6.15 | Thrale comes along the outer quay from the gate's moorings (sixty paces back, where she has waited since 5.50) and down to the sill *(repair)*; her **ward across the mouth** (grey, wall to wall). Yeo's whistle, three short notes (Mara reads it at **6.15.40**). Kiva's and Pettit's still doors, at 45 paces, want to lie down; they hold. |
 | 6.15–6.16 | Rhea: "Give it to me." Kiva reads the cask's count **through her still door** in the stone; "Now" in the rest; Rhea: "Cut." Jude and Gower cut north and south. Pike: "**Far edge**" (Kiva steps back; Pettit's boots frosted to the ankle). The held water and ash run down the dock floor and lie still against the ward. Noa: *sixteen minutes past.* |
 | 6.15.40–6.19 | **Mara cutaway.** "Quench." The pumps miss one stroke and go on, on the Proprietor's pattern. "Draw" (old cans boxed as evidence). "Set." "Town or mine": *town*. 6.19.10: "Mr. Halden. Let go." |
 | 6.19–6.22 | **Kellan cutaway.** Right hand off the flange at 6.19.11; the pumps go on: one hold. "Nobody salts." Mara: she will call it off at 6.24, on her name; she will not touch a cell. Adlam's fact: the hand comes up once a year for the cleaning of the glass, 51 seconds the longest. Kellan's sum ("Seventy years is twenty-five thousand days… This is three minutes"). |
@@ -124,7 +132,7 @@ let go of a pump that's only got you?" "Then it stops… That's simpler, not har
 | 6.22.20–6.29 | **Mara cutaway.** "Salt." "Cards" (thirty-six counts, not two alike; Mara initialled each at midnight). "Town or mine": thirty-five *mine*; case nineteen, Loveday Hosken: "I can't tell" (Mara: "Say you can't tell. That's a word as well"), then "*Mine…* my mother's hymn." 6.25 thirty-six. **Peverell starts the pumps one at a time, each on its own six cells, 6.26–6.29.** Low town wet **6.22–6.29**. Hart: "like six bands at a fair." **Mara lays her reading hand on case nineteen after: "Mine."** Loveday's right hand starved white to the wrist. |
 | 6.31 | Hart: *Ache.* The flood. |
 | 6.35 | **Kellan cutaway.** The Proprietor writes, right-handed, on the pump house's fault paper: *The Halden Foundation relinquishes, from this day, its claim on all ash exhibiting the Step, however produced. It was never ours. We found it.* Witnessed, K. Renn. Pulse found **sixty-four** at 6.26. Left hand white, half curled, not put back. |
-| 6.40–7.04 | The gate brought in on the flood by two Company boats; sunk onto its seating; Thrale steps back one pace for it; **seated at 7.04**; Thrale lets go after **forty-nine** minutes of ward, **fourteen past her hour** (in the town 74 minutes); carried to the Mole on the jar cart. "Write that you counted, and that you don't know what… That's all anybody should write." |
+| 6.40–7.04 | The gate brought in on the flood by two Company boats; sunk onto its seating; **6.50 the sister says up the dock: "She says she'll be late. She's saying it first."** *(repair)*; 6.55 Thrale steps back one pace for it, **priced: the ward shivers wall to wall and the flood against it comes a hand nearer before it holds** *(repair)*; **seated at 7.04**; Thrale lets go after **forty-nine** minutes of ward, **fourteen past her hour** (in the town 74 minutes); Kiva's doors, lying down since the cut at 6.16, get up after **forty-eight** minutes *(repair)*; carried to the Mole on the jar cart. "Write that you counted, and that you don't know what… That's all anybody should write." |
 
 ## 3. Who stood
 
@@ -163,12 +171,13 @@ paper in full, then each line against the record:
 | Ring at 4 ft 11, not less than 4 ft 10 | **4 ft 11.** Right. |
 | It will lie down when the slack ends | **Not tested, by design** (Mara). |
 | Water inside keeps the bank's count, 57 or faster | **57** (Dray's watch, every pass). Right. |
-| Nothing else in the basin keeps any count | **Wrong, twice, by the operation's own doing:** the planks kept Dray's count from 6.09; the pumps kept the Proprietor's 6.16–6.22. |
+| Nothing else in the basin keeps any count | **Wrong: by the hand on the grating, once** (the pumps kept the Proprietor's 6.16–6.22); **by the operation's own doing, twice** (the planks also kept Dray's count from 6.09, which Hart's hand did not feel). Hart: "Write both." *(repair)* |
 
-The Clerk: "a better record than most sealed papers the Board has opened in thirty years." Then **the thing on no line:** Noa's
+The Clerk records the paper as sealed **twelve** days before the slack *(repair; was "ten")* and: "a better record than most
+sealed papers the Board has opened in thirty years." Then **the thing on no line:** Noa's
 hair (6.22.11, nine seconds, every pen, nobody on the mast); every lamp to a point, seen by three thousand people (the Board
 asks nobody the colour); and three separate written accounts (Rhea's slate; the Order's book in the Master's words; Kellan's
-fault-paper sheet) that three people who have dreamed were seen to count together. **No line drawn.** All in the black box.
+fault-paper sheet), named in one sentence *(repair)*, that three people who have dreamed were seen to count together. **No line drawn.** All in the black box.
 
 ## 6. Cutaways (five established lenses; 8,244 words)
 
@@ -181,14 +190,15 @@ fault-paper sheet) that three people who have dreamed were seen to count togethe
 | Rhea | 48 | 844 | Wed 11 a.m., Graywater's tailboard: Coombe's commission sheet; Monday's slate line revealed (*The second called the far edge, once, before the bag. Not mine to keep*); she writes Kiva's name under Coombe's hand; Pike: "So would I. That's why it's Coombe's." |
 
 **Viewpoint (by section, whitespace tokens, chapter headings excluded): Kiva 48,213 of 56,457 body words, 85.4%;
-cutaways 8,244 (14.6%).** Inside the packet's 85–88% and 6,500–8,500. Every cutaway opens on its lens by name with a cue
+cutaways 8,244 (14.6%).** *(repair: Kiva 48,005 of 56,261, 85.33%; cutaways 8,256 — Mara 2,240, Kellan 2,735, Anwen 1,419,
+Orla 1,020, Rhea 842.)* Inside the packet's 85–88% and 6,500–8,500. Every cutaway opens on its lens by name with a cue
 only that person has. No new lens. The Tanyard section (ch. 47) is Kiva's.
 
 ## 7. People at exit
 
 | Person | State |
 |---|---|
-| **Kiva Rowan** | Seventeen; seated; **unclassified**; **certificate in her own name** (Orla's line struck on evidence, Wed 23rd). Two crossings this movement (§1, §2); **left hand gone to the wrist from the 23rd for three weeks; the arm aches to the shoulder for days; then as before (the two fingers as they were).** Aske's card: **one in fourteen days**, for the year at least. Three clean; not done; asked once and refused. Right hand healed enough to write (badly). No fever after the Slack (Aske: *Two masters, and touching, and nothing*). **Disk cold throughout,** including at 6.22. Yes/no log: Mon latch *yes*; Tue (not stated); **Wed–Thu 1st *no answer*** (nine days of *no answer* by the 1st; she keeps it, on Hart's method). Reads a count through her still door (first time, at the cut). Fourth-column lines: Wed night *Cold. Both. As before.*; Thu 1st (the hull) *The disk is cold.* **On the Charter Board's travelling commission under D. Coombe from the 15th of the fourth month to the last of the ninth, on her two conditions (§10).** Goes home on the Works' transit (Friday the 2nd, the Board's fare). Her pass sheet's second edition corrects the first limit (a caller need not have been inside both gaps; somebody must keep the count who isn't carrying). |
+| **Kiva Rowan** | Seventeen; seated; **unclassified**; **certificate in her own name** (Orla's line struck on evidence, Wed 23rd). Two crossings this movement (§1, §2); **left hand gone to the wrist from the 23rd for three weeks; the arm aches to the shoulder for days; then as before (the two fingers as they were).** Aske's card: **one in fourteen days**, for the year at least. Three clean; not done; asked once and refused. Right hand healed enough to write (badly). No fever after the Slack (Aske: *Two masters, and touching, and nothing*). **Disk cold throughout,** including at 6.22. Yes/no log: Mon latch *yes*; Tue (not stated); **Wed–Thu 1st *no answer*** (nine days of *no answer* by the 1st; she keeps it, on Hart's method). Reads a count through her still door (first time, at the cut). Her doors lay down from the cut (6.16) until the ward went (7.04), forty-eight minutes *(repair)*. The seventh crossing's forecast cold never began; Aske: the second took it with it, "one bill, not two" *(repair)*. Fourth-column lines: Wed night *Cold. Both. As before.*; Thu 1st (the hull) *The disk is cold.* **On the Charter Board's travelling commission under D. Coombe from the 15th of the fourth month to the last of the ninth, on her two conditions (§10).** Goes home on the Works' transit (Friday the 2nd, the Board's fare). Her pass sheet's second edition corrects the first limit (a caller need not have been inside both gaps; somebody must keep the count who isn't carrying). |
 | **Anwen Pryce** | Led ward line A (passes 1 and 3). **To Graywater, Mace's ward line, the night van; left Thursday the 1st at seven on the van**; took the pass sheet's second edition for Mace's line; gave Seven's wax to Pru. |
 | **Perrin Cade** | Captain from the wall; declared both crossings; did not call *off*; lifted nothing. **Yes to the Works trunk crew at the Brickfields from the autumn**, as *Cade, P., carry* (Rusk: *I've never heard of the Carry*). Aske's card to the 30th. |
 | **Jude Talley** | Carried passes 1 and 3; knuckles white, cold not taken. **Yes to the Saltmere Company, Yeo's closing crew, from the 1st of the fourth month, six months**, with a line on the card: *to be told where every bag he carries goes after, and what it's for, by the officer, in writing, whatever the answer is.* Swept Mrs. Penhale's kitchen. Stays in Saltmere. Gave Seven's book to Pru. |
@@ -197,14 +207,14 @@ only that person has. No new lens. The Tanyard section (ch. 47) is Kiva's.
 | **Mara Rowan** | Landing; quench to pumps; would have called it off at 6.24 on her name; did not touch a cell until after; **laid her hand on case nineteen at about 6.30: "Mine."** Signed the commission as guardian. To write the Saltmere sheet with Rusk; goes home Friday. |
 | **Orla Dane** | Sponsor's line struck (her request of the 20th, on evidence). Told Kiva on the 24th. With Hart: no absolution. |
 | **Jessamy Hart** | Grating; "Quiet" at 6.08 (a breath after Kiva), "Ache" at 6.31; his hand ached 6.16–6.22 and **does not ache near six counts**; owned the prediction's misses at the box. Thursday: what a ruined hand can be asked (the same question daily; write *no answer*). |
-| **Peverell** | Restarted each pump on its own six cells. Her fitter Hart's mate lent to the commission for a year. |
+| **Peverell** | Restarted each pump on its own six cells. Her fitter Hart's mate lent to the commission for a year. Has put her seven columns on the "eight" before the Board, as promised (reported by Mara on the 30th) *(repair)*. |
 | **Loveday Hosken** (new) | Fitter, case nineteen; last to say *mine* (after *I can't tell*); right hand starved to the wrist; **eased with 1.2 of Seven's plain**; stood at the box. Her card: her mother's hymn. |
 | **The Proprietor** | Lifted his hand at 6.22.11 after 70 years; **the foundation's first cell (2391) now on its own count**, its case on his table with his handprint fogged on the glass (he refuses the vault). Left hand closes halfway (a month, Aske). Pulse 64 ("ordinary for a man of fifty-five"). **Relinquished the claim** (fault paper; then nine pages by counsel). Not certain he was wrong: "I'm only certain I let go." The foundation's yards, refineries and lift yards stay stepped. |
-| **Clemency Thrale** | Ward across the dock mouth 6.15–7.04; 74 minutes in the town; carried to the Mole; went home on Friday's boat. "I counted. I don't know what." Her sister wrote it. Order's cellar: four jars. |
+| **Clemency Thrale** | Waited on the outer quay sixty paces from the sill 5.50–6.15 *(repair)*; ward across the dock mouth 6.15–7.04; overran her hour by fourteen minutes and said so first through her sister at 6.50; one priced pace back for the gate *(repair)*; 74 minutes in the town; carried to the Mole; went home on Friday's boat. "I counted. I don't know what." Her sister wrote it. Order's cellar: four jars. |
 | **Rhea Sorn** | Officer of the purse; took the count from her second; card ended (six nights); wrote Kiva's name on the commission under Coombe's hand; no seat, no Graywater place. |
 | **Pike** | Kiva's far edge at M3 ("Far edge," once). Hands to close two-thirds by summer (Aske). The Tanyard: Kiva at his far edge; he smiled the whole way. Nairn will watch his far edge. |
 | **Selka Dray** | Called every pass from the wall, on her feet; cut as one line with Carrow. "I'd call it again… That's not friendship." Went home Tuesday. |
-| **Juniper Carrow** | The wall; declared and read; one line with Dray. **Carded by Yeo to the Company's wall crews from the summer.** Has Polglase's tape. |
+| **Juniper Carrow** | The wall; declared and read; one line with Dray (about four minutes on the seam, 6.10–6.14 *(repair; was "eleven")*). **Carded by Yeo to the Company's wall crews from the summer.** Has Polglase's tape. Tue 29th: Kiva tells her the planks kept Dray's count on the lay's holding-together, "I had that off your floor"; Carrow: "Then we're square" *(repair; BOOK_MAP §9 paid both ways)*. |
 | **Maud Lyle** | At M3; said *I can't* before; stood off. |
 | **Bannock** | Frosted hip to boot at the sill; not taken; stood by Friday; legs right by summer (Aske, via Dray). |
 | **Pettit** | Planted at M3 with Kiva; boots frosted to the ankle. |
@@ -321,3 +331,28 @@ met, named or explained. The disk is cold. She writes it** in the fourth column,
 10. **Not done (reserved and kept):** no third door, no fourth; the disk cold; the colour unspoken; "Breach" unused; nothing
     about what the pressure is, what attends, the disk's purpose, Annick's death, the filter, or anything settled between
     nations; the hull not met; Kiva not classified.
+
+## 15. Consolidated repair (2026-10-15)
+
+Same-author line repair of chapters 41–48 (`provenance/MOVEMENT-006-REPAIR.md`). No event, outcome, date, ash total, power
+limit, injury, knowledge boundary or reserved disclosure changed beyond the located corrections; three doors stay three
+clean; the last section (ch. 48 §6, from the ninth *no answer* to *The disk is cold.*) is byte-identical. What the record
+now states differently, besides the *(repair)* marks above:
+
+- **Geometry of the climax:** the Master waits on the outer quay sixty paces from the sill until the last plant is called,
+  so no still door opens within her forty before 6.15; the cask (4 ft 11) is drawn at eye, chin and shoulder height, never
+  "over their heads"; Carrow and Dray stand back along the wall toward the pump house, above the tear; the second plant is on
+  the sill's tested granite, Kiva at its outer edge, Wace a pace in; the first ward line takes from them on the dock floor at
+  the sill's inner edge.
+- **Clocks and counts:** Kellan "after twenty-four"; "at eleven minutes past"; Carrow "four minutes"; "She ran up the dock
+  floor"; "a hundred paces"; Lyle "six days ago"; "a fortnight in the shop"; Orla "Hers for a year"; "a dozen times on sanctioned
+  masts"; the tin "combed at the gate the day they came"; Pike's hands "since the dressings came off" (second repair; ch. 19, ch. 24); the paper sealed "twelve days" before.
+- **Records and knowledge:** Saturday's lane stated rightly in ch. 41 (Twenty-Eight's blade beat Seven's catcher; Halden beat
+  "nearly everybody"); Mara no longer hears Aske's unraised count; the Chair, Perrin and Orla on the wall during the first
+  crossing are Kiva's afterward-knowledge; Hart hears of the struck line from Orla (he had heard the crossings called from the
+  landing); the Chair's second entry reads "the mast was sanctioned, but a warranted response is not a sanctioned event"; the
+  daily hour on Thursday the 1st is the evening's, with the reason given.
+- **Costs shown:** the Master's one pace back is priced (the ward shivers; the flood a hand nearer); her overrun is said first;
+  the seventh crossing's cold is folded into the eighth's bill; Jude's and Gower's knuckles white, not taken.
+- **Voice:** sixteen of twenty-three "I'd want" recast (Jude's four, Dray's "clear", Rhea's "every card" and the Proprietor's
+  "where it happened" kept); closing restatements cut in ch. 41, 46, 47 and 48; summary chains split; heavy speeches broken once.

@@ -2,7 +2,7 @@
 
 Aske had the hand at a quarter to five, by candle, at the north window, with the loft dark behind him and twenty people dressing in it as quietly as twenty people can.
 
-"Warm," he said. "Ten mornings." He held it a while longer than he needed to, palm up on his own palm, with his thumb on the inside of her wrist. Then he wrote it on the card against the window frame and put the card in his coat. "That's the last time I'll say that word about this hand for a while, I think. I'd want you to have heard me say it."
+"Warm," he said. "Ten mornings." He held it a while longer than he needed to, palm up on his own palm, with his thumb on the inside of her wrist. Then he wrote it on the card against the window frame and put the card in his coat. "That's the last time I'll say that word about this hand for a while, I think. Remember you heard me say it."
 
 "I heard."
 
@@ -92,7 +92,11 @@ Kiva did not answer at once. She had known since Thursday that somebody would as
 
 "Will you tell me why?"
 
-"Because if this morning needs my three, it's not a method. It's me." She kept her voice level, because it was a thing she had decided, and decided things are said levelly. "The three live in one hand. Mine. They're three clean, and nobody can learn them, and nobody can do them after me. If the bank comes out because I did three doors on a sill, then the next bank in the country that steps has to send for me, and the one after that, and if I'm hurt or dead or at home with my aunt, it stays in. That's one engine. That's the thing my aunt stood up in a dock on Sunday and said not to be." She took a breath. "The bank has to come out on things with handles. Wards and Embers and still doors and a word anybody can call. If it can't, then it can't, and we'll have found that out, and written it down."
+"Because if this morning needs my three, it's not a method. It's me." She kept her voice level, because it was a thing she had decided, and decided things are said levelly. "The three live in one hand. Mine. They're three clean, and nobody can learn them, and nobody can do them after me. If the bank comes out because I did three doors on a sill, then the next bank in the country that steps has to send for me, and the one after that, and if I'm hurt or dead or at home with my aunt, it stays in."
+
+Out at the head of the basin the outfalls went on pouring, four and four.
+
+"That's one engine. That's the thing my aunt stood up in a dock on Sunday and said not to be." She took a breath. "The bank has to come out on things with handles. Wards and Embers and still doors and a word anybody can call. If it can't, then it can't, and we'll have found that out, and written it down."
 
 The Proprietor looked at her for a long time.
 
@@ -110,9 +114,9 @@ She went. As she passed out of his thirty feet her heart came up a beat, two bea
 
 At ten to six, from the far side of the basin, she saw the Master of the Order of the Even Hand come along the Long Quay from the Mole.
 
-Clemency Thrale walked as she had walked down the Graving's steps on Sunday, slowly, with her hands folded at her waist and a sister a step behind her on either side. The white lamps were still lit along the quay, pale in the grey, and she walked between them without looking at them. She did not come to the head of the basin, where the pump house was and the Proprietor's chair, and all the noise of the morning. She went along the outer quay, on the far side of the Graving's open mouth, past the black gate lying moored against the quay's edge with the Company's boats round it, and stopped on the stone above the dock mouth.
+Clemency Thrale walked as she had walked down the Graving's steps on Sunday, slowly, with her hands folded at her waist and a sister a step behind her on either side. The white lamps were still lit along the quay, pale in the grey, and she walked between them without looking at them. She did not come to the head of the basin, where the pump house was and the Proprietor's chair, and all the noise of the morning. She went along the outer quay, on the far side of the Graving's open mouth, and stopped well back from it, by the gate's moorings, where the black gate lay against the quay's edge with the Company's boats round it: sixty paces from the sill, where she had said she would wait.
 
-She stood there, high above the sill, with the harbour at her back. She looked down at the empty mouth of the dock, where the gate had been, and at the mud of the basin beyond it, and across the basin at the pump house.
+She stood there with the harbour at her back. She looked along the quay at the empty mouth of the dock, where the gate had been, and at the mud of the basin beyond it, and across the basin at the pump house.
 
 Kiva, seventy paces off on the basin wall, felt her doors stir. They did not lie down. It was too far. They only lifted their heads, the way dogs lift their heads in a yard when the gate opens, and looked, and lay still again.
 
@@ -126,13 +130,13 @@ The sister looked across at the tall grey figure on the outer quay.
 
 ---
 
-At a quarter to six Yeo blew one long note on her whistle from the basin wall above the landing, and everybody went to where they had been put.
+At a quarter to six Yeo had blown one long note on her whistle from the basin wall above the landing, and everybody had gone to where they had been put.
 
-Kiva would remember it afterward as a map. She had drawn it in her book on Monday night, left-handed, from Yeo's lines in the dust on the trestle, and on Tuesday night she had drawn it again with every name in its place. She did not need the book now. She stood on the basin wall for one minute before she went down, and looked, and said the map to herself as Rhea said a slate, so that it would be in her head when she needed it.
+Kiva would remember it afterward as a map. She stood on the basin wall for one minute before she went down, and looked, and said it to herself as Rhea said a slate, so that it would be in her head when she needed it.
 
 At the head of the basin, the pump house. Its six outfalls along its foot, pouring into the hand of water on the mud, four and four. Above them the gallery, and on the gallery Peverell in her apron by the door, where she could see the six pump levers inside and the landing outside, both. Behind her, inside, on the two long galleries, thirty-six fitters standing at thirty-six cases with thirty-six jars at their feet in straw. Below the gallery, on the iron landing over the grating, Hart, on his knees, with his bad hand flat on the bars and his watch on the inside of his wrist. And standing behind him at the landing's rail, with her watch open, Mara.
 
-On the basin wall above the landing, Yeo, with her slate and her whistle. Coombe beside her with her rope. The Chair, in her grey coat with her ledger under her arm, and the Clerk of the Measure beside the Chair, small and grey, with her gold chain. The two Board members. Halden's counsel had gone with his master.
+On the basin wall above the landing, Yeo, with her slate and her whistle. Coombe beside her with her rope. The Chair, in her grey coat with her ledger under her arm, and the Clerk of the Measure beside the Chair, small and grey, with her gold chain. The two Board members.
 
 On the mud ten paces out from the outfalls, round the dark place where the ring would come up, a circle of little stakes that Hart had driven on Tuesday evening by his book, to show where the rim would stand. And a pace west of the stakes, on the Graving side, the first ward line, four of them in a row with their hands at their sides and their doors shut: Anwen, Edda, Hesketh, Sedge. Behind them, Jude and Gower, Embers, unlit. Behind them, twenty-five paces west across the mud at the first stake, Brask and Tolver, the first still plank.
 
@@ -140,11 +144,11 @@ By the outfalls, between the ring's stakes and the pump house wall, Ivey's closi
 
 On the basin wall above the first stake, the Circuit's travelling mast, forty feet of black iron with its eight pens on their wires. Polglase at its desk. Perrin beside the desk with Jude's book under his arm. Orla on her crate beside Perrin, with her stick across her knees.
 
-Further along the wall toward the Graving, above the place where the tear would be open when the ring was lifted off it: Carrow and Dray. They stood a pace apart, not touching, with their hands in their coats. Holloway's other two stood behind them. Dray had her watch out.
+Back along the wall toward the pump house, above the place where the tear would be open when the ring was lifted off it: Carrow and Dray. They stood a pace apart, not touching, with their hands in their coats. Holloway's other two stood behind them. Dray had her watch out.
 
 On the mud at the first stake, waiting to catch from Brask and Tolver: the catchers' plank. Pru, Treen, Marten, Yarrow. Behind them, the Pascoes, unlit. And twenty-five paces on, at the stone sill of the Graving's open mouth, Bannock and Wace, the second still plank, standing on the granite with the dock floor going away behind them into the shadow of the walls. On the sill beside them, at its north end against the dock wall, Aske, sitting on his bag.
 
-High above the sill on the outer quay, the Master.
+Back along the outer quay, sixty paces from the sill, the Master, waiting for the last plant to be called.
 
 And forty-five paces inside the dock, on Noa's long chalk line across the wet stone: Pettit and Lyle, the third still plank. Rhea Sorn a little behind them with her slate on her belt, and Pike beside Rhea with his half-closed hands at his sides. Noa at his desk under the lane mast against the dock's south wall, ten paces off.
 
@@ -204,7 +208,7 @@ The light came up very slowly.
 
 It came grey first, through the iron and glass of the Graving's roof, and lay on the wet stone of the dock floor in a long pale sheet from the open mouth to Noa's chalk and on up the dock to the landward lip. Then it came yellow, a little, along the top of the tiers on the east side, where the sun was coming up behind the high town. The lamps along the tiers went on burning, white and steady, three rows of them, and the lamps along the Long Quay outside the dock went on burning too. Somewhere a gull called and stopped.
 
-Kiva knelt on the chalk with her two fingers on the stone, and waited, and felt the count come up into them, four and four, the town's count, the bank's, the harbour's, a hundred and forty paces off and in every stone between.
+Kiva knelt on the chalk with her two fingers on the stone, and waited, and felt the count come up into them, four and four, the town's count, the bank's, the harbour's, a hundred paces off and in every stone between.
 
 She thought, for a moment, of nothing at all. Then she thought of the ferry, with Pru's fingers on her wrist and a voice counting. Then of a creek with a man's boot sticking out from under a fold. Then of the tun on Monday, slopping at its top hoop, and eighteen strangers letting go of a rope's end into the air above an open hand. She thought of Coombe saying *that's what testing is.* She thought that she had never once in her life done anything that was entirely inside her certificate, on her own word, that mattered, and that she might be about to, and that she did not feel anything about it at all except that her knees were cold.
 
@@ -244,7 +248,7 @@ Nothing. Still.
 
 Aske, on his bag at the north end of the sill, did not say anything. He was looking at her hand.
 
-She went down off the sill onto the mud. Twenty-five paces. The mud took her boots to the ankle and let them go, and took them again. The catchers' plank stood at the first stake, four girls and Yarrow, and she went past them and knelt at the stake and laid her two fingers on the wet wood where it went into the mud.
+She went down off the sill onto the mud. Twenty-five paces. The mud took her boots to the ankle and let them go, and took them again. The catchers' plank stood at the first stake, Pru and Treen and Marten and Yarrow, and she went past them and knelt at the stake and laid her two fingers on the wet wood where it went into the mud.
 
 Nothing.
 
@@ -266,7 +270,7 @@ On the wall, Polglase called it, so that the whole basin heard.
 
 The surface of the held water trembled. It trembled in rings from a place a little off the middle, closer together on the side nearest the outfalls, leaning at the pipes. Four times, and stopped. Four times, and stopped.
 
-Kiva walked the last twenty-five paces through the mud to the first ward line and stood at the end of it, at Anwen's left, a pace from the grey staves, with the cold coming off them onto her face and the held water standing over her head.
+Kiva walked the last twenty-five paces through the mud to the first ward line and stood at the end of it, at Anwen's left, a pace from the grey staves, with the cold coming off them onto her face and the held water standing level with her eyes.
 
 She lit her Ember.
 
@@ -294,11 +298,11 @@ Four wards came up together on the mud, low and silver, at the height of a girl'
 
 "*Keep it,*" said Kiva.
 
-The four walls leaned. They went forward a hand's breadth together toward the staves on *one*, and pressed, and pressed, and came off on the *rest*, and on the next *one* they leaned again: four girls from four circuits who had beaten each other on floors all winter, listening to one voice on a wall and not to each other.
+The four walls leaned. They went forward a hand's breadth together toward the staves on *one*, and pressed, and pressed, and came off on the *rest*. On the next *one* they leaned again: four girls from four circuits who had beaten each other on floors all winter, listening to one voice on a wall and not to each other.
 
 On the fourth count, the rings in the held water moved.
 
-They came off the outfall side the way a cloud's shadow comes off a field, and went round until they were closest together on the side toward the ward line. Toward Anwen. Toward Kiva, standing at Anwen's left with her Ember lit. The whole held water, four feet eleven inches of it over their heads, leaned toward them across a pace of frosted mud, and kept leaning, four and four, while Dray counted.
+They came off the outfall side the way a cloud's shadow comes off a field, and went round until they were closest together on the side toward the ward line. Toward Anwen. Toward Kiva, standing at Anwen's left with her Ember lit. The whole held water, four feet eleven inches of it, level with their eyes, leaned toward them across a pace of frosted mud, and kept leaning, four and four, while Dray counted.
 
 It was looking at them.
 

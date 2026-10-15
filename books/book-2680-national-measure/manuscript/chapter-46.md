@@ -12,7 +12,7 @@ It was the first entry in the column that was not *yes.* She had looked at it fo
 
 ---
 
-Aske took the hand at twenty past seven, on the sill of the shut gate, after he had finished with Bannock.
+Aske took the hand at twenty past seven, on the sill of the shut gate, after he had finished with Bannock, and with Jude's and Gower's knuckles, which were white across the backs and not taken.
 
 He held it as he always held it, palm down and then palm up, and pressed the backs of the fingers and the heel and the inside of the wrist. Then he did a thing he had not done before. He took a pin out of his lapel and pricked the ball of her thumb with it, very lightly, and watched her face.
 
@@ -22,7 +22,7 @@ He held it as he always held it, palm down and then palm up, and pressed the bac
 
 "Yes. That's me."
 
-"That's you." He wrote. "To the wrist. Clean. Not cold; gone." He looked at the hand a moment longer, lying in his own. "The rest of the arm will ache to the shoulder for a few days, I'd think, the way it ached after the sixth. Then it'll stop. The hand stays like this. Three weeks, if I guessed right on Monday. Then it comes back as it was, with your two fingers as they are, and nothing more."
+"That's you." He wrote. "To the wrist. Clean. Not cold; gone." He looked at the hand a moment longer, lying in his own. "The seventh's cold never started. It hadn't come up the arm when you lit again, and the second took it with it: one bill, not two, and this is it. The rest of the arm will ache to the shoulder for a few days, I'd think, the way it ached after the sixth. Then it'll stop. The hand stays like this. Three weeks, if I guessed right on Monday. Then it comes back as it was, with your two fingers as they are, and nothing more."
 
 "And the card."
 
@@ -60,7 +60,7 @@ Perrin signed. He gave Kiva the pencil. She signed it right-handed, worse than s
 
 Anwen broke her own wax with her thumbnail. Aske took the lid off.
 
-The ash inside was grey and fine and lay in the tin like flour. Aske did not comb it. He had combed it at the gate on the first day of the Measure, and every day since it had sat sealed in Jude's satchel under the book. He measured it out with a horn spoon onto a square of linen, a little at a time, watching the girl's face, and folded the linen round her white hand and held it there between his own two hands.
+The ash inside was grey and fine and lay in the tin like flour. Aske did not comb it. It had been combed at the gate the day they came, and every day since it had sat sealed in Jude's satchel under the book. He measured it out with a horn spoon onto a square of linen, a little at a time, watching the girl's face, and folded the linen round her white hand and held it there between his own two hands.
 
 It took ten minutes. Kiva watched the whole of it. She had seen it done once before, on a kitchen table in Coper Street in the autumn, to her aunt's reading hand, and she had been too frightened then to watch properly. She watched now. She watched the white go out of the girl's fingertips first, slowly, from the ends in, the way frost goes off a window when the room warms, and the colour come back after it, pink and then red. She saw Loveday Hosken bite her lip when the feeling came back, because coming back hurts, and saw Mara's hand tighten on her shoulder.
 
@@ -102,7 +102,7 @@ Pru went first, because she had her own sheet: a new one, bought in the second m
 
 Kiva stood on the sill with her left hand in her coat and watched.
 
-She had never watched a bagging she could not kneel at. She had knelt at every one since the spring, at a hem or a corner or a far edge, with her hands dark or lit, saying two words or none. She stood on the granite now with her right hand in her pocket and her left hanging, and watched Pru on her knees in a hand of grey water with her capped fingers on the edge of a sheet, folding it in from the far side over a drift of the Barrel's ash, and Treen at the other end of it saying *now,* and Pru saying *yes,* and the two of them lifting together.
+She had never watched a bagging she could not kneel at. She had knelt at every one since the spring, at a hem or a corner or a far edge, with her hands dark or lit, saying two words or none. She stood on the granite now with her right hand in her pocket and her left hanging. She watched Pru on her knees in a hand of grey water with her capped fingers on the edge of a sheet, folding it in from the far side over a drift of the Barrel's ash: Treen at the other end of it saying *now,* and Pru saying *yes,* and the two of them lifting together.
 
 Pru did not look up at her once. She did not need to.
 
@@ -114,7 +114,7 @@ Pru did not look up at her once. She did not need to.
 
 Marten and Yarrow went in with Twenty-Eight's sheet and Halden's. Wace went in with Old Four's. By nine the sheets were coming up out of the pool one after another, heavy and dripping, and going into canvas bags on the sill, and the bags going up the dock-mouth steps on the Company's men's shoulders to a cart at the top that would take them along the quay to the Board's gate to be combed.
 
-At eleven the last drift was off the stone, and the catchers came up out of the pool with their boots grey to the ankle and their caps and gloves grey, and stood on the sill, and Pru looked at Kiva for the first time since half past seven.
+At eleven the last drift was off the stone. The catchers came up out of the pool with their boots grey to the ankle and their caps and gloves grey, and stood on the sill, and Pru looked at Kiva for the first time since half past seven.
 
 "That's all of it," said Pru. "Except what's on my boots."
 
@@ -136,7 +136,7 @@ The clerk wrote it.
 
 Jude went to Ropery Row at half past nine, while the catchers were still in the pool, and Kiva went with him because there was nothing in the Graving she could do with one hand.
 
-The water was gone. It had come up through the gratings in the low town's gutters at twenty-two minutes past six, when the six pumps stood, and spread along Ropery Row and the lanes off it, brown and quiet, to a depth of four inches in the street and further in the cellars, and at twenty-nine minutes past, when the sixth pump started, it had begun to go down. By half past nine it was gone from the street. There was a line on every doorstep, a dark tide mark on the stone four inches up, and the cobbles were wet and shining, and the gratings in the gutters gurgled and rattled.
+The water was gone. It had come up through the gratings in the low town's gutters at twenty-two minutes past six, when the six pumps stood, and spread along Ropery Row and the lanes off it, brown and quiet: four inches in the street, more in the cellars. At twenty-nine minutes past, when the sixth pump started, it had begun to go down. By half past nine it was gone from the street. There was a line on every doorstep, a dark tide mark on the stone four inches up. The cobbles were wet and shining, and the gratings in the gutters gurgled and rattled.
 
 They did not rattle four and four. Kiva noticed it on the first grating she stepped over. She stopped and stood on it. Through the sole of her boot it went three and a quick, and then two, and then something long, like six bands at a fair, as Hart had said. It belonged to nobody.
 
@@ -188,7 +188,7 @@ Jude looked up at her from the kitchen floor for a long moment.
 
 "Say it."
 
-"I asked you in the second month what ash was for," said Jude, "on the Ropewalk steps. You said keeping the sea out. On Tuesday I asked you what the Barrel's ash was for, when it was cut, and you said nothing; it'd be red, and go in the Board's press, and stay there." He did not look away. "I'll carry it up a bank for six months. Every bag. I'd want it on my card that I'm told where every bag goes after, and what it's for. Even if it's for nothing. I'll not carry ash up a bank and not know."
+"I asked you in the second month what ash was for," said Jude, "on the Ropewalk steps. You said keeping the sea out. On Tuesday I asked you what the Barrel's ash was for, when it was cut, and you said nothing; it'd be red, and go in the Board's press, and stay there." He did not look away. "I'll carry it up a bank for six months. Every bag. Put it on my card that I'm told where every bag goes after, and what it's for. Even if it's for nothing. I'll not carry ash up a bank and not know."
 
 Yeo looked at him. Her flat brisk face did not change, and Kiva, who had watched it decide a thing at Mallow Creek in three seconds that was in no book, watched it now take longer than that.
 
@@ -202,7 +202,7 @@ Mrs. Penhale had picked up her broom again.
 
 Jude came up the two steps into the street. His face was doing something Kiva had not seen it do before, which was nothing at all, very carefully.
 
-"I'd want it said," he said to her, when they were twenty paces down Ropery Row and the green door was behind them, "that I've seen the sea come in over somebody, and go out of somebody's kitchen, both. In a week." He stopped on a grating and stood on it, and it went three and a quick under his boots, and two. "I think that's what it's for. The ash. I think it's for that. I'm going to find out."
+"I'd want it said," he said to her, when they were twenty paces down Ropery Row and the green door was behind them, "that I've seen the sea come in over somebody, and go out of somebody's kitchen, both. In a week." He stopped on a grating and stood on it, and it went three and a quick under his boots, and two.
 
 ---
 
@@ -214,23 +214,23 @@ Mara had named four people to stand at the box. Hart. Peverell, in her apron, wh
 
 The Clerk unlocked the three locks herself.
 
-She took out the paper and held it up so that the boards could see the wax, the Board's seal and the hour, and broke it, and read it aloud in her even voice, every word of it, as it had been written on the 11th at the keeper's desk with Peverell and Yeo watching and Rusk watching it written.
+She took out the paper and held it up so that the boards could see the wax, the Board's seal and the hour. Then she broke it and read it aloud in her even voice, every word, as it had been written on the 11th at the keeper's desk.
 
 When she had read it she did not lower it.
 
-"The Board has the morning's record," she said. "From the Works' reader on the landing, by her watch. From Mr. Hart's hand and his level. From the Board's reader at the lane mast, by his clock. From the officer's slate." She looked at Hart. "The Board will read each line against what happened, and say right or wrong, and the man who wrote it will say whether he agrees. Mr. Hart."
+"The Board has the morning's record," she said. She looked at Hart. "It will read each line against what happened, and say right or wrong, and the man who wrote it will say whether he agrees. Mr. Hart."
 
 "Yes, ma'am."
 
 "*The slack in the basin will begin at nine minutes past six by the pump house clock, and not before seven past nor after twelve past.*"
 
-"It began at eight past," said Hart. "By my hand, at the grating. Miss Rowan's hand had it first, in the dock, a breath before; the Board's reader wrote it at eight past by his mast clock, set to the pump house clock at five." He did not look at his book. "Inside the limits. A minute off the figure. I've never been early, and I was early. I don't know why."
+"It began at eight past," said Hart. "Miss Rowan's hand had it a breath before mine." He did not look at his book. "Inside the limits. A minute off the figure. I've never been early, and I was early. I don't know why."
 
 "Right in the limits," said the Clerk, "wrong in the minute." The Board's clerk wrote it. "*It will last not less than eighteen minutes nor more than twenty-two.*"
 
 Hart was quiet for a moment.
 
-"I can't give you an honest length," he said. "From the first quiet at eight past to the ache at thirty-one is twenty-three minutes. That's over the limit by one. But in the middle of it, from sixteen past to twenty-two past, my hand ached. It ached because the pumps were going on Mr. Halden's count, and the thing that had been holding the harbour's count was shut in the dock behind the Master's ward, and there was nothing in the basin holding anything but the pumps." He looked at the Clerk. "That's our doing. We put it there. When he let go, it went quiet again, and stayed quiet till thirty-one, though six pumps were running by then, every one on its own count." He stopped. "I don't know why six counts at once didn't ache it. I'd guess. I'll not give the Board a guess."
+"I can't give you an honest length," he said. "From the first quiet at eight past to the ache at thirty-one is twenty-three minutes. That's over the limit by one. But in the middle of it, from sixteen past to twenty-two past, my hand ached. It ached because the pumps were going on Mr. Halden's count, and nothing else in the basin was holding one." He looked at the Clerk. "That's our doing. We put it there. When he let go, it went quiet again, and stayed quiet till thirty-one, though six pumps were running by then, every one on its own count." He stopped. "I don't know why six counts at once didn't ache it. I'd guess. I'll not give the Board a guess."
 
 "Then it's wrong," said the Clerk. "Twenty-three, and not a clean figure. Write that, please, as he said it." She went on. "*When it begins, the ring at the outfall will rise from the mud. It will stand at four feet eleven inches on the basin's staff, and not less than four feet ten.*"
 
@@ -240,7 +240,7 @@ Hart was quiet for a moment.
 
 There was a short silence on the boards.
 
-"Not tested," said Mara. It was the first thing she had said. "We took it off the water at ten past and cut it in the Graving at sixteen past. It never got the chance to lie down. We made sure it couldn't." She did not look at anybody. "I'd want that line written as *not tested, by design,* and not as right."
+"Not tested," said Mara. It was the first thing she had said. "It never got the chance to lie down. We made sure it couldn't." She did not look at anybody. "Write that line as *not tested, by design,* and not as right."
 
 "*Not tested, by design,*" said the Clerk. "*While it stands, the water inside it will keep the bank's count, four and four, at fifty-seven to the minute or faster.*"
 
@@ -250,17 +250,19 @@ There was a short silence on the boards.
 
 Hart looked at his bad hand.
 
-"Wrong," he said. "Twice. By our own hands. From nine past, the wards and the Embers and the still doors on the mud kept Miss Dray's count, on purpose, so the thing would come to them. We found on Tuesday that it had to, or it'd go to the pumps. And from sixteen past to twenty-two past the pumps kept Mr. Halden's, because we asked him to hold them." He did not look up. "We wrote that line on the 11th before we knew either. It's wrong. It's wrong because we made it wrong. I'd want both written."
+"Wrong," he said. "By my hand, once: the ache from sixteen past to twenty-two past, when the pumps kept Mr. Halden's count because we'd asked him to hold them. By what we did, twice: from nine past, the wards and the Embers and the still doors on the mud kept Miss Dray's count, on purpose, so the thing would come to them, and my hand never felt that from the grating." He did not look up. "We wrote that line on the 11th before we knew either. It's wrong because we made it wrong. Write both."
 
 "Both written," said the Clerk. The clerk wrote.
 
 She lowered the paper at last.
 
-"The Board records," she said, "that a slack was predicted under seal ten days before it came, by a fitter and a reader, and that the prediction was right in the limits of its hour, right in the height of the ring, and right in its count; wrong in its length, by a minute, for reasons the man who wrote it does not know; wrong in its last line, twice, by the operation's own doing; and not tested in one line, by design." She did not look at a paper. "That's a better record than most sealed papers the Board has opened in thirty years. The Board would like that written too."
+"The Board records," she said, "that a slack was predicted under seal twelve days before it came, by a fitter and a reader. The prediction was right in the limits of its hour, right in the height of the ring, and right in its count. It was wrong in its length, by a minute, for reasons the man who wrote it does not know; wrong in its last line, once by the hand on the grating and twice by the operation's own doing; and not tested in one line, by design." She did not look at a paper. "That's a better record than most sealed papers the Board has opened in thirty years. The Board would like that written too."
 
 Then she looked down at a second sheet on the trestle beside the box, which Kiva had not noticed, in Noa's narrow hand.
 
-"There's one thing that's on no line of this paper," said the Clerk, "because nobody could have written it on the 11th. The Board has it from four places. The Board's reader, at the lane mast: a hair on every pen at twenty-two minutes past six and eleven seconds, nobody on the mast, lasting nine seconds by his clock. Every lamp on the Graving's tiers, and the Long Quay, and the low town, and the landing, to a point, and back; seen by three thousand people, and the Board will not ask any of them to say what colour." She did not change her voice. "And three accounts, written separately before any of them had spoken to the others. Graywater's officer, on her slate: *Rowan's lips counted, four and a rest, nine seconds.* The Order's sister, in the Order's book, in the Master's words: *I counted. I don't know what.* Mr. Renn, on a sheet of fault paper: *His lips counted. Four, and a rest. I don't know what.*"
+"There's one thing that's on no line of this paper," said the Clerk, "because nobody could have written it on the 11th. The Board has it from four places. The Board's reader, at the lane mast: a hair on every pen at twenty-two minutes past six and eleven seconds, nobody on the mast, lasting nine seconds by his clock. Every lamp on the Graving's tiers, and the Long Quay, and the low town, and the landing, to a point, and back; seen by three thousand people, and the Board will not ask any of them to say what colour."
+
+She did not change her voice. "And three accounts, written separately before any of them had spoken to the others, on Graywater's officer's slate, in the Order's book in the Master's words, and on Mr. Renn's sheet of fault paper, each saying that somebody counted and that the writer doesn't know what."
 
 The boards were very quiet.
 
@@ -292,9 +294,9 @@ Orla read it twice, with her lips shut.
 
 "There was a second," she said.
 
-"There was. I've entered it on the next page." The Chair turned the leaf. Orla read that too. *A second crossing, Ember to still, in the same hour, declared by her captain's voice, against her healer's card of one in seven days and against the rate on her certificate, the price said first by her healer; on the officer's warrant; read. Not an incident: not a sanctioned event, and the rate is the healer's to enforce. Entered. Her healer reports the cost.* "It doesn't touch your line. Your line was struck on the first. The first was what you asked for."
+"There was. I've entered it on the next page." The Chair turned the leaf. Orla read that too. *A second crossing, Ember to still, in the same hour, declared by her captain's voice, against her healer's card of one in seven days and against the rate on her certificate, the price said first by her healer; on the officer's warrant; read from the same sanctioned mast. Not an incident: the mast was sanctioned, but a warranted response is not a sanctioned event, and the rate is the healer's to enforce. Entered. Her healer reports the cost.* "It doesn't touch your line. Your line was struck on the first. The first was what you asked for."
 
-"I know what I asked for." Orla looked at the struck paragraph. "Twenty years I've been somebody's sponsor. Hers for a year and a half. I'd thought I'd feel something when it went."
+"I know what I asked for." Orla looked at the struck paragraph. "Twenty years I've been somebody's sponsor. Hers for a year. I'd thought I'd feel something when it went."
 
 "Do you?"
 
@@ -312,7 +314,7 @@ He put down the oil can.
 
 "Crest's struck my line," said Orla. "On evidence. The girl's certificate stands in her own name."
 
-"I heard. Noa Bexley told the landing at noon." Hart looked along the gallery at the cases, every one keeping its own time. "She crossed inside it. On a mast. On her own word." He was quiet. "She crossed the second outside it, with the price said first, on her captain's voice. Same hour."
+"I thought she might. I heard both crossings called this morning, from the landing." Hart looked along the gallery at the cases, every one keeping its own time. "She crossed inside it. On a mast. On her own word." He was quiet. "She crossed the second outside it, with the price said first, on her captain's voice. Same hour."
 
 "She did."
 
@@ -360,11 +362,9 @@ Kiva looked at her aunt's reading hand, lying palm up on the blanket.
 
 "Did you touch one?" she said. "After."
 
-"Case nineteen. At half past six. When it was done and nobody needed it." Mara turned the hand over. "I wanted to know. It was the girl's mother's hymn, slow, and under it there was nothing but more of itself." She was quiet. "I'd decided not to touch one till it was nobody's need. I kept to it. And then I decided to, and I did." She looked at Kiva. "I'd like both of those written. Not in your book. In mine."
+"Case nineteen. At half past six. When it was done and nobody needed it." Mara turned the hand over. "I wanted to know. It was the girl's mother's hymn, slow, and under it there was nothing but more of itself." She was quiet. "I'd decided not to touch one till it was nobody's need. I kept to it. And then I decided to, and I did." She looked at Kiva. "Both are in my book. Not yours."
 
-"You've written them."
-
-"I've written them." Mara put her hand on Kiva's knee, briefly, below the dead hand where it lay. "And you counted. On the dock floor. Rhea Sorn told me at the box. Four and a rest."
+Mara put her hand on Kiva's knee, briefly, below the dead hand where it lay. "And you counted. On the dock floor. Rhea Sorn told me at the box. Four and a rest."
 
 "I don't know what."
 

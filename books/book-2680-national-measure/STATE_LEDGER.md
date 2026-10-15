@@ -958,7 +958,9 @@ fourth month.
 
 ## Movement Six block — chapters 41–48 (first draft, 2026-10-15)
 
-Status: **from first-draft prose, unreviewed. The book's last movement and its ending.** Everything here is on the page of
+Status: **from first-draft prose; reconciled 2026-10-15 to the consolidated same-author repair**
+(`provenance/MOVEMENT-006-REPAIR.md`; lines it changed are marked *(repair)*). **Rechecked (fresh-context, same family, job `22f7111d`), bounded second repair made, accepted as editorial context 2026-10-15 (`provenance/MOVEMENT-006-RECHECK-CONFIRMATION.md`). The book's last
+movement and its ending.** Everything here is on the page of
 `manuscript/chapter-41.md` to `chapter-48.md`. The full record is `provenance/MOVEMENT-006-CONTINUITY.md`. If review or repair
 changes the prose, this block is corrected from the surviving text. Span: a quarter to seven on Monday the 21st of the third
 month, 2681, to the evening of Thursday the 1st of the fourth month.
@@ -968,7 +970,8 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 - Seventeen; seated; **unclassified** (no column made). **Certificate in her own name:** the Chair struck Orla Dane's
   sponsor's line on Wednesday the 23rd at four, *on evidence* (the first crossing below); the conditions stand as written;
   her book goes weekly to the Chair.
-- **Crossings:** the seventh, Wed 23rd, 6.11.40, Ember to still, at the Graving's sill, read by N. Bexley at the Board's lane
+- **Crossings:** the seventh, Wed 23rd, 6.11.40, Ember to still, at the Graving's sill (planted into the sill's tested granite,
+  Kiva at its outer edge, Wace a pace in *(repair)*), read by N. Bexley at the Board's lane
   mast, declared by Cade at six: **inside her certificate.** The eighth, 6.14.50, Ember to still, at M3 inside the dock, **the
   second in the hour, against her healer's card**, the price said first by Aske (Monday; and at 6.13 inside a ten-count),
   declared by Cade, read; entered by the Chair *not an incident.* Both on the Board's ash.
@@ -981,7 +984,9 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 - No fever after the Slack (*Two masters, and touching, and nothing*).
 - **The disk: cold throughout**, including at 6.22 and at the hull. Fourth-column lines: *Cold. Both. As before.* (Wed);
   *The disk is cold.* (Thu 1st).
-- **Yes/no log:** Mon *yes*; from Wed 23rd *no answer* (kept daily on Hart's method).
+- **Yes/no log:** Mon *yes*; from Wed 23rd *no answer* (kept daily on Hart's method, at a quarter to seven; on Thu 1st the
+  morning's hour was let go by at Anwen's van and the evening's taken instead *(repair)*).
+- The seventh crossing's forecast cold never began; the second took it with it ("one bill, not two", Aske) *(repair)*.
 - Read a count through her still door for the first time (at the cut).
 - **Seen to count, four and a rest, for nine seconds at 6.22** (Rhea's slate), with Thrale and the Proprietor.
 - **The dream:** no recurrence. **The colour with no word: Kiva alone.**
@@ -1015,11 +1020,16 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
   **Survived:** the Proprietor's pattern and his hand on the glass are one hold.
 - **The Proprietor lifted his hand at 6.22.11;** the pumps stood; **every lamp on the coast to a point for nine seconds**
   (Saltmere; the coast's lamp offices to Westerley; three ports over the water); a hair on every pen at Noa's mast.
-- **Thrale's ward across the dock mouth 6.15–7.04**, holding the purse and the flood; the gate seated on the flood at 7.04;
-  74 minutes in the town.
-- **The prediction (opened noon Wed):** 6.08 (in the limits; a minute off); 23 minutes, not clean (wrong); 4 ft 11 (right);
-  57 (right); "lie down" not tested by design; "nothing else" wrong twice by the operation's own doing. Not on the page: the
-  point of light.
+- **Thrale** waited on the outer quay by the gate's moorings, sixty paces from the sill, from 5.50 until the last plant was
+  called *(repair)*. **Her ward across the dock mouth 6.15–7.04**, holding the purse and the flood; at 6.50 her sister said
+  up the dock "She says she'll be late. She's saying it first" *(repair)*; at 6.55 one pace back for the gate, priced (the
+  ward shivered wall to wall; the flood came a hand nearer before it held) *(repair)*; the gate seated on the flood at 7.04;
+  74 minutes in the town. Kiva's doors lay down from the cut (6.16) to 7.04, forty-eight minutes *(repair)*.
+- **Students on the wall:** Carrow and Dray cut back along the wall toward the pump house, above the tear *(repair)*, about four
+  minutes (6.10–6.14) *(repair)*.
+- **The prediction (opened noon Wed; sealed twelve days before *(repair)*):** 6.08 (in the limits; a minute off); 23 minutes,
+  not clean (wrong); 4 ft 11 (right); 57 (right); "lie down" not tested by design; "nothing else" wrong once by the hand on
+  the grating and twice by the operation's own doing *(repair)*. Not on the page: the point of light.
 - **Ledger:** the Order's 36 jars into 36 cells (cellar: **4**). The purse: **286.4 drams, all red**, held by the Board as
   evidence; **no claim; no share paid.** Thirty-six old cans boxed red as evidence. Kiva's crossings on the Board's ash.
 
@@ -1034,6 +1044,8 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
   **Price:** about a tenth of the light; a third again in fitters' wages (the towns'); the foundation's 112 municipal
   licences. **Not settled whether the Proprietor was right.**
 - The Clerk records three people who have dreamed seen to count together (three written accounts); no line drawn.
+- The Chair's entry for the second crossing: read from the same sanctioned mast; *not an incident: the mast was sanctioned,
+  but a warranted response is not a sanctioned event, and the rate is the healer's to enforce* *(repair; wording only)*.
 
 ### M6.5 People
 
@@ -1047,7 +1059,9 @@ month, 2681, to the evening of Thursday the 1st of the fourth month.
 | **Rhea Sorn** | Card ended (six nights). No Graywater place for Kiva; would not join the commission ("Graywater's mine. You're not"). |
 | **Pike** | Hands to close two-thirds by summer. Kiva's far edge at M3; she his in the Tanyard (Mon 28th). |
 | **Selka Dray** | Called every pass from the wall; one line with Carrow. Not a friend. |
-| **Juniper Carrow** | Carded by Yeo to the Company's wall crews from the summer. |
+| **Juniper Carrow** | Carded by Yeo to the Company's wall crews from the summer. Used Kiva's declared, single, read door at the Slack; Kiva took the lay's holding-together for the planks and told her so (Tue 29th; "Then we're square") *(repair)*. |
+| **Peverell** | Restarted each pump on its own six cells. Put her seven columns on the "eight" before the Board, as promised (reported Wed 30th) *(repair)*. |
+| **Jude, Gower** | Knuckles white across the backs after the carries; cold, not taken (Aske, 7.20 Wed) *(repair)*. |
 | **Bannock** | Frost hip to boot (not taken); stood by Friday. |
 | **Pettit** | Boots frosted to the ankle. |
 | **Loveday Hosken** (new) | Fitter, case nineteen; starved right hand eased with Seven's plain. |
@@ -1074,3 +1088,24 @@ The Measure read; the dream public with no agreed meaning ("the unroofed sky"); 
 ordered onto its own count; the claim relinquished; Kiva's certificate in her own name, her hand gone for three weeks, her
 card at one in fourteen, three doors three clean, the disk cold; the four gone four ways; a hull with a light like no lamp in
 Saltmere standing in from the south, not met.
+
+### M6.9 Reconciled at repair (prose corrected; no outcome changed)
+
+- **Saturday's lane (touches the Movement Five record):** ch. 41 now says Twenty-Eight's blade beat Seven's catcher in a lane on
+  Saturday (Seven won the lane 6–5, as M5.2) and that Halden License had beaten "nearly everybody" (Halden was second).
+- The first line under the limits on Kiva's pass sheet is the caller line; "it cannot be done by strangers" is a limit, not the
+  first line (ch. 41 corrected to agree with ch. 47–48).
+- The Proprietor's predecessor: "the man who held it before me" (as ch. 23); no invented line of Proprietors.
+- Lyle hurt six days before Tuesday the 22nd; Kiva crossed about a dozen times on sanctioned masts before the Slack; Seven's tin
+  was combed at the gate by the Board the day they came (ch. 17); Pike's hands half closed since the dressings came off (ch. 19; ch. 24); Orla Kiva's
+  sponsor for a year; Kiva a fortnight in the shop before the 15th.
+- Hart learned of the struck line from Orla at the pump house on Wednesday afternoon (not at noon).
+- The catchers' plank is four: Pru, Treen, Marten, Yarrow.
+
+### M6.10 Owner items carried (prose unchanged in substance)
+
+The colour "brushed twice" (ch. 45; ch. 48); the certificate precedent (the second crossing carries no Board consequence);
+the new interaction properties (reading a count through the still door; "one hold"; Thrale's ward holding water and the
+flood; packs keeping no count after the bank came out; no fever after two masters touching); the bible's §6 revised in-world
+(the caller need not have crossed); Hollis Vane's absence from the Slack; whether the sentence targets govern dialogue; the
+progression shape and density. See `provenance/MOVEMENT-006-REPAIR.md` §8.
