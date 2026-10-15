@@ -208,3 +208,17 @@ Owner instruction: continue until book and complete local Breeze audio are publi
 - PUBLISHED: PWA boundary-universe main `67453b2`, version 1.18.45, sw-v1221: complete 48 chapters byte-identical to committed source (326,226 words); ending repaired; audio-clarity fixes to ch 11/14/15/19/24 included.
   Source kindling main `c2b2fc1` + merges. Audio session continues to push Breeze chapters (1–5 candidates) — untouched.
 - Next: whole-book repair -> fresh Opus recheck of every changed line (diff vs `whole-book-pre-repair`) -> bounded second repair if needed -> accept -> reconcile ledgers/maps/AUTHORSHIP/README -> final publish -> final report.
+
+## FINAL — 2026-10-15 09:50 MDT — complete book reviewed, repaired, rechecked, accepted, published (text)
+
+- THE BOOK: *The National Measure*, chapters 1–48, **325,933 words** (`wc -w` semantics), all prose by Claude Opus 5.5 (runtime-reported `claude-opus-5-5`; unverifiable from inside sessions); Sonnet 5.5 wrote no prose.
+- Process record per movement: draft -> informed editorial+formula review + manuscript-only cold read (both simulated, same family) -> consolidated same-author repair -> fresh-context recheck -> bounded second repair -> acceptance
+  confirmation (`provenance/MOVEMENT-00N-RECHECK-CONFIRMATION.md`). Whole book: three read-only reviews (continuity `6f04bed8`, promises `26886465`, seams `ffc1e86f`) -> one repair `32af798e` (35 chapters) -> recheck `59421479` -> bounded
+  second repair `0176bac3` -> acceptance `provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md` (final SHA-256 per chapter). Frozen editions with hashes: `editions/movement-00N-first-draft/`, `editions/whole-book-pre-repair/`, plus the audio-clarity pre-repair copies.
+- PUBLISHED: PWA boundary-universe main `46fa504`, **version 1.18.46**, sw-v1222; all 48 chapters byte-identical to committed source on books.worker-bee.app; shelf text states what was and was not reviewed (simulated readers, no human feedback, no narration approved).
+  Source kindling main `5fe08e9` + later state commits. Audio manifest intact (Breeze chapters pushed by the audio session).
+- **AUDIO HANDOFF (important):** chapters changed by the whole-book repair: 1, 3, 8, 9, 13, 14, 15, 16, 17, 19–22, 25, 26, 28–44, 46–48. Unchanged since their movement acceptance: 2, 4, 5, 6, 7, 10, 11, 12, 18, 23, 24, 27, 45. **Published Breeze chapter 1 and chapter 3 were rendered from
+  pre-repair text** (ch 1: "four of them besides" -> "three"; "eleven and four days" -> "eleven weeks and four days"; ch 3: the Pit added to the dream's occasions). Chapter 2, 4, 5 audio matches accepted text. Stable hashes: `provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md`.
+  Recheck note: `narration/breeze/chapter-01/direction.json` and `chapter-03/direction.json` still hold pre-repair text. I did not touch narration files, spend any credits, or start any renderer.
+- Open owner items (all recorded in the confirmation files): deferred W4 (Pettit/Yarrow vs Book One), the colour hint, the certificate precedent, new interaction properties, Vane's absence, sentence targets vs dialogue, progression density, Barrel figure 686.4, the name Shapter, 76/77, tide clock, 41-minute hold, brown-ink line, Penhale's ward, the hull.
+- Blockers: none. Nothing pending from this loop. The loop is complete for TEXT; the Codex audio supervisor owns the rest (re-render ch 1 and 3; render 6–48 from accepted hashes).
