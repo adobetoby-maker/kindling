@@ -150,3 +150,30 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   Opus session using the supplied O'Connor rubric/formula without substitution.
   It is now working. Master showrunner and cold read remain active; no duplicate
   review session was launched.
+
+## Heartbeat — refreshed opening fixes; spatial clarity repair queued
+
+- Fresh Codex recheck accepted all eight Opus corrections to chapters 8–9 and
+  refreshed narration, source hashes, reviews and readiness. Both are ready;
+  chapter 7 remains unchanged. Result: `RECHECK-08-09.result.md`.
+- Chapters 13–14 are prepared and ready. Chapter 15 is held on two concrete
+  issues: third/fourth stamp interval, and west/uphill catching position versus an
+  east/downhill cloth. All 713 paragraphs were reviewed, but no false ready
+  marker was created for chapter 15. Result `DIRECT-UNIT-13-15.result.md`.
+- Opus completed the ten one-hand number fixes in chapters 11,14,15,19,24,
+  including two additional chapter 14 occurrences. Full report at
+  `provenance/AUDIO-HAND-COUNTS-REPAIR.md`; frozen edition preserved.
+- Opus surgical spatial/cadence/Hart-hand repair `f842bac9` is active for ONLY
+  chapters 15 and 19. Prompt `planning/OPUS-AUDIO-SPATIAL-15-19.prompt.md`, report
+  expected `provenance/AUDIO-SPATIAL-15-19-REPAIR.md`. This preserves prior hand
+  corrections; other source changes are outside its scope.
+- Fresh Codex recheck is queued behind that report in shell session 36093:
+  `RECHECK-HAND-AND-SPATIAL.prompt.md` -> `RECHECK-HAND-AND-SPATIAL.result.md` and
+  `HAND-AND-SPATIAL-RECHECK.md`. It verifies all cumulative source corrections
+  against the two frozen editions and refreshes ONLY chapter 11/15 narration.
+  Wait for its acceptance before committing/publishing those five source files.
+- M5 second repair `f517a39f` had a permission prompt for its own temporary quote-
+  parity script. Approved that exact harmless script; same author resumed, with
+  no model substitution or competing writer. Master showrunner remains healthy.
+- Chapter 3 continues synthesis (last inspected s185); chapters 1–2 remain live.
+  No new upload or owner action is required at this check.
