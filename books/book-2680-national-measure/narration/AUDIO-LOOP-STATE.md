@@ -429,3 +429,31 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Initialized43–45; Codex director shell72352 active, own unit accepted source.
   Next46–48 completes first narration read-through, then resolve any actual
   remaining blockers and publish exact accepted text corrections before audio.
+
+## 2026-10-15 23:09 UTC — audio10 live; final narration unit launched
+
+-10 live manifest/full media SHA256 verified and HTTP206. Duration2636.83s,
+  bytes31642893, sha11c61038f8d83ccbcf5dc56bad2cdf2d37b950911d13bc0706ee1e743d914178.
+  Owner/perceptual listening pending. Single renderer75905 continues11
+  (verifieds017), parent97481; no competing GPU.
+-40/41 physical repairs independently pass, source hashes and −3 words adopted
+  in explicit confirmation/authorship addenda, frozen source/reports committed
+  ca40352, reconciled remote10 pointer, source main e5056d1. Total325940 words.
+  Exact committed37/40/41 copied to clean/reconciled PWA by existing helper;
+  typecheck/diff-check pass, version1.18.48 sw1224. PWA deploy push underway;
+  verify live bytes next check before claiming deployment.
+-43–45 preparation:43 ready;44 Noa desk offset,45 gate closed before arrival/
+  seating clock are blocked on actual location/time evidence. Opus083ca522
+  verifies these ONLY, with AUDIO-LOCATION-TIME-44-45-REPAIR.md; fresh Codex
+  recheck shell43301 queued. Initial author prompt wrongly paraphrased desk
+  'outside barrier'; corrected file to actual third-chalk/45-paces-inside
+  evidence. Author is instructed to read complete43–45 and original feedback,
+  reject bad findings with actual evidence; recheck must verify actual location,
+  not inherit the initial bad paraphrase. Do not preaccept these source hashes.
+- Initialized46–48, final rolling read/direct shell31032 active. Once final
+  unit completes and real blockers resolve, all48 preparation can be inventoried;
+  consolidate current whole-book performance bible from audited rolling units
+  and canon without pretending provisional16chapter summaries are complete.
+- Preserve all narration copies/direction/clarity records for pickups; consider
+  a text-only committed snapshot of current production artifacts (no WAV/cache)
+  after all48 preparation source hashes settle. Existing renders auto-publish.
