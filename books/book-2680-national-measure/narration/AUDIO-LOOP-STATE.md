@@ -322,3 +322,25 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Single renderer6558 continues7 (verified last s238); supervisor83718 healthy. Final
   opening1/3 pickup markers await its next loop. Live1–6 remain available, with
   old1/3 explicitly pending replacement. No new media upload since last check.
+
+## 2026-10-15 17:58 UTC — chapter7 live; residual Carry repair
+
+- Chapter7 isolated peak pickup passed; live manifest/full media hash verified,
+  HTTP206. Duration3245.08s, bytes38941965,
+  sha c068f17aed3ac855f85080e71d47680ceb424d0cfd0f6c000062eb343cac9d63.
+  Wordlock/decode pass, maxpeak0.9910278. Owner/perceptual listening pending.
+- Single renderer77848 continues8 (lasts102); parent restarted83718→97481
+  shell53638 without touching child. Main queue now rechecks earliest ready
+  chapters after EACH successful publication, so refreshed1/3 pickups do not
+  wait behind all48. Syntax check passed; no second Metal renderer.
+- Fresh26/27 recheck passes arithmetic and explicit head handoff/climb, but
+  blocks source/preparation on Tolver's stance-only declaration versus two-door
+  word 'laid' at26:27,27:363/383. Prior author noted this outside its scope.
+  Opus6148611b continues c8ca0232 context to resolve ONLY those three terms,
+  preserving previous repairs, frozen evidence and exact plot/power limits.
+  Report AUDIO-STANCE-26-27-REPAIR.md. Fresh Codex recheck shell80529 queued;
+  no26/27 ready markers or publication until actual pass/adoption addendum.
+- 28–30 ready (576paragraphs, exact accepted source, wordlocks pass). Initialized
+ 31–33; Codex director shell8470 active, own unit/current accepted prose.
+- Next: adopt/publish exact26/27 corrections only after residual recheck; then
+  prepare34–36 onward. Verify replacement1/3 media/hash when worker publishes.

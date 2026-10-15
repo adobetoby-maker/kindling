@@ -253,6 +253,9 @@ def main():
             try:
                 log(f'chapter {number}: render/publish starting')
                 process(directory, number)
+                # Revisit earliest ready chapters after every publication so
+                # revised opening pickups do not wait behind the entire book.
+                break
             except Exception as error:
                 log(f'chapter {number}: {type(error).__name__}: {error}')
                 save(directory/'worker-error.json', {'error': str(error), 'time': dt.datetime.now(dt.timezone.utc).isoformat()})
