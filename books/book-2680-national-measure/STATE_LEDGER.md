@@ -397,3 +397,113 @@ the 30th of the first month, 2681.
 Road south: inside thirty days of the 30th of the first month. The gate: Tuesday the 1st of
 the third month. The Bench: Monday the 14th, **forty-four days** on. Rhea Sorn's card ends on
 the 30th of the third month.
+
+---
+
+## Movement Two block — chapters 9–16 (first draft, 2026-10-14)
+
+Status: **from first-draft prose, unreviewed.** Everything here is on the page of
+`manuscript/chapter-09.md` to `chapter-16.md`. The full record is
+`provenance/MOVEMENT-002-CONTINUITY.md`. If review or repair changes the prose, this block is
+corrected from the surviving text. Span: Sunday the 1st of the second month, 2681, to Saturday the
+28th, on a river barge south of the Sag ferry.
+
+### M2.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified;** one door declared at every board.
+- **Hand to Ember: four crossings,** Circuit's mast, read by Noa, Orla present: the 1st (0.31), the
+  8th (0.30), the 15th (0.31), the 22nd (0.30). **Four of Orla's six; not certified.** The Chair's
+  ledger: the fifth and sixth at the Saltmere gate mast, read by N. Bexley, sponsor present, "one in
+  seven days and not faster. Not certified until the sixth."
+- **The hand sulks longer each time** (Aske, Monday at seven): knuckle/warm by noon; wrist/warm by
+  four; an inch above the wrist/warm next morning; middle of the forearm/warm Wednesday the 25th at
+  seven ("two nights"). After the fourth the card was held until warm. The two fingers as before.
+- **Aske's card:** one crossing in seven days at the most; hand seen the next morning; "four of six."
+  **Aske travels south with Seven by road.**
+- **No Ember-to-still crossing, no stack, no three-door.** Three clean; not asked.
+- **The two fingers** said *nothing* (and were believed, pulse 68–72) on a stone by the old kiln on
+  Cowl Edge and on the Order's door jamb. The kiln husk sang the seventh reed.
+- **The disk:** cold every time, including beside Clemency Thrale and through the fever.
+- **The dream: recurred** on the Sag ferry, Friday the 27th, with a fever (112 by Pru) that broke at
+  about four on Saturday. As on the page: no roof; nothing over her, enormous, paying attention;
+  roads of unlike lights, some going out, some white; she was "not so high as she had been." **She
+  told nobody.** Aske knows only that she has had such a fever before. **The dream is not in her
+  book;** the fever is. "Unroofed Sky" has not appeared.
+- **First time near a Glory master:** her three doors "lay down" in Thrale's presence.
+
+### M2.2 Team Seven
+
+- **Flask license in its own right,** the Marshal's floor, Thursday the 12th, one remark (a bag at
+  sixty-two). *Under its captain's name.*
+- **Lost the Marshal's lane to Halden License six to two** (the 10th); correction: the tap, the hand
+  on the knee, the Kill guarding the pass. Kellan read it twice in six on the 16th.
+- **The handed crossing** (Jude's name): Finch catch → "nobody" → Rowan carry (declared Ember) →
+  "nobody" → Cade plant. Clean at a quarter count at both gaps on the 11th and before Coombe on the
+  13th, on the Low Lane's unsanctioned mast. *Mine before yours* between unlike doors reads as one
+  line (a stack) and is not used. **Not done live.**
+- **Hunt at Cowl Edge** (19th–20th), own entry, under Cade, witnessed by Vane: a pack at Garside's mill
+  (keeping the wheel's time; the hatch shut) and a lone husk in the old kiln. **59.2 clean; nothing
+  plain;** the four's eighth, 7.40.
+- **Injuries:** Talley, left shin burned (the 2nd) and left arm frosted to the elbow (the 20th, not
+  taken; sling). Cade's ribs complain when he lifts.
+- **Equipment:** Finch's own purse sheet frosted and replaced (2.40, no pole). Perrin keeps Coombe's
+  knotted rope.
+- **The book:**
+
+| Line | Drams |
+|---|---:|
+| Carried, the 1st | 9.64 |
+| Four crossings, hand to Ember | −1.22 |
+| Floors and yards (the 2nd, 4th, 7th, 10th, 11th, 13th, 16th) | −1.68 |
+| The Marshal's floor: four heads (4.0) and doors (0.44) | −4.44 |
+| The hunt: card 0.40, doors 0.61, a cord 0.06 | −1.07 |
+| The four's eighth of 59.2 | +7.40 |
+| A purse sheet | −2.40 |
+| Refused: soot-cut "plain," half a dram for 2.5 (the 24th) | 0.00 |
+| **Held** | **6.23** |
+| Spoken for: two crossings at the gate | about 0.60 |
+| **Uncommitted** | **about 5.63** |
+| **Sealed medical (W, plain)** | **2.0** (0.8 + 1.2 given by the Order) |
+
+  Check: 9.64 − 10.81 + 7.40 = 6.23. **The sealed 2.0 is bound in both books: *For a hand. Not for a
+  bank, a floor, a crossing or a sale.*** Signed Cade and Rowan.
+
+### M2.3 The night van
+
+- **Two nights, as voice and cloth:** Friday the 6th (a pack of three husks at the Brickfields tram
+  sheds; three bags, 155 of 162) and Tuesday the 17th (a purse string in the level Corn Exchange yard;
+  Rhea cut from behind standing on the skin's near end; three bags, 171 of 180). **Two nights remain**
+  (the third month). Varley at the cloth; Pike rides as a voice; Kiva second to Pike, with the far edge.
+- Rhea's *Before* column now carries the pack line; she asked for a copy of the pack sheet for Imrie's
+  van.
+- **Pike:** dressings to a band at each wrist by the 17th; fingers move a quarter; hands "by the fourth
+  of next month, slow."
+
+### M2.4 Other people
+
+| Person | State |
+|---|---|
+| **Dinah Coombe** | Met; taught; left the 14th; will be on the Longshore. Her page (uphill turn; weight; the far edge to "the second," as a place) is with the Board's printer until after the Measure. |
+| **Clemency Thrale** | Met. Glory; one door; looks about fifty; forty jars of plain left after the gift; has not been past her gate in eleven years, out twice in her life; will not ask Kiva the four remaining questions. |
+| **Mara Rowan** | **Will go south in the first week of the third month by the Works' transit with Rusk** (letter to Yeo, the 23rd); "I will not promise to read your bank." Answered two of the Order's six. Kiva not told on the page. |
+| **Orla Dane** | **Will go south by the Circuit's transit;** means to find Hart and not use Kiva to speak to him. Kiva not told on the page. |
+| **Kellan Renn** | Wrote Seven down for Pettit and told Seven. |
+| **Mrs. Ottery** | Widow; soot-cut winter stock of 2669; refused; kept. |
+
+### M2.5 Knowledge boundaries, changed
+
+| Fact | Now also known to |
+|---|---|
+| That Kiva dreams | **Nobody new.** |
+| That Kiva had a fever on the ferry, and has had such a fever before | Aske, Pru, Seven (the fever only) |
+| *Mine before yours* between unlike doors reads as one line | Seven, Pru, Noa (notebook, as a question) |
+| The lodger and the laid door | The Meridian first company |
+| Mara's decision to go south | Yeo (by letter); not Kiva |
+| Orla's decision to go south and to find Hart | The Chair; not Kiva |
+| The Order's gift and its binding | Seven, Aske, the Order |
+
+### M2.6 Dates ahead
+
+The gate: Tuesday the 1st of the third month, three days after the 28th. The Bench: Monday the 14th.
+The fifth and sixth hand-to-Ember crossings go at the gate mast, one in seven days. Rhea's last two nights in
+the third month; her card ends on the 30th.

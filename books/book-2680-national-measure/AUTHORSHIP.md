@@ -149,3 +149,91 @@ committed or pushed by the author, on the launching instruction.
 - **Movement One is accepted as context for Movement Two.** Repaired chapters 1–8:
   48,243 words. This is an editorial-context acceptance, not publication or narration
   approval.
+
+## Movement Two, first draft — 2026-10-14
+
+- Status: **chapters 9–16 drafted in full as one continuous run. First draft. Not reviewed, not
+  cold-read, not scored, not repaired, not committed, not published.** Chapter 17 was not begun.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier
+  `claude-opus-5-5`.** This is what the runtime states; it cannot be verified independently from
+  inside the session. No subagent, other model, or delegated worker wrote or edited any prose or
+  record.
+- Session: Claude Code background job `24aca0db` (session
+  `24aca0db-e14e-45e1-8594-b6717861c2a3`); remote session `session_01X1ta1csHxE9rYwnpaLtrSi`.
+- Brief: delivered in-session. On inspection its text matches
+  `planning/OPUS-5.5-MOVEMENT-002.prompt.md`, SHA-256
+  `df595a8b757dff58ddd49f035ee5fdb75ad55a259ae1138fab0abfa4fc2ce7a9` (the file carries the movement
+  title and the formula source hash `9f97e2f2…30c0b8`). No byte comparison of the delivered text
+  was possible.
+- Packet: `packets/MOVEMENT-002.md`, SHA-256
+  `5dcf56c5a1759de91856fbacb4bddbb2460fef2e358f7cebc93242e7a81971cf`.
+- Sources read before drafting: repaired chapters 1–8 in full; `provenance/MOVEMENT-001-CONTINUITY.md`
+  (as reconciled); `STATE_LEDGER.md`, `BOOK_MAP.md`, `CHARACTERS.md`, `UNIVERSE_BIBLE.md`,
+  `SERIES_MAP.md`, `OWNER_BRIEF.md`, the repair report and recheck confirmation (as supplied in the
+  brief); targeted searches of the planning prompts for Book One context (the Order of the Even Hand,
+  the Sag, the plank, *a crossing* of 2471, the Pit, Jude's door, the casualty reserve). The Book One
+  manuscript and `universe/NAME_REGISTRY.md` were not present on this machine; new minor names were
+  checked by search against every manuscript, planning and provenance file here. Nothing from the
+  research corpus.
+- Isolation: the project is not a git repository; work was done in place, as in Movement One.
+
+### Word counts (`wc -w`, headings included)
+
+| Chapter | Title | Words |
+|---|---|---:|
+| 9 | Kiva: The Near Gap | 8,929 |
+| 10 | Kiva: Uphill | 6,233 |
+| 11 | Kiva: A Stack with Four Legs | 7,919 |
+| 12 | Kiva: A Count Everybody Can Hear | 7,383 |
+| 13 | Kiva: In Its Own Right | 7,283 |
+| 14 | Kiva: A Voice at the Hem | 6,357 |
+| 15 | Kiva: Something Quiet | 8,366 |
+| 16 | Kiva: The Even Hand | 7,153 |
+| | **Movement Two** | **59,623** |
+
+Sixty-seven sections; about 890 words a section. **The movement is over the 47,500–52,500 working
+length by about 7,100 words.** No scene was compressed or padded to meet or exceed it.
+
+### Viewpoint counts (by section)
+
+| Lens | Sections | Words | Share |
+|---|---:|---:|---:|
+| Kiva Rowan | 63 | 55,562 | 93.2% |
+| Anwen Pryce (ch. 10) | 1 | 1,297 | 2.2% |
+| Kellan Renn (ch. 12) | 1 | 1,144 | 1.9% |
+| Orla Dane (ch. 14) | 1 | 949 | 1.6% |
+| Mara Rowan (ch. 16) | 1 | 671 | 1.1% |
+| **Secondary, total** | 4 | 4,061 | 6.8% |
+
+These are counts, not craft measurements. **Known before measurement:** Kiva's share is well above
+the packet's "near or slightly above 87%," and the cumulative book is now about 90% Kiva; each
+secondary lens is below the 2.5–3.7% band; no Rhea lens was used. The formula's sentence-length
+distribution, paragraph and scene proxies, readability, progression and combat density, and
+development cadence were written toward and **have not been measured;** that belongs to the
+editorial pass.
+
+### Recorded plan outcomes
+
+- **Hand to Ember: four crossings** on the Circuit's mast (the 1st, 8th, 15th, 22nd; 0.31, 0.30,
+  0.31, 0.30). Four of Orla's six; not certified. The fifth and sixth are entered by the Chair for the
+  Saltmere gate mast. No sixth was manufactured.
+- **Team book at exit: held 6.23; spoken for about 0.60; uncommitted 5.63. Sealed medical, plain:
+  2.0** (0.8 + 1.2 given by the Order, bound "for a hand"). Full ledger in
+  `provenance/MOVEMENT-002-CONTINUITY.md` §7.
+- Flask license in Seven's own right (the 12th, one remark). Halden License beat Seven six to two
+  (the 10th). The hunt at Cowl Edge: 59.2 clean, nothing plain. The dream returned with a fever on
+  the ferry (the 27th); nobody new learned of it.
+
+### Records written with the draft
+
+- `provenance/MOVEMENT-002-CONTINUITY.md` (calendar, state, the handed crossing, Coombe's three
+  problems, the hunt, ledgers, people, new names, departures).
+- `STATE_LEDGER.md`: a Movement Two block appended from the prose as written.
+- Corrections made during the run (four exact-string fixes of blocking contradictions) are listed in
+  the checkpoint's section 0. They are not a review.
+
+### Edition status
+
+No frozen edition exists for Movement Two. The working tree is the first draft. Nothing was
+committed or pushed by the author. The run stops here for movement review.
