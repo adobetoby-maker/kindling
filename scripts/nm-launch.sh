@@ -14,6 +14,6 @@ exec claude --bg --model opus --effort high --permission-mode acceptEdits \
   --disallowedTools EnterWorktree ExitWorktree Agent Workflow \
   --allowedTools Read Edit Write Glob Grep \
     "Bash(python3:*)" "Bash(wc:*)" "Bash(grep:*)" "Bash(rg:*)" "Bash(shasum:*)" "Bash(diff:*)" \
-    "Bash(cmp:*)" "Bash(ls:*)" "Bash(cat:*)" "Bash(sed:*)" "Bash(head:*)" "Bash(tail:*)" "Bash(date:*)" \
-    "Bash(mkdir:*)" "Bash(cp:*)" "Bash(awk:*)" "Bash(sort:*)" "Bash(uniq:*)" "Bash(tr:*)" "Bash(git diff:*)" "Bash(git status:*)" "Bash(git log:*)" \
+    "Bash(cmp:*)" "Bash(ls:*)" "Bash(cat:*)" "Bash(head:*)" "Bash(tail:*)" "Bash(date:*)" \
+    "Bash(mkdir:*)" "Bash(sort:*)" "Bash(uniq:*)" "Bash(tr:*)" "Bash(git diff:*)" "Bash(git status:*)" "Bash(git log:*)" \
   --append-system-prompt-file "$prompt_path" "$@" "$task"

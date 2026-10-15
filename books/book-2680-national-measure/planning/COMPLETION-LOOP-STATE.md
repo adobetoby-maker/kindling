@@ -63,3 +63,22 @@ Owner instruction: continue until book and complete local Breeze audio are publi
   `provenance/MOVEMENT-002-RECHECK.md`. Pre-recheck manuscript hashes saved in job tmp.
 - Next: on recheck PASS (or one bounded defect fix), commit M2 repaired (stage only my paths), push source,
   publish ch 9–16 repaired to PWA, write Movement 3 packet and compile prompt.
+
+## Update 2026-10-14 23:45 MDT — Movement Two CLOSED and published; Movement Three drafting
+
+- M2 recheck `7508774e` found one defect (ch16 l.135); fixed by resumed repair author `fdbd4fb4` (3 edits).
+  Accepted as editorial context: `provenance/MOVEMENT-002-RECHECK-CONFIRMATION.md` (final hashes). 59,234 words.
+- Source: kindling main `1a2dc08` (ff from 9a50b97, includes Codex's cfddb02). Frozen
+  `editions/movement-002-first-draft/` committed.
+- PWA: boundary-universe main `96c9162`, version 1.18.37, sw-v1213; all 16 chapters verified
+  byte-identical on books.worker-bee.app (repaired ch 9–16 live).
+- Reusable tools: `scripts/nm-launch.sh`, `scripts/nm-publish-pwa.py` (not yet committed).
+- ACTIVE CHILD: Movement Three author `21a609b3` (Opus 5.5), prompt
+  `planning/OPUS-5.5-MOVEMENT-003.prompt.md` sha256 902d5abb…d3d6b8, packet `packets/MOVEMENT-003.md`.
+  Writes ch 17–24 + `provenance/MOVEMENT-003-CONTINUITY.md`; checkpoint file if output-limited:
+  `provenance/MOVEMENT-003-CHECKPOINT.md`.
+- Audio: untouched by this loop; accepted stable text/hash for ch 1–16 is the table in the
+  confirmation file (ch 1–8 per MOVEMENT-001-RECHECK-CONFIRMATION). Breeze/Calder work belongs to Codex.
+- Blockers: none.
+- Next: when M3 lands: parallel informed editorial+formula review and fresh cold read; consolidate; freeze;
+  same-author repair; fresh recheck; publish; then Movement 4 brief from surviving prose.
