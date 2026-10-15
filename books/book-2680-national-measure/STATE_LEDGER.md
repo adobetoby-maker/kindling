@@ -953,3 +953,124 @@ Mr. Tregear (the Board's printer); Sedge and Bannock (Team Twenty-Eight); Lavini
 **Wed 23rd: the Slack at the dawn slack (6.09 by the prediction); the Board's warrant; the Order's jars; Kiva's week's
 crossing kept. The prediction opens at noon.** Rhea's last night and the 30th. Anwen to Graywater from the 1st of the
 fourth month.
+
+---
+
+## Movement Six block — chapters 41–48 (first draft, 2026-10-15)
+
+Status: **from first-draft prose, unreviewed. The book's last movement and its ending.** Everything here is on the page of
+`manuscript/chapter-41.md` to `chapter-48.md`. The full record is `provenance/MOVEMENT-006-CONTINUITY.md`. If review or repair
+changes the prose, this block is corrected from the surviving text. Span: a quarter to seven on Monday the 21st of the third
+month, 2681, to the evening of Thursday the 1st of the fourth month.
+
+### M6.1 Kiva Rowan
+
+- Seventeen; seated; **unclassified** (no column made). **Certificate in her own name:** the Chair struck Orla Dane's
+  sponsor's line on Wednesday the 23rd at four, *on evidence* (the first crossing below); the conditions stand as written;
+  her book goes weekly to the Chair.
+- **Crossings:** the seventh, Wed 23rd, 6.11.40, Ember to still, at the Graving's sill, read by N. Bexley at the Board's lane
+  mast, declared by Cade at six: **inside her certificate.** The eighth, 6.14.50, Ember to still, at M3 inside the dock, **the
+  second in the hour, against her healer's card**, the price said first by Aske (Monday; and at 6.13 inside a ten-count),
+  declared by Cade, read; entered by the Chair *not an incident.* Both on the Board's ash.
+- **The left hand: gone to the wrist from the 23rd (not cold; no feeling, no grip); the arm aching to the shoulder for days;
+  three weeks; then as before, the two fingers as they were.** Right hand healed enough to write, badly.
+- **Aske's card (Thu 24th): one crossing in fourteen days, at the most, for the year at the least; the hand seen the next
+  morning; the three doors not on the card.**
+- **Three doors: three clean.** Asked for the sequence by the Proprietor at 5.40 on the 23rd; **refused, with why** (second
+  refusal in the book). No fourth.
+- No fever after the Slack (*Two masters, and touching, and nothing*).
+- **The disk: cold throughout**, including at 6.22 and at the hull. Fourth-column lines: *Cold. Both. As before.* (Wed);
+  *The disk is cold.* (Thu 1st).
+- **Yes/no log:** Mon *yes*; from Wed 23rd *no answer* (kept daily on Hart's method).
+- Read a count through her still door for the first time (at the cut).
+- **Seen to count, four and a rest, for nine seconds at 6.22** (Rhea's slate), with Thrale and the Proprietor.
+- **The dream:** no recurrence. **The colour with no word: Kiva alone.**
+- **The Charter Board's travelling commission:** *Rowan, K. Catcher. Caller of the pass in three…* under D. Coombe's hand,
+  **from the 15th of the fourth month to the last of the ninth; then we look again, and either of us may say no**; on her two
+  conditions (teach the call at every bank to two who are not her, leave it in seven columns, the next bank called by somebody
+  else where possible; the dream is not the commission's, nobody asks). Signed K. Rowan and M. Rowan (guardian).
+- Goes home on the Works' transit (Fri 2nd, the Board's fare).
+- Her pass sheet's second edition: the first limit corrected (the caller need not have crossed; somebody must keep the count
+  who isn't carrying).
+
+### M6.2 Team Seven
+
+- **The book (Finch's from Tue 29th):** held **5.15**, unchanged (rehearsal and Slack doors on the Board's ash).
+  **Sealed medical, W, plain: opened Wed 23rd, 7.25, for L. Hosken's starved right hand (Aske); 1.2 used; 0.8 left, resealed,
+  bound as before.** Signed Cade and Rowan.
+- **The four go four ways:** Anwen to Graywater (left Thu 1st with the van); Jude to the Saltmere Company (yes, Wed 23rd, card
+  signed Thu 24th, with the line on where every bag goes); Perrin to the Works trunk crew from the autumn (yes, by letter to
+  Rusk, Sun 27th); Kellan to the Proprietor's own count office from the autumn (second white card, yes, Sat 26th). **Pru keeps
+  Seven** (the book, the wax); no to Ivey.
+- **Injuries:** Jude's right knuckles white (cold, not taken). Pru two caps torn. Perrin's card to the 30th (lifted nothing).
+
+### M6.3 The Slack (Wednesday the 23rd)
+
+- **The bank is out:** thirty-six cells each on its own count, not two alike; **each pump on its own six cells**, restarted
+  one at a time 6.26–6.29. Low town wet 6.22–6.29 (four inches in Ropery Row). **Nobody died.**
+- **The thing in the basin** (a cask: staves, chime, no head; the held water its head; 4 ft 11; count 57) lifted off the water
+  in three handed passes (ring → M1 stake → M2 sill → M3, 45 paces inside the dock) and cut in the Graving on Rhea Sorn's slate
+  on Kiva's count. The basin tear closed by Ivey's crew at 6.14. Students closed nothing.
+- **Bad assumption found in time (Tue):** the plank must keep the thing's count (Dray's call) or it goes to the pumps.
+  **Survived:** the Proprietor's pattern and his hand on the glass are one hold.
+- **The Proprietor lifted his hand at 6.22.11;** the pumps stood; **every lamp on the coast to a point for nine seconds**
+  (Saltmere; the coast's lamp offices to Westerley; three ports over the water); a hair on every pen at Noa's mast.
+- **Thrale's ward across the dock mouth 6.15–7.04**, holding the purse and the flood; the gate seated on the flood at 7.04;
+  74 minutes in the town.
+- **The prediction (opened noon Wed):** 6.08 (in the limits; a minute off); 23 minutes, not clean (wrong); 4 ft 11 (right);
+  57 (right); "lie down" not tested by design; "nothing else" wrong twice by the operation's own doing. Not on the page: the
+  point of light.
+- **Ledger:** the Order's 36 jars into 36 cells (cellar: **4**). The purse: **286.4 drams, all red**, held by the Board as
+  evidence; **no claim; no share paid.** Thirty-six old cans boxed red as evidence. Kiva's crossings on the Board's ash.
+
+### M6.4 Rulings
+
+- **The Proprietor relinquished the foundation's claim on "all ash exhibiting the Step, however produced"** (fault paper,
+  6.35 Wed, witnessed K. Renn; nine pages by counsel after; to the Compact's court). The foundation's own yards, refineries and
+  lift yards stay stepped.
+- **The grid order (Fri 25th):** every municipal bank on its own count and kept there; none stepped or joined to a stepped
+  one; fallen-in banks taken out as plain allows; all plain declared to the Board within the year and allotted banks first and
+  hands with them, no bank before a hand; a travelling commission under D. Coombe to every municipal bank within two years.
+  **Price:** about a tenth of the light; a third again in fitters' wages (the towns'); the foundation's 112 municipal
+  licences. **Not settled whether the Proprietor was right.**
+- The Clerk records three people who have dreamed seen to count together (three written accounts); no line drawn.
+
+### M6.5 People
+
+| Person | State |
+|---|---|
+| **The Proprietor** | Left hand off the glass since 6.22.11 Wed; closes halfway (a month); pulse 64. **The foundation's first cell (2391) on its own count**, its case kept on his table with his handprint on the glass. "I'm not certain I was wrong. I'm only certain I let go." |
+| **Clemency Thrale** | Held the mouth; home on Friday's boat. "I counted. I don't know what." |
+| **Mara Rowan** | Did not touch a cell until it was done; then case nineteen: "Mine." Writing the Saltmere sheet with Rusk. Home Fri 2nd. |
+| **Orla Dane** | Not Kiva's sponsor. No absolution with Hart. |
+| **Jessamy Hart** | His hand does not ache near six counts. Asks it daily. |
+| **Rhea Sorn** | Card ended (six nights). No Graywater place for Kiva; would not join the commission ("Graywater's mine. You're not"). |
+| **Pike** | Hands to close two-thirds by summer. Kiva's far edge at M3; she his in the Tanyard (Mon 28th). |
+| **Selka Dray** | Called every pass from the wall; one line with Carrow. Not a friend. |
+| **Juniper Carrow** | Carded by Yeo to the Company's wall crews from the summer. |
+| **Bannock** | Frost hip to boot (not taken); stood by Friday. |
+| **Pettit** | Boots frosted to the ankle. |
+| **Loveday Hosken** (new) | Fitter, case nineteen; starved right hand eased with Seven's plain. |
+| **Ivey; Tamsin** (new) | Tamsin is Ivey's second. Ivey called a pass with one door (Thu 24th). |
+| **Coombe** | Heads the travelling commission. |
+| **Mrs. Penhale** | Ropery Row; four inches; Jude swept her kitchen. |
+
+### M6.6 Knowledge boundaries, changed
+
+| Fact | Now known to |
+|---|---|
+| The point of light | Everyone; the coast; three ports over the water. |
+| The three counting together | The Board's record; the box at noon Wednesday. What was counted: nobody. |
+| The ship's engineer's line | **Vouched** by wire (Thu 1st); in Noa's column. |
+| The colour with no word | **Kiva alone.** |
+
+### M6.7 New names (pending owner review)
+
+Loveday Hosken; Tamsin (Ivey's second); Bolitho (Holloway second's captain); the Pascoes (Holloway second's Embers).
+
+### M6.8 Book Two exit
+
+The Measure read; the dream public with no agreed meaning ("the unroofed sky"); the harbour bank out and every municipal bank
+ordered onto its own count; the claim relinquished; Kiva's certificate in her own name, her hand gone for three weeks, her
+card at one in fourteen, three doors three clean, the disk cold; the four gone four ways; a hull with a light like no lamp in
+Saltmere standing in from the south, not met.

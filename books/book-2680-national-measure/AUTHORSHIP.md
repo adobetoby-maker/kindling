@@ -939,3 +939,88 @@ by name with a cue only that person has. No new lens.
 - Final word count 55497 (`wc -w`). Final hashes: `provenance/MOVEMENT-005-RECHECK-CONFIRMATION.md`.
 - The showrunner (Sonnet 5.5) wrote no prose. **Movement Five is accepted as editorial context for Movement Six.** Formula sentence
   targets were not reached.
+
+## Movement Six, first draft — 2026-10-15
+
+- Status: **chapters 41–48 drafted in full as one continuous run. This is the book's last movement and its ending. First
+  draft. Not reviewed, not cold-read, not scored, not repaired, not committed, not pushed, not published.** No Book Three work.
+- Seat: Monroe Jackson 1.3.0 / O'Connor 1.3.0. Public byline: Monroe Jackson. Requested author: Claude Opus 5.5.
+- **Actual runtime model, as reported by the session: Claude Opus 5.5, model identifier `claude-opus-5-5`.** This is what the
+  runtime states; it cannot be verified independently from inside the session. No subagent, other model or delegated worker
+  wrote or edited any prose or record. No Codex or OpenAI call was made.
+- Session: Claude Code background job `35fbff1b` (job directory `~/.claude/jobs/35fbff1b`); remote session
+  `session_014CyfSGPCYGCxr6WtGuR8Db`. Run began 2026-10-15 at about 04:51 MDT and ended at about 05:50 MDT.
+- Brief: delivered in-session as the compiled Movement Six prompt. Its text corresponds to
+  `planning/OPUS-5.5-MOVEMENT-006.prompt.md` (3,692 lines), SHA-256
+  `10b3d55e8bcefa6ce92dff274ef0c87e1ae0da5cd65f3cb48f6d25d904aa6feb` (formula source hash in the file `9f97e2f2…30c0b8`).
+  Checked by spot comparison, not byte for byte.
+- Packet: `packets/MOVEMENT-006.md`, SHA-256 `ca0980d41588d0614f45d59f0a011b31249dbbc5d1295973f1198a150ae380d9`.
+- Edition: first draft. Isolation: worked in place in the git worktree `/Users/drive/kindling-2680-book-02` on branch
+  `codex/kindling-2680-book-02` (the EnterWorktree tool was not available in this session; prior movements worked in the same
+  place); no commit made. Chapters 11, 14, 15, 19 and 24 show as modified in `git status`; those edits belong to the parallel
+  audio repairs and were in the tree before this run. This run read chapter 19 and did not edit it or any chapter before 41.
+- Sources read before and during drafting: chapter 40 and the records as supplied in the brief (`STATE_LEDGER.md` through the
+  Movement Five block, `provenance/MOVEMENT-005-CONTINUITY.md`, `MOVEMENT-005-REPAIR.md`,
+  `MOVEMENT-005-RECHECK-CONFIRMATION.md`, `BOOK_MAP.md`, `CHARACTERS.md`, `UNIVERSE_BIBLE.md`, `OWNER_BRIEF.md`); Book Two
+  chapters 31, 34 and 39 in full; targeted reads of chapters 17 (Saltmere, the Graving), 19 (Hart's hand and method), 21 (the
+  Hoop, the pump house, the 2604 entry), 23 (the sealed prediction's text) and 33 and 37 (Aske's price); roster checks across
+  chapters 6–38 for the roll fours' doors; Book One chapters 13, 29 and 47 for name collisions and the ship's engineer's line.
+  New names checked against every manuscript, planning and provenance file in the repository and `universe/NAME_REGISTRY.md`.
+  Nothing from the research corpus.
+- A continuation checkpoint (`provenance/MOVEMENT-006-CHECKPOINT.md`, SHA-256 `2255e99b…f58f`, after its closing status line) was written before chapter 41
+  with the private plan (bearings, crews, clocks, ledgers) and ticked after each chapter; no output limit intervened. It is
+  superseded by `provenance/MOVEMENT-006-CONTINUITY.md` (SHA-256 `bf108027…859e`).
+- In-run corrections: blocking slips only, listed in the continuity file §0 (names that collided, distances, a head-count, a
+  tide, a whistle's minute, Hart's history matched to ch. 19, a planted rule the climax cites). Idiom passes before close:
+  "slowly" 29 → 14; Jude's "I'd want it said" 7 → 4. Quote-parity scan: 0 odd paragraphs. No editorial review was run.
+
+### Word counts (`wc -w`, headings included)
+
+| Chapter | Title | Words |
+|---|---|---:|
+| 41 | Kiva: A Full Bucket | 7,262 |
+| 42 | Kiva: The Nearest Thing That Keeps Time | 6,911 |
+| 43 | Kiva: Bearings | 5,742 |
+| 44 | Kiva: Three in a Row | 8,350 |
+| 45 | Kiva: Let Go | 7,275 |
+| 46 | Kiva: What Was Written | 7,242 |
+| 47 | Kiva: Its Own Count | 7,387 |
+| 48 | Kiva: Either of Us | 6,400 |
+| | **Movement Six** | **56,569** |
+
+Inside the packet's 52,000–60,000 working length. Rehearsal (41–42) 14,173; the Slack (43–45) 21,367; after (46–48)
+21,029. Fifty-five sections, 47 internal breaks (about 8.3 per 10,000 words; mean about 1,026 words a section).
+
+### Viewpoint counts (by section; whitespace tokens; chapter headings excluded)
+
+| Lens | Section | Words | Share |
+|---|---|---:|---:|
+| Kiva | all other sections | 48,213 | 85.4% |
+| Kellan Renn | ch. 45 (by the chair: one hold, the lift; then the relinquishment) | 2,740 | 4.9% |
+| Mara Rowan | ch. 45 (the landing: quench to let go; then salt to case nineteen) | 2,236 | 4.0% |
+| Anwen Pryce | ch. 42 (the ward line learning Dray's count; Lyle's foot) | 1,420 | 2.5% |
+| Orla Dane | ch. 46 (the line struck; Hart on the gallery) | 1,004 | 1.8% |
+| Rhea Sorn | ch. 48 (writing Kiva's name under Coombe's hand) | 844 | 1.5% |
+| | **Cutaways** | **8,244** | **14.6%** |
+
+Inside the packet's 85–88% Kiva (at the lower bound) and 6,500–8,500 cutaway words. Every cutaway opens on its lens by name
+with a cue only that person has. No new lens.
+
+### Final hashes (SHA-256)
+
+| File | SHA-256 |
+|---|---|
+| chapter-41.md | 7fe37b1bab64806113e12d286c6f93d68fb58fdd1aba2e9d7b865dafdf2dc7a1 |
+| chapter-42.md | 80ce66d148cbf96201b922c5ad22298d466d1b12d36ce01ad7980bb56a90cff4 |
+| chapter-43.md | 285b5e53998a9f16dc519f42e34630271d4dea468e9bf0ec7597c1402600ad93 |
+| chapter-44.md | c8afd331f9da46b8306866831e0079c6a277149ed8a5e739614c7fbc12bb252d |
+| chapter-45.md | c0537f7582034164710bcb7d2c44bd4020277fe60e8e3d7beded83454b68e841 |
+| chapter-46.md | c3de9336841046d43dcd861af31d9d6e1e47b471219f23a5d34cb8a059aaa81a |
+| chapter-47.md | f6e80fd0836bc1a14fa915c6141599f4f0aa62362bb9887d42b385c58f6a00a7 |
+| chapter-48.md | 1001dce252f525fe35b7c7e0954f15072016912c0a04dbcb5c013866098ea07b |
+
+- Formula measures (sentence distribution, paragraph proxy, readability, progression and combat density, development
+  cadence) were written toward and **not measured** in the author run.
+- Files written by this run: `manuscript/chapter-41.md` to `chapter-48.md`, `provenance/MOVEMENT-006-CHECKPOINT.md`,
+  `provenance/MOVEMENT-006-CONTINUITY.md`, this entry, and the Movement Six block of `STATE_LEDGER.md`. No other file was
+  edited.
