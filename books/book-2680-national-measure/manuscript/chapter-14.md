@@ -8,13 +8,13 @@ It went on Sunday the 15th, at seven, in the Old Yard, on the Circuit's mast, wi
 
 "*Three,*" said Orla.
 
-The hand was white past the wrist. Kiva held it up and looked at it and saw that the white went a good inch up the forearm, under the cuff, and stopped there in a line as sharp as a tide mark. She shut the fingers. They went slowly, all eight of them, like a gate in a wind.
+The hand was white past the wrist. Kiva held it up and looked at it and saw that the white went a good inch up the forearm, under the cuff, and stopped there in a line as sharp as a tide mark. She shut the fingers. They went slowly, all three of them, like a gate in a wind.
 
 Healer Aske had it at seven on Monday morning, under the lamp. He held the wrist for a minute by his watch, and then for another, and did not say anything until he had written.
 
 "Cold to an inch above the wrist," he said. "At seven. Last week, the wrist. The week before, the knuckle." He capped his pen and did not put it away. "I'll see it at noon, and at four, and tonight if I must, and I'll want it in the morning."
 
-At noon it was cold to the wrist. At four it was cold to the knuckle. At nine that night, when she went up the Wren House stair for the third time with her coat over her nightdress and her aunt behind her, it was cool, and the eight fingers shut when she told them, nearly at once.
+At noon it was cold to the wrist. At four it was cold to the knuckle. At nine that night, when she went up the Wren House stair for the third time with her coat over her nightdress and her aunt behind her, it was cool, and the three fingers shut when she told them, nearly at once.
 
 On Tuesday at seven it was warm.
 
@@ -384,13 +384,13 @@ Mara was at the far end of the table with the tide table, as she was every night
 
 He said it quietly, to the book. Nobody answered him.
 
-Kiva sat with her left hand flat on the oilcloth, under the lamp, where the eight fingers could feel the warmth of it and the two could not. She thought about a white line on a forearm an inch above the wrist, and about a moor that she had never seen, and about a thing that had gone up onto it slowly, alone, away from everything that kept time.
+Kiva sat with her left hand flat on the oilcloth, under the lamp, where the three fingers could feel the warmth of it and the two could not. She thought about a white line on a forearm an inch above the wrist, and about a moor that she had never seen, and about a thing that had gone up onto it slowly, alone, away from everything that kept time.
 
 She had stood on a skin on a cinder floor with her still door open. She had stood on a road outside a tram shed and watched a pack walk on a count of two for a bank house. She had seen an officer of eleven years step onto a white patch on the flattest yard in the city, because a second would say two words if it lifted.
 
 All of it had been a thing coming toward something that kept time.
 
-She did not know what a thing that went the other way would be. She found that she wanted to know so badly that her hand had closed on the oilcloth, all eight of the fingers that would close; and she opened it again, deliberately, and laid it flat.
+She did not know what a thing that went the other way would be. She found that she wanted to know so badly that her hand had closed on the oilcloth, all three of the fingers that reported and the two that did not; and she opened it again, deliberately, and laid it flat.
 
 "Thursday," she said.
 

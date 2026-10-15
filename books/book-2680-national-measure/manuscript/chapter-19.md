@@ -172,7 +172,7 @@ She had spent a year trying to make the two fingers tell her something. She had 
 
 ---
 
-It was a whole hand. She had not known what she expected, and that was the first surprise. It had five fingers and a thumb, and the shape of it was a hand's shape. But the skin was wrong. It was grey-white, like the wax of a candle, and smooth in a way that skin is not, without lines at the knuckles. The nails were ridged and yellowish. And the fingers lay curled toward the palm, not tightly, as a sleeping child's fingers lie, and they did not straighten. He did not try to straighten them.
+It was a whole hand. She had not known what she expected, and that was the first surprise. It had four fingers and a thumb, and the shape of it was a hand's shape. But the skin was wrong. It was grey-white, like the wax of a candle, and smooth in a way that skin is not, without lines at the knuckles. The nails were ridged and yellowish. And the fingers lay curled toward the palm, not tightly, as a sleeping child's fingers lie, and they did not straighten. He did not try to straighten them.
 
 "The Bench," he said. "At the Regional, twenty-one years ago, in front of four thousand people. My doors fought on a live cell, and the cell ran away, and the backwash came up this arm before the quench took." He said it as a man reads out a fault. "Your healer will have a word for what it did."
 
@@ -342,7 +342,7 @@ On Sunday at seven, in the loft, by the north window, Aske held the hand for two
 
 He wrote it standing, against the window frame. *Warm at seven on Sunday the 6th. A sulk of three nights. Five of six.*
 
-He looked at the line he had written for a moment, and then he put the card in his bag and went down the stair for his breakfast. Kiva sat on the bed and opened and shut the hand, and all eight fingers that reported came in to the palm when she told them, and the two that did not came in with them.
+He looked at the line he had written for a moment, and then he put the card in his bag and went down the stair for his breakfast. Kiva sat on the bed and opened and shut the hand, and all three fingers that reported came in to the palm when she told them, and the two that did not came in with them.
 
 Three nights. She had known it would be.
 

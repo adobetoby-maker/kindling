@@ -500,7 +500,7 @@ It went as the first had gone. *Hand, to Ember. Rowan, changing on three.* The w
 
 "*Two,*" said Orla.
 
-The hand was white to the wrist and an inch above it. Kiva held it up to the grey morning and looked at it, and opened and shut it, and the eight fingers went slower than they had gone a week before, the order taking a long way round.
+The hand was white to the wrist and an inch above it. Kiva held it up to the grey morning and looked at it, and opened and shut it, and the three fingers went slower than they had gone a week before, the order taking a long way round.
 
 She thought about the yard the afternoon before, and the cord going back across the lane to a hat. She thought about a quarter of a dram going out of her, alone, between two of her own doors, for a gap that nobody else could feel. She thought, too, about a gap between two people that could be called, and heard, and timed by a boy with a tape, and that cost nothing at all except that somebody had to say the word at the right moment and somebody else had to believe her.
 

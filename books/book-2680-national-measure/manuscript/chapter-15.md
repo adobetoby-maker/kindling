@@ -90,7 +90,7 @@ She only knew what she wanted it to mean. She wanted it so much that it frighten
 
 They went down the gill in the grey before sunrise, with the frost on the bracken and their breath going up, and they found the husks' track before they had gone a quarter of a mile.
 
-It was a line of white. Each print was three small round marks, set wide, like the feet of a milking stool, frosted into the dead grass so hard that they crunched under a boot. There were three lines of them, side by side, and every third print in each line was deeper than the others.
+It was a line of white. Each print was three small round marks, set wide, like the feet of a milking stool, frosted into the dead grass so hard that they crunched under a boot. There were three lines of them, side by side, and in each line the prints went deep, shallow, shallow, a little deeper, and then deep again.
 
 "Stamp," said Perrin, crouching. "That's the one. Every fourth step, they've stamped." He counted along the line with his finger. "One, two, three, *four.* That's light. They're stamping light on four. Like the Pit."
 
@@ -106,7 +106,7 @@ Kiva heard it before she could see it properly. It was a deep slow sound under t
 
 *Creak. Slap.* A long nothing. *Creak. Slap.*
 
-She stopped on the track. She put her left hand flat on the top stone of the wall beside her, light, with the first two fingers on the cold grit and the eight held off it.
+She stopped on the track. She put her left hand flat on the top stone of the wall beside her, light, with the first two fingers on the cold grit and the three held off it.
 
 *Pushing. And not.* It was very slow. *Pushing.*
 
@@ -158,7 +158,7 @@ He went down to the yard gate, and the others went after him, and he stood at th
 
 Anwen went through the gate first and brought her wall up between the three husks and the mill house door, silver, waist high, across the cobbles. The husks did not turn to it. They faced the wheel and stamped.
 
-Kiva went to her ground. She had chosen it from the field: a place on the cobbles west of the husks, on the uphill side, between them and the house, where a rung that fell would run east down the fall toward her cloth before it got to the race. She tested it, clean, and planted, and stood with her cloth on her shoulder.
+Kiva went to her ground. She had chosen it from the field. There was nowhere to stand below the husks; the lip of the race was a yard past their feet. So she had taken a place on the cobbles three paces west of them, on the uphill side, between them and the house. A rung that fell would run east, down the fall, away from her and toward the race, and she would have to throw east after it and have her cloth over it before it got to the lip. She tested her ground, clean, and planted, and stood with her cloth on her shoulder.
 
 "*Creak,*" said Perrin, at the gate. "*And. Creak. And.*"
 
@@ -378,7 +378,7 @@ The moor was not like the gill. Kiva had never been anywhere like it. Once they 
 
 There was nothing that kept time.
 
-She tested it. She did it every half mile, without stopping, without saying so: a hand flat on a stone, or on the frozen peat at the side of the track, light, the two fingers on it and the eight held off. Nothing. Nothing. A slow push once, which she thought was her own heart, because she had been climbing, and Pru, who had seen her do it, came up beside her and took her wrist without being asked and said *eighty-eight,* and it was.
+She tested it. She did it every half mile, without stopping, without saying so: a hand flat on a stone, or on the frozen peat at the side of the track, light, the two fingers on it and the three held off. Nothing. Nothing. A slow push once, which she thought was her own heart, because she had been climbing, and Pru, who had seen her do it, came up beside her and took her wrist without being asked and said *eighty-eight,* and it was.
 
 Then nothing again.
 
@@ -396,7 +396,7 @@ They stopped at fifty paces. Nobody said anything. The wind went across the moor
 
 Kiva went forward alone.
 
-Nobody told her not to. She went to twenty paces, and knelt on the peat, and put her left hand flat on a stone that stuck up out of the ground there, grey and lichened, with the first two fingers on it and the other eight held off, so light that she could hardly have said that she was touching it at all.
+Nobody told her not to. She went to twenty paces, and knelt on the peat, and put her left hand flat on a stone that stuck up out of the ground there, grey and lichened, with the first two fingers on it and the other three held off, so light that she could hardly have said that she was touching it at all.
 
 She waited.
 

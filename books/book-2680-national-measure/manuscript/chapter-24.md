@@ -358,7 +358,7 @@ He wrote it standing, against the window frame. *Warm at seven on Monday the 14t
 
 "She will." He put the card in his bag. "She's had a knee for twenty years."
 
-He went down the stair for his breakfast. Kiva sat on the bed and opened the hand and shut it. All eight fingers that reported came in to the palm when she told them, and the two that did not came in with them, and lay there.
+He went down the stair for his breakfast. Kiva sat on the bed and opened the hand and shut it. All three fingers that reported came in to the palm when she told them, and the two that did not came in with them, and lay there.
 
 Perrin was at the foot of her bed. He had the coil of Coombe's rope on his shoulder and the slate under his arm, and his face was the colour it went before a floor.
 

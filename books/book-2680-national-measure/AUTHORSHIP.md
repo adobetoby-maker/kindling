@@ -1024,3 +1024,22 @@ with a cue only that person has. No new lens.
 - Files written by this run: `manuscript/chapter-41.md` to `chapter-48.md`, `provenance/MOVEMENT-006-CHECKPOINT.md`,
   `provenance/MOVEMENT-006-CONTINUITY.md`, this entry, and the Movement Six block of `STATE_LEDGER.md`. No other file was
   edited.
+
+## Audio-clarity text repairs, chapters 11, 14, 15, 19, 24 — 2026-10-15
+
+- Commissioned by the audio supervisor (Codex) from narration review findings and written by Claude Opus 5.5 (runtime-reported `claude-opus-5-5`)
+  in three bounded passes, each with a frozen read-only pre-repair copy and `SHA256SUMS.txt`:
+  1. hand counts (job `98c8ed9c`, `planning/OPUS-AUDIO-HAND-COUNTS.prompt.md`, `provenance/AUDIO-HAND-COUNTS-REPAIR.md`, chapters 11, 14, 15, 19, 24;
+     ten "eight → three" substitutions: one hand has three reporting fingers and two impaired, thumbs counted as fingers as elsewhere in the book);
+  2. spatial, cadence and digit counts (job `f842bac9`, `planning/OPUS-AUDIO-SPATIAL-15-19.prompt.md`, `provenance/AUDIO-SPATIAL-15-19-REPAIR.md`, chapters 15, 19);
+  3. final (same author conversation; `planning/OPUS-AUDIO-FINAL-14-15.prompt.md`, `provenance/AUDIO-FINAL-14-15-REPAIR.md`, chapters 14, 15).
+- Frozen editions: `editions/audio-hand-counts-pre-repair/`, `editions/audio-spatial-15-19-pre-repair/`, `editions/audio-final-14-15-pre-repair/` (all verified OK).
+- The audio session's independent recheck `narration/FINAL-14-15-RECHECK.md` marks all five chapters ready for source publication.
+- **Hashes supersede the earlier Movement Two, Three accepted tables for these files:**
+  - chapter 11: `0e1e288bbdddf474ca8ac3afce7eee14c4fa53db4989251abb44a150e21f3a91`
+  - chapter 14: `67950efe8ea329d1d1118bcf2e2ad733b6678a6ddc4db5df3d6b0d15a2ca044d`
+  - chapter 15: `bbee01a321528b1c509c062eef91f9bd3d5a59a995128156115044815f667916`
+  - chapter 19: `4a633ce44804458cadd5db1f6ef616ef12a3577ae75b504fd9b9f4ef6585b9c8`
+  - chapter 24: `bf68b73a52ff1e62f35e523c2da1977bd6463d4529c33953740fde4d8e17f547`
+- Text repairs only: nothing here has been listened to or re-narrated. The showrunner (Sonnet 5.5) verified the frozen manifests and the final hashes against the audio
+  recheck's chain and committed exactly the five chapters, the three frozen editions and the three repair records; it did not author the changes.
