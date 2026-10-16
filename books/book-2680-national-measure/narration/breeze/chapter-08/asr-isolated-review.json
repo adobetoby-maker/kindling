@@ -1,0 +1,143 @@
+{
+  "sourceSha256": "d3523cb5f4cb50ce700b0aff8fc80e6220f911362924932a681e341f137dbb96",
+  "audioSha256": "6846855b2b3b57dc829a7dfeeb690eda6e80c5d5d73f8f60ae0cb5cf77bcdc8d",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "3459587f3d3f06568087d0684cf46417948ab781e16791933291fcfe38d5d49a",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s056",
+      "wavSha256": "f1dd7b8e6d01ce82c8fdc5976fa65dace785b6f251cb5deaddac91c939d463da",
+      "expected": "Jude stood by the dresser. He had always stood there. Pru had the stool. Kellan had come up the shop stair last, in his own coat, and had taken the place with its back to the window.",
+      "transcript": "Jude stood by the dresser. He had always stood there. Prue had the stool. Kellan had come up the shop stair last, in his own coat, and had taken the place with its back to the window.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    },
+    {
+      "id": "s057",
+      "wavSha256": "d7dcbc3166776e10355d0c7b92ef06f9d8ece4494ba3663edecf12e38f15b3df",
+      "expected": "Kiva told them the wharf.",
+      "transcript": "Kiva told them the wolf.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "wharf",
+          "actual": "wolf"
+        }
+      ]
+    },
+    {
+      "id": "s058",
+      "wavSha256": "6e2adbd8e4c86cf356084cd4fce81a65495af64e911e1108a110fcb4010abd42",
+      "expected": "She told it as a slate is read. She gave them the ground and the gate and the white patch, and a heel put on it twice. She gave them the heap that leaned straight down. She did not tell them about two fingers on a canvas, since that had proved nothing; but she told them that she had been a count late, and why.",
+      "transcript": "She told it as a slate is read. She gave them the ground and the gate and the white patch, and a heel put on it twice. She gave them the heap that leaned straight down. She did not tell them about two fingers on a canvas, since that had proved nothing. But she told them that she had been a count late, and why.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s059",
+      "wavSha256": "d670ec23ee1254f7b21e2f4f99b096b039a4423a20453c4b7cbedd3bc1cfb03d",
+      "expected": "Nobody interrupted. Mara was at the far end of the room, with the tide table across the dresser top, and she did not turn round.",
+      "transcript": "Nobody interrupted. Mara was at the far end of the room, with the tide table across the dresser top, and she did not turn round.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s060",
+      "wavSha256": "055cb3b345c9a46b0f565d18bda0e6c5a166d124d7fbed0b32f98d2051af17fc",
+      "expected": "\"I'll say what's ours in it,\" said Kiva. \"That was the best crew in Meridian. It had a catcher of six-and-twenty years. He put his boot on the thing and called it ground, because the book does.\" She looked along the table. \"If it had been us on that wharf, Pru would have thrown on it. I'd have called the corners at one; I always have. Kellan would have cut on my word. We'd have had somebody's hands in it by the twentieth count.\"",
+      "transcript": "I'll say what's ours in it, said Kiva. That was the best crew in Meridian. It had a catcher of six in twenty years. He put his boot on the thing and called it ground, because the book does. She looked along the table. If it had been us on that wharf, Prue would have thrown on it. I'd have called the corners at one. I always have. Kellen would have cut on my word. We'd have had somebody's hands in it by the twentieth count. Kellen would have cut on my word.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "and",
+          "actual": "in"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "kellan",
+          "actual": "kellen"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "kellen would have cut on my word"
+        }
+      ]
+    },
+    {
+      "id": "s113",
+      "wavSha256": "408df5589f52ddbc49fee0e4fadfbf90b287a063524478da66a320140623b909",
+      "expected": "\"That's it?\" said Perrin.",
+      "transcript": "That's it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "delete",
+          "expected": "said perrin",
+          "actual": ""
+        }
+      ]
+    },
+    {
+      "id": "s052",
+      "wavSha256": "0f6b22b36e5566c40b7d818b402705e110d08436d881f20bb53025f0ab1ca873",
+      "expected": "\"Once. I read the slate.\" He shifted his arms on the pillow, and his face went grey, and came back. \"Finch. That cup's been empty for ten minutes. You're holding it at me like a collection plate.\"",
+      "transcript": "Once, I read the slate. He shifted his arms on the pillow, and his face went grey and came back. Finch, that cup's been empty for ten minutes. You're holding it at me like a collection plate.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s194",
+      "wavSha256": "5c9ac349885cf3b7c5ff0a6936f833def1d00bfd295d9021240e6ff141868917",
+      "expected": "\"I'd sooner have had the something over,\" said Jude. But he took the book.",
+      "transcript": "What sooner have had the something over, said Jude. But he took the book.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i'd",
+          "actual": "what"
+        }
+      ]
+    },
+    {
+      "id": "s235",
+      "wavSha256": "4a9c54f91d2454216a2227348b4754e92c642e8f90ab17115af36df5bacd11fd",
+      "expected": "\"You've the left hem. You've one thing. I'm told that there's a line on a slate.\"",
+      "transcript": "You've the left hem. You've one thing. I'm told that there's a line on a slate.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s267",
+      "wavSha256": "0893cc5dcac9cf90ced8d689f819d944f9eef28d8ccfb0da65cf6e4e9ecd8461",
+      "expected": "Kiva said two words each time. She did not say anything else. It was all that she had, on that floor, and for once it did not feel like less than the others. Pru had a cord and a second pin. Anwen had the corner of a sheet, and was learning what a wall looked like from the far side. Jude had the weight. Perrin had a watch, and a word that he was saving, and a look of acute suffering.",
+      "transcript": "Kiva said two words each time. She did not say anything else. It was all that she had on that floor, and for once it did not feel like less than the others. Prue had a cord and a second pin. Anwen had the corner of a sheet and was learning what a wall looked like from the far side. Jude had the weight. Perrin had a watch and a word that he was saving, and a look of acute suffering.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

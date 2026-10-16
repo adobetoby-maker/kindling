@@ -690,3 +690,13 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
  8 localized report not present YET because it follows10. No failure/duplicate
   GPU. Let scheduled localized8 and subsequent22 render proceed; inspect8 next
   heartbeat. Prior2–5/7 residuals still require corroboration before closure.
+
+## 2026-10-16 23:16 UTC — chapter22 rendering; chapter8 localized residuals
+
+- Supervisor8214/render74731 healthy.22 checkpoint103/173, latest23:15:08UTC.
+ 1–21 remain live verified; no duplicate model or take changes.
+-8 isolated10takes/4exact; name spelling otherwise. Saved residuals:
+  s060 inserted Kellan-would-have-cut phrase (priority repeat check), s113 said
+  Perrin absent (attribution check), s057 wharf/wolf, s194 I'd/what. Contextual
+  or perceptual corroboration required, preserve original takes and raw flags.
+  Not final coverage/voice/listening approval.10 full backlog report also ready.
