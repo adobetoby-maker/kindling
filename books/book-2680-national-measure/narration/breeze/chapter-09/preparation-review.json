@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 9,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-09.md",
+  "sourceSha256": "4f951492d37d8f80f178789db2d5dd1a42b7ca120701da45b735a6d2a186788d",
+  "state": "text-and-direction-validated",
+  "audioComplete": false,
+  "humanListen": "not-performed",
+  "wordLock": {
+    "pass": true,
+    "normalization": "Unicode casefold; curly apostrophe to straight; retain internal apostrophes; split all other punctuation and presentation; compare every token including heading and numerals in order.",
+    "normalizedWordCount": 8939,
+    "canonicalWordSha256": "32d9eae42ec34436d82e54f89c9f3d82631cb3ee3c81121dac4463859e22cb04",
+    "preparedWordSha256": "32d9eae42ec34436d82e54f89c9f3d82631cb3ee3c81121dac4463859e22cb04",
+    "directionWordSha256": "32d9eae42ec34436d82e54f89c9f3d82631cb3ee3c81121dac4463859e22cb04",
+    "coverage": 1.0,
+    "missingWords": 0,
+    "extraWords": 0,
+    "reorderedWords": 0
+  },
+  "clarity": {
+    "sourceParagraphs": 296,
+    "reviewedParagraphs": 296,
+    "coverage": 1.0,
+    "schema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "schemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "schemaValidation": "All current schema required fields, additionalProperties, primitive types, enum values and minimum constraints checked independently; harness also checks semantic status rules.",
+    "blockingParagraphs": [],
+    "punctuationCorrections": [
+      267
+    ],
+    "pendingABChoices": 0
+  },
+  "direction": {
+    "segments": 297,
+    "maximumTextCharacters": 598,
+    "writtenSceneBreaks": 7,
+    "sourceLocationCoverage": 1.0,
+    "attributionPolicy": "Every prose paragraph remains intact in one segment; internal sentence landings instructed without separating dialogue and attribution.",
+    "internalSilenceMeasured": false,
+    "directionSha256": "63f9293024e5dac0730a2e99dd59ff768a46b319c7c6c971e17681595b6c04d7",
+    "preparedSha256": "5ee677738f4c69ee6308ffd89cd849f786a5d7d81225859692fe075494bd87ae"
+  },
+  "nextAction": "Text and direction READY for native local Original Calder Breeze worker. No rendering, publication or human listening performed by this refresh.",
+  "validationCommands": [
+    {
+      "argv": [
+        "python3",
+        "narration/validate_final_07_09_local.py"
+      ],
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "result": "PASS independent per-chapter text/schema/location/direction validation"
+    },
+    {
+      "argv": [
+        "/Users/drive/penname/harness/book-narrator.sh",
+        "validate",
+        "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/run.json"
+      ],
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "exitCode": 0,
+      "stdout": "chapter 07: PASS — word lock passes (7409 words); clarity coverage complete (307 paragraphs); blockers=0\nchapter 08: PASS — word lock passes (7001 words); clarity coverage complete (288 paragraphs); blockers=0\nchapter 09: PASS — word lock passes (8939 words); clarity coverage complete (296 paragraphs); blockers=0\n",
+      "stderr": "",
+      "interpretation": "Require zero harness exit status for final preparation."
+    }
+  ],
+  "artifactSha256": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/chapter-09/chapter-09.narration.md": "5ee677738f4c69ee6308ffd89cd849f786a5d7d81225859692fe075494bd87ae",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/chapter-09/clarity-review.jsonl": "b60186eba86dd8b621ce2d94461322ec4baa5e315af513c7e5a327f8504cc2dd",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/chapter-09/chapter-09.performance.json": "174e6d968ccc2f340b3ff5c4eb7564f97db100f9b435feb962c644b4215004f2",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/chapter-09/writing-monroe-feedback.md": "6908b38b288b797533db7ac494c631b00955c8b1ab75e138face747bcfc43bda",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/chapter-09/performance-choices.md": "2e136360c652af43f04dac5b8fed0ac0062d89fe1682ea6ff7e642f06306ec4d",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-09/direction.json": "63f9293024e5dac0730a2e99dd59ff768a46b319c7c6c971e17681595b6c04d7",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-09/source-locations.json": "d2fbb3e36a00d4fb85ee555b1292439497cf0c3f1b2840078f7da077f842b256",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-09/final-edition-change-review.json": "9a13d9d2c4fed03db9c6c8fb2f6e482394e1943ff5e3b147180c58f42e4826ed",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/run.json": "b5317e45abc55bd3e9af35d4e9ed053beea16bab9836cfc93f888eaeaaaee4a2",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/unit-07-09-source-manifest.json": "19113e2ead158deeaed5dd4408a13297c86ebc4d3215257f5b873d73ab47f9b5",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/unit-performance-bible.md": "6f09f2de380c6834a7a476841ba86fbebb2089e71cfa880694e17f05c86596d8",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/BREEZE-OVERRIDE.md": "8c6cd60b502fecd3c86ea85a2dd267b6c82b81880ae84cb71264091ad93863b7",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/pickup-plan.json": "6bc06575132388aaa2aa47c8d751ba451ab0f6fb4f581fd13db166c18bbe06af",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/validate_final_07_09_local.py": "fe52f2f00f989bf9cc52797eb87ae53a0828a427be05e57ed7cff6bba5197c88",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/refresh_final_07_09_local.py": "4030a80cf23adce244b3fc72c6b7fa857bf1f8baf8dc0eec8af96cf8d2bfd84c",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/validate-unit-07-09-codex.py": "d7b9d7cfc55bc9dcbdffbc2344e79ef0c8dc0e287de9e299164562e54c6ab5da",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/prepare-unit-07-09-codex.py": "9ea927f07973a9599a48103cf9d6f0a4c59f69592e23741c6b98f53b1abb002b",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md": "71d2e7b6bc82e1066303c49e314b96c8f0e2311f15f1c9d480ea6066fab6603c",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-REPAIR.md": "2c08da98c58cef5e13c027ab683ae08fba23be818a9806166970286f78ccb410",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/AUDIO-CLARITY-08-09-REPAIR.md": "9651442483bb07e3b51631deb5c47e2c8e2c54c0dd1e626772a2fd941a65cb04",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/contexts/chapter-09.context.md": "e810816ec50f050e58eb0c4a3692fa96f622f3590577f776e788c503e4309158"
+  },
+  "priorEdition": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/editions/unit-07-09-pre-refresh-20261015-final-01",
+  "unresolvedFindings": [],
+  "scopeVerification": "Chapter 7 existing text artifacts and cached WAVs verified byte-exact; independent worker log append and new WAVs recorded separately and left untouched. Frozen old artifacts verified. This refresh writes only stale chapter preparation and unit bookkeeping.",
+  "concurrentWorkerObservations": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/editions/unit-07-09-pre-refresh-20261015-final-01/concurrent-worker-observations.json",
+  "publication": {
+    "markerPresent": false,
+    "action": "None; marker absent at freeze and recheck."
+  }
+}

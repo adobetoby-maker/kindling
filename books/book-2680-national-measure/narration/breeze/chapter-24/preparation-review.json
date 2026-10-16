@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 24,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-24.md",
+  "sourceSha256": "bf68b73a52ff1e62f35e523c2da1977bd6463d4529c33953740fde4d8e17f547",
+  "director": "Codex",
+  "provider": "local Breeze TTS 2",
+  "state": "direction-ready-eligible",
+  "clarity": {
+    "proseParagraphs": 186,
+    "coverage": 1.0,
+    "blockers": 0,
+    "pendingChoices": 0,
+    "punctuationCorrections": 0,
+    "review": "Codex direct complete reading; paragraph decisions and exact locations are in clarity-review.jsonl"
+  },
+  "wordLock": {
+    "normalization": "Unicode NFKC, casefold, curly apostrophe normalized, Unicode alphanumeric words retaining internal apostrophes; digits and heading included",
+    "canonicalCount": 5762,
+    "preparedCount": 5762,
+    "spokenCount": 5762,
+    "canonicalSha256": "9dcd70944275494f2e8b6ea8f44ca72f80ff40fd8a31640d354e9e383c08b35d",
+    "preparedSha256": "9dcd70944275494f2e8b6ea8f44ca72f80ff40fd8a31640d354e9e383c08b35d",
+    "spokenSha256": "9dcd70944275494f2e8b6ea8f44ca72f80ff40fd8a31640d354e9e383c08b35d",
+    "orderedCoverage": 1.0,
+    "passed": true,
+    "exactPlainPresentationCheck": true
+  },
+  "direction": {
+    "segments": 187,
+    "maxCharacters": 692,
+    "sceneBreaks": [
+      "s015",
+      "s025",
+      "s056",
+      "s066",
+      "s082",
+      "s102",
+      "s130",
+      "s144",
+      "s163"
+    ],
+    "splitParagraphs": [],
+    "preWordPreparations": [
+      {
+        "segment": "s121",
+        "beforeWord": "\"Late,\"",
+        "milliseconds": 320,
+        "reason": "Prepare the exposed hold, chosen refusal, or first diagnostic intervention; no attribution separation."
+      }
+    ],
+    "baseResetEverySegment": true,
+    "dialogueAttributionSplits": 0
+  },
+  "validationCommands": [
+    {
+      "command": "python3 narration/validate_22_24_local.py --write-records",
+      "purpose": "Independent source/prepared/spoken ordered lock, schema fields/types/enums, location, segmentation, rest and identity instructions"
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 22: PASS — word lock passes (5798 words); clarity coverage complete (172 paragraphs); blockers=0\nchapter 23: PASS — word lock passes (6519 words); clarity coverage complete (198 paragraphs); blockers=0\nchapter 24: PASS — word lock passes (5762 words); clarity coverage complete (186 paragraphs); blockers=0\n",
+      "stderr": "",
+      "invokedBy": "independent validator"
+    },
+    {
+      "command": "python3 narration/validate_22_24_local.py",
+      "exitCode": 0,
+      "purpose": "Read-only audit actually passed before this command record was added; repeated after marker creation."
+    }
+  ],
+  "artifactSha256": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-24.md": "bf68b73a52ff1e62f35e523c2da1977bd6463d4529c33953740fde4d8e17f547",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/chapter-24/chapter-24.narration.md": "bf68b73a52ff1e62f35e523c2da1977bd6463d4529c33953740fde4d8e17f547",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/chapter-24/clarity-review.jsonl": "840512c0d78eed45c6747d124205e1b2c0dd8832881582cec4f3891c01f79bb2",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/chapter-24/chapter-24.performance.json": "e9371309c00e2e2df4e077b35b473ff1297970caf040700eb0e3f9a95cc5a2d9",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/chapter-24/writing-monroe-feedback.md": "f61f957015b6ed0bfdd0f4857b8b39ffc3955ad0d605d38e577db426c570c67d",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/contexts/chapter-24.context.md": "b3a3c2c6e4767c31fb9105cc872b977eaf92974e2f8cb04b4dd49b6bdf345808",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-24/direction.json": "2a48203154221146885850b1a7dca3ea3e867bba292ef04cd151668142e99ce6",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/run.json": "bb9e3d9abad5a039dbcbe9d63bf494d7da163308a369ad54100b830632cbfaae",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/BREEZE-OVERRIDE.md": "b4be92f4a4d000eec3cca50d1e3dff94abff255379b4166b3ab1f01d54cce537",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-22-24/unit-performance-bible.md": "2aa9621542082570236461fcb11e6d727f655af194b2e3bd6ce0d706d65bddce",
+    "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/prepare_22_24_local.py": "4ae1c3777bd9ccc8d40b5c731e777f548edc5e7e4ac98599d26016ba9906bf96",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/validate_22_24_local.py": "8f5b388a34d367b9bcd840746ec62c7b32c1e4841fe8789c414d9b3943e32f61"
+  },
+  "limitations": [
+    "Text readiness only; no rendering, publication, measured pacing, audio QA or human listen.",
+    "Known continuity questions (tide clock, historical forty-one-minute hold, and my best machine) remain unresolved; the score does not invent explanations."
+  ]
+}

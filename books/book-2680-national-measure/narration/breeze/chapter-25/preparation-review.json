@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 25,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-25.md",
+  "sourceSha256": "59653f7f481162d4e88739b1c573adc748267062050a5a6c21681542159473d1",
+  "director": "Codex",
+  "provider": "local Breeze TTS 2",
+  "state": "direction-ready",
+  "clarity": {
+    "paragraphs": 205,
+    "coverage": 1.0,
+    "blockers": [],
+    "punctuationCorrections": 0,
+    "pendingPerformanceChoices": 0
+  },
+  "wordLock": {
+    "normalization": "Unicode NFKC casefold, curly apostrophe normalized, Unicode alphanumerics with internal apostrophes; includes heading and digits",
+    "canonicalCount": 6367,
+    "preparedCount": 6367,
+    "spokenCount": 6367,
+    "canonicalSha256": "7d2a81d225d2c66c4104b19405823a1c73ee67a97b2267af5eac268be262d8be",
+    "preparedSha256": "7d2a81d225d2c66c4104b19405823a1c73ee67a97b2267af5eac268be262d8be",
+    "spokenSha256": "7d2a81d225d2c66c4104b19405823a1c73ee67a97b2267af5eac268be262d8be",
+    "orderedCoverage": 1.0,
+    "passed": true,
+    "exactPlainPresentationCheck": true
+  },
+  "direction": {
+    "segments": 206,
+    "maximumCharacters": 676,
+    "completeParagraphSegments": true,
+    "dialogueAttributionSplits": 0,
+    "sceneBreaks": 6,
+    "preWordPreparations": [
+      {
+        "segment": "s067",
+        "beforeWord": "\"One",
+        "milliseconds": 320,
+        "reason": "Prepare Kiva’s recognition of shared coupling."
+      }
+    ],
+    "internalThoughtLandingMs": 1550,
+    "internalRestLimitation": "1550 ms internal landings and 320 ms preparations are synthesis instructions, not deterministic inserted silence; external 2100/2700 rests are encoded in pauseAfterMs. Must measure actual audio later."
+  },
+  "validationCommands": [
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/run.json",
+      "exitCode": 1,
+      "stdout": "chapter 25: PASS — word lock passes (6367 words); clarity coverage complete (205 paragraphs); blockers=0\nchapter 26: FAIL — word lock passes (5137 words); clarity coverage complete (154 paragraphs); blockers=1\nchapter 27: FAIL — word lock passes (7288 words); clarity coverage complete (243 paragraphs); blockers=1\n",
+      "stderr": ""
+    },
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-25-27/validate-unit.py --write-records",
+      "purpose": "Independent per-chapter accepted hash, schema fields/types/enums, exact source location, canonical/prepared/spoken sequence, presentation, boundary and reset audit",
+      "result": "passed"
+    },
+    {
+      "command": "shasum -a 256 manuscript/chapter-25.md manuscript/chapter-26.md manuscript/chapter-27.md",
+      "exitCode": 0,
+      "purpose": "Actual initial source-hash check; matched accepted whole-book table"
+    },
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-25-27/validate-unit.py",
+      "exitCode": 0,
+      "purpose": "Actual read-only audit of all three chapters; repeats after marker creation"
+    }
+  ],
+  "artifactSha256": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-25.md": "59653f7f481162d4e88739b1c573adc748267062050a5a6c21681542159473d1",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/chapter-25/chapter-25.narration.md": "59653f7f481162d4e88739b1c573adc748267062050a5a6c21681542159473d1",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/chapter-25/clarity-review.jsonl": "5ebedabf4afbe72ac57006c664fa39ab0c8a3c4bd90b711b8cd9ea2e5e956669",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/chapter-25/writing-monroe-feedback.md": "4c3dacae513461afdf7cc8723d9dcc1faf51bb6e6eb246cd577cd65ddb27e39e",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/chapter-25/chapter-25.performance.json": "1e12e5b9930c1ce0d67773fe82fad6d41976f7cac6ae2e8ecd89f35e3daf6fde",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/contexts/chapter-25.context.md": "ef93994703a376abe2293bf74a3d074f36c96a288abe28c1ca79d4a11287dd6e",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-25/direction.json": "5b055f25a51e223712ce157a51237c4fc13aafe783a49c699e8a26549f984437",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/run.json": "ef458aabefe535962a2b910a23033e2c06e83fd22e09977c06b63d4cb55500b3",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/BREEZE-OVERRIDE.md": "b4be92f4a4d000eec3cca50d1e3dff94abff255379b4166b3ab1f01d54cce537",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/unit-performance-bible.md": "416d5511c872e7f2f7a8609ef96a87443dcc97dc88c49ae95435cd2bdbf40877",
+    "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/prepare-unit.py": "848b2d7559d3c67e20710524f25d1a3b4e618b43d6f2c0daacf51f62bbb11d2c",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-25-27/validate-unit.py": "0e3213586f219701b1d0a894c7bceedb0b01aa52e7f3632d9a1e27ed3cd7ad53"
+  },
+  "nextAction": "Ready for owner-selected local Breeze rendering by the shared worker; audio QA and owner listening remain pending.",
+  "audioRendered": false,
+  "published": false,
+  "humanListen": false
+}

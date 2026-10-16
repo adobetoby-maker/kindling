@@ -1,0 +1,17 @@
+# National Measure 34–36 — Codex unit performance bible
+
+Original Calder, warm restrained Australian-English. Deliberate, clear native synthesis; prepare the whole thought. No waveform time stretching. Return fully to base Original Calder at every attribution and narrative return after temporary dialogue or emotion; begin the next segment in base. Owner selects local Breeze TTS 2, with the approved Calder reference and existing shared cache. No model inference, audio rendering, publication or listening in this task.
+
+- Chapter 34: `6b24e7abe844e79643e77c8f20c6e956e51f0bd40b98443ddeebe0f05aaf5f35`
+- Chapter 35: `1dee7ed8caabd3adee8a78fc67dd3e259b516d8a0e8888e052bad5cb043362e1`
+- Chapter 36: `6a61fd68ff8acdc00884382e11b23a6ca03dcf802db5a7ccfe939b3dbc524457`
+
+Authority: actual complete reading of 34–36; current ledger and map, final whole-book repair, second repair, recheck and acceptance; previous chapter context and 31–33 bible read as historical handoff only. The provisional bible is limited to 1–16 and contains unreliable names and generalizations. Current source governs.
+
+Movement: private ownership becomes named public testimony. Kiva shares a bounded truth with her four, learns from an opponent who has learned from her, and offers independent evidence without giving anybody an interpretation. Mara and Kellan risk their own names while refusing to own somebody else’s choice. The hearing preserves distinctions between observation, inference, claim, consent and authority. No later result is pre-announced.
+
+Kiva is attentive, plain and quietly afraid without self-pity. Mara’s exactness holds fear and love; never a cold machine. Noa is scrupulous rather than timid. Polglase has dry recognition. Pru’s independent tactical insight is adult competence, with no squeak. Perrin speaks with limited breath and sound captaincy; no simulated injury voice. Jude is practical and morally uncertain without a growl. Anwen is loyal and technically precise. Kellan is concerned and exact, not clinical arrogance. Carrow is pleasant, learning and uncomfortable on another’s word. Lyle’s surviving stance does not restore her ward. Treen adapts; do not make her failure comic. Hart’s ruined hand still reads one thing; no healing or pity. Orla’s warning is personal, without a sermon or reconciliation. Adlam is about forty, never an old-man caricature. Pettit and counsel name plausible institutional costs; neither is a villain. Peverell owns her house. The chairman has a real flooding concern. Clerk and Chair have different jobs and quiet authority. Dray’s acknowledgment is not friendship.
+
+Pacing: 1550 ms completed thoughts, 2100 ms paragraph/speaker/subject restart, 2700 ms written scene breaks; larger wins. Complete thought units retain dialogue-attribution clauses. Only five marked 320 ms first-word preparations across the unit. Within-segment pauses are directions to future native synthesis, not measured audio evidence. Heading is spoken; Markdown marks and scene rules are presentation only. All temporary colors return to base.
+
+Whole-book changes checked in current passages: 34:161 removes the permanent never-red claim; 35 removes redundant gestures without restoring them; 36 uses repaired Hunt totals, explicit Adlam’s hand, and Wednesday-night simile. The current eight-cell hearing plan is preserved despite a later six-cell correction. Kiva’s fever umbrella is accepted public framing. No unrelated pending repair is resolved here.

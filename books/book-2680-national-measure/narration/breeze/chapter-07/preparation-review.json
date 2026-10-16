@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 7,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-07.md",
+  "sourceSha256": "110b7906434f71f0752cf944a7eae91d3a092052d4444622ba7a471d656ec3cc",
+  "state": "text-and-direction-validated",
+  "audioComplete": false,
+  "humanListen": "not-performed",
+  "wordLock": {
+    "pass": true,
+    "normalization": "Unicode casefold; curly apostrophe to straight; retain internal apostrophes; split all other punctuation and presentation; compare every token including heading and numerals in order.",
+    "normalizedWordCount": 7409,
+    "canonicalWordSha256": "6fc053a8599d4f9137aae7c538b444a4845c296eceff43414a00755597d72338",
+    "preparedWordSha256": "6fc053a8599d4f9137aae7c538b444a4845c296eceff43414a00755597d72338",
+    "directionWordSha256": "6fc053a8599d4f9137aae7c538b444a4845c296eceff43414a00755597d72338",
+    "coverage": 1.0,
+    "missingWords": 0,
+    "extraWords": 0,
+    "reorderedWords": 0
+  },
+  "clarity": {
+    "sourceParagraphs": 307,
+    "reviewedParagraphs": 307,
+    "coverage": 1.0,
+    "schema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "schemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "schemaValidation": "All current schema required fields, additionalProperties, primitive types, enum values and minimum constraints checked independently; harness also checks semantic status rules.",
+    "blockingParagraphs": [],
+    "punctuationCorrections": [],
+    "pendingABChoices": 0
+  },
+  "direction": {
+    "segments": 308,
+    "maximumTextCharacters": 507,
+    "writtenSceneBreaks": 5,
+    "sourceLocationCoverage": 1.0,
+    "attributionPolicy": "Every prose paragraph remains intact in one segment; internal sentence landings instructed without separating dialogue and attribution.",
+    "internalSilenceMeasured": false,
+    "directionSha256": "f2b6af70de897b9c734779064340fac8736fb2d60f64d2cd6715b968d95b7159",
+    "preparedSha256": "110b7906434f71f0752cf944a7eae91d3a092052d4444622ba7a471d656ec3cc"
+  },
+  "nextAction": "Eligible for direction.ready; rendering and publication remain outside this preparation task.",
+  "validationCommands": [
+    {
+      "argv": [
+        "python3",
+        "narration/validate-unit-07-09-codex.py"
+      ],
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "result": "PASS independent per-chapter text/schema/location/direction validation"
+    },
+    {
+      "argv": [
+        "/Users/drive/penname/harness/book-narrator.sh",
+        "validate",
+        "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-07-09/run.json"
+      ],
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "exitCode": 1,
+      "stdout": "chapter 07: PASS — word lock passes (7409 words); clarity coverage complete (307 paragraphs); blockers=0\nchapter 08: FAIL — word lock passes (7004 words); clarity coverage complete (288 paragraphs); blockers=1\nchapter 09: FAIL — word lock passes (8939 words); clarity coverage complete (296 paragraphs); blockers=5\n",
+      "stderr": "",
+      "interpretation": "Expected overall failure while chapter 8 and 9 writing blockers remain; per-chapter results retained verbatim."
+    }
+  ]
+}

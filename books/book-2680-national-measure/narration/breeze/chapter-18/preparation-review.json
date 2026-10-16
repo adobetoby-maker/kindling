@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 18,
+  "state": "ready-for-local-Breeze-render",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-18.md",
+  "sourceSha256": "4a4aba68311d38d78c443740d506c1a6303f9144a098da4bf1130d24460aadf9",
+  "director": "Codex",
+  "clarity": {
+    "paragraphCount": 254,
+    "coverage": 1.0,
+    "schemaValidated": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "locations": "Exact canonical line and prose paragraph number in every reason; paragraphMap in performance JSON.",
+    "punctuationCorrections": 1,
+    "unresolvedChoices": 0,
+    "writingBlockers": 0
+  },
+  "wordLock": {
+    "normalization": "NFKC, casefold, curly apostrophe to ASCII; Unicode alphanumeric words with internal apostrophes. Markdown punctuation does not contribute tokens. Heading included.",
+    "sourceWordCount": 8137,
+    "preparedWordCount": 8137,
+    "directionWordCount": 8137,
+    "normalizedWordsSha256": "3f46c7216f68ea6fc810831d26490b2340a8a0b8a114701ff41d9cca30b88fe7",
+    "coverage": 1.0,
+    "orderedEquality": true,
+    "preparedMatchesCanonical": true,
+    "breezeMatchesCanonical": true
+  },
+  "direction": {
+    "segmentCount": 255,
+    "maxSegmentCharacters": 631,
+    "writtenSceneBreakCount": 7,
+    "selectivePreWordPreparations": [
+      {
+        "segment": "s092",
+        "beforeWord": "There",
+        "milliseconds": 320,
+        "reason": "Prepare the actual perception/subject turn without dividing a dialogue attribution."
+      }
+    ],
+    "sha256": "80e87ecf570ef43b1428ce4a8933e296f0ffedef360ff6d739a218d7c9bb39f0"
+  },
+  "validationCommands": [
+    {
+      "command": "python3 /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-16-18/validate-local.py",
+      "attempt": "initial dependency check",
+      "exitCode": 1,
+      "stderr": "ModuleNotFoundError: No module named 'jsonschema'",
+      "resolution": "Removed third-party import; directly validated every constraint in the supplied flat JSON schema: required fields, additionalProperties, types, enums and minimum. No schema requirements skipped."
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-16-18/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 16: PASS — word lock passes (7048 words); clarity coverage complete (196 paragraphs); blockers=0\nchapter 17: PASS — word lock passes (7157 words); clarity coverage complete (242 paragraphs); blockers=0\nchapter 18: PASS — word lock passes (8137 words); clarity coverage complete (254 paragraphs); blockers=0\n"
+    },
+    {
+      "command": "python3 /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-16-18/validate-local.py",
+      "checks": "Independent normalized source/prepared/Breeze ordered word equality; per-paragraph word equality, JSON Schema, exact source lines, segment structure, scene boundaries, source hashes, lengths and resets.",
+      "exitCode": 0
+    }
+  ],
+  "audioRendered": false,
+  "audioComplete": false,
+  "humanListen": "not performed",
+  "nextAction": "Render with the owner-selected local Breeze worker when queued by owner; retain source hash and then perform audio QA and complete listening review.",
+  "supplementaryInspectionCommands": [
+    "python3 - <<'PY'\nimport json\nfrom pathlib import Path\nfor n in (16,17,18):\n d=json.loads(Path(f'narration/breeze/chapter-{n}/direction.json').read_text())\n print(n,[(s['id'],len(s['text']),s['text'][:80]) for s in d['segments'] if len(s['text'])>700])\nPY",
+    "python3 - <<'PY'\nimport json\nfrom pathlib import Path\nfor n in (16,17,18):\n p=Path(f'narration/monroe-1.2.5/calder/chapters-16-18/chapter-{n}/chapter-{n}.performance.json')\n d=json.loads(p.read_text())\n for m in d['paragraphMap']:\n  if m['firstSegment']!=m['lastSegment']:print(n,m)\n print(n,'scenes',[(x['paragraph'],x['sourceLine']) for x in d['sceneDirections']])\nPY",
+    "python3 - <<'PY'\nimport json\nfrom pathlib import Path\nx=json.loads(Path('narration/breeze/chapter-16/direction.json').read_text())\nfor s in x['segments'][117:119]:print(s['id'],s['text'])\nPY"
+  ],
+  "supplementaryInspectionResult": "All exited 0. No segment exceeds 700 characters. Only chapter 16 paragraph 117 splits, after the completed narrative window observation and before Thrale resumes; dialogue and attribution remain together. Scene start locations checked against canonical prose."
+}

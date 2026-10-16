@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 32,
+  "state": "ready-to-render",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-32.md",
+  "sourceSha256": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+  "acceptedSourceSha256": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+  "acceptanceTable": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md",
+  "director": "Codex",
+  "provider": "local Breeze TTS 2",
+  "reading": {
+    "allThreeReadBeforeDirection": true,
+    "context": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/contexts/chapter-32.context.md",
+    "provisionalBibleScope": "1–16 only; no later canon authority",
+    "historical26and27ContradictionsImported": false
+  },
+  "clarity": {
+    "paragraphsExpected": 288,
+    "paragraphsReviewed": 288,
+    "coverage": 1.0,
+    "schema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "schemaValidation": "All required keys, additionalProperties=false, types, enums and minimum checked directly against supplied schema; jsonschema package unavailable in system python.",
+    "clean": 288,
+    "punctuationCorrections": 0,
+    "performanceChoices": 0,
+    "writingBlockers": 0
+  },
+  "wordLock": {
+    "passed": true,
+    "canonicalNormalizedWords": 9249,
+    "preparedNormalizedWords": 9249,
+    "directionNormalizedWords": 9249,
+    "coverage": 1.0,
+    "normalizedSpokenSha256": "65e857c6d086cd7630374fb736cbece8b8433a04998e59267a843c8e95848a13",
+    "normalization": "NFKC, casefold, curly apostrophe to straight; Unicode letter/digit words retain internal apostrophes; punctuation/presentation ignored; SHA-256 over tokens joined by newline plus final newline",
+    "headingIncluded": true,
+    "paragraphMappingPass": true
+  },
+  "direction": {
+    "segments": 290,
+    "maxCharacters": 659,
+    "sceneBreaks": 9,
+    "preWordPreparations": 1,
+    "externalPauseBoundariesPass": true,
+    "completeThoughtSplitsPass": true,
+    "narratorResetsExplicit": true,
+    "internalPauses": "Native synthesis instructions only; future measured audio verification required"
+  },
+  "artifactSha256": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-31-33/chapter-32/chapter-32.narration.md": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-31-33/chapter-32/clarity-review.jsonl": "508908896c31009cee32466107c1e209c39eb5061b353eab0cb8f314fa406021",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-32/direction.json": "59e9debe3827f5ce481ad782544cbfca09d08c2fefcc29d1835e4c38d3856582",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-31-33/chapter-32/chapter-32.performance.json": "3c67ac58f8564e1c4b810a6b0c4316657d94dba72ff28aac4d35865ee4867c62"
+  },
+  "validationCommands": [
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-31-33/validate-unit.py",
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "exitCode": 0,
+      "checks": "Independent canonical/prepared/direction word sequence; acceptance hashes; schema; complete paragraph and exact line coverage; heading; segment ids/size; numeric pauses and scene breaks; exact provider override."
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-31-33/run.json",
+      "cwd": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure",
+      "exitCode": 1,
+      "stdout": "chapter 31: PASS — word lock passes (6652 words); clarity coverage complete (200 paragraphs); blockers=0\nchapter 32: PASS — word lock passes (9249 words); clarity coverage complete (288 paragraphs); blockers=0\nchapter 33: FAIL — word lock passes (8532 words); clarity coverage complete (233 paragraphs); blockers=1\n"
+    }
+  ],
+  "audioRendered": false,
+  "audioComplete": false,
+  "humanListenCompleted": false,
+  "nextAction": "Render this matching direction track with the existing shared Breeze worker when scheduled; then perform audio coverage, technical/pacing/identity QA and complete listening review. No render or publication authorized in this preparation turn.",
+  "blockers": []
+}

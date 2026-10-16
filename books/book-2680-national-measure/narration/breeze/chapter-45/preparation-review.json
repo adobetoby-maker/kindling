@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 45,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-45.md",
+  "sourceSha256": "07a7859be33cce8becfbd1fabe01ea709f03ad624ea5ff97855990ae75d92ffa",
+  "acceptedTableMatch": false,
+  "boundedRepairVerified": true,
+  "supervisorAcceptancePending": true,
+  "director": "Codex",
+  "state": "ready",
+  "normalization": "Unicode letter/number words with one internal apostrophe; casefold; curly apostrophe normalized; punctuation/Markdown presentation excluded; heading included.",
+  "wordLock": {
+    "passed": true,
+    "sourceWords": 7390,
+    "preparedWords": 7390,
+    "directionWords": 7390,
+    "normalizedWordSha256": "cdf05b487d3013733514f950cb087ebe3d96fdd496702afae0e251dd5eb6a8aa",
+    "coverage": 1.0,
+    "sequenceExact": true,
+    "headingIncluded": true
+  },
+  "clarity": {
+    "proseParagraphs": 175,
+    "reviewItems": 175,
+    "coverage": 1.0,
+    "schemaValidation": "All required keys, types, enums, minimum and additionalProperties checked directly against the supplied schema; jsonschema package not installed.",
+    "schemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "blockers": []
+  },
+  "direction": {
+    "segments": 178,
+    "trackSha256": "0d506e1daba29c79027597b7731919f28d012cb4c9203f40f2bdfa0cfb0e196f",
+    "maximumCharacters": 690,
+    "allParagraphMappingsVerified": true,
+    "sceneBreakLandingsVerified": true,
+    "preWordPreparations": [
+      {
+        "segment": "s056",
+        "before": "first spoken word",
+        "durationMs": 320,
+        "sourceLine": 109
+      },
+      {
+        "segment": "s149",
+        "before": "first spoken word",
+        "durationMs": 320,
+        "sourceLine": 301
+      }
+    ],
+    "internalSentenceLandings": "1550 ms instructed; actual timing not yet measured"
+  },
+  "validationCommands": [
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-43-45/validate_location_time.py",
+      "result": "PASS: independent per-chapter source acceptance, schema, paragraph coverage, prepared and segment word lock, heading, mapping and boundary checks"
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-43-45/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 43: PASS — word lock passes (5726 words); clarity coverage complete (152 paragraphs); blockers=0\nchapter 44: PASS — word lock passes (8442 words); clarity coverage complete (244 paragraphs); blockers=0\nchapter 45: PASS — word lock passes (7390 words); clarity coverage complete (175 paragraphs); blockers=0\n",
+      "stderr": ""
+    }
+  ],
+  "audioRendered": false,
+  "humanListenPerformed": false,
+  "published": false,
+  "nextAction": "Supervisor adopts explicit source acceptance addendum; rendering and owner listening remain pending and were not authorized in this task.",
+  "dependencyManifest": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-43-45/location-time-dependencies.json",
+  "unitSha256": "f67da5b3cd6c3df24630b6c65c73421bd17becaaec854f132920e4779ec0f15f",
+  "independentScanner": "PASS: ordered Unicode alphanumeric/apostrophe stream, headings, exhaustive map coverage, zero blockers, frozen and protected hashes",
+  "wavInventory": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/editions/source44-45-pre-location-time-refresh-20261015/wav-inventory.json"
+}

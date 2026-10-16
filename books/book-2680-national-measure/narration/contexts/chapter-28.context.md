@@ -1,0 +1,11 @@
+# Chapter 28 — Codex reading context
+
+Interpretive direction, not canon. Derived from actual reading of all chapters 28–30 before direction. The provisional local bible covers only 1–16 and does not govern later facts. Whole-book accepted prose supersedes historical movement records. The bounded 26/27 repair is outside this unit; its unresolved count and hauler claims are not reused. Later ledger outcomes are not character foreknowledge.
+
+Canonical source: `/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-28.md`
+
+Source SHA-256: `a3d147679948502b05ee1879e37f7d347de0228acb8fab2b75121edc0b86e5dd`
+
+Tuesday the 15th, Kiva focalizes throughout. Aske writes the seventh left rib cracked across, not through; no plant or lift, fortnight at least. Perrin captains from the hard. Finch stands with Rowan, Pryce and Talley. Perrin chooses Ember for Rowan, single all day off her own thimble, sacrificing a far-edge plant to keep the carry available for a possible recovery. Anwen questions the tradeoff and consents without withdrawing her preference. Kiva agrees without surrendering ownership of her door. Seven stands third after two boards, 43, behind Halden 46 and Ropewalk 45. Mallow Creek pairs Seven and the Tarn under Yeo; Skerry Pill pairs Halden and Ropewalk under Bray with a known lodger. Kellan voices a grounded concern; Anwen has warned Lyle twice and distinguishes warning from minding. Trewin agrees to be the third only with officer permission and reciprocal commitment to Bridie Hebden, fifteen, the Tarn reserve catching after an ankle injury. The dry practice lights nothing: on the tenth Trewin opens on the end of the second Nobody rather than waiting for a landing; twenty dry passes in all. At the evening quarter to seven Kiva logs yes from a stave. Bridie asks what happens to the load in the gaps; nobody holding prevents folding and simultaneous unlike doors invite a lodger. Jude questions the purpose of wet red ash when kitchens need protection. Kiva ends expecting to detect slack and its end; do not promise what she has not yet observed.
+
+Original Calder, warm restrained Australian-English. Deliberate, clear native synthesis; prepare complete thoughts. No waveform time stretching. Every temporary color returns explicitly to base at attribution and narrative return.

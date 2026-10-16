@@ -1,0 +1,110 @@
+{
+  "schemaVersion": 1,
+  "bookId": "kindling-2680-book-02",
+  "chapterNumber": 3,
+  "director": "Codex",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-03.md",
+  "sourceSha256": "c4120ba3ac84beeb780a5c4e5faecb3f965a1667d8de8d750e3195526e8ff632",
+  "prepared": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/chapter-03.narration.md",
+  "direction": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-03/direction.json",
+  "directionSha256": "aec6ddd68446ad04c224d62316ddb52a225c4dae56b34bbf56bb0ea434a85843",
+  "performanceTrack": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/chapter-03.performance.json",
+  "performanceTrackSha256": "6b8f28e18818c8b432f82dea8e3869de31ae78223e333c62f28183e420d80432",
+  "clarityReview": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/clarity-review.jsonl",
+  "clarityReviewSha256": "0de4c41055acde734da803df64ba0635d63a10be7095c873263e4187083fe5ae",
+  "claritySchema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+  "claritySchemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+  "reviewedAt": "2026-10-15T15:16:16.423034+00:00",
+  "state": "ready-to-render",
+  "wordLock": {
+    "passed": true,
+    "normalization": "Unicode word tokens, optional internal apostrophe; casefold; curly apostrophe to straight; punctuation and Markdown markers excluded. SHA-256 of newline-separated normalized tokens plus final newline.",
+    "canonicalWordCount": 5617,
+    "preparedWordCount": 5617,
+    "directionWordCount": 5617,
+    "canonicalWordSha256": "fc8336493618da74cabe7d9e92cd27d8e85eb0ed51f14bedff61273f66e81824",
+    "preparedWordSha256": "fc8336493618da74cabe7d9e92cd27d8e85eb0ed51f14bedff61273f66e81824",
+    "directionWordSha256": "fc8336493618da74cabe7d9e92cd27d8e85eb0ed51f14bedff61273f66e81824",
+    "coverage": 1.0,
+    "headingIncluded": true,
+    "orderedExactMatch": true
+  },
+  "clarity": {
+    "proseParagraphs": 222,
+    "reviewEntries": 222,
+    "coverage": 1.0,
+    "schemaValidated": true,
+    "exactLocationsValidated": true,
+    "punctuationCorrections": 0,
+    "performanceChoices": 0,
+    "blockingWritingItems": 0,
+    "nonblockingEditorialQueries": 0
+  },
+  "segmentation": {
+    "segments": 223,
+    "maximumCharacters": 482,
+    "over700": [],
+    "completeThoughtSplitAfter": [],
+    "sceneBreaks": 5,
+    "attributionPolicy": "Whole source paragraphs retained except complete-sentence splits; no speech/attribution boundary split.",
+    "pauseTiming": "Direction targets only. Inter-segment silence is explicit; intra-segment sentence landings and pre-word preparations are synthesis instructions awaiting audio measurement."
+  },
+  "actualValidationCommands": [
+    {
+      "command": "python3 narration/validate_opening_final_local.py | apply_patch",
+      "purpose": "Independent full-unit audit plus frozen evidence, exact pickup triples, both joins, chapter 2 immutability and dependencies. Marker release is separate."
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 01: PASS — word lock passes (5903 words); clarity coverage complete (240 paragraphs); blockers=0\nchapter 02: PASS — word lock passes (5734 words); clarity coverage complete (235 paragraphs); blockers=0\nchapter 03: PASS — word lock passes (5617 words); clarity coverage complete (222 paragraphs); blockers=0\n",
+      "stderr": ""
+    }
+  ],
+  "audio": {
+    "rendered": false,
+    "published": false,
+    "humanListenCompleted": false
+  },
+  "blockers": [],
+  "nextAction": "Release source-hashed marker only after immediate source/dependency recheck; then move old local published.json to frozen edition to queue worker.",
+  "unitRunSha256": "dd30fec7be3145d35d1e3b984fe489b57cd869b30822031d3ac32981a037439a",
+  "dependencyHashes": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/chapter-03.narration.md": "c4120ba3ac84beeb780a5c4e5faecb3f965a1667d8de8d750e3195526e8ff632",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/clarity-review.jsonl": "0de4c41055acde734da803df64ba0635d63a10be7095c873263e4187083fe5ae",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/chapter-03.performance.json": "6b8f28e18818c8b432f82dea8e3869de31ae78223e333c62f28183e420d80432",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/writing-monroe-feedback.md": "f475e58f33ea54608a2e407f08bd29365ceb343449c2f15735922e71bf532c86",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/run.json": "dd30fec7be3145d35d1e3b984fe489b57cd869b30822031d3ac32981a037439a",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/unit-performance-bible.md": "692e12e6dabb594c053c7ccd2e9e1e8568c2e76fd3fe77f2253d9fbeb27abf08",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/BREEZE-OVERRIDE.md": "b4be92f4a4d000eec3cca50d1e3dff94abff255379b4166b3ab1f01d54cce537",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-03/direction.json": "aec6ddd68446ad04c224d62316ddb52a225c4dae56b34bbf56bb0ea434a85843",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-03/segment-locations.json": "3359c01133cadd2978c11705f60f0b9a915525f50573a14611ae10df412c174e",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-03/paragraph-locations.json": "dc0c78c5035e95916c9af815734da1729a51ab14a3a17e41026687ac7c236327",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-03/pickup-plan.json": "c8eed0bce8302dac54b9ed58db326dc9a6fa8da855408144330ff4bb2d1b11e3",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md": "71d2e7b6bc82e1066303c49e314b96c8f0e2311f15f1c9d480ea6066fab6603c",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-REPAIR.md": "2c08da98c58cef5e13c027ab683ae08fba23be818a9806166970286f78ccb410",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-RECHECK.md": "08adefdf8ec0fd7e1fa6a2da8eacf4876d601228adf681ae70b6171cfd4de3d2",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/validate-opening-unit.py": "50cbc80768f63f9d66ad46d70d783b87fbb3f27cd5a343154e9285159b17d269",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/validate_opening_final_local.py": "45b51b13c5e38f6eeed7a2139dcd608ae01ac19c7fe676d311f6a00cb2f0c55f",
+    "/Users/drive/boundary-universe/public/private-benchmarks/voice-workshop/calder/calder-original-source.wav": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e"
+  },
+  "acceptedWholeBookHashesVerified": 48,
+  "joinRechecks": [
+    {
+      "paragraph": 72,
+      "incoming": "pass",
+      "outgoing": "pass",
+      "oldThreeParagraphSha256": "3d136cef483f526f263d12eafce2ff8e3e7dccbe8221673231520ceba2337cb2",
+      "newThreeParagraphSha256": "733680017ecb8d9ed12d7bbe5a0210f78426d57bb4f334b3e19bac3bcb5ca50d",
+      "neighborParagraphsExact": true
+    }
+  ],
+  "paragraphsRechecked": 222,
+  "pickupSummary": {
+    "preservedCount": 222,
+    "invalidatedCount": 2
+  },
+  "chapter2Exact": true,
+  "listening": "Not performed; preparation eligibility only. Old publication evidence frozen; new audio belongs to worker.",
+  "markerReleaseCheckedAt": "2026-10-15T15:16:52.447645+00:00"
+}

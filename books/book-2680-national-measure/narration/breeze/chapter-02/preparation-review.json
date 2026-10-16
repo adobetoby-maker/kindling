@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "bookId": "kindling-2680-book-02",
+  "chapterNumber": 2,
+  "director": "Codex",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-02.md",
+  "sourceSha256": "12c3e7923ab40929de5134701949343a90a45cf28f83dbabdd0046244778fe19",
+  "prepared": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-02/chapter-02.narration.md",
+  "direction": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-02/direction.json",
+  "directionSha256": "86797cf61be09dab9b23ab3a50ffc64ba43e37a68b0c30a39b36e31002511339",
+  "performanceTrack": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-02/chapter-02.performance.json",
+  "performanceTrackSha256": "7063a755a6ad0b486f1727cd6909652a02b685c033fc580d76f167103a06eee2",
+  "clarityReview": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/chapter-02/clarity-review.jsonl",
+  "clarityReviewSha256": "9b8c9193decd0f3f1780b70c5ba8a77fa7e53e575e025e631dd2408b638694b2",
+  "claritySchema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+  "claritySchemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+  "reviewedAt": "2026-10-15T06:32:53.670451+00:00",
+  "state": "ready-to-render",
+  "wordLock": {
+    "passed": true,
+    "normalization": "Unicode word tokens, optional internal apostrophe; casefold; curly apostrophe to straight; punctuation and Markdown markers excluded. SHA-256 of newline-separated normalized tokens plus final newline.",
+    "canonicalWordCount": 5734,
+    "preparedWordCount": 5734,
+    "directionWordCount": 5734,
+    "canonicalWordSha256": "97b609a80121cfa7418c995b2ed30f3deac34373636b09e299f3ab69dd0710a7",
+    "preparedWordSha256": "97b609a80121cfa7418c995b2ed30f3deac34373636b09e299f3ab69dd0710a7",
+    "directionWordSha256": "97b609a80121cfa7418c995b2ed30f3deac34373636b09e299f3ab69dd0710a7",
+    "coverage": 1.0,
+    "headingIncluded": true,
+    "orderedExactMatch": true
+  },
+  "clarity": {
+    "proseParagraphs": 235,
+    "reviewEntries": 235,
+    "coverage": 1.0,
+    "schemaValidated": true,
+    "exactLocationsValidated": true,
+    "punctuationCorrections": 0,
+    "performanceChoices": 0,
+    "blockingWritingItems": 0,
+    "nonblockingEditorialQueries": 0
+  },
+  "segmentation": {
+    "segments": 236,
+    "maximumCharacters": 519,
+    "over700": [],
+    "completeThoughtSplitAfter": [],
+    "sceneBreaks": 4,
+    "attributionPolicy": "Whole source paragraphs retained except complete-sentence splits; no speech/attribution boundary split.",
+    "pauseTiming": "Direction targets only. Inter-segment silence is explicit; intra-segment sentence landings and pre-word preparations are synthesis instructions awaiting audio measurement."
+  },
+  "actualValidationCommands": [
+    {
+      "command": "python3 narration/validate-opening-unit.py | apply_patch",
+      "purpose": "Independent per-chapter canonical/prepared/direction token equality, exact presentation reconstruction, clarity schema and locations, source/run hashes, segment and pause checks; emit reports and ready markers only after all chapters pass."
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-01-03/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 01: PASS — word lock passes (5901 words); clarity coverage complete (240 paragraphs); blockers=0\nchapter 02: PASS — word lock passes (5734 words); clarity coverage complete (235 paragraphs); blockers=0\nchapter 03: PASS — word lock passes (5607 words); clarity coverage complete (222 paragraphs); blockers=0\n",
+      "stderr": ""
+    }
+  ],
+  "audio": {
+    "rendered": false,
+    "published": false,
+    "humanListenCompleted": false
+  },
+  "blockers": [],
+  "nextAction": "Preparation complete. Rendering was explicitly excluded from this task; an authorized local Breeze rendering session may consume direction.json, followed by measured audio QA and full listening review."
+}

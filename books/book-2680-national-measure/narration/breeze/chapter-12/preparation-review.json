@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 12,
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-12.md",
+  "sourceSha256": "bcb42ba039791ff377f361eed96c4b1f57e98b7b22aefba11d3555e671e8b5da",
+  "state": "ready-for-local-Breeze-render",
+  "director": "Codex",
+  "humanListen": "not performed",
+  "audio": "not rendered",
+  "wordLock": {
+    "passed": true,
+    "normalization": "Unicode alphanumeric tokens; internal apostrophes retained and typographic apostrophes folded; casefold; punctuation/presentation excluded",
+    "canonicalWords": 7358,
+    "preparedWords": 7358,
+    "directionWords": 7358,
+    "normalizedWordSha256": "1214b425d44e118fed1644e38624a1e9de8b4219ccb94b31930b756eeef2d37a",
+    "preparedWordSha256": "1214b425d44e118fed1644e38624a1e9de8b4219ccb94b31930b756eeef2d37a",
+    "directionWordSha256": "1214b425d44e118fed1644e38624a1e9de8b4219ccb94b31930b756eeef2d37a",
+    "coverage": 1.0,
+    "headingIncluded": true,
+    "wordsAdded": 0,
+    "wordsRemoved": 0,
+    "wordsReordered": 0
+  },
+  "clarity": {
+    "paragraphs": 241,
+    "reviewed": 241,
+    "schema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "schemaSha256": "798e9b9426fbf12e6ee88defd001a5c4921114265e17698f725178e7c644ce53",
+    "schemaValidation": "passed for every entry",
+    "unresolvedBlockers": 0,
+    "punctuationCorrections": [
+      48
+    ],
+    "locationVerification": "Every source line range and paragraph-to-segment span matched independently"
+  },
+  "direction": {
+    "segments": 243,
+    "sourceLocations": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/chapter-12/chapter-12.performance.json",
+    "sceneBreaks": 9,
+    "writtenSceneBreaksMatched": true,
+    "oversizedSegments": [],
+    "preWordPreparations": [],
+    "internalSentenceLandingLimit": "1550 ms instructed inside context-preserving multi-sentence chunks; exact synthesized internal silence requires later audio measurement. Edge rests encoded numerically.",
+    "referenceIdentity": "Original Calder; renderer reference audio and lexicon require render-time verification; no model invoked"
+  },
+  "artifactSha256": {
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/chapter-12/chapter-12.narration.md": "82313e1038b23337babe5c187646c3a720fcf1c608eae876ed41aacdddca74e8",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/chapter-12/clarity-review.jsonl": "3fa042b60164518ad556780fba8c314f2e621f3712078f78771663cf13934cd3",
+    "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-12/direction.json": "c758c7578b6561a2536355ffb5511374f94be78c6ee478cc55f081896ab1c13e"
+  },
+  "actualValidationCommands": [
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 10: PASS — word lock passes (6238 words); clarity coverage complete (225 paragraphs); blockers=0\nchapter 11: PASS — word lock passes (7908 words); clarity coverage complete (251 paragraphs); blockers=0\nchapter 12: PASS — word lock passes (7358 words); clarity coverage complete (241 paragraphs); blockers=0\n",
+      "stderr": ""
+    },
+    {
+      "command": "python3 /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/validate_breeze_10_12.py | apply_patch",
+      "attempt": 1,
+      "result": "Failed before any artifact or marker was written: jsonschema unavailable. Replaced dependency with complete checks for the supplied schema constraints."
+    },
+    {
+      "command": "python3 /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-10-12/validate_breeze_10_12.py | apply_patch",
+      "checks": "Independent canonical/prepared/direction token equality, heading, schema for every paragraph, source hashes, exact source lines, paragraph segment coverage, sequential IDs, base resets, Markdown stripping, boundary pauses and scene count",
+      "result": "passed"
+    },
+    {
+      "command": "python3 - <<'PY'\nimport json,hashlib\nfrom pathlib import Path\nroot=Path.cwd()\nunit=root/'narration/monroe-1.2.5/calder/chapters-10-12'\nfor n in (10,11,12):\n d=root/f'narration/breeze/chapter-{n:02d}'\n r=json.loads((d/'preparation-review.json').read_text())\n t=json.loads((d/'direction.json').read_text())\n h=hashlib.sha256((root/f'manuscript/chapter-{n:02d}.md').read_bytes()).hexdigest()\n assert (d/'direction.ready').read_text().strip()==h==r['sourceSha256']==t['sourceSha256']\n for p,h0 in r['artifactSha256'].items(): assert hashlib.sha256(Path(p).read_bytes()).hexdigest()==h0\n print(n,'READY',h,'corrections',r['clarity']['punctuationCorrections'])\n for line in (unit/f'chapter-{n:02d}/clarity-review.jsonl').read_text().splitlines():\n  x=json.loads(line)\n  if x['status']!='clean': print(x['issue'],x['reason'])\nPY",
+      "exitCode": 0,
+      "result": "All three written ready markers, source hashes and reviewed artifact hashes matched; punctuation corrections 11:173 and 12:48 inspected."
+    }
+  ],
+  "nextAction": "Owner-authorized renderer may consume direction.json after rechecking sourceSha256 and direction.ready; no audio work performed in this task."
+}

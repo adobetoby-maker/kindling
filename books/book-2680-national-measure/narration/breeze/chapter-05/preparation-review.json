@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "chapterNumber": 5,
+  "director": "Codex",
+  "state": "ready-to-render",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-05.md",
+  "sourceSha256": "e47d8af8d8b02feeda606b9544dbd62ee12e8d8d419aeefc59a8facd4f14063f",
+  "directionSha256": "8b04f13ea98c0c88d42ef1addf35e73070be1ce01afca875b75a1b468a39e214",
+  "wordLock": {
+    "passed": true,
+    "normalization": "NFC, casefold, curly apostrophe to ASCII; Unicode alphanumeric tokens with internal apostrophes; punctuation and Markdown excluded",
+    "canonicalWordCount": 5677,
+    "preparedWordCount": 5677,
+    "directionWordCount": 5677,
+    "canonicalWordSha256": "73a358039ae5b47b144b99e71dbe63cf3485b551562d54a66f6e6a35e3c0aa2a",
+    "preparedWordSha256": "73a358039ae5b47b144b99e71dbe63cf3485b551562d54a66f6e6a35e3c0aa2a",
+    "directionWordSha256": "73a358039ae5b47b144b99e71dbe63cf3485b551562d54a66f6e6a35e3c0aa2a",
+    "coverage": 1.0,
+    "headingIncluded": true,
+    "sequenceMatches": true
+  },
+  "clarity": {
+    "proseParagraphs": 262,
+    "reviewedParagraphs": 262,
+    "schemaValidation": "pass",
+    "exactSourceLocations": "pass",
+    "unresolvedBlockers": 0
+  },
+  "directionChecks": {
+    "segmentCount": 263,
+    "writtenSceneBreakCount": 4,
+    "sceneBoundaryOffsetsMatch": true,
+    "longSegmentExceptions": [],
+    "internalSentencePauses": "Instructed 1550 ms; audio timing not measured",
+    "selectivePreWordPreparations": [],
+    "identityResetInstructions": "present in every segment"
+  },
+  "validationCommands": [
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-04-06/validate-unit-04-06.py | apply_patch",
+      "checks": "Independent canonical/prepared/direction sequence comparison per chapter; schema; paragraph coverage and exact line locations; source hashes; headings; segment fields and scene boundary offsets",
+      "result": "pass"
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-04-06/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 04: PASS — word lock passes (5468 words); clarity coverage complete (235 paragraphs); blockers=0\nchapter 05: PASS — word lock passes (5677 words); clarity coverage complete (262 paragraphs); blockers=0\nchapter 06: PASS — word lock passes (5609 words); clarity coverage complete (249 paragraphs); blockers=0"
+    }
+  ],
+  "audioRendered": false,
+  "humanListenPerformed": false,
+  "publicationPerformed": false,
+  "nextAction": "Render locally with the existing Breeze worker when available; then measure pacing, validate audio coverage and technical output, and complete listening review. This preparation task does not launch rendering."
+}

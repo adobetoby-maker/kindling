@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "bookId": "kindling-2680-book-02",
+  "chapterNumber": 35,
+  "director": "Codex",
+  "state": "ready-to-render",
+  "source": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/manuscript/chapter-35.md",
+  "sourceSha256": "1dee7ed8caabd3adee8a78fc67dd3e259b516d8a0e8888e052bad5cb043362e1",
+  "acceptedHashTable": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md",
+  "acceptedHashMatch": true,
+  "reading": {
+    "allThreeCanonicalChaptersReadBeforeDirection": true,
+    "scope": "34–36 complete prose; no local context-model inference",
+    "context": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/contexts/chapter-35.context.md",
+    "provisionalBibleScope": "chapters 1–16 only"
+  },
+  "clarity": {
+    "proseParagraphs": 174,
+    "reviewEntries": 174,
+    "coverage": 1.0,
+    "punctuationCorrections": 0,
+    "blockingItems": 0,
+    "schema": "/Users/drive/penname/pennamecodexv3/schemas/narration-clarity-item.v1.schema.json",
+    "schemaValidation": "Every property checked for required keys, additional keys, types, minima and enums; current schema has no other constraints.",
+    "paragraphLocations": "Canonical source line numbers in each clarity issue; exact ranges and segment correspondence in performance paragraphMap."
+  },
+  "wordLock": {
+    "normalization": "NFC, casefold, curly apostrophe normalized to straight; Unicode alphanumeric words retain internal apostrophes. Hash is SHA-256 of UTF-8 tokens joined with LF, no final LF. Independent second regex implementation also passes.",
+    "canonicalWords": 6006,
+    "preparedWords": 6006,
+    "directionWords": 6006,
+    "canonicalNormalizedSha256": "c8c3ae1e3a4767da2c6fb87935deefca8c2cf7753cdd4e845abc209cbfbe9b24",
+    "preparedNormalizedSha256": "c8c3ae1e3a4767da2c6fb87935deefca8c2cf7753cdd4e845abc209cbfbe9b24",
+    "directionNormalizedSha256": "c8c3ae1e3a4767da2c6fb87935deefca8c2cf7753cdd4e845abc209cbfbe9b24",
+    "coverage": 1.0,
+    "missing": 0,
+    "added": 0,
+    "reordered": 0,
+    "exactOrderedMatch": true
+  },
+  "artifacts": {
+    "direction": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/chapter-35/direction.json",
+    "directionSha256": "3b3c7ef498a52395458805586e2e43751e77ed28f66da88237924f2ea692a521",
+    "prepared": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-34-36/chapter-35/chapter-35.narration.md",
+    "preparedSha256": "1dee7ed8caabd3adee8a78fc67dd3e259b516d8a0e8888e052bad5cb043362e1",
+    "clarityReview": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-34-36/chapter-35/clarity-review.jsonl",
+    "performanceTrack": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-34-36/chapter-35/chapter-35.performance.json"
+  },
+  "directionChecks": {
+    "segments": 177,
+    "headingIncluded": true,
+    "maxSegmentCharacters": 616,
+    "writtenSceneBreaks": 2,
+    "selectivePreWordPreparations": [
+      {
+        "segment": "s097",
+        "before": "first spoken word",
+        "durationMs": 320
+      }
+    ],
+    "allNarrativeReturnsResetToBase": true,
+    "internalPauseTiming": "Instruction only, requires future measured audio QA"
+  },
+  "validationCommands": [
+    {
+      "command": "python3 narration/monroe-1.2.5/calder/chapters-34-36/validate-preparation.py",
+      "exitCode": 1,
+      "purpose": "First attempt before syntax correction; unmatched closing parenthesis at line 75, no checks or readiness writes occurred."
+    },
+    {
+      "command": "python3 /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-34-36/validate-preparation.py",
+      "exitCode": 0,
+      "purpose": "Independent per-chapter canonical/prepared/track ordered-word comparison, clarity schema and location coverage, segment and pause checks, override equality; this invocation writes the review after all assertions pass."
+    },
+    {
+      "command": "/Users/drive/penname/harness/book-narrator.sh validate /Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/monroe-1.2.5/calder/chapters-34-36/run.json",
+      "exitCode": 0,
+      "stdout": "chapter 34: PASS — word lock passes (6375 words); clarity coverage complete (168 paragraphs); blockers=0\nchapter 35: PASS — word lock passes (6006 words); clarity coverage complete (174 paragraphs); blockers=0\nchapter 36: PASS — word lock passes (8167 words); clarity coverage complete (194 paragraphs); blockers=0\n",
+      "stderr": ""
+    }
+  ],
+  "limits": {
+    "audioRendered": false,
+    "audioComplete": false,
+    "humanListenClaimed": false,
+    "published": false
+  },
+  "nextAction": "Authorized local Breeze renderer may consume this direction after preparation; rendering, audio QA and human listening remain outside this task."
+}
