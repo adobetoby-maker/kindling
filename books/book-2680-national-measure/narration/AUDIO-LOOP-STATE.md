@@ -648,3 +648,14 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   takes pending contextual/perceptual corroboration. No full coverage approval.
 - Existing2/3 residuals remain open, especially2 medical W and3 s073 repetition,
   ledger numerals/initials. Do not mark completed on upload or ASR alone.
+
+## 2026-10-16 16:05 UTC — chapter18 live; chapter19 progressing
+
+-18 live manifest/source/audio verified, full media200/43432749bytes/3619.3s,
+  SHA2562e9fd38848bf100fb3ca5fdf356e6b152f7b80f768978f2cb10f04dfcaca30df,
+  range206.1–18 live listening candidates.18 peak retry preserved/replaced only
+  one offending take. Supervisor8214/render33147 now19 healthy.
+-5 isolated11takes/9exact, Stiles/styles and forty-five/45 orthographic;
+  s222 it's/that's remains uncertain. Saved bounded triage; preserve takes and
+  carry residual for contextual/perceptual evidence. Not final approval.
+- Remaining preparation/text unchanged; chapter-at-a-time publication continues.
