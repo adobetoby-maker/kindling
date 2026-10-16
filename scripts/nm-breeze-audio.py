@@ -28,6 +28,9 @@ PYTHON = Path('/Users/drive/.local/share/monroe-tts/breeze/venv/bin/python')
 RENDER = Path('/Users/drive/.local/share/monroe-tts/meridian-run/breeze_render_track.py')
 BOOK_ID = 'kindling-2680-book-02'
 RENDER_ID = 'local-breeze-directors-cut-audition'
+QA_PYTHON = Path('/Users/drive/.local/share/monroe-tts/venv/bin/python')
+QA_SCRIPT = Path('/Users/drive/boundary-universe/scripts/verify-local-tts.py')
+QA_CACHE = '/Volumes/Drive 2/monroe-ai/huggingface'
 
 
 def sha(data):
@@ -154,8 +157,73 @@ def publish(number, source, mp3, duration, report):
 
 def busy():
     for name in ['breeze_render_track.py', 'run_fractured.py', 'run_meridian.py',
-                 'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py']:
+                 'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
+                 'verify-local-tts.py']:
         if subprocess.run(['pgrep', '-f', name], capture_output=True).returncode == 0:
+            return True
+    return False
+
+
+def audit_output(number):
+    """Screen rendered words, serialized with synthesis; flags are not pickups."""
+    directory = QUEUE/f'chapter-{number:02d}'
+    publication = directory/'published.json'
+    if not publication.exists() or busy():
+        return False
+    published = json.loads(publication.read_text())
+    binding = {'sourceSha256': published['sourceSha256'],
+               'audioSha256': published['audioSha256']}
+    marker = directory/'asr-audit.json'
+    if marker.exists():
+        old = json.loads(marker.read_text())
+        if all(old.get(k) == v for k, v in binding.items()):
+            return False  # including diagnosed failures; supervisor controls retries
+    source = BOOK/f'manuscript/chapter-{number:02d}.md'
+    audio = directory/f'chapter-{number:02d}.breeze-calder.mp3'
+    evidence = {**binding, 'model': 'mlx-community/whisper-large-v3-turbo-asr-fp16',
+                'modelRevision': '624c19c9af5603fa73b83bce14d4aeea96156d18',
+                'ownerListening': 'pending', 'accentCertification': False,
+                'note': 'ASR screening only. Names, numbers and decoder errors require contextual triage; never automatic rerecording or human-listening approval.'}
+    try:
+        if sha(source.read_bytes()) != binding['sourceSha256'] or sha(audio.read_bytes()) != binding['audioSha256']:
+            raise RuntimeError('ASR source/audio differs from published binding')
+        audit_dir = directory/'asr'
+        audit_dir.mkdir(exist_ok=True)
+        stem = f'national-measure-chapter-{number:02d}-{binding["audioSha256"][:12]}'
+        alias = audit_dir/f'{stem}.mp3'
+        if not alias.exists():
+            alias.symlink_to(audio.resolve())
+        elif not alias.is_symlink() or alias.resolve() != audio.resolve():
+            raise RuntimeError('Refusing to overwrite ASR input alias')
+        raw = audit_dir/f'{stem}.comparison.json'
+        env = dict(os.environ, HF_HOME=QA_CACHE, HF_HUB_OFFLINE='1',
+                   HF_HUB_CACHE=QA_CACHE+'/hub', HUGGINGFACE_HUB_CACHE=QA_CACHE+'/hub')
+        log(f'chapter {number}: serialized Whisper output screening starting')
+        with (audit_dir/f'{stem}.log').open('a') as output:
+            result = subprocess.run([str(QA_PYTHON), str(QA_SCRIPT), str(source),
+                                     str(alias), '--output', str(raw)], env=env,
+                                    stdout=output, stderr=subprocess.STDOUT, timeout=2400)
+        if result.returncode not in (0, 2) or not raw.exists():
+            raise RuntimeError(f'Whisper verifier failed ({result.returncode}); inspect ASR log')
+        comparison = json.loads(raw.read_text())
+        if sha(source.read_bytes()) != binding['sourceSha256'] or sha(audio.read_bytes()) != binding['audioSha256']:
+            raise RuntimeError('ASR inputs changed during screening')
+        evidence.update(state='screened-review-pending', rawReport=str(raw),
+                        rawReportSha256=sha(raw.read_bytes()),
+                        orderedWordCoverage=comparison['orderedWordCoverage'],
+                        heuristicPass=comparison['pass'],
+                        suspiciousOmissions=len(comparison['suspiciousOmissions']),
+                        suspiciousAdditions=len(comparison['suspiciousAdditions']))
+    except Exception as error:
+        evidence.update(state='failed-needs-diagnosis', error=str(error))
+    save(marker, evidence)
+    log(f'chapter {number}: output screening {evidence["state"]}')
+    return True
+
+
+def audit_backlog():
+    for number in range(1, 49):
+        if audit_output(number):
             return True
     return False
 
@@ -253,6 +321,10 @@ def main():
             try:
                 log(f'chapter {number}: render/publish starting')
                 process(directory, number)
+                # Publish immediately; screen in the same serialized owner only
+                # after Breeze exits, then catch up one older chapter per unit.
+                audit_output(number)
+                audit_backlog()
                 # Revisit earliest ready chapters after every publication so
                 # revised opening pickups do not wait behind the entire book.
                 break
@@ -261,7 +333,10 @@ def main():
                 save(directory/'worker-error.json', {'error': str(error), 'time': dt.datetime.now(dt.timezone.utc).isoformat()})
                 time.sleep(60)
         if complete == 48:
-            log('all 48 chapter uploads complete; live/perceptual checks remain in supervising heartbeat')
+            if busy() or audit_backlog():
+                time.sleep(60)
+                continue
+            log('all 48 uploads and ASR screening attempts complete; live, flag triage and perceptual checks remain in supervising heartbeat')
             return
         time.sleep(60)
 

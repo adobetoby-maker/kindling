@@ -483,6 +483,36 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   QA tooling and schedule output coverage/order checks without simultaneous MLX
   models; do not claim full perceptual/owner listening or accent certification.
 
+## 2026-10-16 02:06 UTC — serialized output-ASR screening added
+
+- PWA1.18.50 LIVE; actual46/48 bytes match committed canonical source.325936
+  words. Source unchanged since final preparation snapshot; all48 ready.
+- Accepted-v2 bible compilation complete, committed1a06de0 (new .md/.json plus
+  review). Consolidates16units/48contexts, actual source hash/word checks and
+ 10229 paragraph records. No fresh full-manuscript/human listen claim.17 historical
+  dependency exceptions are explicitly retained:11 old acceptance digests and6
+  shared run/bible digests23/24/25. Current spoken inputs match canonical48;
+  legacy Qwen summaries remain historical, not canon. Do not rewrite old audits
+  to disguise drift. Use new accepted-v2 for future retakes/context.
+- Whisper model was absent from both current caches after safe inspection.
+  Downloaded only public local weights/config/tokenizer to Drive2 existing HF
+  cache (no API spend), revision624c19c9af5603fa73b83bce14d4aeea96156d18.
+  No model inference was started beside Breeze. Existing verifier is reused.
+- Worker now publishes candidate immediately, then starts serialized local
+  Whisper screening after its Breeze child exits, plus one older backlog chapter
+  per new unit. No second GPU worker; parent97481 restarted as88023 shell25041,
+  renderer2154 for12 preserved. No completed accepted take was redone.
+- ASR results bind exact published source/audio SHA256, use unique hash-named
+  aliases to avoid overwriting other books' transcripts, offline HF cache and
+ 2400s timeout. asr-audit.json reports screened-review-pending or diagnosed
+  failure; names/numbers/decoder flags NEVER trigger automatic rerender/unpublish.
+  Unchanged attempted inputs cached; supervisor controls retries and flag triage.
+  All48 upload completion still requires subsequent live/ASR/perceptual audit.
+- Syntax + mocked offline/binding/flag/cache tests pass. These were NOT actual
+  ASR results; first real screening will occur after12 publishes. Inspect its
+  asr/*.log and comparison report next heartbeat. Failed marker needs explicit
+  diagnosis/retry, not a silent pass. Complete human listening remains pending.
+
 ## 2026-10-16 01:02 UTC — all48 preparation validated and versioned
 
 - Endcap46/48 source recheck passed; explicit accepted hashes/authorship adopted.
