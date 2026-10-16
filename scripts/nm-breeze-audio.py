@@ -158,7 +158,7 @@ def publish(number, source, mp3, duration, report):
 def busy():
     for name in ['breeze_render_track.py', 'run_fractured.py', 'run_meridian.py',
                  'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
-                 'verify-local-tts.py']:
+                 'verify-local-tts.py', 'nm-breeze-triage.py']:
         if subprocess.run(['pgrep', '-f', name], capture_output=True).returncode == 0:
             return True
     return False
@@ -225,6 +225,37 @@ def audit_backlog():
     for number in range(1, 49):
         if audit_output(number):
             return True
+    return False
+
+
+def triage_backlog():
+    """One flagged chapter per safe gap; no automatic pickups or approvals."""
+    if busy():
+        return False
+    for number in range(1, 49):
+        directory = QUEUE/f'chapter-{number:02d}'
+        marker = directory/'asr-audit.json'
+        if not marker.exists():
+            continue
+        audit = json.loads(marker.read_text())
+        if audit.get('state') != 'screened-review-pending':
+            continue
+        binding = {k: audit[k] for k in ('sourceSha256', 'audioSha256')}
+        prior = directory/'asr-isolated-review.json'
+        if prior.exists() and all(json.loads(prior.read_text()).get(k) == v for k, v in binding.items()):
+            continue
+        env = dict(os.environ, HF_HOME=QA_CACHE, HF_HUB_OFFLINE='1',
+                   HF_HUB_CACHE=QA_CACHE+'/hub', HUGGINGFACE_HUB_CACHE=QA_CACHE+'/hub')
+        log(f'chapter {number}: serialized isolated ASR flag check starting')
+        try:
+            with (directory/'asr/isolated-screen.log').open('a') as output:
+                subprocess.run([str(QA_PYTHON), str(ROOT/'scripts/nm-breeze-triage.py'), str(number)],
+                               env=env, stdout=output, stderr=subprocess.STDOUT,
+                               timeout=1200, check=True)
+        except Exception as error:
+            save(prior, {**binding, 'state': 'failed-needs-diagnosis', 'error': str(error)})
+        log(f'chapter {number}: isolated ASR attempt complete; supervisor review pending')
+        return True
     return False
 
 
@@ -325,6 +356,7 @@ def main():
                 # after Breeze exits, then catch up one older chapter per unit.
                 audit_output(number)
                 audit_backlog()
+                triage_backlog()
                 # Revisit earliest ready chapters after every publication so
                 # revised opening pickups do not wait behind the entire book.
                 break
@@ -333,7 +365,7 @@ def main():
                 save(directory/'worker-error.json', {'error': str(error), 'time': dt.datetime.now(dt.timezone.utc).isoformat()})
                 time.sleep(60)
         if complete == 48:
-            if busy() or audit_backlog():
+            if busy() or audit_backlog() or triage_backlog():
                 time.sleep(60)
                 continue
             log('all 48 uploads and ASR screening attempts complete; live, flag triage and perceptual checks remain in supervising heartbeat')

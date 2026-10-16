@@ -567,3 +567,25 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   closure, resolve these flags with localized evidence, then targeted pickups only
   if confirmed, preserving accepted takes. Owner/perceptual listening pending.
 
+## 2026-10-16 05:03 UTC — chapter13 live; serialized localized checks wired
+
+- Chapters1–13 verified live.13 duration3258.78s/39106413bytes, SHA256
+  61d8bce50ab3dac685f7d63ef09fd6f788d83686138e8fd735ed56564ae708e3;
+  manifest source/audio match, full media200/hash pass, range206.
+-13 whole-output ASR97.95%,2omission/14addition flags;2 coverage95.61%,
+  10omission/7addition flags. No false pass. Several repeated/missing phrases
+  warrant isolated corroboration, not blanket dismissal as names or numbers.
+- Added scripts/nm-breeze-triage.py: rechecks only source-mapped flagged segment
+  WAVs using one loaded offline Whisper model, WITHOUT expected-text prompting.
+  Records exact transcript/differences, take hashes and source/audio/report binding;
+  never mutates audio/canon or authorizes pickups/owner approval automatically.
+- Worker now runs one localized flagged-chapter check after each publication's
+  normal full/backlog ASR, and drains remaining checks after48. Results at
+  breeze/chapter-NN/asr-isolated-review.json; failed attempts cached for diagnosis.
+  Syntax/count-guard/boundary mapping tests pass; ACTUAL localized inference has
+  not yet run. Inspect first result1 after14 next safe gap; then2,12,13 etc.
+- Restarted only supervisor88023→8214 (shell97998) to load this bounded QA change.
+  Existing chapter14 renderer88545 preserved and progressing. No second model or
+  accepted take rerender; new supervisor waits for it then reuses checkpoints.
+  Still48 accepted text chapters/325936words, all48 narration prepared; owner
+  and final perceptual/coverage/voice QA remain pending.
