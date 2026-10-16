@@ -636,3 +636,15 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   final coverage pass. Other homophone/name differences retained in raw evidence.
 - All48 accepted text chapters/325936words remain unchanged; prepared directions
   complete. Automatic per-chapter upload and serialized output checks continue.
+
+## 2026-10-16 14:05 UTC — chapter17 live; renderer18 healthy
+
+-17 now live verified: manifest/source/audio match, full media200/38126637bytes,
+  SHA2560f5d77d3f3b03dfa7724e3964c8de31cdd48e40a031dab6f601c1a3ca3074ed9,
+  3177.14s/range206.1–17 live listening candidates. Supervisor8214 and18
+  renderer86055 healthy; no intervention/duplicate model needed.
+-4 isolated13takes/10exact; Kellan/Kellyn, Pru/Prue spelling only; s026
+  want it/wandered remains uncertain. Recorded bounded disposition, preserve
+  takes pending contextual/perceptual corroboration. No full coverage approval.
+- Existing2/3 residuals remain open, especially2 medical W and3 s073 repetition,
+  ledger numerals/initials. Do not mark completed on upload or ASR alone.
