@@ -680,3 +680,13 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   residual s271 said Stroud absent, s037 floors/flaws, s051 in/and remain
   contextual/perceptual recheck items. Recorded triage, preserved raw evidence,
   no automatic pickup or final coverage approval. Other open residuals persist.
+
+## 2026-10-16 22:10 UTC — chapter21 live; serialized screening healthy
+
+-1–21 live listening candidates.21 manifest/source/audio verified, full media200,
+  35100045bytes/2924.91s, SHA256898081a05def94308efb5fc533d392a236a3bf7f6a9d4ddae8e0e03e07f02f28,
+  range206. One peak-flagged take archived/retried, not a whole-chapter rerender.
+- Supervisor8214 healthy;21 ASR done,10 backlog ASR63707 active at inspection.
+ 8 localized report not present YET because it follows10. No failure/duplicate
+  GPU. Let scheduled localized8 and subsequent22 render proceed; inspect8 next
+  heartbeat. Prior2–5/7 residuals still require corroboration before closure.
