@@ -152,3 +152,20 @@ author provenance retained. These current hashes supersede the historic rows:
 Both deltas0, total325940 unchanged. No clock/outcome/power change; source and
 word-locked preparation checks are not human feedback or audio listening approval.
 Separate46/48 findings remain under author/recheck and are not preaccepted here.
+
+### Endcap clarity addendum — 2026-10-16 01:00 UTC
+
+Opus5.5 job5b45fa0e minimally reconciled46's already-heard sister-account
+knowledge and48's officer tenure. Independent source/evidence/joins check passes
+in AUDIO-ENDCAP-46-48-RECHECK.md; exact prior sources and author provenance
+are frozen/retained. These supersede only the historical46/48 hashes:
+
+| Chapter | Current words | Current accepted SHA-256 |
+|---:|---:|---|
+| 46 | 7,117 | `a548da2293408fff6dcdd7d095eb7470dce7cbd474765444a342a557f40504c6` |
+| 48 | 6,429 | `0adc917ed84018fbf4e1bc2a010b846d8edaee1de2e178379bf01541d89a18fe` |
+
+Total325936 words (−4 in46, zero in48). No event, power, outcome, protected
+wording or reserved revelation changes. All48 now have source-current narration
+preparation after the bounded author/recheck loops. This confirms text suitability
+and preparation, not full rendered output coverage or human listening approval.

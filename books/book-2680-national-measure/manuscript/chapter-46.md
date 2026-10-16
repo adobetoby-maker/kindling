@@ -270,7 +270,7 @@ The boards were very quiet.
 
 She put both sheets in the black iron box and locked the three locks, one after another, and the boards let out their breath.
 
-Kiva stood by the trestle with her left hand in her coat and her right in her pocket. She had not known about the three accounts. Rhea had said *I've written it.* She had not known about the sister's book, or Kellan's sheet. She had thought, sitting on the dock floor with her lips moving, that she was counting by herself.
+Kiva stood by the trestle with her left hand in her coat and her right in her pocket. She had not known about the three accounts. Rhea had said *I've written it.* She had not known about Kellan's sheet. She had thought, sitting on the dock floor with her lips moving, that she was counting by herself.
 
 Beside her, Hart had taken his bad hand out of his jacket and was looking at it.
 

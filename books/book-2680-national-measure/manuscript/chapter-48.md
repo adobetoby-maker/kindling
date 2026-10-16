@@ -78,7 +78,7 @@ On Monday night in a cellar in the Tanyard, under her columns, below the slate's
 
 *The second called the far edge, once, before the bag. Not mine to keep.*
 
-It was true. It had been true since the Lane, when she had sat on the fourth tier with Pike and watched the girl lose an exchange on purpose and thought *mine* in her own head, and known it for what it was. She had been an officer for twenty years. She knew what it looked like when an officer started to keep a girl. It looked like a seat that was never quite offered, and a card that was always renewed, and a van that the girl could never quite leave, because there was always one more night. The officer was always good to her, and it was always kind. At the end of five years the girl was a very fine second to somebody else's catcher on somebody else's van, and nothing at all of her own.
+It was true. It had been true since the Lane, when she had sat on the fourth tier with Pike and watched the girl lose an exchange on purpose and thought *mine* in her own head, and known it for what it was. She had been an officer for eleven years. She knew what it looked like when an officer started to keep a girl. It looked like a seat that was never quite offered, and a card that was always renewed, and a van that the girl could never quite leave, because there was always one more night. The officer was always good to her, and it was always kind. At the end of five years the girl was a very fine second to somebody else's catcher on somebody else's van, and nothing at all of her own.
 
 Rhea had had a second like that once. Before Pike. She had been the second.
 
