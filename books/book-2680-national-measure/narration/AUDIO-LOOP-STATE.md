@@ -544,3 +544,26 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   points to verify-voice-identity.py, verify-speech-naturalness.py, mastering and
   pause tools. Need model-serialized ASR output audit/triage before final technical
   closure; names/substitutions are not automatic pickup orders. Listening pending.
+# 2026-10-16 03:03 UTC — chapter12 live; first output screens need localized recheck
+
+- Complete accepted text remains48 chapters/325936 words. No new author job needed.
+- Chapter12 live manifest matches current published source/audio; full media200,
+  37329165 bytes and SHA256 f59441d1df282226ff8430b85c94a3c39ec52e00d1128fae4da6573a8b0d5b44;
+  range206. Chapters1–12 are now verified live listening candidates.
+- Single worker88023 and renderer81230 (chapter13) healthy. Preserve both; no
+  duplicate GPU job, rerender or source change launched during this check.
+- First real serialized Whisper reports: chapter1 ordered coverage97.66%, four
+  omission flags/one addition; chapter12 97.78%, one omission/two additions.
+  These are NOT passes. Mapped all flagged source positions exactly to current
+  direction segments; direction token totals match each ASR source total.
+- Saved hash-bound breeze/chapter-{01,12}/asr-triage.json, state
+  localized-recheck-required-unconfirmed. Next safe serialized model slot must
+  inspect isolated WAVs (and necessary neighbors): ch1 s096/s097, s197/s198,
+  s210, s211/s212, s130; ch12 s154, s012, s102. Source and segment text are intact;
+  actual synthesis omissions/repetition versus long-form decoder error remains
+  UNRESOLVED. Do not dismiss substantial missing phrases as proper-name errors.
+  No automatic pickup, source rewrite, or unpublish based on ASR alone.
+- Remaining whole-output screenings continue in worker. Before final technical
+  closure, resolve these flags with localized evidence, then targeted pickups only
+  if confirmed, preserving accepted takes. Owner/perceptual listening pending.
+
