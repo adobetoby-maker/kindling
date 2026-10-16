@@ -659,3 +659,14 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   s222 it's/that's remains uncertain. Saved bounded triage; preserve takes and
   carry residual for contextual/perceptual evidence. Not final approval.
 - Remaining preparation/text unchanged; chapter-at-a-time publication continues.
+
+## 2026-10-16 18:11 UTC — chapter19 live; chapter6 flag set corroborated
+
+-1–19 live candidates.19 verified manifest/source/audio/full media200,
+  39794445bytes/3316.11s, SHA256350a7d978c2d15944f48a7fd51e7c7bcf0c4a2535452c750fb9ac6ee691d35a0,
+  range206.19 peak retry archived/replaced only1take. Supervisor8214 and
+  renderer65611 now20 healthy; no duplicate model or source change.
+-6 isolated ASR: all6 flagged takes EXACT normalized matches. Bounded flag
+  disposition records no pickup indicated; preserve takes and original flags.
+  Not a complete chapter perceptual/identity/listening approval. Other chapter
+  residuals remain open; per-chapter upload and serialized checks continue.
