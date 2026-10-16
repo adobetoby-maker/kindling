@@ -482,3 +482,35 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   distinction. Before final technical closure, inspect existing local Whisper
   QA tooling and schedule output coverage/order checks without simultaneous MLX
   models; do not claim full perceptual/owner listening or accent certification.
+
+## 2026-10-16 01:02 UTC — all48 preparation validated and versioned
+
+- Endcap46/48 source recheck passed; explicit accepted hashes/authorship adopted.
+  −4words in46, zero48; final current total325936. Source commitd648a62,
+  merged remote11 pointer and pushedmain7a1f8b4. PWA1.18.50 sw1226 commit7b2c2af
+  pushed after exact committed46/48 copy, typecheck/diffcheck pass. Verify live
+  46/48 next check.1.18.49 live44/45 bytes verified in prior check.
+- Ran all16 initialized harness units: ALL48 PASS, complete clarity coverage,
+  zero blockers. Independently checked all48 current direction/ready source
+  hashes and ordered spoken words. This is input/preparation, not output ASR.
+- Saved PRODUCTION-PREPARATION-SNAPSHOT.json and477 current text-only production
+  artifacts (21.79MB): prepared prose, paragraph reviews/feedback, sparse scores,
+  directions, contexts, unit bibles/run/explicit Breeze overrides and hash
+  inventory. Commit1ecd3b3 pushedsource main+branch. No WAV/MP3/cache included;
+  previous frozen narration editions remain local recoverable evidence.
+- Codex full-book bible consolidation shell98893 active: writes NEW accepted-v2
+  .md/.json and compilation review only, preserving provisional legacy bible and
+  all existing prepared-artifact hashes. It reads audited16unit/48chapter context
+  and current canon; no claim of fresh complete-manuscript or human listening.
+-11 live manifest/full media SHA256 verified, range206, duration3398.19s,
+  bytes40779405, sha7ff57432426e7f492cfdd5cd4cacf18dce1d29895a3c636b3f1f01b76b54210a.
+  Prior no-renderer observation was normal publication handoff, no repair needed.
+  Single renderer2154 now12; parent97481 healthy.
+- Existing output-ASR verifier found: /Users/drive/boundary-universe/scripts/
+  verify-local-tts.py using monroe-tts/venv MLX Whisper, timestamped long-form
+  and ordered text comparisons. Read fully; do not run beside active Breeze.
+  Default /Users/drive/.cache/huggingface/hub Whisper cache path absent: resolve
+  configured HF/cache/Drive2 path before any download. Existing QA adapter also
+  points to verify-voice-identity.py, verify-speech-naturalness.py, mastering and
+  pause tools. Need model-serialized ASR output audit/triage before final technical
+  closure; names/substitutions are not automatic pickup orders. Listening pending.
