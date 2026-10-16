@@ -457,3 +457,28 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Preserve all narration copies/direction/clarity records for pickups; consider
   a text-only committed snapshot of current production artifacts (no WAV/cache)
   after all48 preparation source hashes settle. Existing renders auto-publish.
+
+## 2026-10-16 00:05 UTC — all48 read for narration; two endcap checks remain
+
+-1.18.48 live37/40/41 verified exact canonical bytes.44/45 independent check
+  PASSED actual desk position and6:35 ward versus later gate seating. Adopted
+  superseding hashes/authorship, delta0, total325940; committed ef70216 and
+  source main pushed. PWA1.18.49 sw1225 copies only accepted44/45; typecheck
+  and diff check passed, deploy push in progress. Verify live next check.
+- Final46–48 director reviewed516 paragraphs:47 ready;46 already-heard sister
+  account denial,48 Rhea20 versus11 officer years blocked. Opus5b45fa0e verifies
+  ONLY46/48 against actual45 dialogue and tenure canon, can reject false flags
+  with evidence. Report AUDIO-ENDCAP-46-48-REPAIR.md. Fresh Codex recheck shell
+  90233 waits, then independent source/joins and only46/48 prep refresh with47
+  byte-exact. No premature acceptance of their moving source.
+- All48 have now been read in rolling three-chapter contexts, with paragraph
+  records/prepared words; final ready inventory awaits46/48 actual resolution.
+  Once settled, consolidate final performance bible from audited unit bibles,
+  accepted source/canon and explicitly preserve historic provisional16 bible.
+  Commit text-only production direction/markup snapshot; no WAV/cache binaries.
+- Single renderer75905 continues11, parent97481 healthy; live1–10 remain current.
+  Existing QA proves exact INPUT word sequence and full MP3 decode/hashes/peaks;
+  it does not prove ASR output coverage or human voice naturalness. Preserve this
+  distinction. Before final technical closure, inspect existing local Whisper
+  QA tooling and schedule output coverage/order checks without simultaneous MLX
+  models; do not claim full perceptual/owner listening or accent certification.
