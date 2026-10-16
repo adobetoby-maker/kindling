@@ -214,7 +214,7 @@ It opened down through her knees into the granite of the sill, into the stone sh
 
 Kiva knelt on the granite with her still door open and her hands on her knees and the cask standing on her.
 
-Ten paces inside the dock, at his desk under the lane mast, Noa looked at his pens.
+Ten paces off the chalk, at his desk under the lane mast, Noa looked at his pens.
 
 "*Cliff,*" he said. His thin reader's voice carried up the dock and out of the mouth to the basin wall as clearly as Dray's. "*Ember shut. Gap. Still open. A crossing, single, declared at six, by the captain's voice.*" He wrote. "*Eleven minutes past six and forty seconds. Read.*" He wrote again, and looked at the tape a moment longer. "*The notch at five.*"
 

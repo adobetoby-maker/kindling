@@ -135,3 +135,20 @@ Total325940 words (−3 from the previous addendum). Word-locked narration was
 separately refreshed/validated. This is source acceptance, not human feedback
 or audio listening approval.44/45 findings are still in a separate author/check
 loop; this addendum does not pre-accept those moving source files.
+
+### Location/clock addendum — 2026-10-16 00:04 UTC
+
+Opus5.5 job083ca522 made two located wording repairs: Noa's desk offset in44
+and the ward, rather than the not-yet-seated gate, visible in45's6:35 cutaway.
+Independent actual location/clock and both-join check passes in
+AUDIO-LOCATION-TIME-44-45-RECHECK.md. Exact pre-repair source is frozen and
+author provenance retained. These current hashes supersede the historic rows:
+
+| Chapter | Current words | Current accepted SHA-256 |
+|---:|---:|---|
+| 44 | 8,432 | `8932f4219685ddea9c0feee2d7b88b7b5bd43ef78aaa8d26b9f207dbdfa0c1cb` |
+| 45 | 7,327 | `07a7859be33cce8becfbd1fabe01ea709f03ad624ea5ff97855990ae75d92ffa` |
+
+Both deltas0, total325940 unchanged. No clock/outcome/power change; source and
+word-locked preparation checks are not human feedback or audio listening approval.
+Separate46/48 findings remain under author/recheck and are not preaccepted here.

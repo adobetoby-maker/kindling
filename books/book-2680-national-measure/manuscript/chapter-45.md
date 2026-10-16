@@ -340,7 +340,7 @@ He stopped. He looked at it.
 
 He had not meant to ask. It was not his to ask.
 
-The Proprietor looked across the basin. The flood was coming in over the mud, brown and quiet, past the seam and the first stake to the shut black gate of the Graving. Below the landing the six outfalls poured into it, each on its own count, every way at once.
+The Proprietor looked across the basin. The flood was coming in over the mud, brown and quiet, past the seam and the first stake to the grey ward across the Graving's mouth. Below the landing the six outfalls poured into it, each on its own count, every way at once.
 
 "Because I felt it go," he said. "Out of me. Across that water. And it was never mine." He was quiet. "Your figures said so on Friday, in front of the Board. Adlam's books said so. Forty-eight a minute in 2402 and fifty-seven today, and the foundation never laid a finger on it. I've known since Friday that it wasn't ours. I've known it in my head." He looked down at his left hand in his lap. "I didn't know it here until twenty-two minutes past six. The foundation found counting ash in 2391, Mr. Renn, the way a boy finds a coin in the road. We've been claiming the road ever since."
 

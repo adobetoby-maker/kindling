@@ -1156,3 +1156,9 @@ Opus5.5 job64f974d4 authored the bounded physical-continuity corrections40/41.
 Exact prior source, repair, independent Codex recheck and hash supersession
 are retained; cumulative total325940. No Codex manuscript prose or human/audio
 approval is implied. Separate44/45 findings are not accepted by this record.
+
+Opus5.5 job083ca522 subsequently corrected only44's desk offset and45's ward
+versus gate description. Independent Codex source/joins check passed; exact
+frozen source, provenance and superseding hashes are retained. Word deltas0,
+total325940. Separate46/48 findings are not accepted by this record. Codex
+orchestrated/checked and wrote no manuscript prose; listening remains pending.
