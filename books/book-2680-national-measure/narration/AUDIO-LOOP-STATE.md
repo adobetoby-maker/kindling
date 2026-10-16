@@ -607,3 +607,17 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Isolated reports2,12,13,14 etc will follow in safe serialized gaps. Supervisor
   must review remaining diffs, never equate numeric/name spelling with omission
   or dismiss substantive repeated/missing phrases without localized evidence.
+
+## 2026-10-16 09:02 UTC — chapter15 live; chapter2 residuals isolated
+
+-15 verified live manifest/source/audio match; full media200,43281261bytes,
+  SHA256 a2f1f85970a639f83761ebd2d6312d8dd92c4839fbb91f6d5c503a6d65767037,
+  3606.69s/range206.1–15 now live listening candidates. Supervisor8214 and
+  renderer56525 (16) healthy. No duplicate GPU or take changes this check.
+-2 localized ASR completed15takes/9exact. Large journal, book-gift and table
+  phrases missing in long-form report are intact locally. Recorded bounded
+  residuals in2/asr-triage.json: s146 medical W absent in both ASR views;
+  s229 There/It, s027 Like/Lock, s034 officers/offices, s167 plainer/Plena
+  require contextual/perceptual corroboration. No automatic pickup or dismissal.
+  Names/numeric spelling otherwise do not imply missing speech. Preserve all
+  takes. These residuals remain on final QA list, not silently marked passed.
