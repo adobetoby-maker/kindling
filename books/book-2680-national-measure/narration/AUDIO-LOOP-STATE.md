@@ -621,3 +621,18 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   require contextual/perceptual corroboration. No automatic pickup or dismissal.
   Names/numeric spelling otherwise do not imply missing speech. Preserve all
   takes. These residuals remain on final QA list, not silently marked passed.
+
+## 2026-10-16 11:05 UTC — chapter16 live; chapter3 localized residuals retained
+
+-1–16 live listening candidates.16 full media200/36464301bytes/3038.61s,
+  SHA25678874cd7605027806d83d90146ef7c4c31373fa1afbe9536ffad214a60d3a181,
+  manifest source/audio match and range206. Supervisor8214/render40979 now17.
+-3 isolated report22takes/9exact. Large long-form missing teaching and laundry
+  phrases present locally; DO NOT infer broad omissions. Recorded remaining
+  differences in3/asr-triage.json. Priority s073 repeated nothing-over-her phrase
+  in isolated view (long-form also flags this paragraph, but different additions),
+  s070 ledger initials/1.2/W/year2604, s158 P.F., s192 I've/I. Need contextual or
+  perceptual corroboration; no automatic rerender based on uncertain ASR and no
+  final coverage pass. Other homophone/name differences retained in raw evidence.
+- All48 accepted text chapters/325936words remain unchanged; prepared directions
+  complete. Automatic per-chapter upload and serialized output checks continue.

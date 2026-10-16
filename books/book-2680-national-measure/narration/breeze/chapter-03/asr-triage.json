@@ -1,0 +1,14 @@
+{
+  "state": "localized-residual-differences-unresolved",
+  "evidence": "asr-isolated-review.json",
+  "finding": "Twenty-two source-mapped takes checked; nine exact normalized matches. Large whole-chapter omissions, including stack teaching and later laundry dialogue, are present locally. Retain original reports. Orthographic homophones, initials, names and numeric spellings do not establish missing speech.",
+  "priorityResiduals": [
+    {"id": "s073", "finding": "Isolated transcript repeats 'There was nothing over her at all' and changes the transition. Whole-chapter decoder also reported additions in this paragraph, though not the identical repeated phrase. High-priority contextual/perceptual corroboration before deciding a bounded pickup."},
+    {"id": "s070", "finding": "Ledger initials, 1.2 sealed W, and year 2604 are garbled in ASR. Actual spoken numeric/initial clarity remains unresolved; do not accept whole-passage omission or automatically rewrite source."},
+    {"id": "s158", "finding": "P.F.'s heard as P.S./F absent; short initial requires corroboration."},
+    {"id": "s192", "finding": "I've/I residual; rest of dialogue locally present."}
+  ],
+  "otherResidualSegments": ["s056", "s057", "s058", "s181", "s182", "s187", "s190", "s193", "s163"],
+  "decision": "Preserve takes and keep residuals open for contextual/perceptual review. No automatic pickup, source rewrite, human-listening claim or full coverage approval.",
+  "ownerListening": "pending"
+}
