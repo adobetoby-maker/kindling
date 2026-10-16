@@ -670,3 +670,13 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   disposition records no pickup indicated; preserve takes and original flags.
   Not a complete chapter perceptual/identity/listening approval. Other chapter
   residuals remain open; per-chapter upload and serialized checks continue.
+
+## 2026-10-16 20:14 UTC — chapter20 live; chapter7 residuals retained
+
+-1–20 live candidates.20 manifest/source/audio/full media200 verified,
+  37233549bytes/3102.72s, SHA25607cae8fb52eb54c64f33428d2c6550f6afb7ffa269b5758d45c47cd98101b2c8,
+  range206. Supervisor8214/render10123 now21 healthy; no intervention needed.
+-7 isolated13takes/7exact. Orthographic in to/into, ten/10, tear's/tears;
+  residual s271 said Stroud absent, s037 floors/flaws, s051 in/and remain
+  contextual/perceptual recheck items. Recorded triage, preserved raw evidence,
+  no automatic pickup or final coverage approval. Other open residuals persist.
