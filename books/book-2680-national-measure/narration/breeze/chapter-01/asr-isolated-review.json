@@ -1,0 +1,93 @@
+{
+  "sourceSha256": "436fb3329cb8739768f35d6c449a5e4f31eebb60178b5a891e06921e7e2de410",
+  "audioSha256": "ed638da7dd9b1dc6845aefdb6d2911ebba5f291089fbe7f1b85c32a27daa9661",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "2c98b19ab927fd40fa3c6effdb6a2762b915ce6e0218276c5686789dfd581f21",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s096",
+      "wavSha256": "9922e7720f2589fbbb2e7d76623e403f3f8d598a20ddfa1f4f5d445090449ebf",
+      "expected": "Her aunt came to the sill. She looked down at her niece on the pavement, and then at the needle, and then at the road.",
+      "transcript": "Her aunt came to the sill. She looked down at her niece on the pavement, and then at the needle, and then at the road.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s097",
+      "wavSha256": "d7fab439650221aa552e1271b72c11fbebfc6033f21726015932a31adddbcabe",
+      "expected": "\"Count it for me.\"",
+      "transcript": "Count it for me.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s197",
+      "wavSha256": "5302b31626bab9b8992c0575ddaccbaa6cb07d677ae6aea73e82cfec3e8bf884",
+      "expected": "\"I sat in the front row of the Long Terrace and watched a second-year lift three-forty. He did it rather well. I clapped.\" Perrin looked at the jersey. \"I'm to lift nothing until the strapping's off. That's the twentieth of next month, and then it's a pail, and then two pails. I'm to stand no floor before the new year. I asked whether I might call off from a chair, and the healer said that he supposed nobody could stop me.\"",
+      "transcript": "I sat in the front row of the long terrace and watched a second year lift 340. He did it rather well. I clapped. Perrin looked at the jersey. I'm to lift nothing until the strapping's off. That's the 20th of next month, and then it's a pail, and then two pails. I'm to stand no floor before the new year. I asked whether I might call off from a chair, and the healer said that he supposed nobody could stop me.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "three forty",
+          "actual": "340"
+        },
+        {
+          "operation": "replace",
+          "expected": "twentieth",
+          "actual": "20th"
+        }
+      ]
+    },
+    {
+      "id": "s198",
+      "wavSha256": "767a79e1ea9923914c8655dc80f0149f625570c211c6eb4b4d5efed7de8bf2df",
+      "expected": "\"That's ten weeks.\"",
+      "transcript": "That's 10 weeks.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "ten",
+          "actual": "10"
+        }
+      ]
+    },
+    {
+      "id": "s210",
+      "wavSha256": "f9ea37184f97bf43f29e052e402d0048bee11eedc5692d06735bb23548e49603",
+      "expected": "\"It's in a box and you're holding it like a baby. I've a wall at six.\" She looked at the two of them, and at the jersey, and breathed out through her nose. \"Stand up. Arms forward. Not up. Kiva, the hem's yours; you've a right hand. I'll have the neck.\"",
+      "transcript": "It's in a box and you're holding it like a baby. I've a wall at six. She looked at the two of them and at the jersey and breathed out through her nose. Stand up. Arms forward. Not up. Kiva, the hem's yours. You've a right hand. I'll have the neck.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s211",
+      "wavSha256": "3f3b7195ab31e35d55bc2b758865f1c8a4c26cc55199f1fc4eb1f508bd9b6f9f",
+      "expected": "It took three of them, and it was not quick. Kiva hauled, and Anwen steered, and Perrin said that he was being very brave, in a voice that came out of a great deal of grey wool. Then his head came through, red, with the hair on end.",
+      "transcript": "It took three of them, and it was not quick. Kiva hauled, and Anwen steered, and Perrin said that he was being very brave, in a voice that came out of a great deal of grey wool. Then his head came through, red, with the hair on end.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s212",
+      "wavSha256": "d2163ef8c088bab74f09b4085ce471b2699502c9cdcf7a2942fed42823f01c99",
+      "expected": "He stood on the laundry step in it, under the lamp.",
+      "transcript": "He stood on the laundry step in it under the lamp.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s130",
+      "wavSha256": "a88abb2720ef16e3c0750aa5a86a12da42eedf39e55bd805bbeaa837c15f2c0d",
+      "expected": "\"Four. Five. Now.\" Her aunt opened her eyes. \"It's a five. It's a slow, lame five, with most of the push at the front of it.\"",
+      "transcript": "Four, five, now. Her aunt opened her eyes. It's a five. It's a slow, lame five with most of the push at the front of it.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

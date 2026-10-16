@@ -589,3 +589,21 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   accepted take rerender; new supervisor waits for it then reuses checkpoints.
   Still48 accepted text chapters/325936words, all48 narration prepared; owner
   and final perceptual/coverage/voice QA remain pending.
+
+## 2026-10-16 06:59 UTC — chapter14 live; first localized flags corroborated
+
+-14 live manifest/full media SHA256 verified,32052429bytes/2670.94s,
+  6fd1635695c6468637f37b2c845e59b6eb8374579650be3a3a4b15418c2f100d,
+  HTTP200/range206. Chapters1–14 now live listening candidates.
+-14 peak gate archived/retried only2 offending takes, then passed publication.
+  Existing supervisor8214 healthy; renderer60766 now15. Do not duplicate.
+- First actual isolated ASR1 succeeded: eight source-mapped takes transcribed.
+  Six exact normalized matches; s197/s198 differ ONLY numeric spelling
+  three-forty/340, twentieth/20th, ten/10. Missing aunt/count, healer/chair,
+  breathed-out, laundry-step phrases are present. Extra-five not reproduced.
+  Recorded bounded disposition in1/asr-triage.json: no pickup indicated for
+  these five long-form flags; preserve takes and original flags. This is NOT
+  whole-chapter human/perceptual/coverage approval. No audio/canon changed.
+- Isolated reports2,12,13,14 etc will follow in safe serialized gaps. Supervisor
+  must review remaining diffs, never equate numeric/name spelling with omission
+  or dismiss substantive repeated/missing phrases without localized evidence.
