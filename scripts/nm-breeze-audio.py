@@ -158,7 +158,7 @@ def publish(number, source, mp3, duration, report):
 def busy():
     for name in ['breeze_render_track.py', 'run_fractured.py', 'run_meridian.py',
                  'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
-                 'verify-local-tts.py', 'nm-breeze-triage.py']:
+                 'verify-local-tts.py', 'nm-breeze-triage.py', 'nm-breeze-diagnostic.py']:
         if subprocess.run(['pgrep', '-f', name], capture_output=True).returncode == 0:
             return True
     return False
@@ -336,6 +336,28 @@ def apply_reviewed_pickup(directory):
     return True
 
 
+def diagnostic_once():
+    directory = QUEUE/'diagnostic-short-and-ledger'
+    if not (directory/'request.json').exists() or (directory/'attempt.json').exists() or busy():
+        return False
+    save(directory/'attempt.json', {'state': 'running', 'ownerListening': 'pending'})
+    env = dict(os.environ, HF_HOME=QA_CACHE, HF_HUB_OFFLINE='1',
+               HF_HUB_CACHE=QA_CACHE+'/hub', HUGGINGFACE_HUB_CACHE=QA_CACHE+'/hub')
+    try:
+        with (directory/'diagnostic.log').open('a') as output:
+            script = str(ROOT/'scripts/nm-breeze-diagnostic.py')
+            # Separate processes release Breeze before Whisper is loaded.
+            for python, mode in ((PYTHON, 'render'), (QA_PYTHON, 'verify')):
+                mode_env = dict(os.environ, HF_HUB_OFFLINE='1') if mode == 'render' else env
+                subprocess.run([str(python),script,mode],env=mode_env,stdout=output,
+                               stderr=subprocess.STDOUT,timeout=1200,check=True)
+        save(directory/'attempt.json', {'state': 'review-pending', 'ownerListening': 'pending'})
+    except Exception as error:
+        save(directory/'attempt.json', {'state': 'failed-needs-diagnosis', 'error': str(error)})
+    log('bounded non-publishing diagnostic attempt complete; supervisor review pending')
+    return True
+
+
 def process(directory, number):
     source_path = BOOK / f'manuscript/chapter-{number:02d}.md'
     source = source_path.read_bytes()
@@ -452,6 +474,7 @@ def main():
                 audit_backlog()
                 triage_backlog()
                 context_backlog()
+                diagnostic_once()
                 # Revisit earliest ready chapters after every publication so
                 # revised opening pickups do not wait behind the entire book.
                 break
@@ -460,7 +483,7 @@ def main():
                 save(directory/'worker-error.json', {'error': str(error), 'time': dt.datetime.now(dt.timezone.utc).isoformat()})
                 time.sleep(60)
         if complete == 48:
-            if busy() or audit_backlog() or triage_backlog() or context_backlog():
+            if busy() or audit_backlog() or triage_backlog() or context_backlog() or diagnostic_once():
                 time.sleep(60)
                 continue
             log('all 48 uploads and ASR screening attempts complete; live, flag triage and perceptual checks remain in supervising heartbeat')

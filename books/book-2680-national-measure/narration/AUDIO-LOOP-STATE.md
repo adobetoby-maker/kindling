@@ -790,6 +790,31 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   requests remain queued.17 isolated residuals recorded (esp s011 added phrase).
 - No source changes, broad rerenders or human-listening claims. Owner QA pending.
 
+## 2026-10-17 19:36 UTC — chapter32/revised13 live; bounded input diagnosis
+
+-1–32 live candidates.32 full media200/51003117bytes/4250.17s,
+  SHA2563ba012db66da9b299e5504df7a0a1713f621cb01a68a910bcaccba7fbc201af4,
+  manifest/source/audio/range206. Revised13 full200/39025773bytes/3252.06s,
+  newSHA8772aebc6ad77e05b228cad6d832ec308b17996f5a397430fe82116c2e2d4717,
+  same checks pass. Publication is NOT complete coverage approval.
+-13 s100 repeat no longer reproduced, s245 still garbles decimals/repeats clause.
+  NO blind second retry.15 context also corroborates decimal errors/missing Rowan.
+ 9 three-word take still fails. Known issues retained, not declared fixed.
+- New non-publishing diagnostic queued: two clips ONLY,9 s253+s254 exact ordered
+  words as one thought-group;13 s245 explicit decimal/ordinal spelling in derived
+  audition, canon/prepared word-lock/production audio UNCHANGED. Same score,
+  model/voice/native speed, deterministic seed20261017. Separate render+ASR
+  processes release Breeze before Whisper. No expected-text transcription prompt,
+  auto-promotion/retry or paid API. Diagnostic output under
+  breeze/diagnostic-short-and-ledger; inspect attempt.json/review.json after33.
+- Syntax/source guard/ordered merge/numeric mapping tests PASS; actual inference
+  pending. Renderer uses normal offline Breeze cache, verifier uses Drive2 Whisper
+  cache (do not accidentally redirect Breeze to ASR-only cache).
+- Supervisor56080→68793 shell13598 restarted only to load bounded diagnostic;
+  chapter33 child57889 preserved. One shared GPU, no renderer interruption.
+-19 isolated19takes/10exact; small-word/possessive/numeric residuals recorded.
+  Overall48 accepted text chapters/325936words. Remaining owner/perceptual QA open.
+
 ## 2026-10-17 17:33 UTC — chapter31 live; nine short-take problem persists
 
 -1–31 live candidates;31 full media200/36286317bytes/3023.78s,
