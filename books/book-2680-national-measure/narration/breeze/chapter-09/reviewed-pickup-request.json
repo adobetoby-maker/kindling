@@ -1,0 +1,11 @@
+{
+  "reviewer": "Codex",
+  "decision": "one-bounded-pickup",
+  "sourceSha256": "4f951492d37d8f80f178789db2d5dd1a42b7ca120701da45b735a6d2a186788d",
+  "audioSha256": "eef1ff0aec301fb281241f7dd08d4dd611e196b8273cbde2402d23843ccdd55b",
+  "takes": [{"id": "s253", "wavSha256": "f165c62aefe6fdbd94fcf24858ccaeb5d34041443e29d0e7143345243fa5a87a"}],
+  "reason": "Supervisor compared source 'How: She stopped.' with isolated and immediate-neighbor ASR. Both independently decode an opaque multiword phrase in place of How, while preserving She stopped. One bounded new take is justified by concordant oral-clarity evidence, without claiming human listening. Neighbor-context tail hallucinations are NOT authority to replace adjacent takes. s103 added29 is not corroborated by context and is not a pickup target.",
+  "evidence": ["asr-isolated-review.json", "asr-context-review.json"],
+  "constraints": "Keep exact text, direction, reference, voice, model and native speed. Preserve old take/publication/evidence. Recheck replacement and joins. One attempt only for this old audio hash; no silent looping or source rewrite.",
+  "ownerListening": "pending"
+}

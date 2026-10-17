@@ -772,3 +772,20 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   Future context9/13/15 requests remain queued; no broad rerenders/source edits.
 -16 isolated7takes/4exact: works/work and M/Monsieur unresolved; numeric year,
   ordinals and sale/sail spelling alone not missing speech. Saved triage.
+
+## 2026-10-17 15:27 UTC — chapter30 and revised3 live; bounded9 pickup queued
+
+-1–30 live candidates verified.30 full media200/32042637bytes/2670.13s,
+  SHA256bdef23465e667d38e1357a1d337c30b32e31f9ab89b446f82264ad2719397b9d,
+  manifest/source/audio match/range206. Supervisor56080/render72076 now31 healthy.
+-3 one-take pickup completed, oldtake+QA+publication recoverably preserved.
+  Revised3 fullmedia200/28528749bytes/2377.3s, newSHAbba3506c830962233f469233c8e86c90f76cb4919842f39156a1971f80bf0150,
+  manifest/source match/range206. Both isolated+context no longer repeat s073;
+  and the/then residual remains, NO automatic further pickup or final approval.
+  Window-tail ASR gibberish unconfirmed, not authority to replace adjacent takes.
+-9 context s253 opaque phrase in place of How recurs in both views, with She
+  stopped intact. Reviewed ONE bounded same-text/voice/native-speed s253 pickup
+  queued, oldtake/publication preserved. No code restart needed; after31 safegap.
+  s103 added29 NOT reproduced with context, not a pickup target.13/15 context
+  requests remain queued.17 isolated residuals recorded (esp s011 added phrase).
+- No source changes, broad rerenders or human-listening claims. Owner QA pending.
