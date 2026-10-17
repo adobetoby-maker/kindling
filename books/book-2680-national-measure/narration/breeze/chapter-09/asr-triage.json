@@ -1,0 +1,14 @@
+{
+  "state": "localized-residual-differences-unresolved",
+  "evidence": "asr-isolated-review.json",
+  "finding": "Nineteen isolated takes checked; twelve exact normalized matches. Numeric/homophone/name spelling accounts for many differences, not all.",
+  "residuals": [
+    {"id": "s253", "expected": "How: She stopped.", "transcribed": "For poor Howie and Trubrid Saint. She stopped.", "decision": "HIGH PRIORITY short-take hallucination versus actual generated extra speech. Requires neighboring-context corroboration/perceptual evidence; not approved."},
+    {"id": "s103", "difference": "Inserted 29's before Then Old Four", "decision": "Contextual repetition/addition check; names and numeric spelling otherwise retained."},
+    {"id": "s021", "difference": "Orla/Aller", "decision": "Name/accent corroboration."},
+    {"id": "s080", "difference": "Healer Aske/Hila Ask, Wren House/Wrenhaus", "decision": "Name/title pronunciation corroboration."},
+    {"id": "s050", "difference": "nearer/Nira", "decision": "Accent/short-take decoding remains ambiguous."}
+  ],
+  "decision": "Preserve takes and raw flags. No final coverage/identity/listening approval, automatic pickup or canon rewrite. Resolve high-priority additions before technical closure.",
+  "ownerListening": "pending"
+}

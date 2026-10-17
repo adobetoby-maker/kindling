@@ -700,3 +700,16 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   Perrin absent (attribution check), s057 wharf/wolf, s194 I'd/what. Contextual
   or perceptual corroboration required, preserve original takes and raw flags.
   Not final coverage/voice/listening approval.10 full backlog report also ready.
+
+## 2026-10-17 00:18 UTC — chapter22 live; chapter9 priority residuals
+
+-1–22 live candidates.22 manifest/source/audio/full media200 verified,
+  31366989bytes/2613.82s, SHA2564f3c13a5af5a6aa14ac8321a3f1aee7d8d097dc23bc4093cb4ae6b9628ff160a,
+  range206. Peak gate archived/replaced1take only. Supervisor8214/render16473
+  now23 healthy. No extra GPU/source changes.
+-9 isolated19takes/12exact. Recorded unresolved s253 HIGH PRIORITY: expected
+  'How: She stopped.' vs 'For poor Howie and Trubrid Saint. She stopped.' Short
+  decoder hallucination vs actual synthesis addition needs contextual/perceptual
+  corroboration. Also s103 added29's, s021/s080 names/title, s050 nearer/Nira.
+  Preserve takes, no silent dismissal/approval; resolve before technical closure.
+-11 full backlog ASR also ready. Text remains accepted48/325936 words.
