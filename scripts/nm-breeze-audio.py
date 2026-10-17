@@ -291,6 +291,51 @@ def context_backlog():
     return False
 
 
+def apply_reviewed_pickup(directory):
+    """A bounded supervisor decision, never an automatic ASR repair."""
+    request = directory/'reviewed-pickup-request.json'
+    publication = directory/'published.json'
+    if not request.exists() or not publication.exists() or busy():
+        return False
+    wanted = json.loads(request.read_text())
+    published = json.loads(publication.read_text())
+    if any(wanted[k] != published[k] for k in ('sourceSha256', 'audioSha256')):
+        return False  # request applies only once to its exact old edition
+    if wanted.get('reviewer') != 'Codex' or wanted.get('decision') != 'one-bounded-pickup':
+        raise ValueError('Pickup lacks explicit supervisor disposition')
+    track = json.loads((directory/'direction.json').read_text())
+    if track['sourceSha256'] != wanted['sourceSha256']:
+        raise ValueError('Pickup source changed; preserve takes')
+    ids = {s['id'] for s in track['segments']}
+    takes = wanted['takes']
+    if not 0 < len(takes) <= 5 or len({t['id'] for t in takes}) != len(takes):
+        raise ValueError('Pickup request must be bounded and unique')
+    for take in takes:
+        if take['id'] not in ids or not re.fullmatch(r's[0-9]+', take['id']):
+            raise ValueError('Invalid requested take')
+        path = directory/'breeze-directed'/f"{take['id']}.wav"
+        if sha(path.read_bytes()) != take['wavSha256']:
+            raise ValueError('Pickup take differs from reviewed evidence')
+    held = directory/'held-takes'/('reviewed-'+sha(request.read_bytes())[:16])
+    held.mkdir(parents=True, exist_ok=False)
+    # Keep old public candidate accessible until new candidate is uploaded.
+    # Checkpoint removal is a recoverable move, never a destructive deletion.
+    save(held/'request.json', wanted)
+    for name in ('asr-audit.json', 'asr-isolated-review.json', 'asr-context-review.json',
+                 'asr-context-request.json', 'asr-triage.json'):
+        if (directory/name).exists():
+            save(held/name, json.loads((directory/name).read_text()))
+    for take in takes:
+        (directory/'breeze-directed'/f"{take['id']}.wav").rename(held/f"{take['id']}.wav")
+    publication.rename(held/'published.json')
+    save(directory/'reviewed-pickup-applied.json',
+         {'requestSha256': sha(request.read_bytes()), 'preservedAt': str(held),
+          'takes': takes, 'state': 'single-pickup-awaiting-render-and-review',
+          'ownerListening': 'pending'})
+    log(f'{directory.name}: applied reviewed pickup for {[t["id"] for t in takes]}; old takes/publication preserved')
+    return True
+
+
 def process(directory, number):
     source_path = BOOK / f'manuscript/chapter-{number:02d}.md'
     source = source_path.read_bytes()
@@ -361,6 +406,17 @@ def process(directory, number):
     save(directory/'technical-review.json', report)
     publish(number, source, mp3, duration, report)
     save(directory/'published.json', report)
+    pickup = directory/'reviewed-pickup-applied.json'
+    if pickup.exists():
+        applied = json.loads(pickup.read_text())
+        if applied.get('state') == 'single-pickup-awaiting-render-and-review':
+            save(directory/'asr-context-request.json', {
+                'sourceSha256': report['sourceSha256'], 'audioSha256': report['audioSha256'],
+                'segmentIds': [t['id'] for t in applied['takes']],
+                'reason': 'Replacement take and neighboring joins require contextual recheck',
+                'ownerListening': 'pending'})
+            applied.update(state='pickup-published-QA-pending', audioSha256=report['audioSha256'])
+            save(pickup, applied)
     log(f'chapter {number} published to PWA deployment queue ({duration/60:.1f} min)')
 
 
@@ -376,6 +432,12 @@ def main():
         complete = 0
         for number in range(1,49):
             directory = QUEUE/f'chapter-{number:02d}'
+            if (directory/'reviewed-pickup-request.json').exists() and not busy():
+                try:
+                    apply_reviewed_pickup(directory)
+                except Exception as error:
+                    log(f'chapter {number}: reviewed pickup held: {error}')
+                    save(directory/'pickup-error.json', {'error': str(error)})
             if (directory/'published.json').exists():
                 complete += 1
                 continue

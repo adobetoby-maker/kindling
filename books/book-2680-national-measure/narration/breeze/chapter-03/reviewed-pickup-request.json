@@ -1,0 +1,11 @@
+{
+  "reviewer": "Codex",
+  "decision": "one-bounded-pickup",
+  "sourceSha256": "c4120ba3ac84beeb780a5c4e5faecb3f965a1667d8de8d750e3195526e8ff632",
+  "audioSha256": "e02f0bbbbe989ee19e61c4fa8da6992a6f5b3f58c08516a831686a2aba4b8da5",
+  "takes": [{"id": "s073", "wavSha256": "15b5137e0c89f348b8989c282d6d359906ba82ba38a3a2286b4501deba904801"}],
+  "reason": "Supervisor review of actual source paragraph and surrounding prose: only one 'There was nothing over her at all' occurs. Both isolated and neighboring-context transcription reproduce two consecutive copies in the same preserved take. Strong corroboration supports one bounded stochastic pickup, not a source rewrite or broad rerender. Additional contextual tail hallucination is NOT authority to replace neighboring takes.",
+  "evidence": ["asr-isolated-review.json", "asr-context-review.json"],
+  "constraints": "Keep same source, text, direction, reference, engine and native speed. Preserve original take and public candidate until replacement publication. Recheck replacement and joins; no human/owner listening approval implied. Do not repeat this request on a changed audio hash.",
+  "ownerListening": "pending"
+}

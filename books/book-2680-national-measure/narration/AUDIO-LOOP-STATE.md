@@ -749,3 +749,26 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 - Restarted supervisor ONLY8214→14781 (shell19865), renderer47503 preserved;
   supervisor waits and reuses checkpoints. No duplicate GPU, source rewrite,
   whole-chapter rerender or new voice/model. Owner/perceptual review pending.
+
+## 2026-10-17 13:24 UTC — chapter29 live; one corroborated pickup queued
+
+-1–29 live candidates verified.29 full media200/32070573bytes/2672.47s,
+  SHA25608f31165218964a2f85100e178f071d981906e43f51daf001724dccdbe882a82,
+  manifest/source/audio match/range206.30 renderer19010 healthy.
+- Actual requested context3 succeeded. s073 isolated AND neighboring-context
+  transcripts both repeat 'There was nothing over her at all', against one copy
+  in actual source. Supervisor reviewed the bounded evidence and authorized ONE
+  replacement take s073, same text/direction/voice/native speed. Extra tail phrase
+  in contextual ASR is NOT authority to replace adjacent takes. No human listen.
+- Worker support for explicit reviewed-pickup-request.json validates exact old
+  source/audio/take SHA and max5 unique IDs, archives WAV/publication/QA evidence
+  recoverably, then reuses all other checkpoints. Old public candidate remains
+  accessible until replacement upload. One-shot binding prevents repeat retries.
+  New candidate gets fresh source/audio-bound ASR/isolated/context join request.
+  Replacement still needs coverage/perceptual/live/owner checks, not autoapproval.
+- Guard/preservation/single-application fixture tests PASS; no inference in tests.
+  Restarted supervisor14781→56080 shell21396, preserved30 child19010. Pickup3
+  waits for current render to finish; then earliest-missing logic prioritizes it.
+  Future context9/13/15 requests remain queued; no broad rerenders/source edits.
+-16 isolated7takes/4exact: works/work and M/Monsieur unresolved; numeric year,
+  ordinals and sale/sail spelling alone not missing speech. Saved triage.
