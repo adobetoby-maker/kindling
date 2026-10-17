@@ -815,6 +815,40 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 -19 isolated19takes/10exact; small-word/possessive/numeric residuals recorded.
   Overall48 accepted text chapters/325936words. Remaining owner/perceptual QA open.
 
+## 2026-10-17 22:43 UTC — chapter33 live; numeric frontend repair supported
+
+-1–33 live candidates verified.33 fullmedia200/45664461bytes/3805.29s,
+  SHAb978c225887468a0681d9812e24e0a2b5d5d3bd0057d51a53447d918c497821e,
+  manifest/source/audio/range206.34 child34160 preserved/progressing throughout.
+- Bounded diagnostic ACTUALLY completed. Merged9 still loses How/She: DO NOT
+  promote.13 spelled-number trial recovers all exact1.0,4.0,0.22,0.14,0.08,4.44
+  and full source clauses, no prior gibberish/repeated clause. Orthographic
+  digit/word/name differences explain raw exact-token false. Supervisor disposition
+  saved, NOT human listen/accent certification or autoapproval.
+- Enabled decimal-digits-v1 derived TTS frontend ONLY13/s245 and15/s253. Canon
+  manuscript, prepared prose and direction.text words remain EXACT/unchanged.
+  Separate numericRenderText deterministically expands decimal digits and12th;
+  arbitrary other wording/unknown protocol rejected by BOTH worker and renderer.
+  Explicit value maps, source hash, previous/current direction/prep hashes and
+  frozenGitCommit in NUMERIC-FRONTEND-AMENDMENT.json; prep addenda honest.
+  Old snapshot hashes superseded only at these two directions/prep addenda.
+- Same voice/model/reference/native speed, no stretching/global lexicon changes.
+  Shared renderer updated only for explicit opt-in numeric segments; versioned copy
+  scripts/production/breeze-render-track.numeric-v1.py matches runtime. No effect
+  on active34 (already loaded old code) or other tracks without numeric fields.
+- Two changed-input bounded pickup requests replace13 ledger245 and15 ledger253
+  after current34. These are NOT repeated blind same-input retries. Preserve old
+  take/publication; fresh source/audio-bound ASR/context/live/owner checks required.
+  New report/manifest carries numericFrontend protocol/segment/runtime hash note.
+- Renderer+worker expansion equivalence, canonical ordered word lock, added-word
+  rejection and syntax tests PASS. No test inference or paid API. Main numeric
+  repairs NOT rendered yet. Inspect after34 for13 then15 (earliest-ready priority).
+- Supervisor restarted68793→94061 then final reload for publication metadata;
+  current PID/session in latest worker-start pipeline.log.34 renderer34160 never
+  interrupted; one shared GPU.20 isolated7takes/4exact residuals retained.
+-9 short-take issue remains open; next bounded hypothesis is notebook-label colon
+  and missing preceding context, not more random takes. No Finished/owner claims.
+
 ## 2026-10-17 17:33 UTC — chapter31 live; nine short-take problem persists
 
 -1–31 live candidates;31 full media200/36286317bytes/3023.78s,

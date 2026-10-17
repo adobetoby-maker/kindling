@@ -1,0 +1,15 @@
+{
+  "reviewer": "Codex",
+  "state": "numeric-input-fix-supported-short-group-not-promoted",
+  "ledger": {
+    "finding": "Derived spoken-number trial restores exact values 1.0,4.0,0.22,0.14,0.08,4.44 plus all surrounding source clauses, with no old gibberish/repeated clause. Raw exact-token flag is false because Whisper writes digits while expected derived input spells them. Other discrepancies are Board's/boards,Pryce/Price,Talley/Tally and existing number-word/digit orthography.",
+    "decision": "Support bounded deterministic TTS numeric frontend for only13/s245 and15/s253; record mappings and validate values. Not a canon or prepared-word rewrite, not global lexicon approval or human listening. New chapter candidates still require source/audio-bound QA/live checks."
+  },
+  "shortGroup": {
+    "finding": "s253+s254 exact-word trial loses How and substitutes He for She. Not fixed.",
+    "decision": "Do not promote. Further bounded punctuation/heading-context experiment needed, not another random replacement. Keep coverage issue open."
+  },
+  "ownerListening": "pending",
+  "productionVoiceChanged": false,
+  "waveformTimeStretching": false
+}

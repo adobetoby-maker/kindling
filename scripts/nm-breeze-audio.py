@@ -54,6 +54,24 @@ def words(text):
     return re.findall(r"[^\W_]+(?:'[^\W_]+)*", text.lower().replace('’', "'"))
 
 
+def validate_numeric_frontend(segment):
+    protocol = segment.get('numericPronunciation')
+    if not protocol:
+        if segment.get('numericRenderText'):
+            raise ValueError('Numeric render copy lacks protocol')
+        return False
+    if protocol != 'decimal-digits-v1':
+        raise ValueError('Unknown numeric pronunciation protocol')
+    digits = ['zero','one','two','three','four','five','six','seven','eight','nine']
+    def spell(match):
+        raw = match.group()
+        return 'twelfth' if raw == '12th' else ' '.join('point' if c == '.' else digits[int(c)] for c in raw)
+    expected = re.sub(r'\b12th\b|\b[0-9]+\.[0-9]+\b', spell, segment['text'])
+    if segment.get('numericRenderText') != expected:
+        raise ValueError('Numeric frontend differs from exact deterministic expansion')
+    return True
+
+
 def api(method, endpoint, payload=None):
     cmd = ['gh', 'api', '--method', method, endpoint]
     if payload is not None:
@@ -119,6 +137,10 @@ def publish(number, source, mp3, duration, report):
         'sha256': sha(audio), 'sourceSha256': sha(source),
         'note': 'Local Breeze listening candidate. Codex clarity/direction; word-lock and technical decode checks passed. Source and audio hashes recorded. Full perceptual QA and owner listening pending. No waveform time stretching.',
     }
+    if report.get('numericFrontEnd'):
+        render['numericFrontEnd'] = report['numericFrontEnd']
+        render['methodId'] += '-numeric-v1'
+        render['note'] += ' Deterministic decimal-pronunciation frontend on recorded segments; canonical/prepared words unchanged. Derived render input and values validated; output coverage and owner listening still pending.'
     path = 'public/audio/kindling-manifest.json'
     title = source.decode().splitlines()[0].lstrip('# ').strip()
     for attempt in range(6):
@@ -367,6 +389,7 @@ def process(directory, number):
     if track.get('director') != 'Codex':
         raise RuntimeError('Codex reading/direction provenance missing')
     segments = track['segments']
+    numeric_ids = [s['id'] for s in segments if validate_numeric_frontend(s)]
     if words(source.decode()) != words(' '.join(s['text'] for s in segments)):
         raise RuntimeError(f'chapter {number}: spoken word sequence differs from canonical source')
     preparation = json.loads((directory/'preparation-review.json').read_text())
@@ -425,6 +448,12 @@ def process(directory, number):
               'wordsPerMinute': round(len(words(source.decode()))/duration*60, 2),
               'maxSegmentPeak': peak, 'fadeMs': 5, 'wordLock': 'passed',
               'decode': 'passed', 'ownerListening': 'pending', 'perceptualReview': 'pending'}
+    if numeric_ids:
+        report['numericFrontEnd'] = {'protocol': 'decimal-digits-v1', 'segments': numeric_ids,
+                                    'canonicalTextUnchanged': True,
+                                    'rendererScriptSha256': sha(RENDER.read_bytes()),
+                                    'derivedInputValidation': 'deterministic-decimal-and-12th-expansion-passed',
+                                    'ownerListening': 'pending'}
     save(directory/'technical-review.json', report)
     publish(number, source, mp3, duration, report)
     save(directory/'published.json', report)

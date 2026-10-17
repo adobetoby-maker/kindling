@@ -1,0 +1,94 @@
+{
+  "state": "diagnostic-review-pending",
+  "published": false,
+  "ownerListening": "pending",
+  "reports": [
+    {
+      "name": "short-merged",
+      "wavSha256": "aa1ac426ac96ae138ca1b1ff34c1b7a38abe316f3fe4161d93c2fc9d04f3649d",
+      "durationSec": 15.52,
+      "peak": 0.840901255607605,
+      "nativeSpeed": true,
+      "model": "mlx-community/Breeze-TTS-2-mlx-8bit",
+      "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+      "transcript": "He stopped. She knew how. It was the thing that Coombe had made them do. A count allowed and a cut on the and. And somebody kept free to keep the count. She could write that. She could not write who.",
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "how she",
+          "actual": "he"
+        },
+        {
+          "operation": "replace",
+          "expected": "aloud",
+          "actual": "allowed"
+        }
+      ],
+      "normalizedExactMatch": false
+    },
+    {
+      "name": "ledger-spelled",
+      "wavSha256": "8e7240eb328a9cbdba5e5a57826c1acd388e17b2b5099d64e701ae1798407258",
+      "durationSec": 48.16,
+      "peak": 0.7341364026069641,
+      "nativeSpeed": true,
+      "model": "mlx-community/Breeze-TTS-2-mlx-8bit",
+      "referenceSha256": "f43f94e3e6c64d5b9ee8c36c317baf7f7d8b9efa6b393ac6a4a80444fedcb44e",
+      "transcript": "Thursday the twelfth, the pit, the marshal's floor. Four heads at 1.0, 4.0, to the board. A flask, a string of three on end with a skin and a lodger. Three bags, the boards. Price, a wall and a walk and a cord, 0.22. Tally, three cuts and a lodger, 0.14. Cade, two stances, 0.08. Rowan, two stances and a stand off her own thimble. Spent, 4.44. Licensed, in our own right. One remark, he did it twice in the margin. Held, 3 and 24. That's from 7 and 68.",
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "one point zero four point zero",
+          "actual": "1 0 4 0"
+        },
+        {
+          "operation": "replace",
+          "expected": "board's pryce",
+          "actual": "boards price"
+        },
+        {
+          "operation": "replace",
+          "expected": "zero point two two talley",
+          "actual": "0 22 tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "zero point one four",
+          "actual": "0 14"
+        },
+        {
+          "operation": "replace",
+          "expected": "zero point zero eight",
+          "actual": "0 08"
+        },
+        {
+          "operation": "replace",
+          "expected": "four point four four",
+          "actual": "4 44"
+        },
+        {
+          "operation": "replace",
+          "expected": "three",
+          "actual": "3"
+        },
+        {
+          "operation": "replace",
+          "expected": "twenty four",
+          "actual": "24"
+        },
+        {
+          "operation": "replace",
+          "expected": "seven",
+          "actual": "7"
+        },
+        {
+          "operation": "replace",
+          "expected": "sixty eight",
+          "actual": "68"
+        }
+      ],
+      "normalizedExactMatch": false
+    }
+  ],
+  "note": "No production/canon change. Numeric input is a deliberate derived pronunciation audition, not the original word lock. Supervisor review required; ASR is not human listening."
+}

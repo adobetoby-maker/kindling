@@ -2,13 +2,47 @@
   "reviewer": "Codex",
   "decision": "one-bounded-pickup",
   "sourceSha256": "c3834e03c8298e4ac8cc5552c0abc3022eba896d60c50e868c1ccd19f930ca31",
-  "audioSha256": "61d8bce50ab3dac685f7d63ef09fd6f788d83686138e8fd735ed56564ae708e3",
+  "audioSha256": "8772aebc6ad77e05b228cad6d832ec308b17996f5a397430fe82116c2e2d4717",
   "takes": [
-    {"id": "s100", "wavSha256": "d08886e3cfddb121b0f924d43ebfc91a6d3c12b34dcf03fc641891bb5e7b6ea5"},
-    {"id": "s245", "wavSha256": "9ca0d019c2952eb99689253984b4b2158d813e2dfd36e10730732b8f41dfea1e"}
+    {
+      "id": "s245",
+      "wavSha256": "518c2ab91592ee99bd1503f4e7879b41f3fdeb513deeb0a54b3f4d37b0e35b0f"
+    }
   ],
-  "reason": "Supervisor compared actual directed text with isolated and immediate-neighbor transcriptions. s100 repeats a complete kneeling/hauling sentence in both; s245 consistently garbles ledger values and repeats a clause. One bounded same-input replacement justified by concordant oral-clarity evidence, not an automatic ASR rule or human listen. s089 repetition is NOT reproduced in context and is not targeted.",
-  "evidence": ["asr-isolated-review.json", "asr-context-review.json"],
-  "constraints": "Same words, score, reference, voice, engine/native speed. Preserve originals and old candidate. Recheck replacements and joins; no automatic second retry or numeric/source rewriting. If ledger remains garbled, isolate a frontend/segmentation test rather than repeat random takes.",
+  "reason": "Deterministic decimal pronunciation frontend demonstrated clear exact ledger values in diagnostic. This is a changed-input bounded repair, NOT another blind same-input retry. Keep source, score words, reference, voice, native speed; renderer validates derived numeric copy exactly.",
+  "evidence": [
+    "asr-context-review.json",
+    "../diagnostic-short-and-ledger/review.json"
+  ],
+  "numericMappings": [
+    {
+      "written": "12th",
+      "spoken": "twelfth"
+    },
+    {
+      "written": "1.0",
+      "spoken": "one point zero"
+    },
+    {
+      "written": "4.0",
+      "spoken": "four point zero"
+    },
+    {
+      "written": "0.22",
+      "spoken": "zero point two two"
+    },
+    {
+      "written": "0.14",
+      "spoken": "zero point one four"
+    },
+    {
+      "written": "0.08",
+      "spoken": "zero point zero eight"
+    },
+    {
+      "written": "4.44",
+      "spoken": "four point four four"
+    }
+  ],
   "ownerListening": "pending"
 }
