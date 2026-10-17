@@ -1,0 +1,110 @@
+{
+  "sourceSha256": "4a4aba68311d38d78c443740d506c1a6303f9144a098da4bf1130d24460aadf9",
+  "audioSha256": "2e9fd38848bf100fb3ca5fdf356e6b152f7b80f768978f2cb10f04dfcaca30df",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "1a6d1ccc4e50719ff80ae9824c8f1dfa8f2c3739f06662cd8f44beb2c75e5ae4",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s132",
+      "takeBindings": [
+        {
+          "id": "s132",
+          "sha256": "58270242d8c000793d0e02cffedbff7d3f20bdb2811a08c96858f93eb7909bf6"
+        }
+      ],
+      "wavSha256": "58270242d8c000793d0e02cffedbff7d3f20bdb2811a08c96858f93eb7909bf6",
+      "expected": "\"I thought so. You were watching her and not me. Nobody watches Treen.\" Carrow glanced back up the pen, to where her catcher stood with her sleeves rolled up, coiling a cord. \"She'll be pleased. She likes to be noticed. She'll not say so.\"",
+      "transcript": "I thought so. You were watching her, not me. Nobody watches Treem. Caro glanced back up the pen to where her catcher stood with her sleeves rolled up, calling a cord. She'll be pleased. She likes to be noticed. She'll not say so.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "delete",
+          "expected": "and",
+          "actual": ""
+        },
+        {
+          "operation": "replace",
+          "expected": "treen carrow",
+          "actual": "treem caro"
+        },
+        {
+          "operation": "replace",
+          "expected": "coiling",
+          "actual": "calling"
+        }
+      ]
+    },
+    {
+      "id": "s051",
+      "takeBindings": [
+        {
+          "id": "s051",
+          "sha256": "51ed9c16bd9ac565dc6aa639f711f0c6ac329ba901039e464852b2ca14b7c709"
+        }
+      ],
+      "wavSha256": "51ed9c16bd9ac565dc6aa639f711f0c6ac329ba901039e464852b2ca14b7c709",
+      "expected": "\"I couldn't move it,\" she said. \"I couldn't move it an inch.\"",
+      "transcript": "I couldn't move it, she said. I couldn't move it an inch.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s106",
+      "takeBindings": [
+        {
+          "id": "s106",
+          "sha256": "394f1d61553ea4963c7a5e0cf622b60060da58c2afbe3f15e76cb8cb6e94f807"
+        }
+      ],
+      "wavSha256": "394f1d61553ea4963c7a5e0cf622b60060da58c2afbe3f15e76cb8cb6e94f807",
+      "expected": "\"Down,\" said the marshal. \"Ropewalk.\"",
+      "transcript": "Down, said the marshal. Rope walk.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "ropewalk",
+          "actual": "rope walk"
+        }
+      ]
+    },
+    {
+      "id": "s109",
+      "takeBindings": [
+        {
+          "id": "s109",
+          "sha256": "8a16dc9327ae0449f181d826eea5d9c9da3e4a154365a38d00ec137bdbb23519"
+        }
+      ],
+      "wavSha256": "8a16dc9327ae0449f181d826eea5d9c9da3e4a154365a38d00ec137bdbb23519",
+      "expected": "Perrin and Anwen had the Commodore moving. They walked him past Lyle, kneeling, along the north wall, five paces from Seven's hurdle, four. Kiva was at the hurdle with her door open on it, holding it planted. Jude was coming back for the foot poles. It was going to go over.",
+      "transcript": "Perrin and Anwen had the Commodore moving. They walked him past Lyle, kneeling along the north wall, five paces from Seven's hurdle, four. Kiva was at the hurdle, with her door open on it, holding it planted. Jude was coming back for the footpoles. It was going to go over.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "foot poles",
+          "actual": "footpoles"
+        }
+      ]
+    },
+    {
+      "id": "s147",
+      "takeBindings": [
+        {
+          "id": "s147",
+          "sha256": "4f03ab04def712211a9a02acf3f68b8910cf5659ea560fa0e7744acc7d22894f"
+        }
+      ],
+      "wavSha256": "4f03ab04def712211a9a02acf3f68b8910cf5659ea560fa0e7744acc7d22894f",
+      "expected": "\"No.\"",
+      "transcript": "No.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

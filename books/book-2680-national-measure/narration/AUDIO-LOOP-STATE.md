@@ -789,3 +789,25 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   s103 added29 NOT reproduced with context, not a pickup target.13/15 context
   requests remain queued.17 isolated residuals recorded (esp s011 added phrase).
 - No source changes, broad rerenders or human-listening claims. Owner QA pending.
+
+## 2026-10-17 17:33 UTC — chapter31 live; nine short-take problem persists
+
+-1–31 live candidates;31 full media200/36286317bytes/3023.78s,
+  SHA256f8b8e522f97b41bac892380cf187b73239aa92127c79aaf31770b97b465599ae,
+  manifest/source/audio/range206.56080/render61890 now32 healthy.
+-9 one-take retry published/live verified,c0527dcffcd34085bc37f6b71c6f3176369363b82885ea7f2c53aa9050ac0eb2,
+  46426509bytes/3868.78s, full200/range206. BUT new contextual ASR garbles
+  all three expected words. NOT FIXED/coverage-approved. No blind second retry.
+  Need bounded short-input/chunking audition, preferably combine s253 with its
+  following complete thought for model input, preserving all ordered canon words,
+  before another production replacement. Do not infer source rewrite needed.
+- Inspected installed Breeze generate signature: text/voice/instruct/ref_audio/
+  ref_text/cfg/temperature/top_p/top_k/repetition_penalty/seed/split_pattern;
+  NO explicit language parameter. Current renderer passes exact text with long
+  instruction, no numeric normalization beyond approved Milo/Wyck lexicon.
+  Short9take3.44s;13ledger53.92s;15ledger69.04s. These are not listened evidence.
+-13 contextual s100 repeats full sentence and s245 garbles same ledger values
+  in both views. Reviewed bounded two-take pickup queued, same score/voice/text,
+  archived originals, no autoloop. s089 repeat NOT corroborated, not targeted.
+-18 isolated5takes/2exact; s132 and/coiling/Treen Carrow residual retained.
+  Context15 still queued. Existing2–18 residuals persist; no final QA/human claims.

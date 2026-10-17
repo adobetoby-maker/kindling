@@ -1,9 +1,9 @@
 {
   "sourceSha256": "4f951492d37d8f80f178789db2d5dd1a42b7ca120701da45b735a6d2a186788d",
-  "audioSha256": "eef1ff0aec301fb281241f7dd08d4dd611e196b8273cbde2402d23843ccdd55b",
+  "audioSha256": "c0527dcffcd34085bc37f6b71c6f3176369363b82885ea7f2c53aa9050ac0eb2",
   "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
   "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
-  "rawReportSha256": "aad83ec7f246f208f57633ee8cc5587fffce8360442a95c5794644693db6fbbc",
+  "rawReportSha256": "b50a7f427095f0ae2c72ab6158128749fced4b0c42f7c59320af0a8e1f0dbeb6",
   "state": "context-screened-review-pending",
   "segments": [
     {
@@ -15,16 +15,16 @@
         },
         {
           "id": "s253",
-          "sha256": "f165c62aefe6fdbd94fcf24858ccaeb5d34041443e29d0e7143345243fa5a87a"
+          "sha256": "baf37c0b7f0d8c3e3e7cc73d2e71472e9459ddc5d592f7e8f6e00389f3f2e618"
         },
         {
           "id": "s254",
           "sha256": "aa06b70d0e51cf6bdb48a36b05ebafbf0e3c026deea28fc1b7eea63f6f5eaf37"
         }
       ],
-      "wavSha256": "a545c2c42fc23fc1d60cfba7d7b1eee8c7db1dffcd7030b234025995de0edd57",
+      "wavSha256": "84bf904bbccf850b868c6034477f1272597f194ce2f2fcbefdc57d25e6cb3054",
       "expected": "\"Then I'll write that you said so.\" She did. C.: the fourth is lighter. Not checked. How: She stopped. She knew how. It was the thing that Coombe had made them do: a count aloud, and a cut on the and, and somebody kept free to keep the count. She could write that. She could not write who.",
-      "transcript": "Then I'll write that you said so. She did. See, the fourth is lighter, not checked. Pupor, howeentrubrit saint. She stopped. She knew how. It was the thing that Coombe had made them do. A count allowed and a cut on the and, and somebody kept free to keep the count. She could write that. She could not write who. We did.  have a proper Didn göndong Quar pelos Kryst caps accommodations   in which she met their wen. The gib",
+      "transcript": "Then I'll write that you said so. She did. See, the fourth is lighter, not checked. If with teen hundred and fifty. She knew how. It was the thing that Coombe had made them do. A count allowed and a cut on the and. And somebody kept free to keep the count. She could write that. She could not write who.",
       "normalizedExactMatch": false,
       "changes": [
         {
@@ -34,91 +34,18 @@
         },
         {
           "operation": "replace",
-          "expected": "how",
-          "actual": "pupor howeentrubrit saint"
+          "expected": "how she stopped",
+          "actual": "if with teen hundred and fifty"
         },
         {
           "operation": "replace",
           "expected": "aloud",
           "actual": "allowed"
-        },
-        {
-          "operation": "insert",
-          "expected": "",
-          "actual": "we did have a proper didn g ndong quar pelos kryst caps accommodations in which she met their wen the gib"
-        }
-      ]
-    },
-    {
-      "id": "s103",
-      "takeBindings": [
-        {
-          "id": "s102",
-          "sha256": "f26309add8cee59efea6e5ae203e7f386ed644808ba3c1f32ae06675fc7806f0"
-        },
-        {
-          "id": "s103",
-          "sha256": "e15e8e283d1873c70c37fc7bd373d3cc278cde5ff838fd867e2482256aca51f0"
-        },
-        {
-          "id": "s104",
-          "sha256": "2e67ff82c1b1a505675eb7ecda2c270946e9a941149d9445927a13a98e6dbd16"
-        }
-      ],
-      "wavSha256": "5f420f9e9ba8bd02cab5cd8bb1f20a06e52b8fdfb2ffc13e247f2491d4f8893f",
-      "expected": "\"Fours,\" said the Hunt Marshal again. \"I'll not ask a third time.\" It was Wilf Marten who went first, because he had a chair to push and was used to being first. Twenty-Eight's captain declared his four by role and by door. Selka Dray was in it, on two sticks, standing; she was the blade, and she declared her own door herself before Marten could, and he let her. Then Old Four, in Lowen Brask's flat voice, though Brask was not its captain and said so. Then Halden License, by Pettit, who was. Blade: Renn, K. Ember.",
-      "transcript": "Falls, said the hunt marshal again. I'll not ask a third time. It was Wilf Martin who went first, because he had a chair to push and was used to being first. 28's captain declared his four by roll and by door. Selka Dre was in it, on two sticks, standing. She was the blade, and she declared her own door herself before Martin could, and he let her. Then old four, in low and brask's flat voice, though brask was not its captain and said so. Then hauled in license by Pettit, who was. Blade, Wren, Kay, Ember.",
-      "normalizedExactMatch": false,
-      "changes": [
-        {
-          "operation": "replace",
-          "expected": "fours",
-          "actual": "falls"
-        },
-        {
-          "operation": "replace",
-          "expected": "marten",
-          "actual": "martin"
-        },
-        {
-          "operation": "replace",
-          "expected": "twenty eight's",
-          "actual": "28's"
-        },
-        {
-          "operation": "replace",
-          "expected": "role",
-          "actual": "roll"
-        },
-        {
-          "operation": "replace",
-          "expected": "dray",
-          "actual": "dre"
-        },
-        {
-          "operation": "replace",
-          "expected": "marten",
-          "actual": "martin"
-        },
-        {
-          "operation": "replace",
-          "expected": "lowen",
-          "actual": "low and"
-        },
-        {
-          "operation": "replace",
-          "expected": "halden",
-          "actual": "hauled in"
-        },
-        {
-          "operation": "replace",
-          "expected": "renn k",
-          "actual": "wren kay"
         }
       ]
     }
   ],
   "ownerListening": "pending",
   "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
-  "requestSha256": "2cb6f3cfcba34ff9140016fa024951e0cf7448857c77298bfee249209e03a40c"
+  "requestSha256": "3dcb74f27992ce1f7b90a9a0cab3ebb6f2b94d035de8068b3194f8d4d52eed35"
 }
