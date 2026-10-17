@@ -1,0 +1,75 @@
+{
+  "sourceSha256": "c1a2d19ca47b486dea958e288e095b10a5a038aa7d5c86ddf8d81544ee7c19eb",
+  "audioSha256": "11c61038f8d83ccbcf5dc56bad2cdf2d37b950911d13bc0706ee1e743d914178",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "c05bbfeb9f27ab018106530d79f322ba14e99a262a34d715374d50b6783f5754",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s053",
+      "wavSha256": "58b7c0bcd73ddda73dd2828f0a070cc0b217291aa325e49f71e758a580f3059e",
+      "expected": "\"I'm not here,\" he said.",
+      "transcript": "I'm not here, he said.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s213",
+      "wavSha256": "8338aee8c4abfa40aded9f1e72a331b582829d6dfae362b49d84e157b2e500c0",
+      "expected": "\"I know. You called it today.\"",
+      "transcript": "I know. You called her today.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "it",
+          "actual": "her"
+        }
+      ]
+    },
+    {
+      "id": "s214",
+      "wavSha256": "9b3d390233dda29ec3569dc0dc3087ddf24a47b43afccac3379c6ba64efabce2",
+      "expected": "\"I called it today on a yard. I want it said before there's a Blaze watching, so that you can say no.\" Anwen sat down, rather suddenly, as though her knees had decided. \"You've had the call since the fifth month. On the litter, on the hill, at Stopgate. I've stood where you said for a year. I'm not saying it was wrong. I'm saying I've found a thing that's mine, and it's in the middle of a call you used to have, and I'd not take it off you without asking.\"",
+      "transcript": "I called it today on a yard. I want it said before there's a blaze watching, so that you can say no. Anwen sat down rather suddenly, as though her knees had decided. You've had the call since the fifth month, on the litter, on the hill, at Stopgate. I've stood where you said for a year. I'm not saying it was wrong. I'm saying I've found a thing that's mine, and it's in the middle of a call you used to have, and I'd not take it off you without asking.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s102",
+      "wavSha256": "cb30db604cb6b2d9622ae4c64591e1239045b2407b7fe9793576c5b6ca5e7333",
+      "expected": "\"You give it something to face,\" said Anwen.",
+      "transcript": "You give it something to face, said Enwen.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "anwen",
+          "actual": "enwen"
+        }
+      ]
+    },
+    {
+      "id": "s186",
+      "wavSha256": "7bc21e5cd170a8b1d5991a7971e5a957798e8ac04d6c499a955fbcb929b66dcf",
+      "expected": "\"Because I didn't know I'd want to call it until I opened my mouth,\" she said. \"I've been in a wall since I was fourteen. A wall stands where it's told. In the spring it was told by Rowan, and before that by the Hold-master, and in the summer by you. I'm good at it. I've the best Hold in the Third Division, and I've stood where I was put for three years and been proud of it.\" Her voice was quite level. \"Today the Marshal asked who'd call the turn, and I looked at Rowan, as I've looked at Rowan for every call since the fifth month. And then I didn't. I wanted it. I wanted to be the one who said stopped.\"",
+      "transcript": "Because I didn't know I'd want to call it until I opened my mouth, she said. I've been in a wall since I was fourteen. A wall stands where it's told. In the spring it was told by Rowan, and before that by the holdmaster, and in the summer by you. I'm good at it. I've the best hold in the third division, and I've stood where I was put for three years and been proud of it. Her voice was quite level. Today the marshal asked who'd called the turn, and I looked at Rowan. As I've looked at Rowan for every call since the fifth month. And then I didn't. I wanted it. I wanted to be the one who said stopped.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "hold master",
+          "actual": "holdmaster"
+        },
+        {
+          "operation": "replace",
+          "expected": "call",
+          "actual": "called"
+        }
+      ]
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

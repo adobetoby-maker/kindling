@@ -713,3 +713,14 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   corroboration. Also s103 added29's, s021/s080 names/title, s050 nearer/Nira.
   Preserve takes, no silent dismissal/approval; resolve before technical closure.
 -11 full backlog ASR also ready. Text remains accepted48/325936 words.
+
+## 2026-10-17 02:16 UTC — chapter23 live; chapter24 underway
+
+-1–23 live candidates.23 manifest/source/audio/full media200 verified,
+  34298253bytes/2858.09s, SHA2561ed12d6354f9dd037d64ff5460289b3ae9f927c08561e4cdd121748f4822de83,
+  range206. Peak gate archived/retried3takes only, preserving rest. Supervisor
+ 8214/render44199 now24 healthy. All48 source/direction already accepted/prepared.
+-10 isolated5takes/2exact; name/compound spelling plus s213 it/her and s186
+  call/called unresolved. Saved bounded triage, no automatic pickup/approval.
+  Output ASR now attempted all1–23; isolated checks1–10. Keep earlier priority
+  attribution/repetition/ledger residuals open for contextual/perceptual review.
