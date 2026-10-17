@@ -259,6 +259,38 @@ def triage_backlog():
     return False
 
 
+def context_backlog():
+    """Run one supervisor-requested contextual check in the same model slot."""
+    if busy():
+        return False
+    for number in range(1, 49):
+        directory = QUEUE/f'chapter-{number:02d}'
+        request = directory/'asr-context-request.json'
+        if not request.exists():
+            continue
+        wanted = json.loads(request.read_text())
+        publication = json.loads((directory/'published.json').read_text())
+        if any(wanted[k] != publication[k] for k in ('sourceSha256', 'audioSha256')):
+            continue
+        prior = directory/'asr-context-review.json'
+        if prior.exists() and json.loads(prior.read_text()).get('requestSha256') == sha(request.read_bytes()):
+            continue
+        env = dict(os.environ, HF_HOME=QA_CACHE, HF_HUB_OFFLINE='1',
+                   HF_HUB_CACHE=QA_CACHE+'/hub', HUGGINGFACE_HUB_CACHE=QA_CACHE+'/hub')
+        log(f'chapter {number}: serialized requested context check starting')
+        try:
+            with (directory/'asr/context-screen.log').open('a') as output:
+                subprocess.run([str(QA_PYTHON), str(ROOT/'scripts/nm-breeze-triage.py'), str(number), '--context'],
+                               env=env, stdout=output, stderr=subprocess.STDOUT,
+                               timeout=1200, check=True)
+        except Exception as error:
+            save(prior, {'requestSha256': sha(request.read_bytes()),
+                         'state': 'failed-needs-diagnosis', 'error': str(error)})
+        log(f'chapter {number}: requested context attempt complete; supervisor review pending')
+        return True
+    return False
+
+
 def process(directory, number):
     source_path = BOOK / f'manuscript/chapter-{number:02d}.md'
     source = source_path.read_bytes()
@@ -357,6 +389,7 @@ def main():
                 audit_output(number)
                 audit_backlog()
                 triage_backlog()
+                context_backlog()
                 # Revisit earliest ready chapters after every publication so
                 # revised opening pickups do not wait behind the entire book.
                 break
@@ -365,7 +398,7 @@ def main():
                 save(directory/'worker-error.json', {'error': str(error), 'time': dt.datetime.now(dt.timezone.utc).isoformat()})
                 time.sleep(60)
         if complete == 48:
-            if busy() or audit_backlog() or triage_backlog():
+            if busy() or audit_backlog() or triage_backlog() or context_backlog():
                 time.sleep(60)
                 continue
             log('all 48 uploads and ASR screening attempts complete; live, flag triage and perceptual checks remain in supervising heartbeat')

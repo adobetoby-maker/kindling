@@ -38,7 +38,14 @@ def targets(track, comparison):
     return list(selected.values())
 
 
-def main(number):
+def context_targets(track, ids):
+    positions = {s['id']: i for i, s in enumerate(track['segments'])}
+    if any(s not in positions for s in ids):
+        raise ValueError('Context request references an absent segment')
+    return [(key, track['segments'][max(0, positions[key]-1):positions[key]+2]) for key in ids]
+
+
+def main(number, context=False):
     from mlx_audio.stt.generate import generate_transcription
     from mlx_audio.stt.utils import load_model
     directory = QUEUE/f'chapter-{number:02d}'
@@ -59,38 +66,69 @@ def main(number):
     if track['sourceSha256'] != audit['sourceSha256']:
         raise ValueError('Direction source changed')
     selected = targets(track, json.loads(raw.read_text()))
-    model = load_model(audit['model']) if selected else None
+    request = directory/'asr-context-request.json'
+    if context:
+        wanted = json.loads(request.read_text())
+        if any(wanted[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
+            raise ValueError('Context request is for a different edition')
+        groups = context_targets(track, wanted['segmentIds'])
+    else:
+        groups = [(s['id'], [s]) for s in selected]
+    model = load_model(audit['model']) if groups else None
     results = []
-    for segment in selected:
-        wav = directory/'breeze-directed'/f"{segment['id']}.wav"
-        digest = sha(wav)
-        stem = directory/'asr'/f"isolated-{segment['id']}-{digest[:12]}"
+    for key, group in groups:
+        take_paths = [directory/'breeze-directed'/f"{s['id']}.wav" for s in group]
+        takes = [{'id': s['id'], 'sha256': sha(p)} for s, p in zip(group, take_paths)]
+        if context:
+            import numpy as np
+            import soundfile as sf
+            parts = []
+            for s, path in zip(group, take_paths):
+                pcm, rate = sf.read(path, dtype='float32')
+                if rate != 24000 or pcm.ndim != 1:
+                    raise ValueError('Unexpected contextual take format')
+                parts.extend([pcm, np.zeros(int(rate*s.get('pauseAfterMs', 0)/1000), dtype=np.float32)])
+            combined = np.concatenate(parts)
+            digest = hashlib.sha256(json.dumps(takes, sort_keys=True).encode()).hexdigest()
+            wav = directory/'asr'/f'context-{key}-{digest[:12]}.wav'
+            sf.write(wav, combined, 24000, subtype='PCM_16')
+            expected_text = ' '.join(s['text'] for s in group)
+            mode = 'context'
+        else:
+            wav = take_paths[0]
+            digest = takes[0]['sha256']
+            expected_text = group[0]['text']
+            mode = 'isolated'
+        stem = directory/'asr'/f"{mode}-{key}-{digest[:12]}"
         result = generate_transcription(model=model, audio=str(wav),
                                         output_path=str(stem), format='json',
                                         language='en', word_timestamps=True,
                                         verbose=False)
         pieces = getattr(result, 'segments', None) or []
         transcript = ' '.join(str(p.get('text', '')).strip() for p in pieces).strip() or result.text
-        expected, actual = words(segment['text']), words(transcript)
+        expected, actual = words(expected_text), words(transcript)
         matcher = difflib.SequenceMatcher(a=expected, b=actual, autojunk=False)
         changes = [{'operation': tag, 'expected': ' '.join(expected[i:j]),
                     'actual': ' '.join(actual[k:l])}
                    for tag, i, j, k, l in matcher.get_opcodes() if tag != 'equal']
-        if sha(wav) != digest:
+        if any(sha(p) != t['sha256'] for p, t in zip(take_paths, takes)):
             raise ValueError('Isolated take changed during screening')
-        results.append({'id': segment['id'], 'wavSha256': digest,
-                        'expected': segment['text'], 'transcript': transcript,
+        results.append({'id': key, 'takeBindings': takes, 'wavSha256': sha(wav),
+                        'expected': expected_text, 'transcript': transcript,
                         'normalizedExactMatch': expected == actual,
                         'changes': changes})
     check()
     report = {k: audit[k] for k in ('sourceSha256', 'audioSha256', 'model', 'modelRevision', 'rawReportSha256')}
-    report.update(state='localized-screened-review-pending', segments=results,
+    report.update(state='context-screened-review-pending' if context else 'localized-screened-review-pending', segments=results,
                   ownerListening='pending',
                   note='Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.')
-    pending = directory/'asr-isolated-review.json.pending'
+    filename = 'asr-context-review.json' if context else 'asr-isolated-review.json'
+    if context:
+        report['requestSha256'] = sha(request)
+    pending = directory/(filename+'.pending')
     pending.write_text(json.dumps(report, indent=2, ensure_ascii=False)+'\n')
-    pending.replace(directory/'asr-isolated-review.json')
+    pending.replace(directory/filename)
 
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]))
+    main(int(sys.argv[1]), '--context' in sys.argv[2:])

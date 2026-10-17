@@ -1,0 +1,76 @@
+{
+  "sourceSha256": "0e1e288bbdddf474ca8ac3afce7eee14c4fa53db4989251abb44a150e21f3a91",
+  "audioSha256": "7ff57432426e7f492cfdd5cd4cacf18dce1d29895a3c636b3f1f01b76b54210a",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "141daba95ee56a8f424cf38892b10948b863e4ba987e19ceb5ae35a3a4f9f39e",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s038",
+      "wavSha256": "31147a7bc0ceec95ebadcc4cde0b7c64b4517c1100ed5071d9ea10a28671ff10",
+      "expected": "\"A pack: counted aloud by the ward-chief. The blade cuts between his counts and not on them. Cut one in time and it closes. I had that off a second's sheet, who had it off the Marshal on Monday. The far edge: the second's. To say. Two words, once. Asked of anybody beyond their card: nothing.\" She lowered it. \"What's there? Mace.\"",
+      "transcript": "A pack, counted aloud by the warchief. The blade cuts between his counts and not on them. Cut one in time and it closes. I had that off a second sheet, who had it off the marshal on Monday. The far edge, the seconds. To say. Two words, once. Asked if anybody be on their card. Nothing. She lowered it. What's there? Mace.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "ward chief",
+          "actual": "warchief"
+        },
+        {
+          "operation": "replace",
+          "expected": "second's",
+          "actual": "second"
+        },
+        {
+          "operation": "replace",
+          "expected": "second's",
+          "actual": "seconds"
+        },
+        {
+          "operation": "replace",
+          "expected": "of",
+          "actual": "if"
+        },
+        {
+          "operation": "replace",
+          "expected": "beyond",
+          "actual": "be on"
+        }
+      ]
+    },
+    {
+      "id": "s100",
+      "wavSha256": "4797dce72ccf49237c1bc5a73be82aa9a0eaacd35d59a229828845d678bfd607",
+      "expected": "\"I've nothing on it about a count of two.\"",
+      "transcript": "I've nothing on it about a cat or two.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "count of",
+          "actual": "cat or"
+        }
+      ]
+    },
+    {
+      "id": "s137",
+      "wavSha256": "e8cd672cb15542f96ccbe1646b60dde86af11e40085abb857e6a3f29be7f7320",
+      "expected": "\"Two doors in one person,\" she said. \"Open together. Agreeing.\"",
+      "transcript": "Two doors in one person, she said, open together, agreeing.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s230",
+      "wavSha256": "1f3d5cbdac438c4c38edda30ca82b33109e3f40d65e1bfb6d026f4e2f4e847cd",
+      "expected": "\"Mine before yours, between unlike doors, read as one line,\" said Kiva. \"Two people on one thing, agreeing. Write that the Marshal had a lodger go to two people on a sack, in the Pit, in the morning. Write that the gap's half a count and wants to be a quarter.\"",
+      "transcript": "Mine before yours, between unlike doors. Read as one line, said Kiva. Two people on one thing. Agreeing. Write that the marshal had a lodger go to two people on a sack, in the pit, in the morning. Write that the gap's half a count and wants to be a quarter.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

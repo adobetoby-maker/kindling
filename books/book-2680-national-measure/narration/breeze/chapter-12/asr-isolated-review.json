@@ -1,0 +1,63 @@
+{
+  "sourceSha256": "bcb42ba039791ff377f361eed96c4b1f57e98b7b22aefba11d3555e671e8b5da",
+  "audioSha256": "f59441d1df282226ff8430b85c94a3c39ec52e00d1128fae4da6573a8b0d5b44",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "2dde98bce7a33debdcbe437ab26222f262375095cc9d331dc7ab96f789c4dcec",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s154",
+      "wavSha256": "d8ee9b925828d69ccdcafdedad3be82275bd71f82e60a5661e3870f1242e1386",
+      "expected": "\"That's what it is. It's the pack. He's not looking at us. He's listening. Mine. Yours. He goes on yours. When Talley's planted, he waits for Talley to come off, since he knows Talley will have to. When Pryce's wall's up, he waits for her to drop it and run, since she always does.\" He opened his eyes. \"We're a pack. We've a count among ourselves. And he's cutting on it.\"",
+      "transcript": "That's what it is. It's the pack. He's not looking at us. He's listening. Mine, yours. He goes on yours. When Tally's planted, he waits for Tally to come off, since he knows Tally will have to. When Prices' walls up, he waits for her to drop it and run, since she always does. He opened his eyes. We're a pack. We've a count among ourselves. And he's cutting on it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "talley's",
+          "actual": "tally's"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "pryce's wall's",
+          "actual": "prices walls"
+        }
+      ]
+    },
+    {
+      "id": "s012",
+      "wavSha256": "65839836410c0f854868f809148c36b31b33885995d8607171a8fce220804677",
+      "expected": "He had taught them some of that. He had stood in the Old Yard in the spring with his ears white and asked a catcher now? over his shoulder for the first time in his life, because he had been made to see that a blade who cuts on his own word is a blade who cuts on the wrong one. He had been proud of it. He was still proud of it.",
+      "transcript": "He had taught them some of that. He had stood in the old yard in the spring with his ears white and asked to catch her now over his shoulder for the first time in his life because he had been made to see that a blade who cuts on his own word is a blade who cuts on the wrong one. He had been proud of it. He was still proud of it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "a catcher",
+          "actual": "to catch her"
+        }
+      ]
+    },
+    {
+      "id": "s102",
+      "wavSha256": "3d4d719842359ff93f61ff1cda65b52b60ba4ffa0c42232ac354e9be4155b54d",
+      "expected": "Perrin had the head poles. He was lifting.",
+      "transcript": "Perrin had the head poles. He was lifting.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

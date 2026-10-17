@@ -724,3 +724,28 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
   call/called unresolved. Saved bounded triage, no automatic pickup/approval.
   Output ASR now attempted all1–23; isolated checks1–10. Keep earlier priority
   attribution/repetition/ledger residuals open for contextual/perceptual review.
+
+## 2026-10-17 12:27 UTC — chapters24–28 verified live; contextual QA queued
+
+-1–28 live listening candidates verified. Full media hashes, manifest source/audio
+  bindings, HTTP200 and range206 all pass for24–28. Per-chapter published.json
+  records bytes/durations/hashes.29 renderer47503 active/progressing. Text remains
+ 48 accepted/325936words, no author job restarted.
+- Reviewed isolated11–15 and retained bounded dispositions. Particularly13 s089,
+  s100 repetitions and s245 ledger garbling;15 s253 missing Rowan/unrelated speech
+  warrant contextual corroboration.12 large pack/head-poles flags contradicted
+  by isolated view; a-catcher/to-catch-her remains uncertain. No false pass.
+- Global approved lexicon inspected: only Milo/Mylo, Wyck/Wick, Rook unchanged;
+  no numeric replacement or per-chapter lexicon found to explain ledger issues.
+- Extended nm-breeze-triage.py with explicit supervisor-requested neighboring
+  take windows, preserving exact take SHA/source/audio/request bindings. Expected
+  words are NEVER given as transcription prompt. QA-only temporary combined clips
+  use existing silent joins, not production edits/time stretching. No auto pickup.
+- Requests:3 s073;9 s253/s103;13 s089/s100/s245;15 s253. Worker runs one requested
+  contextual chapter after normal isolated checks per safe gap, drains after48.
+  Reports asr-context-review.json need supervisor disposition; failures cached for
+  diagnosis. Edge/neighbor/missing-ID guards and syntax tests PASS; actual context
+  inference has NOT run yet. Inspect first3 context result after29 publication.
+- Restarted supervisor ONLY8214→14781 (shell19865), renderer47503 preserved;
+  supervisor waits and reuses checkpoints. No duplicate GPU, source rewrite,
+  whole-chapter rerender or new voice/model. Owner/perceptual review pending.

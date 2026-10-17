@@ -1,0 +1,232 @@
+{
+  "sourceSha256": "ae7960eb39d25f80027d54809f85c915bb9f50d2d163a3171f54f6f378010892",
+  "audioSha256": "a2f1f85970a639f83761ebd2d6312d8dd92c4839fbb91f6d5c503a6d65767037",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "5936f5cb1f4ceaa1f825e976d920ea2049f7ad44e5a3f0362caede47a34ac9ba",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s158",
+      "wavSha256": "cba063859f9e576432840a6066b69f00e53efd4a2b97a1d9eb0d8a0705a5885a",
+      "expected": "The first bag was clean. Anwen and Jude hauled the corners, Jude with one hand, and Pru tied, three turns, the little finger across, and sealed at forty-seven.",
+      "transcript": "The first bag was clean. Anwen and Jude hauled the corners, Jude with one hand, and Prue tied, three turns the little finger across, and sealed at forty-seven.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    },
+    {
+      "id": "s228",
+      "wavSha256": "d4c0db95328f033b3d086ff7b61ae804325a8f3e85d279c70427a5ac8d749e00",
+      "expected": "Anwen and Perrin hauled. The neck came up between them, straight. Pru knelt at it and tied, three turns, the little finger across, and sealed at fifty-two, and did not say anything at all.",
+      "transcript": "Anwen and Perrin hauled, the neck came up between them, straight. Prue knelt at it and tied, three turns the little finger across and sealed at fifty-two, and did not say anything at all.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    },
+    {
+      "id": "s253",
+      "wavSha256": "a640738e391a57bbe4cbec5105ab7a7938503280ef6b5e414d50f15ba6aff71f",
+      "expected": "\"Thursday the 19th to Friday the 20th. Cowl Edge and the moor above it, on the Line's ground, under the Board's hunt card, our own entry, under Cade. The card, 0.40. A pack of three husks at Garside's mill, broken by shutting the mill's hatch; three bags. A husk alone, at the old kiln on the tops; one bag. Fifty-nine and two-tenths, clean, after the comb; shared half, and an eighth four times. To the book, 7.40. Pryce, a wall and a walk and a count, 0.31. Talley, five cuts, 0.18. Cade, a stance at the hatch and a stance on the way down, 0.12. Rowan, stances, off her own thimble. Finch, nothing lit; four cords tied, a sheet frosted. A cord frosted and thrown away, 0.06.\"",
+      "transcript": "Thursday the 19th to Friday the 20th. Cowl edge and the moor above it, on the line's ground, under the board's hunt card, our own entry, under Cade. The card, WOM4. A pack of three husks at Garside's mill, broken by shutting the mill's hatch, three bags. A husk alone, at the old kiln on the tops, one bag. 59 and two tenths, clean, after the comb, shared half and an eighth four times. To the book, 7.40. Price, a wall and a walk and a count, mom.31. Tally, five cuts, .18. Cade, a stance at the hatch and a stance on the way down, mom.12. Finch, nothing lit, four cords tied, a sheet frosted. A cord frosted and thrown away, 0.06.     Definitely whatever, it's like 90x.   It's like 90, we need to match suspects.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "0 40",
+          "actual": "wom4"
+        },
+        {
+          "operation": "replace",
+          "expected": "fifty nine",
+          "actual": "59"
+        },
+        {
+          "operation": "replace",
+          "expected": "pryce",
+          "actual": "price"
+        },
+        {
+          "operation": "replace",
+          "expected": "0",
+          "actual": "mom"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "delete",
+          "expected": "0",
+          "actual": ""
+        },
+        {
+          "operation": "replace",
+          "expected": "0",
+          "actual": "mom"
+        },
+        {
+          "operation": "delete",
+          "expected": "rowan stances off her own thimble",
+          "actual": ""
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "definitely whatever it's like 90x it's like 90 we need to match suspects"
+        }
+      ]
+    },
+    {
+      "id": "s269",
+      "wavSha256": "8293cf49e94e62ec289c171bf5b7f258a0454a73f096797f59ac7faf3503f0ae",
+      "expected": "\"Then you'll know that the latch is on your side of the door, not theirs.\" He turned round on the bench and looked at her, at last, across the hut, with the fire between them. \"I'm not telling you to go. I'm the Line's hand; I've a scale. I'm telling you where the plain is, since you came two miles into a wind for some and went home with an eighth of a share. What you do about it's yours.\"",
+      "transcript": "Then you'll know that the latch is on your side of the door, not theirs. He turned round on the bench and looked at her, at last, across the hut, with the fire between them. I'm not telling you to go. I'm the line's hand, I've a scale. I'm telling you where the plane is, since you came two miles into a wind for some, and went home with an eighth of a share. What you do about it's yours.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "plain",
+          "actual": "plane"
+        }
+      ]
+    },
+    {
+      "id": "s016",
+      "wavSha256": "50736276dd23c30d0d995a4cb911628be0dfe94396bc278cb7ac96f90c1eb31e",
+      "expected": "\"The tear was here,\" said Vane. He put his finger on a place on the moor's top, a mile north of the hut, where three gills began. \"On the Saturday, at four. I'd six on the Sag and two up here; we had it shut by eleven. Four came off it first.\" He moved the finger. \"Three went down this gill. Together. Slow. I've had a lad on the Edge with a glass every day since, and they've gone a little way each day, down, and stopped, and gone on. Yesterday they were here.\" He tapped a place where the gill came out of the moor's edge into the head of a narrow wooded valley. \"This morning they were here.\"",
+      "transcript": "The tea was here, said Vine. He put his finger on a place on the moor's top, a mile north of the hut, where three gills began. On the Saturday, at four. I'd six on the sag and two up here. We had it shut by eleven. Four came off at first. He moved the finger. Three went down this gill. Together. Slow. I've had a lad on the edge with a glass every day since, and they've gone a little way each day, down and stopped and gone on. Yesterday they were here. He tapped a place where the gill came out of the moor's edge, into the head of a narrow wooded valley. This morning they were here.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "tear",
+          "actual": "tea"
+        },
+        {
+          "operation": "replace",
+          "expected": "vane",
+          "actual": "vine"
+        },
+        {
+          "operation": "replace",
+          "expected": "it",
+          "actual": "at"
+        }
+      ]
+    },
+    {
+      "id": "s022",
+      "wavSha256": "efe188d3457f7e5fafab90b234829d6ab44504d4b0a30dd4b395923621d9ea17",
+      "expected": "\"An overshot wheel, eighteen feet. It turns all day and all night, since he has cloth in the stocks for a merchant at the Sag and he's late with it. I sent the lad down this morning to tell him to stop it. He said he'd stop it when the Line paid for the cloth.\" Vane's voice did not change. \"He's not wrong. The Line can't.\"",
+      "transcript": "An overshot wheel, eighteen feet. It turns all day and all night, since he has cloth in the stocks for a merchant at the SAG, and he's late with it. I sent the lad down this morning to tell him to stop it. He said he'd stop it when the line paid for the cloth. Vane's voice did not change. He's not wrong. The line can't.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s102",
+      "wavSha256": "bab8b967f0a33b369c070cf6720bfcfd7e7f7b2e9165382653c60486ca93a9b7",
+      "expected": "\"Stop the wheel,\" she said.",
+      "transcript": "Stop the wheel, she said.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s113",
+      "wavSha256": "8f48c92065d3aa370182b41abf277f5a18d3f5fa51a59fb4b42ed4b38d101d30",
+      "expected": "Perrin went up the bank at a run with Pru behind him, and Kiva heard his boots slip on the frozen turf and catch. He got to the hatch. He put both hands on the bar, and Pru put hers beside them, and they leaned.",
+      "transcript": "Perrin went up the bank at a run with Prue behind him, and Kiva heard his boots slip on the frozen turf and catch. He got to the hatch, he put both hands on the bar, and Prue put hers beside them, and they leaned.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    },
+    {
+      "id": "s161",
+      "wavSha256": "de73bbd9a4b693be571cbe08305f696b7fe59d24ad6dafd12c6aa048d7dba4da",
+      "expected": "It was Pru's sheet, the second that Kiva had carried down. The one with her own name on the pole.",
+      "transcript": "It was Prue's sheet, the second that Kiva had carried down, the one with her own name on the pole.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru's",
+          "actual": "prue's"
+        }
+      ]
+    },
+    {
+      "id": "s171",
+      "wavSha256": "f5625d9d26c86d9e2ed27fc3db057acbe7b171183fa76b55d325e2eb36f2b60c",
+      "expected": "\"You shut my hatch,\" he said.",
+      "transcript": "You shut my hatch, he said.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s188",
+      "wavSha256": "74b9bc03df0759ec619c66c5c8324eaaf703a9894ffa9368e56af62e5f0770f3",
+      "expected": "The thing was sitting in the kiln's mouth.",
+      "transcript": "The thing was sitting in the kiln's mouth.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s204",
+      "wavSha256": "a6b8c866ee3e69e714aadb250189b7255a2081895bf4847dabe0e2e361eba39b",
+      "expected": "They all looked at the kiln.",
+      "transcript": "They all looked at the kiln.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s220",
+      "wavSha256": "0a231c71af1460165ead98741f41922fe4882df8cb2ccad88e5506b56b76f483",
+      "expected": "Jude stood in front of the kiln's black mouth, a pace from the grey thing sitting in it. It did not move. He looked down at it for a moment, and Kiva could not see his face.",
+      "transcript": "Jude stood in front of the kiln's black mouth, apace from the gray thing sitting in it. It did not move. He looked down at it for a moment, and Kiva could not see his face.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "a pace",
+          "actual": "apace"
+        },
+        {
+          "operation": "replace",
+          "expected": "grey",
+          "actual": "gray"
+        }
+      ]
+    },
+    {
+      "id": "s241",
+      "wavSha256": "cc89e79cd224178f1edfc03ef5b741be6bc4d9e82906477b563d66795dacc841",
+      "expected": "It was not that she was surprised. She had told Jude that she was not to be trusted, and she had meant it, and she had been right. It was that she had let herself want a thing on a moor, for an hour, with her whole body, for the first time since a hill in the autumn. The wanting had nowhere to go, and went down through her into the frozen peat like a still door with nothing under it.",
+      "transcript": "It was not that she was surprised. She had told Jude that she was not to be trusted, and she had meant it, and she had been right. It was that she had let herself want a thing on a moor, for an hour, with her whole body, for the first time since a hill in the autumn. The wanting had nowhere to go, and went down through her into the frozen peat, like a still door with nothing under it.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}
