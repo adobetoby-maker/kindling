@@ -1,7 +1,7 @@
 {
   "reviewer": "Codex",
   "state": "context-recheck-requested",
-  "finding": "Numeric tide-time sequence s084 matches; s101 and s012 exact. Ropewalk splitting, neap/neep and quay/key are orthographic/homophone differences, not pickup evidence. Request context for s020 missing it/it's, s070 missing The, s085 Mara/Ma, s030 added you're right; no blind replacement.",
-  "evidence": "asr-isolated-review.json",
+  "finding": "Context restores s070 The and does not reproduce s030 added you're right. Retain s020 missing it/it's and s085 Mara/Ma uncertainty. New concern: final neighbor s071 as it always lay decodes as Sampis Rai 1550 within the sentence, not only at the window tail. Do not dismiss this possible instruction-like intrusion as a trailing hallucination; request a shifted window centered on s071. Preserve original contextual evidence. No blind replacement.",
+  "evidence": ["asr-isolated-review.json", "asr-context-review.first-pass.json"],
   "ownerListening": "pending"
 }

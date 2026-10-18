@@ -1,5 +1,20 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T13:39Z
+
+- Chapters 1–41 live verified. Chapter 41: 35,739,117 bytes / 2,978.17 seconds,
+  SHA a026ae04df7c9dc20bfca386f4f3cf912ad72e0f038f43744f595dc17324327e;
+  manifest source/audio match, full HTTP 200 / range 206. Worker 70030 /
+  renderer 48164 renders chapter 42, 35/185 at check. Preserve active render.
+- CPU pause audit completed 40/40 inserted-zero-silence and total-length checks;
+  authored silence fractions 11.89–21.31%. Narrow scope, not voice/coverage/pace pass.
+- Context 26 resolves s030 added phrase and s070 opening The; s020/s085 residuals
+  remain. A new within-sentence instruction-like ASR decoding in neighboring s071
+  needs shifted-window recheck, NOT dismissed as tail noise. Original request and
+  result frozen as first-pass files; queued centered s071 request. Also queued
+  chapter 28 s031 context for a/his skin, at/it once. Repaired 38 context still queued.
+- Mastering/pacing/voice/coverage and owner listening remain open. No Finished claim.
+
 ## Latest checkpoint — 2026-10-18T12:42Z
 
 - Chapter 41 healthy: 126/179 checkpoints with recent writes. Worker 70030 /
