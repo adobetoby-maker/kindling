@@ -1,5 +1,19 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T11:42:34Z
+
+- Chapters 1–40 live verified. Chapter 40: 39,972,141 bytes / 3,330.92 seconds,
+  SHA 7699481f92ad6d3bde225a6e530695fb9265844c959f341952fa8fbd8f2b73a3;
+  manifest source/audio match, full HTTP 200 / range 206. Sample-peak/decode passes
+  remain narrower than unresolved full delivery-master/pacing/voice checks.
+- Existing worker 70030 / renderer 39014 renders chapter 41 (31/179 at check).
+  No duplicate launched. Context requests 26 and repaired 38 remain queued.
+- Chapter 25 contextual Orla flag resolved; s202 pronoun/contraction uncertainty
+  retained. Chapter 27 six isolated flags exact, remaining numeric/name/possessive
+  orthography not automatic pickup evidence; perceptual clarity remains pending.
+- Text remains complete 48 chapters / 325,936 words. No Finished or human listen
+  claimed; delivery target mismatches and earlier coverage residuals still open.
+
 ## Latest checkpoint — 2026-10-18T10:37Z
 
 - Chapter 40 healthy, 121/195 segments with current writes; worker 70030 and
