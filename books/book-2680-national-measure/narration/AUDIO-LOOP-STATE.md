@@ -1,5 +1,19 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T10:37Z
+
+- Chapter 40 healthy, 121/195 segments with current writes; worker 70030 and
+  renderer 65928 preserved. Chapters 1–39 live verified. Queued context checks
+  await a worker gap; no duplicate render/model launched.
+- CPU survey extended to 38/39: respectively -21.1/-21.3 LUFS, -0.6/-0.5 dBFS
+  true peak. New individual reports retained; existing 37-chapter survey unchanged.
+- Read locked Calder profile: targets -20 LUFS / -3 dBTP, 195–215 overall WPM,
+  voice similarity >=0.84. Current candidates measure 127.83–143.07 overall WPM;
+  this is NOT a numerical pacing pass. Owner's Breeze engine override does not
+  establish owner acceptance of this slower delivery. DELIVERY-TARGET-REVIEW.md
+  records next measurement/native-audition/mastering work; no stretching or
+  waveform changes. No final technical or owner-listening approval claimed.
+
 ## Latest checkpoint — 2026-10-18T09:39:59Z
 
 - Chapters 1–39 live verified. Chapter 38 quiet s123 repair succeeded sample-peak
