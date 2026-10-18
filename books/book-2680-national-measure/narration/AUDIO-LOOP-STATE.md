@@ -1,5 +1,21 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T12:42Z
+
+- Chapter 41 healthy: 126/179 checkpoints with recent writes. Worker 70030 /
+  renderer 39014 preserved. Chapters 1–40 live verified; no new publication yet.
+- Added scripts/nm-pause-audit.py adapting existing audit-narration-pauses.py;
+  CPU-only, hash-bound audio/source/master/take records, no audio edits.
+  Chapter 40 passes exact inserted zero-silence and total-length checks:
+  407.4 authored silence seconds / 3,330.92 total (12.23%); median estimated
+  model-edge-plus-authored join 2,240 ms, p90 2,360 ms. Scope is NOT full speech
+  coverage, waveform order, identity or pace approval. Removing only authored
+  silence from the denominator would yield roughly 164 WPM, still below inherited
+  195 minimum; do not attribute entire pace mismatch to inserted joins.
+- CPU-only batch join audits now running, session 81168; inspect completed
+  chapter-NN/pause-audit-summary.json and detailed pause reports next heartbeat.
+  Pending context 26/38, mastering/pacing/voice/coverage and owner listen unchanged.
+
 ## Latest checkpoint — 2026-10-18T11:42:34Z
 
 - Chapters 1–40 live verified. Chapter 40: 39,972,141 bytes / 3,330.92 seconds,
