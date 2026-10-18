@@ -1,5 +1,19 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T09:39:59Z
+
+- Chapters 1–39 live verified. Chapter 38 quiet s123 repair succeeded sample-peak
+  check (whole-chapter max 0.9702453613), published 2,808.2 sec / 33,699,501 bytes,
+  SHA b34f1414c0a36cb6f8b14553c0ba274ca8c5ceeaa8acd9d598db94455ff89146.
+  Chapter 39: 2,453.02 sec / 29,437,389 bytes,
+  SHA 8208ee48e31487fc0a62e8931e5258d32ddfca085735ef3f201e43a29b9ba519.
+  Both live manifest source/audio matches, full media HTTP 200 and range 206.
+- Worker 70030 / renderer 65928 is rendering chapter 40. Preserve it.
+- Queued source/audio-bound contextual s123 coverage/join check for repaired 38,
+  plus chapter 25 s051/s202 and chapter 26 s020/s030/s070/s085 after isolated review.
+  No new pickup authorized from ASR alone. Extend delivery survey to 38/39 later;
+  mastering, coverage, voice/pacing residuals and owner listen remain pending.
+
 ## Latest checkpoint — 2026-10-18T08:42Z
 
 - Chapter 38 publication HELD: s123 still reached PCM rail after bounded retry,
