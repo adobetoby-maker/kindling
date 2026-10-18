@@ -1,5 +1,18 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T07:39Z
+
+- Chapter 38 healthy, 156/158 segment checkpoints with current writes. Renderer
+  95793 / supervisor 70030 preserved; chapters 1–37 remain live verified.
+- CPU loudness survey completed all 37 published candidates; current source/audio
+  bindings rechecked. LUFS -22.2..-20.7; true peak -1.1..-0.3 dBFS. All exceed
+  reusable verifier's -3 dB true-peak ceiling. Preserve as open delivery/mastering
+  work, not clipping or human-listening approval. Individual hash-bound reports
+  and DELIVERY-SURVEY-001.json retained. No audio/manifest changes made.
+- Next: verify chapter 38 publication and review isolated chapter 25 when ready;
+  extend survey to later chapters, compare approved-master target, and resolve
+  technical/coverage/voice/pacing residuals before final closure. Owner listen pending.
+
 ## Latest checkpoint — 2026-10-18T06:42Z
 
 - Chapters 1–37 live verified. Chapter 37: 36,927,405 bytes / 3,077.2 seconds,

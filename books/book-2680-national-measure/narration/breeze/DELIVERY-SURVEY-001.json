@@ -1,0 +1,16 @@
+{
+  "scope": "Current published chapters 01–37, full decoded MP3s",
+  "count": 37,
+  "allSourceAndAudioBindingsMatchCurrentPublications": true,
+  "orderedReportIndexSha256": "614facdbf0e78b174f5e2ce5a6766409c8052118a76a835358f0cb7905a3f716",
+  "indexDefinition": "SHA256 of compact JSON array of [chapterNumber, SHA256(delivery-loudness.json bytes)], in chapter order 1–37",
+  "integratedLufsRange": [-22.2, -20.7],
+  "truePeakDbfsRange": [-1.1, -0.3],
+  "chaptersAboveMinus3DbTruePeak": 37,
+  "state": "mastering-review-open",
+  "finding": "Native candidate loudness varies by 1.5 LU between chapters. All 37 MP3s exceed the reusable mastering verifier's -3 dB true-peak ceiling, including its +0.25 dB tolerance. Existing no-sample-clipping checks are not equivalent to that delivery master check.",
+  "next": "Finish measuring later chapters and compare the locked approved-master delivery target before choosing and testing a consistent mastering treatment. Preserve native checkpoints and existing candidates. Any new delivered master needs new hashes, full decode, true-peak/pacing/coverage binding, publication and live verification.",
+  "audioChanged": false,
+  "timeStretching": false,
+  "ownerListening": "pending"
+}
