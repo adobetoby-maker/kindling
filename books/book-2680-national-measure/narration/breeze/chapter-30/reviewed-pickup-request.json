@@ -1,0 +1,12 @@
+{
+  "reviewer": "Codex", "decision": "one-bounded-pickup",
+  "beforeDirectionSha256": "c73e575fa63bdd58e63e647173ebe2fca8593bdf361b2a692bfef897183531d0",
+  "afterDirectionSha256": "bf8742c370fd1b21a833c88aebd207539a3bda36123123649028dc40dbafc77f",
+  "sourceSha256": "4684b0bad35aa1062c1255a93ffda1844a5bb9ec6a2be02768ec0b387a106a87",
+  "audioSha256": "bdef23465e667d38e1357a1d337c30b32e31f9ab89b446f82264ad2719397b9d",
+  "takes": [{"id": "s115", "wavSha256": "ceb3191eb95980cdae9348ad46eb2b89f5c3c2bbf4238b75d4f55a60a16c567a"}],
+  "reason": "Isolated and contextual ASR both omit shut was from the intentional Shut was shut clause, with a/her discrepancy also reproduced. One bounded simpler-direction intervention preserving exact words, repetition, source, native speed, voice, pauses and all other takes. No blind loop.",
+  "evidence": ["asr-isolated-review.json", "asr-context-review.json", "direction.before-s115-repair.json"],
+  "preparationAmendment": "Only s115 instruct changes; canonical/prepared text and paragraph clarity unchanged. Recheck replacement and both joins.",
+  "ownerListening": "pending"
+}

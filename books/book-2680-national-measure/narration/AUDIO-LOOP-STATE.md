@@ -1,5 +1,23 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T23:42Z
+
+- Chapters 1–46 live verified, including deployed 46 manifest. Replacement 29
+  SHA 7a946f020a4c4a1428d6aae9693555342f4509ad27c9b4927b30cbb544683466,
+  32,000,589 bytes / 2,666.63 sec, full media 200 / range 206, source/hash manifest
+  matches. New s066 context no longer reproduces leaked Ember single phrase;
+  other 29 residuals persist. CPU delivery/pause audits refreshing for new hash.
+- Worker 70030 / renderer 40813 is rendering 47 (86/173 at check), preserved.
+- Queued one bounded chapter 30 s115 repair after two checks omit shut was.
+  Queued one bounded chapter 33 s025/s193 repair: isolated takes explicitly speak
+  scene/timing directions from instruct. Simplified only these instructions;
+  all ordered words/pauses unchanged (validated), frozen scores and before/after
+  hashes retained. Existing worker applies after 47, preserving old publications
+  and other takes; recheck new takes/joins and refresh delivery audits.
+- After new 33 publication request context for s118/s147/s216 numeric/breath-clause
+  flags as well as pickup checks. Context 31/32/38 still queued. Final mastering,
+  pace, voice, coverage and owner listening remain open; do not pause on uploads.
+
 ## Latest checkpoint — 2026-10-18T22:44Z
 
 - Chapters 1–45 live verified. Chapter 46 published at 22:43:56Z; full media

@@ -1,0 +1,15 @@
+{
+  "reviewer": "Codex", "decision": "one-bounded-pickup",
+  "beforeDirectionSha256": "852b66e02e8acfd7b6175e0b07f86d327373f8c4dddf66e53fa209c857a04774",
+  "afterDirectionSha256": "1224bbc62eaba659d3bbb022b8dd70d38f5bcbb8e142161b1a0049f3a923a890",
+  "sourceSha256": "67137ebaa52d5fc114fdabeb822e0478b23e83baf4daf22f56289ce3c06965eb",
+  "audioSha256": "b978c225887468a0681d9812e24e0a2b5d5d3bd0057d51a53447d918c497821e",
+  "takes": [
+    {"id": "s025", "wavSha256": "772e44edaca09dfc331161e6b21027c834d2d7471eff740b2fd2d8e668e07540"},
+    {"id": "s193", "wavSha256": "84b00c4170df69a53e230aed846cfe354c6df7d60b9e89bc8c8032d3ce98d4ad"}
+  ],
+  "reason": "Isolated s025 speaks long scene/instruction phrases present in instruct but absent from the short source sentence; s193 adds timing numbers matching instruct after the brief reply. These are explicit direction-to-speech leaks, not name orthography. One bounded simpler non-numeric direction repair for only these two takes, retaining every source word, voice, pauses and other takes.",
+  "evidence": ["asr-isolated-review.json", "direction.before-instruction-repair.json"],
+  "preparationAmendment": "Only s025/s193 instruct changes; canonical/prepared text and paragraph clarity unchanged. Target and neighboring joins require fresh recheck, no human listen claimed.",
+  "ownerListening": "pending"
+}
