@@ -7,6 +7,7 @@ import subprocess
 import sys
 from pathlib import Path
 
+import numpy as np
 import soundfile as sf
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -41,6 +42,26 @@ def audit(number):
     path.write_text(json.dumps(record, indent=2) + '\n')
     subprocess.run([sys.executable, str(VERIFIER), str(path)], check=True)
     report = json.loads(path.with_suffix('.pauses.json').read_text())
+    # Verify actual waveform order as well as silent gaps. Reproduce only the
+    # documented edge edit, allowing a single PCM16 quantization step.
+    max_error = 0.0
+    with sf.SoundFile(master) as assembled:
+        assert assembled.samplerate == 24000 and assembled.channels == 1
+        for segment in segments:
+            expected, rate = sf.read(segment['wav'], dtype='float32')
+            assert rate == 24000 and expected.ndim == 1
+            fade = min(120, len(expected)//4)
+            expected[:fade] *= np.linspace(0, 1, fade, dtype=np.float32)
+            expected[-fade:] *= np.linspace(1, 0, fade, dtype=np.float32)
+            expected[0] = expected[-1] = 0.0
+            actual = assembled.read(len(expected), dtype='float32')
+            assert len(actual) == len(expected)
+            error = float(np.max(np.abs(expected - actual)))
+            max_error = max(max_error, error)
+            if error > 1/32768 + 1e-7:
+                raise RuntimeError(f"{directory.name}: waveform order/edit differs at {segment['id']}: {error}")
+            assembled.seek(int(rate * segment['pauseAfterMs'] / 1000), whence=1)
+        assert assembled.tell() == assembled.frames
     gaps = sorted(x['estimatedTotalGapMs'] for x in report['pauses']
                   if 'estimatedTotalGapMs' in x)
     authored = sum(x['pauseAfterMs'] for x in segments) / 1000
@@ -50,12 +71,14 @@ def audit(number):
                'masterSha256': record['masterSha256'],
                'pauseReportSha256': digest(path.with_suffix('.pauses.json')),
                'allInsertedSilenceAndTotalLengthVerified': report['pass'],
+               'allOrderedTakeWaveformsAndFiveMsFadesVerified': True,
+               'maximumPcm16QuantizationDifference': max_error,
                'segments': len(segments), 'authoredSilenceSec': authored,
                'uncompressedDurationSec': duration,
                'authoredSilenceFraction': authored / duration,
                'medianEstimatedJoinGapMs': gaps[len(gaps)//2],
                'p90EstimatedJoinGapMs': gaps[int((len(gaps)-1)*.9)],
-               'scope': 'Exact zero inserted silence and total frame count; native edges threshold -50 dB, 10 ms resolution. Not speech coverage, waveform order proof, identity or pacing acceptance.',
+               'scope': 'Ordered source-take waveforms plus five-ms fades within one PCM16 quantization step; exact inserted silence and total frame count. Native edges threshold -50 dB, 10 ms resolution. Not spoken-word coverage, identity or pacing acceptance.',
                'ownerListening': 'pending'}
     (directory / 'pause-audit-summary.json').write_text(json.dumps(summary, indent=2) + '\n')
     print(json.dumps(summary), flush=True)

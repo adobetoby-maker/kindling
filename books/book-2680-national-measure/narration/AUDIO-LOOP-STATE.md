@@ -1,5 +1,20 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T18:43Z
+
+- Chapter 44 healthy at 232/248 segments with recent writes. Worker 70030 /
+  renderer 90262 preserved. Chapters 1–43 remain live verified; no new upload yet.
+- Extended CPU pause audit with ordered waveform comparison: reconstruct only
+  documented five-ms fades from each checkpoint, compare every assembled sample
+  within one PCM16 quantization step, then independently verify inserted silence
+  and total length. Chapter 40 passes, maximum difference 0.0000305166468.
+  This closes waveform ordering/edit verification for that file, not spoken-word
+  coverage, voice identity, pacing or human listening.
+- Full published-candidate ordered-waveform audit batch running session 2504;
+  inspect current per-chapter summaries next heartbeat. No audio files edited and
+  no new Metal model loaded. Coverage context backlog, mastering/pacing/voice and
+  owner listening remain open; no Finished claim.
+
 ## Latest checkpoint — 2026-10-18T17:45Z
 
 - Chapters 1–43 live verified, including deployed 43 manifest and replacement 26.
