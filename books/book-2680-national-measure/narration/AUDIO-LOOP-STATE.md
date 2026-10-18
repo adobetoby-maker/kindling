@@ -1,5 +1,30 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T04:37:25Z
+
+- Chapters 1–36 now live verified. Chapter 36 full media SHA
+  `ef7120f8b217e4f00a33f283c864c72b61b2fd0ba74e880528d5ceeb3db6758d`,
+  42,821,901 bytes / 3,568.41 seconds; manifest source/audio match, HTTP 200,
+  range 206/1,024 bytes. Two peak-flagged takes received the worker's bounded
+  retry before publication; final recorded max segment peak 0.9902038574.
+- Worker 70030 / renderer 3974 proceeds with chapter 37. No duplicate launched.
+- Reviewed chapter 22 context: s043 opening insertion not reproduced; retain
+  faster/foster, banks/bank, possessive/year uncertainties for focused review.
+  Do not replace takes from known context-window trailing hallucinations.
+- Chapter 23's isolated flag set has no corroborated substantive error: five
+  exact, two number/name orthographic differences. No pickup indicated for these
+  flags, not whole-chapter approval. All prior residuals and owner listen pending.
+
+## Latest checkpoint — 2026-10-18T03:35Z
+
+- Chapter 36 is healthy: 175/204 segment WAVs checkpointed, latest s175 written
+  during this check. Existing renderer 60558 and supervisor 70030 remain active.
+  No duplicate work launched. Chapters 1–35 remain live verified; accepted text
+  remains complete at 48 chapters / 325,936 words.
+- Chapter 22 contextual requests and the remaining coverage/voice/pacing review
+  backlog await the serialized worker gap after chapter 36. Chapter 9 diagnostic
+  remains unpromoted; no blind pickup. Owner listening remains pending.
+
 ## Latest checkpoint — 2026-10-18T02:36:40Z
 
 - All 48 accepted text chapters remain complete, 325,936 words. Chapters 1–35
