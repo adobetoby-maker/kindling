@@ -1,5 +1,21 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T15:39Z
+
+- Chapters 1–42 live verified. Chapter 42: 35,311,725 bytes / 2,942.56 sec,
+  SHA 71662b003ce2e0aba7ca32d1e23da74bf1ac5107f540975d88a22920b20297ed;
+  manifest source/audio match, full HTTP 200 / range 206. Worker 70030 /
+  renderer 25887 is rendering chapter 43, preserved without duplicate jobs.
+- Shifted chapter 26 context reproduces instruction-like phrase in s071 within
+  the sentence. Queued ONE source/audio/take-bound reviewed pickup with numeric
+  timing removed from only s071 instruction. All text/order/pauses unchanged,
+  validated; frozen score and before/after direction hashes retained. Existing
+  worker will apply after chapter 43, preserve old candidate and other takes,
+  then recheck new target/joins. Not a human-listening claim or blind loop.
+- Reviewed chapter 29 flags; queued contextual s004/s067/s170 uncertainty.
+  Context 28 and repaired 38 remain queued. Mastering/pacing/voice/coverage and
+  owner listening unresolved. Re-run chapter 26 pause/loudness bindings if replaced.
+
 ## Latest checkpoint — 2026-10-18T14:41Z
 
 - Chapter 42 healthy, 150/185 checkpoints with current writes. Existing worker

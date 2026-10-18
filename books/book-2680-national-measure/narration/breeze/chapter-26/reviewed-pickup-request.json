@@ -1,0 +1,13 @@
+{
+  "reviewer": "Codex",
+  "decision": "one-bounded-pickup",
+  "beforeDirectionSha256": "53f58b943bf8f8d244361d450e7043e23cea0683774674280cfcb6a207e769cc",
+  "afterDirectionSha256": "36b935ca0195bb3da532f8884f56ae0c370d217397a7051aaf61eda43c9001c9",
+  "sourceSha256": "1ecc21951e2bd781d1e38843691b2564dc564ee0de0e1ab13b6d0707b444d6d3",
+  "audioSha256": "b590c3d913dbacabc99db618e084b05de12ce7ff44864a518dafc18bffe379e4",
+  "takes": [{"id": "s071", "wavSha256": "275f3ab9280c8abe9424c7e13ecd91bbbb76104347ed823e46383713c6384ccc"}],
+  "reason": "Two shifted context windows reproduce Sampis Rai 1550 in place of canonical as it always lay within s071. This is concordant evidence of a possible instruction-like intrusion, not only window-tail noise. Simplify ONLY s071 instruction, removing numeric timing prose from its instruct field. Exact spoken text, pauses, source and voice remain unchanged. One bounded intervention, no blind repeat or gain/time manipulation.",
+  "evidence": ["asr-context-review.first-pass.json", "asr-context-review.json", "direction.before-s071-repair.json"],
+  "preparationAmendment": "Historical direction digest superseded only for s071 instruction; no prepared words or paragraph clarity changed. Source/ordered segment words and pauses must remain exact.",
+  "ownerListening": "pending"
+}
