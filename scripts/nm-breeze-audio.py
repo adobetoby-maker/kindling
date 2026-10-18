@@ -180,7 +180,8 @@ def publish(number, source, mp3, duration, report):
 def busy():
     for name in ['breeze_render_track.py', 'run_fractured.py', 'run_meridian.py',
                  'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
-                 'verify-local-tts.py', 'nm-breeze-triage.py', 'nm-breeze-diagnostic.py']:
+                 'verify-local-tts.py', 'nm-breeze-triage.py', 'nm-breeze-diagnostic.py',
+                 'nm-short-heading-diagnostic.py']:
         if subprocess.run(['pgrep', '-f', name], capture_output=True).returncode == 0:
             return True
     return False
@@ -359,15 +360,19 @@ def apply_reviewed_pickup(directory):
 
 
 def diagnostic_once():
-    directory = QUEUE/'diagnostic-short-and-ledger'
-    if not (directory/'request.json').exists() or (directory/'attempt.json').exists() or busy():
+    choices = [('diagnostic-short-and-ledger','nm-breeze-diagnostic.py'),
+               ('diagnostic-short-heading-v2','nm-short-heading-diagnostic.py')]
+    selected = next(((QUEUE/name, script) for name, script in choices
+                     if (QUEUE/name/'request.json').exists() and not (QUEUE/name/'attempt.json').exists()), None)
+    if not selected or busy():
         return False
+    directory, script_name = selected
     save(directory/'attempt.json', {'state': 'running', 'ownerListening': 'pending'})
     env = dict(os.environ, HF_HOME=QA_CACHE, HF_HUB_OFFLINE='1',
                HF_HUB_CACHE=QA_CACHE+'/hub', HUGGINGFACE_HUB_CACHE=QA_CACHE+'/hub')
     try:
         with (directory/'diagnostic.log').open('a') as output:
-            script = str(ROOT/'scripts/nm-breeze-diagnostic.py')
+            script = str(ROOT/'scripts'/script_name)
             # Separate processes release Breeze before Whisper is loaded.
             for python, mode in ((PYTHON, 'render'), (QA_PYTHON, 'verify')):
                 mode_env = dict(os.environ, HF_HUB_OFFLINE='1') if mode == 'render' else env

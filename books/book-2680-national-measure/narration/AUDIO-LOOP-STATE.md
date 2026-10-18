@@ -849,6 +849,29 @@ subsequent healthy render progress should remain quiet. Owner listening pending.
 -9 short-take issue remains open; next bounded hypothesis is notebook-label colon
   and missing preceding context, not more random takes. No Finished/owner claims.
 
+## 2026-10-18 00:43 UTC — chapter34 live; numeric production repairs corroborated
+
+-1–34 live listening candidates verified.34 full200/32827725bytes/2735.55s,
+  SHA02ced158c041d37fc5244890dbbf662b84435ac2fb09526b3e18b2d02249b6a7,
+  manifest/source/audio/range206.35 renderer86233 healthy, preserved.
+- Numeric13 live:f7e9a09e4b1822e4281672b77edd391cf352eb3742f297a8369ed49d662ab5e8,
+  38998989bytes/3249.82s. Numeric15 live:de3483db957f62b6177221bad5b50db7eb766c5972d0cb3024d99c0e93fda5fa,
+  43296813bytes/3607.97s. Both full200/hash/source/manifest/range206 pass;
+  manifest exposes decimal-digits-v1. Exact ledger values/clauses corroborated
+  by fresh context,15 Rowan clause restored. No prior opaque decimal speech or
+  ledger-clause repetition. NOT whole-chapter/owner/perceptual approval.
+- Window-end ASR nonsensical additions after final neighboring line remain
+  unconfirmed, not authority to replace adjacent takes. Preserve raw evidence.
+ 21 isolated all4 exact normalized, no pickup indicated for its flag set.
+- First merged9 audition failed, preserved/unpromoted. ONE heading-v2 experiment
+  queued: include preceding s252 plus253/254, expose How with quote/period only;
+  exact ordered words unchanged. Explicit written-label instruction; no canon
+  rewrite or production promotion. New diagnostic directory preserves old trials.
+  Source/word-lock/punctuation/window/syntax tests PASS, no test inference.
+- Supervisor97877 reloaded for known bounded diagnostic selection; current PID/
+  session in latest worker-start log.35 child86233 never interrupted. New trial
+  runs at next safe gap; inspect diagnostic-short-heading-v2/review.json.
+
 ## 2026-10-17 17:33 UTC — chapter31 live; nine short-take problem persists
 
 -1–31 live candidates;31 full media200/36286317bytes/3023.78s,

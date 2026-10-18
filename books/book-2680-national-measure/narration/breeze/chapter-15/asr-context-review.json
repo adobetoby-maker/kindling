@@ -1,9 +1,9 @@
 {
   "sourceSha256": "ae7960eb39d25f80027d54809f85c915bb9f50d2d163a3171f54f6f378010892",
-  "audioSha256": "a2f1f85970a639f83761ebd2d6312d8dd92c4839fbb91f6d5c503a6d65767037",
+  "audioSha256": "de3483db957f62b6177221bad5b50db7eb766c5972d0cb3024d99c0e93fda5fa",
   "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
   "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
-  "rawReportSha256": "5936f5cb1f4ceaa1f825e976d920ea2049f7ad44e5a3f0362caede47a34ac9ba",
+  "rawReportSha256": "669eb8bac9b90725ccfd919d02456b9e5cf8f8c639f6f4e412871fab9adbf4a1",
   "state": "context-screened-review-pending",
   "segments": [
     {
@@ -15,27 +15,22 @@
         },
         {
           "id": "s253",
-          "sha256": "a640738e391a57bbe4cbec5105ab7a7938503280ef6b5e414d50f15ba6aff71f"
+          "sha256": "89373fdd817f7a5d4b1e7450d09b6b120e4524dbcabdb8b52bc1952195e3d3c4"
         },
         {
           "id": "s254",
           "sha256": "ea4daab60607078befbe329c1e0f402bb70b8aff71ad9fdb8db0486e0691d058"
         }
       ],
-      "wavSha256": "e07b5323167e196624ab06f4e8666e3217b01c9d4fa9428dcd6103c42c507f7c",
+      "wavSha256": "d1bebaeab71550b9736e1fa3df8f2ab2ebd8a2650768d8a1f7517e3027b061fc",
       "expected": "Jude wrote it in the team book by the firelight, on his knee, with his good hand, and read it out so that everybody heard. \"Thursday the 19th to Friday the 20th. Cowl Edge and the moor above it, on the Line's ground, under the Board's hunt card, our own entry, under Cade. The card, 0.40. A pack of three husks at Garside's mill, broken by shutting the mill's hatch; three bags. A husk alone, at the old kiln on the tops; one bag. Fifty-nine and two-tenths, clean, after the comb; shared half, and an eighth four times. To the book, 7.40. Pryce, a wall and a walk and a count, 0.31. Talley, five cuts, 0.18. Cade, a stance at the hatch and a stance on the way down, 0.12. Rowan, stances, off her own thimble. Finch, nothing lit; four cords tied, a sheet frosted. A cord frosted and thrown away, 0.06.\" He did it twice in the margin, by the fire. \"Held, eight and ninety-three. Sealed, eight-tenths. And a sheet to buy.\"",
-      "transcript": "Jude wrote it in the teen book, by the firelight, on his knee, with his good hand, and read it out so that everybody heard. Thursday the 19th to Friday the 20th. Cowl edge and the moor above it, on the line's ground, under the board's hunt card, our own entry, under Cade. The card, WOM 4. A pack of three husks at Garside's Mill, broken by shutting the mill's hatch, three bags. A husk alone, at the old kiln on the tops, one bag, 59 and two tenths, clean, after the comb, shared half, and an eighth four times. To the book, 7.40. Price. A wall and a walk and a count, 1.31. Tally. Five cuts, 0.18. Cade. A stance at the hatch and a stance on the way down, 1.12. Finch. Nothing lit, four cords tied, a sheet frosted. A cord frosted and thrown away, 0.06. He did it twice, in the margin, by the fire. Held, eight and ninety-three. Sealed, eight tenths, and a sheet to buy.  So, first, not only we three. So because of the things we arrangement, in all the decorations. Hey, there're in the",
+      "transcript": "Jude wrote it in the team book, by the firelight, on his knee, with his good hand, and read it out so that everybody heard. Thursday the 19th to Friday the 20th. Cow ledge and the moor above it, on the line's ground, under the board's hunt card, our own entry, under Cade. The card, 0.40. A pack of three husks at Garside's mill, broken by shutting the mill's hatch, three bags. A husk alone, at the old kiln on the tops, one bag. 59 and two tenths clean, after the comb, shared half, and an eighth four times. To the book, 7.40. Price, a wall and a walk and a count, 0.31. Tally, five cuts, 0.18. Cade, a stance at the hatch and a stance on the way down, 0.12. Rowan, stances off her own thimble. Finch, nothing lit, four cords tied. A sheet frosted. A cord frosted and thrown away, 0.06. He did it twice, in the margin, by the fire. Held, eight and ninety-three. Sealed, eight tenths, and a sheet to buy. The story cuts, thexy.   After that, the change on the Foreign Office.   Goodbye. Time for, for movies before that says,",
       "normalizedExactMatch": false,
       "changes": [
         {
           "operation": "replace",
-          "expected": "team",
-          "actual": "teen"
-        },
-        {
-          "operation": "replace",
-          "expected": "0 40",
-          "actual": "wom 4"
+          "expected": "cowl edge",
+          "actual": "cow ledge"
         },
         {
           "operation": "replace",
@@ -49,33 +44,18 @@
         },
         {
           "operation": "replace",
-          "expected": "0",
-          "actual": "1"
-        },
-        {
-          "operation": "replace",
           "expected": "talley",
           "actual": "tally"
         },
         {
-          "operation": "replace",
-          "expected": "0",
-          "actual": "1"
-        },
-        {
-          "operation": "delete",
-          "expected": "rowan stances off her own thimble",
-          "actual": ""
-        },
-        {
           "operation": "insert",
           "expected": "",
-          "actual": "so first not only we three so because of the things we arrangement in all the decorations hey there're in the"
+          "actual": "the story cuts thexy after that the change on the foreign office goodbye time for for movies before that says"
         }
       ]
     }
   ],
   "ownerListening": "pending",
   "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
-  "requestSha256": "c4a892596bf86917dfc08234ed93a4b0f764011c7fe88ffc8960bc87edbacfc9"
+  "requestSha256": "99e0dd68409e26504310257a4e003ac9207d82141e4ef07c28d74ac2d5cb1fbd"
 }

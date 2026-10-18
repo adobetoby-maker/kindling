@@ -1,58 +1,192 @@
 {
   "sourceSha256": "c3834e03c8298e4ac8cc5552c0abc3022eba896d60c50e868c1ccd19f930ca31",
-  "audioSha256": "8772aebc6ad77e05b228cad6d832ec308b17996f5a397430fe82116c2e2d4717",
+  "audioSha256": "f7e9a09e4b1822e4281672b77edd391cf352eb3742f297a8369ed49d662ab5e8",
   "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
   "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
-  "rawReportSha256": "d419710db7694ee0b9fad0cdc6d1f796e657bcd27d6ed17f4d79448103efd1de",
+  "rawReportSha256": "e5a70157e19038f14b7f169228f4b27f621d306bf5d3ad8d18bcc4583f7a2d63",
   "state": "localized-screened-review-pending",
   "segments": [
     {
-      "id": "s038",
+      "id": "s046",
       "takeBindings": [
         {
-          "id": "s038",
-          "sha256": "6254fd7850ba681fa92dc7c1f358c3fbd1d690310d294d73c3936a411ac553d9"
+          "id": "s046",
+          "sha256": "c849937145e4a95c138013ac5a32cef656f7f44d799a0e2f05bcb8cbcbadf423"
         }
       ],
-      "wavSha256": "6254fd7850ba681fa92dc7c1f358c3fbd1d690310d294d73c3936a411ac553d9",
-      "expected": "\"A quarter,\" said Noa, at the mast. \"At both. Three lines, two gaps, nothing across either.\" He looked up. His face was very pink. \"That's clean. It's all clean.\"",
-      "transcript": "A quarter, said Noah at the mast, at both. Three lines, two gaps, nothing across either. He looked up. His face was very pink. That's clean. It's all clean.",
+      "wavSha256": "c849937145e4a95c138013ac5a32cef656f7f44d799a0e2f05bcb8cbcbadf423",
+      "expected": "There were people on every foot of the rail, three deep. The first company had come, all sixteen, because Coombe had said on Monday that anybody who was not standing a floor that day might watch and learn. Behind them there were the reserves, and a dozen juniors who had come down the hill at six with Bettony at their head, and Orla on a crate that somebody had carried down the steps for her, and Healer Aske by the old mast with his bag. Mara was there. She had not said that she would come. She stood at the west end of the gallery in her work apron with her hands in its pocket, as she stood at a pump house, out of everybody's way.",
+      "transcript": "There were people on every foot of the rail, three deep. The first company had come, all sixteen, because Coombe had said on Monday that anybody who was not standing afloor that day might watch and learn. Behind them there were the reserves, and a dozen juniors who had come down the hill at six, with Bettany at their head, and Orla on a crate that somebody had carried down the steps for her, and Healer-ask by the old mast with his bag. Mara was there. She had not said that she would come. She stood at the west end of the gallery, in her work apron with her hands in its pocket, as she stood at a pump house, out of everybody's way.",
       "normalizedExactMatch": false,
       "changes": [
         {
           "operation": "replace",
-          "expected": "noa",
-          "actual": "noah"
+          "expected": "a floor",
+          "actual": "afloor"
+        },
+        {
+          "operation": "replace",
+          "expected": "bettony",
+          "actual": "bettany"
+        },
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
         }
       ]
     },
     {
-      "id": "s039",
+      "id": "s047",
       "takeBindings": [
         {
-          "id": "s039",
-          "sha256": "352050bf8327d45d0db0a193944f1557f44e05ed8b8f1369a0fc5396ab31bc24"
+          "id": "s047",
+          "sha256": "b57b6d44106a55247ede8c6bc21a7e2320314c6010753a7bad4d01a89762cabb"
         }
       ],
-      "wavSha256": "352050bf8327d45d0db0a193944f1557f44e05ed8b8f1369a0fc5396ab31bc24",
-      "expected": "Perrin opened his eyes.",
-      "transcript": "Perrin opened his eyes.",
+      "wavSha256": "b57b6d44106a55247ede8c6bc21a7e2320314c6010753a7bad4d01a89762cabb",
+      "expected": "Pike was there. Kiva saw him on the steps with Greta Stroud, his white arms on his knees.",
+      "transcript": "Pike was there. Kiva saw him on the steps with Greta Stroud, his white arms on his knees.",
       "normalizedExactMatch": true,
       "changes": []
     },
     {
-      "id": "s040",
+      "id": "s048",
       "takeBindings": [
         {
-          "id": "s040",
-          "sha256": "3f09e1518dcfb51260050627a867244710ef3b2c4aff555862e6c8fd1fb7aa0e"
+          "id": "s048",
+          "sha256": "f46d29353db0ac7127a3c83d4f3d9a3b0d0daba7585d3195c1c280f07a1bd0b7"
         }
       ],
-      "wavSha256": "3f09e1518dcfb51260050627a867244710ef3b2c4aff555862e6c8fd1fb7aa0e",
-      "expected": "\"I'd like it known,\" he said, \"that I'll not be doing that with my eyes shut in front of a Blaze.\"",
-      "transcript": "I'd like it known, he said, that I'll not be doing that with my eyes shut in front of a blaze.",
+      "wavSha256": "f46d29353db0ac7127a3c83d4f3d9a3b0d0daba7585d3195c1c280f07a1bd0b7",
+      "expected": "On the cinder there was the cart, and the grey ward over the cage.",
+      "transcript": "On the cinder there was the cart and the grey ward over the cage.",
       "normalizedExactMatch": true,
       "changes": []
+    },
+    {
+      "id": "s049",
+      "takeBindings": [
+        {
+          "id": "s049",
+          "sha256": "3f42408a33d260b87e87899bef1bbdc89cf8bc18e1017e2dc58bcce952d4b239"
+        }
+      ],
+      "wavSha256": "3f42408a33d260b87e87899bef1bbdc89cf8bc18e1017e2dc58bcce952d4b239",
+      "expected": "\"T7,\" said Coombe. \"Declare.\"",
+      "transcript": "T7 Sedkum declare.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "said coombe",
+          "actual": "sedkum"
+        }
+      ]
+    },
+    {
+      "id": "s152",
+      "takeBindings": [
+        {
+          "id": "s152",
+          "sha256": "b9b5f18703dcb08f3eb5b67191df93b95580c935bbd6a38c1f36cdc1f5f5d482"
+        }
+      ],
+      "wavSha256": "b9b5f18703dcb08f3eb5b67191df93b95580c935bbd6a38c1f36cdc1f5f5d482",
+      "expected": "The yard took her. The cinder took her, and the skin under the cinder, which was cold and hard and did not take a boot. She felt it under her soles as one feels ice on a pond, and she felt it try to rise. It lifted, a finger's breadth, at the far edge, under her weight.",
+      "transcript": "The yard took her, the cinder took her, and the skin under the cinder, which was cold and hard, and did not take a boot. She felt it under her soles as one feels ice on a pond, and she felt it try to rise. It lifted, a finger's breadth, at the far edge, under her weight.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s158",
+      "takeBindings": [
+        {
+          "id": "s158",
+          "sha256": "a50d9ed4290084ff919505caf747b52ef83dbe37445cf15fe80af1436afcf82c"
+        }
+      ],
+      "wavSha256": "a50d9ed4290084ff919505caf747b52ef83dbe37445cf15fe80af1436afcf82c",
+      "expected": "\"Me,\" said Jude. He had come off the string's flank. \"And Cade.\"",
+      "transcript": "Me, said Jude. He had come off the string's flank. And Cade.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s159",
+      "takeBindings": [
+        {
+          "id": "s159",
+          "sha256": "e2a3e757e4da9835dd9f301ecece9668ffa2f4862981356cee1c086d869dfc66"
+        }
+      ],
+      "wavSha256": "e2a3e757e4da9835dd9f301ecece9668ffa2f4862981356cee1c086d869dfc66",
+      "expected": "They hauled. The neck came up. The rung came into it off the skin's edge, slowly, as Kiva stood on the far edge with her still door planted and two dead fingers that could tell her nothing about whether she was going to be folded into a sack with sixty drams of ash; and Anwen's wall stood with the string leaning on it; and at the race, by the steps, the lodger lay along the coping and did not lift its tip.",
+      "transcript": "They hauled. The neck came up. The rung came into it off the skin's edge, slowly, as Kiva stood on the far edge, with her still door planted, and two dead fingers that could tell her nothing about whether she was going to be folded into a sack with sixty drams of ash, and Anwen's wall stood with the string leaning on it, and at the race, by the steps, the lodger lay along the coping, and did not lift its tip.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s175",
+      "takeBindings": [
+        {
+          "id": "s175",
+          "sha256": "2d43aa5df8fc8abfd3fdb82b0a935018f00a533f59af95287cfdd2d98f3ff215"
+        }
+      ],
+      "wavSha256": "2d43aa5df8fc8abfd3fdb82b0a935018f00a533f59af95287cfdd2d98f3ff215",
+      "expected": "He went. He went along the race on his bad leg, slowly, on the cinder side of the coping, with his kill unlit, and the lodger lay along the stone and did not lift its tip; and when he was above the middle of it he lit, and the kill came down out of his shoulder into the stone of the coping and through the grey cord lying on it.",
+      "transcript": "He went, he went along the race on his bad leg, slowly, on the cinder side of the coping, with his kill unlit, and the lodger lay along the stone and did not lift its tip. And when he was above the middle of it, he lit, and the kill came down out of his shoulder into the stone of the coping, and through the grey cord lying on it.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s176",
+      "takeBindings": [
+        {
+          "id": "s176",
+          "sha256": "164adb50031853fede761a905604312fef2277b5bfa377adb81348bb5a1c01a4"
+        }
+      ],
+      "wavSha256": "164adb50031853fede761a905604312fef2277b5bfa377adb81348bb5a1c01a4",
+      "expected": "It did not fall. It came apart. It went to ash all along its length at once, from the cut both ways, as a fuse goes, and lay on the coping in a grey line, a hand high, and then slid off the lip into the dry race, and lay there among the leaves.",
+      "transcript": "It did not fall, it came apart, it went to ash all along its length at once, from the cut both ways as a fuse goes, and lay on the coping in a grey line, a hand high, and then slid off the lip into the dry race, and lay there among the leaves.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s217",
+      "takeBindings": [
+        {
+          "id": "s217",
+          "sha256": "980613052575d09d8524935dc534436d82391ba0a465a14ae935e54f4ac25407"
+        }
+      ],
+      "wavSha256": "980613052575d09d8524935dc534436d82391ba0a465a14ae935e54f4ac25407",
+      "expected": "She went. Four paces east, low, with the cord riding along her fist, and at the top of the bound, with the struts running out of her calves and the Ember beginning to close, she said it again, short, with the swallow.",
+      "transcript": "She went, four paces east, low, with the cord riding along her fist, and at the top of the bound, with the struts running out of her calves, and the ember beginning to close. She said it again, short, with the swallow.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s247",
+      "takeBindings": [
+        {
+          "id": "s247",
+          "sha256": "ead1df3f4a1f12f738e003011f03c17fa5423cfb696eddae222109e445b736eb"
+        }
+      ],
+      "wavSha256": "ead1df3f4a1f12f738e003011f03c17fa5423cfb696eddae222109e445b736eb",
+      "expected": "\"Friday the 13th. The Old Yard. The handed crossing, called; four tries before the Marshal, on the Low Lane's mast, unsanctioned. Finch, two wards, 0.12. Cade, two stances, 0.06. Rowan, Embers, off her own thimble. Spent, 0.18. Held, three and six hundredths.\" He shut the book. \"Sealed, eight-tenths. That adds.\"",
+      "transcript": "Friday the 13th, the old yard. The handed crossing called. Four tries before the marshal on the low lane's mast, unsanctioned. Finch, two wards, 0.12. Cayed, two stances, 0.06. Rowan, embers, off her own thimble. Spent, 0.18. Held, three and six hundredths. He shut the book. Sealed, eight tenths. That adds.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "cade",
+          "actual": "cayed"
+        }
+      ]
     },
     {
       "id": "s007",
@@ -80,84 +214,55 @@
       ]
     },
     {
-      "id": "s037",
+      "id": "s063",
       "takeBindings": [
         {
-          "id": "s037",
-          "sha256": "e528777c086e4128a2a535de02601bdabfb179af8fcb89ee3c61d2ece51d8df9"
+          "id": "s063",
+          "sha256": "61d445d66a1738bef35ec63c209a20b9334587df19ed12dd0d11dd30304dab5d"
         }
       ],
-      "wavSha256": "e528777c086e4128a2a535de02601bdabfb179af8fcb89ee3c61d2ece51d8df9",
-      "expected": "\"Planted,\" said Perrin, with his eyes shut.",
-      "transcript": "Planted, said Perrin, with his eyes shut.",
+      "wavSha256": "61d445d66a1738bef35ec63c209a20b9334587df19ed12dd0d11dd30304dab5d",
+      "expected": "The string had come out facing north. It stood with its head toward the lattice and its skin laid down behind it on the south, downhill, toward the race.",
+      "transcript": "The string had come out facing north. It stood with its head toward the lattice, and its skin laid down behind it on the south, downhill, toward the race.",
       "normalizedExactMatch": true,
       "changes": []
     },
     {
-      "id": "s101",
+      "id": "s153",
       "takeBindings": [
         {
-          "id": "s101",
-          "sha256": "b7d11496430ba0470f691b70049dd264a69c68ebc850b4088ba1cd2116475786"
+          "id": "s153",
+          "sha256": "ce2257b6203f90e3576b01e68f73df7588f0234ca1666012dd214dd3ad8bccea"
         }
       ],
-      "wavSha256": "b7d11496430ba0470f691b70049dd264a69c68ebc850b4088ba1cd2116475786",
-      "expected": "Kiva could not tie it.",
-      "transcript": "Kiva could not tie it.",
+      "wavSha256": "ce2257b6203f90e3576b01e68f73df7588f0234ca1666012dd214dd3ad8bccea",
+      "expected": "It did not fold.",
+      "transcript": "It did not fold.",
       "normalizedExactMatch": true,
       "changes": []
     },
     {
-      "id": "s148",
+      "id": "s205",
       "takeBindings": [
         {
-          "id": "s148",
-          "sha256": "12d8928da122c59df842ed1b2ec17e9c183bd02c5e5b2fa813730e16ea46c0c1"
+          "id": "s205",
+          "sha256": "f6cf1ffcc007a5533e57a4d2c96fc8e79510169ff8506be1c12571466a5be431"
         }
       ],
-      "wavSha256": "12d8928da122c59df842ed1b2ec17e9c183bd02c5e5b2fa813730e16ea46c0c1",
-      "expected": "\"I can't turn it.\"",
-      "transcript": "I can't turn it.",
-      "normalizedExactMatch": true,
-      "changes": []
-    },
-    {
-      "id": "s195",
-      "takeBindings": [
-        {
-          "id": "s195",
-          "sha256": "6aa754754cf328f4547f1cb719f616ce305ac78de79f4f9f89592be1525c8861"
-        }
-      ],
-      "wavSha256": "6aa754754cf328f4547f1cb719f616ce305ac78de79f4f9f89592be1525c8861",
-      "expected": "\"You dropped your count to haul. You said so, aloud, so that nobody would think they had it. Then you put a stance at your Hold's back when she asked for one. Then your catcher said a word and you shut it and stepped off without asking why.\" Coombe's voice did not change by a hair. \"Then you told your four that nobody stands together, before any of them could think of it for themselves. And you tied a bag like a man holding a cigarette.\" She paused. \"Your catcher said nobody. Who taught you to open and shut on it?\"",
-      "transcript": "You dropped your count to Hall. You said so, aloud so that nobody would think they had it. Then you put a stance at your Hold's back when she asked for one. Then your catcher said a word, and you shut it, and stepped off without asking why. Coombe's voice did not change by a hair. Then you told your four that nobody stands together, before any of them could think of it for themselves. And you tied a bag like a man holding a cigarette. She paused. Your catcher said nobody. Who taught you to open and shut on it?",
+      "wavSha256": "f6cf1ffcc007a5533e57a4d2c96fc8e79510169ff8506be1c12571466a5be431",
+      "expected": "\"So if we hunt, and somebody's hurt. On our own entry. It's not Sorn's slate. It's not an officer's.\"",
+      "transcript": "So if we hunt and somebody's hurt on our own entry, it's not sawn slate, it's not an officus.",
       "normalizedExactMatch": false,
       "changes": [
         {
           "operation": "replace",
-          "expected": "haul",
-          "actual": "hall"
-        }
-      ]
-    },
-    {
-      "id": "s223",
-      "takeBindings": [
-        {
-          "id": "s223",
-          "sha256": "a2d394128b7426b5cf622fd173a1a8f5840214269d1e61c680159fd1046e6366"
-        }
-      ],
-      "wavSha256": "a2d394128b7426b5cf622fd173a1a8f5840214269d1e61c680159fd1046e6366",
-      "expected": "They did it four times. On the third, Perrin opened early, before the end of the word, and his still door was there and waiting and empty for half a count before Kiva came down into it, and Noa said clean and then said early, and Perrin said that he would rather be early than late, and Coombe said nothing. On the fourth it was a quarter at both.",
-      "transcript": "They did it four times. On the third, Perrin opened early, before the end of the word, and his still door was there and waiting and empty for half a count before Kiva came down into it. And Noah said clean, and then said early. And Perrin said that he would rather be early than late, and Coombe said nothing. On the fourth, it was a quarter at both.",
-      "normalizedExactMatch": false,
-      "changes": [
+          "expected": "sorn's",
+          "actual": "sawn"
+        },
         {
           "operation": "replace",
-          "expected": "noa",
-          "actual": "noah"
+          "expected": "officer's",
+          "actual": "officus"
         }
       ]
     }

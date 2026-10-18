@@ -1,44 +1,11 @@
 {
   "sourceSha256": "c3834e03c8298e4ac8cc5552c0abc3022eba896d60c50e868c1ccd19f930ca31",
-  "audioSha256": "8772aebc6ad77e05b228cad6d832ec308b17996f5a397430fe82116c2e2d4717",
+  "audioSha256": "f7e9a09e4b1822e4281672b77edd391cf352eb3742f297a8369ed49d662ab5e8",
   "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
   "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
-  "rawReportSha256": "d419710db7694ee0b9fad0cdc6d1f796e657bcd27d6ed17f4d79448103efd1de",
+  "rawReportSha256": "e5a70157e19038f14b7f169228f4b27f621d306bf5d3ad8d18bcc4583f7a2d63",
   "state": "context-screened-review-pending",
   "segments": [
-    {
-      "id": "s100",
-      "takeBindings": [
-        {
-          "id": "s099",
-          "sha256": "a870a8ec19e354eb0afc085f8dbbdcb376e0b27ae6b75db5d1e4d95d09b25d5c"
-        },
-        {
-          "id": "s100",
-          "sha256": "68bfd71581d72ec56f0cbb72927b984310ed1e4e25854b925960843676b499fe"
-        },
-        {
-          "id": "s101",
-          "sha256": "b7d11496430ba0470f691b70049dd264a69c68ebc850b4088ba1cd2116475786"
-        }
-      ],
-      "wavSha256": "048dbfbfaf9b47bb6a30d2d4b3e6f15496e7411abf3441d8416ac923d787a7c7",
-      "expected": "\"No.\" \"Then I'll take the south.\" And he came off the lattice at a run, and Kiva saw him leave his count, and saw him know that he was leaving it, and say so: \"Count's dropped. Nobody has it. There's nothing to count.\" He knelt at the south corner and hauled, and the neck came up straight. Kiva could not tie it.",
-      "transcript": "No. Then I'll take the south. And he came off the lattice at a run, and Kiva saw him leave his count, and saw him know that he was leaving it, and say so. Counts dropped, nobody has it, there's nothing to count. He knelt at the south corner and hauled, and the neck came up straight. Kiva could not tie it. So right now the north is sc investir with liquid composition,",
-      "normalizedExactMatch": false,
-      "changes": [
-        {
-          "operation": "replace",
-          "expected": "count's",
-          "actual": "counts"
-        },
-        {
-          "operation": "insert",
-          "expected": "",
-          "actual": "so right now the north is sc investir with liquid composition"
-        }
-      ]
-    },
     {
       "id": "s245",
       "takeBindings": [
@@ -48,33 +15,18 @@
         },
         {
           "id": "s245",
-          "sha256": "518c2ab91592ee99bd1503f4e7879b41f3fdeb513deeb0a54b3f4d37b0e35b0f"
+          "sha256": "4c3d07428ce319a684b41bfc2b791249bc508556278ec452a61df036cc28f0d5"
         },
         {
           "id": "s246",
           "sha256": "61661b5244706d175c1086c481e9eea630800588aeacfb2e09940689359d89b4"
         }
       ],
-      "wavSha256": "26fd33fcd18df495eeade535bb3141a7fe0c436e55a5924e3f585c06977d7c07",
+      "wavSha256": "13421caa942bc2221f2fda5334a30a477c871535ed0ee415e1aee6210e143a09",
       "expected": "Jude entered the floor and the yard on Saturday morning, at the Rowan kitchen table, standing by the dresser. \"Thursday the 12th. The Pit, the Marshal's floor. Four heads at 1.0: 4.0, to the Board. A Flask: a string of three on end with a skin, and a lodger. Three bags, the Board's. Pryce, a wall and a walk and a cord, 0.22. Talley, three cuts and a lodger, 0.14. Cade, two stances, 0.08. Rowan, two stances and a stand, off her own thimble. Spent, 4.44. Licensed, in our own right; one remark.\" He did it twice in the margin. \"Held, three and twenty-four. That's from seven and sixty-eight.\" \"And Friday,\" said Anwen.",
-      "transcript": "Jude entered the floor and the yard on Saturday morning, at the row and kitchen table, standing by the dresser. Thursday the twelfth, the pit, the marshal's floor. Four heads at one four four to the board. A flask, a string of three on end with a skin and a lodger. Three bags, the boards. Price, a wall and a walk and a cord. Isiro. Three bags, the boards. Price, a wall and a walk and a cord. Isiro. Tally, three cuts and a lodger. Isiro. Point one four. Cade, two stances. Isiro. Four eight. Rowan, two stances and a stand. Off her own thimble. Spent, four point four four. Licensed, in our own right. One remark. He did it twice in the margin. Held. Three and twenty-four. That's from seven and sixty-eight. And Friday, said Anwen.",
+      "transcript": "Jude entered the floor and the yard on Saturday morning at the Rowan kitchen table standing by the dresser. Thursday the 12th. The pit. The marshal's floor. Four heads at 1.0. 4.0. To the board. A flask. A string of three on end with a skin and a lodger. Three bags. The boards. Price. A wall and a walk and a cord. 0.22. Tally. Three cuts and a lodger. 0.14. Cade. Two stances. 0.08. Rowan. Two stances and a stand off her own thimble. Spent. 4.44. Licensed in our own right. One remark. He did it twice in the margin. Held. 3 and 24. That's from 7 and 68. And Friday, said Anwen. One ederim. Oneoof.    One. One.",
       "normalizedExactMatch": false,
       "changes": [
-        {
-          "operation": "replace",
-          "expected": "rowan",
-          "actual": "row and"
-        },
-        {
-          "operation": "replace",
-          "expected": "12th",
-          "actual": "twelfth"
-        },
-        {
-          "operation": "replace",
-          "expected": "1 0 4 0",
-          "actual": "one four four"
-        },
         {
           "operation": "replace",
           "expected": "board's pryce",
@@ -82,28 +34,38 @@
         },
         {
           "operation": "replace",
-          "expected": "0 22 talley",
-          "actual": "isiro three bags the boards price a wall and a walk and a cord isiro tally"
+          "expected": "talley",
+          "actual": "tally"
         },
         {
           "operation": "replace",
-          "expected": "0 14",
-          "actual": "isiro point one four"
+          "expected": "three",
+          "actual": "3"
         },
         {
           "operation": "replace",
-          "expected": "0 08",
-          "actual": "isiro four eight"
+          "expected": "twenty four",
+          "actual": "24"
         },
         {
           "operation": "replace",
-          "expected": "4 44",
-          "actual": "four point four four"
+          "expected": "seven",
+          "actual": "7"
+        },
+        {
+          "operation": "replace",
+          "expected": "sixty eight",
+          "actual": "68"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "one ederim oneoof one one"
         }
       ]
     }
   ],
   "ownerListening": "pending",
   "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
-  "requestSha256": "41d39594904c964efbf61ce6873022c9108ce4f9ef0542a6ae312e0c814b304d"
+  "requestSha256": "0691873006aefab321a368bffe344fe444eab934a4fe044f9b22d24fda8d9078"
 }
