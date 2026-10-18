@@ -1,5 +1,21 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T16:38:46Z
+
+- Chapters 1–42 live verified. Chapter 43 published at 16:37:47Z; full media
+  HTTP 200, exact 28,649,709 bytes and SHA
+  bca947cad7bbe6130876636ca7ebb1603d8b4130eb3ce4502a799c896403316b,
+  range 206 / 1,024 bytes. Live manifest entry not yet deployed at 16:38:34Z;
+  keep publication awaiting full live verification. Duration 2,387.38 seconds.
+- Worker 70030 is running serialized chapter 43 Whisper screening. Chapter 26
+  reviewed s071 pickup has not yet applied; preserve worker, no duplicate render.
+- CPU pause audits now 43/43 narrow inserted-zero-silence/frame-count passes.
+  Chapter 42/43 authored rests 390.4/331.7 sec; median join estimates 2,250 ms.
+  Loudness measured -21.6/-21.9 LUFS, true peaks -0.6/-0.9 dBFS, respectively.
+  Delivery target mismatches remain open; no waveform or mastering edits.
+- Next: verify 43 live manifest, inspect 26 one-shot repair/new QA and 30 isolated
+  review when generated. Context 28/29/38 queued. No Finished/human-listen claim.
+
 ## Latest checkpoint — 2026-10-18T15:39Z
 
 - Chapters 1–42 live verified. Chapter 42: 35,311,725 bytes / 2,942.56 sec,
