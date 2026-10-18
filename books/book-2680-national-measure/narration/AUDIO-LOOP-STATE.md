@@ -1,5 +1,17 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T14:41Z
+
+- Chapter 42 healthy, 150/185 checkpoints with current writes. Existing worker
+  70030 / renderer 48164 preserved; chapters 1–41 remain live verified.
+- CPU-only delivery survey extended to 40/41: -21.3/-21.6 LUFS, both -0.4 dBFS
+  true peak. Target mismatch remains open; no mastering or waveform edits.
+- Chapter 41 inserted-silence/frame-count audit passed, now 41/41 published
+  candidates checked in this limited scope. Authored silence 376.65 sec (12.65%);
+  estimated join median 2,250 ms / p90 2,410 ms. Not coverage/voice/pacing approval.
+- Contextual followups remain queued (26 s071, 28 s031, repaired 38 s123).
+  No extra Metal/model jobs started. Other QA and owner listening remain pending.
+
 ## Latest checkpoint — 2026-10-18T13:39Z
 
 - Chapters 1–41 live verified. Chapter 41: 35,739,117 bytes / 2,978.17 seconds,
