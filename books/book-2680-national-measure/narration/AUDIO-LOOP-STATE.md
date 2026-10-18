@@ -1,5 +1,17 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T05:35Z
+
+- Chapter 37 healthy at 178/208 checkpointed segments with recent writes;
+  renderer 3974 / supervisor 70030 preserved. Chapters 1–36 live verified.
+- Additional full-MP3 CPU-only loudness screen on chapter 36: -21.6 LUFS,
+  6.7 LU range, -0.5 dBFS true peak. Open mastering/headroom item: this does not
+  meet the reusable verifier's -3 dB true-peak ceiling. Segment sample-peak and
+  decode passes are narrower checks, not a final mastering pass. Measurement
+  saved hash-bound in chapter-36/loudness-screen.json; no waveform/publication
+  change. Need consistent whole-book delivery/mastering review before closing.
+- Coverage/perceptual/voice/pacing residuals and owner listening still pending.
+
 ## Latest checkpoint — 2026-10-18T04:37:25Z
 
 - Chapters 1–36 now live verified. Chapter 36 full media SHA

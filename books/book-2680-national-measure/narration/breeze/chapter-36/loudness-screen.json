@@ -1,0 +1,11 @@
+{
+  "audioSha256": "ef7120f8b217e4f00a33f283c864c72b61b2fd0ba74e880528d5ceeb3db6758d",
+  "tool": "ffmpeg ebur128=peak=true; full decoded MP3; measurement only",
+  "integratedLufs": -21.6,
+  "loudnessRangeLu": 6.7,
+  "truePeakDbfs": -0.5,
+  "state": "measured-mastering-review-pending",
+  "finding": "Not a true-peak mastering pass against the reusable verifier's -3 dB ceiling (+0.25 dB tolerance). Existing segment sample-peak/decode checks do not substitute for decoded MP3 true-peak headroom.",
+  "decision": "Keep listening candidate unchanged; retain this mastering issue for delivery review and a source/hash-preserving master strategy. No time stretching, no claimed human listen or Finished approval.",
+  "ownerListening": "pending"
+}
