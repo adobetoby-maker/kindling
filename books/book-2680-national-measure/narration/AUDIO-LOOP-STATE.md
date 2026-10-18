@@ -1,5 +1,32 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T21:46Z
+
+- Chapters 1–45 live verified. Chapter 45: 36,764,397 bytes / 3,063.62 sec,
+  SHA 189afb7623e5915bb2b0baafa83ebaf59b88313863213683326b27ca7b5d2a83;
+  manifest source/audio match, full 200 / range 206. Ordered-waveform/fade/silence
+  audit passed; loudness -22.1 LUFS / -0.6 dBFS true peak (mastering still open).
+- Worker 70030 / renderer 97086 renders chapter 46, 84/183 at check, preserved.
+- Chapter 29 shifted context again reproduces extra Ember single after s066;
+  exact words occur in its old instruct, absent from spoken text. Queued one
+  source/audio/take-bound s066 repair with simpler direction, no words/order/pause
+  changes (validated). Frozen old score plus before/after hashes retained; existing
+  worker applies after 46. Old candidate and other takes preserved; new target and
+  joins require recheck. Re-run 29 delivery audits after replacement.
+- Reviewed 32 isolated flags; contextual s091 ledger K / s164 ordinal requested.
+  Context 30/31/38 remains queued. Final coverage/voice, mastering and pace target
+  mismatches and owner listening remain open; do not pause at upload completion.
+
+## Latest checkpoint — 2026-10-18T20:44Z
+
+- Chapter 45 healthy at 172/178 segment checkpoints; existing worker 70030 /
+  renderer 34934 preserved. No publication yet; chapters 1–44 live verified.
+- Rechecked all 44 ordered-waveform audit summaries against current publication
+  source/audio hashes: all match, including repaired 26. No additional audit/model
+  process needed while render completes. Context 29 shifted request not yet run;
+  no new 32 isolated report. Existing coverage/mastering/pacing/voice and owner
+  listening items remain unresolved. Do not pause or claim final completion.
+
 ## Latest checkpoint — 2026-10-18T19:46Z
 
 - Chapters 1–44 live verified. Chapter 44: 42,752,493 bytes / 3,562.63 sec,

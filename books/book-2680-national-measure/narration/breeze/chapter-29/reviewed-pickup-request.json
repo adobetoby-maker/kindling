@@ -1,0 +1,13 @@
+{
+  "reviewer": "Codex",
+  "decision": "one-bounded-pickup",
+  "sourceSha256": "9fc46737f1933c505a25774e156b43e32d422712aa4543094b8fd635b17318fe",
+  "audioSha256": "08f31165218964a2f85100e178f071d981906e43f51daf001724dccdbe882a82",
+  "beforeDirectionSha256": "291670121ada4fe06f3086a7ae4d8c71a1beb8d7ca589ebb440d277580700eef",
+  "afterDirectionSha256": "15bc125cf1b98580f4a1e4a20847a3a3f86f9e17f0993ae743b3271721eeb9f2",
+  "takes": [{"id": "s066", "wavSha256": "612d0484a0f511d6880c88e9934aa63684339a64fe00e0bc5f67b85226edf36d"}],
+  "reason": "Two shifted context windows reproduce an extra phrase ending Ember single after s066. That phrase is present in the old instruction Read Ember single as a deliberate choice but absent from this sentence's canonical spoken text. Simplify only s066 instruction to eliminate unrelated scene wording/numeric timing; preserve exact sentence, pauses, voice, source, order and all other takes. One bounded intervention; not an automatic ASR pickup or blind loop.",
+  "evidence": ["asr-context-review.first-pass.json", "asr-context-review.json", "direction.before-s066-repair.json"],
+  "preparationAmendment": "Only instruction digest superseded. Prepared prose and paragraph clarity unchanged. Replacement coverage and both joins require hash-bound recheck.",
+  "ownerListening": "pending"
+}
