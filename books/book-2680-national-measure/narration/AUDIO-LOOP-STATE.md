@@ -1,5 +1,20 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T17:45Z
+
+- Chapters 1–43 live verified, including deployed 43 manifest and replacement 26.
+  New 26 SHA 1c2288de4c7bf35adc963ed234197650b3e87d4a997a8ffb8137cb6fd84e8a56,
+  26,607,213 bytes / 2,217.18 seconds; full media 200, range 206, manifest/source
+  binding matches. Simplified-direction s071 recheck restores as it always lay;
+  no instruction-like phrase reproduced. Other 26 residuals remain, no final pass.
+- Refreshed 26 delivery/pause audits for new hash: -22 LUFS / -0.8 dBFS true peak;
+  inserted silence/frame count passed. Old 26 survey reports are historical and
+  superseded for current candidate; preserved in Git. No mastering edits.
+- Worker 70030 / renderer 90262 is rendering 44, 111/248 at check. Preserve it.
+- Reviewed 28 context: a skin resolved, at/it once uncertain. Reviewed 30 isolated
+  flags; queued s113/s115/s160 contextual check. Context 29 and repaired 38 remain
+  queued. Delivery target mismatches, coverage/voice/pacing and owner listen open.
+
 ## Latest checkpoint — 2026-10-18T16:38:46Z
 
 - Chapters 1–42 live verified. Chapter 43 published at 16:37:47Z; full media
