@@ -1,5 +1,21 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T06:42Z
+
+- Chapters 1–37 live verified. Chapter 37: 36,927,405 bytes / 3,077.2 seconds,
+  SHA `1a9adfa4ee3a878bd3dea0a345683138b80febdd5d5c47848091bfebc717b655`,
+  manifest source/audio match, full HTTP 200 / range 206. Four peak-flagged takes
+  received the existing bounded retry before publication; no new pickup loop.
+- Worker 70030 / renderer 95793 is rendering chapter 38; preserve them.
+- Chapter 24 isolated flags reviewed: one exact, one only Pru/Trewin name-spelling
+  differences. No pickup indicated for these flags, not whole-chapter approval.
+- Started CPU-only `scripts/nm-loudness-survey.py`, PID 60404 / session 90240,
+  sequential full-MP3 ebur128 measurements of published candidates. Checkpoints
+  `chapter-NN/delivery-loudness.json` by source/audio hash; no waveform or manifest
+  edits and no Metal model. First chapter measured -20.7 LUFS / -0.4 dBFS true
+  peak. Inspect complete survey before delivery/mastering decisions. Other QA
+  residuals and owner listening remain pending; text complete at 325,936 words.
+
 ## Latest checkpoint — 2026-10-18T05:35Z
 
 - Chapter 37 healthy at 178/208 checkpointed segments with recent writes;
