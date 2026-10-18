@@ -1,5 +1,20 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T08:42Z
+
+- Chapter 38 publication HELD: s123 still reached PCM rail after bounded retry,
+  one sample at 0.9999694824. Failed take/score/error recoverably archived in
+  chapter-38/held-takes. No chapter 38 published candidate was claimed.
+- Queued one changed-direction intervention for s123 only: quiet contained
+  conversational pride, gentle dynamics, explicit narrator resets. Exact text,
+  order, pauses, source and all other 157 takes unchanged; validation passed.
+  Provenance in QUIET-S123-REPAIR.json. Existing worker will resume missing take
+  after chapter 39; if failure recurs, hold readiness for diagnosis, no blind loop.
+  Recheck target coverage and both joins after successful render/publication.
+- Worker 70030 / renderer 1201 remains on chapter 39. Preserve it; one Metal job.
+  Chapter 25 isolated checks not yet generated because chapter 38 was not published.
+  Chapters 1–37 live verified. Mastering and other QA/owner listening remain open.
+
 ## Latest checkpoint — 2026-10-18T07:39Z
 
 - Chapter 38 healthy, 156/158 segment checkpoints with current writes. Renderer
