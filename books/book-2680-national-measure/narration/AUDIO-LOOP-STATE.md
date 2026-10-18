@@ -1,5 +1,23 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T19:46Z
+
+- Chapters 1–44 live verified. Chapter 44: 42,752,493 bytes / 3,562.63 sec,
+  SHA 258e805e7c8d4427348262ed42e9c1913c45dfc9099fdd0868173809fc2e01be;
+  manifest source/audio match, full HTTP 200 / range 206. Worker 70030 /
+  renderer 34934 renders chapter 45 (78/178 at check), preserved.
+- Ordered waveform/five-ms-fade plus inserted-silence/frame-count audits passed
+  all 44 currently published uncompressed masters. Chapter 44 authored silence
+  522.15 sec (14.66%), estimated median gap 2,250 ms / p90 2,490 ms.
+  Narrow waveform checks do not prove spoken-word coverage/voice/pace acceptance.
+  Full MP3 44 loudness -21.9 LUFS / -0.3 dBFS true peak: mastering mismatch open.
+- Reviewed 29 context: s004 resolved, s067/s170 residuals retained. Shifted one
+  s066 window queued to localize uncorroborated internal extra phrase. First-pass
+  request/report frozen. Reviewed 31 isolated flags; queued s060/s078/s127 context.
+  Context 30 and repaired 38 also queued; keep one model owner, no blind pickups.
+- Text complete at 325,936 words. Mastering/pacing/voice/coverage and owner listen
+  remain open; no Finished claim or heartbeat pause justified.
+
 ## Latest checkpoint — 2026-10-18T18:43Z
 
 - Chapter 44 healthy at 232/248 segments with recent writes. Worker 70030 /

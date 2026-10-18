@@ -4,12 +4,14 @@
   "masterSha256": "e197346f19f7ef229350c0112e4e743b91eccbf61b4efe7925158f2d58de2908",
   "pauseReportSha256": "9bfa46c37158502d069c5d4c0a8b205b4f6605070ed4c84754adf3d090b5b03e",
   "allInsertedSilenceAndTotalLengthVerified": true,
+  "allOrderedTakeWaveformsAndFiveMsFadesVerified": true,
+  "maximumPcm16QuantizationDifference": 3.0517112463712692e-05,
   "segments": 206,
   "authoredSilenceSec": 436.2,
   "uncompressedDurationSec": 2786.52,
   "authoredSilenceFraction": 0.15653933939106843,
   "medianEstimatedJoinGapMs": 2270.0,
   "p90EstimatedJoinGapMs": 2500.0,
-  "scope": "Exact zero inserted silence and total frame count; native edges threshold -50 dB, 10 ms resolution. Not speech coverage, waveform order proof, identity or pacing acceptance.",
+  "scope": "Ordered source-take waveforms plus five-ms fades within one PCM16 quantization step; exact inserted silence and total frame count. Native edges threshold -50 dB, 10 ms resolution. Not spoken-word coverage, identity or pacing acceptance.",
   "ownerListening": "pending"
 }
