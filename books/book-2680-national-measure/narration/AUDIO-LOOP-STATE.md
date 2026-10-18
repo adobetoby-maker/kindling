@@ -1,5 +1,33 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-18T02:36:40Z
+
+- All 48 accepted text chapters remain complete, 325,936 words. Chapters 1–35
+  audio now live verified. Chapter 35 manifest source/audio hashes match the
+  full-media hash/bytes and range-access check recorded in the previous checkpoint.
+- Worker 70030 / renderer 60558 is rendering chapter 36; preserve both.
+- Short-heading-v2 diagnostic recovers chapter 9's How / She stopped but ASR
+  drops neighboring I'll to I. Retained as diagnostic, NOT promoted. No new
+  production replacement or blind retry authorized.
+- Chapter 22 isolated flags reviewed: queued contextual s026/s043/s049 checks;
+  names/homophones alone do not justify pickups. Prior QA residuals and all
+  perceptual/owner listening remain pending. No Finished claim.
+
+## Latest checkpoint — 2026-10-18T01:39:21Z
+
+- Accepted text remains complete: 48 chapters / 325,936 words. No author restart.
+- Chapters 1–34 previously live verified. Chapter 35 published at 01:38:06Z;
+  full media HTTP 200, 33,829,101 bytes, SHA-256
+  `4ba43384aac887bd0e6709f317ad8b8341191e17ed396c7d119b60f46610ff88`
+  matched the publication record; byte range returned 206 / 1,024 bytes.
+  Live PWA manifest had not yet exposed that audio hash at this check, so retain
+  pushed-awaiting-live-verification until the manifest/source binding is checked.
+- Existing worker PID 70030 is proceeding into chapter 35 serialized Whisper
+  screening. Preserve it; no duplicate renderer or writing/review process started.
+- Next: verify chapter 35 live manifest entry, inspect queued short-heading-v2
+  diagnostic and chapter 22 isolated review. Existing QA residuals, perceptual
+  review and owner listening remain pending; no Finished claim.
+
 ## Current phase
 
 Book context preparation for the sixteen accepted chapters. The book remains in
