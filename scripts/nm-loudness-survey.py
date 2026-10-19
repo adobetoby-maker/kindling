@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Hash-bound CPU-only delivery measurements; never modify or approve audio."""
+import argparse
 import hashlib
 import json
 import re
@@ -12,12 +13,19 @@ QUEUE = ROOT / 'books/book-2680-national-measure/narration/breeze'
 
 
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--include-unpublished', action='store_true')
+    args = parser.parse_args()
     for directory in sorted(QUEUE.glob('chapter-[0-9][0-9]')):
         pub = directory / 'published.json'
+        if not pub.exists() and args.include_unpublished:
+            pub = directory / 'technical-review.json'
         audio = directory / f'{directory.name}.breeze-calder.mp3'
         if not pub.exists() or not audio.exists():
             continue
         binding = json.loads(pub.read_text())
+        if pub.name == 'technical-review.json':
+            assert binding['wordLock'] == 'passed' and binding['decode'] == 'passed'
         digest = hashlib.sha256(audio.read_bytes()).hexdigest()
         if digest != binding['audioSha256']:
             raise RuntimeError(f'{directory.name}: publication/audio hash mismatch')
@@ -37,6 +45,8 @@ def main():
         report = {
             'checkedAt': datetime.now(timezone.utc).isoformat(),
             'sourceSha256': binding['sourceSha256'], 'audioSha256': digest,
+            'bindingRecord': pub.name,
+            'publicationClaim': 'none; measurement only',
             'bytes': audio.stat().st_size, 'durationSec': binding['durationSec'],
             'tool': 'ffmpeg ebur128=peak=true:framelog=verbose; full decoded MP3',
             'integratedLufs': number(r'I:\s+([-\d.]+) LUFS'),

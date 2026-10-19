@@ -1,5 +1,22 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T01:50Z
+
+- Publication budget hold remains; no upload retry or billing action attempted.
+  Chapters 1–46 previously live verified. Chapter 48 healthy, 111/168 segments
+  with current writes, renderer 62404 / supervisor 70030 preserved. Queue holds
+  for 47/48 and repairs 30/33 remain in place.
+- Added explicit unpublished-candidate modes to CPU pause/loudness audits using
+  existing technical-review.json (requires word-lock/decode pass), never fabricate
+  published.json. Local 47 ordered-waveform/fade/silence/frame-count audit passed:
+  3,088.76 sec, authored rests 367 sec (11.88%), median estimated gap 2,250 ms,
+  p90 2,540 ms. Full decoded MP3 -21.5 LUFS / -0.5 dBFS true peak; mastering
+  target remains unresolved. Reports bind source/audio hash and explicitly make
+  no publication claim. No waveform edits or additional Metal model loaded.
+- Await owner restoration of LFS access or explicit alternate hosting direction.
+  Safe local QA can continue after 48 frees the model slot. Existing coverage,
+  voice/pacing/mastering residuals and owner listen remain open; not complete.
+
 ## Latest checkpoint — 2026-10-19T00:50Z — owner action required
 
 - GitHub LFS budget exhausted. Chapter 47 render complete (173/173), but upload

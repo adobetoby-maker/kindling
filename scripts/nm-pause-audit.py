@@ -19,9 +19,12 @@ def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def audit(number):
+def audit(number, unpublished=False):
     directory = QUEUE / f'chapter-{number:02d}'
-    publication = json.loads((directory / 'published.json').read_text())
+    binding_path = directory / ('technical-review.json' if unpublished else 'published.json')
+    publication = json.loads(binding_path.read_text())
+    if unpublished:
+        assert publication['wordLock'] == 'passed' and publication['decode'] == 'passed'
     track = json.loads((directory / 'direction.json').read_text())
     mp3 = directory / f'chapter-{number:02d}.breeze-calder.mp3'
     master = directory / f'{directory.name}.edge-faded.wav'
@@ -67,6 +70,8 @@ def audit(number):
     authored = sum(x['pauseAfterMs'] for x in segments) / 1000
     duration = sf.info(master).duration
     summary = {'sourceSha256': publication['sourceSha256'],
+               'bindingRecord': binding_path.name,
+               'publicationClaim': 'none; local technical candidate' if unpublished else 'see published.json for current publication state',
                'audioSha256': publication['audioSha256'],
                'masterSha256': record['masterSha256'],
                'pauseReportSha256': digest(path.with_suffix('.pauses.json')),
@@ -87,9 +92,13 @@ def audit(number):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('chapter', type=int, nargs='?')
-    selected = parser.parse_args().chapter
+    parser.add_argument('--unpublished', action='store_true')
+    args = parser.parse_args()
+    selected = args.chapter
+    if args.unpublished and selected is None:
+        parser.error('--unpublished requires an explicit chapter')
     if selected is not None:
-        audit(selected)
+        audit(selected, args.unpublished)
     else:
         for number in range(1, 49):
             if (QUEUE / f'chapter-{number:02d}' / 'published.json').exists():
