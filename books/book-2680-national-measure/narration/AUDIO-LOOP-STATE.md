@@ -1,5 +1,20 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T00:50Z — owner action required
+
+- GitHub LFS budget exhausted. Chapter 47 render complete (173/173), but upload
+  object 2e836fb6fcbbeea9b08401bf9a1b709b6afc94069679ef836e5e999d50cd8109
+  rejected; one direct retry confirms explicit repository budget error. No paid
+  limit/billing changed. Chapters 1–46 previously live verified; 47 not published.
+- Preserved supervisor 70030 / active chapter 48 renderer 62404 (6/168 at check).
+  Recoverably held 47/48 direction.ready and 30/33 reviewed pickup requests under
+  publication-held filenames to avoid repeated upload failures/displacing old
+  publication records. Current 48 render continues; no duplicate launched.
+- PUBLICATION-BUDGET-HOLD.md records exact recovery. Owner must restore LFS access
+  or authorize another destination. Keep all checkpoints and existing voices.
+  Text complete 48 chapters / 325,936 words; final audio QA/coverage/voice/mastering/
+  pacing and owner listen still open. No completion or heartbeat pause claimed.
+
 ## Latest checkpoint — 2026-10-18T23:42Z
 
 - Chapters 1–46 live verified, including deployed 46 manifest. Replacement 29
