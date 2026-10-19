@@ -1,5 +1,23 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T11:10Z
+
+- Naturalness screen finished:1,152 sampled estimates, median3.81785,55 flags
+  retained (30 below3.15;25 relative-only). Raw report+completion saved. Not human
+  MOS, full-book approval or evidence to replace takes automatically.
+- Found reference confound: identical Calder reference scored2.6827–3.9829 over
+  48 repeated predictions because the existing verifier seeds once and advances
+  crop randomness. Chapter-relative floors need controlled comparison. See
+  breeze/NATURALNESS-SCREEN-REVIEW.md; original report remains untouched.
+- Active bounded follow-up shell91941 / PID15454: nm-naturalness-controls.py,
+  CPU-only, offline-qa.lock. Fixed seed42 before each input; first3 identical
+  reference repeats give3.4474332332611084. Then55 original outliers,10 reference
+  duration controls and old/new48 s112. Inspect review.json before more model work;
+  no duplicate or automatic repair/promotion. Worker busy guard includes this job.
+- Text remains48 accepted chapters/325936 words. No author restart;46 audio
+  chapters previously live verified,47/48 publication still held by LFS budget.
+  Word-coverage residuals, pace/mastering, identity and owner listen remain open.
+
 ## Latest checkpoint — 2026-10-19T10:20Z
 
 - Sampled identity finished: 1,152 checks, median .9491; 50 below .84 remain
