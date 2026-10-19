@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Three exact-word diagnostic takes, no production edits or publication."""
+"""Bounded exact-word diagnostic takes, no production edits or publication."""
 import fcntl
 import importlib.util
 import json
@@ -12,8 +12,24 @@ TRIALS = [(35, 's043', 'Warm, restrained Australian narration. Quiet observation
           (38, 's068', 'Warm, restrained Australian narration. Clear spatial narration, even register, clean clause boundaries. Stay in the same adult narrator voice.'),
           (41, 's056', 'Warm, restrained Australian narration. Quiet, exact statements with clear attribution. Stay in the same adult narrator voice.')]
 
+TRIALS_2 = [
+    (30, 's115', 'Warm, restrained Australian narration. Preserve the deliberate repetition with clear, separate thought landings. Stay in the same adult narrator voice.'),
+    (33, 's025', 'Warm, restrained Australian narration. Quiet factual observation, clear and unhurried. Stay in the same adult narrator voice.'),
+    (33, 's193', 'Warm, restrained Australian narration. Brief, sincere reply with a clean final landing. Stay in the same adult narrator voice.'),
+    (34, 's008', 'Warm, restrained Australian narration. Read the written ledger precisely, with clean thought boundaries and no added repetition. Stay in the same adult narrator voice.'),
+    (34, 's122', 'Warm, restrained Australian narration. Preserve each deliberate repeated thought without rushing. Quiet fear beneath factual restraint. Stay in the same adult narrator voice.'),
+    (34, 's127', 'Warm, restrained Australian narration. Read the formal message precisely, with clear clause boundaries and a clean signature landing. Stay in the same adult narrator voice.'),
+    (35, 's002', 'Warm, restrained Australian narration. Quiet observational opening, clear and unhurried. Stay in the same adult narrator voice.'),
+    (37, 's059', 'Warm, restrained Australian narration. Quiet observation of a crowded room, without announcer excitement. Stay in the same adult narrator voice.'),
+    (38, 's139', 'Warm, restrained Australian narration. Quiet observational opening; restrained warmth, not sentimentality. Stay in the same adult narrator voice.'),
+    (39, 's079', 'Warm, restrained Australian narration. Quiet adult recollection; precise chronology, clear attribution and clean thought landings. Stay in the same adult narrator voice.'),
+    (39, 's098', 'Warm, restrained Australian narration. Quiet, exact narrative statement with a clean landing. Stay in the same adult narrator voice.'),
+    (39, 's099', 'Warm, restrained Australian narration. Brief, level reassurance; keep reply and attribution together. Return to the same base narrator for attribution.'),
+    (47, 's096', 'Warm, restrained Australian narration. Quiet scene opening; plain factual chronology and gently understated invitation. Stay in the same adult narrator voice.'),
+    (48, 's039', 'Warm, restrained Australian narration. Plain factual observation followed by a single quiet final thought. Stay in the same adult narrator voice.')]
 
-def main(resume_cache_failure=False):
+
+def main(resume_cache_failure=False, batch=1):
     spec = importlib.util.spec_from_file_location(
         'nm_audio_worker', Path(__file__).with_name('nm-breeze-audio.py'))
     worker = importlib.util.module_from_spec(spec)
@@ -23,7 +39,7 @@ def main(resume_cache_failure=False):
         if worker.busy() or any((worker.QUEUE/f'chapter-{n}'/'direction.ready').exists()
                                 for n in (47, 48)):
             raise RuntimeError('Yield to active model work or restored readiness')
-        out = worker.QUEUE/'diagnostic-instruction-leak-v1'
+        out = worker.QUEUE/f'diagnostic-instruction-leak-v{batch}'
         out.mkdir(exist_ok=True)
         if (out/'attempt.json').exists():
             if not (resume_cache_failure and not (out/'cache-recovery.json').exists()
@@ -35,7 +51,7 @@ def main(resume_cache_failure=False):
                 'resolution': 'Use existing local Breeze cache offline; no model download',
                 'productionAudioUnchanged': True})
         inputs, segments = [], []
-        for number, key, instruct in TRIALS:
+        for number, key, instruct in (TRIALS if batch == 1 else TRIALS_2):
             directory = worker.QUEUE/f'chapter-{number:02d}'
             source = worker.BOOK/f'manuscript/chapter-{number:02d}.md'
             direction = directory/'direction.json'
@@ -89,14 +105,22 @@ def main(resume_cache_failure=False):
                                 'comparisonSha256': worker.sha(raw.read_bytes())})
         for item in inputs:
             directory = worker.QUEUE/f"chapter-{item['chapter']:02d}"
-            if worker.sha((directory/'direction.json').read_bytes()) != item['directionSha256'] or worker.sha(
+            source = worker.BOOK/f"manuscript/chapter-{item['chapter']:02d}.md"
+            if worker.sha(source.read_bytes()) != item['sourceSha256'] or worker.sha((directory/'direction.json').read_bytes()) != item['directionSha256'] or worker.sha(
                     (directory/'breeze-directed'/f"{item['segmentId']}.wav").read_bytes()) != item['oldTakeSha256']:
                 raise RuntimeError('Original direction/take changed during diagnosis')
         worker.save(out/'review.json', {'state': 'diagnostic-supervisor-review-pending',
                     'published': False, 'ownerListening': 'pending', 'reports': reports,
                     'note': 'Short-instruction native-speed audition only. Canonical words and production audio untouched. ASR is not human listening or pickup acceptance.'})
         worker.log('Instruction-leak trial complete; no production take or publication changed')
+        worker.save(out/'attempt.json', {'state':'complete-review-pending', 'published':False,
+                                       'ownerListening':'pending'})
 
 
 if __name__ == '__main__':
-    main('--resume-cache-failure' in sys.argv[1:])
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--resume-cache-failure', action='store_true')
+    parser.add_argument('--batch', type=int, choices=[1,2], default=1)
+    args = parser.parse_args()
+    main(args.resume_cache_failure, args.batch)

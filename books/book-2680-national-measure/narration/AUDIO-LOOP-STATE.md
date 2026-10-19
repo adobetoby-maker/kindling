@@ -1,5 +1,24 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T05:00Z
+
+- First shorter-instruction trial completed. 35 s043 exact ASR; 38 s068 and 41
+  s056 restore source passages with only name/homophone spelling differences.
+  Native finite samples, no spoken direction in these candidates. Fresh join
+  screens finished 04:58:05Z: center passages restored; 35/38 context tail additions
+  remain unresolved, so no automatic promotion or full join approval.
+- INSTRUCTION-REPAIR-TRIAL-REVIEW.md gives exact disposition and residuals. Active
+  second bounded diagnostic pass: shell 80443, parent 98201 / renderer 98219 at
+  launch; output diagnostic-instruction-leak-v2. One candidate per 14 selected
+  corroborated failures, then isolated ASR and fresh neighboring contexts, serial
+  models. Scripts accept --batch 2. Inspect actual processes/results before any
+  new model job. Book One thread checked: notLoaded/interrupted, no render there;
+  preserve Book One checkpoints and stopped No Path Given.
+- All originals, production directions and published records unchanged. 30/33
+  repair requests and 47/48 readiness remain publication-held. No LFS retry,
+  billing action, alternate hosting or acceptance claim. Text complete 325,936
+  words; only 46 chapters previously live verified. Final audio QA still open.
+
 ## Latest checkpoint — 2026-10-19T03:58Z
 
 - Named coverage-002 contexts completed 03:55:39Z. Confirmed later direction
