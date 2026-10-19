@@ -1,5 +1,23 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T15:09Z
+
+- Created frozen residual-review-v1:21 exact-edition, lossless full-neighbor context
+  clips on Drive2; metadata binds source/chapter audio/master/takes/sample offsets.
+  Uses v2 for32/33/48 and selected v1 elsewhere, including correct replacement216
+  beside33 s215 and actual candidate37 s038/059. No production/source changes,
+  new direction, speech trimming, fades, stretching, publication or approval.
+  Total1,014.26s includes overlap, not unique coverage or final book duration.
+- Active shell49286 / PID22672: nm-residual-packet-asr.py, one cached Whisper load,
+  offline-qa.lock; inspect asr-review.json before more model work. Every difference
+  retained; no automatic rerecord/clearance. Packet is a focused listening aid,
+  not the complete owner listen or an exhaustive set of possible defects.
+- Owner has not answered the14:14 pacing preference in this chat; no faster
+  production rerender or inherited-target waiver. LFS hold unchanged; no retry,
+  billing/host change or release markers. Text48 accepted chapters/325936 words,
+  audio46 previously live verified;47/48 still held. BookOne thread unchanged,
+  NoPathGiven stopped, completed writing orchestration not restarted.
+
 ## Latest checkpoint — 2026-10-19T14:14Z
 
 - Refreshed this existing heartbeat's saved prompt through the app automation

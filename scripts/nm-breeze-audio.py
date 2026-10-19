@@ -182,7 +182,8 @@ def busy():
                  'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
                  'verify-local-tts.py', 'nm-breeze-triage.py', 'nm-breeze-diagnostic.py',
                  'nm-short-heading-diagnostic.py', 'verify-voice-identity.py',
-                 'verify-speech-naturalness.py', 'nm-naturalness-controls.py']:
+                 'verify-speech-naturalness.py', 'nm-naturalness-controls.py',
+                 'nm-residual-packet-asr.py']:
         matches = subprocess.run(['pgrep', '-f', name], capture_output=True, text=True)
         if any(pid.isdigit() and int(pid) != os.getpid() for pid in matches.stdout.split()):
             return True
