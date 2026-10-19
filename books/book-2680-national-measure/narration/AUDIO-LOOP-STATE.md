@@ -1,5 +1,31 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T13:17Z
+
+- Changed32/33/48 v2 editions completed whole ASR and CPU ordered-waveform/fade/
+  rest/frame audits (all structural passes). Whole coverage ratios.9744/.9605/
+  .9736 are decoder screens, not acceptance. Isolated pass completed13:13:24Z:
+  37 selected takes,17 normalized exact/20 differences retained. All sources,
+  production recordings, frozen v1 and budget holds unchanged. No model job active
+  at checkpoint; inspect processes before starting another.
+- Five original-center contexts completed13:15:03Z:32 s091 missing K persists;
+  s046 drams/drums remains and context-only gibberish tail is uncorroborated by
+  isolated take.33 s165 no/now, s212 seeding/seating, s215 and/than recur. Neighbor
+  211 I/or is separate from212; original216 in215 context is not v2's new216.
+  Keep these plus prior37/41/47/48 residuals open, not a names-only dismissal.
+- Decoded pause benchmark completed: hash-locked approved master -50dB internal
+  median288ms/P90 653ms/9.5% quiet; four candidate editions median550–686ms/
+  P90 2229–2268ms/32.6–38.3% quiet. Overall132.0–138.2WPM misses inherited195–215.
+  Non-quiet rate proxy is not articulation pace or a waiver. Authored rests only
+  part of quiet; native silence also matters. No trimming/stretch/audio mutation.
+- Next priorities: (1) bounded word/initial/pronunciation residual disposition,
+  (2) native-delivery/approved-master comparison without violating thought breaks,
+  then mastering/identity review for exact chosen hashes, (3) publication only
+  after owner resolves LFS hold. Owner complete listen remains pending, not Finished.
+- All48 text chapters accepted325936 words;46 audio chapters previously verified
+  live. BookOne thread remains interrupted; NoPathGiven remains stopped. No
+  author restart, publication retry, billing/host change or queue release.
+
 ## Latest checkpoint — 2026-10-19T12:12Z
 
 - Fixed-seed naturalness controls completed70 predictions; identical reference

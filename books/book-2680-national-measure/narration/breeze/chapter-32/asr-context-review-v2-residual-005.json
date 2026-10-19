@@ -1,0 +1,101 @@
+{
+  "sourceSha256": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+  "audioSha256": "3ba012db66da9b299e5504df7a0a1713f621cb01a68a910bcaccba7fbc201af4",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "14c051355a218279b7143b79c8c237a52ff238444b4460daa1fae016dcb3701d",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s046",
+      "takeBindings": [
+        {
+          "id": "s045",
+          "sha256": "9d032eda4909ed75e8c5873e9d72331328df2f7e5479b56ef1f3f20e1fdb5967"
+        },
+        {
+          "id": "s046",
+          "sha256": "f3506a458431e4ec544b4e958f0b3613ea95e344d85f80d0db88d71ad370bd9b"
+        },
+        {
+          "id": "s047",
+          "sha256": "a572c214a1dbd432329c3bcfd539f69c65eeb0e96fd73dbe0821e277f1340446"
+        }
+      ],
+      "wavSha256": "41c097ffc1e492a763af0128b446458c222053f96ac09b2efb241e1fc15f1054",
+      "expected": "The clerk held the comb over it. The third reed. Then the seventh, a voice, over the third. \"Red. Thirty-eight drams.\" He tagged it. \"Next.\" The second bag. The far post's, the tall one, cut at twenty-four minutes past and hauled by Pru. The clerk held the comb over it.",
+      "transcript": "The clerk held the comb over it, the third reed. Then the seventh, a voice over the third. Read 38 drums. He tagged it. Next. The second bag, the far posts, the tall one, cut at 24 minutes past and hauled by Prue. The clerk held the comb over it. The clerk held the trainer in ties to the hand. Read 38 how to do the construction control plötzlich with the Thank you.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "red thirty eight drams",
+          "actual": "read 38 drums"
+        },
+        {
+          "operation": "replace",
+          "expected": "post's",
+          "actual": "posts"
+        },
+        {
+          "operation": "replace",
+          "expected": "twenty four",
+          "actual": "24"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "the clerk held the trainer in ties to the hand read 38 how to do the construction control pl tzlich with the thank you"
+        }
+      ]
+    },
+    {
+      "id": "s091",
+      "takeBindings": [
+        {
+          "id": "s090",
+          "sha256": "7c59b3c22b4c513dcfc8f0d9734bf7d4e0767fe83ece475451e47744e2262c00"
+        },
+        {
+          "id": "s091",
+          "sha256": "c10d139468806b9b39fdd2df591b44a66201274e37f85a7b9abafc50e067d89e"
+        },
+        {
+          "id": "s092",
+          "sha256": "99236dd53cd6174771124bb8495b2e3bb676aaff1d5c1d426d550c31de430d06"
+        }
+      ],
+      "wavSha256": "d8875391f54d01e681972e31825c0ecb80ddb5ede4f4285d73dc343378182f54",
+      "expected": "Noa looked at her, then took his pencil from behind his ear and wrote in the ledger on his desk's ledge, in his narrow upright hand. Kiva watched him write. The 16th. A hair on all pens at 12.44 by the mast clock. Nobody on the mast. At Mallow Creek, by T7's captain's watch, a stow turned at 12.44 or 12.45, seven minutes before the water (Rowan, K., fingers on a pole; the grass). N.B. He did not draw a line between them. He did not write because. He left a space under it.",
+      "transcript": "Noah looked at her, then took his pencil from behind his ear and wrote in the ledger on his desk's ledge in his narrow upright hand. Kiva watched him write. The 16th. A hair on all pens at 12.44 by the mast clock. Nobody on the mast. At Mallow Creek, by T7's Captain's Watch, a stow turned at 12.44 or 12.45. Seven minutes before the water. Rowan, fingers on a pole, the grass. NB. He did not draw a line between them. He did not write because. He left a space under it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "noa",
+          "actual": "noah"
+        },
+        {
+          "operation": "delete",
+          "expected": "k",
+          "actual": ""
+        },
+        {
+          "operation": "replace",
+          "expected": "n b",
+          "actual": "nb"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "a6a46a28364b786b1f5829cf3a38b0e49513a7c8d9cb2da6219a427281314098"
+}

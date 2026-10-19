@@ -1,5 +1,29 @@
 # Delivery targets remain unresolved
 
+## Decoded pause benchmark — 2026-10-19T13:15Z
+
+`pause-benchmark-v1/review.json` binds the hash-locked approved Calder master and
+separate39 v1/32,33,48 v2 candidates. CPU ffmpeg silencedetect used both -40 and
+-50dB thresholds, minimum150ms, excluding file-edge intervals from internal pause
+quantiles. This is thresholded quiet, not linguistic alignment, breath judgment,
+VAD or perceived pace approval. Different content and threshold choices matter.
+
+At -50dB, the approved master has median288ms /P90 653ms internal detected quiet,
+9.5% total quiet. The four candidates have median550–686ms /P90 2229–2268ms,
+32.6–38.3% total quiet; the -40dB comparison shows the same directional difference.
+Candidate overall whitespace-word rates are132.0–138.2WPM, below195–215. Their
+non-quiet word-rate proxies are202.7–213.8 at -50dB, but these are **not** measured
+articulation rates: quiet breaths/low speech and different source content confound
+the calculation. Do not replace an overall-WPM target with this proxy.
+
+Inserted authored rests total333.5/613.85/500.25/354.75seconds respectively. They
+are only part of detected quiet; native waveform silence contributes too. Do not
+blame every pacing difference on joins, trim speech/meaningful rests, time-stretch
+or call the inherited target waived. A native-delivery comparison and any needed
+owner preference remain open. Approved-master source word count was intentionally
+not inferred from a historical path with changed-source evidence; only its exact
+approved audio hash is asserted here. No audio was edited by this benchmark.
+
 ## Bounded mastering test — 2026-10-19T09:14Z
 
 Separate Chapter 39 provisional repair edition, no original/publication changes.

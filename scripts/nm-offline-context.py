@@ -14,17 +14,19 @@ TARGETS = {32: ['s163', 's164'], 34: ['s008', 's122', 's127'],
            41: ['s056'], 47: ['s096'], 48: ['s039']}
 RESIDUALS = {33:['s118','s147','s216'],37:['s100','s171'],41:['s144'],
              47:['s149'],48:['s010','s012']}
+V2_RESIDUALS = {32:['s046','s091'],33:['s165','s212','s215']}
 
 
-def main(residuals=False):
+def main(residuals=False, v2_residuals=False):
     spec = importlib.util.spec_from_file_location(
         'nm_audio_worker', Path(__file__).with_name('nm-breeze-audio.py'))
     worker = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(worker)
     with (worker.QUEUE/'offline-qa.lock').open('a') as lock:
         fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        label = 'residual-004' if residuals else 'coverage-002'
-        for number, ids in (RESIDUALS if residuals else TARGETS).items():
+        label = 'v2-residual-005' if v2_residuals else ('residual-004' if residuals else 'coverage-002')
+        targets = V2_RESIDUALS if v2_residuals else (RESIDUALS if residuals else TARGETS)
+        for number, ids in targets.items():
             for held in (47, 48):
                 if (worker.QUEUE/f'chapter-{held}'/'direction.ready').exists():
                     raise RuntimeError('Readiness restored; yield offline model work')
@@ -63,5 +65,8 @@ def main(residuals=False):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--residuals',action='store_true')
-    main(parser.parse_args().residuals)
+    group = parser.add_mutually_exclusive_group()
+    group.add_argument('--residuals',action='store_true')
+    group.add_argument('--v2-residuals',action='store_true')
+    args = parser.parse_args()
+    main(args.residuals,args.v2_residuals)

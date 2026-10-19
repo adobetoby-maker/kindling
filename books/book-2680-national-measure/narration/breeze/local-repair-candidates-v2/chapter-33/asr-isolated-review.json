@@ -1,0 +1,496 @@
+{
+  "sourceSha256": "67137ebaa52d5fc114fdabeb822e0478b23e83baf4daf22f56289ce3c06965eb",
+  "audioSha256": "42562debc4c0e7c9a4f69e5c2989089f5a42cb528e3f8e038af7ea26072b4806",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "db008e3a9aab6cfe0f560d1435f50d196aabfa5470568fc05c9f7ee4688deeda",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s086",
+      "takeBindings": [
+        {
+          "id": "s086",
+          "sha256": "384cc80ccdad2cfe843fe1e42089dc3d8f1b15eb1115593ea4b50bd30e93cda6"
+        }
+      ],
+      "wavSha256": "384cc80ccdad2cfe843fe1e42089dc3d8f1b15eb1115593ea4b50bd30e93cda6",
+      "expected": "\"I said I would.\"",
+      "transcript": "I said I would.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s087",
+      "takeBindings": [
+        {
+          "id": "s087",
+          "sha256": "3731c49dbf32baf9449df604a6ed4cc26812e37b73b9d3a8f064573a08110d24"
+        }
+      ],
+      "wavSha256": "3731c49dbf32baf9449df604a6ed4cc26812e37b73b9d3a8f064573a08110d24",
+      "expected": "\"I know you did.\" Lyle got up. She had the towel round her neck. \"She's been at it since six,\" she said, without looking at Carrow. \"Treen calls, and she lights. She says it's the worst thing she's ever done. She says she's never once lit a door on anybody's word but her own, and she feels like a carthorse.\" Lyle's square face did not change. \"She's very good at it already. She's good at everything she hates.\"",
+      "transcript": "I know you did. Lyle got up. She had the towel round her neck. She's been at it since six, she said, without looking at Caro. Trine calls and she lights. She says it's the worst thing she's ever done. She says she's never once lit a door on anybody's word but her own, and she feels like a cart horse. Lyle's square face did not change. She's very good at it already. She's good at everything she hates.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "carrow treen",
+          "actual": "caro trine"
+        },
+        {
+          "operation": "replace",
+          "expected": "carthorse",
+          "actual": "cart horse"
+        }
+      ]
+    },
+    {
+      "id": "s148",
+      "takeBindings": [
+        {
+          "id": "s148",
+          "sha256": "f98c257b552e87df11b25af03819cf1a6bf23f4372825eeb3af582e095b07f72"
+        }
+      ],
+      "wavSha256": "f98c257b552e87df11b25af03819cf1a6bf23f4372825eeb3af582e095b07f72",
+      "expected": "The Commodore's foot went down on the hazel.",
+      "transcript": "The Commodore's foot went down on the hazel.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s165",
+      "takeBindings": [
+        {
+          "id": "s165",
+          "sha256": "655cfdfb6541dbb8ff681fe0c506e786bc097175d951b9991c082bb027517d28"
+        }
+      ],
+      "wavSha256": "655cfdfb6541dbb8ff681fe0c506e786bc097175d951b9991c082bb027517d28",
+      "expected": "\"No. It's one. And whatever Talley cuts.\" Kiva held her wet right hand against her coat. \"And in the third, if it's close, we try the hurdle again. With our wrists and our elbows, and no fingers at all.\"",
+      "transcript": "Now it's one, and whatever tally cuts… Kiva held her wet right hand against her coat. And in the third, if it's close, we try the hurdle again, with our wrists and our elbows and no fingers at all.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "no",
+          "actual": "now"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        }
+      ]
+    },
+    {
+      "id": "s212",
+      "takeBindings": [
+        {
+          "id": "s212",
+          "sha256": "f6fa1b22f3de87eddc9fc38ea1b70c750c9fbf3e2f08acc05358f6d6a38eedf0"
+        }
+      ],
+      "wavSha256": "f6fa1b22f3de87eddc9fc38ea1b70c750c9fbf3e2f08acc05358f6d6a38eedf0",
+      "expected": "Kiva looked at her. She thought of the yard behind the Long Quay on Sunday, and Pike saying from a tailboard, you call from the air before you've landed, and Pru on a seeding floor calling hands off, left before the Tarn's carry had moved.",
+      "transcript": "Kiva looked at her. She thought of the yard behind the long key on Sunday, and Pike saying from a tailboard, you call from the air before you've landed, and Prue on a seating floor calling, hands off, left, before the tarn's carry had moved.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "quay",
+          "actual": "key"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "seeding",
+          "actual": "seating"
+        }
+      ]
+    },
+    {
+      "id": "s213",
+      "takeBindings": [
+        {
+          "id": "s213",
+          "sha256": "b4807341a60b7ddad96cd26bef9b5d202580f19bc06ba42f6fcda9e32df17d25"
+        }
+      ],
+      "wavSha256": "b4807341a60b7ddad96cd26bef9b5d202580f19bc06ba42f6fcda9e32df17d25",
+      "expected": "\"It wasn't on anybody's,\" she said. \"That's why it worked.\"",
+      "transcript": "It wasn't on anybody's, she said. That's why it worked.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s214",
+      "takeBindings": [
+        {
+          "id": "s214",
+          "sha256": "2c14f3f468e4e5ed65664ce51795f622ba536080e447257fac8a59b788890985"
+        }
+      ],
+      "wavSha256": "2c14f3f468e4e5ed65664ce51795f622ba536080e447257fac8a59b788890985",
+      "expected": "The board went up at six with Thursday's twelve lanes on it.",
+      "transcript": "The board went up at six, with Thursday's twelve lanes on it.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s215",
+      "takeBindings": [
+        {
+          "id": "s215",
+          "sha256": "a7876cb3630154afb545e794fd45959745b5b9cd91833433f9e07ce47446cdaa"
+        }
+      ],
+      "wavSha256": "a7876cb3630154afb545e794fd45959745b5b9cd91833433f9e07ce47446cdaa",
+      "expected": "Kiva read it at the back of the crowd with Pru beside her and Perrin behind, under the lamp, while the tide went out of the timber pond's black water under the boards. Every one of the twelve lanes had gone to the four that stood higher. The Tarn's first four had stood with Trewin on frosted feet and a reserve at Bridie's place, and had won by a single point and the glass. Halden License had beaten the twenty-fourth six to two. The Ropewalk's seven to nothing stood at the head of the column, alone.",
+      "transcript": "Kiva read it at the back of the crowd, with Prue beside her and Perrin behind, under the lamp, while the tide went out of the timber pond's black water under the boards. Every one of the twelve lanes had gone to the four that stood higher. The tarn's first four had stood with Truen, on frosted feet and a reserve at Bridie's place, and had won by a single point than the glass. Haldin License had beaten the twenty-fourth six to two. The rope walks seven to nothing stood at the head of the column, alone.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "trewin",
+          "actual": "truen"
+        },
+        {
+          "operation": "replace",
+          "expected": "and",
+          "actual": "than"
+        },
+        {
+          "operation": "replace",
+          "expected": "halden",
+          "actual": "haldin"
+        },
+        {
+          "operation": "replace",
+          "expected": "ropewalk's",
+          "actual": "rope walks"
+        }
+      ]
+    },
+    {
+      "id": "s235",
+      "takeBindings": [
+        {
+          "id": "s235",
+          "sha256": "2468b5bf5ca07a47381f07ee19031c6e6a7cb483c16f257599603fd682339cf0"
+        }
+      ],
+      "wavSha256": "2468b5bf5ca07a47381f07ee19031c6e6a7cb483c16f257599603fd682339cf0",
+      "expected": "Behind her, along the boards, Noa was still at the gate mast with Polglase, in the last of the light, with the day's tape unrolled on his desk. A boy from the Board's wire office was standing beside him with a fistful of yellow forms. Noa was reading them one after another, with his pencil not moving, and his narrow face had a look on it that she had not seen there before.",
+      "transcript": "Behind her, along the boards, Noah was still at the gate-mast with Polglace, in the last of the light, with the day's tape unrolled on his desk. A boy from the board's wire office was standing beside him with a fistful of yellow forms. Noah was reading them one after another, with his pencil not moving, and his narrow face had a look on it that she had not seen there before.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "noa",
+          "actual": "noah"
+        },
+        {
+          "operation": "replace",
+          "expected": "polglase",
+          "actual": "polglace"
+        },
+        {
+          "operation": "replace",
+          "expected": "noa",
+          "actual": "noah"
+        }
+      ]
+    },
+    {
+      "id": "s053",
+      "takeBindings": [
+        {
+          "id": "s053",
+          "sha256": "b033ca772901bac0adccd7987bb20e0c0fe83254c20968765fca37c2df65286f"
+        }
+      ],
+      "wavSha256": "b033ca772901bac0adccd7987bb20e0c0fe83254c20968765fca37c2df65286f",
+      "expected": "\"When did you lift?\" said Aske.",
+      "transcript": "When did you lift? said Ask.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        }
+      ]
+    },
+    {
+      "id": "s055",
+      "takeBindings": [
+        {
+          "id": "s055",
+          "sha256": "06f4b12251a4c6c4657aee68fbcc55d343c213d99535eccf831550a4675981b6"
+        }
+      ],
+      "wavSha256": "06f4b12251a4c6c4657aee68fbcc55d343c213d99535eccf831550a4675981b6",
+      "expected": "\"I didn't,\" he began, and stopped, because Aske was looking at him over his spectacles with no expression whatever. \"At the spur,\" he said. \"Yesterday. The boards. When they carried him up the bank. I took the head of the boards at the lip, for the last two paces. They'd have had to set him down on the stones otherwise.\" He swallowed. \"I knew I shouldn't. I knew it while I was doing it. I'd like it known that I'd do it again.\"",
+      "transcript": "I didn't, he began, and stopped, because Ask was looking at him over his spectacles with no expression whatever. At the spur, he said, yesterday, the boards, when they carried him up the bank. I took the head of the boards at the lip for the last two paces. They'd have had to set him down on the stones otherwise, he swallowed. I knew I shouldn't. I knew it while I was doing it. I'd like it known that I'd do it again.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        }
+      ]
+    },
+    {
+      "id": "s094",
+      "takeBindings": [
+        {
+          "id": "s094",
+          "sha256": "39338c1d7cf3bf7d0df9cd28571a42d2e0dce487978c4e3410161b4a4abd3a4c"
+        }
+      ],
+      "wavSha256": "39338c1d7cf3bf7d0df9cd28571a42d2e0dce487978c4e3410161b4a4abd3a4c",
+      "expected": "Lyle bent her knees. She put her weight down. Anwen saw it go, a long way down, through the boards, into the ridge, and then she saw it come back up, slowly, through Lyle's heels and calves and thighs and the small of her back, until it arrived in her shoulder.",
+      "transcript": "Lyle bent her knees. She put her weight down. Anwen saw it go, a long way down, through the boards, into the ridge. And then she saw it come back up, slowly, through Lyle's heels and calves and thighs, and the small of her back, until it arrived in her shoulder.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s097",
+      "takeBindings": [
+        {
+          "id": "s097",
+          "sha256": "d1ab9fdc7c9c2f94e1b21fb6e8a75a69b95210738cd7333914aab4139b9a9f3a"
+        }
+      ],
+      "wavSha256": "d1ab9fdc7c9c2f94e1b21fb6e8a75a69b95210738cd7333914aab4139b9a9f3a",
+      "expected": "\"That's it,\" she said. \"That's leaning from the floor.\"",
+      "transcript": "That's it, she said. That's leaning from the floor.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s099",
+      "takeBindings": [
+        {
+          "id": "s099",
+          "sha256": "a8e9d51ddb77e2ab2ad74c7acfcd42e322adb15767bc0db970ac11f16a82eeaf"
+        }
+      ],
+      "wavSha256": "a8e9d51ddb77e2ab2ad74c7acfcd42e322adb15767bc0db970ac11f16a82eeaf",
+      "expected": "\"Again,\" she said.",
+      "transcript": "Again, she said.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s135",
+      "takeBindings": [
+        {
+          "id": "s135",
+          "sha256": "879993695e75abf2852925475e0cb3204a87bf2d5161236014fd6e0f36278e79"
+        }
+      ],
+      "wavSha256": "879993695e75abf2852925475e0cb3204a87bf2d5161236014fd6e0f36278e79",
+      "expected": "They were big. Everybody from the Tarn was big, as if the hills grew them on purpose. Their captain was a thin dark girl with a still door, who walked as though the stone under her were a field she knew. The others came behind her: a heavy blade, a Hold with long arms, a catcher with a fresh bandage on one wrist. They stood behind their hurdle and looked down the pen at Seven, and Kiva saw them look at the linen on her right hand, and Pru's ten caps, and Jude's left arm hanging, and Perrin standing outside the pen with his hand pressed to his side.",
+      "transcript": "They were big. Everybody from the tarn was big, as if the hills grew them on purpose. Their captain was a thin dark girl with a still door, who walked as though the stone under her were a field she knew. The others came behind her, a heavy blade, a hold with long arms, a catcher with a fresh bandage on one wrist. They stood behind their hurdle and looked down the pen at seven, and Kaiva saw them look at the linen on her right hand, and Prue's ten caps, and Jude's left arm hanging, and Perrin standing outside the pen with his hand pressed to his side.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "kiva",
+          "actual": "kaiva"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru's",
+          "actual": "prue's"
+        }
+      ]
+    },
+    {
+      "id": "s149",
+      "takeBindings": [
+        {
+          "id": "s149",
+          "sha256": "febc69059165490dbce8fed444b99b7a5e59c6cba901c8385801e83a3ff6bb6f"
+        }
+      ],
+      "wavSha256": "febc69059165490dbce8fed444b99b7a5e59c6cba901c8385801e83a3ff6bb6f",
+      "expected": "\"Touched,\" said the marshal. \"Dropped. Anybody's.\"",
+      "transcript": "Touched, said the marshal. Dropped. Anybody's.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s154",
+      "takeBindings": [
+        {
+          "id": "s154",
+          "sha256": "2903dbe2a86f8dcb0ef914210fe547e84e4c5fce9272606137ab4eff7df13903"
+        }
+      ],
+      "wavSha256": "2903dbe2a86f8dcb0ef914210fe547e84e4c5fce9272606137ab4eff7df13903",
+      "expected": "\"Don't,\" said Kiva. \"Don't say you're sorry.\"",
+      "transcript": "Don't, said Kiva. Don't say you're sorry.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s172",
+      "takeBindings": [
+        {
+          "id": "s172",
+          "sha256": "dd69d8e7abbeaac9ec3e513866661ef70d2f6a846c54b6b19cceb9e33b3fb1b5"
+        }
+      ],
+      "wavSha256": "dd69d8e7abbeaac9ec3e513866661ef70d2f6a846c54b6b19cceb9e33b3fb1b5",
+      "expected": "\"That's not a carry,\" she said.",
+      "transcript": "That's not a carry, she said.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s177",
+      "takeBindings": [
+        {
+          "id": "s177",
+          "sha256": "b67bccee5a7a90810ccdce7653a3373daa0af2f09f2d40953c308589052bf553"
+        }
+      ],
+      "wavSha256": "b67bccee5a7a90810ccdce7653a3373daa0af2f09f2d40953c308589052bf553",
+      "expected": "\"Down,\" said the marshal. \"The Tarn.\"",
+      "transcript": "Down, said the marshal, the tan.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "tarn",
+          "actual": "tan"
+        }
+      ]
+    },
+    {
+      "id": "s181",
+      "takeBindings": [
+        {
+          "id": "s181",
+          "sha256": "995a9052de0236199dfc760c6f8cf2caac01e3a5f3531d77ee90c591e215192d"
+        }
+      ],
+      "wavSha256": "995a9052de0236199dfc760c6f8cf2caac01e3a5f3531d77ee90c591e215192d",
+      "expected": "Then they tried to wait her out. The glass was running and the litter was in the middle and the Tarn's captain stood back and folded her arms, and Kiva understood that the point at the glass would go to whichever half the litter's middle lay in, and the litter's middle was on the line. Pru saw it too. Pru said, very quietly, \"Head's ours. Foot's theirs. Middle's on the chalk.\" Kiva did not move her stance. She could not, without shutting. But she leaned. She leaned from the floor, as Anwen leaned, with her knees bent and her weight down, and let the floor push, and the head of the Commodore went a hand's breadth west under her forearms with a scrape of canvas on stone.",
+      "transcript": "Then they tried to wait her out. The glass was running, and the litter was in the middle, and the tawn's captain stood back and folded her arms, and Kiva understood that the point at the glass would go to whichever half the litter's middle lay in, and the litter's middle was on the line. Prue saw it too. Prue said, very quietly, heads ours, foots theirs, middles on the chalk. Kiva did not move her stance, she could not without shutting, but she leaned, she leaned from the floor, as Anwen leaned, with her knees bent and her weight down, and let the floor push, and the head of the commodore went a hand's breadth west under her forearms, with a scrape of canvas on stone.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "tarn's",
+          "actual": "tawn's"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "head's",
+          "actual": "heads"
+        },
+        {
+          "operation": "replace",
+          "expected": "foot's",
+          "actual": "foots"
+        },
+        {
+          "operation": "replace",
+          "expected": "middle's",
+          "actual": "middles"
+        }
+      ]
+    },
+    {
+      "id": "s182",
+      "takeBindings": [
+        {
+          "id": "s182",
+          "sha256": "b3e42660676959bc4adb87abcf40e4c8c9488726e303c64ce19e8b35b8634dd4"
+        }
+      ],
+      "wavSha256": "b3e42660676959bc4adb87abcf40e4c8c9488726e303c64ce19e8b35b8634dd4",
+      "expected": "The third thing the Tarn tried was their catcher. He was a small fair boy with a fresh bandage on his wrist, and he came in low on the north side with his ward up at his hip, small, the width of a doormat, and set it under the litter's middle. It was clever. He meant to lift the litter's middle on his tray and walk it back east over the line while Kiva sat on the head. A ward lifts. That is what a catcher's tray is for.",
+      "transcript": "The third thing the tarn tried was their catcher. He was a small fair boy with a fresh bandage on his wrist, and he came in low on the north side with his ward up at his hip, small the width of a doormat, and set it under the litter's middle. It was clever. He meant to lift the litter's middle on his tray and walk it back east over the line while Kiva sat on the head. A ward lifts. That is what a catcher's tray is for.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s185",
+      "takeBindings": [
+        {
+          "id": "s185",
+          "sha256": "ecc1a156c471c59b8faeb9b88e2485ebcf0dc61bb2a2ce34eb61771f1b21ab2c"
+        }
+      ],
+      "wavSha256": "ecc1a156c471c59b8faeb9b88e2485ebcf0dc61bb2a2ce34eb61771f1b21ab2c",
+      "expected": "Jude touched the boy on the arm. It was a half. The boy kept his tray where it was and lifted, and the middle of the Commodore came up off the stone a finger, two fingers, and Jude touched him again on the other arm.",
+      "transcript": "Jude touched the boy on the arm. It was a half. The boy kept his tray where it was and lifted, and the middle of the Commodore came up off the stone a finger, two fingers, and Jude touched him again on the other arm.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s191",
+      "takeBindings": [
+        {
+          "id": "s191",
+          "sha256": "52eb1ba45da4540cdee10402e78f213f011c43722b9e00b23043ae2a99eb2f9d"
+        }
+      ],
+      "wavSha256": "52eb1ba45da4540cdee10402e78f213f011c43722b9e00b23043ae2a99eb2f9d",
+      "expected": "\"It's an old one,\" said Kiva. \"From home. My captain thought of it in our first year, to beat four still doors with.\"",
+      "transcript": "It's an old one, said Kiva, from home. My captain thought of it in our first year, to beat four still doors with.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s198",
+      "takeBindings": [
+        {
+          "id": "s198",
+          "sha256": "dccabd3daf5b05e38431cfa6fbe2837c7bdf3d94b6079c97eb7d29d889d8a0ed"
+        }
+      ],
+      "wavSha256": "dccabd3daf5b05e38431cfa6fbe2837c7bdf3d94b6079c97eb7d29d889d8a0ed",
+      "expected": "\"She's got to let go to come,\" said Pru, quite loud. \"Watch her hands.\"",
+      "transcript": "She's got to let go to come, said Prue, quite loud. Watch her hands.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}
