@@ -1,0 +1,149 @@
+{
+  "sourceSha256": "6b24e7abe844e79643e77c8f20c6e956e51f0bd40b98443ddeebe0f05aaf5f35",
+  "audioSha256": "02ced158c041d37fc5244890dbbf662b84435ac2fb09526b3e18b2d02249b6a7",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "a2b704dfa424e7c5eb36a0c0d23094fe812d47db25e41ef243383de0674dc14b",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s008",
+      "takeBindings": [
+        {
+          "id": "s007",
+          "sha256": "e47bc773eff7ebcf8dc55979deb3cf96179456e5e1b36de224894f8dbf5e7197"
+        },
+        {
+          "id": "s008",
+          "sha256": "f121a60956b06867c8a475b378d03519af46cbec8b312167c210061f16f15e8c"
+        },
+        {
+          "id": "s009",
+          "sha256": "aecb735cf1df099b70ad52709afd3066c9da1bda3e095ff017b99c17e218606b"
+        }
+      ],
+      "wavSha256": "4e72b733a82dcf70411d1a61ae65882f81ca0257f8dc4b6ec59365ca3fbddd5e",
+      "expected": "He moved the pencil along to the ninth. WESTERLEY HARBOUR PUMP HOUSE. KEEPER'S BOOK 2604. 11TH THIRD MONTH. AT THREE THE STEPPED LAMPS ON THE QUAY WHITE. TOWN LAMPS OUT HALF HOUR. KEEPER ILL OF A FEVER; HIS WIFE SAT UP. HE SAID IN THE MORNING THE ROOF WAS OFF. NOT FAULT. Kiva read it twice. She was aware of Polglase's tape going round on its spool, and of the timber pond's water moving under the boards, low, on the ebb.",
+      "transcript": "He moved the pencil along to the ninth. Westerly Harbour. Peeper's Book, 2604, 11th, third month. At three, the stepped lamps on the key white. Town lamps out half hour. Keeper ill of a fever, his wife sat up. Town lamps out half hour. Keeper ill of a fever, his wife sat up. He said in the morning the roof was off. Not fault. Peeper read it twice. She was aware of Paul Glaze's tape going round on its spool and of the timber pond's water moving under the boards, low on the ebb.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "westerley",
+          "actual": "westerly"
+        },
+        {
+          "operation": "replace",
+          "expected": "pump house keeper's",
+          "actual": "peeper's"
+        },
+        {
+          "operation": "replace",
+          "expected": "quay",
+          "actual": "key"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "town lamps out half hour keeper ill of a fever his wife sat up"
+        },
+        {
+          "operation": "replace",
+          "expected": "kiva",
+          "actual": "peeper"
+        },
+        {
+          "operation": "replace",
+          "expected": "polglase's",
+          "actual": "paul glaze's"
+        }
+      ]
+    },
+    {
+      "id": "s122",
+      "takeBindings": [
+        {
+          "id": "s121",
+          "sha256": "fea7eac0c2ed8ee12e986352d4d0bb5267891c9b109213af563aa32df6a9c0a4"
+        },
+        {
+          "id": "s122",
+          "sha256": "9e58b0368ee57c35fa13830249f501526e144c1391bd4545b3b2e0e8b8f832e4"
+        },
+        {
+          "id": "s123",
+          "sha256": "594fdecf8e8ff1cfb882146b8196284a2bf82c95909e4604a6f5c55544c377c8"
+        }
+      ],
+      "wavSha256": "208ba7e1f02538340facc94a3395b1f4957145f96213dcc714eec4bea3094ef5",
+      "expected": "\"I'm going to ask the Board to open the page. Tomorrow night, at the Salt Hall, when they sit on the Chair's sheets.\" Kiva stood on the other side of the keeper's table with the three cells turning between them. \"It comes out to your hand, the Reader said, or a magistrate's. Nobody else's. I'd like you to send for it.\" There were a great many things Mara could have said. She knew all of them. She could have said are you sure. She could have said you needn't. She could have said that the Proprietor would take it to the Board as evidence for stepping the country, and that the Order would take it as evidence for shutting every door but one, and that the Mercury would take it as a headline, and that none of them would ask the girl what she meant by it. She could have said that she had sealed that page so that nobody could ever accuse the girl of borrowing, and not so that a hall full of strangers could read it aloud. She could have said that she was afraid. Every one of those things would have been true. Every one of them would have been a hand on the choice, and the choice was not hers.",
+      "transcript": "I'm going to ask the board to open the page. Tomorrow night, at the salt hall, when they sit on the chair's sheets. Kiva stood on the other side of the keeper's table, with the three cells turning between them. It comes out to your hand, the reader said, or a magistrate's, nobody else's. I'd like you to send for it. There were a great many things Mara could have said. She knew all of them. She could have said, are you sure? She could have said, you needn't. She could have said that the proprietor would take it to the board as evidence for stepping the country. And that the order would take it as evidence for shutting every door but one. And that the mercury would take it as a headline. And that none of them would ask the girl what she meant by it. Shop Bob Yartime on lighted life. Chuck could have sealed that page, so that nobody could ever accuse the girl of borrowing. And not so that a hall full of strangers could read it aloud. Shop Old Sidhu One Zen Five. Shop It Forty Fourth Date. Thinked in wind five hundred five-dub. Dale said that she was afraid. Every one of those things would have been true. Every one of them would have been a hand on the choice. And the choice was not hers. , But it was even종 a couple of times.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "she",
+          "actual": "shop bob yartime on lighted life chuck"
+        },
+        {
+          "operation": "delete",
+          "expected": "said that she had",
+          "actual": ""
+        },
+        {
+          "operation": "replace",
+          "expected": "she could have",
+          "actual": "shop old sidhu one zen five shop it forty fourth date thinked in wind five hundred five dub dale"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "but it was even a couple of times"
+        }
+      ]
+    },
+    {
+      "id": "s127",
+      "takeBindings": [
+        {
+          "id": "s126",
+          "sha256": "e49f2617ba985cbb3376a6071f84df11c2d5cc25f27701a05a67a3ed06e8c312"
+        },
+        {
+          "id": "s127",
+          "sha256": "0d383248b23369b5f1c51f00e9d5936af272e3a37f6ab09d42c476e25be34ecd"
+        },
+        {
+          "id": "s128",
+          "sha256": "e35d647abc82b15eb786f4968df48c778d0d50f7a5842c2481e1b7ab4378e27d"
+        }
+      ],
+      "wavSha256": "0d431fc6b4bcb2b351347f43654b07d1f06d1b04fbf76a30f3061729ae71b014",
+      "expected": "\"That's yours as well.\" Mara stood up. Her knees had decided, and so she let them. \"The wire office at the gate is open all night for the Board. The Reader's at the Library from seven. If I wire her now, she'll have it when she unlocks the door.\" She took a sheet of the pump house's fault paper from the press, because it was the nearest paper, and sat down again, and wrote. L. ARKWRIGHT, READER, COMPACT LIBRARY, MERIDIAN. THE PAGE IN YOUR PRESS UNDER YOUR WAX OF MONDAY 25TH SIXTH MONTH 2680 IS WANTED BEFORE THE CHARTER BOARD AT SALTMERE ON SUNDAY. TO MY HAND. IF YOU WILL BRING IT YOURSELF I WILL PAY THE TRANSIT. IF YOU WILL BRING ANNICK PERSONAL UNDER YOUR OWN CUSTODY THE BOARD WILL ASK FOR IT. M. ROWAN. She read it over once. Then she took a second sheet and wrote a second.",
+      "transcript": "That's yours as well. Mara stood up. Her knees had decided, and so she let them. The wire office at the gate is open all night for the board. The reader's at the library from seven. If I wire her now, she'll have it when she unlocks the door. She took a sheet of the pump house's fault paper from the press, because it was the nearest paper, and sat down again and wrote. L. Arkwright. Reader. Compact Library. Meridian. The page in your press under your wax of Monday 25th, 6th month, 2680, is wanted before the Charter Board at Saltmere on Sunday. To my hand. If you will bring it yourself, I will pay the transit. If you will bring Anik personal under your own custody, the board will ask for it. M. Rowan. She read it over once, then she took a second sheet and wrote a second.     To my channel gjithfires. aware actionbandsya stuffer Mao charted on Sunday 25th, 7th month, 7th year 2000.   running elekt verbal assistant? The tip of the body is reinvented. Why?",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "sixth",
+          "actual": "6th"
+        },
+        {
+          "operation": "replace",
+          "expected": "annick",
+          "actual": "anik"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "to my channel gjithfires aware actionbandsya stuffer mao charted on sunday 25th 7th month 7th year 2000 running elekt verbal assistant the tip of the body is reinvented why"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "b4713f33b8d64f39b6934f20874397591e860af0ffc1fe213eb1fd6ea7be9a6c"
+}

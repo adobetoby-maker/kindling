@@ -1,0 +1,53 @@
+{
+  "sourceSha256": "6e3de61edfe18bdba53b0e7f25a0e4a1fc71eb667d07c94c945443172f0dc1c5",
+  "audioSha256": "2e836fb6fcbbeea9b08401bf9a1b709b6afc94069679ef836e5e999d50cd8109",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "ee77a1268b133330915c7ec34b11572f7b776983cd35e8e511699db9a4cc285a",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s096",
+      "takeBindings": [
+        {
+          "id": "s095",
+          "sha256": "67ad008cc352e19349267c3aab8eada7f2e1e14cb26a7bb3f3391bf20ce39fc2"
+        },
+        {
+          "id": "s096",
+          "sha256": "d2195f8555f882bb86fe7ecbae6181c3fa0e1cacda53532a04ebfcda04096ad1"
+        },
+        {
+          "id": "s097",
+          "sha256": "85e0fddf05dc2240e5857cf6b298a61ea7b2fc357e223544e997b13238f08c28"
+        }
+      ],
+      "wavSha256": "655202f692eb4003ef5c9cf4cc51d07bbf7b18d7d701b6a0930e6d2f2bbfd931",
+      "expected": "On the Harbour Committee's bench the chairman had opened his gold watch and was looking at it. Then he shut it and put it in his pocket, and Kiva saw that he had not looked at the time at all. He had only wanted to hold something. On Saturday morning at ten, Kiva went along the Long Quay to the Counting House, because the Proprietor had asked her to, by a card in his own hand that came to the loft on Friday night. If you'd care to. Not for anything. A. H. Every window was lit, as it always was. The lamps on the brass brackets in the hall were lit, white, and the lamps in the glass globes on the newel posts, and the great iron ring slung from the stairwell's ceiling. Kiva went up the stair with her left hand in her coat and her right on nothing, and on the fourth step she waited for her heart to slow, and it did not.",
+      "transcript": "On the harbour committee's bench, the chairman had opened his gold watch and was looking at it. Then he shut it and put it in his pocket, and Kiva saw that he had not looked at the time at all. He had only wanted to hold something. On Saturday morning at ten, Kiva went along the long quay to the counting house, because the proprietor had asked her to, buy a card in his own hand that came to the loft on Friday night. If you'd care to, not for anything. A.H. Braperagor read two seven counts from the window, not an ancient croak or villain. Her pulse stays her own, his first cell keeps its own uneven count. Seventy-seven counts from the window, seventy-six from the belief. Letting go is the new certainty, not proof he was wrong. Every window was lit, as it always was. The lamps on the brass brackets in the hall were lit, white, and the lamps in the glass globes on the newel posts, and the great iron ring slung from the stairwell's ceiling. Kiva went up the stair with her left hand in her coat and her right on nothing. And on the fourth step, she waited for her heart to slow. And it did not.  Kiva went up the stairs and down, you know the 방법 of a friend.  Alessar was often limited in men than two parts, No one wanted to push with her. he chose with saben sh Hawkslag kennt Re sang people long in men. Thank you.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "by",
+          "actual": "buy"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "braperagor read two seven counts from the window not an ancient croak or villain her pulse stays her own his first cell keeps its own uneven count seventy seven counts from the window seventy six from the belief letting go is the new certainty not proof he was wrong"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "kiva went up the stairs and down you know the of a friend alessar was often limited in men than two parts no one wanted to push with her he chose with saben sh hawkslag kennt re sang people long in men thank you"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "a7e6f13783e917a6e5d5e79e2a324c2d21bc1eea0df6794e085a21c7258ba9bf"
+}

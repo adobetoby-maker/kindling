@@ -1,0 +1,68 @@
+{
+  "sourceSha256": "260de2fc655313a0cc45dde3581ab6a52ff0b40f5d707adedeb449c89a6f58ae",
+  "audioSha256": "a026ae04df7c9dc20bfca386f4f3cf912ad72e0f038f43744f595dc17324327e",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "915c23f5b1ddc58a814244edc3a5a49c73e6f47c7a40354ba4eff61a56773260",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s056",
+      "takeBindings": [
+        {
+          "id": "s055",
+          "sha256": "5a62fb202d19587b6925736931218bbcaaf3025a844cc441c3bff2456ef604b7"
+        },
+        {
+          "id": "s056",
+          "sha256": "49cde33d279d499648e43ef2fd0a1043cebe1a22ff45664b5cc5db376822c0b2"
+        },
+        {
+          "id": "s057",
+          "sha256": "d5c2bb86c0bd65c73e0dcb7146ee0b5fd65a502970597e6259c75ae0d4e19afb"
+        }
+      ],
+      "wavSha256": "32c6395ef9bef87bf693d5bf4f44467c3c374e5d1b451178f1794cc655a30d55",
+      "expected": "\"Then write what you'll do,\" said the clerk, not unkindly. Perrin wrote: To declare for the four, and keep the brake. Not on the mud. He handed the pen to Anwen. She signed without saying anything, and so did Jude, who steadied the sheet with his left hand while he wrote Talley, because Aske had said Monday, and it was Monday. Pru went scarlet at the table, for no reason anybody could see, and wrote Finch very small. Kiva signed last.",
+      "transcript": "Then write what you'll do, said the clock, not unkindly. Take this 500-500-1550, not on the mud. He handed the pen to Anwen. She signed without saying anything, and so did Jude, who steadied the sheet with his left hand while he wrote Tully, because Ask had said Monday, and it was Monday. Prue went scarlet at the table, for no reason anybody could see, and wrote Finch very small. Kiva signed lost.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "clerk",
+          "actual": "clock"
+        },
+        {
+          "operation": "replace",
+          "expected": "perrin wrote to declare for the four and keep the brake",
+          "actual": "take this 500 500 1550"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tully"
+        },
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "last",
+          "actual": "lost"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "877bbf1f5a3716a0f4100ff012640ecf7a592806efc24f14ba3e84b743d915c7"
+}

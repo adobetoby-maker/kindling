@@ -45,3 +45,28 @@ joins. No new pickup or audio mutation was authorized by this ASR pass itself.
 
 Mastering, measured pace versus approved master, identity/stability/naturalness,
 full spoken-word resolution and owner listening remain open. No Finished claim.
+
+## Context pass outcome and bounded trial
+
+The named context pass completed 03:55:39Z, all nine chapters. Extensive direction
+leakage in 35 s002/s043, 37 s059, 38 s068/s139 and 47 s096 is corroborated;
+41 s056's numeric replacement and 48 s039's repeated final sentence also recur.
+34 s008 repeats a ledger clause, s122 remains corrupt, and s127 has additional
+garbled material in context. 32's pacing-like material repeats in overlapping
+windows; isolate neighboring takes before attributing it to s163 or s164.
+37 s038's window likewise includes numeric instruction-like material from a
+potential neighbor. 39 s079's year expansion and s098/s099's repeated narrative
+plus changed reply recur. These remain exact-source/audio-bound findings, not
+proof every decoder-only tail addition is spoken.
+
+A non-publishing trial of three short, non-numeric instructions is now running
+via scripts/nm-offline-leak-trial.py, shell 63288. Targets: 35 s043 (short opening),
+38 s068 (long spatial paragraph), 41 s056 (numeric-instruction leak). Exact
+source words, pauses and voice reference retained; original scores/takes never
+modified. One diagnostic take per target, then serialized ASR. Outputs live in
+diagnostic-instruction-leak-v1. Initial loader failed before any take because it
+was pointed at the Whisper cache; the same trial resumed once with the existing
+/Users/drive/.cache/huggingface Breeze cache offline. Failure log and explicit
+cache-recovery record preserved; no download and no blind audio retry loop.
+Inspect this process/results before loading another model. Results require Codex
+review and cannot replace production takes or bypass the publication hold.

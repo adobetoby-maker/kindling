@@ -1,0 +1,53 @@
+{
+  "sourceSha256": "0adc917ed84018fbf4e1bc2a010b846d8edaee1de2e178379bf01541d89a18fe",
+  "audioSha256": "3c036f08da52d19e634881bcf421d08e7b792a46f813fb111c17d3a0f3e33930",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "d4dad0f5f086d0371db5462642c133135637f83d633c082c9b4e76f226633e15",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s039",
+      "takeBindings": [
+        {
+          "id": "s038",
+          "sha256": "bcd8ce5164b8d8915bc83748c008e70d34b4dbc3e5d33db037afd26ad2b3dbab"
+        },
+        {
+          "id": "s039",
+          "sha256": "af09b8383235f5d816abb12b65b3ead6b80eab7412426c74d3861590167942ef"
+        },
+        {
+          "id": "s040",
+          "sha256": "9cb19d7462d4d1e13f1ccbc44e5bf5e49ba84dd9e2be314afc75adaa3d7b91fa"
+        }
+      ],
+      "wavSha256": "381317f264452c2706f73991a0dd1d022052931d38007f04e8e54cbb6ec23808",
+      "expected": "On Monday night in a cellar in the Tanyard, under her columns, below the slate's last ruled line, where there was no column for it, she had written one more thing by the light of Mace's lamp on a copper. She had not shown it to the girl. She looked at it now, on the slate on her belt, in her own small square chalk. The second called the far edge, once, before the bag. Not mine to keep. It was true. It had been true since the Lane, when she had sat on the fourth tier with Pike and watched the girl lose an exchange on purpose and thought mine in her own head, and known it for what it was. She had been an officer for eleven years. She knew what it looked like when an officer started to keep a girl. It looked like a seat that was never quite offered, and a card that was always renewed, and a van that the girl could never quite leave, because there was always one more night. The officer was always good to her, and it was always kind.",
+      "transcript": "On Monday night, in a cellar in the tan yard, under her columns, below the slate's last ruled line, where there was no column for it, she had written one more thing, by the light of Mace's lamp, on a copper. She had not shown it to the girl. She looked at it now, on the slate, on her belt, in her own small square chalk. The second called the far edge, once before the bag. Not mine to keep. Not mine to keep. It was true. It had been true since the lane, when she had sat on the fourth tier with Pike, and watched the girl lose an exchange on purpose, and thought mine in her own head, and known it for what it was. She had been an officer for eleven years. She knew what it looked like, when an officer started to keep a girl. It looked like a seat that was never quite offered, and a card that was always renewed, and a van that the girl could never quite leave, because there was always one more night. The officer was always good to her, and it was always kind.   End.  Pour on- umas ушes.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "tanyard",
+          "actual": "tan yard"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "not mine to keep"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "end pour on umas es"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "46abc4522861a1474ff6f481a1cb0bd04bb1729934c1578e51e7110be311b526"
+}

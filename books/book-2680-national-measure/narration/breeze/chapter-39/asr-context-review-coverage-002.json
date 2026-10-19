@@ -1,0 +1,119 @@
+{
+  "sourceSha256": "6eec65de0644f1a92aa58b2c05aa0592d4a528f022aa5dddd3bb4035f8357356",
+  "audioSha256": "8208ee48e31487fc0a62e8931e5258d32ddfca085735ef3f201e43a29b9ba519",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "891a43e67c07d5c9bee4a48d08b6f5a69250313ac85840a5cbc90fb07cbb83d7",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s079",
+      "takeBindings": [
+        {
+          "id": "s078",
+          "sha256": "6680ff84e014aa62b6e830df4462b48e9d22cfdf04a289c1bae3e91415ffa9ab"
+        },
+        {
+          "id": "s079",
+          "sha256": "c9d394d3619f4c0ca65bc82a3ab0046e457e5d8535a379a762b5e781f024ad91"
+        },
+        {
+          "id": "s080",
+          "sha256": "cba62425db8ea6b46cf124cba1145c5fa60c35bb66b9ede40b128c07dd8e5819"
+        }
+      ],
+      "wavSha256": "b0557a444d1e9893cfd1001d2a4870bf180310c83ce225100ac4cb9c4680b736",
+      "expected": "The heavy Board member had taken his spectacles off his forehead and was holding them in his hand. \"I woke,\" said the Proprietor, \"and went to the window, and the lamps went white.\" He turned his head from the harbour window and looked down the length of the table at Kiva. \"I've dreamed it eleven times since. Not often. Not on any night I could choose. Always with a fever, and always near a thing I can't name, and never once since 2611 when I didn't have my hand on this glass. The last was in the ninth month of last year. The 17th. In the evening.\" The 17th of the ninth month. Twenty past two. The bank in this harbour, falling into step. The Pit. The lamp-man at Holloway with a fever two nights, who would not have it written.",
+      "transcript": "The heavy board member had taken his spectacles off his forehead and was holding them in his hand. Awoke, said the proprietor, and went to the window and the lamps went white. He turned his head from the harbour window and looked down the length of the table at Kiva. I've dreamed it eleven times since. Not often. Not on any night I could choose. Always with a fever. And always near a thing I can't name. And never once since twenty-six one hundred men. And never once since twenty-six eleven when I didn't have my hand on this glass. The last was in the ninth month of last year. The seventh-eighth. In the evening. The seventeenth of the ninth month. Twenty past two. The bank in this harbour, falling into step. The pit. The lampman at Holloway. With a fever two nights. Who would not have it written.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i woke",
+          "actual": "awoke"
+        },
+        {
+          "operation": "replace",
+          "expected": "2611",
+          "actual": "twenty six one hundred men and never once since twenty six eleven"
+        },
+        {
+          "operation": "replace",
+          "expected": "17th",
+          "actual": "seventh eighth"
+        },
+        {
+          "operation": "replace",
+          "expected": "17th",
+          "actual": "seventeenth"
+        },
+        {
+          "operation": "replace",
+          "expected": "lamp man",
+          "actual": "lampman"
+        }
+      ]
+    },
+    {
+      "id": "s098",
+      "takeBindings": [
+        {
+          "id": "s097",
+          "sha256": "5ecf10e0e8f3aea2dc531e5af483dba1ad1b62e5310c3db3640e77d0028af2f5"
+        },
+        {
+          "id": "s098",
+          "sha256": "50cc79fb7e5f10abbb3cddaca35a2583fc0ea9c34b5e6984830d925367413681"
+        },
+        {
+          "id": "s099",
+          "sha256": "0bec919aa4adbbe77e71e7915420edae859d3ddb72be791786565ea6a86309ee"
+        }
+      ],
+      "wavSha256": "5179d52cabe1fbb8a45a040c57acda3d6f2dfc066ae82341fdfd81d4d23002c3",
+      "expected": "\"I'm sure of my reading,\" said the Proprietor. \"I've been sure of it for seventy-six years. I'm not certain I'm right.\" He said it quite simply, as he might have said the time. \"Those are two different things, sir. I've been a clerk. I know the difference between a count and what it means.\" He turned his head and looked down the table at Kiva again. \"Which is why I asked the Board to bring Miss Rowan. I'd like to ask her one question. Through the Board, if the Board allows it. She's not obliged to answer.\" The Clerk looked at Kiva. \"You're not obliged,\" she said.",
+      "transcript": "I'm sure of my reading, said the proprietor. I've been sure of it for seventy-six years. I'm not certain I'm right. He said it quite simply, as he might have said the time. Those are two different things, sir. I've been a clerk. I know the difference between a count and what it means. He turned his head and looked down the table at Kiva again. Which is why I asked the board to bring Miss Rowan. I'd like to ask her one question, through the board if the board allows it. She's not obliged to answer. The clerk looked at Kiva. The clerk looked at Kiva. I'm not obliged, she said.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "you're",
+          "actual": "the clerk looked at kiva i'm"
+        }
+      ]
+    },
+    {
+      "id": "s099",
+      "takeBindings": [
+        {
+          "id": "s098",
+          "sha256": "50cc79fb7e5f10abbb3cddaca35a2583fc0ea9c34b5e6984830d925367413681"
+        },
+        {
+          "id": "s099",
+          "sha256": "0bec919aa4adbbe77e71e7915420edae859d3ddb72be791786565ea6a86309ee"
+        },
+        {
+          "id": "s100",
+          "sha256": "c784446720419b481d5e815562e8461b52d4bcea010327c53008149b392a25b4"
+        }
+      ],
+      "wavSha256": "26c140007ff6be4361e7c4e0e1d52ab61c3b23b469f545f757b606225e139006",
+      "expected": "The Clerk looked at Kiva. \"You're not obliged,\" she said. \"I know,\" said Kiva.",
+      "transcript": "The clerk looked at Kiva. The clerk looked at Kiva. I not obliged, she said. I know, said Kiva.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "you're",
+          "actual": "the clerk looked at kiva i"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "0959d837df9e3dca725d529a53fabf3d86f22c470ddc7195cba1cb7d4409f1b9"
+}

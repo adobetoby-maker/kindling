@@ -1,5 +1,19 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T03:58Z
+
+- Named coverage-002 contexts completed 03:55:39Z. Confirmed later direction
+  leakage/repetition/corruption is detailed in COVERAGE-REVIEW-002.md; not accepted
+  as complete coverage. Original score/takes and publication records unchanged.
+- Bounded non-publishing shorter-instruction trial is active, shell 63288:
+  scripts/nm-offline-leak-trial.py, output diagnostic-instruction-leak-v1, targets
+  35 s043 / 38 s068 / 41 s056. One native Breeze take each, then serialized ASR;
+  no automatic promotion or pickup. Initial cache-path load failure produced no
+  take; resumed same trial once using existing Breeze cache offline, with evidence
+  preserved. Inspect actual process/results before additional model work.
+- Publication hold and all checkpoints preserved. No upload retry or billing
+  action. All 48 rendered locally does not mean all 48 are technically accepted.
+
 ## Latest checkpoint — 2026-10-19T03:54Z
 
 - Offline ASR drain finished 03:01:41Z. All 48 current source/audio bindings have
