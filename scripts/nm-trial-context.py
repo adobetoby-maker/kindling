@@ -109,7 +109,7 @@ def main(batch=1, combine_adjacent=False):
 if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('--batch', type=int, choices=[1,2,3,4,5], default=1)
+    parser.add_argument('--batch', type=int, choices=[1,2,3,4,5,6], default=1)
     parser.add_argument('--combine-adjacent', action='store_true')
     args = parser.parse_args()
     main(args.batch,args.combine_adjacent)

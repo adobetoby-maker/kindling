@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "record": "/Users/drive/kindling-2680-book-02/books/book-2680-national-measure/narration/breeze/voice-pickup-batch-6/record.json",
+  "model": "mlx-community/chatterbox-multilingual-v3",
+  "pass": true,
+  "accentApproval": "human-required",
+  "sampling": {
+    "maximumSegmentsPerRole": 1000,
+    "strategy": "evenly-spaced coverage per performance role"
+  },
+  "roles": {
+    "long-outlier-temporal-window": {
+      "segments": 8,
+      "minimum": 0.9281,
+      "median": 0.9457,
+      "maximum": 0.9551,
+      "threshold": 0.84
+    }
+  },
+  "checkedSegments": [
+    {
+      "index": 0,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.949,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 1,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9447,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 2,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9414,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 3,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9551,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 4,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9281,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 5,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9435,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 6,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9479,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    },
+    {
+      "index": 7,
+      "role": "long-outlier-temporal-window",
+      "durationSec": 6.0,
+      "similarity": 0.9467,
+      "closestOtherRole": null,
+      "closestOtherSimilarity": -1.0
+    }
+  ],
+  "skippedShortSegments": [],
+  "failures": []
+}

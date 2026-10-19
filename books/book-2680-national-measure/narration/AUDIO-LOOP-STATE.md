@@ -1,5 +1,25 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T10:20Z
+
+- Sampled identity finished: 1,152 checks, median .9491; 50 below .84 remain
+  recorded. Forty-six are under3s; three are headings;48 s112 is a long outlier.
+  Known-positive Calder short crops also fail sometimes, so short failures need
+  review, not automatic clearance or rerecord. All62 separately tested neighbors
+  passed; all8 six-second original48 s112 windows failed (.7357–.7582).
+- One separate batch6 48 s112 native replacement:42.16s, exact source-word input,
+  no isolated/context ASR additions or omissions (name spellings vary). Eight
+  six-second identity windows pass .9281–.9551. Not promoted into frozen v1,
+  production recordings, directions or publication. See VOICE-SCREEN-REVIEW.md.
+- UTMOSv2 sampled naturalness active: shell19842, parent81096, child81187.
+  Existing Drive2 quality runtime; scripts/nm-naturalness-screen.py uses the
+  frozen voice-screen-v1 ledger (does not include batches4–6), CPU-only and
+  offline-qa.lock. Inspect naturalness-screen-v1 log/result before any new model
+  job; do not duplicate. Scores are diagnostic, not human listening approval.
+- Text remains accepted48 chapters/325936 words; budget holds untouched.46
+  chapters previously verified live;47/48 publication still held. No upload retry,
+  host/billing change, author restart, production replacement or Finished claim.
+
 ## Latest checkpoint — 2026-10-19T09:14Z
 
 - Batch5 completed. 33 s118 ranks and s147 final breath sentence restored in

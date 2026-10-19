@@ -40,6 +40,7 @@ TRIALS_5 = [
     (33,'s118','Warm, restrained Australian narration. Read the written team listing precisely, including each rank. Clear factual register, no announcer excitement. Stay in the same adult narrator voice.'),
     (33,'s147','Warm, restrained Australian narration. Clear tactical narration, deliberate complete thought landings. Carry the final physical observation through to its quiet end. Stay in the same adult narrator voice.'),
     (33,'s216','Warm, restrained Australian narration. Read the written result and each team rank precisely; quiet factual delivery, no announcer excitement. Stay in the same adult narrator voice.')]
+TRIALS_6 = [(48,'s112','Warm, restrained Australian narration in the locked adult Calder voice. Quiet observational prose with gentle human warmth, complete thought landings and no theatrical character imitation. Remain in the base narrator throughout.')]
 
 
 def main(resume_cache_failure=False, batch=1):
@@ -64,7 +65,7 @@ def main(resume_cache_failure=False, batch=1):
                 'resolution': 'Use existing local Breeze cache offline; no model download',
                 'productionAudioUnchanged': True})
         inputs, segments = [], []
-        for number, key, instruct in {1:TRIALS,2:TRIALS_2,3:TRIALS_3,4:TRIALS_4,5:TRIALS_5}[batch]:
+        for number, key, instruct in {1:TRIALS,2:TRIALS_2,3:TRIALS_3,4:TRIALS_4,5:TRIALS_5,6:TRIALS_6}[batch]:
             directory = worker.QUEUE/f'chapter-{number:02d}'
             source = worker.BOOK/f'manuscript/chapter-{number:02d}.md'
             direction = directory/'direction.json'
@@ -141,6 +142,6 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--resume-cache-failure', action='store_true')
-    parser.add_argument('--batch', type=int, choices=[1,2,3,4,5], default=1)
+    parser.add_argument('--batch', type=int, choices=[1,2,3,4,5,6], default=1)
     args = parser.parse_args()
     main(args.resume_cache_failure, args.batch)
