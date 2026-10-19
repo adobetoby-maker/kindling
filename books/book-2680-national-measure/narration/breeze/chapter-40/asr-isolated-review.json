@@ -1,0 +1,67 @@
+{
+  "sourceSha256": "bcad51d91d6ca13904beaaae4d30f92c4b0c693533c9dbac83d9cc246d48f38d",
+  "audioSha256": "7699481f92ad6d3bde225a6e530695fb9265844c959f341952fa8fbd8f2b73a3",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "9ced4af378567517b759a61a7e57fcfb0c0191656e3c1de1aa91fa2c0968dd5c",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s077",
+      "takeBindings": [
+        {
+          "id": "s077",
+          "sha256": "5da79996841d6557120f101a0582e7d455cf5eb5257767e5e2fc4c0dfb3ff486"
+        }
+      ],
+      "wavSha256": "5da79996841d6557120f101a0582e7d455cf5eb5257767e5e2fc4c0dfb3ff486",
+      "expected": "HOLLOWAY LAMP OFFICE. THE NIGHT LAMP-MAN HAS ASKED THAT IT BE WRITTEN NOW. HE SAYS NO ROOF. NOTHING OVER. SOMETHING THERE ATTENDING. THE LAMPS ON THE RING WHITE AND OUT BOTH. HE SAYS IF THE GIRL CAN SAY IT TO A BOARD UNDER HER NAME HE CAN SAY IT TO HIS WARDEN UNDER HIS. HIS NAME IS ON THE FORM. HE ASKS IT NOT BE PRINTED.",
+      "transcript": "Holloway Lamp Office. The night lampman has asked that it be written now. He says, No roof, nothing over. Something there, attending, the lamps on the ring white and out. He says, If the girl can say it to a board under her name, he can say it to his warden under his. His name is on the form. He asks it not be printed.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "lamp man",
+          "actual": "lampman"
+        },
+        {
+          "operation": "delete",
+          "expected": "both",
+          "actual": ""
+        }
+      ]
+    },
+    {
+      "id": "s057",
+      "takeBindings": [
+        {
+          "id": "s057",
+          "sha256": "1c3cca93999a6a57ab45c4989b3620396a28138f2e29e756e0a5d9476d7eab25"
+        }
+      ],
+      "wavSha256": "1c3cca93999a6a57ab45c4989b3620396a28138f2e29e756e0a5d9476d7eab25",
+      "expected": "She read it as she had read a night clerk's margin to Kiva in a reading room in the summer, in exactly the same voice, without looking up until she had done. Fever again. Fourth time with this dream, so I will write it. Somebody should. The roads. The lights, each a different light. I know what they are, because I know what I am, and they are that. The sky not torn. As if someone had taken the roof off a house in the night and the house woke and found itself under the stars. What came down, not crushing, full, like standing under a wave that does not break. It is paying attention.",
+      "transcript": "She read it as she had read a night clerk's margin to Kiva in a reading room in the summer, in exactly the same voice, without looking up until she had done. Fever again. Fourth time with this dream, so I will write it. Somebody should. The roads, the lights, each a different light. I know what they are, because I know what I am, and they are that. The sky not torn, as if someone had taken the roof off a house in the night, and the house woke and found itself under the stars. What came down, not crushing, full, like standing under a wave that does not break, it is paying attention.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s111",
+      "takeBindings": [
+        {
+          "id": "s111",
+          "sha256": "6eb7bece9d0925f02986bef80180e16c69fd5b3cf6dc9ffdc9f08e191848e456"
+        }
+      ],
+      "wavSha256": "6eb7bece9d0925f02986bef80180e16c69fd5b3cf6dc9ffdc9f08e191848e456",
+      "expected": "\"Then they're given,\" she said. \"Not brought. Given.\" She looked at the sister on her left. \"Write it in our book tonight, at the hut. In my words. Given to a bank, by the Master, who broke the house's rule to do it, and said the price first.\" She was quiet. \"And write that I'd do it again.\"",
+      "transcript": "Then they're given, she said. Not brought, given. She looked at the sister on her left. Write it in our book tonight, at the hut. In my words, given to a bank by the master who broke the house's rule to do it and said the price first. She was quiet. And write that I'd do it again.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

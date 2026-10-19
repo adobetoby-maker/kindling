@@ -1,0 +1,43 @@
+{
+  "sourceSha256": "3f67d10d46a1186bf0b3d912ba19f3298f391753b1172f1aa913c05cba59e24a",
+  "audioSha256": "b34f1414c0a36cb6f8b14553c0ba274ca8c5ceeaa8acd9d598db94455ff89146",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "36cfd7a3fc7ccf06659b11490d91b7114d586037b454d5ef67b7701e7e0fb091",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s123",
+      "takeBindings": [
+        {
+          "id": "s122",
+          "sha256": "453decb44ee409374895b8d01fbb12c144bcbf3b43457f46686296e389200363"
+        },
+        {
+          "id": "s123",
+          "sha256": "09495e0f90224be48a2597790fcc86d17c78e358db3f4750453c495e92dcbda8"
+        },
+        {
+          "id": "s124",
+          "sha256": "82568bd90366015d126500fa33fe0400fa2c38b541012df7c389881b93738eff"
+        }
+      ],
+      "wavSha256": "ea5f5825fd2f4d321191ac514ac6f06824a0d2ce0b291106ca8dd1afb5a20883",
+      "expected": "\"I know,\" said Kiva. \"And we won the Carry,\" said Perrin. \"Outright. One board out of four, outright, on the national. That's ours.\" He let Aske take his wrist. \"That's the ladder. That's the one with my name on it.\" \"It's got all our names on it,\" said Anwen.",
+      "transcript": "I know, said Kiva. And we won the carry, said Perrin. Outright. One board out of four, outright, on the national. That's ours. He let Ask take his wrist. That's the ladder. That's the one with my name on it. It's got all our names on it, said Anwen.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "68a7d0737ebb034db50a971f6838c03a7564f3f8cfdc21806b6d01bf0fdf9603"
+}

@@ -1,0 +1,88 @@
+{
+  "sourceSha256": "260de2fc655313a0cc45dde3581ab6a52ff0b40f5d707adedeb449c89a6f58ae",
+  "audioSha256": "a026ae04df7c9dc20bfca386f4f3cf912ad72e0f038f43744f595dc17324327e",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "915c23f5b1ddc58a814244edc3a5a49c73e6f47c7a40354ba4eff61a56773260",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s056",
+      "takeBindings": [
+        {
+          "id": "s056",
+          "sha256": "49cde33d279d499648e43ef2fd0a1043cebe1a22ff45664b5cc5db376822c0b2"
+        }
+      ],
+      "wavSha256": "49cde33d279d499648e43ef2fd0a1043cebe1a22ff45664b5cc5db376822c0b2",
+      "expected": "Perrin wrote: To declare for the four, and keep the brake. Not on the mud. He handed the pen to Anwen. She signed without saying anything, and so did Jude, who steadied the sheet with his left hand while he wrote Talley, because Aske had said Monday, and it was Monday. Pru went scarlet at the table, for no reason anybody could see, and wrote Finch very small.",
+      "transcript": "Take this 500-500-1550, not on the mud. He handed the pen to Anwen. She signed without saying anything, and so did Jude, who steadied the sheet with his left hand while he wrote Tully, because Ask had said Monday, and it was Monday. Prue went scarlet at the table, for no reason anybody could see, and wrote Finch very small.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "perrin wrote to declare for the four and keep the brake",
+          "actual": "take this 500 500 1550"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tully"
+        },
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        }
+      ]
+    },
+    {
+      "id": "s034",
+      "takeBindings": [
+        {
+          "id": "s034",
+          "sha256": "45850050daf104f925536767f5f2c9f0b4c70617f4977811fe80fd824233ef14"
+        }
+      ],
+      "wavSha256": "45850050daf104f925536767f5f2c9f0b4c70617f4977811fe80fd824233ef14",
+      "expected": "He did not look up from the card.",
+      "transcript": "He did not look up from the card.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s144",
+      "takeBindings": [
+        {
+          "id": "s144",
+          "sha256": "21b6415e84100387264df071bb16d7f7268e24f11cd11dc3c45e5d63d595d07e"
+        }
+      ],
+      "wavSha256": "21b6415e84100387264df071bb16d7f7268e24f11cd11dc3c45e5d63d595d07e",
+      "expected": "The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. Boards had been nailed across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop.",
+      "transcript": "The company's cooper sent it down from the yard behind the long key on a dray, a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. Boards had been nailed across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful. They lowered it down the graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the company's men filled it from the fire main with the canvas hose until the water stood in it, level with the top hoop.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "quay",
+          "actual": "key"
+        },
+        {
+          "operation": "replace",
+          "expected": "a",
+          "actual": "the"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

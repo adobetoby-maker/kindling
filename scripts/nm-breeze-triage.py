@@ -45,7 +45,7 @@ def context_targets(track, ids):
     return [(key, track['segments'][max(0, positions[key]-1):positions[key]+2]) for key in ids]
 
 
-def main(number, context=False, unpublished=False):
+def main(number, context=False, unpublished=False, context_request=None):
     from mlx_audio.stt.generate import generate_transcription
     from mlx_audio.stt.utils import load_model
     directory = QUEUE/f'chapter-{number:02d}'
@@ -75,7 +75,11 @@ def main(number, context=False, unpublished=False):
     if track['sourceSha256'] != audit['sourceSha256']:
         raise ValueError('Direction source changed')
     selected = targets(track, json.loads(raw.read_text()))
-    request = directory/'asr-context-request.json'
+    request = directory/(context_request or 'asr-context-request.json')
+    if request.parent != directory or request.suffix != '.json':
+        raise ValueError('Context request must be a chapter-local JSON filename')
+    if context_request and not re.fullmatch(r'asr-context-request-[a-z0-9-]+\.json', context_request):
+        raise ValueError('Named request must use asr-context-request-<name>.json')
     if context:
         wanted = json.loads(request.read_text())
         if any(wanted[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
@@ -134,6 +138,8 @@ def main(number, context=False, unpublished=False):
                   ownerListening='pending',
                   note='Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.')
     filename = 'asr-context-review.json' if context else 'asr-isolated-review.json'
+    if context and context_request:
+        filename = request.stem.replace('request', 'review')+'.json'
     if context:
         report['requestSha256'] = sha(request)
     pending = directory/(filename+'.pending')
@@ -142,4 +148,13 @@ def main(number, context=False, unpublished=False):
 
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]), '--context' in sys.argv[2:], '--unpublished' in sys.argv[2:])
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('chapter', type=int)
+    parser.add_argument('--context', action='store_true')
+    parser.add_argument('--unpublished', action='store_true')
+    parser.add_argument('--context-request')
+    args = parser.parse_args()
+    if args.context_request and not args.context:
+        parser.error('--context-request requires --context')
+    main(args.chapter, args.context, args.unpublished, args.context_request)

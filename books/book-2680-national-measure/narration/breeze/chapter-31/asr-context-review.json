@@ -1,0 +1,109 @@
+{
+  "sourceSha256": "c2fad74e257925f8d194a1967f35d34a0e9577083d453fecb7958ede136f9a7e",
+  "audioSha256": "f8b8e522f97b41bac892380cf187b73239aa92127c79aaf31770b97b465599ae",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "4b8a1e82ea9f9e4d7e38bcc0e68c8286f10be29c0742ed9c7b5522f34fae4b95",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s060",
+      "takeBindings": [
+        {
+          "id": "s059",
+          "sha256": "692aa4fe3046e6d94c8ae0bbaa96f227b9154fa3e7e2fad252c10403ee6f26b2"
+        },
+        {
+          "id": "s060",
+          "sha256": "6c699519af10770fa418236759cc9d404eedd4b2bf7137bd52b73349e440edd8"
+        },
+        {
+          "id": "s061",
+          "sha256": "d7d9ed58d14a81d5904b6950160a7594dd95c39f59607b491d07f096fd9eae23"
+        }
+      ],
+      "wavSha256": "442e32f0f0e74ed78be3c728e9271e601af7d4f4d314c5d800ba55bc7e159d82",
+      "expected": "Pru let go. For a quarter of a count, the grey lump hung over the mud a foot above Pru's empty tray, with the long curve of the sleeve going away from it to the post, and nobody had it. It did not fold. There was nobody for it to fold to. It hung in nothing, belonging to nobody, as a coin hangs at the top of a toss. Kiva took it.",
+      "transcript": "Prue let go. For a quarter of a count, the grey lump hung over the mud, a foot above Prue's empty tray, with a long curve of the sleeve going away from it to the post. And nobody had it. It did not fold. There was nobody for it to fold to. It hung in nothing, belonging to nobody, as a coin hangs at the top of a toss. Kiva took it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru's",
+          "actual": "prue's"
+        },
+        {
+          "operation": "replace",
+          "expected": "the",
+          "actual": "a"
+        }
+      ]
+    },
+    {
+      "id": "s078",
+      "takeBindings": [
+        {
+          "id": "s077",
+          "sha256": "5b0f004ad674a844a33b9888c7c6a8ca03f22704fe9d0e27ac0e8e4b0660d220"
+        },
+        {
+          "id": "s078",
+          "sha256": "30e216dad828b12828f1dad1dcba7d7c2beb891c90fdd8907499b53fe5b484d6"
+        },
+        {
+          "id": "s079",
+          "sha256": "398258f8c7e64022e144c76983d042cb24e5b0b52355b78d2618dbc5ff215a5d"
+        }
+      ],
+      "wavSha256": "a84db0d7626cced958305dc02c252bdeaccd7378ed6e897217f454ab6a510e48",
+      "expected": "His voice was quite polite. \"Cut,\" said Yeo. The red-haired boy in the punt lit his edge and cut the far post, and the top of it came off and went down into the slack water where his purse was, and nobody hauled it. And the stow died.",
+      "transcript": "His voice was quite polite. Cut, said Yeo. The redhead boy in the punt lit his edge and cut the far post, and the top of it came off and went down into the slack water where his purse was, and nobody hauled it, and the stow died.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "red haired",
+          "actual": "redhead"
+        }
+      ]
+    },
+    {
+      "id": "s127",
+      "takeBindings": [
+        {
+          "id": "s126",
+          "sha256": "f7db50f31c23ae1ddd62f275c5c7e56e1984df80465928ac290fd95db1f0da7d"
+        },
+        {
+          "id": "s127",
+          "sha256": "1f1d80ee3249535b20d5148b7dd9dab8dc62ccea25612b1a9f42be65b20ec2dd"
+        },
+        {
+          "id": "s128",
+          "sha256": "b7edab308f928ebe577b3ff9178af1902d35f2dbe7dd9986630eae6af3845a05"
+        }
+      ],
+      "wavSha256": "4a19b33a49ad81ad95ebeaf47d4a6c5aa409a05c4e6cd79d84a9d2d81fa6ef0a",
+      "expected": "Coombe did not say anything. \"The girl was on it,\" said Yeo. \"On the skin. Freeing a line. She asked me, from the bank, was it ground. It was lying down. I said what the book says.\" She took her hand off the coat. \"I said it.\" \"I know,\" said Coombe.",
+      "transcript": "Coombe did not say anything. The girl was on it, said Yeo, on the skin, freeing a line. She asked me from the bank was it ground. It was lying down. I said what the book says. She took her hand off the coat. I said it. Oh no, said Coombe.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i know",
+          "actual": "oh no"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "711705653b260016b8b6ad0563ec077961e84825aaa2614d3af77b45ca5b5ec5"
+}

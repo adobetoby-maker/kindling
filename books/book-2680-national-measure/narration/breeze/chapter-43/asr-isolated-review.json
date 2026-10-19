@@ -1,0 +1,59 @@
+{
+  "sourceSha256": "18aeddbbc35392f2fb20c6d66738b361d4a4ce138ec79c07b9b9e81c0fbd38b1",
+  "audioSha256": "bca947cad7bbe6130876636ca7ebb1603d8b4130eb3ce4502a799c896403316b",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "e21be9517e03bc4d6d90e9789e9f1195cc18506512ad1ab67c2a1953c6095bbc",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s088",
+      "takeBindings": [
+        {
+          "id": "s088",
+          "sha256": "f3dad5d47c2667c6054662fa2c7b1e09b38f285d25229119708da1f731e53468"
+        }
+      ],
+      "wavSha256": "f3dad5d47c2667c6054662fa2c7b1e09b38f285d25229119708da1f731e53468",
+      "expected": "\"Rowan, K. Catcher. Caller. Ember, declared, single, at every carry, as the reserve. A crossing, Ember to still, if a plant fails. Declared by Cade, captain, at six.\"",
+      "transcript": "Rowan, catcher, caller. Ember, declared, single, at every carry, as the reserve. A crossing, ember to still, if a plant fails. Declared by Cade, captain, at six.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "delete",
+          "expected": "k",
+          "actual": ""
+        }
+      ]
+    },
+    {
+      "id": "s032",
+      "takeBindings": [
+        {
+          "id": "s032",
+          "sha256": "fe52819fb5fd3ffe4c3f75731c5d7919edb36528bff41292506c0fa4f92c71a4"
+        }
+      ],
+      "wavSha256": "fe52819fb5fd3ffe4c3f75731c5d7919edb36528bff41292506c0fa4f92c71a4",
+      "expected": "\"I've nothing to tell you,\" she said. \"I've been trying to think of something since three o'clock, and there isn't anything. You know what you're doing. You knew it on Monday. I'll be on that landing with this watch, and I'll not see you from it once you're past the second mark, and I'll not know what's happening in the dock until somebody runs and tells me.\" She looked at the basin, grey and drained and shining, with the dark place ten paces out from the outfalls. \"I'd like to know. I'll not ask anybody to run and tell me. I'll know when the Master's ward is up, because Yeo's to whistle, and that's all I need to know, and it's all I'll ask.\"",
+      "transcript": "I've nothing to tell you, she said. I've been trying to think of something since three o'clock, and there isn't anything. You know what you're doing. You knew it on Monday. I'll be on that landing with this watch, and I'll not see you from it once you're past the second mark. And I'll not know what's happening in the dock until somebody runs and tells me. She looked at the basin, grey and drained and shining, with the dark place ten paces out from the outfalls. I'd like to know. I'll not ask anybody to run and tell me. Or I'll know when the Master's ward is up, because yoa's to whistle. And that's all I need to know, and it's all I'll ask.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "or"
+        },
+        {
+          "operation": "replace",
+          "expected": "yeo's",
+          "actual": "yoa's"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

@@ -1,0 +1,91 @@
+{
+  "sourceSha256": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+  "audioSha256": "3ba012db66da9b299e5504df7a0a1713f621cb01a68a910bcaccba7fbc201af4",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "14c051355a218279b7143b79c8c237a52ff238444b4460daa1fae016dcb3701d",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s091",
+      "takeBindings": [
+        {
+          "id": "s090",
+          "sha256": "7c59b3c22b4c513dcfc8f0d9734bf7d4e0767fe83ece475451e47744e2262c00"
+        },
+        {
+          "id": "s091",
+          "sha256": "c10d139468806b9b39fdd2df591b44a66201274e37f85a7b9abafc50e067d89e"
+        },
+        {
+          "id": "s092",
+          "sha256": "99236dd53cd6174771124bb8495b2e3bb676aaff1d5c1d426d550c31de430d06"
+        }
+      ],
+      "wavSha256": "d8875391f54d01e681972e31825c0ecb80ddb5ede4f4285d73dc343378182f54",
+      "expected": "Noa looked at her, then took his pencil from behind his ear and wrote in the ledger on his desk's ledge, in his narrow upright hand. Kiva watched him write. The 16th. A hair on all pens at 12.44 by the mast clock. Nobody on the mast. At Mallow Creek, by T7's captain's watch, a stow turned at 12.44 or 12.45, seven minutes before the water (Rowan, K., fingers on a pole; the grass). N.B. He did not draw a line between them. He did not write because. He left a space under it.",
+      "transcript": "Noah looked at her, then took his pencil from behind his ear and wrote in the ledger on his desk's ledge in his narrow upright hand. Kiva watched him write. The 16th. A hair on all pens at 12.44 by the mast clock. Nobody on the mast. At Mallow Creek, by T7's Captain's Watch, a stow turned at 12.44 or 12.45. Seven minutes before the water. Rowan, fingers on a pole, the grass. NB. He did not draw a line between them. He did not write because. He left a space under it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "noa",
+          "actual": "noah"
+        },
+        {
+          "operation": "delete",
+          "expected": "k",
+          "actual": ""
+        },
+        {
+          "operation": "replace",
+          "expected": "n b",
+          "actual": "nb"
+        }
+      ]
+    },
+    {
+      "id": "s164",
+      "takeBindings": [
+        {
+          "id": "s163",
+          "sha256": "588cb3a22ef0089b9a1ef4461d66db5ff5481365b22ec590c57f37e53de71e92"
+        },
+        {
+          "id": "s164",
+          "sha256": "8d68d30cf0c1b851aa38e2c1b5a2496ee039f653846579b8d8d49c59a51a7871"
+        },
+        {
+          "id": "s165",
+          "sha256": "df64815f417c248210b34661cf8242cc22099ba0201450428004b8fa259b820d"
+        }
+      ],
+      "wavSha256": "d0e7d1c08dbc596dc9abd084b0efa37a91e0af3aacdcba46ad57d2f1a508fe6e",
+      "expected": "\"Ninth,\" said Kiva. \"One mark off eighth. One mark off the roll.\" He looked at the sheet. \"Third last night. Ninth tonight. Fifteenth on the Hunt, with no remarks, with clean work on our stow and a fold called and a pass that held.\" He was quiet for a moment. \"With a dry bag that combed red and a dry bag that combed clean, off the same stow in the same slack, and nobody can say why.\" \"It's honest,\" said Jude.",
+      "transcript": "Ninth, said Kiva. No paud me, ma five-wondre-fifty misty. No calodri, he plee fifteen-fifty. One mark off eights, one mark off the roll. He looked at the sheet. Third last night, ninth tonight, fifteenth on the hunt, with no remarks, with clean work on our stow, and a fold called and a pass that held. He was quiet for a moment, with a dry bag that combed red and a dry bag that combed clean, off the same stow in the same slack, and nobody can say why. It's honest, said Jude. Jude. .  . . .",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "no paud me ma five wondre fifty misty no calodri he plee fifteen fifty"
+        },
+        {
+          "operation": "replace",
+          "expected": "eighth",
+          "actual": "eights"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "jude"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "d604e687ac9f1d761e4a3590d0473dbc8c9643e972a56a13ef0410fc684add3b"
+}

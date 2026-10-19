@@ -1,5 +1,23 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T03:54Z
+
+- Offline ASR drain finished 03:01:41Z. All 48 current source/audio bindings have
+  whole-chapter and isolated-flag screens; none is a coverage approval. All local
+  chapter durations total 142,598.38 sec (39:36:38.38). Text unchanged/completed.
+- Reviewed late isolated transcripts against score text: material instruction
+  leakage candidates in 35/37/38/47, numeric corruption in 41 and smaller repeat/
+  omission candidates require context. COVERAGE-REVIEW-002.md lists exact takes.
+  Named contextual pass started 03:53Z, shell 38392 / PID 35079; nine chapters
+  sequentially, including unpublished 47/48 via existing technical hash records.
+  Earlier context reports preserved. Inspect process/results before new model work.
+- 38 s123 peak pickup's earlier context has only Aske/ask spelling difference.
+  Other takes in that chapter remain problematic. Not a whole-chapter acceptance.
+- No LFS retry, billing action, alternate hosting or audio mutation. 47/48 and
+  30/33 queue holds remain. Supervisor 70030 no longer present; do not restart
+  publication while blocked. Final coverage/pace/master/voice and owner listen
+  remain open; no completion or heartbeat pause.
+
 ## Latest checkpoint — 2026-10-19T02:55Z
 
 - All 48 local chapter recordings have rendered. Text remains accepted/live at
