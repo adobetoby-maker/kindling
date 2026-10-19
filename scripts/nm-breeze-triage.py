@@ -45,12 +45,18 @@ def context_targets(track, ids):
     return [(key, track['segments'][max(0, positions[key]-1):positions[key]+2]) for key in ids]
 
 
-def main(number, context=False):
+def main(number, context=False, unpublished=False):
     from mlx_audio.stt.generate import generate_transcription
     from mlx_audio.stt.utils import load_model
     directory = QUEUE/f'chapter-{number:02d}'
     audit = json.loads((directory/'asr-audit.json').read_text())
-    published = json.loads((directory/'published.json').read_text())
+    binding_path = directory/'published.json'
+    if not binding_path.exists() and unpublished:
+        binding_path = directory/'technical-review.json'
+    published = json.loads(binding_path.read_text())
+    if binding_path.name == 'technical-review.json' and any(
+            published.get(k) != 'passed' for k in ('wordLock', 'decode')):
+        raise ValueError('Unpublished candidate lacks word-lock/decode checks')
     source = ROOT/f'books/book-2680-national-measure/manuscript/chapter-{number:02d}.md'
     audio = directory/f'chapter-{number:02d}.breeze-calder.mp3'
     def check():
@@ -58,6 +64,9 @@ def main(number, context=False):
             raise ValueError('Published ASR inputs changed')
         if any(published[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
             raise ValueError('Publication binding differs from ASR')
+        current = json.loads(binding_path.read_text())
+        if any(current[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
+            raise ValueError('Binding record changed during ASR')
     check()
     raw = Path(audit['rawReport'])
     if sha(raw) != audit['rawReportSha256']:
@@ -120,6 +129,8 @@ def main(number, context=False):
     check()
     report = {k: audit[k] for k in ('sourceSha256', 'audioSha256', 'model', 'modelRevision', 'rawReportSha256')}
     report.update(state='context-screened-review-pending' if context else 'localized-screened-review-pending', segments=results,
+                  bindingRecord=binding_path.name,
+                  publicationClaim=False if binding_path.name == 'technical-review.json' else None,
                   ownerListening='pending',
                   note='Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.')
     filename = 'asr-context-review.json' if context else 'asr-isolated-review.json'
@@ -131,4 +142,4 @@ def main(number, context=False):
 
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]), '--context' in sys.argv[2:])
+    main(int(sys.argv[1]), '--context' in sys.argv[2:], '--unpublished' in sys.argv[2:])

@@ -1,5 +1,30 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T02:55Z
+
+- All 48 local chapter recordings have rendered. Text remains accepted/live at
+  325,936 words. Chapters 1–46 previously live verified; 47–48 unpublished because
+  GitHub LFS budget access is blocked. No billing action or new upload retry.
+  Chapter 48 completed at 02:27Z: 168 segments, 2,804.03 sec, 137.84 WPM,
+  source 0adc917ed84018fbf4e1bc2a010b846d8edaee1de2e178379bf01541d89a18fe,
+  audio 3c036f08da52d19e634881bcf421d08e7b792a46f813fb111c17d3a0f3e33930.
+- Chapter 48 CPU audit confirms ordered take waveforms, five-ms fades, inserted
+  silence and frame count within one PCM16 quantization step. Authored rests
+  354.75 sec (12.65%); estimated median join gap 2,250 ms, p90 2,510 ms.
+  Full MP3 measures -21.3 LUFS / -0.4 dBFS true peak. Narrow structural checks
+  passed, not mastering/pacing acceptance; inherited -3 dBTP target unresolved.
+- Offline-only ASR drain started shell 30314 at 02:53Z, chapter 47 screening.
+  scripts/nm-offline-qa.py imports QA functions only: full screens 47/48, then
+  outstanding isolated/context checks, sequential model subprocesses. Explicit
+  unpublished mode binds existing technical-review.json requiring word-lock and
+  decode pass; never creates published.json, renders, repairs or publishes.
+  Inspect its process/log before any new QA/model job; do not duplicate it.
+- Existing supervisor 70030 remains idle; 47/48 readiness and 30/33 replacement
+  requests remain recoverably publication-held. No Path Given stays stopped.
+  Pending: supervisor interpretation of ASR flags, known pickups/short heading,
+  voice/naturalness, mastering/pace, owner listen, 47/48 upload/live verification.
+  Local render completion is not audiobook completion or technical acceptance.
+
 ## Latest checkpoint — 2026-10-19T01:50Z
 
 - Publication budget hold remains; no upload retry or billing action attempted.

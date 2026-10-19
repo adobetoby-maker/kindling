@@ -1,5 +1,11 @@
 # Publication budget hold — 2026-10-19T00:50Z
 
+Update 02:55Z: chapter 48 finished rendering at 02:27Z and its upload was also
+rejected. Both unpublished complete recordings are preserved. No renderer is
+active; worker 70030 is idle under the holds below. Offline-only ASR is now
+draining in shell session 30314; inspect that job before any shared-model work.
+Do not restore readiness while offline QA is using the shared model slot.
+
 GitHub LFS rejected chapter 47's upload because the repository exceeded its LFS
 budget. One direct retry confirmed the same budget error; not a network/auth
 failure. No billing setting or paid limit was changed.

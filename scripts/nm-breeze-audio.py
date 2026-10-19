@@ -187,13 +187,18 @@ def busy():
     return False
 
 
-def audit_output(number):
+def audit_output(number, allow_unpublished=False):
     """Screen rendered words, serialized with synthesis; flags are not pickups."""
     directory = QUEUE/f'chapter-{number:02d}'
     publication = directory/'published.json'
+    if not publication.exists() and allow_unpublished:
+        publication = directory/'technical-review.json'
     if not publication.exists() or busy():
         return False
     published = json.loads(publication.read_text())
+    if publication.name == 'technical-review.json' and any(
+            published.get(k) != 'passed' for k in ('wordLock', 'decode')):
+        raise ValueError('Unpublished candidate lacks word-lock/decode checks')
     binding = {'sourceSha256': published['sourceSha256'],
                'audioSha256': published['audioSha256']}
     marker = directory/'asr-audit.json'
@@ -203,7 +208,9 @@ def audit_output(number):
             return False  # including diagnosed failures; supervisor controls retries
     source = BOOK/f'manuscript/chapter-{number:02d}.md'
     audio = directory/f'chapter-{number:02d}.breeze-calder.mp3'
-    evidence = {**binding, 'model': 'mlx-community/whisper-large-v3-turbo-asr-fp16',
+    evidence = {**binding, 'bindingRecord': publication.name,
+                'publicationClaim': False if publication.name == 'technical-review.json' else None,
+                'model': 'mlx-community/whisper-large-v3-turbo-asr-fp16',
                 'modelRevision': '624c19c9af5603fa73b83bce14d4aeea96156d18',
                 'ownerListening': 'pending', 'accentCertification': False,
                 'note': 'ASR screening only. Names, numbers and decoder errors require contextual triage; never automatic rerecording or human-listening approval.'}
@@ -251,12 +258,15 @@ def audit_backlog():
     return False
 
 
-def triage_backlog():
+def triage_backlog(allow_unpublished=False):
     """One flagged chapter per safe gap; no automatic pickups or approvals."""
     if busy():
         return False
     for number in range(1, 49):
         directory = QUEUE/f'chapter-{number:02d}'
+        unpublished = not (directory/'published.json').exists()
+        if unpublished and not allow_unpublished:
+            continue
         marker = directory/'asr-audit.json'
         if not marker.exists():
             continue
@@ -272,7 +282,8 @@ def triage_backlog():
         log(f'chapter {number}: serialized isolated ASR flag check starting')
         try:
             with (directory/'asr/isolated-screen.log').open('a') as output:
-                subprocess.run([str(QA_PYTHON), str(ROOT/'scripts/nm-breeze-triage.py'), str(number)],
+                subprocess.run([str(QA_PYTHON), str(ROOT/'scripts/nm-breeze-triage.py'), str(number)]
+                               + (['--unpublished'] if unpublished else []),
                                env=env, stdout=output, stderr=subprocess.STDOUT,
                                timeout=1200, check=True)
         except Exception as error:
