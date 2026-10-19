@@ -4,6 +4,7 @@ import fcntl
 import importlib.util
 import json
 import os
+import re
 from pathlib import Path
 import subprocess
 import sys
@@ -35,6 +36,10 @@ TRIALS_3 = [
     (37, 's038', 'Warm, restrained Australian narration. Firm but unshowy reply; preserve the contracted tense and full thought clearly. Stay in the same adult narrator voice.'),
     (38, 's138', 'Warm, restrained Australian narration. Clear factual recollection; distinguish the changing tenses and keep attribution precise. Return to the base narrator for actions and attribution.')]
 TRIALS_4 = [(32,'s035','Warm, restrained Australian narration. Plain factual account of an administrative action; clean clause boundaries and a quiet final landing. Stay in the same adult narrator voice.')]
+TRIALS_5 = [
+    (33,'s118','Warm, restrained Australian narration. Read the written team listing precisely, including each rank. Clear factual register, no announcer excitement. Stay in the same adult narrator voice.'),
+    (33,'s147','Warm, restrained Australian narration. Clear tactical narration, deliberate complete thought landings. Carry the final physical observation through to its quiet end. Stay in the same adult narrator voice.'),
+    (33,'s216','Warm, restrained Australian narration. Read the written result and each team rank precisely; quiet factual delivery, no announcer excitement. Stay in the same adult narrator voice.')]
 
 
 def main(resume_cache_failure=False, batch=1):
@@ -59,7 +64,7 @@ def main(resume_cache_failure=False, batch=1):
                 'resolution': 'Use existing local Breeze cache offline; no model download',
                 'productionAudioUnchanged': True})
         inputs, segments = [], []
-        for number, key, instruct in {1:TRIALS,2:TRIALS_2,3:TRIALS_3,4:TRIALS_4}[batch]:
+        for number, key, instruct in {1:TRIALS,2:TRIALS_2,3:TRIALS_3,4:TRIALS_4,5:TRIALS_5}[batch]:
             directory = worker.QUEUE/f'chapter-{number:02d}'
             source = worker.BOOK/f'manuscript/chapter-{number:02d}.md'
             direction = directory/'direction.json'
@@ -67,14 +72,21 @@ def main(resume_cache_failure=False, batch=1):
             if worker.sha(source.read_bytes()) != track['sourceSha256']:
                 raise ValueError('Stale diagnostic source')
             segment = next(s for s in track['segments'] if s['id'] == key)
+            text = segment['text']
+            if batch == 5 and key in ('s118','s216'):
+                text = re.sub(r'\(([0-9]+)\)',r'\1',text)
+                if worker.words(text) != worker.words(segment['text']):
+                    raise ValueError('Rank punctuation trial changed source words')
             trial_id = f'c{number}-{key}'
             inputs.append({'chapter': number, 'segmentId': key,
                            'sourceSha256': track['sourceSha256'],
                            'directionSha256': worker.sha(direction.read_bytes()),
                            'oldTakeSha256': worker.sha((directory/'breeze-directed'/f'{key}.wav').read_bytes()),
                            'originalInstruction': segment['instruct'],
-                           'trialId': trial_id, 'text': segment['text'], 'instruct': instruct})
-            segments.append({**segment, 'id': trial_id, 'instruct': instruct})
+                           'trialId': trial_id, 'text': text, 'originalText':segment['text'],
+                           'transformation':'Remove rank parentheses only; exact words/digits/order retained' if text != segment['text'] else 'Instruction only; exact text retained',
+                           'instruct': instruct})
+            segments.append({**segment, 'id': trial_id, 'text':text, 'instruct': instruct})
         worker.save(out/'inputs.json', inputs)
         worker.save(out/'direction.json', {'segments': segments,
                     'diagnosticOnly': True, 'ownerListening': 'pending'})
@@ -129,6 +141,6 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--resume-cache-failure', action='store_true')
-    parser.add_argument('--batch', type=int, choices=[1,2,3,4], default=1)
+    parser.add_argument('--batch', type=int, choices=[1,2,3,4,5], default=1)
     args = parser.parse_args()
     main(args.resume_cache_failure, args.batch)

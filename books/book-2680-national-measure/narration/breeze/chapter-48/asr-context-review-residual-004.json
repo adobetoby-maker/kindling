@@ -1,0 +1,116 @@
+{
+  "sourceSha256": "0adc917ed84018fbf4e1bc2a010b846d8edaee1de2e178379bf01541d89a18fe",
+  "audioSha256": "3c036f08da52d19e634881bcf421d08e7b792a46f813fb111c17d3a0f3e33930",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "d4dad0f5f086d0371db5462642c133135637f83d633c082c9b4e76f226633e15",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s010",
+      "takeBindings": [
+        {
+          "id": "s009",
+          "sha256": "8892d321dda28b6573d076e8adc57ce49b13a64a9bace5a6e4ed068d65a1f0c6"
+        },
+        {
+          "id": "s010",
+          "sha256": "dd14d6eb52508b973e763edfe1abbed62f83396de2001bc5587952c385ff2e07"
+        },
+        {
+          "id": "s011",
+          "sha256": "35f610a6c207754fd20da8ffbbce12e48c270a81082946beeb91f881a3b63689"
+        }
+      ],
+      "wavSha256": "f30220d8ab2b52fb83f618a02eaabf62132ed94a34249d966b2d58a924a03b37",
+      "expected": "\"I know she did,\" said Jude. \"She told me at the yard.\" \"I said no.\" Pru took the book. She held it in both capped hands against her chest, the way Loveday Hosken had held a jar. \"I'd have been Ivey's catcher. I'd have been good. I'd have been the girl from Meridian on Ivey's crew who used to be Rowan's cord.\" She looked at Kiva. \"I'm on a sheet. My own, with my name on the hem in ink. I'm going back to the Crooked Line and I'm going to find three people who've never heard of the Pit, and I'm going to catch for them, and nobody's going to say whose I was.\" She held the book tighter. \"I'm not grateful to anybody. I'm only good. I'd like that written in the book, on the first page I write on.\" Jude found the pencil on its string and gave it to her.",
+      "transcript": "Well, no, she did, said Jude. She told me at the yard. I said no. Prue took the book. She held it in both capped hands against her chest, the way Loveday Hoskin had held a jar. I'd have been Ivy's catcher. I'd have been good. I'd have been the girl from Meridian on Ivy's crew who used to be Rowan's cord. She looked at Kiva. I'm on a sheet, my own with my name on the hem in ink. I'm going back to the crook line and I'm going to find three people who've never heard of the pit and I'm going to catch for them and nobody's going to say whose I was. She held the book tighter. I'm not grateful to anybody. I'm only good. I'd like that written in the book on the first page I write on. Jude found the pencil on its string and gave it to her. Here we go. Thank you.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i know",
+          "actual": "well no"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "hosken",
+          "actual": "hoskin"
+        },
+        {
+          "operation": "replace",
+          "expected": "ivey's",
+          "actual": "ivy's"
+        },
+        {
+          "operation": "replace",
+          "expected": "ivey's",
+          "actual": "ivy's"
+        },
+        {
+          "operation": "replace",
+          "expected": "crooked",
+          "actual": "crook"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "here we go thank you"
+        }
+      ]
+    },
+    {
+      "id": "s012",
+      "takeBindings": [
+        {
+          "id": "s011",
+          "sha256": "35f610a6c207754fd20da8ffbbce12e48c270a81082946beeb91f881a3b63689"
+        },
+        {
+          "id": "s012",
+          "sha256": "528a5482005bf75250f3890468e09569e33b8ed280237f22bcb21cb61b05949d"
+        },
+        {
+          "id": "s013",
+          "sha256": "4855195e5b1a1544c688d54e483bf5f3ec3d51842566fcf038787077d75142cf"
+        }
+      ],
+      "wavSha256": "4e8fd8b35381c3ccbfafe60f4a85370129b576e9cc7fe61f586f6c7850ae6244",
+      "expected": "Jude found the pencil on its string and gave it to her. She wrote it, standing at the counter, with her capped fingers, very badly. Kiva read it upside down. Tuesday the 29th. Seven's book, from Talley to Finch. Held 5.15. Sealed 0.8, bound as before. Finch is not grateful. Finch is good. \"There,\" said Pru. She shut the book. \"That's mine now.\"",
+      "transcript": "Jude found the pencil on its string and gave it to her. She wrote it standing at the counter with her capped fingers very badly. Kiva read it upside down. Tuesday the 29th. Seven's book from Tally to Finch. Held 5.15. Sealed note point 8. Bound as before. Finch is not grateful. Finch is good. There. Said Prue. She shut the book. That's mine now. Vャ determine the idea of the puzzle and you'll find the crime alone. Fuck. An open prohibited bundle.   If you don't have any questions. That way you reach the point.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "0",
+          "actual": "note point"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "v determine the idea of the puzzle and you'll find the crime alone fuck an open prohibited bundle if you don't have any questions that way you reach the point"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "83c6e27e5bf3a13f7f3345f24df1ec2561269e12ce10943ef76a6d069d37d183"
+}

@@ -1,0 +1,53 @@
+{
+  "sourceSha256": "6e3de61edfe18bdba53b0e7f25a0e4a1fc71eb667d07c94c945443172f0dc1c5",
+  "audioSha256": "2e836fb6fcbbeea9b08401bf9a1b709b6afc94069679ef836e5e999d50cd8109",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "ee77a1268b133330915c7ec34b11572f7b776983cd35e8e511699db9a4cc285a",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s149",
+      "takeBindings": [
+        {
+          "id": "s148",
+          "sha256": "4aa93f2d2847850f811249810f6d3fdf9c9e733225ffe7a2118bb4da7a6e798e"
+        },
+        {
+          "id": "s149",
+          "sha256": "b28114fbd140bc76db19603e1aa788cacbf84107e6531d7032a0af20131f890f"
+        },
+        {
+          "id": "s150",
+          "sha256": "c4505f7ecffc37e91b598057230058e4ea98fad6b7fae6e2c118e78c37398fa5"
+        }
+      ],
+      "wavSha256": "3fdb1ed3596c8cf8add12045c40fb4835bd29785dbbef83a93e1bd9b9069a330",
+      "expected": "Pike got down off the tailboard. They went down the trap into the cellar one at a time by the ladder, the ward line first, then Nairn with his blade, then Pike, then Kiva, one-handed, with Pru below her on the ladder's foot with a hand ready that she did not need. The cellar was low and black and smelled of wet coal and the tannery. Mace's lamp, set on the copper, showed the floor: stone, still dark with Wednesday's water at the low end, and in the corner where it had lain longest, three grey shapes standing on a thread of grey, shoulder to shoulder, very still, like three men waiting for a door to open. \"They're not keeping a count,\" said Pike, very low, looking at them.",
+      "transcript": "Pike got down off the tailboard. They went down the trap, into the cellar, one at a time by the ladder. The ward line first, then Nan with his blade, then Pike, then Kiva one-handed, with Prue below her on the ladder's foot, with a hand ready that she did not need. The cellar was low and black, and smelled of wet coal and the tannery. Mace's lamp, set on the copper, showed the floor. Stone, still dark with Wednesday's water at the low end, and in the corner where it had lain longest, three grey shapes, standing on a thread of grey, shoulder to shoulder, very still, like three men waiting for a door to open. They're not keeping a count, said Pike, very low, looking at them.  When did you find a colossal Thank you.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "nairn",
+          "actual": "nan"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "when did you find a colossal thank you"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "1633856d960f45c57bf66c20173b8b39b3556732b1e7911e9c2e5823deb6a86a"
+}

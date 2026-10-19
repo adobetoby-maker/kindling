@@ -1,0 +1,116 @@
+{
+  "sourceSha256": "c39b066241dc7c1027d462ee855c59303805f5fd14eb0062ead5ee0f738afc21",
+  "audioSha256": "1a9adfa4ee3a878bd3dea0a345683138b80febdd5d5c47848091bfebc717b655",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "114d57453974fde4552e36a372905bf276b6b990cc602ac81102b5f4bce73116",
+  "state": "context-screened-review-pending",
+  "segments": [
+    {
+      "id": "s100",
+      "takeBindings": [
+        {
+          "id": "s099",
+          "sha256": "926125be0c48bf68ea3bc59082f6ad5e9b1593dbe36ba61ec3e4d3c6318fd54f"
+        },
+        {
+          "id": "s100",
+          "sha256": "bea2a8136c585833c95b3cbcd51d1bb5f1650d02f71b0aee24ad5026de51d81d"
+        },
+        {
+          "id": "s101",
+          "sha256": "914319888a5fe354082f71f07f58859baf9b813eef012524778e1d3c0461b44d"
+        }
+      ],
+      "wavSha256": "4d07c70d9c7c973eea35c7aa1292006fee13b29b24aa5abbb8c12ba9b984e472",
+      "expected": "\"So Talley doesn't turn,\" said Pru. \"Talley, if she's on your left, you don't turn. You stand. You let her come. If she wants to touch you she's to come round to your right to do it, and she turns badly to her left, so she'll go round the long way, and that's a count and a half she's not near the litter.\" She looked at Anwen. \"Pryce. Their still door's leaning from the floor. Like Lyle.\" \"I know. Everybody's had it off me this week.\" \"Then walk round him. Like you walked round Lyle. He's planted. He can lean but he can't follow.\" Pru looked at the Commodore lying in the middle of the pen. \"And we don't carry on our arms. Not this carry. They've had the arms. We carry on Pryce's hands and Talley's hand, the head and the foot, and Rowan and me take it over at the hurdle on our arms, where they can't get at it.\"",
+      "transcript": "So Tally doesn't turn, said Prue. Tally, if she's on your left, you don't turn. You stand. You let her come. If she wants to touch you, she's to come round to your right to do it. And she turns badly to her left, so she'll go round the long way, and that's a count and a half she's not near the litter. She looked at Anwen, Price, their still doors leaning from the floor, like Lyle. Oh no, everybody's had it off me this week. Then walk round him, like you walked round Lyle. He's planted. He can lean, but he can't follow. Prue looked at the Commodore lying in the middle of the pen. And we don't carry on our arms. Not this carry. They've had the arms. We carry on Price's hands and Tally's hand, the head and the foot. And Rowan and me take it over at the hurdle on our arms, where they can't get at it.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru talley",
+          "actual": "prue tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "pryce",
+          "actual": "price"
+        },
+        {
+          "operation": "replace",
+          "expected": "door's",
+          "actual": "doors"
+        },
+        {
+          "operation": "replace",
+          "expected": "i know",
+          "actual": "oh no"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "pryce's",
+          "actual": "price's"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley's",
+          "actual": "tally's"
+        }
+      ]
+    },
+    {
+      "id": "s171",
+      "takeBindings": [
+        {
+          "id": "s170",
+          "sha256": "dcff14916c30bac1faefae3245e176a699fb1a5e56808620843f119326dd418f"
+        },
+        {
+          "id": "s171",
+          "sha256": "3b40937a25f19b9d69531ee5957f0df8d954208704a5e99b8f4d4f5a7e9e43a0"
+        },
+        {
+          "id": "s172",
+          "sha256": "ed9a0a8c8d503fd1a8f585911eab5fddb8d2fc4951fd1a9dc3e3b611fb740dba"
+        }
+      ],
+      "wavSha256": "5b784d5b06a39cd8f4f77347b63f5d3d7e0091380dd7530b4a0fa18cf131d234",
+      "expected": "\"You called it,\" said Kiva. \"I called it. You didn't say a word.\" Pru looked at her. \"Not even when she was on Talley's arm and I didn't see it for a count. I saw you see it. You shut your mouth so hard I heard your teeth.\" \"I promised.\"",
+      "transcript": "You called it, said Kiva. I called him. You didn't say a word. Prue looked at her. Not even when she was on Tally's arm and I didn't see it for a count. I saw you see it. You shut your mouth so hard I heard your teeth. I promised.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "it",
+          "actual": "him"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "talley's",
+          "actual": "tally's"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "783fbc329a844b411147c98198d9317da480c25d6842ebec6d0bb355ab5c0928"
+}

@@ -1,5 +1,21 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T08:12Z
+
+- Residual contexts completed 08:08:53Z; 33 rank integers and final breath clause
+  omissions corroborated. 37 I know/oh no and it/him recur, not approved. Batch-4
+  32 s035 shorter-instruction take and join completed 08:09:32Z, no additions or
+  omissions (only Clerk/clique and possessive spelling); preserve v1 edition,
+  which does not yet include this new candidate.
+- Active shell 90356: batch-5 three bounded 33 candidates (s118/s216 remove only
+  parentheses around rank digits with strict word/digit/order equality checks;
+  s147 short instruction, text unchanged), then isolated ASR and neighboring
+  checks. Source/production unchanged. No decimal-frontend misuse: ranks are
+  parenthesized integers. Inspect process/results before new model work.
+- QA evidence through 11 candidate structural/loudness/whole/isolated checks is
+  saved; all original recordings/publication records and budget holds remain.
+  No upload retry, billing action, host change or completion/listening claim.
+
 ## Latest checkpoint — 2026-10-19T08:08Z
 
 - All 11 separate repaired local editions assembled/full screened 07:29:54Z;

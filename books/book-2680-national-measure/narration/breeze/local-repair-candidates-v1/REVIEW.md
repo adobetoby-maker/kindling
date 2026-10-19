@@ -64,3 +64,23 @@ Publication remains blocked by GitHub LFS budget. No upload retry, billing chang
 alternative hosting, release marker or Finished claim. After coverage residuals:
 benchmark mastering and approved-master delivery, check identity/stability and
 naturalness, then reconcile publication only after owner resolves the hold.
+
+Residual contexts completed 08:08:53Z. 33 s118/s216 again omit the parenthesized
+team ranks, and s147 again omits the final breath sentence. 37 s100 I know/oh no
+and s171 it/him recur; other requested windows retain ambiguous decoder tails.
+None is blanket approved. These rank values are integers in parentheses, not
+decimals; do not apply the decimal-digits frontend as though they were decimals.
+
+Batch-4 32 s035 candidate and join screen completed 08:09:32Z: no ASR additions
+or omissions, only Clerk/clique and Hunt's/hunts spelling differences. Spoken
+numeric/scene direction from the original is absent. This diagnostic is not yet
+included in the frozen provisional v1 Chapter 32 edition; preserve that edition.
+
+Next bounded trial (batch 5) is active in a separate diagnostic folder: 33 s118
+and s216 remove only parentheses around rank digits, with explicit normalized
+word/digit/order equality guards; 33 s147 retains exact punctuation/text and
+tests a short complete-thought instruction. No numeric value or source word
+changed. This is word-locked punctuation correction of an audible omission,
+not a canon rewrite or an optional semantic A/B. One native take each, then
+isolated ASR and neighboring checks; no automatic acceptance or production copy.
+Inspect shell 90356 and the loop state before additional shared-model work.
