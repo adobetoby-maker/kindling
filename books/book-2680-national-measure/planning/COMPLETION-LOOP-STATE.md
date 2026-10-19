@@ -1,5 +1,27 @@
 # National Measure completion loop
 
+## Current checkpoint — 2026-10-19T09:12Z (supersedes historical setup below)
+
+- All 48 canonical chapters are editorially accepted, 325,936 words (`wc -w`).
+  Whole-book Opus repair/recheck and later bounded Opus narration-clarity repairs
+  are recorded in provenance/WHOLE-BOOK-RECHECK-CONFIRMATION.md and its acceptance
+  addenda. This is model-family editorial/source acceptance, not human feedback,
+  exact statistical-formula compliance or audiobook listening approval.
+- Writing/showrunner orchestration is finished. Do not restart the historical
+  8491a39c showrunner, M2 reviews or chapter drafting based on the old setup text.
+  A genuine new wording defect still belongs to the same authenticated Opus author,
+  not Codex prose substitution. No new author invocation is needed for this check.
+- Text is published through chapter 48; current audio state and exact running jobs
+  are maintained in narration/AUDIO-LOOP-STATE.md. Forty-eight baseline recordings
+  exist locally; 46 chapters were previously live verified. Further repaired local
+  candidates are separate, not automatic replacements or accepted final masters.
+- GitHub LFS budget blocks 47/48 and replacement publication. Preserve recoverable
+  holds in narration/breeze/PUBLICATION-BUDGET-HOLD.md. Do not restart publishing,
+  change billing or select a new host without owner resolution. Technical speech,
+  master, pace, voice/stability and owner-listen work remains; not complete.
+
+## Historical setup — retained for provenance, not active instructions
+
 Owner instruction: continue until book and complete local Breeze audio are published.
 
 - Canonical prose: chapters 1–16, 107,866 words.

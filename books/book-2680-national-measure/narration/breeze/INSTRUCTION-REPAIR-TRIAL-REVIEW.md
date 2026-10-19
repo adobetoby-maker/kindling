@@ -144,3 +144,16 @@ Active shell 76188, parent 32406 at launch; Chapter 30 assembled and began full
 ASR at 07:03:13Z. Inspect actual job/checkpoints before additional model work.
 The LFS budget hold, existing 47/48 readiness holds, 30/33 held repair requests,
 old public candidates, Book One checkpoints and stopped No Path Given are intact.
+
+## Rank punctuation / breath trial (batch 5) — reviewed 09:14Z
+
+33 s118 now includes both nine and sixteen in isolated and neighboring ASR;
+only digit/word notation and nearby Ropewalk possessive spelling differ. Removing
+only rank parentheses left exact source words/digits/order unchanged.
+33 s147 now includes the final breath sentence in isolation and context; names
+and eleven/11 notation differ. The context's missing article at sourceWordStart115
+belongs to unchanged neighbor s148 (s146 has6 words, s147 has109), not the repaired
+breath sentence. Keep that neighboring article as an unresolved recognition item.
+33 s216's context now includes both nine and sixteen, but isolated recognition
+still varies four/force and seven to two/7 2. No blanket pronunciation or final
+coverage acceptance. Original scores, takes, v1 editions and publication unchanged.

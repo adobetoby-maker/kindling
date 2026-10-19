@@ -1,5 +1,29 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T09:14Z
+
+- Batch5 completed. 33 s118 ranks and s147 final breath sentence restored in
+  isolated/context ASR. s147 context's missing The is unchanged neighbor s148;
+  s216 numeric ranks present in context but isolated four/force and seven to two
+  recognition still varies. Preserve source, originals and frozen v1 candidates.
+- One separate chapter39 mastering audition passes existing technical tool:
+  -20.47 LUFS / -3.83 dBTP /128kbps mono, no clipping, DC/ending-hold pass;
+  WAV frames/rate unchanged. No time stretch, source cut, publication or blanket
+  dynamics/pace/voice acceptance. Evidence master-audition-v1; media Drive 2.
+- Active local identity screen shell99912 / parent61727 / child61995 at launch:
+  scripts/nm-voice-screen.py -> existing verify-voice-identity.py, samples up to24
+  eligible takes per chapter against locked Calder at inherited .84 threshold.
+  48 strata, v1 separate candidates for11 chapters and original editions otherwise.
+  Public verifier model chatterbox-multilingual-v3 populating the single existing
+  QA cache (no hosted inference/paid API). Not TTS generation or author substitution.
+  Input hash-ledger/palette/attempt in voice-screen-v1. Inspect actual process/log;
+  don't duplicate or start another Metal job. Book One thread remains interrupted.
+- O'Connor closure evidence and actual wc confirm48 chapters/325936 words. Added
+  current guard to stale planning/COMPLETION-LOOP-STATE.md; historical16-chapter
+  setup preserved but must not restart reviews/showrunner/author jobs. No prose edit.
+- Budget holds untouched; 46 previously live verified,47/48 unpublished. Final
+  speech residuals, pace, identity/naturalness and owner listen remain open.
+
 ## Latest checkpoint — 2026-10-19T08:12Z
 
 - Residual contexts completed 08:08:53Z; 33 rank integers and final breath clause

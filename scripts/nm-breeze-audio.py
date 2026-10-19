@@ -181,7 +181,8 @@ def busy():
     for name in ['breeze_render_track.py', 'run_fractured.py', 'run_meridian.py',
                  'run-kindled-monroe-1.2.5-ci.py', 'calder-narrator.py', 'render-local-tts.py',
                  'verify-local-tts.py', 'nm-breeze-triage.py', 'nm-breeze-diagnostic.py',
-                 'nm-short-heading-diagnostic.py']:
+                 'nm-short-heading-diagnostic.py', 'verify-voice-identity.py',
+                 'verify-speech-naturalness.py']:
         if subprocess.run(['pgrep', '-f', name], capture_output=True).returncode == 0:
             return True
     return False

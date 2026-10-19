@@ -1,5 +1,22 @@
 # Delivery targets remain unresolved
 
+## Bounded mastering test — 2026-10-19T09:14Z
+
+Separate Chapter 39 provisional repair edition, no original/publication changes.
+scripts/nm-master-audition.py verified the profile and approved-master hash, then
+measured the approved MP3 at -20.51 LUFS / -3.26 dBTP. A two-pass loudnorm experiment
+on the separate candidate WAV used -20 LUFS / -3.5 dB pre-encode peak ceiling /
+LRA7, dynamic amplitude processing where linear gain could not meet both targets.
+Encoded 128-kbps mono MP3 measured -20.47 LUFS / -3.83 dBTP, LRA5.8; the existing
+technical master verifier passed mono/bitrate/loudness/true peak/no clipping/DC/
+ending-hold checks. Exact WAV frames/rate equal input: no time stretching or cut.
+
+Evidence: master-audition-v1/record.json, measurements-before/after.json and
+technical-master.json; media separately on Drive 2. This is a one-file technical
+mastering method test, not approval of perceived dynamics, full speech coverage,
+pace, voice/naturalness, human listening, every chapter or publication readiness.
+All other inherited target conflicts below remain open. Preserve the originals.
+
 Checked 2026-10-18. Measurement only; no audio or canon changes.
 
 The selected Original Calder profile at
