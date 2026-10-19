@@ -3,6 +3,7 @@
 import difflib
 import hashlib
 import json
+import os
 from pathlib import Path
 import re
 import sys
@@ -45,21 +46,50 @@ def context_targets(track, ids):
     return [(key, track['segments'][max(0, positions[key]-1):positions[key]+2]) for key in ids]
 
 
-def main(number, context=False, unpublished=False, context_request=None, isolated_request=None):
+def main(number, context=False, unpublished=False, context_request=None, isolated_request=None, candidate_root=None):
     from mlx_audio.stt.generate import generate_transcription
     from mlx_audio.stt.utils import load_model
-    directory = QUEUE/f'chapter-{number:02d}'
+    production_dir = QUEUE/f'chapter-{number:02d}'
+    directory = production_dir
+    if candidate_root:
+        if Path(candidate_root).resolve() != (QUEUE/'local-repair-candidates-v1').resolve() or context or isolated_request:
+            raise ValueError('Candidate mode supports only isolated screening of the separate local repair edition')
+        directory = Path(candidate_root)/f'chapter-{number:02d}'
     audit = json.loads((directory/'asr-audit.json').read_text())
     binding_path = directory/'published.json'
-    if not binding_path.exists() and unpublished:
+    if not binding_path.exists() and (unpublished or candidate_root):
         binding_path = directory/'technical-review.json'
     published = json.loads(binding_path.read_text())
     if binding_path.name == 'technical-review.json' and any(
             published.get(k) != 'passed' for k in ('wordLock', 'decode')):
         raise ValueError('Unpublished candidate lacks word-lock/decode checks')
     source = ROOT/f'books/book-2680-national-measure/manuscript/chapter-{number:02d}.md'
-    audio = directory/f'chapter-{number:02d}.breeze-calder.mp3'
+    audio = Path(published['audioPath']) if candidate_root else directory/f'chapter-{number:02d}.breeze-calder.mp3'
+    manifest = None
+    revision_ref = None
+    if candidate_root:
+        audit['rawReport'] = str(directory/'asr-comparison.json')
+        raw_meta = json.loads(Path(audit['rawReport']).read_text())
+        audit['model'] = raw_meta['model']
+        audit['modelRevision'] = 'not-recorded-by-candidate-verifier'
+        cache = os.environ.get('HF_HUB_CACHE')
+        if cache:
+            revision_ref = Path(cache)/('models--'+audit['model'].replace('/','--'))/'refs/main'
+            if revision_ref.exists():
+                revision = revision_ref.read_text().strip()
+                if not re.fullmatch(r'[a-f0-9]{40}',revision):
+                    raise ValueError('Invalid cached model revision')
+                audit['modelRevision'] = revision
+            else:
+                revision_ref = None
+        manifest = json.loads((directory/'take-manifest.json').read_text())
+        if hashlib.sha256(json.dumps(manifest,sort_keys=True).encode()).hexdigest() != published['bindingSha256']:
+            raise ValueError('Candidate take manifest differs from assembly binding')
+        if sha(production_dir/'direction.json') != manifest['directionSha256']:
+            raise ValueError('Candidate source score changed')
     def check():
+        if revision_ref and revision_ref.read_text().strip() != audit['modelRevision']:
+            raise ValueError('Cached model revision changed during screening')
         if sha(source) != audit['sourceSha256'] or sha(audio) != audit['audioSha256']:
             raise ValueError('Published ASR inputs changed')
         if any(published[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
@@ -71,7 +101,7 @@ def main(number, context=False, unpublished=False, context_request=None, isolate
     raw = Path(audit['rawReport'])
     if sha(raw) != audit['rawReportSha256']:
         raise ValueError('Whole-chapter screening report changed')
-    track = json.loads((directory/'direction.json').read_text())
+    track = json.loads((production_dir/'direction.json').read_text())
     if track['sourceSha256'] != audit['sourceSha256']:
         raise ValueError('Direction source changed')
     selected = targets(track, json.loads(raw.read_text()))
@@ -95,9 +125,13 @@ def main(number, context=False, unpublished=False, context_request=None, isolate
         groups = [(s['id'], [s]) for s in selected]
     model = load_model(audit['model']) if groups else None
     results = []
+    (directory/'asr').mkdir(exist_ok=True)
+    manifest_takes = {t['id']:t for t in manifest['takes']} if manifest else None
     for key, group in groups:
-        take_paths = [directory/'breeze-directed'/f"{s['id']}.wav" for s in group]
+        take_paths = [Path(manifest_takes[s['id']]['path']) if manifest_takes else directory/'breeze-directed'/f"{s['id']}.wav" for s in group]
         takes = [{'id': s['id'], 'sha256': sha(p)} for s, p in zip(group, take_paths)]
+        if manifest_takes and any(t['sha256'] != manifest_takes[t['id']]['sha256'] for t in takes):
+            raise ValueError('Candidate checkpoint changed since assembly')
         if context:
             import numpy as np
             import soundfile as sf
@@ -163,9 +197,10 @@ if __name__ == '__main__':
     parser.add_argument('--unpublished', action='store_true')
     parser.add_argument('--context-request')
     parser.add_argument('--isolated-request')
+    parser.add_argument('--candidate-root')
     args = parser.parse_args()
     if args.context_request and not args.context:
         parser.error('--context-request requires --context')
     if args.isolated_request and (args.context or args.context_request):
         parser.error('--isolated-request cannot be combined with context mode')
-    main(args.chapter, args.context, args.unpublished, args.context_request, args.isolated_request)
+    main(args.chapter, args.context, args.unpublished, args.context_request, args.isolated_request, args.candidate_root)

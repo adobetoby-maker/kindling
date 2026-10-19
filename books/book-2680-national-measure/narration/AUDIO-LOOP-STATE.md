@@ -1,5 +1,24 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T08:08Z
+
+- All 11 separate repaired local editions assembled/full screened 07:29:54Z;
+  secondary isolated checks finished 08:06:59Z (138 selected takes, 61 exact,
+  remaining name/numeric/lexical residuals not blanket accepted). New major
+  instruction leak localized to original 32 s035. See local-repair-candidates-v1/REVIEW.md.
+- CPU integrity passed all 11: exact ordered waves/five-ms edges within one
+  quantization step, inserted rest/frame counts. Loudness -21.8..-21.2 LUFS,
+  true peak -0.6..-0.4 dBFS: inherited -3 dBTP target still not met. Not mastering,
+  spoken coverage, pace, identity or owner-listen acceptance.
+- Active shell 64766: scripts/nm-offline-context.py --residuals (33/37/41/47/48),
+  then scripts/nm-offline-leak-trial.py --batch 4 (new 32 s035 first candidate),
+  then scripts/nm-trial-context.py --batch 4. Serialized shared model work; inspect
+  job/results before any new model. No automatic retries or production promotion.
+- Holds/originals untouched; no LFS retry, billing action or new hosting. Text
+  accepted/live 325,936 words; 48 baseline local recordings, 46 previously live
+  verified. Remaining priorities: exact speech residuals; master/pace/voice QA;
+  resume publication only after owner resolves budget hold. Owner listen pending.
+
 ## Latest checkpoint — 2026-10-19T07:04Z
 
 - Batch 3 and combined Chapter 37 screens completed 06:06:55Z. Four isolated

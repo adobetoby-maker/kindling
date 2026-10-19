@@ -1,0 +1,87 @@
+{
+  "sourceSha256": "260de2fc655313a0cc45dde3581ab6a52ff0b40f5d707adedeb449c89a6f58ae",
+  "audioSha256": "509da2919d9bc5c7a65039b670ad09a28245e1c1f84d6ee5be1951a12f4a9976",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "7d1936ab9ccc5524809d05824b9198a6b8bdb35af9a373f9c66ab1117798e067",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s034",
+      "takeBindings": [
+        {
+          "id": "s034",
+          "sha256": "45850050daf104f925536767f5f2c9f0b4c70617f4977811fe80fd824233ef14"
+        }
+      ],
+      "wavSha256": "45850050daf104f925536767f5f2c9f0b4c70617f4977811fe80fd824233ef14",
+      "expected": "He did not look up from the card.",
+      "transcript": "He did not look up from the card.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s078",
+      "takeBindings": [
+        {
+          "id": "s078",
+          "sha256": "5fe305713ad5ccd989f8e072dd05829ffa63242760b6f451d81f450b136641d0"
+        }
+      ],
+      "wavSha256": "5fe305713ad5ccd989f8e072dd05829ffa63242760b6f451d81f450b136641d0",
+      "expected": "\"I could say that back,\" said Perrin. \"What I'd like to know is what the bucket weighs.\"",
+      "transcript": "I could say that back, said Perrin. What I'd like to know is what the bucket weighs.",
+      "normalizedExactMatch": true,
+      "changes": []
+    },
+    {
+      "id": "s144",
+      "takeBindings": [
+        {
+          "id": "s144",
+          "sha256": "21b6415e84100387264df071bb16d7f7268e24f11cd11dc3c45e5d63d595d07e"
+        }
+      ],
+      "wavSha256": "21b6415e84100387264df071bb16d7f7268e24f11cd11dc3c45e5d63d595d07e",
+      "expected": "The Company's cooper sent it down from the yard behind the Long Quay on a dray: a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. Boards had been nailed across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful. They lowered it down the Graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the Company's men filled it from the fire main with a canvas hose until the water stood in it level with the top hoop.",
+      "transcript": "The company's cooper sent it down from the yard behind the long key on a dray, a brewer's tun with eight iron hoops, as wide across as a big man is tall, standing on end with no head in it. Boards had been nailed across its bottom from the outside, because a tun with no head and no bottom would not have held a cupful. They lowered it down the graving's ramp on rollers and stood it on the stone of the dock floor at the seaward end, on the chalk where the lane pen had been, and the company's men filled it from the fire main with the canvas hose until the water stood in it, level with the top hoop.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "quay",
+          "actual": "key"
+        },
+        {
+          "operation": "replace",
+          "expected": "a",
+          "actual": "the"
+        }
+      ]
+    },
+    {
+      "id": "s159",
+      "takeBindings": [
+        {
+          "id": "s159",
+          "sha256": "172d1c30b75121662964a9ae8dfec1e21105c227a2295126042b8f6fdd50a4dc"
+        }
+      ],
+      "wavSha256": "172d1c30b75121662964a9ae8dfec1e21105c227a2295126042b8f6fdd50a4dc",
+      "expected": "\"It held because it's a tun with boards nailed under it.\" Kiva heard her own voice and made it plainer. \"The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page.\" She did not look at Coombe. \"The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to.\"",
+      "transcript": "It held because it's a tune with boards nailed under it. Kiva heard her own voice and made it plainer. The thing in the basin goes to the nearest thing. If two of you have it at once, it goes to whichever's nearer, and that's the one it folds on. That's Penhale. That's the whole of Coombe's page. She did not look at Coombe. The pass only works because for a quarter of a count nobody has it at all. There's nobody for it to go to.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "tun",
+          "actual": "tune"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

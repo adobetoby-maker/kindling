@@ -1,0 +1,119 @@
+{
+  "sourceSha256": "0adc917ed84018fbf4e1bc2a010b846d8edaee1de2e178379bf01541d89a18fe",
+  "audioSha256": "e01e538482dc50b8bd256b7bd330527584089fd264b59d44f723704ae7178645",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "877dba67731a94a9453dc99a1e65cb511a4e9b180f6a5d115c80cc3e76c586c9",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s010",
+      "takeBindings": [
+        {
+          "id": "s010",
+          "sha256": "dd14d6eb52508b973e763edfe1abbed62f83396de2001bc5587952c385ff2e07"
+        }
+      ],
+      "wavSha256": "dd14d6eb52508b973e763edfe1abbed62f83396de2001bc5587952c385ff2e07",
+      "expected": "\"I said no.\" Pru took the book. She held it in both capped hands against her chest, the way Loveday Hosken had held a jar. \"I'd have been Ivey's catcher. I'd have been good. I'd have been the girl from Meridian on Ivey's crew who used to be Rowan's cord.\" She looked at Kiva. \"I'm on a sheet. My own, with my name on the hem in ink. I'm going back to the Crooked Line and I'm going to find three people who've never heard of the Pit, and I'm going to catch for them, and nobody's going to say whose I was.\" She held the book tighter. \"I'm not grateful to anybody. I'm only good. I'd like that written in the book, on the first page I write on.\"",
+      "transcript": "I said no. Prue took the book. She held it in both capped hands against her chest, the way Loveday Hoskin had held a jar. I'd have been Ivy's catcher. I'd have been good. I'd have been the girl from Meridian on Ivy's crew who used to be Rowan's cord. She looked at Kiva. I'm on a sheet, my own with my name on the hem in ink. I'm going back to the crook line and I'm going to find three people who've never heard of the pit and I'm going to catch for them and nobody's going to say whose I was. She held the book tighter. I'm not grateful to anybody. I'm only good. I'd like that written in the book on the first page I write on.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "hosken",
+          "actual": "hoskin"
+        },
+        {
+          "operation": "replace",
+          "expected": "ivey's",
+          "actual": "ivy's"
+        },
+        {
+          "operation": "replace",
+          "expected": "ivey's",
+          "actual": "ivy's"
+        },
+        {
+          "operation": "replace",
+          "expected": "crooked",
+          "actual": "crook"
+        }
+      ]
+    },
+    {
+      "id": "s012",
+      "takeBindings": [
+        {
+          "id": "s012",
+          "sha256": "528a5482005bf75250f3890468e09569e33b8ed280237f22bcb21cb61b05949d"
+        }
+      ],
+      "wavSha256": "528a5482005bf75250f3890468e09569e33b8ed280237f22bcb21cb61b05949d",
+      "expected": "She wrote it, standing at the counter, with her capped fingers, very badly. Kiva read it upside down. Tuesday the 29th. Seven's book, from Talley to Finch. Held 5.15. Sealed 0.8, bound as before. Finch is not grateful. Finch is good.",
+      "transcript": "She wrote it standing at the counter with her capped fingers, very badly. Kiva read it upside down. Tuesday the 29th. Seven's book from Tally to Finch. Held 5.15. Sealed note point 8. Bound as before. Finch is not grateful. Finch is good.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "talley",
+          "actual": "tally"
+        },
+        {
+          "operation": "replace",
+          "expected": "0",
+          "actual": "note point"
+        }
+      ]
+    },
+    {
+      "id": "s048",
+      "takeBindings": [
+        {
+          "id": "s048",
+          "sha256": "890fbec2611852e5133d52efb59d3f64c482a158c7d709475b0906de9c43363a"
+        }
+      ],
+      "wavSha256": "890fbec2611852e5133d52efb59d3f64c482a158c7d709475b0906de9c43363a",
+      "expected": "She blotted it on her sleeve. She did not sign it. It was under Coombe's hand, and Coombe would sign it, and the girl would, and the girl's aunt beside her because she was seventeen. Rhea's name was not on it anywhere. She had been careful about that.",
+      "transcript": "She blotted it on her sleeve. She did not sign it. It was under Coombe's hand, and Coombe would sign it, and the girl would, and the girl's aunt beside her because she was seventeen. Rea's name was not on it anywhere. She had been careful about that.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "rhea's",
+          "actual": "rea's"
+        }
+      ]
+    },
+    {
+      "id": "s059",
+      "takeBindings": [
+        {
+          "id": "s059",
+          "sha256": "f82576eb288b895c72be8cea4822d141d5e9134cb8c135b6805fe9d61c9ee8b4"
+        }
+      ],
+      "wavSha256": "f82576eb288b895c72be8cea4822d141d5e9134cb8c135b6805fe9d61c9ee8b4",
+      "expected": "Kiva sat on the cobbles with her back against the van's wheel, because there was nowhere else, and Rhea looked down at her from the tailboard, as she had looked down at her from a hundred tailboards since the first month, slate blue, very straight.",
+      "transcript": "Kiva sat on the cobbles with her back against the van's wheel, because there was nowhere else. And Ria looked down at her from the tailboard, as she had looked down at her from a hundred tailboards since the first month, slate blue, very straight.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "rhea",
+          "actual": "ria"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "technical-review.json",
+  "publicationClaim": false,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed."
+}

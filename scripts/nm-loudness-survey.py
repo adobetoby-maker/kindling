@@ -15,15 +15,22 @@ QUEUE = ROOT / 'books/book-2680-national-measure/narration/breeze'
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--include-unpublished', action='store_true')
+    parser.add_argument('--candidate-root', action='store_true',
+                        help='Measure the separate local-repair-candidates-v1 editions')
     args = parser.parse_args()
-    for directory in sorted(QUEUE.glob('chapter-[0-9][0-9]')):
+    root = QUEUE/'local-repair-candidates-v1' if args.candidate_root else QUEUE
+    for directory in sorted(root.glob('chapter-[0-9][0-9]')):
         pub = directory / 'published.json'
-        if not pub.exists() and args.include_unpublished:
+        if not pub.exists() and (args.include_unpublished or args.candidate_root):
             pub = directory / 'technical-review.json'
         audio = directory / f'{directory.name}.breeze-calder.mp3'
-        if not pub.exists() or not audio.exists():
+        if not pub.exists():
             continue
         binding = json.loads(pub.read_text())
+        if args.candidate_root:
+            audio = Path(binding['audioPath'])
+        if not audio.exists():
+            raise RuntimeError(f'{directory.name}: bound audio is missing')
         if pub.name == 'technical-review.json':
             assert binding['wordLock'] == 'passed' and binding['decode'] == 'passed'
         digest = hashlib.sha256(audio.read_bytes()).hexdigest()
