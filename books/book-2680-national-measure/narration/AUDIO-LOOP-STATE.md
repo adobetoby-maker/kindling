@@ -1,5 +1,24 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T07:04Z
+
+- Batch 3 and combined Chapter 37 screens completed 06:06:55Z. Four isolated
+  centers exact; 37 s038 clause remains inconsistent and 37 s059 who/who'd from
+  batch 2 still unresolved. Cross-batch old failed neighbors explain direction
+  leakage in some single-center diagnostic windows; no automatic acceptance.
+- Active shell 76188 / parent 32406: scripts/nm-build-repaired-candidates.py.
+  Separate provisional editions stream existing checkpoints + 22 diagnostic
+  replacements across 11 chapters, preserve source words/order/rests/five-ms
+  fades, encode/decode MP3, then serial full-chapter Whisper. Chapter 30 full ASR
+  started 07:03:13Z. No new TTS. Inspect this job before any new model work.
+  Media on /Volumes/Drive 2/monroe-ai/national-measure/local-repair-candidates-v1;
+  metadata in narration/breeze/local-repair-candidates-v1. Known unresolved
+  discrepancies explicit; no published.json or readiness markers generated.
+- All production scores/takes/publication records and queue holds unchanged.
+  No LFS retry/billing/new host. Text accepted/live 325,936 words, 48 local chapter
+  recordings / 39:36:38.38 baseline duration, 46 previously live verified. Full
+  candidate coverage/master/pace/voice acceptance and owner listen still pending.
+
 ## Latest checkpoint — 2026-10-19T06:04Z
 
 - Batch 2 completed all 14 candidates and neighboring screens. Isolated candidate

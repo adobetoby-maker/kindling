@@ -111,3 +111,36 @@ with exact ordered words, no additions/omissions/substitutions. This resolves th
 known old-neighbor contamination for those windows only; the candidate master,
 voice and owner listen remain unapproved. Batch 3 renderer 25989 / parent 25965
 is now active in shell 3739; first s163 candidate checkpoint written.
+
+## Third-trial disposition and consolidated local editions — 07:04Z
+
+Batch 3 completed 06:06:07Z, all five neighboring windows at 06:06:44Z, and the
+two combined Chapter 37 windows at 06:06:55Z. No model job remained at inspection.
+32 s163, 35 s042, 37 s037 and 38 s138 isolated candidates have exact ordered ASR;
+the numeric leakage in the two brief replies is absent. 37 s038 still varies
+I'd/I'm and want it/one of in isolation; combined context changes it/a in one
+window. It is not accepted as exact speech coverage. Batch-3 35/38 context checks
+include the old failed neighbor from another diagnostic batch; this is not a new
+failure in the replacement center. Cross-batch composition must use all relevant
+candidate neighbors together. No blind second render was launched.
+
+To check the repaired passages at chapter scale, scripts/nm-build-repaired-candidates.py
+now streams separate provisional editions from existing checkpoints plus all 22
+diagnostic center takes across 11 chapters (30,32,33,34,35,37,38,39,41,47,48).
+No new TTS, canonical wording changes, time stretching, normalization, production
+score edits, original displacement or publishing. The known Chapter 37 discrepancies
+remain explicit; inclusion in this experiment is not acceptance or readiness.
+
+Media destination: /Volumes/Drive 2/monroe-ai/national-measure/local-repair-candidates-v1.
+Repository metadata: narration/breeze/local-repair-candidates-v1, selection.json
+and per-chapter take-manifest/technical-review/asr files. Every original or
+replacement take is bound to its hash and source score; assembly preserves order,
+five-ms zeroed edge fades and all authored rests, then encodes/decodes MP3.
+Full-chapter Whisper screens run sequentially afterward per chapter; all results
+remain supervisor-review pending. The evidence is deliberately separate from
+published.json and the publication worker queue.
+
+Active shell 76188, parent 32406 at launch; Chapter 30 assembled and began full
+ASR at 07:03:13Z. Inspect actual job/checkpoints before additional model work.
+The LFS budget hold, existing 47/48 readiness holds, 30/33 held repair requests,
+old public candidates, Book One checkpoints and stopped No Path Given are intact.
