@@ -5,7 +5,8 @@
 - Residual contexts completed 08:08:53Z; 33 rank integers and final breath clause
   omissions corroborated. 37 I know/oh no and it/him recur, not approved. Batch-4
   32 s035 shorter-instruction take and join completed 08:09:32Z, no additions or
-  omissions (only Clerk/clique and possessive spelling); preserve v1 edition,
+  omissions (Clerk/clique recognition and possessive spelling remain, so exact
+  pronunciation not approved); preserve v1 edition,
   which does not yet include this new candidate.
 - Active shell 90356: batch-5 three bounded 33 candidates (s118/s216 remove only
   parentheses around rank digits with strict word/digit/order equality checks;

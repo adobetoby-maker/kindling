@@ -72,7 +72,8 @@ None is blanket approved. These rank values are integers in parentheses, not
 decimals; do not apply the decimal-digits frontend as though they were decimals.
 
 Batch-4 32 s035 candidate and join screen completed 08:09:32Z: no ASR additions
-or omissions, only Clerk/clique and Hunt's/hunts spelling differences. Spoken
+or omissions, but Clerk/clique recognition and Hunt's/hunts possessive spelling
+still differ; exact lexical pronunciation is not accepted. Spoken
 numeric/scene direction from the original is absent. This diagnostic is not yet
 included in the frozen provisional v1 Chapter 32 edition; preserve that edition.
 
