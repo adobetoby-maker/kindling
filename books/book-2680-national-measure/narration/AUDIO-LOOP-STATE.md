@@ -1,5 +1,27 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T06:04Z
+
+- Batch 2 completed all 14 candidates and neighboring screens. Isolated candidate
+  passages largely restored; 37 s059 who/who'd remains unresolved, contexts with
+  extra tails or old failed neighbors not approved. Detailed disposition in
+  INSTRUCTION-REPAIR-TRIAL-REVIEW.md. All production takes/scores/publication intact.
+- Localization 003 screened 17 originals: numeric leakage localized to 32 s163
+  and 37 s037; separate clause failure in 37 s038, tense residuals in 35 s042 /
+  38 s138. 34 s123/s128, 35 s044, 47 s097, 48 s040 isolated exact; several large
+  context tails uncorroborated. Do not blindly rerecord those neighbors.
+- Active serialized pipeline shell 3739: combined batch-2 39 adjacent candidates,
+  then batch-3 five bounded native candidates (32 s163,35 s042,37 s037/s038,38 s138),
+  isolated and contextual ASR, including combined 37 replacements. Output v3
+  diagnostic folder; inspect process/results before new model work. One take each,
+  no automatic retry/promotion. Current scripts support --batch 3 / --combine-adjacent.
+- Combined 39 candidate windows completed 06:03:46Z, both exact ordered ASR with
+  no additions/omissions/substitutions. Batch-3 parent 25965 / renderer 25989 now
+  active, first candidate checkpoint written; preserve this process.
+- Publication hold unchanged; no LFS retry, paid action, alternate hosting or
+  owner-listen claim. Text accepted/live 325,936 words; 48 local recordings, only
+  46 previously live verified, full coverage/master/pace/voice acceptance pending.
+
 ## Latest checkpoint — 2026-10-19T05:00Z
 
 - First shorter-instruction trial completed. 35 s043 exact ASR; 38 s068 and 41

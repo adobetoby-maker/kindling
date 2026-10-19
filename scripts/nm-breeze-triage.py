@@ -45,7 +45,7 @@ def context_targets(track, ids):
     return [(key, track['segments'][max(0, positions[key]-1):positions[key]+2]) for key in ids]
 
 
-def main(number, context=False, unpublished=False, context_request=None):
+def main(number, context=False, unpublished=False, context_request=None, isolated_request=None):
     from mlx_audio.stt.generate import generate_transcription
     from mlx_audio.stt.utils import load_model
     directory = QUEUE/f'chapter-{number:02d}'
@@ -75,16 +75,22 @@ def main(number, context=False, unpublished=False, context_request=None):
     if track['sourceSha256'] != audit['sourceSha256']:
         raise ValueError('Direction source changed')
     selected = targets(track, json.loads(raw.read_text()))
-    request = directory/(context_request or 'asr-context-request.json')
+    request = directory/(context_request or isolated_request or 'asr-context-request.json')
     if request.parent != directory or request.suffix != '.json':
         raise ValueError('Context request must be a chapter-local JSON filename')
     if context_request and not re.fullmatch(r'asr-context-request-[a-z0-9-]+\.json', context_request):
         raise ValueError('Named request must use asr-context-request-<name>.json')
-    if context:
+    if isolated_request and not re.fullmatch(r'asr-isolated-request-[a-z0-9-]+\.json', isolated_request):
+        raise ValueError('Named request must use asr-isolated-request-<name>.json')
+    if context or isolated_request:
         wanted = json.loads(request.read_text())
         if any(wanted[k] != audit[k] for k in ('sourceSha256', 'audioSha256')):
             raise ValueError('Context request is for a different edition')
-        groups = context_targets(track, wanted['segmentIds'])
+        if context:
+            groups = context_targets(track, wanted['segmentIds'])
+        else:
+            segments = {s['id']:s for s in track['segments']}
+            groups = [(key, [segments[key]]) for key in wanted['segmentIds']]
     else:
         groups = [(s['id'], [s]) for s in selected]
     model = load_model(audit['model']) if groups else None
@@ -140,7 +146,9 @@ def main(number, context=False, unpublished=False, context_request=None):
     filename = 'asr-context-review.json' if context else 'asr-isolated-review.json'
     if context and context_request:
         filename = request.stem.replace('request', 'review')+'.json'
-    if context:
+    if isolated_request:
+        filename = request.stem.replace('request', 'review')+'.json'
+    if context or isolated_request:
         report['requestSha256'] = sha(request)
     pending = directory/(filename+'.pending')
     pending.write_text(json.dumps(report, indent=2, ensure_ascii=False)+'\n')
@@ -154,7 +162,10 @@ if __name__ == '__main__':
     parser.add_argument('--context', action='store_true')
     parser.add_argument('--unpublished', action='store_true')
     parser.add_argument('--context-request')
+    parser.add_argument('--isolated-request')
     args = parser.parse_args()
     if args.context_request and not args.context:
         parser.error('--context-request requires --context')
-    main(args.chapter, args.context, args.unpublished, args.context_request)
+    if args.isolated_request and (args.context or args.context_request):
+        parser.error('--isolated-request cannot be combined with context mode')
+    main(args.chapter, args.context, args.unpublished, args.context_request, args.isolated_request)

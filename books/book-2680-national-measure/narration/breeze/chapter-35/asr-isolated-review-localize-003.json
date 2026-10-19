@@ -1,0 +1,49 @@
+{
+  "sourceSha256": "1dee7ed8caabd3adee8a78fc67dd3e259b516d8a0e8888e052bad5cb043362e1",
+  "audioSha256": "4ba43384aac887bd0e6709f317ad8b8341191e17ed396c7d119b60f46610ff88",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "7b80f0e437381242e6c78a0f848923b556e3388e44eb7a1baaa3d423c4438c1c",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s042",
+      "takeBindings": [
+        {
+          "id": "s042",
+          "sha256": "640ff1f459a2777a94e354d30874b7dfe5ef7d8d93361e4adc21c9cd2336f9e1"
+        }
+      ],
+      "wavSha256": "640ff1f459a2777a94e354d30874b7dfe5ef7d8d93361e4adc21c9cd2336f9e1",
+      "expected": "\"I'm pleased about the grey one.\" He went on down. \"I'd thought being envied would feel like the top of the ladder. It feels like Gower eating a pasty and counting.\" He was quiet for three steps. \"Give me the foot of the ladder, and you saying set.\"",
+      "transcript": "I'm pleased about the grey one. He went on down. I thought being envied would feel like the top of the ladder. It feels like Gower eating a pasty and counting. He was quiet for three steps. Give me the foot of the ladder and you saying set.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i'd",
+          "actual": "i"
+        }
+      ]
+    },
+    {
+      "id": "s044",
+      "takeBindings": [
+        {
+          "id": "s044",
+          "sha256": "df282a4d83268d41b09b426b32fe0d1fc9ee2dcdbe4f7acf6a965c58c210ab34"
+        }
+      ],
+      "wavSha256": "df282a4d83268d41b09b426b32fe0d1fc9ee2dcdbe4f7acf6a965c58c210ab34",
+      "expected": "Kiva had thought it was full a week ago, on the Saturday, against the Tarn's first four. She had been wrong. That Saturday there had been room on the tiers to put a hand down beside you. Now the green came down the steps to the floor's edge and stood there, ten deep on the bottom tier, and the boys who sold pasties had given up selling and were sitting on their baskets. The brown and buff of the Tarn sat in its knot in the middle. Meridian's colours were above it, all four of the first company, and Kellan among them in his black and gold.",
+      "transcript": "Kiva had thought it was full a week ago, on the Saturday, against the Tarn's first four. She had been wrong. That Saturday, there had been room on the tiers to put a hand down beside you. Now, the green came down the steps to the floor's edge and stood there, ten deep on the bottom tier, and the boys who sold pasties had given up selling and were sitting on their baskets. The brown and buff of the Tarn sat in its knot in the middle. Meridian's colours were above it, all four of the first company, and Kellan among them in his black and gold.",
+      "normalizedExactMatch": true,
+      "changes": []
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "1a73c5e10090ba5ae5c186f1e185bea68174c8334f6126c4448697ade04d57c7"
+}

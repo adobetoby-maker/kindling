@@ -1,0 +1,75 @@
+{
+  "sourceSha256": "835eb0caf7137d74ee6c7e164707026b796e9484920b0f203d45ee72c29376fa",
+  "audioSha256": "3ba012db66da9b299e5504df7a0a1713f621cb01a68a910bcaccba7fbc201af4",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "14c051355a218279b7143b79c8c237a52ff238444b4460daa1fae016dcb3701d",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s162",
+      "takeBindings": [
+        {
+          "id": "s162",
+          "sha256": "816cbed9061a44458404be433259a1a6850d4ae871247d2360dc8bafab622516"
+        }
+      ],
+      "wavSha256": "816cbed9061a44458404be433259a1a6850d4ae871247d2360dc8bafab622516",
+      "expected": "He was standing beside her. Aske had let him come on condition that he did not stand for long, and he had already stood for longer than that. He had his coat buttoned over the linen and his hand pressed to his side.",
+      "transcript": "He was standing beside her. Ask had let him come on condition that he did not stand for long, and he had already stood for longer than that. He had his coat buttoned over the linen and his hand pressed to his side.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        }
+      ]
+    },
+    {
+      "id": "s163",
+      "takeBindings": [
+        {
+          "id": "s163",
+          "sha256": "588cb3a22ef0089b9a1ef4461d66db5ff5481365b22ec590c57f37e53de71e92"
+        }
+      ],
+      "wavSha256": "588cb3a22ef0089b9a1ef4461d66db5ff5481365b22ec590c57f37e53de71e92",
+      "expected": "\"Ninth,\" said Kiva.",
+      "transcript": "Ninth, said Kiva. No, paud me, ma five-wondre-fifty misty. No, kaudre, here plea fifteen-fifty.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "no paud me ma five wondre fifty misty no kaudre here plea fifteen fifty"
+        }
+      ]
+    },
+    {
+      "id": "s164",
+      "takeBindings": [
+        {
+          "id": "s164",
+          "sha256": "8d68d30cf0c1b851aa38e2c1b5a2496ee039f653846579b8d8d49c59a51a7871"
+        }
+      ],
+      "wavSha256": "8d68d30cf0c1b851aa38e2c1b5a2496ee039f653846579b8d8d49c59a51a7871",
+      "expected": "\"One mark off eighth. One mark off the roll.\" He looked at the sheet. \"Third last night. Ninth tonight. Fifteenth on the Hunt, with no remarks, with clean work on our stow and a fold called and a pass that held.\" He was quiet for a moment. \"With a dry bag that combed red and a dry bag that combed clean, off the same stow in the same slack, and nobody can say why.\"",
+      "transcript": "One mark off eights, one mark off the roll. He looked at the sheet. Third last night, ninth tonight, fifteenth on the hunt, with no remarks, with clean work on our stow, and a fold called and a pass that held. He was quiet for a moment, with a dry bag that combed red and a dry bag that combed clean, off the same stow in the same slack, and nobody can say why.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "eighth",
+          "actual": "eights"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "ae62155f91fd501ea3798cf4d99517b13a2fdcf8ac8c2cac8eb9a5301d50adf7"
+}

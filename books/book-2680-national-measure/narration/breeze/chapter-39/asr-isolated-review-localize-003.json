@@ -1,0 +1,60 @@
+{
+  "sourceSha256": "6eec65de0644f1a92aa58b2c05aa0592d4a528f022aa5dddd3bb4035f8357356",
+  "audioSha256": "8208ee48e31487fc0a62e8931e5258d32ddfca085735ef3f201e43a29b9ba519",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "891a43e67c07d5c9bee4a48d08b6f5a69250313ac85840a5cbc90fb07cbb83d7",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s098",
+      "takeBindings": [
+        {
+          "id": "s098",
+          "sha256": "50cc79fb7e5f10abbb3cddaca35a2583fc0ea9c34b5e6984830d925367413681"
+        }
+      ],
+      "wavSha256": "50cc79fb7e5f10abbb3cddaca35a2583fc0ea9c34b5e6984830d925367413681",
+      "expected": "The Clerk looked at Kiva.",
+      "transcript": "The clock looked at Kiva. The clock looked at Kiva.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "clerk",
+          "actual": "clock"
+        },
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "the clock looked at kiva"
+        }
+      ]
+    },
+    {
+      "id": "s099",
+      "takeBindings": [
+        {
+          "id": "s099",
+          "sha256": "0bec919aa4adbbe77e71e7915420edae859d3ddb72be791786565ea6a86309ee"
+        }
+      ],
+      "wavSha256": "0bec919aa4adbbe77e71e7915420edae859d3ddb72be791786565ea6a86309ee",
+      "expected": "\"You're not obliged,\" she said.",
+      "transcript": "I not obliged, she said.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "you're",
+          "actual": "i"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "2190a1cfd1898913f0e5876cae417ebc318dd2f87e327de5127bb137701b2563"
+}

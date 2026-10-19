@@ -28,6 +28,13 @@ TRIALS_2 = [
     (47, 's096', 'Warm, restrained Australian narration. Quiet scene opening; plain factual chronology and gently understated invitation. Stay in the same adult narrator voice.'),
     (48, 's039', 'Warm, restrained Australian narration. Plain factual observation followed by a single quiet final thought. Stay in the same adult narrator voice.')]
 
+TRIALS_3 = [
+    (32, 's163', 'Warm, restrained Australian narration. Brief, level answer with attribution attached. Return to the base narrator for attribution.'),
+    (35, 's042', 'Warm, restrained Australian narration. Dry, thoughtful dialogue; preserve contracted tense clearly. Quiet narrator for actions and attribution.'),
+    (37, 's037', 'Warm, restrained Australian narration. Brief, level reply with a clean final landing. Stay in the same adult narrator voice.'),
+    (37, 's038', 'Warm, restrained Australian narration. Firm but unshowy reply; preserve the contracted tense and full thought clearly. Stay in the same adult narrator voice.'),
+    (38, 's138', 'Warm, restrained Australian narration. Clear factual recollection; distinguish the changing tenses and keep attribution precise. Return to the base narrator for actions and attribution.')]
+
 
 def main(resume_cache_failure=False, batch=1):
     spec = importlib.util.spec_from_file_location(
@@ -51,7 +58,7 @@ def main(resume_cache_failure=False, batch=1):
                 'resolution': 'Use existing local Breeze cache offline; no model download',
                 'productionAudioUnchanged': True})
         inputs, segments = [], []
-        for number, key, instruct in (TRIALS if batch == 1 else TRIALS_2):
+        for number, key, instruct in {1:TRIALS,2:TRIALS_2,3:TRIALS_3}[batch]:
             directory = worker.QUEUE/f'chapter-{number:02d}'
             source = worker.BOOK/f'manuscript/chapter-{number:02d}.md'
             direction = directory/'direction.json'
@@ -121,6 +128,6 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('--resume-cache-failure', action='store_true')
-    parser.add_argument('--batch', type=int, choices=[1,2], default=1)
+    parser.add_argument('--batch', type=int, choices=[1,2,3], default=1)
     args = parser.parse_args()
     main(args.resume_cache_failure, args.batch)

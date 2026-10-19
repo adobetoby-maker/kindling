@@ -1,0 +1,80 @@
+{
+  "sourceSha256": "c39b066241dc7c1027d462ee855c59303805f5fd14eb0062ead5ee0f738afc21",
+  "audioSha256": "1a9adfa4ee3a878bd3dea0a345683138b80febdd5d5c47848091bfebc717b655",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "114d57453974fde4552e36a372905bf276b6b990cc602ac81102b5f4bce73116",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s037",
+      "takeBindings": [
+        {
+          "id": "s037",
+          "sha256": "88e85aeb07d09bfe72ff163faa578c3ee2fd52c6812f0a279375496a84a45d6d"
+        }
+      ],
+      "wavSha256": "88e85aeb07d09bfe72ff163faa578c3ee2fd52c6812f0a279375496a84a45d6d",
+      "expected": "\"Very likely.\"",
+      "transcript": "Very likely, mun five hundred and soff, teen hundred and fifty at'n, one hundred and sippteen hundred and fifty. Well to complete a fast forheard, no tham one hundred mess. Complete hundred and fifty mess.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "mun five hundred and soff teen hundred and fifty at'n one hundred and sippteen hundred and fifty well to complete a fast forheard no tham one hundred mess complete hundred and fifty mess"
+        }
+      ]
+    },
+    {
+      "id": "s038",
+      "takeBindings": [
+        {
+          "id": "s038",
+          "sha256": "9cfc05209a35cbdcb9ec5deb5fe290ecb102807526ec25560d2e4d6b5030c27d"
+        }
+      ],
+      "wavSha256": "9cfc05209a35cbdcb9ec5deb5fe290ecb102807526ec25560d2e4d6b5030c27d",
+      "expected": "\"I'll not hold back because you've told me. I'd not want it thought I let you off.\"",
+      "transcript": "I'll not hold back because you've told me, but not one had thought I'd let you off.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "insert",
+          "expected": "",
+          "actual": "but not one had thought"
+        },
+        {
+          "operation": "delete",
+          "expected": "not want it thought i",
+          "actual": ""
+        }
+      ]
+    },
+    {
+      "id": "s060",
+      "takeBindings": [
+        {
+          "id": "s060",
+          "sha256": "cf778ef99fb9e324d0b0ed0fde0248ebaf03955ff0a9c84de6798f7005e7e916"
+        }
+      ],
+      "wavSha256": "cf778ef99fb9e324d0b0ed0fde0248ebaf03955ff0a9c84de6798f7005e7e916",
+      "expected": "Kiva felt them as she came out of the side door onto the floor. It was not like Friday. On Friday the whole town had stood up for Carrow, and Kiva had been one of eight people on a floor. Today it did not stand. It sat, tier after tier, in green and in grey and in the colours of six circuits, and every face in the lower tiers turned as she came out of the door and followed her across the stone to Seven's hurdle, and she felt it on the side of her face and the back of her neck like the sun.",
+      "transcript": "Kiva felt them as she came out of the side door onto the floor. It was not like Friday. On Friday, the whole town had stood up for Karo, and Kiva had been one of eight people on a floor. Today, it did not stand. It sat, tier after tier, in green and in grey and in the colours of six circuits, and every face in the lower tiers turned as she came out of the door and followed her across the stone to Seven's hurdle, and she felt it on the side of her face and the back of her neck like the sun.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "carrow",
+          "actual": "karo"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "1824eb8bc2cd7b0b12aaf5c25065a4c1b8a19048888890a0b5c4eff5b117754a"
+}

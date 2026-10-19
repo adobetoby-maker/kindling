@@ -1,0 +1,75 @@
+{
+  "sourceSha256": "3f67d10d46a1186bf0b3d912ba19f3298f391753b1172f1aa913c05cba59e24a",
+  "audioSha256": "b34f1414c0a36cb6f8b14553c0ba274ca8c5ceeaa8acd9d598db94455ff89146",
+  "model": "mlx-community/whisper-large-v3-turbo-asr-fp16",
+  "modelRevision": "624c19c9af5603fa73b83bce14d4aeea96156d18",
+  "rawReportSha256": "36cfd7a3fc7ccf06659b11490d91b7114d586037b454d5ef67b7701e7e0fb091",
+  "state": "localized-screened-review-pending",
+  "segments": [
+    {
+      "id": "s069",
+      "takeBindings": [
+        {
+          "id": "s069",
+          "sha256": "e828f6d5fedee95464cb5b9a112fc9f23e1a5b8d72538fa1632a9823f52260f1"
+        }
+      ],
+      "wavSha256": "e828f6d5fedee95464cb5b9a112fc9f23e1a5b8d72538fa1632a9823f52260f1",
+      "expected": "Seven stood in the ninth row. Perrin had been let stand, by Aske, on condition he did not stand long. He stood at the end of the row with his hand pressed to his side, and Anwen next to him, and Jude, and Kiva at the other end. Pru stood behind them with the reserves, with her capped hands folded in front of her as Thrale folded hers.",
+      "transcript": "Seven stood in the ninth row. Perrin had been let stand, by ask, on condition he did not stand long. He stood at the end of the row with his hand pressed to his side, and Anwen next to him, and Jude, and Kiva at the other end. Prue stood behind them with the reserves, with her capped hands folded in front of her, as Thrail folded hers.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "aske",
+          "actual": "ask"
+        },
+        {
+          "operation": "replace",
+          "expected": "pru",
+          "actual": "prue"
+        },
+        {
+          "operation": "replace",
+          "expected": "thrale",
+          "actual": "thrail"
+        }
+      ]
+    },
+    {
+      "id": "s138",
+      "takeBindings": [
+        {
+          "id": "s138",
+          "sha256": "b9ea2d3ae33fd3c0da9fe36765d1cb655b90b9246182e22790f43b953cae3881"
+        }
+      ],
+      "wavSha256": "b9ea2d3ae33fd3c0da9fe36765d1cb655b90b9246182e22790f43b953cae3881",
+      "expected": "\"I wrote that down. I write everything down.\" The Reader shut the satchel. \"Tomorrow they'll read it aloud in a dock. All of it. Yours and hers and the keepers'.\" She looked at Kiva for a long moment. \"I've kept that page in the dark for nine months so that it could be believed. I'd like you to know I've never once been curious what's on it. I'll be curious tomorrow.\"",
+      "transcript": "I'll write that down. I'll write everything down. The reader shut the satchel. Tomorrow they'll read it aloud in a dock. All of it. Yours and hers and the keeper's. She looked at Kiva for a long moment. I've kept that page in the dark for nine months so that it could be believed. I'd like you to know I've never once been curious what's on it. I'll be curious tomorrow.",
+      "normalizedExactMatch": false,
+      "changes": [
+        {
+          "operation": "replace",
+          "expected": "i wrote",
+          "actual": "i'll write"
+        },
+        {
+          "operation": "replace",
+          "expected": "i",
+          "actual": "i'll"
+        },
+        {
+          "operation": "replace",
+          "expected": "keepers",
+          "actual": "keeper's"
+        }
+      ]
+    }
+  ],
+  "bindingRecord": "published.json",
+  "publicationClaim": null,
+  "ownerListening": "pending",
+  "note": "Isolated ASR corroboration, not human listening or automatic pickup authority. Review remaining differences; names/numbers and decoder errors may persist. No audio/source was changed.",
+  "requestSha256": "15c91c0d7bbfae63c25128963d1b9ea6219f5b4b85437ad98b70b8ca0e84f80c"
+}
