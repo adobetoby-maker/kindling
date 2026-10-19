@@ -1,5 +1,22 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T15:11Z
+
+- Exact-edition residual packet ASR completed all21 contexts. All retain differences;
+  source/record/clip/revision guards passed, no automatic acceptance. Current v2
+  33 s215/216 contexts recover nine/sixteen ranks but and/than remains;37 s038
+  contracts correctly in this context but it/a remains;48 s112 only spelling/
+  ordinal notation differences. Retain original observations and all residuals.
+- Added CPU timing audit against verified exact-zero authored rest intervals:
+  90 timestamped words in seven contexts align wholly to zero PCM,73 timestamps
+  have zero duration. Verbose tails therefore have invalid decoder alignments;
+  this is not proof every addition is absent elsewhere, or authority to clear
+  center lexical/initial discrepancies. Raw ASR retained and hash-bound.
+- residual-review-v1 now contains record, exact chosen-edition local clips,
+  asr-review and timing-audit. No model remains active. No production/canon/
+  direction changes or publisher restart. Owner pacing response and LFS-budget
+  resolution still pending; do not repeat unchanged notifications or invent consent.
+
 ## Latest checkpoint — 2026-10-19T15:09Z
 
 - Created frozen residual-review-v1:21 exact-edition, lossless full-neighbor context
