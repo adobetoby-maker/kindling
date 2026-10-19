@@ -15,8 +15,9 @@ def sha(path):
     return hashlib.sha256(path.read_bytes()).hexdigest()
 
 
-def main():
-    for directory in sorted(RECORDS.glob('chapter-*')):
+def main(edition=1):
+    records = BOOK/f'narration/breeze/local-repair-candidates-v{edition}'
+    for directory in sorted(records.glob('chapter-*')):
         technical = json.loads((directory/'technical-review.json').read_text())
         manifest = json.loads((directory/'take-manifest.json').read_text())
         if hashlib.sha256(json.dumps(manifest,sort_keys=True).encode()).hexdigest() != technical['bindingSha256']:
@@ -78,4 +79,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--edition',type=int,choices=[1,2],default=1)
+    main(parser.parse_args().edition)

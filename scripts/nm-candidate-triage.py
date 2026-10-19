@@ -8,12 +8,12 @@ from pathlib import Path
 import subprocess
 
 
-def main():
+def main(edition=1):
     spec = importlib.util.spec_from_file_location('nm_audio_worker',
                         Path(__file__).with_name('nm-breeze-audio.py'))
     worker = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(worker)
-    root = worker.QUEUE/'local-repair-candidates-v1'
+    root = worker.QUEUE/f'local-repair-candidates-v{edition}'
     with (worker.QUEUE/'offline-qa.lock').open('a') as lock:
         fcntl.flock(lock,fcntl.LOCK_EX | fcntl.LOCK_NB)
         for directory in sorted(root.glob('chapter-*')):
@@ -37,4 +37,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--edition',type=int,choices=[1,2],default=1)
+    main(parser.parse_args().edition)

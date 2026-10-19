@@ -7,22 +7,20 @@ import os
 from pathlib import Path
 import subprocess
 
-MEDIA = Path('/Volumes/Drive 2/monroe-ai/national-measure/local-repair-candidates-v1')
-
-
-def main():
+def main(edition=1):
     spec = importlib.util.spec_from_file_location('nm_audio_worker',
                         Path(__file__).with_name('nm-breeze-audio.py'))
     worker = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(worker)
-    records = worker.QUEUE/'local-repair-candidates-v1'
+    records = worker.QUEUE/f'local-repair-candidates-v{edition}'
+    media = Path(f'/Volumes/Drive 2/monroe-ai/national-measure/local-repair-candidates-v{edition}')
     records.mkdir(exist_ok=True)
     with (worker.QUEUE/'offline-qa.lock').open('a') as lock:
         fcntl.flock(lock, fcntl.LOCK_EX | fcntl.LOCK_NB)
         if worker.busy() or any((worker.QUEUE/f'chapter-{n}'/'direction.ready').exists() for n in (47,48)):
             raise RuntimeError('Yield to active model work or restored readiness')
         overrides = {}
-        for batch in (1,2,3):
+        for batch in ((1,2,3) if edition == 1 else (1,2,3,4,5,6)):
             trial_dir = worker.QUEUE/f'diagnostic-instruction-leak-v{batch}'
             review = json.loads((trial_dir/'review.json').read_text())
             candidates = {r['trialId']:r for r in review['reports']}
@@ -37,18 +35,31 @@ def main():
                 overrides[key] = {**trial, 'candidatePath':str(wav),
                                   'candidateSha256':candidate['wavSha256'],
                                   'diagnosticBatch':batch}
-        worker.save(records/'selection.json', {'reviewer':'Codex',
+        if edition == 2:
+            # Only these chapter editions changed after frozen v1. Preserve the
+            # other eight v1 editions rather than copying/re-screening them.
+            overrides = {key:value for key,value in overrides.items() if key[0] in (32,33,48)}
+        selection = {'reviewer':'Codex',
                     'state':'provisional-local-repair-edition-not-approved',
                     'published':False, 'ownerListening':'pending',
                     'knownUnresolved':['37 s038 clause/tense discrepancy','37 s059 who/who-d discrepancy',
                                       'context-tail decoder additions','other previously logged lexical residuals',
                                       'mastering, pace, voice/stability and owner listening'],
-                    'overrides':list(overrides.values())})
+                    'overrides':list(overrides.values())}
+        if edition == 2:
+            selection['scope'] = 'Changed chapters32/33/48 only; frozen v1 retained elsewhere'
+            selection['knownUnresolved'][:0] = ['33 s216 isolated number homophone uncertainty',
+                                               '32 s035 Clerk/clique recognition']
+        if (records/'selection.json').exists():
+            if json.loads((records/'selection.json').read_text()) != selection:
+                raise RuntimeError('Preserve frozen differing edition selection')
+        else:
+            worker.save(records/'selection.json', selection)
         for number in sorted({n for n,_ in overrides}):
             if worker.busy():
                 raise RuntimeError('Yield to active model work')
             directory = worker.QUEUE/f'chapter-{number:02d}'
-            destination = MEDIA/f'chapter-{number:02d}'
+            destination = media/f'chapter-{number:02d}'
             destination.mkdir(parents=True,exist_ok=True)
             evidence_dir = records/f'chapter-{number:02d}'
             evidence_dir.mkdir(exist_ok=True)
@@ -65,7 +76,13 @@ def main():
                 original = directory/'breeze-directed'/f"{segment['id']}.wav"
                 original_sha = worker.sha(original.read_bytes())
                 if candidate:
-                    if candidate['sourceSha256'] != source_sha or candidate['directionSha256'] != direction_sha or candidate['text'] != segment['text'] or candidate['oldTakeSha256'] != original_sha:
+                    exact_text = candidate['text'] == segment['text']
+                    rank_punctuation_only = (edition == 2 and candidate['diagnosticBatch'] == 5
+                        and number == 33 and segment['id'] in ('s118','s216')
+                        and candidate.get('originalText') == segment['text']
+                        and candidate['text'] == worker.re.sub(r'\(([0-9]+)\)',r'\1',segment['text'])
+                        and worker.words(candidate['text']) == worker.words(segment['text']))
+                    if candidate['sourceSha256'] != source_sha or candidate['directionSha256'] != direction_sha or not (exact_text or rank_punctuation_only) or candidate['oldTakeSha256'] != original_sha:
                         raise RuntimeError('Repair evidence differs from original source/score/take')
                     path = Path(candidate['candidatePath'])
                     take_sha = worker.sha(path.read_bytes())
@@ -144,4 +161,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--edition',type=int,choices=[1,2],default=1)
+    main(parser.parse_args().edition)

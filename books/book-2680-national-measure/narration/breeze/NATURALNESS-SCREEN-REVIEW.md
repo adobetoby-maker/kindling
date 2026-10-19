@@ -35,7 +35,24 @@ identical reference3 times, retains all55 original flags, checks10 known-referen
 duration crops, and compares original48 s112 with its separate batch6 candidate.
 Results are a separate diagnostic; they do not overwrite the raw screen or lower
 its threshold. First3 reference repeats are identical3.4474332332611084. Remaining
-controls are running; inspect `naturalness-controls-v1/review.json` when present.
+controls completed; see `naturalness-controls-v1/review.json`.
+
+### Controlled result
+
+All70 predictions completed with input WAV hashes unchanged. The common reference
+score gives a3.15 diagnostic floor. Nine of the original55 flagged takes remain
+below that floor with this fixed crop selection:01 s032,11 s056,21 s185,29 s049,
+31 s035,34 s001,37 s102,38 s001 and38 s028. The original55 flags are not deleted;
+changing a crop can change a score and is not a repair or perceptual clearance.
+Six of the10 known-positive reference crops also score below3.15, showing the
+duration/content confound. Three34/38 heading/short-clip items remain subject to
+the same caution.37 s102 is a6.16-second short dialogue/attribution exchange;
+it merits focused review, not automatic rerecording based on predicted MOS.
+
+Original48 s112 scores4.1177 and its batch6 candidate4.2101 under the controlled
+naturalness check, even though the original's temporal identity windows fail.
+This is direct evidence that a naturalness estimate cannot stand in for narrator
+identity, correct words, or listening. No take was promoted from these scores.
 
 ## Runtime provenance and limits
 

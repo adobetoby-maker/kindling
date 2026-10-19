@@ -52,7 +52,8 @@ def main(number, context=False, unpublished=False, context_request=None, isolate
     production_dir = QUEUE/f'chapter-{number:02d}'
     directory = production_dir
     if candidate_root:
-        if Path(candidate_root).resolve() != (QUEUE/'local-repair-candidates-v1').resolve() or context or isolated_request:
+        allowed_roots = {(QUEUE/f'local-repair-candidates-v{edition}').resolve() for edition in (1,2)}
+        if Path(candidate_root).resolve() not in allowed_roots or context or isolated_request:
             raise ValueError('Candidate mode supports only isolated screening of the separate local repair edition')
         directory = Path(candidate_root)/f'chapter-{number:02d}'
     audit = json.loads((directory/'asr-audit.json').read_text())

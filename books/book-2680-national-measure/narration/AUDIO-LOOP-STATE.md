@@ -1,5 +1,27 @@
 # National Measure — local Breeze audio loop
 
+## Latest checkpoint — 2026-10-19T12:12Z
+
+- Fixed-seed naturalness controls completed70 predictions; identical reference
+  repeats agree3.4474332. Nine of55 initial outliers stay below3.15; six of10
+  known-positive reference crops also fall below. Keep all raw flags; no automatic
+  rerecord/clearance. Original48 s112 scores4.1177 despite identity failures;
+  candidate4.2101. Naturalness does not establish identity or correct words.
+- Active shell46603 / parent50618 / ASR child51202 at12:11Z: builder --edition2
+  assembles/screens separate changed32/33/48 local editions using nine candidate
+  centers including batches4–6. Frozen v1/production/source unchanged. First
+  system-Python attempt failed missing NumPy before any artifact; existing Breeze
+  runtime now runs. No synthesis, publishing or duplicate model invocation.
+- After builder completion, run nm-candidate-integrity.py --edition2 with Breeze
+  Python, then nm-candidate-triage.py --edition2. Triage now permits only exact
+  v1/v2 roots and their bound take manifests; context mode still rejects them.
+  Inspect actual process/results first. Evidence local-repair-candidates-v2;
+  media on Drive2.
+- BookOne thread still notLoaded/interrupted; NoPathGiven untouched. Text48
+  accepted chapters/325936 words;46 audio chapters previously live verified.
+  LFS hold still blocks47/48 and replacements; no retry/billing/host change.
+  Word residuals, delivery/voice QA and complete owner listen remain open.
+
 ## Latest checkpoint — 2026-10-19T11:10Z
 
 - Naturalness screen finished:1,152 sampled estimates, median3.81785,55 flags
