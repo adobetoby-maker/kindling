@@ -1,3 +1,6 @@
+> ARCHIVE (2026-10-27): this file is retired. The master seed for the whole universe is `universe/SEED-2680.md`;
+> see `universe/ARCHIVE.md` for why. Do not use this file as a story or canon source.
+
 # Canon — World Premise and Power System
 
 Status: items marked `CANON` are the owner's own account (history, power theory,
