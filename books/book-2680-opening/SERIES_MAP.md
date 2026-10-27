@@ -20,8 +20,10 @@ defend—and power—the rebuilt world.
   every injury, correction, and recovered ash share into the next threshold.
 - Different schools solving the same obstacle in incompatible-looking ways.
 - Friendly loyalty, rivalry, humor, and mentors with private stakes.
-- Historical records that change a present choice rather than delivering lore for
-  its own sake.
+- Old places and objects, such as a lane, a post, or a plate, that turn out to have a
+  working reason, found by use and consequence rather than by anyone explaining it.
+  Records appear only as found objects that change a present choice; they are not a
+  recurring scene (motif budget, `BOOK_MAP.md` §9).
 - Rift-response set pieces where teamwork and terrain matter more than raw output.
 - Professional rift fighting where rescue, closure, infrastructure, and clean ash
   recovery matter more than kill count.
@@ -94,7 +96,8 @@ Three may cross the threshold while still leaving ultimate cosmology open.
   abort lines, and healer safety.
 - **Callie line:** reading boundaries, uncertainty, and shaping a safe place for
   other people's work.
-- **Dessa/Senna line:** append-only evidence and the reasons column.
+- **Dessa/Senna line:** append-only evidence and the reasons column. Institutional
+  background only; it is never a scene's subject (motif budget, `BOOK_MAP.md` §9).
 - **Home Line:** field arm and public-service tradition, never merely a school team.
 
 Names, charters, and claims have changed over 530 years. The surviving Kindled Book

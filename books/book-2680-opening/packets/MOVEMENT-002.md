@@ -55,7 +55,7 @@ Then deliver the first sanctioned collegiate meet. Human opponents remember, fei
 adapt, and exploit habits the spawn drills created. Give the school-versus-school
 combat developed tactical length. A useful team loss should prove that access is not
 control while still producing a visible, earned improvement. Noa Bexley begins
-recording Kiva's output, Draw, recovery efficiency, and door behavior because the
+measuring Kiva's output, Draw, recovery efficiency, and door behavior at the mast because the
 numbers do not fit the one-door model.
 
 Seed the coupled escalation without explaining it: this student cohort is stronger

@@ -1,4 +1,4 @@
-# Movement 004 — What the Record Lost
+# Movement 004 — The Real Call
 
 - PWA book id: `kindling-2680-book-01`
 - Series id: `kindling-2680`
@@ -48,13 +48,16 @@ mechanical correction before drafting begins.
 
 Let recovery time create story rather than a skipped wait. Public results, the seventh
 reed, the disk's one warmth, the T-0 markings, and the rich dirty spring cause different
-people to search different records for different reasons. Kiva pursues the Compact
-Library's reader and the 2446 margin; Noa follows instrument and sensing-mast evidence
-within his consent boundary; Orla and Vane pursue the bearer and field-direction books.
+people to go looking for different answers. Kiva pursues the Compact Library's reader
+and the 2446 margin; Noa follows instrument and sensing-mast evidence within his consent
+boundary; Orla and Vane pursue the bearer's book and the older field-direction ledger.
 Founder histories, ash patents, professional logs, and old fever accounts should
 disagree in useful, human ways: copied omissions, proprietary claims, renamed methods,
-or missing reasons. Do not turn this into eight chapters of adults delivering archives.
-Evidence must change choices, relationships, access, or risk on the page.
+or a missing cost column. Do not turn this into eight chapters of adults delivering
+archives. Evidence must change choices, relationships, access, or risk on the page.
+Record-handling is capped by the motif budget (`BOOK_MAP.md` §9): only the named beats
+(Chapters 25-27, 31, 32), each a found object that changes a choice, never a scene of
+people discussing why records matter.
 
 Pay the dark-floor aftermath between Kiva and Anwen through actions and imperfect
 conversation. Anwen's summer line is her own earned future. Kellan, Perrin, Noa, Jude,
@@ -74,7 +77,7 @@ a real multi-type Riftspawn call. Use a district whose people and infrastructure
 not a spectacle floor. Introduce several comprehensible spawn expressions whose
 interaction creates the danger; do not merely enlarge the Pit string. Collegiate habits
 should initially fail because students optimize for score, fixed lanes, or a single
-opponent. They recover only when roles, reasons, handoffs, aborts, rescue, closure,
+opponent. They recover only when roles, calls, handoffs, aborts, rescue, closure,
 kill, and clean recovery are declared again. Professionals retain the work beyond the
 students' license. Give the response developed tactical space, clear terrain, starting
 positions, changing decisions, injury/fatigue, and a recovery/reconciliation aftermath.

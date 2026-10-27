@@ -15,9 +15,14 @@ in `PROLOGUE_PLAN.md`. A cold reader must understand the visible EMP: stratosphe
 detonations cause a broad electromagnetic pulse, powered systems fail without a
 ground-level blast, communications and infrastructure collapse, and the survivors
 do not know who caused it or whether the detonations relate to later filter damage.
-Carry the copied-reasons habit through 2080, the failed-restoration decade, the first
-wormhole/Riftspawn/unnamed power event, and the Homura/Home Line era seen only through
-records. Then dramatize the first century after Meridian in enough depth for the
+Carry one physical thread, the leaning post (`PROLOGUE_PLAN.md` §4): it first appears in
+the 2152 Home Line snapshot, is mocked in 2603, and is the last image of 2676. Do not
+build any snapshot on someone writing down what happened or copying a record; each
+snapshot turns on a concrete event or choice (`PROLOGUE_PLAN.md` §5). The 2080 night, the
+failed-restoration decade, and the first wormhole/Riftspawn/unnamed power event are
+carried by what people do and say, and the Home Line era by one working lane and one
+costly drill. Obey the motif budget and banned phrasings (`PROLOGUE_PLAN.md` §8,
+`BOOK_MAP.md` §9). Then dramatize the first century after Meridian in enough depth for the
 reader to understand the transformation: radiation-safe Sustain rotations recover
 nuclear sites and knowledge; ash and nuclear systems are blended; stable electrical
 induction develops; licensed compact reactors reach homes; fossil and large solar

@@ -262,12 +262,20 @@ the generations who test, fail, record, and build after him.
 - **The Satori disk (`INHERITED` → `LOCKED 2680 survival`):** nine grooves; released
   through an appointed bearer line, not blood descent. It warms once after Kiva's
   first correct deliberate cross-door sequence. It does not teach or speak.
-- **The reasons ledger (`PLANNED survival`):** preserved in copies with disagreements.
-  A missing or edited reason is a story problem, not proof the founders were wrong.
-- **The crooked post (`PLANNED survival`):** retained in one ceremonial/training
-  lane because the road is not straight. Other schools may mock or straighten it.
+- **The crooked post (`PLANNED survival`):** the series' one durable physical thread.
+  It stands in one ceremonial/training lane under Meridian's south wall because the
+  road is not straight (the founders' reason, initials S.V.); its working function is a
+  Movement 6 reveal (see `STATE_LEDGER.md`). Other schools straightened their posts
+  (2390) or mock this one. It is the only object the 2680 prologue threads across
+  eras: a working lane in 2152, a joke in 2603, the last image of 2676.
+- **The reasons ledger (`PLANNED survival`):** background institutional fact, not a
+  recurring scene. It survives in copies with disagreements, and a missing or edited
+  reason is a story problem, not proof the founders were wrong. It is plot-load-bearing
+  in exactly two places in Book One: the older Home Line roll with a tidied-away cost
+  column (Ch. 27) and the manual that lost its seventh column (Ch. 43, 47, 48).
 - **Home Line records (`PLANNED survival`):** case files of exercises, injuries,
-  costs, recovery, repeat attempts, and reasons.
+  costs, recovery, repeat attempts, and reasons. Background institution detail; never
+  the action of a scene.
 
 ## Filter and Glory horizon
 
@@ -283,6 +291,11 @@ ladder remain `HORIZON` until the owner approves their concrete form.
   separately approves that character having reached Glory.
 - Do not turn disputed founder history into a secret villain rewrite.
 - Do not make the protagonist powerful because the disk grants finished skill.
+- Record-keeping is a fact of the world, not a recurring action. Owner ruling,
+  2026-10-27: *"i dont like all the write it down. record it talk inside a book. it
+  annoys me."* No scene is built on someone writing, copying, or filing something, and
+  no character explains why records matter, except the named plot-load-bearing beats
+  in `books/book-2680-opening/BOOK_MAP.md` §9.
 - Do not copy source-novel names, terminology, scene order, signature dialogue, or
   character analogs from the research.
 - Every climax capability must be demonstrated and priced earlier.

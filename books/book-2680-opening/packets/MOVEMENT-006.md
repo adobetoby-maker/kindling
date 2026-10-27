@@ -169,11 +169,11 @@ aftermath. Later books will advance collegiate competition to regional, national
 international levels, and rift fighting toward professional and Glory-level stakes.
 Do not compress that ladder into this ending.
 
-The recurring fever material is a shared, fallible record—not a trustworthy prophecy.
+The recurring fever material is a shared, fallible set of accounts—not a trustworthy prophecy.
 Across later books it drives Glory users toward one another and toward the eventual
 complete loss of the planetary filter and enduring pure Glory presence. This movement
 may add one measured historical echo, one changed instrument reading, and one reason
-to compare records. It may not reveal the final event, identify a savior, or settle
+to compare accounts. It may not reveal the final event, identify a savior, or settle
 whether the figures cause or answer the loss.
 
 ## What must remain true / withheld

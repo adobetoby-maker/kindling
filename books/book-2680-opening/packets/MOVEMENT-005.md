@@ -27,8 +27,10 @@ gone until supper, about fifteen hours. Permanent fine-sensation loss in those f
 fingers is reserved for this movement and cannot be cured by rank, ash, or victory.
 
 The disk stayed cold. The Home Line's bearer book says it is held of the Line, released
-to a bearer, and recallable by a watch of seven for written cause. Kiva wrote its one
-warmth in the fourth column, witnessed by Hollis Vane. The watch hears that entry Sunday
+to a bearer, and recallable by a watch of seven for written cause. Kiva's one warmth is entered in the
+fourth column, witnessed by Hollis Vane (a named plot-load-bearing record beat in
+`BOOK_MAP.md` §9, shown once; stage the hearing as people deciding, not as anyone
+reading a book aloud). The watch hears that entry Sunday
 the 1st. The Pit tape also opens that day. Selka Dray's objection is heard Monday the 2nd.
 On Tuesday the 3rd the Placement Chair wants all parties, the catcher's book, the tape,
 Noa, Orla, the reader, and the sponsor.
