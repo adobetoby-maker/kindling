@@ -15,7 +15,7 @@ It also plants the Unroofed Sky fever dream that drives the Books Two and Three
 convergence and the eventual complete loss of the planetary filter.
 
 The series progression loop is: train, contest, answer a live rift, kill, contain,
-recover and grade ash, invest the recorded team share, then attempt a harder threshold.
+recover and grade ash, invest the team's share, then attempt a harder threshold.
 Combat develops the soul only through learned, reproducible control; ash funds the
 next attempt rather than acting as automatic experience. Filter thinning raises both
 human potential and Riftspawn variety/strength, initially disguised as a gifted
@@ -26,3 +26,8 @@ Read the novel in `manuscript/`, beginning with `prologue.md` and continuing thr
 canon. The whole-book editorial, cold read, reconciliation, and final verification live in
 `editor/`. The recoverable pre-reconciliation edition is frozen in
 `editions/book-one-pre-whole-book-repair/`.
+
+The canon docs in this directory were cleaned of the record-keeping motif on 2026-10-27
+(`editor/MOTIF-BUDGET-REVISION.md`); the manuscript has not yet had its prose pass. The
+master seed for the whole universe, built from this book's cleaned canon, is
+`universe/SEED-2680.md`.

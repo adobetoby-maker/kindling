@@ -22,8 +22,8 @@ Anwen's Graywater field placement decision lands on the twentieth. Perrin has a
 Second Division Stonehand bursary and honest envy. Kellan is First Division and has
 begun comparing Kiva's data rather than dismissing it. Mara has triggered a Works
 review of her tuning license. Rhea privately recognizes Corran's disk; Kiva does not
-know that. The Sag Line baseline, T-0 records, Annick account, and Unroofed Sky remain
-unexplained.
+know that. The Sag Line baseline, the keepers' T-0 chalk, the Order's telling of
+Annick's dream, and the Unroofed Sky remain unexplained.
 
 Read the full preceding movement and its continuity checkpoint. Carry injuries,
 dates, knowledge boundaries, meters, door limits, household conditions, and every
@@ -44,7 +44,7 @@ response. Let fear, humor, rivalry, equipment mistakes, and bodily recovery live
 the scenes. Kiva cannot enter live work until Orla has evidence sufficient to sign.
 
 The movement should include a developed supervised Handful-yield kill and clean
-recovery. The team receives its first small recorded ash share after civic and casualty
+recovery. The team receives its first small ash share after civic and casualty
 shares. Ash is measured by yield, grade, and resonance. The team must choose whether
 to spend, save, or return part of its share for training cells, permitted combat ash,
 equipment, travel, or medical reserve. Killing does not automatically raise rank;
@@ -59,7 +59,7 @@ measuring Kiva's output, Draw, recovery efficiency, and door behavior at the mas
 numbers do not fit the one-door model.
 
 Seed the coupled escalation without explaining it: this student cohort is stronger
-than recent records predict, and the contained/live spawn season shows a small but
+than any recent season, and the contained/live spawn season shows a small but
 specific variation instructors do not expect. Characters may call these separate
 oddities. They do not yet prove that rising Glory pressure beyond the filter causes
 both.

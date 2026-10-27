@@ -36,7 +36,7 @@ plain story and a small physical demonstration, Tamar makes the engineer see tha
 ash can hold instruction after a person releases it: the reactor already has heat;
 ash might hold the rules around that heat. Tamar does not design the plant or possess
 future knowledge. The breakthrough belongs to the engineers' later testing, failure,
-records, and labor. Capture the catalytic wise-teacher pleasure without borrowing
+and labor. Capture the catalytic wise-teacher pleasure without borrowing
 any existing fictional character's identity, voice, history, cosmology, or phrasing.
 
 The final snapshot shows Kiva's three-door Kindling at thirteen and the first full
@@ -53,8 +53,8 @@ explains Kiva. Do not dramatize the present-trilogy cast directly.
 
 ## Movement One entry
 
-Kiva lives with her aunt and guardian, Mara Rowan, who repairs Meridian's municipal
-instruments and reconciles their paper records. The disk reached Kiva through a
+Kiva lives with her aunt and guardian, Mara Rowan, who reads and tunes Meridian's
+municipal ash banks and repairs their instruments. The disk reached Kiva through a
 sealed Home Line appointment by its prior bearer, not blood descent. Kiva knows it
 is old and entrusted. She does not know its origin or complete history.
 
@@ -75,7 +75,7 @@ One reveals this regional ecosystem; national and international consequences bel
 mainly to Books Two and Three.
 
 Kiva remembers the Unroofed Sky only in sensory fragments. She does not know that
-the name exists or that older Glory records overlap it. The dream may recur briefly
+the name exists or that an older Glory master dreamed the same. The dream may recur briefly
 under fever, ash overload, filter instability, or close Glory pressure, but it never
 answers a question or provides a technique.
 
@@ -90,7 +90,9 @@ Across one connected eight-chapter run:
   ash induction, magic/ash blending, collegiate events and standings, professional
   recruitment, and why the Compact cannot safely classify simultaneous access.
   Demonstrations, failed attempts, Mara's repair work, team practice, and consequences
-  carry the explanation.
+  carry the explanation. Orla teaches the Home Line's seven questions aloud at the lane
+  (`universe/SEED-2680.md`); Kiva keeps no field book, and no chapter ends on her
+  writing anything.
 - Establish Orla Dane as Kiva's limited-authority mentor; Anwen Pryce as a practical
   equal with her own field-placement goal; Perrin Cade as warmth and honest envy;
   Kellan Renn as a legitimately excellent single-path rival; and Mara as a guardian
@@ -125,7 +127,7 @@ affection, and independent wants.
   surprise door, or unpriced climax solution.
 - Do not explain the disk's true origin, Makers, source realm, or first cause of the
   Fall/filter damage.
-- Do not confirm whether the Unroofed Sky is prophecy, recorded memory, future
+- Do not confirm whether the Unroofed Sky is prophecy, memory, future
   resonance, or manipulation. The series ending is fixed—complete filter loss and
   pure Glory presence—but Book One's characters do not know that as fact.
 - Do not copy names, terminology, dialogue, system presentation, or scene sequence

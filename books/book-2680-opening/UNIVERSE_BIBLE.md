@@ -25,7 +25,7 @@ This file does not silently promote the older storyboard's claims.
   reaching it is rare and cannot be granted, bought, or stolen.
 - Glory also allows a master to hold larger, longer, and more intricate ashcraft
   patterns. It improves throughput, stability, duration, and precision; it does not
-  make ash infinite or remove the need for equipment, workers, ledgers, and shutdowns.
+  make ash infinite or remove the need for equipment, workers, meters, and shutdowns.
 - Satori is both realization and the disk name. The disk's true origin is never
   explained in-manuscript.
 - Riftspawn expressions echo worked powers without a person home to direct them.
@@ -50,7 +50,7 @@ economy. It should be experienced repeatedly on the page rather than explained o
    catch, quarantine, grade, and reconcile it before it can be used. Contaminated or
    badly captured ash can poison a cell, attract another rift, or injure an operator.
 5. **Invest:** the public authority takes its civic and casualty shares; the school,
-   team, and licensed fighters receive recorded yield shares. Earned ash pays for
+   team, and licensed fighters receive their yield shares. Earned ash pays for
    training cells, equipment, travel, medical reserve, and harder sanctioned entries.
 6. **Advance:** rank is not an automatic reward for a kill. The soul grows through
    repeated owned exertion, correction, recovery, and reproducible control. Ash lets a
@@ -65,12 +65,12 @@ but kills and usable ash must remain materially important to students and compan
 **Draw** is efficiency: ash spent on a defined piece of work divided by the governing
 book or bench expectation. `1.0` is standard and lower is more efficient. The expected
 cost is task-specific; the accepted book figure for a contested four-minute hold is
-twelve hundredths of a dram, so eleven hundredths and a hair records as `0.93`.
+twelve hundredths of a dram, so eleven hundredths and a hair reads as `0.93`.
 
-Recovered ash has three separate measurements. **Yield** records quantity on the
-Handful -> Flask -> Barrel -> Well ladder. **Grade** records purity and stability;
+Recovered ash has three separate measurements. **Yield** is quantity on the
+Handful -> Flask -> Barrel -> Well ladder. **Grade** is purity and stability;
 fraudulently stamped ash can kill an operator even when the quantity is correct.
-**Resonance** records the defeated spawn's expression and therefore which training,
+**Resonance** is the defeated spawn's expression and therefore which training,
 medical, containment, transit, or industrial patterns can use the ash efficiently.
 A rare yield is valuable because of what it can safely fund, not because it grants the
 killer a packaged new power. Student teams carry metered combat ash for permitted
@@ -92,8 +92,10 @@ who mistakes new capacity for mastery.
 ## The Unroofed Sky (`LOCKED SERIES PROPHECY`)
 
 The series uses a recurring fever dream, not a reliable spoken prophecy. Across
-centuries, a small number of high-rank practitioners have recorded overlapping
-fragments. Later schools call the collected pattern **the Unroofed Sky**.
+centuries, a small number of high-rank practitioners have dreamed overlapping
+fragments and told them to someone. Later schools call the pattern **the Unroofed
+Sky**; the Order of the Even Hand calls its own master's version *the Unroofing* and
+says it aloud once a year.
 
 - The dream shows Glory-level people arriving from different directions and
   traditions until their fields touch. Whether they gather to prevent the break,
@@ -110,10 +112,10 @@ fragments. Later schools call the collected pattern **the Unroofed Sky**.
 - The vision recurs in pieces as Kiva advances. She cannot summon it for answers.
   Physical fever, ash overload, filter instability, or close contact with Glory can
   trigger it, and each recurrence has a bodily cost.
-- Independent Glory masters and archival accounts eventually prove Kiva is not the
+- Independent Glory masters and older tellings eventually prove Kiva is not the
   only dreamer. Industrial houses, school orders, professional companies, nations,
   and religious movements interpret the pattern differently.
-- Book Two reveals the shared record and makes the dream a national/international
+- Book Two puts the dreamers in one room and makes the dream a national/international
   political fact. Book Three brings the Glory users together and fulfills the fixed
   event: complete planetary filter loss and enduring pure Glory presence. The
   characters' choices determine what that collision becomes.
@@ -151,11 +153,11 @@ The collegiate system feeds **chartered rift companies**: professional salaried 
 licensed to answer live rifts, fight Riftspawn, rescue civilians, protect
 infrastructure, and recover clean ash. Public standings count closure, lives saved,
 damage prevented, usable ash, and violations. Home Line remains the professional
-tradition most suspicious of spectacle and most insistent that reasons and civilian
-outcomes stay in the record.
+tradition most suspicious of spectacle and most insistent that the cost and the reason
+be said aloud, at the cart, before anyone goes home.
 
-Callie's boundary practice and Dessa/Senna's records are embedded across these
-institutions rather than requiring a fourth founder cult.
+Callie's boundary practice and the founders' habit of asking *why* after every drill
+are embedded across these institutions rather than requiring a fourth founder cult.
 
 ## Technology and travel
 
@@ -191,7 +193,7 @@ principal finite energy commodity.
   Critical services retain mechanical and hardened backups.
 - **Failure modes:** contaminated ash, false grading, pattern drift, runaway heat,
   operator backwash, grid damage, and rift attraction. Every serious device has a
-  meter, a shutdown path, and a responsible ledger.
+  meter, a shutdown path, and a hand that answers for it.
 - **Glory scale:** a Glory master can stabilize industrial patterns that lesser
   practitioners can only maintain in teams or for short intervals. This has produced
   powerful industrial houses—titans whose refineries, grids, transit works, and
@@ -215,8 +217,9 @@ Home Line, then compounded for more than four hundred years.
    understood before its industrial potential.
 2. **Radiation return:** Sustain-trained Kindled learned to remove active radiation
    burden from living workers while medicine treated exposure and fixed damage.
-   They could enter zones ordinary crews could not, recover records and components,
-   and work in short, measured rotations. This never made radiation harmless or
+   They could enter zones ordinary crews could not, bring out components and the
+   plants' own drawings, and work in short, measured rotations. This never made
+   radiation harmless or
    reversed tissue already destroyed.
 3. **Nuclear recovery:** engineers combined ordinary shielding, remote machinery,
    disciplined rotations, ash containment patterns, and Glory-scale oversight to
@@ -238,7 +241,7 @@ Home Line, then compounded for more than four hundred years.
 6. **Distributed power:** licensed Glory-impressed patterns allow factory-built
    small reactors and ash cells to run homes, buildings, farms, hospitals, and
    workshops without a Glory master standing beside each one. Local technicians
-   maintain them; public ledgers track fuel and failures.
+   maintain them; the Works meter fuel and answer for failures.
 7. **Displacement:** within roughly a century of Meridian, ash induction and compact
    nuclear-ash systems displaced fossil fuels and large solar fields as primary
    energy. Legacy wind, water, solar, combustion, and mechanical systems remain as
@@ -255,7 +258,7 @@ Home Line, then compounded for more than four hundred years.
 Tamar's role is remembered unevenly. Some accounts make him an inventor; others call
 him a fraud who happened to ask the right question. Canonically he is mortal, human,
 original to this world, and catalytic rather than omniscient. The science belongs to
-the generations who test, fail, record, and build after him.
+the generations who test, fail, and build after him.
 
 ## Historical artifacts
 
@@ -263,19 +266,29 @@ the generations who test, fail, record, and build after him.
   through an appointed bearer line, not blood descent. It warms once after Kiva's
   first correct deliberate cross-door sequence. It does not teach or speak.
 - **The crooked post (`PLANNED survival`):** the series' one durable physical thread.
-  It stands in one ceremonial/training lane under Meridian's south wall because the
-  road is not straight (the founders' reason, initials S.V.); its working function is a
-  Movement 6 reveal (see `STATE_LEDGER.md`). Other schools straightened their posts
-  (2390) or mock this one. It is the only object the 2680 prologue threads across
-  eras: a working lane in 2152, a joke in 2603, the last image of 2676.
-- **The reasons ledger (`PLANNED survival`):** background institutional fact, not a
-  recurring scene. It survives in copies with disagreements, and a missing or edited
-  reason is a story problem, not proof the founders were wrong. It is plot-load-bearing
-  in exactly two places in Book One: the older Home Line roll with a tidied-away cost
-  column (Ch. 27) and the manual that lost its seventh column (Ch. 43, 47, 48).
-- **Home Line records (`PLANNED survival`):** case files of exercises, injuries,
-  costs, recovery, repeat attempts, and reasons. Background institution detail; never
-  the action of a scene.
+  The ninth post of the Home Line lane under Meridian's south wall, with a bar through
+  its top. The School set the other posts straight in 2390 and could not shift this
+  one. Its working function is a Movement 6 reveal (the handle of a sluice gate on the
+  hill drain; see `STATE_LEDGER.md`). It is the only object the 2680 prologue threads
+  across eras: a working lane in 2152, a joke in 2603, the last image of 2676.
+- **The seven questions (`LOCKED 2680`):** the Home Line's spoken debrief after every
+  drill, in order: *What was it. What went wrong. Who was hurt. What it cost. How long
+  to come back. Second go. Why.* The School's lane asks six and dropped the seventh in
+  2603. Nobody writes the answers; the crew hears them.
+- **The saying (`LOCKED 2680`):** *Because the road isn't straight.* The Home Line's
+  stock answer to any "why," said flat; a joke that outlived its meaning. Spoken only.
+- **The Order's observance (`LOCKED 2680`):** on the night of the 2446 flood each year,
+  the sisters of the Even Hand stand on the Eastbank flood-wall and say Hesper Annick's
+  fever dream aloud in her words. The Order calls it *the Unroofing* and treats it as
+  doctrine; the Halden house claims Annick's Ward patterns and sends an observer. A
+  guest may stand at the wall on spoken terms.
+- **The watch of seven (`LOCKED 2680`):** the Home Line's bearer custom. A bearer names
+  the next before the watch and says why, aloud; the watch witnesses and does not
+  choose. At each release the watch asks *What did it do?* and remembers the answer.
+  Every bearer for five hundred years has answered *nothing*, except one (Bly, 2466:
+  warm once, after her first crossing).
+- **The Line's roll:** a list of names and years. A prop. One name is added at the end
+  of Book One.
 
 ## Filter and Glory horizon
 
@@ -291,11 +304,12 @@ ladder remain `HORIZON` until the owner approves their concrete form.
   separately approves that character having reached Glory.
 - Do not turn disputed founder history into a secret villain rewrite.
 - Do not make the protagonist powerful because the disk grants finished skill.
-- Record-keeping is a fact of the world, not a recurring action. Owner ruling,
-  2026-10-27: *"i dont like all the write it down. record it talk inside a book. it
-  annoys me."* No scene is built on someone writing, copying, or filing something, and
-  no character explains why records matter, except the named plot-load-bearing beats
-  in `books/book-2680-opening/BOOK_MAP.md` §9.
+- Institutions keep records; the story does not. Owner rulings, 2026-10-27: *"i dont
+  like all the write it down. record it talk inside a book. it annoys me"* and *"No
+  wiring to ledger talk. Just the story."* No scene is built on, or resolved by, someone
+  writing, copying, filing, shelving, or reading a document, and no character explains
+  why records matter. What the plot needs is carried by people, places, practices, and
+  acts (`BOOK_MAP.md` §9; `universe/SEED-2680.md`).
 - Do not copy source-novel names, terminology, scene order, signature dialogue, or
   character analogs from the research.
 - Every climax capability must be demonstrated and priced earlier.

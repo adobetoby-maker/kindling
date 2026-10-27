@@ -32,12 +32,14 @@ The Pit's new rule requires a lit gate. The Pit remains shut until about the thi
 
 Anwen and Kiva have not repaired the dark-floor breach between them. Anwen begins her
 six-week Graywater summer line on the tenth. Kellan is weighing a Halden team. Perrin
-has a Stonehand second-team autumn place. Noa knows the keeper recorded the Pit as T-0
-and does not know what that means. Kiva privately holds four T-0 entries—2446, 2604,
-2676, and the Pit—and an unread margin from 2446. She has told none of the team and
-intends to ask the Compact Library's reader herself. Orla knows there is a bearer's book
-at the Home Line hall and has asked Vane for it. Vane found an earlier hand in the
-field-direction ledger but cannot read or date it.
+has a Stonehand second-team autumn place. Noa knows the keeper chalked the Pit's rim
+*T-0* and does not know what that means. Kiva privately holds four nights on which every
+lamp answered at once—2446, 2604, 2676, and the Pit—from Mara's telling, and one loose
+end: the Order of the Even Hand sent a sister to the pump-house wicket before light in
+2446 to ask whether the lamps had gone. She has told none of the team and intends to go
+to the Order's house herself. Orla knows the Home Line's watch of seven holds the disk's
+custody and has asked Vane to take Kiva before it. Vane has heard the Ferren, the oldest
+officer on the watch, speak of an earlier two-door catcher and cannot yet place the year.
 
 Read repaired Chapter Twenty-Four and `provenance/MOVEMENT-003-CONTINUITY.md` in full.
 Carry forward every date, injury, certification, ash entry, relationship, recruitment
@@ -48,16 +50,18 @@ mechanical correction before drafting begins.
 
 Let recovery time create story rather than a skipped wait. Public results, the seventh
 reed, the disk's one warmth, the T-0 markings, and the rich dirty spring cause different
-people to go looking for different answers. Kiva pursues the Compact Library's reader
-and the 2446 margin; Noa follows instrument and sensing-mast evidence within his consent
-boundary; Orla and Vane pursue the bearer's book and the older field-direction ledger.
-Founder histories, ash patents, professional logs, and old fever accounts should
-disagree in useful, human ways: copied omissions, proprietary claims, renamed methods,
-or a missing cost column. Do not turn this into eight chapters of adults delivering
-archives. Evidence must change choices, relationships, access, or risk on the page.
-Record-handling is capped by the motif budget (`BOOK_MAP.md` §9): only the named beats
-(Chapters 25-27, 31, 32), each a found object that changes a choice, never a scene of
-people discussing why records matter.
+people to go looking for different answers, and the answers are people. Kiva goes to
+the Order of the Even Hand's house in the hills and asks to stand at the flood-wall
+observance; Noa follows instrument and sensing-mast evidence within his consent boundary;
+Orla and Vane take Kiva before the Home Line's watch of seven, where the Ferren tells
+her what Ilse Corran said in 2669. The School's founder history, the Halden house's
+patents, the Order's doctrine, and the Home Line's custom should disagree in useful,
+human ways: a kinder sentence that replaced a true one, proprietary claims, renamed
+methods, a cost nobody thought was a foreman's business. Do not turn this into eight
+chapters of adults delivering archives. What people learn must change choices,
+relationships, access, or risk on the page. No document moves the plot (`BOOK_MAP.md`
+§9): the Order's observance, the watch's memory, the keepers' chalk, and Vane asking
+the cost aloud at the cart do that work (`editor/MOTIF-BUDGET-REVISION.md` §5).
 
 Pay the dark-floor aftermath between Kiva and Anwen through actions and imperfect
 conversation. Anwen's summer line is her own earned future. Kellan, Perrin, Noa, Jude,
@@ -91,10 +95,11 @@ the disk and fever fragment supply no tactic. The team should leave with a concr
 correction they can attempt again and with a sharper understanding of professional
 rift-company standings: lives, closure, infrastructure, usable ash, and violations.
 
-By the movement's close, Kiva learns from accountable evidence that the disk was
-released or assigned to a bearer; she does not learn its cosmic origin or receive a
-chosen-one guarantee. A pre-Kiva account contains an unmistakable fragment of the
-Unroofed Sky. The fragment confirms shared imagery across time but not cause,
+By the movement's close, Kiva learns from the watch's own witnesses that the disk was
+released to her by a bearer, and why; she does not learn its cosmic origin or receive a
+chosen-one guarantee. A pre-Kiva dream, said aloud on the flood-wall in the dreamer's
+own words, contains an unmistakable fragment of the Unroofed Sky. It confirms shared
+imagery across time but not cause,
 interpretation, timing, or solution. Let the discovery cost trust, access, certainty,
 or safety. It should open Movement Five's fight over ownership, proof, sponsorship,
 and the Regional Measure—not replace that conflict with an answer.
@@ -118,11 +123,11 @@ and the Regional Measure—not replace that conflict with an answer.
   and written supervision. Do not erase the knee or finger state.
 - Anwen leaves on the tenth for six weeks. Do not keep her conveniently on Team Seven
   afterward. Her relationship with Kiva may remain unresolved while she goes.
-- Team Seven's ledger stays exact. The sealed W-trace medical reserve is not training
+- Team Seven's accounts stay exact. The sealed W-trace medical reserve is not training
   fuel. Every new spend, yield, share, return, and investment is reconciled.
-- Kiva has kept the T-0 papers from the team. Noa knows only what the keeper and his own
-  measurements gave him. Orla and Vane have their separate evidence. Nobody silently
-  acquires another person's knowledge.
+- Kiva has kept the four lamp nights from the team. Noa knows only what the keeper and
+  his own measurements gave him. Orla and Vane have what they have heard. Nobody
+  silently acquires another person's knowledge.
 - The 10:24:40 pattern remains unexplained. The Flask string is the last new mechanics-
   heavy spawn expression introduced at that weight; this movement's multi-type call
   should deepen established rules through interaction rather than open a new textbook.
@@ -136,17 +141,17 @@ and the Regional Measure—not replace that conflict with an answer.
 
 ## What the author owns
 
-Own the eight-chapter route, archive locations, contradictory documents, interpersonal
+Own the eight-chapter route, who knows what and where they say it, interpersonal
 beats, exact six-try progress, shadow-company structure, district, terrain, multi-type
 spawn interaction, professional tactics, rescue, kill and recovery, humor, purposeful
 cutaways, and the precise form of the pre-Kiva Unroofed Sky fragment. The author may
 let the map change when the prose earns a stronger route, but must record surviving
 changes in the continuity checkpoint rather than silently altering canon.
 
-Use movement-sized causality. The archive evidence should affect field judgment; the
-placement choices should change who is available; the professional response should
-make the record dispute material; the recovered evidence should create Movement Five's
-institutional pressure.
+Use movement-sized causality. What Kiva hears at the wall and before the watch should
+affect field judgment; the placement choices should change who is available; the
+professional response should make the dispute over the disk and the Order's doctrine
+material; what is learned should create Movement Five's institutional pressure.
 
 ## Output and stop condition
 

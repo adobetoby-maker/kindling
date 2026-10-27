@@ -97,8 +97,8 @@ without erasing the team's mistakes.
 
 A fragment of the Unroofed Sky may recur after the costly sequence or exposure. It can
 add sensory evidence and bodily cost, but it supplies no tactic and no explanation. The
-reader should finish the movement wanting the archival and professional-history inquiry
-promised by Movement Four.
+reader should finish the movement wanting the inquiry promised by Movement Four: the
+Order's telling, the Home Line's watch, and the professionals who have seen this before.
 
 ## What must remain true / withheld
 
@@ -123,7 +123,7 @@ promised by Movement Four.
 - Anwen's Graywater placement, Perrin's Stonehand advancement and ribs, Kellan's chosen
   loyalty and legitimate First Division excellence, Noa's consent-bound measurements,
   and the Crooked Line third team's five remaining meets continue independently.
-- Team Seven's ash ledger stays exact. The W-trace medical reserve is not ordinary
+- Team Seven's ash accounts stay exact. The W-trace medical reserve is not ordinary
   training fuel. Every spend, yield, public share, and investment is reconciled.
 - A clean kill is not the whole response. Professional and collegiate standings value
   rescue, closure, infrastructure, usable ash, and violations as well as kills.
@@ -146,8 +146,8 @@ continuity checkpoint rather than silently overwriting canon.
 
 Use movement-sized causality. Do not write eight disconnected episodes. The team's ash
 investment should change its preparation; the human fight should teach something that
-helps or misleads during the Flask; the Flask aftermath should create the archival and
-professional-history pressure of the next movement.
+helps or misleads during the Flask; the Flask aftermath should create the next
+movement's pressure to go and ask the people who might know.
 
 ## Where we leave pressure
 
@@ -158,5 +158,6 @@ response, contributed within real licensing limits, and recovered a meaningful c
 yield after protecting people or infrastructure. Lowen remains a credible rival with
 his own advancement. Recruitment and licensing paths are beginning to separate the
 friends. The spawn expression and the disk response make Kiva's anomaly searchable,
-while a short Unroofed Sky fragment gives no answer. Movement Four opens on competing
-founder histories, ash patents, professional records, and fever accounts that disagree.
+while a short Unroofed Sky fragment gives no answer. Movement Four opens on the
+School's founder history, the Halden house's patents, the Order's doctrine, and the Home
+Line's custom disagreeing.

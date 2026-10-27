@@ -47,7 +47,8 @@ reactors, household power, flight, and a society beyond pre-Fall expectations. I
 final snapshot is Kiva's anomalous Kindling and first Unroofed Sky fever dream at
 thirteen in 2676; Chapter One opens four years later, at the start of the 2680
 collegiate season. It uses emotionally anchored snapshots
-and a recurring physical thread rather than a summarized history lecture. It makes
+and one recurring physical thread, the leaning post, rather than a summarized history
+lecture. It makes
 the visible EMP and social consequences understandable while preserving the unknown
 source of the detonations and the reserved filter cosmology.
 
@@ -57,10 +58,11 @@ of the six eight-chapter movements, and no prose is authorized yet.
 ## Relationship to Kindled
 
 Book Three's ending becomes history, not required reading homework. Readers of
-Kindled recognize the crooked lane, reasons ledger, Home Line, and Satori. New
-readers receive them as present-day institutions and mysteries. Historical accounts
-may be incomplete or wrong, but they cannot contradict the surviving records merely
-to manufacture a twist.
+Kindled recognize the crooked lane, the seventh question, the Home Line, and Satori.
+New readers receive them as present-day institutions and mysteries. What people in
+2680 believe about the founders may be incomplete or wrong, but it cannot contradict
+the history in `universe/SEED-2680.md` merely to manufacture a twist. The older
+Kindled bibles are archive (`universe/ARCHIVE.md`); the seed governs.
 
 ## What survives from the older 2680 proposal
 

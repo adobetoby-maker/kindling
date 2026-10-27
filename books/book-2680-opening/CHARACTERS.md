@@ -14,7 +14,12 @@ delegated the remaining names.
 | **Ysra Crest** | Senior assessor and institutional authority who names results | Wants public safety and system stability | Accepts a new process without pretending the old system was worthless |
 | **Rhea Sorn** | Professional rift fighter and visible standard of single-path mastery | Wants to know whether the anomaly is a threat, tool, recruit, or successor | Offers one bounded piece of guidance after witnessing earned performance |
 | **Hollis Vane** | Chartered Home Line professional outside collegiate status games | Wants capable people on real rifts and distrusts spectacle without field judgment | Reveals the difference between competition competence and professional survival |
-| **Mara Rowan** | Kiva's aunt and guardian; municipal repair-records worker | Wants Kiva safe without owning her choice | Accepts the risk only after Kiva demonstrates honest limits |
+| **Mara Rowan** | Kiva's aunt and guardian; reads and tunes the city's ash banks for the Municipal Works (Grade Two, the left her reading hand) | Wants Kiva safe without owning her choice | Accepts the risk only after Kiva demonstrates honest limits |
+
+No continuing character has a trait, theme, or turn that hangs on keeping records.
+Archivists, readers, clerks, and keepers exist as jobs (the Compact Library's Reader,
+the Ferren pump house's keeper, a bursar's clerk); nobody narrates why records matter.
+The full cast with wants and flaws is in `universe/SEED-2680.md`.
 
 ## Name and narration checks
 

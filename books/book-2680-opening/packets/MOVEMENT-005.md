@@ -26,14 +26,13 @@ late. After the Weighbridge cord found an already depleted nerve, the whole hand
 gone until supper, about fifteen hours. Permanent fine-sensation loss in those first two
 fingers is reserved for this movement and cannot be cured by rank, ash, or victory.
 
-The disk stayed cold. The Home Line's bearer book says it is held of the Line, released
-to a bearer, and recallable by a watch of seven for written cause. Kiva's one warmth is entered in the
-fourth column, witnessed by Hollis Vane (a named plot-load-bearing record beat in
-`BOOK_MAP.md` §9, shown once; stage the hearing as people deciding, not as anyone
-reading a book aloud). The watch hears that entry Sunday
-the 1st. The Pit tape also opens that day. Selka Dray's objection is heard Monday the 2nd.
-On Tuesday the 3rd the Placement Chair wants all parties, the catcher's book, the tape,
-Noa, Orla, the reader, and the sponsor.
+The disk stayed cold. By the Home Line's custom it is held of the Line, released to a
+bearer, and recallable by a watch of seven for cause said aloud before them. Kiva has
+told Hollis Vane of its one warmth and he will say so to the watch on Sunday the 1st
+(stage the hearing as people deciding, with the Ferren's memory of Thirza Bly's one
+warmth in 2466 as the only precedent; nobody reads a book aloud). The Pit tape also
+opens that day. Selka Dray's objection is heard Monday the 2nd. On Tuesday the 3rd the
+Placement Chair wants all parties, the catcher, the tape, Noa, Orla, and the sponsor.
 
 The Weighbridge produced 113 drams of stepped ash, red-tagged *not for the ground*, in
 the Wren House cold room. Halden claims it through the “however produced” patent; the
@@ -62,7 +61,7 @@ story. Resolve or materially advance the watch, objection, Chair, patent, distri
 Order pressures early enough that they change who may enter, what equipment and ash may
 be used, whose evidence counts, and who stands beside whom at the Regional. Do not spend
 eight chapters in hearings. Every institutional result must alter a relationship, a
-training choice, an eligibility condition, a ledger, or a field decision.
+training choice, an eligibility condition, an ash account, or a field decision.
 
 The emotional engine is friendship under divided obligations. Kellan must stand for a
 Halden team against or apart from Seven without becoming disloyal by fiat. Anwen's line
@@ -110,7 +109,7 @@ The ending must make the three-door configuration publicly real and institutiona
 unignorable while leaving it unmastered. Kiva permanently loses fine sensation in the
 first two left fingers. She must change grip, accept help, and face a cost no ranking,
 patent decision, sponsorship, or recovered ash reverses. The Regional produces a real
-result and a fair ledger, but it opens Movement Six's civic emergency rather than
+result and fair accounts, but it opens Movement Six's civic emergency rather than
 serving as the book's final climax.
 
 ## What must remain true / withheld
@@ -136,14 +135,14 @@ serving as the book's final climax.
   She cannot silently act as Hold, Carry, or professional closure officer.
 - Anwen remains on Graywater service until her time is honestly elapsed. Kellan keeps
   his Halden pledge. Perrin's paper, Pru's reserve limits, and Nairn's broken leg matter.
-- Team and civic ash ledgers remain exact. Sealed medical reserve is not training fuel.
+- Team and civic ash accounts remain exact. Sealed medical reserve is not training fuel.
   Every Regional allocation, spend, loss, share, and return is reconciled.
 - Lowen and Selka are adaptive legitimate rivals. No institution is made evil merely
   because it has a lawful claim or safety objection.
 - Use the supported eleven-or-twelve-second Pit interval. If Kiva's old forty-second
   line is confronted, amend it on the page rather than silently changing chapters 1–24.
 - Preserve differentiated dialogue: younger characters plain and quick; Pike, Nairn,
-  and Rhea operationally brief; formal/period idiom concentrated in elders, archivists,
+  and Rhea operationally brief; formal/period idiom concentrated in elders, wardens,
   and institutional voices. Preserve narration-ready punctuation and listener-oriented
   referents.
 - Preserve accessible one-pass prose, short-paragraph rhythm, varied sentence weight,
@@ -155,7 +154,7 @@ serving as the book's final climax.
 Own the eight-chapter route, exact hearing outcomes, Regional design and scoring, team
 seating, elapsed weeks, the four remaining crossing scenes, three-door order and abort,
 friendship fracture and repair, stronger spawn variety, arena/field geography, tactics,
-injuries, rescue, professional handoff, ash ledger, humor, and the exact moment and
+injuries, rescue, professional handoff, ash accounts, humor, and the exact moment and
 consequence of permanent finger loss. The author may let the route change when prose
 earns a stronger causal path, but must record every surviving change rather than
 silently altering canon.

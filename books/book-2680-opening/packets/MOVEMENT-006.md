@@ -62,12 +62,19 @@ provides no date, identity, cause, or tactic. Kiva has had no new fever or dream
 the Pit. Nobody has proved the filter theory, the cause of the Fall, the disk's origin,
 or the meaning of the Unroofed Sky.
 
+The post's reason is recovered by people and a test, not by a manual or a sheet: Kiva
+felt the drain turn under it with her still door; Mara knows the Ferren main turns
+under the Old Yard; Vane can say the Line's dark-drill words (*call the turn before the
+eighth, aloud, and say who has the bar; two to the bar; nine turns*) without knowing
+what they mean; two to the bar at night and the shaft answers with water. The saying,
+*because the road isn't straight*, lands by use (`editor/MOTIF-BUDGET-REVISION.md` §5).
+
 ## What this movement is for
 
 Finish Book One, not merely its next incident. The eight chapters must form one
 continuous civic-emergency arc with entry pressure, preparation, failed assumptions,
 escalation, a developed multi-role climax, recovery, and a genuine regional ending.
-Resolve the collegiate season, this book's ash ledger, Kiva's place, her relationship to
+Resolve the collegiate season, this book's ash accounts, Kiva's place, her relationship to
 her team and sponsor, the immediate stepped-grid danger, and the emotional meaning of
 the crooked method. Leave national and international problems open for later books,
 but do not make Book One feel interrupted halfway through a scene.
@@ -132,7 +139,7 @@ Close the regional season and book with these earned developments:
 - A professional company makes a **bounded** offer: training, observation, reserve work,
   or a future seat with written limits. It is not an instant elite contract and Kiva may
   accept, decline, or condition it in character.
-- A credible professional, archivist, or Home Line witness recognizes the disk as part
+- A credible professional, reader, or Home Line witness recognizes the disk as part
   of the old appointed-bearer line. Recognition clarifies custody and history only. The
   disk remains cold and supplies no answer or tactic.
 - A second independent historical line or account confirms one limited element of the
@@ -142,8 +149,11 @@ Close the regional season and book with these earned developments:
 - Instrument and field evidence shows that both prepared humans and Riftspawn are
   becoming stronger or more varied as the same trend accelerates. The evidence is enough
   to justify national attention, not enough to prove the complete filter theory.
-- The local ledger, injuries, placements, and ash shares close cleanly. Kiva's fingers
+- The local accounts, injuries, placements, and ash shares close cleanly. Kiva's fingers
   remain as before.
+- The School puts the dark run and the spoken call back into its lane. Kiva is asked
+  whether the seventh question should be put to the juniors, has her speech ready, and
+  does not give it; she asks for help with her cuff instead. Nobody restores a column.
 
 Pay off the title **Why It Is Crooked** through action and choice. The crooked line is
 not superior because it is mysterious or chosen by fate. Its strength is that it keeps
@@ -156,7 +166,7 @@ choice that completes this regional book while opening the road beyond Meridian.
 
 Book Two widens nationally: intercollegiate competition beyond Meridian, company and
 energy-industry pressure, stronger rift work, competing schools of the doors, and the
-first organized comparison of shared fever records. Book Three widens internationally:
+first time the dreamers are put in one room. Book Three widens internationally:
 rival grids and nations, Glory-level users, stronger and stranger spawn, and the need
 for cooperation as the filter destabilizes. Plant concrete invitations, notices,
 measurements, or witnesses that make those expansions inevitable. Do not leave named
@@ -187,8 +197,8 @@ whether the figures cause or answer the loss.
 - A three-door sequence includes two expensive empty gaps. A stack remains a miss and
   vulnerability, not a cheaper secret technique. Kiva cannot repeat the sequence at
   will, teach it as mastery, or use it outside shown authority without consequence.
-- The disk stays cold and non-instructional. It may be recognized, recorded, carried,
-  or contested; it does not speak, teach, map, choose, open a door, or save a scene.
+- The disk stays cold and non-instructional. It may be recognized, carried, or
+  contested; it does not speak, teach, map, choose, open a door, or save a scene.
 - Annick and any new historical fragment supply imagery and human testimony only. Do
   not prove the filter theory, identify the Makers, explain the disk, reveal the cause
   of the Fall, or name the converging Glory users.
@@ -196,7 +206,7 @@ whether the figures cause or answer the loss.
   not have. Adults do not solve the student choices or erase their earned field work.
 - The Municipal Works and the Halden Works remain distinct. Institutions and rivals may
   protect lawful interests without becoming villains.
-- Team and civic ash ledgers stay exact. No free practice fuel, duplicate yield, erased
+- Team and civic ash accounts stay exact. No free practice fuel, duplicate yield, erased
   contamination, or unopened medical reserve used by implication.
 - Keep the accepted Movement Five clock and map: a hundred counts per knot; the Pit
   corner eighteen paces from Kiva; the bound carried four paces east; all of Dray but
@@ -219,7 +229,7 @@ surviving choice and reconcile it to the accepted state.
 
 Use movement-sized causality. Preparation must expose the assumption that fails; the
 failure must determine the climax plan; each earlier relationship and trained skill
-must change an action; the cost and ledger must change the ending. Build the eight
+must change an action; the cost and the accounts must change the ending. Build the eight
 chapters as one open-range run, not eight contracts and not eight summaries.
 
 ## Output and stop condition

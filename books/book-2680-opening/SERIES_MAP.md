@@ -20,10 +20,10 @@ defend—and power—the rebuilt world.
   every injury, correction, and recovered ash share into the next threshold.
 - Different schools solving the same obstacle in incompatible-looking ways.
 - Friendly loyalty, rivalry, humor, and mentors with private stakes.
-- Old places and objects, such as a lane, a post, or a plate, that turn out to have a
-  working reason, found by use and consequence rather than by anyone explaining it.
-  Records appear only as found objects that change a present choice; they are not a
-  recurring scene (motif budget, `BOOK_MAP.md` §9).
+- Old places, objects, sayings, and customs, such as a lane, a post, a plate, a stock
+  answer, or a watch that asks one question, that turn out to have a working reason,
+  found by use and consequence rather than by anyone explaining it. Nobody reads the
+  answer out of a book (motif budget, `BOOK_MAP.md` §9).
 - Rift-response set pieces where teamwork and terrain matter more than raw output.
 - Professional rift fighting where rescue, closure, infrastructure, and clean ash
   recovery matter more than kill count.
@@ -44,7 +44,7 @@ defend—and power—the rebuilt world.
 
 | Book | Primary promise | Irreversible ending change | Status |
 |---|---|---|---|
-| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place, learn to kill Riftspawn and recover ash with a team, survive a regional combat season, and answer a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and a second record confirms part of her dream without explaining it | `COMPLETE` |
+| **1 — title unset** | Kiva's three-door Kindling and Unroofed Sky fever dream have kept her marginal for four years; she must earn a collegiate place, learn to kill Riftspawn and recover ash with a team, survive a regional combat season, and answer a real rift emergency | Her configuration is publicly proven, the disk is recognized, Kiva earns professional attention, and an older telling confirms part of her dream without explaining it | `COMPLETE` |
 | **2 — title unset** | National school finals and professional recruitment widen the combat ladder while stronger, more varied spawn make every team's earned-ash economy urgent; industrial houses, company standings, school devotion, and interpretations of the Unroofed Sky conflict | A mixed-school cohort and professional team answer a national rift/grid event; independent Glory dreamers prove the vision is shared, the link between human and spawn escalation is exposed, and international convergence begins | `HORIZON` |
 | **3 — title unset** | International school and company circuits, Glory masters, industrial dynasties, monastic orders, national grids, and apex spawn collide as the Unroofed Sky approaches | The planetary filter is completely lost; pure Glory presence becomes the world's permanent condition; rivals survive the collision by beginning a shared next-ladder method rather than producing one absolute ruler | `HORIZON` |
 
@@ -96,9 +96,10 @@ Three may cross the threshold while still leaving ultimate cosmology open.
   abort lines, and healer safety.
 - **Callie line:** reading boundaries, uncertainty, and shaping a safe place for
   other people's work.
-- **Dessa/Senna line:** append-only evidence and the reasons column. Institutional
-  background only; it is never a scene's subject (motif budget, `BOOK_MAP.md` §9).
+- **Dessa/Senna line:** the seventh question, *why*, asked aloud after every drill and
+  answered in the crew's hearing.
 - **Home Line:** field arm and public-service tradition, never merely a school team.
 
-Names, charters, and claims have changed over 530 years. The surviving Kindled Book
-Three records govern what actually happened.
+Names, charters, and claims have changed over 530 years. What the founders actually
+did is fixed by the history in `universe/SEED-2680.md`; the older Kindled bibles are
+archive (`universe/ARCHIVE.md`) and are not story sources.

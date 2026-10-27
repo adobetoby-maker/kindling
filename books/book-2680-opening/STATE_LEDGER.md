@@ -4,6 +4,14 @@ Status: **Book One complete and accepted 2026-10-12.** The prologue and chapters
 total 305,131 words. Six movement loops, two full-book reads, the five-seam canon
 reconciliation, targeted recheck, and final mechanical recheck are complete.
 
+Note, 2026-10-27: the story-facing sections below (through "First-season lasting cost")
+are aligned to the motif rewire in `editor/MOTIF-BUDGET-REVISION.md` and to
+`universe/SEED-2680.md`. The movement carried-state blocks that follow describe the
+accepted manuscript as written, before the rewire; where they mention books, ledgers,
+columns, or notebooks, the prose pass replaces those with the seed's mechanisms (the
+seven questions, the saying, the Order's observance, the watch of seven) and this file
+is then updated from the surviving prose.
+
 ## Prologue and opening day
 
 - Year 2680, during the six-hundredth-anniversary season of the Fall.
@@ -12,7 +20,8 @@ reconciliation, targeted recheck, and final mechanical recheck are complete.
 - Chapter One begins four years later. Kiva is seventeen and seeking collegiate
   placement for the 2680 season.
 - Kiva lives with her aunt and legal guardian, **Mara Rowan**, in Meridian. Mara
-  repairs municipal instruments and reconciles their paper records.
+  reads and tunes the city's ash banks for the Municipal Works and repairs their
+  instruments.
 - The Satori disk reached Kiva through a sealed Home Line appointment by its prior
   bearer, not through blood descent. Kiva knows it is old and entrusted; she does
   not know its full public history or origin.
@@ -23,8 +32,8 @@ reconciliation, targeted recheck, and final mechanical recheck are complete.
 
 - General public: knows the Fall, Kindling, ranks, schools, Riftspawn, and ordinary
   filter language as history/science appropriate to the final world-state choice.
-- Students: know institutional versions of Home Line history, not necessarily the
-  surviving founder records.
+- Students: know the School's version of Home Line history, not the Home Line's own
+  customs or the Order's telling.
 - Orla Dane: knows the disk family and at least one suppressed prior anomaly.
 - Kiva: does not know the disk's true origin, the full filter theory, or why
   all three doors opened.
@@ -32,8 +41,9 @@ reconciliation, targeted recheck, and final mechanical recheck are complete.
   converging, the sky/filter absent, pure presence pressing into the world, and every
   ash-lit thing responding. She does not know the later name **Unroofed Sky**, whether
   the dream predicts anything, or that older Glory accounts overlap it.
-- Orla knows there are disputed historical fever accounts but does not begin Book One
-  with proof that Kiva's dream matches them.
+- Orla stood at the Even Hand's flood-wall observance in 2664 and heard Hesper
+  Annick's dream said aloud; she does not begin Book One with proof that Kiva's dream
+  matches it, and she has told no one she was there.
 - Reader: sees evidence before explanation; no prologue solves the mystery.
 
 ## Physical and progression state
@@ -49,7 +59,7 @@ reconciliation, targeted recheck, and final mechanical recheck are complete.
 
 ## Social state
 
-- Kiva has a real home/family obligation in Mara's repair-and-records work.
+- Kiva has a real home/family obligation in Mara's bank-reading and repair work.
 - Anwen Pryce, Perrin Cade, and Kellan Renn have independent placements and
   goals before meeting the protagonist.
 - Institutions have defensible reasons to fear a category they cannot safely test.
@@ -103,11 +113,11 @@ reconciliation, targeted recheck, and final mechanical recheck are complete.
 - Pro rift companies feed the ash grid. This creates prestige and public service,
   but also incentives to overhunt, hide risk, manipulate ash grades, or protect
   wealthy districts first.
-- A sanctioned kill produces a recorded yield. Civic power, casualty reserve, school,
-  and team shares are removed in that order. Student shares fund training cells,
+- A sanctioned kill produces a yield. Civic power, casualty reserve, school, and
+  team shares are removed in that order. Student shares fund training cells,
   metered combat techniques, equipment, travel, and medical reserve; they are not
   unmetered personal treasure.
-- Ash is recorded by **yield** (Handful, Flask, Barrel, Well), **grade** (purity and
+- Ash is measured by **yield** (Handful, Flask, Barrel, Well), **grade** (purity and
   stability), and **resonance** (which patterns can use that spawn expression safely).
   A large dirty yield may be worth less than a small stable one.
 - Killing does not grant rank automatically. Real combat can deepen capacity because
