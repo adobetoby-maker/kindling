@@ -58,7 +58,7 @@ of the six eight-chapter movements, and no prose is authorized yet.
 ## Relationship to Kindled
 
 Book Three's ending becomes history, not required reading homework. Readers of
-Kindled recognize the crooked lane, the seventh question, the Home Line, and Satori.
+Kindled recognize the crooked lane, the Home Line, and Satori.
 New readers receive them as present-day institutions and mysteries. What people in
 2680 believe about the founders may be incomplete or wrong, but it cannot contradict
 the history in `universe/SEED-2680.md` merely to manufacture a twist. The older

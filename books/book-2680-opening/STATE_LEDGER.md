@@ -8,9 +8,9 @@ Note, 2026-10-27: the story-facing sections below (through "First-season lasting
 are aligned to the motif rewire in `editor/MOTIF-BUDGET-REVISION.md` and to
 `universe/SEED-2680.md`. The movement carried-state blocks that follow describe the
 accepted manuscript as written, before the rewire; where they mention books, ledgers,
-columns, or notebooks, the prose pass replaces those with the seed's mechanisms (the
-seven questions, the saying, the Order's observance, the watch of seven) and this file
-is then updated from the surviving prose.
+columns, notebooks, or older accounts, the prose pass replaces those with what the seed
+says happens (`universe/SEED-2680.md` §6; `editor/MOTIF-BUDGET-REVISION.md` §5) and this
+file is then updated from the surviving prose.
 
 ## Prologue and opening day
 
@@ -41,9 +41,9 @@ is then updated from the surviving prose.
   converging, the sky/filter absent, pure presence pressing into the world, and every
   ash-lit thing responding. She does not know the later name **Unroofed Sky**, whether
   the dream predicts anything, or that older Glory accounts overlap it.
-- Orla stood at the Even Hand's flood-wall observance in 2664 and heard Hesper
-  Annick's dream said aloud; she does not begin Book One with proof that Kiva's dream
-  matches it, and she has told no one she was there.
+- Orla went to the Order of the Even Hand in 2664 about a two-door boy and its Warden
+  told her what Annick saw; she does not begin Book One with proof that Kiva's dream
+  matches it, and she has told no one she went.
 - Reader: sees evidence before explanation; no prologue solves the mystery.
 
 ## Physical and progression state

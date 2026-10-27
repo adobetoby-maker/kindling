@@ -92,10 +92,9 @@ who mistakes new capacity for mastery.
 ## The Unroofed Sky (`LOCKED SERIES PROPHECY`)
 
 The series uses a recurring fever dream, not a reliable spoken prophecy. Across
-centuries, a small number of high-rank practitioners have dreamed overlapping
-fragments and told them to someone. Later schools call the pattern **the Unroofed
-Sky**; the Order of the Even Hand calls its own master's version *the Unroofing* and
-says it aloud once a year.
+centuries, a small number of people have dreamed overlapping fragments. Later schools
+call the pattern **the Unroofed Sky**; the Order of the Even Hand holds its own master's
+version as doctrine and calls it *the Unroofing*.
 
 - The dream shows Glory-level people arriving from different directions and
   traditions until their fields touch. Whether they gather to prevent the break,
@@ -153,11 +152,11 @@ The collegiate system feeds **chartered rift companies**: professional salaried 
 licensed to answer live rifts, fight Riftspawn, rescue civilians, protect
 infrastructure, and recover clean ash. Public standings count closure, lives saved,
 damage prevented, usable ash, and violations. Home Line remains the professional
-tradition most suspicious of spectacle and most insistent that the cost and the reason
-be said aloud, at the cart, before anyone goes home.
+arm most suspicious of spectacle and most insistent that the cost be said aloud, at the
+cart, before anyone goes home.
 
-Callie's boundary practice and the founders' habit of asking *why* after every drill
-are embedded across these institutions rather than requiring a fourth founder cult.
+Callie's boundary practice and the habit of asking *why* after a drill are embedded
+across these institutions rather than requiring a fourth founder cult.
 
 ## Technology and travel
 
@@ -271,24 +270,21 @@ the generations who test, fail, and build after him.
   one. Its working function is a Movement 6 reveal (the handle of a sluice gate on the
   hill drain; see `STATE_LEDGER.md`). It is the only object the 2680 prologue threads
   across eras: a working lane in 2152, a joke in 2603, the last image of 2676.
-- **The seven questions (`LOCKED 2680`):** the Home Line's spoken debrief after every
-  drill, in order: *What was it. What went wrong. Who was hurt. What it cost. How long
-  to come back. Second go. Why.* The School's lane asks six and dropped the seventh in
-  2603. Nobody writes the answers; the crew hears them.
-- **The saying (`LOCKED 2680`):** *Because the road isn't straight.* The Home Line's
-  stock answer to any "why," said flat; a joke that outlived its meaning. Spoken only.
-- **The Order's observance (`LOCKED 2680`):** on the night of the 2446 flood each year,
-  the sisters of the Even Hand stand on the Eastbank flood-wall and say Hesper Annick's
-  fever dream aloud in her words. The Order calls it *the Unroofing* and treats it as
-  doctrine; the Halden house claims Annick's Ward patterns and sends an observer. A
-  guest may stand at the wall on spoken terms.
-- **The watch of seven (`LOCKED 2680`):** the Home Line's bearer custom. A bearer names
-  the next before the watch and says why, aloud; the watch witnesses and does not
-  choose. At each release the watch asks *What did it do?* and remembers the answer.
-  Every bearer for five hundred years has answered *nothing*, except one (Bly, 2466:
-  warm once, after her first crossing).
-- **The Line's roll:** a list of names and years. A prop. One name is added at the end
-  of Book One.
+- **Orla's debrief (`PROPOSED`):** after a drill Orla asks her student, aloud at the
+  lane: *What went wrong. Who was hurt. What it cost. Second go. Why.* The Home Line asks
+  the same at the cart. Coaching, not ceremony. Nobody writes the answers.
+- **The saying (`PROPOSED`):** *Because the road isn't straight.* A flat spoken answer to
+  "why does it lean." Spoken three times in Book One, never printed, no lore around it.
+- **The Order's belief (`PROPOSED`):** the Even Hand believes the sky will come off and
+  trains one door for a lifetime to be standing when it does. Its Warden says what Annick
+  saw, in Annick's images, to people the Order wants. The Halden house claims Annick's
+  Ward patterns.
+- **The watch of seven (`PROPOSED`):** the Home Line's custom for the plate. A bearer
+  names the next before the watch and says why, aloud; the watch witnesses and does not
+  choose, and can recall the plate on a vote for cause said before it. It sits twice in
+  Book One. The Ferren, its oldest officer, sat the watch in 2669.
+- **Lumb (`PROPOSED`):** the Ferren pump house keeper had the dream himself, forty years
+  ago, and says so once.
 
 ## Filter and Glory horizon
 
@@ -307,9 +303,10 @@ ladder remain `HORIZON` until the owner approves their concrete form.
 - Institutions keep records; the story does not. Owner rulings, 2026-10-27: *"i dont
   like all the write it down. record it talk inside a book. it annoys me"* and *"No
   wiring to ledger talk. Just the story."* No scene is built on, or resolved by, someone
-  writing, copying, filing, shelving, or reading a document, and no character explains
-  why records matter. What the plot needs is carried by people, places, practices, and
-  acts (`BOOK_MAP.md` §9; `universe/SEED-2680.md`).
+  writing, copying, filing, shelving, or reading a document; no character explains why
+  records matter; and no scene's point is that something was kept, passed on, or handed
+  down. What the plot needs happens as story (`BOOK_MAP.md` §8; `universe/SEED-2680.md`
+  §6).
 - Do not copy source-novel names, terminology, scene order, signature dialogue, or
   character analogs from the research.
 - Every climax capability must be demonstrated and priced earlier.

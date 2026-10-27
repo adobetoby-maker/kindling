@@ -97,8 +97,8 @@ without erasing the team's mistakes.
 
 A fragment of the Unroofed Sky may recur after the costly sequence or exposure. It can
 add sensory evidence and bodily cost, but it supplies no tactic and no explanation. The
-reader should finish the movement wanting the inquiry promised by Movement Four: the
-Order's telling, the Home Line's watch, and the professionals who have seen this before.
+reader should finish the movement wanting what Movement Four brings: the Order, the Home
+Line's watch, and the professionals who have seen this before.
 
 ## What must remain true / withheld
 

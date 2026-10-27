@@ -62,12 +62,16 @@ provides no date, identity, cause, or tactic. Kiva has had no new fever or dream
 the Pit. Nobody has proved the filter theory, the cause of the Fall, the disk's origin,
 or the meaning of the Unroofed Sky.
 
-The post's reason is recovered by people and a test, not by a manual or a sheet: Kiva
-felt the drain turn under it with her still door; Mara knows the Ferren main turns
-under the Old Yard; Vane can say the Line's dark-drill words (*call the turn before the
-eighth, aloud, and say who has the bar; two to the bar; nine turns*) without knowing
-what they mean; two to the bar at night and the shaft answers with water. The saying,
-*because the road isn't straight*, lands by use (`editor/MOTIF-BUDGET-REVISION.md` §5).
+The post is found out by a drill, a float, and two hands on a bar, not by a manual or a
+sheet. Kiva has stood on the cross in the still door all summer and felt nothing but
+ground; she thinks the post leans *toward* something. Mara, walking the Ferren main uphill
+with a float and a count for the Works, has the count go wrong at the School's gate. Vane
+runs Seven dark through the Old Yard lane as a Home Line drill whose call is *call the
+turn before the eighth; say who has the bar*; Perrin takes the bar because the call says
+so and asks why the post leans, and Vane says *because the road isn't straight*. Kiva,
+planted at the ninth, feels water move under it. Two to the bar, the screw turns, nine
+turns, the shaft answers, Mara's count drops. *It's a gate.* (`editor/MOTIF-BUDGET-REVISION.md`
+§5, beat 13.)
 
 ## What this movement is for
 
@@ -151,13 +155,14 @@ Close the regional season and book with these earned developments:
   to justify national attention, not enough to prove the complete filter theory.
 - The local accounts, injuries, placements, and ash shares close cleanly. Kiva's fingers
   remain as before.
-- The School puts the dark run and the spoken call back into its lane. Kiva is asked
-  whether the seventh question should be put to the juniors, has her speech ready, and
-  does not give it; she asks for help with her cuff instead. Nobody restores a column.
+- The School runs its lane dark with the call again; Orla has fourteen juniors in the
+  Old Yard. Kiva is asked whether to put the *why* to them, has her speech ready, and
+  does not give it: *Run it dark. Make them say who has the bar.* Then she asks for help
+  with her cuff.
 
 Pay off the title **Why It Is Crooked** through action and choice. The crooked line is
-not superior because it is mysterious or chosen by fate. Its strength is that it keeps
-the reasons, names the cost, leaves room for another hand, and changes direction without
+not superior because it is mysterious or chosen by fate. Its strength is that it
+names the cost, leaves room for another hand on the bar, and changes direction without
 pretending the first direction never existed. The final chapter should let Kiva act on
 that understanding rather than explain it in an essay. End on a strong image or human
 choice that completes this regional book while opening the road beyond Meridian.

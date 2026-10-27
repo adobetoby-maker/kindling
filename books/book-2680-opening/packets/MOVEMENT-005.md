@@ -29,8 +29,8 @@ fingers is reserved for this movement and cannot be cured by rank, ash, or victo
 The disk stayed cold. By the Home Line's custom it is held of the Line, released to a
 bearer, and recallable by a watch of seven for cause said aloud before them. Kiva has
 told Hollis Vane of its one warmth and he will say so to the watch on Sunday the 1st
-(stage the hearing as people deciding, with the Ferren's memory of Thirza Bly's one
-warmth in 2466 as the only precedent; nobody reads a book aloud). The Pit tape also
+(stage the recall vote as people deciding; this is the watch's second and last sitting in
+Book One; nobody reads a book aloud and nobody cites an earlier bearer). The Pit tape also
 opens that day. Selka Dray's objection is heard Monday the 2nd. On Tuesday the 3rd the
 Placement Chair wants all parties, the catcher, the tape, Noa, Orla, and the sponsor.
 

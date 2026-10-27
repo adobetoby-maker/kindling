@@ -22,8 +22,8 @@ Anwen's Graywater field placement decision lands on the twentieth. Perrin has a
 Second Division Stonehand bursary and honest envy. Kellan is First Division and has
 begun comparing Kiva's data rather than dismissing it. Mara has triggered a Works
 review of her tuning license. Rhea privately recognizes Corran's disk; Kiva does not
-know that. The Sag Line baseline, the keepers' T-0 chalk, the Order's telling of
-Annick's dream, and the Unroofed Sky remain unexplained.
+know that. The Sag Line baseline, the keepers' T-0 chalk, the Order's belief, and the
+Unroofed Sky remain unexplained.
 
 Read the full preceding movement and its continuity checkpoint. Carry injuries,
 dates, knowledge boundaries, meters, door limits, household conditions, and every

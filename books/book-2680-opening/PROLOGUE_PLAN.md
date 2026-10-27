@@ -6,8 +6,8 @@ purpose, and boundaries for the required historical prologue.
 Revised 2026-10-27 (planning only; prose rewrite is a separate ticket): the
 record-keeping thread is removed and replaced by one physical object, the leaning
 post (§4); every snapshot row names a concrete Turn (§5); no snapshot is built on or
-resolved by a document (§8). Snapshot 10 is a practice being retired and a dream being
-said aloud, not a column and a notebook. Rationale and prose-pass targets:
+resolved by a document (§8). Snapshot 10 is a committee dropping a drill and a Warden
+stating a belief, not a column and a notebook. Rationale and prose-pass targets:
 `editor/MOTIF-BUDGET-REVISION.md`; master seed: `universe/SEED-2680.md`.
 
 ## 1. Purpose
@@ -61,9 +61,8 @@ the human thread without needing to.
   practice, and the Home Line's field tradition — including, explicitly, the
   moment or stretch where a later generation simplifies or loses a founder's
   reason while keeping the founder's method. Show it once, in Snapshot 10,
-  as a committee choice about a practice: the dark run and the spoken call are
-  retired from the standard lane because the posts are straight now and the
-  saying that goes with them makes students laugh. This directly serves the
+  as a committee choice about a drill: the School runs its lane lit and drops
+  the call, after an injury and with Halden's money in the room. This directly serves the
   series promise already stated in `SERIES_MAP.md`: *"institutions preserved
   the founders' methods but simplified away the reason those methods
   worked."*
@@ -75,10 +74,10 @@ the human thread without needing to.
 - Show that Sustain-trained workers can shed active radiation burden under strict
   limits; they are not immune, fixed tissue damage remains, and Ward still does not
   move radiation.
-- Let the Unroofed Sky appear first as an older Glory master's fever dream said
-  aloud, in her own words, by the sisters of her order on the Eastbank flood-wall
-  (overheard through a gate once, in Snapshot 10), then fully in Kiva's fever dream.
-  The overlap must be visible to the reader but not fully explained to Kiva.
+- Let the Unroofed Sky appear first as the Order of the Even Hand's belief, stated
+  by its Warden in a few of Annick's images (once, on a stair, in Snapshot 10), then
+  fully in Kiva's fever dream. The overlap must be visible to the reader but not fully
+  explained to Kiva.
 - Let characters across every era hold and voice theories about the Fall's
   cause and the filter — a nation-state exchange, a deliberate reset, later
   (post-Homura only, see §5) the failing-filter hypothesis — without the
@@ -138,7 +137,7 @@ before the Home Line does, and the prologue does not pretend otherwise.
 | 1-3 | Absent. The thread has not begun. |
 | 4 (~2152) | A working lane. Students run it in the dark, call the turn aloud before the eighth post, and name who has the bar. Nobody explains the mechanism. Its reason is **spoken once**, by a trainer, as a flat answer to a student's question: *"Because the road isn't straight."* |
 | 5-9 | Absent. No glimpses, no callbacks. |
-| 10 (~2603) | The School straightened the other posts in 2390 (off-page). This one survives as a ceremonial oddity that students laugh at. A revision committee retires the dark run and the spoken call from the standard lane, and the saying that goes with the post is its example of dead weight. This is where the reason is lost: the School keeps the lane and drops the call. The Home Line keeps running it its own way, which nobody asks about. |
+| 10 (~2603) | The School straightened the other posts in 2390 (off-page). This one is an oddity students laugh at. After an injury, a committee votes to run the School's lane lit and drop the call. The School keeps the lane and drops the call; the Order says it will go on running its own lane dark. |
 | 11 (2676) | Kiva, thirteen, asks Mara why it is crooked. Mara does not know. The prologue ends on the post. |
 
 **Hard limits:**
@@ -177,7 +176,7 @@ that does the same job.
 | 7 | ~2195, the first stable ash-nuclear plant | The engineer shaped by Tamar's question, an operator, and a public observer during commissioning | Magic patterns stabilize containment and conversion while nuclear fuel supplies baseline heat. The first large output holds, then reveals a dangerous failure mode. **Turn:** the operator pulls the scram, and the pattern holds the core in shutdown. The lesson becomes the rule every later shutdown code opens with, stated once as the plant's legacy | Both nuclear and ash fuel remain finite; no perpetual motion, erased waste, or effortless miniaturization. No reporter or apprentice transcribes the day |
 | 8 | ~2245, one century after Meridian | A household technician installing an early licensed compact core (draft: Femi) | Household/building reactors, ash cells, pumps, heat, refrigeration, medicine, and fabrication make ordinary life exceed pre-Fall recovery goals. Fossil and large solar systems become secondary/backup rather than the main grid. **Turn:** he refuses twelve ash cells stamped First that test Third or under, and fits one test cell from the Works' own stock at his own cost, to keep a tenant's medical cold-cupboard running. It costs him a fight with the building's owner | Show price, licensing, maintenance, and unequal access alongside wonder; one century of advancement is earned through previous scenes. No installer's private note |
 | 9 | ~2360, the lift century | A professional rift fighter on an early ash-electric flight/rescue (draft: Tova, with her partner Hob) | Lift craft, personal flight rigs, powered tools, professional rift teams, and ash recovery reshape travel and combat. **Turn:** a professional chooses rescue over a richer ash haul, against her partner's honest argument that clean ash is people too. The rule (lives first, then clean ash) is spoken, not read from a book | Flight is fuel- and skill-limited; professional standing counts closure, lives, infrastructure, clean ash, and violations |
-| 10 | ~2603, Glory industry and school devotion | A Home Line probationer on the errand staff of the School's lane-drill revision committee, without a vote, caught between a Glory industrial house's man and a monastic order's Warden (draft: Marisol Quenby) | Glory-impressed industrial patterns, vast companies, disciplined orders, and modern colleges exist. **Turn:** pressed for efficiency, the committee votes 11-6 to retire the dark run and the spoken call (*call the turn before the eighth, aloud, and say who has the bar*) from the School's standard lane. The posts were set straight in 2390; the call is "ceremonial"; the saying that goes with the leaning post makes students laugh, and the Halden man quotes a student's laugh as his example of dead weight. The Warden objects once, briefly, on practice grounds (those drills were paid for in injuries). That night the probationer does the one thing she can: she runs the lane dark with a Home Line crew, calls the turn, two to the bar, and the Line's trainer answers her *why* with the saying, flat. Walking home she passes the Eastbank flood-wall on the one night a year the sisters of the Even Hand stand on it and say their master Hesper Annick's fever dream aloud, in Annick's own words, through an iron gate: the people from every road, the lights that touch, the sky that is not there, every lamp in Meridian answering. A Halden clerk stands at the far end of the wall because the house claims Annick's Ward patterns | Industry and devotion are not simple evil/good opposites; the dream is evidence of repetition, not proof of cause or outcome. Nothing in this snapshot is written, filed, shelved, or read. The dream is heard, not found. No one gives a speech about why reasons matter; the Warden's one line is about injuries |
+| 10 | ~2603, Glory industry and school devotion | A junior instructor who runs the Crooked Line's lane for first-years, at the School's lane-drill committee without a vote, between a Glory industrial house's man and a monastic order's Warden (draft: Marisol Quenby) | Glory-impressed industrial patterns, vast companies, disciplined orders, and modern colleges exist. A first-year broke a collarbone on the ninth post in the dark last week. **Turn:** the junior says in the room that the boy ran it straight and silent because she had not made him call, and owns it; the committee, with Halden's money and Halden's lamps in the room, votes 11-6 to run the lane lit and drop the call anyway. A student, asked why the post leans, quotes the saying and laughs. The Warden says the Order will go on running its lane dark; the chair says that is the Order's business. On the stair afterward the Warden offers the junior a place at the Order's house and tells her why the Order trains one door for a lifetime: their master saw the sky come off. A few of Annick's images, said as belief: the people from every road, the lights that touch, the sky that is not there, every lamp answering | Industry and devotion are not simple evil/good opposites; the dream is evidence of repetition, not proof of cause or outcome. Nothing in this snapshot is written, filed, shelved, read, or kept. Nobody runs the lane that night to keep anything alive. The Warden is recruiting, not preserving |
 | 11 | 2676, four years before the anniversary | Thirteen-year-old Kiva and Mara Rowan | Ordinary preparation in a future city beyond pre-Fall dreams; Kiva's Kindling opens all three doors; instruments disagree; the heat-line mark appears; the disk amplifies the full Unroofed Sky dream. The assessor says to Mara's face that she has no name for what that was. **Turn:** Kiva asks why the post is crooked and Mara cannot say. End on the crooked post outside the yard | Do not solve the anomaly or let the disk grant technique. Nobody proposes writing anything. Chapter One opens four years later in the 2680 collegiate season |
 
 ## 6. Transition logic into Chapter 1
@@ -209,18 +208,18 @@ that does the same job.
 6. Retitle at the prose pass. The prologue title *Somebody Should Write It Down* is the
    banned phrasing; working replacement *The Leaning Post*. Snapshot titles that name
    the motif change too: 2 *The Machine Book* becomes *The Annex*, 4 *The Copy* becomes
-   *The South Lane*, 10 *The Superseded Stacks* becomes *The Flood-Wall*.
+   *The South Lane*, 10 *The Superseded Stacks* becomes *The Stair*.
 
 ## 8. MOTIF BUDGET (prologue)
 
 A "beat" is one scene-level moment, not one sentence. Over budget means cut at the
-prose pass. The book-wide table is in `BOOK_MAP.md` §9.
+prose pass. The book-wide table is in `BOOK_MAP.md` §8.
 
 | Recurring motif | Prologue budget |
 |---|---|
 | The leaning post | Snapshots 4, 10, 11 only; one beat each; no glimpses elsewhere |
-| The saying (*because the road isn't straight*) | Spoken twice: the trainer (4), a student's joke and the trainer again (10). Never printed |
-| The Order's observance (Annick's dream said aloud) | Once, overheard through a gate (10) |
+| The saying (*because the road isn't straight*) | Spoken twice: the trainer (4), a student's joke (10). Never printed, no lore around it |
+| The Order's belief (the Unroofing) | Stated once, by the Warden on the stair (10) |
 | Writing, logging, copying, filing, shelving, or reading a document as an action or as evidence | Zero |
 | Characters explaining or arguing why records or reasons matter | Zero |
 | Figures (fuel burned, rotation times, ash spent) | Said aloud or chalked where the crew sees them; on the page only when a decision turns on them |

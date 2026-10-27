@@ -1,11 +1,12 @@
 # Motif budget revision: taking the "write it down" thread out of the story
 
-Date: 2026-10-27, two passes. Pass 1 (commit 4269467) demoted the thread and kept
-fourteen "plot-load-bearing record beats." Pass 2 (this file, editor-repair seat) reviewed
-those fourteen against the owner's second ruling and rewired all but one to story
-mechanisms. Scope: planning and canon documents only. No manuscript prose was touched;
-the prose pass is a separate ticket and works from §5 of this file and from
-`universe/SEED-2680.md`.
+Date: 2026-10-27, three passes. Pass 1 (commit 4269467) demoted the thread and kept
+fourteen "plot-load-bearing record beats." Pass 2 (commit 83c1af2) rewired them to story
+devices. Pass 3 (this file; fix round 1 after a blind verifier) removed the layer pass 2
+had left: nothing in the story is now about keeping, passing on, or preserving anything,
+in writing or by mouth. Scope: planning and canon documents only. No manuscript prose was
+touched; the prose pass is a separate ticket and works from §5 and §6 of this file and
+from `universe/SEED-2680.md`.
 
 ## 1. Owner rulings
 
@@ -17,12 +18,6 @@ the prose pass is a separate ticket and works from §5 of this file and from
 
 > "Base everything on 2680 — make the cleaned Kindling 2680 bible the master seed for the
 > whole universe, and retire the older bibles as archive."
-
-The second ruling is the one pass 1 did not meet. Fourteen surviving beats in which a
-notebook, ledger, column, catalog card, margin, or printed page is the thing that moves the
-plot is still "wiring to ledger talk." Pass 2 asks of each beat: what does the story need
-here, and can a person, a place, an object, a demonstration, a witnessed act, a
-consequence, or a spoken result carry it instead? In every case but one it can.
 
 ## 2. Why: the counts
 
@@ -36,133 +31,137 @@ Counts are over `manuscript/` (prologue plus Chapters 1-48), taken 2026-10-27.
 | motif sentences | 292 | 600 lines under the broad pattern in §6 |
 | prologue | 40 | 65 lines under the broad pattern |
 
-The motif has three layers in the manuscript:
-1. The prologue's thread (a class of hand-kept record in nearly every era). Removed in
-   `PROLOGUE_PLAN.md` §4; the leaning post replaces it.
-2. Kiva's seven-column field book, introduced in Ch. 3, whose closing `Why:` entry ends
-   many chapters (22 chapters contain a `Why:` line). Pass 2 removes the book entirely; the
-   seven columns become the Home Line's seven spoken questions (§4).
-3. Characters writing, copying, or being told to write something down. Cut to action.
+The motif has three layers in the manuscript: the prologue's thread (a hand-kept record in
+nearly every era); Kiva's seven-column field book and its closing `Why:` entries (22
+chapters); and characters writing, copying, or being told to write. All three go.
 
-## 3. What changed, by pass
+## 3. What was removed in pass 3 (fix round 1, finding 1)
 
-| File | Pass 1 (4269467) | Pass 2 (this commit) |
-|---|---|---|
-| `PROLOGUE_PLAN.md` | §4 thread became the leaning post; §5 rows given Turns; §8 budget | Snapshot 10 rebuilt around a practice being retired, not a column; the Annick fragment moves from a notebook to the Order's spoken observance; Snapshot 11 loses *no column*; §8 budget set to zero record beats; §7.6 retitles |
-| `BOOK_MAP.md` | Movement 4 retitled; §9 budget with fourteen named beats | §4 rows cleaned; §6 plant/payoff rewired (seven questions, the saying, the observance, the watch); §9 rewritten: zero record beats, the story mechanisms listed instead; banned list trimmed |
-| `SERIES_MAP.md` | pleasure bullet and Dessa/Senna line marked background | Dessa/Senna line is now "the seventh question, asked aloud"; founders governed by `universe/SEED-2680.md`, not the old trilogy |
-| `UNIVERSE_BIBLE.md` | post promoted; ledger marked background; guardrail added | Historical artifacts rewritten (post, seven questions, the saying, the observance, the watch); scattered "ledger/record" wiring cleaned; guardrail restated without exceptions |
-| `STATE_LEDGER.md` | untouched | Story-facing sections cleaned (Mara's job, knowledge boundaries); banner noting that the carried-state blocks describe the accepted manuscript before the rewire |
-| `CHARACTERS.md`, `IDEA.md` | untouched | Mara's role; reader-recognition line; "surviving records" line |
-| `packets/MOVEMENT-001..006.md` | 001/002/004/005/006 aligned | all six aligned to the new mechanisms |
-| `universe/SEED-2680.md` | — | new: master seed for the whole universe |
-| `universe/ARCHIVE.md` | — | new: retires the older bibles |
-| `universe/UNIVERSE_BIBLE.md`, `universe/SERIES_MAP.md` | — | three-line banner only |
+Everything pass 2 had substituted for a document that was still about remembering,
+passing on, or preserving:
 
-Left alone on purpose: `provenance/`, `editions/`, `editor/*.prompt.md`, `planning/`, and
-`AUTHORSHIP.md`, which are records of what was written and say what was true then. The
-Movement 6 title *Why It Is Crooked* stays; it is the post's question, not record-keeping.
+- The Home Line's "seven questions" as an inherited method, the claim that the School
+  "stopped asking the seventh in 2603," and the plant that "the seventh question is what
+  the emergency needs." Orla's debrief survives as live coaching only (§4.2).
+- The Order's annual flood-wall observance, "the Unroofing" said aloud in Annick's words
+  each year, the 2446 lamp night, the sister at the pump-house wicket, and the Halden clerk
+  at the end of the wall. The Order's belief survives as something its Warden says to
+  people it wants (§4.4).
+- The watch "remembering the answer," "five hundred years of *nothing*," Thirza Bly's
+  warmth in 2466, the Ferren's chain of who-told-whom, Kiva's weekly "Cold" in the hall,
+  and the Line's roll with Tansy Wold's 2471 line. The watch survives as a custom that sits
+  twice (§4.5). The Ferren survives as a witness of one day she was present at.
+- The 2604 keeper's book and the keeper-to-keeper story. Replaced by Lumb, alive, who had
+  the dream himself (§4.6).
+- Mara's "three lamp nights in two hundred and thirty years." Kiva knows two: her own
+  Kindling and the Pit.
+- The 2603 probationer who ran the lane dark that night "to keep it going," and the
+  Warden's line "those drills were paid for in injuries."
+- "Everything the older bibles did with ledgers, these do instead" as the framing of the
+  story devices. §6 of the seed now describes what happens.
+- Packet 006's "its strength is that it keeps the reasons" and "nobody restores a column."
+- The saying's lore (initials, "a joke that outlived its meaning," who said it to whom).
+  It is now a flat spoken line three times in the book.
+- The claim that Vane says the saying in Ch. 17. He does not; the manuscript's only spoken
+  use is Noa reading it in Ch. 43. In the plan it is Vane, once, in Ch. 43.
 
-## 4. The mechanisms that replace the records
+## 4. What carries the plot now
 
-Five story devices do all the work the fourteen record beats did. Each is a person, a
-place, a practice, or an act. None needs anyone to write, copy, file, or explain.
+Six things, none of them a document and none of them about keeping anything. Full text in
+`universe/SEED-2680.md` §6; all PROPOSED until the owner approves.
 
-| Mechanism | What it is | What it carries |
-|---|---|---|
-| **The leaning post** | The ninth post of the Home Line lane under Meridian's south wall. A bar through its top. Everyone trains past it; nobody knows what it is for. Movement 6: it is the handle of a sluice gate on the hill drain. | The whole "preserved method, lost reason" promise, as one physical thing |
-| **The seven questions** | The Home Line's spoken debrief after every drill, asked aloud at the cart or the lane in this order: *What was it. What went wrong. Who was hurt. What it cost. How long to come back. Second go. Why.* The School's lane asks the first six and stopped asking the seventh in 2603. | Kiva's whole learning method; Orla's teaching; the institutional drift; the climax's repair |
-| **The saying** | *Because the road isn't straight.* A Home Line stock answer to any "why" question, said flat, a joke that outlived its meaning. Said by a trainer in 2152, laughed at in 2603, said by Hollis Vane in 2680 without knowing why. | The founders' reason, carried by mouth |
-| **The Order's observance** | Once a year, on the night of the 2446 flood, the sisters of the Even Hand stand on the Eastbank flood-wall and say Hesper Annick's fever dream aloud, in her own words. The Order calls it *the Unroofing* and has made it doctrine; the Halden house claims her Ward patterns and sends an observer. | The pre-Kiva Unroofed Sky fragment, heard, never read |
-| **The watch of seven** | The Home Line's bearer custom. A bearer names the next bearer before the watch and says why, aloud; the watch witnesses and does not choose. At each release the watch asks the bearer one question, *What did it do?*, and remembers the answer. The Ferren, seventy, has heard it asked of three bearers and had the earlier answers from the officer who trained her. | The disk's custody, Ilse Corran's reason, "nothing" five hundred years running, Thirza Bly's one warmth |
+1. **The post is a gate**, found by a drill, a float, and two hands on a bar.
+2. **Orla's debrief**: five questions asked aloud after a drill, as coaching. Mara's third
+   word is *Hand*.
+3. **The saying**: *because the road isn't straight*, spoken flat three times in the book.
+4. **The Order's belief**: the Warden says what Annick saw, to people the Order wants.
+5. **The watch of seven**: sits twice; the Ferren was present in 2669 and says what
+   happened that day.
+6. **Lumb**: the pump-house keeper had the dream himself, forty years ago, and says so once.
 
-Two props remain as props, one clause each, never a scene's subject: the Line's roll (a
-list of names and years; one name added at the end), and the keepers' chalk (a *T-0* mark
-chalked on a pump-house wall for a fault with no cause found, a trade habit).
-
-Mara's three words on the back of the form (Ch. 3) change from *Meter. Shutdown path.
-Book.* to *Meter. Shutdown path. Hand.* The third word is a person: whose hand is on it,
-who answers for it. It is already what the climax is about (*say who has the bar*, *two to
-the bar*, *Hand as before*).
+Props, one clause each, never a scene's subject: the team's ash accounts; the keepers'
+chalk (*T-0*).
 
 ## 5. The fourteen beats: decisions
 
-Column key: **R** = rewired to a story mechanism (no record needed). **K** = kept, reduced
-to one physical moment with zero discussion of record-keeping.
+**R** = rewired to a story device. **K** = kept as one physical moment. **D** = dropped.
 
-| # | Where | Pass-1 beat | Decision | New mechanism | Chapters affected at the prose pass |
+| # | Where | Pass-1 beat | Decision | What happens instead | Chapters affected |
 |---|---|---|---|---|---|
-| 1 | Prologue 10 | Pencil line beside the printed reason in the superseded manual | **R** | The committee retires a *practice*: the dark run and the spoken call (*call the turn before the eighth; say who has the bar*) from the standard lane, because the posts were straightened in 2390 and "students laugh at it." The Warden objects once (those drills were paid for in injuries). The junior, a Home Line probationer on the committee's errand staff, runs the lane dark that night with a Line crew, calls the turn, two to the bar. The saying is said twice: by a student as a joke, by the Line's trainer flat. | Prologue 10; Ch. 43 (no manual, no pencil line) |
-| 2 | Prologue 10 | Annick's notebook retained under a disputed catalog card | **R** | Walking home, the junior passes the Eastbank flood-wall on the one night a year the Even Hand stands on it and says Annick's dream aloud. The reader hears the images in Annick's words through an iron gate. The Halden house's man stands at the other end of the wall, because the house claims her patterns. | Prologue 10; Ch. 3, 25, 26, 31 |
-| 3 | Prologue 11 | The assessor: *there isn't a column for this* | **R** | The assessor says it to Mara's face: *I've no name for what that was.* Spoken ruling. | Prologue 11; Ch. 40 |
-| 4 | Ch. 3 | Field book issued, seven columns; Orla remembers the Annick catalog card | **R** | Orla teaches the seven questions aloud at the lane after Kiva's first drill and tells her the School asks six. Mara's third word is *Hand*. Orla's private memory is of standing at the flood-wall in 2664 and hearing the Unroofing. | Ch. 3; every chapter that closes on a `Why:` entry (22) now closes on action or thought |
-| 5 | Ch. 8 | Mara's 2446 lamp entry; Kiva copies three lines, *Why: unknown* | **R** | Mara, who reads the city's banks for the Municipal Works, tells Kiva at the kitchen table: three nights in two hundred and thirty years every lamp in Meridian answered at once with no fault found; the flood night of 2446 (the whole of Eastbank tells it), the levee night of 2604 (the Ferren pump house's own story, keeper to keeper), and the afternoon of Kiva's Kindling. Nobody writes anything. | Ch. 8, 14, 21 |
-| 6 | Ch. 24 | The 2446 copy with its margin arrives; Dunmore's *T-0* line | **R** | Dunmore chalks *T-0* on the Pit's rim because that is what a keeper chalks for a fault with no cause; Mara has seen that chalk on two other walls in her working life. The 2446 "margin" (a sister of the Even Hand came to the pump-house wicket before light to ask whether the lamps had gone) is part of what the Order says on the wall. | Ch. 24, 25 |
-| 7 | Ch. 25-26 | The Compact Library Reader; *Annick, Personal*; the request book; Orla's 2664 reading | **R** | Kiva goes to the Order's house in the hills and asks to stand at the wall. The Order's terms are spoken: a guest may stand; the house will send word to the Halden endowment, which may send one person to stand too; a guest under eighteen brings her guardian. The sister who keeps the gate remembers "a teacher from the Crooked Line who stood at the wall in '64 and asked us afterward whether we had ever trained a boy with two doors." That is how Kiva learns Orla withheld it. The Reader (Lettice Arkwright) survives as the person who knows the School's plaster cast of the plate (Ch. 48); she has no notebook to produce. | Ch. 25, 26 |
-| 8 | Ch. 27 | The older Home Line roll with the third (cost) column tidied away | **R** | The drift beat is Vane's: nobody at the Wren House cart told him Kiva's hand had gone, because the School's debrief stops at the lane and never asks *what it cost* in the crew's hearing. Vane asks her now, aloud, and makes it the Line's rule again that cost is said at the cart before anyone leaves. The old word *a crossing* and the 2471 two-door catcher (Tansy Wold, *hand as before*) come from the Ferren, who had them from the officer who trained her. | Ch. 27, 47 |
-| 9 | Ch. 31 | Kiva reads Annick; her four lines | **R** | Kiva stands at the flood-wall and hears the Unroofing with Mara beside her and a Halden clerk at the far end. Afterward, at the stove, she says one thing to Mara: *It isn't all the same. It's enough the same. She woke before she found out. So do I.* Mara says nothing and sees to the fire. | Ch. 31 |
-| 10 | Ch. 32 | The bearer's book; Ilse's written reason; Mara's *no* | **R** | Vane takes Kiva before the watch. The Ferren, who sat the watch in 2669, tells her what Ilse Corran said when she named a six-year-old: the stair after the Tallow fire, the child who asked one question the whole hour, *Will they say why?*, and Ilse's *I've looked a month for a better reason and I don't know that it wants one.* The Ferren also tells her that Mara was asked and said no, and that the watch went round her by its own custom and has never sent anyone to Coper Street to say so. Vane goes. The five hundred years of *nothing* is the watch's own memory: every bearer asked, every bearer answered *nothing*. | Ch. 32 |
-| 11 | Ch. 33, 36 | Thirza Bly's fourth-column line; the watch reads the cost to all seven | **R** | The Ferren: *One said otherwise. Bly, from 2466. Warm, once, after her first crossing. Nine crossings after and cold. That came down to me from the officer who had it from the one who heard her.* Kiva's weekly "entry" is Kiva standing in the hall and saying *Cold* to whichever officer is there. The watch hears her say it. | Ch. 33, 36 |
-| 12 | Ch. 40 | Ysra's *Witnessed* page | **R** | Ysra's turn is a witnessed act: she comes to the mast herself and reads Kiva's next crossing with her own eyes, and says so at the Chair under her own name. She grants Selka Dray's mast rule aloud and puts Dray's name on it. No page. | Ch. 40 |
-| 13 | Ch. 43 | The *Standard Lane Manual*, 11th ed., and the recovered Home Line sheet | **R** | Three people and a test. Kiva felt the drain turn under the post with her still door (Ch. 42, already on the page). Mara, reading the Ferren main for the Works, knows the main turns under the Old Yard. Vane has run the Line's dark drill since he was a boy and can say its words without knowing what they mean: *call the turn before the eighth, aloud, and say who has the bar; two to the bar; nine turns.* Nobody asked him; nobody asks the Home Line anything. In the Old Yard at night Perrin and Lowen put two to the bar and turn it, and the shaft under the post answers with water. Kiva: *It's a gate.* The saying lands for her then, by use. | Ch. 42, 43 |
-| 14 | Ch. 47-48 | Kiva entered on the roll; the tenth edition restores the seventh column | **K** (roll) / **R** (column) | **Roll (kept, one moment):** the Ferren says it before the watch, *Rowan, K. Catcher. Hand as before*, and Vane adds the name to the Line's roll of names and years. One clause, no commentary. **Column (rewired):** the School restores the dark run and the call to its lane. Orla has fourteen juniors in the Old Yard for the first dark run in two hundred and ninety years and asks Kiva whether the seventh question should be put to them. Kiva has her speech ready and does not give it. She says *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior counting three aloud for courage. | Ch. 47, 48 |
+| 1 | Prologue 10 | Pencil line beside the printed reason | **R** | A first-year broke a collarbone on the ninth post in the dark. The committee (Halden-funded) votes 11-6 to run the School's lane lit and drop the call. The junior instructor's Turn: she says in the room that the boy ran it straight and silent because she had not made him call, and they vote to drop the call anyway. A student quotes the saying and laughs. The Warden says the Order will keep running its lane dark; the committee says that is the Order's business. | Prologue 10; Ch. 43 |
+| 2 | Prologue 10 | Annick's notebook under a disputed card | **R** | On the stair afterward the Warden offers the junior a place at the Order's house and tells her why the Order trains one door for a lifetime: their master saw the sky come off. She gives the images in a few lines. Said as belief, to recruit. | Prologue 10; Ch. 3, 25, 26, 31 |
+| 3 | Prologue 11 | *there isn't a column for this* | **R** | The assessor says to Mara's face that she has no name for what that was. | Prologue 11; Ch. 40 |
+| 4 | Ch. 3 | Field book issued, seven columns; the Annick catalog card | **R** | Orla's debrief at the lane after Kiva's first drill: *What went wrong. Who was hurt. What it cost. Second go. Why.* Mara's third word is *Hand*. Orla's private memory: she went to the Order in 2664 about her two-door boy and the Warden told her the Unroofing. | Ch. 3; the 22 chapters that close on a `Why:` entry now close on action or thought |
+| 5 | Ch. 8 | Mara's 2446 entry; Kiva copies three lines | **D** | No older lamp nights. Mara tells Kiva what she saw at the Kindling (every lamp in Eastbank out and back); the Pit later makes two. | Ch. 8, 14, 21 |
+| 6 | Ch. 24 | The 2446 copy and its margin; Dunmore's *T-0* line | **R** | Dunmore chalks *T-0* on the Pit's rim, which is what a keeper chalks for a fault with no cause. Noa asks what it means. Nothing arrives from Hanley Street. | Ch. 24, 25 |
+| 7 | Ch. 25-26 | The Reader; *Annick, Personal*; the request book; Orla's 2664 reading | **R** | The Order's Warden comes to Coper Street: the Order wants Kiva for a year, one door, every other shut. She says why, in Annick's images. Kiva recognizes them. The Warden mentions that Kiva's sponsor sat in that chair sixteen years ago. That is how Kiva learns Orla withheld it. The Library and its Reader stay as a place and a person with no notebook to produce. | Ch. 25, 26 |
+| 8 | Ch. 27 | The older roll with the cost column tidied away | **R** | Nobody at the Wren House cart told Vane Kiva's hand had gone, because nobody asks the cost at the cart. Vane asks her now, aloud, and makes it the cart's rule that cost is said before anyone leaves. No older roll, no Tansy Wold. | Ch. 27, 47 |
+| 9 | Ch. 31 | Kiva reads Annick; her four lines | **R** | Kiva goes up to the Order's house to answer the offer and hears the Warden say the Unroofing to the sisters at their evening practice. At the stove that night she says one thing to Mara: *It isn't all the same. It's enough the same. She woke before she found out. So do I.* | Ch. 31 |
+| 10 | Ch. 32 | The bearer's book; Ilse's written reason; Mara's *no* | **R** | Vane takes Kiva before the watch. The Ferren, who sat the watch in 2669, says what Corran said that day when she named a six-year-old (the stair, *Will they say why?*, a month for a better reason) and that Mara was asked, said no, and was gone round. Vane goes to Coper Street to say so. | Ch. 32 |
+| 11 | Ch. 33, 36 | Thirza Bly's line; the watch reads the cost | **D** | No earlier bearer's warmth; no weekly visits. Kiva tells Vane once, after the Old Yard (Ch. 47): *I did not ask it anything. It did not do anything.* | Ch. 33, 36 |
+| 12 | Ch. 40 | Ysra's *Witnessed* page | **R** | Ysra comes to the mast and reads Kiva's next crossing with her own eyes, and says so at the Chair under her own name. She grants Dray's mast rule aloud with Dray's name on it. | Ch. 40 |
+| 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house with a float and a count, and the count goes wrong at the School's gate, where the plan shows the main straight; she cannot say where it goes. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar, the screw turns, nine turns, the shaft answers; Mara's float count drops. *It's a gate.* Stopgate. No Reader, no manual, no sheet, no pencil line. | Ch. 42, 43 |
+| 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Kept, one moment (Ch. 48):** the Ferren says it at the hall: *Rowan, K. Catcher. Hand as before.* **Dropped:** the roll, E.K.'s 2471 line, the tenth edition, the proof sheet. **Ending:** Orla has fourteen juniors in the Old Yard for the School's first dark run with the call since 2603; she asks Kiva whether to put the *why* to them; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior counting three aloud for courage. | Ch. 47, 48 |
 
-Ash accounting (team drams, tags, shares) is the economy, not this motif. It stays where a
-spend, save, or return decision is the scene, and it is "the book" or "the accounts," never
-a ledger that anyone talks about.
+Added beat, **Lumb (Ch. 46):** under the noise of the pumps, Lumb tells Kiva he dreamed the
+roof off the house forty years ago, every needle looking, and never said so. Replaces the
+2604 keeper's book.
 
 ## 6. Per-chapter target list for the prose pass
 
 Counts are lines containing any of: write/wrote/written/writing ... down; "write it";
 ledger; notebook; "the book," "her/his book," "field book," "in the book," "the column,"
 "last/fourth/seventh/reasons column"; `Why:`; "the why"; "the reasons"; or a banned
-phrase. Current total: 600 lines. Target after pass 2: **under 60 book-wide**, all of them
-ash accounts or the two props in §4. The "Keep:" notes from pass 1 are superseded by §5;
-every record beat in the table below is now cut and rebuilt on its §5 mechanism.
+phrase. Current total: 600 lines. Target: **under 40 book-wide**, all of them ash accounts
+or the chalk.
 
-| Chapter | Motif lines now | Pass-2 target | Notes |
+| Chapter | Now | Target | Notes |
 |---|---|---|---|
-| Prologue | 65 | 0 | Rebuild per PROLOGUE_PLAN §5. Retitle. Snapshot 10 is the lane and the wall (§5 beats 1-2). |
-| Ch. 24 | 36 | 2 | Keeper's chalk; Mara's three nights, spoken. Cut the ash-vote writing business entirely. |
-| Ch. 08 | 24 | 2 | Mara tells the three nights at the table (§5 beat 5). Cut all copying. |
-| Ch. 32 | 22 | 2 | The watch and the Ferren (§5 beat 10). |
-| Ch. 31 | 20 | 2 | The wall; one sentence at the stove (§5 beat 9). Mrs. Cobb's chained ledger becomes a prop clause or goes. |
+| Prologue | 65 | 0 | Rebuild per PROLOGUE_PLAN §5. Retitle. Snapshot 10 is the committee room and the stair (§5 beats 1-2). |
+| Ch. 24 | 36 | 1 | Keeper's chalk only. Cut the ash-vote writing business and the Hanley Street copy entirely. |
+| Ch. 08 | 24 | 0 | Mara says what she saw in 2676. No older books, no copying. |
+| Ch. 32 | 22 | 1 | The watch and the Ferren (§5 beat 10). |
+| Ch. 31 | 20 | 1 | The Order's house; one sentence at the stove (§5 beat 9). |
 | Ch. 16 | 19 | 0 | Anwen's *Write it down* line goes; Perrin's too. The lane ruling is spoken. |
 | Ch. 21 | 17 | 0 | Keeper's figures stay as spoken lines. |
-| Ch. 25 | 17 | 2 | The Order's house and its spoken terms (§5 beat 7). The Library scene is cut or becomes the plaster-cast conversation. |
-| Ch. 47 | 17 | 2 | Cost said aloud at the cart; the Ferren's summons. |
-| Ch. 48 | 17 | 3 | The roll, one clause; the juniors' dark run; *Anwen. My cuff.* |
+| Ch. 25 | 17 | 1 | The Warden at Coper Street (§5 beat 7). The Library scene is cut. |
+| Ch. 47 | 17 | 1 | Cost said aloud at the cart; one line to Vane about the plate. |
+| Ch. 48 | 17 | 2 | *Hand as before* said; the juniors' dark run; *Anwen. My cuff.* |
 | Ch. 18 | 16 | 0 | Cut the warden writing, the callback, the closing entry. |
-| Ch. 27 | 16 | 2 | Vane asks the cost aloud (§5 beat 8). |
+| Ch. 27 | 16 | 1 | Vane asks the cost aloud (§5 beat 8). |
 | Ch. 35 | 15 | 0 | Keep the plan; lose the pencil. |
 | Ch. 11 | 14 | 0 | |
-| Ch. 14 | 14 | 2 | Clerk's grey ledger to one prop clause; Noa's *probably nothing* becomes something he says. |
+| Ch. 14 | 14 | 1 | Clerk's grey ledger to one prop clause; Noa's *probably nothing* becomes something he says. |
 | Ch. 17 | 14 | 1 | Keep the glance at the post. |
 | Ch. 40 | 14 | 0 | Ysra at the mast (§5 beat 12). |
 | Ch. 10 | 13 | 1 | |
-| Ch. 26 | 13 | 1 | Orla's confession is about the wall, not a notebook. |
+| Ch. 26 | 13 | 1 | Orla's confession is about the Warden's chair, not a notebook. |
 | Ch. 44 | 13 | 0 | |
-| Ch. 33 | 12 | 2 | The Ferren on Bly (§5 beat 11). |
-| Ch. 01 | 11 | 2 | Mara reads banks for the Works; no paper ledgers as her identity. |
+| Ch. 42 | 9 | 0 | **Required cuts and replacement in §5 beat 13.** Not a light touch. |
+| Ch. 43 | 9 | 0 | The dark drill, the float, the bar (§5 beat 13). The Reader scene goes. |
+| Ch. 33 | 12 | 1 | The recall vote, staged as people deciding; no Bly. |
+| Ch. 01 | 11 | 1 | Mara reads banks for the Works; no paper ledgers as her identity. |
 | Ch. 19 | 11 | 0 | |
-| Ch. 36 | 11 | 1 | *Cold*, said. |
+| Ch. 36 | 11 | 0 | No weekly entry. |
+| Ch. 46 | 6 | 0 | Lumb says what he dreamed (added beat). No keeper's book. |
 | Ch. 04 | 10 | 0 | |
-| Ch. 03 | 9 | 2 | The seven questions, aloud; *Hand* (§5 beat 4). |
-| Ch. 07, 13, 20, 41, 42 | 9 each | 0-1 | Light touch. |
-| Ch. 43 | 9 | 1 | The yard at night, the bar, the water (§5 beat 13). |
+| Ch. 03 | 9 | 1 | Orla's debrief, aloud; *Hand* (§5 beat 4). |
+| Ch. 07, 13, 20, 41 | 9 each | 0 | Light touch. |
 | Ch. 02, 09, 12 | 8 each | 0 | |
 | Ch. 06, 23, 28, 34 | 7 each | 0 | |
-| Ch. 37, 46 | 6 each | 0 | |
+| Ch. 37 | 6 | 0 | |
 | Ch. 29 | 5 | 0 | The anonymous half-sheet goes. |
-| Ch. 05, 15, 39, 22, 30, 38, 45 | 2-3 each | 0-1 | Near target already. |
+| Ch. 05, 15, 39, 22, 30, 38, 45 | 2-3 each | 0 | Near target already. |
 
 **Mechanical check after the prose pass** (run from `books/book-2680-opening/manuscript`):
 
 ```bash
 # Banned phrasings. Expected: 0.
 grep -niE "(write|wrote|written|writing|writes) [a-z ]{0,20}down|somebody should|someone should|for the record|put it in the (book|column)|the why\b|(keep|kept) a record|so it isn't lost" *.md
-# Ledger, notebook, column-as-record. Expected: under 20 combined, all ash accounts or props.
+# Ledger, notebook, column-as-record. Expected: under 10 combined, all ash accounts.
 cat *.md | grep -oiE "\b(ledgers?|notebooks?|(fourth|seventh|reasons) column)\b" | wc -l
+# Theme check. Expected: 0 outside "three traditions" (the doors).
+grep -niE "remember|passed (down|on)|handed down|keeper to keeper|the reasons|heritage|observance|who heard" *.md
 # Closing Why: entries. Expected: none.
 grep -c "^\*Why:" *.md | grep -v ":0"
 # Title check. Expected: no match.
@@ -171,31 +170,26 @@ head -1 prologue.md | grep -i "write it down"
 
 ## 7. For the owner
 
-Only three of these genuinely change the story; the rest are confirmations.
+Only four of these genuinely change the story; the rest are confirmations.
 
-1. **The Annick fragment moves from a notebook to a spoken observance.** The Order of the
-   Even Hand says Hesper Annick's fever dream aloud on the flood-wall once a year and has
-   made it doctrine. Kiva hears it; nobody reads it. This retires the Compact Library's
-   disputed box, the 2611 settlement, and the request book. The Library and its Reader
-   survive as a place and a person (she knows the School's plaster cast of the plate).
-2. **The bearer's book becomes the watch's memory.** The Ferren (seventy, on the watch in
-   2669) tells Kiva what Ilse Corran said. Five hundred years of bearers answering
-   *nothing* is what the watch exists to remember. Thirza Bly's one warmth comes down the
-   same way. If you would rather the Line kept a plain roll of bearers' names (a prop) as
-   well, say so; the seed allows a roll of names and years and nothing more.
-3. **The climax resolves by a test, not a sheet.** Kiva felt the drain turn; Mara knows the
-   main turns there; Vane can say the Line's dark-drill words; Perrin and Lowen put two to
-   the bar and the shaft answers. No manual, no recovered sheet, no restored column. The
-   School puts the dark run and the call back into its lane, and that is the restoration.
-4. The initials *S.V.* are dropped. The saying is said, not signed. Name the person only if
-   you want it named.
-5. Mara's third word changes from *Book* to *Hand*. Her job is reading and tuning the city's
-   ash banks for the Municipal Works; she is not a records worker.
+1. **Annick's dream reaches Kiva through the Order's Warden**, who wants her for a year and
+   says what the Order believes. No notebook, no library box, no annual rite. The Library
+   and its Reader stay as a place and a person.
+2. **The watch sits twice** (Movement 4: Kiva before it; Movement 5: the recall vote). The
+   Ferren was present in 2669 and says what happened that day. No bearer's book, no
+   five-hundred-year drip of *nothing*, no earlier warmth, no weekly report.
+3. **The post is found out by a drill, a float, and the bar** (§5 beat 13). No manual, no
+   recovered sheet, no restored column; the School runs its lane dark with the call again.
+4. **Lumb had the dream himself.** The second dreamer in Book One is a living keeper, not a
+   2604 book.
+5. The initials *S.V.* are dropped. Mara's third word changes from *Book* to *Hand*. Mara
+   reads and tunes the city's banks for the Municipal Works.
 6. Movement 6 keeps the title *Why It Is Crooked*. Prologue working title *The Leaning
    Post*. Movement 4 working title *The Real Call*.
-7. Book Two (`book-2680-national-measure`) has the same motif in its manuscript (142
-   write-down variants, 59 ledger, 60 notebook). Not in scope. Its canon docs should be
+7. All six devices in §4 are tagged PROPOSED in `UNIVERSE_BIBLE.md` until you approve them.
+8. Book Two (`book-2680-national-measure`) has the same motif in its manuscript (142
+   write-down variants, 59 ledger, 60 notebook). Not in scope; its canon docs should be
    aligned to `universe/SEED-2680.md` in a parallel ticket before any prose pass.
-8. Wellspring's postscript (`book-03-wellspring/POSTSCRIPT_PLAN.md`) still describes the
-   copied record as its whole act. Under the fourth ruling it is archive; the pairing now
-   holds only at the post and the saying.
+9. Wellspring's postscript (`books/book-03-wellspring/POSTSCRIPT_PLAN.md`, in the main
+   checkout at `/Users/drive/kindling-repo-stage` and the `wellspring-m2` worktree, not on
+   this branch) still describes the copied record as its whole act. Archive.

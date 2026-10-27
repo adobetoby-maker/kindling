@@ -20,10 +20,9 @@ defend—and power—the rebuilt world.
   every injury, correction, and recovered ash share into the next threshold.
 - Different schools solving the same obstacle in incompatible-looking ways.
 - Friendly loyalty, rivalry, humor, and mentors with private stakes.
-- Old places, objects, sayings, and customs, such as a lane, a post, a plate, a stock
-  answer, or a watch that asks one question, that turn out to have a working reason,
-  found by use and consequence rather than by anyone explaining it. Nobody reads the
-  answer out of a book (motif budget, `BOOK_MAP.md` §9).
+- Old places and objects, such as a lane, a post, or a plate, that turn out to have a
+  working reason, found by use and consequence rather than by anyone explaining it.
+  Nobody reads the answer out of a book (motif budget, `BOOK_MAP.md` §8).
 - Rift-response set pieces where teamwork and terrain matter more than raw output.
 - Professional rift fighting where rescue, closure, infrastructure, and clean ash
   recovery matter more than kill count.
@@ -96,8 +95,7 @@ Three may cross the threshold while still leaving ultimate cosmology open.
   abort lines, and healer safety.
 - **Callie line:** reading boundaries, uncertainty, and shaping a safe place for
   other people's work.
-- **Dessa/Senna line:** the seventh question, *why*, asked aloud after every drill and
-  answered in the crew's hearing.
+- **Dessa/Senna line:** asking *why* after a drill, out loud.
 - **Home Line:** field arm and public-service tradition, never merely a school team.
 
 Names, charters, and claims have changed over 530 years. What the founders actually

@@ -22,7 +22,7 @@ snapshot turns on a concrete event or choice (`PROLOGUE_PLAN.md` §5). The 2080 
 failed-restoration decade, and the first wormhole/Riftspawn/unnamed power event are
 carried by what people do and say, and the Home Line era by one working lane and one
 costly drill. Obey the motif budget and banned phrasings (`PROLOGUE_PLAN.md` §8,
-`BOOK_MAP.md` §9). Then dramatize the first century after Meridian in enough depth for the
+`BOOK_MAP.md` §8). Then dramatize the first century after Meridian in enough depth for the
 reader to understand the transformation: radiation-safe Sustain rotations recover
 nuclear sites and knowledge; ash and nuclear systems are blended; stable electrical
 induction develops; licensed compact reactors reach homes; fossil and large solar
@@ -90,8 +90,8 @@ Across one connected eight-chapter run:
   ash induction, magic/ash blending, collegiate events and standings, professional
   recruitment, and why the Compact cannot safely classify simultaneous access.
   Demonstrations, failed attempts, Mara's repair work, team practice, and consequences
-  carry the explanation. Orla teaches the Home Line's seven questions aloud at the lane
-  (`universe/SEED-2680.md`); Kiva keeps no field book, and no chapter ends on her
+  carry the explanation. Orla's debrief after a drill is asked aloud at the lane
+  (`universe/SEED-2680.md` §6); Kiva keeps no field book, and no chapter ends on her
   writing anything.
 - Establish Orla Dane as Kiva's limited-authority mentor; Anwen Pryce as a practical
   equal with her own field-placement goal; Perrin Cade as warmth and honest envy;
