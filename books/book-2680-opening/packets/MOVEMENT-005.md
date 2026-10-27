@@ -126,8 +126,8 @@ serving as the book's final climax.
   simultaneous blaze.
 - The disk stays non-instructional. It may be recognized or contested under the Line's
   rules, but it does not speak, teach, map, choose tactics, open doors, or answer.
-- Annick's account confirms shared imagery but no cause, date, timing, identity, or
-  solution. Do not prove the filter theory, name the Makers, explain the disk's origin,
+- What the Warden says Annick saw confirms shared imagery but no cause, date, timing,
+  identity, or solution. Do not prove the filter theory, name the Makers, explain the disk's origin,
   identify why the Fall happened, or state whether Glory users cause or answer loss.
 - Stepped ash is evidence with competing lawful claims. It does not become a magic
   battery that removes scarcity or a complete answer to what lies beyond tears.

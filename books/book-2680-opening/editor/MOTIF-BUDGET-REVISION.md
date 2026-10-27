@@ -88,7 +88,7 @@ chalk (*T-0*).
 
 | # | Where | Pass-1 beat | Decision | What happens instead | Chapters affected |
 |---|---|---|---|---|---|
-| 1 | Prologue 10 | Pencil line beside the printed reason | **R** | A first-year broke a collarbone on the ninth post in the dark. The committee (Halden-funded) votes 11-6 to run the School's lane lit and drop the call. The junior instructor's Turn: she says in the room that the boy ran it straight and silent because she had not made him call, and they vote to drop the call anyway. A student quotes the saying and laughs. The Warden says the Order will keep running its lane dark; the committee says that is the Order's business. | Prologue 10; Ch. 43 |
+| 1 | Prologue 10 | Pencil line beside the printed reason | **R** | A first-year broke a collarbone on the ninth post in the dark. The committee (Halden-funded) votes 11-6 to run the School's lane lit and drop the call. The junior instructor's Turn: she says in the room that the boy ran it straight and silent because she had not made him call, and they vote to drop the call anyway. A student quotes the saying and laughs. The Home Line's foreman on the committee says the Line will keep running its own lanes dark; the chair says that is the Line's business. (One line of descent: the Home Line runs lanes dark in 2152, 2603, and 2680; the Order never does.) | Prologue 10; Ch. 43 |
 | 2 | Prologue 10 | Annick's notebook under a disputed card | **R** | On the stair afterward the Warden offers the junior a place at the Order's house and tells her why the Order trains one door for a lifetime: their master saw the sky come off. She gives the images in a few lines. Said as belief, to recruit. | Prologue 10; Ch. 3, 25, 26, 31 |
 | 3 | Prologue 11 | *there isn't a column for this* | **R** | The assessor says to Mara's face that she has no name for what that was. | Prologue 11; Ch. 40 |
 | 4 | Ch. 3 | Field book issued, seven columns; the Annick catalog card | **R** | Orla's debrief at the lane after Kiva's first drill: *What went wrong. Who was hurt. What it cost. Second go. Why.* Mara's third word is *Hand*. Orla's private memory: she went to the Order in 2664 about her two-door boy and the Warden told her the Unroofing. | Ch. 3; the 22 chapters that close on a `Why:` entry now close on action or thought |
@@ -100,12 +100,21 @@ chalk (*T-0*).
 | 10 | Ch. 32 | The bearer's book; Ilse's written reason; Mara's *no* | **R** | Vane takes Kiva before the watch. The Ferren, who sat the watch in 2669, says what Corran said that day when she named a six-year-old (the stair, *Will they say why?*, a month for a better reason) and that Mara was asked, said no, and was gone round. Vane goes to Coper Street to say so. | Ch. 32 |
 | 11 | Ch. 33, 36 | Thirza Bly's line; the watch reads the cost | **D** | No earlier bearer's warmth; no weekly visits. Kiva tells Vane once, after the Old Yard (Ch. 47): *I did not ask it anything. It did not do anything.* | Ch. 33, 36 |
 | 12 | Ch. 40 | Ysra's *Witnessed* page | **R** | Ysra comes to the mast and reads Kiva's next crossing with her own eyes, and says so at the Chair under her own name. She grants Dray's mast rule aloud with Dray's name on it. | Ch. 40 |
-| 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house with a float and a count, and the count goes wrong at the School's gate, where the plan shows the main straight; she cannot say where it goes. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar, the screw turns, nine turns, the shaft answers; Mara's float count drops. *It's a gate.* Stopgate. No Reader, no manual, no sheet, no pencil line. | Ch. 42, 43 |
-| 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Kept, one moment (Ch. 48):** the Ferren says it at the hall: *Rowan, K. Catcher. Hand as before.* **Dropped:** the roll, E.K.'s 2471 line, the tenth edition, the proof sheet. **Ending:** Orla has fourteen juniors in the Old Yard for the School's first dark run with the call since 2603; she asks Kiva whether to put the *why* to them; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior counting three aloud for courage. | Ch. 47, 48 |
+| 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house with a float and a count, and the count goes wrong at the School's gate, where the plan shows the main straight; she cannot say where it goes. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar, the screw turns, nine turns, the shaft answers; Mara's float count drops. *It's a gate.* Stopgate. No Reader, no manual, no sheet, no pencil line. **Ch. 43 also, the half sheet (lines 39, 47, 203):** Mara's "paper under seal," "I've put it down so that it can be wrong in front of everybody," the half sheet under the brass weight, and "That's my half sheet" are cut. **Replacement:** Mara says the assumption aloud to the bench, so it can be wrong in front of everybody: *that the water moves because the pumps move it; stop the pumps and the main lies still; then a bank may be quenched and filled fresh.* Examiner Rusk owns it as the whole of the Works' plan if the fence fails. After the box: *There. That's what I said at the bench. Stop the pumps and the main lies still. It doesn't.* The wrong belief is Rusk's plan and Mara's own, spoken, and corrected by the test. | Ch. 42, 43 |
+| 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Ch. 48 hall scene (lines 5-161) as written:** more than seven in the watch room; River Flats' second motion; the roll; "write it where E.K. wrote the other"; the ledger turned so Kiva can see the line; the School answered "out of our own fourth edition"; the bursar's tenth edition and printer; Dray's request "fair-copied by a clerk"; the clerk's National Measure paper. **Direction:** this Thursday gathering is **not a sitting of the watch** (the watch sat in Ch. 32 and Ch. 33 and does not sit again). It is the Ferren, Vane, Orla, and Rhea at the hall. **Kept, one spoken moment:** the Ferren says to Kiva's face: *Rowan, K. Catcher. Hand as before. A Line foreman may call you at a line-hand's day rate, with your sponsor's leave.* No motion, no vote, no roll, no ledger. **Plate recognition (beat 7's cast):** the School's bursar brings the School's "plate" in its deal box; it is a plaster cast. The Reader, who has handled that cast for thirty years, lays it beside Kiva's and says it: a wider fifth ring, a flaw across the third; the School's is a cast taken by leave of a bearer; Kiva's is the plate of nine rings the first teachers carried, released by appointment. She says it; she does not produce an edition. **Cut:** every edition, printer, proof sheet, clerk's copy, and ledger. **Dray:** she says it to Kiva's face, on the Pit stair: the mast rule goes to Saltmere with her name on it; she objected twice and has not changed her mind; she would have seated her on the lid. **The result** is read on the boards, as it already is. **Ending (Old Yard):** Orla has fourteen juniors for the School's first dark run with the call since 2603; the junior with the plait says *Miss Dane says we're to run it. Dark. From the sheds* (cut "it's in the manual again"); Orla asks Kiva whether the juniors should be told why it leans; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior counting three aloud for courage. | Ch. 47, 48 |
 
-Added beat, **Lumb (Ch. 46):** under the noise of the pumps, Lumb tells Kiva he dreamed the
-roof off the house forty years ago, every needle looking, and never said so. Replaces the
-2604 keeper's book.
+Added beat, **Lumb (Ch. 47, lines 171-199 and 423-426 as written):** Lumb fetches the
+keeper's book for 2604 from the press; Mara's "T-0, four of them"; the calf page read under
+the pumps; Kiva's "I read a page in the Library, in the sixth month. I'm not to copy it";
+Mara's "I said that I'd write it down" and the seven-column sheet on the dresser. **All
+cut.** **Replacement:** Lumb, who has been listening from his sump, says it himself:
+forty years ago, three nights' fever, the roof off the house and nothing over it, all
+four-and-twenty needles standing up and looking; the levee lamps went out that night and
+came on of themselves; he never told the Works, because a fever is not a fault. Kiva: *The
+roof was off.* Lumb: *You know it.* Kiva says one line about what the Warden told her
+Annick saw. For line 423: Mara tells Yeo the Works' reader has one hand until the eleventh
+month, and that Saltmere will have to send someone to be shown on a box. Nothing is
+written.
 
 ## 6. Per-chapter target list for the prose pass
 
@@ -125,8 +134,8 @@ or the chalk.
 | Ch. 16 | 19 | 0 | Anwen's *Write it down* line goes; Perrin's too. The lane ruling is spoken. |
 | Ch. 21 | 17 | 0 | Keeper's figures stay as spoken lines. |
 | Ch. 25 | 17 | 1 | The Warden at Coper Street (§5 beat 7). The Library scene is cut. |
-| Ch. 47 | 17 | 1 | Cost said aloud at the cart; one line to Vane about the plate. |
-| Ch. 48 | 17 | 2 | *Hand as before* said; the juniors' dark run; *Anwen. My cuff.* |
+| Ch. 47 | 17 | 1 | Cost said aloud at the cart; one line to Vane about the plate; **Lumb says his dream (171-199) and Mara's "I'd write it down" goes (423-426); see the added beat under §5.** |
+| Ch. 48 | 17 | 2 | **Not a sitting of the watch.** *Hand as before* said; the Reader and the cast; Dray to Kiva's face; the juniors' dark run; *Anwen. My cuff.* All edition, printer, roll, ledger, and fair-copy material goes (§5 beat 14). |
 | Ch. 18 | 16 | 0 | Cut the warden writing, the callback, the closing entry. |
 | Ch. 27 | 16 | 1 | Vane asks the cost aloud (§5 beat 8). |
 | Ch. 35 | 15 | 0 | Keep the plan; lose the pencil. |
@@ -138,12 +147,12 @@ or the chalk.
 | Ch. 26 | 13 | 1 | Orla's confession is about the Warden's chair, not a notebook. |
 | Ch. 44 | 13 | 0 | |
 | Ch. 42 | 9 | 0 | **Required cuts and replacement in §5 beat 13.** Not a light touch. |
-| Ch. 43 | 9 | 0 | The dark drill, the float, the bar (§5 beat 13). The Reader scene goes. |
+| Ch. 43 | 9 | 0 | The dark drill, the float, the bar (§5 beat 13). The Reader scene goes. The sealed half sheet (39, 47, 203) becomes Mara saying the assumption aloud at the bench. |
 | Ch. 33 | 12 | 1 | The recall vote, staged as people deciding; no Bly. |
 | Ch. 01 | 11 | 1 | Mara reads banks for the Works; no paper ledgers as her identity. |
 | Ch. 19 | 11 | 0 | |
 | Ch. 36 | 11 | 0 | No weekly entry. |
-| Ch. 46 | 6 | 0 | Lumb says what he dreamed (added beat). No keeper's book. |
+| Ch. 46 | 6 | 0 | Light touch. (Lumb's beat is Ch. 47, not here.) |
 | Ch. 04 | 10 | 0 | |
 | Ch. 03 | 9 | 1 | Orla's debrief, aloud; *Hand* (§5 beat 4). |
 | Ch. 07, 13, 20, 41 | 9 each | 0 | Light touch. |
@@ -170,26 +179,37 @@ head -1 prologue.md | grep -i "write it down"
 
 ## 7. For the owner
 
-Only four of these genuinely change the story; the rest are confirmations.
+**The five story calls, in one paragraph.** Five things change in the story and nothing
+else does. (1) Annick's dream reaches Kiva through the Order of the Even Hand's Warden,
+who comes for her because the Order wants her for a year and says, as the Order's belief,
+what its master saw; there is no notebook, no library box, and no annual rite, and the
+Library and its Reader stay only as a place and a person who knows the School's plaster
+cast. (2) The Home Line's watch of seven sits twice, Kiva before it in Movement 4 and the
+recall vote in Movement 5; the Ferren, who was in the room in 2669, says what Corran said
+that day and that Mara was asked and said no; there is no bearer's book, no earlier
+bearer's warmth, no weekly report, no roll, and the Thursday hall scene at the end is not
+a third sitting. (3) The post is found out by a drill, a float, and two hands on a bar:
+the Home Line runs Seven dark through the lane with its call *say who has the bar*, Kiva
+feels water move under the ninth post, Mara's float count on the main turns under the
+yard, and the shaft answers; no manual, no recovered sheet, no restored column, and the
+School simply runs its lane dark with the call again. (4) The second dreamer is Old Lumb,
+alive, who had the dream himself forty years ago and says so once under the pumps in
+Chapter 47; the 2604 keeper's book is gone. (5) Mara reads and tunes the city's banks for
+the Municipal Works and her third word to Kiva is *Hand*, not *Book*; the initials *S.V.*
+are dropped and the saying is a flat spoken line three times. Everything else (the Fall,
+the doors, the ranks, the ash, the team, the Pit, the Step, the fingers, the offer, the
+ending) stands as written.
 
-1. **Annick's dream reaches Kiva through the Order's Warden**, who wants her for a year and
-   says what the Order believes. No notebook, no library box, no annual rite. The Library
-   and its Reader stay as a place and a person.
-2. **The watch sits twice** (Movement 4: Kiva before it; Movement 5: the recall vote). The
-   Ferren was present in 2669 and says what happened that day. No bearer's book, no
-   five-hundred-year drip of *nothing*, no earlier warmth, no weekly report.
-3. **The post is found out by a drill, a float, and the bar** (§5 beat 13). No manual, no
-   recovered sheet, no restored column; the School runs its lane dark with the call again.
-4. **Lumb had the dream himself.** The second dreamer in Book One is a living keeper, not a
-   2604 book.
-5. The initials *S.V.* are dropped. Mara's third word changes from *Book* to *Hand*. Mara
-   reads and tunes the city's banks for the Municipal Works.
-6. Movement 6 keeps the title *Why It Is Crooked*. Prologue working title *The Leaning
+Confirmations:
+
+1. One line of descent for the dark lane: the Home Line runs its lanes dark in 2152, 2603,
+   and 2680. The Order never does; it only states its belief.
+2. Movement 6 keeps the title *Why It Is Crooked*. Prologue working title *The Leaning
    Post*. Movement 4 working title *The Real Call*.
-7. All six devices in §4 are tagged PROPOSED in `UNIVERSE_BIBLE.md` until you approve them.
-8. Book Two (`book-2680-national-measure`) has the same motif in its manuscript (142
+3. All six devices in §4 are tagged PROPOSED in `UNIVERSE_BIBLE.md` until you approve them.
+4. Book Two (`book-2680-national-measure`) has the same motif in its manuscript (142
    write-down variants, 59 ledger, 60 notebook). Not in scope; its canon docs should be
    aligned to `universe/SEED-2680.md` in a parallel ticket before any prose pass.
-9. Wellspring's postscript (`books/book-03-wellspring/POSTSCRIPT_PLAN.md`, in the main
+5. Wellspring's postscript (`books/book-03-wellspring/POSTSCRIPT_PLAN.md`, in the main
    checkout at `/Users/drive/kindling-repo-stage` and the `wellspring-m2` worktree, not on
    this branch) still describes the copied record as its whole act. Archive.

@@ -106,7 +106,7 @@ short, costly, and planted. It proves configuration, not mastery or Glory.
 | Professional standings count rescue, closure, infrastructure, and clean ash | Kiva's first pro offer recognizes judgment rather than kill count |
 | Team Seven's first small Handful yield share | The team chooses what to spend, save, and return; later rich yields strain loyalty and recruitment |
 | Students and spawn both appear stronger than any recent season | The filter admits increasing Glory pressure, raising human potential and spawn variety together |
-| Kiva sees converging Glory figures and an absent sky in the 2676 fever dream | The Order's Warden says what Annick saw, as the Order's belief, to people the Order wants (a junior instructor in Prologue Snapshot 10; Orla in 2664; Kiva in Ch. 25 and 31); Lumb, the Ferren keeper, had the dream himself and says so once (Ch. 46). Books Two and Three widen the convergence |
+| Kiva sees converging Glory figures and an absent sky in the 2676 fever dream | The Order's Warden says what Annick saw, as the Order's belief, to people the Order wants (a junior instructor in Prologue Snapshot 10; Orla in 2664; Kiva in Ch. 25 and 31); Lumb, the Ferren keeper, had the dream himself and says so once (Ch. 47). Books Two and Three widen the convergence |
 | Prologue shows radiation rotations, nuclear-ash synthesis, compact cores, and flight | Every later grid, arena, rescue, and industrial conflict rests on understood historical mechanisms |
 
 ## 7. Movement One packet rule
@@ -135,7 +135,7 @@ on, or preserving anything.
 | Orla's debrief questions | Taught once (Ch. 3); heard when a debrief is the scene; never a chapter's closing device |
 | The Order's belief (*the Unroofing*) | Stated once in the prologue (Snapshot 10) and once in Movement 4 (Ch. 25); heard at the Order's house once (Ch. 31) |
 | The watch of seven | Sits twice: Ch. 32 (Kiva before it) and Ch. 33 (the recall vote) |
-| Lumb's own dream | Once (Ch. 46) |
+| Lumb's own dream | Once (Ch. 47) |
 | The Unroofed Sky dream | As budgeted in §4: brief physical interruptions, no guidance |
 
 What carries the plot in place of documents is described, as story, in

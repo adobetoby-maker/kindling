@@ -35,7 +35,7 @@ what the plot needs through people, places, practices, and acts (`SEED-2680.md` 
 | `books/book-01-ember/`, `book-01-callie/`, `book-01-jab/`, `book-01-hobbs-wall/`, `book-01-tallow-gate/`, `book-01-undern/` plans | Book One editions and variants sharing the Kindled bible and its ledger line |
 | `books/book-02-meridian/` plans | Book Two: the records-office summons, the Director, the papers |
 | `books/book-03-wellspring/` plans (incl. `POSTSCRIPT_PLAN.md` §4, `BOOK_MAP.md` ending item 5, `IDEA.md` copied-ledger lines). Not on this branch: it exists in the main checkout at `/Users/drive/kindling-repo-stage` and in the `wellspring-m2` worktree | Book Three: copies of the reasons ledger leaving Meridian as the postscript's whole act and the pairing with the 2680 prologue |
-| `planning/KINDLED-TO-2680-CONTEXT.md` (untracked in the main checkout; not recreated here) | Carried "the seven-column ledger incl. reasons column" into 2680 as the inheritance; superseded by `SEED-2680.md` §6 (the seven questions, spoken) |
+| `planning/KINDLED-TO-2680-CONTEXT.md` (untracked in the main checkout; not recreated here) | Carried "the seven-column ledger incl. reasons column" into 2680 as the inheritance; superseded by `SEED-2680.md` §6 (the post found by use; nothing inherited) |
 | `/Users/drive/penname/craft/connections/CONNECTIONS_BIBLE.md`, Kindling column | Cross-series entry keyed to the Kindled bible's record devices; to be re-derived from `SEED-2680.md` in a discrete approval pass, not edited here |
 
 ## What is not archived

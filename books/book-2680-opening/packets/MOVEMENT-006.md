@@ -54,13 +54,15 @@ name and a real Kill line. Selka Dray remains a rival who is unpersuaded and fai
 has made no offer. Every one of these people must retain an independent skill, desire,
 and future.
 
-The disk remains cold and non-instructional. The Home Line watch has voted two to five
-against recall and entered the plate as held of the Line and borne by K. Rowan. Kiva has
-read Hesper Annick's independent fever account; it shares the roads, unlike lights,
-touching, absent sky, *Full*, attention, lamps answering, and the nameless color, but
-provides no date, identity, cause, or tactic. Kiva has had no new fever or dream since
-the Pit. Nobody has proved the filter theory, the cause of the Fall, the disk's origin,
-or the meaning of the Unroofed Sky.
+The disk remains cold and non-instructional. The Home Line watch has sat twice (Kiva
+before it in Movement 4; the recall vote, two to five against, in Movement 5) and does not
+sit again in this book; the plate is held of the Line and borne by K. Rowan. The Order of
+the Even Hand's Warden has told Kiva what Annick saw, as the Order's belief and as the
+reason it wants her for a year; it shares the roads, unlike lights, touching, absent sky,
+*Full*, attention, lamps answering, and the nameless color, but gives no date, cause, or
+tactic. The Order's offer is on the latch. Kiva has had no new fever or dream since the
+Pit. Nobody has proved the filter theory, the cause of the Fall, the disk's origin, or the
+meaning of the Unroofed Sky.
 
 The post is found out by a drill, a float, and two hands on a bar, not by a manual or a
 sheet. Kiva has stood on the cross in the still door all summer and felt nothing but
@@ -156,9 +158,14 @@ Close the regional season and book with these earned developments:
 - The local accounts, injuries, placements, and ash shares close cleanly. Kiva's fingers
   remain as before.
 - The School runs its lane dark with the call again; Orla has fourteen juniors in the
-  Old Yard. Kiva is asked whether to put the *why* to them, has her speech ready, and
-  does not give it: *Run it dark. Make them say who has the bar.* Then she asks for help
-  with her cuff.
+  Old Yard. Orla asks Kiva whether the juniors should be told why it leans; Kiva has her
+  speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then
+  she asks for help with her cuff.
+- The Thursday gathering at the Home Line hall is not a sitting of the watch. The Ferren
+  says to Kiva's face that the Line will call her as catcher at a line-hand's day rate,
+  *hand as before*; the Reader lays the School's plaster cast beside Kiva's plate and says
+  which is which. No motion, no vote, no roll, no edition, no printer, no clerk's fair
+  copy (`editor/MOTIF-BUDGET-REVISION.md` §5, beat 14).
 
 Pay off the title **Why It Is Crooked** through action and choice. The crooked line is
 not superior because it is mysterious or chosen by fate. Its strength is that it
