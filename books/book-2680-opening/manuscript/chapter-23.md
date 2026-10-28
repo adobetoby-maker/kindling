@@ -2,13 +2,11 @@
 
 "Rowan," said Hollis Vane. He did not waste a breath on being surprised. "Can you put a still-door on that shelf?"
 
-*Forty-eight,* said the part of her that was counting iron.
+Below the lip of the race, the grey slid under another grating.
 
-"There's one way over, and it's a Stride." She had to shout it down forty paces of cinder, and the whole Pit heard. She found that she did not care. "I've both. One after the other. It isn't on my paper. I've tried it fourteen times and missed fourteen. The last four didn't hurt. One held for a count."
+"There's one way over, and it's a Stride." She had to shout it down forty paces of cinder, and the whole Pit heard. She found that she did not care. "I've both. One after the other. It isn't on my paper. I've tried it in the yard and missed every time. The last few didn't hurt. One held for a breath."
 
-*Forty-four.*
-
-It was the truest thing she had ever said aloud, and it was a list of failures, and she had said it to eleven hundred people.
+It was the truest thing she had ever said, and it was a list of failures, and the whole Pit had heard it.
 
 "Dane!"
 
@@ -18,19 +16,15 @@ Orla was not in the first row. She had come down. Kiva saw her at the floor rail
 
 "I didn't ask for a certificate. I asked what you've seen."
 
-*Forty.*
-
-"Fourteen misses. Every one called inside the breath, by her, before I'd opened my mouth." Orla did not look at Kiva. She looked at the officer. "If her line lights over that sump, she'll say *off* and go in it on her back before she'll stand a jam on your bus. That, I've seen. That, I'll sign."
+"Every miss called inside the breath, by her, before I'd opened my mouth." Orla did not look at Kiva. She looked at the officer. "If her line lights over that sump, she'll say *off* and go in it on her back before she'll stand a jam on your bus. That, I've seen. That, I'll answer for."
 
 "That isn't a certificate."
 
-"No. It's a reason. Write it down." The knuckles on the rail were white. "And if it goes wrong, you write it as mine. I'll not have it written as hers."
+"No. It's a reason." The knuckles on the rail were white. "And if it goes wrong, it's mine. I'll not have it laid on her."
 
-*Thirty-six.*
+Vane did not take his eyes off the race. He spoke flat and quick, in the field voice that went to every corner of the floor.
 
-Vane's chalk was already moving. He spoke as he wrote, flat and quick.
-
-"Field direction. Ten twenty-three. Rowan, K. One attempt at the south link, door to door, declared. Reason: nobody else on this ground can stand on it, and it's thirty counts off." The chalk did not stop. "And this under it, in my name. The lid's not down. I said the lid first, and I'm opening that link with the doorway two-thirds clear, and the lattice goes when the blade lifts. Pumps before doorway. I've eight still-doors on the bar to stand in it. That's the foreman's trade, and it's on the slate as his." His eyes came up. "You'll call your own off. I'm told you're good at it. If your first door isn't shut before your foot's down, you go in the ditch. Dray!"
+"Field direction. Rowan, K. One attempt at the south link, door to door, declared. Because nobody else on this ground can stand on it, and it'll be at the sump inside the minute." He did not stop. "And this, which is mine. The lid's not down. I said the lid first, and I'm opening that link with the doorway two-thirds clear, and the lattice goes when the blade lifts. Pumps before doorway. I've eight still-doors on the bar to stand in it. That's the foreman's trade, and I'll answer for it." His eyes came up. "You'll call your own off. I'm told you're good at it. If your first door isn't shut before your foot's down, you go in the ditch. Dray!"
 
 There was a movement at the reserves' rail.
 
@@ -38,13 +32,13 @@ There was a movement at the reserves' rail.
 
 "You're a Stride. Over after her. There's a pin on a chain. When that lever's level, you drop it through the lower eye."
 
-Selka Dray stood with her yellow card in her hand. For one count she did not move, and Kiva saw her face. It was the face of somebody who has been handed a job by the wrong person, for the wrong reason, on the one morning she had come to be proved right.
+Selka Dray stood with her yellow card in her hand. For a breath she did not move, and Kiva saw her face. It was the face of somebody who has been handed a job by the wrong person, for the wrong reason, on the one morning she had come to be proved right.
 
 "Pin," said Dray. "Lower eye."
 
 She put a hand on the rail and went over it.
 
-Kiva had heard the part about the lid as one hears a thing that is being said to somebody else. She had been told three times what that lever did to a lattice, twice by this foreman and once by a keeper, and since she had begun to count iron she had not thought of it once. He had. He had thought of it, and weighed it, and written it under his own name, in the time it had taken her to lose four counts.
+Kiva had heard the part about the lid as one hears a thing that is being said to somebody else. She had been told three times what that lever did to a lattice, twice by this foreman and once by a keeper, and since she had begun watching the race she had not thought of it once. He had. He had thought of it, and weighed it, and taken it on himself, in the time it had taken the grey to slip under one more grating.
 
 "Go," said Vane.
 
@@ -53,8 +47,6 @@ Kiva had heard the part about the lid as one hears a thing that is being said to
 It was thirteen paces to the lip of the sump.
 
 Kiva took them at a hobble that was nearly a run. The knee howled. She let it. She was not going to need it for anything but leaving the ground.
-
-*Twenty-two. Sixteen.*
 
 She did not go to the end of the race. She went to a place on the brick lip a pace east of it, and stopped, and looked across.
 
@@ -66,35 +58,29 @@ There was room on that shelf for her two boots and nothing else.
 
 She would not be putting it into the lever. She had learned that on her face in a brick trough. The speed was going into the ground, through her, as it had always been going to. The lever came after, and that was only standing.
 
-*Eight.*
+The grey was two gratings from the ramp.
 
-"Rowan, changing on three!" It went up the terraces like a thrown stone. "Ember, to still!"
+"Rowan!" It went up the terraces like a thrown stone. "Ember, to still!"
 
-Forty paces north, Hollis Vane's right hand went up over his head, with the chalk in it. He had no flag. He had read her file on a tram.
+Forty paces north, Hollis Vane's right hand went up over his head, with the chalk in it. He had no flag. He had had the whole of her from the Chair, and he knew the rule.
 
 She did not wait for it. That was the rule. She waited for herself.
-
-"*One.*"
 
 The metal came off the cuff. It ran down her sides, cool and quick, and closed on her calves, and she bent the good knee and the bad knee together and left the ground.
 
 The lip fell away. The sump opened under her, with its copper.
 
-"*Two.*"
-
 She shut it at the top.
 
 The struts let go. She felt the metal run for home, up her legs and her ribs, and arrive. She had nothing. She was a girl in the air over a brick ditch with no doors at all, and the whole speed of a Stride in her like a stone in a sling, and a yellow wall coming.
 
-It lasted as long as a word. She had fallen through that word fourteen times.
+It lasted about as long as it takes to say her name. She had fallen through that gap in the yard more times than she liked.
 
 She did not listen for the iron. She would have been late.
 
 She set the pan.
 
-She set it under herself, before, as she had set it four hundred times under ash that had not yet fallen, in the dark, with two bad fingers. She opened the still door downward into a shelf that her boot had not reached, and held it there, wide and waiting, for the weight that was coming.
-
-"*Three.*"
+She set it under herself, before, as she had set it under ash that had not yet fallen, in the dark, with two bad fingers. She opened the still door downward into a shelf that her boot had not reached, and held it there, wide and waiting, for the weight that was coming.
 
 Her right foot came down into it.
 
@@ -108,8 +94,6 @@ She was standing on an iron grating with her shoulder a hand's width from the br
 
 She did not put the lid on.
 
-"Four," said Kiva.
-
 She took the crossbar. She put her right fist round it and hooked her left arm over it at the elbow, because she knew to the hair what those two fingers would tell her. Then she let herself go down.
 
 She did not pull. A still-door did not pull. She only became heavy, heavier than the shelf, as heavy as the wall, and the lever was in the way of it.
@@ -118,27 +102,19 @@ It came.
 
 The spring groaned like a ship. The iron bar swung down along the brick through a slow quarter of a circle. Above her head the copper blade lifted out of its jaws with a crack and a spit of blue.
 
-"Five."
-
 Every lamp in the Pit went out.
 
-She did not see them go. She felt it. The hum that had lain under that floor all morning stopped, as a held note stops. The great board was a black slab. And far off at the north end, something that had been pressing on the back of her neck through a lattice was suddenly pressing through nothing.
+She felt them go more than saw it. The hum that had lain under that floor all morning stopped, as a held note stops. The great board was a black slab. And far off at the north end, something that had been pressing on the back of her neck through a lattice was suddenly pressing through nothing.
 
 The lever was down. It was not level. She could see the lower eye in its bracket, and the hole in the bar, and a thumb's width of daylight between them. She had no more to give it. She was a first-year with a Hold of six and two, and one good arm.
 
-"Six."
-
 She looked down.
-
-*One,* said the part of her that had never stopped counting iron.
 
 The grey had come to the end of the race. It lay on the bare copper at the head of the ramp, three paces below her and a pace north, two ropes of it as thick as her arm, and it had been reaching for the dark mouth in the wall.
 
 It stopped.
 
 It lay on bars that had nothing in them, and it stopped as a hand stops on a door that it expected to open. Then, along the whole length of it, it let go. It slumped. It ran down off the copper into the bottom of the sump in a soft dry spill, and was only ash.
-
-"Seven."
 
 Twenty paces up the floor, the shine went off the string.
 
@@ -158,9 +134,9 @@ It came up through the fear, as it always had. *Stride. Three bounds and you're 
 
 If either of them opened, she would be standing over a live trunk on a jam.
 
-"Eight," said Kiva. Her voice was a croak. "*Nine.*"
+"Ember, cold," said Kiva. Her voice was a croak. "*Hand. Cold.*"
 
-She gave them the numbers. She gave them to the Ember and to the hand door, one each, like crusts to dogs. She kept her eyes on the hole in the bar. The left arm had started to shake at the elbow.
+She gave them the call. She gave it to the Ember and to the hand door, one each, like crusts to dogs. She kept her eyes on the hole in the bar. The left arm had started to shake at the elbow.
 
 Something landed beside her.
 
@@ -188,7 +164,7 @@ One of the hands let go. There was a scrape of steel.
 
 "It's the *pin's,* you—yes. Mine. Let go of it, Rowan!"
 
-"Ten," said Kiva. "Eleven."
+"Ember, cold," said Kiva. "Hand, cold."
 
 Up the floor, a wall of silver had come up like a sunrise. Three wards, bright and seamless, walked in to ten paces. The frosted face wavered. It hung between a girl on a shelf and three women in blue.
 
@@ -212,7 +188,7 @@ And the dram was gone.
 
 It was not all gone. But she could feel the place where it had been whole, half an hour ago, at a gate. A third of it was simply missing. It had not gone into the bound. A bound cost nothing. It had not gone into the stance. She had stood four minutes on a stance for a tenth.
 
-It had gone at the top. It had gone in the gap, in the time it took to say *two,* when she had shut one door and set the other and been nothing in between. Something had carried a Stride across that gap. Whatever it was had drunk a third of a dram to do it.
+It had gone at the top. It had gone in the gap, in the time it took to say her name, when she had shut one door and set the other and been nothing in between. Something had carried a Stride across that gap. Whatever it was had drunk a third of a dram to do it.
 
 The lines on her chest were not burning. She put her right hand up to be sure. They had not fought. They ached, all three, the whole length to her arm, with the deep, stupid ache of a muscle that has been used for the first time in its life.
 
@@ -222,7 +198,7 @@ There was something else there.
 
 It was small. It was exactly round. It lay between the bottom line and the next, where it had lain for four years, and it was warm.
 
-It was not the warmth of her own skin. She knew what her skin felt like through a shirt. This was warm as a hand is, when somebody lays it flat on your chest to feel whether you are breathing.
+She knew what her own skin felt like through a shirt. This was warm as a hand is, when somebody lays it flat on your chest to feel whether you are breathing.
 
 Kiva closed her fist round the disk through the cloth.
 
@@ -240,9 +216,9 @@ This time there was sound.
 
 Each of them had a note. She had not known that before, or had not kept it. They were not in tune. They came on toward one another over a dark country, each humming its one note, old and bright and unlike.
 
-She tried to count them.
+She tried to find the nearest.
 
-She got as far as four and lost the number. She began again. It would not stay. She, who had counted through a husk walking at her, could not hold a figure in her head for the length of a breath.
+There was no nearest. Every time she had hold of one light, another came in past it from the edge, and the edge went on. She, who could tell a lit cell through a wall, could not hold one of them still for the length of a breath.
 
 The lights touched.
 
@@ -258,19 +234,19 @@ Below her, very small and very exact, something answered.
 
 ---
 
-"—seventeen. Eighteen. Rowan. *Rowan!*"
+"—cold. *Cold,* you said. Rowan. *Rowan!*"
 
 Somebody had her by the belt.
 
 She was against the wall. The brick was rough on her cheek. A fist was knotted in the back of her belt and another in her collar, and both were hauling her inward, hard, away from the edge of an iron grating that she was a good deal nearer to than she had been.
 
-"You stopped counting," said Selka Dray, in her ear. Her voice was furious. "So I did it. Nineteen. Don't you dare go in that ditch. I've only just pinned this."
+"You stopped," said Selka Dray, in her ear. Her voice was furious. "You were saying *cold* at your hands, and you stopped, so I said it. I don't know what it's for. Don't you dare go in that ditch. I've only just pinned this."
 
 Kiva got her feet under her. The shelf was there. The Pit was there, dark and roaring.
 
 "How long?"
 
-"I don't know. Three counts. Four. You went white and started to lean." The grip on her collar did not ease. "Sit down. Against the wall. *Down.*"
+"I don't know. A few breaths. You went white and started to lean." The grip on her collar did not ease. "Sit down. Against the wall. *Down.*"
 
 She sat. There was nowhere else. She sat on the grating with her back to the brick and her bad leg sticking out over the sump, and found that her right fist was still closed at her chest.
 
@@ -312,15 +288,13 @@ He knew this capstan like his mother's mangle. It took two minutes with four. Wi
 
 It was a third of the way down when he heard her.
 
-It came the whole length of the Pit, thin and cracked and unmistakable. *Rowan, changing on three!*
+It came the whole length of the Pit, thin and cracked and unmistakable. *Rowan! Ember, to still!*
 
 He could not turn round. The bar was across his chest.
 
-*She's telling everyone,* thought Perrin. *All eleven hundred. She might have just told me.*
+*She's telling everyone,* thought Perrin. *The whole Pit. She might have just told me.*
 
-"One," said the far voice. "Two."
-
-He did not hear *three.* He heard the lamps go.
+He did not hear what came after. He heard the lamps go.
 
 They went all together. One moment there was a ring of pale lights round the rim and a note in his back teeth that he had stopped noticing on Monday. The next there was neither. The note stopped as if it had been cut with scissors.
 
@@ -348,11 +322,11 @@ Eight still doors opened at once.
 
 Perrin felt the platform take them. He had never been part of that before. It was like standing in a wall. The bar stopped kicking. The lid sat on the grey leg with the weight of two hundred years of cast iron and eight people who could not be moved, and the leg shoved upward, and nothing went either way.
 
-"It's pushing," said Brask. He sounded interested. He always did. "Good. It's got its whole self on that. Listen to me, the lot of you. This is a caller's rule, and it isn't ours, and I learned what it's worth in their lane. On three we give it the bar. One step back, all together. Then we take it again and we don't stop. Cade, what did I tell you every morning for a month?"
+"It's pushing," said Brask. He sounded interested. He always did. "Good. It's got its whole self on that. Listen to me, the lot of you. This is a caller's rule, and it isn't ours, and I learned what it's worth in their lane. When I call *give*, we give it the bar. One step back, all together. Then we take it again and we don't stop. Cade, what did I tell you every morning for a month?"
 
 "Arrive before you're there," said Perrin, through his teeth.
 
-"That's the one. One. Two. Three. *Give.*"
+"That's the one. Ready, all of you. *Give.*"
 
 They gave.
 
@@ -362,7 +336,7 @@ The capstan spun back a quarter turn. The lid jumped up a hand's width in its fr
 
 Eight still-doors drove the bars.
 
-Perrin did not plant for it. Brask had not asked for a stance. He had asked for a walk with a wall's weight in it, and Perrin gave him that, and his ribs gave him the rest.
+Brask had asked for a walk with a wall's weight in it, not a stance, and Perrin gave him that, and his ribs gave him the rest.
 
 The lid came down. It came down the hand's width and a yard more, in one long rattle of chain, onto a thing that was off balance and half out of a doorway. It did not stop this time.
 
@@ -370,29 +344,29 @@ It seated in its stone sill with a boom that he felt in the soles of his feet.
 
 On the cinder outside, a piece of grey as long as his arm lay by itself. It twitched once. Then it let go and poured, and was a heap of warm ash on the open floor with nobody to catch it.
 
-"Sixty," said somebody, stupidly. "Somebody ought to count."
+"That's open," said somebody, stupidly. "Somebody ought to catch it."
 
 "That's sweepings," said Brask. "Let it lie. Don't any of you go lit near it." He had not taken his hands off the bar. "Stay planted. All of you. I'd like four minutes of standing on this before I believe it."
 
 Perrin stood on it.
 
-He had said *ow.* He was fairly sure that he had said it loudly. There was a hot wire in his side where two ribs had nearly finished knitting, and he suspected that they would now have to begin again.
+He had said *ow*. He was fairly sure that he had said it loudly. There was a hot wire in his side where two ribs had nearly finished knitting, and he suspected that they would now have to begin again.
 
 A hand came down on his shoulder, broad and careful.
 
 "I'm telling you first," said Lowen Brask. "I'm going to ask you to stand here four minutes more, on those ribs, because you're the only one on this bar who didn't have to be told twice. After that I'll carry you to the healer myself."
 
-"I'd like it said that I mind."
+"I mind, you know."
 
-"It's said."
+"I know you do. Stand."
 
-Far off at the dark south end, a girl's voice was counting. It was not Kiva's. It sounded cross.
+Far off at the dark south end, a girl's voice was saying one word over and over. It was not Kiva's. It sounded cross.
 
 Perrin listened to it, and stood.
 
 ---
 
-The lamps went out, and the thing in front of Rhea Sorn remembered that it was a husk.
+The lamps went out, and the thing in front of Rhea Sorn went back to being a husk.
 
 She saw it happen. The shine drew in off the whole column and sat on one face of the top knot, a thick dull bloom. It was thicker than it had any right to be. It had not broken when the boy cut the first rung. It had slid, and she had seen it slide, and thought, *that's new,* and then the floor had gone dark and there had been no leisure for the thought.
 
@@ -404,11 +378,11 @@ It swung south. It had found something on the wall.
 
 He had three. Stroud was on a stretcher at the gate with her hands in wet cloth.
 
-That was Rhea's, and she did not dress it. Hollis had asked whether she could cut what had gone down through the grating, and she had said *a ward might,* and Greta Stroud had gone onto one knee beside a leg as thick as a tree because the senior Edge of her company thought it a fair notion. It had been a fair notion. Rhea had had a great many of those in twenty-three years, and until this morning not one of them had been paid for with another woman's hands. She would go to the gate when the last rung was bagged and say so to Greta's face. It would give nothing back.
+That was Rhea's, and she did not dress it. Hollis had asked whether she could cut what had gone down through the grating, and she had said *a ward might,* and Greta Stroud had gone onto one knee beside a leg as thick as a tree because the senior Edge of her company thought it a fair notion. It had been a fair notion. Rhea had had a great many of those in twenty-three years, and until this morning not one of them had been paid for with another woman's hands. She would go to the gate when the last rung was bagged. It would give nothing back.
 
 Three Torch wards made a wall that was bright enough and not wide enough, and Rhea heard Mace say a name that was not on his roster.
 
-"Pryce. Behind Imrie's shoulder. Hands below your belt. You're not in the line. If she says *take,* you take, for ten, and you give it back."
+"Pryce. Behind Imrie's shoulder. Hands below your belt. You're not in the line. If she says *take,* you take, and you hold it till she's breathing, and you give it back."
 
 A girl in a plain dark coat came across the cinder at a walk and stood where she had been put.
 
@@ -416,13 +390,13 @@ The face came round to the wall. Rhea let out a breath.
 
 She did not look south again. She had seen what there was to see, and she had a Flask. But it sat at the back of her eyes while she worked: a girl crossing three paces of air and stopping on iron as if she had been set there with a hand. There had been nothing on her shins.
 
-Rhea had run a plate four times, six weeks ago, to be sure what a jam looked like. That had not been one.
+Rhea had run the Cellhouse plate four times, six weeks ago, to be sure what a jam looked like. That had not been one.
 
-*Not to be expected twice,* she had written. She had been right. It had not happened twice. This was a different thing, and it had happened once.
+*Not for draft this season,* she had told Doran then. She had been right about that much. This was a different thing, and it had happened once.
 
 "Whose sheet's nearest?" she said.
 
-"Old Four's." Hollis was at her elbow with his slate. "Their catcher's a third-year. He's waited two springs for this."
+"Old Four's." Hollis was at her elbow. "Their catcher's a third-year. He's waited two springs for this."
 
 "Then he can have it."
 
@@ -448,13 +422,13 @@ Sixty drams came down. The skin slid.
 
 It did it again, as it had for the boy. It tipped and went down one rung and sat on the next knot, and it was thicker.
 
-"Dark. One."
+"Dark."
 
 The line drew off. Ten paces down the floor, three wards and a student's shoulder stood burning in the dead grey morning, and the blind thing swayed, and walked to them, and leaned.
 
 *It likes a gate.*
 
-Somebody had told sixteen children to put out every light on this floor. It was inside the book. Hollis had let them, and written it down, and she knew him well enough to know that he would have his own hide for it before the board did. She would have left a wall. So would he.
+Somebody had told sixteen children to put out every light on this floor. It was inside the rules. Hollis had let them, and she knew him well enough to know that he would have his own hide for it before the board did. She would have left a wall. So would he.
 
 Neither of them would have guessed what it would find instead. She was honest enough to grant that, and she was in no position this morning to be superior about other people's notions.
 
@@ -462,11 +436,11 @@ She cut the third. She cut the fourth, with a student team from the east wall ba
 
 "Take," said Imrie.
 
-Rhea was looking at the knot. She did not see the join. She listened for it, as she always did, and for ten slow counts there was a place in the Graywater wall that was held by a seventeen-year-old in a laundry coat.
+Rhea was looking at the knot. She listened for the join, as she always did, and for the space of a few slow breaths there was a place in the Graywater wall that was held by a seventeen-year-old in a laundry coat.
 
 She did not hear it.
 
-"Give," said the girl. Her voice was steady. "Yours."
+"Give," said the girl. Her voice did not shake. "Yours."
 
 "Mine."
 
@@ -486,7 +460,7 @@ It went. But it had been lit for a full second. She had not been lit for a full 
 
 She looked at what remained. It was low and wide, six legs and two great knots in its belly, side by side. The skin had come down with nowhere further to go. It lay over both of them like a lid on a pan.
 
-Two knots. The book said two blades, together, or it would fall wherever it liked.
+Two knots. The rule said two blades, together, or it would fall wherever it liked.
 
 She had cut two with one line twice in her life. Once it had not worked, and a catcher had lost a foot.
 
@@ -494,7 +468,7 @@ She had cut two with one line twice in her life. Once it had not worked, and a c
 
 "You'll have it when I've got it," said Bettan.
 
-It took the best part of a minute. The wall went round in an arc, a step at a time, and the low grey thing shuffled after it, turning. Rhea stood with her fist at her side and did nothing whatever in front of eleven hundred people. She had long since stopped minding that.
+It took the best part of a minute. The wall went round in an arc, a step at a time, and the low grey thing shuffled after it, turning. Rhea stood with her fist at her side and did nothing whatever in front of a full Pit. She had long since stopped minding that.
 
 She had time to look south.
 
@@ -520,15 +494,17 @@ It went onto the double sheet with a sigh, all of it, and four catchers were on 
 
 Rhea let the metal run home. Her arm ached to the shoulder.
 
-She took a card from her coat while the count was still open, and a stub of pencil, and wrote on it standing up.
+Doran Mace came and stood by her while the ash was still open, and she did not look round at him.
 
-*Flask, the Pit, the 29th. Company left no gate; string took the bus. Rowan opened the south link on two doors, one after the other. Nothing dropped between. About ten seconds. Then down. That is not what I saw on the plate. Still NOT for draft. Attach Seven to Graywater. I'll take the shift myself. — R.S.*
+"That girl on the shelf," she said. "Not for draft. Not this year, and I'll say so to anyone who asks. But I want her team attached to us on the second step, if the board gives one, and I want them on the van for a night." She flexed the hand that had held the blade. "I'll take the shift myself."
 
-She read it over once, and put it away. Then she walked to the west gate, where the stretcher was, to say what she owed to the woman on it before anybody else could say it for her.
+Mace looked at her for a long moment, and then he nodded.
+
+Rhea walked to the west gate, where the stretcher was, and sat down on the step of the cart beside it.
 
 ---
 
-The keeper came through his iron door four minutes and nine seconds after he had left his stool.
+The keeper came through his iron door a little over four minutes after he had left his stool.
 
 He stood in the doorway with his keys in his fist, heaving like a bellows, and looked at two students on his shelf and a lever pinned level in its lower eye.
 
@@ -538,9 +514,9 @@ He stood in the doorway with his keys in his fist, heaving like a bellows, and l
 
 Dunmore looked at Kiva's strapped knee. He looked at the three paces of sump. He opened his mouth, and shut it, and took a brass padlock off his ring and put it through the pin.
 
-"I'll want that in my book," he said. "I don't know what I'll write."
+"Well," he said. "I don't know what I'll tell the Works."
 
-He took them out by the road stair. It was sixty-one steps. Dray went up them behind Kiva with one hand an inch from her belt, not touching it, and said nothing the whole way.
+He took them out by the road stair. It was a long, steep one. Dray went up them behind Kiva with one hand an inch from her belt, not touching it, and said nothing the whole way.
 
 At the top, in the daylight, with the Brickfields road in front of them and the Pit roaring behind the wall, she spoke.
 
@@ -548,13 +524,13 @@ At the top, in the daylight, with the Brickfields road in front of them and the 
 
 "I didn't think you had."
 
-"You were on a floor and a branch went dark. Again. I'll be writing that down." The red head was up. Her face was pale and set. "You called that floor dark. All of it. I was at the rail and I heard you call it, and there wasn't a reserve along that rail who couldn't tell me whose notion it was."
+"You were on a floor and a branch went dark. Again. I'll be taking that to the Chair." The red head was up. Her face was pale and set. "You called that floor dark. All of it. I was at the rail and I heard you call it, and there wasn't a reserve along that rail who couldn't tell me whose notion it was."
 
 "It was mine."
 
 "Yes." Dray seemed thrown by having it handed to her. She recovered. "I'd have pinned that lever for anybody. Get that straight. It's nothing to do with you."
 
-"I know. Thank you for counting."
+"I know. Thank you for calling it."
 
 "Somebody had to," said Selka Dray, and walked away down the road toward the keeper's gate.
 
@@ -570,7 +546,7 @@ She did not see it done. She saw the floor afterward: a dark arena under a brigh
 
 Her own bag lay on the trestle where Perrin had set it down.
 
-"It's to be panned inside the hour," said the clerk in the apron. He had not left his post. He was a brave boy, she thought, or a very frightened one. "It's the rule. I've been keeping the time. You've eleven minutes."
+"It's to be panned inside the hour," said the clerk in the apron. He had not left his post. He was a brave boy, she thought, or a very frightened one. "It's the rule. I've been watching the clock. You've a quarter of an hour."
 
 Kiva held up her left hand. It was shaking like a leaf on a twig, and the first two fingers were the color of candle wax.
 
@@ -598,7 +574,7 @@ He turned it over. A thread of grey ran out along the rim.
 
 "It didn't click. Do it again."
 
-It made eight tins, and part of a ninth. Bettan came with her brass balance and set them on the pan one at a time, moving the little weights with a fingernail.
+It made eight tins, and part of another. Bettan came with her brass balance and set them on the pan one at a time, moving the little weights with a fingernail.
 
 "Fifty-one," she said. "And two-tenths."
 
@@ -622,17 +598,15 @@ He did not wait to hear whether there was any.
 
 "Your rung's passed," said Hollis Vane.
 
-He had come up behind Bettan. He looked ten years older than he had at ten o'clock, and he held the slate out where the four of them could read it.
+He had come up behind Bettan. He looked ten years older than he had at ten o'clock.
 
-*T7. Rung one: hold, cut, bag sealed at 47. 51.2 on the table, to grade. Nothing printed. Co. left no gate lit; string took the race; event struck 10:22. Field direction 10:23: Rowan to S. link, two doors in sequence, declared. Link ordered open with lid a third down: foreman's trade, pumps before doorway. Link opened; held till pinned (Dray). Lattice dropped; second string started; lid seated on it (Brask, eight on the bar). Hurt: Rowan, collapse after. Cade, ribs, again. Rung passed, subject to the bag. The rest is for the board.*
-
-"I'll say this once," he said. "I told you that I'd leave a gate, and I let you not. It was inside the book. I didn't know a string could take a bus. Nobody did. That's my line on the slate as much as yours, and I'll be saying so in a room on Friday. The line under it is mine alone. I said the lid first, and I sent a candidate to that lever with the lid a third down, knowing what the lattice would do. I'd weigh the pumps against that doorway the same way tomorrow. But Mr. Cade's ribs are in the sum, and they're in it under my name."
+"Subject to the grade," he said. "Fifty-one and a fifth, bagged on your own sheet, sealed inside the minute, nothing printed. The rest is for the board. I'll say this once." He looked at the four of them in turn. "I told you that I'd leave a gate, and I let you not. It was inside the rules. I didn't know a string could take a bus. Nobody did. That's mine as much as yours, and I'll be saying so in a room on Friday. The next part is mine alone. I said the lid first, and I sent a candidate to that lever with the lid a third down, knowing what the lattice would do. I'd weigh the pumps against that doorway the same way tomorrow. But Mr. Cade's ribs are in the sum, and they're mine to answer for."
 
 "Brask told me first," said Perrin, from the cinder. "Before he asked. I'd recommend it."
 
 Vane looked down at him for a moment, and nodded, as he would have nodded to an officer.
 
-"I've written that down as well," he said. His pale eyes went to Kiva. "You told me it was keeping time. I looked at that board twenty seconds sooner than I would have. I've been trying to work out what I'd have done with twenty seconds less."
+His pale eyes went to Kiva. "You told me it was keeping time. I looked at that board twenty seconds sooner than I would have. I've been trying to work out what I'd have done with twenty seconds less."
 
 She had no voice to answer him with.
 
@@ -640,16 +614,20 @@ She had no voice to answer him with.
 
 "On the lever."
 
-"That's forty minutes." Anwen opened her eyes. "Aske said the same hour. Not the next day. I was in the room." She turned her head. "Kellan. Where's the team book?"
+"That's forty minutes." Anwen opened her eyes. "Aske said the same hour. Not the next day. I was in the room." She turned her head. "Kellan. The reserve."
 
-"In my coat."
+"It's sealed."
 
-"We've a dram, sealed, with her name on what it's for. I want it signed out. All four. Now." She was already getting up. "I want that said."
+"It's sealed for this. Her hand, inside the hour. I want it opened, all four of us agreed, now." She was already getting up. "Perrin?"
 
-"It's said," said Perrin, from the ground. "Somebody help me find a pencil."
+"Agreed," said Perrin, from the ground. "Somebody help me up."
 
-Kiva looked across the dark floor.
+"Agreed," said Kellan.
 
-A woman was coming over it from the keeper's gate with a canvas-backed book under her arm, walking fast. Beside her, on a stick, slower, came another.
+Kiva had her right hand up before anybody thought to ask her.
+
+She looked across the dark floor.
+
+A woman was coming over it from the keeper's gate with a tool roll under her arm, walking fast. Beside her, on a stick, slower, came another.
 
 She did not know which of them she wanted to tell first. She found that she was going to have to tell them both.

@@ -18,7 +18,7 @@ She did not see him go up. She had promised herself the sheet. But she heard the
 
 Then the cinder in front of her knees turned blue-white, and was grey again.
 
-It was so short that she doubted it. Four-tenths, he had said. It was the time it took to shut a book.
+It was so short that she doubted it. Less than half a second, he had said. It was the time it took to blink.
 
 Something above her let go.
 
@@ -32,17 +32,17 @@ There was no time to think about a plate. Sixty drams were coming down.
 
 They came like sand out of a split sack, a long soft roaring rush down the face of the string, and they struck the middle of the canvas and heaped and spread. She felt the weight of it arrive through her knee. It was warm. She could feel the warmth on her face from the hem.
 
-"*Dark!* Whole floor! One. Two."
+"*Dark!* Whole floor!"
 
 The four wards went out together.
 
-She heard it go round the Pit, the same word from a dozen mouths, *dark, dark,* and then a silence from the cinder that she had never heard on a floor before. Sixteen people had put out every worked thing they had. There was not a blade lit from the Kiln to the sump, nor a wall, nor a stance. Up on the terraces, eleven hundred people had noticed it and were not sure what they had noticed.
+She heard it go round the Pit, the same word from a dozen mouths, *dark, dark,* and then a silence from the cinder that she had never heard on a floor before. Sixteen people had put out every worked thing they had. There was not a blade lit from the Kiln to the sump, nor a wall, nor a stance. Up on the terraces, the whole Pit had noticed it and was not sure what it had noticed.
 
-"Three. Corners!"
+"Corners!"
 
 Anwen was at the south hem before the word was finished. Perrin had the west. Kellan came in from the north on his own two feet, with his hands open, and took his fistful of lead without being told how.
 
-"Up. Together. Over the top. Seven. Eight."
+"Up. Together. Over the top."
 
 It was a great deal heavier than a Handful. The four hems rose like the sides of a tent, and the heap slid inward and lay in the hollow, and lifted, and settled.
 
@@ -58,21 +58,21 @@ She knew what kept time like that. She had grown up over a shop full of it.
 
 *That's a drum,* she thought. *That's one pen on one drum.*
 
-"Twenty," she said aloud. She had a number. She was not going to lose sixty drams to an idea. "Twenty-one. Haul."
+"Haul," she said. She had a bag to close. She was not going to lose sixty drams to an idea.
 
 She hauled the cord. The neck came in, hand over hand, stiff as a hawser. Her left arm did its share from the elbow. She took the first turn, and the second.
 
-"Anwen. The third's yours. On three. One. Two. Three."
+"Anwen. The third's yours."
 
 "Mine." Anwen's hand came in, quick and neat, and crossed it over. "Yours."
 
 Kiva pulled the end through. She pressed the wax down with the heel of her right hand, and felt it take.
 
-"Sealed. Forty-seven."
+"Sealed."
 
 Somebody on the east terrace cheered, one voice, and was hushed.
 
-She should have felt it then. It was thirteen counts inside the mark, on a full rung, with a skin, in front of the Placement Chair. But the little tap was still in her knees, fading as the bag settled, and she had learned on a plank bridge what came of feeling a thing through a cloth and saying nothing.
+She should have felt it then. It was well inside the minute, on a full rung, with a skin, in front of the Placement Chair. But the little tap was still in her knees, fading as the bag settled, and she had learned on a plank bridge what came of feeling a thing through a cloth and saying nothing.
 
 "Foreman!"
 
@@ -80,15 +80,15 @@ Hollis Vane was ten paces off, at the foot of the sheet, with his chalk.
 
 "It's curved. All of it, not a trace. And there's something else in it, under the curve. I felt it till the seal." She made herself say the stupid part. "It's keeping time. Like a mast pen."
 
-He did not chalk that. He looked at her for one long breath, and she saw him decide that he did not know what it meant either.
+He did not answer at once. He looked at her for one long breath, and she saw him decide that he did not know what it meant either.
 
 Then he looked up, past her, at the east wall.
 
 Kiva turned her head. Under the great board, in its glass-fronted case, twelve needles stood where they had stood all morning. The old keeper sat beneath them on his stool with his hands on his knees.
 
-They were steady. Every one.
+They were still. Every one.
 
-Vane wrote something short on the slate. "Get it to the table," he said. "I've heard you."
+"Get it to the table," said Vane. "I've heard you."
 
 ---
 
@@ -96,9 +96,9 @@ Perrin took the pole across his shoulders like a yoke.
 
 The bag hung from the middle of it, a fat canvas pudding with a hem full of lead, and he said *ow* once, quietly, in the tone of a boy keeping a promise to a healer. Kiva limped beside him with one hand on the neck of the canvas. A catcher stayed with her ash. The warden had told her that on her second day.
 
-It was a long way to the south end. She counted it, because she was counting everything. Thirty paces. Forty.
+It was a long way to the south end, and every pace of it went through the knee.
 
-"Forty-seven," said Perrin, between breaths. "With a skin on. Kiva. That's a pass. That's four of us with a second step."
+"Sealed, with a skin on," said Perrin, between breaths. "Kiva. That's a pass. That's four of us with a second step."
 
 "Subject to the bag."
 
@@ -132,7 +132,7 @@ The lowest of its knots hung down between the legs. It hung slack. It brushed th
 
 *Like the hem of a coat that wants taking up.*
 
-She had written that on a river bank, seventeen days ago, with a question mark after it. She had read it aloud at a kitchen table and been told that it was half a reading. She had read it aloud again on a terrace, and had it answered by a woman who had knelt behind more strings than anybody in the Pit, and she had been glad of the answer.
+She had thought that on a river bank, seventeen days ago, and not trusted it. She had said it at a kitchen table and been told that it was half a reading. She had said it again on a terrace, and had it answered by a woman who had knelt behind more strings than anybody in the Pit, and she had been glad of the answer.
 
 "That's ten paces," said Kiva. Nobody was near enough to hear but the clerk. "The Kiln's twenty-two. I set it twenty-two from the Kiln."
 
@@ -148,7 +148,7 @@ Along the floor, the fifth company stood exactly where they had been standing wh
 
 It was Old Four's rung. Their sheet lay squared on its own mark, twelve paces south of where Kiva's had been, with the quiet boy kneeling at its hem. The four wards came up in a row with Edda in the middle. They were bright. They were five paces off the thing's southern flank, between it and their own sheet.
 
-The count was past ninety. The second knot ought to be waking.
+The ash had been open well past a minute. The second knot ought to be waking.
 
 It was awake. Kiva could see that from the table. There was frost on it.
 
@@ -196,7 +196,7 @@ She looked at the gratings. She was too far away to see through them. But the ne
 
 It was the old keeper, and he had knocked over his stool.
 
-"I've a load on the race that isn't on my book! All twelve! They've gone into step, man, look at them, they're ticking like a row of clocks!"
+"I've a load on the race that isn't mine! All twelve! They've gone into step, man, look at them, they're ticking like a row of clocks!"
 
 Kiva looked at the glass case.
 
@@ -206,9 +206,9 @@ Nobody on the terraces was laughing now.
 
 "Event's struck," said Hollis Vane.
 
-He said it flatly, for the slate, and chalked as he spoke.
+He said it flatly, in a voice that went to every corner of the floor and did not seem to be raised.
 
-"Ten twenty-two. This is a response and it's mine. Students dark and off the race. Back to the east wall, all of you, and stand where I can count you. Graywater. You're in."
+"This is a response and it's mine. Students dark and off the race. Back to the east wall, all of you, and stand where I can see you. Graywater. You're in."
 
 ---
 
@@ -274,9 +274,7 @@ It was not much. One thick leg lifted, and came down a pace to the south. Anothe
 
 "The trunk, man! The bank! Four-and-twenty cells with that tick in every one of them, and the pumps hung off them!" Dunmore's keys were jangling. "If it gets a cord past my link, I can't cut it off from this side. I'll have to quench the lot. The whole bank. And the Ferren's a yard over the weir this week."
 
-Kiva knew what that sentence meant. She had read it out, a line at a time, at a kitchen table.
-
-*Was it closed. Who was hurt. What still works in the morning.*
+Kiva knew what that sentence meant. With the pumps down and the river a yard over the weir, there would be water in every cellar in the Hythe by night.
 
 "Then open your link," said Vane.
 
@@ -298,21 +296,11 @@ There was grey in it.
 
 It was moving. It came along the copper in the bottom of the race like water finding its way down a gutter, two ropes of it, one to each bar. It was well ahead of the legs. It had reached out before the body had taken its first step.
 
-She watched it pass under a grating. She counted.
+She watched it pass under a grating, and under the next. It went no faster than a man walks. It did not need to. She looked up the line to where the grey began, and down it to the sump, and there was not much iron left between.
 
-*One. Two. Three. Four.*
+It would be at the sump inside the minute. The keeper wanted four.
 
-It passed under the next.
-
-A grating was a pace. A pace was four counts. She looked up the line to where the grey began, and down it to the sump, and counted iron.
-
-Fifteen.
-
-*Sixty counts.*
-
-She had done this sum before. She had done it on a mezzanine with her palm on a drum, and a needle going up a tenth at a time, and three people who would not be out of a pump room when it got to the top. She had been right then. It had not helped.
-
-Sixty counts to the link. Four minutes to the keeper.
+She had watched a thing like this before, on a mezzanine with her palm on a drum and a needle climbing, and three people who would not be out of a pump room when it got to the top. She had been right then. It had not helped.
 
 And the link was a sprung iron lever on a shelf across three paces of open sump. It wanted four hundredweight to bring it level. *One good still-door with his boot on the shelf.* There was no way onto that shelf but a door in a wall that an old man had not reached yet.
 
@@ -324,9 +312,7 @@ The thing wanted somebody who could cross like the one and stand like the other.
 
 Kiva stood at a deal table with a sealed bag and a whole dram in her that she had not touched.
 
-*No,* she thought. It was quite clear. *It's not on my paper. I've a knee I'm not to land on till the second of next month. Fourteen tries. I'd sign none of them, she said.*
-
-*Fifty-two.*
+*No,* she thought. It was quite clear. *It's not on my paper. I've a knee I'm not to land on till the second of next month. She'd put her name to none of them, she said.*
 
 The grey slid under another grating.
 
@@ -336,9 +322,9 @@ She was not going to do it. She saw that with relief. She was going to do the th
 
 Her voice cracked on it. The Pit took it and threw it up the terraces. Vane's head came round.
 
-"It's ahead of itself! The cords! They're in the race, fifteen gratings from the sump, a grating every four counts!" She pointed. Her hand was not steady. "That's sixty. Fifty now. The keeper's four minutes!"
+"It's ahead of itself! The cords! They're in the race, and they're going for the sump!" She pointed. Her hand shook. "They'll be there inside a minute! The keeper's four!"
 
-He looked. He looked down the line of iron as she had, and she watched him do the same sum, and get the same answer, and not like it.
+He looked. He looked down the line of iron as she had, and she watched him see what she had seen, and not like it.
 
 His pale eyes swept the south end of the floor. They went over the sump, and the sheer yellow wall, and the iron shelf. They went over a trestle table, and a clerk in an apron with his hands up to his mouth.
 

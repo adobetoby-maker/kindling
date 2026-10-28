@@ -1,14 +1,14 @@
-# Chapter 19 — Kiva: Rule Nine
+# Chapter 19 — Kiva: Rule Six
 
 "It's a caller's rule," said Jude Talley.
 
 He had the home book open on the bench in the Low Lane, a fat brown volume with a cracked spine, and he read from it as if he suspected it of making fun of him.
 
-"*Nine. A change called to a count is declared at the count.*" He looked up. "That's all. That's the whole rule. It's from when the school fought everything in fours with a caller, and the caller sang out what was coming so the other three could move on it. *Talley, turning on two.* Everybody else's book says that's telling the enemy. Ours says the enemy was going to find out anyway, and your own side ought to know first."
+"*Six. A change called aloud is declared when it is called.*" He looked up. "That's all. That's the whole rule. It's from when the school fought everything in fours with a caller, and the caller sang out what was coming so the other three could move on it. *Talley, turning.* Everybody else's book says that's telling the enemy. Ours says the enemy was going to find out anyway, and your own side ought to know first."
 
 "Has anyone used it?" said Kiva.
 
-"Not in my three years. Nobody's had anything worth counting in." He shut the book. His chipped tooth showed when he was thinking. "But I've been to see the lane warden, and he's been to see the Circuit, and here's how they read it. You say *Rowan, changing on three,* and the doors. The flag goes up then. Straight off. And you change on your own *three* and at no other time. Go before it, or after it, and it's undeclared."
+"Not in my three years. Nobody's had anything worth calling." He shut it. His chipped tooth showed when he was thinking. "But I've been to see the lane warden, and he's been to see the Circuit, and here's how they read it. You say *Rowan,* and the doors, *Ember to still.* The flag goes up then. Straight off. It's declared the moment it's out of your mouth, and you may make it from then on. Make it before you've said it, and it's undeclared."
 
 "So I don't wait for the flag."
 
@@ -18,11 +18,11 @@ It was Monday afternoon, and the old wooden mast ticked in its corner. Pru Finch
 
 Jude had chalked the New Lane on the brick, as two rows of dots and a box.
 
-"Now. Saturday. He watched the Wren House walk round you, and he wrote it down. I saw him." He tapped the box that was Donny. "So I'll tell you what a patient man does with that. He lets you plant. He leaves you the litter. And he takes four still-doors and goes hunting the three of us among the posts, where Noa can't stretch his legs and Pru's wall has ends. He'll take a point a minute and never lay a finger on you."
+"Now. Saturday. He watched the Wren House walk round you, and he sat there and took in every bit of it. I saw him." He tapped the box that was Donny. "So I'll tell you what a patient man does with that. He lets you plant. He leaves you the litter. And he takes four still-doors and goes hunting the three of us among the posts, where Noa can't stretch his legs and Pru's wall has ends. He'll take a point a minute and never lay a finger on you."
 
 "I could drag it home."
 
-"On that knee? With the door shut? Keld would take it off you like a hat." Jude rubbed his jaw. "No. If they won't come to the stop, the stop goes to them. Second carry, you declare the Ember. You go where the sandbag goes, on the struts, low, one bound at a time, with the bar out for their wrists. And when we've got it somewhere worth holding, you call rule nine. You come down. You stop. You count your three and you plant on it, with the flag already up."
+"On that knee? With the door shut? Keld would take it off you like a hat." Jude rubbed his jaw. "No. If they won't come to the stop, the stop goes to them. Second carry, you declare the Ember. You go where the sandbag goes, on the struts, low, one bound at a time, with the bar out for their wrists. And when we've got it somewhere worth holding, you call Rule Six. You come down. You stop. You call it, and you plant, with the flag already up."
 
 Kiva looked at the chalk, and then at the bench by the door.
 
@@ -30,7 +30,7 @@ Kiva looked at the chalk, and then at the bench by the door.
 
 "That's what I said."
 
-"I only mean that there's another way of doing it. If the three fell as my foot did."
+"I only mean that there's another way of doing it. If I called it as I went, and the stance came as my foot did."
 
 Nobody in the Low Lane moved. The mast ticked.
 
@@ -42,7 +42,7 @@ She had not raised her voice. She did not need to in a cart shed.
 
 "Twice into a post," said Kiva.
 
-"Once into a post. The second was the ground." Orla's eyes came back to her. "I'm not forbidding the count. The count's lawful and your captain wants it. You'll use it the slow way, with a stop in the middle that a child could see. Tell me you will."
+"Once into a post. The second was the ground." Orla's eyes came back to her. "I'm not forbidding the call. The call's lawful and your captain wants it. You'll use it the slow way, with a stop in the middle that a child could see. Tell me you will."
 
 "I will."
 
@@ -58,13 +58,13 @@ He read the mast afterward, on Orla's terms, which were that Kiva was to stand u
 
 The store had opened at noon, and the new week's thimble of ash was in her, warm and whole. She did the drill first, the three doors one after another, with a breath between, and heard the pen scratch behind her.
 
-Then she stood on a crack in the brick and made the seventh try.
+Then she stood on a crack in the brick and tried the bound again.
 
 It was a drop. She knew it in the air. She had been so afraid of the line lighting that she let the Ember go a full stride early and came down as herself, on her right foot, and reached for the ground like someone feeling for a light cord. Orla did not trouble to get up. She leaned over from the bench and pushed with two fingers, and Kiva sat down on the drain cover beside Pru.
 
 "Hello," said Pru. "You've got brick on you."
 
-The eighth was a jam. It was quick and stupid, and she called it inside the breath and shut the lot, and stood with her hands on her knees while the bottom line burned and cooled.
+The next was a jam. It was quick and stupid, and she called it inside the breath and shut the lot, and stood with her hands on her knees while the bottom line burned and cooled.
 
 "That's all," said Orla. "Read it, Mr. Bexley."
 
@@ -74,19 +74,19 @@ Noa had the tape in both hands, and his narrow face was pale.
 
 "For one bound?"
 
-"For one bound and whatever you did after it. And the second." He stopped. He held the tape nearer the window. "Nine. Nine hundredths. In less than a second. The pen went up the paper like a mouse up a curtain." He looked at her over it. "Kiva, the book says a four-minute hold is twelve. You burned nine while falling over."
+"For one bound and whatever you did after it. And the second." He stopped. He held the tape nearer the window. "Eight. Eight hundredths. In less than a second. The pen went up the paper like a mouse up a curtain." He looked at her over it. "Kiva, a four-minute hold's rated at twelve. You burned eight while falling over."
 
-"That's the two of them fighting," said Kiva. "It's what the bench measured on Classification Day. Only that was for a slow count of ten."
+"That's the two of them fighting," said Kiva. "It's what the bench read on Classification Day. Only that was for ten seconds."
 
 "Three point one," said Noa. He said it softly. He had clearly thought he would never meet that number in the flesh. "Yes. I see."
 
-He wrote the figures into her book himself, at the bench, under the date, and turned it round so she could check them against the tape, and then he wrote them in his own, while Jude watched him do it.
+He held the tape out so that she could see the pen's climb for herself, and Jude leaned over his shoulder to look at it too.
 
 "So every time she misses, it costs her a carry's worth of ash," said Jude slowly.
 
 "A third of a carry. Or three-quarters, if she misses the hot way."
 
-"And she's a thimble a week." The captain was quiet. He was not a boy who did sums for pleasure, and he had done this one. "I'd lend you mine, Rowan. I've thought about it since Friday, when Bexley told me you'd run dry. I've half a dram, same as you, and four meets, and a blade that wants a lit hour before each one." He shook his head. "I can't. But I looked at it properly, and I'd not have you think I hadn't."
+"And she's a thimble a week." The captain was quiet. He was not a boy who did sums for pleasure, and he had worked this one out. "I'd lend you mine, Rowan. I've thought about it since Friday, when Bexley told me you'd run dry. I've half a dram, same as you, and four meets, and a blade that wants a lit hour before each one." He shook his head. "I can't. But I looked at it properly, and I'd not have you think I hadn't."
 
 "I wouldn't have taken it."
 
@@ -112,7 +112,7 @@ Pru had been unusually silent, and now she drew a breath that seemed to come fro
 
 Kellan Renn came to the Old Yard that night with his coat buttoned to the neck.
 
-He had not been asked, and he stood at the edge of the lamplight until Orla nodded him to the spare crate, and then he sat, and took out the folded paper, and watched Kiva walk to the line.
+He had not been asked, and he stood at the edge of the lamplight until Orla nodded him to the spare crate, and then he sat, and watched Kiva walk to the line.
 
 "Before she goes," he said. "May I ask something? About the bound."
 
@@ -140,7 +140,7 @@ She stood on the line and thought about that, because it changed the shape of th
 
 She had been picturing a doorway, and herself jammed in it with a door in each hand, and this was not a doorway. It was a gap, a real one, with air under it: the Ember shut at the top, and nothing open, and the ground coming up. There would be a girl in the air with no doors at all, falling at the speed of a Stride.
 
-And the speed would still be there. It would not be in the Ember. It would only be in her, as it was in a thrown stone.
+And the speed would still be there, in her and not in the Ember, as it was in a thrown stone.
 
 *That's where the work is,* she thought. *When it isn't in either one.*
 
@@ -160,7 +160,7 @@ She did not sit down. She went back two steps and kept her feet. Her knee said o
 
 "Cold. It never stirred."
 
-"No. It had nothing to quarrel with. That's the first of nine where you weren't at any risk of burning." She looked at Kellan for rather a long moment. "I've taught a Stride to forty students, Mr. Renn. I never told one of them that. I didn't know it needed saying."
+"No. It had nothing to quarrel with. That's the first one where you weren't at any risk of burning." She looked at Kellan for rather a long moment. "I've taught a Stride to forty students, Mr. Renn. I never told one of them that. I didn't know it needed saying."
 
 "I didn't know it was a thing people didn't do."
 
@@ -168,15 +168,15 @@ She did not sit down. She went back two steps and kept her feet. Her knee said o
 
 "Then that's already late," said Kellan. "I light after the foot because a cut's allowed to be late. It only has to be clean. Yours has to be there when the weight is." He frowned. "How long were you falling? From shut to ground."
 
-She tried to remember it. There had been time to feel the metal get home. There had been time to be afraid.
+She tried to find it again in her body. There had been time to feel the metal get home. There had been time to be afraid.
 
-"About as long as it takes to say *two*."
+"About as long as it takes to say my name."
 
-"Then it's somewhere inside *two*," said Kellan. He wrote it down.
+"Then the stance has to be in you somewhere inside your name," said Kellan. He looked pleased, which on Kellan meant one eyebrow.
 
-Orla would not let her go again, for the knee had spoken, she said, and she had heard it from the crate. Kiva wrote the ninth in the book, a drop and a cold line, and under it the cost, which Noa had not been there to read and which she could only feel: less than the others. A good deal less.
+Orla would not let her go again, for the knee had spoken, she said, and she had heard it from the crate. Kiva sat and felt for what the bound had cost, which Noa had not been there to read and which she could only feel: less than the others. A good deal less.
 
-*Why:* The work is in me in the air. The stance has to be open before the ground and after the Ember. I can't feel the ground before it's there.
+The work was in her, in the air. The stance had to be open before the ground and after the Ember, and she could not feel the ground before it was there.
 
 She did not know what a person did about that.
 
@@ -184,15 +184,15 @@ She did not know what a person did about that.
 
 The notice came on Tuesday, by the hand of Ysra Crest's clerk.
 
-*Objection to the seating of Rowan, K. (prov.) in any Flask company at the Pit. Entered by Dray, S., Second Division, with eleven signatures. To be heard Friday the 17th at eight.*
+*Objection to the seating of Rowan, K. (prov.) in any Flask company at the Pit. Entered by Dray, S., Second Division, with a dozen seconding. To be heard Friday the 17th at eight.*
 
-Kiva read the eleven names, of which she knew four. Two were on teams below the twentieth place, and one had sat next to her on the Kennel benches for a week and had since moved his kit.
+Kiva knew four of the seconders. Two were on teams below the twentieth place, and one had sat next to her on the Kennel benches for a week and had since moved his kit.
 
 That was the day that Pru Finch got her license.
 
 She arrived in the Low Lane at four, with mud to the knees and her scarf on backward, already talking.
 
-"I called it! I called *off*! Twice! The first time it had got its foot on Lund's cloth and I said it, three times, exactly like the book, and everybody went dark and walked out, and the officer said *good.* And the second time there wasn't anything there. I'd seen a dog. A real dog, on the bank. I called off on a spaniel." She sat down on the drain cover. "And he passed us anyway. He said he'd sooner license a girl who calls off at spaniels than one who watches. I've a first step. I've never been so embarrassed in my life."
+"I called it! I called *off*! Twice! The first time it had got its foot on Lund's cloth and I said it, three times, exactly like the warden said, and everybody went dark and walked out, and the officer said *good.* And the second time there wasn't anything there. I'd seen a dog. A real dog, on the bank. I called off on a spaniel." She sat down on the drain cover. "And he passed us anyway. He said he'd sooner license a girl who calls off at spaniels than one who watches. I've a first step. I've never been so embarrassed in my life."
 
 "That's the best thing I've heard since Sunday," said Jude, and for once the tooth showed because he was laughing.
 
@@ -202,13 +202,13 @@ On Friday at eight she sat in the Placement Chair's office with her leg out, and
 
 She had not expected Dray to be good at it.
 
-"I'm not saying she'd mean to." The cropped red head was up, and the voice was steady. Dray had dressed for it, in a pressed Second Division tunic, and she spoke to Ysra and not once to Kiva. "I don't think she meant to in the Cellhouse. That's my whole point. She took her hand off that drum, and the cell went on climbing by itself for half a minute, and it called husks. Nobody had seen a cell do that. Nobody's said since why it did." She laid a paper on the desk. "The Pit hasn't a bank of its own. It runs off the Ferren pumps by one branch. I copied that out of the Works' public sheet. Twenty-four cells with the river behind them. Has anyone in this building asked what her doors do to a trunk?"
+"I'm not saying she'd mean to." The cropped red head was up. Dray had dressed for it, in a pressed Second Division tunic, and she spoke to Ysra and not once to Kiva. Her voice did not shake. "I don't think she meant to in the Cellhouse. That's my whole point. She took her hand off that drum, and the cell went on climbing by itself for half a minute, and it called husks. Nobody had seen a cell do that. Nobody's said since why it did." She laid a folded plan on the desk. "The Pit hasn't a bank of its own. It runs off the Ferren pumps by one branch. That's the Works' own plan. Anyone can ask for it. Twenty-four cells with the river behind them. Has anyone in this building asked what her doors do to a trunk?"
 
-Ysra read the paper.
+Ysra looked at the plan for some time.
 
 "Sponsor," she said.
 
-"Her certificate keeps her dark," said Orla. "No door inside three paces of open ash or any charged cell. She's kept it on three floors and a field. I've a referee's card and an officer's slate to say so."
+"Her certificate keeps her dark," said Orla. "No door inside three paces of open ash or any charged cell. She's kept it on three floors and a field. There's a referee and a Home Line officer who'll say so."
 
 "The Cellhouse wasn't inside three paces," said Dray. "The husks came from the far end of the floor."
 
@@ -222,13 +222,13 @@ Kiva had lain awake on it, and had tried a dozen answers, and every one of them 
 
 Ysra Crest was silent for some time.
 
-"The objection is noted," she said at last. "It is not upheld. I can't unseat a licensed catcher on a sponsor's certificate because eleven people are uneasy. I'd have no roster left." She squared Dray's paper on the desk. "But it has a fact in it, Miss Dray, and the fact is a good one, and you were the only person in the Compact who went and looked. So. Two conditions on the event. The catcher's mark for Team Seven will be set no nearer than twenty paces to the Kiln's lattice house. And Miss Rowan's file goes entire to the foreman, who may unseat her on the morning for any cause he'll write down."
+"I've heard the objection," she said at last. "It is not upheld. I can't unseat a licensed catcher on a sponsor's certificate because a dozen people are uneasy. I'd have no roster left." She folded Dray's plan and handed it back. "But it has a fact in it, Miss Dray, and the fact is a good one, and you were the only person in the Compact who went and looked. So. Two conditions on the event. The catcher's mark for Team Seven will be set no nearer than twenty paces to the Kiln's lattice house. And the foreman will have the whole of this from me, and may unseat her on the morning for any cause he'll name to her."
 
 "That's Vane," said Dray. "He passed her on the Sag."
 
 "He also failed you there. I shouldn't lean on his partiality in either direction." Ysra's voice did not change. "You may renew this on evidence. Not on signatures."
 
-Selka Dray picked up her copy.
+Selka Dray put the plan in her tunic.
 
 "Then I'll be at the Pit," she said. "I've a card that lets me stand on the floor. I'll go and stand where the evidence is going to be."
 
@@ -240,19 +240,15 @@ The New Lane was three hundred years old.
 
 It lay behind the school's core house, under a slate roof with a long glass lantern down the ridge, and the brick of its floor had been worn into two shallow troughs by ten generations of feet. It was forty paces long and twelve wide. There were no steps in it, no porches, and no sill. There were posts.
 
-They stood in two rows, nine to a side, three paces in from each long wall and four apart. They were oak, black with age, banded in iron. Between the rows ran a lane six paces wide, and behind each row an aisle of three, with brick on the one hand and black oak on the other, which looked roomy enough until a person tried to turn round in it.
+They stood in two rows, the same as the Old Yard's, three paces in from each long wall and four apart. They were oak, black with age, banded in iron. Between the rows ran a lane six paces wide, and behind each row an aisle of three, with brick on the one hand and black oak on the other, which looked roomy enough until a person tried to turn round in it.
 
-Kiva knew those posts. She had hit one with her forehead.
-
-But the school had copied its Old Yard here in the year it had money, and had copied it straight. She looked down the southern row to the ninth post, at the far end, by the away line.
-
-It stood as plumb as a mast. Nobody had thought the lean worth building.
+Kiva knew posts like those. She had hit one with her forehead. The school had copied its Old Yard here in the year it had money, row for row.
 
 "Fighters to the mark," said the referee.
 
 It was the grey braid, and the voice like a dropped crate. She stood at the center of the lane, between the fifth posts, with Donny on his litter at her feet. He had been given a clean coverall for the occasion. Somebody had inked a mustache on him.
 
-"I'm told I've no court of my own here, so I'll run yours. Circuit rules, the same as the Terrace. Three carries of four minutes. A down's a point, two halves a down, the litter over your own line is three, and at time it scores one to the half it lies in. One dram each. When I call a half, the side I name has earned it. When I call a down, the side I name has lost a fighter. I'm told that muddles a gallery. It has never yet muddled anyone on the floor." Her eyes went along the western four and stopped. "And a rule I read on the tram this morning, with some astonishment. Nine. Rowan. If you call a change to a count, my flag's up when you've said it. You go on your own *three*. Not a hair to either side. I'll be listening to the word and looking at your feet, and if they disagree, I'll score it undeclared and we'll all go home."
+"I'm told I've no court of my own here, so I'll run yours. Circuit rules, the same as the Terrace. Three carries of four minutes. A down's a point, two halves a down, the litter over your own line is three, and at time it scores one to the half it lies in. One dram each. When I call a half, the side I name has earned it. When I call a down, the side I name has lost a fighter. I'm told that muddles a gallery. It has never yet muddled anyone on the floor." Her eyes went along the western four and stopped. "And a rule I read on the tram this morning, with some astonishment. Six. Rowan. If you call a change aloud, my flag's up when you've said it, and the change is declared there and then. Not a hair before. I'll be listening to the word and looking at your feet, and if your feet go first, I'll score it undeclared and we'll all go home."
 
 "Yes."
 
@@ -328,7 +324,7 @@ Idony Keld let go at once. She stepped back and stood with her arms hanging, a p
 
 "*Time!*"
 
-The board turned over. *CROOKED LINE 2. STONEHAND 3.* And in the last column, by her name: *Dram, 0.10.*
+The board turned over. *CROOKED LINE 2. STONEHAND 3.* And under her name: *Dram, 0.10.*
 
 She had spent a tenth of a dram in four minutes and scored a point by not moving. It was the most efficient carry of her life. She had been of no more use in it than the mustache.
 
@@ -338,9 +334,9 @@ She had spent a tenth of a dram in four minutes and scored a point by not moving
 
 He had sweat in his eyes and a red mark on his ribs. He did not sound surprised, only as if he would have liked to be.
 
-"That's what it looks like. They'll do that twice more, and it'll be eleven to five." He wiped his face on his sleeve. "Second carry. As chalked. Rowan, you're on the Ember. Stay low, stay on your right, and keep that bar between their hands and the poles. Once he sees struts on you, he'll come down the middle for the sandbag. He'll have to. There's no stop to walk round. That's when Noa and I get to work."
+"That's what it looks like. They'll do that twice more, and it'll be a rout." He wiped his face on his sleeve. "Second carry. As chalked. Rowan, you're on the Ember. Stay low, stay on your right, and keep that bar between their hands and the poles. Once he sees struts on you, he'll come down the middle for the sandbag. He'll have to. There's no stop to walk round. That's when Noa and I get to work."
 
-"And the count?"
+"And the call?"
 
 "When we've got it near home and it sticks. Not before." He looked at her hard. "The slow way."
 
@@ -374,43 +370,39 @@ Kiva went with him. One bound. She shut the Ember at the top of it, as Kellan ha
 
 They were six paces from the line when the litter stopped.
 
-Brask had it. He had not run. He had only walked in a straight line to the place it was going to be, and set both hands on the foot poles, and let his weight go down. Keld was beside him a breath later.
+Brask had it. He had walked, never run, in a straight line to the place it was going to be, and set both hands on the foot poles, and let his weight go down. Keld was beside him a breath later.
 
 Jude and Noa heaved. They might as well have heaved at the school.
 
 "Rowan!"
 
-She was eight paces east of the head, on the wrong side of Keld's reach, where the bar had taken her. Behind the two at the foot, Moss was getting up from his ten. Arrand had three counts to go.
+She was eight paces east of the head, on the wrong side of Keld's reach, where the bar had taken her. Behind the two at the foot, Moss was back on his feet. Arrand would be in it again in a breath or two.
 
 She saw the whole of it at once.
 
-She saw the slow way. A bound to the head. Down. Stop. *Rowan, changing on three.* One, two, three, and then the stance. It was three seconds and a half, and in three seconds and a half, there would be four still-doors on Donny's foot and Jude would be holding his end of nothing.
+She saw the slow way. A bound to the head. Down. Stop. *Rowan, Ember to still.* Then the stance. It was three seconds and a half, and in three seconds and a half, there would be four still-doors on Donny's foot and Jude would be holding his end of nothing.
 
 And she saw the other.
 
-It was one bound. It was eight paces, flat and low. If she called it from here, and went on *one*, and shut the Ember at the top on *two*, then *three* would fall as her foot did. Her hands would be on the head poles, and the whole speed of a Stride would go down her arms into that litter with the stance behind it. It would be the stop she had put through Lowen Brask at the Terrace, and nobody would have to push her first.
+It was one bound. It was eight paces, flat and low. If she called it as she left the ground, and shut the Ember at the top, the stance could open as her foot came down. Her hands would be on the head poles, and the whole speed of a Stride would go down her arms into that litter with the stance behind it. It would be the stop she had put through Lowen Brask at the Terrace, and nobody would have to push her first.
 
-Nine tries. Nine misses.
+Every try in the yard had missed.
 
 She had promised.
 
-*It's somewhere inside two,* Kellan had said.
+*Somewhere inside your name,* Kellan had said.
 
-"Rowan, changing on three!" It was out of her mouth. "Ember to still!"
+"Rowan!" It was out of her mouth. "Ember to still!"
 
 The white flag went up.
 
-"*One—*"
-
 She went. The brick fell away. The black posts went by on either hand.
-
-"*Two—*"
 
 She shut the Ember at the top. The metal ran home. She had nothing, and she was moving, and the two poles were coming at her hands with Jude's white face above them.
 
 At the far end of the litter, Lowen Brask looked up.
 
-He had heard it. Everyone in the New Lane had heard it; that was what the rule was for. He had heard *three* coming as a man hears a train. And he did not brace. He did not set himself to meet it, as he had set himself at the Terrace with both hands on Old Tom's chest.
+He had heard it. Everyone in the New Lane had heard it; that was what the rule was for. He had heard the call and what it told him: that she was in the air with nothing open, and would arrive planted, and where. And he did not brace. He did not set himself to meet it, as he had set himself at the Terrace with both hands on Old Tom's chest.
 
 He lifted.
 
@@ -418,9 +410,7 @@ He raised his end of the litter a hand's width off the brick and swung it one pa
 
 The head poles tore out of Jude's fists.
 
-"*Three,*" said Kiva, to nothing.
-
-Her hands closed on air. The stance opened under her, wide and deep, exactly on the word, and there was nothing in the world for it to stop. The speed was still in her. It had been meant for a sandbag, and the sandbag had gone.
+Her hands closed on air. The stance opened under her, wide and deep, as her foot touched, and there was nothing in the world for it to stop. The speed was still in her. It had been meant for a sandbag, and the sandbag had gone.
 
 So it went the only way that was left.
 
@@ -432,27 +422,23 @@ A palm came down between her shoulder blades. It was not hard. It did not need t
 
 "*Down!* Crooked Line!"
 
-*One,* said the line judge. *Two.*
+The line judge stood over her with one hand raised, which meant that she was out of it until he dropped it.
 
 She could not kneel on the left. She got onto the right, with the other leg stuck out before her like a broom, and held it in both hands.
 
-*Three. Four.*
-
 They did not run with it. They never ran. They took Donny up between them, Brask and Keld at the foot and Moss at the head, and walked him east down the middle of the lane. Thirty-four paces. Jude went after them and could not get past Arrand. Noa went after them and was slapped away. Pru's ward rose in their road, and Moss leaned on it without breaking step, and it rang four times and splashed.
 
-*Eight. Nine.*
-
-From her one knee, Kiva watched a sandbag with an inked mustache go over the far white line.
+From her one knee, with the judge's hand still up over her head, Kiva watched a sandbag with an inked mustache go over the far white line.
 
 "Litter home. Three points, Stonehand."
 
-*Ten.*
+The hand came down.
 
 The board turned.
 
 *CROOKED LINE 4. STONEHAND 7.*
 
-*Rowan, K.: one change, called to a count. Dram, 0.44.*
+*Rowan, K.: one change, declared. Dram, 0.44.*
 
 There was a silence along the western rail, where the first-years were. It did not last. Somebody up there laughed, the short surprised laugh of a person who has got what he came for.
 
