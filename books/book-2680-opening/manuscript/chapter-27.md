@@ -60,13 +60,13 @@ The healer stopped polishing.
 
 "Told me what?"
 
-"Rowan. The first two fingers of her left hand went white on your lever, Officer, and stayed white. Her team opened their sealed reserve at my cart inside the hour, all four of them agreed, and I eased them. They've come back to where they were in the spring, which is slow and late, and no better. They'll not be better." He put the spectacles on again. "It's a nerve that's been burned once and starved twice. Each time she does whatever it is that she does, it's slower coming back."
+"Rowan. The first two fingers of her left hand went white on your lever, Officer, and stayed white. Her team opened their sealed reserve at my cart inside the hour, all four of them agreed, and I eased them. They've come back to where they were in the spring, which is slow and late, and no better. They won't be better." He put the spectacles on again. "It's a nerve that's been burned once and starved twice. Each time she does whatever it is that she does, it's slower coming back."
 
 Vane stood very still.
 
 He had been on that floor. He had said his piece about the lid and the ribs, and turned to the grading, and behind him a ward-holder had knelt in front of a crate and asked when those fingers went white. He had not heard it. He had not been listening for it.
 
-The Home Line asked four things at the cart. Was it closed. Who was hurt. What still works in the morning. What we tinned. He had asked them himself on the Pit floor, as he had asked them on a hundred floors before it. *Who was hurt:* Cade, ribs; Rowan, down after. Nobody had said a hand. Nobody had thought it a foreman's business. The cart was for the district's account, the pumps and the tins and the people carried off. What the work had cost the people who did it, they took home with them, and in all his years on the Line nobody had asked to see it.
+The Home Line asked its four things at the cart, and he had asked them himself on the Pit floor, as he had on a hundred floors before it. *Who was hurt:* Cade, ribs; Rowan, down after. Nobody had said a hand. Nobody had thought it a foreman's business. The cart was for the district's account, the pumps and the tins and the people carried off. What the work had cost the people who did it, they took home with them, and in all his years on the Line nobody had asked to see it.
 
 He had given that hand a field direction because its owner had told him, across forty paces, that she had missed every try she had ever made. He had weighed that for about as long as it took to draw a breath, and he had thought he was weighing it rather well. He would not have done it for anybody he had not heard say she missed.
 
@@ -94,7 +94,7 @@ Kiva sat on the stool by the window, where she had done her school sums at fourt
 
 "No."
 
-"Good. I'd not trust it if you had, this soon." She reached for a screwdriver and did not pick it up. "I'll say one thing about it and then I'll leave it alone. I'm not going to tell you yes or no. I said no for you once, to Ilse Corran, on that step down there. You were six. And she gave you the thing anyway, four years after she was dead, by courier, and I opened the door to it in my apron." Her mouth went thin. "I've been angry with her ever since for not listening to me. I won't say no for you a second time and stand in the door while the world goes round me."
+"Good. I'd not trust it if you had, this soon." She reached for a screwdriver and did not pick it up. "I'll say one thing about it and then I'll leave it alone. I'm not going to tell you yes or no. I said no for you once, to Ilse Corran, on that step down there. You were six. And she gave you the thing anyway, three years after she was dead, by courier, and I opened the door to it in my apron." Her mouth went thin. "I've been angry with her ever since for not listening to me. I won't say no for you a second time and stand in the door while the world goes round me."
 
 Kiva looked at her.
 
@@ -138,7 +138,7 @@ Orla had watched all of this from her crate without a word. Hollis Vane stood be
 
 "Now, Hollis," said Orla.
 
-He did not make a speech of it. He came round the crate and stood in front of Kiva, a little nearer than he usually stood to anybody.
+He did not stand on ceremony. He came round the crate and stood in front of Kiva, a little nearer than he usually stood to anybody.
 
 "At the Pit I asked the Line's four things," he said. "Was it closed. Who was hurt. What still works in the morning. What we tinned. I was told Cade's ribs, and that you went down after, and I asked no further. Yesterday I went to the Wren House about the ribs, and the healer asked me whether I'd come about your fingers too." His weathered face did not change. "Nobody had told me. I hadn't asked. The Line doesn't ask it at a cart, and it never has in my time. So I'm asking you now, and I'd like the whole of it. What did it cost you?"
 
@@ -268,4 +268,4 @@ She got up by herself. She brushed off what dirt would come, and went and stood 
 
 "Friday," said Orla. "Not tomorrow. Tomorrow you'll come and sit with your back to that drum for an hour while Bexley runs it empty, until you can't tell it from a clock."
 
-Kiva carried the crate in at a walk. She had an answer ready for Orla before she got to the shed door, about pens and tins and a month with a stick, and it was a good one. When she came out again Orla was already at the gate with the lamp down off its hook, and had not asked for it.
+Kiva carried the crate in at a walk. When she came out again Orla was already at the gate with the lamp down off its hook, and had not asked for it.

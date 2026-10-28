@@ -28,15 +28,15 @@ The brackets were still there. She found that she agreed with Kellan about them.
 
 Mr. Adlam was standing at the foot of the board with his hat in his hand, as if he had been waiting for a tram, and when he saw her he came across.
 
-"Miss Rowan. I'd hoped I might find you here; it saves me a stair." He was perfectly pleasant. "I'd not like you to hear it from a clerk. The Works has put in a claim on the bag you tagged on Sunday, at the Weighbridge wharf. A hundred and thirteen drams, in the Wren House cold room. Under the foundation patent." He said it as he had said it to Noa, without looking anything up. "*All ash exhibiting the Step, however produced.*"
+"Miss Rowan. I'd hoped I might find you here; it saves me a stair." He was perfectly pleasant. "I wouldn't like you to hear it from a clerk. The Works has put in a claim on the bag you tagged on Sunday, at the Weighbridge wharf. A hundred and thirteen drams, in the Wren House cold room. Under the foundation patent." He said it as he had said it to Noa, without looking anything up. "*All ash exhibiting the Step, however produced.*"
 
 Kiva said nothing.
 
 "The Works asks on what grounds a candidate, provisional and unclassified, kept that bag from civic use. On her word, I understand, and a field comb." He turned his hat round once in his hands. "The wardens of Weighbridge Street have asked to be heard as well. They don't want the bag. They want it not carried off their street's account by anybody who wasn't there, which I thought rather fine of them. And the grader wants it held for reference. The Chair will hear all parties on Tuesday next, the third, at nine."
 
-"On a comb," said Kiva, "and my hand on the hem, and a shed foreman's on the neck. I said I couldn't weigh it. I'll say so on Tuesday."
+"On a comb," said Kiva, "and my hand on the hem, and a shed foreman's on the neck. I couldn't weigh it. I still can't."
 
-"I'd expect nothing else." He put his hat on. "One likes to be thorough, Miss Rowan. It isn't the same as unkind. Good afternoon."
+"No. Nor can we, yet." He put his hat on. "One likes to be thorough, Miss Rowan. It isn't the same as unkind. Good afternoon."
 
 He went up the stair. Kiva stood where she was, with the standings in front of her and her own team sixth on them.
 
@@ -64,7 +64,7 @@ He had the weigh-house tape in a roll under his arm, since the Chair had sent hi
 
 "So it isn't every crossing."
 
-"Or it's only the first. Or it wants more than one pen to show, and a ring of lamps. I can think of five things it might be and I can't choose between any two." He rubbed his eyes. "I'm not going to say which. Adlam reads the same cliff now it's open. I'd rather hand him a blank than a guess with my name on it."
+"Or it's only the first. Or it wants more than one pen to show, and a ring of lamps. I can think of five things it might be and I can't choose between any two." He rubbed his eyes. "I'm not going to say which. Adlam reads the same cliff on Sunday, when it opens. I'd rather hand him a blank than a guess with my name on it."
 
 "That's a hard thing to bring to a hearing."
 
@@ -74,7 +74,7 @@ He had the weigh-house tape in a roll under his arm, since the Chair had sent hi
 
 Kellan said it on Wednesday at the Rowan kitchen table, with the team's book open between them and three chairs filled where there had been four.
 
-He had a speech ready. She could see it on him, the way she could see a sum on him, and he did not give it.
+He did not look at anybody while he said it.
 
 "I went to the refinery yard last Thursday," he said. "I stood behind a rail for two hours. They've got a contained string, a six-knot, in a lattice of their own. They've got a chartered foreman every Tuesday and Thursday, and a ward line that's paid. Their Kill's a second-year called Pettit." He was speaking to the oilcloth. "He isn't better than I am. I watched him. He's four-tenths at the top, the same as me, and his feet are worse."
 
@@ -92,11 +92,7 @@ Nobody at the table spoke.
 
 "They've claimed the bag," said Kiva. She had meant to wait, and found that she had not been able to. "Your team's house. Adlam told me in the basement yesterday. *However produced.*"
 
-"I heard. It'll have my mother's seal at the foot; every paper of theirs does." He did not look away. "I think it's lawful. I think it's wrong. I held one of the corners of that bag and I heard a shed foreman say he wouldn't put a thimble of it in his own kitchen. I've told Mr. Adlam I'll say what I saw on that wharf to anybody who asks me, whoever's paying my stipend."
-
-"What did he say?"
-
-"That they'd expect nothing else." Kellan's mouth twisted. "I know that's exactly what a pleasant man would say. I've told my mother as well. She put her cups down once. She knows what I mean."
+"I heard." He did not look away. "I think it's lawful. I think it's wrong. I held one of the corners of that bag and I heard a shed foreman say he wouldn't put a thimble of it in his own kitchen." He turned his cup a quarter on the oilcloth. "I said yes to them anyway. I'd say it again. I'd hold that corner again as well. I don't know yet how a person does both, and I mean to find out between now and the Regional."
 
 Perrin had been turning a spoon end over end. He put it down.
 
@@ -110,9 +106,9 @@ Kiva had not said anything yet.
 
 "What do you want from us?" she said.
 
-He was silent for a moment. It was plainly not the question he had come ready for.
+He was silent for a moment. It was plainly not the question he had come for.
 
-"Nothing," he said. "That's what's the matter with it. I'd a speech for if you asked me to stay, and you haven't asked." He looked at the table. "I mean to be on Seven when the Weighbridge share comes in. And Anwen should hear it before a runner does."
+"Nothing," he said. "That's what's the matter with it. I'd worked out what to say if you asked me to stay, and you haven't asked." He looked at the table. "I mean to be on Seven when the Weighbridge share comes in. And Anwen should hear it before a runner does."
 
 "It can't be spent without her say."
 
@@ -258,7 +254,7 @@ The Ferren looked at the disk for a long while.
 
 "I've sat in this chair four-and-thirty years," she said. "That's the first time anybody's stood there and told me it did anything at all."
 
-"A plate that's warmed," said the River Flats slowly, "on a girl who's on a Circuit tape that opened to chartered parties this week, with a house claiming a bag she tagged and an Order at her aunt's kitchen door." He looked round the table, and then at Kiva, and he did not look away. "I don't say she's unfit. I say I'll move at Sunday's sitting that it be called in until the season's out. I'll say my cause then, before the watch."
+"A plate that's warmed," said the River Flats slowly, "on a girl who's on a Circuit tape that opens to chartered parties on Sunday, with a house claiming a bag she tagged and an Order at her aunt's kitchen door." He looked round the table, and then at Kiva, and he did not look away. "I don't say she's unfit. I say I'll move at Sunday's sitting that it be called in until the season's out. I'll say my cause then, before the watch."
 
 "Then say it then," said the Ferren. "And before her, if she'll come." She looked at Kiva. "That's our custom as well. A bearer ought to hear the cause said, if there's to be a vote on it."
 
@@ -284,15 +280,13 @@ Her crooked face did something that Kiva had never seen it do. It did not last. 
 
 "They went round Mara," said Kiva. "Nobody ever told her."
 
-"I'd heard she was asked. I never heard that anybody went to tell her she'd been gone round." Orla's mouth went thin. "That's the Line all over. It'll carry a child out of a culvert on its back and forget to knock on the mother's door."
+"I'd heard she was asked. I never heard that anybody went to tell her she'd been gone round." Orla's mouth went thin. "That's the Line all over. It'll go down any culvert after anybody, and never once think to knock on a door afterward."
 
 "Vane's going tonight."
 
-"Is he. Good." Orla took her stick in her other hand. "And on Sunday a man from the river flats will stand up and give his cause, and you'll stand at the foot of that table and hear it. On Tuesday there's the Chair, with a house and a street and a shelf all wanting one bag. And there's a house on a hill that means to ask again." She glanced sideways. "You've your answer ready as to why you laid that thing on their table, I suppose."
+"Is he. Good." Orla took her stick in her other hand. "And on Sunday a man from the river flats will stand up and give his cause, and you'll stand at the foot of that table and hear it. On Tuesday there's the Chair, with a house and a street and a shelf all wanting one bag. And there's a house on a hill that means to ask again." She glanced sideways. "Why did you lay it on their table?"
 
-Kiva opened her mouth.
-
-She had. It was about open hands, and a watch that did not choose, and it was rather good. She shut her mouth, and walked four paces, and found something behind it that was smaller.
+Kiva opened her mouth, and shut it again, and walked four paces before she found what was there.
 
 "They asked," she said. "Nobody's ever asked to see it. They asked, and said I needn't."
 

@@ -16,15 +16,15 @@ counts; after the pass every remaining one is a fixed quantity (noted). *X/Y* is
 
 | Ch | Words | write-it-down | ledger | notebook | record* | count* | nine | eleven | Measure | aloud / out loud | to … face | book/col/card/page | X/Y |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 25 | 5,635 → 4,320 (−23.3%) | 2 → 0 | 1 → 0 | 2 → 0 | 5 → 0 | 1 → 0 | 6 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 3 → 0 | 50 → 0 | 0 |
-| 26 | 5,564 → 5,175 (−7.0%) | 1 → 0 | 1 → 0 | 7 → 0 | 2 → 0 | 4 → 0 | 3 → 0 | 3 → 0 | 1 → 0 | 1 → 0 | 1 → 0 | 22 → 0 | 1 |
-| 27 | 5,218 → 4,198 (−19.5%) | 3 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 7 → 0 | 2 → 0 | 5 → 0 | 0 → 0 | 2 → 0 | 0 → 0 | 20 → 0 | 1 |
-| 28 | 4,964 → 4,887 (−1.6%) | 2 → 0 | 1 → 0 | 2 → 0 | 0 → 0 | 7 → 0 | 2 → 0 | 7 → 0 | 0 → 0 | 1 → 0 | 1 → 0 | 12 → 0 | 3 |
+| 25 | 5,635 → 4,294 (−23.8%) | 2 → 0 | 1 → 0 | 2 → 0 | 5 → 0 | 1 → 0 | 6 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 3 → 0 | 50 → 0 | 0 |
+| 26 | 5,564 → 5,137 (−7.7%) | 1 → 0 | 1 → 0 | 7 → 0 | 2 → 0 | 4 → 0 | 3 → 0 | 3 → 0 | 1 → 0 | 1 → 0 | 1 → 0 | 22 → 0 | 1 |
+| 27 | 5,218 → 4,151 (−20.4%) | 3 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 7 → 0 | 2 → 0 | 5 → 0 | 0 → 0 | 2 → 0 | 0 → 0 | 20 → 0 | 1 |
+| 28 | 4,964 → 4,878 (−1.7%) | 2 → 0 | 1 → 0 | 2 → 0 | 0 → 0 | 7 → 0 | 2 → 0 | 7 → 0 | 0 → 0 | 1 → 0 | 1 → 0 | 12 → 0 | 3 |
 | 29 | 5,571 → 5,382 (−3.4%) | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 7 → 0 | 3 → 0 | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 10 → 5 | 2 |
 | 30 | 6,075 → 6,097 (+0.4%) | 0 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 25 → 0 | 2 → 0 | 0 → 0 | 0 → 0 | 2 → 1 | 0 → 0 | 6 → 2 | 3 |
-| 31 | 6,578 → 5,567 (−15.4%) | 0 → 0 | 3 → 0 | 3 → 0 | 0 → 0 | 8 → 0 | 3 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 1 → 1 | 33 → 0 | 2 |
-| 32 | 5,975 → 5,675 (−5.0%) | 7 → 0 | 2 → 0 | 0 → 0 | 0 → 0 | 3 → 0 | 4 → 3 | 2 → 0 | 1 → 0 | 1 → 0 | 1 → 0 | 50 → 6 | 1 |
-| **M4** | **45,580 → 41,301 (−9.4%)** | 16 → 0 | 12 → 0 | 14 → 0 | 8 → 0 | 62 → 0 | 25 → 3 | 26 → 0 | 2 → 0 | 9 → 1 | 7 → 1 | 203 → 13 | ≤3 each |
+| 31 | 6,578 → 5,553 (−15.6%) | 0 → 0 | 3 → 0 | 3 → 0 | 0 → 0 | 8 → 0 | 3 → 0 | 4 → 0 | 0 → 0 | 1 → 0 | 1 → 1 | 33 → 0 | 2 |
+| 32 | 5,975 → 5,601 (−6.3%) | 7 → 0 | 2 → 0 | 0 → 0 | 0 → 0 | 3 → 0 | 4 → 3 | 2 → 0 | 1 → 0 | 1 → 0 | 1 → 0 | 50 → 6 | 1 |
+| **M4** | **45,580 → 41,093 (−9.8%)** | 16 → 0 | 12 → 0 | 14 → 0 | 8 → 0 | 62 → 0 | 25 → 3 | 26 → 0 | 2 → 0 | 9 → 1 | 7 → 1 | 203 → 13 | ≤3 each |
 
 Residue, all checked by eye: Ch 32's three *nine*s are fixed (the hearing "at nine", Mara's "ninth
 month" re-sit, "the twenty-ninth"); free nine 0, free eleven 0. Ch 30's one *aloud* is Rhea
@@ -47,10 +47,10 @@ spoken in words: "two hundredths", "a dram and a quarter"); Measure Hall / Rule 
 | Sibling device | Count | Note |
 |---|---|---|
 | Call/condition repeated back so it counts | 0 | Messages are relayed once (Rhea's runner, Ch 28; the Home Line boy via Mara, Ch 31). |
-| Reading/instrument decides a beat | 0 (1 borderline) | Ch 28 stack: the beat turns on Kiva's warm thread she did not call and on Noa saying no against a figure he wanted; the tape shape is his evidence, not the ruling. Flagged below. |
+| Reading/instrument decides a beat | 0 | Ch 28 stack: the beat turns on Kiva's warm thread she did not call and on Noa saying no to a figure he wanted. After fix 1, Orla credits his choice, not "you and your pen". |
 | Kept/preserved/sealed thing saves someone | 0 | Mara's sealed dream page and the Reader's wax are gone. |
 | Number refrains renumbered; countdowns; timing closes; tallies | 0 | "About a dozen seconds" once (Ch 26); "every ten minutes" once (Ch 29); seal times, throw tallies, "Two." tallies, "Four. Five. Six." holds, all cut. |
-| Spoken-record phrases ("I'd like that said/known", "understood between us", "All of it, in order", "to his face") | 0 | |
+| Spoken-record phrases ("I'd like that said/known", "understood between us", "All of it, in order", "to his face", "I'll say so on Tuesday", "to anybody who asks", "the Chair included", "Crest hears this… as it was") | 0 | The first pass had four of the newer kind; fix 1 cut them (§9). |
 | Meter/gauge simile tics | 0 | |
 | Witnessed-by-a-crowd as payoff | 0 | Cut "every assessor in the building", "In front of her", "in front of a tuner/Chair", a second "in front of two schools". |
 | Read-backs ("one at a time", "nobody had a figure wrong") | 0 | Kellan's read-back copy gone. |
@@ -58,9 +58,11 @@ spoken in words: "two hundredths", "a dram and a quarter"); Measure Hall / Rule 
 | Ritual question list as structure/title; chapter ending on debrief answer | 0 / 0 | Orla's debrief heard twice as a scene (Ch 28, one question; Ch 31, three, in conversation). One *section* closes on its answer (Ch 28 §3). The Line's cart list appears once, when Vane adds the cost (Ch 27). |
 | Documents as evidence | 0 | Halden's claim is said by Adlam in person; no pinned papers; no tag quoted; no file. |
 | Timing objects as arbiter | 0 | The bench time glass is cut. |
-| Shared speech tics | — | *I'll not*: Orla only (6). *I'd like*: Pru 4, Vane 1, Kiva's remembered line 1. *I want*: Anwen 2, Rhea 2 (commands), Kellan 2. |
+| Shared speech tics | — | *I'll not / I'd not / I'd as soon / shan't*: Orla, Mara and Vane only. *I'd like*: Pru 4, Vane 1, Kiva's remembered line 1. *I want*: Anwen 2, Rhea 2 (commands), Kellan 2. |
 | "It was not X. It was Y." >3 in a chapter | 0 | Max 3 (Ch 28, 30). |
 | Refrains | — | haul 3 in M4; slack 1; beat 4 (Halloran's Step lesson, the stepped bag); steady 10 across 8 chapters. |
+
+Further refrains, after fix 1: "answer ready" 2 (both in Ch 25: Anwen's quoted line and Stroud's stair), so Ch 48's "speech ready" stays fresh. Kellan's "speech" is cut. Annick's images are given in full once (the Warden, Ch 25, with the colors held back); Ch 31 has one brief echo with the held-back parts; Kiva's read-back to Orla is cut. Kellan's mother's cups appear once (Ch 31). The Line's four cart questions are listed once (Ch 27, Vane's speech); Ch 29's company board is a separate thing.
 
 Closing gestures by section: one section closes on a debrief answer (Ch 28 §3); one on Mara's
 third word ("Hers. It always was.", Ch 32 last section, then the cup handle). No kind closes
@@ -87,7 +89,7 @@ Kiva what the Warden gave her, so Kiva goes up the hill unprimed. The Hanley Str
 clerk's cough and "Rowan Instruments" borrowing volumes are cut (lines 57, 97, 109, 277). Noa finds
 the notch on every pen and the blank Low Lane tape. Halloran explains a stepped bank. Adlam says the
 claim, *however produced*, and its caution aloud, with no patent-room document. In the drying yard
-Kiva tells the team the lamp nights, the dream and the Warden, unasked and without a speech.
+Kiva tells the team, unasked, the two lamp nights and the Warden's offer. She **keeps the dream itself**: "There's a part I see, when it happens. I'm keeping that part," per packet 004 (fix 1).
 Anwen's "I'm not done" stands.
 
 **Ch 27 *One Crossing*.** Anwen's "write me the counts" becomes "Don't come out to the culverts."
@@ -165,14 +167,10 @@ annex" patent room was cut. Rule Nine and Team Eleven: 0 uses. Numbered rules ke
 
 ## 6. Canon conflicts flagged (nothing invented)
 
-1. **Seed §2** has Corran "pull a child from a culvert after the Tallow fire". Ch 2 has Kiva at
-   home, with a knock and Ilse on the stairs. Ch 32 says only "at the Tallow fire… sat an hour on a
-   stair". Owner or seed to reconcile.
-2. **Ch 28 stack.** Noa's tape shape is the evidence that the landing was a stack. I kept the beat
-   turning on people: the uncalled warm thread, and Noa's no against a figure he wanted. A stricter
-   reading of §4b could want the tape to be confirmation only.
-3. **Length.** M4 is 41,301 words, below the packet's 45–55k working length. Ch 25 (−23%), 27
-   (−19.5%) and 31 (−15.4%) are over −15%; the cuts were record exposition.
+1. **Seed §2 vs. Ch 2.** Resolved in fix 1 by changing the seed (§9 item 6).
+2. **Ch 28 stack.** Resolved in fix 1: the beat now credits Noa's choice.
+3. **Length.** M4 is 41,093 words, below the packet's 45–55k working length (the coordinator accepts it; no padding). Ch 25 (−24%), 27
+   (−20%) and 31 (−16%) are over −15%; the cuts were record exposition.
 4. **Packet 004** still says "three written conditions" and "Team Seven's accounts stay exact…
    written supervision". The prose has spoken conditions and spoken direction.
 5. **The Warden.** The 2680 Warden is unnamed. She is the 2664 Warden by her own words ("a chair by
@@ -205,6 +203,39 @@ annex" patent room was cut. Rule Nine and Team Eleven: 0 uses. Numbered rules ke
 - **Accounts.** The team ash after Ch 28 is 1.25 drams in hand, enough for four crossings at
   0.31 with a hundredth over. The Weighbridge share waits on Anwen.
 - **The Reader** (Lettice Arkwright) is not introduced in M4. Ch 48 introduces her with the cast.
+
+## 9. Fix round 1 (verifier FAIL, coordinator list)
+
+1. **§4b, spoken-record and witness lines cut or turned to action.**
+   - 32:37: Kiva tells Adlam "I couldn't weigh it. I still can't."
+   - 32:95: Kellan's "I'll say what I saw… to anybody" is cut, along with the Adlam reply and the cups. He says yes to Halden and would hold the corner again.
+   - 31:177: Rhea's advice is now "Hold on to that. Most people let go of it the first time a ward does what they say."
+   - 28:231: "Crest hears this… as it was" becomes Orla rolling the tape herself and putting it in her coat for the Placement Hall stair.
+2. **28:227.** Orla credits Noa's choice ("You said no to a figure you'd wanted… with your ears red"), not the pen.
+3. **31:341–345.** Orla's debrief asks "What did it cost?" as it always has (Ch 3). Kiva gives the street's cost. Orla: "Not only the street's. Yours as well. I've asked you that at this lane since the first night." The Vane line is cut.
+4. **Tape opening.** 32:67 now reads "on Sunday, when it opens"; 32:261 "opens to chartered parties on Sunday".
+5. **27:97.** "three years after she was dead".
+6. **Seed §2 (~line 113).** Corran hauls Rhea, a Graywater probationer of nineteen, out of a Ferren culvert by the collar. After the Tallow fire she sits an hour on the Coper Street stair with the child. 32:287 now reads "It'll go down any culvert after anybody, and never once think to knock on a door afterward."
+7. **31:191.** Matches Ch 8: a hand down through a grating; afterward, on the bank, *Something I carry*. "It didn't do anything. She did." becomes "I've wondered since whether it was why she was at that grating… I think she was only the sort who is."
+8. **26:267.** Kiva keeps the dream from the team (packet 004). Ch 28 Pru now knows of "lamps that go out when you do, and a house on a hill".
+9. **Refrains and tics.** As listed in §2. Stroud, Aske, Perrin's father, Mrs. Cobb and Adlam no longer use *-'ll not / I'd not*. "Did not make a speech of it" is varied.
+10. **Dependencies added to §7** (below).
+
+Additional §7 dependencies:
+- **M5 Ch 36:335.** Mara's meter / shutdown path / hand "in two sentences" must match Ch 32. Her two sentences to Orla in the Old Yard (Ch 32 §3) are *You kept a thing from my table. Don't do it twice.* Her meter, shutdown path and hand question goes to Vane at Coper Street (Ch 32, last section).
+- **M6 Ch 47:223–231.** The cart must run the Line's four (Was it closed. Who was hurt. What still works in the morning. What we tinned.) plus Vane's "What it cost, and to whom" (27:157), not Orla's five.
+- **The team does not know the dream** at the end of M4. They know the two lamp nights, the Warden's offer, and Orla's 2664 visit. Any M5 scene that has them reacting to the dream's content needs a beat where Kiva tells them.
+- **Seed §2 now credits the culvert rescue to Rhea.** Any canon doc repeating "pulls a child from a culvert after the Tallow fire" should follow.
+
+Re-run after fix 1 (`.foreman/scratch/prose-m4-fix1-checks.txt`):
+- banned phrasings 0;
+- ledger/notebook 0;
+- theme words 0;
+- time in counts 0; counting habit 0;
+- free nine 0 (three fixed: an hour, two dates); free eleven 0;
+- Measure / Rule Nine / Team Eleven 0;
+- no chapter ends on a count;
+- X/Y ≤3 per chapter.
 
 ## 8. Commit
 

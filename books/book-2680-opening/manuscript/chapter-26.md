@@ -14,7 +14,7 @@ Orla did not start. She sat as she always sat, with her bad leg out and her hand
 
 "Then you've had their Master's dream in your own kitchen, with the tea." There was something in her voice that was not displeasure. "How much did she give you?"
 
-Kiva told her. She gave it as the Warden had given it, without improving: every road at once; the lights, and no two alike; the sky not torn but gone, like the roof off a house; full, and paying attention; every lamp in Meridian.
+Kiva told her. She gave it as the Warden had given it, without improving, and it did not take long.
 
 Orla heard it out. When it was done she sat for a little while and looked at the cross on the ground.
 
@@ -36,7 +36,7 @@ Kiva sat on the spare crate. The lamp hissed on its hook.
 
 "It was all that I could put a name to." Orla lifted her head at last. "That's a true sentence, and I chose it because it was true, and I knew when I chose it what it left out. I've been thirty years on and off the Home Line. I know what it is to cut a report to fit. I did it to you on that crate." Her mouth went thin. "I told you I'd have let *began* go by, and that I'd have been wrong. I let a great deal more than that go by in the same breath. That's mine. I'll not dress it."
 
-Kiva had not expected that. She had come ready to be answered, and she found that there was nothing to push against, and that it did not make her any less angry.
+Kiva had not expected that. She had come expecting to be answered, and she found that there was nothing to push against, and that it did not make her any less angry.
 
 "Why, though? If you'd no line to draw, you could have said so. *There's a house on a hill that believes something, and I don't know if it's anything.* You say that sort of thing to me every night."
 
@@ -254,7 +254,7 @@ He gave them plainly, with nothing dressed. The notch on every pen, sixteen of t
 
 Nobody moved.
 
-Kiva had spent the tram home from the Old Yard on Friday night deciding what she would say when a moment like this came. Somewhere about the Weighbridge stop she had decided that she would not decide. She found now that she did not need to. It had been sitting on the end of her tongue all week, behind the round, ready thing she had given Noa on a bench.
+Kiva had spent the tram home from the Old Yard on Friday night deciding what she would say when a moment like this came. Somewhere about the Weighbridge stop she had decided that she would not decide. She found now that she did not need to. It had been sitting on the end of her tongue all week, behind the smooth thing she had given Noa on a bench.
 
 "There's one thing more," she said. "It's mine, and it isn't a reading."
 
@@ -262,15 +262,17 @@ Pru looked from one face to another. "Ought I to be hearing this? I only came ab
 
 "Stay," said Kiva.
 
-She told them standing at the north hem, with the stiff canvas between her and the rest of them. She did not make a speech of it. She did not think she could have.
+She told them standing at the north hem, with the stiff canvas between her and the rest of them. She said it plainly. She did not think she could have said it any other way.
 
-She told them that every lamp on the Eastbank had gone out and come back on the afternoon of her Kindling, and that Mara had seen it, and the Works had put it down to the rig. She told them that she had lain on the ground in the Old Yard with her eyes open and had dreamed, and what she had dreamed: people coming from every road at once with lights that were all different, and the sky not torn but gone, and something enormous coming down out of where it had been, and every lamp in the city answering. She told them that she had dreamed it again for a breath on the shelf at the Pit, with her fist round the disk, while the lamp ring jumped.
+She told them that every lamp on the Eastbank had gone out and come back on the afternoon of her Kindling, while she lay on the ground in the Old Yard, and that Mara had seen it from the benches, and the Works had put it down to the rig. She told them that she had known for four years that it was not the rig. She told them that the Pit's dead ring had jumped while she was on the shelf with her fist round the disk, and that Dray had seen it.
 
-Then she told them that the Warden of the Even Hand had sat in her kitchen on Thursday night and told her the same dream, near enough, about a woman who had died two hundred years before Kiva was born.
+Then she told them that the Warden of the Even Hand had sat in her kitchen on Thursday night, and that the Order wanted her for a year, in a house on a hill, with one door and the others shut.
+
+"There's more to it than that," she said. "There's a part I see, when it happens. I'm keeping that part. Not for good. For now."
 
 The yard was very quiet. Somewhere in the scullery Mrs. Pryce was singing to a mangle.
 
-"On Monday you asked me what a T-0 was," Kiva said to Noa. "I told you what the word means. I'd seen every lamp go twice by then, and dreamed it both times."
+"On Monday you asked me what a T-0 was," Kiva said to Noa. "I told you what the word means. I'd seen every lamp go twice by then."
 
 "Oh," said Noa.
 
@@ -278,15 +280,15 @@ The yard was very quiet. Somewhere in the scullery Mrs. Pryce was singing to a m
 
 "I expect you are." He said it without heat, and she knew where she had heard those words before, and that he did not know he was quoting. He pushed his hair back off his forehead. "It doesn't change the tape. I'd only have looked at the other fifteen pens a week sooner." He frowned. "No. That isn't true. I'd have looked at them on Monday night."
 
-"Two of those are you," said Kellan. He had not moved since she began. "The yard and the shelf."
+"Both of those are you," said Kellan. He had not moved since she began. "The yard and the shelf."
 
-"And Annick isn't. I wasn't born."
+"Yes."
 
-"Then it isn't a thing you do," said Kellan slowly. "Or it isn't only a thing you do. I'd want to know which before I said anything more than that, and I don't."
+"Then it isn't the rig, and it isn't luck," said Kellan slowly. "I'd want to know what it is before I said anything more than that, and I don't."
 
-"I mind this as well," said Perrin heavily, from the handcart. "I'd the yard to mind already, and the plate, and now I've a dead Master and a house on a hill." He shifted his strapped ribs. "Who else knew?"
+"I mind this as well," said Perrin heavily, from the handcart. "I'd the yard to mind already, and the plate, and now I've a house on a hill that wants you for a year." He shifted his strapped ribs. "Who else knew?"
 
-"Mara. And Orla. Orla heard the dream sixteen years ago, from the Warden. I found out on Thursday."
+"Mara. And Orla. Orla went up that hill sixteen years ago and sat in the Warden's chair. I found out on Thursday."
 
 That went through the yard like a draft.
 
@@ -294,7 +296,7 @@ That went through the yard like a draft.
 
 It was the first thing she had said since Kiva began. She was still kneeling at the south hem with the cord across her palm.
 
-"No. I asked her last night. She told me why, and I don't think she was sparing herself." Kiva drew a breath. "Then she asked me how long I'd had mine. And who knew."
+"No. I asked her last night. She told me why, and I don't think she was sparing herself." Kiva drew a breath. "Then she asked me how long I'd kept mine. And who knew."
 
 "How long?"
 
@@ -306,7 +308,7 @@ It was the first thing she had said since Kiva began. She was still kneeling at 
 
 Anwen laid the cord down on the canvas very carefully, as if it had been something that could spill.
 
-"That's a good one," she said. "It's as good as the Sag. I could tell it was coming before you'd opened your mouth." She stood up, and brushed the wax from her knees. "I'm glad it's out. I mean that. I'd rather it had come out of you before a stranger said it in your kitchen, and that isn't what happened, and I'm still glad." She looked at the others. "Somebody take Finch home before she narrates this to the tram."
+"That's a good one," she said. "It's as good as the Sag. I could tell it was coming before you'd opened your mouth." She stood up, and brushed the wax from her knees. "I'm glad it's out. I mean that. I'd rather it had come out of you a week ago, before a stranger came up your stair, and that isn't what happened, and I'm still glad." She looked at the others. "Somebody take Finch home before she narrates this to the tram."
 
 They went by degrees. Kellan stood for a while looking at the sheet, and then shook Kiva's hand, which he had never done, and went without saying why. Perrin was wheeled out on his own handcart by Pru, protesting. Noa stopped at the gate and said that her leave stood as she had given it unless she told him otherwise, and that he would go over the Weighbridge mast as well if there was ever anything on it, and went away before she could answer.
 
@@ -320,11 +322,11 @@ She was a hand's breadth away, across a fold of waxed cloth. Her face was tired,
 
 "I know."
 
-"I don't think you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You told them all of that without a speech. If I stayed another week you'd have it nearly right, and then I'd have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I had my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
+"I don't think you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You told them all of that without dressing it. If I stayed another week you'd have it nearly right, and then I'd have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I had my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
 
 Kiva held her end of the sheet.
 
-There were a great many things that she might have said, and she could feel every one of them standing ready.
+There were a great many things that she might have said, and she could feel every one of them crowding behind her teeth.
 
 "All right," she said.
 

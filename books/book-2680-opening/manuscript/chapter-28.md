@@ -222,17 +222,17 @@ Kiva did not answer. She was thinking of a drum under her left palm, and a needl
 
 "That's as good a word as any."
 
-"I'd have sworn to it. I'd have taken it to the board." He let out a long breath. "My mother put her cups down once, at her bench, over a figure that was false, and kept them down till the Works came to hear her. I believed this one for about as long as it takes to sharpen a pencil. I was wrong faster than anybody here."
+"I'd have sworn to it. I'd have taken it to the board." He let out a long breath. "I believed that figure for about as long as it takes to sharpen a pencil. I was wrong faster than anybody here."
 
-"You were wrong second," said Orla. "I was first, and I'd the stick." She turned to Noa, and for a moment she only looked at him: a narrow boy of seventeen with a strip of paper, who had just told a Torch of thirty years' standing that she could not tell a crossing from a stack. "Mr. Bexley. I'd have put my name to that landing. I'd have called it a crossing and gone home pleased with the pair of us. You and your pen have kept me from the second great mistake of my life, and you did it against a figure you wanted. I'll thank you to do it again, whenever I need it."
+"You were wrong second," said Orla. "I was first, and I'd the stick." She turned to Noa, and for a moment she only looked at him: a narrow boy of seventeen with a strip of paper, who had just told a Torch of thirty years' standing that she could not tell a crossing from a stack. "Mr. Bexley. I'd have put my name to that landing. I'd have called it a crossing and gone home pleased with the pair of us. You said no to a figure you'd wanted out of her since the spring, before anybody else here had worked out why, and you said it with your ears red. That kept me from the second great mistake of my life. I'll thank you to do it again, whenever I need it."
 
 Noa could not find anything to say. He nodded, and went on smoothing the tape.
 
-"Crest hears this tomorrow, from me, as it was," said Orla. "A stack, a third of a second, landed, nobody hurt. Called a miss by her reader before her sponsor had seen it. Thread warmed in the air; the candidate didn't call. I'll not soften the last, and you'll not ask me to."
+Orla held out her hand for the tape. Noa gave it to her, and she rolled it on its spindle herself, slowly, with her stick hooked over her arm, and put it away inside her coat, where it would go up the Placement Hall stair with her in the morning.
 
-"No."
+Then she looked at Kiva.
 
-"Then tell me why."
+"Tell me why."
 
 Kiva looked at her hands. She thought of Lowen Brask in a passage under a terrace, with a canvas roll at his feet, and of what he had said there, which she had put away on a tram as the kind of thing a boy says who likes to win.
 
@@ -284,7 +284,7 @@ Nobody broke step.
 
 Kiva said nothing. She trod. The canvas was beginning to give under her heels, a little, like stiff dough.
 
-"Can I ask something?" said Pru, some while later. "Since we're all in a trough. I know there's a dream, and a woman in bronze, and a house on a hill that wants you for a year. I've decided to know it badly. I think that's safest. But I'd like to know why you said yes to me."
+"Can I ask something?" said Pru, some while later. "Since we're all in a trough. I know there are lamps that go out when you do, and a house on a hill that wants you for a year. I've decided to know it badly. I think that's safest. But I'd like to know why you said yes to me."
 
 "Anwen said you."
 

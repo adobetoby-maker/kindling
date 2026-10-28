@@ -142,7 +142,7 @@ Stroud looked at her for some time.
 
 "She's her own."
 
-"So you said, and I said good." A step. "Then I'll tell you a thing for nothing, since she'll not think to. That line's the summer's work and it's a fair one, and it leaves the night van a ward short until I can button my own coat. Sorn's been at her roster all week. If you've a shift coming with that van, and I hear that you have, it'll be a thin one." She did not look back. "I'd not hurry me. I'd not dawdle either."
+"So you said, and I said good." A step. "Then I'll tell you a thing for nothing, since she won't think to. That line's the summer's work and it's a fair one, and it leaves the night van a ward short until I can button my own coat. Sorn's been at her roster all week. If you've a shift coming with that van, and I hear that you have, it'll be a thin one." She did not look back. "I wouldn't hurry me. I wouldn't dawdle either."
 
 Kiva stood on the stair until the two of them had reached the bottom.
 
@@ -234,7 +234,7 @@ Mara got up and took the kettle off the hot plate. The rattling stopped. In the 
 
 "You've had it," she said.
 
-It was not a question. Kiva could feel the answer she might give rising up, round and ready. *I don't know what you mean.* It would have been easy. It would have been a lie, and a smooth one, and she had already given one smooth thing away this week.
+It was not a question. Kiva could feel an easy lie coming up. *I don't know what you mean.* It would have been a smooth one, and she had already given one smooth thing away this week.
 
 "I'm not going to answer that tonight," she said.
 
@@ -276,7 +276,7 @@ Mara came back up the stair slowly and stood in the kitchen doorway with her han
 
 Kiva thought about it. She made herself think about it properly, and not just say yes.
 
-"The roads were the same. Every road at once. The lights, and none of them alike. The sky." She swallowed. "She said *full.* I said full to you. I couldn't think of another word for it, and she used the same one."
+"Most of it." She swallowed. "She said *full.* I said full to you. I couldn't think of another word for it, and she used the same one."
 
 "And the rest she keeps for the house."
 
@@ -284,7 +284,7 @@ Kiva thought about it. She made herself think about it properly, and not just sa
 
 Kiva did not say the next thing. There had been a part of it, every time, that she had never told Mara or anybody: the lamps that had not gone out, and had not gone white, but had gone a color she had no word for. She did not know how to say a color like that. She had never tried. The Warden had stopped at every lamp answering, and had not said how, and Kiva sat at her own table and wondered whether the rest was in what the house kept back.
 
-"She'd an answer ready about your hand," said Mara. "A year's rest."
+"She'd thought about your hand before she ever knocked," said Mara. "A year's rest."
 
 "Is it true? Would it rest?"
 

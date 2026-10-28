@@ -62,7 +62,7 @@ Brannock opened his mouth.
 
 Perrin's father had been sitting on an upturned tub at the end of the trestle for half an hour, with a mug that somebody had finally made him drink. He got up, and came along the wharf, and laid his broad hand on the neck of the red-tagged bag as he might have laid it on the flank of a car.
 
-"That's shed ash," he said. "I don't need a comb. Man and boy I've had my hand on the charging bank up that hill, and it runs on this and nothing else. It all pulls together. You can feel it in your teeth." He took the hand away. "We pay Halden's price for it by the tin, and wait a month. I'd give a week's wages for that bag and put it straight into the bank. I'd not put a thimble of it in my own kitchen. My cold-cupboard's no business keeping time with next door's."
+"That's shed ash," he said. "I don't need a comb. Man and boy I've had my hand on the charging bank up that hill, and it runs on this and nothing else. It all pulls together. You can feel it in your teeth." He took the hand away. "We pay Halden's price for it by the tin, and wait a month. I'd give a week's wages for that bag and put it straight into the bank. I wouldn't put a thimble of it in my own kitchen. My cold-cupboard's no business keeping time with next door's."
 
 "There," said Pike. "That's a shed foreman as well."
 
@@ -96,7 +96,7 @@ The old eyes went over Kiva, from her wet knees to her face.
 
 "I'd expect you to," said Rhea.
 
-"So. There's a bag over there with a red tag, and the lad says you'll not give me that. Good. And there are these." She laid her small dry hand on the nearest row of tins. "He says there's a hair of something in them that nobody can weigh. Is it clean?"
+"So. There's a bag over there with a red tag, and the lad says you won't give me that. Good. And there are these." She laid her small dry hand on the nearest row of tins. "He says there's a hair of something in them that nobody can weigh. Is it clean?"
 
 Pike took rather a long time to answer.
 
@@ -174,11 +174,11 @@ The others had gone up the hill by the time Rhea spoke to her again. Perrin had 
 
 "Yes."
 
-"Keep both. Most people keep one. They keep the bag, and tell it for twenty years." She did not turn round. "I'll give you one thing, and it's all I've got that's any use to somebody with your trouble. I've one door. I don't know yours. But Pike asked you *on what,* and you said you couldn't weigh it. Go on saying that. Every time, whoever's asking. The Chair included."
+"Keep both. Most people keep one. They keep the bag, and tell it for twenty years." She did not turn round. "I'll give you one thing, and it's all I've got that's any use to somebody with your trouble. I've one door. I don't know yours. But Pike asked you *on what,* and you told him you couldn't weigh it. Hold on to that. Most people let go of it the first time a ward does what they say."
 
 "Why?"
 
-"Because the day you stop, you'll be believed too easily. I have been, for twenty years. I say a thing on a floor and four wards do it." Her voice did not change. "That's how I came to tell Greta Stroud to slide a ward under a string. It was a fair notion. Nobody asked me what I could weigh."
+"Because the day you let go of it, you'll be believed too easily. I have been, for twenty years. I say a thing on a floor and four wards do it." Her voice did not change. "That's how I came to tell Greta Stroud to slide a ward under a string. It was a fair notion. Nobody asked me what I could weigh."
 
 Kiva said nothing. The cord went round her fist, and round.
 
@@ -188,7 +188,7 @@ The cord stopped.
 
 "Ilse Corran?"
 
-"She pulled me out of a Ferren culvert by the collar when I was nineteen, with the water at the roof. She had one arm round me. Her other hand was shut on something at her own throat, and I've wondered ever since what she thought it was going to do." Rhea turned at last. She looked, quite openly, at the cord where it crossed Kiva's collarbone, and then at Kiva's face. "It didn't do anything. She did. I had two words in my head about you in the spring, and I've carried them about since. They were the wrong two words."
+"She put a hand down through a grating in a Ferren culvert and hauled me out by the collar when I was nineteen, with the water at the roof. Afterward she sat beside me on the bank in a blanket, with that thing hanging out of her shirt on its cord, grey with mud. I asked her what it was. She said, *Something I carry,* and tucked it away." Rhea turned at last. She looked, quite openly, at the cord where it crossed Kiva's collarbone, and then at Kiva's face. "I've wondered since whether it was why she was at that grating. I don't think so. I think she was only the sort who is. I had two words in my head about you in the spring, and I've carried them about since. They were the wrong two words."
 
 She went up the hill toward the van. She did not say what the words had been, and Kiva, who had her mouth open, found that it was not a question she had any right to an answer to.
 
@@ -238,23 +238,19 @@ Then the Warden walked out to the front of the rows, and turned, and spoke to th
 
 She did not raise her voice. She did not make it holy. She said it as a foreman says the reason for a drill to a crew that has heard it before and will hear it again, because the drill is long and the reason is what gets you through it.
 
-"Our Master saw them come," she said. "From every road at once. She couldn't see their faces. Each of them carried a light, and no two lights were alike. And her own was among them."
+She told them what the Master had seen. Most of it Kiva had heard at her own kitchen table, in the same low voice, and she stood against the wall and let it go by her: the roads, the lights, the sky that was not torn. Then the Warden said a thing she had not said in the kitchen.
+
+"And her own light was among them," she said. "She walked in with them. That's how she put it. When they came close, their lights touched hers, and hers touched theirs, and none of them could say any longer where one stopped."
 
 Kiva's breath stopped.
 
-"She walked in with them. That's how she said it. They came toward one another, and when they were close their lights touched hers, and hers touched theirs, and none of them could say any longer where one of them stopped."
-
-*Her own was among them.*
-
-Kiva had never once been one of them. She had always been somewhere high up, alone, watching the lights come toward her and toward one another across a distance she could not close. She had never walked in. She had never been a light.
+Kiva had never once been one of them. She had always been somewhere high up, alone, watching the lights come toward one another across a distance she could not close. She had never walked in. She had never been a light.
 
 *It isn't the same,* she thought, and was surprised by how sharp it felt, like being left off a list.
 
-"Then she looked up," said the Warden, "and the sky was not torn. She had seen rifts all her life, and this was not a rift. It was gone. Like the roof off a house in the night, and the house waking to find itself under the stars. And what was above came down, and in. Not crushing. Full. Too large to hold back, and she had held back a river. And paying attention."
-
 The rows did not move. The panes of silver stood in the red light, and not one of them wavered.
 
-"Every lamp in Meridian answered at once," said the Warden. "Some went out. Some went white. And one turned a color she had no word for."
+"Every lamp in Meridian answered," said the Warden. "Some went out. Some went white. And one turned a color she had no word for."
 
 The hand door came up behind Kiva's breastbone so fast that she felt the cool of it in her throat.
 
@@ -282,7 +278,7 @@ The Warden found her at the window in the passage afterward, where Kiva had gone
 
 "Most do, the first time." She came and stood beside Kiva, and they both looked out at the city going blue below them, with its lamps coming on street by street. "Well?"
 
-Kiva had had an answer ready on the lift-tram coming up. It had been a good one. It had been about her team, and the Regional Gates, and four crossings she still owed a woman with a stick. It was all still true. She found that it was not the first thing.
+On the lift-tram coming up she had worked out what she would say. It had been a good answer. It had been about her team, and the Regional Gates, and four crossings she still owed a woman with a stick. It was all still true. She found that it was not the first thing.
 
 "You said the color," she said. "The one with no word."
 
@@ -310,7 +306,7 @@ The Warden did not move. For a little while she did not say anything at all.
 
 "When your hand is worse," said the Warden, without any unkindness at all. "You think it will be. Or you'd not have said *this year.*"
 
-Kiva had no answer to that, ready or otherwise.
+Kiva had nothing to say to that.
 
 "The cart goes down to the tram at the half hour," said the Warden. "Take it. You've climbed enough of our stairs for one day."
 
@@ -340,11 +336,13 @@ Orla said nothing for a moment.
 
 "And what did it cost?" she said.
 
-Kiva looked at her. Orla looked back, perfectly grave, with both hands on the stick.
+"The street lost a Handful on the gate, and another down a grating, and the Pellow's core, and six boxes—"
 
-"Hollis Vane was in this lane on Tuesday," said Orla. "I heard him. I'd not be the only one on this hill who doesn't ask it."
+"Not only the street's," said Orla. "Yours as well. I've asked you that at this lane since the first night, and you've always given me the team's."
 
-"Nairn's leg," said Kiva. "Both bones. A Handful printed on the gate, and a Handful down a grating, and the Pellow's core, and six boxes. And my hand. All of it, to the wrist, from the sixth rung till supper."
+Kiva looked at her hands.
+
+"Nairn's leg," she said. "Both bones. That's the van's. And my hand. The whole of it, to the wrist, from the sixth rung till supper."
 
 "Supper."
 
