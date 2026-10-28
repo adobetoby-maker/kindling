@@ -24,7 +24,7 @@ Kiva thought about it. Her face was hot. She made herself think about it anyway.
 
 "Put it under the mast," she said.
 
-"Good." He picked up the box, pulled off the tag, and held the tag out to her between two fingers. "Keep that, though. I kept mine. My first week somebody nailed a child's wooden sword over my peg." He stood. "Jude Talley. I'm the captain, which in Third Division means I'm the one who signs for the litter when it breaks. You're the provisional."
+"Good." He picked up the box, pulled off the tag, and dropped it in the bucket by the door. "My first week somebody nailed a child's wooden sword over my peg. I used it to prop the window for two years. It's still the best thing anyone's given me here." He stood. "Jude Talley. I'm the captain, which in Third Division means I'm the one who signs for the litter when it breaks. You're the provisional."
 
 "Kiva."
 
@@ -32,7 +32,7 @@ Kiva thought about it. Her face was hot. She made herself think about it anyway.
 
 ---
 
-She sat on the bench under her peg with the tag in her hand, and Jude Talley sat on an upturned bucket across from her and rested his elbows on his knees.
+She sat on the bench under her peg, and Jude Talley sat on an upturned bucket across from her and rested his elbows on his knees.
 
 "I've been in Third for three years," he said. "I'm not going to tell you that's by choice. My Edge hold is six and a half on a good day and my rank's been Flame since I was sixteen, and neither of them has moved, and I've stopped waiting for them to. I'm useful. I'm not going up. I worked that out last spring and it was a bad month, and then it was over." He said it plainly, without asking her for anything. "So I'm not angry that you're here, and I'm not frightened of you. I'm telling you now, because half this school is one or the other and you'll get tired of guessing which."
 
@@ -40,7 +40,7 @@ She sat on the bench under her peg with the tag in her hand, and Jude Talley sat
 
 "What I am is careful. Your placement says one incident in a sanctioned event and you're off the roster. It doesn't say what happens to the event." He held up a finger. "I looked it up. The lane's result is voided and the team takes a nought. We have six meets this season. A nought in one of them is the difference between staying Third and being struck from the Circuit, and there are three other people on this team who need the tuition." He lowered the finger. "So I need to know exactly what you won't do. Not what you can do. I've read what you can do. It was on the Cellhouse board."
 
-Kiva looked down at the tag. *For emergencies.*
+Kiva looked at the bucket by the door. *For emergencies.*
 
 Mara had asked her nearly the same thing across the kitchen table, six days ago, and she had found then that it was easier to say than she had expected. It was easier still the second time.
 
@@ -52,17 +52,15 @@ Jude was quiet. Outside, in the yard, somebody was dragging something heavy over
 
 "Not until Friday."
 
-"Then you'll keep the clock. Somebody told me you can keep a clock."
+"Then you'll sit on the bench and tell us what we're doing wrong. Somebody told me you can hear a dirty pivot across a room."
 
 ---
 
 The Low Lane's floor sloped.
 
-It did not slope much, a hand's width from the door to the drain at the far end, but Kiva felt it through her boots the moment she stepped onto it, and she saw from the way Jude walked that he had stopped noticing years ago. The lane was thirty paces long and eight wide, floored in old brick, with a sensing mast in the corner that had a wooden case instead of a steel one and a paper drum behind a little glass door. A new tag was tied to the mast's handle. She did not have to read it to know whose name was on it, but she read it.
+It did not slope much, a hand's width from the door to the drain at the far end, but Kiva felt it through her boots the moment she stepped onto it, and she saw from the way Jude walked that he had stopped noticing years ago. The lane was thirty paces long and eight wide, floored in old brick, with a sensing mast in the corner that had a wooden case instead of a steel one and a paper drum behind a little glass door.
 
-*Rowan, K. Door declared to lane warden on entry. Tape pulled nightly. By order, Placement Chair.*
-
-"They pull everybody's tape once a week," said Jude, setting the salt down beneath it. "Yours they pull every night. I'd take it as a compliment. Nobody's wanted to read mine since I was a first-year."
+"You tell the lane warden your door at the gate, every time you come in," said Jude, setting the salt down beneath it. "Chair's orders. And they pull everybody's tape once a week, but yours they pull every night. I'd take it as a compliment. Nobody's wanted to read mine since I was a first-year."
 
 "I want to read it," said someone else. "Hers, I mean. Not yours. Sorry, Jude."
 
@@ -72,13 +70,13 @@ There were two of them in the doorway. The girl was small and round-faced, with 
 
 "That's Pru Finch," said Jude. "Hand door. She wards well and she narrates disasters before they happen, so if you ever want to know the worst thing that could come of a plan, ask Pru. And that's Noa."
 
-The boy behind Pru was thin and dark, with ink on the side of his right hand and a strip of paper tape wound round and round his left like a bandage. He did not come in. He went straight to the mast, opened its little glass door, and peered at the drum.
+The boy behind Pru was thin and dark, with mast ink on the side of his right hand and a strip of paper tape wound round and round his left like a bandage. He did not come in. He went straight to the mast, opened its little glass door, and peered at the drum.
 
-"It hasn't moved," he said. "Since you walked in. I wondered if it would." He turned around. He had a narrow, serious face that looked as if it had been interrupted in the middle of a sum. "Noa Bexley. Ember door, Stride mostly, my Edge is a disgrace. I keep the team's tapes, because nobody else wanted to, and then I started reading them, and now I can't stop. Can I ask you something rude?"
+"It hasn't moved," he said. "Since you walked in. I wondered if it would." He turned around. He had a narrow, serious face that looked as if it had been interrupted in the middle of a sentence. "Noa Bexley. Ember door, Stride mostly, my Edge is a disgrace. I pull the team's tapes, because nobody else wanted to, and then I started reading them, and now I can't stop. Can I ask you something rude?"
 
 "You can ask."
 
-"Your draw at the bench was three point one. I looked at the board on Classification Day. But I pulled the Terrace Ring tape for your bout, and in the half after you stopped using two doors, your dram ran at about what Jude spends." He unwound a length of the tape from his hand and held it up to the window, as though the answer might be printed on it. "Those can't both be you. One of them's measuring something else. I'd like to know which." He caught Jude's look. "Not today. I know. I only wanted to say it before I forgot how I'd put it."
+"Your draw at the bench was three point one. I looked at the board on Classification Day. But I pulled the Terrace Ring tape for your bout, and in the half after you stopped using two doors, your dram ran at about what Jude spends." He unwound a length of the tape from his hand and held it up to the window, as though the answer might be printed on it. "Those can't both be you. One of them's reading something else. I'd like to know which." He caught Jude's look. "Not today. I know. I only wanted to say it before I forgot how I'd put it."
 
 "He'll ask again," said Jude. "Every day. You're allowed to say no."
 
@@ -92,7 +90,7 @@ The Cellhouse looked smaller in the afternoon, with no banners on it.
 
 She went down the side stair at one o'clock, as the call sheet said, past a door marked *KENNEL — LICENSED CANDIDATES AND WREN HOUSE ONLY*, and came out into a long, low room that smelled of brick dust and wet salt. Benches ran across it in rows. The whole of one wall was glass, thick and slightly green, and beyond the glass and a story below it lay a floor she had never seen before.
 
-It was the old refinery's settling hall. It ran twenty-four paces from end to end beneath a vaulted brick ceiling, and three drained tanks were sunk across the middle of it like three shallow graves, each a pace deep, six long and three wide, with a sloping bottom and an iron grate at the low end. Plank bridges crossed between them. At the far end stood a steel door with a second steel door behind it and a long lever beside the frame, and even from here, through the glass and the floor and her boots, she could feel what was behind that door, a slow steady pressure like a thumb resting on the back of her neck.
+It was the old refinery's settling hall. It ran twenty-four paces from end to end beneath a vaulted brick ceiling, and three drained tanks were sunk across the middle of it like three shallow graves, each a pace deep, six long and three wide, with a sloping bottom and an iron grate at the low end. Plank bridges crossed between them. At the far end stood a steel door with a second steel door behind it and a long lever beside the frame, and even from here, through the glass and the floor and her boots, she could feel what was behind that door, a slow, patient pressure like a thumb resting on the back of her neck.
 
 About fifty first-years were finding places on the benches. Team Seven had already found theirs, in the back row, and had left a gap at the end. Nobody had taken the bench in front of them, or the one in front of that, although people were sitting three to a space along the wall.
 
@@ -100,13 +98,11 @@ Perrin saw her first and raised both hands. They were still wrapped in white clo
 
 Kellan Renn sat at the far end with his back very straight and a First Division band on his sleeve, white on grey, so new that the stitching showed. He nodded to Kiva once. He did not look as if he had enjoyed the last ten minutes.
 
-"He's angry," said Anwen quietly, as Kiva sat. She had her list on her knee. "Not at you. Read the wall."
+"He's angry," said Anwen quietly, as Kiva sat. She had her list on her knee. "Not at you. Ask him where we're called."
 
-A slate hung on the wall beside the glass, ruled in two columns. *FIELD LICENSE, FIRST STEP — CALL ORDER.* Forty team numbers ran down it, and beside each a trial score. The order had nothing to do with the numbers the teams wore. Team Two stood first. Team Thirty-One was sixth. She found her own at last, because there was nowhere left to look.
+Kiva did not have to ask. Kellan said it without turning his head.
 
-*40. Team Seven. Trial failed. Call last.*
-
-"Order of trial score," said Kellan, without turning his head. "The first twelve were licensed on Sunday and Monday, out at the Ferren culverts. There was a tear, and the Home Line held it open for a day and a half. Twelve teams. Mine would have been one of them." He paused. "It's a fair rule. I'd have written it the same way."
+"The license is called in order of how the trials went. Forty teams. Team Two goes first, because it had the best trial, and we go last, because we had the worst." He said it the way he might have read out the weather. "The first twelve were licensed on Sunday and Monday, out at the Ferren culverts. There was a tear, and the Home Line held it open for a day and a half. Twelve teams. Mine would have been one of them." He paused. "It's a fair rule. I'd have made it the same way."
 
 "Doesn't make it taste better," said Perrin.
 
@@ -116,11 +112,11 @@ A slate hung on the wall beside the glass, ruled in two columns. *FIELD LICENSE,
 
 The Kennel warden came in by a door beside the glass, and the room went quiet without being asked.
 
-He was a thin, bald man of fifty-five or so in a Wren House apron, and his name, said the slate, was Oswin Druce. His fingertips were stained the grey of pencil lead, all ten of them, and when he spoke his voice was so soft that the back row leaned forward to catch it.
+He was a thin, bald man of fifty-five or so in a Wren House apron, and his name, Jude had told them on the stair, was Oswin Druce. His fingertips were stained the grey of pencil lead, all ten of them, and when he spoke his voice was so soft that the back row leaned forward to catch it.
 
 "You've all killed one," he said. "Or stood near somebody who did. In the Cellhouse, with the gallery watching and a clock running, and you thought that was the work." He set a wooden thing on the table in front of him. "That was the easy half. I'm here for the other."
 
-The wooden thing was a husk, life-size, carved from some pale timber and painted grey. It had the low front end and the four thick stubby limbs and no face, and somebody had sawn it in two along its length and hinged it at the spine. Druce opened it like a book.
+The wooden thing was a husk, life-size, carved from some pale timber and painted grey. It had the low front end and the four thick stubby limbs and no face, and somebody had sawn it in two along its length and hinged it at the spine. Druce opened it like a box.
 
 The inside was painted the same flat grey as the outside, all the way through. There were no lungs in it and no gut, no bones and no brain. There was only one thing that was not grey, a knot of red cord about the size of a fist, nailed into the wood at the place where the heart would be on a dog.
 
@@ -128,7 +124,7 @@ The inside was painted the same flat grey as the outside, all the way through. T
 
 A hand went up near the front, from a Stonehand boy with a neck like a gatepost. "What if you take a leg off?"
 
-"Then it grows another out of its own middle, and it's a little smaller, and you're a little more tired. The limbs are lent. Cut off all four and you'll have a small angry husk and a sore arm." A few people laughed. Druce did not. "It doesn't see. It reads. That front end turns toward the brightest worked power it can feel inside about twelve paces, which means a lit blade, or a ward, or a stance if you're near enough, or a cell if the cell is running hotter than you are. It goes in a straight line and it does not feint, and it does not remember you from one minute to the next. That is the last comfortable thing I'll say this afternoon."
+"Then it grows another out of its own middle, and it's a little smaller, and you're a little more tired. The limbs are lent. Cut off all four and you'll have a small angry husk and a sore arm." A few people laughed. Druce did not. "It doesn't see. It reads. That front end turns toward the brightest worked power it can feel inside about twelve paces, which means a lit blade, or a ward, or a stance if you're near enough, or a cell if the cell is running hotter than you are. It goes in a straight line and it does not feint, and it does not know you from one minute to the next. That is the last comfortable thing I'll say this afternoon."
 
 He closed the wooden husk and looked along the benches.
 
@@ -148,11 +144,11 @@ It let go.
 
 Kiva had seen that a dozen times in the Cellhouse and had not once looked at it properly, because there had always been a needle to watch. She looked now. The husk did not drop. It poured, the whole shape slumping inward and down onto the cloth in a soft grey rush, and then the heap moved. The top of it lifted and settled, lifted and settled, as if something beneath were turning over in its sleep.
 
-"One," said Druce's voice up the tube. "Two. Three."
+"Dark," said Druce's voice up the tube.
 
 The second-year had already backed away three long paces, and her blade had run home into her cuff. Her hands hung empty at her sides.
 
-"That heap is open," said Druce. He was walking toward it, counting between his sentences, and his own hands were empty too. "Eight. Nine. For sixty counts, near enough, fresh ash has no owner and no tune and it is listening for one. Twelve. It'll take the first pattern that touches it. Watch."
+"That heap is open," said Druce. He was walking toward it, and his own hands were empty too. "For about a minute, fresh ash has no owner and no tune, and it is listening for one. It'll take the first pattern that touches it. Watch."
 
 He lifted a pole from a rack on the wall. A small lamp-cell hung from the end of it, lit, and he held it out at arm's length until the lamp was two paces from the heap.
 
@@ -160,29 +156,29 @@ A thread rose off the ash.
 
 It was as fine as the smoke from a snuffed candle, and it leaned. There was no draft in that sealed brick hall to move it. It bent toward the lamp-cell like smoke toward a flue, and it kept bending, and on the side of the little cell a needle no longer than a fingernail began to shiver.
 
-"Loose ash finds the nearest lamp," said Druce. "Twenty. In a cellar, that's this pole. In a street it's the substation, or the pump house, or the cell in somebody's cold-cupboard, and when it gets there it'll foul the tune and that cell will drift until somebody like me comes to quench it." He swung the pole away and racked it. "Twenty-four. Now the other thing."
+"Loose ash finds the nearest lamp," said Druce. "In a cellar, that's this pole. In a street it's the substation, or the pump house, or the cell in somebody's cold-cupboard, and when it gets there it'll foul the tune and that cell will drift until somebody like me comes to quench it." He swung the pole away and racked it. "Now the other thing."
 
-He scooped a pinch from the edge of the heap onto a glass dish, carried it four paces off, and set it on the brick. He beckoned the second-year. She came, raised her fist beside the dish, and lit her blade for the space of three counts, a hard green-white line in the dim hall. Then it was dark again, and she stepped back.
+He scooped a pinch from the edge of the heap onto a glass dish, carried it four paces off, and set it on the brick. He beckoned the second-year. She came, raised her fist beside the dish, and lit her blade for the space of a breath, a hard green-white line in the dim hall. Then it was dark again, and she stepped back.
 
 Druce had not waited to watch. He was on his knees at the cloth with a flat steel pan in each hand, and Kiva forgot the dish.
 
-She had spent her whole life watching one person work with her hands. She knew what it looked like when someone had done a thing ten thousand times, and it looked like this. He folded two corners of the cloth inward so that the heap ran together, and he took it up in the pans in four long passes, never lifting the steel higher than a hand above the canvas, and each panful went into a squat round tin that he had stood ready with its lid off. There were four tins. He pressed each lid until it clicked, wound a waxed cord twice around the rim, and pulled it through its own loop, and all the while he went on counting up the tube in that soft unhurried voice, as though he were telling a child how many stairs there were.
+She had spent her whole life watching one person work with her hands. She knew what it looked like when someone had done a thing ten thousand times, and it looked like this. He folded two corners of the cloth inward so that the heap ran together, and he took it up in the pans in four long passes, never lifting the steel higher than a hand above the canvas, and each panful went into a squat round tin that he had stood ready with its lid off. There were four tins. He pressed each lid until it clicked, wound a waxed cord twice around the rim, and pulled it through its own loop, and all the while he went on talking up the tube in that soft unhurried voice, naming each thing as he did it, as though he were showing a child how to lace a boot.
 
-"Forty-one," he said, and set down the fourth tin. "That's the catch. Forty-one is slow. I'm an old man and I was talking."
+"That's the catch," he said, and set down the fourth tin. "It was slow. I'm an old man and I was talking."
 
-He waited. Nobody on the benches spoke.
+He waited. Nobody on the benches spoke. Then something in the hall changed that Kiva could not have named, the way a room changes when a clock stops, and Druce nodded as if he had heard it.
 
-"Sixty. Settled." He picked up the glass dish and carried it to the foot of the window, and held it up under the lamps so that the front rows could see, and people in the back stood. "Look at it."
+"Settled." He picked up the glass dish and carried it to the foot of the window, and held it up under the lamps so that the front rows could see, and people in the back stood. "Look at it."
 
 Kiva stood too. The pinch of ash on the dish was grey, like any ash. But there was a line in it, a crease as thin as a hair and as bright as a scratch on new tin, green-white, running straight across the middle.
 
-"That's her blade," said Druce. "Three counts of it, at arm's length, and it will be her blade until somebody salts it. We call that printed. Put printed ash in a lamp and the lamp runs with an edge in its tune. Put a tin of it in a substation." His eyes came up through the glass and found the back row, and rested there no longer than they had rested anywhere else. "Some of you have seen what a cell does with a pattern it was never meant to hold."
+"That's her blade," said Druce. "One breath of it, at arm's length, and it will be her blade until somebody salts it. We call that printed. Put printed ash in a lamp and the lamp runs with an edge in its tune. Put a tin of it in a substation." His eyes came up through the glass and found the back row, and rested there no longer than they had rested anywhere else. "Some of you have seen what a cell does with a pattern it was never meant to hold."
 
 He had been careful about it. The benches were not. A dozen heads came round to the back row and stayed there, and a Wren House girl three rows down drew her kit bag onto her knees and held it, like somebody who thought she might have to leave quickly.
 
 He tipped the dish into a box of wet salt. Even through the glass, she heard it hiss.
 
-Kiva sat down slowly. She was thinking about a heap of ash that had come apart all over her at the pump-room door, warm as bread, while two of her doors stood jammed open and the third burned to get out. The yield sheet for Team Seven had been pinned to the Cellhouse gate the following Monday, a single line under the rosters, and she had read it without understanding it. *T7, tin 4: salted, unread.*
+Kiva sat down slowly. She was thinking about a heap of ash that had come apart all over her at the pump-room door, warm as bread, while two of her doors stood jammed open and the third burned to get out. The following Monday a Kennel clerk had told Team Seven, in passing on the Cellhouse stair, that their fourth tin had gone straight to the salt. She had nodded without understanding a word of it.
 
 She understood it now.
 
@@ -190,15 +186,15 @@ She understood it now.
 
 "Four jobs," said Druce, when he had come back up.
 
-He chalked them on the slate beside the call order, one beneath another, and he pressed so hard that the chalk squeaked.
+He chalked them on the bare brick beside the glass, one beneath another, and he pressed so hard that the chalk squeaked.
 
 *KILL. HOLD. CARRY. CATCH.*
 
 "Kill cuts the knot. Hold keeps the thing where you want it and keeps the next one off your backs. Carry brings out whoever's hurt, and somebody always is. On my floor it's a sandbag. In the field it's your friend. Catch tins the yield." He underlined the last word. "A team that does three of those has failed its response, and I don't much care which three. You'll declare the roles aloud to me before every floor, the same as you declared them in the Cellhouse, and if you change one, you say so first."
 
-He turned from the slate.
+He turned from the wall.
 
-"Three rules, and then I'll let you make a mess. From the cut to sixty is the count. Inside the count and inside three paces, nothing is lit. Not an Edge, not a ward, not a stance. We call that dark hands, and I will fail a floor for a lit thumbnail. Second. Inside the count, the catcher owns the floor. If your catcher says *dark*, you go dark, and I don't care if you're a Torch with a medal. Third." He looked at them over his grey fingertips. "Any one of you may stop a response at any time for any reason. The word is *off*. You say it three times, so that nobody mistakes it for conversation, and everyone goes dark and walks back to the line. An abort called early costs you nothing with me. An abort called late costs you a little. An abort nobody called, because the best blade on the team thought he had it, has cost this city more people than I can name."
+"Three rules, and then I'll let you make a mess. From the cut, fresh ash is open for about a minute, and it settles when it settles; you'll learn to feel it go. While it's open and inside three paces, nothing is lit. Not an Edge, not a ward, not a stance. We call that dark hands, and I will fail a floor for a lit thumbnail. Second. While it's open, the catcher owns the floor. If your catcher says *dark*, you go dark, and I don't care if you're a Torch with a medal. Third." He looked at them over his grey fingertips. "Any one of you may stop a response at any time for any reason. The word is *off*. You say it three times, so that nobody mistakes it for conversation, and everyone goes dark and walks back to the line. An abort called early costs you nothing with me. An abort called late costs you a little. An abort nobody called, because the best blade on the team thought he had it, has cost this city more people than I can name."
 
 Beside her, Kellan had gone very still.
 
@@ -216,23 +212,23 @@ Nobody answered. They had not got as far as roles. Kiva opened her mouth to say 
 
 The dead husk was a bucket.
 
-Druce had a row of them along the back wall, filled with spent ash that had been quenched and dried and was as dead as sand, and he sent the teams down to the settling floor in fours and walked among them with a bucket on his hip. He did not say when he was going to tip it. He simply stopped somewhere, beside a tank or on a bridge or in the middle of somebody's argument, and poured a Handful of grey dust onto the brick and said, "One."
+Druce had a row of them along the back wall, filled with spent ash that had been quenched and dried and was as dead as sand, and he sent the teams down to the settling floor in fours and walked among them with a bucket on his hip. He did not say when he was going to tip it. He simply stopped somewhere, beside a tank or on a bridge or in the middle of somebody's argument, and poured a Handful of grey dust onto the brick and said, "Cut." On the table by the stair he had a sand glass as tall as a beer bottle, and a first-year turned it over every time he said the word.
 
 Team Seven had been given the brick beside the middle tank. The team on the next stretch watched Kiva shake out the cloth, and put their heads together, and then picked up their own kit and carried it across two plank bridges to the far wall. Druce saw them go. He let them.
 
 The first time he did it to Team Seven, Kiva had the cloth half unrolled and was still working out which way the slope ran.
 
-"Two," said Druce. "Three."
+"Cut," said Druce, and stood back with his arms folded to watch.
 
 She dropped to her knees. Her left knee told her at once what it thought of that. She pulled the cloth toward the heap with her right hand and found that a waxed canvas two paces square was a different thing with one arm than it had looked with two, because the far corners dragged and folded under. Anwen caught one and squared it without being asked.
 
 "Is that allowed?" said Kiva.
 
-"Hold may help the catcher," said Druce. "Ten. Dark, and inside the count, anybody may. Eleven."
+"Hold may help the catcher," said Druce. "While it's open and everybody's dark, anybody may."
 
-The pans were worse. She could work one with her right hand, and she got the edge of it under the heap and drew it up, and the dust slid neatly off the far side because there was no second pan to stop it. She tried bracing the other against her boot. That was better. It was not good. By thirty she had most of the heap on steel and a grey fan of it spread across the brick where the cloth had rucked, and Perrin, who could not hold anything, was kneeling beside her with his bandaged hands in his lap, saying, "Left. More left. No, your left. That's a pan, Kiva, not a shovel."
+The pans were worse. She could work one with her right hand, and she got the edge of it under the heap and drew it up, and the dust slid neatly off the far side because there was no second pan to stop it. She tried bracing the other against her boot. That was better. It was not good. By the time she had most of the heap on steel there was a grey fan of it spread across the brick where the cloth had rucked, and Perrin, who could not hold anything, was kneeling beside her with his bandaged hands in his lap, saying, "Left. More left. No, your left. That's a pan, Kiva, not a shovel."
 
-"Thirty-eight," said Druce.
+Behind her, on the table by the stair, the sand in the glass was more than half gone.
 
 She got the first tin between her knees and filled it. She pressed the lid. Then she had to wind the cord, and there was no way to wind a cord around a tin with one hand, so she brought her left hand out of the sling as far as the fingers and pinched the waxed end between her first finger and her thumb.
 
@@ -240,7 +236,7 @@ She could not feel it.
 
 She could see it. She could see her own finger and thumb closed on the cord. But the finger told her nothing at all, no bite of wax and no roughness, only a kind of thick dull pressure, as if she were holding the cord through the side of a boot. She wound it twice with her right hand and pulled it through the loop and did not know whether her left had kept the end tight or let it slide.
 
-"Sixty," said Druce. "Settled. Ninety-four when you finished, which we won't discuss." He bent, picked up her tin, and turned it upside down.
+"Settled," said Druce, when the glass ran out. "You finished a good while after that, which we won't discuss." He bent, picked up her tin, and turned it upside down.
 
 The lid fell off. Six drams of dead grey dust poured onto the brick at her knees.
 
@@ -260,7 +256,7 @@ Nobody laughed. Three other teams were on the floor, and most of them were kneel
 
 "Then stop asking them things they can't tell you." He took the empty tin and pressed the lid on with the heel of his hand, and it clicked, a small, flat, definite sound, like the click of a tram's brake. He pulled it off and did it again. "A good lid says so. Listen for it. Don't feel for it. Wind the cord with whichever hand works and hold the end under your thumb or in your teeth, I don't mind which. And when the tin's sealed, you say *seal check*, and somebody with a whole pair of hands puts a thumb on it before it goes in the carrier." He set the tin down. "The catchers who were too proud to ask for a seal check have salted more ash than every bad blade in Meridian. You're in luck. You've an excuse."
 
-He stood and went away with his bucket, and a moment later she heard him say, somewhere behind her, "One."
+He stood and went away with his bucket, and a moment later she heard him say, somewhere behind her, "Cut."
 
 "Again," said Kiva.
 
@@ -272,19 +268,19 @@ He stood and went away with his bucket, and a moment later she heard him say, so
 
 They came up the side stair at four, grey to the elbows, and sat on the Cellhouse steps in the sun because nobody had the strength to go anywhere else.
 
-Kiva's best count had been seventy-one. She had sealed nine tins, and Anwen had put her thumb on each of them, and three had been loose.
+On her last go of the afternoon she had beaten the sand, by about the width of a hair. She had sealed a dozen tins, and Anwen had put her thumb on each of them, and three had been loose.
 
 "I have to tell you something," said Kellan. "All three of you. I'd rather you heard it from me."
 
 He had not sat down. He was standing two steps below them with his hands in his pockets, looking not at them but at the plaza, where the recruiters' awnings had been taken down and a man with a cart was sweeping up the last of the anniversary ribbon.
 
-"The first-team master sent for me this morning. First Division fighters can't enter a live lane without the first-step license. The live lanes open in three weeks. He's looked at the call order, and at who's on Team Seven and what the Chair wrote about her, and he says the board will approve a transfer for cause." He spoke evenly, a man reading a tag aloud. "Team Nineteen lost its Ember-door yesterday. A broken wrist, in a practice lane. They stand eighteenth. If another tear comes this month they'll be called in the second group, and I'd be licensed inside a fortnight. He needs my answer by Saturday noon."
+"The first-team master sent for me this morning. First Division fighters can't enter a live lane without the first-step license. The live lanes open in three weeks. He's looked at the call order, and at who's on Team Seven and what the Chair said about her, and he says the board will approve a transfer for cause." He spoke evenly, as if it were somebody else's news. "Team Nineteen lost its Ember-door yesterday. A broken wrist, in a practice lane. They stand eighteenth. If another tear comes this month they'll be called in the second group, and I'd be licensed inside a fortnight. He needs my answer by Saturday noon."
 
 Nobody said anything.
 
 "So you're leaving," said Perrin at last. He said it lightly. It did not come out light.
 
-"I haven't decided. I'm telling you where I'm standing while I decide. That's what a card is for." Kellan turned, and his dark steady eyes went to Kiva. "The Chair wrote *no live-cell events*. I asked her clerk how far that runs. It runs to any charged cell, and to a held rift, and to the Kennel lattice, which is a rift in a cage. So you can't go on a live floor until Dane signs. Do you know what she needs to see?"
+"I haven't decided. I'm telling you where I'm standing while I decide. That's what a call is for. It tells you where to stand." Kellan turned, and his dark eyes went to Kiva. "The Chair said *no live-cell events*. I asked her clerk how far that runs. It runs to any charged cell, and to a held rift, and to the Kennel lattice, which is a rift in a cage. So you can't go on a live floor until Dane signs. Do you know what she needs to see?"
 
 "No."
 
@@ -292,31 +288,33 @@ Nobody said anything.
 
 "I don't know that either," said Kiva. It was the truth, and saying it made her stomach turn over. "She hasn't said."
 
-"Then I can't measure it." He took his hands out of his pockets. "Can I read your book?"
+"Then I can't plan for it." He took his hands out of his pockets. "Tell me what went wrong in the Cellhouse. Not the board's version. Yours."
 
-She had not expected that. The book went to Mara every night and to Orla every week, and to Ysra Crest when Ysra Crest asked. Nobody else had ever held it. She took it out of her coat anyway, the grey waxed card gone soft at the corners, and gave it to him.
+She had not expected that. She had told it to Mara at the kitchen table, and to Orla in the Old Yard, and to Ysra Crest across a desk, and each time it had come out a little more like something that had happened to somebody else. She told it to him anyway, on the warm steps, as plainly as she could.
 
-He read it standing up. He read the Terrace Ring, and he was quiet for a moment over his own name. He read the Cellhouse. He read the page from the hallway on Coper Street, and she saw him read the last column twice.
+She told him about the Terrace Ring first, because that was where it started, and when she came to his name she saw him go quiet and stay quiet. She told him about the cell running away under her hand, and the tune she had pressed, and how happy she had been for half a minute before it went wrong. She told him about the husk on the stair, and Perrin's hands, and the third door, which had come open behind the other two without anybody asking it.
 
-*Why: Don't know. Writing it down so somebody can.*
+"Why the third?" said Kellan.
 
-He closed it and handed it back.
+"I don't know." She heard how small it sounded. "Nobody does. Not the Chair, not Orla. Nobody's even pretending."
+
+He was silent for a while, looking at the plaza.
 
 "Saturday," he said. "I'll tell you before I tell the master." He went down the steps.
 
-"Saturday," said Anwen, when he had gone. She was looking at her list, at a line near the top that she had underlined twice. "Graywater posts on Saturday."
+"Saturday," said Anwen, when he had gone. She was looking at her list, at a line near the top. "Graywater posts on Saturday."
 
 Perrin lay back on the warm stone with his wrapped hands on his chest. "Everything's Saturday," he said. "I don't see why I should be the only one of us with nothing to dread. I'm going to find something."
 
 ---
 
-The shop was still open when she got home, and Mara was at the bench with the week's cell books.
+The shop was still open when she got home, and Mara was at the bench with a tray of the city's meters.
 
-The municipal van had come as usual, then. Kiva stood on the step a moment and looked through the glass at the stack under its brass weight, and at her aunt's bent head, and felt something in her chest let go that she had not known was clenched. The notice from the Works had not come on Monday. It had not come today. Mara had said the end of the week, and Mara was not often wrong about the Works.
+The municipal van had come as usual, then. Kiva stood on the step a moment and looked through the glass at the row of Works tags on the bench, and at her aunt's bent head, and felt something in her chest let go that she had not known was clenched. The notice from the Works had not come on Monday. It had not come today. Mara had said the end of the week, and Mara was not often wrong about the Works.
 
-Upstairs, the dead cell panel in the hallway had a tag on its handle in square capitals. *QUENCHED 13TH. NOT REFILLED PENDING REVIEW. M.R.* Kiva went past it with her elbow tucked in, though there was nothing left inside to hear her.
+Upstairs, the dead cell panel in the hallway still had Mara's quench tag on its handle. Kiva went past it with her elbow tucked in, though there was nothing left inside to hear her.
 
-She had brought home six empty tins from the Kennel, signed for in Druce's book, and after supper she put the field book in its place beside her plate and lined the tins up on the kitchen table and began. Lid. Click. Cord, twice round, with the end pinned under her right thumb. Through the loop. She said "seal check" to the cold-cupboard and turned the tin over herself.
+She had brought home six empty tins from the Kennel, on loan, and after supper she lined them up on the kitchen table and began. Lid. Click. Cord, twice round, with the end pinned under her right thumb. Through the loop. She said "seal check" to the cold-cupboard and turned the tin over herself.
 
 Mara washed the plates and did not ask. On the fourth tin she dried her hands and sat down across the table, and watched Kiva's left hand lying useless beside the carrier, with its two fingers a little straighter than the others.
 
@@ -334,7 +332,7 @@ Mara's left hand was holding the tin. Her right hand, the scarred one, lay flat 
 
 Her aunt turned the scarred palm up under the lamp. The burn ran across it, pale and shiny, from the base of the first finger to the heel.
 
-"Along the edges," she said. "Not in the middle. The middle went the day it happened and it never came back." She said it as she would have read out a fault note. "I taught the left to read instead. It took most of a year. It's as good now as the right ever was, and some days better, because it had to learn on purpose." She closed the hand. "I ought to have told you that as well. I seem to have a drawer full of things I ought to have told you."
+"Along the edges," she said. "Not in the middle. The middle went the day it happened and it never came back." She said it the way she would have given a fault. "I taught the left to read instead. It took most of a year. It's as good now as the right ever was, and some days better, because it had to learn on purpose." She closed the hand. "I ought to have told you that as well. I seem to have a drawer full of things I ought to have told you."
 
 "Does it—"
 
@@ -344,20 +342,12 @@ Kiva did it again.
 
 It was strange, and slow, and the third finger of her left hand was clumsy and unwilling and wanted its neighbors to do the work. But on the sixth tin she felt it, the faintest ridge where the lid sat a hair proud of the rim, and she pressed it down and heard the click.
 
-When all six stood sealed in the carrier, she opened the book.
+When all six stood sealed in the carrier, she turned each one over above the table, and nothing fell.
 
-*Exercise:* Catch, dead ash. Kennel floor, then kitchen.
+Mara had gone back to the sink. Her right hand lay on the draining board beside the cloth, palm up, while the left did the work.
 
-*What went wrong:* One arm. Cloth rucked. Could not feel the cord. First tin opened when the warden turned it over.
+Kiva got up and went over. She set the tip of her own third finger in the middle of the scar, very lightly, the way Mara had tested the rim.
 
-*Who was hurt:* Nobody.
+"Anything?"
 
-*What it cost:* 6 drams of dead ash on the floor. Would have been a street lamp for a fortnight.
-
-*How long to come back:* Count 94 first go. Best 71. Mark is under 60.
-
-*Second go:* Listen for the lid. Seal check, out loud, every tin. Third finger reads.
-
-She stopped at the last column, with the pencil over it, and this time she found that she knew what belonged there.
-
-*Why:* Mara reads with her left. She has done for three years. I never saw.
+"No," said Mara. She went on washing with the other hand, and she did not take the right one away.

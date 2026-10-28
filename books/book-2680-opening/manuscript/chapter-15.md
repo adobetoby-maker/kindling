@@ -16,7 +16,7 @@ It was Saturday afternoon. The gallery was full to the roof, and the noise of it
 
 It was full everywhere but in the rows nearest the western porch. Those had been full too, when the team came out. Then the board had put up four names, with *prov.* after the last, and a man in the second row had taken his small daughter by the hand and moved her up to the back, and a dozen people had found reasons to follow him. Nobody had shouted anything. She would almost rather they had.
 
-Mara was there. She had said nothing about coming. She had put on her good coat after dinner and walked to the tram, and now she was sitting in the fourth row beside Orla Dane, very upright, holding her gloves in her lap like a woman at a hearing. Orla's bound leg stuck out into the aisle. Two rows behind them sat Anwen, with her list, and Kellan, whose own lane was the last on the card and who had come three hours early to watch this one with a pencil.
+Mara was there. She had said nothing about coming. She had put on her good coat after dinner and walked to the tram, and now she was sitting in the fourth row beside Orla Dane, very upright, holding her gloves in her lap like a woman at a hearing. Orla's bound leg stuck out into the aisle. Two rows behind them sat Anwen, with her list, and Kellan, whose own lane was the last on the card and who had come three hours early to watch this one.
 
 Further along, where the chairs had arms, there were coats of slate blue. One of the people wearing them was a tall woman with a white streak through her dark hair. Kiva knew that streak. She had looked at it for six years on a poster on Anwen's door, and she had seen it once in the flesh, pressed close to the glass of another gallery, on the worst afternoon of her life.
 
@@ -42,7 +42,7 @@ He was broad and unhurried, with a shaved head and very calm brown eyes, and his
 
 "Thank you," said Kiva, and found that she meant it, and that it frightened her rather more than if he had sneered.
 
-"The Carry," said the referee. "For the benefit of the gallery and the two first-years. Three carries. Four minutes to each, by my glass. You begin on your own porch. The litter begins here. Put it on your own porch, the whole of it, and that's three points and the carry's done." She held up a thick hand and folded down the fingers. "A clean contact on the body or the head puts a fighter down. That's one point. A fighter who's down kneels where they are for a count of ten from the line judge. They don't touch the litter, and nobody touches them. A contact on a limb is a half, and two halves on one fighter in one carry make a down. Still-doors score with the open hand, or with a throw that puts both shoulders on the sand. Embers stay dark. Light an edge in my court and you'll be watching the rest from up there."
+"The Carry," said the referee. "For the benefit of the gallery and the two first-years. Three carries. Four minutes to each, by my glass. You begin on your own porch. The litter begins here. Put it on your own porch, the whole of it, and that's three points and the carry's done." She held up a thick hand and folded down the fingers. "A clean contact on the body or the head puts a fighter down. That's one point. A fighter who's down kneels where they are until the line judge's little glass runs through. They don't touch the litter, and nobody touches them. A contact on a limb is a half, and two halves on one fighter in one carry make a down. Still-doors take a point with the open hand, or with a throw that puts both shoulders on the sand. Embers stay dark. Light an edge in my court and you'll be watching the rest from up there."
 
 "And at time?" said Jude, who knew, but who had seen Kiva's face.
 
@@ -56,13 +56,13 @@ He was broad and unhurried, with a shaved head and very calm brown eyes, and his
 
 "Rowan. Still."
 
-The referee did not write that one down straight away.
+The referee did not answer that one straight away.
 
-"I've a note about you from the Placement Chair," she said. "It says you'll tell me before you change. Is that right?"
+"The Placement Chair's office tells me you'll say before you change," she said. "Is that right?"
 
 "Yes. *Rowan, changing,* and then the door."
 
-"Then here's how it goes in my court. You say it. I put up this flag." She showed a square of white cloth on a short stick. "You don't open the new one until the flag's up. Not when you've said it. When I've heard it. If you go before the flag, that's undeclared, and I'll score it so. I'm not having it argued afterward that you whispered."
+"Then here's how it goes in my court. You say it. I put up this flag." She showed a square of white cloth on a short stick. "You don't open the new one until the flag's up. Not when you've said it. When I've heard it. If you go before the flag, that's undeclared, and I'll call it so. I'm not having it argued afterward that you whispered."
 
 It was fair. It was also a whole second longer.
 
@@ -104,7 +104,7 @@ The boy flinched from it. As he flinched, his ribs came open, and Jude Talley, w
 
 And Kiva's hands let go.
 
-They did not come off the poles. But for three weeks, on a brick floor and a cinder path and in the long hot hours at the kitchen table, a shape had gone down beside her, and a voice had shouted, and every part of her had done one thing. *Dark. Count.* The stance eased under her as if it had been greased. Her eyes went to the sand at her right, where a grey shape was folding to its knees, to see where it would fall.
+They did not come off the poles. But for three weeks, on a brick floor and a cinder path and in the long hot hours at the kitchen table, a shape had gone down beside her, and a voice had shouted, and every part of her had done one thing. *Dark. Mark the fall.* The stance eased under her as if it had been greased. Her eyes went to the sand at her right, where a grey shape was folding to its knees, to see where it would fall.
 
 It lasted one breath.
 
@@ -124,7 +124,7 @@ Jude had gone after them. He could not get past Keld's long arm. Noa was circlin
 
 She saw the white flag go up. It seemed to take a week.
 
-She gave the ground its weight back. *Thank you.* She shut the still door behind it and counted one, and reached for the slab, and the metal came off her cuff and ran across to her right fist and began to close—
+She gave the ground its weight back. *Thank you.* She shut the still door behind it and breathed once, and reached for the slab, and the metal came off her cuff and ran across to her right fist and began to close—
 
 She had been watching the flag. She had not been watching Idony Keld.
 
@@ -134,15 +134,17 @@ Keld had set her end of the litter down the moment the word *changing* left Kiva
 
 Kiva knelt in the sand with the breath knocked out of her.
 
-*One,* said the line judge. *Two.*
+The line judge turned his little glass.
 
-She counted with him. There was nothing else to do. From her knees she watched Jude put Hendry Moss down with a neat touch under the arm, and watched Moss kneel as placidly as a man sitting down to supper. She watched the boy with the ears finish his own ten and get up and trot to the litter. She watched Brask and Keld walk Old Tom up two stone steps without breaking stride, as people walk upstairs with the washing.
+There was nothing else to do but watch the sand go through it. From her knees she watched Jude put Hendry Moss down with a neat touch under the arm, and watched Moss kneel as placidly as a man sitting down to supper. She watched the boy with the ears wait out his own glass and get up and trot to the litter. She watched Brask and Keld walk Old Tom up two stone steps without breaking stride, as people walk upstairs with the washing.
 
 "*Carried!* Stonehand!"
 
 The glass on the referee's table had more than a minute of sand left in it.
 
-The board on the east wall turned over its figures. *STONEHAND 4. CROOKED LINE 2.* And beneath, in the column by her name: *Dram, 0.38.*
+The board on the east wall turned over its figures. *STONEHAND 4. CROOKED LINE 2.* And beneath, by her name: *Dram, 0.38.*
+
+Up in the fourth row, Mara had not moved at all.
 
 ---
 
@@ -170,7 +172,7 @@ But that was his captain down there, on his Hall's sand, who had taught him to t
 
 He had not let himself look at the wall since. He looked now.
 
-The brass plate was as long as a door. It carried the Hall's best first-year hold for every year since the rack was built, and the same line had headed it since long before Perrin was born. *340 kilos, thirty counts. 2649.* Thirty-one years. Masters had grown old under that number.
+The brass plate was as long as a door. It carried the Hall's best first-year hold for every year since the rack was built, and the same line had headed it since long before Perrin was born. *340 kilos, thirty seconds. 2649.* Thirty-one years. Masters had grown old under that line.
 
 Today a girl from the Weighbridge had held three hundred and fifty. Then a boy Perrin shared a bench with had held three fifty-five. Then a third, a quiet lad nobody had thought much of, had stood under three hundred and sixty-two with his face perfectly calm, and the old master with the chisel had laughed out loud and said it was a strong year, and that he would need a longer plate.
 
@@ -178,13 +180,13 @@ Perrin had held four hundred. On his back, on his palms, for forty seconds, with
 
 The Hall healer had looked at the strapping and laughed too, less kindly.
 
-He had not told Kiva. He did not intend to. She would write it in that book of hers, under *what it cost*, and look at him with that awful steady face, and he would rather have the ribs.
+He had not told Kiva. He did not intend to. She would ask him what it cost, the way Dane had taught her to, and look at him with that awful level face, and he would rather have the ribs.
 
 *I'd do it again,* he thought, and it was true. *And I mind.* That was true as well. The two things sat side by side in his chest like a pair of badly matched boots, and he was getting used to the walk.
 
 He kept his hands between his knees. He was Stonehand. He would be Stonehand tomorrow.
 
-But when the bell went for the second carry, Perrin found that he was not watching the litter at all. He was watching Hendry Moss, who was coming down the eastern steps with his big arms hanging loose and open, like a man walking out to be measured for a coat.
+But when the bell went for the second carry, Perrin found that he was not watching the litter at all. He was watching Hendry Moss, who was coming down the eastern steps with his big arms hanging loose and open, like a man walking out to be fitted for a coat.
 
 ---
 
@@ -230,7 +232,7 @@ It flicked again, and Brask turned his shoulder, and it slid off. He did not hit
 
 "I can't get a clean one while he's set," said Jude. He was breathing hard. "Somebody's got to unset him. Or go through."
 
-There was one person on the western side who could carry a litter into a planted still-door and not be stopped by it. She had done it twelve days ago, for four minutes, for nine hundredths of a dram.
+There was one person on the western side who could carry a litter into a planted still-door and not be stopped by it. She had done it twelve days ago, for four minutes, for less than a tenth of a dram.
 
 She had the wrong door open.
 
@@ -238,7 +240,7 @@ She had the wrong door open.
 
 Somebody in the Hall's rows had learned the word in the first carry. *Changing!* a voice sang back at her, high and pleased, and a dozen more took it up along the benches.
 
-The flag. She did not watch the metal. She looked at Brask's shaved head and felt the copper take the weight, and breathed out, and counted one, and reached under her feet.
+The flag. She did not watch the metal. She looked at Brask's shaved head and felt the copper take the weight, and breathed out, and reached under her feet.
 
 She was open for two seconds. Keld knew it. Kiva saw the long arms start toward her, and saw Jude step across and take the palm on his own bar, and thought, *he's covered me.* And then she thought, *and so nobody's on Brask.*
 
@@ -252,7 +254,7 @@ It was the wading walk, a little taken and a little given back at every step, an
 
 They stopped.
 
-She had never felt another person's stance from the inside of her own. It was like putting a shoulder to a loaded wagon and discovering that somebody on the other side was doing the same. He was stronger than she was. She knew it in the first breath. Her hold was six and two on a good day and his was seven and a half every day, and the difference came up through the poles into her wrists as a slow, steady, patient pressure. She was not going forward. She was, by the width of a finger at a time, going back.
+She had never felt another person's stance from the inside of her own. It was like putting a shoulder to a loaded wagon and discovering that somebody on the other side was doing the same. He was stronger than she was. She knew it in the first breath. Her hold was six and two on a good day and his was seven and a half every day, and the difference came up through the poles into her wrists as a slow, patient pressure. She was not going forward. She was, by the width of a finger at a time, going back.
 
 But she was holding. And he was held. His hands were on the litter and his weight was in it, and for as long as that lasted, he could not guard his ribs.
 
@@ -280,21 +282,15 @@ Both shoulders. She felt them hit.
 
 "*Down!* Crooked Line!"
 
----
+She lay on her back and watched the line judge's glass, upside down, with the sand running up.
 
-She lay on her back and listened to the count.
-
-*One. Two.* Somewhere above her head, feet were moving on sand, heavy and unhurried. The litter went past. She saw the underside of it, and Old Tom's embroidered name, upside down.
-
-*Five. Six.*
+Somewhere above her head, feet were moving on sand, heavy and unhurried. The litter went past. She saw the underside of it, and Old Tom's embroidered name, upside down.
 
 She had been given him. That was what she could not stop turning over. Moss had not been beaten. He had walked up and held his arms out. Brask had handed Jude a point, as you hand a dog a biscuit, so that a shape would go down at her elbow, because he had watched her in the first carry and had known to the half breath what she would do.
 
-A husk did not do that. A husk came straight. A husk did not remember you from one minute to the next.
+A husk did not do that. A husk came straight. A husk did not know you from one minute to the next.
 
-*Nine. Ten.*
-
-She got up. The litter was thirty paces off, nearly at the eastern steps, with Brask at one end and the boy with the ears at the other. Jude and Noa were worrying at them. Keld was holding both of them off with her long arms, and her face was a little bored.
+The glass ran through. She got up. The litter was thirty paces off, nearly at the eastern steps, with Brask at one end and the boy with the ears at the other. Jude and Noa were worrying at them. Keld was holding both of them off with her long arms, and her face was a little bored.
 
 There was no still-door answer to thirty paces. There was nothing to plant on.
 
@@ -314,6 +310,8 @@ The gallery roared. The board turned over.
 
 *Rowan. Dram, 0.87.*
 
+Most of her dram, gone in two carries, and the third not yet begun.
+
 ---
 
 Nobody on the western porch said anything for a while.
@@ -330,7 +328,7 @@ They looked at her.
 
 She had not known what she was going to say until she had begun. But it had been laying itself out in her head since she lay on her back in the sand, piece by piece, as a fault lays itself out on the bench once you have the case off.
 
-"It's what the Home Line officer said on Sunday. He doesn't keep a kill column. Brask doesn't either. He'll take a touch any time, if it buys him the litter. We've been playing it like a floor. Kill it, hold it, carry it." She pressed her hand to her ribs. "But a husk can't choose to lose a leg to get past you. He can."
+"It's what the Home Line officer said on Sunday. He doesn't ask who made the kill. Brask doesn't either. He'll take a touch any time, if it buys him the litter. We've been playing it like a floor. Kill it, hold it, carry it." She pressed her hand to her ribs. "But a husk can't choose to lose a leg to get past you. He can."
 
 "That's the plan," said Jude slowly. "That's my plan you're talking about."
 
@@ -340,17 +338,17 @@ She had not known what she was going to say until she had begun. But it had been
 
 "So did I," said Kiva. "For four years. I thought if they'd only let me use them, I'd be worth three people." It was oddly easy to say, sitting on a stone step with sand down the back of her neck. "I've used all three today. Every one of them was the right door for what was in front of me. And all it's given him is three different places to stand while I'm busy getting from one to the next."
 
-Noa had not been listening. He had been at the east wall, at the foot of the draw board, where the mast's paper drum turned behind glass with eight pens on it. He came back along the side step at a trot with a length of tape pinched between his fingers.
+Noa had not been listening. He had been at the east wall, at the foot of the draw board, staring up at the figures by her name the way he stared at everything, as if it had been put there to annoy him. The mast behind its glass, with its pens, he did not touch. He came back along the side step at a trot.
 
-"Look," he said. He knelt and spread it on the stone. "That's you. Fourth pen. I asked the line judge and he let me tear it. First carry. See how flat it is while you're planted? Hardly anything. Then here." His inky finger stopped at a sharp peak. "That's *changing*. And here it stays up, the whole time you've got the bar. Second carry. Up from the bell, because you started on Ember. Then a spike, down for forty seconds, another spike, up again." He looked up at her, and his narrow face was alight. "It's not you that's dear. It's the Ember door, and it's the getting there. On the still door, you spent two hundredths in forty seconds with their captain leaning on you. Two hundredths."
+"It's not you that's dear," he said. He crouched on the stone, and his narrow face was alight. "First carry, you were planted nearly the whole time, and the board hardly moved. Second carry you started on Ember, and the board went up like a kettle. Then you changed to still and stood against their captain, and it all but stopped." He looked up at her. "It's the Ember door, and it's the getting there. The still door costs you next to nothing, even with somebody leaning on it. Think of the Low Lane."
 
 "How much have I got left?"
 
-"Thirteen."
+"Thirteen hundredths."
 
 "For four minutes."
 
-"On the bar, you'd be dry inside one. On the still door—" He did the sum with his lips. "You'd finish with something over. Not much."
+"On the bar, you'd be dry inside one. On the still door—" He thought about it. "You'd finish with something over. Not much."
 
 Kiva looked across the sand. Brask was sitting on his top step again. He was not looking at her hands this time. He was looking at the flag on the referee's table.
 
@@ -370,13 +368,13 @@ That was a floor question, and she had a floor answer.
 
 She had been coming to that.
 
-"I need somebody to say something," she said. "When one of them goes down near me. Straight away, before I've had time to go soft. It doesn't matter what, as long as it's got a number in it."
+"I need somebody to say something," she said. "When one of them goes down near me. Straight away, before I've had time to go soft. It doesn't matter what, as long as it's a call. Something in my ears that isn't the ground."
 
-"A number," said Jude.
+"A call," said Jude.
 
-"She counts," said Noa, as if that explained it. "It's in her tape. I can show you."
+"She calls," said Noa, as if that explained it. "Whatever's in front of her. It keeps the door shut. Ask the warden."
 
-"I'll do it," said Pru. She had lifted her head. Her face was blotched and her scarf was gone entirely, and she looked like a person who has been told she may, after all, be useful. "I'm good at counting disasters. I've been doing it under my breath all afternoon."
+"I'll do it," said Pru. She had lifted her head. Her face was blotched and her scarf was gone entirely, and she looked like a person who has been told she may, after all, be useful. "I'm good at calling disasters. I've been doing it under my breath all afternoon."
 
 Down on the sill, the referee turned her glass.
 

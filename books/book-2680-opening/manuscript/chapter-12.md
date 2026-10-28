@@ -4,15 +4,15 @@ Perrin brought the sandbag on his shoulder, through the streets, all the way fro
 
 He came down the Kennel stair at ten to four on Friday with seventy kilos of coverall draped over him like a drunken uncle, and he set it on the cast-room bench between Anwen and Kellan and patted its chest.
 
-"This is Gerald," he said. "The Hall has forty of them. Nobody will miss him until the autumn count. He's had a hard life and he's about to break his leg, so I'd like everyone to be kind."
+"This is Gerald," he said. "The Hall has forty of them. Nobody will miss him until the autumn. He's had a hard life and he's about to break his leg, so I'd like everyone to be kind."
 
 "Does he have to have a name?" said Kellan.
 
-"The third team at Crooked Line has one called Donny. Kiva told me. I'm not having my casualty be less of a person than theirs." Perrin flexed his hands. The palms were still blotched yellow and green, and he held them a little open, like someone carrying two cups. "I can lift. I can't grip for long. If I drop him, he was difficult. Somebody put that in the book."
+"The third team at Crooked Line has one called Donny. Kiva told me. I'm not having my casualty be less of a person than theirs." Perrin flexed his hands. The palms were still blotched yellow and green, and he held them a little open, like someone carrying two cups. "I can lift. I can't grip for long. If I drop him, he was difficult, and I'll say so at the inquest."
 
 "Roles," said Druce, from the door.
 
-They stood up. It was the first time Team Seven had declared anything together since a whitewashed corridor a fortnight ago, and Kiva saw that each of them had remembered it at the same moment, because nobody quite looked at anyone else.
+They stood up. It was the first time Team Seven had declared anything together since a whitewashed corridor a fortnight ago, and Kiva saw that each of them had thought of it at the same moment, because nobody quite looked at anyone else.
 
 "Renn. Kill."
 
@@ -22,7 +22,7 @@ They stood up. It was the first time Team Seven had declared anything together s
 
 "Rowan. Catch." It was easier the second time. "No door. Dark hands."
 
-"Entered." Druce wrote it in the chained book. "One Handful. The casualty will be where I put him, and I'll put him somewhere awkward. Catcher sets the mark. You've ten minutes on the floor to argue about it."
+Druce nodded. "One Handful. The casualty will be where I put him, and I'll put him somewhere awkward. Catcher sets the mark. You've ten minutes on the floor to argue about it."
 
 ---
 
@@ -32,7 +32,7 @@ She took them to the strip of brick three paces from the south tank's west corne
 
 "Then I kill it here," said Kellan. He had watched Selka Dray lose fifteen drams down a grate and had taken the lesson without needing it explained twice. "Pryce brings it to the cloth. I stay dark until it's on the canvas."
 
-"I'll walk it in from the north bridge." Anwen was measuring the distance with her eyes. "Ward up at six paces, so it reads me the moment it's through the door, and I back along this line. When my heels touch the cloth, I step off to the left and it keeps coming."
+"I'll walk it in from the north bridge." Anwen was judging the distance with her eyes. "Ward up at six paces, so it reads me the moment it's through the door, and I back along this line. When my heels touch the cloth, I step off to the left and it keeps coming."
 
 "And I stand by the tank and admire you all," said Perrin, "until somebody falls over."
 
@@ -42,23 +42,23 @@ Druce carried Gerald down himself and wedged him into the low end of the north t
 
 Anwen walked it in. Kiva, kneeling at the south hem of the canvas with a pan in each hand, watched her friend come backward along the brick with her palms a foot apart and the curved silver of the ward leaning between them, and thought that she had never seen her look so entirely like herself. She did not hurry. Her heels found the edge of the cloth. She stepped off to the left.
 
-"Five paces," said Kiva. "Four. It's on the line. Three."
+"Coming," said Kiva. "On the line. Close."
 
-The Ember came up. She called it and went on counting. It was beginning to feel less like holding a door against a dog and more like a thing her mouth did while her hands were busy.
+The Ember came up. She called it and went on calling. It was beginning to feel less like holding a door against a dog and more like a thing her mouth did while her hands were busy.
 
 The husk came onto the canvas after the ward. Kellan's blade lit, a hard blue-white line, and went through the knot in one short thrust from the side, and was dark again before the shape had finished letting go.
 
-"Count!" said Anwen and Kiva, together.
+"Dark!" said Anwen and Kiva, together.
 
 The ward folded, cleanly, like a hand closing. The heap poured down warm in front of Kiva's knees, and lifted, and settled, and she set the pan beneath it.
 
-It was listening, as the other had listened. The hand door came up cold and wild and she had a number ready for it. Corners in. First pass. The tin. She was quicker than yesterday. Her left hand still lagged, and she had learned in one evening at the kitchen table to give that hand the pan that mattered less and let the right do the lifting.
+It was listening, as the other had listened. The hand door came up cold and wild and she had a word ready for it. Corners in. First pass. The tin. She was quicker than yesterday. Her left hand still lagged, and she had learned in one evening at the kitchen table to give that hand the pan that mattered less and let the right do the lifting.
 
-"Eleven. Twelve."
+"Hand. Pan. Tin."
 
 Somewhere behind her, Perrin had gone into the north tank after Gerald and was saying, quite gently, "Come on, old son. Mind your leg."
 
-It was at about twenty that she felt the draft.
+She was on the second tin when she felt the draft.
 
 She did not know what else to call it. There was no moving air in that hall. But the listening in the ash, all those small turned heads, seemed to tilt. It was very slight. It was as if a door had been opened somewhere to her right, in another room, and a fraction of the heap's attention had gone that way to see who had come in.
 
@@ -70,17 +70,17 @@ There was nothing there that ought not to have been. To her right lay the south 
 
 She put her head down and tinned.
 
-"Seal check," she said at twenty-six, and Anwen's thumb came down on the lid. "Sound." Thirty-three. Thirty-nine. The fourth tin took what was left on the cloth, and she ran the lazy finger round its rim and felt it flush and wound the cord.
+"Seal check," she said, and Anwen's thumb came down on the lid. "Sound." The third tin. The fourth took what was left on the cloth, and she ran the lazy finger round its rim and felt it flush and wound the cord.
 
-"Forty-four," said Kiva. "Sealed. All of it. There's nothing on the brick."
+"Sealed," said Kiva. "All of it. There's nothing on the brick."
 
-"Sixty," said Druce, some time later, into a silence. "Settled."
+"Settled," said Druce, some time later, into a silence.
 
 Perrin came over the line with Gerald across his shoulders and his face shining. Anwen was already weighing the carrier in her two hands as though she could tell the drams by heft. Kiva stayed on her knees a moment longer, because her legs had stopped belonging to her.
 
 Druce weighed the four tins on the brass scale. He did it twice.
 
-"Twenty-one," he said. "Flat. Inside forty-four." For the first time since she had met him, something happened in his thin face that might, on another man, have been a smile. "That's over the mark, from a catcher who couldn't close a lid ten days ago. Don't let it go to your heads. The tins go in the cold room for the night, every tin, every time, and we'll see what you've got in the morning."
+"Twenty-one," he said. "Flat. And sealed with time to spare." For the first time since she had met him, something happened in his thin face that might, on another man, have been a smile. "That's over the mark, from a catcher who couldn't close a lid ten days ago. Don't let it go to your heads. The tins go in the cold room for the night, every tin, every time, and we'll see what you've got in the morning."
 
 "Why the night?" said Perrin. He was still grinning.
 
@@ -88,7 +88,7 @@ Druce weighed the four tins on the brass scale. He did it twice.
 
 ---
 
-The cold room was a brick cellar behind the cast room, lined with slate shelves, and at eight o'clock on Saturday morning their four tins stood on a shelf by themselves with a paper tag tied to the carrier.
+The cold room was a brick cellar behind the cast room, lined with slate shelves, and at eight o'clock on Saturday morning their four tins stood on a shelf by themselves.
 
 Druce was waiting beside them. He was not smiling.
 
@@ -110,7 +110,7 @@ The ash was grey. And through the grey, from one side of the tin to the other, a
 
 Nobody said anything. Kiva did not need to turn her head. There was only one person in Meridian whose edge-light was that color, and he was standing at her left shoulder, and she heard him stop breathing.
 
-"I paced it after you'd gone," said Druce. His soft voice had no anger in it at all, which was worse. "From the middle of that cloth to the plank bridge where Mr. Renn was standing is two paces and a half. It looks like more, because of the tank. It looked like more to me, from the lever, or I'd have called it, and that's in the book against my name. And his blade was lit from the moment the catch began until I called sixty. Not three counts, like the dish I showed you. Fifty-nine."
+"I paced it after you'd gone," said Druce. His soft voice had no anger in it at all, which was worse. "From the middle of that cloth to the plank bridge where Mr. Renn was standing is two paces and a half. It looks like more, because of the tank. It looked like more to me, from the lever, or I'd have called it, and that's mine to answer for, not yours. And his blade was lit from the moment the catch began until it settled. Not a breath, like the dish I showed you. The whole of it."
 
 "I was holding," said Kellan.
 
@@ -122,11 +122,11 @@ His voice was perfectly level. Kiva had heard him sound like that once before, r
 
 Kiva found her voice. It did not want to be found.
 
-"I felt it," she said. "At about twenty. Something pulled the ash to the right. I looked up and saw the tank, and I thought it was leaning to the grate." Her face was hot. "It was him. He was in the same line. I saw him standing there lit, and I didn't say anything, because I thought I knew what it was."
+"I felt it," she said. "On the second tin. Something pulled the ash to the right. I looked up and saw the tank, and I thought it was leaning to the grate." Her face was hot. "It was him. He was in the same line. I saw him standing there lit, and I didn't say anything, because I thought I knew what it was."
 
 Druce turned to her, and for a moment she thought he was going to be gentle about it.
 
-"Inside the count, the catcher owns the floor," he said. "I told you that eleven days ago. You felt something touch your yield, and you explained it to yourself and kept quiet. Next time you feel anything, anything at all, you say *dark*, and you let them all be annoyed with you." He picked up the carrier. "There's the salt. You'll do it yourselves. I find it stays with people better."
+"While it's open, the catcher owns the floor," he said. "I told you that on your first afternoon. You felt something touch your yield, and you explained it to yourself and kept quiet. Next time you feel anything, anything at all, you say *dark*, and you let them all be annoyed with you." He picked up the carrier. "There's the salt. You'll do it yourselves. I find it stays with people better."
 
 ---
 
@@ -142,37 +142,37 @@ He had been taught to recognize the smell of that before he could read. Other pe
 
 He poured the second tin.
 
-It had been the right thing to do. That was what he kept arriving at, and it was no use at all. Every lane he had ever fought in, every master who had ever stood behind him, had put the same habit into him until it was no more a decision than blinking. You did not stand unlit on a floor with a door that might open. You finished one, and your blade stayed low and ready, and your eyes went to where the next would come from. He had held a stair that way a fortnight ago, and the booth had written it up as the best thing on the run.
+It had been the right thing to do. That was what he kept arriving at, and it was no use at all. Every lane he had ever fought in, every master who had ever stood behind him, had put the same habit into him until it was no more a decision than blinking. You did not stand unlit on a floor with a door that might open. You finished one, and your blade stayed low and ready, and your eyes went to where the next would come from. He had held a stair that way a fortnight ago, and the booth had called it the best thing on the run.
 
-He had done the best thing he knew how to do, and done it well, and it had cost the team its whole yield. There was no column on any board he had ever stood under for that.
+He had done the best thing he knew how to do, and done it well, and it had cost the team its whole yield. No board he had ever stood under had a place for that.
 
 The third tin. The fourth. Pryce had come to stand beside him, and after a moment so had Cade, and they tipped the last two between them without a word.
 
-Twenty-one drams. A Handful, less a little. He knew to the tenth what that was worth on the Halden floor, graded Second, and he knew what it would have bought. He made himself finish the sum instead of looking away from it.
+Twenty-one drams. A Handful, less a little. He knew what that was worth on the Halden floor, graded Second, and he knew what it would have bought. He made himself think it all the way through instead of looking away from it.
 
-"Mine," he said. "In the book. Write it as mine."
+"Mine," he said.
 
 "It's the team's floor," said Pryce.
 
-"The print's mine. It has my light in it. I'm not having it entered as a thing that happened." He turned to the warden. "What did Nineteen tin at the river on Monday?"
+"The print's mine. It has my light in it. I'm not having it called a thing that happened." He turned to the warden. "What did Nineteen tin at the river on Monday?"
 
 Druce looked at him for a moment, as if deciding whether the question was a way of changing the subject.
 
-"Nothing," he said. "Dray killed it on a mudbank at the turn of the tide, in under five seconds, and by the time their cloth was down, the river had it. They've been put back to thirty-ninth to try again. You're still fortieth." He did not say it unkindly. "If you were hoping that would make you feel better."
+"Nothing," he said. "Dray killed it on a mudbank at the turn of the tide, in under five seconds, and by the time their cloth was down, the river had it. They've been put back near the bottom to try again. You're still fortieth." He did not say it unkindly. "If you were hoping that would make you feel better."
 
 "No," said Kellan. "I wanted to know whether I was right."
 
-He had been right. It did not make him feel better. He noted that, too, and set it aside.
+He had been right. It did not make him feel better. He took that, too, and set it aside.
 
-Rowan was standing by the slate shelves with her hands tucked under her arms, as though they were cold. She looked as wretched as he felt, which was unreasonable of her. She had tinned twenty-one in forty-four with two bad fingers.
+Rowan was standing by the slate shelves with her hands tucked under her arms, as though they were cold. She looked as wretched as he felt, which was unreasonable of her. She had tinned twenty-one drams with two bad fingers and time to spare.
 
-He went over. He did not know how to begin, so he began with the part that had a number in it.
+He went over. He did not know how to begin, so he began with the part he was sure of.
 
 "Two and a half paces. I'd have said four."
 
 "So would I."
 
-"You felt it at twenty."
+"You felt it on the second tin."
 
 "I thought it was the drain."
 
@@ -182,29 +182,27 @@ She nodded. She was looking at his right hand, and he realized that he was holdi
 
 There was a harder thing to ask, and nobody else on the team could answer it.
 
-"What do you do?" he said. "For the sixty. When there's a door that might open, and you've nothing in your hands, and you're not allowed to be ready." It came out lower than he had intended. "I've never stood on a floor dark with a live door on it. I don't know what that is. I don't know where to put myself."
+"What do you do?" he said. "While it's open. When there's a door that might open, and you've nothing in your hands, and you're not allowed to be ready." It came out lower than he had intended. "I've never stood on a floor dark with a live door on it. I don't know what that is. I don't know where to put myself."
 
-He had half expected her to be pleased. She had every right to be. She only frowned, the way she frowned at a meter, working out an honest answer.
+He had half expected her to be pleased. She had every right to be. She only frowned, the way she frowned at a fault on the bench, working out an honest answer.
 
-"I count," she said. "Out loud. It sounds like nothing, I know. It's harder than it sounds, and it's the whole thing. If my mouth's got a number in it, the door stays in the doorway." She hesitated. "You could count with me. From the cut. Then if I stop, you'll know something's wrong, and if you stop, I'll know."
+"I call," she said. "Whatever's in front of me. It sounds like nothing, I know. It's harder than it sounds, and it's the whole thing. If my mouth's got a word in it, the door stays in the doorway." She hesitated. "You could call with me. From the cut. Say what you're doing. Then if I stop, you'll know something's wrong, and if you stop, I'll know."
 
 It was a ridiculous remedy. It was the kind of thing one taught to children who were afraid of a cellar.
 
-He took the pencil from behind his ear and the folded paper from his pocket, the one that had been there since the Terrace Ring, and under the old lines he wrote three more.
-
-*Rowan sets the mark. Dark at the cut, six paces, not three. Count aloud with the catcher.*
+He went over it once in his head, to have it straight. Rowan sets the mark. Dark at the cut, and six paces off, not three. Call with the catcher.
 
 "Where do you want the next one killed?" he said.
 
 "Same place."
 
-"Then that's where I'll kill it." He put the paper away. "Four o'clock. The warden's given us a second floor. I asked him before you came in."
+"Then that's where I'll kill it." He put his hands in his pockets. "Four o'clock. The warden's given us a second floor. I asked him before you came in."
 
 ---
 
 The second floor went wrong before the lever was pulled.
 
-The Kennel's own kits were all out. Eleven teams were flooring on Saturday afternoon, and Druce had told them on Friday to bring one from their schools, and Perrin had said, with a wave of one green hand, that Stonehand had a spare in the stair cupboard and he would see to it.
+The Kennel's own kits were all out. Half the section was flooring on Saturday afternoon, and Druce had told them on Friday to bring one from their schools, and Perrin had said, with a wave of one green hand, that Stonehand had a spare in the stair cupboard and he would see to it.
 
 He had seen to it. He set it down on the cast-room bench at a quarter to four, a roll of canvas and a carrier and a salt box, with the air of a man delivering a wedding cake.
 
@@ -220,13 +218,13 @@ The salt was white and dry and lay loose in the tin as sand.
 
 "It's salt," said Perrin. "Salt's dry. That's what salt is. You keep it dry so it doesn't go hard."
 
-"It's quench salt. It has to be wet through or it doesn't kill anything." Anwen had already taken the box out of Kiva's hands. She uncorked her water flask and emptied the whole of it in, and stirred with two fingers, tight-lipped. "If Kiva had needed this in the count, she'd have been pouring printed ash into a box of table salt."
+"It's quench salt. It has to be wet through or it doesn't kill anything." Anwen had already taken the box out of Kiva's hands. She uncorked her water flask and emptied the whole of it in, and stirred with two fingers, tight-lipped. "If Kiva had needed this with the ash open, she'd have been pouring printed ash into a box of table salt."
 
 "Nobody told me it had to be wet."
 
 "The warden showed all of us. On the first Tuesday. He tipped a printed dish into it, and it hissed."
 
-"I had no hands on the first Tuesday! I was in a great deal of discomfort!" Perrin looked at the three of them and deflated. "All right. That's mine. I'll write it down. *What went wrong: Perrin. Why: Perrin.* She's got a page of those already."
+"I had no hands on the first Tuesday! I was in a great deal of discomfort!" Perrin looked at the three of them and deflated. "All right. That's mine. What went wrong: Perrin. Why: Perrin. You needn't ask."
 
 Kellan had said nothing. He had gone out, and he came back with two loose bricks from the lip of the cold-room step, one in each hand, and set them on the bench beside the unweighted corners.
 
@@ -302,7 +300,7 @@ How fast did it turn? Faster than he could cut twice. Did it turn to a ward as q
 
 "You've never lit at the stroke," said Anwen. "You light and then you step. I've watched you. It's always light, then step."
 
-He considered that as if she had read him a meter. "Yes. I'll have to not."
+He considered that as if she had told him the time. "Yes. I'll have to not."
 
 "And it has to be on the cloth," said Kiva. "All of it, not the corner. Anwen, it followed you when you stepped off. If you step off, it'll walk off after you. You'll have to stay on the canvas and let it come right up."
 
@@ -332,59 +330,61 @@ The skin burst.
 
 It did not fall like the plate Selka Dray had broken. It flew. A thin bright curve stood in the air for an instant and then went outward in a spray, and the husk let go underneath it, and ash went everywhere. It poured down on the canvas. It fanned out across the brick to the south. A long plume of it went over the lip of the tank.
 
-"Dark!" said Kiva. "*Dark!* One. Two."
+"Dark!" said Kiva. "*Dark!* It's open!"
 
-"One," said Kellan. "Two." His blade was gone. He was backing away with his empty hands held open at his sides, six paces, counting in a flat hard voice like a man reading out a sentence. "Three."
+"Dark," said Kellan. His blade was gone. He was backing away with his empty hands held open at his sides, saying what he was doing in a flat hard voice like a man reading out a sentence. "Backing. Hands open. Six off."
 
 She worked.
 
-It was a bad catch. Half the fall lay on the cloth, and she had that tinned by twenty-five. The rest was a grey scatter on bare brick, and she went after it on her knees with the edge of the pan and the brush, which was not what the brush was for, and got what she could. Her left hand dropped a panful. She swore, and said "thirty-one," and went on.
+It was a bad catch. Half the fall lay on the cloth, and she had that tinned fast. The rest was a grey scatter on bare brick, and she went after it on her knees with the edge of the pan and the brush, which was not what the brush was for, and got what she could. Her left hand dropped a panful. She swore, and said "pan," and went on.
 
 And under the listening, there was something else.
 
 She noticed it on the second tin and thought she was imagining it. By the third she was sure. Most of the ash was as the others had been, wide open and waiting. But in among it, like a few grains of rice in a bowl of flour, there was ash that was not waiting. It already had something in it, very faint. It was not a tune, and it was certainly not a blade. It was a kind of lean, a slight held curve, like a ward that somebody had folded badly and put away.
 
-Nobody was lit. She checked, with her eyes, between counts. Kellan was six paces off with his hands open. Anwen was against the far wall. Perrin was a statue beside the tank.
+Nobody was lit. She checked, with her eyes, between tins. Kellan was six paces off with his hands open. Anwen was against the far wall. Perrin was a statue beside the tank.
 
-"Fifty-seven," said Kiva, and pressed the last lid. "Seal check."
+Kiva pressed the last lid. "Seal check."
 
-"Sound," said Anwen, who had come in at fifty with her hands behind her back to put a thumb on it.
+"Sound," said Anwen, who had come in at the end with her hands behind her back to put a thumb on it.
 
-"Sixty. Settled." Druce had left the lever. He was walking down the hall toward them with the Kennel book off its hook and under his arm, and his eyes were on the four tins.
+"Settled." Druce had left the lever. He was walking down the hall toward them, and his eyes were on the four tins.
 
 They weighed fifteen drams and three-tenths. It was under the mark by nearly five.
 
-"That's the skin," said Druce. "It goes off like a dropped lamp. I've not seen one tinned above sixteen." He uncapped his pen. "*Fourth this month.*"
+"That's the skin," said Druce. "It goes off like a dropped lamp. I've not seen one tinned above sixteen." He said the next part to nobody. "Fourth this month."
 
 "Warden." Kiva had not got up. She was still looking at the tins. "Some of it had something in it already. Before I touched it. Nobody was lit, I looked. It wasn't a print. It was only in a little of it, the part that came off the front." She tried to find the word, and could only find the one she had. "It felt curved."
 
-Druce's pen stopped.
+Druce went very still.
 
-"Say that again," he said. "Slowly. And then say it a third time, exactly the same, while I write."
+"Say that again," he said. "Slowly."
+
+She said it again. He crouched, with a crack of the knees, pulled the glove off his right hand, and laid his grey fingertips flat on the lid of the last tin. He kept them there for a long while, with his eyes shut, the way Mara listened to a box.
+
+"Curved," he said at last, very quietly. "Yes. That's what I felt in Wednesday's tins, and called it nothing."
 
 ---
 
 The Pryce laundry kept its coppers going on Saturday night, and the back room behind them was the warmest place on Coper Street.
 
-Anwen had commandeered it. She sat on an upturned basket with her list flat on the mangle table, and her mother had come through twice with bread and once with a look, and had gone away again when she saw four heads bent over a pencil.
+Anwen had commandeered it. She sat on an upturned basket at the mangle table, and her mother had come through twice with bread and once with a look, and had gone away again when she saw four heads bent close together.
 
-"The warden says it's Hollis Vane who has the Sag Line watch this month," said Anwen. "Home Line. And he says Vane does the same thing to every team that comes onto a field hold, and has done for ten years." She wrote a heading and underlined it. "He takes one of you away. In the middle. He points and says *you're down*, and whoever it is lies where they are, and the rest of the team finds out whether it was a team or four people standing near each other."
+"The warden says it's Hollis Vane who has the Sag Line watch this month," said Anwen. "Home Line. And he says Vane does the same thing to every team that comes onto a field hold, and has done for ten years. He takes one of you away. In the middle. He points and says *you're down*, and whoever it is lies where they are, and the rest of the team finds out whether it was a team or four people standing near each other."
 
 "That's vile," said Perrin, with his mouth full.
 
 "That's a real rift," said Kiva. She was thinking of a boy on his back under a shutter. "People go down."
 
-"So we plan for each." Anwen wrote *RENN* and looked up.
+"So we plan for each." Anwen looked across the table. "Kellan first."
 
-Kellan was sitting very straight on a soap crate. He had a tin in his lap. All evening, whenever nobody was speaking to him, he had been standing in the corner by the drying racks with his hands open at his sides, and Kiva had heard him, under the rumble of the coppers, counting to sixty.
+Kellan was sitting very straight on a soap crate. He had a tin in his lap. All evening, whenever nobody was speaking to him, he had been standing in the corner by the drying racks with his hands open at his sides, and Kiva had heard him, under the rumble of the coppers, saying quietly what was in front of him. *Rack. Copper. Door. Hands open.* He had looked mortified when he caught her listening, and had not stopped.
 
 "If I'm down, you call it off," he said. "At once. Neither of you can cut a knot, and Cade's hands won't break one. You carry me to the line, and we go in again when he lets me up." He said it without any vanity, the way he would have reported a missing part. "Don't try to finish it without a blade. That's how the abort nobody called happens."
 
-*Renn down: OFF. Cade carries.*
+"Then it's off," said Anwen, "and Perrin carries."
 
-"If I'm down," said Anwen, "there's no ward to walk it in. Kellan would have to bring it to the cloth himself, lit, and then go dark in front of it, and then light again." She tapped the pencil against her teeth. "That's too many changes with a thing that turns that fast. Off."
-
-*Pryce down: OFF.*
+"And if I'm down," she went on, "there's no ward to walk it in. Kellan would have to bring it to the cloth himself, lit, and then go dark in front of it, and then light again." She tapped her teeth with a fingernail. "That's too many changes with a thing that turns that fast. Off."
 
 "If I'm down," said Kiva slowly, "somebody else catches."
 
@@ -392,23 +392,23 @@ They all looked at Perrin.
 
 Perrin put down his bread. "I'd like to draw the room's attention to my hands."
 
-"You can press a lid with the heel," said Kiva. "I do. And you'd have Anwen for the cord." She pushed the carrier across the table. "You've got until we're called. Six tins. I'll count."
+"You can press a lid with the heel," said Kiva. "I do. And you'd have Anwen for the cord." She pushed the carrier across the table. "You've got until we're called. Six tins. I'll call."
 
-He did eleven before midnight, with his tongue between his teeth and his big green palms held stiffly away from the wax, and Kiva said *seal check* for him and turned each one over. Four came open. He looked at the grey dust on the laundry floor as though it had personally let him down.
+He did a dozen before midnight, with his tongue between his teeth and his big green palms held stiffly away from the wax, and Kiva said *seal check* for him and turned each one over. Four came open. He looked at the grey dust on the laundry floor as though it had personally let him down.
 
 "A street lamp for a fortnight," he said mournfully. "I see it now. I see what he means."
 
 "And if you're down?" said Kellan.
 
-"Nobody can carry me," said Perrin. "I've thought about it. I weigh as much as Gerald and a half. So if I'm down, you'll all learn something very important about leaving a friend where he fell." He picked up the twelfth tin. "Drag me by the feet. I shan't mind. I'll be dead."
+"Nobody can carry me," said Perrin. "I've thought about it. I weigh as much as Gerald and a half. So if I'm down, you'll all learn something very important about leaving a friend where he fell." He picked up another tin. "Drag me by the feet. I shan't mind. I'll be dead."
 
-*Cade down: drag.*
+"Drag him," said Anwen, without looking up.
 
-Anwen blotted the list and folded it once. Kiva watched her put it in her coat, in the inside pocket, and thought of a seat on Team Eleven that a field officer was holding until a bell rang.
+She folded her list once and put it in her coat, in the inside pocket. Kiva watched her do it and thought of a seat on Team Twenty-Two that a field officer was holding until a bell rang.
 
 Anwen saw her thinking it.
 
-"Seven's whole," she said. "I crossed it out. I don't write things down twice."
+"Seven's whole," she said. "I told you so on Wednesday. I'm not going to keep telling you."
 
 ---
 
@@ -420,11 +420,11 @@ She went down after her in her nightshirt, with the heat-lines pulling as she re
 
 There was a courier on the step, a girl no older than Kiva in an undyed canvas coat with a tar-black band on the sleeve. A lift-truck stood humming at the curb behind her with its rings lit.
 
-"Rowan Instruments? You keep the book for mast six on the Sag Line."
+"Rowan Instruments? You tend mast six on the Sag Line."
 
-"I keep the instrument," said Mara. She had a lamp in one hand. "What's it done?"
+"I tend the instrument," said Mara. She had a lamp in one hand. "What's it done?"
 
-"It rang at ten to three. There's a tear in the allotments under it, small, and the Home Line's got a hold round it. But six rang a good four minutes before five and seven did, and the officer won't trust any of the three until somebody who knows that mast has looked at its drum." The girl held out a folded paper. "He says bring the book. He says he doesn't want it tuned. He wants it read."
+"It rang at ten to three. There's a tear in the allotments under it, small, and the Home Line's got a hold round it. But six rang a good four minutes before five and seven did, and the officer won't trust any of the three until somebody who knows that mast has looked at its drum." The girl held out a folded paper. "He says he doesn't want it tuned. He wants it read."
 
 Kiva saw her aunt's left thumb move across her right palm, once.
 
@@ -434,7 +434,7 @@ Kiva saw her aunt's left thumb move across her right palm, once.
 
 For a moment nobody moved. The lift-truck hummed. Somewhere down Coper Street a second fist was knocking on a second door.
 
-Then, through the wall, Kiva heard a window go up in the flat over the laundry, and a voice she had known since she was nine say, clear and wide awake, "I heard. I'm dressed. Tell her I'm coming down."
+Then, through the wall, Kiva heard a window go up in the flat over the laundry, and a voice she had known since she was six say, clear and wide awake, "I heard. I'm dressed. Tell her I'm coming down."
 
 The bell had rung.
 

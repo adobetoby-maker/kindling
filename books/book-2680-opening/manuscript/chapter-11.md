@@ -4,13 +4,13 @@ The litter weighed seventy kilos, and on Monday morning Kiva carried one end of 
 
 It was the same sandbag in a coverall that Anwen had dragged out of the pump room. Every school in the Compact had a dozen of them. This one was lashed to a canvas stretcher between two ash poles, and its name, according to the faded stencil on its chest, was *PROPERTY OF C.L.S. 3RD — DO NOT REMOVE*, which Pru Finch had shortened long ago to Donny.
 
-"Donny's been carried over the Stonehand line eleven times," said Pru, who had the other end. She was red in the face and talking in bursts. "And over ours, twice. In three years. Jude counted. One of the twice, Stonehand dropped him and he rolled."
+"Donny's been carried over the Stonehand line more times than anyone will tell you," said Pru, who had the other end. She was red in the face and talking in bursts. "And over ours, twice. In three years. One of the twice, Stonehand dropped him and he rolled."
 
 "Less talking," said Jude from the wall. "More not dropping him."
 
 Kiva was on the still door, and nothing else.
 
-She had told the lane warden so at the gate, as the tag on the mast required, and he had written it in his book with the air of a man recording an outbreak. Then she had taken the front poles and let the weight come down into her feet, and found that the old trick worked as well on a sloping brick floor as it did on a tram. The litter did not get lighter. It simply stopped being hers to hold up. The ground held it, and she stood in between.
+She had told the lane warden so at the gate, as the Chair required, and he had nodded with the air of a man being told about an outbreak. Then she had taken the front poles and let the weight come down into her feet, and found that the old trick worked as well on a sloping brick floor as it did on a tram. The litter did not get lighter. It simply stopped being hers to hold up. The ground held it, and she stood in between.
 
 Walking was another matter. Stance wanted her planted, and every step meant giving a little weight back and taking it again, so that she went down the lane like somebody wading. Her left knee disliked it. But Pru's arms were trembling by the second length, and Kiva's were not.
 
@@ -18,27 +18,27 @@ Walking was another matter. Stance wanted her planted, and every step meant givi
 
 They set the litter on the bricks. Pru sat on Donny's legs and blew her hair out of her eyes.
 
-Noa was already at the mast's little glass door with a rule and a pencil. The Low Lane's mast was sixty years old and drew a single line for whoever happened to be lit in front of it, so he had made everybody else in the room go dark and stand against the wall while she carried, and he had made Pru do her share on plain muscle, which was why she was the color of a beetroot. He measured the line twice. He wrote. He measured it again.
+Noa was already at the mast's little glass door with a steel rule. The Low Lane's mast was sixty years old and drew a single line for whoever happened to be lit in front of it, so he had made everybody else in the room go dark and stand against the wall while she carried, and he had made Pru do her share on plain muscle, which was why she was the color of a beetroot. He laid the rule against the line and read it. He read it again.
 
-"Nine hundredths," he said.
+"Under a tenth," he said.
 
 "Of a dram?" said Jude.
 
-"Of a dram. In four minutes, under load, walking." Noa turned round. The strip of tape wound about his left hand had three new pencil marks on it. "The book gives a still-door a tenth of a dram for that weight over that time."
+"Of a dram. In four minutes, under load, walking." Noa turned round. "The book gives a still-door a tenth of a dram for that weight over that time."
 
 "So she's under," said Pru.
 
-"A hair under, which is a hair better than standard. A good Stonehand third-year would do it in eight or nine." He looked at Kiva as if she had been hiding it from him on purpose. "That's all Draw is. It isn't how much ash you burned. It's what you burned on a piece of work, set against what the book says that work ought to cost. One is standard, and lower is thriftier. Nine against ten makes your draw on the still door, alone, about nine-tenths. It isn't three point one. It isn't anything like three point one."
+"A hair under, which is a hair better than standard. A good Stonehand third-year would do about the same." He looked at Kiva as if she had been hiding it from him on purpose. "That's all Draw is. It isn't how much ash you burned. It's what you burned on a piece of work, set against what the book says that work ought to cost. One is standard, and lower is thriftier. On the still door, alone, you're a hair under one. It isn't three point one. It isn't anything like three point one."
 
 "The bench says three point one."
 
-"The bench puts you in front of a lamp-cell and wakes all three of you up, and then measures the argument." He tapped the tape. "This is one of you, with the other two shut out. I told you they couldn't both be right." He caught himself. "I mean it's one reading. On an old mast. I'd want twenty before I said it to anybody who mattered."
+"The bench puts you in front of a lamp-cell and wakes all three of you up, and then reads the argument." He tapped the tape. "This is one of you, with the other two shut out. I told you they couldn't both be right." He caught himself. "I mean it's one reading. On an old mast. I'd want twenty before I said it to anybody who mattered."
 
 "You've said it to us," said Jude.
 
 "You don't matter. Sorry. You know what I mean."
 
-Kiva sat down on the end of the litter, because her knee had begun to insist. *A hair better than standard.* In four years nobody had ever put her name and that word in the same sentence. She did not trust it. One reading on an old mast was exactly the sort of thing Mara would have tagged *check* and set aside. But she noticed that she wanted very badly for there to be nineteen more.
+Kiva sat down on the end of the litter, because her knee had begun to insist. *A hair better than standard.* In four years nobody had ever put her name and that word in the same sentence. She did not trust it. One reading on an old mast was exactly the sort of thing Mara would have tagged *check* and set aside. But she noticed that she wanted very badly for there to be more.
 
 "So can she carry him or not?" said Jude patiently.
 
@@ -50,57 +50,57 @@ The school bell rang at ten, three strokes and then three more, and everyone in 
 
 "That's a call," said Pru. "That's a tear. Oh, I hate that bell. Whenever I hear that bell I think, somebody's going to come back with a face like paper and no eyebrows—"
 
-Jude had already gone to the door. A runner was crossing the yard with a slate held over her head, shouting the same words at every range she passed. He listened and came back.
+Jude had already gone to the door. A runner was crossing the yard with her hands cupped to her mouth, shouting the same words at every range she passed. He listened and came back.
 
 "River flats. Below the Weighbridge. Home Line's holding it. Second group's called for the license, thirteen through twenty-six, muster by noon." He looked at Kiva. "Not yours."
 
 It was not hers. Hers would be the tear after this one, whenever the season chose to send it. She thought of Kellan, who could have been walking to the river at this moment with a kit bag over his shoulder, and of Selka Dray, who was walking there in his place.
 
-"That's two tears in nine days," said Noa slowly. He was unwinding tape. "Ferren on the fourteenth. This. How many do we usually get in a spring? In the whole district?"
+"That's two tears inside a fortnight," said Noa slowly. He was unwinding tape. "Ferren on the fourteenth. This. How many do we usually get in a spring? In the whole district?"
 
 "Four," said Jude. "Five in a wet year."
 
-"And it isn't the end of the month." Noa wrote something very small on the tape and wound it up again. "Somebody ought to be counting that."
+"And it isn't the end of the month." Noa wound the tape up again, slowly. "Somebody ought to be watching that."
 
-"Somebody is," said Jude. "You. Now pick up the other end of Donny. There's a sheet gone up on the range door, and our first meet's on it. Saturday week. The fourth." He rubbed the chipped tooth with his thumb, a thing he did, Kiva had noticed, when he was looking at something he could not fix. "Stonehand, at Stonehand. Third Division lane's first on the card, so the whole gallery will be fresh."
+"Somebody is," said Jude. "You. Now pick up the other end of Donny. The first meet's been called. Saturday week. The fourth." He rubbed the chipped tooth with his thumb, a thing he did, Kiva had noticed, when he was looking at something he could not fix. "Stonehand, at Stonehand. Third Division lane's first on the card, so the whole gallery will be fresh."
 
 ---
 
 They drilled the tin every night that week, Sunday too.
 
-Orla had sent word round on Friday that the Old Yard would be open at eight until further notice. Kiva had gone early on Saturday, before the others, because the fourth condition was not a thing to say across a lane, and because by then she had Anwen's bell and Kellan's staying to put beside it. She had laid it all out in order, as flatly as she could, and then given her Mara's message in Mara's words.
+Orla had sent word round on Friday that the Old Yard would be open at eight until further notice. Kiva had gone early on Saturday, before the others, because the fourth condition was not a thing to say across a lane, and because by then she had Anwen's bell and Kellan's staying to put beside it. She had laid it all out as flatly as she could, and then given her Mara's message.
 
 Orla had listened to the end. Then she had snorted through her crooked nose.
 
-"Tell your aunt I heard her," she said. "And tell her I'd already written it down." And she would say no more about it.
+"Tell your aunt I heard her," she said. "And tell her I got there first." And she would say no more about it.
 
 So Kiva stood in the lane each night with six drams of dead ash at her breastbone, and somebody hit her.
 
-Kellan came every evening and did not explain it. Perrin came when his Hall let him out, and now that his palms could bear it he had begun to use them, flat and heavy, a Stonehand shove that arrived all at once like a door blowing shut. Between the two of them she never knew which it would be. That was the point, Orla said. A husk did not send a card.
+Kellan came every evening and did not explain it. Perrin came when his Hall let him out, and now that his palms could bear it he had begun to use them, flat and heavy, a Stonehand shove that arrived all at once like a door blowing shut. Between the two of them she never knew which it would be. That was the point, Orla said. A husk did not call its change.
 
-Friday's weights were eight-tenths and six. Too much. On Saturday, with the news from the Cellhouse steps still warm in her, she lost four-tenths and lit one line, and Orla drew a small square in the margin of her book beside the number and said nothing. Sunday there was another square. On Monday, with her arms still humming from the litter, there were two blows and two weights and neither was over three-tenths.
+Friday's weights were too much. On Saturday, with the news from the Cellhouse steps still warm in her, she lost hardly anything and lit one line, and Orla said nothing at all, which from Orla was a good deal. Sunday was the same. On Monday, with her arms still humming from the litter, there were two blows and two weights and neither tin had lost enough to fill a thimble.
 
-By Wednesday there were four squares in Orla's margin, and Kiva had worked out why.
+By Wednesday it had been good four nights running, and Kiva had worked out why.
 
-She had been turning it over since the first night, in the bath and on the tram and at the kitchen table with her pencil stopped above the last column. *Calling it helped. Don't know why.* She could do it now nearly every time. The shoulder moved, and her mouth said *right thigh* or *ribs* or simply *now*, and the blow came, and the Ember door reared up to the threshold and found the doorway already full of a word.
+She had been turning it over since the first night, in the bath and on the tram and at the kitchen table. Calling it helped. She had not known why. She could do it now nearly every time. The shoulder moved, and her mouth said *right thigh* or *ribs* or simply *now*, and the blow came, and the Ember door reared up to the threshold and found the doorway already full of a word.
 
 She understood it on the Tuesday, going home across the river, watching the needle on the tram's meter.
 
-In the Cellhouse she had called every tenth. *Six and three. Six and seven, seventy seconds. Seven, fifty seconds.* She had stood with her hand on a cell that was running away, with husks on the stair below her, and she had not been afraid at all, or she had been and it had not mattered, because she had a needle to read and a number to send down to Anwen every few breaths.
+In the Cellhouse she had called every tenth. *Six and seven, seventy seconds.* She had stood with her hand on a cell that was running away, with husks on the stair below her, and she had not been afraid at all, or she had been and it had not mattered, because she had a needle to read and a reading to send down to Anwen every few breaths.
 
-And then she had pressed the hurry out, and the needle had stopped at seven and three, and she had stopped calling.
+And then she had pressed the hurry out, and the needle had stopped, and she had stopped calling.
 
-There had been nothing left to call. She had stood there for the better part of half a minute with her hand door open and her chest full of joy, and no number in her mouth at all. And then the husk had come up the stair.
+There had been nothing left to call. She had stood there for the better part of half a minute with her hand door open and her chest full of joy, and nothing in her mouth at all. And then the husk had come up the stair.
 
-It was not the fear that had opened the doors. She said it to Orla on Wednesday night, before the first blow, because she wanted somebody to check it. "It's the not counting. When I'm calling something, the calling's in the doorway. When I stop, the door's just standing there, and whatever I'm feeling walks straight through. Frightened or pleased. It doesn't care which."
+It was not the fear that had opened the doors. She said it to Orla on Wednesday night, before the first blow, because she wanted somebody to check it. "It's when I stop calling. When I'm calling something, the calling's in the doorway. When I stop, the door's just standing there, and whatever I'm feeling walks straight through. Frightened or pleased. It doesn't care which."
 
 Orla had the brass balance half out of its case. She put it down.
 
-"Say the Cellhouse again," she said. "The last number you called before you went to the tune."
+"Say the Cellhouse again," she said. "The last thing you called before you went to the tune."
 
 "Seven. Fifty seconds."
 
-"She's right," said Kellan, from the edge of the light. He had his eyes shut, the way he did when he was reading something off the inside of his own head. "Seven, fifty seconds. Then *changing role*. Then *it's holding*, and after that nothing with a number in it until she was on the floor shouting at me." He opened his eyes. "Twenty-eight seconds without a call. I thought at the time you were concentrating."
+"She's right," said Kellan, from the edge of the light. He had his eyes shut, the way he did when he was reading something off the inside of his own head. "Seven, fifty seconds. Then *changing role*. Then *it's holding*, and after that nothing at all until she was on the floor shouting at me." He opened his eyes. "Half a minute without a call. I thought at the time you were concentrating."
 
 "I was being happy," said Kiva. "It turns out that's worse."
 
@@ -110,19 +110,19 @@ Orla looked at her for a long moment in the yellow light. "There's a thing they 
 
 That night Kiva lost nothing at all, twice running. The dead ash rocked to the rim under Perrin's shove and rocked back, and when Orla set the tin on the scale the little brass pans hung dead level.
 
-"Five," said Orla, and drew the square.
+"That'll do," said Orla.
 
-"Five what?" said Perrin.
+"That'll do what?" said Perrin.
 
-"Never you mind. Miss Pryce has been sitting on that crate for an hour with her arms folded. Kiva. Give the young woman her nine, with the furniture, and for pity's sake don't watch the metal."
+"Never you mind. Miss Pryce has been sitting on that crate for an hour with her arms folded. Kiva. Give the young woman her drill, the whole of it, with the furniture, and for pity's sake don't watch the metal."
 
-It was the hardest part, not watching. The bar ran off her fist and she wanted to see it home, every inch, the way she would have followed a part back into its housing. She looked at the crooked post instead, black at the far end of the lane. She felt the copper take the weight. She breathed out. Ward, curved, folded. Stance, and thank you.
+It was the hardest part, not watching. The bar ran off her fist and she wanted to see it home, every inch, the way she would have followed a part back into its housing. She looked at the lamp over the first shed instead. She felt the copper take the weight. She breathed out. Ward, curved, folded. Stance, and thank you.
 
 "Eight and eight-tenths," said Orla.
 
 Nobody spoke. Kiva put her hand to her chest, where the lines lay cool.
 
-"That's nine," said Anwen. She unfolded her arms. "That's under nine. I want it said that I saw it." And then, because she was Anwen, she took out her list and wrote it down.
+"That's quicker than I asked for," said Anwen. She unfolded her arms. And then, because she was Anwen, "Do it again."
 
 ---
 
@@ -130,7 +130,7 @@ Orla kept her back when the others had gone to the gate.
 
 She had a carrier on the crate beside her, six of the warden's tins with their lids off, and she did not say what they were for. "Seal those. The bad hand on every rim. Call each one."
 
-Kiva sealed them by the lamp. Lid, and the click. The lazy finger round the rim. Cord, twice, and through. She said "seal check" six times, and six times Orla turned a tin over above her own lap and shook it, and nothing fell. Orla wrote a line in her book beneath the five squares.
+Kiva sealed them by the lamp. Lid, and the click. The lazy finger round the rim. Cord, twice, and through. She said "seal check" over every one, and every time Orla turned the tin over above her own lap and shook it, and nothing fell.
 
 "Tomorrow at three," she said. "The Kennel. You and I are going on the settling floor together, with a live Handful, and I am going to kill it, and you are going to tin it."
 
@@ -138,7 +138,7 @@ Kiva thought she had misheard.
 
 "I'm not certified."
 
-"No. That's why." Orla leaned on her stick. "There's a rule at the back of the license code. A sponsor may take an uncertified candidate onto a contained floor, once, under the sponsor's own Edge, to decide whether to sign. I'm the Kill. Nobody else is on the floor. It goes in the Kennel book, and if it goes wrong, the incident is mine and not yours. I've written to the Chair to say I'm doing it. She wrote back one word." Her mouth twitched. "*Noted.*"
+"No. That's why." Orla leaned on her stick. "There's a rule at the back of the license code. A sponsor may take an uncertified candidate onto a contained floor, once, under the sponsor's own Edge, to decide whether to sign. I'm the Kill. Nobody else is on the floor. If it goes wrong, the incident is mine and not yours. I've told the Chair I'm doing it. She said one word." Her mouth twitched. "*Knee.*"
 
 "Yours," said Kiva. "Your standing. Your contract."
 
@@ -152,7 +152,7 @@ She had not meant it to come out so baldly. Orla did not seem to mind. She looke
 
 "And if I open something?"
 
-"Then I'll have a printed Handful and a truthful answer, and we'll go back to the yard." Orla's voice was quite calm. "I'm not hurrying you onto that floor, Kiva. Don't go home thinking I am. Your aunt's hearing and Anwen's bell and that boy's place in the queue are all real, and none of them is my reason. I'm taking you tomorrow because five squares and six sound seals were what I wrote down before any of that reached me, and you've filled both."
+"Then I'll have a printed Handful and a truthful answer, and we'll go back to the yard." Orla's voice was quite calm. "I'm not hurrying you onto that floor, Kiva. Don't go home thinking I am. Your aunt's hearing and Anwen's bell and that boy's place in the queue are all real, and none of them is my reason. I'm taking you tomorrow because five good nights and six sound seals were what I settled on before any of that reached me, and you've done both."
 
 Kiva believed her. That was the frightening part. If Orla had been hurrying, there would have been something to push against.
 
@@ -166,7 +166,7 @@ It took her most of the half hour. She went along the brick between the middle t
 
 She laid the cloth on it. She squared the weights. She set four tins in a row with their lids off, and the pans to hand, and the carrier behind her, and then she knelt at the south edge of the canvas and discovered that her mouth had gone dry.
 
-Above the floor, behind the green glass, three faces were watching. Anwen was upright and still. Perrin had both hands pressed flat to the window. Kellan stood a little apart, and she knew without being able to see it that he had a pencil.
+Above the floor, behind the green glass, three faces were watching. Anwen was upright and still. Perrin had both hands pressed flat to the window. Kellan stood a little apart, and she knew without being able to see it that he was watching her hands and not the door.
 
 Orla came across the plank bridge at three exactly.
 
@@ -178,7 +178,7 @@ She had left her coat somewhere. Her sleeves were rolled, and the old steel cuff
 
 "Rowan. Catch." Her voice came out thin. She tried again. "Door declared: none. Dark hands."
 
-"Entered," said Druce. He wrote it in the Kennel book, which he had unhooked from its chain and carried down with him and propped on a ledge. "One Handful, when you're ready, Lecturer."
+Druce nodded. "One Handful, when you're ready, Lecturer."
 
 Orla had placed herself on the far side of the cloth from the steel door, exactly where the second-year had stood, so that anything coming for her would have to cross the canvas to arrive. She was two paces from Kiva. She raised her right fist.
 
@@ -198,19 +198,19 @@ It came through the inner door already turning.
 
 There was no skin on this one. It was an ordinary husk, grey and low and blind, and it found the yellow blade in the time it took Kiva to draw one breath, and came for it.
 
-It came straight. She had known that it would. She had drawn the line herself on a slate. What she had not known, sitting safely up behind the glass, was what the line looked like from the floor, on her knees, when it ran a single pace from her right shoulder.
+It came straight. She had known that it would. She had called the line herself, from behind the glass. What she had not known, sitting safely up behind the glass, was what the line looked like from the floor, on her knees, when it ran a single pace from her right shoulder.
 
-She had no blade. She had a steel pan in each hand, like a woman about to serve a pudding. There was nothing whatever between her and it, and it was the size of a mastiff and coming at the speed of a trotting horse, and every nerve she owned remembered exactly how much one of them weighed when it hit you in the chest.
+She had no blade. She had a steel pan in each hand, like a woman about to serve a pudding. There was nothing whatever between her and it, and it was the size of a mastiff and coming at the speed of a trotting horse, and every nerve she owned knew exactly how much one of them weighed when it hit you in the chest.
 
 The Ember door came up like a thing on a spring.
 
-"Six paces," said Kiva.
+"Coming," said Kiva.
 
-Her own voice startled her. It was high, and it cracked, but it was a number. "Five. It's on the line. Four."
+Her own voice startled her. It was high, and it cracked, but it was a call. "It's on the line. Still coming."
 
 The door stood at the threshold, straining. The bottom line warmed.
 
-"One," she said to that, quickly, and went straight on. "Three paces. Two. On the cloth."
+"Ember," she said to that, quickly, and went straight on. "Ember's up. Close now. On the cloth."
 
 It was on the cloth. Its thick blunt limbs dented the waxed canvas a forearm's length from her knee, and she could smell it, which she had never been close enough to do when she was not also fighting for her life. It smelled of the air before a storm, and faintly of hot iron.
 
@@ -228,9 +228,9 @@ She felt it open under her knees, heavy and sure and utterly certain of what she
 
 The second line began to warm.
 
-"Seven," said Kiva. She did not know when she had started counting the hold. "Eight. Nine. She's had it nine."
+"Still," said Kiva. She did not know when she had started calling it. "Still's up. She's holding. She's holding it."
 
-She shut the still door on the ten. She gave back ground she had never properly taken, and thought *thank you* at two hundred years of refinery brick, and felt the thing ease and go quiet. The second line cooled. Her hands had not moved. The pans were level.
+She shut the still door on the next breath. She gave back ground she had never properly taken, and thought *thank you* at two hundred years of refinery brick, and felt the thing ease and go quiet. The second line cooled. Her hands had not moved. The pans were level.
 
 "Where's your mark, catcher?" said Orla. Her voice was tight with effort and perfectly conversational.
 
@@ -246,17 +246,15 @@ On the third, her knee folded.
 
 She went down sideways onto one hand and one hip, hard, on the edge of the brick by the south tank. The sound she made was small and bitten off.
 
-"*Count!*" said Orla, through her teeth.
-
----
+"*Yours!*" said Orla, through her teeth.
 
 The husk had already let go.
 
 It poured down onto the canvas in front of Kiva's knees, warm, a soft grey rush that went on and on. The heap lifted and settled. Her whole body was turned toward the woman on the floor.
 
-"One," said Kiva. "Two."
+"Dark," said Kiva. "It's open."
 
-She did not decide to say it. It was simply the next number, and her mouth had it. She folded the near corners of the cloth inward with the backs of her wrists, and the heap ran together, and she set the edge of the right-hand pan beneath it.
+She did not decide to say it. It was simply the next thing to call, and her mouth had it. She folded the near corners of the cloth inward with the backs of her wrists, and the heap ran together, and she set the edge of the right-hand pan beneath it.
 
 And she felt the ash.
 
@@ -270,15 +268,15 @@ And her hand door, which had gone its whole life wanting cells, went wild.
 
 It came up in her so fast and so cold that her teeth ached. A cell already had a tune in it. A cell could be read, and nudged, and, on one disastrous afternoon, pressed. This had nothing in it at all. She could have laid a pattern on that heap as easily as laying her palm on a table, and it would have taken it, gladly, entire, and kept it until somebody threw it in the salt.
 
-"*Six,*" said Kiva. It came out as nearly a shout. "Seven. Eight."
+"*Hand,*" said Kiva. It came out as nearly a shout. "Hand's up. Hand's at the door."
 
-First pan. Up, level, over the tin. In. The hand door was at the threshold with both fists on the wood. The bottom line was warm and she had already called it. Second pan. She did not look at Orla. She could hear her breathing, short and careful, two and a half paces away. "Fourteen. Fifteen."
+First pan. Up, level, over the tin. In. The hand door was at the threshold with both fists on the wood. The bottom line was warm and she had already called it. Second pan. She did not look at Orla. She could hear her breathing, short and careful, two and a half paces away. "Pan. Tin. Hand's still up."
 
 Her left hand was slow. The two dull fingers lagged behind the rest, and the pan in that hand rode a finger's width lower at one end than she meant it to. On the third pass, a long grey tongue of ash slid off the low end, over the hem of the cloth, and onto the bare brick.
 
 She could not get it back. There was no time, and a pan would not lift it clean from between bricks. She let it go and it hurt to let it go.
 
-"Twenty-one." Lid. She pressed it with the heel of her right hand and listened, and it clicked, and she ran the third finger of her left around the rim the way Mara had shown her. Flush. Cord, twice, the end pinned under her thumb. Through the loop.
+"Lid." She pressed it with the heel of her right hand and listened, and it clicked, and she ran the third finger of her left around the rim the way Mara had shown her. Flush. Cord, twice, the end pinned under her thumb. Through the loop.
 
 "Seal check," she said, and there was nobody to check it.
 
@@ -286,11 +284,9 @@ She could not get it back. There was no time, and a pan would not lift it clean 
 
 She turned it over. Nothing fell.
 
-Second tin at thirty-six. Third at forty-nine, and her hands were shaking now, not from the door but from plain haste, and she made herself press that lid twice because the first click had sounded wrong. *Seal check.* Over. Sound.
+Second tin. Third, and her hands were shaking now, not from the door but from plain haste, and she made herself press that lid twice because the first click had sounded wrong. *Seal check.* Over. Sound.
 
 There was still ash on the cloth. A scatter, a thin drift where the heap had stood, perhaps a quarter of what had fallen. She got the pan under some of it and had the fourth tin half filled.
-
-"Fifty-eight," she said. "Fifty-nine. Sixty."
 
 The listening stopped.
 
@@ -300,7 +296,7 @@ The hand door, with nothing left to want, sagged, and she shut it, and it went.
 
 Kiva dropped the pan and scrambled the two and a half paces on her knees.
 
-"Don't fuss," said Orla. She was sitting up, propped on one arm, with her bad leg stretched out and her face the color of the brick dust. There was sweat on her upper lip. "It held for the kill and two steps after. I asked it for three. That's my sum to do, not yours." She shut her eyes briefly. "Did you seal three?"
+"Don't fuss," said Orla. She was sitting up, propped on one arm, with her bad leg stretched out and her face the color of the brick dust. There was sweat on her upper lip. "It held for the kill and two steps after. I asked it for three. That's my knee to answer for, not yours." She shut her eyes briefly. "Did you seal three?"
 
 "Three. The fourth's sweepings."
 
@@ -316,53 +312,45 @@ Kiva thought about it honestly, kneeling on the cold brick with her hands grey t
 
 The three tins weighed fourteen drams and six-tenths.
 
-Druce did it on the big brass scale by the tall desk, with all of Team Seven crowded behind him, and he wrote the figure in the chained book in his large soft hand. *25th. Sponsor's floor, O. Dane, Kill. K. Rowan, Catch, no door. One Handful, plain. Tinned 14.6 in count. Last seal 49. Remainder to sweepings.*
+Druce did it on the big brass scale by the tall desk, with all of Team Seven crowded behind him, and he said the figure once, in his soft voice, as if it were the price of bread.
 
 "What are sweepings worth?" said Perrin.
 
-"Very little." Druce capped his pen. "What's tinned inside the count has only itself to listen to, and it settles clean. What's still lying open at sixty settles to whatever it's lying on. In here, that's two hundred years of refinery floor. I'll sell it to the Works for road lamps at Grade Third and they'll complain about it." He glanced at Kiva. "It doesn't go toward the twenty. Yours would not have been a pass."
+"Very little." Druce set the weights back in their block. "What's tinned while it's open has only itself to listen to, and it settles clean. What's still lying out when it settles takes after whatever it's lying on. In here, that's two hundred years of refinery floor. I'll sell it to the Works for road lamps at Grade Third and they'll complain about it." He glanced at Kiva. "It doesn't go toward the twenty. Yours would not have been a pass."
 
 "No," said Kiva.
 
-"It wasn't a test of the catch." Orla was sitting on the bench by the desk with her leg up on a stool and a cold cloth across the knee, which Anwen had fetched and laid there without asking and then read with her fingertips for a moment, frowning. "Warden. Have you a certification form in that desk, or do I have to go up to the Measure Hall on one leg?"
+"It wasn't a test of the catch." Orla was sitting on the bench by the desk with her leg up on a stool and a cold cloth across the knee, which Anwen had fetched and laid there without asking and then read with her fingertips for a moment, frowning. "Warden. Have you a certification form in that desk, or do I have to go up to the Placement Hall on one leg?"
 
 Druce had one. He blew the dust off it.
 
-She wrote it out on her good knee, slowly, and Kiva watched the pencil. It took a long time for so few lines. When it was done, Orla signed it, and Druce signed below as witness and entered the number of the form in the Kennel book, and then Orla held the page out.
+She filled it in on her good knee, slowly, and signed it, and Druce signed below as witness. Then Orla held the form out to Kiva and told her what it said, so that there would be no reading it twice on the tram.
 
-*I, O. Dane, accountable sponsor, certify K. Rowan (provisional, Third Division) for live work in the recovery role only: dark hands, under a declared team call, no door opened within three paces of open ash or of any charged cell.*
+"Recovery role only. Dark hands, under a declared team call. No door opened within three paces of open ash, or of any charged cell. Not Kill, not Hold, not Carry, and no tuning of any kind." She let go of the paper. "Reviewed after your first field response. That's all of it."
 
-*Evidence. Seven nights' tin record, attached. Six seals of six, sound, left hand, called and checked, the 24th. One sponsor's floor, Kennel book, the 25th.*
-
-*Not certified: Kill, Hold, Carry, or tuning of any kind.*
-
-*To be reviewed after her first field response.*
-
-Kiva read it twice.
-
-It was so small. She had known it would be. She had told herself on the tram that morning exactly how small it would be, and she had still, somewhere underneath, been keeping a place for a different piece of paper, one that said she was safe and ready and sound. This one said she was allowed to kneel on a floor and open nothing.
+It was so small. Kiva had known it would be. She had told herself on the tram that morning exactly how small it would be, and she had still, somewhere underneath, been keeping a place for a different piece of paper, one that said she was safe and ready and sound. This one said she was allowed to kneel on a floor and open nothing.
 
 "It's the lowest defensible certification," she said.
 
 "It is." Orla did not apologize for it. "I signed for what I saw this afternoon. I didn't sign for what I hope, and I'm never going to again. You'll get the next line when you've shown me the next thing."
 
-Kiva folded the page along its middle. Something had been sitting on her chest since Tuesday of last week, since the Cellhouse steps and the word *Saturday*, and she had got so used to the weight of it that she only knew it by its going.
+Kiva folded the form along its middle. Something had been sitting on her chest since Tuesday of last week, since the Cellhouse steps and the word *Saturday*, and she had got so used to the weight of it that she only knew it by its going.
 
-"Seven's whole," said Anwen quietly. She had her list out. She drew a line through something near the top, a single firm stroke.
+"Seven's whole," said Anwen quietly.
 
-"A private husk," said Perrin. He was looking at the certificate over Kiva's shoulder, and his voice had the stretched sound it took on when the joke was not going to come out as a joke. "I just want to observe it. She had a private husk, killed for her, by a Torch, on a floor nobody else was allowed on. And a form with her name in it that the warden had to blow the dust off." He breathed out through his nose. "I'm pleased. I am. I held my hands on the glass the whole time, and they hurt, and I didn't notice. I'm also going to be unbearable about it until roughly supper."
+"A private husk," said Perrin. He was looking at the form in Kiva's fist, and his voice had the stretched sound it took on when the joke was not going to come out as a joke. "I just want to observe it. She had a private husk, killed for her, by a Torch, on a floor nobody else was allowed on. And a form with her name in it that the warden had to blow the dust off." He breathed out through his nose. "I'm pleased. I am. I held my hands on the glass the whole time, and they hurt, and I didn't notice. I'm also going to be unbearable about it until roughly supper."
 
 "That's fair," said Kiva.
 
 "I know it's fair. That's what makes it so tiring."
 
-Kellan had said nothing at all. He was reading the entry in the Kennel book upside down, across the desk.
+Kellan had said nothing at all. He had been at the glass the whole time, and he had the look of a man going back over it.
 
-"Fourteen point six," he said. "Last seal at forty-nine. You lost a panful off the left side on the third pass, and you'd have had time to seal a fourth tin if you hadn't pressed the third lid twice." He looked up. "The mark's twenty."
+"Fourteen and six," he said. "You lost a panful off the left side on the third pass, and you'd have had time for a fourth tin if you hadn't pressed the third lid twice." He looked up. "The mark's twenty."
 
 "I know what the mark is."
 
-"I'm not criticising. That's where we start from." He took the pencil from behind his ear and held it out to Druce, end first. "Warden. When can Team Seven have a floor?"
+"I'm not criticising. That's where we start from." He turned to Druce. "Warden. When can Team Seven have a floor?"
 
 Druce took his time. He looked at the four of them, the boy with the cabbage hands, the girl with the list, the First Division band with its new white stitching, and Kiva with the form folded small in her fist.
 
@@ -380,32 +368,28 @@ She had not expected anything else. She had opened no doors that afternoon, and 
 
 She tucked it back and went up.
 
-That night the certificate lay on the kitchen table beside the field book, and Mara read it standing, with her glasses pushed up, as she read everything from an office. She read the last line twice.
+That night the form lay on the kitchen table, and Mara stood over it with her glasses pushed up and did not pick it up.
 
 "Recovery only," she said.
 
 "Recovery only."
 
-"No doors near ash. No doors near cells. Reviewed after." Mara laid it down very gently and squared it with the edge of the table. "That's a meter, and a shutdown path, and a book. In four lines." She was quiet. "I'll copy it for Examiner Rusk in the morning. I never thought to be sending the Works something of Orla Dane's and be glad of it."
+"No doors near ash. No doors near cells. Reviewed after." Mara squared it with the edge of the table. "That's a meter, and a shutdown path, and a hand. Hers." She was quiet. "I'll take it to Examiner Rusk myself in the morning. I never thought to be carrying the Works something of Orla Dane's and be glad of it."
 
 "She fell," said Kiva. "After the kill. Her knee went."
 
 "Is she hurt?"
 
-"She says not. Anwen read it. She says it's angry, and that's all." Kiva opened the book and took the pencil off its string. "She told me to put it in the column. She said she was putting it in hers."
+"She says not. Anwen read it. She says it's angry, and that's all."
 
-Mara nodded, and sat, and watched her write.
+Mara sat down across from her. She did not ask anything else. She only waited, the way she waited at the bench, and after a while Kiva found she was telling her.
 
-*Exercise:* Sponsor's floor. Kennel. Live Handful. Orla kill, me catch. No door.
+"All three came to the doorway," she said. "The still one was the worst. I thought it would be the Ember, because it's always the Ember. But the still door didn't feel like being frightened. It felt like helping. Like getting up and standing in front of her was the right thing, and the only thing." She looked at her hands. "And the ash. Fresh ash listens, Mara. The whole heap. My hand door wanted it more than it's ever wanted a cell."
 
-*What went wrong:* Left hand slow. Lost a panful off the cloth, third pass. Pressed third lid twice. Only 3 tins in the count.
+Mara's left hand was lying on the table. It moved, very slightly, as if it had heard something through the wood.
 
-*Who was hurt:* Orla. Knee, stepping back.
+"And what kept them out?"
 
-*What it cost:* About 9 drams to sweepings. Orla's knee.
+"Calling," said Kiva. "Every time. Whatever was in front of me."
 
-*How long to come back:* Lines, none lit past one. Orla, don't know.
-
-*Second go:* Tomorrow, 4. Whole team.
-
-*Why:* All three doors came to the doorway and I counted through them. The still door was the worst. It didn't feel like being frightened. It felt like helping. Fresh ash listens. The hand door wants it more than it ever wanted a cell. Counting holds.
+Mara nodded slowly, and got up to fill the kettle. She stood at the stove with her back to the room for a good deal longer than a kettle needed.
