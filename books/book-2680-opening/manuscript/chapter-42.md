@@ -10,7 +10,7 @@ Healer Aske saw the hand on Friday at seven, and for the first time since the sp
 
 He took his time over it.
 
-"A crossing, one, in seven days, as before. The longer thing I won't put a word to. If anybody means to direct it, he sends for me, and I say the price to him myself, before, with you listening. I'll not have it carried up a hill by a runner." He folded his hands. "I don't know what the price is now. That's the truth of it. The two fingers have nothing left to lose. It took them first because they'd been hurt first. I don't know what it takes second."
+"A crossing, one, in seven days, as before. The longer thing I won't put a word to. If anybody means to direct it, he sends for me, and I say the price to him myself, before, with you listening. I won't have it carried up a hill by a runner." He folded his hands. "I don't know what the price is now. That's the truth of it. The two fingers have nothing left to lose. It took them first because they'd been hurt first. I don't know what it takes second."
 
 "You could guess."
 
@@ -182,7 +182,7 @@ Kiva did not answer.
 
 It was not a comfortable minute. She knelt in a hall yard, in front of four people and a sandbag, and went through her own left hand like a person turning out a pocket.
 
-"The cord. All three turns. That's yours already." She made herself look at Pru and not at the ground. "The slack of a hem on my left side. I can't feel it come. So I want a right-hand corner, every time, where the slack's on my good side. Or somebody on my left who calls it to me."
+"The cord. All three turns. That's yours already." She made herself look at Pru and not at the ground. "The slack of a hem on my left side. I can't feel it come. So it's a right-hand corner for me, every time, where the slack's on my good side. Or somebody on my left who calls it to me."
 
 "North-west, then," said Pru. "Or south-east. Got it."
 
@@ -314,7 +314,7 @@ She heard him before she saw him. He was telling the dummy that it was being res
 
 He stopped. He had Hendry Moss of his own Hall behind him, a boy with a neck as thick as his head, and they stood there in the dark with the poles on their shoulders.
 
-"There's a post," said Kiva. "The last of the south row. It's a pace out, into the lane, on your left as you go in. I'm not going to stand at it. I want you to call it before you're through the gap. *Post, left. Keep right.* Loud enough for Moss to turn with you."
+"There's a post," said Kiva. "The last of the south row. It's a pace out, into the lane, on your left as you go in. I'm not going to stand at it. Call it before you're through the gap. *Post, left. Keep right.* Loud enough for Moss to turn with you."
 
 "Post, left. Keep right," said Perrin obediently.
 

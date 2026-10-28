@@ -56,25 +56,25 @@ She had come up from the street when the last of the four was cut, with the wall
 
 "It's exactly what she wants," said Aske. He laid Kiva's arm back in her lap, gently, like something returned. "It's no use for this. I've looked. This has been turned out, and it'll come back by itself or it won't. That hand at the pump house is only hungry. I can do something for hungry."
 
-"It wants four of us," said Perrin.
+"It wants all of us," said Perrin.
 
 He was against the bottom wall, where he had been since the gate went down. Ruddock had his tunic up and was strapping him by lamplight.
 
-"Four of us to break a seal. I'm one. I'm told I'm not to get up, so you'll have to take it from here." He drew as much breath as the linen allowed. "I'd have said yes before she'd finished the sentence. I only waited so that it'd be asked properly."
+"To break a seal. I'm for it. I'm told I'm not to get up, so you'll have to take it from here." He drew as much breath as the linen allowed. "I'd have said yes before she'd finished the sentence. I only waited so that it'd be asked properly."
 
-"I'm two," said Kellan.
+Kellan nodded. He did not need to say anything.
 
 "I'm not on the team's account," said Jude Talley. He had come in behind Kellan, heavy-footed, with his blade arm hanging. "I'm on the line by name. I said on Tuesday I wondered what ash was for." He scratched his jaw with a grey thumb. "I've stopped wondering. If I'm wanted, I'm there."
 
-"Three," said Anwen. "That's mine."
+"And me," said Anwen.
 
 They were all looking at Kiva.
 
-It was a strange thing to be the fourth. She had thought, for one breath, that she ought not to say yes at all. It was her aunt. It was her own household's hand being bought out of a team's tin.
+It was a strange thing to be the last one asked. She had thought, for one breath, that she ought not to say yes at all. It was her aunt. It was her own household's hand being bought out of a team's tin.
 
 *That's a shine,* she thought. *That's wanting to be seen not to take it.*
 
-"I'm four," she said. "I'd have asked. I'm glad I wasn't the one who did."
+"Yes," she said. "I'd have asked. I'm glad I wasn't the one who did."
 
 "I know," said Anwen.
 
@@ -82,7 +82,7 @@ They did it on the lid of the Low Lane's quench box. Kellan held the lamp. Anwen
 
 "How much?"
 
-"A dram and two-tenths," said Aske. "I'll not take more than I can use. The rest goes back under wax."
+"A dram and two-tenths," said Aske. "I shan't take more than I can use. The rest goes back under wax."
 
 Anwen sealed it again, and held it out, and Kiva put out her hand for it because it was her aunt's and she meant to carry it. Her left arm did not come. It hung from the shoulder like a coat on a peg. She stood with the tin half in her right hand and the lid of it tipping, and for a moment could not see how the thing was to be done.
 
@@ -354,7 +354,9 @@ Hollis Vane was on the infirmary step when she came out. He had his hat on, and 
 
 "It's what's so."
 
-"I know that it is. I've come to rely on it." He looked down the street. "The Ferren would like to see you. Thursday, at four, at the hall. Bring your sponsor. And I'd wear a collar that shows the cord."
+"I know that it is. I've come to rely on it." He looked down the street. "The Ferren would like to see you at the hall on Thursday, with your sponsor. And I'd wear a collar that shows the cord."
+
+He touched his hat to her, and went off down the street at his walk, as a man goes who has a tram to catch.
 
 ---
 
@@ -366,7 +368,7 @@ Mara had her left hand flat on the table, under the lamp. She was reading the wo
 
 "Then tell us the two," she said.
 
-"People first. The Hold off the mast, for the class of this year, is six and one, and for forty years before it was never better than five and a half. Three Fire readings at seventeen. Stonehand's plate stood for thirty-one years, and it's been beaten five times since the thaw." He did not look at anything while he said it; he had it by heart. "And the other side. The district board's had more tears since the thaw than in any three years before. Skins, which nobody had seen in sixty years. A Flask that walked a bus. A hold stood by husks. A string laid on its side." He drew a breath. "They both climb. They climbed slowly until the fifth month. Since the fifth month they've climbed faster. I've been very careful not to say that one does the other."
+"People first. The Hold off the mast, for the class of this year, is six and one, and for forty years before it was never better than five and a half. Three Fire readings at seventeen. Stonehand's plate stood for thirty-one years, and it's been beaten four times since the thaw." He did not look at anything while he said it; he had it by heart. "And the other side. The district board's had more tears since the thaw than in any three years before. Skins, which nobody had seen in sixty years. A Flask that walked a bus. A hold stood by husks. A string laid on its side." He drew a breath. "They both climb. They climbed slowly until the fifth month. Since the fifth month they've climbed faster. I've been very careful not to say that one does the other."
 
 "And the third?" said Mara.
 

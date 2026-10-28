@@ -228,7 +228,7 @@ The wardens of Stopgate had the right. There were a dozen of them, give or take.
 
 Rhea Sorn and Hollis Vane sat together at the far end, which Kiva had not seen before.
 
-She was not at the table. She was on the wall bench, behind Mara, with the plan tubes across her knees, and she had been told that she was there to carry.
+Kiva had a place on the wall bench, behind Mara, with the plan tubes across her knees, and she had been told that she was there to carry.
 
 "I'll say what I am not," said Ysra Crest. "I am not the Works, and I'm not the Line. I've a Circuit, and a school of that Circuit stands at the head of a hill with seven hundred students in it. Mr. Rusk has been good enough to ask for this room. I've lent it. It's his."
 
@@ -262,7 +262,7 @@ Mara did not stand. She laid her left hand flat on the table, as she laid it on 
 
 "One," said Rusk. He said it without unkindness.
 
-"One. If you quench two drums and I'm wrong, you've stopped it, and I'll come and say so in this room. If you quench two and I'm right, it won't know that they're dry. It'll go underneath."
+"One. If you quench two drums and I'm wrong, you've stopped it, and all it's cost you is a week of boxes and my good name. If you quench two and I'm right, it won't know that they're dry. It'll go underneath."
 
 "Mr. Adlam," said Ysra. "You've a patent."
 
@@ -298,7 +298,7 @@ He had not moved. He had his hat on the table in front of him.
 
 "Nor do I," said Rhea Sorn. "I'd as soon not learn it with seven hundred children watching."
 
-"Then I'll say what's mine," said Ysra, "and it's small. The School sends its first-years home from Friday. The rest stay; it's ten days, and I won't empty a hill on one drum. Officer Vane will draw me a plan to clear that school and that street in the dark, by litter where it's wanted, and it will be walked on Saturday night by everybody who'd have to do it. Every four that holds a second step turns out under its officer. I want to know before I need it whether the thing can be done."
+"Then I'll say what's mine," said Ysra, "and it's small. The School sends its first-years home from Friday. The rest stay; it's ten days, and I won't empty a hill on one drum. Officer Vane will draw me a plan to clear that school and that street in the dark, by litter where it's wanted, and it will be walked on Saturday night by everybody who'd have to do it. Every four that holds a second step turns out under its officer. I mean to know before I need it whether the thing can be done."
 
 "I've never drilled a street," said the bursar faintly.
 
@@ -344,11 +344,11 @@ Kiva had a thing to say. She had found it on the way back from the weir, in a va
 
 It was not a comfortable thing. It had no shine on it at all.
 
-"I want a second sheet," she said. "Poles and a cord. Three drams, at the office price."
+"We need a second sheet," she said. "Poles and a cord. Three drams, at the office price."
 
 "We've a sheet," said Perrin.
 
-"We've one. And one catcher, with eight fingers, who's entered for recovery and nothing else." She kept her eyes on the table. "If I'm ever told to do the other thing again, I'm not at a hem. I'm four paces off with a hand that's gone. There's a rung coming down all the same, and nobody kneeling to it. I don't want to find that out on a floor. I want Pru to have a sheet. Not mine, lent. Hers."
+"We've one. And one catcher, with eight fingers, who's entered for recovery and nothing else." She kept her eyes on the table. "If I'm ever told to do the other thing again, I'm not at a hem. I'm four paces off with a hand that's gone. There's a rung coming down all the same, and nobody kneeling to it. I don't want to find that out on a floor. Pru's to have a sheet. Not mine, lent. Hers."
 
 Nobody spoke.
 
@@ -390,7 +390,7 @@ It was not much to see. It was a slab of grey iron the size of a door, with two 
 
 She had his coat. She had been given it, without a word, as a thing that wanted two arms and no fingers.
 
-"I want the hold made. That's the Hall's second team. That's a place of my own, in my own colors, with nobody's brackets on it." He grinned, rather whitely. "I've been told not to want the other."
+"The hold made. That's the Hall's second team. That's a place of my own, in my own colors, with nobody's brackets on it." He grinned, rather whitely. "I've been told not to want the other."
 
 There were a dozen people on the terrace. The Hall's master was there, with his chisel in his apron. Lowen Brask stood at the rail with his arms folded. Noa had come, and stood where he would be in nobody's way.
 
@@ -404,7 +404,7 @@ He lifted.
 
 He did it as he had carried a girl across the Pit, without hurry and with his whole attention. It came up to his thighs, and his chest, and then he turned his hands under it and it went over his head, and stood there on his two locked arms like a roof.
 
-Kiva watched the big red face go still, and stiller, and she saw that he was not straining. He was listening to something, as a man listens to his own ribs.
+Kiva watched the big red face go still, and stiller, and she saw that he was listening to something, as a man listens to his own ribs.
 
 "*Hold made,*" said the master.
 
@@ -412,7 +412,7 @@ He did not put it down.
 
 "Cade," said the master.
 
-"I'd like forty on," said Perrin. His voice came out squeezed, and perfectly polite. "If it's allowed. I'm up here now."
+"Put forty on," said Perrin. His voice came out squeezed, and perfectly polite. "If it's allowed. I'm up here now."
 
 The master looked at the healer. The healer looked at Perrin's wrists, and his color, and nodded once. The third-years ran the hoist. It was done with the plate in the air, a slab on each side, as a man is handed two more parcels.
 
@@ -424,7 +424,7 @@ It was the longest hold that she had ever watched. His arms began to shake. Then
 
 "*Hold made!*"
 
-He gave it to the ground. He did not drop it. He let it down through himself and into the oak, by its corners, and the Long Terrace boomed once from end to end.
+He gave it to the ground, letting it down through himself and into the oak, by its corners, and the Long Terrace boomed once from end to end.
 
 Then he sat down on the plate and put his head between his knees.
 
@@ -478,7 +478,7 @@ She put her left beside it. The heel felt it, and the last two fingers. The firs
 
 "No. It's what comes through a flagstone." She stood up. "It's a reason to look."
 
-"So it is." Mara stood at the rail with the plan under her arm and did not unroll it. "I've a bag of corks at the shop. Tomorrow I shall walk the main up from the pump house, a cork down every manhole and a watch for it at the next. If the water goes where the plan says it goes, the corks will come through and tell me so." She looked down the long wet street, to where a word was chalked on a board a mile off. "I'd be glad to be wrong. I want you to know that. I've lain awake hoping for it."
+"So it is." Mara stood at the rail with the plan under her arm and did not unroll it. "I've a bag of corks at the shop. Tomorrow I shall walk the main up from the pump house, a cork down every manhole and a watch for it at the next. If the water goes where the plan says it goes, the corks will come through and tell me so." She looked down the long wet street, to where a word was chalked on a board a mile off. She turned her collar up against the wet. "I'd be glad to be wrong. I've lain awake hoping for it."
 
 "I know."
 

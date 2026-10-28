@@ -96,7 +96,7 @@ They filled twenty-six and twenty-seven on Tuesday at one, since there was no lo
 
 Both drums went in almost as soon as the cans were home. Mara had her palm on the first. She took it away as one takes a hand off a stove.
 
-"So that's my bank," she said. "Four-and-twenty fresh cans, and every one of them open for the better part of a minute, in a house with the main going by under the floor. If the water's still, I've a chance. If it so much as rocks, I've filled them for nothing." She looked at her hand. "And every can in the Compact's store has had the hair in it since the thaw. They're halfway to listening before I've drawn the stopper. I want ash that keeps no time at all. A pinch, to salt each one. Something that's never heard a beat in its life."
+"So that's my bank," she said. "Four-and-twenty fresh cans, and every one of them fresh and open, in a house with the main going by under the floor. If the water's still, I've a chance. If it so much as rocks, I've filled them for nothing." She looked at her hand. "And every can in the Compact's store has had the hair in it since the thaw. They're halfway to listening before I've drawn the stopper. What I need is ash that keeps no time at all. A pinch, to salt each one. Something that's never heard a beat in its life."
 
 "There's a shelf of it," said Kiva.
 
@@ -124,7 +124,7 @@ Three of Seven had come to carry. Jude was at the door, and Anwen, and Perrin wi
 
 He had not said it loudly. He was looking at the cold-room door across the passage, with its three seals.
 
-"I'm only saying it since somebody will. We've two drams of our own that came off a husk on the Sag in the fourth month, before any of this got into the ash. Ward-trace. No hair. It's sat under wax for five months." He scratched his jaw. "That's two hundred pinches, by my reckoning. It'd do the bank and the drums and leave some over. And there's six hundred drams in that room of the loudest ash in Meridian, if anybody wanted a thing for a string to walk to that wasn't a drain."
+"I'm only saying it since somebody will. We've two drams of our own that came off a husk on the Sag in the fourth month, before any of this got into the ash. Ward-trace. No hair. It's sat under wax for five months." He scratched his jaw. "That's a great many pinches. It'd do the bank and the drums and leave some over. And there's six hundred drams in that room of the loudest ash in Meridian, if anybody wanted a thing for a string to walk to that wasn't a drain."
 
 "No," said Anwen.
 
@@ -150,7 +150,7 @@ Kiva had known that it would come round to her. There was a bag in that room und
 
 "It's evidence," said Halloran, without turning round. "Nobody burns the only one of anything while I've the key."
 
-"Then that's two things not spent," said Jude. He did not look put out. "I thought I'd ask. A man with a yield line gets to wondering what ash is for."
+"Then that's both of them not spent," said Jude. He did not look put out. "I thought I'd ask. A man with a yield line gets to wondering what ash is for."
 
 "It's for the next attempt," said Perrin. "That's what my dad says. He says it's the only thing it's ever bought anybody." He picked up the crate. "If I trip on that stair, I'm going to keep walking and change my name."
 
@@ -222,13 +222,13 @@ She was out of breath. She stood in the door of the watch room in her old coat, 
 
 Rhea sat for a while with her elbows on her knees.
 
-"Then here's how I'd hear it," she said. "If it moors, and if there's no other way, and if she offers it herself without being looked at. I hear the price from her healer, before. I hear from her what she does if it's refused. And I want to know who has every piece of it that isn't hers. Then I say yes, or I don't." She looked at Orla. "It isn't a yes."
+"Then here's how I'd hear it," she said. "If it moors, and if there's no other way, and if she offers it herself without being looked at. I hear the price from her healer, before. I hear from her what she does if it's refused. And who has every piece of it that isn't hers. Then I say yes, or I don't." She looked at Orla. "It isn't a yes."
 
 "I didn't climb two flights for a yes," said Orla. "I'd have distrusted one."
 
 "That's new," said Pike, to his hem.
 
-"It's an order I can ask in," said Rhea. "I've not had one before."
+Rhea did not answer him. She got up and turned the lamp down over the map wall, and sat again, and the two women stayed there in the half dark with the stove ticking, saying nothing, until the stick went back down the stair.
 
 ---
 
@@ -242,9 +242,9 @@ She looked up.
 
 "Me."
 
-"If it's about my rule, I've put it to the Chair already. I'll not take it back."
+"If it's about my rule, I've put it to the Chair already. I won't take it back."
 
-"It isn't. I want to ask you for something." Kiva stood at the foot of the bed. There was a chair, and she had not been invited to it. "I'll say all of it, and then what I do if you say no."
+"It isn't. I've come to ask you for something." Kiva stood at the foot of the bed. There was a chair, and she had not been invited to it. "I'll say all of it, and then what I do if you say no."
 
 "You've got that off Pryce. Half the Circuit's doing it." The grey eyes were sunk, and perfectly sharp. "Go on."
 
@@ -276,11 +276,7 @@ There was a long silence. Somewhere down the ward somebody coughed.
 
 "Go on."
 
-"There's a needle on you. A mast, in that yard, and Bexley at it with his flags. I'll not call anything of yours that isn't being read. If the red goes up, I stop, in the middle of a word." She held up a second finger, exactly as Jude had once. "Marten carries the chair. With a porter. He'll not let anybody else, and I'll not have him argued with."
-
-"That's two."
-
-"The third is that nobody takes it that I've come round. I objected to you twice, and I think what I thought. I'm calling it because I'm the one who can, and for no other reason."
+"There's a needle on you. A mast, in that yard, and Bexley at it with his flags. I won't call anything of yours that isn't being read. If the red goes up, I stop, in the middle of a word. Marten carries the chair, with a porter. He'll not let anybody else, and nobody's to argue with him." She looked at the ceiling. "And nobody takes it that I've come round. I objected to you twice, and I think what I thought. I'm calling it because I'm the one who can, and for no other reason."
 
 "Nobody will think it."
 
@@ -330,7 +326,7 @@ He had not. There was a lamp down the shaft still, and the scrape of iron on bri
 
 She was standing at the gap in the low wall, with her hand on the cold stone, when she felt it change.
 
-It did not grow. She would have said, afterward, that it turned over. The slow even push that she had had under her palm all week had been a thing going by. It was not going by any longer. It had stopped, somewhere below her on the hill, and was standing still, and getting deeper, as water deepens behind a hand.
+She would have said, afterward, that it turned over. The slow even push that she had had under her palm all week had been a thing going by. It was not going by any longer. It had stopped, somewhere below her on the hill, and was standing still, and getting deeper, as water deepens behind a hand.
 
 "Noa," she said. And then, as loudly as she had ever said anything, up at the black bulk of the core house roof: "*Noa! What's the drum doing?*"
 
@@ -356,7 +352,7 @@ The planks over the nearest grating had gone white. She saw frost run along them
 
 Then, the whole length of that seam, things began to come up.
 
-They did not come one above another. She had seen a string climb out of a hatch a knot at a time. These rose together. Eight grey shoulders came up through the blue, side by side, eight paces apart, each on a pair of legs as thick as lampposts, and between each and the next there ran a white cord at the height of a man's chest.
+She had seen a string climb out of a hatch a knot at a time. These rose together. Eight grey shoulders came up through the blue, side by side, eight paces apart, each on a pair of legs as thick as lampposts, and between each and the next there ran a white cord at the height of a man's chest.
 
 It was a string. It was a string laid on its side.
 

@@ -40,7 +40,7 @@ He stood behind the bench with his thumbs in his waistband. He looked like a man
 
 "That's the plan," said Rusk. "That's the whole of the plan, if the fence fails. I stop my three pumps for as long as the sump will bear, and I put every hand in the Works on that bank at once, one to a cell. That brings my four hours down to half of one."
 
-"It's a good plan. I'd have drawn it myself. I'd like to see it work once in a box before I trust a district to it. And Officer Vane wants to know what a string makes of a floor like this one. Mr. Birch has been kind enough to say that we may ask it."
+"It's a good plan. I'd have drawn it myself. I'd sooner see it work once in a box before I trust a district to it. And Officer Vane wants to know what a string makes of a floor like this one. Mr. Birch has been kind enough to say that we may ask it."
 
 "I said you might ask," said Birch. "I didn't say it'd answer politely."
 
@@ -96,7 +96,7 @@ That was the whole of it. It was a place, and nothing was owed for it, and there
 
 He walked out onto the blue brick, dark.
 
-He disliked it at once. It was not the string. He had cut that string's top rung a dozen times since the seventh month, and he knew how it stood. It was the floor. There was something coming up through his boot soles, unhurried, like the tread of a great many people going past on the other side of a wall. His feet wanted to fall in with it.
+He disliked it at once. He knew the string; he had cut its top rung a dozen times since the seventh month. What he disliked was the floor. There was something coming up through his boot soles, unhurried, like the tread of a great many people going past on the other side of a wall. His feet wanted to fall in with it.
 
 He had the best feet in the School. He had been told so since he was fourteen. It was a new thing to find that they could be asked to do something by a floor.
 
@@ -154,7 +154,7 @@ It lay all down the trough, from the stool to the pump, moving with the rise and
 
 She said it quite quietly. He turned his head.
 
-All six needles had jumped. He saw them do it, together, like six hands flung up. They stood for a moment against their upper pins, quivering. Then they lay down. They did not come down one after another, as cells die in a bank. They went as one, and the glass over the third cell cracked across with a small flat sound.
+All six needles had jumped. He saw them do it, together, like six hands flung up. They stood for a moment against their upper pins, quivering. Then they lay down, all at once, as no bank's cells ever die, and the glass over the third cell cracked across with a small flat sound.
 
 The pump stopped.
 
@@ -206,7 +206,7 @@ Then it trembled.
 
 Then it went up, and came down, with the water.
 
-"Inside the minute," said Pike. He was looking at it as he looked at a neck. "Fresh ash is open for about a minute. It takes the first pattern that touches it. I've said that to every corner-hand I ever trained, about a lit blade." He shook his square head. "I never thought to say it about a puddle."
+"That's a fresh can," said Pike. He was looking at it as he looked at a neck. "It takes the first pattern that touches it. I've said that to every corner-hand I ever trained, about a lit blade." He shook his square head. "I never thought to say it about a puddle."
 
 "So I can't quench it while it's in the water," said Rusk. "And I can't stop the water while it's in the water. And I can't cut it while it's in the water, or the rung runs down its own arm and cooks my bank." He ticked them off on his thumbs. "Then it must come out of the water. How does one take a thing like that by the arm?"
 
@@ -246,7 +246,7 @@ She knew that rise and fall. She had had it in a tray between her palms, in the 
 
 "It's what I did. I only did it once."
 
-"I know what you did. I was behind three posts with three cloths." He was not looking at her. He was looking along the east wall, at a small round first-year with a cord wound round her fingers. "It wants the best fold in the yard. That isn't yours."
+"I know what you did. I was behind three posts with three cloths." His eyes had gone along the east wall, at a small round first-year with a cord wound round her fingers. "It wants the best fold in the yard. That isn't yours."
 
 "No," said Kiva. "It's hers."
 
@@ -258,7 +258,7 @@ Pru Finch looked behind her, to see who was meant.
 
 "I can't go anywhere with it. I haven't an Ember. I can't put it down."
 
-"Nobody's asking you to go anywhere. I want to know whether it can be lifted off the water at all. For a breath. By a ward that isn't taken."
+"Nobody's asking you to go anywhere. I only need to know whether it can be lifted off the water at all. For a breath. By a ward that isn't taken."
 
 Pru looked at Rhea Sorn.
 
@@ -310,7 +310,7 @@ Kiva had not moved. She was still kneeling, with her hands on the brick.
 
 "I did."
 
-"I know that you did. I want the rest of it."
+"I know that you did. Now the rest of it."
 
 She made herself say all of it.
 
@@ -444,7 +444,7 @@ Below it on the hill, behind two more green doors, two needles lay against their
 
 Rusk stood at the rail with his hands in his pockets. He did not say anything for some time.
 
-"You said twenty-eight, on the third, with two dry drums below it," he said at last, to Mara. "It's the third. That's twenty-eight. Those are two dry drums." He looked down the street, at the dim brown windows of the middle stretch. "I've had six hundred families on boxes for five days, in the wet, to learn that I was wrong. I said that I'd carry that. It's heavier than it looked on Wednesday."
+"Well," he said at last, to Mara. "There it is." He looked down the street, at the dim brown windows of the middle stretch. "I've had six hundred families on boxes for five days, in the wet, to learn that I was wrong. I said that I'd carry that. It's heavier than it looked on Wednesday."
 
 "A sixth time," said Mr. Adlam. He said it very quietly. "I shall have to tell the technical office that there is a thing which its patent does not describe. They will not like it. I rather think that I do."
 
@@ -470,7 +470,7 @@ The Home Line ran its lanes dark, and Hollis Vane ran the Old Yard dark late tha
 
 "Why?" said Pru.
 
-"Because that's the call." He gave her a cloth. "I've run it on the Sag since I was twelve. Our lanes end on a stake with a crosspiece, and the first two in put their hands on it and walk it round. I thought it was to make you name a partner in the dark. I never asked." He looked down the black yard. "I'm asking now."
+"Because that's how the Line trains. You learn a road with your feet." He gave her a cloth. "I've a post in my casualty road and a sponsor who says I've never looked at it. I'm looking at it now."
 
 Kiva was not in the row.
 
@@ -534,9 +534,9 @@ Boots. A second weight came round the eighth post and arrived at the other side 
 
 "Talley has the bar," said Jude.
 
-"Then walk it," said Vane. "On the Sag, it goes round."
+"Then lean on it," said Vane. "It's a bar through a post. Let's see what it does."
 
-"It's a post," said Perrin. "It's in the ground. It's—" He leaned. Kiva felt him lean. "It doesn't go round, sir. It's a post."
+"It's a post," said Perrin. "It's in the ground. It's—" He leaned. Kiva felt him lean. "It doesn't do anything, sir. It's a post."
 
 "Open your door, Cade."
 

@@ -90,7 +90,7 @@ The heads went past it.
 
 Kiva watched her do it.
 
-She had seen that cut before, at a weir, at first light. Rhea Sorn had no Stride. She did not go up the back of anything. She walked to the lowest of the knots as a woman walks to a door, and stopped at an arm's length, and waited, with her blade arm down.
+She had seen that cut before, at a weir, at first light. Rhea Sorn had no Stride. She walked to the lowest of the knots as a woman walks to a door, and stopped at an arm's length, and waited, with her blade arm down.
 
 "*Not yet,*" said Pike, from the hem. "It's turning. *Now.*"
 
@@ -164,7 +164,7 @@ Ten of them made forty paces of silver, cart-wide each, along the east curb. Six
 
 She had learned an end in a culvert, standing still. She had not learned one that moved. A wall that walked had to be let go at the back and brought up at the front, a holder at a time, each coming up inside the next as a relief comes. It was Graywater's oldest trick. It was only that nobody did it for a hundred paces up a hill.
 
-"Fifty-four's dark," said a warden's voice, behind her. "Fifty-six, there's nobody in. Dark."
+"Dark behind you," said a warden's voice. "And the next. There's nobody in."
 
 "Step," said Anwen. "Tibb. I'm coming off. Now."
 
@@ -174,7 +174,7 @@ Six paces to her right, across the gutter, a frost wall stood twice her height. 
 
 She did not look at it. She looked at the curb.
 
-"Fifty-eight," said the warden. Her voice changed. "It's lit. Mr. Garland. *Mr. Garland!* Your handle!"
+"That one's lit," said the warden. Her voice changed. "Mr. Garland. *Mr. Garland!* Your handle!"
 
 There was a light behind the fanlight. Anwen saw it at the edge of her eye, small and yellow.
 
@@ -204,7 +204,7 @@ It did not strike. It leaned. It was the weight of a string's knot, sixty drams 
 
 *It'll bear weight.* She had said that about a different thing. She found that it was true of this one.
 
-"I've an end with no middle," she said. She said it level, as one reports a tin. "Garland's door. I'm holding. I want a neighbor on my left and I want that handle pulled. In that order."
+"I've an end with no middle," she said. She said it level, as one reports a tin. "Garland's door. I'm holding. A neighbor on my left, and that handle pulled. In that order."
 
 "Coming up," said Tibb. Then, sharply: "Stiles. You're short. You're a hand short on the outside, and she's got nothing to lean on if you join like that."
 
@@ -324,7 +324,7 @@ She came through the gap with her knee screaming. Pru was there, flat against th
 
 Something was coming along the wall.
 
-It came from the gateway, at the height of a man's chest. It was white, and as thick as a wrist, and it did not hang from anything. It reached. It came along the foot of the brick as a hawser is paid out along a quay, drawing up and letting down, and where it passed, the wall went grey with frost.
+It came from the gateway, at the height of a man's chest. It was white, and as thick as a wrist, and it reached. It came along the foot of the brick as a hawser is paid out along a quay, drawing up and letting down, and where it passed, the wall went grey with frost.
 
 It was an arm, three-and-twenty paces long, and it was feeling for a hole.
 
@@ -346,7 +346,7 @@ He lifted.
 
 He did not haul. He stood up. He got one knee under him, and then the other foot, and he rose off the packed dirt with a boy of fourteen hanging from one arm like a bucket from a crane, and swung him clear, and set him down against the shed wall four paces off.
 
-"There," he said. "That's one that I saw."
+"There," he said.
 
 "The lid," said the man in the apron. "Bars! Get it over!"
 
@@ -393,8 +393,6 @@ Vane did not answer. He stood and looked at a white cord going down into the gro
 The runner came through the gap behind him. It was a School porter, off the key in the keeper's lodge, and he was out of breath.
 
 "From the pump house, sir," he said. "Mrs. Rowan. She's nineteen hands of the four-and-twenty and the rest coming. She stopped the pumps a moment, to try it, and the water's still moving. Something's in it. She's started them again. She says she can't fill over it." He swallowed. "She says, tell her when it's out."
-
-"*Tell her when it's out,*" said Vane.
 
 The yard was very quiet. There were perhaps twenty people in it now. The fitters stood at their bar. Lowen Brask had come to the gap, and Rhea Sorn behind him, with her coat open and her hands out of her pockets. Orla was on her crate by the first shed, where she had been since the bell. A tall grey figure stood at the side gate, by the Wren House cart, and beside her a man with a pin in his lapel.
 

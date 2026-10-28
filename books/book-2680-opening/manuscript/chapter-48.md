@@ -28,7 +28,7 @@ Kiva found that she had nothing to say. She stood with her hands at her sides.
 
 "And if two of us want her at two in the morning," said Rhea Sorn, "the Line and my van, on the same night?"
 
-"Then you'll argue it in the street in your nightgowns," said the Ferren, "and she'll go wherever the bell's nearest, which is what a catcher's for. I'll not have it settled for you in advance. It does you both good to be inconvenienced."
+"Then you'll argue it in the street in your nightgowns," said the Ferren, "and she'll go wherever the bell's nearest, which is what a catcher's for. I won't have it settled for you in advance. It does you both good to be inconvenienced."
 
 The Ferren's eyes went down the bench.
 
@@ -96,7 +96,9 @@ She had been told what it was. It did not feel any different. She had rather tho
 
 Rhea Sorn got up off the bench, and put her hands in her pockets.
 
-"That's the Line's business done, then, and the Library's," she said. "I've some of my own. Not here. Tomorrow, at six, in my yard. Bring Finch."
+"That's the Line's business done, then, and the Library's," she said. "I've some of my own. Not here. In my yard, and bring Finch."
+
+She went out without waiting to be answered. Behind her the bursar, who had sat very still through all of it, began with great care to tie the tape back round an empty box.
 
 ---
 
@@ -150,7 +152,7 @@ It was smaller than she had been carrying it about in her head, as the Old Yard 
 
 "As before."
 
-"Good." She did not say it warmly. She said it as one says that a bag is sealed. "Then I'll not be beating half a catcher at Saltmere. I'd not have cared for that."
+"Good." She did not say it warmly. She said it as one says that a bag is sealed. "Then I shan't be beating half a catcher at Saltmere. I'd not have cared for that."
 
 "Marten said you'd something to say."
 
@@ -256,13 +258,13 @@ Rhea looked at her for some time.
 
 Seven closed its season on Saturday the 15th, at the Rowan kitchen table.
 
-Most of it they had heard before. Seven-tenths of the call drams were spent, Anwen's forty-one hundredths on a wall the most of that and Kiva's share none. The three-door line had gone whole on the 5th. The four drams lent had come home on the 4th.
+Most of it they had heard before: what the call reserve had cost, most of it on Anwen's wall and none of it on Kiva; the three-door line gone whole; the drams lent to the boxes come home.
 
-"Credited from Stopgate, by the foreman's pot," said Kellan, when he came to what was new. "To Talley, by name, a head's share: one and eight-tenths. To the team, seven and two."
+"And Stopgate," said Kellan. "The foreman's pot. There's a head's share for Talley, one and eight-tenths, and seven and two for the rest of us."
 
 "That's seven and eight-tenths with my name on it," said Jude. He was by the dresser, as ever. "In one autumn. A draft board will think I've been robbing a van."
 
-"Held, twenty-six and fifty-three. Sealed, medical, eight-tenths. Opened once, on the 6th." Kellan sat back. "That adds."
+"So we've twenty-six and a half held, and a bit, and the sealed reserve's down to eight-tenths." Kellan sat back. "And it comes out right, which I'd not have bet on in the spring."
 
 "It can't be made up," said Anwen. "The reserve. I asked at the ash office. There isn't a pinch of plain ward-trace to be bought in Meridian; it's all had the hair since the thaw. So it's eight-tenths, and it stays eight-tenths until somebody kills something quiet." She did not sound sorry. "I'd sooner have it short and know what it was for."
 
@@ -398,7 +400,7 @@ Kiva walked back along the lane to the first shed, and stood under the lamp, whe
 
 "I had it ready."
 
-"I know. I watched you put it in your pocket." She was not smiling. She had the look that she wore when a wall had been gone over and had no thin place in it.
+"I know. I watched you put it in your pocket." Anwen had the look that she wore when a wall had been gone over and had no thin place in it.
 
 Kiva looked down at her left wrist. The cuff had come undone again. A button wanted an edge found, and a hole, and one thread told from two.
 

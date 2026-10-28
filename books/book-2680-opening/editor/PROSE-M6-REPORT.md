@@ -11,17 +11,18 @@ Chapter 46 (pilot, DONE), which was not touched (`git diff --stat` lists only th
 
 Patterns as in the pilot and M1 reports (`grep -oiE`). *Free nine / free eleven* use the §8.5
 30-character filters (so "twenty-nine" counts, and the posts/rings are left out). *X/Y* is
-"It was not X. It was Y." plus "It did not X. It Y.", checked by hand after the pass.
+the rhetorical substitution contrast in any pronoun ("It/She/He was not X. It/She/He was Y.",
+"…did not X. … Y."), counted by hand after fix round 1; plain action negations are not counted.
 
 | Ch. | Words | write-it-down | ledger | notebook | record* | count* | free nine | free eleven | Measure | aloud / to … face | X/Y after |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| 41 | 7,264 → 6,985 (−3.8%) | 1 → 0 | 0 → 0 | 1 → 0 | 1 → 0 | 7 → 0 | 6 → 0 | 4 → 0 | 1 → 0 | 1/0 → 0/0 | 3 |
-| 42 | 6,479 → 6,260 (−3.4%) | 3 → 0 | 1 → 0 | 0 → 0 | 0 → 0 | 9 → 0 | 4 → 0 | 5 → 0 | 0 → 0 | 2/1 → 0/0 | 1 |
-| 43 | 6,882 → 7,276 (+5.7%) | 1 → 0 | 0 → 0 | 1 → 0 | 2 → 0 | 22 → 1 | 4 → 0 | 1 → 0 | 0 → 0 | 4/0 → 0/0 | 3 |
-| 44 | 5,583 → 5,337 (−4.4%) | 2 → 0 | 1 → 0 | 1 → 0 | 0 → 0 | 11 → 0 | 6 → 0 | 3 → 0 | 0 → 0 | 1/1 → 0/0 | 2 |
-| 45 | 5,297 → 5,159 (−2.6%) | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 4 → 0 | 3 → 0 | 3 → 0 | 0 → 0 | 3/0 → 0/0 | 2 |
-| 47 | 6,368 → 5,618 (−11.8%) | 2 → 0 | 3 → 0 | 0 → 0 | 0 → 0 | 4 → 0 | 4 → 0 | 5 → 0 | 1 → 0 | 1/1 → 0/0 | 1 |
-| 48 | 6,573 → 5,613 (−14.6%) | 2 → 0 | 2 → 0 | 0 → 0 | 0 → 0 | 6 → 0 | 5 → 0 | 6 → 0 | 6 → 0 | 7/0 → 0/0 | 2 |
+| 41 | 7,264 → 6,973 (−4.0%) | 1 → 0 | 0 → 0 | 1 → 0 | 1 → 0 | 7 → 0 | 6 → 0 | 4 → 0 | 1 → 0 | 1/0 → 0/0 | 3 |
+| 42 | 6,479 → 6,257 (−3.4%) | 3 → 0 | 1 → 0 | 0 → 0 | 0 → 0 | 9 → 0 | 4 → 0 | 5 → 0 | 0 → 0 | 2/1 → 0/0 | 3 |
+| 43 | 6,882 → 7,209 (+4.8%) | 1 → 0 | 0 → 0 | 1 → 0 | 2 → 0 | 22 → 1 | 4 → 0 | 1 → 0 | 0 → 0 | 4/0 → 0/0 | 3 |
+| 44 | 5,583 → 5,336 (−4.4%) | 2 → 0 | 1 → 0 | 1 → 0 | 0 → 0 | 11 → 0 | 6 → 0 | 3 → 0 | 0 → 0 | 1/1 → 0/0 | 3 |
+| 45 | 5,297 → 5,128 (−3.2%) | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 4 → 0 | 3 → 0 | 3 → 0 | 0 → 0 | 3/0 → 0/0 | 3 |
+| 47 | 6,368 → 5,645 (−11.4%) | 2 → 0 | 3 → 0 | 0 → 0 | 0 → 0 | 4 → 0 | 4 → 0 | 5 → 0 | 1 → 0 | 1/1 → 0/0 | 3 |
+| 48 | 6,573 → 5,642 (−14.2%) | 2 → 0 | 2 → 0 | 0 → 0 | 0 → 0 | 6 → 0 | 5 → 0 | 6 → 0 | 6 → 0 | 7/0 → 0/0 | 3 |
 
 The one count* left is Ch. 43's "for the first time in his life he had not counted the rivets"
 (Kellan), kept per §8.4 as the one place counting is named, as a thing he stops doing. All seven
@@ -115,7 +116,7 @@ opens her mouth) instead of a declaration, so Ch. 46's "Then say it" still follo
 
 **Ch. 47.** Retitled *As Before* (was *Entered as Such*, a record phrase). The slips at 31 and 41
 (three counts, six-and-twenty minutes, A. Renn's written note) are spoken by Ned. Breaking the
-sealed reserve is four people saying yes; no entry read as written, no signing; Pru takes the other
+sealed reserve is one shared yes (fix 1); no entry read as written, no signing; Pru takes the other
 side of the tin. **Lumb (171–199):** the keeper's book for 2604, the "T-0, four of them", the calf
 page and Kiva's Library page are cut. Lumb comes up from his sump, knows the look, and says it under
 the pumps: forty years ago, three nights' fever, the roof off and nothing over it, all four-and-twenty
@@ -183,10 +184,10 @@ junior in the dark: *Bettony has the bar! And me! We've got the bar!*
    an ash pole. Resolved without new plot: the post keeps its short old iron bar (Ch. 42, 43, 48);
    the fitters drive it out for a longer ash pole for leverage (Ch. 44); the pole hangs on the wall
    afterward (Ch. 48).
-2. **Why the bar turns in Ch. 43.** Canon has the screw turn in the drill but gives no reason a
-   drill turns a bar. I used the Line's own lanes: Vane says their lanes end on a stake with a
-   crosspiece that the first two in walk round, and Perrin, with his still door open, is strong
-   enough to move a screw nobody has moved since 2390. Flat custom, no lore.
+2. **Why the bar turns in Ch. 43.** Fix round 1 (foreman ruling): no lore. The Line runs Seven
+   dark because that is how the Line trains; Vane, deciding whether to saw the post, says "Then
+   lean on it. It's a bar through a post. Let's see what it does," and Perrin, with his still door
+   open, moves it. The stake-with-a-crosspiece custom is cut.
 3. **Preserved-thing saves (§4b).** Two canon dependencies remain and are flagged: the sealed 2.0
    medical reserve opened for Mara's hand (packet 006 requires a shown medical need; Ch. 46 says
    there is no plain ward-trace in Meridian), and Halloran's plain reference shelf salting the bank
@@ -217,24 +218,55 @@ junior in the dark: *Bettony has the bar! And me! We've got the bar!*
 
 | Sibling device | Count after | Notes |
 |---|---|---|
-| Repeat-back ("say it back", "said back") | 6 → 0 | (Ch. 46 keeps its two; untouched) |
+| Repeat-back ("say it back", "said back"), read-backs of a prediction or an echo | 6 → 0; fix 1 also cut Rusk's read-back of the drum call (Ch. 43) and Vane echoing the porter (Ch. 45) | (Ch. 46 keeps its two; untouched) |
 | A correct reading/instrument deciding a beat | 0 | Mrs. Renn's glass (Ch. 43 ×2, Ch. 47 ×1) and Noa's trend (Ch. 41, 47) are flavor; beats turn on what people do and see |
 | Kept/sealed thing saving someone | 0 evidence saves | 2 canon reserve uses, flagged §5.3 |
-| Number refrains, countdowns, timing closes, tallies | 0 | house "Fifty-eight" ×4 → ×1; drum "twenty-nine" ×8 → 0; ordinal knots → 0 |
+| Number refrains, countdowns, timing closes, tallies | 0 | fix 1 cut "I'm one… I'm two… Three… I'm four" (Ch. 47, now one shared yes), Dray's "That's two" (Ch. 44), Perrin's "That's one that I saw" (Ch. 45), Jude's "two hundred pinches" and "two things"; house numbers in Ch. 45 now "Dark behind you… the next… that one's lit"; drum "twenty-nine" ×8 → 0; no section closes on an appointment time |
 | "I'd like that said/known", "understood", "All of it, in order" | 4 → 0 | Perrin's three "I'd like it known" outside Ch. 46 removed |
 | Meter/gauge similes | 0 | |
 | Crowd-witness payoff | 4 → 0 | "in front of forty people", "to the whole yard", "carried the whole floor" cut |
 | Read-backs ("one at a time", "once more") | 0 | Kellan's account read-backs cut (Ch. 41, 48) |
 | Counting as structure | 0 | |
+| Open-ash rule stated | 1 (Ch. 42, Pike) | fix 1 cut Ch. 43 "Inside the minute… open for about a minute" and Ch. 44 "open for the better part of a minute" |
 | Ritual question lists | 1 | the Home Line's debrief at the cart, Ch. 47 mid-chapter (seed §6.2); Anwen's two questions as Ch. 46's setup (Ch. 44) |
 | Documents as evidence | 0 | the Works' plan is looked at, not laid down as proof; the result board is canon |
 | Timing objects as arbiter | 0 | |
 | "aloud" / "out loud" | 19 → 0 | |
 | "to … face" | 3 → 0 | |
-| Shared tics "I'd like / I want / I'll not" | 51 → 31 | "I'll not" kept for Aske, Mara, Dray, the Ferren |
-| Closing gestures (by kind, Ch. 41–48) | declaration aloud: 2 (Ch. 46 §1 "Yes.", untouched; Ch. 48 end, canon-mandated) | Ch. 45's close changed to an action so two do not run in a row |
+| Shared tics "I'd like / I want / I'll not" | 51 → 31 → 8 | "I'll not" now Mara only (3); "I want" 3 (Mara, Vane, Aske); "I'd like" 2 (Mara, Orla) |
+| Closing gestures (by kind, Ch. 41–48) | declaration aloud: 2 (Ch. 46 §1 "Yes.", untouched; Ch. 48 end, canon-mandated) | Ch. 45 close → action; fix 1: Ch. 44 Rhea section ("It's an order I can ask in") → action (the lamp turned down); Ch. 47 Vane and Ch. 48 hall no longer close on a time + "Bring…" (both end on a person leaving) |
 | Refrains watched | "slow and even" 5 → 3; "keep/kept … time" 11 → 5; "haul" (Ch. 43) 6 → 4 | |
 
-## 8. Commit
+## 8. Fix round 1 (verifier §4b notes)
 
-See `feature/2680-prose-m6` (sha in the ticket reply).
+1. Ch. 43: Rusk's read-back of the prediction cut ("Well. There it is.").
+2. Ch. 43 Pike's "Inside the minute… open for about a minute" cut (he keeps "It takes the first
+   pattern that touches it"); Ch. 44 "open for the better part of a minute" → "fresh and open". The
+   rule is stated once, Ch. 42.
+3. Ch. 41: "I'll come and say so in this room" → "all it's cost you is a week of boxes and my good
+   name"; "I want you to know that" cut, Mara turns her collar up.
+4. Tallies: Ch. 47 the seal is one shared yes ("It wants all of us"; Kellan nods; "And me"; Kiva
+   "Yes"); Ch. 44 "That's two." cut; Ch. 45 "That's one that I saw." cut.
+5. Ch. 45 Vane's echo of the porter cut.
+6. Closes: Ch. 44 Rhea section ends on the lamp turned down; Ch. 47 Vane section ends on him going
+   off at his walk (the appointment moves into the dialogue without a clock time); Ch. 48 hall
+   section ends on the bursar tying up an empty box ("In my yard, and bring Finch").
+7. Ch. 43 crosspiece custom cut (see §5.2).
+8. Ch. 47 Stonehand's plate "beaten four times since the thaw" (matches Ch. 41).
+9. Ch. 48 Kellan's dated list and "That adds" → plain talk ("And it comes out right, which I'd not
+   have bet on in the spring").
+10. X/Y recounted in all pronouns: every chapter now 3 (Ch. 41: 67, 345, 385; Ch. 42: 181, 275, 305;
+    Ch. 43: 139, 287, 571; Ch. 44: 295, 329, 349; Ch. 45: 175, 203, 347; Ch. 47: 49, 55, 141;
+    Ch. 48: 155, 179, 333, line numbers after fix 1). The first pass's "2" for Ch. 45 and 48 counted
+    only "It" forms and was wrong; fix 1 also trimmed extra substitution contrasts in Ch. 41, 43, 44,
+    45, 48. Ch. 45's house-number run broken up.
+11. Speech tics thinned (§7). Theme-word slip "remembered a tram" (Ch. 47) fixed.
+
+Re-run after fix 1 on the seven chapters: banned 0; ledger/notebook/column 0; theme words 0;
+broad §6 lines 0; time in counts 0; counting habit 0; free nine 0; free eleven 0; renames 0; no
+chapter ends on a count; repeat-backs 0; "I'm one/That's two"-type tallies 0; open-ash rule 1
+(Ch. 42); one count* (Kellan's rivets, kept).
+
+## 9. Commit
+
+See `feature/2680-prose-m6` (shas in the ticket reply).
