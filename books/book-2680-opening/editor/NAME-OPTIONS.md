@@ -59,13 +59,26 @@ where the bare noun stands. Counts are occurrences of the string `Measure` on 20
 | `books/book-2680-opening/BOOK_MAP.md` | 65 (Movement 5 title) | 1 |
 | `books/book-2680-opening/UNIVERSE_BIBLE.md` | 44 ("in Measures, brackets"), 146 ("ending in the Regional Measure") | 2 |
 | `books/book-2680-opening/SERIES_MAP.md` | 53 | 1 |
-| `books/book-2680-opening/STATE_LEDGER.md` | 74, 299, 349, 499, 518 (mirrors the manuscript; rewrite with the prose pass) | 5 |
+| `books/book-2680-opening/STATE_LEDGER.md` | 74 (twice), 299, 349, 499, 518 (mirrors the manuscript; rewrite with the prose pass) | 6 |
 | `books/book-2680-opening/packets/MOVEMENT-001.md` | 63 | 1 |
 | `books/book-2680-opening/packets/MOVEMENT-004.md` | 101 | 1 |
 | `books/book-2680-opening/packets/MOVEMENT-005.md` | 1 (title), 53, 91, 98 | 4 |
-| `books/book-2680-opening/editor/MOTIF-BUDGET-REVISION.md` | 26 (a table header, "Measure" as a column name; rename to "Pattern"), 104 | 2 |
-| `universe/ARCHIVE.md` | 50 (the directory name `book-2680-national-measure`; rename the directory or leave the path) | 1 |
-| `books/book-2680-national-measure/` canon docs: `BOOK_MAP.md` 10, `STATE_LEDGER.md` 13, `AUTHORSHIP.md` 8, `OWNER_BRIEF.md` 4, `SERIES_MAP.md` 3, `CHARACTERS.md` 2, `README.md` 2, `UNIVERSE_BIBLE.md` 2; the directory name itself | 44 |
+| `books/book-2680-opening/editor/MOTIF-BUDGET-REVISION.md` | 107 (beat 14, "the National Measure paper") | 1 |
+| `universe/ARCHIVE.md` | 50 (the directory path `book-2680-national-measure`; see the folder note below) | 1 |
+| `books/book-2680-national-measure/` canon docs: `BOOK_MAP.md` 10, `STATE_LEDGER.md` 13, `AUTHORSHIP.md` 8, `OWNER_BRIEF.md` 4, `SERIES_MAP.md` 3, `CHARACTERS.md` 2, `README.md` 2, `UNIVERSE_BIBLE.md` 2 | 44 |
+| `books/book-2680-national-measure/packets/MOVEMENT-001..006.md` | throughout | 27 |
+| `books/book-2680-national-measure/art/README.md` | 1 (the heading "The National Measure visual package") | 1 |
+| `scripts/nm-breeze-audio.py` | 131 (**the published book title** `'title': 'The National Measure'` in the Breeze binding; this is what listeners see), 2 (docstring), 104 and 147 (commit messages), 310 (an error string) | 5 |
+| `scripts/nm-publish-pwa.py` | 2 (docstring) | 1 |
+
+**The folder name.** `books/book-2680-national-measure/` is referenced as a path by four
+scripts: `scripts/nm-publish-pwa.py` (lines 14, 17, 38, 62, and the `--slug` help text),
+`scripts/nm-breeze-audio.py` (25, 137, 192), `scripts/run-kindling-2680-book-02-movement-001.sh`
+(5), and `scripts/wait-and-start-kindling-2680-book-02-reviews.sh` (5); the PWA's published
+manuscript paths and the Breeze audio stems (`national-measure-chapter-NN-…`) also carry
+it. **Recommendation: keep the folder path and the slugs as they are; rename only titles
+and text.** Renaming the folder means editing four scripts, the PWA's content paths, and
+the audio bindings for no reader-facing gain.
 
 **Manuscript (edit at the prose pass, not before):** Book One, 34 hits in 18 chapters:
 Ch. 48 (6), Ch. 40 (4), Ch. 1 (3), Ch. 8 (3), Ch. 14, 33, 35, 39 (2 each), Ch. 4, 11, 16,

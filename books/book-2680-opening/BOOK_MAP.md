@@ -137,8 +137,8 @@ on, or preserving anything.
 | The watch of seven | Sits twice: Ch. 32 (Kiva before it) and Ch. 33 (the recall vote) |
 | Lumb's own dream | Once (Ch. 47) |
 | The Unroofed Sky dream | As budgeted in §4: brief physical interruptions, no guidance |
-| Counting, tallying, timing, or measuring as a motif (a character who counts as a trait or a comfort; "keeps the count"; counting as a method of control; time in "counts"; a beat resolved by a tally, a timing, a reading, or a sum) | **Zero.** A readout may change the plot once in the book, shown, not read off (owner ruling, 2026-10-27: "look to remove counting as a motif"; "only cut the tics") |
-| The system's readouts (Hold, Draw, Call, Control, a rank, a Grade, a yield class, a decimal such as 1.0 or 0.59) | Flavor only: said where a character would say it and a decision turns on it; never a scene's texture; no decimal sprinkling in narration |
+| Counting, tallying, timing, or measuring as a motif (a character who counts as a trait or a comfort; "keeps the count"; counting as a method of control; time in "counts"; a beat resolved by a tally, a timing, a reading, or a sum) | **Zero.** A readout may change the plot once in the book, as something a person witnesses on an instrument in front of another person (a notch on a tape seen with the Chair's reader), not as a number announced (owner ruling, 2026-10-27: "look to remove counting as a motif"; "only cut the tics") |
+| The system's readouts (Hold, Draw, Call, Control, a rank, a Grade, a yield class, a decimal such as 1.0 or 0.59) | Allowed as flavor: said where a character would say it, kept sparse, never replacing what the moment feels like; not the thing that resolves a beat |
 | Number-word refrains (*nine*, *eleven*, any number word that recurs for its own sake) | Three free uses each in the book. Fixed quantities exempt and said only when the thing is on the page: the nine posts and the ninth post, the plate's nine rings, a team's or a rule's number, a date or an hour said once. Rename a numbered thing that recurs only to repeat the number |
 
 What carries the plot in place of documents is described, as story, in

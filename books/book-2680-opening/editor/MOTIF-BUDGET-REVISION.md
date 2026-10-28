@@ -264,8 +264,11 @@ witnessed non-arrival, not a count). Kiva, planted at the ninth, feels water mov
 (felt by the two on the bar); the shaft answers with a sound the whole yard hears (heard);
 under Kiva's hands the water lies still (felt); at the manhole below, Mara's reading hand
 feels the rise and fall stop (felt; she is still the city's bank reader by job, and her
-instrument is her hand). *It's a gate.* "Nine turns" is gone everywhere in canon; the bar
-is "run home." Cause → effect is unchanged: the lane's call puts two on the bar, the bar
+instrument is her hand). *It's a gate.* "Nine turns" is gone from the seed, the plans, and
+the packets; the bar is "run home." It survives in `STATE_LEDGER.md` (Movement Six block,
+"The post" and "The Step" bullets) and in the manuscript (Ch. 44, 46), because the ledger
+mirrors the accepted prose; the ledger now carries a warning banner and pre-rewire pointers
+at those bullets, and is rewritten from surviving prose after the prose pass. Cause → effect is unchanged: the lane's call puts two on the bar, the bar
 shuts the penstock, the shut penstock takes the string's water, Stopgate stays dry.
 
 ### 8.3 What else changed in canon
@@ -299,8 +302,11 @@ density, for triage. **Book-wide targets:** "N counts" as a unit of time: 0 (use
 paces, seconds, or nothing); "the count" as the open-ash window: keep the rule, name it
 once per movement at most, and say it in seconds elsewhere; characters counting to steady
 themselves or as a method: 0; "keep the count": 0; *nine* and *eleven* outside fixed
-quantities: 3 each in the book; decimals in narration: only where a decision turns on the
-figure. Fixed quantities are exempt but said only when the thing is on the page.
+quantities: 3 each in the book. **Readouts are not cuts:** Hold figures, Draw, Grade, the
+ash accounts at the table, Mara's bank readings, the practice glass, the grader's card are
+the system's flavor and stay, kept sparse, never replacing what the moment feels like. The
+cuts are counting as an action, counting as a theme, and the number refrains. Fixed
+quantities are exempt but said only when the thing is on the page.
 
 | Chapter | count* | nine | eleven | decimals | per 1k | Required cuts |
 |---|---|---|---|---|---|---|
@@ -308,23 +314,23 @@ figure. Fixed quantities are exempt but said only when the thing is on the page.
 | Ch. 10 | 6 | 12 | 13 | 0 | 4.6 | "Nine" as Anwen's demanded hold figure ("I said nine"; "That's not nine"; "you'll get your nine") is a refrain built on a number: make the ask a thing ("the whole carry, with everything in her hands"), not a nine. "Eleven of them" on the bench, "eleven years of my handwriting," "a quarter to nine": trim to one each or cut. |
 | Ch. 39 | 23 | 3 | 4 | 0 | 4.6 | The Pit hold. "A knot to a hundred counts"; "hauls for four counts and eases for four"; Dray "I've been counting… Nine"; "Don't count her. Count yourself"; Brask calling fours, Kiva counting fives "on purpose." Same rewire as Ch. 46: the slack is felt and called, the rhythm is Brask's *in* / *out*, Dray's courage is a thing she says, not a number. Keep "it hauls and eases" as the spawn's rhythm. |
 | Ch. 43 | 22 | 6 | 1 | 0 | 4.2 | Kellan "had not counted the rivets" (good: keep as the one place counting is named, as something he stops doing); "*Count against it*… He counted in threes" → he takes the *in* on the slack; "I've sixty counts" / "Fresh ash is open for a slow sixty" → say the rule once in seconds; "She had called the count on every sheet" → "called the *in*"; "I called the *in* half a count late" → "late." |
-| Ch. 16 | 10 | 11 | 7 | 3 | 4.0 | Pru's "Eleven… Twelve" and "Nine taps! It took *nine*!"; Hold figures "three and eight… five and nine… four and nine… six and two" read off posts; "Nine to seven… eleven to three"; "eleven to six"; "Eleven hundredths in four minutes." Keep one lane result and Kellan's 0.93 context as readout; cut the tap-counting and the post figures to one. |
+| Ch. 16 | 10 | 11 | 7 | 3 | 4.0 | Pru's "Eleven… Twelve" and "Nine taps! It took *nine*!"; Hold figures "three and eight… five and nine… four and nine… six and two" read off posts; "Nine to seven… eleven to three"; "eleven to six"; "Eleven hundredths in four minutes." The Hold figures off the posts, the lane results, and Kellan's 0.93 are readouts: keep them. Cut the tap-counting ("Eleven… Twelve"; "Nine taps! It took *nine*!") and vary the lane scores so *nine* and *eleven* stop recurring. |
 | Prologue | 5 | 14 | 8 | 0 | 1.6 | "Eleven years… Eleven forty-seven… eleven months… nine rows… nine hours… nine weeks… nine minutes… eleven degrees." Each era reaches for the same two numbers. Keep one age and one clock reading; vary or cut the rest. Rebuild per `PROLOGUE_PLAN.md` §5 anyway. |
 | Ch. 19 | 11 | 12 | 4 | 2 | 4.6 | Title *Rule Nine*, and the rule itself: "*A change called to a count is declared at the count*" is counting-as-theme in a rule of the Circuit. Renumber the rule and reword it ("A change called aloud is declared when it is called"); the mast rule later bears Dray's name anyway. "Nine. Nine hundredths"; "the first of nine"; "Nine tries. Nine misses"; "eleven signatures… eleven names… eleven people are uneasy"; "nine to a side." Trim to the fixed quantities (posts) and one objection figure. |
 | Ch. 30 | 25 | 1 | 0 | 0 | 4.3 | Rhea's night van: "a count of perhaps five… On a count… It's a school's count… four counts… sixty counts… a hundred counts… the longest hundred counts… the best count I've had… a pace every four counts… a count of ten." Convert every time-in-counts to seconds, breaths, or paces; keep "It's a school's count. I had it off a man who had it off them" only if the prose pass keeps one named count in the book (it is the best candidate: a professional borrowing a student drill). |
-| Ch. 24 | 10 | 7 | 8 | 16 | 2.9 | Densest decimals in the book (ash shares at the table, 0.31, "Nine and six-tenths… Graded First"). Keep the one spend/save/return decision's figures; cut the rest. "cell nine… Fourteen times… nine brass reeds… Eleven teams… from the ninth line to the thirty-first and counting… nine seconds… eleven" → one nine (the reeds are a fixed instrument; keep or cut once). Also §6 target 1. |
+| Ch. 24 | 10 | 7 | 8 | 16 | 2.9 | Densest decimals in the book (ash shares at the table, 0.31, "Nine and six-tenths… Graded First"). These are readouts at a spend/save/return decision: keep them; trim only where the page becomes a column of figures. "cell nine… Fourteen times… nine brass reeds… Eleven teams… from the ninth line to the thirty-first and counting… nine seconds… eleven" → one nine (the reeds are a fixed instrument; keep or cut once). Also §6 target 1. |
 | Ch. 13 | 13 | 7 | 5 | 1 | 3.2 | Kiva's field entries ("Count 60+, sweepings"; "Thirty-one in the count") go with §6 anyway. Mara: "You were counting. I could hear you. Thirty-eight, thirty-nine. And I thought, if she can count, she doesn't need me" → Mara hears her calling the thread cold, steady, and knows she does not need her. "nine hours" of watching. |
 | Ch. 11 | 10 | 13 | 1 | 1 | 3.9 | **The thesis line:** "It's the not counting. When I'm calling something, the calling's in the doorway. When I stop, the door's just standing there" → keep the second and third sentences; the method is calling, not counting. "Nine hundredths… eight or nine… two tears in nine days… her nine, with the furniture"; "Somebody ought to be counting that" (Noa) → "Somebody ought to be watching that." Cut "She's had it nine" counting the hold. |
 | Ch. 48 | 6 | 11 | 6 | 7 | 3.5 | "nine rings… nine grooves… Nine. And nine" (the plate: say it once when the Reader lays them side by side); "read it eleven times… corrected eleven times… a healer at eleven… drum twenty-nine"; "a junior counting three aloud" at the very end → she says who has the bar. Also §5 beat 14. |
 | Ch. 23 | 16 | 2 | 5 | 1 | 3.2 | "*Forty-eight,* said the part of her that was counting iron… *One,* said the part of her that had never stopped counting iron" (a frame of counting); "For one count she did not move"; "eleven hundred people." Replace the counting-iron frame with the thing itself (the lattice humming under her boots). |
 | Ch. 20 | 14 | 6 | 3 | 0 | 3.6 | Lowen "had planned for the count. If she called a change to a count…" (depends on Rule Nine's wording; follows Ch. 19's rewrite); "the nine black posts" (keep); "On your own count" → "When you choose." |
-| Ch. 35 | 12 | 6 | 3 | 8 | 3.7 | "She brought Aske the count on Wednesday morning. He wrote it in the column" (double motif: cut with §6); "since they were nine… the age of nine" (one); "eleven paces… nine years"; "I've had the counts." Practice-glass decimals 0.94/0.63/0.32/0.01: one line or cut. |
+| Ch. 35 | 12 | 6 | 3 | 8 | 3.7 | "She brought Aske the count on Wednesday morning. He wrote it in the column" (double motif: cut with §6); "since they were nine… the age of nine" (one); "eleven paces… nine years"; "I've had the counts" → "I've had the figures." Practice-glass decimals 0.94/0.63/0.32/0.01 are readouts: keep. |
 | Ch. 12 | 13 | 3 | 5 | 0 | 3.4 | The first kill drill: "She called it and went on counting… 'Count!'… Eleven. Twelve… Thirty-three. Thirty-nine… Inside the count, the catcher owns the floor… eleven days ago." Keep Druce's rule said once ("fresh ash is open for about a minute; inside that, the catcher owns the floor"); the drill's clock is Anwen's seal checks, not a chant. |
 | Ch. 44 | 11 | 6 | 3 | 1 | 3.6 | Mara: "*Two to the bar. Nine turns.* Let's see whether it remembers" → "*Two to the bar. Run it home.*"; "before the fitter had finished counting sixty" → "inside the minute"; "*I cut, and I count after, and I'm thought very honest for it*" (counting as a virtue: cut or make it "I cut, and I look after"); "nine of them lit… nine more who won't fall asleep… by nine on Tuesday." |
-| Ch. 14 | 10 | 8 | 2 | 14 | 3.1 | Grading: "nine cups… nine reeds" (one instrument, say it once), "In the count, the ash is all open" (the rule, once), "three drams and nine-tenths," "He counted on his green" fingers. Decimals: the grader's card figures, one line. |
+| Ch. 14 | 10 | 8 | 2 | 14 | 3.1 | Grading: "nine cups… nine reeds" (one instrument, say it once), "In the count, the ash is all open" (the rule, once), "three drams and nine-tenths," "He counted on his green" fingers. The grader's card figures are readouts: keep. |
 | Ch. 18 | 13 | 3 | 3 | 0 | 3.7 | "*Count!* Dark! One. Two… Eleven. Twelve… Fifty-nine… Sixty… Fifty-eight's inside the count… at the count of thirty." The second drill repeats the first's chant: convert to seal checks and seconds; "since she was nine." |
 | Ch. 42, 36, 41, 40, 33, 28, 37, 21, 9, 34 | 6–12 each | 2–8 | 1–8 | 0–9 | 2–3 | Light touch: convert "N counts" to seconds; one nine and one eleven each at most; Ch. 41's "twenty minutes to nine" and "eleven of them" (Stopgate's wardens) are fine once; Ch. 40's eight elevens (the notch "eleven seconds," the hour) → "a dozen seconds" said once by Noa off the tape. |
-| Ch. 31, 47, 27, 17, 22, 1, 38, 29, 15 | 4–11 | 0–6 | 1–5 | 0–13 | 2 | Ch. 1's thirteen decimals are Mara's bank readings on page one: keep two as her job's flavor, cut the rest. Ch. 22 "She counted it, because she was counting everything" → cut the frame. Ch. 47 "nine rings" once. |
+| Ch. 31, 47, 27, 17, 22, 1, 38, 29, 15 | 4–11 | 0–6 | 1–5 | 0–13 | 2 | Ch. 1's thirteen decimals are Mara's bank readings on page one: her job's flavor, keep them, sparse. Ch. 22 "She counted it, because she was counting everything" → cut the frame. Ch. 47 "nine rings" once. |
 | Ch. 45, 26, 8, 4, 3, 32, 25, 5, 7, 6, 2 | 0–4 | 2–5 | 0–6 | 0–5 | ≤1.9 | Near target. Ch. 3's six elevens (Team Eleven, the hour) → rename Team Eleven (it recurs only to repeat the number; five uses in the book) and vary the hour. |
 
 Also book-wide: rename **Team Eleven** (5 uses) and **Rule Nine** (10 uses, Ch. 19 title);
@@ -341,9 +347,15 @@ Run from `books/book-2680-opening/manuscript`:
 grep -niE "\b(a|one|two|three|four|five|six|seven|eight|nine|ten|twenty|thirty|forty|fifty|sixty|hundred|[0-9]+) counts?\b" *.md
 # Counting as habit, virtue, or tactic. Expected: 0.
 grep -niE "(keep|keeps|kept|keeping) the count|count against|(was|were|am|is) counting|count(s|ed)? (for|to steady|myself|yourself|herself|himself)|honest for (it|counting)" *.md
-# Number refrains. Expected: under 60 and under 40 book-wide, fixed quantities included.
-cat *.md | grep -oiE "\bnine\b" | wc -l; cat *.md | grep -oiE "\beleven\b" | wc -l
-# Decimals in narration. Expected: under 40 book-wide.
+# nine outside fixed quantities. Expected: 3 or fewer.
+cat *.md | grep -oiE "\bnine\b[^.;]{0,30}" | grep -viE "^nine (black )?posts|^nine (rings|grooves)" | wc -l
+# The fixed nines, said only when the thing is on the page. Expected: posts 4 or fewer; rings/grooves 4 or fewer.
+cat *.md | grep -oiE "\bnine (black )?posts" | wc -l; cat *.md | grep -oiE "\bnine (rings|grooves)" | wc -l
+# eleven outside fixed quantities. Expected: 3 or fewer. (The eleven-snapshot prologue is structure, not prose.)
+cat *.md | grep -oiE "\beleven\b[^.;]{0,30}" | grep -viE "^eleven (o'clock|in the morning|at night|minutes)" | wc -l
+# The fixed elevens: an hour said once. Expected: 3 or fewer.
+cat *.md | grep -oiE "\beleven (o'clock|in the morning|at night|minutes)" | wc -l
+# Decimals are readouts and are not capped. Report only; expected not above the current 113.
 cat *.md | grep -oE "\b[0-9]+\.[0-9]+\b" | wc -l
 # Rule and team renamed. Expected: no match.
 grep -niE "rule nine|team eleven" *.md

@@ -67,8 +67,9 @@ times, or tallies as a habit, and no scene is settled by a figure
 
 **Draw** is efficiency: ash spent on a defined piece of work divided by the governing
 book or bench expectation. `1.0` is standard and lower is more efficient. The expected
-cost is task-specific (a contested four-minute hold has a book figure of twelve
-hundredths of a dram).
+cost is task-specific: a contested four-minute hold has a book figure of twelve
+hundredths of a dram, so a hold that spends 0.112 reads as `0.93` (0.112 / 0.12). That is
+how Kellan's 0.93 is reached; it is a readout, said once, not a scene.
 
 Recovered ash is described three ways. **Yield** is quantity on the
 Handful -> Flask -> Barrel -> Well ladder. **Grade** is purity and stability;

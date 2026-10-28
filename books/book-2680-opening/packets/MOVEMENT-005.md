@@ -141,7 +141,8 @@ serving as the book's final climax.
   because it has a lawful claim or safety objection.
 - Use the supported Pit interval (the notch about a dozen seconds after the cliff). If
   Kiva's old forty-second line is confronted, amend it on the page rather than silently
-  changing chapters 1–24. Nobody counts the interval aloud; it is read off the tape after.
+  changing chapters 1–24. Nobody counts the interval aloud; Noa sees the notch on the tape
+  afterward, with the Chair's reader beside him, and that witnessed act is the evidence.
 - Preserve differentiated dialogue: younger characters plain and quick; Pike, Nairn,
   and Rhea operationally brief; formal/period idiom concentrated in elders, wardens,
   and institutional voices. Preserve narration-ready punctuation and listener-oriented

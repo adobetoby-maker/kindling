@@ -1,5 +1,14 @@
 # Kindling 2680 opening state ledger
 
+> **WARNING, 2026-10-27: this ledger mirrors the manuscript as written before the motif
+> passes. Do not author from it.** It still records the record-keeping devices (notebooks,
+> columns, the manual, the bearer's book) and the counting beats ("nine turns," "four
+> counts in and four out," "sixty counts") that `universe/SEED-2680.md` §6 and §11 and
+> `editor/MOTIF-BUDGET-REVISION.md` §5 and §8 have removed from canon. Where this file and
+> the seed disagree, the seed wins. The packets' instruction to "update `STATE_LEDGER.md`
+> only from surviving prose" means: rewrite the affected blocks from the manuscript after
+> the prose pass, not before.
+
 Status: **Book One complete and accepted 2026-10-12.** The prologue and chapters 1–48
 total 305,131 words. Six movement loops, two full-book reads, the five-seam canon
 reconciliation, targeted recheck, and final mechanical recheck are complete.
@@ -424,8 +433,13 @@ the prose shows is entered here.
   20, 21, then 25, 28 and 29; drums 22–24 on the Kiln loop never did. The three stepped pumps
   make the main rise and fall four counts in and four out. Two drums quenched as a firebreak
   did not stop it, and went in inside sixty counts when filled. Nobody on the page says that
-  water can step a cell, or why the bank fell in on the 17th of the ninth month.
-- **The post.** The leaning post in the Old Yard is the handle of a sluice gate (a penstock in
+  water can step a cell, or why the bank fell in on the 17th of the ninth month. (PRE-REWIRE
+  MIRROR: the "counts" here are the manuscript's; canon gives time in breaths, paces, or
+  seconds. See `editor/MOTIF-BUDGET-REVISION.md` §8.)
+- **The post.** (PRE-REWIRE MIRROR: canon has no "nine turns" and no count; the gate is
+  found by a call, a feel, a sound, and a float that does not arrive, and the bar is "run
+  home." Author from `universe/SEED-2680.md` §6.1, not from this bullet.) The leaning post
+  in the Old Yard is the handle of a sluice gate (a penstock in
   a brick shaft eight feet down, on a raked screw inside the post; a bar; nine turns "shuts
   the hill from the low streets"). The lane was laid over the drain, which turns there. The
   School straightened the other posts in 2390; the *Standard Lane Manual* kept the reason

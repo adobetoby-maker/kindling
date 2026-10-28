@@ -106,7 +106,9 @@ the spawn and the human opponents to make the students revise it.
 By Chapter Sixteen, Kiva retains her roster place after a useful sanctioned loss;
 Team Seven has killed and cleanly recovered its first live Handful, owns a small ash
 share, and has made a consequential choice about it. Anwen's field-placement path has
-moved independently. Noa holds mast readings that the institution cannot dismiss.
+moved independently. Noa has read the tape afterward with a Circuit referee beside him,
+and what the pens did in front of two people is a witnessed fact the institution cannot
+dismiss.
 The reader has seen why school combat and Riftspawn combat teach different things,
 and has one concrete sign that both the student ceiling and the spawn season are
 rising. Movement Three opens with the circuit accelerating toward a live Flask-level
