@@ -50,7 +50,7 @@ defend—and power—the rebuilt world.
 ## Scale progression
 
 - **Book One — regional:** Meridian discipline schools, contained-to-live spawn
-  training, school combat, the Regional Measure, local companies, earned ash, and one
+  training, school combat, the Regional Gates, local companies, earned ash, and one
   grid/rift emergency.
 - **Book Two — national:** intercity school finals, licensed hunts, professional drafts
   and contracts, ash exchanges, industry houses, school orders, stronger new spawn

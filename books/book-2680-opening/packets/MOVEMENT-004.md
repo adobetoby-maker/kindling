@@ -98,7 +98,7 @@ fragment of the Unroofed Sky from before she was born. It confirms shared imager
 time but not cause,
 interpretation, timing, or solution. Let the discovery cost trust, access, certainty,
 or safety. It should open Movement Five's fight over ownership, proof, sponsorship,
-and the Regional Measure—not replace that conflict with an answer.
+and the Regional Gates—not replace that conflict with an answer.
 
 ## What must remain true / withheld
 

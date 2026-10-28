@@ -41,7 +41,7 @@ economy. It should be experienced repeatedly on the page rather than explained o
    spawn anatomy, terrain, containment, quench procedure, casualty extraction, and
    ash recovery. Several Book One chapters must show students learning specifically
    how to kill Riftspawn, not merely how to duel other students.
-2. **Contest:** school teams fight one another in Measures, brackets, and mixed-role
+2. **Contest:** school teams fight one another in the singles, brackets, and mixed-role
    lanes. A human opponent adapts, remembers, and exposes habits that a spawn does not.
 3. **Hunt or respond:** students graduate through licenses from contained Handful
    releases to supervised live rifts. Riftspawn are dangerous animals or expressions,
@@ -144,7 +144,7 @@ several traditions, not a single harmonious academy:
    response. It tests whether school methods survive real terrain.
 
 Together they operate through **the Meridian Compact**. Their sanctioned collegiate
-season is **the Meridian Collegiate Circuit**, ending in **the Regional Measure**.
+season is **the Meridian Collegiate Circuit**, ending in **the Regional Gates**.
 It is a major public institution with teams, scholarships, standings, recruiters,
 broadcast coverage, and real consequences. Events test dueling, declared-role lanes,
 rescue/extraction, ashcraft, controlled Riftspawn response, and licensed live-yield
@@ -265,6 +265,9 @@ the generations who test, fail, and build after him.
 
 ## Historical artifacts
 
+Story devices tagged `LOCKED 2680` below were provisional until the owner approved them on
+2026-10-28.
+
 - **The Satori disk (`INHERITED` → `LOCKED 2680 survival`):** nine grooves; released
   through an appointed bearer line, not blood descent. It warms once after Kiva's
   first correct deliberate cross-door sequence. It does not teach or speak.
@@ -274,20 +277,20 @@ the generations who test, fail, and build after him.
   one. Its working function is a Movement 6 reveal (the handle of a sluice gate on the
   hill drain; see `STATE_LEDGER.md`). It is the only object the 2680 prologue threads
   across eras: a working lane in 2152, a joke in 2603, the last image of 2676.
-- **Orla's debrief (`PROPOSED`):** after a drill Orla asks her student, aloud at the
+- **Orla's debrief (`LOCKED 2680`):** after a drill Orla asks her student, aloud at the
   lane: *What went wrong. Who was hurt. What it cost. Second go. Why.* The Home Line asks
   the same at the cart. Coaching, not ceremony. Nobody writes the answers.
-- **The saying (`PROPOSED`):** *Because the road isn't straight.* A flat spoken answer to
+- **The saying (`LOCKED 2680`):** *Because the road isn't straight.* A flat spoken answer to
   "why does it lean." Spoken three times in Book One, never printed, no lore around it.
-- **The Order's belief (`PROPOSED`):** the Even Hand believes the sky will come off and
+- **The Order's belief (`LOCKED 2680`):** the Even Hand believes the sky will come off and
   trains one door for a lifetime to be standing when it does. Its Warden says what Annick
   saw, in Annick's images, to people the Order wants. The Halden house claims Annick's
   Ward patterns.
-- **The watch of seven (`PROPOSED`):** the Home Line's custom for the plate. A bearer
+- **The watch of seven (`LOCKED 2680`):** the Home Line's custom for the plate. A bearer
   names the next before the watch and says why, aloud; the watch witnesses and does not
   choose, and can recall the plate on a vote for cause said before it. It sits twice in
   Book One. The Ferren, its oldest officer, sat the watch in 2669.
-- **Lumb (`PROPOSED`):** the Ferren pump house keeper had the dream himself, forty years
+- **Lumb (`LOCKED 2680`):** the Ferren pump house keeper had the dream himself, forty years
   ago, and says so once.
 
 ## Filter and Glory horizon

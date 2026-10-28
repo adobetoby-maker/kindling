@@ -1,4 +1,4 @@
-# Movement 005 — The Regional Measure
+# Movement 005 — The Regional Gates
 
 - PWA book id: `kindling-2680-book-01`
 - Series id: `kindling-2680`
@@ -50,7 +50,7 @@ Jude Talley has been suggested as Seven's blade but not appointed on the page. N
 out until autumn; the night van is short a blade and a ward. Lowen is on a Home Line hold
 crew. Selka is a legitimate competitor with an unresolved objection, not a villain.
 
-The Regional Measure falls in the autumn. Use the elapsed weeks honestly: the remaining
+The Regional Gates fall in the autumn. Use the elapsed weeks honestly: the remaining
 crossings cannot be compressed inside Aske's one-per-week limit, and other people's
 placements continue while Kiva waits.
 
@@ -88,14 +88,14 @@ for Glory, safe alone, or able to repeat it casually. The disk and Unroofed Sky 
 no tactic. The permanent finger cost must follow a physically and causally legible
 choice, not arrive as bookkeeping after the win.
 
-The physical spine is a long Regional Measure rather than one duel. Let its bracket or
+The physical spine is the long Regional Gates tournament rather than one duel. Let its bracket or
 course alternate developed human combat, team Riftspawn response, rescue/extraction,
 and ashcraft or grid work. Keep positions, roles, scoring, ash limits, equipment,
 adaptation, fatigue, and audience/institutional consequences trackable. A human contest
 should teach something that later helps or misleads. Rival teams must remain competent;
 Lowen and Selka adapt, and Kellan's Halden commitments produce real tactical pressure.
 
-During the Measure, filter instability introduces a stronger Riftspawn variety or
+During the Regional Gates, filter instability introduces a stronger Riftspawn variety or
 interaction that no event designer ordered. It should follow understandable existing
 rules while exceeding expected strength, timing, or combination; do not solve it by
 simply making the last Flask larger. The event's safety assumptions fail. Rival teams

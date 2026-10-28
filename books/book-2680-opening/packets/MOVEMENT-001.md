@@ -60,7 +60,7 @@ is old and entrusted. She does not know its origin or complete history.
 
 The Meridian Compact includes the Crooked Line School, Stonehand Hall, Wren House,
 and the field-facing Home Line. The Meridian Collegiate Circuit ends in the Regional
-Measure and feeds licensed, salaried professional rift companies.
+Gates and feeds licensed, salaried professional rift companies.
 Regional wormhole stations are scheduled, expensive, and capacity-limited. There is
 no retinal status overlay: classification is done through physical rigs, projected
 tables, and accountable human rulings.

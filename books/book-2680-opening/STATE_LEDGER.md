@@ -80,7 +80,7 @@ file is then updated from the surviving prose.
 - Resilience/body college: **Stonehand Hall**.
 - Medical, Ward, Sustain, and ash-engineering college: **Wren House**.
 - Collegiate competition: **the Meridian Collegiate Circuit**; final regional
-  event: **the Regional Measure**. Events include individual Measures, team lanes,
+  event: **the Regional Gates**. Events include the singles, team lanes,
   ashcraft trials, rescue/extraction problems, and controlled Riftspawn engagements.
 - The collegiate curriculum includes a staged field license: contained spawn anatomy
   and kill drills, supervised Handful kills, live-rift recovery, then higher-yield team
@@ -305,7 +305,7 @@ what the prose shows is entered here.
   month, the Weighbridge the sixth; Movement Five runs from Sunday the 1st of the seventh to
   Monday the 26th of the ninth. Each still has thirty days. The watch sat on the 1st of the
   seventh; the Chair heard Selka Dray on the 2nd and all parties on the bag on the 3rd. The
-  Regional Measure was Friday the 16th and Saturday the 17th of the ninth month.
+  Regional Gates were Friday the 16th and Saturday the 17th of the ninth month.
 - **The six.** Complete. Four more crossings at 0.31 each (the 2nd, 10th, 17th and 24th of the
   seventh month; the second of them on the Circuit's Great Floor), one a week, the hand seen
   the next morning. The practice glass ran 0.94, 0.63, 0.32, 0.01; the hundredth went into the
@@ -355,7 +355,7 @@ what the prose shows is entered here.
   court, not ruled on. **New Circuit rules:** any catcher may red-tag a bag on stated grounds
   ("sufficient to withhold… not sufficient to prove"); no ash above I-trace on any Circuit
   floor; every Regional dram combed at the gate.
-- **The Regional Measure.** Sixteen fours, four boards, each marked by place (sixteen down to
+- **The Regional Gates.** Sixteen fours, four boards, each marked by place (sixteen down to
   one) and added. A lane carry scores three for the litter home and one for a down. Lane: Seven beat Old Four 8–7 and
   lost to Halden 8–6 (Kellan touched Kiva in the gap at the top of a declared crossing; a
   down; the crossing begun and not landed; not a stack; no incident; **an unlanded crossing still
@@ -510,7 +510,7 @@ the prose shows is entered here.
   Saltmere) all rise, and faster since the fifth month; the Chair has sent them to the Charter
   Board with Mr. Adlam second. One unvouched line says that a port overseas saw the same.
 - **The season.** Read. The Regional result stands, without brackets: 1. Halden License. 2.
-  Old Four. 3. Team Twenty-Eight. 4. T7. The first company goes to **the National Measure, at
+  Old Four. 3. Team Twenty-Eight. 4. T7. The first company goes to **the National Gates, at
   Saltmere, in the third month, 2681;** Selka Dray's mast rule goes with it under seal.
 - **Team Seven.** Second step in its own right. Book: **held 25.53; sealed medical (W) 0.8,**
   opened once, for Mara Rowan's hand (1.2 drawn, entered as medical). In this movement: 3.0 on
@@ -529,7 +529,7 @@ the prose shows is entered here.
   sluice," "the penstock," "the bar," "two to the bar"; "call the turn"; "a string laid on its
   side," "abreast," "paid out"; "an arm"; "a plank" for a corner leaned between still-doors;
   "starved" (a hand that ward-trace can ease) against "turned out" (one that it cannot); "the
-  *before* column"; "seated"; "the Charter Board"; "the National Measure."
+  *before* column"; "seated"; "the Charter Board"; "the National Gates."
 - **Names and pronouns introduced (author's choice, pending owner review).** Ansty (she;
   keeper of the School's core house); Lumb (he; keeper of the Ferren pump house); Ned (he; a
   fitter's boy); Officer Yeo of Saltmere (she); Mr. Garland and his bird Admiral; Bettony

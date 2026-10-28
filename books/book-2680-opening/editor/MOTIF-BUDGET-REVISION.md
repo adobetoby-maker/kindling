@@ -71,7 +71,7 @@ passing on, or preserving:
 ## 4. What carries the plot now
 
 Six things, none of them a document and none of them about keeping anything. Full text in
-`universe/SEED-2680.md` §6; all PROPOSED until the owner approves.
+`universe/SEED-2680.md` §6; LOCKED 2680 (owner approved 2026-10-28).
 
 1. **The post is a gate**, found by a drill, a float, and two hands on a bar.
 2. **Orla's debrief**: five questions asked aloud after a drill, as coaching. Mara's third
@@ -104,7 +104,7 @@ chalk (*T-0*).
 | 11 | Ch. 33, 36 | Thirza Bly's line; the watch reads the cost | **D** | No earlier bearer's warmth; no weekly visits. Kiva tells Vane once, after the Old Yard (Ch. 47): *I did not ask it anything. It did not do anything.* | Ch. 33, 36 |
 | 12 | Ch. 40 | Ysra's *Witnessed* page | **R** | Ysra comes to the mast and reads Kiva's next crossing with her own eyes, and says so at the Chair under her own name. She grants Dray's mast rule aloud with Dray's name on it. | Ch. 40 |
 | 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house for the Works, dropping a float at each manhole and watching for it at the next; above the School's gate, where the Works' plan shows the main running straight, the float never comes, and she cannot say where the main goes. No count: she watches for a float that does not arrive. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar; the screw turns until the bar comes up hard against its stop; the shaft answers with a sound the whole yard hears, and under Kiva's hands the water lies still; at the manhole below the gate Mara's reading hand feels the rise and fall stop. *It's a gate.* Stopgate. No Reader, no manual, no sheet, no pencil line, and no count: the gate is found by a call, a feel, a sound, and a float that does not arrive (§8). Mara's *"Two to the bar. Nine turns"* in Ch. 44 becomes *"Two to the bar. Run it home."* **Ch. 43 also, the half sheet (lines 39, 47, 203):** Mara's "paper under seal," "I've put it down so that it can be wrong in front of everybody," the half sheet under the brass weight, and "That's my half sheet" are cut. **Replacement:** Mara says the assumption aloud to the bench, so it can be wrong in front of everybody: *that the water moves because the pumps move it; stop the pumps and the main lies still; then a bank may be quenched and filled fresh.* Examiner Rusk owns it as the whole of the Works' plan if the fence fails. After the box: *There. That's what I said at the bench. Stop the pumps and the main lies still. It doesn't.* The wrong belief is Rusk's plan and Mara's own, spoken, and corrected by the test. | Ch. 42, 43 |
-| 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Ch. 48 hall scene (lines 5-161) as written:** more than seven in the watch room; River Flats' second motion; the roll; "write it where E.K. wrote the other"; the ledger turned so Kiva can see the line; the School answered "out of our own fourth edition"; the bursar's tenth edition and printer; Dray's request "fair-copied by a clerk"; the clerk's National Measure paper. **Direction:** this Thursday gathering is **not a sitting of the watch** (the watch sat in Ch. 32 and Ch. 33 and does not sit again). It is the Ferren, Vane, Orla, and Rhea at the hall. **Kept, one spoken moment:** the Ferren says to Kiva's face: *Rowan, K. Catcher. Hand as before. A Line foreman may call you at a line-hand's day rate, with your sponsor's leave.* No motion, no vote, no roll, no ledger. **Plate recognition (beat 7's cast):** the School's bursar brings the School's "plate" in its deal box; it is a plaster cast. The Reader, who has handled that cast for thirty years, lays it beside Kiva's and says it: a wider fifth ring, a flaw across the third; the School's is a cast taken by leave of a bearer; Kiva's is the plate of nine rings the first teachers carried, released by appointment. She says it; she does not produce an edition. **Cut:** every edition, printer, proof sheet, clerk's copy, and ledger. **Dray:** she says it to Kiva's face, on the Pit stair: the mast rule goes to Saltmere with her name on it; she objected twice and has not changed her mind; she would have seated her on the lid. **The result** is read on the boards, as it already is. **Ending (Old Yard):** Orla has fourteen juniors for the School's first dark run with the call since 2603; the junior with the plait says *Miss Dane says we're to run it. Dark. From the sheds* (cut "it's in the manual again"); Orla asks Kiva whether the juniors should be told why it leans; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior in the dark saying who has the bar (the drill's own call), not on anyone counting (§8). | Ch. 47, 48 |
+| 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Ch. 48 hall scene (lines 5-161) as written:** more than seven in the watch room; River Flats' second motion; the roll; "write it where E.K. wrote the other"; the ledger turned so Kiva can see the line; the School answered "out of our own fourth edition"; the bursar's tenth edition and printer; Dray's request "fair-copied by a clerk"; the clerk's National Gates paper. **Direction:** this Thursday gathering is **not a sitting of the watch** (the watch sat in Ch. 32 and Ch. 33 and does not sit again). It is the Ferren, Vane, Orla, and Rhea at the hall. **Kept, one spoken moment:** the Ferren says to Kiva's face: *Rowan, K. Catcher. Hand as before. A Line foreman may call you at a line-hand's day rate, with your sponsor's leave.* No motion, no vote, no roll, no ledger. **Plate recognition (beat 7's cast):** the School's bursar brings the School's "plate" in its deal box; it is a plaster cast. The Reader, who has handled that cast for thirty years, lays it beside Kiva's and says it: a wider fifth ring, a flaw across the third; the School's is a cast taken by leave of a bearer; Kiva's is the plate of nine rings the first teachers carried, released by appointment. She says it; she does not produce an edition. **Cut:** every edition, printer, proof sheet, clerk's copy, and ledger. **Dray:** she says it to Kiva's face, on the Pit stair: the mast rule goes to Saltmere with her name on it; she objected twice and has not changed her mind; she would have seated her on the lid. **The result** is read on the boards, as it already is. **Ending (Old Yard):** Orla has fourteen juniors for the School's first dark run with the call since 2603; the junior with the plait says *Miss Dane says we're to run it. Dark. From the sheds* (cut "it's in the manual again"); Orla asks Kiva whether the juniors should be told why it leans; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior in the dark saying who has the bar (the drill's own call), not on anyone counting (§8). | Ch. 47, 48 |
 
 Added beat, **Lumb (Ch. 47, lines 171-199 and 423-426 as written):** Lumb fetches the
 keeper's book for 2604 from the press; Mara's "T-0, four of them"; the calf page read under
@@ -182,6 +182,14 @@ head -1 prologue.md | grep -i "write it down"
 
 ## 7. For the owner
 
+**Status: Owner approved 2026-10-28 ("Go").** The owner approved all nine decisions: the
+five story calls below (the record-motif changes), and four counting changes from §8.6:
+Kiva's control by the call said aloud rather than counting; the book ending on a junior
+saying who has the bar; Rule Nine renumbered and Team Eleven renamed; and the tournament
+name, *the Gates*, as the editor recommended (the gate found by a float, §8.6 item 1, is
+the same decision as story call 3 here). The rest of this section is kept as written for
+the record.
+
 **The five story calls, in one paragraph.** Five things change in the story and nothing
 else does. (1) Annick's dream reaches Kiva through the Order of the Even Hand's Warden,
 who comes for her because the Order wants her for a year and says, as the Order's belief,
@@ -210,7 +218,7 @@ Confirmations:
    and 2680. The Order never does; it only states its belief.
 2. Movement 6 keeps the title *Why It Is Crooked*. Prologue working title *The Leaning
    Post*. Movement 4 working title *The Real Call*.
-3. All six devices in §4 are tagged PROPOSED in `UNIVERSE_BIBLE.md` until you approve them.
+3. All six devices in §4 were provisional in `UNIVERSE_BIBLE.md` until you approved them; they now read `LOCKED 2680`.
 4. Book Two (`book-2680-national-measure`) has the same motif in its manuscript (142
    write-down variants, 59 ledger, 60 notebook). Not in scope; its canon docs should be
    aligned to `universe/SEED-2680.md` in a parallel ticket before any prose pass.
@@ -223,7 +231,8 @@ Confirmations:
 > Owner: "look to remove counting as a motif." Decisions: "Only cut the tics" (keep the
 > power system's readouts as flavor: Hold, Draw, Call, rank figures like 3.1, the named
 > tiers and doors; cut counting as a theme and the repeated number refrains) and "Rename
-> (Recommended)" for the tournament (options in `NAME-OPTIONS.md`; not applied yet).
+> (Recommended)" for the tournament (options in `NAME-OPTIONS.md`). Owner approved the
+> editor's recommended name, *the Gates*, on 2026-10-28, and it is applied in canon.
 
 ### 8.1 Why: the counts
 
@@ -244,8 +253,8 @@ condition, or packet 001's craft note "prose that sounds counted"); nine 16 → 
 rings; the disk's nine grooves, twice), the rest the budget's own words; eleven 11 → 10,
 of which 6 are the eleven-snapshot prologue structure and the rest the budget; decimals
 50 → 53 (ash accounts, crossing prices, the Draw rule's 1.0, prose metrics, and the
-budget's "1.0 or 0.59" examples); measur* 45 → 25, of which 19 are the pending tournament
-name and the rest the budget; score 6 → 4 (three packet stop conditions, "do not review,
+budget's "1.0 or 0.59" examples); measur* 45 → 25, of which 19 were the tournament
+name (since renamed *the Gates*, 2026-10-28) and the rest the budget; score 6 → 4 (three packet stop conditions, "do not review,
 score, repair," and the banned list). This file's §8 and `NAME-OPTIONS.md` add about 270
 hits that are the instruction itself. `STATE_LEDGER.md` (59 decimals, 14 counts) and
 `AUTHORSHIP.md` were not edited: the ledger mirrors the accepted manuscript and is
@@ -373,4 +382,5 @@ Pit and the Old Yard become taking the *in* on the slack by feel and calling it.
 the one change that touches how two set pieces are fought (Ch. 39, Ch. 46). (3) The book
 ends on a junior saying who has the bar, not counting three for courage. (4) Rule Nine is
 renumbered and reworded at the prose pass; Team Eleven is renamed. The tournament's name
-is not changed here; three options are in `NAME-OPTIONS.md`.
+was not changed in pass 4; the owner picked *the Gates* on 2026-10-28 (three options are in
+`NAME-OPTIONS.md`), and ticket N1 applied it.

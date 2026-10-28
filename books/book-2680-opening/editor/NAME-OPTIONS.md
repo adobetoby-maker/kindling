@@ -1,15 +1,48 @@
 # Name options for the tournament (the "Measure")
 
-Date: 2026-10-27, ticket C2. Owner decision: "Rename (Recommended)." Nothing is renamed
-yet. Every "Measure" in the seed and canon stands as written, marked once as pending in
-`universe/SEED-2680.md` §5 (and the Book Two row of §9), so that a single find-and-replace
-applies the owner's pick. The words *measure, count, score, tally, reckoning, assay* are
-out, by the owner's ruling against counting as a motif.
+**Owner picked The Gates on 2026-10-28** (ticket N1, "Go"; the editor's recommended option 1).
+The rename is applied in the canon and seed (see "Applied" below). The text from "The three
+options" down is kept as the record of what was considered, and so still says "Measure."
 
-What is being named: the regional tier (**the Regional Measure**, the end of the Meridian
+Date: 2026-10-27, ticket C2. Owner decision: "Rename (Recommended)." The words *measure,
+count, score, tally, reckoning, assay* are out, by the owner's ruling against counting as a
+motif.
+
+What was named: the regional tier (**the Regional Measure**, the end of the Meridian
 Collegiate Circuit), the national tier (**the National Measure**, Saltmere, 2681), the
 individual events ("individual Measures"), the bare noun as people say it ("the Measure,"
 21 of the manuscript's 34 uses), and Book Two's working title ***The National Measure***.
+
+## Applied (ticket N1, 2026-10-28)
+
+Done on branch `feature/2680-gates`: `universe/SEED-2680.md` (§5, §8, §9, §12 glossary entry
+for the Gates tiers), `books/book-2680-opening/` `BOOK_MAP.md`, `SERIES_MAP.md`,
+`UNIVERSE_BIBLE.md`, `STATE_LEDGER.md`, `packets/MOVEMENT-001.md`, `-004.md`, `-005.md`, and
+`editor/MOTIF-BUDGET-REVISION.md`. The "pending owner pick" note is gone from seed §5.
+
+Wording chosen:
+
+| Was | Now |
+|---|---|
+| the Regional Measure | the Regional Gates |
+| the National Measure | the National Gates |
+| the Measure (bare, the tournament) | the Gates; in packets and canon docs the full tier name is used wherever a literal gate could be read (the School's gate, the Hold's gate, the sluice gate, a ward gate, Stopgate) |
+| individual Measures | the singles |
+| Book Two title *The National Measure* | *The Saltmere Gates* |
+
+Grammar: the Gates is a plural proper noun ("the Regional Gates were Friday and Saturday,"
+"the Regional Gates fall in the autumn"). Only the tournament is capitalised; an event is
+never "a Gates"; a literal gate stays lowercase and singular.
+
+**Not applied here, still to do as a separate ticket in the `kindling-2680-book-02` repo:**
+Book Two's canon docs (`books/book-2680-national-measure/` `BOOK_MAP.md`, `STATE_LEDGER.md`,
+`AUTHORSHIP.md`, `OWNER_BRIEF.md`, `SERIES_MAP.md`, `CHARACTERS.md`, `README.md`,
+`UNIVERSE_BIBLE.md`, `art/README.md`), its packets `MOVEMENT-001..006.md`, and the
+published title in `scripts/nm-breeze-audio.py` (`'title': 'The National Measure'`, plus its
+docstring, two commit messages and an error string) and the docstring of
+`scripts/nm-publish-pwa.py`. The folder name `book-2680-national-measure`, the slugs and the
+audio stems stay as they are (and `universe/ARCHIVE.md` line 50 still names the folder path).
+The manuscripts (Book One's 34 hits, Book Two's 69) are renamed at the prose pass.
 
 ## The three options
 
