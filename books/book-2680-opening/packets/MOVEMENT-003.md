@@ -20,14 +20,15 @@ lowest defensible place: provisional Third Division, Crooked Line third team, wi
 all of Ysra Crest's conditions still in force. Her cross-school field-license Team
 Seven stands seventeenth of thirty-one by its first clean yield. The Circuit board has
 moved the Flask qualifiers forward to the last week of the current month because the
-district has produced nine tears since the thaw and the unusually strong entering
+district has produced twice a usual spring's tears since the thaw and the unusually strong entering
 class supplies more candidates than expected. Team Seven has about three weeks.
 
 Kiva is certified for recovery only: dark hands, under a declared team call, with no
 door opened within three paces of open ash or a charged cell. She is not certified for
 Kill, Hold, Carry, or tuning. She can hold a single door through a four-minute carry,
-can move through her three-door drill in 8.4 seconds without watching the metal home,
-and can keep all three doors shut under fear by calling a number. She has felt a clean
+can move through her three-door drill in about eight seconds without watching the metal home,
+and can keep all three doors shut under fear by calling the thread cold aloud (the call is
+the readout; she does not count to steady herself). She has felt a clean
 handoff across two people but has never attempted or completed a deliberate two-door
 sequence. The Satori disk is cold.
 
@@ -43,7 +44,7 @@ him in the rival role. Team Seven owns 1.4 drams of purchased Kennel-floor work 
 new catch kit; its 1.0 dram W-trace medical reserve stays sealed unless a true medical
 need justifies it. Kellan chose Team Seven over transfer, Anwen has begun a Graywater
 shadow rotation, Perrin's cracked ribs cost him the load plate, and Noa now takes
-sanctioned measurements under Kiva's monthly consent.
+sanctioned mast readings under Kiva's monthly consent.
 
 Read Chapter Sixteen and the full Movement Two continuity checkpoint closely. Carry
 every injury, date, certification, instrument reading, ash share, relationship, and
@@ -61,7 +62,7 @@ choices rather than making them extensions of Kiva.
 Develop Kiva's first deliberate two-door work across failed attempts. The problem is a
 sequence, not a stack: one owned piece of work must finish into the next without both
 doors being held at once, without spilling the pattern, and without using the disk as a
-teacher. Let body position, breath, count, ash expenditure, recovery, and the feel of the
+teacher. Let body position, breath, ash expenditure, recovery, and the feel of the
 across-people handoff matter. Failure should cost time, opportunity, confidence, fuel,
 or safety, not merely produce a red number. Orla must remain accountable and unwilling
 to certify what she has not witnessed.
@@ -86,7 +87,7 @@ strong merely because the scene needs a climax.
 During the live response, let Kiva's first correct deliberate two-door sequence work
 briefly for one bounded task she has trained toward. It should arise from demonstrated
 single-door discipline and the handoff principle, not panic unlocking a new level. The
-sequence has a measurable bodily and ash cost, cannot be held indefinitely, and does not
+sequence has a bodily and ash cost the page can see, cannot be held indefinitely, and does not
 grant a new rank. Only after the correct sequence finishes may the disk warm. The disk
 does not speak, instruct, map the rift, or solve the threat.
 
@@ -121,7 +122,7 @@ Line's watch, and the professionals who have seen this before.
 - Mara's Works hearing before Examiner Rusk occurs on the ninth and must have a concrete,
   proportionate outcome. Her right-palm numbness and left-hand adaptation remain true.
 - Anwen's Graywater placement, Perrin's Stonehand advancement and ribs, Kellan's chosen
-  loyalty and legitimate First Division excellence, Noa's consent-bound measurements,
+  loyalty and legitimate First Division excellence, Noa's consent-bound mast readings,
   and the Crooked Line third team's five remaining meets continue independently.
 - Team Seven's ash accounts stay exact. The W-trace medical reserve is not ordinary
   training fuel. Every spend, yield, public share, and investment is reconciled.

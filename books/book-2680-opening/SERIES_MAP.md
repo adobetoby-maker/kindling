@@ -13,7 +13,7 @@ defend—and power—the rebuilt world.
 
 ## Repeating pleasures
 
-- Collegiate teams, visible practice, measurable correction, rematches, standings,
+- Collegiate teams, visible practice, visible correction, rematches, standings,
   recruitment, and earned rank change.
 - Discipline and military-school training: students drill against one another, learn
   spawn anatomy and kill mechanics, graduate through live-rift licenses, and carry
@@ -25,7 +25,7 @@ defend—and power—the rebuilt world.
   Nobody reads the answer out of a book (motif budget, `BOOK_MAP.md` §8).
 - Rift-response set pieces where teamwork and terrain matter more than raw output.
 - Professional rift fighting where rescue, closure, infrastructure, and clean ash
-  recovery matter more than kill count.
+  recovery matter more than kills.
 - The earned-ash loop: train, fight, kill, contain, recover, grade, divide, invest,
   and return stronger. The soul must still learn; ash buys the next attempt rather
   than acting as automatic experience.

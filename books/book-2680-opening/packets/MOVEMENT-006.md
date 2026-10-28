@@ -28,7 +28,7 @@ teaching her to name the handoff before she fumbles. No victory, new rank, ash, 
 or last-chapter miracle may restore that sensation.
 
 The Pit emergency produced a held four-post spawn square around a tear, stepped ash, the
-second T-0 on the dead ring, and sixteen simultaneous pen notches eleven seconds after
+second T-0 on the dead ring, and sixteen simultaneous pen notches about a dozen seconds after
 Kiva's second cliff. The hold was not designed for the competition. No one knows why it
 formed or why every lamp and pen answered. Kiva's public action was a bounded sequence
 under a struck floor and written field direction, with the price read first. Students
@@ -37,11 +37,11 @@ closed the tear. Keep that division of responsibility honest.
 
 The immediate civic threat is already on the page. The Ferren pump bank—twenty-four
 municipal cells—fell into step during the Pit hold and has remained one coupled engine
-for nine days. The pumps still run. The low streets are dry. That apparent success is
+since. The pumps still run. The low streets are dry. That apparent success is
 dangerous because one drifting or fouled cell can now take the whole bank with it. The
 Step is walking the Brickfields trunk through open links at about one drum every two
-days: drums nineteen, twenty, and twenty-one are already coupled, with nine remaining
-before the Crooked Line School's core house. Nobody knows how to take a bank out of
+days: drums nineteen, twenty, and twenty-one are already coupled, and at that pace the
+Crooked Line School's core house is eighteen days off. Nobody knows how to take a bank out of
 step. The Home Line has suspended licensing of held tears. Bells at mast five, the
 weigh-house, and the weir have already begun.
 
@@ -67,13 +67,18 @@ meaning of the Unroofed Sky.
 The post is found out by a drill, a float, and two hands on a bar, not by a manual or a
 sheet. Kiva has stood on the cross in the still door all summer and felt nothing but
 ground; she thinks the post leans *toward* something. Mara, walking the Ferren main uphill
-with a float and a count for the Works, has the count go wrong at the School's gate. Vane
+from the pump house for the Works, drops a float at each manhole and watches for it at the
+next; above the School's gate, where the Works' plan shows the main running straight, the
+float never comes, and she cannot say where the main goes. Vane
 runs Seven dark through the Old Yard lane as a Home Line drill whose call is *call the
 turn before the eighth; say who has the bar*; Perrin takes the bar because the call says
 so and asks why the post leans, and Vane says *because the road isn't straight*. Kiva,
-planted at the ninth, feels water move under it. Two to the bar, the screw turns, nine
-turns, the shaft answers, Mara's count drops. *It's a gate.* (`editor/MOTIF-BUDGET-REVISION.md`
-§5, beat 13.)
+planted at the ninth, feels water move under it. Two to the bar; the screw turns until the
+bar comes up hard against its stop; the shaft answers with a sound the whole yard hears,
+and under Kiva's hands the water lies still; at the manhole below the gate Mara's reading
+hand feels the rise and fall stop. *It's a gate.* Nobody counts anything: the gate is found
+by a call, a feel, a sound, and a float that does not arrive
+(`editor/MOTIF-BUDGET-REVISION.md` §5, beat 13, and §8).
 
 ## What this movement is for
 
@@ -92,7 +97,7 @@ known anatomy—breath, posts or load paths, hem, cord, tear, closure, ash grade
 containment—while combining or redirecting those rules in a way the trained teams can
 learn and fight. Its behavior must arise from the coupled ash grid and the unstable
 boundary, not from a villain pressing a switch. Human potential and spawn strength are
-both measurably exceeding recent records; characters may establish correlation and
+both exceeding recent records on the mast and in the field; characters may establish correlation and
 acceleration, not final cause.
 
 The students and professionals need time to prepare. Use developed scenes rather than
@@ -112,7 +117,7 @@ boundary long enough for the response to work; it does not kill everything, clos
 tear, solve the grid, or turn her into a Glory master. Professionals own professional
 closure. Kellan, Anwen, Perrin, Pru, Jude, Noa, Selka, Lowen, Rhea, Mara, Orla, Pike,
 Vane, and the relevant workers must own developed tasks that cannot be replaced by
-Kiva: kill, wall, carry, rescue, measurement, shutdown, communication, triage, clean
+Kiva: kill, wall, carry, rescue, mast reading, shutdown, communication, triage, clean
 capture, or the decision not to spend ash. Rival competence matters.
 
 Let the crisis force a real ash decision. The sealed 2.0 medical reserve is not casual
@@ -160,7 +165,8 @@ Close the regional season and book with these earned developments:
 - The School runs its lane dark with the call again; Orla has fourteen juniors in the
   Old Yard. Orla asks Kiva whether the juniors should be told why it leans; Kiva has her
   speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then
-  she asks for help with her cuff.
+  she asks for help with her cuff. The book ends on a junior in the dark saying who has
+  the bar, not on anyone counting.
 - The Thursday gathering at the Home Line hall is not a sitting of the watch. The Ferren
   says to Kiva's face that the Line will call her as catcher at a line-hand's day rate,
   *hand as before*; the Reader lays the School's plaster cast beside Kiva's plate and says
@@ -181,7 +187,7 @@ energy-industry pressure, stronger rift work, competing schools of the doors, an
 first time the dreamers are put in one room. Book Three widens internationally:
 rival grids and nations, Glory-level users, stronger and stranger spawn, and the need
 for cooperation as the filter destabilizes. Plant concrete invitations, notices,
-measurements, or witnesses that make those expansions inevitable. Do not leave named
+readings, or witnesses that make those expansions inevitable. Do not leave named
 characters merely announcing the sequel.
 
 The longer 2680 series arc includes ash replacing earlier energy systems, ash-nuclear
@@ -194,7 +200,7 @@ Do not compress that ladder into this ending.
 The recurring fever material is a shared, fallible set of accounts—not a trustworthy prophecy.
 Across later books it drives Glory users toward one another and toward the eventual
 complete loss of the planetary filter and enduring pure Glory presence. This movement
-may add one measured historical echo, one changed instrument reading, and one reason
+may add one historical echo, one changed instrument reading, and one reason
 to compare accounts. It may not reveal the final event, identify a savior, or settle
 whether the figures cause or answer the loss.
 
@@ -220,9 +226,10 @@ whether the figures cause or answer the loss.
   protect lawful interests without becoming villains.
 - Team and civic ash accounts stay exact. No free practice fuel, duplicate yield, erased
   contamination, or unopened medical reserve used by implication.
-- Keep the accepted Movement Five clock and map: a hundred counts per knot; the Pit
-  corner eighteen paces from Kiva; the bound carried four paces east; all of Dray but
-  the pinned left leg south of the line; the notch eleven seconds after the second cliff.
+- Keep the accepted Movement Five clock and map: a knot rising about every minute and a
+  half; the Pit corner eighteen paces from Kiva; the bound carried four paces east; all of
+  Dray but the pinned left leg south of the line; the notch about a dozen seconds after
+  the second cliff. Nobody counts these aloud; time in the fight is breaths and paces.
 - Preserve differentiated dialogue, listener-oriented proper nouns, narration-ready
   punctuation, one-pass physical clarity, warmth, humor, and full action scenes.
 - Do not add a sixth major secondary lens merely to distribute screen time. Purposeful

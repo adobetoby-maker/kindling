@@ -45,7 +45,7 @@ the scenes. Kiva cannot enter live work until Orla has evidence sufficient to si
 
 The movement should include a developed supervised Handful-yield kill and clean
 recovery. The team receives its first small ash share after civic and casualty
-shares. Ash is measured by yield, grade, and resonance. The team must choose whether
+shares. Ash is described by yield, grade, and resonance. The team must choose whether
 to spend, save, or return part of its share for training cells, permitted combat ash,
 equipment, travel, or medical reserve. Killing does not automatically raise rank;
 the usable gain is the correction they can reproduce and the ash that funds the next
@@ -55,8 +55,9 @@ Then deliver the first sanctioned collegiate meet. Human opponents remember, fei
 adapt, and exploit habits the spawn drills created. Give the school-versus-school
 combat developed tactical length. A useful team loss should prove that access is not
 control while still producing a visible, earned improvement. Noa Bexley begins
-measuring Kiva's output, Draw, recovery efficiency, and door behavior at the mast because the
-numbers do not fit the one-door model.
+reading Kiva's Draw, recovery, and door behavior off the mast afterward, because what
+the tape shows does not fit the one-door model. He reads after, never during, and the
+readings are flavor and evidence, not a scene's texture.
 
 Seed the coupled escalation without explaining it: this student cohort is stronger
 than any recent season, and the contained/live spawn season shows a small but
@@ -82,8 +83,8 @@ both.
 - Do not identify the cause of the Fall, prove the filter theory, explain the disk,
   name the Makers, or turn the Unroofed Sky into tactical guidance.
 - Professional and collegiate standings value rescue, closure, infrastructure,
-  clean ash, and violations as well as kills. Do not make kill count meaningless;
-  do not make it the only score.
+  clean ash, and violations as well as kills. Do not make kills meaningless;
+  do not make them the only thing standings reward.
 - Preserve clear spatial action, developed fights, narration-ready punctuation, and
   the O'Connor numerical craft targets. Do not fall into uniform one-line sentences.
 
@@ -105,7 +106,7 @@ the spawn and the human opponents to make the students revise it.
 By Chapter Sixteen, Kiva retains her roster place after a useful sanctioned loss;
 Team Seven has killed and cleanly recovered its first live Handful, owns a small ash
 share, and has made a consequential choice about it. Anwen's field-placement path has
-moved independently. Noa holds measurements that the institution cannot dismiss.
+moved independently. Noa holds mast readings that the institution cannot dismiss.
 The reader has seen why school combat and Riftspawn combat teach different things,
 and has one concrete sign that both the student ceiling and the spawn season are
 rising. Movement Three opens with the circuit accelerating toward a live Flask-level

@@ -29,8 +29,8 @@ This file does not silently promote the older storyboard's claims.
 - Satori is both realization and the disk name. The disk's true origin is never
   explained in-manuscript.
 - Riftspawn expressions echo worked powers without a person home to direct them.
-- The filter may be failing, but characters distinguish measurement, theory, myth,
-  and proof.
+- The filter may be failing, but characters distinguish a reading, a theory, a myth,
+  and a proof.
 
 ## Combat progression, Riftspawn, and earned ash (`LOCKED 2680`)
 
@@ -57,17 +57,20 @@ economy. It should be experienced repeatedly on the page rather than explained o
    student attempt more difficult work, but cannot purchase judgment or replace what
    the soul has learned.
 
-This produces two linked scoreboards: personal capability (rank, Hold, Draw, control,
+This produces two linked ladders: personal capability (rank, Hold, Draw, control,
 and Call) and team yield (clean ash recovered after rescue, closure, and public shares).
-Kill count alone is an immature metric and a persistent source of institutional abuse,
+Kills alone say little and are a persistent source of institutional abuse,
 but kills and usable ash must remain materially important to students and companies.
+The readouts are system flavor, said where a character would say them; nobody counts,
+times, or tallies as a habit, and no scene is settled by a figure
+(`universe/SEED-2680.md` §11).
 
 **Draw** is efficiency: ash spent on a defined piece of work divided by the governing
 book or bench expectation. `1.0` is standard and lower is more efficient. The expected
-cost is task-specific; the accepted book figure for a contested four-minute hold is
-twelve hundredths of a dram, so eleven hundredths and a hair reads as `0.93`.
+cost is task-specific (a contested four-minute hold has a book figure of twelve
+hundredths of a dram).
 
-Recovered ash has three separate measurements. **Yield** is quantity on the
+Recovered ash is described three ways. **Yield** is quantity on the
 Handful -> Flask -> Barrel -> Well ladder. **Grade** is purity and stability;
 fraudulently stamped ash can kill an operator even when the quantity is correct.
 **Resonance** is the defeated spawn's expression and therefore which training,
@@ -150,7 +153,7 @@ and to kill spawn without losing the ash, their team, or the civilians behind th
 
 The collegiate system feeds **chartered rift companies**: professional salaried teams
 licensed to answer live rifts, fight Riftspawn, rescue civilians, protect
-infrastructure, and recover clean ash. Public standings count closure, lives saved,
+infrastructure, and recover clean ash. Public standings reward closure, lives saved,
 damage prevented, usable ash, and violations. Home Line remains the professional
 arm most suspicious of spectacle and most insistent that the cost be said aloud, at the
 cart, before anyone goes home.
@@ -165,7 +168,7 @@ across these institutions rather than requiring a fourth founder cult.
 - A rebuilt network connects established regional wormhole stations on schedules.
   Transit is costly, capacity-limited, and vulnerable to rift conditions.
 - Interplanetary/intergalactic normality is not part of the opening book.
-- Classification instruments measure door behavior through physical rigs, projected
+- Classification instruments read door behavior through physical rigs, projected
   tables, and accountable human rulings. There is no retinal HUD or private status
   overlay.
 
@@ -217,7 +220,7 @@ Home Line, then compounded for more than four hundred years.
 2. **Radiation return:** Sustain-trained Kindled learned to remove active radiation
    burden from living workers while medicine treated exposure and fixed damage.
    They could enter zones ordinary crews could not, bring out components and the
-   plants' own drawings, and work in short, measured rotations. This never made
+   plants' own drawings, and work in short, timed rotations. This never made
    radiation harmless or
    reversed tissue already destroyed.
 3. **Nuclear recovery:** engineers combined ordinary shielding, remote machinery,
@@ -227,7 +230,7 @@ Home Line, then compounded for more than four hundred years.
    human access—not a quiet rewrite of the old power rules.
 4. **Tamar Vey's question:** an itinerant Home Line teacher and storyteller visits
    an early recovery workshop whose engineers keep trying to make ash burn longer.
-   With an ordinary bowl, a conductor, a measured pinch of ash, and a short-held
+   With an ordinary bowl, a conductor, a pinch of ash, and a short-held
    pattern, Tamar demonstrates that ash can preserve an instruction after the
    operator releases it. The lesson is conceptual: the reactor's fire already knows
    how to make heat; perhaps ash should hold the rules around the fire. Tamar does
@@ -289,7 +292,7 @@ the generations who test, fail, and build after him.
 ## Filter and Glory horizon
 
 The filter's failure remains a theory supported by increasingly abnormal rifts and
-generation-scale measurements. Book One proves acceleration, not cosmology. If the
+generation-scale readings. Book One proves acceleration, not cosmology. If the
 2680 trilogy later reaches full integration, Glory becomes minimum viable contact
 with the larger realm rather than a final victory. Populated worlds and the next
 ladder remain `HORIZON` until the owner approves their concrete form.
@@ -307,6 +310,14 @@ ladder remain `HORIZON` until the owner approves their concrete form.
   records matter; and no scene's point is that something was kept, passed on, or handed
   down. What the plot needs happens as story (`BOOK_MAP.md` §8; `universe/SEED-2680.md`
   §6).
+- Readouts are flavor; counting is not a motif. Owner ruling, 2026-10-27: *"look to remove
+  counting as a motif"*, *"only cut the tics."* Hold, Draw, Call, rank, Grade, and yield
+  class stay as the system's vocabulary, said where a character would say them. No
+  character counts as a trait, a comfort, or a method of control; nobody "keeps the
+  count"; time in a fight is not given in "counts"; no beat is resolved by a tally, a
+  timing, a reading, or a sum; no number word (*nine*, *eleven*) recurs as a refrain. The
+  post is a gate found by a call, a feel, a sound, and a float that does not arrive, not by
+  a count (`universe/SEED-2680.md` §6.1, §11).
 - Do not copy source-novel names, terminology, scene order, signature dialogue, or
   character analogs from the research.
 - Every climax capability must be demonstrated and priced earlier.

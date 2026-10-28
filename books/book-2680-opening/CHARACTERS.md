@@ -16,10 +16,14 @@ delegated the remaining names.
 | **Hollis Vane** | Chartered Home Line professional outside collegiate status games | Wants capable people on real rifts and distrusts spectacle without field judgment | Reveals the difference between competition competence and professional survival |
 | **Mara Rowan** | Kiva's aunt and guardian; reads and tunes the city's ash banks for the Municipal Works; her left hand is her reading hand | Wants Kiva safe without owning her choice | Accepts the risk only after Kiva demonstrates honest limits |
 
-No continuing character has a trait, theme, or turn that hangs on keeping records.
-Archivists, readers, clerks, and keepers exist as jobs (the Compact Library's Reader,
-the Ferren pump house's keeper, a bursar's clerk); nobody narrates why records matter.
-The full cast with wants and flaws is in `universe/SEED-2680.md`.
+No continuing character has a trait, theme, or turn that hangs on keeping records, or on
+counting. Archivists, readers, clerks, and keepers exist as jobs (the Compact Library's
+Reader, the Ferren pump house's keeper, a bursar's clerk); nobody narrates why records
+matter. Mara reads and tunes banks by hand, and Noa reads a mast after the fact; those are
+jobs, not motifs. Nobody counts as a habit, a comfort, or a method of control; nobody
+"keeps the count"; nobody is admired for counting; Kiva's control is the call said aloud
+and the feel of the door, not a number in her mouth (`universe/SEED-2680.md` §11). The full
+cast with wants and flaws is in `universe/SEED-2680.md`.
 
 ## Name and narration checks
 

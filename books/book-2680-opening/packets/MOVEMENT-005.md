@@ -17,8 +17,8 @@ chapters 25–32 and `provenance/MOVEMENT-004-CONTINUITY.md` completely before d
 the repaired prose governs. Do not restore anything from the frozen edition.
 
 Kiva has two of Orla's required six sanctioned crossings. The four completed goes were:
-a called *off* at 0.03, a counted crossing at 0.30, a soft 0.11 stack that Noa correctly
-called a miss, and a second counted crossing at 0.31. The team has 1.25 drams left—four
+a called *off* at 0.03, a crossing that stood at 0.30, a soft 0.11 stack that Noa correctly
+called a miss, and a second crossing that stood at 0.31. The team has 1.25 drams left—four
 crossings and one hundredth, no miss in the glass. Aske allows no go before Monday the
 2nd and only one a week afterward, with the hand examined the next morning. Her knee is
 passed for landings but remains supported. Her first two left fingers report slowly and
@@ -59,7 +59,7 @@ placements continue while Kiva waits.
 Bring ownership, proof, sponsorship, and collegiate competition into the same physical
 story. Resolve or materially advance the watch, objection, Chair, patent, district, and
 Order pressures early enough that they change who may enter, what equipment and ash may
-be used, whose evidence counts, and who stands beside whom at the Regional. Do not spend
+be used, whose evidence is admitted, and who stands beside whom at the Regional. Do not spend
 eight chapters in hearings. Every institutional result must alter a relationship, a
 training choice, an eligibility condition, an ash account, or a field decision.
 
@@ -75,7 +75,7 @@ cannot witness necessary action.
 Complete the four remaining sanctioned crossings at no more than one per week. A
 familiar successful step may compress, but any changed problem must expand. Reconcile
 every 0.31 spend and the remaining hundredth. Show the hand after each go. The sixth
-counted crossing proves repeatability under Orla's terms; it does not certify mastery,
+crossing proves repeatability under Orla's terms; it does not certify mastery,
 explain the expensive gap, or make the stack correct. Before any three-door work, state
 the difference among a deliberate sequence, a simultaneous stack, and an uncontrolled
 competition of doors.
@@ -118,7 +118,7 @@ serving as the book's final climax.
   supplies ownerless fuel. Ash cannot purchase judgment or automatic experience.
 - Draw is spent ash divided by the governing expectation. Rank, Hold, Draw, Call,
   control, yield, grade, resonance, licensing, and standings remain separate.
-- Kiva begins with two sanctioned crossings counted, two not counted, 1.25 drams in
+- Kiva begins with two sanctioned crossings that stood, two that did not, 1.25 drams in
   the glass, and a one-go-per-week medical limit. Do not create free practice ash or
   skip the next-morning hand checks.
 - A crossing includes the expensive empty gap. The 0.11 stack is a miss, not a superior
@@ -139,8 +139,9 @@ serving as the book's final climax.
   Every Regional allocation, spend, loss, share, and return is reconciled.
 - Lowen and Selka are adaptive legitimate rivals. No institution is made evil merely
   because it has a lawful claim or safety objection.
-- Use the supported eleven-or-twelve-second Pit interval. If Kiva's old forty-second
-  line is confronted, amend it on the page rather than silently changing chapters 1–24.
+- Use the supported Pit interval (the notch about a dozen seconds after the cliff). If
+  Kiva's old forty-second line is confronted, amend it on the page rather than silently
+  changing chapters 1–24. Nobody counts the interval aloud; it is read off the tape after.
 - Preserve differentiated dialogue: younger characters plain and quick; Pike, Nairn,
   and Rhea operationally brief; formal/period idiom concentrated in elders, wardens,
   and institutional voices. Preserve narration-ready punctuation and listener-oriented

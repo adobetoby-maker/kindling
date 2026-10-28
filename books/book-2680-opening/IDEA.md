@@ -52,7 +52,7 @@ lecture. It makes
 the visible EMP and social consequences understandable while preserving the unknown
 source of the detonations and the reserved filter cosmology.
 
-The prologue receives its own plan in `PROLOGUE_PLAN.md`. It does not count as one
+The prologue receives its own plan in `PROLOGUE_PLAN.md`. It is not one
 of the six eight-chapter movements, and no prose is authorized yet.
 
 ## Relationship to Kindled
@@ -95,7 +95,7 @@ Kindled bibles are archive (`universe/ARCHIVE.md`); the seed governs.
   ash; ash provides finite fuel. At Glory, rare masters can sustain industrial-scale
   patterns, creating both titans of industry and monastic school lineages.
 - Nuclear-ash synthesis emerged after Sustain-trained workers could enter radiation
-  zones in measured rotations. Factory-built compact reactors now power homes and
+  zones in short timed rotations. Factory-built compact reactors now power homes and
   institutions; ash-electric flight and advanced equipment are normal but metered.
 - The complete loss of the planetary filter and arrival of pure Glory presence are
   fixed for Book Three. The Unroofed Sky predicts the convergence, not its moral

@@ -14,7 +14,7 @@
 
 Movement Three closes on Sunday the third of the new month. Kiva has completed one
 correct deliberate two-door sequence, Stride into stance, under Hollis Vane's field
-direction and outside her recovery-only certificate. It lasted about nine seconds,
+direction and outside her recovery-only certificate. It lasted a few seconds,
 spent 0.31 dram at a Draw near twelve, left her nose bleeding and arm slack, and has
 not been repeated. Orla will sign nothing until she witnesses six sanctioned successes.
 Team Seven funded those six tries under three written conditions: a sanctioned mast,
@@ -76,7 +76,7 @@ The movement's physical spine is a supervised professional shadow shift that bec
 a real multi-type Riftspawn call. Use a district whose people and infrastructure matter,
 not a spectacle floor. Introduce several comprehensible spawn expressions whose
 interaction creates the danger; do not merely enlarge the Pit string. Collegiate habits
-should initially fail because students optimize for score, fixed lanes, or a single
+should initially fail because students optimize for the boards, fixed lanes, or a single
 opponent. They recover only when roles, calls, handoffs, aborts, rescue, closure,
 kill, and clean recovery are declared again. Professionals retain the work beyond the
 students' license. Give the response developed tactical space, clear terrain, starting
@@ -122,7 +122,7 @@ and the Regional Measure—not replace that conflict with an answer.
 - Team Seven's accounts stay exact. The sealed W-trace medical reserve is not training
   fuel. Every new spend, yield, share, return, and investment is reconciled.
 - Kiva has kept the dream from the team. Noa knows only what the keeper and his own
-  measurements gave him. Nobody silently acquires another person's knowledge.
+  mast readings gave him. Nobody silently acquires another person's knowledge.
 - The 10:24:40 pattern remains unexplained. The Flask string is the last new mechanics-
   heavy spawn expression introduced at that weight; this movement's multi-type call
   should deepen established rules through interaction rather than open a new textbook.
