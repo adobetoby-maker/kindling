@@ -26,8 +26,6 @@ If Kiva quenched now, the winch would let go of the shutter, and four hundred ki
 
 "Then you've got whatever you've got," said Anwen. "I'm not leaving it."
 
-Eight and three.
-
 The chute clanged for the fourth time, and Kiva turned her head.
 
 Three husks poured out of the hatch onto the concrete. They came out faster than any of the others, and they did not stop to find their shape. They found it as they moved, grey and heavy, pulling themselves into legs as they ran. Two went along the south wall toward the stair, toward Kellan, who was standing on the fourth step with his blade lit and his back to her.
@@ -180,10 +178,6 @@ She had not said it would call them. Nobody had ever said a cell could do that. 
 
 She had been right.
 
-She had been right about the clock, too. *Under two minutes. Seventy seconds. Fifty.* He had heard every figure she called, and he had checked them, without meaning to, against the meter whenever he glanced up. She had been right every time, to the tenth.
-
-His mother would have liked her readings.
-
 The husk shoved, and he held it on the blade. He had two choices and he could see both of them clearly, the way he saw everything clearly when it mattered.
 
 He could finish this husk. He could turn it, free the blade, put it through the knot of the thing, and then finish whatever came up next. That would be two kills on a stair, clean, with the gallery watching, and Graywater in the good chairs. That was his role. Spawn. He had declared it.
@@ -192,9 +186,7 @@ Or he could leave it.
 
 He could leave a live husk on the stair behind him, break off, and get to the quench. He could do the thing he had not declared, because the girl who had broken her own call twice already was shouting at him from the floor that it was the only thing that would work.
 
-He did not trust people. He trusted readings.
-
-Her readings had been right all run.
+He had spent three years trusting boards over people. But he had watched her go over a rail for a boy who could not move. She was standing a husk off him now with two doors jammed and her arm torn open, and she was still shouting the one thing that would help, at the one person who could do it.
 
 He made the decision. He did not like it. He made it anyway.
 
@@ -404,7 +396,7 @@ She had not called it.
 
 Kellan came and stood in front of them. He had ash down one side of his face and a long scrape on his right knee where it had hit the edge of the mezzanine. He read the board, and then he turned to Kiva.
 
-"You said no doors," he said. His voice was quiet, and more careful than angry. "In the corridor. And the clerk said it back."
+"You said no doors," he said. His voice was quiet, and more careful than angry. "In the corridor."
 
 "I know."
 
@@ -412,7 +404,7 @@ Kellan came and stood in front of them. He had ash down one side of his face and
 
 Kiva did not say anything. There was nothing to say. He was right.
 
-"And every call you made was right," said Kellan. "Including the last one, from the floor." He stopped, and his eyes went back to the board, to his own name next to the word *Quench*. "I've got one reading that says you broke the run and another that says I'd have been wrong without you. They don't add. I don't know what to do with that."
+"And then you told me the one thing that worked, from under a husk." He stopped, and his eyes went back to the board, to his own name next to the word *Quench*. "You broke the run. And I'd have been wrong without you. Both of those happened, and I was there for both. I don't know what to do with that."
 
 "Neither do I," said Kiva.
 

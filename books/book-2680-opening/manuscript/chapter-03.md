@@ -268,7 +268,7 @@ Then she stood in the dark yard with her hands at her sides, and her chest did n
 
 Perrin whistled. "That's a long time."
 
-"It's a very long time," said Orla. "Kellan Renn would cut you in half three times in fourteen seconds. Any Riftspawn bigger than a Handful would walk through you. You'd fail every timed lane in the Circuit." Her face, across the lamp-lit yard, was very still. "And it's the first time in four years I've seen you go through all three doors without a single line lighting."
+"It's a very long time," said Orla. "Kellan Renn would cut you in half three times in that. Any Riftspawn bigger than a Handful would walk through you. You'd fail every timed lane in the Circuit." Her face, across the lamp-lit yard, was very still. "And it's the first time in four years I've seen you go through all three doors without a single line lighting."
 
 Kiva had not realized it until Orla said it. She put her hand to her chest, where the lines lay under her shirt, quiet and cool.
 
@@ -302,7 +302,7 @@ Kiva turned her left arm to the lamp. There was a pink patch on the skin where t
 
 "Second go?"
 
-"I waited. A whole breath in every gap. Nothing lit." She made a face. "Fourteen seconds."
+"I waited. A whole breath in every gap. Nothing lit." She made a face. "Too slow."
 
 "Why?"
 
@@ -368,7 +368,7 @@ They had suspended her sponsoring standing for ten years. She had had it back fo
 
 She thought about that, and about the girl who had stood in this yard tonight and gone through all three doors without a single line lighting.
 
-Fourteen seconds was nothing. It was a beginner's figure, a figure to be ashamed of in any sanctioned lane. And Orla had sat on this crate and watched it and felt something rise in her chest that she had not felt in twenty-one years.
+That time was nothing. It was a beginner's time, the kind to be ashamed of in any sanctioned lane. And Orla had sat on this crate and watched it and felt something rise in her chest that she had not felt in twenty-one years.
 
 She knew what it was. It was the same thing she had felt about Jessamy.
 

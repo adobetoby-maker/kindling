@@ -104,7 +104,7 @@ Ysra Crest briefed them herself.
 
 She came into the corridor at two o'clock with a clipboard and stood in front of Team Seven while the others waited at the far end, and she took a moment over each of their faces in turn.
 
-"You've watched it," she said. "So I'll be brief. Four objectives. One. The casualty is pinned in the pump room. Get it free and over the green line. The standard is four minutes from the Gate. Two. The cell is running at evening peak and it has a fault in it. I won't tell you what. Bring it to a safe state, either by stable tune or by controlled shutdown. Controlled means you call it and you pull the quench yourself. If the cell goes into red and trips its own breaker, that is uncontrolled. Uncontrolled is a fail on objective two." She turned a page. "Three. Contain the spawn. The chute opens four times. No husk reaches the casualty. No husk crosses the green line. Four. Call. Declared roles, said aloud to the Gate clerk before you start. Any change of role is called before you make it, loud enough for the booth."
+"You've watched it," she said. "So I'll be brief. Four objectives. One. The casualty is pinned in the pump room. Get it free and over the green line. The standard is four minutes from the Gate. Two. The cell is running at evening peak and it has a fault in it. I won't tell you what. Bring it to a safe state, either by stable tune or by controlled shutdown. Controlled means you call it and you pull the quench yourself. If the cell goes into red and trips its own breaker, that is uncontrolled. Uncontrolled is a fail on objective two." She turned a page. "Three. Contain the spawn. The chute opens four times. No husk reaches the casualty. No husk crosses the green line. Four. Call. Declared roles, said aloud, before you start. Any change of role is called before you make it, loud enough for the booth."
 
 She looked up.
 
@@ -186,17 +186,15 @@ Kellan weighed her for a long moment. "You're sure?"
 
 "I told my aunt. I'm telling you."
 
-"Fine." He turned to the others. "Then that's it. Renn, spawn. Pryce, casualty. Cade, shutter. Rowan, cell. Read, call, quench. No doors near the cell." He came back to Kiva. "That's what we declare."
+"Fine." He turned to the others. "Then that's it. Renn, spawn. Pryce, casualty. Cade, shutter. Rowan, cell. Read, call, quench. No doors near the cell." He came back to Kiva. "And I'll be at the chute with my back to you. So if you change it, I won't see you do it."
 
-"That's what we declare," said Kiva.
+"I won't change it," said Kiva.
 
-When the Gate clerk came down the corridor for their declaration, he took it from Kellan in a flat clerk's voice, role by role, and repeated each one back. When he had finished, Anwen said, "One more," and he waited.
+"One more," said Anwen. "Rowan calls the clock to me and Perrin, every time it moves."
 
-"Rowan calls the clock to Pryce and Cade."
+Perrin let out a breath. "Then I'll know when to get my hands out from under that thing."
 
-The clerk repeated that too. Anwen glanced at Kiva.
-
-"So we know," she said.
+"That's the idea," said Anwen.
 
 They settled their drams. Kiva tipped the grey powder into her left palm and closed her hand around it, and it went in warm and settled, and the ash in her hand went dead. Beside her, Kellan brushed his off onto the floor. Anwen held hers in both hands and closed her eyes. Perrin closed his fist around his dram and wore the expression of someone swallowing medicine.
 
@@ -246,7 +244,7 @@ She knew it. She knew it exactly.
 
 Somebody had put Brannock's hurry in it on purpose. The assessors had tuned the cell the way a tired man tunes it at six in the morning with two more substations to do before seven, and now it was running at evening peak, with the whole board lit, and the hurry was feeding on itself.
 
-She watched the needle against the gallery clock. It went from six and one to six and two in ten seconds. It went from six and two to six and three in less.
+She watched the needle. It crept from one tenth to the next, and the next came sooner.
 
 So it was not only climbing. The gaps were closing.
 
@@ -276,15 +274,13 @@ He came in from the side in two long Strides, with the struts running down his c
 
 He did not spare the ash a glance. He stepped back to the chute side and waited, blade low, already watching the hatch.
 
-The needle on the drum read six and four.
-
 Kiva's eyes went to the ash on the floor. It lay in a fine pale heap, clean as flour. In a real rift that was a Handful of clean ash, worth catching and grading, and the assessors gave marks for clean ash recovered once a run was safe.
 
 Kellan had not even checked where it fell.
 
-By the time she looked back at the needle, it had reached six and seven, and the tenths were coming every seven seconds.
+By the time she looked back at the needle, it had climbed again, and faster.
 
-"Six and seven," she called. "Seventy seconds."
+"Six and seven," she called. "A minute and a bit."
 
 "Copy," said Anwen.
 
@@ -296,8 +292,6 @@ He was lifting the housing with his body and holding the shutter with his hands,
 
 "You'll have it," said Kiva.
 
-The needle read six and eight.
-
 The chute clanged, and this time there were two husks, one after the other. Kellan met the first as it came out of the hatch, before it had finished pulling itself together, and it came apart in a spray of ash. The second got past him and went sideways along the south wall, low and quick, toward the bottom of the mezzanine stair.
 
 Toward her.
@@ -308,15 +302,13 @@ The husk was not coming for her. It was coming for the cell.
 
 Kellan saw it too. He Strode after it in two long bounds and caught it at the foot of the stair and put his lit blade through its back, and it came apart on the first step, so that ash ran down between the steel treads.
 
-"It's the cell," Kellan called up. He did not sound worried. He sounded as if he had just read a figure off a meter. "They'll keep going for the cell as it runs hotter. I'll hold the stair."
+"It's the cell," Kellan called up. He did not sound worried. He sounded as if he were remarking on the weather. "They'll keep going for the cell as it runs hotter. I'll hold the stair."
 
-"Seven," said Kiva. "Fifty seconds."
+"Under a minute," said Kiva.
 
 "Perrin," said Anwen.
 
 "I know."
-
-The needle crossed seven, and the next tenth took five seconds.
 
 ---
 
@@ -328,15 +320,11 @@ And then the cell would last, and the winch would run, and Perrin would have all
 
 The hand door was right there. It had been there since she put her palm on the drum, lifted and curious, at the threshold. It wanted the cell. It always wanted cells.
 
-*No doors near the cell.* That was the call. She had made it herself, in the corridor, and the clerk had said it back.
-
-Seven and one.
+*No doors near the cell.* That was the call. She had made it herself, in the corridor, and Kellan had put his back to her on the strength of it.
 
 She leaned out over the rail. Perrin's whole body was shaking now, and his face was red, and his teeth were bared.
 
 "Housing's half off," came Anwen's voice. "I can't slide it out yet."
-
-Seven and two.
 
 "Thirty more," said Perrin. "I need thirty more."
 
@@ -372,7 +360,7 @@ It went slowly, like a knot coming loose, a little at a time. She felt the tilt 
 
 She opened her eyes. The needle read seven and three.
 
-It read seven and three. It read seven and three.
+It stayed there.
 
 It had stopped.
 
@@ -382,7 +370,7 @@ The bottom heat-line was cool, and so was the second. She had the hand door open
 
 Something leapt in her chest that was not a heat-line. It was joy.
 
-She held it there while Perrin grunted below her and Anwen said something sharp and pleased, and the needle did not move. Ten seconds. Fifteen. Twenty.
+She held it there while Perrin grunted below her and Anwen said something sharp and pleased, and the needle did not move.
 
 Below, the chute clanged.
 
@@ -430,9 +418,7 @@ She had let go of the cell.
 
 She turned back to the drum.
 
-The needle read seven and seven.
-
-Seven and eight.
+The needle was past seven and a half.
 
 It was still climbing, a tenth with every few breaths, as fast as the hurry had ever driven it, and her hand was off it. The doors were off it. She shut the hand door, hard, and felt it close. The Ember was still open, with the bar still on her fist, and the still door was half open under her. But none of them were touching the cell.
 
@@ -449,8 +435,6 @@ And it was still going, after she had let go.
 A cell keeps what you leave in it.
 
 Below her, Kellan was shouting something up the stair. She did not hear what. She was watching the needle.
-
-Eight. Eight and one.
 
 And she could feel it now, through her palm. The cell was not only running hot. It was calling. The three-door noise she had left in it was ringing out of the drum like a struck bell, louder and louder, and every husk still waiting in the dark under the floor could hear it.
 

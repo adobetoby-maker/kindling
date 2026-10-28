@@ -164,25 +164,15 @@ She had told no one, not Kiva, and not Orla Dane, who had come to this shop four
 
 She sat for a long time with her hands flat on the bench, looking at nothing.
 
+Then she picked up the pencil and pulled the countersignature form toward her. She did not sign it. She turned it over and wrote three words on the back, in the neat square capitals she used on her fault tags, and folded it into her apron pocket.
+
 What she saw, when she looked at nothing, was the Old Yard. It was not the doors that came back to her, the water standing up out of the bowl or the big assessor pushing and pushing while the girl did not move. Those had frightened her, but she had understood them, because they were the kind of strange that had rules.
 
 What she saw was the moment after the lamps went out, with Kiva on the ground and her eyes open and fixed on something that was not there, very far away. And then the look on her face when she came back. Mara had seen that look before, once, on a man pulled out of a collapsed cell vault after a night in the dark, who looked as if he had been somewhere very large and could not get the size of it out of his eyes.
 
 Kiva had never told her what she saw. Not properly. *People. Coming. The sky.* Pieces. Mara had stopped asking, because asking made the girl go still and careful in a way Mara hated.
 
-She picked up the pencil and pulled the countersignature form toward her.
-
-She did not sign it.
-
-She turned it over and wrote on the back, in the neat square capitals she used on her fault tags.
-
-*METER.*
-
-*SHUTDOWN PATH.*
-
-*HAND.*
-
-She considered the three words for a while. Then she put the form in her apron pocket, turned off the bench lamp, and went up to see whether the girl had eaten anything.
+She turned off the bench lamp and went up to see whether the girl had eaten anything.
 
 ---
 

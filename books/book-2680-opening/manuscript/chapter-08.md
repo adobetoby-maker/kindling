@@ -58,11 +58,11 @@ Kiva nodded.
 
 "Kellan listened."
 
-"Renn listened. Because, he told the booth afterward, your numbers had been right all run." Ysra almost smiled. "That's the highest praise I've ever heard that young man give anyone."
+"Renn listened. He told the booth afterward that you'd said in the corridor what that cell would do if a door went near it, and it did. So when you shouted, he went." Ysra almost smiled. "That's the highest praise I've ever heard that young man give anyone."
 
 Kiva did not know what to say.
 
-"The run failed," said Ysra. "I want that understood between us. It failed on the board and it failed in fact. You broke your own declared role. You put the cell into a state no one in the Compact has seen before. You took an undeclared violation. You hurt yourself, and you could have hurt Cade and Pryce badly. On a real substation, people would have lost power at the worst possible moment."
+"The run failed," said Ysra. "It failed on the board and it failed in fact. You broke your own declared role. You put the cell into a state no one in the Compact has seen before. You took an undeclared violation. You hurt yourself, and you could have hurt Cade and Pryce badly. On a real substation, people would have lost power at the worst possible moment."
 
 "I know."
 
@@ -74,7 +74,7 @@ Kiva's mouth had gone dry.
 
 She lifted her hand.
 
-"On Friday I watched you run. I watched you call a clock that was right to the tenth. I watched you break your own call, and then I watched you tell a boy on a stair the one thing that would save it, from under a husk." Ysra held her eyes steadily. "It is not a classification. The board still can't name you, and neither can I. But I saw what you do when it goes wrong, and that I can rule on. It's all my office has ever needed."
+"On Friday I watched you run. I watched you go over a rail for Cade without a word, which I shan't forgive in a hurry. I watched you stand a husk off him on two jammed doors and keep the third one shut. And from under it, I watched you tell a boy on a stair the one thing that would save the run, and I watched him go." Ysra held her eyes steadily. "It is not a classification. The board still can't name you, and neither can I. But I saw what you do when it goes wrong, and that I can rule on. It's all my office has ever needed."
 
 Kiva sat very still.
 
@@ -150,7 +150,7 @@ Kiva sat. The stone of the wall was cold through her coat. Down the street a tra
 
 Mara was quiet for a moment.
 
-"I've never told you this," she said. "I didn't think it was mine to tell. I thought it would frighten you, and I didn't know what it meant, and I still don't." She turned her scarred hand over on top of the bag. "When you went down, I was on my knees by you. The lamp over the shed went out, and somebody shouted, and I looked up. The yard gate was open behind the braziers. You can see down the hill from there, over the river to the Eastbank."
+"I've never told you this," she said. "I thought it would frighten you, and I didn't know what it meant, and I still don't." She turned her scarred hand over on top of the bag. "I was on my feet in the third row when you went down. The lamp over the shed went out, and somebody shouted, and I looked up. From the top of those benches you can see over the yard wall, down the hill and across the river to the Eastbank."
 
 Kiva waited.
 
@@ -168,9 +168,9 @@ Kiva sat very still. *Below her, every lamp answered.*
 
 "What do you trust?"
 
-"That it happened," said Mara. "In the afternoon, in daylight, stone sober, with my hand on your face. It isn't a fever."
+"That it happened," said Mara. "In the afternoon, in daylight, stone sober, a breath before I got down to you. It isn't a fever."
 
-Kiva thought about the bright people coming from every road. She thought about the sky with nothing in it, and the whole city ringing like a bell. She did not know whether the lamps on the Eastbank had anything to do with a dream at all, hers or anybody's. She only knew that Mara had been kneeling in the dirt with her hand on Kiva's face, and had looked up, and had seen it.
+Kiva thought about the bright people coming from every road. She thought about the sky with nothing in it, and the whole city ringing like a bell. She did not know whether the lamps on the Eastbank had anything to do with a dream at all, hers or anybody's. She only knew that Mara had been on her feet in the third row of the benches, frightened for her, and had looked up, and had seen it.
 
 She took the roster consent form out of her coat pocket, the one Ysra Crest's clerk had given her on the way out, and held it out.
 
@@ -226,9 +226,13 @@ She took the form out of her pocket and unfolded it on the rail, against the win
 
 "All right," said Kiva. "Yes."
 
-Mara signed the form, *M. ROWAN*, in her square capitals, with the date. Above her name, on the line for the sponsor, Ysra Crest's clerk had written *O. Dane* and stamped it in red. Mara looked at that for a moment before she folded the form and handed it to Kiva.
+Above the guardian's line, on the line for the sponsor, Ysra Crest's clerk had written *O. Dane* and stamped it in red. Mara looked at that for a moment.
 
-"It isn't safe," she said. "I won't have either of us pretend it is. But I can see the meter now. And the shutdown path. And there's a hand on it." She put the pencil back behind her ear. "Orla Dane's, heaven help her. The rest we find out."
+"Heaven help her," she said, and signed under it, and folded the form and handed it to Kiva.
+
+"It isn't safe," she said. "I won't have either of us pretend it is."
+
+She put the pencil back behind her ear, and they walked on toward Coper Street, slowly, at the pace of Kiva's knee, with the barge humming away downstream and the kids on their lift-boards weaving round them on the paving.
 
 ---
 
@@ -256,7 +260,7 @@ That girl was not a fighter. Not yet. Maybe not ever.
 
 She was a responder.
 
-Doran had it from the booth that her clock calls had been right all run. Rhea had seen for herself that she saw the husk's line before anyone else on the floor, and put herself where the danger was going and not where the points were. And when she could not reach the thing that would fix it, she had told someone who could, and been right.
+Rhea had seen for herself that she saw the husk's line before anyone else on the floor, and put herself where the danger was going and not where the points were. And when she could not reach the thing that would fix it, she had told someone who could, and been right.
 
 None of that would show on any standing. Graywater's own board would not know how to rank it.
 
@@ -306,9 +310,9 @@ He came back with his bandaged hands in the air.
 
 "I know. I know." He bumped her good shoulder with his, gently for once. "You're in the Third. Crooked Line. Provisional. Your name's at the very bottom. In small letters. With a little star and *Sponsor: O. Dane* next to it, like a footnote." He beamed at her. "It's the best thing I've ever seen on that board."
 
-Anwen was beside them with her list. She had read the boards already, every one.
+Anwen was beside them. She had read the boards already, every one.
 
-"Graywater posts field placements on the twentieth," she said. "I'm on Doran Mace's list. Not at the top. Higher than I was." She folded the list. "I've got five days to get higher. I'm going to the Wren House lanes this afternoon. I won't be at Orla's tonight."
+"Graywater posts field placements on the twentieth," she said. "I'm on Doran Mace's list. Not at the top. Higher than I was." She folded her arms. "I've got five days to get higher. I'm going to the Wren House lanes this afternoon. I won't be at Orla's tonight."
 
 "All right."
 
@@ -328,7 +332,7 @@ Kellan Renn came out of the crowd at the front of the board. He had a fresh scab
 
 "Provisional."
 
-"The lowest defensible place." He said it as if he were reading it off a meter. Then he said, "Good."
+"The lowest defensible place." He said it without any expression at all. Then he said, "Good."
 
 "Good?"
 
@@ -366,7 +370,7 @@ Kiva did not answer at once. She walked down the lane between the black posts, o
 
 She stopped beside it.
 
-She thought about the Cellhouse, and the cell under her hand, and the joy, and the fear, and the three doors going in, and the ringing that would not stop. She thought about Perrin's purple hands, and Kellan's foot on the rail, and Anwen not coming out. She thought about Mara on her knees in this yard four years ago, looking up through the open gate at the whole of the Eastbank going dark. She thought about the bright people on every road, and the sky that was not there.
+She thought about the Cellhouse, and the cell under her hand, and the joy, and the fear, and the three doors going in, and the ringing that would not stop. She thought about Perrin's purple hands, and Kellan's foot on the rail, and Anwen not coming out. She thought about Mara on her feet among those benches four years ago, looking out over the wall at the whole of the Eastbank going dark. She thought about the bright people on every road, and the sky that was not there.
 
 She did not understand any of it. She understood a little more than she had a week ago. That was all.
 

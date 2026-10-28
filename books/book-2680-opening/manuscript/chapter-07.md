@@ -22,7 +22,7 @@ Orla was quiet for a while, as the tram rocked on the rails.
 
 "And then."
 
-"And then you were frightened, and you'd told your team you wouldn't touch it, and you went over the rail without a word." Orla did not soften it. "And what you did when you landed was not the thing I described in the yard. I want that straight between us before you start telling it to yourself differently. Nothing was handed from one door to the other. You jammed the Ember in the still door's frame and stood on the wreck, and it held because it had to, and it cost you that." She nodded at the sling. "You couldn't do it again if I paid you, and you're not to try."
+"And then you were frightened, and you'd told your team you wouldn't touch it, and you went over the rail without a word." Orla did not soften it. "And what you did when you landed was not the thing I described in the yard. Don't start telling it to yourself differently. Nothing was handed from one door to the other. You jammed the Ember in the still door's frame and stood on the wreck, and it held because it had to, and it cost you that." She nodded at the sling. "You couldn't do it again if I paid you, and you're not to try."
 
 Kiva closed her eyes.
 
@@ -80,11 +80,11 @@ Anwen Pryce did not go home after the Cellhouse. She went to the Graywater table
 
 It was under its slate-blue awning at the foot of the Cellhouse steps, where it had been all week. The afternoon runs were finished and the crowd was thinning, and most of the recruiters were packing their boards. But the Graywater field officer was still sitting at the table with his coat over the back of his chair, because Anwen had asked him on Wednesday for ten minutes after her run, and he was the kind of man who kept to a thing like that.
 
-His name was Doran Mace. He was about fifty, bald and brown and soft-spoken, a hand-door field medic who had run Graywater's ward line for twelve years before he took the placement desk. Anwen had asked everyone she could find about him. She had a list.
+His name was Doran Mace. He was about fifty, bald and brown and soft-spoken, a hand-door field medic who had run Graywater's ward line for twelve years before he took the placement desk. Anwen had asked everyone she could find about him, and had all of it in her head.
 
 "Miss Pryce," he said, and pointed at the chair. "Sit."
 
-She sat. She held her list in her lap and did not consult it.
+She sat, and folded her hands in her lap.
 
 "You stayed in the pump room," he said. "When the cell was going. When your teammate on the mezzanine called for you to get out."
 
@@ -108,7 +108,7 @@ For a moment she thought she had ruined it. Then he smiled, very slightly.
 
 Anwen was quiet for a moment.
 
-"She chose too," she said. "She chose Perrin. Over the cell, and her own call, and the run." She smoothed the list on her knee. "I wouldn't have. I'd have stayed on the cell and quenched and trusted Perrin to hold the shutter. That was the right call by the drill."
+"She chose too," she said. "She chose Perrin. Over the cell, and her own call, and the run." She smoothed her skirt over her knee. "I wouldn't have. I'd have stayed on the cell and quenched and trusted Perrin to hold the shutter. That was the right call by the drill."
 
 "Would he have held it?"
 
@@ -154,7 +154,7 @@ Anwen sat at the empty table and watched her go. She knew who it was. Everybody 
 
 Rhea Sorn had asked about Kiva. Not the marks. Where she stood on a floor.
 
-Anwen sat there for a while longer with her list folded in her lap, feeling something she did not like.
+Anwen sat there for a while longer with her hands folded in her lap, feeling something she did not like.
 
 It was not quite envy. She had done well today. She had done exactly what she meant to do, and the field officer had said so, and she was on his list, and that was hers, because nobody had given it to her.
 
@@ -162,7 +162,7 @@ But nobody was going to come down the Cellhouse steps to ask who taught Anwen Pr
 
 *I want it anyway,* she thought. *On my own.*
 
-She put the list away and went home.
+She got up and went home.
 
 ---
 
@@ -354,7 +354,7 @@ Mara did not answer at once.
 
 "A household incident."
 
-Kiva lay still. She thought about Ysra Crest in the little office. *Three years ago a cell ran hot under your hands and burned your aunt's palm.* That was one. She thought about the slab discharging in the lane last spring, but that had been at the school and not in the household.
+Kiva lay still. She thought about Ysra Crest in the little office. *Three years ago a cell ran hot under your hands and burned your aunt's palm.* She thought about the slab discharging in the lane last spring, but that had been at the school and not in the household.
 
 "What does it mean?" she said. "For you. For your license."
 
@@ -366,7 +366,7 @@ Mara's hands went still on the cloth.
 
 Mara put the cloth in the bowl. She sat for a moment with her hands in her lap, the scarred one over the other, and looked at the window, where the dark was just starting to thin.
 
-"Rusk came in the winter," she said. "He sat on my stool with his hat on his knee. He said there'd been one burn in this house, and that if there was one more cell gone wrong under this roof, he'd put my license up for review." She said it flatly, the way she would read off a gauge. "He's a fair man. He didn't enjoy it."
+"Rusk came in the winter," she said. "He sat on my stool with his hat on his knee. He said there'd been one burn in this house, and that if there was one more cell gone wrong under this roof, he'd put my license up for review." She said it flatly. "He's a fair man. He didn't enjoy it."
 
 Kiva stared at her.
 
@@ -414,7 +414,7 @@ Outside, the sky was getting light over the Eastbank roofs, and somewhere down t
 
 Mara stood up. She took the bowl and the cloth and stood by the door with them for a moment, with her back to Kiva.
 
-"The truth," she said. "All of it, in order." She turned. "And I'm going to the Works at eight, to Rusk, before his desk tells him. I'd rather he had it from me than from a wire."
+"The truth," she said. "All of it." She turned. "And I'm going to the Works at eight, to Rusk, before his desk tells him. I'd rather he had it from me than from a wire."
 
 "Will that help?"
 
