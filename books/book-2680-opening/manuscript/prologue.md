@@ -1,4 +1,4 @@
-# Prologue — Somebody Should Write It Down
+# Prologue — The Leaning Post
 
 ## 1. The Night of the Fall
 
@@ -40,7 +40,7 @@ He was quiet for a moment, and Ruth could see his face only because the sky was 
 
 Saffi took a sharp breath.
 
-"Not here," said Joel quickly. "It's not hitting us. There's no blast, see? No wind, and nothing's on fire. It went off up in the thin air on purpose, and when it does that, it throws out a pulse. A wave. It's like lightning hitting every wire at once. Anything with a long wire in it, anything with a chip, it just cooks it."
+"Not here," said Joel quickly. "There's no blast, see? Nothing's on fire. It went off way up, and when it does that, it throws out a pulse. Like lightning hitting every wire at once. Anything with a chip in it, it cooks."
 
 "Everything?" said Mina.
 
@@ -70,41 +70,49 @@ Joel did not answer. Ruth thought that was because he did know, and because know
 
 She went back inside. In the dark kitchen she found the drawer by feel, took out the box of matches she kept for birthday cakes, and lit a candle. Then she held her wrist up to it.
 
-Her father's watch was still running. It was an old wind-up thing with a cracked strap, and she had worn it every day for eleven years because she missed him, not because it was useful. Now the second hand was moving in the candlelight when nothing else in the city was.
+Her father's watch was still running. It was an old wind-up thing with a cracked strap, and she had worn it every day since his funeral because she missed him, not because it was useful. Now the second hand was moving in the candlelight when nothing else in the city was.
 
-Eleven forty-seven.
+Quarter to twelve.
 
-She found a spiral notebook in the drawer under the phone books, with Saffi's old math homework in the front of it. Ruth turned past the fractions to a clean page and wrote the date at the top, and under the date she wrote the time.
+When she came out of the kitchen with the candle, Joel was in the hall with the cupboard open. He had his work boots on and his tool roll under his arm, and he was holding the big rubber torch from the top shelf, which did not work either. He stood there with it as if he had forgotten what it was for.
 
-Mina came in and stood behind her. "What are you doing?"
+"Where are you going?" said Mina.
 
-"Writing it down."
+"Linden Road. The substation." He did not look at any of them. "It's mine. Twenty years it's been mine. There'll be men down there by now trying to get it going in the dark, and they'll put their hands on the old breakers, and the old breakers will kill them."
 
-"Writing what down?"
+"You said everything's dead."
 
-"What happened," said Ruth. "Somebody should."
+"The breakers haven't got chips in them. That's the trouble."
 
-Joel came in from the balcony and watched her write for a while. *White light in the south, very high. No noise. Then colors, red and green. Then everything stopped.*
+"It's four miles," said Ruth. "In the dark. With no streetlights and everybody frightened."
 
-"Who's going to read that?" he said. He was not being unkind. He sounded tired already, and it was only the first hour.
+"I know how far it is."
 
-"Somebody who wasn't here," said Ruth.
+"Are you coming back?" said Saffi.
 
-She wrote down what Joel had said about the bomb and the pulse, and then she wrote down what Mr. Dabrowski had said about the sun. She wrote *Joel says it is an attack. Piotr says it is a storm. Saffi thought it was beautiful.* She did not write which of them she believed, because she did not know which of them she believed.
+Ben came out of the bedroom then, rubbing his eyes. "The fan stopped," he said.
 
-Ben came out of the bedroom rubbing his eyes. "The fan stopped," he said.
-
-"I know, love."
+"I know, love," said Ruth.
 
 "Why did it stop?"
 
-Ruth glanced at the page. Then she put the pencil down and picked him up, even though he was eight and too heavy, and carried him to the window so that he could see the last of the red going out of the sky.
+Nobody answered him. Down the hall, whoever was at the elevator had stopped pounding and begun to call a name, over and over, a woman's name, in a voice that was trying to stay polite.
 
-"We don't know yet," she said. "But I wrote down what we saw."
+Joel looked at the door. Then he looked at Ben, in his pajamas, and at Saffi in her socks, and at the one candle.
+
+He put the torch down on the hall table.
+
+"In the morning," he said. "When it's light. There'll be somebody at Linden Road in the morning, and I'll be one of them." He sat down on the floor with his back against the front door and his boots still on, and he did not take them off.
+
+Ruth picked Ben up, even though he was eight and too heavy, and carried him to the window so that he could see the last of the red going out of the sky.
+
+"We don't know yet," she said.
+
+On her wrist, under the candle, the second hand went round.
 
 ---
 
-## 2. The Machine Book
+## 2. The Annex
 
 *2085 — five years after the Fall*
 
@@ -118,17 +126,7 @@ So the annex still had lights. It had a sterilizer, a refrigerator for insulin, 
 
 The Restoration Board owned the fence. The Board owned the fuel. The Board decided who stood in which line.
 
-Teo's book was a hardback ledger with a blue cloth spine, which he had found in a stationery store with its windows smashed. He kept it on the shelf over the dialysis station, and every time he ran a machine he wrote in it: the date, the patient's name, the hours, and the fuel the generator burned. And at the end of each line, in a narrow column he had ruled himself, he wrote why.
-
-*Board card. Crew three.*
-*Board card. Family of crew.*
-*Board card.*
-
-Most of the lines were like that.
-
-Every few pages there was a different kind of line. *Turned away. No card. Reason given: fuel.* He wrote those too. Nobody had asked him to, and nobody had told him to stop, either, and he had been careful not to ask.
-
-The second winter had been the worst, because that was when the power station up the river had gone. Its reactor had sat there without outside power for eleven months, kept cool by backup generators until the last of their diesel ran out, and after that nobody could keep it cool, and nobody had been there to try. The steam had gone up in the spring, and the wind had gone east, and the people who came down the river road that summer had their hair coming out in their hands. Teo had written them all down. The book had a long stretch of names that ended in the same word.
+The second winter had been the worst, because that was when the power station up the river had gone. Its reactor had sat there without outside power for most of a year, kept cool by backup generators until the last of their diesel ran out, and after that nobody could keep it cool, and nobody had been there to try. The steam had gone up in the spring, and the wind had gone east, and the people who came down the river road that summer had their hair coming out in their hands. Teo had run the machines for them until there was no point in running them.
 
 "Teo." It was Marguerite, the night nurse, leaning in the door. "There's a girl at the fence."
 
@@ -136,7 +134,7 @@ The second winter had been the worst, because that was when the power station up
 
 "This one's swelling up. Her ankles are like bread, and her mother says she hasn't passed water in four days." Marguerite studied the floor. "No card."
 
-Teo checked the board on the wall. Machine two was booked at six for a man from the Board's line crew. The line crews spent their days stringing new wire between dead towers, and the Board said they were rebuilding the grid. Old Farrow, who had been an electrician before the Fall and came to the annex for his heart pills, said the same thing every visit: you could not rebuild a grid when every transformer in the country had burned out on the same night, because you could not make transformers without factories, and you could not run factories without a grid. "We're stringing wire to nothing," he said. "But it gives the young ones something to do."
+Teo checked the board on the wall. Machine two was booked at six for a man from the Board's line crew. The line crews spent their days stringing new wire between dead towers, and the Board said they were rebuilding the grid. Old Farrow, who had been an electrician before the Fall and came to the annex for his heart pills, said every visit that you could not rebuild a grid when every transformer in the country had burned out on the same night. "We're stringing wire to nothing," he said. "But it gives the young ones something to do."
 
 It was four o'clock. Machine two was free for two hours.
 
@@ -156,25 +154,37 @@ The mother did not ask what would happen tomorrow, and Teo was grateful for that
 
 He ran the machine for an hour and fifty minutes, and the girl slept through most of it. When she woke up, her color was better, and she asked for water, and her mother cried in the corridor where the girl could not see her. At ten to six Teo unhooked the lines and cleaned the station. The man from crew three came in at six exactly and sat down without noticing anything.
 
-Teo took down the blue ledger.
+The Board's fuel man noticed.
 
-He wrote the date and *Lina, age about 10, no card.* He wrote *1 hr 50 min.* He wrote the fuel the generator had burned in that time, to the tenth of a liter, because the Board read the book and the fuel was the thing they would count.
+His name was Hollin, and he came down from the office at half past six with the generator gauge in his head, because reading the gauge was his whole job and he was good at it. He was not a cruel man. He stood in the doorway of the dialysis room in his good Board coat and looked at Teo, and then at machine two, and then at Teo again.
 
-Then he came to the narrow column.
+"Two hours of fuel off the tank between four and six," he said. "And nobody booked on that machine till six."
 
-He held the pen over it for a long time. He could write *emergency*, which was true, and which was the word the Board liked. He could leave it blank, and blank was safer than a lie.
+"A girl from the fence," said Teo. "Lina. About ten. No card."
 
-He wrote: *She was here. The machine was free. Nobody else was waiting for it.*
+"I know what no card means."
 
-Marguerite read it over his shoulder. "They'll have your card for that."
+"She was here. The machine was free. Nobody else was waiting for it."
+
+Hollin did not raise his voice. "That fuel was crew three's. Every liter in that tank is somebody's. That's two hours a man on the line crew won't get on Thursday, and he's got a card, and he's been waiting for it." He let that sit. "So you tell me which man. Because I have to tell him."
+
+Teo had known it would come to this, and he had thought, running the machine, that he would have something to say. He did not.
+
+"Me," he said at last. "Tell him it was me. Tell him to his face, with my name on it. And tell him the girl's name."
+
+"They'll have your card for this."
 
 "Maybe."
 
-"Then why put it in?"
+"Then why?"
 
-Teo closed the book. Outside, the queue went down the hill in the dusk, and a few people at the bottom had lit a fire in the bus shelter.
+Marguerite had come up behind Hollin in the corridor and stopped there, with a tray of clean lines in her hands.
 
-"Because in ten years somebody's going to open this," he said. "And they'll want to know who got the machine. And why. If I don't write the why, they'll make one up."
+Teo looked past both of them, out of the window. The queue went down the hill in the dusk, and a few people at the bottom had lit a fire in the bus shelter.
+
+"Because she was at the fence," he said. "And I was the one standing here."
+
+Hollin was quiet for a while. Then he went back up to his office, and Teo heard him on the stairs, slowly, a man going to do a thing he did not like.
 
 ---
 
@@ -202,11 +212,11 @@ Pell's father was at the top of the field with the cart. She heard him shout her
 
 The grey thing went for Nico.
 
-It was not fast. It moved like a man carrying something heavy, lurching and sure, but Nico was frozen on his knees, and Pell was nine rows away, and her father was a hundred paces off.
+It was not fast. It moved like a man carrying something heavy, lurching and sure, but Nico was frozen on his knees, and Pell was eight rows away, and her father was a hundred paces off.
 
 Pell dropped the fork and ran.
 
-She did not decide to do it. Afterward she tried to remember deciding, and she could not, and all she could remember was her legs moving and the dirt flying up and her own breath very loud. She reached Nico two steps before the thing did and got in front of him, and she threw her arms up in front of her face, because that was what you did when something was going to hit you.
+She did not decide to do it. Afterward she tried to find the moment when she had decided, and she could not, and all she had was her legs moving and the dirt flying up and her own breath very loud. She reached Nico two steps before the thing did and got in front of him, and she threw her arms up in front of her face, because that was what you did when something was going to hit you.
 
 The thing hit nothing.
 
@@ -242,97 +252,175 @@ That night the grey powder was still warm. Her father had shoveled it into a fee
 
 ---
 
-*From the record kept by Aud Fenn, the miller's wife, at Garrow's Ford:*
+By the end of the week everybody at Garrow's Ford had an opinion, and most of them brought it to the mill.
 
-*Fourth day of the potato harvest, the sixteenth year.*
+Pell had to go, because the meal was owed and her father would not leave her at home. She sat on the sacks inside the mill door with her red hands in her lap while the stones went round behind the wall, and the grown-ups talked over her head as if she were furniture.
 
-*A tear opened in Henrik Garrow's low field in the afternoon, at about three by the mill clock. Something came out of it. Henrik says it was grey and had no face. His girl Pell, thirteen, stopped it with her hands. I write that down as she told it and as Henrik told it, because I do not have a better way to say it. She did not touch it. It stopped anyway. Henrik hit it with the shovel and it turned to dust.*
+"Three by the mill clock," said Aud Fenn, the miller's wife, to anybody who came in. "I heard it from here. Like a sheet tearing. I thought it was the sails."
 
-*The dust stays warm. Pell slept better beside it and woke less tired. I do not know what to make of that. I am writing it down.*
+Old Sefton had come down from the crossroads with his hardened radio in a box on his back, the only radio for thirty miles that still made a sound. He set it on the meal bin and took his hat off.
 
-*Old Sefton with the hardened radio at the crossroads says it is happening in other places. A tear by the coast road. Two tears up north. A boy over in Ashby who stood in the river in flood since the summer and could not be moved off his feet, and a girl down the valley who can put her hand on a sick cow and tell you where it hurts. All of them about thirteen. Sefton says before the Fall some survey brought a thing back from Mars, a sort of disk, and it has woken up in a vault in the south this spring, and that is what is tearing holes in the air. Sefton also says nobody ever went to the moon, so.*
+"It's not only here," he said. "There was a tear by the coast road. Two up north. There's a boy over at Ashby who stood in the river in flood all summer and couldn't be moved off his feet, and a girl down the valley who puts her hand on a sick cow and tells you where it hurts." He looked at Pell. "All of them about thirteen."
 
-*The minister says it is a judgment. Henrik says it is a wolf of some new kind. Pell says she does not know what it is, and she does not know what she did, and she would like everyone to stop asking her.*
+"That's talk," said somebody.
 
-*I have written down all three. Somebody will know better later.*
+"It's the radio," said Sefton. "Before the Fall some survey brought a thing back from Mars. A disk. It's been in a vault in the south all this time, and it woke up this spring, and that's what's tearing holes in the air." He put his hat back on. "Mind you, the same man on the radio says nobody ever went to the moon. So."
+
+The minister had come for his flour and stayed for the talk. "It is a judgment," he said. "I don't say whose. But it's a judgment."
+
+"It's a wolf," said Pell's father. He was standing by the door with his arms folded, and he had not said much all week. "A new kind. It came at my boy, and I hit it, and it fell down. That's a wolf. You don't need a sermon for a wolf."
+
+"And the girl?" said the minister. "What's she, Henrik?"
+
+They all turned to look at her.
+
+Pell had been asked what she did every day for six days, and she had said she didn't know every day for six days, and it had not got any better for being said. Her palms still felt hot when she thought about them. The sack of grey powder was still beside her bed, still warm, and she still slept better for it, and she had not told anybody that, because they would want to know why.
+
+"I don't know what I am," she said. "I don't know what I did. I'd like everybody to stop asking."
+
+Aud Fenn came over and put a hand on her hair, as if she were a much smaller girl. "There," she said. "There. Let the child alone, all of you."
+
+Nobody let her alone. But they lowered their voices, and behind the wall the stones went round.
 
 ---
 
-## 4. The Copy
+## 4. The South Lane
 
 *2152 — seventy-two years after the Fall*
 
-The pages came up the river in an oilcloth packet, wrapped twice and tied with tarred string, and the man who carried them said they were not to be lost.
+The director put Oriel Hask on the upriver barge with a purse of ash, a letter of introduction, and one instruction.
 
-"They're a copy," he said, as he handed them over. "Of a copy. The woman who made the first one said the second one had to keep going."
+"Learn the draw," he said, "and come home. Don't let them keep you for the slow part."
 
-"Going where?" said Oriel Hask.
+Oriel was nineteen and the junior orderly at the Lowmarket infirmary. Lowmarket was ten days down the river from Meridian by barge, and where Meridian was the big station in the tech country, with its walls and its hardened lamps and its medicine, Lowmarket was a market town with a mud wharf, two churches, and an infirmary with one healer.
 
-"Wherever it's needed. She thought it might be needed here."
+The healer was a hand-door Kindled named Brother Aldous, who could put his palm on a fever and draw it down like water out of a well. Two months ago a scavenger crew had come back down the river with their skin peeling, after a season picking through the empty towns across from the dead power station at Corbel Reach. Brother Aldous had tried to help them without knowing how, and now he was in a bed beside them, and his hands shook when he held a cup.
 
-Oriel was nineteen and the junior clerk at the Lowmarket infirmary. Lowmarket was ten days down the river from Meridian by barge, and where Meridian was the big station in the tech country, with its walls and its hardened lamps and its medicine, Lowmarket was a market town with a mud wharf, two churches, and an infirmary with nine beds and one healer.
+Meridian's Home Line knew how. Everybody said so. So the director had paid for the barge, and Oriel had gone, because she was the one he could spare.
 
-The healer was a hand-door Kindled named Brother Aldous, Fire rank, who could put his palm on a fever and draw it down like water out of a well. He was very good, and very old, and the infirmary's director wanted to know how he did it before he died.
+---
 
-So the director had paid for the pages, and Oriel's job was to copy them.
+The trainer who met her at the south wall did not look at the letter.
 
-She spread them on the long table in the records room under the good window. There were forty-one sheets, some in one hand and some in another, and all of them had been ruled into columns with a straightedge, so carefully that the lines did not waver even where the paper had been folded.
+She was a lean woman of about forty with a burn scar across one cheek and her sleeves rolled to the elbow, and she led Oriel along the foot of the wall to a strip of packed earth between the wall and a row of sheds. Down the middle of it stood nine posts, thick and black and taller than a man. They were not in a straight row. They wandered a little, left and then right, the way a path wanders across a field. The last one stood out from the wall at a lean, with an iron bar run through its top.
 
-At the top of the first sheet someone had written the headings.
+"Recall," said Oriel. "I've come to learn recall. For burns. The bad kind."
 
-*Exercise. What went wrong. Who was hurt. What it cost. How long to come back. Second go.*
+"I know what you've come for. Everybody who comes up the river comes for that." The trainer nodded at the posts. "First you run the lane."
 
-And then, squeezed in at the right edge in a different ink, a seventh column.
+"I'm not a fighter."
 
-*Why.*
+"Nobody here is, the first week." The trainer handed her a strip of black cloth. "Tie that on. You run it dark. You keep your left hand out and touch each post as you pass. Before the eighth, you call the turn, out loud, so the one behind you hears it. At the last post you put your hands on the bar and say who has it."
 
-Oriel sharpened three pens and began.
+"Who has it?"
 
-It was slow work. Some of the entries were training drills from the north yard at Meridian, such as a pair of hand-door students holding a ward against a sack swung off a frame, or a Kindled boy with an Ember learning to keep his Edge dark until he needed the light. Some were field notes from a crew Meridian called the Home Line, which went out past the walls to answer tears and bring back people who were hurt. There were initials instead of names. *T.V. J. D.W. K.* There were costs in hours and in ash, and there were second attempts, and third, and the ones that had worked on the fourth.
+"You, the first time. Say your name."
 
-There were pages about radiation.
+Oriel tied the cloth on.
 
-*Recall. Active burden only. Read it, draw it, spend to separate, vent before it lodges. Does not undo what is already done. Stop when the ash is out, or you are next. D.W.*
+She hit the third post with her shoulder and the fifth with her face. She forgot to call the turn, and the boy behind her, who was perhaps fifteen and had been told to follow her, walked straight into her back. At the last post she found the iron bar by falling against it.
 
-Oriel read that one three times. Two years ago a scavenger crew had come back down the river with their skin peeling, after a month of picking through the empty towns on the far bank across from the dead power station at Corbel Reach. Brother Aldous had tried to help them without knowing how, and he had made himself sick trying.
+"Hask," she said, into the dark. "Hask has the bar."
 
-She copied it very carefully.
+"Good," said the trainer. "Again."
 
-The director came in at noon to see how she was getting on. He was a big, tidy man who liked the infirmary to run like a clock, and he leaned over her shoulder and read for a while before he put his finger on the seventh column.
+---
 
-"Leave that out," he said.
+She ran it again and again that afternoon, and every run was worse than the one before, because she was tired. That night she lay on a cot in the Home Line's long hall with her hands throbbing and thought about the director.
 
-"Sir?"
+On the third day the trainer let her near a patient.
 
-"The why. Copy the methods. What they did, what went wrong, what it cost. That's the useful part." He tapped the column. "This is commentary. It doubles the ink and the paper and the hours, and we are not a library."
+It was not a burned man. It was a Home Line hand who had cut his foot on a scavenging job, and the cut had gone hot and swollen, and the trainer sat Oriel beside him in a shed with the shutters closed.
 
-Oriel read the entry under his finger.
+"Hands on him," she said. "Eyes shut. Tell me what you've got."
 
-*The lane with the crooked posts. Why: because the road isn't straight. S.V.*
+"I don't—"
 
-"I don't know what half of these mean," she said.
+"Say it. Out loud. That's the whole trick. You read with your hands, in the dark, the way you found those posts. And you say what you're doing while you do it, so that if you go down, the next one knows exactly where you were."
 
-"Then they won't be any use to Aldous, will they?"
+Oriel put her hands on the man's shin and shut her eyes.
 
-He went out. Oriel sat for a while with her pen in her hand.
+It was like the lane. She found nothing, and nothing, and then something. It was a heat that was not the heat of his leg. It sat in one place, low, like a coal in ash.
 
-On the next sheet was a note somebody had squeezed in sideways along the margin, in a small, slanting hand that was different from the others.
+"There," she said. "Above the ankle. It's small. It's hot."
 
-*Heard from a woman who had it from a man who was there: the valley people, the ones who were burned with their papers, thought the sky had a lid on it. They thought the bombs in the Fall cracked the lid, and that is why the tears come. They measured something. Nobody has their numbers now. Writing it down because nobody else will.*
+"Good. Now don't do anything about it. Read the rest of him."
 
-Oriel did not know what valley that was, or who had burned it. She thought about the word *lid* for a long time, and then she thought that it did not matter whether she believed it, because somebody had thought it was worth carrying ten days up a river and ten days down again.
+"Why?"
 
-She dipped her pen.
+"Because the one you didn't read is the one that kills you."
 
-She copied the methods first, the way the director wanted. Then, in the narrow space at the right of each page, she copied the seventh column too, making her letters smaller so that it would not waste much paper. It doubled the hours, and she stayed after the lamps were lit to make up the time.
+She read him for an hour. She was not allowed to draw anything.
 
-*The lane with the crooked posts. Why: because the road isn't straight.*
+On the fifth day a bargeman found her at the wall with word from Lowmarket. The director said the crew was worse. One of them, Carrick, had stopped eating. The director said she was to come home on Thursday's barge with whatever she had.
 
-She did not know what road. She copied it anyway.
+Oriel went to the trainer and told her.
 
-When she was finished, she wrapped the old pages back in their oilcloth for the next barge going south. Then she sat for a minute with her new copy in front of her, forty-one sheets with seven columns each, and put her hand flat on top of the pile.
+"Then go on Thursday," said the trainer. "You can draw. I've seen you. You'll get the worst of it out of them."
 
-"There," she said, to nobody. "Now you're in two places."
+"And the rest?"
+
+"The rest is the slow part. Read it, draw it, spend the ash to pull it off you, vent it in the ground before it lodges in your own hands. Stop when the ash is out, or you're next." She said it flatly, as if she had said it a great many times. "You've got the draw. You haven't got the reading, and you haven't got the stopping. Those are four more days."
+
+"He said not to let you keep me for the slow part."
+
+"I'm not keeping you. The barge is on Thursday." The trainer turned back to the lane, where two boys in blindfolds were coming down it at a jog with their hands out. "Turn," said the first one, before the eighth post, and the second one turned with him.
+
+Oriel watched them reach the end. The second boy got there first and put both hands on the bar.
+
+"Dunn has the bar," he said.
+
+"Why does that one lean?" said Oriel.
+
+She had wanted to ask since the first day. It was the only post in the lane that stood out from the wall, and the only one with a bar through it, and it was black and split with age and bound with iron.
+
+The trainer did not look round.
+
+"Because the road isn't straight," she said.
+
+Oriel waited for the rest of it. There was no rest of it. The trainer was already calling the boys back to the start.
+
+She did not go home on Thursday.
+
+---
+
+That night by the long hall's fire, a girl from up the valley country said that her grandmother had told her the sky had a lid on it, and that the bombs in the Fall had cracked it, and that was why the tears came. Her grandmother had said that the people who first worked it out had been burned in their own houses for saying so.
+
+"Your grandmother says a great deal," said the trainer, from the bench by the door. She did not say that it was wrong.
+
+Oriel thought about the word *lid* for a long time. Then she thought about Carrick, who had stopped eating, and went to sleep.
+
+---
+
+She came home four days late.
+
+The director met her on the wharf. He was a big, tidy man who liked the infirmary to run like a clock, and he did not shout, but he walked very fast beside her up the hill.
+
+"Four days," he said.
+
+"Four days."
+
+"Aldous can't lift a spoon. Carrick—"
+
+"I know," said Oriel. "I'm here now."
+
+She did it in the long ward with the shutters closed, so that it was dark, which was how she had learned it. She put her hands on Carrick first, because he was the worst. She read him from the crown of his head to his feet before she drew anything, while the director stood in the doorway with his arms folded, and she said every part of it aloud.
+
+"Reading. Chest. Long bones. It's gritty. It's in his thighs, both. Drawing now. Left hand. Spending."
+
+The ash in her left palm went from pale to dark. She knelt at the clay pit she had made them dig behind the ward and put both hands into the wet clay until they were clean.
+
+"Three drams," she said, when she came back in. "That's him. The others will be less. Aldous last, because he's the least, and because he'd want to be."
+
+"That's most of what you took with you," said the director.
+
+"That's what it costs."
+
+Carrick's hands did not come back. The skin of them stayed thin and shiny for the rest of his life, because what had already been done stayed done. But on the second morning he asked for bread, and on the fourth he ate it.
+
+The director came to the ward that evening and stood at the foot of Brother Aldous's bed, and watched him drink a cup of water with both hands and not spill any.
+
+"Four days," said the director again. But he said it differently.
 
 ---
 
@@ -364,23 +452,23 @@ Now Meridian's Home Line had sent four people to go inside.
 
 "Dosimeter," said Abel.
 
-Ines held up the hardened meter on its strap. It was an old design, a chamber of gas and a needle with no chip anywhere inside it, and the needle sat near the bottom of its arc. Abel wrote the number in his book.
+Ines held up the hardened meter on its strap. It was an old design, a chamber of gas and a needle with no chip anywhere inside it, and the needle sat near the bottom of its arc.
 
-His book was a thick, cheap ledger with a waxed cover. On the left page he kept the rotation, which meant who went in, when, for how long, and what the needle said going in and coming out. On the right he kept the ash, every tin and every pinch, to the dram.
+"Six," she said.
 
-"Go," he said. "Twelve."
+"Six," said Abel. "Go. Twelve minutes."
 
 The winchman, Dov, threw the lever, and the cable took up slack. Ines held the cart rail and walked beside it, past the yellow line and the second line and across the cracked yard to the blast door, while the meter on her chest ticked faintly and she tried not to listen to it.
 
 Inside, the air was cold and smelled of wet concrete, and her lamp lit the long room in pieces. Desk. Panel. A chair still pushed back from the desk, as if someone had stood up quickly. The binders were on a shelf behind the shift supervisor's station, forty of them, in grey plastic covers gone soft with damp. There were operating procedures and emergency procedures and maintenance logs, everything the old world had known about how to keep a reactor from doing what this one had done.
 
-She took three binders and put them in the cart, and then three more. She checked the dead clock out of habit, and then her own watch. Six minutes.
+She took three binders and put them in the cart, and then three more. She checked the dead clock out of habit, and then her own watch. Half her time was gone.
 
-On the way back she stopped at the instrument panel for the core. Behind it, through a small window of thick yellow glass, she could see a gauge that still had its needle. She wanted that panel. She wanted to know what the core had been doing in its last hour, and she had wanted it since she was fourteen and found her first page of an engineering manual in a box of kindling.
+On the way back she stopped at the instrument panel for the core. Behind it, through a small window of thick yellow glass, she could see a gauge that still had its needle. She wanted that panel. She wanted to know what the core had been doing in its last hour, and she had wanted it since she was fourteen and found her first pump valve in a box of scrap.
 
 She put her hand on the panel cover. Then she read the meter on her chest.
 
-She pulled the cart out at eleven minutes and fifty seconds.
+She took her hand off the cover and pulled the cart out with ten seconds in hand.
 
 ---
 
@@ -394,21 +482,19 @@ She sat on the upturned crate. He knelt in front of her and put his palms flat o
 
 "Can you get it?"
 
-"Some." He opened one of the ash tins with his thumbnail and tipped a measure of grey powder into his left palm, where it lay fine and pale and faintly warm until he closed his hand around it. "Hold still."
+"Some." He opened one of the ash tins with his thumbnail and tipped a pinch of grey powder into his left palm, where it lay fine and pale and faintly warm until he closed his hand around it. "Hold still."
 
-Ines had seen him do this twenty times in two days, and she still did not understand it. Abel was hand-door Kindled, Fire rank, trained at Meridian under the new rotation rules, and he had told her that recall was not healing. Healing was mending something broken. Recall was finding the part of the poison that was still active, still burning away inside a living body, and pulling it out before it did more damage. It could not undo what was already done, and if a bone had already been hurt, it stayed hurt.
-
-What it could do was keep the damage from going on.
+Ines had seen him do this twenty times in two days, and she still did not understand it. Abel was hand-door Kindled, Fire rank, trained at Meridian, and he had told her that recall was not healing. It found the part of the poison that was still burning inside a living body and pulled it out before it did more damage. What was already done stayed done.
 
 She felt it as a drawing ache, deep in her thighs and hips, as if something were being pulled through her by a thread, and then it was gone. Abel's left fist tightened. The ash in it went from pale grey to dark, almost black, and he gasped a little.
 
 He got up, walked to the vent pit, and put both hands down into the wet clay.
 
-The vent pit was a hole dug at the edge of the camp, ringed with orange cord and lined with clay from the river. Abel knelt there for a slow count of thirty, and when he took his hands out, they were clean, and he was pale. The spent ash lay in the clay like soot.
+The vent pit was a hole dug at the edge of the camp, ringed with orange cord and lined with clay from the river. Abel knelt there with his eyes shut for half a minute, and when he took his hands out, they were clean, and he was pale. The spent ash lay in the clay like soot.
 
 "Don't touch that," he said. "Ever. We'll seal it when we go."
 
-He came back and wrote in the book. *Rotation four. I.C. 11 min 50. Out: 41. Recalled to 9. Ash: 3 dr.* Then, on the right page, he subtracted.
+He came back and opened the ash crate and looked into it for a long time.
 
 "How much is left?" said Ines.
 
@@ -418,7 +504,7 @@ Linnet was their second healer, and she was lying in the tent with a wet cloth o
 
 "Then you clear me once more," said Ines. "And I get the core panel."
 
-Abel closed the book.
+Abel shut the crate.
 
 "No," he said.
 
@@ -428,7 +514,7 @@ Abel closed the book.
 
 "It's three more minutes."
 
-"It's the line." He tapped the book. "You can see the numbers same as I can. A ward won't help you. Linnet can't push this stuff off you, and nobody else can either, because it's not a thing a ward moves. All we've got is time, distance, ash, and the line. And we're at the line."
+"It's the line." He tapped the crate. "You can see what's in there same as I can. A ward won't help you. Linnet can't push this stuff off you, and nobody else can either, because it's not a thing a ward moves. All we've got is time, distance, ash, and the line. And we're at the line."
 
 Ines turned toward the plant, where the crack in the cooling tower ran down from the lip like a river on a map. She thought about the binders in the cart, the shift logs, the emergency procedures, the chair pushed back from the desk.
 
@@ -436,17 +522,19 @@ Ines turned toward the plant, where the crack in the cooling tower ran down from
 
 "I've done it at Meridian. On scavengers." He met her eyes then. "I've also watched a healer go past the line. She cleared three men out of the Ridley mine, and she went in for a fourth. We buried her in the spring."
 
-He opened the book again and turned it around so that she could read it.
+Then he stood up and turned toward the winch, and called it, loud enough for the whole camp to hear.
 
-At the bottom of the right page, under the arithmetic, in his blunt hand: *Abort called, rotation 5, A.S. Ash out. Why: healer at line. Records recovered: 6 binders. Access proven.*
+"Abort! Rotation five is off! The ash is out and the healer's at his line!"
 
-"That's not a failure," he said. "That's the job. We come back in the autumn with forty tins and two more healers. And now everybody knows we can."
+At the winch, Dov straightened. "Abort, rotation five," he called back. "Heard."
 
-Ines read the line twice. Then she nodded.
+In the tent, Linnet lifted the cloth off her face and said it too, hoarsely, so that it had been said three times and nobody could pretend afterward that it had not.
 
-In the evening she sat by the lamp in the tent and opened the first binder. The pages were swollen and the ink had run in places, but most of it was there. *Loss of offsite power. Station blackout. Decay heat removal.* She read until her eyes hurt, and then she turned to a clean page in her own notebook and wrote down the first thing the old world had known that this one did not.
+"That's not a failure," said Abel, more quietly. "That's the job. Six binders out. We went in and we came out, and now everybody knows we can. We come back in the autumn with forty tins and two more healers."
 
-*The core does not need a person to stay hot. It needs a person to stay cool.*
+Ines looked at the plant for a long moment. Then she nodded.
+
+In the evening she sat by the lamp in the tent with the six binders stacked beside her and did not open them. She was thinking about the thing every child in the river towns knew, which the old world had known too and had not been able to do anything about. The core did not need a person to stay hot. It needed a person to stay cool.
 
 Abel was asleep on the next cot with his hands open on the blanket, palms up, as though he were still waiting for something to be put into them. Ines turned the lamp down and went to the tent flap. They had sealed the vent pit that afternoon with a lid of river clay, and the orange stakes stood around it in the last of the light. Beyond the stakes and the yellow line, the plant sat dark against the sky, with all its clocks stopped at the same minute and one chair pushed back from a desk.
 
@@ -464,7 +552,7 @@ Gideon Sayle had not slept properly in four days, and the stranger in the doorwa
 
 "Who are you?"
 
-"Tamar Vey." He finished the crust and dusted his hands on his coat. "I teach letters. And the reasons, if anyone wants them, which most people don't. The Home Line sends me around the work camps in winter, and I came to see if anyone here wants to learn to read."
+"Tamar Vey." He finished the crust and dusted his hands on his coat. "I teach letters. And anything else anyone asks me, which is mostly nothing. The Home Line sends me around the work camps in winter, and I came to see if anyone here wants to learn to read."
 
 "Everyone here can read," said Gideon.
 
@@ -474,11 +562,11 @@ He was a large, slow, untidy man of about fifty, with a limp in his left leg and
 
 Gideon went back to his table.
 
-The workshop at Corbel Reach was a long tin shed against the old turbine hall. Twelve years of recovered binders filled the shelves along one wall, and along another were the parts, the valves and pump housings and lengths of pipe and the pressure gauges with their glass cleaned. In the middle of the floor, on a test stand, sat the reason Gideon had not slept.
+The workshop at Corbel Reach was a long tin shed against the old turbine hall. The plant's own drawings were pinned along one wall, and along another were the parts, the valves and pump housings and lengths of pipe and the pressure gauges with their glass cleaned. In the middle of the floor, on a test stand, sat the reason Gideon had not slept.
 
 It was an ash cell, a sealed steel can the size of a bread crock, with a pinch of refined ash inside and a coil of copper wound around its waist. When a hand-door Kindled held a pattern on it, the ash gave up its warmth slowly and the copper drew off a thin, steady current, which was enough to run a small pump.
 
-For about nine hours.
+For about half a day.
 
 Then the ash went to dead grey dust, and the pump stopped.
 
@@ -488,15 +576,11 @@ Then the ash went to dead grey dust, and the pump stopped.
 
 Gideon did not want to explain, because he was too tired. But the shed was quiet, and the two welders had gone to supper, and the man by the stove was watching him with plain, patient interest, so he explained.
 
-"The old reactor here melted because the pumps stopped," he said. "Its own heat didn't stop. A reactor keeps making heat for days after you shut it down. Weeks. The pumps carry the heat away, and when the power to the pumps went, the heat stayed, and it kept building up until it broke everything."
-
-"I know that story," said Tamar.
-
-"We can build a new one. Small. We have the plans, we have the people, we're getting the fuel. But the first thing anyone at Meridian asks is, what happens when the pumps stop? Because this time there's no grid. If a valve sticks or a cable goes in a storm, there's nobody to call."
+"A reactor keeps making heat for weeks after you shut it down," he said. "The old one here melted because its pumps stopped and its heat didn't. We can build a new one, small. But the first thing anyone at Meridian asks is, what happens when the pumps stop? There's no grid now. There's nobody to call."
 
 "So you want the pumps to run on ash."
 
-"Ash is the only power we have that a person can carry in a can. But it runs out. Nine hours." Gideon pushed his hands through his hair. "If I could make it burn for nine weeks, the reactor would be safe. I've tried thinner patterns. Colder patterns. Purer ash. I've had three Kindled holding one cell at once until they nearly fainted. Nine hours. Ten, once."
+"Ash is the only power a person can carry in a can. But it runs out. Half a day." Gideon pushed his hands through his hair. "If I could make it burn for a season, the reactor would be safe. I've tried thinner patterns. Colder patterns. Purer ash. I've had three Kindled holding one cell at once until they nearly fainted. Half a day. A little more, once."
 
 Tamar was quiet for a while. Then he said, "My uncle had a mill."
 
@@ -544,9 +628,9 @@ He took his hands away, put them in his armpits, and leaned back on the bench.
 
 The fence held.
 
-The water around the hot stone stayed cool, and the snow in the tin cup went on melting, drop by drop, from the copper's tip. Gideon counted under his breath without meaning to. Ten. Twenty. Thirty. Tamar sat with his hands in his armpits and his eyes open and did nothing at all.
+The water around the hot stone stayed cool, and the snow in the tin cup went on melting, drop by drop, from the copper's tip. Gideon found that he was holding his breath, and let it out, and took another. Tamar sat with his hands in his armpits and his eyes open and did nothing at all.
 
-At about fifty, the pinch of ash on the copper went from pale grey to dull, dead grey, and the water around the stone began to steam again. The dripping stopped.
+Then the pinch of ash on the copper went from pale grey to dull, dead grey, and the water around the stone began to steam again. The dripping stopped.
 
 "There," said Tamar. "The ash ran out."
 
@@ -560,7 +644,7 @@ Gideon stared at the bowl.
 
 "For about fifty breaths," said Tamar. "With a pinch. I'm not very good." He leaned forward and peered into the bowl, as interested as if he had never seen it before. "I don't know anything about reactors. I couldn't tell you what's inside one. But it seems to me your reactor already knows how to make heat. It's very good at heat. It's too good. What it doesn't have is somebody standing there all night setting the stones."
 
-Gideon turned to the ash cell on the test stand, and thought of nine hours of current, and of a week spent trying to make ash into more river.
+Gideon turned to the ash cell on the test stand, and thought of half a day of current, and of a week spent trying to make ash into more river.
 
 "You want the ash to hold the rules," he said. "Around the heat. Not be the heat."
 
@@ -570,17 +654,19 @@ Gideon picked up his chair and sat down in it. Then he got up again and went to 
 
 But it told him what to try.
 
-Tamar stayed three days. He taught the younger welder to read the long words in the binders, and he told stories at supper that were mostly about his uncle's mill and a goat that had once eaten a ledger, and he fell asleep by the stove every night with his mouth open. On the fourth morning he packed his bowl and his copper and his twist of paper and went on down the river road toward the next camp, limping, with Gideon's last loaf of bread under his arm.
+Tamar stayed three days. He taught the younger welder to read the long words in the binders, and he told stories at supper that were mostly about his uncle's mill and a goat that had once eaten a bishop's hat, and he fell asleep by the stove every night with his mouth open. On the fourth morning he packed his copper and his twist of paper, left his tin bowl on the stove shelf, and went on down the river road toward the next camp, limping, with Gideon's last loaf of bread under his arm.
 
 Gideon never saw him again.
 
-That night he opened the workshop book to a clean page, wrote the date, and wrote the question as plainly as he could.
+That same morning he called the two welders and the three pattern Kindled to the bench, before the stove was even lit, and put the tin bowl in the middle of it, because Tamar had left it behind. Whether he had meant to was anybody's guess.
 
-*Q (from T. Vey, Home Line teacher): Can ash hold the rules around the heat, instead of being the heat?*
+"Here's the question," said Gideon. "Can ash hold the rules around the heat, instead of being the heat?"
 
-Under it he wrote: *Answer: unknown.*
+They looked at the bowl. Then they looked at him.
 
-Under that: *Begin tomorrow.*
+"I don't know," he said. "Nobody does. We start today."
+
+He sat down at the bench, and after a moment, so did they.
 
 ---
 
@@ -590,7 +676,7 @@ Under that: *Begin tomorrow.*
 
 By the time they lit Unit One, there were three hundred people on the hill above Corbel Reach, and most of them had brought lunch.
 
-Gideon Sayle watched them from the control room window. He was sixty-one now, and his knees hurt in the cold. There were families on blankets and children sliding down the frosted grass on tin trays, and there was a woman from the Meridian news sheet with a pad of paper and a pencil behind each ear. Somebody had brought a fiddle.
+Gideon Sayle watched them from the control room window. He was sixty-one now, and his knees hurt in the cold. There were families on blankets and children sliding down the frosted grass on tin trays, and there was a man from the Meridian news sheet in a borrowed coat, eating somebody else's sandwiches. Somebody had brought a fiddle.
 
 "They think it's a festival," said Pia Morrow beside him.
 
@@ -606,7 +692,7 @@ Unit One was small, which was the first thing everyone said about it. It would m
 
 The second thing everyone said was the lattice.
 
-It sat around the core like a cage, forty-eight steel cartridges, each the size of a man's forearm and each packed with graded ash. Over thirteen years, Gideon's people had learned to set patterns in them the way Tamar had set a fence around a stone, except that this was not one fence but hundreds of small rules woven together. *Heat may go this way. Not that way. If it builds here, spread it there.* Six Kindled had spent a month impressing the master pattern, two Ward and two still-door and a pair of Sustain healers to read the metal for weak places, and a Blaze-rank ward master from Meridian had checked every cartridge by hand and signed every one in the book.
+It sat around the core like a cage, forty-eight steel cartridges, each the size of a man's forearm and each packed with graded ash. Over thirteen years, Gideon's people had learned to set patterns in them the way Tamar had set a fence around a stone, except that this was not one fence but hundreds of small rules woven together. *Heat may go this way. Not that way. If it builds here, spread it there.* Six Kindled had spent a month impressing the master pattern, and a Blaze-rank ward master from Meridian had checked every cartridge by hand.
 
 Once it was set, nobody had to stand beside it.
 
@@ -626,7 +712,7 @@ At forty percent, Pia closed the main breaker.
 
 Down the valley, along the one street of Corbel that had been strung with new wire, the lamps came on.
 
-Gideon heard the cheer from the hill through the thick glass. He saw children jumping, and the woman from the news sheet writing with both hands, and he let out a breath he had been holding, it felt like, for thirteen years.
+Gideon heard the cheer from the hill through the thick glass. He saw children jumping, and the man from the news sheet throwing his hat in the air, and he let out a breath he had been holding, it felt like, for thirteen years.
 
 "Sixty percent," said Pia. "Following load."
 
@@ -642,7 +728,7 @@ Pia looked. "It's spending faster than the others."
 
 "Why?"
 
-"I don't know. It's closest to the hot channel. It's doing more work." Her voice was very calm. "Twenty-nine and thirty-three are steady."
+"I don't know. It's closest to the hot channel. It's doing more work." Her voice was very calm. "Thirty and thirty-two are steady."
 
 The needle on thirty-one kept falling. Yellow. Low yellow.
 
@@ -658,7 +744,7 @@ It was a single thermocouple on the hot-channel side, and it went up two degrees
 
 The needle on thirty-one touched red.
 
-The hot-channel thermocouple jumped eleven degrees in a breath.
+The hot-channel thermocouple jumped twelve degrees in a breath.
 
 Pia lifted the red cover and pulled the scram lever.
 
@@ -678,21 +764,21 @@ Gideon sat down in the chair beside the operator's desk because his legs would n
 
 "It wasn't the pattern. The pattern was fine. It was the fuel. One cartridge doing more work than the others and running out first, and once one runs out, its neighbors have to carry its share, and then they run out faster." She studied the ring of needles. "If we'd been at a hundred percent, we'd have lost three before I saw it."
 
-"Then nobody runs at a hundred," said Gideon. "And nobody lets one cartridge get past half before it's changed. And nobody runs a cartridge without a pair on the other side of it." He was already reaching for the book. "Every cartridge gets its own meter on the desk. Not out in the hall. Here."
+"Then nobody runs at a hundred," said Gideon. "And nobody lets one cartridge get past half before it's changed. And nobody runs a cartridge without a pair on the other side of it. Every cartridge gets its own meter on the desk. Not out in the hall. Here."
 
-He wrote it down, with the date and the time. *Unit One, first commissioning. Held 60% for 22 min. Cart. 31 spent ahead of ring (hot channel load). Local heat lean, +18. Scram pulled, P. Morrow. Lattice held core in shutdown. No release.*
+He leaned to the speaking tube, so that the lattice crew would hear it too, and Rao, who had been reaching for thirty-one.
 
-Then, in the column on the right, under *Why*:
+"Ash is finite," he said, "and it doesn't spend evenly. A fence with one weak stone is not a fence. Check the pairs."
 
-*Ash is finite and does not spend evenly. A fence with one weak stone is not a fence. Check the pairs.*
+"Check the pairs," said the tube, in a tired voice.
 
 Outside, the people on the hill had not gone home. They were standing in the snow, waiting to be told whether to be afraid. Gideon put on his coat and went out to tell them the truth, which was that the new reactor had found a way to fail on its first day, and had failed safely, and that this was the best possible thing that could have happened, because now they knew.
 
-Some of them believed him. The woman from the news sheet wrote down every word.
+Some of them believed him.
 
 Six weeks later, they lit it again. It ran for nineteen years.
 
-Every shutdown code written after that, in every plant from Corbel Reach to the coast, began with the same three words.
+Every shutdown code after that, in every plant from Corbel Reach to the coast, began with the same three words.
 
 ---
 
@@ -722,11 +808,11 @@ The Pellow Building was five stories of yellow brick with a crack over the door.
 
 "The core's the core," said Femi. "It comes when the Works says it comes."
 
-It took him and his apprentice all morning to set it in the cellar. They bolted it to the floor and ran its heavy cables to the induction board on the wall, and from the board up through the building to a small steel cell box in every flat. The core would make the heat. Its pattern, impressed in the Halden yards by a Glory master Femi had never seen and never would, would hold the fission steady and spread its heat to the induction ring, and the ring would turn heat into current. The cell boxes in the flats would take that current and store it and give it out, and each one had its own meter, its own little ledger, and its own red handle.
+It took him and his apprentice all morning to set it in the cellar. They bolted it to the floor and ran its heavy cables to the induction board on the wall, and from the board up through the building to a small steel cell box in every flat. The core would make the heat. Its pattern, impressed in the Halden yards by a Glory master Femi had never seen and never would, would hold the fission steady and spread its heat to the induction ring, and the ring would turn heat into current. The cell boxes in the flats would take that current and store it and give it out, and each one had its own meter and its own red handle.
 
-It was not magic in the old sense, the sense that meant a woman with her hands on a sick cow. It was a hundred and fifty years of hard, careful work, and a license fee, and a Works inspector's signature.
+It was not magic in the old sense, the sense that meant a woman with her hands on a sick cow. It was a hundred and fifty years of hard, careful work, and a license fee, and a Works inspector willing to put his name to it.
 
-That signature was Femi's job.
+That was Femi's job.
 
 At noon he went up to the second floor to fit the first cell box. Flat 2C belonged to a woman named Hester Quayle, who opened the door with a wooden spoon in her hand and a small boy hanging off her skirt.
 
@@ -772,7 +858,7 @@ The landlord came down the cellar steps. "Problem?"
 
 "Nonsense. I paid First for them."
 
-"Then you were cheated. I'm sorry." Femi set the can down. "I can't sign them into the building."
+"Then you were cheated. I'm sorry." Femi set the can down. "I can't pass them into the building."
 
 Mr. Pask's face went red. "Do you know what those cost me?"
 
@@ -780,13 +866,13 @@ Mr. Pask's face went red. "Do you know what those cost me?"
 
 "Then fit them and I'll replace them later."
 
-"I can't." Femi took out his license book and opened it on the crate. "If I sign it, it's my name. If I don't sign it, the building doesn't pass. That's how it works."
+"I can't." Femi put his hand flat on the crate. "If I pass it, it's my name on this building. If I don't pass it, the building doesn't pass. That's how it works."
 
 "The building doesn't pass, nobody gets power."
 
 "Nobody gets power until you bring clean cells. A week, maybe. The Works will sell you graded stock."
 
-Mr. Pask said several things then that Femi did not write down. Then he went back up the steps and slammed the cellar door hard enough to shake dust out of the ceiling.
+Mr. Pask said several things then that Femi did not repeat to anybody afterward. Then he went back up the steps and slammed the cellar door hard enough to shake dust out of the ceiling.
 
 Femi stood in the cellar for a while with his hands on the crate, thinking about the four little vials in the bowl of snow.
 
@@ -814,15 +900,11 @@ The boy opened the door, and a small yellow light came on inside. He stared at i
 
 Hester moved the four little vials from the windowsill into the cupboard, one at a time, and shut the door.
 
-Downstairs, in the cellar, Femi opened his license book and wrote it out. *Pellow Bldg, Weighbridge St. Core installed, bolted, tested. Board fitted. 12 cells refused, stamped First, graded Third or under. Not signed. 1 test cell (Works stock, mine) fitted to cold-cupboard 2C.*
+Downstairs, in the cellar, Femi stood over the crate of cut cells for a while.
 
-Then, in the column on the right:
+Mr. Pask would be at the Works by morning, and the Works would want its test cell back or its price out of Femi's wages, and somebody in a good coat would ask him what he thought he was doing. He knew what he would say. He would say it to the man's face. A child's medicine was in that cupboard, and the cells came back clean or they did not come in, and the ash said *First* and was not.
 
-*Why: child's medicine. Cells come back clean or they don't come in.*
-
-He knew the Works would read it, and he knew he would probably pay for the cell out of his own wages. He wrote it anyway, because the next installer to come to the Pellow Building would want to know why the cupboard in 2C ran on a test cell, and because somebody, somewhere, ought to know that the ash said *First* and was not.
-
-It was dusk by the time he had the wagon loaded. Across the canal, the Lantern had come on, a long white wash of light along the far bank, the same as every evening of his life. Weighbridge Street was dark behind him, with oil lamps showing in a window here and there and the Pellow Building standing unlit over its new green core. He counted up to the second floor anyway. He could not see it from the street, but he knew it was there, behind a cupboard door in 2C: one small yellow light, on this side of the water.
+It was dusk by the time he had the wagon loaded. Across the canal, the Lantern had come on, a long white wash of light along the far bank, the same as every evening of his life. Weighbridge Street was dark behind him, with oil lamps showing in a window here and there and the Pellow Building standing unlit over its new green core. He looked up to the second floor anyway. He could not see it from the street, but he knew it was there, behind a cupboard door in 2C: one small yellow light, on this side of the water.
 
 ---
 
@@ -868,15 +950,15 @@ The water was at the farmhouse's upper windows.
 
 "They weren't there an hour ago."
 
-"They were inside. Now they're on the roof." His voice was flat. "The Vellen company boat is coming up from Corran. It'll be here in forty minutes."
+"They were inside. Now they're on the roof." His voice was flat. "The Vellen company boat is coming up from Lisk. It'll be here in forty minutes."
 
 "The water will be at the roof in thirty."
 
 There was a silence on the wire.
 
-"Tova," said Hob. "Listen to me. I know what the ledger says. I know. Lives first. But the ledger also says clean ash, and that's a whole Barrel of clean ash going into the mud. That's power for half of Saltmere for a winter. That's people too. You just don't see their faces."
+"Tova," said Hob. "Listen to me. I know the rule. I know. Lives first. But the rule says clean ash too, and that's a whole Barrel of clean ash going into the mud. That's power for half of Saltmere for a winter. That's people too. You just don't see their faces."
 
-She knew he was right, and that was the worst part. Every ash cell in Saltmere ran on what companies like theirs brought home, and that meant every hospital, every cold-cupboard, every pump. The company standings counted clean ash for a reason, and the people who drew up the standings had not been fools.
+She knew he was right, and that was the worst part. Every ash cell in Saltmere ran on what companies like theirs brought home, and that meant every hospital, every cold-cupboard, every pump. The company standings rewarded clean ash for a reason, and the people who drew up the standings had not been fools.
 
 She checked the meter on the ring. Thirty-one.
 
@@ -886,9 +968,9 @@ She checked the meter on the ring. Thirty-one.
 
 "And if I go on the harness? Not the boat."
 
-"Your harness is at nine minutes."
+"Your harness is at eight minutes."
 
-Nine minutes of lift. The personal rigs were not made for long flights. They were made for short, hard jumps by people trained to use them, and Tova had trained for six years to join the fewer than one fighter in twenty in the companies who were licensed to wear one. On a good day she could hold a straight line in a crosswind for nine minutes, set down soft, and lift again. She had never carried a child on one.
+Eight minutes of lift. The personal rigs were not made for long flights. They were made for short, hard jumps by people trained to use them, and Tova had trained for six years to join the fewer than one fighter in twenty in the companies who were licensed to wear one. On a good day she could hold a straight line in a crosswind for eight minutes, set down soft, and lift again. She had never carried a child on one.
 
 "I'll go to the roof on the harness," she said. "You bring the boat down over the house. I'll put them on the ladder one at a time. That's less fuel than the boat landing in the water."
 
@@ -900,7 +982,7 @@ Brown water was already lapping at the edges of the grey drift on the gravel bar
 
 Hob did not answer. Then the wire clicked.
 
-"All right," he said. "All right. Go. I'll write it."
+"All right," he said. "All right. Go. I'll answer for it."
 
 She went.
 
@@ -928,15 +1010,13 @@ As they turned toward the hill, Tova rolled over and looked up the valley.
 
 The gravel bar was gone. There was only brown water where it had been, and a faint grey sheen spreading out on the current like smoke.
 
-Hob came and crouched beside her with the company book open on his knee. He did not say anything for a while. Then he turned it so she could see what he had written.
+Hob came and crouched beside her. He did not say anything for a while. Then he said it the way he would have to say it on the quay at Saltmere, to the standings board's face.
 
-*Ferren valley. Barrel-yield spawn killed 0615, all six. Rift closing, masts confirm. Spillway gates: lost. Lives: three civilians and one dog lifted from roof, 0702. Clean ash: one full Barrel, not recovered. Lost to flood.*
+"Barrel-yield killed at a quarter past six, all six of us on it. Rift closing. Spillway gates lost. Three people and a dog off a roof. One Barrel of clean ash, lost to the flood."
 
-Under that, in the narrow column:
+"And when they ask why?"
 
-*Why: they were on the roof.*
-
-"The standings board will dock us for the ash," said Hob. "We'll be fourth this season. Maybe fifth."
+"They were on the roof." He rubbed his face. "The board will dock us for the ash. We'll be fourth this season. Maybe fifth."
 
 "I know."
 
@@ -944,103 +1024,113 @@ Under that, in the narrow column:
 
 "The water would have been at the roof in thirty."
 
-He held her eyes for a moment. Then he closed the book.
+He held her eyes for a moment.
 
-"That's what I wrote," he said.
+"That's what I'll tell them," he said.
 
 Behind them, the crying had stopped. The little girl was sitting against the deck rail in somebody's company jacket, with both arms around the wet brown dog, and the two of them were watching the roof of their house get smaller behind the boat.
 
 ---
 
-## 10. The Superseded Stacks
+## 10. The Stair
 
 *2603 — five hundred twenty-three years after the Fall*
 
-The committee met on the top floor of the Compact Library, in a room that had been built for ballroom dancing two hundred years earlier and now held a table long enough for nineteen people. Marisol Quenby sat at the far end of it with the minutes, because that was what junior archivists did.
+The lane-drill committee of the Crooked Line School met on the top floor of the old lecture house, in a room with tall windows that looked straight down into the Old Yard. Marisol Quenby sat at the far end of the table, on a hard chair against the wall, because she was there to answer questions and not to vote.
 
-"Item eleven," said the chair. "The reasons column."
+She was twenty-six. She had run the School's lane for first-years for three years, and for three years nobody had asked her anything at all.
 
-He was a pleasant man named Teague Orme, with neat silver hair and a Halden Works pin on his lapel. House Halden had paid for the new edition of the *Standard Lane Manual*. It had paid for the committee, and it had paid, very generously, for the library's new roof. Nobody in the room said this aloud, and everybody knew it.
+Last Thursday, a first-year named Davey Mott had run the lane in the dark and hit the leaning post at the end of it at full stride, and broken his collarbone in two places.
 
-"The current edition," said Orme, "runs to nine hundred and forty pages. Over a third of that is the seventh column. Reasons. Most of them are anecdotal, some are folklore, and some contradict each other. And none of them change what a student is actually asked to do." He smiled at the table. "We propose to keep the exercises, the failure modes, the costs and the recovery times. All of that is measurable. We'll retire the reasons to an appendix. Or a separate volume, for scholars."
+"We are not here to blame anybody," said the chair.
 
-"A separate volume nobody will print," said the woman from the Order of the Even Hand.
+He was a pleasant man named Teague Orme, with neat silver hair and a Halden Works pin on his lapel. House Halden had paid for the committee, and for the School's new lecture hall, and for the row of tall induction lamps that workmen were bolting to the wall over the Old Yard that very morning. Marisol could hear them through the window, clanking. Nobody in the room mentioned the lamps, and everybody knew about them.
 
-Her name was Warden Ottilie Sand, and she sat in grey with her hands folded on the table. The Even Hand was a Ward order whose people trained in a single door for their whole lives, and Marisol had heard that some of them did not speak for a year at a time. Warden Sand spoke perfectly well.
+"We are here," said Orme, "because a boy of fourteen is in the infirmary, and his mother would like to know why the Crooked Line School sends children down a lane of posts with their eyes covered."
 
-"Every one of those reasons was paid for," said Sand. "By someone who got hurt finding it out."
+"It's a lane drill," said a lecturer from Stonehand. "Every school does it."
 
-"And we honor them," said Orme. "But a manual is not a memorial. It's a tool. Take this one." He turned a page in front of him. "*The lane with the crooked posts. Why: because the road isn't straight.* With respect, Warden, that isn't a reason. It's a riddle. Students laugh at it."
+"Lit," said Orme. "Every other school does it lit." He turned. "Miss Quenby. You were at the lane."
 
-"Then they should go and find out why it's funny."
+Marisol stood up, because she did not know whether she was supposed to.
 
-"Or we could simply say *retained for ceremonial continuity*," said Orme, "and spare them the trouble."
+"He ran it straight," she said. "From the sheds to the end. He didn't call the turn before the eighth, and he didn't touch the posts, and he didn't say who had the bar. He just ran." She made herself look at the chair and not at the floor. "He ran it straight and silent because I hadn't made him call. He'd been quiet all term, and I let him be quiet. If he'd called the turn, he'd have turned. That was mine."
 
-There was a vote, and Marisol wrote it down. Eleven for. Six against. Two abstaining.
+There was a small silence.
 
-The reasons column was retired.
+"That's very honest of you," said Orme kindly. "And I think it rather makes the point. A drill that breaks a child's bones if the instructor has a soft week is not a drill we can defend to his mother."
+
+"It's the call that keeps them safe," said Marisol. "Not the dark. If you drop the call—"
+
+"Thank you, Miss Quenby."
+
+She sat down.
+
+The Warden of the Order of the Even Hand was at the middle of the table, in grey, with her hands folded in front of her. Her name was Ottilie Sand, and Marisol had heard that the Order's people trained in one door for their whole lives and sometimes did not speak for a year at a time. She did not speak now. She was watching Marisol.
+
+Across from her sat a heavy man in a Home Line field coat, Foreman Absalom Rudd, who had his arms folded and looked as if he had been in better rooms.
+
+"There's one more thing," said Orme. He smiled down the table at a senior student who had been put on the committee to speak for the students, a tall cheerful boy named Jasper Lyle. "Mr. Lyle. You've run that lane for four years. Why does the last post lean?"
+
+Lyle grinned. He knew the answer, and so did everyone else.
+
+"Because the road isn't straight," he said, and laughed.
+
+Half the table laughed with him. Orme laughed. Even the lecturer from Stonehand smiled.
+
+"Quite," said Orme. "I think that's our answer. I move that the School run its lane lit from the start of next term, and that the call be dropped from the drill, since with the lamps on, it serves no purpose."
+
+They voted. It was not close.
+
+The Warden's hand went up against it, and Foreman Rudd's, and two lecturers' from the Home Line side. That was all. Marisol, who did not have a vote, watched the hands go up and down.
+
+"Carried," said Orme.
+
+Foreman Rudd unfolded his arms.
+
+"The Line will go on running its own lanes dark," he said. "With the call. I'd like that said in this room, so nobody's surprised."
+
+"That is the Line's business," said Orme pleasantly. "Item four."
 
 ---
 
-Afterward, Warden Sand caught her in the stairwell.
+Afterward, on the stair, the Warden caught her up.
 
-"You're the one who catalogs the Annick papers," said Sand.
+The stair went down the outside of the lecture house in a long stone spiral, with a window at every turn, and from the third window Marisol could see the workmen in the Old Yard below. They had six of the new lamps up already. They were tall and white and very bright, even in daylight, and they made the old black posts look small.
 
-Marisol stopped with her arms full of minutes. "Yes, Warden."
+"Miss Quenby," said Warden Sand.
 
-"The Order wants them withdrawn."
+Marisol stopped. "Warden."
 
-"They were given to the library by the Halden family. With the house's endowment."
+"You said that was yours. In a room that was trying very hard to give it to somebody else." The Warden came down two more steps, so that they were level. She was older than Marisol had thought, close to, with a lined, quiet face. "I'd like to offer you a place."
 
-"They were stolen from the Order by a Halden heir eighty years ago and given to the library to make him look generous." Sand's voice did not rise. "Master Annick was ours. Those were private papers. She did not write them for strangers to read."
+"A place?"
 
-Marisol did not know what to say. She had been cataloging the Annick papers for three months. Hesper Annick had been the Even Hand's most famous master, who had reached Glory in 2431 and was said to have held a ward over the whole Eastbank flood-wall for nine days without rest. In 2461 she had walked out of the Order's house in the hills in the winter rifts and had not come back, and the Order had recorded her as dead long ago. Her papers filled eleven boxes, and most of them were notes on Ward patterns that the Order had been begging to have back for decades.
+"At our house. In the hills." Sand said it simply, as if it were an ordinary thing to say to a stranger on a stair. "The Order would train you in your one door. Ward, I think. You'd give up the others. You'd give up most things. And you'd stay."
 
-The Order wanted the papers back so that it could burn some of them.
+Marisol did not know what to say, so she said the true thing. "Why would I do that?"
 
-House Halden had paid to keep every one.
+"Most people ask why we do it." The Warden looked out of the window, down at the lamps. "Do you know who Hesper Annick was?"
 
-"I'll pass your request to the Keeper," said Marisol.
+"The woman on the flood-wall. In bronze."
 
-"Do," said Sand. She started down the stairs, and then she stopped and turned back. "You don't think much of us, do you? The orders. All that devotion. One door for a whole life. While the Halden yards light half the region."
+"She was ours. Our master. She reached Glory, which almost nobody does, and she held the Eastbank wall through the whole of a flood. And she had a dream, when she was fevered, the same dream, more than once." Sand's voice did not change. She might have been giving directions to the tram. "People coming from every road at once. Each with a different light. When they came close, their lights touched, and none of them could tell where one stopped. And the sky over them was not torn. It was not there. As if someone had taken the roof off a house in the night." She paused. "And what was above came down. Full. Paying attention. And every lamp in Meridian answered at once. Some went out. Some went white. One turned a color she had no word for."
 
-"I don't know enough to think anything, Warden."
+The workmen in the yard had stopped for their lunch. It was very quiet on the stair.
 
-"Good answer." Sand almost smiled. "The houses keep the lights on. We keep the reasons. Somebody has to do both. Mind which one you're doing on any given day."
+"That's what you believe?" said Marisol.
 
----
+"That's what we believe. That the sky will come off. That when it does, somebody had better be standing there who has spent a whole life on one door and knows exactly what it can hold." The Warden turned back to her. "We don't know when. We don't know what the people from every road are for. We train so that we're there."
 
-That evening, alone in the basement, Marisol did two things that were not in her instructions.
+"And you want me."
 
-The first was small. The old edition of the *Standard Lane Manual* was being moved to the superseded stacks, where outdated books went to be kept and not read, and before it went she found the page with the crooked post on it. Beside the printed reason, in pencil, very small, she wrote: *Retired from standard ed., 2603. Committee vote 11–6. Original reason retained here.* Then she shelved it.
+"I want somebody who says *that was mine* in a room like that one." Sand almost smiled. "We don't get many."
 
-The second was the box marked *Annick: Personal*.
+Marisol looked down at the yard, at the new lamps and the old posts and the long strip of packed earth where she had run first-years in the dark for three years.
 
-She had been saving it, knowing that the Order wanted this box most of all, and she opened it carefully. Inside were letters, a few sketches of hands, and a thin notebook with a cracked green cover, filled with handwriting that was large and quick and slanted hard to the right.
+"I run a lane," she said.
 
-Most of it was about Ward. One entry, near the back, was not.
-
-*Fever again. Fourth time with this dream, so I will write it. Somebody should.*
-
-*They come from every road at once. I do not know them. I know what they are, because I know what I am, and they are that. Each one carries a different light. When they get close enough, their light touches mine and theirs, and none of us can tell any longer where one stops.*
-
-*Above us the sky is not torn. I want to be very clear. I have seen rifts all my life and this is not a rift. The sky is not there. As if someone had taken the roof off a house in the night and the house woke and found itself under the stars. And what is above comes down and in. Not crushing. Full. Like standing under a wave that does not break. I have spent my whole life holding back pressure, and this is not a pressure I could hold back. It is too large. It is paying attention.*
-
-*Every lamp in Meridian answers at once. Some go out. Some go white. One turns a color I have no word for.*
-
-*I do not know if we gathered to hold it shut, or to break it open, or to take it, or only to stand there together when it came. I wake before I find out. Every time.*
-
-*I do not know if it is a memory, or a warning, or only what a fever makes out of a Glory master's fears. I have told no one in the house. They would make it into doctrine by spring.*
-
-*The sky unroofed. That is the only way I can say it.*
-
-Marisol read it twice. Then she sat back in her chair and listened to the library's induction lamps hum in the dark rows.
-
-She could withdraw it. That was what the Order wanted, and it would be easy.
-
-Instead, she took a fresh catalog card and wrote: *Annick, H. Personal notebook, c. 2446–2450. Includes fever account ("the sky unroofed"). Status: disputed. Retained.*
-
-She filed the notebook in the box, and the box on the shelf, and the card in the drawer, where it would wait for somebody who needed it.
+"You ran one," said the Warden. "They've lit it." She went on down the stair. At the next turn she said, without looking back, "The offer's on the latch. It doesn't go stale."
 
 ---
 
@@ -1056,7 +1146,7 @@ Her aunt was standing in the shop doorway in her work apron, holding a small gre
 
 "Who was that?" said Kiva.
 
-Mara did not answer at once. She shut the door and turned the shop sign to *Closed*, though they were not open yet anyway. Then she set the case on the counter between a half-repaired pressure gauge and a stack of paper ledgers and regarded it as if it might bite.
+Mara did not answer at once. She shut the door and turned the shop sign to *Closed*, though they were not open yet anyway. Then she set the case on the counter between a half-repaired pressure gauge and a tray of meter needles and regarded it as if it might bite.
 
 "It's from Ilse," she said.
 
@@ -1068,15 +1158,15 @@ Kiva came down the stairs slowly. "Ilse's dead."
 
 Mara broke the seal.
 
-Inside, on a bed of faded green cloth, lay a disk about the width of Kiva's palm. It was dark, almost black, and smooth as river glass, with nine fine grooves running around it in rings, each a little narrower than the last, and a cord through a small hole near the edge.
+Inside, on a bed of faded green cloth, lay a disk about the width of Kiva's palm. It was dark, almost black, and smooth as river glass, with nine grooves cut around it in rings, each finer than the last, and a cord through a small hole near the edge.
 
 Kiva did not touch it at first.
 
-She remembered Ilse Corran a little, as a tall woman with cropped grey hair and a long scar on her jaw who had come to the flat sometimes when Kiva's mother was alive and laughed very loudly in the kitchen. After the substation fire, she had come once more and sat with Kiva on the stairs for an hour without saying much, and then she had gone back out to the field. Four years later, the Home Line had sent word that she was dead.
+Kiva had a picture of Ilse Corran in her head, a tall woman with cropped grey hair and a long scar on her jaw who had come to the flat sometimes when Kiva's mother was alive and laughed very loudly in the kitchen. After the Tallow fire, she had come once more and sat with Kiva on the stairs for an hour without saying much, and then she had gone back out to the field. Four years later, the Home Line had sent word that she was dead.
 
 "What is it?" said Kiva.
 
-"It's old," said Mara. "Older than the Compact, Ilse said. The Home Line passes it from one bearer to the next. Not in families. By appointment. The one who has it chooses who gets it." Her mouth tightened. "Ilse chose you."
+"It's old," said Mara. "Older than the Compact, Ilse said. The Home Line gives it from one bearer to the next. Not in families. By appointment. The one who has it chooses who gets it." Her mouth tightened. "Ilse chose you."
 
 "Why?"
 
@@ -1098,9 +1188,9 @@ Mara studied her for a long moment. Then she took the cord and put it over Kiva'
 
 The Kindling for the Eastbank wards was held in the Old Yard of the Crooked Line School, which was the oldest part of the Meridian Compact and looked it.
 
-Kiva had walked past it a hundred times. The rest of the Compact was glass and white stone and induction lamps, with flight lanes over the roofs and practice arenas you could hear cheering from three streets away, but the Old Yard was a long walled strip of packed earth, with sheds down one side and a line of practice posts down the middle. The posts were black with age. Most were straight. One, at the far end, leaned.
+Kiva had walked past it a hundred times. The rest of the Compact was glass and white stone and induction lamps, with flight lanes over the roofs and practice arenas you could hear cheering from three streets away, but the Old Yard was a long walled strip of packed earth, with sheds down one side and a line of black practice posts down the middle, and tall white lamps along the wall above them.
 
-The morning went to the registry line, the healer's check, and a long cold wait on a bench, and it was well past two in the afternoon before Kiva's group was called into the yard. By then there were braziers burning and benches full of families, and a long table where three assessors in Compact grey sat with ledgers and instrument boxes. Behind the table stood the lit frame, an open cage of fine wires taller than a man, and beside it was a projection board, a sheet of pale glass on a stand where the readings would show.
+The morning went to the registry line, the healer's check, and a long cold wait on a bench, and it was well past two in the afternoon before Kiva's group was called into the yard. By then there were braziers burning and benches full of families, and a long table where three assessors in Compact grey sat with their instrument boxes. Behind the table stood the lit frame, an open cage of fine wires taller than a man, and beside it was a projection board, a sheet of pale glass on a stand where the readings would show.
 
 There were thirty-one children in Kiva's group, all of them thirteen, and all of them trying to look as if they did not care.
 
@@ -1112,9 +1202,9 @@ The second was the bowl, which was wide and shallow and full of water drawn from
 
 The third was the stance stone, a flat grey slab worn smooth in the middle by five hundred years of feet. You stood on it while an assessor put a hand on your chest and pushed, and if the still door opened for you, you did not move.
 
-Most people opened at one station. That was how it worked. Your first door was whatever answered first, and that was who you would be: Ember-door, hand-door, or still-door. Some people opened at none and had to come back the next year. Nobody opened at more than one.
+Most people opened at one station. That was how it worked. Your first door was whatever answered first, and that was who you would be: Ember-door, hand-door, or still-door. Some people opened at none and had to come back the next year.
 
-Kiva went eleventh.
+Kiva's name was called before she was ready.
 
 She walked to the brazier, where the assessor, a broad man with burn scars up both forearms, handed her a pair of tongs and nodded at the slab.
 
@@ -1130,7 +1220,7 @@ It did not burn.
 
 It was hot, deeply and evenly hot, like bread just out of the oven, and then it changed. The water-grey went out of it from the middle, and a color came in that was dull copper, the color of an old pan, and spread to the edges of the slab and stayed.
 
-The assessor wrote in his ledger. "Ember door," he said. "Congratulations. Step to the table."
+The assessor nodded at the slab. "Ember door," he said. "Congratulations. Step to the table."
 
 Kiva stepped back from the brazier with the slab in her hands. To reach the table, she had to pass the bowl.
 
@@ -1154,11 +1244,11 @@ It rose to meet them. It stood up out of the bowl in a column as thick as her wr
 
 "Hand door," said the old woman. Her voice was not steady. "Hand door as well."
 
-The yard had gone quiet, and the other children were staring. The broad man from the brazier had come over, and so had the third assessor, a young man with a ledger clutched to his chest.
+The yard had gone quiet, and the other children were staring. The broad man from the brazier had come over, and so had the third assessor, a young man who had not let go of his instrument box.
 
 "That's not possible," said the young man.
 
-"Write it," said the old woman.
+"Look at it," said the old woman. "It's possible."
 
 "The stone," said the broad man. He was watching Kiva the way her mother had once watched a cell that was humming the wrong note. "Just to be sure. Get on the stone, girl."
 
@@ -1184,11 +1274,11 @@ He took his hand away and stared at it.
 
 They put her in the lit frame.
 
-She stood inside the cage of wires while the young assessor worked the instrument box. The projection board lit up, and columns of pale light rose on the glass, one for each door, the way they did for everyone.
+She stood inside the cage of wires while the young assessor worked the instrument box. The projection board lit up, and bands of pale light rose on the glass, one for each door, the way they did for everyone.
 
 Except that they would not hold still.
 
-The Ember column rose to a quarter and dropped. The hand column jumped up past it and shivered, and the still column sat low and steady for a breath and then leapt, and they kept trading places while the young assessor tapped the box and swore under his breath. The total at the bottom of the board read a number, then a different number, then a row of dashes.
+The Ember band rose to a quarter and dropped. The hand band jumped up past it and shivered, and the still band sat low and steady for a breath and then leapt, and they kept trading places while the young assessor tapped the box and swore under his breath. The total at the bottom of the board read a number, then a different number, then a row of dashes.
 
 "It's the rig," he said. "It must be the rig."
 
@@ -1242,7 +1332,7 @@ The packed earth was cold against her cheek, and somebody's coat was under her h
 
 "Can you sit up?"
 
-She could. The yard tilted and came back. All around them people were standing, and the assessors were arguing at the table, and on the projection board the columns had gone dark.
+She could. The yard tilted and came back. All around them people were standing, and the assessors were arguing at the table, and on the projection board the bands had gone dark.
 
 "The lamps went out," somebody was saying. "All the lamps in the yard. Just for a second."
 
@@ -1262,7 +1352,9 @@ The disk lay in the middle of them. It was cold, but only ordinary cold now, lik
 
 The old woman from the bowl came over to them. She crouched slowly, with a hand on her knee, and considered Kiva for a long time.
 
-"We'll write it down," she said at last. "All three. Classification deferred." She turned to Mara. "I'm sorry. I don't know what else to put. There isn't a column for this."
+Then she turned to Mara, and said it to her face.
+
+"All three," she said. "Classification deferred. I'm sorry. I've been reading children on that bench for thirty years, and I have no name for what that was."
 
 ---
 

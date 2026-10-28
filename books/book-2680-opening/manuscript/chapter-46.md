@@ -14,19 +14,19 @@ Rhea Sorn's head came round.
 
 "It wasn't." The pale eyes rested on her. "Go on. I'm listening for the last part hardest."
 
-"That arm's a hem under load. It's got a slack; four hauling and four easing. I stand at the hole. I put a ward under it for one tap, on the slack, and it comes off the water. It throws me. I fold, and I go with the throw four paces, and I put it down in dry ground and stand on it. Hand, Ember, still." She heard her own voice, thin in the cold yard. "Then it's hauling on me and not on the drain. The slot's clear. The gate can come down behind it. And there's nothing driving the main, so my aunt can stop her pumps and have the water lie."
+"That arm's a hem under load. It's got a slack; it hauls, and then it eases. I stand at the hole. I put a ward under it for one tap, on the slack, and it comes off the water. It throws me. I fold, and I go with the throw four paces, and I put it down in dry ground and stand on it. Hand, Ember, still." She heard her own voice, thin in the cold yard. "Then it's hauling on me and not on the drain. The slot's clear. The gate can come down behind it. And there's nothing driving the main, so my aunt can stop her pumps and have the water lie."
 
 "For how long?" said Vane.
 
-"I held a corner for ten in the Pit. That was three of them. This is ten, on a longer arm. I'll not hold it. That's the first piece that isn't mine." She drew a breath. "I plant it. After six, it goes to somebody who can stand under it, and I shut. That was to be Brask."
+"I held a corner in the Pit, off three posts. This is an arm of ten, and longer. I'll not hold it. That's the first piece that isn't mine." She drew a breath. "I plant it. Once it's planted, it goes to somebody who can stand under it, and I shut. That was to be Brask."
 
 "It still is," said Lowen Brask, from the gap.
 
-"Not if the bar wants you. Four fitters have had that gate since Tuesday, and it's stuck at seven. If the last two turns are still-doors' work, that's you and Cade. *Two to the bar.* Then the corner's Wace's, with Moss at his other end. A plank. I asked them on Monday." She made herself say it slowly, as she would have called a mark. "I'm saying it now, before, so that if it turns, it's a turn that's been called."
+"Not if the bar wants you. Four fitters have had that gate since Tuesday, and it's stuck short of home. If the last of it is still-doors' work, that's you and Cade. *Two to the bar.* Then the corner's Wace's, with Moss at his other end. A plank. I asked them on Monday." She made herself say it slowly, as she would have called a mark. "I'm saying it now, before, so that if it turns, it's a turn that's been called."
 
-"The count," said Rhea.
+"Who calls the slack?" said Rhea.
 
-"Not mine. I nipped a first-year on Sunday. Brask's, if he's free. If he's at the bar—"
+"Not me. I'll be under it. I need somebody who can see the hole and say *out* when it hauls and *in* when it eases, and not hurry. Brask, if he's free. If he's at the bar—"
 
 "Then it's mine," said a voice from the lane.
 
@@ -42,7 +42,7 @@ They put her down beside Kiva, against the eighth post, the last of the north ro
 
 Healer Aske had walked down the lane. He had no coat on. He took her left hand without a word and turned it to Pru's lamp, and pressed the palm, and the wrist, and looked at the nails.
 
-"No white," he said. "I looked for it. I'd have been glad of it." He did not let go. "I'll say this to the foreman's face and to the officer's, since that's what I wrote on a card. I don't know. The two fingers paid the last time, since they'd been hurt first. They've nothing left. So it comes out of the next thing, and the next thing's the hand. I think it goes to the elbow."
+"No white," he said. "I looked for it. I'd have been glad of it." He did not let go. "I'll say this to the foreman's face and to the officer's, since I said that I would. I don't know. The two fingers paid the last time, since they'd been hurt first. They've nothing left. So it comes out of the next thing, and the next thing's the hand. I think it goes to the elbow."
 
 "And comes back?" said Vane.
 
@@ -58,53 +58,59 @@ Nobody spoke. Along the foot of the wall the white cord drew up, and let down.
 
 "For about an hour."
 
-Rhea took a slate from inside her coat. It was not Vane's. It had six columns on it, and the sixth was narrow, and ruled at the left.
+Rhea Sorn looked at her for a long moment.
 
 "Did anybody look at you?" she said. "Just now. Before you spoke."
 
 "No. I watched you all not."
 
-"Hm." The chalk moved. She read it out as she wrote it, which Kiva had never heard her do. "*Before: the left hand, to the elbow. Her healer does not know that it returns. Offered. Not asked.*" She looked up. "Under my hand, then. I've said for twenty-three years that I count after. I find that I've a column for the other."
+"Hm." She said the next part slowly, to the whole yard, which Kiva had never heard her do. "Before: the left hand, to the elbow. Her healer does not know that it comes back. Offered. Not asked." She paused. "Under my hand, then. I've said for twenty-three years that I cut, and look after. I find I can say the price before."
 
-"I sign for the hand," said Orla.
+"I answer for the hand," said Orla.
 
 She had come down from her crate. She stood with both palms on the head of her stick.
 
-"As her sponsor. I've seen it clean twice. I've seen it missed three times. It isn't on her paper and I'll not put it there." She did not look at Kiva. She looked at the cord. "And I don't know that it will work. I said that at the Pit and I was ashamed of how new it felt. It's a little less new."
+"As her sponsor. I've seen it clean twice. I've seen it missed three times. I'll not pretend it's more than that." She did not look at Kiva. She looked at the cord. "And I don't know that it will work. I said that at the Pit and I was ashamed of how new it felt. It's a little less new."
 
-"I am a witness," said Ysra Crest, from the shed. "I have a page with one line on it. Mr. Bexley has two flags."
+"I am a witness," said Ysra Crest, from the shed. "I am standing where I can see. Mr. Bexley has two flags."
 
 "I've the pen on her," said Noa. His voice cracked. "I've had it on her since she put her hand to that post."
 
-Vane wrote.
+Vane put his chalk away.
 
-He wrote for longer than he had in the Pit. He held the slate up to the lamp.
+He said it aloud, slowly, so that the whole yard had it, and he took longer over it than he had in the Pit.
 
-"*Direction to K. Rowan, catcher, T7, attached, under R. Sorn's hand. Three doors in sequence, hand, Ember, still, declared. Cost, as stated before by her healer: the left hand, to the elbow; he does not know that it returns. Reason: an arm of a string of ten in the Stopgate sluice, driving the Ferren main, and a bank that cannot be filled while it drives. No other hand on this hill takes it off the water. Offered by the candidate. Not asked. The count is S. Dray's. The corner after six is L. Brask's, or Wace's.*" He lowered it. "Do you take it?"
+"Direction to Kiva Rowan, catcher, Team Seven, attached, under Rhea Sorn's hand. Three doors in sequence, hand, Ember, still, declared. Cost, as her healer said it before: the left hand, to the elbow, and he does not know that it comes back. For: an arm of a string of ten in the Stopgate sluice, driving the Ferren main, and a bank that cannot be filled while it drives. No other hand on this hill takes it off the water. Offered by the candidate. Not asked. Selka Dray calls the slack. The corner, once it's planted, is Lowen Brask's, or Wace's." He looked at her. "Do you take it?"
 
-There was a thing to be done first. It was in a green book, and the book was not in the yard.
+There was a thing to be done first, and the person it belonged to was not in the yard.
 
-"Pryce reads the why," said Kiva. "Before each one. It's her condition. She's on the wall."
+"Pryce asks me first," said Kiva. "Before each one. What it's for and what it costs, to my face. It's her condition. She's on the wall."
 
 "Then somebody fetch her," said Rhea. "Mace has Stroud."
 
-It was three minutes. Anwen came through the gap with frost on one sleeve, and the book under her arm, and her face shut. She did not ask what had been said. She looked at the cord, and the half-covered hole, and the hand in the healer's two.
+It was three minutes. Anwen came through the gap with frost on one sleeve and her face shut. She did not ask what had been said. She looked at the cord, and the half-covered hole, and the hand in the healer's two. Then she came and stood square in front of Kiva.
 
-She wrote standing, against Perrin's back. It was two lines.
+"What's it for?" she said.
 
-"*Wednesday the 5th. Three-door. For: to take an arm off the Ferren main, so that a gate can be shut and a bank filled. Likely cost: her left hand, to the elbow, and perhaps kept.*" She shut the book on her finger. "That's what's written. Is it still what's so?"
+"To take an arm off the Ferren main. So a gate can be shut and a bank filled."
+
+"What's it cost?"
+
+"My left hand. To the elbow. Perhaps for good."
+
+Anwen held her eyes. "Is that what's so? All of it?"
 
 "Yes."
 
-"Then I've nothing to add." Her level eyes came up. "Ask me."
+"Then I've nothing to add." Her level look did not move. "Ask me."
 
 "Pryce," said Kiva. Her throat had closed. "The wall. For whatever comes up after."
 
 "Mine," said Anwen, and went.
 
-"I'm frightened," said Kiva. "I'd like that written."
+"I'm frightened," said Kiva. "I'd like that said."
 
-"It is," said Vane. "I'd begun the word before you said it."
+"It's said," said Vane. "I'd have said it for you, if you hadn't."
 
 "Then yes."
 
@@ -112,11 +118,11 @@ She wrote standing, against Perrin's back. It was two lines.
 
 It took four minutes to set, and every piece of it was said aloud.
 
-"Ten blades," said Vane. "One to a knot, from outside, dark. You light after the foot. You cut on one word, and the word's hers. Sorn has the twelfth, in my gate, since that's the one with the arm. Renn the eleventh. Talley the tenth. The rest as the Torch sets you."
+"Ten blades," said Vane. "One to a knot, from outside, dark. You light after the foot. You cut on one word, and the word's hers. Sorn has the knot in my gate, since that's the one with the arm. Renn the one below her. Talley below him. The rest as the Torch sets you."
 
 "The word's *back,*" said Kiva. "Not before the gate's down, and not before my aunt says that the water's lying. On the slack."
 
-"Ten cloths," said Pike. "Over the planks, where there are planks. Finch has hers under the eleventh knot."
+"Ten cloths," said Pike. "Over the planks, where there are planks. Finch has hers under Renn's knot."
 
 "The wire. Bexley can't work a key and a pen." Vane looked round. "Three words, to the pump house, as they're said. *Planted.* On that, the Works stops its pumps and quenches its bank; a dead cell can't be cooked. *Down,* when the gate's seated. *Back.* I want a runner at the lodge door who can shout."
 
@@ -132,7 +138,7 @@ The fitters had the bar. They stood two a side, in their shirtsleeves, with the 
 
 Kiva walked to the hole.
 
-The iron lid lay half across it. The arm went down through the foot of dark that was left, at the lane side of the post, humming. She stood on the lid. It rocked a little under her boots, and steadied. It had been under her cross for longer than anybody had kept the reason.
+The iron lid lay half across it. The arm went down through the foot of dark that was left, at the lane side of the post, humming. She stood on the lid. It rocked a little under her boots, and settled.
 
 "The step first," said Orla.
 
@@ -150,7 +156,7 @@ She set it by its corners, wide, as she had learned to over a cistern. It went d
 
 There was a room underneath.
 
-It was not near. It was eight feet down, and bricked, and full of something that moved. Her stance found the top of it and rang, faintly, as a foot rings on a cellar flap. And through the brick came the count, slow and even, and it wanted her to keep it.
+It was not near. It was eight feet down, and bricked, and full of something that moved. Her stance found the top of it and rang, faintly, as a foot rings on a cellar flap. And through the brick came a haul and an ease, slow and even, and it wanted her to go with it.
 
 She shut the door. She had been open for less than a breath.
 
@@ -162,7 +168,7 @@ She shut the door. She had been open for less than a breath.
 
 "There's no go *there.*"
 
-She went back to the post. She stood with her hand on the iron band, and made herself think it through like a sum, and not like a fright.
+She went back to the post. She stood with her hand on the iron band, and made herself think it through like a fault on Mara's bench, and not like a fright.
 
 The main came in from the east. It went out to the west, along the south row, toward the sheds. And from the north-east, slantwise, a small mouth came in from the core house. That was three roads into one hole. There was a fourth side.
 
@@ -196,7 +202,7 @@ She saw it then. If the corner went north, the cord would run from a gateway to 
 
 Brask had stopped.
 
-"She's right," he said. "I'd have been turning a screw and looked up to find a wall between me and my own job." He looked at the four fitters. "Can you finish it? The two turns?"
+"She's right," he said. "I'd have been turning a screw and looked up to find a wall between me and my own job." He looked at the four fitters. "Can you finish it?"
 
 "We've had the best part of two days to finish it," said the man in the apron. He did not sound proud. "I'd not wager a girl's arm."
 
@@ -220,31 +226,25 @@ She went back to the lid.
 
 Her voice was not strong. It was exact. It came across five paces of dark from a chair against a post, and it did not hurry.
 
-"Two. Three. Four. *In.* Two. Three—"
-
 Kiva put up her hands.
 
 They came up low, at her right hip, over the foot of dark beside the iron. Two fingers stood clear of the rest, straight and stiff. She bent the ward into the bowl of a spoon, and she bent it the wrong way round, with the curve to the east and the open side north.
 
 It was cold. She could feel the cold through the silver.
 
-"Hand, to Ember, to still. Rowan, changing on three, and on five."
+"Hand, to Ember, to still. Rowan, changing on the throw, and on the landing."
 
-That count was the go's, and hers. The fours were the arm's, and Dray's.
+The calls of the doors were hers. The haul and the slack were the arm's, and Dray's to say.
 
-"*Out.* Two. Three. Four."
+The arm drew up. The lid shivered under her boots. She felt it reach the top of its haul and hang there, and she felt the hang begin to give.
 
-The arm drew up. The lid shivered under her boots.
+"*In*—" said Dray.
 
-"*In*—"
+Kiva was already moving. She had felt the slack come before it was called, a hair early, as she had promised she would.
 
-It was a hair early. It had been promised so.
+"*Hand,*" said Kiva, and slid the pan under.
 
-"*One,*" said Kiva, and slid the pan under.
-
-For four counts it lay there. It was the whole arm of a thing that stood ten abreast down a hill, and it lay in a tray between her palms, light as a clothesline, humming.
-
-"*Two.*"
+For the length of a slack it lay there. It was the whole arm of a thing that stood ten abreast down a hill, and it lay in a tray between her palms, light as a clothesline, humming.
 
 "*Out,*" said Dray.
 
@@ -256,19 +256,17 @@ It did not throw her east.
 
 It turned. She felt it turn, a quarter round, as water turns in the bowl of a ladle, and it struck her in the ribs and the hip and pointed her out across the lane.
 
-And it had a count in it. It was slow and even and many, and it was stronger than anything that she had ever had her hands on, and for the length of one tap it nearly had her.
+And it had a rhythm in it. It was slow and even and many, and it was stronger than anything that she had ever had her hands on, and for the length of one tap it nearly had her.
 
-"*Three.*"
+"*Ember.*"
 
 She folded. Far edge. Near edge. A penny, in her palms. Shut.
 
 Nobody.
 
-She was nobody, going sideways over the packed dirt of the Old Yard with a hill's worth of haul in her spine. The ash went out of her like a breath. And the count went with it. It was left on the far side of a shut door, as mud is left on a step, exactly as it had been once before.
+She was nobody, going sideways over the packed dirt of the Old Yard with a hill's worth of haul in her spine. The ash went out of her like a breath. And the rhythm went with it. It was left on the far side of a shut door, as mud is left on a step, exactly as it had been once before.
 
 The struts caught her. Low, and long, and north. She was over the lane. Her left hand was cold to the wrist already, and she shut the Ember at the top and did not listen for it. She waited for the last thread to run home along her ribs and arrive.
-
-"*Four.*"
 
 Nobody, again.
 
@@ -278,7 +276,7 @@ It came out of a place that had been emptied in the Pit, and had only half fille
 
 She set the pan. Wide. By its corners.
 
-"*Five!*"
+"*Still!*"
 
 Her right foot came down on a cross in the dirt, and the yard took her.
 
@@ -288,17 +286,17 @@ It came in at her heel like a tide coming up a slip. It was ten things leaning b
 
 There was a white cord running down to the dirt a foot from her right boot. It was as taut as a stay. It ran away from her, east and a little south, over a low wall, to a black gateway, and from it a wall of frost was already dropping, thin as breath.
 
-"*Planted!*" said Kiva. "*Six!*"
+"*Planted!*" said Kiva.
 
 "*PLANTED!*" It was a boy's voice, from the lodge door, and it would have carried to the Sag. "*Planted, planted, send it!*"
 
 "*Bar!*" That was Brask.
 
-She did not look. She was counting.
+She did not look. She was feeling for the slack.
 
-She counted on from her own six, to make a five of it and not a four. *Seven. Eight. Nine.* The thing had fours. It bit on the first of each, as a girl in a chair had said that it would, and she went past it, a beat on, every time. It was like walking down a moving stair.
+The thing hauled and eased under her heel, and it bit hardest at the top of each haul, as a girl in a chair had said that it would. So she did not stand against the haul. She let it go through her, and on each ease, in the slack, she took the weight a little further down into the ground. It was like walking down a moving stair.
 
-"Wace," she said. It came out between nine and ten. "The plank. Your end."
+"Wace," she said, in a slack. "The plank. Your end."
 
 *Boom.*
 
@@ -314,27 +312,29 @@ She had never done that. She had watched it done to her, on a floor that boomed,
 
 It went. She felt it go off her. She felt two still-doors take it and sink a finger's breadth into the dirt.
 
-"It's got a count," she said. "Don't keep it. Go in fives. I'll call them. *One. Two. Three. Four. Five.*"
+"It hauls," she said. "Don't fight the haul. It bites at the top. Take it on the slack, when I call it, and not before." She felt the ease begin under her boots. "*Now.*"
 
-"One," said Wace, through his teeth. "Two."
+"Now," said Wace, through his teeth, and sank.
 
 She shut the door.
 
-She shut it on an empty doorway. She was standing on a cross in the Old Yard with nothing open, and a cord a foot from her boot that was not hers any longer.
+She shut it on an empty doorway. She was standing on a cross in the Old Yard with nothing open, and a cord a foot from her boot that was not hers any longer. She could still feel the haul through the soles of her boots, without a door, the way you feel a tram coming through a rail.
 
 She did not sit down. She had meant to. She had two people beside her now, and then three; a long incurious boy in black and gold had walked out of the dark without a word and set his feet at Moss's shoulder, and the plank had become a thing with three ends.
 
 "Yarrow," he said. "Halden. I'm told it goes round."
 
-"*One,*" said Kiva. "*Two. Three. Four. Five.*"
+The haul went through. The ease came.
 
-Five paces off, a girl in a chair was calling fours.
+"*Now,*" said Kiva.
+
+Five paces off, a girl in a chair was calling the haul.
 
 ---
 
 Perrin Cade had the end of an ash pole in both hands, and he had never wanted so much to say that he could not.
 
-It was not heavy. That was the insult of it. He had held three hundred and eighty kilos over his head for thirty counts on Thursday, and a man had cut the figure in stone. This was a bar as thick as his wrist, stuck through a post, and it would not go round.
+It was not heavy. That was the insult of it. He had held three hundred and eighty kilos over his head on Thursday, long enough for the whole Hall to get to its feet. This was a bar as thick as his wrist, stuck through a post, and it would not go round.
 
 "It's not weight," said Brask. He was at the other end, with his feet set. "It's a screw. You can't lift a screw. You lean, and you wait for it."
 
@@ -368,7 +368,7 @@ His ribs were telling him something. They had been strapped from the armpits to 
 
 *That's not pain,* he thought. *That's only where pain was.*
 
-"Eight," said the man in the apron, behind him. He was counting on his fingers like a child. "That's eight. One more, and it's in the groove."
+"It's near," said the man in the apron, behind him. He had both fists clenched, as if that would help. "It's near. A little more, and it's in the groove."
 
 "*Give.*"
 
@@ -382,7 +382,7 @@ It stopped as it had stopped for four fitters since Tuesday. The pole stood acro
 
 It did not take.
 
-Through the frost he could hear two counts going. There was a girl calling fours, thin and exact. There was another calling fives, and her voice was not steady, and she had two people answering her now, and then three.
+Through the frost he could hear two voices going. There was a girl calling the haul, thin and exact. There was another calling *now* on every slack, and her voice was not steady, and she had two people answering her, and then three.
 
 She had planted it and given it away. He had heard her do that. She had stood on that lid and named every part that was somebody else's, and his was this.
 
@@ -400,9 +400,9 @@ It was not strength. He had no more of that. It was only that he stopped keeping
 
 The screw shrieked.
 
-The bar went round. It went a quarter, all at once, and the two of them walked after it, stumbling, and under the ground an iron plate as broad as a door went down into its groove and struck bottom with a sound like a struck tank.
+The bar went round. It went a quarter, all at once, and the two of them walked after it, stumbling, until it came up hard against its stop and would go no further. Under the ground an iron plate as broad as a door went down into its groove and struck bottom with a sound like a struck tank, and the whole Old Yard heard it.
 
-"*Nine!*" said the man in the apron. "That's nine! She's seated!"
+"That's home!" said the man in the apron. "She's seated!"
 
 "*DOWN!*" Perrin had a voice like a tram, and he had been saving it. "*Gate's down! Kiva! It's shut!*"
 
@@ -416,21 +416,21 @@ He found that he was sitting on the dirt with his back against thirty feet of br
 
 "No. It's only telling me."
 
-Through the frost, a girl was still calling fives.
+Through the frost, a girl was still calling *now*.
 
 ---
 
-Mara Rowan had never liked a room with twenty-four of anything in it. It was too many to keep in one's head and too few to stop trying.
+Mara Rowan had never liked that room. Twenty-four cells down one wall, and every one of them leaning on its neighbor.
 
-She had them, all the same. She had got the last of her hands at six minutes to twelve, off a tram, in a body: five students in Wren House green who had stood a Bench in the ninth month and had been waiting at the Brickfields shed with the carts. There was an operator to every cell that she could find one for. There was a student at the rest, with a red handle under one hand and a fresh can at his feet.
+She had hands for them, all the same. She had got the last of them just before noon, off a tram, in a body: five students in Wren House green who had stood a Bench in the ninth month and had been waiting at the Brickfields shed with the carts. There was an operator to every cell that she could find one for. There was a student at the rest, with a red handle under one hand and a fresh can at his feet.
 
 Rusk had cell one. He had taken his coat off.
 
-"I've not pulled a handle since I was made examiner," he said. "It seems I remember where it is."
+"I've not pulled a handle since I was made examiner," he said. "It seems I know where it is."
 
 The three pumps stood at the far end, turning. Old Lumb, the keeper, sat on an upturned bucket beside the sump hatch with a watch on his knee and a notched stick down the hole.
 
-"Five-and-twenty minutes," he said. "From the stroke that they stop. I've told you that four times. It rained Sunday. At five-and-twenty the sump's at its sill, and then it's the Hythe's cellars, and I'll have a hundred people at my door in the morning with wet coal."
+"Five-and-twenty minutes," he said. "From the stroke that they stop. I've told you that before. It rained Sunday. At five-and-twenty the sump's at its sill, and then it's the Hythe's cellars, and I'll have a hundred people at my door in the morning with wet coal."
 
 "I heard you the first time, Mr. Lumb."
 
@@ -440,7 +440,7 @@ She had a chalk mark on the sump wall. It was a hand above the water. The water 
 
 It had come up to it for nineteen days.
 
-There was a sounder on the keeper's desk, a small brass arm on a spring. A Works clerk sat over it with his pencil. Beside him stood a narrow woman with a grader's seal on a cord and a brass glass like a clock with no hands; and behind her, with his hat in his hand, a pleasant man in a black coat who had asked very civilly whether he might watch.
+There was a sounder on the keeper's desk, a small brass arm on a spring. A Works clerk sat over it with his head bent to it. Beside him stood a narrow woman with a grader's seal on a cord and a brass glass like a clock with no hands; and behind her, with his hat in his hand, a pleasant man in a black coat who had asked very civilly whether he might watch.
 
 The sounder chattered.
 
@@ -474,41 +474,39 @@ It came up to the mark. It fell. It came up again, a little short.
 
 "It's being let go of. Something's had hold of it, and it's been taken off, and the water's only rocking with what was in it." She did not take her eyes from the chalk. "I want it flat. I'll not fill over a rock."
 
-"Three minutes," said Lumb. "Of five-and-twenty."
-
 The sounder went again.
 
 "*Down,*" said the clerk.
 
-That was a gate. That was an iron plate in a groove at the head of a hill, and a core house on the dry side of it. She had drawn that in ink on Tuesday and had not believed in it until this breath.
+That was a gate. That was an iron plate in a groove at the head of a hill, and a core house on the dry side of it. She had not quite believed in it until this breath.
 
 She watched the water.
 
-It rose toward the mark, and did not reach it. It sank. It rose less. It was like watching a cup that somebody had set down too hard. She counted a slow twenty, and at the end of the twenty the black surface lay in the lamplight as flat as a slate, with her own face in it.
+It rose toward the mark, and did not reach it. It sank. It rose less. It was like watching a cup that somebody had set down too hard. She put her left hand flat on the surface, her reading hand, and felt the last of the rise and fall go out of it, and the black water lay in the lamplight as flat as a slate, with her own face in it.
 
 "It's lying," she said. Her voice was not quite her own. "Send that. One word. *Still.*"
 
 The clerk's hand rattled on the key.
 
-"Five minutes," said Lumb.
-
 It was a long way to send a word, and a long way back. She knelt at the hatch and watched her own face in a drain. She had no notion what was being done on a hill by a School. She had arranged it so. She had told herself that it was so that she could do her work.
+
+"Halfway to my sill," said Lumb.
 
 The sounder spoke.
 
-"*Back,*" said the clerk. And then, since it went on: "*Hem down. Ten cut. It is out. Fill. H.V.*"
+"*Back,*" said the clerk. And then, since it went on: "*Hem down. Ten cut. It is out. Fill. Vane.*"
 
 "*Fill!*" said Mara.
 
-She was on her feet. She did not remember getting up.
+She was on her feet. She did not know when she had got up.
 
-"Draw your dead cans! Fresh home! Every one's had its pinch; I salted them myself. Count your sixty aloud, each of you, and I don't care that it sounds like a schoolroom. Then tune. And *not* to the lamp tune. Every one of you has a card under your handle with a number on it. That's your count. There aren't two alike in this room."
+"Draw your dead cans! Fresh home! Every one's had its pinch; I salted them myself. Give each one its full minute before you touch the tune, and I don't care if you have to say your prayers to fill it. Then tune. And *not* to the lamp tune. I'll give each of you your tune at the drum, and there aren't two alike in this room."
 
-They drew. They filled. The long room filled with voices counting sixty, all out of time with one another, and it was the most beautiful noise that she had ever heard in a pump house.
+They drew. They filled. The long room filled with people waiting out a minute, some of them praying, one of them humming, all out of time with one another, and it was the most beautiful noise that she had ever heard in a pump house.
 
 She went down the row.
 
-She had known that she would have to. Twenty-four fresh cells stood side by side on one wall, and a cell was a patient thing, and it leaned to its neighbor. Somebody had to stand between each and the next, for a slow ten, while its tune took hold, and feel which way it was leaning, and tell the tuner.
+She had known that she would have to. Twenty-four fresh cells stood side by side on one wall, and a cell was a patient thing, and it leaned to its neighbor. Somebody had to stand between each and the next while its tune took hold, and feel which way it was leaning, and tell the tuner.
 
 She laid her left palm on the first drum.
 
@@ -516,47 +514,43 @@ She laid her left palm on the first drum.
 
 The second. "Five. It's leaning down toward three. Bring it up. More. There."
 
-It was like standing in a doorway between two rooms of people who each wanted her to come in. She held her hand on the iron and counted against both. She had watched a girl do that on the cinders of a pit, in fives, and had not understood until now what it had been taking out of her.
+It was like standing in a doorway between two rooms of people who each wanted her to come in. She held her hand on the iron and felt for both. She had watched a girl do something like it on the cinders of a pit, and had not understood until now what it had been taking out of her.
 
-"Seven. Good. Four. Nine."
+"Seven. Good. Four."
 
-"That one's going back," said the narrow woman at the glass. She had not raised her voice. "Eleventh from the door. It's fallen in with the tenth. I have it on the dial."
+"That one's going back," said the narrow woman at the glass. She had not raised her voice. "Third from the end. It's fallen in with its neighbor. I have it on the dial."
 
-"I felt it. Quench eleven. Fill it again." Mara did not stop. "There's a second can under your stool, boy. That's what it's for."
+"I felt it. Quench it. Fill it again." Mara did not stop. "There's a second can under your stool, boy. That's what it's for."
 
-"Eleven minutes," said Lumb.
+Halfway down the wall she noticed that her fingertips were white.
 
-At the fourteenth cell she noticed that her fingertips were white.
+Further on she could not feel the iron. She could feel that there was a drum. She had a girl at home who used those words.
 
-At the eighteenth she could not feel the iron. She could feel that there was a drum. She had a girl at home who used those words.
-
-*The count of a thing. Somebody else has that.* Rusk had told her that it was all over the Works. He had thought it rather funny.
-
-"Mr. Rusk," she said. "You'll take the odd ones from here. Your thumbs are as good as my palm; I've said otherwise for eleven years out of pride. I'll take the even."
+"Mr. Rusk," she said. "You'll take the odd ones from here. Your thumbs are as good as my palm; I've said otherwise for years out of pride. I'll take the even."
 
 He came without a word.
 
-"Lumb. The first pump. It's on cells one to eight, and no others. Start it."
+"Lumb. The first pump. It's on the first eight cells, and no others. Start it."
 
-One pump drew, and let go, in the quiet. It had a slow, private, limping sound. It was a three.
+One pump drew, and let go, in the quiet. It had a slow, private, limping sound.
 
-"Fourteen minutes," said the keeper. "That's one. I want three."
+"That's one," said the keeper. "I want three."
 
-The second took its eight at nineteen minutes, on a seven. The third would not. The eleventh cell had fallen in a second time, and a third, and it was a white-faced Wren House student who said at last, in a very small voice, that he thought the can was cut.
+The second pump took its cells and drew. The third would not. The cell third from the end had fallen in a second time, and a third, and it was a white-faced Wren House student who said at last, in a very small voice, that he thought the can was cut.
 
 It was. It was civic stock, and somebody had put soot in it.
 
-"Twenty-five," said Lumb. "That's my sill. There's water going over it. I can hear it."
+"That's my sill," said Lumb. "There's water going over it. I can hear it."
 
-"I can hear it too. Give me a can off the spare shelf. Not that one. The one with the wax unbroken." She had her left hand on the drum. She could not feel it. She watched the needle instead, as she had taught a child to do. "Sixty. Tune it to eleven. Hold it. *Hold.*"
+"I can hear it too. Give me a can off the spare shelf. Not that one. The one with the wax unbroken." She had her left hand on the drum. She could not feel it. She watched the needle instead, as she had taught a child to do. "Its full minute. Tune it to six. Hold it. *Hold.*"
 
 It held.
 
 "Start your pump, Mr. Lumb."
 
-The third pump drew. It was a five.
+The third pump drew.
 
-Three pumps took their strokes in the long brick room, each in its own time, like three people walking who do not know one another. It was six-and-twenty minutes by an old man's watch. Along the left wall four-and-twenty needles trembled, and stood, and not one of them nodded to the next.
+Three pumps took their strokes in the long brick room, each in its own time, like three people walking who do not know one another. Along the left wall four-and-twenty needles trembled, and stood, and not one of them nodded to the next.
 
 "Seven cellars," said Lumb. He had his ear to the hatch. "Perhaps eight. A hand of water in each. I've known the Hythe have worse from a blocked gutter." He looked at her. "You're holding that arm oddly, missus."
 
@@ -578,7 +572,7 @@ Nobody in the pump house could.
 
 "*Back!*" said Kiva.
 
-She said it on Dray's *in.* She had waited for it. A boy had shouted *still* from the lodge door, and a watch officer had said, quite quietly, *Rowan, it's your word,* and she had let one whole slack go by to be certain of the next.
+She said it on the slack, a hair before Dray called it. She had waited for it. A boy had shouted *still* from the lodge door, and a watch officer had said, quite quietly, *Rowan, it's your word,* and she had let one whole slack go by to be certain of the next.
 
 "*Give it to the ground!*"
 
@@ -596,11 +590,11 @@ And every window in the School showed a point of light.
 
 She saw it. They had been brown, and dark, a hundred of them, on their boxes or on nothing. For the space of a blink each had a spark in it. Over the wall, down the whole length of a dark hill, six hundred more had done the same.
 
-"*Dark!*" It was a square flat voice from the gateway. "*One!*"
+"*Dark!*" It was a square flat voice from the gateway.
 
 And nearer, on the other side of the brick, a smaller one. It shook.
 
-"*Dark! One! Corners!* Not you, the warden's corner, she's proud, bring her in a hand—"
+"*Dark! Corners!* Not you, the warden's corner, she's proud, bring her in a hand—"
 
 That was Pru. That was a first-year who had run from a spaniel, calling a hem for a Fire's rung.
 
@@ -608,21 +602,21 @@ That was Pru. That was a first-year who had run from a spaniel, calling a hem fo
 
 He was at the shed. He had a white flag in one fist, as high as his arm would go, and he had not put it down to read.
 
-"Two cliffs. Twenty-six, and twenty-six. Nothing between but the bound. And eleven seconds on from the second, there's a notch." His voice had gone to nothing. "It's the third time. It's eleven every time."
+"Two cliffs. Twenty-six, and twenty-six. Nothing between but the bound. And about a dozen seconds on from the second, there's a notch." His voice had gone to nothing. "It's the third time. It's the same every time."
 
 "That's the lamps," said Orla.
 
-"No. That's what I can't get past. It isn't." He lowered the flag at last. "The notch was five minutes ago. It was while she was saying *Wace.* The lamps didn't so much as wink then. I was looking; I've done nothing but look." He turned his narrow face up to a hundred dark windows. "They jumped just now. At *back,* when the hem came down. At the Pit those fell in the same instant. I've had them on one page for four months, under one heading, as one thing."
+"No. That's what I can't get past. It isn't." He lowered the flag at last. "The notch was five minutes ago. It was while she was saying *Wace.* The lamps didn't so much as wink then. I was looking; I've done nothing but look." He turned his narrow face up to a hundred dark windows. "They jumped just now. At *back,* when the hem came down. At the Pit those fell in the same instant. I've had them as one thing for four months."
 
 "They're two," said Kiva.
 
-"They're two. One of them keeps time with you. The other keeps time with that." He nodded at the wall, and the street beyond it. "I don't know what either is. But I know now that I've been adding a column to its neighbor."
+"They're two. One of them keeps time with you. The other keeps time with that." He nodded at the wall, and the street beyond it. "I don't know what either is. But I know now that I've been calling two things by one name."
 
-"I counted you," said Selka Dray.
+"I watched you," said Selka Dray.
 
 She had stopped calling. She sat in the infirmary's chair with her blanket round her and her leg stuck out, and her sunk eyes were on Kiva.
 
-"You planted on my *in.* You handed it off at nine. You called fives for the best part of three hundred counts after that, with nothing open, for three boys who can't count." Her jaw worked. "You were late on the fourth five. I'd not mention it, only that you'd want it right."
+"You planted on my *in.* You handed it off on the next slack. You called every slack after that, the best part of five minutes, with nothing open, for three boys who'd never stood under a hem in their lives." Her jaw worked. "You were late on one. Early on. I'd not mention it, only that you'd want it right."
 
 "I would."
 
