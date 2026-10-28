@@ -2,43 +2,43 @@
 
 Kiva did not practice it on the tram.
 
-She had practiced the Library, and it had deserted her at the foot of the stair, and she had come away with more than she had gone for. So on Friday night she carried the crate out of the shed at a walk, and set it down four paces short of the crooked post, and waited until Orla had got herself onto it and had the stick between her boots.
+She had practiced a great many things on trams this spring, and they had all deserted her at the far end. So on Friday night she carried the crate out of the shed at a walk, and set it down four paces short of the end of the lane, and waited until Orla had got herself onto it and had the stick between her boots.
 
-"Your name's in the Reader's book," she said. "At the Compact Library. *Annick, Personal. Read in the room, one afternoon.* It's sixteen years old."
+"The Warden of the Even Hand came to Coper Street last night," she said. "She sat in our kitchen. She said you sat in a chair by her window sixteen years ago."
 
 Orla did not start. She sat as she always sat, with her bad leg out and her hands folded on the head of the stick, and her crooked face in the lamplight was as hard to read as a wall.
 
-"So she showed you the book," she said. "Arkwright. I'd wondered whether she would. She's obliged to, if you ask."
+"So she came herself," she said. "I'd wondered whether she would. She doesn't, often."
 
-"I asked."
+"She came."
 
-"Then you were down those stairs with your 2446 before I'd finished telling you there was a hall and a favor." There was something in her voice that was not displeasure. "What did the margin say?"
+"Then you've had their Master's dream in your own kitchen, with the tea." There was something in her voice that was not displeasure. "How much did she give you?"
 
-Kiva told her. She had it by heart now, and she gave it as the Reader had given it, without improving.
+Kiva told her. She gave it as the Warden had given it, without improving: every road at once; the lights, and no two alike; the sky not torn but gone, like the roof off a house; full, and paying attention; every lamp in Meridian.
 
 Orla heard it out. When it was done she sat for a little while and looked at the cross on the ground.
 
-"*She did not know why she was sent,*" she said. "No. She wouldn't have." The stick turned. "Sit down, Rowan. You're standing over me like a bill, and I'd as soon be asked this at my own height."
+"She gave me less," she said. "She gave me the roof, and *every lamp.* She'll have kept the rest for somebody she wanted more." The stick turned. "Sit down, Rowan. You're standing over me like a bill, and I'd as soon be asked this at my own height."
 
 Kiva sat on the spare crate. The lamp hissed on its hook.
 
-"I read that notebook in the autumn of 2664," said Orla. "I'd been four years without a candidate of my own. I was not let sponsor one. I'd gone down to those stacks to find out whether anybody in five hundred years had ever written a line about training a boy with two doors, because I'd had one, and I had put him in front of four thousand people, and I wanted very much to learn that somebody else had made the same mistake first. Nobody had. Or nobody had written it." Her eyes did not leave the cross. "I found a card in the wrong drawer with a famous name on it. I read the thing in an afternoon, out of nothing better than curiosity, and I put it back, and I did not think of it again for twelve years."
+"I went up that hill in the autumn of 2664," said Orla. "I'd been four years without a candidate of my own. I was not let sponsor one. I'd had a boy with two doors, and I had put him in front of four thousand people, and I went up to the one house in the Compact that's given its whole life to single doors, to ask whether anybody there had ever seen two open in one child." Her eyes did not leave the cross. "I wanted very much to be told that somebody else had made my mistake first. She didn't tell me. She gave me tea by a cold window and told me what her Order believes, as if that were an answer. I thought it was a fevered woman's dream that a house had made into a reason to stand still. I went down the hill, and I did not think of it again for twelve years."
 
 "Until my Kindling."
 
-"Until every lamp in this yard went out at eight minutes to three, and you lay on the ground just there with your eyes open." She nodded at a place two posts down. "I'd a card, and a dead woman's notebook, and a child looking at something a long way off. Three things. I'd no line to draw between them. You'd never told me what you saw, and I had never asked you, and I'd no business telling a girl of thirteen what she had dreamed."
+"Until every lamp in this yard went out at eight minutes to three, and you lay on the ground just there with your eyes open." She nodded at a place two posts down. "I'd a Warden's tea, and a dead woman's dream, and a child looking at something a long way off. Three things. I'd no line to draw between them. You'd never told me what you saw, and I'd never asked, and I had no business telling a girl of thirteen what she had dreamed."
 
 "I'm not thirteen."
 
 "No."
 
-"On Sunday you said I'd have what you'd got. You said it was little enough. And you gave me the hall and the list and Hollis Vane's ledger, and I thought that was all of it."
+"On Sunday you said I'd have what you'd got. You said it wasn't much. And you gave me the watch, and Hollis Vane, and a favor that was twenty-five years old, and I thought that was all of it."
 
-"It was all that I could put a page to." Orla lifted her head at last. "That's a true sentence, and I chose it because it was true, and I knew when I chose it what it left out. I've been thirty years on and off the Home Line. I know what it is to cut a report to fit. I did it to you on that crate, with your own page in my hand that had a word crossed out for honesty." Her mouth went thin. "I told you I'd have let *began* go by, and that I'd have been wrong. I let a great deal more than that go by in the same breath. That's mine. I'll not dress it."
+"It was all that I could put a name to." Orla lifted her head at last. "That's a true sentence, and I chose it because it was true, and I knew when I chose it what it left out. I've been thirty years on and off the Home Line. I know what it is to cut a report to fit. I did it to you on that crate." Her mouth went thin. "I told you I'd have let *began* go by, and that I'd have been wrong. I let a great deal more than that go by in the same breath. That's mine. I'll not dress it."
 
 Kiva had not expected that. She had come ready to be answered, and she found that there was nothing to push against, and that it did not make her any less angry.
 
-"Why, though? If you had no line to draw, you could have said so. *There's a notebook, and I don't know if it's anything.* You say that sort of thing to me every night."
+"Why, though? If you'd no line to draw, you could have said so. *There's a house on a hill that believes something, and I don't know if it's anything.* You say that sort of thing to me every night."
 
 "Because I drew a line once." It was said very quietly. "Between a boy's two doors and an ashcraft trial at the Regional. I was certain. I could have drawn it for you on that wall. He's fixing pumps on the south coast with one hand." She breathed. "The second time I saw two things that looked as if they belonged together, I found that I couldn't open my mouth. I've known for four years that it was cowardice wearing a field officer's coat. I'd thought it was at least the careful sort."
 
@@ -50,37 +50,37 @@ The yard was quiet. A tram went by at the foot of the lane, and its light slid a
 
 "You'd say that."
 
-"I would. It's also so." Orla almost smiled. "I took you on because you failed a trial in front of four hundred people and then handed the Chair a book that said exactly how, in your own hand, with nothing in it to your credit that wasn't also true. I've had Torches who couldn't do that. The notebook's the reason I was frightened to. I put my name to you in spite of it, and I'd like that kept separate from the other, if you can manage it. I'm aware that it's a good deal to ask tonight."
+"I would. It's also so." Orla almost smiled. "I took you on because you went over a rail for a boy who couldn't move, in a trial you were already failing, and you knew you were failing it. I've had Torches who couldn't do that. The Warden's tea is the reason I was frightened to. I put my name to you in spite of it, and I'd have that kept separate from the other, if you can manage it. I know it's a good deal to ask tonight."
 
-Kiva said nothing. She was thinking of a sponsor's form, soft at the folds, that Orla had carried for four years with its second page blank, and had filled in at last in the Chair's office with a hand that was not quite steady.
+Kiva said nothing. She was thinking of the Chair's office in the spring, and Orla by the window giving her own name for the sponsor's line in one word, and the stamp coming down.
 
-"Now I'll have my turn," said Orla, "and you'll not like it. How long have you had that register line? The lamps, in '46."
-
-"The line, seven weeks. The margin since last Saturday."
-
-"And the keeper's, from the Pit?"
-
-"Since Saturday as well."
-
-"Who's seen them?"
-
-"Mara."
-
-"Not your captain. Not the three who put two drams on you. Not that boy who told a Halden man that he measures and doesn't own." The old eyes were steady. "He asked you something on Monday. You sat on that crate the same night and told me you were thinking about what you'd not got an answer to. I didn't know what it was. I think that I do now."
+"Now I'll have my turn," said Orla, "and you'll not like it. The dream she gave you in your kitchen. Was it yours?"
 
 Kiva's face burned.
 
-"They weren't the team's," she said, and heard it.
+"Yes."
 
-"I'm sure they weren't. Mine wasn't yours, either; it was a dead woman's, in a disputed box." Orla settled the stick. "So here we sit. Each of us has kept a drawer shut on somebody who'd a right to ask, and each of us had a very good reason, and I'll not be read a lesson on mine by a girl who's sitting on hers. I'll take it from your aunt. I expect that I shall have to."
+"Since?"
+
+"Since the yard. Since I was thirteen. And on the shelf at the Pit, for a breath."
+
+"Who knows?"
+
+"Mara."
+
+"Not your captain. Not the three who put two drams on you. Not that boy who told a Halden man he reads a tape and doesn't own it." The old eyes were steady. "He asked you something on Monday, I think. You sat on that crate the same night and told me you'd a thing you'd no answer to. I didn't know what it was. I think that I do now."
+
+"It isn't the team's," said Kiva, and heard it.
+
+"I'm sure it isn't. Mine wasn't yours either; it was a dead woman's, in a stranger's house." Orla settled the stick. "So here we sit. Each of us has kept a door shut on somebody who'd a right to knock, and each of us had a very good reason, and I'll not be read a lesson on mine by a girl who's sitting on hers. I'll take it from your aunt. I expect I shall have to."
 
 "She said she could think of two things it might mean."
 
-"She's generous. I can think of three." A pause. "Here's what I'll give you in place of an apology, which you'd not know what to do with. Ask me a thing straight, from tonight, and I'll answer it, or I'll tell you to your face that I won't and why not. I'll not cut to fit again. And I shall not tell you what's in that box."
+"She's generous. I can think of three." A pause. "Here's what I'll give you in place of an apology, which you'd not know what to do with. Ask me a thing straight, from tonight, and I'll answer it, or I'll tell you I won't, and why not. I'll not cut to fit again. And I shan't tell you what she said to me at that window."
 
 "*What?*"
 
-"You heard. You're going to read it. I'd be a fool to think otherwise. If I tell you first, you'll carry my reading of it down those stairs, and I've just finished telling you what my readings are worth." She leaned forward on the stick. "There's a page in your aunt's hand, written the night of the Pit; you put *see Mara's page* in your own, and I can read. I've not seen it and I don't ask to. But if what's in the box is anything like what's on that page, then somebody, some day, in an office, is going to ask which was written first. I'd see to it that there's an answer. Your aunt will know how. It's her trade."
+"You heard. You'll go up that hill. I'd be a fool to think otherwise. If I tell you first what she gave me, you'll go up with my hearing of it in your ears, and I've just finished telling you what my hearings are worth." She leaned forward on the stick. "Go and hear it yourself. Then come down and don't tell me which parts I missed."
 
 Kiva sat with that.
 
@@ -92,109 +92,87 @@ She was still angry. It had not gone anywhere; it lay in her as heavy and plain 
 
 ---
 
-Noa Bexley had been told what a T-0 was on Monday, and on Tuesday he learned what he had not been told.
+Noa Bexley had been told what a T-0 was on Monday, and on Wednesday he went back to the Pit to find out what else he had not been told.
 
-The clerk at Hanley Street was a thin, careful man with a cough, and he had been pleased to be asked. He had taken down a volume as long as his arm and shown Noa the heading, and the ruled columns, and the little table of marks inside the cover. Kiva had told it right. *T-0. Transient, cause not found.* There was nothing more to it than that.
-
-"You'll want the multi-grid ones, I expect," the clerk had said. "The young lady did. There aren't many. I've had these three volumes out twice this spring for Rowan Instruments, and I've only just got the old one back on its cushion."
-
-Noa had stood very still at the counter.
-
-"Which young lady?"
-
-"The niece. Miss Rowan's girl. She copied the lines herself, in the spring; I'm not let lend. And I did the margin for the aunt, from the '46 book. It took me six weeks, on and off. It's a hand I can't read." He coughed. "Is anything the matter?"
-
-"No," said Noa. "Thank you. It's only that I know her."
-
-He had not asked to see the lines. They were in an open register and he might have looked, and he had found that he did not want to learn it from a counter. He had gone and sat on the step of the records office with his notebook shut on his knee.
-
-*That's what it means,* she had said, on the bench, on Monday. He had thought she looked tired.
-
-He was not angry. He had waited to be, for most of an hour, and it had not come. He only felt stupid, and under that he felt something a good deal worse, which was that he had told a man in a black coat *I measure, I don't own,* and had been proud of it for three days, and it had not once crossed his mind that she might be measuring too.
-
-On Wednesday he went back to the Pit.
+Nobody had lied to him. That was the trouble. The tape had not lied either. He had simply looked at the part of it that he wanted to see.
 
 The keeper let him into the mast room with the same grunt. Noa pinned the tape along the board and did what he ought to have done a week ago. He stopped looking at the sixteenth pen.
 
-He put the glass on the first. Somebody's Hold, a steady line with a tremble in it. He ran along it to twenty-four minutes past ten and a little beyond, and there, where the line had gone flat because the whole floor had gone dark, was a mark that he had taken on Thursday for a flaw in the paper.
+He put the glass on the first. It was somebody's Hold, a steady line with a tremble in it. He ran along it to twenty-four minutes past ten and a little beyond, and there, where the line had gone flat because the whole floor had gone dark, was a mark that he had taken last week for a flaw in the paper.
 
 It was a notch. It was no taller than a hair is wide.
 
 He looked at the second pen. It had one in the same place.
 
-They all had. Every pen on the drum had jumped once and come back, at one instant, fifteen fighters who were standing against a wall with nothing lit and one who was being hauled along a shelf by her belt. He measured from her cliff to the notch four times with the dividers. It came to eleven seconds, or twelve. It was nowhere near forty.
+They all had. Every pen on the drum had jumped once and come back, at one instant: fifteen fighters standing against a wall with nothing lit, and one girl being hauled along a shelf by her belt. He set the dividers from her cliff to the notch and walked them along the scale. It came to about a dozen seconds. Dray had said the lamps jumped when Kiva went white. If Dray was right, the pens had jumped with them.
 
-*The keeper was running round a rim,* he wrote. *He guessed. Don't use his forty.*
-
-Then he walked two miles to the Low Lane and unrolled the old mast's tape for the same morning. It had ticked away to itself in an empty cart shed all through that Wednesday, as it did every day, and at twenty-four minutes past ten it showed nothing at all.
+Then Noa walked two miles to the Low Lane and unrolled the old mast's tape for the same morning. It had ticked away to itself in an empty cart shed all through that Wednesday, as it did every day, and at twenty-four minutes past ten it showed nothing at all.
 
 So it had been the Pit, and it had stopped at the Pit's wall. That was a thing he could say. He could not say whether sixteen pens had jumped because sixteen people had, or because the mast had.
 
-He wrote that down too, and for the first time in his life he did not write it on the page that was probably nothing. He turned to a clean one and left the top of it bare, because he could not think what to call it.
+He did not like not knowing which. He found that he liked it better than guessing.
 
-The patent room was on Friday.
+On Friday he took the reed to Halloran.
 
-Halloran had sent him. He had gone to her on Thursday with a question about a reed, and she had looked at him over the bench with rather more interest than she gave to most first-years.
+He did not take it in a tin. He took it as a question, standing at the end of the grading bench in the Wren House with his hands in his pockets, while she combed a Kennel Handful and did not look up.
 
-"It's cut to the Step," she had said. "Halden's Step. Every grader's comb has had that reed since before my grandmother, and I'd never heard it speak over anything that wasn't swept out of a bank. Go and read the patent. They keep it where anyone may read it. They're rather proud of that."
+"The seventh," he said. "The one that taps. You said a tune leaves that."
 
-It was a pleasant room, on the first floor of the Measure Hall annex, with green lamps and a long table, and a brass plate on the door that said whose gift it was. There was a sheet to sign. Noa signed it. Then a clerk brought him a flat leather case with one document inside it, and he read it from the first word to the last, as he had seen the Chair do.
+"I did." She held the brass over the next cup. "It's cut to the Step. Halden's Step. Every grader's comb has had that reed since before my grandmother, and I'd never heard it speak over anything that wasn't swept out of a bank."
 
-*A Method of Stepping Cells in Bank. 2391.*
+"What's a bank stepped for?"
 
-He understood about half of it at the first reading and nearly all at the third.
+Halloran put the comb down. It seemed that she liked being asked a thing she knew.
 
-A bank was only a row of cells. Each kept its own time and drifted its own way, which was slow and safe, and the Works liked it so, because one cell could fail without taking its neighbors. But a row that kept one time could be driven as one engine. The method was so simple that he laughed aloud at the table. You salted every cell late, with one pinch of ash that had already been made to keep a beat, and the whole row fell in behind it and beat together, and one operator with one hand on one cell could govern four-and-twenty. Halden had built its yards that way for almost three hundred years. The refineries ran on it, and the lift yards, and the big tram sheds. A pump house did not. He thought of twelve needles on a load board, nodding together, on a branch that had never been stepped in its life.
+"A bank's only a row of cells," she said. "Each one keeps its own time, and drifts its own way, which is slow, and safe. The Works likes it so. One cell can fail without taking its neighbors. But a row that keeps one time can be driven as one engine." She laid four fingers flat on the bench, side by side. "You salt every cell late, with one pinch of ash that's been made to keep a beat already. The whole row falls in behind it. Then they all beat together, and one operator with one hand on one cell can govern four-and-twenty."
 
-*A tune leaves that,* Halloran had said. *Something that's been made to keep step.*
+Noa laughed. He could not help it; it was so simple.
 
-There was a line near the foot about what the method had been called before. *Formerly "counting ash" (Wren House, cards 40 to 44, superseded).* Somebody had found it first and given it a homely name, and somebody else had given it a better one and a seal.
+"Halden's built its yards that way for near three hundred years," said Halloran. "The refineries. The lift yards. The big tram sheds. Not a pump house. Not anything the Works can't afford to have stop all at once."
 
-Then he read the claim, and stopped laughing.
+Noa thought of the load board at the Pit, and of twelve needles under glass that had nodded together on a branch that had never been stepped in its life. He stopped laughing.
 
-*The Proprietor claims the Step, and all ash exhibiting the Step, however produced.*
+"The method's ours," said a pleasant voice from the doorway. "And the claim that goes with it, which used to be thought rather greedy."
 
-"That clause used to be thought rather greedy."
+The man was about forty, and he had hung his hat on the peg by the door as if he had done it a great many times. There was a narrow gold cord at his cuff.
 
-Noa looked up.
+"Mr. Bexley. Grader. Adlam; I ought to have said so at the Pit." He came along the bench, but not too near the cups. "*The Proprietor claims the Step, and all ash exhibiting the Step, however produced.* My own grandfather's grandfather sat on the board that renewed it, and he asked what the last two words were for. What else produces a stepped ash, he said, but a stepped bank? It seemed a lawyer's flourish." He smiled. "And now there's a tin on this shelf, I'm told, that reads ward, full, and induction, a trace, off something that was cut and bagged on a cinder floor before it had been near a bar. One likes to be thorough."
 
-The man was about forty, and pleasant, and he had hung his hat on the peg by the door as if he had done it a great many times. There was a narrow gold cord at his cuff.
+Halloran had picked up her comb again.
 
-"Mr. Bexley. We do like to know which of our foundations the young are reading; I hope you don't mind. Adlam. I ought to have said so at the Pit." He nodded at the case. "*However produced.* My own grandfather's grandfather sat on the board that renewed it, and he asked what the words were for. What else produces a stepped ash, he said, but a stepped bank? It seemed a lawyer's flourish." He smiled. "And now there's a card on the Wren House shelf, I'm told, that reads *W, full. I, trace,* off something that was cut and bagged on a cinder floor before it had been near a bar. One likes to be thorough."
+"Ask him about the caution, Mr. Bexley," she said, to the cup. "Nobody ever does."
 
-Noa's mouth was dry again. It seemed to do that in this man's company.
+Noa's mouth had gone dry. It seemed to do that in this man's company.
 
-"There's a caution," he said. "Under the claim. In the small print." He put his finger on it. "*Not to be introduced to an unstepped bank under load.*"
+"Is there a caution?"
 
-"There is. It's quite sound. A row of cells that have each been tuned to their own business don't care to be taken by the collar." Mr. Adlam looked at him with what seemed to be real kindness. "You read to the end. Very few do. I meant what I said about a paper, and I'll not say it twice; you've answered me, and I thought the better of you. But I shall be reading a tape on the first, and I expect that I'll find you've been there before me, and I'd much rather that we were not strangers when we compare."
+"There is. It's under the claim, where cautions go." Mr. Adlam said it without looking anything up, as a man says his own address. "*Not to be introduced to an unstepped bank under load.* It's quite sound. A row of cells that have each been tuned to their own business don't care to be taken by the collar." He looked at Noa with what seemed to be real kindness. "You asked. Very few do. I meant what I said about a paper, and I won't say it twice; you've answered me, and I thought the better of you. But I shall be reading a tape on the first, and I expect I'll find you've been there before me, and I'd much rather we were not strangers when we compare."
 
 He took his hat, and went.
 
-Noa sat on for a long time under the green lamp.
+Noa stood on at the end of the bench while Halloran combed. The third reed sang over every cup, and the seventh never moved.
 
-Stepped ash had only ever come out of cells. That was what the patent said, and the comb, and a grader of nineteen years. Now it was coming out of a rift. Either a reed was wrong, or something on the far side of a tear had been listening to the banks of Meridian for long enough to learn the beat.
+Stepped ash had only ever come out of cells. That was what Halden's own man said, and the comb, and a grader of nineteen years. Now it was coming out of a rift. Either a reed was wrong, or something on the far side of a tear had been listening to the banks of Meridian for long enough to learn the beat.
 
-He did not write that. It was a guess, and he was getting particular about guesses.
+He did not say that, even to Halloran. It was a guess, and he was getting particular about guesses.
 
-He wrote the four figures instead: the notch, the eleven seconds, the Low Lane's blank tape, the clause. They were hers. His own terms said *every figure in her book the same day,* and he had signed them, and so had she.
+The rest was hers: the notch, the Low Lane's blank tape, the claim and its caution. He had told her on Monday that she would hear every reading the day he had it, and he was already two days late.
 
-She had not kept her end of something. He did not see that it let him off his.
-
-*Tomorrow,* he wrote. *After the meet. All of it. Then ask her straight, in front of whoever's there, so I can't make it easy for either of us.*
+*Tomorrow,* he thought. *After the meet. And to the four of them, since it was the team's ash that put her on the tape.*
 
 ---
 
 The third team won on Saturday without her.
 
-It was the Wren House at home, in the New Lane, under the eighteen straight posts, and Kiva saw the whole of it from the bench by the door with a bucket and a dipper and the time glass. She saw Jude put Pru at the front again, and saw Pru lean her ward from one post to the next with nothing behind it but nerve. She saw Noa stand unwatched for a whole minute in the second carry, and this time he did not watch the litter. He walked nine paces along the north aisle and laid his blade on a Wren House shoulder from behind, quite gently, like a man returning a dropped glove.
+It was the Wren House in the New Lane, under the eighteen straight posts, and Kiva saw the whole of it from the bench by the door with a bucket and a dipper. She saw Jude put Pru at the front again, and saw Pru lean her ward from one post to the next with nothing behind it but nerve. She saw Noa stand unwatched for a whole minute in the second carry, and this time he did not watch the litter. He walked quietly along the north aisle and laid his blade on a Wren House shoulder from behind, quite gently, like a man returning a dropped glove.
 
-It finished eight to six. The benches made rather less noise than they had for the nine to eight, since there was nobody on the brick tonight who might fall over in an interesting way.
+It finished seven to five. The benches made rather less noise than they had for the spring's close ones, since there was nobody on the brick tonight who might fall over in an interesting way.
 
 She was glad. She had the dipper in her hand and she was shouting with the rest. She was also aware, as one is aware of a stone in a boot, that the third team had played three meets with her this spring and lost two of them, and had now played one without her.
 
 *I've decided I'm allowed both,* Perrin had said. *She taught me.* She had not known, when she taught it, that she would want it back.
 
-Anwen had come to watch. It was her last Saturday, and she sat on the end of Kiva's bench in her brown coat with her hands in her lap, not writing, which was unlike her.
+Anwen had come to watch. It was her last Saturday, and she sat on the end of Kiva's bench in her brown coat with her hands in her lap, very quiet, which was unlike her.
 
 Kiva had a name. She had had it since Wednesday, when Greta Stroud had told her on the infirmary stair that the van would be a ward short, and she had worked it out carefully, with reasons. Edda, of Old Four, was a Hold with a second step and a temper. It was a perfectly good name.
 
@@ -214,7 +192,7 @@ There was a pause. Kiva kept her eyes on the lane, where the Wren House captain 
 
 "No. I'm asking."
 
-It was surprisingly hard to leave it there. Edda's name sat on her tongue with its three good reasons behind it, wanting to be let out. She gave it a number, as she would have given a door, and held it shut.
+It was surprisingly hard to leave it there. Edda's name sat on her tongue with its three good reasons behind it, wanting to be let out. She called it cold in her head, as she would have called a door, and kept it shut.
 
 Anwen looked at her a moment longer. Then she looked at the lane.
 
@@ -222,7 +200,7 @@ Anwen looked at her a moment longer. Then she looked at the lane.
 
 "Pru?"
 
-"She dropped a wall on her own count three weeks ago in front of two schools. I've watched fourth-year wards who couldn't have done it; they'd have held on until it was taken off them, and called that courage." Anwen's voice was level and exact. "She'll never hold a Flask. She'd know when to let go of one, and I'm told by people who are paid for it that the second's rarer. She has a first step. She talks the whole time. You'll have to bear that."
+"She dropped a wall when she chose to, three weeks ago, in front of two schools. I've watched fourth-year wards who couldn't have done it; they'd have held on until it was taken off them, and called that courage." Anwen's voice was level and exact. "She'll never hold a Flask. She'd know when to let go of one, and I'm told by people who are paid for it that the second's rarer. She has a first step. She talks the whole time. You'll have to bear that."
 
 "I'd have said Edda."
 
@@ -240,7 +218,7 @@ It was six paces square and stiff as a board, and it smelled so strongly of wax 
 
 "It's very clean," said Perrin. "I don't trust it."
 
-"It's ours," said Kellan. "I've read the reserve rule, by the way. Fourteen. An attached team may seat a first-step reserve in one declared role, at the chartered officer's pleasure. I read it during the second carry. So it's Sorn's to say, and not the clerk's."
+"It's ours," said Kellan. "I asked the Circuit about the reserve rule, by the way. Fourteen. An attached team may seat a first-step reserve in one declared role, at the chartered officer's pleasure. So it's Sorn's to say, and not the clerk's."
 
 "Is this where I'm told what I've said yes to?" said Pru Finch.
 
@@ -248,9 +226,9 @@ She had come straight from the lane with her hair still wet, and she stood at th
 
 "Because nobody's explained. Pryce came and stood over me and said *will you hold a corner,* and I said yes, since she's the only person I've ever met who can frighten me by being polite. And now there's a sheet, and a rule fourteen. This is how it happens. You say yes to a cord, and by midnight you're under a Flask."
 
-"You won't be under it," said Anwen. "You'll be beside it, with a hem in your hand. Kneel there. No, on the lead; you want your knee on the weight." She knelt opposite. "The cord comes through twice at your corner and it crosses. If it crosses the wrong way, the neck won't shut at the third turn and the catcher loses eight counts finding out why. Give me your hand."
+"You won't be under it," said Anwen. "You'll be beside it, with a hem in your hand. Kneel there. No, on the lead; you want your knee on the weight." She knelt opposite. "The cord comes through twice at your corner and it crosses. If it crosses the wrong way, the neck won't shut at the third turn, and the catcher loses half a minute finding out why. Give me your hand."
 
-She taught it as she did everything, once, slowly, and then again faster, and then a third time with her own eyes shut. Kiva watched from the north hem. She had held that cord in two bad fingers on a cinder floor and had called *three* to have it taken from her, and there had been a hand there to take it, and she had not looked to see whose, because she had not needed to.
+She taught it as she did everything, once, slowly, and then again faster, and then a third time with her own eyes shut. Kiva watched from the north hem. She had held that cord in two bad fingers on a cinder floor and had said *the third's yours* to have it taken from her, and there had been a hand there to take it, and she had not looked to see whose, because she had not needed to.
 
 "Again," said Anwen. "With me pulling."
 
@@ -262,75 +240,79 @@ She taught it as she did everything, once, slowly, and then again faster, and th
 
 "That's it. Now forget that I told you, and do it when somebody's shouting."
 
-Noa had come in by the yard gate while she was saying it. He stood just inside, with his notebook held against his chest in both arms, and he waited until the cord was down.
+Noa had come in by the yard gate while she was saying it. He stood just inside with his hands in his coat pockets, and he waited until the cord was down.
 
-"I've got figures," he said. "They're Kiva's, so she has them the same day; those are the terms. I can say them here or I can say them to her on the step. I'd rather it was here."
+"I've got readings," he said. "They're Kiva's, so she has them the day I do, and I'm two days late already. I can say them here or I can say them to her on the step. I'd rather it was here. It was all of yours that bought the tape."
 
-He looked at Kiva when he said it, and there was nothing unkind in his narrow face. She understood that he knew.
+"Here," said Kiva.
 
-"Here," she said.
-
-He gave them in order, as he would have read a tape. The notch on every pen, sixteen of them, at one instant. Eleven seconds after her cliff, or twelve, and not forty. The Low Lane's mast two miles off, showing nothing. Then the reed, and whose patent it was cut to, and the clause; and the caution in small print beneath it, with what a pleasant man had said the caution meant, which was that a row of cells each tuned to its own business does not care to be taken by the collar.
+He gave them plainly, with nothing dressed. The notch on every pen, sixteen of them, at one instant, a little after her cliff. The Low Lane's mast two miles off, showing nothing. Then the reed, and whose patent it was cut to, and the claim; and the caution beneath it, with what a pleasant man had said the caution meant, which was that a row of cells each tuned to its own business does not care to be taken by the collar.
 
 "*However produced,*" said Kellan slowly. His face had changed. "My mother's worked under that seal for twenty-two years. I've seen the words on a wall."
 
-"There's a man called Adlam who'd like it to mean that Halden owns whatever comes out of a tear keeping time. He didn't say so. He said he liked to be thorough." Noa turned a page, and his hands were not quite steady. "That's all the figures. There's one thing more, and it isn't a figure. The clerk at Hanley Street says his transient volumes have been out twice this spring. To Rowan Instruments."
+"There's a man called Adlam who'd like it to mean that Halden owns whatever comes out of a tear keeping time. He didn't say so. He said he liked to be thorough." Noa took his hands out of his pockets. They were not quite steady. "That's all of it. I don't know what any of it means. I'd rather say that than make something up."
 
 Nobody moved.
+
+Kiva had spent the tram home from the Old Yard on Friday night deciding what she would say when a moment like this came. Somewhere about the Weighbridge stop she had decided that she would not decide. She found now that she did not need to. It had been sitting on the end of her tongue all week, behind the round, ready thing she had given Noa on a bench.
+
+"There's one thing more," she said. "It's mine, and it isn't a reading."
 
 Pru looked from one face to another. "Ought I to be hearing this? I only came about a cord."
 
 "Stay," said Kiva.
 
-She had the field book under her arm. She did not have anything else. She had spent the tram home from the Old Yard on Friday night deciding what she would say when this came, and had then decided, somewhere about the Weighbridge stop, that she would not decide.
+She told them standing at the north hem, with the stiff canvas between her and the rest of them. She did not make a speech of it. She did not think she could have.
 
-She opened the book on the stiff new canvas, at the back, and took out the two loose sheets, and laid them down where all of them could read.
+She told them that every lamp on the Eastbank had gone out and come back on the afternoon of her Kindling, and that Mara had seen it, and the Works had put it down to the rig. She told them that she had lain on the ground in the Old Yard with her eyes open and had dreamed, and what she had dreamed: people coming from every road at once with lights that were all different, and the sky not torn but gone, and something enormous coming down out of where it had been, and every lamp in the city answering. She told them that she had dreamed it again for a breath on the shelf at the Pit, with her fist round the disk, while the lamp ring jumped.
 
-"There are four," she said. "Four times in two hundred and thirty-four years that the lamps have gone over more ground than one fault could reach, and nobody could say why. I copied three of them the day after the trial. The fourth's the Pit's, from the keeper's own book; Mara showed me a week ago tonight, in the kitchen, an hour before you all came up the stair. I put it in here and shut it." She made herself look at Noa. "On Monday you asked me what the mark was, and I told you what the word means. I had four of them on my knee."
+Then she told them that the Warden of the Even Hand had sat in her kitchen on Thursday night and told her the same dream, near enough, about a woman who had died two hundred years before Kiva was born.
 
-"I know," said Noa. "I sat on the records office step for an hour."
+The yard was very quiet. Somewhere in the scullery Mrs. Pryce was singing to a mangle.
+
+"On Monday you asked me what a T-0 was," Kiva said to Noa. "I told you what the word means. I'd seen every lamp go twice by then, and dreamed it both times."
+
+"Oh," said Noa.
 
 "I'm sorry."
 
-"I expect you are." He said it without heat, and she knew where she had heard those four words before, and that he did not know he was quoting. "Which years?"
+"I expect you are." He said it without heat, and she knew where she had heard those words before, and that he did not know he was quoting. He pushed his hair back off his forehead. "It doesn't change the tape. I'd only have looked at the other fifteen pens a week sooner." He frowned. "No. That isn't true. I'd have looked at them on Monday night."
 
-She told them. She told them which grids, and what hour, and that the third was eight minutes to three on the afternoon of her own Kindling. She read out the margin as it had been read to her. Then she told them about a grey box with a red card, and four lines of a settlement, and who would be sent a notice.
+"Two of those are you," said Kellan. He had not moved since she began. "The yard and the shelf."
 
-"Two of the four are you," said Kellan. He had got his own notebook out without seeming to notice. "The yard, and the shelf."
+"And Annick isn't. I wasn't born."
 
-"And two aren't. I wasn't born."
+"Then it isn't a thing you do," said Kellan slowly. "Or it isn't only a thing you do. I'd want to know which before I said anything more than that, and I don't."
 
-"I'm only counting." He wrote. "Four's too few to say anything with. I'd want that written beside it."
+"I mind this as well," said Perrin heavily, from the handcart. "I'd the yard to mind already, and the plate, and now I've a dead Master and a house on a hill." He shifted his strapped ribs. "Who else knew?"
 
-"I'd like it noted," said Perrin heavily, from the handcart, "that I mind this as well. I'm starting a list. I've got the yard on it, and the plate, and now I've got a dead Master and a clerk called R." He shifted his strapped ribs. "And I'd like to know who else has read that box, since somebody's bound to ask."
-
-"Orla has. Sixteen years ago. I found her name."
+"Mara. And Orla. Orla heard the dream sixteen years ago, from the Warden. I found out on Thursday."
 
 That went through the yard like a draft.
 
 "And she never said," said Anwen.
 
-It was the first thing she had said since the sheets were laid down. She was still kneeling at the south hem with the cord across her palm.
+It was the first thing she had said since Kiva began. She was still kneeling at the south hem with the cord across her palm.
 
-"No. I asked her last night. She told me why, and I don't think she was sparing herself." Kiva drew a breath. "She asked me how long I'd had these. And who'd seen them."
+"No. I asked her last night. She told me why, and I don't think she was sparing herself." Kiva drew a breath. "Then she asked me how long I'd had mine. And who knew."
 
 "How long?"
 
-"Seven weeks, for three of them."
+"Four years."
 
 "With a reason."
 
-"*They aren't the team's.*"
+"*It isn't the team's.*"
 
 Anwen laid the cord down on the canvas very carefully, as if it had been something that could spill.
 
-"That's a good one," she said. "It's as good as the Sag. I could tell it was coming before you'd opened your mouth." She stood up, and brushed the wax from her knees. "I'm glad it's on the sheet. I mean that. I'd rather have had it out of your hand than out of a clerk's cough, and that isn't what happened, and I'm still glad." She looked at the others. "Somebody take Finch home before she narrates this to the tram."
+"That's a good one," she said. "It's as good as the Sag. I could tell it was coming before you'd opened your mouth." She stood up, and brushed the wax from her knees. "I'm glad it's out. I mean that. I'd rather it had come out of you before a stranger said it in your kitchen, and that isn't what happened, and I'm still glad." She looked at the others. "Somebody take Finch home before she narrates this to the tram."
 
-They went by degrees. Kellan took a copy of the four lines, by leave, and read each back to her before he pocketed it. Perrin was wheeled out on his own handcart by Pru, protesting. Noa stopped at the gate and said that he would have the pens redrawn by Monday, and that the consent stood as signed unless she wished it otherwise, and went away before she could answer.
+They went by degrees. Kellan stood for a while looking at the sheet, and then shook Kiva's hand, which he had never done, and went without saying why. Perrin was wheeled out on his own handcart by Pru, protesting. Noa stopped at the gate and said that her leave stood as she had given it unless she told him otherwise, and that he would go over the Weighbridge mast as well if there was ever anything on it, and went away before she could answer.
 
 Then there were two of them in the drying yard, and a sheet that wanted folding.
 
-It took two. It was too stiff to be done by one, and it had to be brought corner to corner along the hem and walked in, and they had folded sheets in that yard between those lines since they were nine years old and Mrs. Pryce had paid them in buns. They did it without speaking. Kiva took the north corners and Anwen the south, and they walked toward each other and met in the middle with the canvas between their hands.
+It took two. It was too stiff to be done by one, and it had to be brought corner to corner along the hem and walked in, and they had folded sheets in that yard between those lines since they were small and Mrs. Pryce had paid them in buns. They did it without speaking. Kiva took the north corners and Anwen the south, and they walked toward each other and met in the middle with the canvas between their hands.
 
 "I'm not done," said Anwen.
 
@@ -338,7 +320,7 @@ She was a hand's breadth away, across a fold of waxed cloth. Her face was tired,
 
 "I know."
 
-"I don't think you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You put those papers down without a speech. If I stayed another week you'd have it nearly right, and then I'd have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I had my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
+"I don't think you do. You'll be very good at this by the time I'm back. You asked me who, on the bench, and waited, and I watched it cost you. You told them all of that without a speech. If I stayed another week you'd have it nearly right, and then I'd have to forgive you on a Saturday night with my bag half packed, because it would be unkind not to." She took the fold out of Kiva's hands and turned it. "I'm not going to. Greta Stroud can't button her coat. I had my hand up. I want to go out on that line tomorrow still minding it, and I want you to let me."
 
 Kiva held her end of the sheet.
 

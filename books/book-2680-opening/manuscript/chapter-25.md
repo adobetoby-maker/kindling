@@ -2,17 +2,17 @@
 
 Orla's crate weighed about as much as a cat, and Kiva carried it out of the shed on Monday night as though it had been a full tin.
 
-That was the bargain. She was to carry it at a walk, out at eight and in at ten, until the thirteenth, and in between she was to sit on the other one and do nothing that a healer could put a price on. She set it down in its old place, four paces short of the crooked post, and squared it to the lane, and Orla lowered herself onto it without a word of thanks, because none was owed.
+That was the bargain. She was to carry it at a walk, out at eight and in at ten, until the thirteenth, and in between she was to sit on the other one and do nothing that a healer could put a price on. She set it down in its old place, four paces short of the end of the lane, and squared it, and Orla lowered herself onto it without a word of thanks, because none was owed.
 
 "There," said Orla. "That's a dram's worth of strapping paid off at about a farthing a night. You'll be clear of me by Christmas."
 
-"It's nine nights."
+"It's only till the thirteenth."
 
 "Then I've been overcharged." The stick went down between her boots. "Sit. Tell me what you saw today that you'd not have seen from inside it."
 
 It was the only work there was, and Kiva had found on the very first afternoon that it was harder than she had expected.
 
-She had sat on the bench by the Low Lane door from two until four with her leg out, while the third team ran the litter down the brick for Saturday. Jude had put Pru at the front, where Kiva usually went, and for the first three carries Kiva had watched Pru, because that was her place, and had seen nothing whatever except her own mistakes being made by somebody shorter. It was only in the fourth that she had looked away, to see where the drain cover was, and had found that Noa Bexley had been standing for a whole minute with nobody near him and his blade arm hanging.
+She had sat on the bench by the Low Lane door from two until four with her leg out, while the third team ran the litter down the brick for Saturday. Jude had put Pru at the front, where Kiva usually went, and for the first few carries Kiva had watched Pru, because that was her place, and had seen nothing whatever except her own mistakes being made by somebody shorter. It was only late in the afternoon that she had looked away, to see where the drain cover was, and had found that Noa Bexley had been standing for a whole minute with nobody near him and his blade arm hanging.
 
 "Nobody was looking at Noa," she said. "Not us, and not Jude's dummy side either. Everybody on that floor was watching whoever had the litter. He could have walked the length of the lane."
 
@@ -20,35 +20,33 @@ She had sat on the bench by the Low Lane door from two until four with her leg o
 
 "No. He was watching the litter too."
 
-"Mm." Orla's crooked face did not change, but she moved the stick a little, which was as good. "You've stood in that lane six weeks and you'd have sworn you knew where all four of them were. So would I, at your age. A fighter in a lane sees the thing she's fighting. It takes a seat by the door to see the lane." She looked down the two rows of posts into the dark. "Write that one in the right-hand column and leave the others empty. You'll want it again, and it'll not be in a lane when you do."
+"Mm." Orla's crooked face did not change, but she moved the stick a little, which was as good. "You've stood in that lane six weeks and you'd have sworn you knew where all four of them were. So would I, at your age. A fighter in a lane sees the thing she's fighting. It takes a seat by the door to see the lane." She looked down the two rows of posts into the dark. "Hold on to that one. You'll want it again, and it'll not be in a lane when you do."
 
-Kiva wrote it. She wrote it under Monday, on a page that had nothing above it but the date, and it looked very small there.
-
-There was another thing from the afternoon, and she did not offer it. Orla had asked what she had seen, and this was only something she had said.
+There was another thing from the afternoon, and Kiva did not offer it. Orla had asked what she had seen, and this was only something she had said.
 
 ---
 
 It had been at four, when the others were putting the litter away.
 
-Noa had come and sat down beside her on the bench with a folded sheet in one hand and his pencil in the other, and he had not said anything at once. He looked as he generally looked by Monday, as if he had been up for two nights with a column of figures and had enjoyed it.
+Noa had come and sat down beside her on the bench, and he had not said anything at once. He looked as he generally looked by Monday, as if he had been up two nights with a tape and had enjoyed it.
 
-"It's the fourth," he said. "The Chair's order says your consent in writing, every month. Last month's ran out on Saturday. I didn't like to bring it to your kitchen with the team there."
+"It's the fourth," he said. "The Chair's order says I read you with your leave, and I ask for it again at the turn of the month. Last month's ran out on Saturday. I didn't like to ask in your kitchen with the team there."
 
-"What have I to sign?"
+"What are you asking?"
 
-"The same as before. Every figure in your book the same day. You and your sponsor see the sheet first. I stop if you say stop." He unfolded it on his knee. He had written it out fair, in the small square hand he kept for things that were going to an office. "I've put one more line. You can strike it if you like. *Nothing to any chartered party, or to any house, without her leave.* A man from the Halden technical office came into the mast room on Saturday. He asked for my notes. He was very pleasant about it."
+"The same as before. You hear every reading the day I have it. You and your sponsor hear it first. I stop if you say stop." He looked at his own knees. "And one thing more, if you'll have it. Nothing to any chartered party, or to any house, without your leave. A man from the Halden technical office came into the mast room on Saturday. He asked for my notes. He was very pleasant about it."
 
 Kiva looked at him.
 
-"I said they were your numbers." His ears had gone pink, which they did when he had done something he was proud of and did not want it mentioned. "He says the tape's open to him on the first of next month whatever I say, and that's true; I looked it up. So I've got twenty-six clear days. I'd like to spend them finding out what's on it before he does." He turned the pencil over. "There's one thing on it that isn't even yours. It's the keeper's. Your aunt reconciles registers for the Works, doesn't she?"
+"I said they were your numbers." His ears had gone pink, which they did when he had done something he was proud of and did not want it mentioned. "He says the tape's open to him on the first of next month whatever I say, and that's true; I asked the Chair's clerk. So I've got twenty-six clear days. I'd rather spend them finding out what's on it before he does." He rubbed a thumb along his knuckles. "There's one thing on it that isn't even yours. It's the keeper's. Your aunt reads banks for the Works, doesn't she?"
 
 "Yes."
 
-"Then she'd know. What's a T-0?"
+"Then you'd know. What's a T-0?"
 
-The field book was lying shut on Kiva's good knee. There were two loose sheets inside the back cover, one of them three days old when she got it and the other two hundred and thirty-four years, and three copied lines beside them that she had made herself in a records office seven weeks ago. She could feel the edge of the fold through the canvas.
+She did know. She had seen Mara chalk it on the lid of a regulator at the Works bench, when a cell had tripped in the night and she had gone over every inch of it and found nothing to blame.
 
-"It's a mark in the Transient Register," she said. "Every district keeps one. If the lamps flicker and the Works can find a cause, they write the cause. If they can't find one, they write T-0. Transient, nought. No cause."
+"It's what a keeper chalks," she said. "When something trips, and he looks, and he can't find why. T for the trip. Nought for the cause. Fault, no cause found."
 
 "That's all?"
 
@@ -56,25 +54,27 @@ The field book was lying shut on Kiva's good knee. There were two loose sheets i
 
 It was perfectly true, and it had come out of her as smoothly as a lid going on.
 
-"Oh," said Noa. He was disappointed, and too polite to show much of it. "I'd hoped it was a class of fault. Something with a table. Then old Dunmore only meant his lamps blinked and he couldn't say why." He wrote it down all the same, in the notebook, on the page she was not supposed to have seen the heading of. "Still. Every lamp on a dead ring. I'd like to know how a lamp blinks with nothing in it. I'll ask at Hanley Street; they'll have the book the keeper copies into."
+"Oh," said Noa. He was disappointed, and too polite to show much of it. "I'd hoped it was a class of fault. Something with a table. Then old Dunmore only meant that his lamps jumped and he couldn't say why." He frowned at the drain cover. "Still. Every lamp on a dead ring, at once. I'd give a good deal to know how a lamp jumps with nothing in it."
 
-"They will," said Kiva.
+"So would I," said Kiva.
 
-She signed the sheet. She did not strike the new line, and she read it twice before she put her name under it, as she had learned to do at a kitchen table. *Without her leave.* He had written that for her, against a pleasant man who funded papers, and had been pink about it.
+That was true as well.
 
-Then he had gone to wind the tape, and she had sat on the bench with the book on her knee.
+"You have my leave," she said. "All of it. The new part too."
 
-*They aren't the team's,* she had told herself on Saturday night, with feet on the stair. That had been a reason. She had been rather satisfied with it. It was Monday now, and Noa was not the team, and he had just asked her to her face, and she had given him the dictionary.
+He nodded, pinker than before, and went to wind the tape. She sat on the bench with her hands on her good knee.
 
-She had known what she would say before he reached the end of the question. She remembered knowing. It was the same feeling as a foot coming down on a step that was exactly where she had expected it. Anwen had described that feeling to her on Saturday night, across the kitchen table, from the other end of it. She had been on the other end of it twice.
+On the afternoon of her Kindling, every lamp on the Eastbank had gone out and come back like a blink. Mara had seen it from the third row of the benches, and the Works had put it down to the rig. Last Wednesday, Selka Dray had watched the Pit's dead lamp ring jump on its posts with Kiva on a shelf and her fist round the disk. And both times Kiva had looked up into a sky with nothing in it. She had told one person in four years, and that person was Mara, on a hallway floor.
+
+*It isn't the team's,* she had told herself, more than once, and most lately on Saturday night, with the others' feet on the stair. That had been a reason. She had been rather satisfied with it. It was Monday now, and Noa was not the team, and he had just asked her straight out, and she had given him the dictionary.
+
+She had known what she would say before he reached the end of the question. She was sure of that. It was the same feeling as a foot coming down on a step that was exactly where she had expected it. Anwen had told her about that feeling on Saturday night, across the kitchen table, from the other end of it. Kiva had been on that other end twice.
 
 *Not having your answer ready would be a start.*
 
-In the yard, under the lamp, she turned back a page and looked at the right-hand column. There was room in it. She did not write anything there, because she did not yet know what the true entry was, and she had been told on good authority that a guess did not belong on that page.
-
 "You've gone quiet," said Orla.
 
-"I'm thinking about what I don't have an answer to."
+"I'm thinking about something I haven't got an answer to."
 
 "Good. Do it sitting down." The stick turned in the old hands. "You've a week of that left, and I've found that most people can't bear two days."
 
@@ -96,17 +96,17 @@ She shut them. The Wren House infirmary smelled of salt and boiled linen, and so
 
 "I won't."
 
-"You will, the first morning they don't trouble you. Everybody does." He wrote two lines on her card, and blotted them. "The knee stays strapped, and I see it on the thirteenth before it lands on anything. No lanes, no floors, nothing lit. That's not altered."
+"You will, the first morning they don't trouble you. Everybody does." He let the hand go. "The knee stays strapped, and I see it on the thirteenth before it lands on anything. No lanes, no floors, nothing lit. That's not altered."
 
-"Can I go on a tram for something that isn't a yard?"
+"May I watch on Saturday? The third team's at home."
 
-"Where to?"
+"Watch from where?"
 
-"The Compact Library. I'd be sitting down."
+"A bench."
 
-Aske considered her over the card for some moments, as a person does who has been asked a harmless question by somebody with a history.
+Aske considered her over his spectacles for some moments, as a person does who has been asked a harmless question by somebody with a history.
 
-"In a chair," he said. "In a building. With a roof on it, I'm told, and a very fine one. I've never known a library to do anybody's knee a mischief, though I had a student once who fell asleep in one and was locked in till Monday." He handed her the card. "You may sit in it as long as you please. If I hear that you've sat in it on one leg, with anything open, I shall send your sponsor another account, and this time I'll charge for the stamp."
+"A bench," he said. "In a building. With a roof on it, and the Wren House as visitors, so it'll be a dull one. I've never known a bench do a knee any mischief, though I had a student once who fell asleep on one in the New Lane and was locked in till Monday." He waved her toward the door. "You may sit on it as long as you please. If I hear that you've stood up on it to shout, I shall send your sponsor another account, and this time I'll charge for the stamp."
 
 She met Greta Stroud on the stair.
 
@@ -118,7 +118,7 @@ She stopped when she saw who it was. So did Kiva, since there was no way round o
 
 "Miss Stroud."
 
-"They tell me a team sent a dram up here with my name on what it was for. At par, off its own book, four signatures. The sister showed me the line." The grey eyes were level. "First-years."
+"They tell me a team sent a dram up here with my name on what it was for. At par, off its own share, all four of them agreed. The sister told me." The grey eyes were level. "First-years."
 
 "Yes."
 
@@ -142,7 +142,7 @@ Stroud looked at her for some time.
 
 "She's her own."
 
-"So you said, and I said good." A step. "Then I'll tell you a thing for nothing, since she'll not think to. That line's the summer's work and it's a fair one, and it leaves the night van a ward short until I can button my own coat. Sorn's been doing her sums all week. If you've a shift coming with that van, and I hear that you have, it'll be a thin one." She did not look back. "I'd not hurry me. I'd not dawdle either."
+"So you said, and I said good." A step. "Then I'll tell you a thing for nothing, since she'll not think to. That line's the summer's work and it's a fair one, and it leaves the night van a ward short until I can button my own coat. Sorn's been at her roster all week. If you've a shift coming with that van, and I hear that you have, it'll be a thin one." She did not look back. "I'd not hurry me. I'd not dawdle either."
 
 Kiva stood on the stair until the two of them had reached the bottom.
 
@@ -150,192 +150,148 @@ Then she went down herself, holding the rail in her right hand. She had come for
 
 ---
 
-The Compact Library had a very fine roof.
+The knock came on Thursday at a little after seven, at the shop door, though the sign had been turned an hour.
 
-Everybody said so, and it was the first thing a stranger was shown, a long sweep of green copper over the top floor with a lantern of glass at the middle of it. Kiva had been under that roof perhaps a dozen times in her life, at a long table in the reading room, looking up tolerances for Mara. She had never once been below the ground floor, and she had not known until Thursday afternoon that there were three flights of stairs under it.
+Mara was at the kitchen table with her left hand flat on a cell can from the Works, feeling for whatever the night tuner had left in it, and she did not take the hand away at once. She looked at Kiva. Kiva looked back. Neither of them said *the Order,* and both of them heard it.
 
-They were iron stairs, and they rang. She took them one at a time, with the strapped knee leading and the field book under her arm, and at the foot of the third she came out into a long low room where the shelves stood closer together than the posts in the New Lane.
+"Well," said Mara, "you're the one they're asking for," and got up, and went down.
 
-It was cold down there, and very quiet, with a dry smell of old paste. There were induction lamps on the ends of the rows, turned low, and they hummed. Each row had a card in a brass holder. *Lane manuals, superseded. Works tables, superseded. Charters, lapsed.* She went along them slowly, reading.
+Kiva heard the bolt, and a low voice, and then Mara's, saying something short and civil. Then two sets of feet on the stair, one of them a good deal lighter than the other.
 
-At the far end of the room, under the one lamp that had been turned up, a woman sat at a table with her back to the stair.
+The woman who came into the kitchen was about sixty, in grey, with her hair cut as short as a boy's. She was not tall. She had the kind of straight back that comes from standing in one place for a long time on purpose. She looked round the kitchen once, at the stove and the dresser and the cell can on the oilcloth, and then she looked at Kiva and did not look anywhere else.
 
-She was small and upright and a great deal older than Mara. She wore two pairs of spectacles, one on her nose and one pushed up into grey hair that had been pinned by somebody in a hurry, and she was eating something out of a paper twist with her left hand while her right went on writing. She did not turn round.
+"I'm told I'm to ask nicely," she said. Her voice was low and rather hoarse, like a door that is not often opened. "Your aunt told a sister of ours that you were seventeen and could answer for yourself."
 
-"The reading room is two floors up," she said. "The stair you came down is the one you want. People find it easier going the other way."
+"I did say that," said Mara.
 
-"I'm not lost," said Kiva. "At least, I don't think I am. I was told there was a reader in the superseded stacks who could read a record hand that went out two hundred years ago. I was told if anybody asked her nicely, she might."
+"Then I've come to ask you, Miss Rowan, and not her. I'm the Warden of the Even Hand." She did not offer her hand, and she did not seem to expect one. "May I sit?"
 
-The pen stopped.
+Mara put the kettle on. It was what she did with people she had not yet decided about. The Warden took the chair by the window without being shown it, as if windows were where she sat, and folded her hands on the table.
 
-"Were you?" The woman turned in her chair, and looked at Kiva over the lower pair of spectacles, from her boots to her hair. Her eyes were very bright. "By whom?"
+"I'll say it plainly," she said, "since I have come down a hill to say it, and I would rather not come down twice. The Order would have you for a year. At our house in the hills. You would train one door. The other two you would shut, every day, morning and evening, until they stay shut without your holding them. At the end of the year you would choose what you are. Not before."
 
-"A clerk at the Hanley Street records office. He told my aunt, and she told me."
+"Which door?" said Kiva.
 
-"The careful one. With the cough." She set down the paper twist. "He sends me somebody about once in three years, and he always tells them the same thing, and not one of them has ever known how it's done. They stand there. Some of them bring flowers. One man brought a ham." She folded her hands on the table. "Well? I'm told it's to be done nicely. I've twenty minutes before my tea, and I'm perfectly willing to be asked."
+"The hand, we would think. We are a Ward house. But you would choose with us, and not be told." The grey eyes went to Kiva's left hand, lying on the table, and stayed there a moment. "And that hand would have a year's rest from whatever it is you do to it."
 
-Kiva had practiced it on the tram. She found that she could not remember a word.
+Kiva moved the hand into her lap. She had not decided to.
 
-"Please," she said.
+"Why me?"
 
-There was a silence.
+"Because you have three, and they quarrel, and you will spend your life holding them apart unless somebody teaches you to keep one. We know how to keep one. It is the only thing we know." The Warden said it without any pride at all. "You'll have heard that we're strange. We are. We don't speak much. Some of us don't speak for a year. We give our whole lives to a single door, and the Compact thinks it a waste, and the Halden house thinks it a waste it would like to buy."
 
-"Is that all of it?"
+"What would I do?" said Kiva. "All day."
 
-"I had some more. It's gone." She shifted the book. "I've got a copy of a margin and I can't read it and I've wanted to for seven weeks. I'd be very grateful. I've no ham."
+"Stand. Breathe. Open one door and shut two, morning and evening, and again at night if you let one slip. Carry water. Sweep. We keep no servants, and we have a great many stairs."
 
-The woman laughed. It was a short, dry, astonished sound, like a book being dropped, and it seemed to surprise her as much as anybody.
+"And my team?"
 
-"That'll do," she said. "It's a good deal nicer than the ham. Sit down, child, before that leg decides for you. I'm Lettice Arkwright, and you're to call me Reader, because everybody does, and it saves them wondering about Lettice. What have you brought me?"
+"Would find another catcher. Teams do, I'm told." She said it without unkindness, as a person says that rain is wet. "You would not be at your school's Regional Gates. Nor at its meets. Nor in your sponsor's yard of an evening, on a crate. A year is a year."
 
-Kiva sat. She took the clerk's sheet from inside the back cover and laid it on the table, and turned it to face the other way.
+Kiva thought of Pru at the front of the litter, talking. She thought of a waxed sheet that had cost three drams and had not yet been thrown down on anything, and of two more drams in a glass at the ash office with four names on them, and of Orla, who wanted six. Anwen was going on Sunday. Kiva had not thought, until this moment, that she might go too.
 
-The Reader did not touch it at first. She pushed the upper spectacles down over the lower ones and bent until her nose was a hand's width from the paper, and for some time she only looked, moving her head a little from side to side, as Mara did over a drum.
+"And if she wants to come home on a Sunday?" said Mara.
 
-"He's drawn it," she said. "Bless the man. He couldn't read a stroke of it, so he's drawn every stroke, and he's even kept the places where the pen rested. That's how I know that I can trust it. A clerk who thought he understood it would have tidied." Her finger came down beside the three plain lines. "This is the entry. *Night. Every lamp, every district. No fault found.* Anybody could give you that."
+"She may walk down the hill any day she likes. Nobody is kept. Most who come down don't go up again, and we don't send after them."
 
-"Yes."
+"What does it cost?"
 
-"And this is somebody who didn't care to leave it there." The finger moved to the row of bent pins. "It's the late record hand. The Works taught it to its night clerks until about 2480, so that a man could take down a fault as fast as it was shouted to him. It was never meant for the public, which is why the public can't read it. I should think there are four people living who can, and two of them are wrong about the vowels." She drew the lamp nearer. "I'll give it to you as it stands. I don't improve."
+"Nothing in ash. We take no student's ash, and we sell none of ours." The Warden turned her head toward Mara, and then back. "It costs the year. That is the whole of the price. It is a dear one, and I won't tell a girl with a team that it isn't."
 
-She read it aloud, slowly, with her finger under each mark.
+The kettle began to talk to itself. Mara did not move it.
 
-"*Not for the column, by the Warden's order. A sister of the Even Hand was at the wicket before it was light. Sent down by her Master to ask whether the city's lamps had gone in the night. She did not know why she was sent. Told, yes, all. The Warden says a question is not a fault and is not to be entered. Entered here. Nobody had told them. R.*"
+"That's why you'd want me," said Kiva. "Why do you do it, though? One door. A whole life."
 
-Kiva did not move.
+"Most people ask the first thing," said the Warden, "and never get round to the second."
 
-The lamp hummed. Somewhere over their heads, a long way up, a chair scraped on a floor.
+She looked out of the window for a moment, at the Coper Street lamp and the bakery shutters. Then she looked back.
 
-"Again," she said. "Please."
+"Our Master was Hesper Annick. You'll know the bronze on the Eastbank wall."
 
-The Reader read it again, in exactly the same voice, and did not look up until she had done.
+"She held it through a flood."
 
-"*Nobody had told them,*" said Kiva.
+"She did. She reached Glory, which almost nobody does, and she held that wall till the river went down. And in her fevers she had a dream, the same dream, more than once." The low voice did not change at all. She might have been telling the way to the tram. "She saw people coming. From every road at once. She couldn't see their faces. Each of them carried a light, and no two lights were alike. They came toward one another, and when they were close their lights touched, and none of them stopped."
 
-"That's his reason. He's put it last, where a night clerk puts it, and he's underscored it, which I've not seen that hand trouble to do above twice." The Reader sat back. "R. is the clerk. I can't give you more of him than that; the Works paid its night men by the initial. He was told to leave something out of the city's book, by somebody who had the right to tell him. So he left it out of the column and wrote it at the side in a hand that his Warden very likely couldn't read. I've a good deal of sympathy with R."
+Kiva's right hand was round her cup. She had not known it was going there.
 
-"Did they ever say why they'd asked? The Even Hand."
+"Then she looked up," said the Warden, "and the sky was not torn. She'd seen rifts all her life, and she said this was not a rift. It was gone. Like the roof off a house in the night. And what was above came down, and in. Not crushing. Full. Enormous, and paying attention."
 
-"If they did, he didn't hear of it, or he'd have written it. That sort always does." She took off the upper spectacles and polished them on her sleeve. "Now. You came down three flights on one leg for this, and you've gone the color of the paper. I don't ask why; nobody in this room is obliged to say why. But I'll tell you what a reader would ask next, since you're new to it. She'd ask who the Master was."
+Behind Kiva's breastbone the hand door came up, cool and quick, as it came up on a floor when something in her chest stood on its feet.
 
-"Do you know?"
+"*Hand, cold,*" she said, under her breath.
 
-"I know who held the hill house in 2446. So would anybody who'd been a child in Eastbank; they put her on the flood-wall in bronze." The bright eyes rested on Kiva's face. "Hesper Annick. Glory in 2431, and a ward over that wall for nine days. She's the Order's saint, though they'd dislike the word. And I've eleven boxes of her papers on the shelf behind your left shoulder."
+It lay down.
+
+Across the table, Mara's left hand had come off the cell can and gone flat on the oilcloth. She did not look at Kiva. She was looking at the Warden, and her face had gone very still.
+
+"And every lamp in Meridian answered at once," said the Warden. "That's as much as I say in a kitchen. There's more. It's said at the house, to people who've come up to hear it."
+
+Nobody spoke. The kettle had boiled, and Mara had still not taken it off, and the lid was rattling.
+
+"That's what we believe," said the Warden. "That the sky will come off. That when it does, somebody had better be standing there who has given a whole life to one door and knows to a hair what it will hold. We don't know when. We don't know what comes after. We train so that we're there." She unfolded her hands. "You're not obliged to believe it. I'd think less of you if you did, on one telling, in your own kitchen. I'm only answering what you asked."
+
+Mara got up and took the kettle off the hot plate. The rattling stopped. In the quiet, the Warden went on looking at Kiva's face.
+
+"You've had it," she said.
+
+It was not a question. Kiva could feel the answer she might give rising up, round and ready. *I don't know what you mean.* It would have been easy. It would have been a lie, and a smooth one, and she had already given one smooth thing away this week.
+
+"I'm not going to answer that tonight," she said.
+
+"No. I didn't think you would." The Warden almost smiled. "Your sponsor didn't either."
+
+Kiva went still.
+
+"Orla Dane," said the Warden. "She sat in a chair by my window sixteen years ago, after the trouble with her boy, and asked me whether anybody in our house had ever seen two doors open in one child. I didn't answer her. I told her what I've told you. She drank my tea, and went down the hill, and I've not seen her since." Her eyes moved round the kitchen once more. "I'd thought she'd have said."
+
+Mara set a cup in front of the Warden. Her hand was perfectly steady, and she set it down a little harder than she needed to.
+
+"She hasn't," said Kiva.
+
+"Then I have told you a thing that was hers to tell, and I am sorry for the manner of it." The Warden drank half the tea at once, as if she had walked a long way for it, which she had. Then she stood. "Come up to the house when you have an answer. Come at the evening practice, and hear the rest of it said among people who believe it. Then answer. I would sooner have a no from somebody who had heard it than a yes from somebody who hadn't."
+
+"And if it's no?"
+
+"Then it's no, and we've had a good many of those." She inclined her head to Mara. "Thank you for the tea, Miss Rowan. You made it as if you'd sooner I hadn't come, and you made it well. That's rarer than you'd think."
+
+Mara saw her down. Kiva heard the bolt go home.
 
 ---
 
-Kiva turned round on her chair, carefully, and looked.
-
-It was a shelf like the rest. The boxes on it were grey and square and tied with tape, and each had a number on its end. There were ten of them in a row. The eleventh stood a little apart, on the shelf below, and there was a red card in its holder.
-
-"Why are they down here?" she said. "If she's as famous as that."
-
-"Because they're in dispute, and the Library puts what's in dispute where it'll be kept and not handled. That's what the room's for. You'll have been taught that superseded means wrong." The Reader got up, with a hand on the table, and went along the nearest row. "It doesn't. It means that somebody decided a thing needn't be said any longer. Sometimes they were right. Here. I'll show you a small one, and then you'll know what you're sitting among."
-
-She came back with two books, one thick and blue and nearly new, and one thin and brown with its spine gone.
-
-"The *Founders' History* of your own school. I take it that it is your school; you've the walk of somebody who's been thrown about by the Crooked Line. This is the ninth edition, which they hand to first-years. This is the fourth." She opened them side by side, at pages she did not have to look for. "The same sentence. Read me the new one."
-
-Kiva read it. "*The nine-ringed plate carried by the first teachers is preserved by the School.*"
-
-"Is it? I've asked to see it for thirty years. I'm told that it's being conserved." She turned the brown book round. "And the old one."
-
-The print was small and uneven. *The plate of nine rings went out with the Home Line and is not the School's to show. It is released to one who carries it. We have not been told why and have not thought it ours to ask.*
-
-Kiva read that once.
-
-She was aware of the cord at her collar as she had not been for a week. It lay where it always lay, and the thing on the end of it was cold, and she kept both her hands flat on the table and did not let either of them go up.
-
-"They don't agree," she said.
-
-"They do not. And the ninth agrees with itself from cover to cover, which is how you can tell that somebody's been through it with a comb." The Reader shut both books. "Nobody lied, I dare say. A committee found a sentence that made the School look as if it had mislaid something, and wrote a kinder one, and the next committee copied the kind one because it was the one in front of them. That's how a record loses a thing. It's hardly ever a fire. It's a person with good manners, copying."
-
-She put the two books down, one on the other, and sat.
-
-"Which brings me to the red card, and I'm obliged to tell you all of this before you ask me for anything, so you'll oblige me by listening to the end." Her voice had altered. It was drier, and a little slower, as a voice is when it is reading out terms. "Ten of those boxes are open to any reader. They're Ward patterns, and they're above my head and very likely above yours. The eleventh is her private papers. The Order says a Halden heir stole the lot and gave it here to look generous, and wants that box back. The Halden endowment says it was a gift, lawfully made, and wants it kept. They went to law about it, and in 2611 they settled, and I've administered the settlement for thirty-one years. It's four lines long. I know it better than my own address."
-
-She counted them on her fingers.
-
-"One. The box stays on that shelf and belongs to nobody until they agree, which they never will. Two. Any reader may ask for it, in the room upstairs, under my eye. No copying, not a word, not on a cuff. Three. A reader under eighteen wants a guardian's hand beside her own." Her eyes went to Kiva's face and stayed there. "And four. Every request is entered in a book, with the reader's name, and that book is open. I send notice to both parties the same day. They've fourteen days in which to say nothing, and each of them may send one person to sit in the room while the box is read. They may not speak to the reader. They may look as much as they please."
-
-Kiva sat still.
-
-"So if I ask, the Order's told."
-
-"And the endowment. By name. *K. Rowan asks to read Annick, Personal.* I shall write it in my best hand and send it up the hill and across the river, and I've no leave to do otherwise, and I shouldn't if I had. That's the whole reason the box is still here to be asked for." She laid her hand flat on the two histories. "I'm not telling you not to. I'm telling you what it costs, before, because I've seen people told after."
-
-"Can I see the book? The one that's open."
-
-The Reader drew it out from under the lamp.
-
-It was not a large book. It had a black cloth cover and a ribbon, and when she opened it at the ribbon there were not a dozen lines on the page. Most of them were the same. *Endowment's inspection, annual,* in a clerk's hand, with a date each spring. *A sister of the Order. Sat one hour. Box not opened,* each autumn, in the Reader's.
-
-"She comes on the same day every year," said the Reader. "She isn't let open it without notice to the other side, any more than you are, and she's never once given notice. She sits beside it. I bring her a chair."
-
-There were three lines on the two pages that were different from the rest.
-
-One was thirty years old and in a faded ink, a scholar's name with a college after it. One was last spring's, *Halden technical office, by leave of the endowment; ten boxes, patterns; Personal not asked for.*
-
-The third was sixteen years old.
-
-*O. Dane, teacher, the Crooked Line. Annick, Personal. Read in the room, one afternoon. 2664.*
-
-Kiva read it, and read it again. It did not alter. It was Orla's own hand, the square upright capitals that came back on Mondays in the margin of the field book, and she would have known it on a wall.
-
-*It isn't much,* Orla had said, on Sunday, with the stick across her knees. *You shall have what I've got.* And she had given her a bearer's book at the Home Line hall, and a favor twenty-five years old, and a man who had found another hand in a ledger. She had given all of that, plainly and in order, and Kiva had sat on the spare crate and thought that she was being told everything.
-
-"You know that name," said the Reader.
-
-"She's my sponsor."
-
-"Ah." It was a very small sound. "Then I've shown you something I'd no notion I was showing, and I'm sorry for the manner of it, though not for the book. It's open. That's what it's for." She shut it gently on its ribbon. "Shall I write you in?"
-
-"Not today."
-
-"No. I'd not either, with that face." The Reader folded the clerk's sheet along its old crease and held it out. "Take your margin. It's a good one, and it's yours, and nobody need be told that you've read it but the two of us and a man with a cough. When you've a guardian's hand and you know your own mind, I'm here until six, every day but Sunday. I shan't have gone anywhere. I never do."
-
----
-
-Mara had the brass weight on the trunk book and a pencil behind her ear, and she listened to all of it without once looking down.
-
-Kiva told it standing, with her back to the stove. She gave her the margin first, word for word, since it was the part that had been Mara's errand to begin with, and she watched her aunt's left hand come to rest on the table as it had rested on the canvas-backed book outside a healer's cart.
-
-"*Nobody had told them,*" said Mara. "A sister at the wicket before light, and she didn't know what she'd been sent for." She was quiet. "I've read that register line forty times, Kiva. I'd have sworn there was nothing in it but lamps."
-
-"There wasn't. He was told to leave it out."
-
-"By a Warden of the Works. Two hundred and thirty-four years ago, and I could tell you what the man's voice sounded like." Mara took the pencil from behind her ear and laid it down. "Go on. There's more. You haven't sat."
-
-So Kiva told her about the eleventh box, and the four lines of the settlement, and who would be sent a notice in a reader's best hand. Then she told her whose name was in the black book, and in what year.
-
-Mara did not say anything for rather a long time.
+Mara came back up the stair slowly and stood in the kitchen doorway with her hand on the frame.
 
 "Sixteen years," she said.
 
-"She told me on Sunday I'd have what she'd got. She said it was little enough."
+"On Sunday she told me I'd have what she'd got. She said it wasn't much." Kiva's voice sounded strange to her. "She told me about the watch. And a favor that was twenty-five years old. I thought she'd given me all of it."
 
-"And she gave you the Home Line's book and left out the Library's." Mara's face was perfectly still. It was the stillness she kept for a cell that was reading wrong, before she had decided whether the fault was in the cell or the meter. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I wouldn't forgive, and I've known that woman for two months. You've known her for four years."
+"And she left out a chair by a window." Mara came in and sat down, and laid her left hand on the table again, not on the can now, only on the oilcloth. "I'm not going to tell you what that means. I can think of two things it might mean, and one of them I'd not forgive, and I've known that woman two months. You've known her four years."
 
 "I thought I had."
 
-"Then ask her. To her face, tomorrow, before you've made it into anything." Mara looked at the stove, and at the clerk's sheet, and at her niece. "You'll want my hand for that box."
+"Then ask her. Tomorrow, at the lane, before you've had a night to make it into something." Mara was quiet for a moment. "And the other thing."
 
-"I'd meant to go by myself first. I did go by myself."
+"I know."
 
-"So you did, and you came back with more than I'd have got." There was something at the corner of her mouth that was nearly a smile. "I'll sign. I'm saying so before you ask, so you needn't. But I'll say one thing about the cost, since she was honest enough to name it." She tapped the black cover of the keeper's branch book, which still lay at the end of the table where it had lain since Saturday. "A man in a black coat came to a boy in a mast room and asked very civilly for your numbers. He'll read that tape on the first whether we like it or not. If your name's going to be in front of that house, I'd as soon it were in an open book, in your own hand, with a date on it, as in the back of somebody's notebook. A request book is a book."
+"I know you know. I was on the hallway floor with you." Mara did not look away. "Was it the same?"
 
-"A meter, and a shutdown path."
+Kiva thought about it. She made herself think about it properly, and not just say yes.
 
-"Don't be clever. I haven't found the shutdown path yet." Mara got up, and moved the kettle onto the hot plate, and stood with her hand on its handle. "Speak to your sponsor. Then we'll go on Monday, the pair of us, and be written down."
+"The roads were the same. Every road at once. The lights, and none of them alike. The sky." She swallowed. "She said *full.* I said full to you. I couldn't think of another word for it, and she used the same one."
 
-Kiva sat, at last, and opened the field book on the table where it would be read.
+"And the rest she keeps for the house."
 
-*Thursday the 7th. Compact Library, superseded stacks. The Reader (L. Arkwright) read the 2446 margin. See her words, copied opposite, as she gave them.*
+"Yes."
 
-She copied them. It took some time, and she got two of them wrong and had to ask Mara, who had only heard them once and had every one.
+Kiva did not say the next thing. There had been a part of it, every time, that she had never told Mara or anybody: the lamps that had not gone out, and had not gone white, but had gone a color she had no word for. She did not know how to say a color like that. She had never tried. The Warden had stopped at every lamp answering, and had not said how, and Kiva sat at her own table and wondered whether the rest was in what the house kept back.
 
-Then she turned back to Monday's page, with its one small line about a seat by a door, and under it, in the right-hand column, she wrote what she had not been able to write in the yard.
+"She'd an answer ready about your hand," said Mara. "A year's rest."
 
-*Noa asked me what a T-0 was. I told him what the word means. I've four of them in this book. Why: I had my answer ready.*
+"Is it true? Would it rest?"
 
-She looked at it. It was not a reason. It was only what had happened, set down without a guess, and she was beginning to think that most of her reasons had been that, underneath, and that she had been dressing them rather well.
+"I don't know. Ask Aske. Don't ask her." Mara turned her own left hand over on the oilcloth and looked at the palm, as she did when a bank had told her something she had not wanted to hear. "People who give their whole lives to one door don't come down off that hill to see a girl with three because they've nothing better to do of a Thursday. I said that on Sunday. I still think it. And she made her tea disappear like a navvy, and she said she was sorry, and I believed her." She shook her head. "I'd as soon not have liked her at all."
+
+"Will you go up?"
+
+"I don't know."
+
+"Then don't, until you do." Mara took the Warden's cup from the table, and washed it, and dried it, and put it away at the back of the shelf, behind all the others.
