@@ -2,7 +2,7 @@
 
 *Four years later — 2680*
 
-The draw meter on the wall of the placement hall had a sticky needle.
+The draw meter on the wall of the Placement Hall had a sticky needle.
 
 Kiva Rowan had noticed it twenty minutes ago, while she stood in the queue with three hundred other seventeen-year-olds and tried not to think about her chest. Every time a candidate at the first bench finished a reading, the needle dropped back toward zero, caught at the two, and hung there for half a breath before it fell the rest of the way. Nobody else seemed to see it. The clerks called the numbers, the projection boards lit up, and the crowd in the gallery murmured or clapped, depending.
 
@@ -312,7 +312,7 @@ Orla did not have it now.
 
 Anwen and Perrin were waiting on the Compact steps.
 
-The steps ran down from the placement hall to the plaza in long white flights, and on Classification Day they were packed. Families sat in clumps eating lunch out of paper, and recruiters from the chartered rift companies stood under striped awnings at the bottom, each with a table, a banner, and a board of last season's standings. Kiva could see the Graywater banner, slate blue with a white wave on it, and Saltmere's green, and the black and gold of the Halden companies, which were not rift companies exactly but which bought half the ash the rift companies brought home. Over the plaza hung the long anniversary banners the city had put up in the spring. *SIX HUNDRED YEARS OF LIGHT.*
+The steps ran down from the Placement Hall to the plaza in long white flights, and on Classification Day they were packed. Families sat in clumps eating lunch out of paper, and recruiters from the chartered rift companies stood under striped awnings at the bottom, each with a table, a banner, and a board of last season's standings. Kiva could see the Graywater banner, slate blue with a white wave on it, and Saltmere's green, and the black and gold of the Halden companies, which were not rift companies exactly but which bought half the ash the rift companies brought home. Over the plaza hung the long anniversary banners the city had put up in the spring. *SIX HUNDRED YEARS OF LIGHT.*
 
 Perrin Cade was sitting on the third step with a meat bun in each hand.
 
