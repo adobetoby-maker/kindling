@@ -98,7 +98,7 @@ He went up the bank.
 
 She walked back to the hall along the top of the berm, by herself, with her arms aching.
 
-Perrin had come down to the Sag again on Thursday with a sandbag's worth of news, and had told all of it, because he could not help himself. Dray had stood up in the Chair's office with an objection, and Kiva had had an answer ready, made on the tram, and had not given it. She had said, *She's right.* Then the Order had sent down a year's rest and one door, and the fingers might fill, and Kiva had said no to it. Perrin had asked her why, at the shed, and she had said, *I want it.* The six. The third door. *I may be wrong.*
+Perrin had come down to the Sag again on Thursday with a sandbag's worth of news, and had told all of it, because he could not help himself. Dray had stood up in the Chair's office with an objection, and Kiva had had an answer ready, made on the tram, and had not given it. She had said, *She's right.* Then the Order had sent down again, a year's rest and one door, and the fingers might fill, and Kiva had said not this year, again. Perrin had asked her why, at the shed, and she had said, *I want it.* The six. The third door. *I may be wrong.*
 
 "Like that," Perrin had said. "Just like that. Not a speech in it."
 
@@ -278,7 +278,7 @@ Kiva had. It had come to her on a wharf, some time after four in the morning, kn
 
 "Hand, Ember, still," she said. "It's the trade. A ward takes a thing as it falls. That's the catch. The bound takes it somewhere else; that's the carry. And the stance sets it down." She heard how tidy it sounded, and went on more slowly. "I don't know that it works. I've never passed anything out of a ward. Mine splash."
 
-"They do. That's the first thing that'll go wrong." Orla did not smile. "I'll not have it tried on a notion. Bring me the whole of it. The order. Where every limb is at each of the three. What it costs, to the hundredth. Who may stop it, and at which moments. And every way you can think of that it ends early, with what you do when it does." She pointed the stick. "Then go and say it to the four who'd be paying. I've no glass. You've a hundredth."
+"They do. That's the first thing that'll go wrong." Orla did not smile. "I'll not have it tried on a notion. Bring me the whole of it. The order. Where every limb is at each of the three. What it costs. Who may stop it, and at which moments. And every way you can think of that it ends early, with what you do when it does." She pointed the stick. "Then go and say it to the four who'd be paying. I've no glass. You've a hundredth."
 
 ---
 
@@ -340,7 +340,7 @@ Three Kennel floors for the four who stood the Regional, which came to two drams
 
 All four of them said yes to that. Kellan said it last, and did not ask to hear the middle again.
 
-"The medical's still sealed," said Anwen. "Two drams, ward-trace. It isn't training ash. It's for whoever needs it, and nobody's to go near it in the eighth month because they're feeling clever."
+"The medical's still sealed," said Anwen. "Two drams, ward-trace. That's for whoever needs it, not for training, and nobody's to go near it in the eighth month because they're feeling clever."
 
 "Nobody will," said Kiva.
 

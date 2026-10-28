@@ -86,7 +86,7 @@ He stood for what seemed a long time with his hands at his sides. A third knot h
 
 It was the plainest question that she had ever been asked.
 
-She did not look at the square. She looked up, into the east terrace, two rows above the rail. Mara had stood. She had not come down. She had said that she would not, and she was keeping her word; she had her right hand pressed flat against the front of her good coat, the scarred one, as a person holds a thing that has been knocked.
+She looked up, past the square, into the east terrace, two rows above the rail. Mara had stood. She had not come down. She had said that she would not, and she was keeping her word; she had her right hand pressed flat against the front of her good coat, the scarred one, as a person holds a thing that has been knocked.
 
 *It can be done,* Mara had said. *I'd not wish it on you for all the doors in Meridian.*
 
@@ -150,17 +150,11 @@ There was no time for it. She asked it anyway.
 
 "Two fingers. For good. Perhaps more."
 
-"Is that what's so?"
+Anwen looked at her a moment longer. Then she nodded, once, and turned for the sixth sheet.
 
-"Yes."
+"Anwen," said Kiva. Her eyes had stung. "The gate. On *back.*"
 
-"Then I've nothing to add." Anwen's level look did not move. "Ask me."
-
-It was a strange moment to be given that. Kiva found that her eyes had stung.
-
-"Pryce," she said. "The gate. On *back.*"
-
-"Mine," said Anwen, and went.
+"I know where it is," said Anwen, without looking round.
 
 "Brask," said Vane. "You know that thing's breath."
 
@@ -234,7 +228,7 @@ Three grey shapes leaned back together, and the cord came up out of her ward lik
 
 It was not Gerald. It was not anything like Gerald. Gerald had been a hundredweight of sand with no judgment. This had a beat in it. She felt it for the length of one tap, slow and even and many, like the hum of the sheds coming down a street.
 
-*It wants me to keep step.*
+*I don't like its time,* she thought, and did not know why.
 
 "*Ember.*"
 
@@ -266,13 +260,15 @@ There was a white cord running down to the ground a foot from her right boot. It
 
 "*Planted!*" said Kiva.
 
+Behind her she heard Perrin set his knees in the cinders.
+
 ---
 
 Perrin Cade had never in his life wanted so much to look at something and been so entirely forbidden.
 
 *You don't look up,* a Torch had told three shed hands on the Weighbridge, and one of them had been his father. He had thought at the time that it was an easy thing to be told.
 
-He had a girl under the arms. She was not heavy. She was a blade, and built like one, all cord and temper. The trouble was that one of her legs had been under something for the best part of a quarter of an hour and had come out the wrong shape.
+He had a girl under the arms. She was light, a blade and built like one, all cord and temper. The trouble was that one of her legs had been under something for the best part of a quarter of an hour and had come out the wrong shape.
 
 "*Planted!*"
 
@@ -300,7 +296,7 @@ He could hear it. That was the worst of having his back to it. He could hear Bra
 
 *Now.* And a while after, *now.* And then, sooner than he would have thought, *now* again.
 
-Never once on Brask's word. Never twice in the same place. Perrin understood all at once that it was being done on purpose, and what it was. It was what she did when a thing was trying to come in. He had heard her call the thread cold aloud in the dark for six months, on her knees, on the tram, under her breath in the Old Yard, and he had thought it was nerves. He heard now what it was: a girl keeping a door shut by saying so, and keeping a thing from getting hold of her the same way.
+Not on Brask's word. Perrin did not know what it was for. He knew that it was being done on purpose, and he knew the sound of it. It was what she did when a thing was trying to come in. He had heard her call the thread cold aloud in the dark for six months, on her knees, on the tram, under her breath in the Old Yard, and he had thought it was nerves. He heard now what it was: a girl keeping a door shut by saying so, and keeping a thing from getting hold of her the same way.
 
 "That's far enough," said Marten. His voice was shaking. "That's off it."
 
@@ -318,13 +314,13 @@ She was the first person that he had lifted since the twenty-ninth of the fifth 
 
 He walked. The west gate was forty paces, and a bald man with a board was already running out from the cart. There was a long-legged fellow on a camp stool beside it, who had got up on his stick.
 
-Behind Perrin the two voices went on. *Out,* and *in.* And *now,* where neither of them was.
+Behind Perrin the two voices went on. *Out,* and *in.* And *now,* in a time of its own.
 
 Then there was one word.
 
 "*Back!*"
 
-He did not look. He saw it all the same. He saw it on the terraces in front of him, on a whole tier of faces at once, three flashes laid across them like lightning on a wall: one blue-white and short, and two more a good deal longer. He heard something come down behind him with a long sigh, the whole length of it, like a wet sheet let go from a line.
+He kept his eyes on the gate, and saw it all the same. He saw it on the terraces in front of him, on a whole tier of faces at once, three flashes laid across them like lightning on a wall: one blue-white and short, and two more a good deal longer. He heard something come down behind him with a long sigh, the whole length of it, like a wet sheet let go from a line.
 
 "*Dark!*" That was a square, flat voice.
 
@@ -348,9 +344,7 @@ Kiva had said *back,* and given the ground its weight, and shut the door.
 
 She had said it on Lowen's *in.* It was the one time, from *planted* to the end, that she had let herself be on its time, because the blades had to cut on the slack and she had told them so. She had felt the cord go slack at her heel, and had let the whole corner down into the clay as one sets down a full pan, and there had been nothing left in the doorway when she closed it.
 
-The rest of the while she had not been on it once.
-
-She did not know how long that while had been. It had felt like the time it takes to cross a city. The corner had sat at her heel and wanted her. Each pull had tried to brace her with it, and each give to let her sink, gently, the way a crowd moves you along a pavement. So she had not braced, and had not sunk. She had let them go by, and taken the weight down in between, late, wherever it least expected her, and said *now* as she did it, so that she would know it was hers. Lowen had called its time the whole while, and she had used his calls as the one place not to be.
+The rest of the while she could not have said what she had done. It had felt like the time it takes to cross a city. The corner had sat at her heel with a time in it, slow and patient, and she had not liked it, and had not known why. Whenever it seemed to settle on her she had shifted her weight and said *now,* aloud, anywhere, as she said *cold* to a thread that wanted warming, because it was the only thing she had. There was nothing clever in it, and it jarred. Each time, the corner came down on her heel like a dropped sack, through the ankle and up the shin into the knee that Aske had passed, and by the end her right leg was shaking in its boot.
 
 After that she was not certain of very much.
 
@@ -510,15 +504,15 @@ He did not take out the pin. He took the hand in both of his, and turned it over
 
 They had put a stretcher on the cart's tailboard. There was a red head on the pillow, and a leg in a board, and a thin boy sitting on the step below with his face in his hands.
 
-"You never went with it," said Selka Dray.
+"You kept moving," said Selka Dray.
 
 Kiva turned her head.
 
-"From *planted* to *back.* It bit when it pulled, and Brask called every pull, and you went somewhere else each time. Cade told me to watch where we were going." The grey eyes were sunk, and exact. "I couldn't make out what you were at. Then I could."
+"From *planted* to *back.* Brask called it the whole while, and you were never where he called. Cade told me to watch where we were going, so I watched you instead." The grey eyes were sunk, and exact. "I thought you'd lost your head."
 
-"It wanted me to keep step."
+"I didn't like its time."
 
-"I know what it wanted. I'd had it on my leg." Dray looked up at the yellow brick of the west wall. "I still think what I thought. You oughtn't to be seated without a needle. I'm sending to the Chair from whatever bed they put me in, to say that it should stand for anybody like you, ever, and that it worked." Her jaw moved. "I'd be under a string if they'd unseated you in the spring. I can hold both. I've been practicing."
+"Nor did I. I'd had it on my leg." Dray looked up at the yellow brick of the west wall. "I still think what I thought. You oughtn't to be seated without a needle. I'm sending to the Chair from whatever bed they put me in, to say that it should stand for anybody like you, ever, and that it worked." Her jaw moved. "I'd be under a string if they'd unseated you in the spring. I can hold both. I've been practicing."
 
 "So have I."
 

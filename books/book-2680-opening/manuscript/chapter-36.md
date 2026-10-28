@@ -228,11 +228,7 @@ Anwen asked on the twenty-ninth, standing on the scraped line beside her.
 
 "Both fingers, some hours. Possibly the hand. The ash I said at the table." Kiva did not look away. "It's the third try. That's what's changed. I'm more tired than the first time, and I know where the cheap one sits."
 
-"Is that what's so?"
-
-"Yes."
-
-"Then I've nothing to add. I'll be at the gate."
+Anwen heard it out. She nodded, and went to the gate, and stood there with her arms folded.
 
 The step was clean. The thread was cold, and there was no white.
 
@@ -284,7 +280,7 @@ Behind her the bag was swinging to and fro against Perrin's chest, light as a la
 
 "Mr. Bexley," said Orla.
 
-"Two." He could hardly get it out. "A cliff. Twenty-six. Two. A cliff. Twenty-six. Three." He put the tape down on the drum case with both hands. "That's what she said it would cost, to the hundredth. There are two walls in it. You could cut yourself on either one."
+"Two." He could hardly get it out. "A cliff. Twenty-six. Two. A cliff. Twenty-six. Three." He put the tape down on the drum case with both hands. "There are two walls in it. You could cut yourself on either one."
 
 Orla got up off her knees with the stick, and it took her some time.
 
@@ -332,7 +328,7 @@ And the girl had stood on a cross a week ago, with a stick against her shoulder,
 
 Jessamy had never once done that. Orla had not known that it wanted teaching.
 
-Safety was not on offer. She had stopped expecting that there would be a morning when it was. What there was, was a meter and a shutdown path and a hand, as Mara Rowan had told her months ago, in a work apron, standing beside the spare crate, in two sentences.
+Safety was not on offer. She had stopped expecting that there would be a morning when it was. What there was, was a meter and a shutdown path and a hand. Those were Mara Rowan's three words. And Mara had come down this lane in the summer in her work apron, and stood beside the spare crate, and told Orla in two sentences not to keep a thing from her table twice. Orla had not.
 
 *What do I say, if I'm asked?*
 

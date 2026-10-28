@@ -1,118 +1,118 @@
 # Chapter 33 — Kiva: Not Recalled
 
-Hollis Vane had said a great many hard things in his life, most of them in the open, to people with mud on them.
+The foot of the oak table seemed nearer the door than it had on Thursday, and there was still no chair at it.
 
-He had never said one to the watch.
+She had come up the hall stair at a quarter to three, with Orla behind her on the stick, and the stair had creaked on the same tread that it had creaked on going up on Thursday. She had decided on the tram that she would not mind about that. She minded.
 
-He knew what it could come to. The seven might vote the plate back into its box, for cause said before them, and the cause would be what he was about to tell them. A girl of seventeen had worn that small cold disk on a cord for four years. It was the one thing that anybody had trusted her with before they knew what she was. If the vote carried, he was the officer who would have to go and take it off her neck.
+She stood. It was Sunday afternoon, and the window behind the seven was white with river light, and the black box lay open in the middle of the table with nothing in it. The disk was on its cord under her collar. The Ferren had said that she should bring it in on her neck, as the bearer, and not in her hand, as a thing to be looked at.
 
-Seven of them sat round the oak table on Sunday afternoon, with the window at their backs and the black box open in the middle. In that room nobody had a name. It was an old courtesy and a useful one. A person was the Ferren, or the Weir, or the Lantern, for as long as the door was shut, and whatever was said was said by a stretch of water and a wall. Vane was the Sag. He had been the Sag since the spring, and he had seldom been asked to open his mouth.
+Orla was on the bench in the passage again. Vane sat at the near end of the table, on Kiva's right, in the place that the Sag took. He had nodded to her when she came in, and had not looked at her since. She had understood by the third minute that this was a kindness.
 
-"The Sag has something for us," said the Ferren.
+"The River Flats gave notice of a motion on Thursday," said the Ferren. "He'll say his cause. The bearer's here to hear it, as is our custom. Then anybody may answer. Then we vote."
 
-She was the oldest of them, a spare woman of seventy with a river pilot's squint, and she had sat four-and-thirty years in that chair. She had her hands folded on the table like somebody waiting for the usual thing.
+The River Flats was a broad, careful man, the youngest of them but Vane, and he had plainly said it over to himself on the way in. He stood up to say it, which nobody had asked him to do, and he said it to Kiva and not to the table.
 
-Vane told it flat and whole, as he would have given a casualty list, without leaning on any word.
+"Recall. Until the season's out. Here's the cause." He kept one hand flat on the oak. "You're seventeen. You're a student, provisional, on a sponsor's line. You're on a Circuit tape that opened to chartered parties this morning, and there was a Halden man in the Pit's mast room this morning before the keeper had his boots on. There's a house claiming a bag you tagged, and an Order that's been to your aunt's door. And now the plate's done something." He took a breath. "I don't say you're unfit. I said that on Thursday and I'll say it again. I say that plate's never been carried by anybody with so many people looking at her, and if it's in that box, nobody can ask to borrow it off your neck. When the season's out you have it back, and welcome."
 
-"It was warm. Once. Wednesday the 29th of last month, at the Pit, a little before half past ten in the forenoon, after she'd shut the still door at the end of a crossing. Warm from the south shelf to the top of the road stair. Cold by the keeper's gate. Cold since, through two crossings more on a sanctioned mast." He kept his hands on the oak. "She came to me with it herself. I didn't go looking."
+He sat down. It was a fair cause. Kiva found that she did not dislike him for it, which surprised her.
 
-Nobody moved. A barge went down the Ferren behind them with its engine thudding.
+"The bearer may answer," said the Ferren. "She needn't."
 
-"Did you prompt her?" said the Ferren.
+Kiva had an answer. It was about the warmth being the plate's business and not hers, and it would have been too long.
 
-"No."
+"I'd sooner be asked to borrow it and say no," she said, "than have it in a box so nobody has to ask."
 
-"Did she ask you what she ought to say?"
+The River Flats looked at her for a moment, and nodded, as one does to a point that has landed and changed nothing.
 
-"She asked whether there was anything she ought to leave out. I said, only what wasn't so."
+"May I ask her one thing?" he said.
 
-"Hm," said the Ferren, and looked at the box for a while. "Well. It's held of the Line, and it's done something. That's a new thing to have in this room."
+"Ask," said the Ferren.
 
-"I've a motion," said the River Flats.
+"If a man came up to you tomorrow, in a street, and asked you for it. Civilly. In a good coat."
 
-He was a broad, careful man, the youngest but Vane, and he had plainly turned it over on the way in. He spoke slowly.
+"I'd say it's held of the Line," said Kiva, "and he'd best come and ask you."
 
-"Recall. For cause, and here's the cause, and I'll ask the Sag to hear it without taking it as said against him." He laid one hand on the table. "The bearer is seventeen. She's a student, provisional, on a sponsor's line. She's on a Circuit tape that opened to chartered parties this morning; there was a Halden man in the Pit's mast room before the keeper had his boots on. There's a house claiming a bag she tagged, and an Order that has been to her aunt's door. And now the plate has done something. I don't say she's unfit. I say that plate's never been carried by anybody with so many people looking at her, and I'd have it lie in that box until the season's out. Then she may have it back, and welcome."
+"And if he didn't ask?"
 
-It was a fair motion. Vane had expected it, and had expected to dislike it more than he did.
+She thought about it, since he had asked properly.
 
-"The Sag may answer," said the Ferren.
-
-"I gave that hand a field direction," said Vane, "and I'd give it again. That's the part that's mine to say." He looked round the table. "The rest is the custom. *Released to a bearer.* It doesn't say released to a bearer nobody's looking at. And she came and told me. Nobody made her. If we take it off her for that, the next one who feels it warm will have a very good reason to keep quiet."
-
-"That's an argument for what's convenient to the watch," said the River Flats.
-
-"It is. I thought being told was what the watch was for."
+"Then I'd have my hand on my collar and a long way to run," she said. "I'm a catcher. I'm quick on my knees. I'm not much on my feet."
 
 The Weir laughed, shortly, and turned it into a cough.
 
-"I'll say why I'm going his way," said the Lantern, before anybody could vote. She was a cautious woman, and she looked unhappy. "It isn't the girl. It's the house in the black coat. If that plate's in the box, nobody can ask to borrow it off her neck."
+"The Sag," said the Ferren.
 
-"And if it's in the box," said the Weir, "nobody's carrying it. It wasn't made to lie in a box. None of us knows what it was made for, but I'll lay a week's pay it wasn't that." He rubbed his chin. "And I've sat on the Sag in a bad year. A season's never out when you say it'll be. It's out when the river says, and the river's not on this watch."
+"I gave that hand a field direction," said Vane, "and I'd give it again. That's the part that's mine to say." He did not look at Kiva. "The rest is the custom. *Released to a bearer.* It doesn't say released to a bearer nobody's looking at. And she stood here on Thursday and told us, when she might have said nothing. If we box it for that, the next one who feels it warm has a very good reason to keep quiet."
 
-They voted as the watch had always voted, with a hand laid flat on the oak for *aye* and a fist for *no.* The River Flats laid his hand down. So, after a moment, did the Lantern, and looked sorry about it. Five fists.
+"I'll say why I'm going his way," said the Lantern. She was a cautious woman, and she looked unhappy. "It isn't the girl. It's the house in the black coat. A thing in a box can't be had off a girl in an alley."
 
-"Not recalled," said the Ferren. "Two for it. The Sag will tell the household the two, so that they know how near it came." She unfolded her hands at last. "Now. We've not chosen her and we shan't begin. But a plate that does something is not the plate we've been sitting over, and I'll not have every clerk in the Compact deciding for himself what it is. So hear it. It's held of the Line and borne by K. Rowan. It isn't equipment. It isn't an instrument, and it isn't evidence. No hand but hers is to be laid on it, to test it or weigh it or show it, without the seven of us in this room."
+"And a thing in a box isn't carried," said the Weir. "It wasn't made to lie in a box. None of us knows what it was made for, but I'll lay a week's pay it wasn't that." He rubbed his chin. "And I've sat on the Sag in a bad year. A season's never out when you say it'll be. It's out when the river says, and the river's not on this watch."
+
+They voted as the watch had always voted, with a hand laid flat on the oak for *aye* and a fist for *no.* Kiva stood with her own hands at her sides and found that she could feel the cord on the back of her neck, which she had not felt in years. She watched the hands go down, since she could not help it. The River Flats laid his flat. The Lantern laid hers flat after a moment, and looked sorry about it. The Weir's was a fist before he had finished putting it down. Then Vane's, and two more, and last the Ferren's, a small brown fist, set down without any hurry at all.
+
+Two flat. Five shut.
+
+Kiva let her breath go. She had been holding it since the River Flats sat down, and the Lantern, who was looking at her, had seen her do it and looked away.
+
+"Not recalled," said the Ferren. She unfolded her hand. "And since a plate that does something isn't the plate we've been sitting over, I'll not have every clerk in the Compact deciding for himself what it is. It's held of the Line, and borne by you. It isn't equipment. It isn't an instrument, and it isn't evidence. Nobody's to lay a hand on it but you, to test it or weigh it or show it, without the seven of us in this room."
 
 "And if it does something again?" said the Lantern.
 
-"Then she'll come and say so, as she did this time. I'd not make a rule of it. She managed without one." The Ferren tipped her head at a letter on thick cream paper that lay beside the box. "The Crooked Line's bursar has asked whether he might have the loan of it for the anniversary case."
+"Then she'll come and tell us, as she did. I'd not make a rule of it. She managed without one." The old eyes went to a letter on thick cream paper that lay beside the empty box. "The Crooked Line's bursar has asked whether he might have the loan of it for the anniversary case."
 
 "Tell him it's on a girl," said the Weir.
 
-"Tell him that." The old eyes came round to Vane. "And then go to Coper Street. You've been in that kitchen once this week with your hat off. Go again, and tell them. That household was gone round once and never told. It's not to be gone round twice."
+"Tell him that." The Ferren looked down the table at Kiva. "You'll tell your aunt yourself, I expect. You've a better right than any of us, and she's had enough of us at her door this week."
+
+"Yes, ma'am."
+
+"Then go and do it before the tram fills up."
+
+Orla got up off the bench when the door opened, and looked at her face, and sat down again.
+
+"Not recalled," she said. "You've the look. I heard the Weir through the door; he's a voice for a levee." She took up her stick. "Did you answer?"
+
+"Once. Shortly."
+
+"Good. They like it short in there. They've had forty years of people being long." Orla got to her feet properly this time. "Go home and tell your aunt. I'll go down by the other stair, so you needn't walk at my pace." 
 
 ---
 
-He came on Sunday evening, at seven, and he did take his hat off.
+Mara was at the bench when she got in, with her left palm on a lamp-shop cell that a man had brought in that afternoon swearing it was fine. She did not take her hand off it.
 
-Kiva saw him from the shop window, coming down Coper Street past the bakery, and she had time to say "He's here" before the bell went. Mara did not get up at once. She had a lamp-shop cell on the bench, brought in that afternoon by a man who swore it was fine, and she kept her left palm on its drum until she had finished feeling for whatever it was the man had sworn about. Then she wiped her hand on her apron and went to let a Home Line watch officer into her kitchen.
+"Well?" she said.
 
-She gave him tea. She gave it to him in the good cup, which was worse, and sat down opposite with her hands on the table.
+"Five fists," said Kiva. "Two flat. The River Flats and the Lantern. The Lantern looked sorry."
 
-"You were here the other night," she said.
+Mara's palm stayed where it was a moment longer, as if the cell had said something she meant to hear to the end. Then she took it away and wiped it on her apron.
 
-"I was."
+"What did you say? When they let you answer."
 
-"Then you've come to tell me something else, or you'd not have your hat off again." Her voice was perfectly even. "I've had since then to be angry with a dead woman for listening to me and doing it anyway. I find I'm no less angry, and I can't any longer think her careless, and I don't thank you for that."
+Kiva told her.
 
-"I'd not expect it."
+"That will have annoyed the River Flats," said Mara, "being fair to him." She did not smile. "And?"
 
-"Good." She turned the cup's handle a quarter toward him, which meant that he might drink. "Then I'll ask what I'd have asked her, if I'd known there was anything to ask. Every device in this house has a meter and a way to shut it down. What's that plate's?"
+"It's held of the Line and it's mine to carry, and it isn't equipment, and nobody's to put a hand on it but me without all seven of them sitting." Kiva found that her own hand had gone to her collar again, and took it down. "The School asked to borrow it. For a glass case. For the anniversary."
 
-Vane was silent a moment.
+"Did they?" Something happened at the corner of Mara's mouth. "And I thought I'd been ill-used." She looked at the cell. "This one's lying to its owner. It's a fault in the can, not the tune; he's been topping it with sweepings." She set it aside. "I'm not going to say I'm glad. I'm not sure what I am. I'll know by Tuesday."
 
-"It hasn't a meter. Nobody's ever found one," he said. "As to shutting it down, the watch may call it in, on a vote, for cause said before it. That was moved this afternoon."
+Perrin had been in while she was at the hall. He had come back on the morning runner from the Sag, with mud to his knees and a great deal to say, and he had said most of it to Mara at the shop counter, because Kiva was out.
 
-Kiva's hand went to her collar before she could stop it.
+"He saw her," said Mara. "On the bank, at the change of shift. He told her about Kellan and the Halden yard, and about Finch on the hill. He says she listened to all of it without interrupting him once, which he found very upsetting."
 
-"It failed," said Vane. "Five to two. I'm bidden to tell you the two, so that you know how near it came." He told them: the River Flats, who wanted it in the box until the season was out, and the Lantern, who had looked sorry. "And they've said that it isn't equipment, or an instrument, or evidence, and that nobody's to lay a hand on it but her without the seven sitting. If the day comes that a recall carries, I come to this door myself, in daylight, and I tell you before I ask for anything. That's not the Line's custom. It's mine, and the Ferren let it stand."
+"What did she say?"
 
-"Not evidence," said Mara slowly. "That's not for our comfort. That's so a house can't have it on a bench."
+"About Kellan, *Good.* He says she meant it, and that it took her about a minute to." Mara took the kettle off the hob. "About Finch, that Finch should keep the card, and that she'd said so in the spring. And that she's had the end of a wall since Tuesday, behind nobody, and hasn't dipped. She told him he could tell you that."
 
-"It's so that nobody can. The School asked for it on Friday, for a glass case."
+Kiva sat down at the table. She had not taken off her coat.
 
-"Did they?" Something happened at the corner of Mara's mouth. "And I thought I'd been ill-used." She sat back. "You may tell your watch that the household has had its answer, and that the answer's *we don't know either.* I'd sooner have had that four years ago. I'll take it now. I'm not forgiving anybody tonight; I haven't the time."
+"He'll have told it all to her twice," she said. "And then told her what I'd say, and what you'd say, and what Orla would say if she heard him."
 
-"She said you'd give me tea and not forgive me."
+"I gathered he'd done something of the kind. He was very pleased with himself. He had a cut on his shin from the runner's step and he showed it me." Mara set a cup in front of her. "He asked whether Finch might come to the yard on Tuesdays and watch, since she's keeping the card. I said it was nothing to do with me, and he said that was what he'd thought, and he'd only wanted to hear somebody say it."
 
-"Did she?" Mara looked at her niece. "Then one of us has been paying attention."
+"Nothing else? From Anwen?"
 
-He stayed twenty minutes. He drank the tea. He told Kiva that if it ever did anything again she was to come to the Line and say so, as she had, and she said that she would, and that she did not expect to have to.
-
-When he had gone, Kiva washed the good cup.
-
-"Perrin came while you were at the bakery," she said. "He's back from the Sag."
-
-"And?"
-
-"He says Anwen's had the end of a wall since Tuesday. Behind nobody. He says she didn't dip. She told him that he could tell me that, and that it wasn't a letter." Kiva turned the cup under the tap. "And she's said yes to the glass. Perrin asked her for me, properly, the ground and what was behind it. She heard him out and said yes."
-
-"And Kellan?"
-
-"She said, *Good.* Perrin says she meant it, and that it took her about a minute to." Kiva dried the cup, and found that she was doing it with her right hand and holding it against her chest with the left, as she did most things now. "She asked him twice what was left in the glass. She didn't send anything else."
-
-"Then nothing's what she had to send." Mara took the cup from her and put it on its hook. "You'd a deal sooner she'd been cross. So should I. It isn't ours to order."
+"Nothing else." Mara poured. "You'd a deal sooner she'd been cross. So should I. It isn't ours to order."
 
 ---
 

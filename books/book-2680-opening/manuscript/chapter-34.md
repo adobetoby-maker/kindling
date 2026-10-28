@@ -224,11 +224,11 @@ The sister came down from the hill house on Wednesday, in grey, by the same road
 
 She was young, not much older than Kiva, with a plain scrubbed face and her hands folded in her sleeves. She would not sit. She stood on the shop floor between the counter and the stove, and looked at the cells on the shelves as a person looks at dogs she has been told are friendly.
 
-"The house thanks your niece for her answer," she said, "and won't press it. I'm sent with one thing more, and then I'm to go."
+"The Warden told your niece the house would ask again when her hand was worse," she said. "The Warden thinks it is. So I'm sent to ask, and to say one thing more, and then I'm to go."
 
 "Say it," said Mara.
 
-"When she was up at the house, the Warden saw her left hand, and knew it. Our old wall-holders carry theirs so." The sister's eyes went, briefly and without embarrassment, to the hand. "Such a hand isn't burned. It's spent. It fills with a long rest and with nothing else that we've found. Some of ours have come back whole in a year. Not all." She drew a breath, as if she had been made to learn the rest and wanted it right. "The offer stands. A year in the house, as a guest. Silence at table and one door. Every other kept shut, and we know how to keep them shut; it's the only thing we've ever studied. We'd teach her nothing she didn't ask for. We don't say she ought to come. We say the door's there, and it would be shut behind her gently."
+"When she was up at the house, the Warden saw her left hand, and knew it. Our old wall-holders carry theirs so." The sister's eyes went, briefly and without embarrassment, to the hand. "Such a hand isn't burned. It's spent. The Warden told her what a long rest does for it, and nothing else that we've found does anything. Some of ours have come back whole in a year. Not all." She drew a breath, as if she had been made to learn the rest and wanted it right. "The offer stands. A year in the house, as a guest. Silence at table and one door. Every other kept shut, and we know how to keep them shut; it's the only thing we've ever studied. We'd teach her nothing she didn't ask for. We don't say she ought to come. We say the door's there, and it would be shut behind her gently."
 
 Then she bobbed, oddly, as though to a much older person, and went out; and they heard her sandals go away up Coper Street toward the tram.
 

@@ -222,7 +222,7 @@ Kiva sat.
 
 Kiva found that she had nothing to say. She kept her hands still.
 
-"Miss Dray has sent word from an infirmary bed," said Ysra. "She asks that the mast condition stand for any candidate ever seated with more than one door. She says that it worked, and that she objected to you twice and would again. So hear it. From today, on every Circuit floor, any candidate seated with more than one door goes nowhere without a sanctioned mast on her and a reader at it. It is Miss Dray's rule. It goes out with her name on it." She paused. "And Mr. Adlam came to this office yesterday, in his own coat, to tell me what he saw over Mr. Bexley's shoulder. I have not the least idea what to do with that."
+"Miss Dray has sent word from an infirmary bed," said Ysra. "She asks that the mast condition stand for any candidate ever seated with more than one door. She says that it worked, and that she objected to you twice and would again. Then here is the ruling. From today, on every Circuit floor, any candidate seated with more than one door goes nowhere without a sanctioned mast on her and a reader at it. It is Miss Dray's rule. It goes out with her name on it." She paused. "And Mr. Adlam came to this office yesterday, in his own coat, to tell me what he saw over Mr. Bexley's shoulder. I have not the least idea what to do with that."
 
 "Nor has Noa."
 

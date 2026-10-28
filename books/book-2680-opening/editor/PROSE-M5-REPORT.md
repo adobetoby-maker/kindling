@@ -14,20 +14,20 @@ hand-checked rhetorical "It was not X. It was Y." / "It did not X. It Y." count 
 
 | Ch. | Words | write-it-down | ledger | notebook | record* | count* | nine | eleven | Measure | aloud / out loud | to … face | X/Y after |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| 33 | 5,213 → 4,539 (−12.9%) | 3 → 0 | 0 → 0 | 1 → 0 | 2 → 0 | 7 → 0 | 4 → 0 | 5 → 0 | 2 → 0 | 1 → 1 | 0 → 0 | 2 |
-| 34 | 5,849 → 5,646 (−3.5%) | 0 → 0 | 2 → 0 | 1 → 0 | 0 → 0 | 8 → 0 | 4 → 0 | 2 → 0 | 1 → 0 | 0 → 0 | 1 → 0 | 3 |
-| 35 | 5,715 → 5,655 (−1.0%) | 1 → 0 | 0 → 0 | 3 → 0 | 0 → 0 | 12 → 0 | 6 → 1 | 3 → 0 | 2 → 0 | 1 → 2 | 0 → 0 | 3 |
-| 36 | 5,817 → 5,469 (−6.0%) | 3 → 0 | 1 → 0 | 0 → 0 | 1 → 0 | 6 → 0 | 8 → 0 | 4 → 0 | 0 → 0 | 2 → 0 | 0 → 0 | 3 |
-| 37 | 5,238 → 5,241 (+0.1%) | 1 → 0 | 0 → 0 | 3 → 0 | 0 → 0 | 12 → 0 | 2 → 0 | 1 → 0 | 1 → 0 | 2 → 1 | 0 → 0 | 2 |
+| 33 | 5,213 → 4,437 (−14.9%) | 3 → 0 | 0 → 0 | 1 → 0 | 2 → 0 | 7 → 0 | 4 → 0 | 5 → 0 | 2 → 0 | 1 → 1 | 0 → 0 | 2 |
+| 34 | 5,849 → 5,665 (−3.1%) | 0 → 0 | 2 → 0 | 1 → 0 | 0 → 0 | 8 → 0 | 4 → 0 | 2 → 0 | 1 → 0 | 0 → 0 | 1 → 0 | 3 |
+| 35 | 5,715 → 5,653 (−1.1%) | 1 → 0 | 0 → 0 | 3 → 0 | 0 → 0 | 12 → 0 | 6 → 1 | 3 → 0 | 2 → 0 | 1 → 2 | 0 → 0 | 3 |
+| 36 | 5,817 → 5,462 (−6.1%) | 3 → 0 | 1 → 0 | 0 → 0 | 1 → 0 | 6 → 0 | 8 → 0 | 4 → 0 | 0 → 0 | 2 → 0 | 0 → 0 | 3 |
+| 37 | 5,238 → 5,237 (0.0%) | 1 → 0 | 0 → 0 | 3 → 0 | 0 → 0 | 12 → 0 | 2 → 0 | 1 → 0 | 1 → 0 | 2 → 1 | 0 → 0 | 2 |
 | 38 | 5,047 → 5,011 (−0.7%) | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 9 → 0 | 1 → 0 | 1 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 3 |
-| 39 | 6,569 → 6,795 (+3.4%) | 0 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 23 → 0 | 3 → 0 | 4 → 0 | 2 → 0 | 1 → 1 | 0 → 0 | 3 |
-| 40 | 6,829 → 6,469 (−5.3%) | 0 → 0 | 3 → 0 | 0 → 0 | 3 → 0 | 3 → 0 | 5 → 0 | 8 → 0 | 4 → 0 | 0 → 0 | 0 → 0 | 3 |
+| 39 | 6,569 → 6,794 (+3.4%) | 0 → 0 | 0 → 0 | 0 → 0 | 0 → 0 | 23 → 0 | 3 → 0 | 4 → 0 | 2 → 0 | 1 → 1 | 0 → 0 | 3 |
+| 40 | 6,829 → 6,471 (−5.2%) | 0 → 0 | 3 → 0 | 0 → 0 | 3 → 0 | 3 → 0 | 5 → 0 | 8 → 0 | 4 → 0 | 0 → 0 | 0 → 0 | 3 |
 
 Residue. The one *nine* is "Fifty-nine" in Kiva's stated price for the three-door order (Ch. 35, the
 canonical 0.59), said once; every other 0.59 in the movement is now "six-tenths" or not given. The
 five *aloud / out loud* are mechanism, not closings: Ysra's condition "declared aloud" (33), Orla's
 "Declared aloud" to the clerk and "thought out loud" (35), "One change, called aloud" (37, Rule Six),
-Perrin hearing Kiva "call the thread cold aloud" (39). None closes a section.
+Perrin hearing Kiva "call the thread cold aloud" and Kiva saying *now* aloud (39). None closes a section. (Ch. 39 has 2 after fix round 1, so the column reads 1 → 2 there.)
 
 **§8.5 and §6 mechanical checks**, run on Chapters 33–40 together (output:
 `.foreman/scratch/m5-checks.txt`, not committed; baseline `.foreman/scratch/m5-baseline.txt`):
@@ -68,18 +68,18 @@ Grep plus a read of every section close. Counts are after the pass, Ch. 33–40 
 | Documents as evidence | 0 | Dray's pinned tapes, Cobb's ledger, Pike's catcher's book, quoted red tags, Cobb's receipt, Sorn's entry card, Ysra's written rulings, the Chair's board entry, Halden's release letter, Mara's trunk book: all cut or spoken. |
 | Timing objects as arbiter | 0 | |
 | Cast-wide speech tics | I'd like 2, I'll not 10 (elders and Mace/Birch/Ferren only), "I want" 9 (Cobb, Dray, Kiva's "I want it") | Kellan, Anwen, Dray now say "won't." |
-| Closing gestures (a kind closing more than two sections, or two in a row) | none | Two declaration closes in the movement (Ch. 33 §1 the Ferren; Ch. 39 §1 "Yes."), not adjacent. All other closes are plain action or dialogue. |
+| Closing gestures (a kind closing more than two sections, or two in a row) | none | After fix round 1, one declaration close in the movement (Ch. 39 §1 "Yes."); Ch. 33 §1 now closes on Orla getting up, and Ch. 39 §2 on Perrin setting his knees (no longer "*Planted!*" straight after "Yes."). The other 45 closes are plain action or dialogue. |
 | "haul" / "the slack" / "beat" refrains | haul 6, slack 2, beat 7 movement-wide | Ch. 39 haul cut 15 → 5 (base 8). |
 
 ## 3. Main changes
 
-**Ch. 33** (retitled *Not Recalled*). The recall vote is people deciding: Vane says aloud what Kiva
-told him; the River Flats moves recall for cause said; the Lantern and the Weir give reasons; two
-to five against. The Ferren's ruling (held of the Line, not equipment, not evidence) is spoken. Cut:
+**Ch. 33** (retitled *Not Recalled*). The recall vote is people deciding, with Kiva at the foot of the
+table: the River Flats says the cause he gave notice of in Ch. 32, Kiva answers once, he asks her
+one question, Vane and the Lantern and the Weir give reasons; two to five against. The Ferren's ruling (held of the Line, not equipment, not evidence) is spoken. Cut:
 the canvas book, fourth column, first leaf, "five hundred years of *nothing*," Kiva's written entry
 (her "I did not ask it anything" line is Ch. 47's, beat 11), the bursar's editions, and the whole
-Thirza Bly tracing. Vane's Coper Street visit carries the result and Mara's meter-and-shutdown
-question (Ch. 46 calls back to it). Anwen's yes to the glass comes by Perrin, spoken. Dray's
+Thirza Bly tracing. Kiva tells Mara the vote herself (Vane's visit and Mara's meter question are
+M4 Ch. 32's). Perrin, back from the Sag in person, brings Anwen's word on Kellan and Finch. Dray's
 objection rests on what she got by asking Noa on a stair, not pinned tapes; Ysra's ruling is
 "declared aloud." The crossing: Ysra and Orla say what they think before Noa reads; no slates, no
 count; the slower hand is shown by Perrin covering the mast twice.
@@ -99,7 +99,7 @@ written "Why" lines are now plain decision.
 
 **Ch. 36.** Calls replace counts. Anwen's condition is set here, at the drying yard: before each
 go, on the line, she asks what it's for and what it costs (Ch. 46 depends on it). On the 29th she
-asks it. Cobb's receipt, the Saltmere letter to Jessamy, Noa writing doubts "at the side," and the
+asks the two questions and goes to the gate. Cobb's receipt, the Saltmere letter to Jessamy, Noa writing doubts "at the side," and the
 whole Home Line hall section (weekly *Cold* entries, Bly's line) are cut; a short street beat keeps
 the disk cold. Kellan cites Rule Six; Jude's chalk-up says Rule Six.
 
@@ -114,18 +114,18 @@ owning that she called the half-answer loudly.
 
 **Ch. 39.** Vane's direction is spoken in his field voice in the moment (no slate, no E.K. column,
 no Library); "I have watched her miss" kept. "I'm frightened." / "So am I. Do you take it?" Anwen
-asks the two questions at speed before her gate. Brask calls *out* / *in*; Kiva tells him she will
-go on the feel ahead of his word, and does: she slides the pan on the give she feels. Planted, she
-breaks the hold's rhythm by taking the weight down late, never in the same place, saying *now* so
-the choice is hers, and uses Brask's calls as the one place not to be; Perrin hears two voices that
-never coincide and understands it is how she has always kept doors shut, by calling aloud. No fives
-against fours, no "Six… Nine," no "Ten." Dray's last word: "you went somewhere else each time." Ysra
+asks the two questions at speed and goes to her gate. Brask calls *out* / *in*; Kiva tells him she
+will go on the feel ahead of his word, and does: she slides the pan on the give she feels. Planted,
+she does not like the hold's time and does not know why; she gets through by saying *now* and
+shifting her weight, crudely, at the cost of a jarred heel and a shaking leg (fix round 1). Perrin
+hears her voice off Brask's and knows it as how she has always kept doors shut, by calling aloud.
+No fives against fours, no "Six… Nine," no "Ten." Dray: "You kept moving." Ysra
 is seen at the drum. Dunmore's *T-0* is one clause. Pike hands Kiva the red tag to tie. Adlam's
 patent "page" becomes three hundred years of nobody wanting to take a bank out of step.
 
 **Ch. 40** (retitled *The Grip*; "Hand as Before" belongs to Ch. 48). Vane gives the cart five aloud.
-Kiva then asks her own four Orla's debrief, at the tinning table. Rhea: "I've cut first and asked the
-price after" (sets up Ch. 46; "I cut, and I count after" cut). Noa: the notch "about a dozen seconds
+Kiva then asks her own four Orla's debrief, at the tinning table. Rhea: "I cut first, and I ask the
+price after" (Ch. 44/46 echo it; "I cut, and I count after" cut). Noa: the notch "about a dozen seconds
 on," said once; Ysra put her own finger on the tape. In her office Ysra says an assessor told Mara
 she had no name for it, and she let it stand; she went to the mast herself; she grants Dray's mast
 rule aloud with Dray's name on it; she and Orla answer for the hand together. The Witnessed page,
@@ -163,18 +163,25 @@ School's core house, and Mara walking on Kiva's left.
 
 ## 6. Concerns and canon flags (nothing invented beyond the canon mechanisms)
 
-1. **Anwen's two questions recur as a ritual pair** (Ch. 36 set, Ch. 36 29th, Ch. 39, Ch. 46). The
-   ticket and Ch. 46 require it; §4b bans recurring ritual question lists other than Orla's and the
-   cart's. Kept to three asks before Ch. 46, never a section close. Owner may want it named as a
-   third allowed list.
-2. **Ch. 39 now has Kiva breaking the hold's rhythm while planted.** Ch. 46 (fixed) says the arm's
-   pull "was doing something she had not been ready for." Read as: the arm of ten is stronger and
-   she drifts before she catches it. If the owner wants Ch. 46's moment to be the first time, Ch. 39's
-   planted paragraph (Kiva's section after *back*) can drop to the call alone.
-3. **Ch. 33 assumes Vane went to Coper Street in Ch. 32** (beat 10): Mara says "You were here the
-   other night." If M4 moves that visit, this line needs one word changed.
-4. **Ch. 34's sister re-offers the year "for her answer."** It assumes Kiva's Ch. 31 answer at the
-   Order's house was not a final yes.
+1. **Anwen's two questions** ("What's it for?" / "What's it cost?") are asked twice before Ch. 46
+   (Ch. 36 on the 29th, Ch. 39) and recalled once (Ch. 40). After fix round 1 only the pair is
+   used; "Is that what's so?", "Then I've nothing to add… Ask me," and "Mine," said Anwen, and went"
+   belong to Ch. 46 alone. It is still a recurring question pair; the owner may want it named as an
+   allowed one beside Orla's and the cart's.
+2. **Ch. 39 sets up the Ch. 46 technique and does not perform it** (fix round 1). Kiva feels the
+   hold's time and does not like it, does not know why, and gets through by saying *now* and
+   shifting her weight anywhere, crudely; it jars her heel and leaves her leg shaking. Perrin hears
+   her voice off Brask's; Dray says "You kept moving." No brace-and-sink, no "late," no pavement
+   image, no "the one place not to be," no "keep step" line. Ch. 46's "something she had not been
+   ready for" now holds.
+3. **Movement Four (2995efe) continuity.** Ch. 33 no longer repeats Ch. 32: Vane's Coper Street
+   visit, Mara's meter question and "It hasn't a meter" are Ch. 32's alone. Kiva stands at the foot
+   of the table for the vote; the River Flats' motion was noticed on Thursday. Kiva tells Mara the
+   vote herself. Perrin went to the Sag in person (M4 Ch. 32); nothing was sent; Anwen's word is about
+   Kellan and Finch, and her yes to the glass stays where M4 has it (the second of the sixth month).
+4. **The Order** matches M4 Ch. 31: Kiva said "not this year"; the Warden said they would ask again
+   when her hand was worse. Ch. 34's sister comes because the Warden thinks it is; Ch. 35 has Kiva
+   say "not this year, again."
 5. **The 2676 assessor is not Ysra** (prologue: a thin old woman). Ch. 40 has Ysra let the finding
    stand, which matches seed §7's flaw.
 6. "Grey" kept: it is the book's spelling (Ch. 46, the cast's colors). Otherwise American (one
@@ -209,6 +216,25 @@ School's core house, and Mara walking on Kiva's left.
    whoever needs it"; Ch. 40 Aske "sealed at the ash office for your team, against need … Keep it for
    somebody whose hand's only starved." No name on it, no record.
 
-## 9. Commit
+## 9. Fix round 1 (verifier notes, M4 at 2995efe read first)
+
+- Ch. 33 §1–§2 rewritten so nothing repeats M4 Ch. 32 (see §6.3). The Pit date reference is gone
+  from Ch. 33; the tape "opened to chartered parties this morning" (Sunday the 1st).
+- Ch. 39 rhythm cut back to a crude, costly survival (§6.2); Dray's line rewritten.
+- Anwen's full exchange cut from Ch. 36 and Ch. 39 (§6.1).
+- Ch. 34 / 35 Order wording per M4 Ch. 31 (§6.4).
+- "to the hundredth" cut (Ch. 35 Orla; Ch. 36 Noa no longer vindicates the price).
+- "I know you know" now only Mara's (Ch. 36); Orla's in Ch. 37 cut. "So hear it" now nowhere (Ysra:
+  "Then here is the ruling").
+- Ch. 39 contrasts to 3 (Stroud; reason/price; push/lifted). Ch. 35's new "It isn't training ash.
+  It's for…" reworded, so Ch. 35 stays at 3.
+- Ch. 39 §2 now closes on action (Perrin setting his knees), not straight after "Yes."
+- Ch. 36: Mara's two sentences now match M4 Ch. 32 ("You kept a thing from my table. Don't do it
+  twice."); her three words are named separately.
+- Theme-word hit introduced in the rewrite ("remembered", Ch. 33:3) fixed.
+- Re-run: every expected-zero check 0; free nine 1 (Ch. 35 "Fifty-nine"); free eleven 0; renames
+  clean; no chapter ends on a count. Output in `.foreman/scratch/m5-checks-fix1.txt`.
+
+## 10. Commit
 
 See the commit on `feature/2680-prose-m5` (sha in the ticket reply).

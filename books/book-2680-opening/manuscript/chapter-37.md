@@ -390,7 +390,7 @@ It took her four minutes and a little over. It was the third-best time on the da
 
 "I know."
 
-"I know you know. I'm saying it so that I've heard myself say it."
+"I'm saying it so that I've heard myself say it."
 
 The standings went up on the great board at seven, in chalk, a line at a time.
 
