@@ -28,15 +28,13 @@ Kiva did not know what to say to that, because it was true.
 
 On Friday morning, Mara walked her to the tram.
 
-She did not usually, because she had the shop to open and the municipal van coming at nine. But she put on her coat and walked down Coper Street beside Kiva, slowly, because of the knee, and stood with her at the stop under the anniversary banner.
+She did not usually, because she had the shop to open and the municipal van coming at eight. But she put on her coat and walked down Coper Street beside Kiva, slowly, because of the knee, and stood with her at the stop under the anniversary banner.
 
-The knee was better, though it was not good. Kiva had iced it for two nights and the swelling had gone down, and she could walk on it without limping if she thought about it. Running would hurt, and landing hard would hurt a great deal. She had written that in the book too.
+The knee was better, though it was not good. Kiva had iced it for two nights and the swelling had gone down, and she could walk on it without limping if she thought about it. Running would hurt, and landing hard would hurt a great deal.
 
-*What it cost:* Knee. Don't land on it.
+"Don't land on it," said Mara.
 
-"You've got your book," said Mara.
-
-"I've got it."
+"I won't."
 
 "Your dram?"
 
@@ -52,7 +50,7 @@ The tram pulled in, and the doors folded open.
 
 Mara put her hand flat on Kiva's chest for a second, over the coat, over the disk, the way she had in the shop four years ago. Then she took it away.
 
-"Say it out loud," she said.
+"Call it," she said.
 
 "I will."
 
@@ -80,7 +78,7 @@ And halfway along the south wall, set into the brick, was the chute.
 
 It was a heavy, square steel hatch, about chest-high, and behind it was a ramp that went down into the dark. Below the Cellhouse, in a sealed vault in the old refinery basement, was the Kennel.
 
-The Kennel was a bottle-rift, a real tear, very small, held open in a lattice that the Wren House maintained and a Glory master had impressed sixty years ago. It made husks. They were small ones, the smallest kind of Riftspawn there was, the kind the yield books called a Handful, because that was about how much ash one left behind. The Wren House kept them in the vault and let them up the chute on a timer, four releases to a run, one or two or three husks at a time. Every collegiate team in Meridian trained against them, and every professional company had, once.
+The Kennel was a bottle-rift, a real tear, very small, held open in a lattice that the Wren House maintained and a Glory master had impressed sixty years ago. It made husks. They were small ones, the smallest kind of Riftspawn there was, the kind people called a Handful, because that was about how much ash one left behind. The Wren House kept them in the vault and let them up the chute on a timer, four releases to a run, one or two or three husks at a time. Every collegiate team in Meridian trained against them, and every professional company had, once.
 
 "They're coming up," said Perrin quietly.
 
@@ -106,7 +104,7 @@ Ysra Crest briefed them herself.
 
 She came into the corridor at two o'clock with a clipboard and stood in front of Team Seven while the others waited at the far end, and she took a moment over each of their faces in turn.
 
-"You've watched it," she said. "So I'll be brief. Four objectives. One. The casualty is pinned in the pump room. Get it free and over the green line. The standard is four minutes from the Gate. Two. The cell is running at evening peak and it has a fault in it. I won't tell you what. Bring it to a safe state, either by stable tune or by controlled shutdown. Controlled means you call it, you pull the quench yourself, and you write it down. If the cell goes into red and trips its own breaker, that is uncontrolled. Uncontrolled is a fail on objective two." She turned a page. "Three. Contain the spawn. The chute opens four times. No husk reaches the casualty. No husk crosses the green line. Four. Call. Declared roles, said aloud, before you start. Any change of role is said aloud before you make it. After the run you fill in your team ledger card. I read every one."
+"You've watched it," she said. "So I'll be brief. Four objectives. One. The casualty is pinned in the pump room. Get it free and over the green line. The standard is four minutes from the Gate. Two. The cell is running at evening peak and it has a fault in it. I won't tell you what. Bring it to a safe state, either by stable tune or by controlled shutdown. Controlled means you call it and you pull the quench yourself. If the cell goes into red and trips its own breaker, that is uncontrolled. Uncontrolled is a fail on objective two." She turned a page. "Three. Contain the spawn. The chute opens four times. No husk reaches the casualty. No husk crosses the green line. Four. Call. Declared roles, said aloud to the Gate clerk before you start. Any change of role is called before you make it, loud enough for the booth."
 
 She looked up.
 
@@ -120,13 +118,13 @@ She looked up.
 
 Ysra raised an eyebrow, very slightly. "It runs off the cell. Same circuit as the load board."
 
-Kellan nodded, and Kiva saw Anwen write something on her list.
+Kellan nodded, and Kiva saw Anwen's lips move, once.
 
 "Settle your drams," said Ysra. "You have ten minutes to declare roles. Then the Gate."
 
 ---
 
-They argued about the roles for nine of the ten minutes.
+They argued about the roles for most of the ten minutes.
 
 It started the moment Ysra walked away. Kellan turned to face the other three, and Kiva saw at once that he had done this before, many times, because he did not ask. He laid it out.
 
@@ -188,13 +186,15 @@ Kellan weighed her for a long moment. "You're sure?"
 
 "I told my aunt. I'm telling you."
 
-"Fine." He turned to the others. "Then that's it. Renn, spawn. Pryce, casualty. Cade, shutter. Rowan, cell. Read, call, quench. No doors near the cell." He came back to Kiva. "That's what goes on the card."
+"Fine." He turned to the others. "Then that's it. Renn, spawn. Pryce, casualty. Cade, shutter. Rowan, cell. Read, call, quench. No doors near the cell." He came back to Kiva. "That's what we declare."
 
-"That's what goes on the card," said Kiva.
+"That's what we declare," said Kiva.
 
-Anwen wrote it on the team ledger card in her small neat hand. Then she read it over, glanced at Kiva, and added one line underneath.
+When the Gate clerk came down the corridor for their declaration, he took it from Kellan in a flat clerk's voice, role by role, and repeated each one back. When he had finished, Anwen said, "One more," and he waited.
 
-*Rowan: calls clock to Pryce/Cade.*
+"Rowan calls the clock to Pryce and Cade."
+
+The clerk repeated that too. Anwen glanced at Kiva.
 
 "So we know," she said.
 
@@ -246,17 +246,17 @@ She knew it. She knew it exactly.
 
 Somebody had put Brannock's hurry in it on purpose. The assessors had tuned the cell the way a tired man tunes it at six in the morning with two more substations to do before seven, and now it was running at evening peak, with the whole board lit, and the hurry was feeding on itself.
 
-She watched the needle and counted. It went from six and one to six and two in ten seconds. It went from six and two to six and three in nine.
+She watched the needle against the gallery clock. It went from six and one to six and two in ten seconds. It went from six and two to six and three in less.
 
 So it was not only climbing. The gaps were closing.
 
 The breaker would trip at the red line, at eight and a half.
 
-She did the sum, allowing for the way each tenth came a little sooner than the last, and then she did it again. Then she turned and leaned over the mezzanine rail.
+She worked it out, allowing for the way each tenth came a little sooner than the last, and then she worked it out again. Then she turned and leaned over the mezzanine rail.
 
 Directly below her, at the pump room door, Perrin was on his back. He had slid in under the jammed shutter and lay along the threshold, right beneath its bottom edge, with both hands planted flat against the steel above his chest. From the rail she could see the length of him and nothing past him. She could feel his stance from up here, though, the still door open under him like a held breath. Anwen had crawled in through the gap beside him, and Kiva could not see her at all.
 
-"Clock!" Kiva called. "It's drifting fast. The needle's at six and three. It gained a tenth in ten seconds and the next in nine, and it's getting faster. It'll trip in under two minutes."
+"Clock!" Kiva called. "It's drifting fast. The needle's at six and three, and every tenth comes quicker than the last. It'll trip in under two minutes."
 
 "Under two minutes," said Anwen's voice from inside, muffled. "Copy. Perrin, the housing."
 
@@ -278,7 +278,7 @@ He did not spare the ash a glance. He stepped back to the chute side and waited,
 
 The needle on the drum read six and four.
 
-Kiva's eyes went to the ash on the floor. It lay in a fine pale heap, clean as flour. In a real rift that was a Handful of clean ash, worth catching and grading and writing into a company's book, and the scoring sheet gave points for clean ash recovered once a run was safe.
+Kiva's eyes went to the ash on the floor. It lay in a fine pale heap, clean as flour. In a real rift that was a Handful of clean ash, worth catching and grading, and the assessors gave marks for clean ash recovered once a run was safe.
 
 Kellan had not even checked where it fell.
 
@@ -308,7 +308,7 @@ The husk was not coming for her. It was coming for the cell.
 
 Kellan saw it too. He Strode after it in two long bounds and caught it at the foot of the stair and put his lit blade through its back, and it came apart on the first step, so that ash ran down between the steel treads.
 
-"It's the cell," Kellan called up. He did not sound worried. He sounded as if he had just read a number off a meter. "They'll keep going for the cell as it runs hotter. I'll hold the stair."
+"It's the cell," Kellan called up. He did not sound worried. He sounded as if he had just read a figure off a meter. "They'll keep going for the cell as it runs hotter. I'll hold the stair."
 
 "Seven," said Kiva. "Fifty seconds."
 
@@ -328,7 +328,7 @@ And then the cell would last, and the winch would run, and Perrin would have all
 
 The hand door was right there. It had been there since she put her palm on the drum, lifted and curious, at the threshold. It wanted the cell. It always wanted cells.
 
-*No doors near the cell.* That was on the card. She had said it to Kellan's face.
+*No doors near the cell.* That was the call. She had made it herself, in the corridor, and the clerk had said it back.
 
 Seven and one.
 
@@ -346,7 +346,7 @@ He did not have it. At this rate, the needle would be in the red in forty second
 
 She had done it in the Terrace Ring. She had kept the hand door out for two minutes while Kellan Renn tried to hit her. She could keep the Ember out now, and the still door, and open only the hand door, and lay it on the cell, and press the hurry flat, and close it again. One door. Sequence. Not stack.
 
-It was not on the card.
+It was not what she had declared.
 
 "Changing role," she called, loudly, so the gallery could hear it, so Kellan could hear it. "Rowan. Cell. Tuning. Hand door only."
 
@@ -356,7 +356,7 @@ It was not on the card.
 
 "You said no doors!"
 
-"I'm saying it out loud!"
+"I'm calling it!"
 
 She did not wait for him. She closed her eyes, and opened the hand door, and laid it on the cell.
 
@@ -368,7 +368,7 @@ The cell was right there, all of it, the ash packed in its steel can and the pat
 
 The hurry gave.
 
-It did not go all at once. It went like a knot coming loose, slowly, a little at a time. She felt the tilt in the pattern ease, and she felt the ash, which had been rushing, begin to slow.
+It went slowly, like a knot coming loose, a little at a time. She felt the tilt in the pattern ease, and she felt the ash, which had been rushing, begin to slow.
 
 She opened her eyes. The needle read seven and three.
 
@@ -414,7 +414,7 @@ The bottom heat-line went hot. Then the second. Then the still door, under her, 
 
 And all three doors went into the cell.
 
-She felt it happen. She still had the hand door on the drum, open, and the other two came through behind it before she could stop them. Edge and stance and ward, three doors pulling from three sides, and the cell under her hand took all of it. It did not care what she meant. It held what she put in it.
+She felt it happen. She still had the hand door on the drum, open, and the other two came through behind it before she could stop them. Edge and stance and ward, three doors pulling from three sides, and the cell under her hand took all of it. Whatever she meant, it held what she put in it.
 
 The heat-lines blazed.
 
@@ -455,5 +455,3 @@ Eight. Eight and one.
 And she could feel it now, through her palm. The cell was not only running hot. It was calling. The three-door noise she had left in it was ringing out of the drum like a struck bell, louder and louder, and every husk still waiting in the dark under the floor could hear it.
 
 "I've stopped," she whispered. "It hasn't."
-
-Eight and two.

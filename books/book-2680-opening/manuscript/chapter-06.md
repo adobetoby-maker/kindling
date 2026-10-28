@@ -4,7 +4,7 @@ Eight and two.
 
 Kiva stood on the mezzanine with her palm flat on the drum and felt her own three doors fighting inside it, round and round, and knew what she had to do.
 
-The quench handle was right there, a hand's width from her hip, red, with its little wire seal. All she had to do was break the seal and pull, and the ash would drop through the gate into the wet salt below, and the pattern would die, and the fight she had left in the cell would die with it. The calling would stop. The needle would fall. It would be controlled, because she would call it, and pull it, and write it down.
+The quench handle was right there, a hand's width from her hip, red, with its little wire seal. All she had to do was break the seal and pull, and the ash would drop through the gate into the wet salt below, and the pattern would die, and the fight she had left in the cell would die with it. The calling would stop. The needle would fall. It would be controlled, because she would call it and pull it herself.
 
 And the winch would die.
 
@@ -56,7 +56,7 @@ It was two and a half meters to the floor. She landed on the struts.
 
 They took most of it, because they were made for this. The metal flexed and caught her and drove her forward in a long, low bound, and for a moment she felt what Kellan must feel every time he did it, the whole fall turned into speed. Then her left foot came down on the second bound and the knee went.
 
-It did not give way. It screamed, with a white flash straight up her thigh, the same as the step in the Terrace Ring and worse. She took the third bound on her right leg only and came down two paces in front of the pump room door, between the gap and the husk.
+It held, and it screamed, with a white flash straight up her thigh, the same as the step in the Terrace Ring and worse. She took the third bound on her right leg only and came down two paces in front of the pump room door, between the gap and the husk.
 
 It was five paces away. Coming.
 
@@ -72,13 +72,13 @@ She let the struts go and felt the metal start to run home toward the slab. She 
 
 She went into stance with the Ember still in the doorway.
 
-It was not a hand-off, and she knew it as she did it. Nothing passed from one door to the other. The speed of the Stride was simply gone, spent in her knee and the concrete, and the struts hung half-melted on her calves, caught in a door she had not managed to shut, while the still door came open under them. It was two doors jammed against each other, with her in the middle.
+She knew as she did it that nothing was being handed over. Nothing passed from one door to the other. The speed of the Stride was simply gone, spent in her knee and the concrete, and the struts hung half-melted on her calves, caught in a door she had not managed to shut, while the still door came open under them. It was two doors jammed against each other, with her in the middle.
 
 The bottom heat-line lit. The second.
 
 The hand door lifted to help. It wanted to ward, as it always did, and she felt it come up cool and quick inside her, reaching, and for one instant the third line began to warm.
 
-"*One,*" she said, through her teeth, and shut the hand door on it.
+"*Hand,*" she said, through her teeth, and shut the hand door on it.
 
 She held it. Two doors were open, still and Ember, with the struts stuck on her calves and the stance coming up through her feet, and two lines were burning. The third line was warm and not lit. The hand door stayed shut, with her foot against it, while everything else fought.
 
@@ -106,7 +106,7 @@ They burned past her shoulder and down the top of her arm. She had never felt th
 
 The husk shoved. She had put her left hand up without thinking, the way you put up a hand to stop a door from slamming. It was the hand that wanted to ward, and she had not let it, so it was just a hand. One of the husk's front limbs came up and dragged down her left forearm from the elbow, hard, scraping the skin off it, until it struck the leather cuff and skidded over the slab.
 
-Then the limb ground across the back of her left hand and over the first two fingers. They went numb. It did not hurt. They were simply gone, as if they had been in snow.
+Then the limb ground across the back of her left hand and over the first two fingers. They went numb, with no pain at all, simply gone, as if they had been in snow.
 
 Something knocked against her breastbone from the outside. The disk had swung out of her collar on its cord.
 
@@ -134,7 +134,7 @@ Then, behind her, through the stance, she felt his still door. It was open wider
 
 The cell was still calling.
 
-Kiva could feel it. The breaker had cut the load, so the board was dark and the winch was dead, but the cell itself was still running, with the pattern still in it. Her pattern. Her fight. It was not driving anything now. It was just ringing, louder and louder, like a bell with nobody to stop it, and the husk on her chest was still pushing toward it, and the one alive on the stair was climbing at Kellan.
+Kiva could feel it. The breaker had cut the load, so the board was dark and the winch was dead, but the cell itself was still running, with the pattern still in it. Her pattern. Her fight. With nothing left to drive, it simply rang, louder and louder, like a bell with nobody to stop it, and the husk on her chest was still pushing toward it, and the one alive on the stair was climbing at Kellan.
 
 The breaker did not stop a pattern. Only the quench did that.
 
@@ -176,25 +176,25 @@ He had felt it for most of the last minute and not had time to think about it. I
 
 The husk on his blade was pushing toward it. So was the one on Rowan's chest. So, he realized, had every husk that had come out of that chute since she put a door on the drum.
 
-She had not said it would call them. Nobody had ever said a cell could do that. But she had said the rest of it in the corridor, to his face. *If I open a door near it, they'll fight, and the cell will take the fight.*
+She had not said it would call them. Nobody had ever said a cell could do that. But she had said the rest of it in the corridor, straight out. *If I open a door near it, they'll fight, and the cell will take the fight.*
 
 She had been right.
 
-She had been right about the clock, too. *A tenth in ten seconds, the next in nine. Under two minutes. Seventy seconds. Fifty.* He had heard every number she called, and he had checked them, without meaning to, against the meter whenever he glanced up. She had been right every time, to the tenth.
+She had been right about the clock, too. *Under two minutes. Seventy seconds. Fifty.* He had heard every figure she called, and he had checked them, without meaning to, against the meter whenever he glanced up. She had been right every time, to the tenth.
 
-His mother would have liked her numbers.
+His mother would have liked her readings.
 
 The husk shoved, and he held it on the blade. He had two choices and he could see both of them clearly, the way he saw everything clearly when it mattered.
 
-He could finish this husk. He could turn it, free the blade, put it through the knot of the thing, and then finish whatever came up next. He would score. That would be two kills on a stair, clean, with the gallery watching, and Graywater would write it down. That was his role. Spawn. It was on the card.
+He could finish this husk. He could turn it, free the blade, put it through the knot of the thing, and then finish whatever came up next. That would be two kills on a stair, clean, with the gallery watching, and Graywater in the good chairs. That was his role. Spawn. He had declared it.
 
 Or he could leave it.
 
-He could leave a live husk on the stair behind him, break off, and get to the quench. He could do the thing that was not on the card, because the girl who had broken the card twice already was shouting at him from the floor that it was the only thing that would work.
+He could leave a live husk on the stair behind him, break off, and get to the quench. He could do the thing he had not declared, because the girl who had broken her own call twice already was shouting at him from the floor that it was the only thing that would work.
 
-He did not believe in people. He believed in measurements.
+He did not trust people. He trusted readings.
 
-Her measurements had been right all run.
+Her readings had been right all run.
 
 He made the decision. He did not like it. He made it anyway.
 
@@ -230,7 +230,7 @@ It did not fade. It stopped, the way a bell stops when you put your hand on it. 
 
 The husk on her chest went slack.
 
-It did not fall apart. It just stopped pushing. It stood against her with its limbs braced, heavy and grey, and seemed to forget what it had been doing, like a dog when the whistle stops.
+It stayed whole, but it stopped pushing. It stood against her with its limbs braced, heavy and grey, and seemed to forget what it had been doing, like a dog when the whistle stops.
 
 The heat-lines did not stop. They kept burning, but the white went out of them, and they went back to merely hot.
 
@@ -326,7 +326,7 @@ She was grey from her chin to her knees. The ash had got everywhere, into her co
 
 And there was something hanging against the front of her shirt.
 
-The disk had come out of her collar when the husk hit her. It lay on its cord against her chest, dark and grey with ash, with the nine grooves in it full of powder. She closed her good hand around it.
+The disk had come out of her collar when the husk hit her. It lay on its cord against her chest, dark and grey with ash, with its fine grooves full of powder. She closed her good hand around it.
 
 It was cold.
 
@@ -340,7 +340,7 @@ A Wren House medic came across the floor with a bag and knelt beside her. He was
 
 She did, and he bent over the heat-lines.
 
-She had not seen them yet herself. They were not pink anymore. They were an angry red, raised along their length like welts, and in two places the skin had gone shiny and tight over a blister. They ran from the middle of her breastbone, over her collarbone, past the point of her shoulder, and down the outside of her upper arm, halfway to her elbow.
+She had not seen them yet herself. The pink was gone. They were an angry red, raised along their length like welts, and in two places the skin had gone shiny and tight over a blister. They ran from the middle of her breastbone, over her collarbone, past the point of her shoulder, and down the outside of her upper arm, halfway to her elbow.
 
 They had never gone past her shoulder. In four years. Not once.
 
@@ -398,69 +398,53 @@ She had known. She had known since the needle crossed the red. But it was differ
 
 She had not said anything when she went over the rail. She had not said *leaving cell*. She had not said *protecting Cade*. She had just gone.
 
-Mara had told her. *You'll want to. When you do, say it out loud.*
+Mara had told her, at the tram stop. *Call it.*
 
-She had not said it out loud.
+She had not called it.
 
 Kellan came and stood in front of them. He had ash down one side of his face and a long scrape on his right knee where it had hit the edge of the mezzanine. He read the board, and then he turned to Kiva.
 
-"You said no doors," he said. His voice was quiet. It was not angry. It was something more careful than angry. "In the corridor. To my face. And it went on the card."
+"You said no doors," he said. His voice was quiet, and more careful than angry. "In the corridor. And the clerk said it back."
 
 "I know."
 
-"You declared the change. I heard it. It bought about twenty seconds, and then it cost the run." He did not raise his voice. "If I'd known it was coming, I'd have been up top, next to you, instead of at the bottom of the stair with my back to it. That's what a card is for. It tells me where to stand."
+"You declared the change. I heard it. It bought about twenty seconds, and then it cost the run." He did not raise his voice. "If I'd known it was coming, I'd have been up top, next to you, instead of at the bottom of the stair with my back to it. That's what a call is for. It tells me where to stand."
 
 Kiva did not say anything. There was nothing to say. He was right.
 
-"And every call you made was right," said Kellan. "Including the last one, from the floor." He stopped, and his eyes went back to the board, to his own name next to the word *Quench*. "I've got one column that says you broke the run and one that says I'd have been wrong without you. They don't add. I don't know what to do with that."
+"And every call you made was right," said Kellan. "Including the last one, from the floor." He stopped, and his eyes went back to the board, to his own name next to the word *Quench*. "I've got one reading that says you broke the run and another that says I'd have been wrong without you. They don't add. I don't know what to do with that."
 
 "Neither do I," said Kiva.
 
-He held her eyes for a long moment. Then he nodded, very slightly, as if they had agreed on a number.
-
-"Fill in the card," he said. "Properly. All the columns."
+He held her eyes for a long moment. Then he nodded, very slightly, as if they had agreed on something neither of them liked.
 
 He walked away toward the Gate.
 
 ---
 
-They filled in the card sitting on the concrete, all four of them, while the clerks came out with pans and soft brushes and began to gather the ash off the floor around them, heap by heap, into sealed tins for the Wren House graders.
+The clerks came out with pans and soft brushes and began to gather the ash off the floor around them, heap by heap, into sealed tins for the Wren House graders. Nobody asked the three of them to move. They sat on the concrete in the middle of it.
 
-Anwen held the card on her knee and wrote. She did not ask anyone what to put. She wrote what had happened, in order, in her small neat hand, and then she held out the pencil to each of them in turn for the last column.
+Perrin lay flat with his eyes shut and his purple hands on his chest. Once he lifted one of them a little way off his coat and looked at it, and put it back, and said, "Huh," to the roof.
 
-Perrin took it first, with hands that were still shaking. He wrote *Why: shutter weight on hands when winch died. Held with still door. Gave it back slowly. Rowan told me how.* Then he gave the pencil back and lay down flat on the floor again and shut his eyes.
+Kiva sat and thought about the cell.
 
-Kellan was gone, so Anwen wrote his for him, from what he had said. *Why: cell still calling after breaker. Quench is mechanical. Rowan's numbers right all run.*
+She thought about the hurry in it, and the joy of pressing it out. She thought about the fear, when the husk came up the stair, and the three doors going in, and the ringing that would not stop after she let go. A cell keeps what you leave in it. Mara had said it at the bench with her hand on a regulator, and Kiva had heard it, and had gone and left all three doors in one anyway, and then taken her hand off and watched it keep them.
 
-Then she held the pencil out to Kiva.
-
-Kiva took it. Her right hand was steady enough. She stared at the column.
-
-She thought about the cell under her hand, and the hurry in it, and the joy of pressing it out. She thought about the fear, when the husk came up the stair, and the three doors going in, and the ringing that would not stop after she let go.
-
-She wrote: *Why: a cell keeps what you leave in it. I left all three doors in it. Then I took my hand off and it kept them.*
-
-She read it over. It was true. It was not all of it.
-
-Under it, smaller, she wrote: *Went over the rail without declaring. Because Perrin was in the way. Should have said it.*
-
-She gave the pencil back to Anwen.
-
-Anwen read it. Then she folded the card and stood up to take it to the booth. She stopped beside Kiva and took in the ash and the salve and the raw forearm and the arm held close against her side.
+Anwen got up first. She brushed the worst of the ash off her knees and stopped beside Kiva and took in the salve and the raw forearm and the arm held close against her side.
 
 "You protected him," said Anwen.
 
 "I failed the run."
 
-"You did both." Anwen held the card against her chest. "I didn't come out. When you called for us to get out. You know that? I heard you, and I didn't come out. I kept working on the legs."
+"You did both." Anwen folded her arms. "I didn't come out. When you called for us to get out. You know that? I heard you, and I didn't come out. I kept working on the legs."
 
 "You were right not to."
 
-"I know I was right. That's not the part." Anwen's face did something complicated. "I chose the casualty. Over getting out. Over you. Because it was my objective, and it's what the field panels score, and I wanted it." She paused. "And you were holding a husk off us while I chose it. I want that said."
+"I know I was right. That's not the part." Anwen's face did something complicated. "I chose the casualty. Over getting out. Over you. Because it was my objective, and it's what the field panels want, and I wanted it." She paused. "And you were holding a husk off us while I chose it."
 
-"It's said," said Kiva.
+"I'd have done it if you'd come out."
 
-Anwen nodded. Then she went up the stairs to the booth with the card.
+"I know you would. That's the part." Anwen looked at her a moment longer. Then she turned and went up the stairs to the booth, where the assessors would want her first, because the casualty had been hers.
 
 Kiva sat with her back to the pump room wall and Perrin lying beside her and raised her eyes to the gallery.
 
@@ -470,7 +454,7 @@ She had not pulled it.
 
 Ysra lifted the hand from the lever and leaned down to the speaking tube on the booth wall. Her voice came out of the horn over the hall, dry and level.
 
-"Miss Rowan. My office. Tomorrow at nine. Bring your book."
+"Miss Rowan. My office. Tomorrow at ten. Bring your lecturer."
 
 Further along the gallery, in the section with the better chairs, a woman in a slate-blue Graywater coat had leaned forward and put her hand flat against the glass. She had a white streak through her dark hair. She was not looking at the board.
 

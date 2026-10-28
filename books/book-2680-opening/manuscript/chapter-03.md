@@ -8,7 +8,7 @@ There was a sign on the gate that said so, in brass letters gone green. *CROOKED
 
 She swung the gate open with her stick and went in, and Kiva followed with Anwen and Perrin behind her.
 
-It was Friday, the day after the north round, with seven days to go to the Cellhouse. The yard was dark and cold and smelled of old earth. Orla hung her lamp on a hook on the first shed, and its yellow light spread down the long strip of packed ground, over the line of black practice posts, to the far end where the last post leaned out of the line and into the shadow.
+It was Friday, the day after the north round, with seven days to go to the Cellhouse. The yard was dark and cold and smelled of old earth. Orla hung her lamp on a hook on the first shed, and its yellow light spread down the long strip of packed ground and over the line of black practice posts until the dark took them.
 
 Kiva had been here on Thursday nights for four years, and on Mondays and Wednesdays too, when it was just her and Orla. She knew every rut in the ground. She knew which post had a nail sticking out of it at knee height and which shed roof dripped when it rained.
 
@@ -18,7 +18,11 @@ Tonight it felt different, because tonight there was a form folded in Mara's apr
 
 "She doesn't teach," said Kiva.
 
-"She just did. She told you exactly what you need to learn in seven days, in three words, on the back of a form." Orla held up one finger. "Meter. You need a way to see what your doors are doing before they do it." A second finger. "Shutdown path. You need to be able to close a door on purpose, cleanly, when it opens without being asked." A third. "Book. You need to write down what happened, every time, so the next attempt starts from what you know and not what you hope." She lowered her hand. "Every serious cell in this city has those three things. Your aunt wants you to be at least as safe as a street lamp, and that's not too much to ask."
+"She just did. She told you what you need in three words, on the back of a form." Orla held up one finger. "Meter. You need a way to see what your doors are doing before they do it." A second finger. "Shutdown path. You need to be able to close a door on purpose, cleanly, when it opens without being asked."
+
+She did not hold up a third. She looked at the lamp instead.
+
+"Hand," she said. "Every serious cell in this city has somebody's hand on it, who answers for it when it goes wrong. Your aunt wants to know whose is on you." She lowered her fingers. "That one isn't yours to learn. It's between me and your aunt. We'll do the first two."
 
 "It's in seven days," said Perrin.
 
@@ -100,7 +104,7 @@ Anwen went and stood where she was told, holding her hands loosely in front of h
 
 Perrin moved behind Kiva and put his big warm palm on her back. "I'm feeling it," he said. "I'm very present."
 
-"Kiva," said Orla. "Edge. Just Edge. Hold it. Don't light it. And the moment you feel that bottom line go warm, before anything else happens, you say *one*. Out loud. That's all. You don't have to stop it. You just have to say it."
+"Kiva," said Orla. "Edge. Just Edge. Hold it. Don't light it. And the moment you feel that bottom line go warm, before anything else happens, you call the door that's coming. Name it. That's all. You don't have to stop it. You just have to know which one it is."
 
 Kiva raised her right fist and asked for Edge.
 
@@ -116,9 +120,9 @@ Kiva felt it lift, cool and curious, toward Anwen and the faint shimmer of the w
 
 And the bottom line went warm. Then the second.
 
-"One," said Kiva. Too late. The second line was already hot, and the third was starting, and the bar on her fist jerked as if someone had bumped it.
+"Hand," said Kiva. Too late. The second line was already hot, and the third was starting, and the bar on her fist jerked as if someone had bumped it.
 
-"That was two," said Orla. "Again."
+"That was late," said Orla. "Again."
 
 They did it again. Kiva held the dark bar while Anwen stood with her ward ready and Perrin breathed slowly behind her. This time Kiva did not watch the bar, or anything else. She listened to her chest the way Mara listened to a cell.
 
@@ -126,13 +130,13 @@ The hand door lifted.
 
 The bottom line warmed.
 
-"One," said Kiva.
+"Hand," said Kiva.
 
-The second line warmed a moment later. But she had said it first. She had felt the first wire go hot and named it before the second.
+The second line warmed a moment later. But she had called it first. She had felt the first wire go hot and named the door before the second.
 
-"That's one," said Orla. "Good. Again."
+"That's early," said Orla. "Good. Again."
 
-They did it eleven times. She got it early on the second try, and late on the third and fourth, and early on the fifth and sixth. By the tenth her chest ached the way it did after a long day at the shop, a dull, used ache, and by the eleventh she could feel the bottom line move before the hand door had quite finished waking up. It was like hearing the click in a tram's brakes before the car begins to slow.
+They did it again, and again after that. She was early, and then late twice, and then early, and once Orla made Perrin shift his weight instead of Anwen, and the door that woke was the still door, and Kiva called *Hand* out of habit and was wrong. After that she listened harder. By the end her chest ached the way it did after a long day at the shop, a dull, used ache, and she could feel the bottom line move before the door behind it had quite finished waking up. It was like hearing the click in a tram's brakes before the car begins to slow.
 
 "That's your meter," said Orla. "It's always been there. You've just been reading it after the needle's already swung."
 
@@ -176,7 +180,7 @@ It closed. She felt it go quiet, like a cell powering down.
 
 "Better," said Orla. "Anwen. Your turn."
 
-Anwen came and stood in front of Kiva. She did not like teaching, and she had told Kiva so many times, because she said it was like being asked to explain how you walk. But she did it the way she did everything, plainly and thoroughly, as if she were writing it down.
+Anwen came and stood in front of Kiva. She did not like teaching, and she had told Kiva so many times, because she said it was like being asked to explain how you walk. But she did it the way she did everything, plainly and thoroughly, as if she were explaining a lock.
 
 "You make a ward like a tray," she said.
 
@@ -250,7 +254,7 @@ Orla said nothing. She did not need to.
 
 "Again," said Kiva.
 
-The second time, she waited. She let the metal run all the way home and felt it settle in the copper, and she breathed out and closed the door behind it, and felt it go quiet. And then she counted, deliberately, *one, two*, before she reached for anything else.
+The second time, she waited. She let the metal run all the way home and felt it settle in the copper, and she breathed out and closed the door behind it, and felt it go quiet. And then she let a whole breath go by, in and out, before she reached for anything else.
 
 Then she raised the ward.
 
@@ -260,17 +264,17 @@ She stood for two breaths with her palms together. Then she went into stance, an
 
 Then she stood in the dark yard with her hands at her sides, and her chest did not hurt at all.
 
-"Eleven seconds," said Orla. "From Edge to the end of stance."
+"Fourteen seconds," said Orla. "From Edge to the end of stance."
 
 Perrin whistled. "That's a long time."
 
-"It's a very long time," said Orla. "Kellan Renn would cut you in half three times in eleven seconds. Any Riftspawn bigger than a Handful would walk through you. You'd fail every timed lane in the Circuit." Her face, across the lamp-lit yard, was very still. "And it's the first time in four years I've seen you go through all three doors without a single line lighting."
+"It's a very long time," said Orla. "Kellan Renn would cut you in half three times in fourteen seconds. Any Riftspawn bigger than a Handful would walk through you. You'd fail every timed lane in the Circuit." Her face, across the lamp-lit yard, was very still. "And it's the first time in four years I've seen you go through all three doors without a single line lighting."
 
 Kiva had not realized it until Orla said it. She put her hand to her chest, where the lines lay under her shirt, quiet and cool.
 
 "So that's a sequence," said Perrin.
 
-"No," said Orla. "That's a drill. It's three doors one after another, with nothing passing between them. Each one starts from standing still." She tapped the three marks in the dirt again. "A real sequence is when the first door hands its work to the next one without dropping it. The speed of a Stride going straight into a stance, so you stop where you mean to and nobody moves you. The stop of a ward going straight into a strike. The work carries across. Nobody I know can do that across doors. I've seen it written about. I've never seen it done." She nodded at Kiva. "This is the drill that gets you there. If anything does."
+"No," said Orla. "That's a drill. It's three doors one after another, with nothing passing between them. Each one starts from standing still." She tapped the three marks in the dirt again. "A real sequence is when the first door hands its work to the next one without dropping it. The speed of a Stride going straight into a stance, so you stop where you mean to and nobody moves you. The stop of a ward going straight into a strike. The work carries across. Nobody I know can do that across doors. I've heard it talked about. I've never seen it done." She nodded at Kiva. "This is the drill that gets you there. If anything does."
 
 Kiva understood something then that Orla had been telling her for two years, and that she had not been able to hear. The gap was not the enemy. The gap was where the closing happened, and if she rushed the gap, the doors fought, and if she let the gap be as long as it needed to be, they did not. It was slow because it was clean, and it would get faster only by getting cleaner first.
 
@@ -280,99 +284,69 @@ She had always thought it was the other way around.
 
 ---
 
-At ten o'clock, Orla called a stop. She reached into the canvas bag at her feet and took out three small books.
+At ten o'clock, Orla called a stop. She did not get up from the crate. She put her stick across her knees and looked at Kiva across the lamp-lit dirt.
 
-They were plain field books, the kind the Home Line still issued to its officers, bound in waxed grey card with a pencil tied to the spine on a string. She handed one to Kiva, and when Kiva opened it, she saw that every page had been ruled into seven columns.
+"Right," she said. "What went wrong?"
 
-*Exercise. What went wrong. Who was hurt. What it cost. How long to come back. Second go. Why.*
+Kiva had heard her ask it of other people, at the end of Thursday lanes, while she was packing up. She had never been the one standing in front of the crate.
 
-"Your aunt's third word," said Orla. "Book."
+"The first try," she said. "I rushed the gap. I reached for the ward before the metal was home. All three lines lit. It sparked, and the mast pinged."
 
-Kiva turned the pages, which were all blank and all ruled.
+"Who was hurt?"
 
-"You ruled these yourself?"
+"Nobody. Anwen caught it."
 
-"Last night. My eyes aren't what they were, and some of the lines aren't straight."
+"What did it cost?"
 
-"Where's this from? These columns?"
+Kiva turned her left arm to the lamp. There was a pink patch on the skin where the slab had gone hot. "That. And the lines ached for a while."
 
-"The Home Line case files. Field officers have kept them like this since before there was a Compact." Orla shrugged. "Some of the other schools use six columns now. The standard manual dropped the last one before I was born. The Home Line never did."
+"Second go?"
 
-Kiva read the last column again. *Why.*
+"I waited. A whole breath in every gap. Nothing lit." She made a face. "Fourteen seconds."
 
-Perrin was watching the book in Kiva's hands, and then the one Orla was holding out to Anwen, and Kiva saw his face do something complicated.
+"Why?"
 
-"Can I have one?" he said.
+Kiva opened her mouth, and found she had nothing to put in it.
+
+She did not know why. She did not know why waiting worked, or why the doors fought in the first place, or why there were three of them, or why a stance she had never trained was better than an Edge she had trained for four years. She stood in the dirt with the lamp on her face and the question in front of her, and the longer she stood, the less she had.
+
+"I don't know," she said at last.
+
+"Then that's the answer." Orla did not seem disappointed. "Don't make one up to please me. I've had twenty years of people making them up to please me, and every one of them cost somebody later."
+
+Perrin had been leaning on the shed with his arms folded through all of it. He straightened up.
+
+"Do you ask everybody that?" he said.
 
 It came out more sharply than he probably meant, and Orla turned to him.
 
-"You can have one," she said. "You could have had one last year. You didn't ask."
+"Everybody who's still here at the end."
 
-"I didn't know they were for asking."
+"I'm never here at the end. I get the early tram."
 
-"Everything's for asking." She took the third book out of the bag and held it out to him. "I made three. I thought you might."
+"You could have stayed. Last year. Any Thursday you liked." Orla tipped her head. "You didn't ask."
 
-Perrin took it and turned it over in his big hands. For a moment he did not say anything at all, which was rare enough that Anwen looked up from her own book.
+"I didn't know it was for asking."
 
-"Thanks," he said. And then, because he was Perrin and could not leave anything alone, "It's not a disk, but it's something."
+"Everything's for asking." She waited. "Well? What went wrong?"
 
-"Perrin," said Anwen.
+Perrin opened his mouth, and shut it, and for a moment he did not say anything at all, which was rare enough that Anwen looked up from folding her ward-gloves.
 
-"I'm joking. Mostly." He put the book in his coat. Then he faced Kiva, and his face was honest and a little ashamed. "All right, not mostly. You get the private nights and the old Home Line teacher and the mysterious necklace and Ysra Crest in a little room, and I get to stand behind you with my hand on your back. I've been trying for a year to make that funny." He shrugged. "It's not your fault. It's just that the joke keeps coming out jealous."
+"Nothing," he said. "Nothing went wrong. I stood behind her with my hand on her back, and she did everything, and I was very present." He rubbed his face. Then he turned to Kiva, and his face was honest and a little ashamed. "That's the thing that went wrong. You get the private nights and the old Home Line teacher and the mysterious necklace and Ysra Crest in a little room, and I get to stand behind you with my hand on your back. I've been trying for a year to make that funny." He shrugged. "It's not your fault. It's just that the joke keeps coming out jealous."
 
 "I know," said Kiva. "I'd rather have the jealous than the joke."
 
-"Good." He bumped her shoulder, harder than usual. "Now write in your stupid book."
+"Who was hurt?" said Orla, as if nobody had said anything.
 
-Kiva sat on the crate beside Orla and opened the book on her knee, where the hand lamp threw its yellow light over the ruled page. She took the pencil off its string and wrote, slowly, in the first row.
+Perrin considered. "My pride. Slightly."
 
-*Exercise:* Sequence. Edge, close, ward, close, stance, close.
+"What did it cost?"
 
-*What went wrong:* First try, rushed the gap. Reached for ward before metal home. All 3 lines lit. Spark. Mast pinged.
+"A tram." He sighed. "I've missed the early one."
 
-*Who was hurt:* Nobody. Anwen caught the spark.
+Orla almost smiled. "Second go. Thursday. You stay to the end, and you bring something that went wrong, and we'll see." She reached for the lamp. "Go home, all of you. Monday we'll do it again, and you'll be faster, Kiva, and you'll hate every second of it."
 
-*What it cost:* Slab burned my arm a bit. Lines ached ten min.
-
-*How long to come back:* Ten min.
-
-*Second go:* Waited. Counted two in each gap. No lines. 11 sec total. Too slow.
-
-She stopped at the last column. *Why.*
-
-She did not know why. She did not know why waiting worked, or why the doors fought in the first place, or why there were three of them, or why a stance she had never trained was better than an Edge she had trained for four years. She sat with the pencil over the column for a long time.
-
-"Leave it blank," said Orla quietly, beside her. "If you don't know. Blank's better than a lie. Somebody will fill it in later. Maybe you."
-
-Kiva left it blank.
-
----
-
-They walked the lane before they left, because Orla always made them. It was a habit from the Home Line, she said, where you walked the ground at the end of the night so that your feet would remember it.
-
-The lane ran down the middle of the Old Yard between the two rows of practice posts, rutted and narrow and not quite level. They walked it in single file, Kiva first, then Perrin, then Anwen, with Orla bringing up the rear on her stick and the lamp swinging from her hand.
-
-At the far end, the last post leaned.
-
-Kiva stopped beside it. It was the same black, split wood, with the same two iron bands, that she had put her hand on four years ago after the lamps went out. She put her hand on it now.
-
-"Why is it crooked?" she said.
-
-She had asked Orla before. She had asked everyone. She asked the way you press on a bruise.
-
-"The standard manual says *retained for ceremonial continuity*," said Orla.
-
-"That's not a reason."
-
-"No," said Orla. "It isn't."
-
-Kiva turned. Orla was gazing at the post, and there was something in her face that Kiva had not seen there before, less like sadness than like a person reading a page with a line torn out of it.
-
-"There used to be one," said Orla. "A reason. It's not in the manual anymore."
-
-"Do you know what it was?"
-
-Orla was quiet for a moment. "Not for certain," she said. "And I won't guess at it in the dark." She lifted the lamp. "Go home. Get some sleep. Monday we'll do it again, and you'll do it in ten seconds, and you'll hate every one of them."
+Perrin bumped Kiva's shoulder on the way to the gate, harder than usual. "I'm staying to the end on Thursday," he said, and then he was off down the hill at a run, after a tram that had almost certainly gone.
 
 ---
 
@@ -382,42 +356,42 @@ It hurt every evening now. Twenty years on the Home Line had done it, twenty yea
 
 She did not mind. Mostly.
 
-She sat and looked down the dark lane at the crooked post.
+She sat and looked down the dark lane, where the lamplight gave out among the posts.
 
 She had told Mara Rowan the truth, as far as it went. She had put her name beside a student's once. Twenty-one years ago, when she was newly off the Home Line and full of herself, she had sponsored a twin-kindled boy from the Brickfields named Jessamy Hart, who had opened Ember and hand together at thirteen. It was two doors and not three, and it had seemed like enough of a miracle at the time.
 
 She had thought she understood him. She had thought she could teach him the way she taught everyone, with patience and the old lane and her own field sense, and in his second year she had put him into a Circuit trial, because he had asked, and because he was ready, and because she wanted the board to see what she saw.
 
-She did not let herself go through the rest. She had not gone through it in order for a long time, and she could not have said it aloud to anyone. It was enough to know that the board had sealed the file, that the boy had left Meridian at nineteen, and that she had never written to him, because she had not known what to say.
+She did not let herself go through the rest. She had not gone through it in order for a long time, and she could not have told it to anyone. It was enough to know that the boy had left Meridian at nineteen, and that she had never gone to find him, because she had not known what to say.
 
-They had suspended her sponsoring standing for ten years. It had been restored for eleven. She had never used it.
+They had suspended her sponsoring standing for ten years. She had had it back for longer than that now, and she had never used it.
 
-She thought about that, and about the girl who had stood in this yard tonight and gone through all three doors in eleven seconds without a single line lighting.
+She thought about that, and about the girl who had stood in this yard tonight and gone through all three doors without a single line lighting.
 
-Eleven seconds was nothing. It was a beginner's number, a number to be ashamed of in any sanctioned lane. And Orla had sat on this crate and watched it and felt something rise in her chest that she had not felt in twenty-one years.
+Fourteen seconds was nothing. It was a beginner's figure, a figure to be ashamed of in any sanctioned lane. And Orla had sat on this crate and watched it and felt something rise in her chest that she had not felt in twenty-one years.
 
 She knew what it was. It was the same thing she had felt about Jessamy.
 
 That was what frightened her.
 
-She thought, too, about the disk. She had seen it before, though not on Kiva. She had seen it on Ilse Corran, twenty-five years ago, at a field camp on the Ferren levee, the night after a bad rift, when Ilse had taken it out from under her shirt and turned it over in her fingers by the fire and said nothing about it at all. Orla had known Ilse for six years by then, and had never asked. You did not ask a bearer. That was the oldest Home Line rule there was. The disk went by appointment, sealed, from one bearer to the next. It was not owned. It was carried.
+She thought, too, about the disk. She had seen it before, though not on Kiva. She had seen it on Ilse Corran, twenty-five years ago, at a field camp on the Ferren levee, the night after a bad rift, when Ilse had taken it out from under her shirt and turned it over in her fingers by the fire and said nothing about it at all. Orla had known Ilse for six years by then, and had never asked. You did not ask a bearer. The disk went by appointment from one bearer to the next. It was not owned. It was carried.
 
-Ilse had carried it for thirty years. And then, without a word to anyone, she had appointed a six-year-old girl whose mother had just died.
-
-Orla did not know why. She had wondered about it for four years, ever since the seal was broken and the name inside turned out to be a child's.
+Ilse had carried it for thirty years. And then she had stood before the Line's watch and named a six-year-old girl whose mother had just died. Orla had not been in the room. She had heard about it the way everyone on the Line heard things, late and in pieces, and she had not believed it until four years ago, when the disk came to Coper Street on the day of the girl's Kindling.
 
 She knew one other thing, and she had told no one, not Kiva and not Mara and not Ysra Crest.
 
-Years ago, in the Compact Library, looking for something else, she had found a catalog card in the disputed drawer. *Annick, H. Personal notebook. Includes fever account ("the sky unroofed"). Status: disputed. Retained.* She had read the notebook in the reading room, out of curiosity, because Hesper Annick had been a famous name once. It was a Glory master's fever dream, with people walking from every road at once, and a sky with no roof, and every lamp in Meridian answering.
+Sixteen years ago, five years after Jessamy, she had gone up to the house of the Order of the Even Hand in the hills, because the Order trained a single door for a lifetime and she wanted to know whether anyone there had ever seen two open in one child. She had not gone for the boy. The boy was gone. She had gone because she could not stop asking.
 
-She had put it back and not thought about it again until four years ago, when every lamp in the Old Yard went out and a thirteen-year-old girl lay on the ground with her eyes open, staring at something very far away.
+The Warden had sat her in a chair by a cold window and given her tea, and had not answered the question. Instead she had told Orla what the Order believed, and why it trained the way it did. Their master, Hesper Annick, had dreamed in her fevers that the sky came off the world like the roof off a house, and that whatever was above came down, and every lamp in Meridian answered. The Order meant to be standing when it came.
+
+Orla had drunk the tea and thanked her and gone down the hill and not thought about it again, until four years ago, when every lamp in the Old Yard went out and a thirteen-year-old girl lay on the ground with her eyes open, staring at something very far away.
 
 Kiva had never told her what she saw, and Orla had never asked. She did not know if there was any connection at all. A fever was a fever, and a Glory master's nightmares were not a map. She had no proof of anything, and she had been on the Home Line too long to mistake a feeling for a fact.
 
-But she had not forgotten the card.
+But she could still see the Warden's face across the cold window, saying *every lamp*, as if it were the plainest thing in the world.
 
-Orla sat looking at the post for a while longer. Then she got up, stiffly, and took the lamp off its hook, and locked the gate behind her.
+Orla got up, stiffly, and took the lamp off its hook, and locked the gate behind her.
 
-In the bag over her shoulder, where it had been for four years, was a sponsorship application from the Compact office. She had filled in the first page the week after the Old Yard. She had never filled in the second.
+She walked home the long way, up through the Compact Quarter, and the long way went past the Placement Hall. At the foot of its white steps she stopped, the way she had stopped on the night after the Old Yard four years ago, with her stick planted and her bad leg aching, and looked up at the dark doors where Ysra Crest kept her stamp.
 
-She did not take it out. She walked home with it.
+She did not go up.

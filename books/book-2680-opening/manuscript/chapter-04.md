@@ -1,22 +1,30 @@
 # Chapter 4 — Kiva: The Terrace Ring
 
-By Tuesday night she could do it in nine and a half seconds.
+By Tuesday night she could get through the drill in ten seconds without a line lighting.
 
-She wrote that in the book. She wrote everything in the book now, in the seven ruled columns, in pencil that smudged when her hand sweated. Monday was ten seconds, then ten again, then twelve because she rushed the second gap and the bottom line lit and she had to stop and wait for it to cool. Tuesday was ten, nine and a half, nine and a half, and then a long, embarrassing fourteen, because Perrin had sneezed in the middle of her stance and she had lost the whole thing laughing.
+Not every time. On Monday she rushed the second gap twice, and twice she had to stop and stand with her hand on her chest while the bottom line cooled. On Tuesday she was clean three times running, and then Perrin sneezed in the middle of her stance and she lost the whole thing laughing.
 
-*What went wrong:* Perrin.
+"What went wrong?" said Orla, from the crate.
 
-*Who was hurt:* My dignity.
+"Perrin."
 
-*Why:* Perrin.
+"Who was hurt?"
 
-Orla had read that page and snorted, and Anwen had read it and said, "That's not what the column's for," and written something in her own list.
+"My dignity."
 
-Mara had not read any of it yet, and Kiva had not offered. The book sat on the kitchen table every night while they ate supper, closed, with the pencil on its string lying across the cover, and neither of them mentioned it.
+Orla waited. She always waited for the last one.
+
+"Why?"
+
+"Perrin."
+
+Orla snorted. Anwen said, "That's not what she's asking," and her lips moved, once, the way they did when she was adding to the list in her head.
+
+Mara had not asked about any of it, and Kiva had not offered. The form stayed folded in Mara's apron pocket, with the three words on the back, and every night at supper neither of them mentioned it.
 
 On Wednesday morning Orla knocked at the shop before it opened and climbed the stairs as far as the kitchen doorway, where she stood leaning on her stick while Kiva ate.
 
-"Open lane today," she said. "Stonehand Hall. I've put your name down."
+"Open lane today," she said. "Stonehand Hall. I've entered you."
 
 Kiva put down her toast.
 
@@ -30,7 +38,7 @@ Kiva put down her toast.
 
 Somebody asked for her.
 
-Kiva found out when she got to Stonehand Hall at noon and saw the board. The open lane was a Circuit tradition for the last week before placement trials, when anyone who was going into a trial could come and fight anyone else who was going into a trial, under a Circuit referee, in one of Stonehand's sanctioned rings. The bouts were logged, and the numbers went into your file. The gallery was free, and in placement week it was usually full, because recruiters liked to watch people fight when it did not count yet. They said you saw more.
+Kiva found out when she got to Stonehand Hall at noon and saw the board. The open lane was a Circuit tradition for the last week before placement trials, when anyone who was going into a trial could come and fight anyone else who was going into a trial, under a Circuit referee, in one of Stonehand's sanctioned rings. The gallery was free, and in placement week it was usually full, because recruiters liked to watch people fight when nothing was riding on it yet. They said you saw more.
 
 The board was a long slate wall outside the rings, chalked with names in pairs. Most of the names had been drawn by lot. A few had the word *requested* chalked small beside one name, which meant that fighter had asked for the other.
 
@@ -38,7 +46,7 @@ The board was a long slate wall outside the rings, chalked with names in pairs. 
 
 "He asked for you," said Perrin. He was standing beside her with his hands in his pockets and a bruise already coming up on his cheekbone, because he had fought his own bout an hour earlier, against a Saltmere-sponsored Ember-door girl, and won it three to two. "He asked for you on purpose. In front of everybody. That's either very rude or very flattering, and I can't work out which."
 
-"Both," said Anwen, who was reading the board with her list in her hand. "He wants to know what he's comparing. He said so on Classification Day. Now he's measuring."
+"Both," said Anwen, who was reading the board with her list in her hand. "He wants to know what he's comparing. He said so on Classification Day. Now he's finding out."
 
 "I'm going to lose," said Kiva.
 
@@ -52,7 +60,7 @@ It was round and sunken, like a bowl cut into the floor of a great stone hall. A
 
 Stonehand built it that way on purpose. Their whole discipline was the body, which meant stance, contact, load, and footing, and they did not believe in flat ground. Flat ground, they said, taught you nothing about falling.
 
-The rules were simple. Both fighters began on the top terrace, on opposite sides. Edge-light stayed dark, because a dark Edge was blunt metal and not a blade, and the referee would stop you if you lit it. A clean contact on the body or head counted a point, and a contact on an arm or leg counted half. Three points won. Any door was allowed. A sensing mast stood on the rim of the ring, a short steel pole with a cage of wire on top, wired to a draw board where the referee could see it. Before the bout, each fighter settled a single standard dram of clean ash into their reserve, and the draw board measured how much of it they spent, and that went into the file too.
+The rules were simple. Both fighters began on the top terrace, on opposite sides. Edge-light stayed dark, because a dark Edge was blunt metal and not a blade, and the referee would stop you if you lit it. A clean contact on the body or head was a point, and a contact on an arm or leg was a half. Three points won. Any door was allowed. A sensing mast stood on the rim of the ring, a short steel pole with a cage of wire on top, wired to a draw board where the referee could see it. Before the bout, each fighter settled a single standard dram of clean ash into their reserve, and the draw board showed how much of it they spent.
 
 Kiva sat on the bench at the top of the terrace and settled her dram.
 
@@ -98,7 +106,7 @@ She waited.
 
 He waited.
 
-It went on long enough for someone in the gallery to laugh. Kiva stood in the sand with both doors open and felt the bottom heat-line grow warmer, and then the second one begin. Holding two doors was not like holding one. It cost more, and she could feel it draining out of the dram she had settled, a slow, steady pull, like water out of a cracked jug.
+It went on long enough for someone in the gallery to laugh. Kiva stood in the sand with both doors open and felt the bottom heat-line grow warmer, and then the second one begin. Holding two doors cost more than holding one, and she could feel it draining out of the dram she had settled, a slow, steady pull, like water out of a cracked jug.
 
 He was making her pay for standing there.
 
@@ -112,7 +120,7 @@ And the hand door woke up.
 
 It wanted a ward. She was blocking, and blocking was what the hand door was for, and it lifted inside her, cool and quick, reaching to help. She felt the bottom line go hot, and then the second, and then the third.
 
-She said nothing. She had forgotten to say anything.
+She called nothing. She had forgotten to call anything.
 
 The ward came up in front of her face, flat and wobbly, at the same moment the bar came up and the stance held, and all three doors pulled on her from three directions at once. The bar jerked in her fist. The ward splashed, and cold air burst against her face, and for one instant she could not see.
 
@@ -132,7 +140,7 @@ And he had used the step. He had made her look up at him, and made her turn heav
 
 She raised her eyes to him.
 
-He was not smiling. He was watching her.
+He was watching her, unsmiling.
 
 ---
 
@@ -196,7 +204,7 @@ Kiva stood in the sand and felt her whole idea of him turn over.
 
 She had thought he was fast because he could do everything at once. She had watched him for three years in the junior lanes and thought that. Seeing blade and struts and blade so quickly that it looked like one thing, she had thought that was what being good meant. All of it, together.
 
-It was not together. It was one thing, then a gap, then another thing: blade, empty, struts, empty, blade. He sequenced, and he sequenced so cleanly and so fast that the gaps were almost invisible. But they were there, and she could see them now that she had stopped looking at the wrong part.
+There was no together about it. One thing, then a gap, then another thing: blade, empty, struts, empty, blade. He sequenced, and he sequenced so cleanly and so fast that the gaps were almost invisible. But they were there, and she could see them now that she had stopped looking at the wrong part.
 
 He was not fast because he stacked. He was fast because he never did.
 
@@ -204,7 +212,7 @@ He was doing exactly what Orla had been telling her to do for two years. He was 
 
 He came at her from the left, blade back on his fist, and she turned to meet him, and as she turned she felt the bottom heat-line warm.
 
-"One," she said, under her breath.
+"Hand," she said, under her breath.
 
 And she closed.
 
@@ -238,9 +246,9 @@ They fought for a long time after that, longer than Kiva would have believed she
 
 It was not pretty. He was still much better than she was. He had a dozen ways to come at her and she had one way to stop him, which was to get the bar in the way. He came high and she got it there. He came low and she got it there, mostly. He came at her left side, where the bar was slow to reach, and she twisted and got the edge of it there, and the impact shook her to the elbow.
 
-Every time the hand door woke, she kept it out. Every time she felt the bottom line warm, she said *one* under her breath and stayed where she was. One door. Only one.
+Every time the hand door woke, she kept it out. Every time she felt the bottom line warm, she named the door at the threshold under her breath and stayed where she was. One door. Only one.
 
-It cost her, though not in heat. It cost her in everything else. Without stance, she could not root, and without a ward, she could not stop anything she could not reach with the bar. She was slow and heavy and one-handed and she could not hit him back, because hitting back meant opening the bar up, and every time she started to, he was already somewhere else.
+It cost her, though the lines stayed quiet. It cost her in everything else. Without stance, she could not root, and without a ward, she could not stop anything she could not reach with the bar. She was slow and heavy and one-handed and she could not hit him back, because hitting back meant opening the bar up, and every time she started to, he was already somewhere else.
 
 But he could not hit her either.
 
@@ -258,7 +266,7 @@ She had backed all the way to the edge of the sand, and the bottom step was righ
 
 For an instant she wanted stance so badly it hurt. She wanted to drop into the still door and plant her feet and be unmovable, and the still door was right there, open under her, waiting. The bottom line went hot.
 
-She did not open it.
+"Still," she said through her teeth, and did not open it.
 
 Instead she put her heel back against the riser of the step, hard, and set her back foot flat against the stone, so that the step itself was behind her. It was not stance. It was not anything. It was just a wall to push against.
 
@@ -270,7 +278,7 @@ It hit his right forearm with a dull, heavy smack.
 
 "Half," said the referee. "Rowan."
 
-The gallery made a noise that was not a cheer. It was more like a whole room of people drawing in a breath at once.
+The gallery made a noise like a whole room of people drawing in a breath at once.
 
 Kellan stepped back. He glanced down at his forearm, and then at her.
 
@@ -308,7 +316,7 @@ It was nearly three times as much. And most of it, Kiva knew, had gone in the fi
 
 "I know."
 
-"Point eight eight against point three one, in one bout. The cell in the Cellhouse is Grade Second. At that rate, if you stack on it, you'll burn through your dram in a minute and the cell's charge in three." He read it out the way he might have read a meter. "That's a rate, not an insult. I've been put in teams with people who didn't know their own numbers, and it's worse than being put in teams with people who are bad."
+"Point eight eight against point three one, in one bout. The cell in the Cellhouse is Grade Second. At that rate, if you stack on it, you'll burn through your dram in a minute and the cell's charge in three." He said it the way he might have read a meter. "That's a rate, not an insult. I've been put in teams with people who didn't know their own numbers, and it's worse than being put in teams with people who are bad."
 
 "I know my numbers."
 
@@ -326,21 +334,21 @@ He went down the long front stairs into the afternoon light and did not stop at 
 
 It was a good mark, clean and square, the exact width of that ridiculous bar.
 
-He had not been touched in a sanctioned bout since the autumn. He did not say that to anyone, because it sounded like boasting and it was not. It was a number, and numbers mattered to Kellan more than he could easily explain to people who had not grown up where he had.
+He had not been touched in a sanctioned bout since the autumn. He did not say that to anyone, because it sounded like boasting and it was not. It was a reading, and readings mattered to Kellan more than he could easily explain to people who had not grown up where he had.
 
 His mother graded ash at the Halden refinery on the east bank, and she had graded ash there for twenty-two years. She sat at a long bench with a meter and a set of sample cups and decided, can by can, whether a batch was First or Second or Third. It was one of the most important jobs in the city and almost nobody knew it existed, even though, if she got it wrong, a cell somewhere in Meridian ran hot.
 
-When Kellan was nine, a supervisor at the refinery had stamped a cut batch First to make his quarter, and when the batch failed in a hospital in the Lantern district, he had tried to say Kellan's mother had graded it. She had not. She had flagged it. She had written the true number in the grading book, in ink, with the date and her initials, and the supervisor had changed the stamp after she went home.
+When Kellan was ten, a supervisor at the refinery had stamped a cut batch First to make his quarter, and when the batch failed in a hospital in the Lantern district, he had tried to say Kellan's mother had graded it. She had not. She had called it Third at her bench and flagged it, and the supervisor had changed the stamp after she went home.
 
-The number in the book had saved her, and nothing else would have. Her word against his would not have done it, and neither would her twenty years, or the fact that everyone on the floor knew who was honest. Only the number had done it, written down by the person who had measured it.
+Her word against his would not have saved her, and neither would her twenty years, or the fact that everyone on the floor knew who was honest. What saved her was a pinch of that batch in a sealed jar on the shelf, because she set one aside from every batch she flagged. The Works took it down and put it on a meter at an open bench, in front of the whole floor, and the needle came down on Third, where she had said it would.
 
-Kellan had believed in measurement ever since. It was not perfect, and he did not believe in it because it was perfect. He believed in it because it was the only thing that protected people who were not in charge.
+Kellan had trusted readings ever since, perfect or not, because a needle that everybody could watch was the only thing that had ever protected people who were not in charge.
 
-The Circuit was built on measurement, on rank, hold, draw and call, on boards and numbers and logged bouts and files. It was not perfect either, and he knew that. But it meant that a refinery grader's son from the east bank could stand in the Measure Hall and have a board read him Fire, and nobody could say it said anything else. It meant that when he went to Graywater or Saltmere or any of them, his number would be his, and not a favor or a family name.
+The Circuit was built on readings, on rank, hold, draw and call, on boards and benches and refereed bouts. It was not perfect either, and he knew that. But it meant that a refinery grader's son from the east bank could stand in the Placement Hall and have a board read him Fire, and nobody could say it said anything else. It meant that when he went to Graywater or Saltmere or any of them, his rank would be his, and not a favor or a family name.
 
 And Kiva Rowan did not fit on the board.
 
-That was what bothered him. It was not that she was strange, because strange was fine. It was that the board could not read her, and if the board could not read her, then sooner or later somebody would have to decide what she was, somebody in a little room, and then her place on the roster would be a ruling and not a number. And every ruling like that made the numbers mean a little less.
+That was what bothered him. Strange was fine. What bothered him was that the board could not read her, and if the board could not read her, then sooner or later somebody would have to decide what she was, somebody in a little room, and then her place on the roster would be a ruling and not a reading. And every ruling like that made the boards mean a little less.
 
 He believed that. He had believed it walking into the Terrace Ring.
 
@@ -354,66 +362,68 @@ In three years of fighting in the Terrace Ring, he had used the steps to stand o
 
 Kellan sat on the fountain wall and rubbed his arm.
 
-He did not like it. He did not like the idea that the thing that had touched him today was a thing no rig could measure. But he was honest with himself, the way his mother had taught him to be, and the honest account was that he had learned something in that ring, and he had learned it from somebody the board could not read.
+He did not like it. He did not like the idea that the thing that had touched him today was a thing no rig could read. But he was honest with himself, the way his mother had taught him to be, and the honest account was that he had learned something in that ring, and he had learned it from somebody the board could not read.
 
-He took out the pencil he kept in his jacket and a scrap of paper, and wrote on it: *Rowan. Bar blocks narrow blades flat. Uses risers for leverage. Slower on a single door but harder to hit. Dram 0.88 to my 0.31.*
+He got up off the fountain wall and went back into Stonehand Hall.
 
-He read it over once. Then he folded it and put it in his pocket, and went to find out which team the board had put him on for the Cellhouse.
+The Terrace Ring was empty between bouts, the sand raked smooth again. He went down onto it, and walked to the edge, and set his heel against the riser of the bottom step the way she had, and his back foot flat on the stone. He pushed. Nothing opened. Nothing spent. The stone simply sent it back up his leg, solid and free.
+
+A raker leaning on his rake by the far wall watched him do it again, and then again, with an expression of deep patience.
+
+Kellan stepped off the sand, nodded to him as if nothing had happened, and went to find out which team the board had put him on for the Cellhouse.
 
 ---
 
-Mara read the book that night.
+Mara asked that night.
 
-Kiva did not offer it. She came home limping, with her knee wrapped in a cold cloth from the Stonehand infirmary, and sat down at the kitchen table, and put the book down in front of her plate the way she always did. And Mara, instead of not mentioning it, picked it up.
+Kiva had not meant to tell her anything. She came home limping, with her knee wrapped in a cold cloth from the Stonehand infirmary, and sat down at the kitchen table, and Mara put a plate in front of her and then did not sit down herself. She stood with her back to the stove and her arms folded.
 
-She read every page. She read them slowly, the way she read cell books at the bench, with one finger moving down the columns, while Kiva watched her eat nothing and turn pages.
+"Tell me," she said.
 
-At the last page, Mara stopped.
+So Kiva told her. She told it in order, because Mara would have stopped her otherwise. The stance and the Edge stacked at the start, and the third door coming in on top of them, and the ward splashing in her face. The Edge and the Stride at once, which was the same door and could not be done, and the step, and the knee. Then the single door, and the hand door kept out, and the bar stopping his blade flat. The half off his arm, from the riser. Then Kellan going up onto the stone and coming down behind her.
 
-*Exercise:* Open lane bout, Terrace Ring. K. Renn.
+"Three to a half," she said. "He doesn't stack. Ever. I thought fast meant all at once. It means one at a time, clean, with no hurry in it."
 
-*What went wrong:* Stacked stance and Edge at the start. Third door came in. All 3 lines. Splashed ward. One point to him. Then tried Edge and Stride at once, same door, can't. Fell on step. Knee. One more point. Then single door (Edge only). Kept hand door out. Held for about 2 min. Took a half off his arm from the step. Then he Strode behind me. Lost, 3 to a half.
-
-*Who was hurt:* Me. Left knee. Kellan, right forearm (bruise).
-
-*What it cost:* 0.88 of a dram. Mostly first minute.
-
-*How long to come back:* Knee, a week? Lines, an hour.
-
-*Second go:* Single door, said "one," closed. Harder to hit. Can't hit back. Too slow off the sand.
-
-*Why:* He doesn't stack. Ever. He sequences, fast. I thought fast meant all at once. It means one at a time, clean, with no hurry in it.
-
-Mara read the last line twice.
-
-Then she put the book down and faced Kiva across the table.
+Mara listened to all of it without moving.
 
 "Show me," she said. "Not a door. Just show me what you do. When the line goes."
 
 Kiva stood up. She stood in the middle of the kitchen, away from the wall cell and the stove and the cold-cupboard, and raised her right fist and formed the bar, which came ugly and dark. She held it. Then she let the hand door lift a little on purpose, just enough, and the bottom line went warm.
 
-"One," she said aloud. And she held the hand door at the threshold and did not let it in, and let the bar run home into the slab, and breathed out, and felt both doors go quiet.
+"Hand," she said. And she held the hand door at the threshold and did not let it in, and let the bar run home into the slab, and breathed out, and felt both doors go quiet.
 
-"That's my meter," she said. "The bottom line. I say it out loud. That's my shutdown path. One door home before the next one starts. And that's my book." She nodded at it. "Every time. Even when it's stupid."
+"That's my meter," she said. "The bottom line. I name the door that's coming before it gets there. That's my shutdown path. One door home before the next one starts." She stopped.
 
-Mara sat watching her for a long time.
+Mara waited.
+
+"I haven't got the third," said Kiva. "Orla won't put her name to me. So it's mine. If it goes wrong in there, I call it, and I pull the quench with my own hands, and it's my hand that answers for it."
+
+"You're seventeen."
+
+"I know. It's still my hand."
+
+Mara looked at her for a long time.
 
 "Now tell me what you can't do," she said.
 
 Kiva had not expected that. She stood in the kitchen with her empty hands and her bad knee and thought about it honestly, because Mara would know if she did not.
 
-"I can't stack," she said. "Not two doors, not three. Not on purpose and not safely. If I try, they fight, and I lose control of all of them." She took a breath. "I can't go fast. A full sequence takes nine and a half seconds. In a fight, I can only use one door and keep the others out. I can't tune a cell. I can read one. I can't tune one, not while the hand door and the Ember both want it. If something goes wrong near a cell, I can't fix it with a door. I'd have to use the quench, the same as anyone." She stopped. "And I can't promise nothing will go wrong. I can only promise I'll say it out loud when it starts."
+"I can't stack," she said. "Not two doors, not three. Not on purpose and not safely. If I try, they fight, and I lose control of all of them." She took a breath. "I can't go fast. The whole drill takes me ten seconds. In a fight, I can only use one door and keep the others out. I can read a cell. I can't tune one, not while the hand door and the Ember both want it. If something goes wrong near a cell, I can't fix it with a door. I'd have to use the quench, the same as anyone." She stopped. "And I can't promise nothing will go wrong. I can only promise I'll call it when it starts."
 
 Mara held her eyes for a moment longer.
 
-Then she got up, went to the hook by the door where her apron hung, and took the countersignature form out of the pocket. She smoothed it flat on the kitchen table beside the field book and took the pencil off its string.
+Then she unfolded her arms, went to the hook by the door where her apron hung, and took the countersignature form out of the pocket. She smoothed it flat on the kitchen table, face up, and took the pencil from behind her ear.
 
-Under *Guardian*, in her square capitals, she wrote *M. ROWAN*. Then she signed it.
+Under *Guardian*, in her square capitals, she wrote *M. ROWAN*. Then she signed it, and sat down across from Kiva for the first time that evening.
 
-She did not hand it to Kiva at once. She sat holding it.
+She did not hand it over at once. She sat holding it.
 
-"Those are good limits," she said quietly. "Know them in the Cellhouse. Don't let anyone talk you out of them. Not Orla. Not your team. Not that boy with the steady eyes. Not the gallery. And not yourself, when you want to show them all."
+"Those are good limits," she said quietly. "Know them in the Cellhouse. Don't let anyone talk you out of them. Not Orla. Not your team. Not that boy with the dark eyes. Not the gallery. And not yourself, when you want to show them all."
 
 "I won't."
 
-"You will," said Mara. "You'll want to. Everybody does." She held out the form. "When you do, say it out loud."
+"You will," said Mara. "You'll want to. Everybody does."
+
+She held out the form. Kiva took hold of the other end of it, and for a moment Mara did not let go, and they sat at the kitchen table with the paper between them, each holding an end.
+
+Then she let go.

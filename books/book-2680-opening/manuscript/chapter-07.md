@@ -26,7 +26,7 @@ Orla was quiet for a while, as the tram rocked on the rails.
 
 Kiva closed her eyes.
 
-"I had a ward-holder on the Ferren levee once," said Orla, more slowly, as if she did not much want to. "She did the bravest thing I ever saw and the stupidest, inside the same minute. The Line made me write them up as two separate entries. I hated it. They were right." She tapped her stick once on the tram floor. "So that's what I thought. Both entries. I'm not going to pick one."
+"I had a ward-holder on the Ferren levee once," said Orla, more slowly, as if she did not much want to. "She did the bravest thing I ever saw and the stupidest, inside the same minute. At the cart afterward the Line made me answer for them separately, one and then the other. I hated it. They were right." She tapped her stick once on the tram floor. "So that's what I thought. Both. I'm not going to pick one."
 
 ---
 
@@ -48,11 +48,11 @@ She did not run, and she did not say anything. She unfolded her arms and came do
 
 Mara turned back to Kiva. Then she put her hand under Kiva's good elbow, gently, the way she would lift a meter with a cracked face.
 
-"Did you say it out loud?" she said.
+"Did you call it?" she said.
 
 Kiva had known she would ask. She had been dreading it the whole way across the river.
 
-"Once," she said. "I said it when I changed to tuning. I didn't say it the second time. When I went over the rail." She swallowed. "I didn't say anything. I just went."
+"Once," she said. "I called it when I changed to tuning. I didn't call the second one. When I went over the rail." She swallowed. "I didn't say anything. I just went."
 
 Mara's face did not change.
 
@@ -78,9 +78,9 @@ Mara nodded slowly. She did not say anything else about it. She turned to Orla.
 
 Anwen Pryce did not go home after the Cellhouse. She went to the Graywater table.
 
-It was under its slate-blue awning at the foot of the Cellhouse steps, where it had been all week. The afternoon runs were finished and the crowd was thinning, and most of the recruiters were packing their boards. But the Graywater field officer was still sitting at the table with a ledger, because Anwen had written to him on Wednesday asking for ten minutes after her run, and he was the kind of man who answered letters.
+It was under its slate-blue awning at the foot of the Cellhouse steps, where it had been all week. The afternoon runs were finished and the crowd was thinning, and most of the recruiters were packing their boards. But the Graywater field officer was still sitting at the table with his coat over the back of his chair, because Anwen had asked him on Wednesday for ten minutes after her run, and he was the kind of man who kept to a thing like that.
 
-His name was Doran Mace. He was about fifty, bald and brown and soft-spoken, a hand-door field medic who had run Graywater's ward line for twelve years before he took the placement desk. Anwen had read everything she could find about him. She had a list.
+His name was Doran Mace. He was about fifty, bald and brown and soft-spoken, a hand-door field medic who had run Graywater's ward line for twelve years before he took the placement desk. Anwen had asked everyone she could find about him. She had a list.
 
 "Miss Pryce," he said, and pointed at the chair. "Sit."
 
@@ -92,23 +92,23 @@ She sat. She held her list in her lap and did not consult it.
 
 "Why?"
 
-She had thought about how to answer this for an hour, and she had written three versions on the back of her list. She did not use any of them.
+She had thought about how to answer this for an hour, and she had three versions ready. She did not use any of them.
 
-"Because the legs were still pinned," she said. "If I'd come out, Perrin would have had to drop the housing to come out too, and we'd have had to start again with a dead winch." She paused. "And because the casualty was my objective. It was on the card. It's what you score."
+"Because the legs were still pinned," she said. "If I'd come out, Perrin would have had to drop the housing to come out too, and we'd have had to start again with a dead winch." She paused. "And because the casualty was my objective. It's what you're looking for."
 
-Doran Mace wrote something in his ledger. "Is that the order? The legs first? Or the score first?"
+Doran Mace was quiet a moment. "Is that the order? The legs first? Or the placement first?"
 
 Anwen met his eyes.
 
-"The score first," she said. "Then the legs. I'd like to say it the other way round. I can't, honestly."
+"The placement first," she said. "Then the legs. I'd like to say it the other way round. I can't, honestly."
 
-He looked up. For a moment she thought she had ruined it. Then he smiled, very slightly.
+For a moment she thought she had ruined it. Then he smiled, very slightly.
 
-"Thank you," he said. "Most people say the other way round. It's very hard to train someone who's lying about why they do things." He wrote again. "You held your Sustain read on the casualty all run. You didn't drop it when the breaker went, and you didn't drop it when the shutter came down. You knew exactly where the legs were under that housing the whole time. That's what I'll score you on." He closed the ledger. "And your teammate on the floor?"
+"Thank you," he said. "Most people say the other way round. It's very hard to train someone who's lying about why they do things." He folded his hands. "You held your Sustain read on the casualty all run. You didn't drop it when the breaker went, and you didn't drop it when the shutter came down. You knew exactly where the legs were under that housing the whole time. That's what I'm placing you on." He sat back. "And your teammate on the floor?"
 
 Anwen was quiet for a moment.
 
-"She chose too," she said. "She chose Perrin. Over the cell, and the card, and the run." She smoothed the list on her knee. "I wouldn't have. I'd have stayed on the cell and quenched and trusted Perrin to hold the shutter. That was the right call by the book."
+"She chose too," she said. "She chose Perrin. Over the cell, and her own call, and the run." She smoothed the list on her knee. "I wouldn't have. I'd have stayed on the cell and quenched and trusted Perrin to hold the shutter. That was the right call by the drill."
 
 "Would he have held it?"
 
@@ -122,13 +122,13 @@ Doran Mace nodded as if she had. "Graywater will post placements on the twentiet
 
 "Thank you."
 
-"Don't thank me. You did it." He began to pack his ledger into a satchel. Then he paused. "One more thing. You know the girl. Rowan. Well?"
+"Don't thank me. You did it." He reached for his coat. Then he paused. "One more thing. You know the girl. Rowan. Well?"
 
-"Since we were nine."
+"Since we were small."
 
 "Is she always like that?"
 
-Anwen thought about it. She thought about Kiva at nine, on the shop step, taking apart a broken kitchen meter with a butter knife to see where the spring went, and Kiva at thirteen, on the ground in the Old Yard, and Kiva at fourteen, white-faced at the laundry door, saying *Mrs. Pryce, please bring the burn salve, Mara says walk don't run.*
+Anwen thought about it. She thought about Kiva at eight, on the shop step, taking apart a broken kitchen meter with a butter knife to see where the spring went, and Kiva at thirteen, on the ground in the Old Yard, and Kiva at fourteen, white-faced at the laundry door, saying *Mrs. Pryce, please bring the burn salve, Mara says walk don't run.*
 
 "She's always trying to fix the thing in front of her," said Anwen. "Even when she shouldn't. Even when it isn't hers."
 
@@ -136,29 +136,33 @@ Doran Mace considered that for a moment longer. Then he nodded and stood up.
 
 As he did, a woman came down the Cellhouse steps behind him. She was tall, in a long slate-blue coat, with a white streak through her black hair from the left temple, and she walked straight to the table without a glance at Anwen.
 
-"Doran," she said. "The booth keeps the run record. Can you get me Team Seven? From the three-and-a-half-minute mark to the end."
+"Doran," she said. "Seven's girl on the cell. The one who stood the husk off the shutter. Who sponsors her?"
 
-"Tonight?"
+"Nobody, I hear. She's in on a lecturer's request."
 
-"Tonight." She glanced at Anwen then. Her eyes were very pale grey and very steady, and they rested on Anwen's face for exactly as long as it took to decide who she was before they went away again. "Not the placement scoring. The floor."
+"Whose?"
+
+"Dane's."
+
+"Orla Dane." She said it as if she were turning it over. She glanced at Anwen then. Her eyes were very pale grey and very steady, and they rested on Anwen's face for exactly as long as it took to decide who she was before they went away again. "Find out where Dane teaches her. Not the placement marks. Where she stands on a floor."
 
 "I'll ask," said Doran Mace.
 
 The woman nodded and walked away across the plaza.
 
-Anwen sat at the empty table and watched her go. She knew who it was. Everybody in the Compact knew who it was. She had kept a poster of her on the back of her bedroom door when she was eleven.
+Anwen sat at the empty table and watched her go. She knew who it was. Everybody in the Compact knew who it was. She had kept a poster of her on the back of her bedroom door when she was twelve.
 
-She took out her list, and on the back of it, under the three answers she had not used, she wrote: *Rhea Sorn asked for our run. Not scoring. The floor.*
+Rhea Sorn had asked about Kiva. Not the marks. Where she stood on a floor.
 
-Then she sat there for a while longer with the pencil in her hand, feeling something she did not like.
+Anwen sat there for a while longer with her list folded in her lap, feeling something she did not like.
 
 It was not quite envy. She had done well today. She had done exactly what she meant to do, and the field officer had said so, and she was on his list, and that was hers, because nobody had given it to her.
 
-But nobody was going to ask for the run record to watch Anwen Pryce kneeling in the dark with her hands on a sandbag.
+But nobody was going to come down the Cellhouse steps to ask who taught Anwen Pryce to kneel in the dark with her hands on a sandbag.
 
-She wrote one more line. *I want it anyway. On my own.*
+*I want it anyway,* she thought. *On my own.*
 
-Then she put the list away and went home.
+She put the list away and went home.
 
 ---
 
@@ -182,7 +186,7 @@ Perrin sat down on the floor in front of the couch, because his legs would not d
 
 "And?"
 
-"*Cade, P. Still. Load hold under failure: exceptional. Sustained approx. 400 kg on hands, approx. 40 sec, after winch loss. Controlled release.*" He said it in a flat, careful voice, as if he had read it many times, which he probably had. "Exceptional. They wrote exceptional. The bursary board meets Monday. My Hall master came and found me and shook my hand. Very carefully. Because of the hands."
+"*Cade, P. Still. Load hold under failure: exceptional. Sustained approx. 400 kg on hands, approx. 40 sec, after winch loss. Controlled release.*" He said it in a flat, careful voice, as if he had read it many times, which he probably had. "Exceptional. They put exceptional. The bursary board meets Monday. My Hall master came and found me and shook my hand. Very carefully. Because of the hands."
 
 "Perrin, that's—"
 
@@ -238,11 +242,11 @@ Below her, every lamp answered.
 
 She woke up standing.
 
-She was in the narrow hallway outside her bedroom door, and she did not remember getting there. Her bare feet were on the cold boards. Her left arm was out of the sling, stretched out in front of her, and her left hand was flat against the wall.
+She was in the narrow hallway outside her bedroom door, and she had no idea how she had got there. Her bare feet were on the cold boards. Her left arm was out of the sling, stretched out in front of her, and her left hand was flat against the wall.
 
 Against the flat's cell panel.
 
-It was a small steel box set into the hallway wall, with a meter on its face and a red handle on its side. Every flat in the building had one. It held the flat's share of the building's reserve cell, so that if the core in the cellar ever shut down, the lights and the cold-cupboard would run for a few days more. Kiva had walked past it every day for as long as she could remember, and she had never touched it. Mara's rule.
+It was a small steel box set into the hallway wall, with a meter on its face and a red handle on its side. Every flat in the building had one. It held the flat's share of the building's reserve cell, so that if the core in the cellar ever shut down, the lights and the cold-cupboard would run for a few days more. Kiva had walked past it every day since she was six, and she had never touched it. Mara's rule.
 
 Her palm was flat on the steel, and her numb fingers were spread across the meter's glass.
 
@@ -300,7 +304,7 @@ She did not give her pieces this time, not just *people* and *the sky*. She told
 
 "Every time?"
 
-"It doesn't come often. A few times. When I've been sick." She dropped her eyes. "I never told you because I didn't know what it was. I still don't know. I thought if I said it out loud, it would sound—"
+"It doesn't come often. A few times. When I've been sick." She dropped her eyes. "I never told you because I didn't know what it was. I still don't know. I thought if I said it, it would sound—"
 
 "Like a fever."
 
@@ -340,35 +344,33 @@ At some point near dawn, the fever broke. Kiva knew it because she was suddenly 
 
 Mara was grey in the early light. She looked ten years older than she had at supper.
 
-"The core reports trips," said Kiva. "Doesn't it. On the municipal wire."
+"The core rings the Works when it trips," said Kiva. "Doesn't it. On the municipal wire."
 
 Mara did not answer at once.
 
-"Every licensed core in the city reports a trip," she said at last. "Automatically. To the Works. With the flat that caused it, if the core can tell. This one could." She wrung out the cloth. "It'll have gone at a quarter to three, the minute it tripped. It'll be on a clerk's desk by eight."
+"Every licensed core in the city does," she said at last. "On its own. It rings the Works and says which flat, if it can tell. This one could." She wrung out the cloth. "It'll have rung at a quarter to three, the minute it tripped. Examiner Rusk will have it on his desk by eight."
 
-"An incident filing."
+"A household incident."
 
-"An incident filing. Household."
+"A household incident."
 
-Kiva lay still. She thought about the report Ysra Crest had quoted in the little office. *Your aunt's shop filed an incident report three years ago.* She thought about the slab discharging in the lane last spring, but that had been at the school and not in the household.
+Kiva lay still. She thought about Ysra Crest in the little office. *Three years ago a cell ran hot under your hands and burned your aunt's palm.* That was one. She thought about the slab discharging in the lane last spring, but that had been at the school and not in the household.
 
-"How many is that?" she said. "For you. For your license."
+"What does it mean?" she said. "For you. For your license."
 
 Mara's hands went still on the cloth.
 
 "Kiva."
 
-"How many?"
+"What does it mean?"
 
-Mara put the cloth in the bowl. She sat for a moment with her hands in her lap, the scarred one over the other. Then she got up and went out of the room, and Kiva heard her go down the stairs into the dark shop and open a drawer. When she came back up, she sat on the edge of the bed again and held out a letter.
+Mara put the cloth in the bowl. She sat for a moment with her hands in her lap, the scarred one over the other, and looked at the window, where the dark was just starting to thin.
 
-It was on heavy paper with a red stripe across the top. Kiva read it in the grey dawn light from the window.
+"Rusk came in the winter," she said. "He sat on my stool with his hat on his knee. He said there'd been one burn in this house, and that if there was one more cell gone wrong under this roof, he'd put my license up for review." She said it flatly, the way she would read off a gauge. "He's a fair man. He didn't enjoy it."
 
-*Grade Two Tuning License, M. Rowan. Household condition noted, 2677. One further incident filing within the license household will trigger automatic review.*
+Kiva stared at her.
 
-She read it twice. Then she looked up.
-
-"When did this come?" she said.
+"In the winter," she said.
 
 "In the winter."
 
@@ -376,35 +378,35 @@ She read it twice. Then she looked up.
 
 "No."
 
-"You signed the form for the Cellhouse. With this in the drawer."
+"You signed the form for the Cellhouse. Knowing that."
 
-"The Cellhouse isn't the household. A trial incident goes on the Compact's book, not mine." Mara's voice was very steady and very tired. "I checked. Before I signed."
+"The Cellhouse isn't the household. A trial incident is the Compact's, not mine." Mara's voice was very steady and very tired. "I asked. Before I signed."
 
 "But this is the household."
 
 "This is the household."
 
-Kiva held the letter in a hand that was shaking, and she did not know if it was the fever or something else.
+Kiva held the sheet bunched in her good hand, and the hand was shaking, and she did not know if it was the fever or something else.
 
 "What happens? In review?"
 
-"They suspend the license while they go through my books. A season, usually. Sometimes two." Mara turned her face to the window. "No license, no municipal contract. The van stops coming, and the cell books stop coming, and the reconciling stops." She shrugged, a small, tired movement. "The shop's still mine. I can still fix kitchen meters for the neighbors. It just won't pay the rent."
+"They suspend the license while they go over my work. A season, usually. Sometimes two." Mara turned her face to the window. "No license, no municipal contract. The van stops coming, and the banks go to somebody on the east bank." She shrugged, a small, tired movement. "The shop's still mine. I can still fix kitchen meters for the neighbors. It just won't pay the rent."
 
 "Because of me."
 
 "Because of a cell." Mara turned back to her. "I want you to hear me. Because of a cell, and a fever, and something we don't understand. Not because you did anything wrong tonight. You were asleep."
 
-"You should have told me," said Kiva. "In the winter. When it came."
+"You should have told me," said Kiva. "In the winter."
 
 Mara was quiet for a long time.
 
-"Yes," she said. "I should have. I didn't want you carrying it. You were carrying enough." She studied her hands. "That was wrong of me. It was the same thing I told you not to do, holding something that's going to come out anyway and not saying it out loud." She let out a breath. "I'm saying it now. I'm sorry."
+"Yes," she said. "I should have. I didn't want you carrying it. You were carrying enough." She studied her hands. "That was wrong of me. It's the same thing I'd have scolded you for. Going over the rail without a word, and leaving everybody else to find out when it landed on them." She let out a breath. "I'm sorry."
 
-Kiva folded the letter and held it.
+Kiva let go of the sheet.
 
 Outside, the sky was getting light over the Eastbank roofs, and somewhere down the street a lift-truck started up. The bakery's ovens would be on by now. The core in the cellar was humming again, the way it always did, the sound Kiva had stopped hearing years ago and could hear now very clearly.
 
-"I've got to go to the Compact at nine," she said. "Ysra Crest. With my book."
+"I've got to go to the Compact at ten," she said. "Ysra Crest."
 
 "I know."
 
@@ -412,11 +414,11 @@ Outside, the sky was getting light over the Eastbank roofs, and somewhere down t
 
 Mara stood up. She took the bowl and the cloth and stood by the door with them for a moment, with her back to Kiva.
 
-"The truth," she said. "All of it. Same as you'd write it down." She turned. "And I'm going to the district records office at eight to file this before the Works files it for me. I'd rather they read it in my hand than a clerk's."
+"The truth," she said. "All of it, in order." She turned. "And I'm going to the Works at eight, to Rusk, before his desk tells him. I'd rather he had it from me than from a wire."
 
 "Will that help?"
 
-"Probably not." Mara almost smiled. "But it's mine to write."
+"Probably not." Mara almost smiled. "But I've never yet let a wire do my talking."
 
 She went out, and Kiva lay back on the damp pillow.
 
@@ -430,20 +432,8 @@ She did not know if it had done this. She did not know if it had carried the dre
 
 She knew her hand had been on the panel. She knew the panel had held what was in her. She knew it had cost Mara her license, or would.
 
-She took the field book off the chair beside her bed, and the pencil on its string, and turned to a clean page.
+Below, the shop door opened and shut.
 
-*Exercise:* None. Asleep.
+Kiva got up, slowly, and went to the window with the sheet around her shoulders. Mara was walking up Coper Street in her good coat, with her bag over her arm and her scarred hand in her pocket, toward the tram and the Works. It was not yet seven. She had not waited for eight.
 
-*What went wrong:* Fever from the backwash. Dream again. Woke standing in the hall with my hand on the flat cell. Lines open by themselves. Cell held it. Core tripped. Whole building dark.
-
-*Who was hurt:* Me (nose). The laundry lost a night's wash. Mara's license.
-
-*What it cost:* The flat cell (quenched). A household incident filing.
-
-*How long to come back:* Don't know.
-
-*Second go:* There isn't one.
-
-She stopped at the last column for a long time.
-
-*Why:* Don't know. Writing it down so somebody can.
+Kiva watched her until she turned the corner.

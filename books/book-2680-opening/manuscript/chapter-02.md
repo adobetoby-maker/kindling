@@ -6,7 +6,7 @@ Kiva stood in the middle of the shop with her bag still on her shoulder. She had
 
 "You haven't even read it," she said.
 
-"I read it twice." Mara tapped the envelope with one finger. "It's a live-cell trial. Rescue problem, mock substation, real Grade Second charge in the cell. A bottle-rift on a chute with spawn released on a timer. Candidates in teams of four, assigned by the board." She raised her eyes. "I know what the Cellhouse is, Kiva. I fixed the meters in it for eleven years."
+"I read it twice." Mara tapped the envelope with one finger. "It's a live-cell trial. Rescue problem, mock substation, real Grade Second charge in the cell. A bottle-rift on a chute with spawn released on a timer. Candidates in teams of four, assigned by the board." She raised her eyes. "I know what the Cellhouse is, Kiva. I fixed the meters in it for twelve years."
 
 "Then you know it's safe. They've run it for thirty years."
 
@@ -40,29 +40,21 @@ She shut her mouth.
 
 The thing on the bench was a district regulator.
 
-It was a squat steel drum about the size of a soup pot, with a gauge on the front and four heavy bolts around the lid, and it had a paper tag tied to one handle. *Tallis St. sub. Runs fast. Hot on load. Check.* Under that, in a different hand: *Third time this year.*
+It was a squat steel drum about the size of a soup pot, with a gauge on the front and four heavy bolts around the lid, and it had a Works tag tied to one handle. *Tallis St. sub. Runs fast. Hot on load. Check. Third time this year.*
 
 "Municipal van brought it at ten," said Mara. "The substation at Tallis Street has been tripping its breakers every evening at the peak. The yard crew swapped the cell twice, and it keeps happening, so they sent the regulator to me."
 
 "Is the cell bad?"
 
-"The cell is fine. It's Grade First. I tested it." Mara put on her glasses and began to undo the lid bolts with a short wrench. "Open the book for me."
+"The cell is fine. It's Grade First. I tested it." Mara put on her glasses and began to undo the lid bolts with a short wrench. "Who do you think tunes Tallis Street?"
 
-The book was the regulator's cell book. Every serious ash device in Meridian had one, by law, and it was paper, not a tape or a slate or a number in a public ledger somewhere, but paper in a sealed sleeve, chained to the device itself or kept with it. It had been that way since the first licensed cells, more than four hundred years ago. The first thing every child in the city learned about the Fall, after the bombs and the dark, was that paper had still worked in the morning.
+"I don't know."
 
-Kiva opened it on the bench. It was half full of entries in a dozen hands, each with the date, the operator, the cell grade, the charge, the tune, the hours, the meter reading at start and end, and any shutdowns or faults. At the right edge ran a narrow column for notes.
+"Brannock. Since the yard lost a man in the winter, he's had Tallis and Ferrier Row both, before seven, and then the core shift after." She loosened the last bolt. "Tobin says he's been seen running for the tram with his coat in his hand."
 
-"Read me the last three tunes," said Mara.
+Kiva frowned. "So he's rushing."
 
-"Thirteenth of last month, operator Brannock, Grade First, standard charge, tune at oh-six-forty. Twentieth, same operator, same everything, tune at oh-six-fifteen. Twenty-seventh, same operator, oh-five-fifty." Kiva looked up. "He's coming in earlier every week."
-
-"He is," said Mara. "And?"
-
-Kiva ran her finger down the note column. On the thirteenth, there was nothing. On the twentieth, in small, cramped letters: *Late for the core shift, quick tune.* On the twenty-seventh: *Short-staffed. Two subs before seven.*
-
-"He's rushing," she said.
-
-"He's rushing." Mara lifted the lid off the drum.
+"Don't guess. Feel." Mara lifted the lid off the drum.
 
 Inside, nested in a bed of grey felt, sat the cell, a sealed can of dull steel ringed by three copper coils. A pair of heavy leads ran from the coils to the regulator's terminals. On the far side of the can, set into the drum wall, was a red handle with a wire seal on it, and below the handle, a small steel box with a hinged lid.
 
@@ -110,15 +102,15 @@ Mara let out a breath. "If you were three people at once," she said, "it would t
 
 ---
 
-Kiva did not remember all of the day three years ago, only pieces of it. She had been fourteen, and it had been raining. A cell from the Linden Row pumping station had come in stuck, refusing to take a new tune, and Mara had been fighting it for an hour while Kiva sat on the stool by the window doing her school sums and watching.
+Kiva had only pieces of the day three years ago. She had been fourteen, and it had been raining. A cell from the Linden Row pumping station had come in stuck, refusing to take a new tune, and Mara had been fighting it for an hour while Kiva sat on the stool by the window doing her school sums and watching.
 
-She remembered thinking she could feel what was wrong with it.
+She had thought she could feel what was wrong with it.
 
-She remembered getting off the stool and putting her hand on the can while Mara was turned away for the wrench, with just her hand door, just to see. And the stuck pattern had moved under her palm, like a knot coming loose, and she had felt a jump of pure delight.
+She had got off the stool and put her hand on the can while Mara was turned away for the wrench, with just her hand door, just to see. And the stuck pattern had moved under her palm, like a knot coming loose, and she had felt a jump of pure delight.
 
 Then the Ember door had woken up to see what she was doing.
 
-She remembered the heat-lines lighting in her chest, and the cell humming, then whining, then screaming. She remembered Mara's hand closing on her wrist and tearing her palm off the steel, and the smell, and Mara not making a sound.
+After that there were only pieces. The heat-lines lighting in her chest, and the cell humming, then whining, then screaming. Mara's hand closing on her wrist and tearing her palm off the steel, and the smell, and Mara not making a sound.
 
 Mara had pulled the quench with her left hand, and the ash had dropped into the salt with a hiss. Then she had sat down on the floor of the shop with her right hand held against her chest and said, quite calmly, "Go next door and get Mrs. Pryce. Tell her to bring the burn salve and the cold cloths. Walk, don't run."
 
@@ -142,11 +134,11 @@ It was so quiet that Kiva almost did not hear it.
 
 She looked up. Mara was not looking at her. She was looking at the regulator, at the red quench handle with its wire seal.
 
-"Ione did everything right," Mara said. "She was the best substation tech on the Eastbank grid. She'd have spotted Brannock's hurry from across a room. And the night the Tallow substation went, she did every single thing the book says. She called it. She cleared the crew. She went for the quench." Mara's left thumb moved over the scar on her right palm, back and forth. "The automatic had failed. Somebody had sold that substation cut ash stamped First, and it ran hot on one side and warped the gate, so she had to pull it by hand. She got it. The cell died. The fire didn't."
+"Ione did everything right," Mara said. "She was the best substation tech on the Eastbank grid. She'd have spotted Brannock's hurry from across a room. And the night the Tallow substation went, she did every single thing the drill says. She called it. She cleared the crew. She went for the quench." Mara's left thumb moved over the scar on her right palm, back and forth. "The automatic had failed. Somebody had sold that substation cut ash stamped First, and it ran hot on one side and warped the gate, so she had to pull it by hand. She got it. The cell died. The fire didn't."
 
-Kiva had been six. She remembered the knock on the door, and Ilse Corran on the stairs, and not much else.
+Kiva had been six. What she had of that night was the knock on the door, and Ilse Corran on the stairs, and not much else.
 
-"So when you ask me to sign a form," said Mara, "that says my girl can go and stand next to a live cell in a mock substation while things go wrong on purpose, and when the woman who wants her there won't even put her own name on it—" She stopped. She picked up her cold tea, frowned at it, and put it down again. "It isn't never. I want you to hear that out loud, from me. It's not this. Not nine days from now. Not like this."
+"So when you ask me to sign a form," said Mara, "that says my girl can go and stand next to a live cell in a mock substation while things go wrong on purpose, and when the woman who wants her there won't even put her own name on it—" She stopped. She picked up her cold tea, frowned at it, and put it down again. "It isn't never. Hear me say that. It's not this. Not on the twelfth. Not like this."
 
 The bell over the door rang. A woman came in with a broken kitchen meter in a cloth bag and stood politely by the counter.
 
@@ -158,27 +150,23 @@ Mara stood up and took off her glasses.
 
 The shop closed at seven. Mara did not go up for supper.
 
-She sat at the bench under the lamp with the day's ledgers and a pencil, because that was the other half of the work. Rowan Instruments repaired the city's meters and gauges, but it also reconciled them, which meant that every week the municipal van brought her the paper cell books from forty devices, and every week she checked each one against the tape from its meter, line by line, looking for the places where the two did not agree.
+She sat at the bench under the lamp with the Linden Row pump meter in pieces in front of her, because that was the other half of the work. Rowan Instruments repaired the city's meters and gauges, but Mara also read and tuned the city's banks for the Municipal Works. Twice a week the van took her out to the substations and pump houses, and she stood at each bank with her left palm flat on the cells, one can after another, feeling for the ones that ran wrong.
 
-Mostly they agreed. When they did not, it meant that a tired operator had written a number wrong, or a meter had drifted, or somebody had sold the city cut ash and stamped it First and hoped nobody would notice. Mara noticed, and the city paid her to notice. It was not a large amount of money, but it was steady, and it kept the shop open, and it kept a roof over the girl upstairs.
+Mostly they ran true. When they did not, it meant a tired operator, or a meter gone soft, or somebody had sold the city cut ash and stamped it First and hoped nobody would notice. Mara's hand noticed, and the city paid her for it. It was not a large amount of money, but it was steady, and it kept the shop open, and it kept a roof over the girl upstairs.
 
 The countersignature form lay at the edge of the bench where she could see it.
 
-Under it lay another letter, which had come in the winter from the Municipal Works Licensing Office, on heavy paper with a red stripe across the top. Mara had not shown it to Kiva. She took it out now and read it again, though she knew what it said.
+In the winter, Examiner Rusk had come from the Works and sat on this stool with his hat on his knee, and said it to her plainly, because he was a plain man and did not enjoy it. *There's been one burn in this house, Mara. One more cell gone wrong under this roof, and I put your license up for review.*
 
-*Grade Two Tuning License, M. Rowan. Household condition noted, 2677. One further incident filing within the license household will trigger automatic review.*
-
-Automatic review meant her license suspended for a season while they went through her books, and with no license there was no municipal contract, and with no contract there was no shop.
+Review meant her license suspended for a season while the Works went over her work, and with no license there was no municipal contract, and with no contract there was no shop.
 
 She had told no one, not Kiva, and not Orla Dane, who had come to this shop four years ago with her stick and her crooked nose and asked if she could teach the girl in the evenings. Mara had said yes on one condition, which was no cells, and Orla had kept to it. Mara had to give her that.
 
-She put the license letter away.
-
-Then she sat for a long time with her hands flat on the bench, looking at nothing.
+She sat for a long time with her hands flat on the bench, looking at nothing.
 
 What she saw, when she looked at nothing, was the Old Yard. It was not the doors that came back to her, the water standing up out of the bowl or the big assessor pushing and pushing while the girl did not move. Those had frightened her, but she had understood them, because they were the kind of strange that had rules.
 
-What she saw was the moment after the lamps went out, with Kiva on the ground and her eyes open and fixed on something that was not there, very far away. And then the look on her face when she came back. Mara had seen that look before, once, on a man pulled out of a collapsed cell vault after nine hours in the dark, who looked as if he had been somewhere very large and could not get the size of it out of his eyes.
+What she saw was the moment after the lamps went out, with Kiva on the ground and her eyes open and fixed on something that was not there, very far away. And then the look on her face when she came back. Mara had seen that look before, once, on a man pulled out of a collapsed cell vault after a night in the dark, who looked as if he had been somewhere very large and could not get the size of it out of his eyes.
 
 Kiva had never told her what she saw. Not properly. *People. Coming. The sky.* Pieces. Mara had stopped asking, because asking made the girl go still and careful in a way Mara hated.
 
@@ -186,13 +174,13 @@ She picked up the pencil and pulled the countersignature form toward her.
 
 She did not sign it.
 
-She turned it over and wrote on the back, in the neat square capitals she used for fault notes.
+She turned it over and wrote on the back, in the neat square capitals she used on her fault tags.
 
 *METER.*
 
 *SHUTDOWN PATH.*
 
-*BOOK.*
+*HAND.*
 
 She considered the three words for a while. Then she put the form in her apron pocket, turned off the bench lamp, and went up to see whether the girl had eaten anything.
 
@@ -208,39 +196,37 @@ They were tall steel poles with a cage of fine wire at the top, each wired to a 
 
 Most of the time the line was flat.
 
-Kiva stood at the foot of mast six with the box open while Mara read the drum. The morning was cold and bright, and out over the allotments someone was burning weeds. A lift craft from the Graywater station on the Brickfields road went over low and loud, its rings whining, and Kiva followed it with her eyes until it was gone.
+Kiva stood at the foot of mast six with the box open while Mara put her left hand on the sensing cell. The morning was cold and bright, and out over the allotments someone was burning weeds. A lift craft from the Graywater station on the Brickfields road went over low and loud, its rings whining, and Kiva followed it with her eyes until it was gone.
 
 "Come and see this," said Mara.
 
-She had the old drum rolls out of the box's storage drawer, one for each quarter, and she laid four of them side by side on the box lid and weighted the corners with her wrenches. Last spring. Last summer. Last autumn. This winter.
+She tapped the glass over the drum, where the inked line crawled across the paper in a long, slightly wavering stripe.
 
 "What am I looking at?" said Kiva.
 
-"The baseline. The flat part. Where it sits when there's no rift."
+"The baseline. The flat part. Where it sits when there's no rift." Mara put her fingertip on the grid. "When I first came out here, it sat on the second mark. Look where it is now."
 
-Kiva bent over them. The inked line ran across each roll in a long, slightly wavering stripe. On last spring's roll it sat on the second grid mark. On last summer's it sat a hair above the second mark, and on last autumn's a little more, and on this winter's it was almost halfway to the third.
+Kiva bent closer. The line was nearly halfway to the third mark.
 
 "It's creeping up," she said.
 
-"It's creeping up." Mara rolled the drums back up carefully, one by one. "Every mast on the Sag Line is doing it. Has been for years. The city's had this one recalibrated three times in ten years. Every time, the Wren House sends someone out to retune the sensing cell, and the baseline drops back to the second mark. And every time, it starts creeping again."
+"It's creeping up. Every mast on the Sag Line is doing it. Has been for years." Mara took her hand off the cell and flexed it. "Every so often the Wren House sends someone out to retune the sensing cell, and the line drops back to the second mark. And then it starts creeping again."
 
 "So the mast's drifting?"
 
-Mara put the rolls back in the drawer and shut it.
-
-"The mast's fine," she said. "I've had it apart twice. The cell's clean. The drum's true. The ink's the same ink."
+"The mast's fine," said Mara. "I've had it apart twice. The cell's clean. The drum's true. The ink's the same ink."
 
 Kiva tipped her head back toward the wire cage at the top of the pole, black against the sky.
 
 "Then what's drifting?"
 
-"I don't know," said Mara. "Nobody's asked me. I just write down what the needle does." She closed the box, sealed it, and signed the date on the tag in her square capitals. "There's people at the Wren House who'll tell you it's the filter, the old idea that the sky has a lid on it and the lid is wearing thin. There's people at the Halden Works who'll tell you it's the masts. There's people on the street who'll tell you it's the six hundredth year and the sky's going to fall in at the anniversary." She shrugged. "That's three stories. I've got four drum rolls. I know which I trust more."
+"I don't know," said Mara. "Nobody's asked me." She closed the box. "There's people at the Wren House who'll tell you it's the filter, the old idea that the sky has a lid on it and the lid is wearing thin. There's people at the Halden Works who'll tell you it's the masts. There's people on the street who'll tell you it's the six hundredth year and the sky's going to fall in at the anniversary." She shrugged. "That's three stories. I've had my hand on that cell, and it isn't the mast."
 
-She wrote in the mast's cell book, with the date and the device. *Baseline elevated, consistent with prior quarters. Cell clean. Drum true. No fault found.* And in the narrow column at the right: *Recal. would mask trend. Not recalibrated.*
+She reached for the trim screw on the side of the box, the one the Wren House turned to bring the line back down, and laid her thumb over it. She did not turn it.
 
-"You're not supposed to do that," said Kiva, reading over her shoulder. "The book says recalibrate if the baseline's off."
+"You're supposed to," said Kiva. "If the baseline's off."
 
-"The book says recalibrate if the *mast* is off." Mara closed it. "The mast's not off. Something else is. If I make the line go flat again, nobody sees it." She handed the book to Kiva to put back in its sleeve. "That's the job. Write down what's there. Not what's supposed to be."
+"If the *mast* is off." Mara sealed the box. "The mast's not off. Something else is. If I make the line go flat again, nobody sees it climb." She picked up her tool roll. "That's the job. Fix what's broken. Leave what isn't."
 
 They climbed back into the van, and Tobin started it without a word. As they pulled away, Kiva twisted around to watch the masts standing in their line along the old berm, each with its little cage of wire, each patiently drawing its line on its slow paper drum.
 
@@ -254,7 +240,7 @@ Orla Dane came to the shop at six that evening, and Mara made her stand.
 
 "You can come in," said Mara, holding the door. "But I've only got the one stool, and I'm sitting on it. I'd like you to be a little uncomfortable."
 
-"That's fair," said Orla. She came in leaning on her stick and stood by the counter with her bad leg straight, taking in the meters on the shelves, the gauges in their tagged rows, and the stacks of paper ledgers. Her eyes stopped on the regulator from Tallis Street, now standing by the door with a fresh tag. *Retuned M.R. Clean. Advise operator re: rest.*
+"That's fair," said Orla. She came in leaning on her stick and stood by the counter with her bad leg straight, taking in the meters on the shelves, the gauges in their tagged rows, and the tool rolls hanging over the bench. Her eyes stopped on the regulator from Tallis Street, now standing by the door with a fresh tag. *Retuned M.R. Clean. Advise operator re: rest.*
 
 "You found Brannock's hurry," said Orla.
 
@@ -264,13 +250,13 @@ Mara's eyebrows rose a fraction. "You know Brannock?"
 
 "She found it first."
 
-Orla nodded slowly. She did not look surprised. She looked like a woman putting a number in a column.
+Orla nodded slowly. She did not look surprised. She looked like a woman who had guessed right and did not intend to say so.
 
 "Kiva," said Mara, without turning around. "Go upstairs."
 
 "No," said Orla. "Let her stay. She's the one you're deciding about. She ought to hear it."
 
-Mara turned on her stool and gave Orla a long, measuring stare. Then she turned it on Kiva.
+Mara turned on her stool and gave Orla a long, level stare. Then she turned it on Kiva.
 
 "Stay, then," she said. "But you don't talk."
 
@@ -300,7 +286,7 @@ Mara's left thumb moved over the scar on her right palm.
 
 The shop was very quiet.
 
-"You asked for her," said Mara. "You didn't sponsor her. Ysra Crest made a point of it, I hear. So I'm asking too, and I'd like the answer out loud. If you think she's ready to stand next to a live cell, why won't you stand next to her?"
+"You asked for her," said Mara. "You didn't sponsor her. Ysra Crest made a point of it, I hear. So I'm asking too. If you think she's ready to stand next to a live cell, why won't you stand next to her?"
 
 Orla did not look away. But it took her a long time to answer.
 
@@ -314,6 +300,6 @@ Mara weighed that for a while longer. Then she reached into her apron pocket and
 
 *SHUTDOWN PATH.*
 
-*BOOK.*
+*HAND.*
 
-"Every cell I sign into this city," said Mara, "has three things. A meter, so somebody can see what it's doing. A shutdown path, so somebody can stop it before it hurts anyone. And a book, so the next person knows what was done and why." She turned on her stool to face Kiva on the stairs. Her face was not hard. It was something worse. It was hopeful, and trying not to be. "Show me hers. All three. Before the twelfth. And I'll sign."
+"Every cell I sign into this city," said Mara, "has three things. A meter, so somebody can see what it's doing. A shutdown path, so somebody can stop it before it hurts anyone. And a hand. Somebody whose hand is on it. Somebody who answers for it, if it goes wrong." She did not look at Orla when she said the last part. She turned on her stool to face Kiva on the stairs. Her face was not hard. It was something worse. It was hopeful, and trying not to be. "Show me hers. All three. Before the twelfth. And I'll sign."
