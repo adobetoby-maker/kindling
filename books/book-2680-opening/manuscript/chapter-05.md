@@ -250,7 +250,7 @@ So it was not only climbing. The gaps were closing.
 
 The breaker would trip at the red line, at eight and a half.
 
-She worked it out, allowing for the way each tenth came a little sooner than the last, and then she worked it out again. Then she turned and leaned over the mezzanine rail.
+She did not need a sum. She could feel it under her palm, the way Mara felt a bank: every tenth was coming a little sooner than the last, and it would not stop by itself. She turned and leaned over the mezzanine rail.
 
 Directly below her, at the pump room door, Perrin was on his back. He had slid in under the jammed shutter and lay along the threshold, right beneath its bottom edge, with both hands planted flat against the steel above his chest. From the rail she could see the length of him and nothing past him. She could feel his stance from up here, though, the still door open under him like a held breath. Anwen had crawled in through the gap beside him, and Kiva could not see her at all.
 

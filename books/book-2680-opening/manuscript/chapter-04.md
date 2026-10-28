@@ -334,17 +334,17 @@ He went down the long front stairs into the afternoon light and did not stop at 
 
 It was a good mark, clean and square, the exact width of that ridiculous bar.
 
-He had not been touched in a sanctioned bout since the autumn. He did not say that to anyone, because it sounded like boasting and it was not. It had simply happened, in front of a gallery, and things that happened in front of people mattered to Kellan more than he could easily explain to people who had not grown up where he had.
+He had not been touched in a sanctioned bout since the autumn. He did not say that to anyone, because it sounded like boasting and it was not. It was simply true, and true things of that kind mattered to Kellan more than he could easily explain to people who had not grown up where he had.
 
 His mother graded ash at the Halden refinery on the east bank, and she had graded ash there for twenty-two years. She sat at a long bench with a meter and a set of sample cups and decided, can by can, whether a batch was First or Second or Third. It was one of the most important jobs in the city and almost nobody knew it existed, even though, if she got it wrong, a cell somewhere in Meridian ran hot.
 
 When Kellan was ten, a supervisor at the refinery had stamped a cut batch First to make his quarter, and when the batch failed in a hospital in the Lantern district, he had tried to say Kellan's mother had graded it. She had not. She had called it Third at her bench and flagged it, and the supervisor had changed the stamp after she went home.
 
-Her word against his would not have saved her, not in his office with the door shut. What saved her was the bench. The morning they came for her, every grader on that long bench put down her cups and sat with her hands in her lap, and the floor stood still for a day and a half, until the Works sent a man down to hear both of them out on the open floor, in front of everybody. The supervisor had a great deal to say in his office. On the floor, with forty graders watching him, he found he had very little.
+Her word against his would not have saved her, not in his office with the door shut. What saved her was the bench. The morning they came for her, every grader on that long bench put down her cups and sat with her hands in her lap, and the floor stood still for a day and a half, until the Works sent a man down to hear both of them out on the open floor. The supervisor had a great deal to say in his office. On the floor, with every cup on that bench still put down, he found he had very little.
 
 Kellan had not trusted shut doors since. Behind a shut door, a man with a quarter to make could say what he liked. In front of everybody, he could not.
 
-The Circuit did its work in front of everybody, with boards in a hall and bouts in a ring and a referee calling the points to a gallery. It was not perfect either, and he knew that. But it meant that a refinery grader's son from the east bank could stand in the Placement Hall in front of three hundred people and have a board read him Fire, and nobody could say it said anything else. It meant that when he went to Graywater or Saltmere or any of them, his rank would be his, and not a favor or a family name.
+The Circuit did its work in the open, with boards in a hall and bouts in a ring and a referee calling the points to a gallery. It was not perfect either, and he knew that. But it meant that a refinery grader's son from the east bank could stand in the Placement Hall in front of three hundred people and have a board read him Fire, and nobody could say it said anything else. It meant that when he went to Graywater or Saltmere or any of them, his rank would be his, and not a favor or a family name.
 
 And Kiva Rowan did not fit on the board.
 
