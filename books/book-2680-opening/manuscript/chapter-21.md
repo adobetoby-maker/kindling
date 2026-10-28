@@ -68,15 +68,11 @@ On the wall beyond the trench, a little above the height of her head, an iron sh
 
 There was a spring behind it as thick as her leg.
 
-"That's the only thing between this hole and the bank," said the keeper. "Blade's in, we're on. Haul the lever down a quarter turn and the blade lifts out, and everything north of here goes dark. It's sprung to shut. Has to be. If aught breaks, I want it closed, not flapping." He scratched his jaw. "Two-man lever, by rights. One hauls it down and stands on it. The other drops a pin through the lower eye. There's the pin, on its chain. It's been one man and a prayer since the Works cut my mate in 'seventy-one."
+"That's the only thing between this hole and the bank," said the keeper. "Blade's in, we're on. Haul the lever down a quarter turn and the blade lifts out, and everything north of here goes dark. It's sprung to shut. Has to be. If aught breaks, it shuts, and that's how I like it." He scratched his jaw. "Two-man lever, by rights. One hauls it down and stands on it. The other drops a pin through the lower eye. There's the pin, on its chain. It's been one man and a prayer since the Works cut my mate in 'seventy-one."
 
-"It's locked," said Kiva. "Pinned and locked. Since twenty-six sixty-one."
+"Is it locked?" said Kiva. "My aunt said there was a lock on the link."
 
 Dunmore's head came round like a heron's.
-
-"Who told you that?"
-
-"It's on the trunk plan. My aunt's reading the bank."
 
 "Rowan. Aye. She was at my drums on Tuesday." He looked at her with new interest and no more warmth. "It's locked three hundred and fifty days of the year. Day the Kiln's opened, I draw the lock at dawn and stand by. Circuit's own rule. If that lattice runs away, somebody's got to be able to drop the branch."
 
@@ -86,7 +82,7 @@ Dunmore's head came round like a heron's.
 
 There was a small iron door in the wall, behind the shelf.
 
-"Four minutes, round," said Dunmore. "I was quicker in 'sixty."
+"It's a fair walk," said Dunmore. "I was quicker in 'sixty."
 
 "How does a man get to it from the floor?" said Lowen Brask.
 
@@ -96,11 +92,11 @@ Kiva looked at the shelf for a long moment, and at the spring as thick as her le
 
 ---
 
-"I've read your file," said Vane.
+"The Chair sent for me," said Vane.
 
 He had waited until she was alone, on the eastern half of the floor, with a twist of dead ash in her fingers.
 
-"All of it. The Chair sent for me, and I had the whole of it from her, Miss Dray's half as well. Twenty paces from the lattice house. I've paced it. That's my heel mark." He pointed at a scrape in the cinder. "Anywhere south of that. I'm to unseat you on Wednesday morning for any cause I'll name. I'd like you to know that I will, and that I've no cause yet."
+"She told me what the objection was, and what you said to it, and what she ruled. Twenty paces from the lattice house. I've paced it. That's my heel mark." He pointed at a scrape in the cinder. "Anywhere south of that. I'm to unseat you on Wednesday morning for any cause I'll name. You should know that I will, and that I've no cause yet."
 
 "Thank you."
 
@@ -118,7 +114,7 @@ It fell straight for most of the way. In the last hand's width it slid. She drop
 
 She stood on it, ten paces from the gratings and ten from the terrace, and two paces south of his heel mark.
 
-"Here. Twenty-two from the lattice house. Sheet squared north and south."
+"Here. Two paces past your heel. Sheet squared north and south."
 
 Vane chalked it, and did not say whether it was a good mark. He never had.
 
@@ -224,7 +220,7 @@ He came up the terrace steps a quarter of an hour later, grey to the lips, and s
 
 "I saw."
 
-"Three years. Somebody else's ankle." He looked at his hands. They were shaking, and he seemed interested in it. "I've a second step and a Third Division band. A Graywater clerk told me that's rare. She didn't say it as if it were a compliment." He was silent. "I'll not be your captain in the autumn, Rowan. I don't know what I'll be. I thought I ought to say it before I'd had time to feel clever about it."
+"Three years. Somebody else's ankle." He looked at his hands. They were shaking, and he seemed interested in it. "I've a second step and a Third Division band. A Graywater clerk told me that's rare. She didn't say it as if it were a compliment." He was silent. "I won't be your captain in the autumn, Rowan. I don't know what I'll be. I thought I ought to say it before I'd had time to feel clever about it."
 
 "Who'll have the third team?"
 
@@ -246,7 +242,7 @@ She told Kiva on the tram, with the Brickfields road going by in the dusk.
 
 "You'd be mad not to take it."
 
-"I know that. I'd like to have been asked on a different month." Anwen looked out of the window. "I haven't said yes. I told him I'd a Flask on Wednesday and I'd tell him after. He said that was the right order." She was quiet. "You'd need somebody at the south hem. Who knew which way the cord crossed."
+"I know that. I wish they'd asked me in a different month." Anwen looked out of the window. "I haven't said yes. I told him I'd a Flask on Wednesday and I'd tell him after. He said that was the right order." She was quiet. "You'd need somebody at the south hem. Who knew which way the cord crossed."
 
 "I'd teach Perrin."
 
@@ -274,7 +270,7 @@ Kiva ate, with the knee propped on the other chair. On the table between them la
 
 It was the question she had answered in Ysra Crest's office, to a red-haired girl's shoulder. It was easier here.
 
-"On a sheet. East hem. Ten paces from the bus and twenty-two from the lattice. There isn't a cell on the floor; I asked the keeper." She looked up. "And after, at a table by the south wall, with a pan."
+"On a sheet. East hem. Well clear of the bus, and further from the lattice than I'm told to be. There isn't a cell on the floor; I asked the keeper." She looked up. "And after, at a table by the south wall, with a pan."
 
 "And if it goes wrong?"
 
@@ -336,9 +332,9 @@ They unrolled the sheet. She squared it north and south. She knelt at the east h
 
 It went up the terraces. She heard it go, a rustle, a turning of heads. *None.* Somebody laughed, far up.
 
-Vane raised his voice, not much, so that it reached the rail where the Chair sat.
+Vane looked at the chalk under her knee, and at the lattice house, and back.
 
-"By condition of the Placement Chair, Team Seven's mark is set at twenty-two paces from the lattice house. I've walked it. I have the catcher's file, and I have found no cause." He turned to the next knot. "Old Four."
+"Mark's where the Chair wants it," he said. "I've no cause." He turned to the next knot. "Old Four."
 
 The other twelve declared. Four wards came to the head of the sheet and stood in a row, with Anwen second from the left, where the middle was. Edda stood at her shoulder. Kellan had gone already, round to the north, and Kiva could not see him.
 
@@ -352,7 +348,7 @@ For a moment nothing came.
 
 Then it unfolded.
 
-She had seen it at the weir from the top of a bank, sixty paces off. She was twenty-two paces from this one, and on her knees. The legs came down first, six of them, and the cinder jumped under each. The long body followed. Then the column went up into the bright air above the Kiln mouth, and up, knot over knot, eight of them, until the top was higher than the lid's iron frame.
+She had seen it at the weir from the top of a bank, sixty paces off. This one was close enough to smell, and she was on her knees. The legs came down first, six of them, and the cinder jumped under each. The long body followed. Then the column went up into the bright air above the Kiln mouth, and up, knot over knot, eight of them, until the top was higher than the lid's iron frame.
 
 The top one had frost on it.
 
@@ -368,11 +364,9 @@ It was the low note. It went into the bricks.
 
 "Walking it," said Anwen Pryce. She did not shout. She had learned that in a meadow. "On my call. Step."
 
-They came backward down the floor. One step. Another. The six legs followed, each as thick as a quay bollard, and every time one came down, Kiva felt it in the knee that was on the ground. Twenty paces. Fifteen. She kept her eyes on the canvas. She had told herself that she would.
+They came backward down the floor. One step. Another. The six legs followed, each as thick as a quay bollard, and every time one came down, Kiva felt it in the knee that was on the ground. The thudding came nearer, and the cinder shook a little more each time. She kept her eyes on the canvas. She had told herself that she would.
 
 *He never looked at it once.*
-
-Ten.
 
 The wall's heels crossed the north hem of the sheet. It kept coming. A grey foot dented the waxed canvas, and another.
 

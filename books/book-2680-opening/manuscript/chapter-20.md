@@ -12,7 +12,7 @@ The girl was sitting against the fourth post on the far side, with her leg out a
 
 He had moved a ladder. That was all.
 
-He went over it again, honestly, as he would have gone over a first-year's fall. He had read Rule Six on a tram a fortnight ago and laughed out loud, and an old man opposite had looked at him. A school that told you what it was going to do, the moment it was doing it. No wonder his Hall had been beating it for thirty years.
+He turned it over again, honestly, as he would have turned over a first-year's fall. He had read Rule Six on a tram a fortnight ago and laughed out loud, and an old man opposite had looked at him. A school that told you what it was going to do, the moment it was doing it. No wonder his Hall had been beating it for thirty years.
 
 So he had planned for the call. If she called a change on the move, she would be coming at something to stop it, and a stop wants a thing to stop. Take the thing away. He had drilled it with Keld on Thursday, with a bench. *When you hear her call, lift.* There was no cruelty in it. If you ran at a door, and the door was opened, the floor on the other side was your own affair.
 
@@ -20,7 +20,7 @@ It had worked to the inch.
 
 And that would have been the end of his thinking, and a pleasant end, if he had not spent six years on a mat teaching children to come down.
 
-He had watched four hundred landings, and he knew a late door when he saw one. He knew what it looked like when a boy opened his stance in a panic with something else still running, because he had seen her do exactly that on a run plate, twice through, from the back of the viewing room. The Ember's metal had been on her calves in the Cellhouse when she planted. It had been ugly, and it had held once, and he had told Keld on the stair afterward, *don't expect it again.*
+He had watched more landings than he could have said, and he knew a late door when he saw one. He knew what it looked like when a boy opened his stance in a panic with something else still running, because he had seen her do exactly that on a run plate, twice through, from the back of the viewing room. The Ember's metal had been on her calves in the Cellhouse when she planted. It had been ugly, and it had held once, and he had told Keld on the stair afterward, *don't expect it again.*
 
 There had been nothing on her shins just now.
 
@@ -38,7 +38,7 @@ It had been late by about the width of a breath. And it had been aimed at his sa
 
 He had a Hold that had stopped at seven and a half two springs ago and would not be coaxed. He was not strong, and he had come to terms with that. Stonehand's upper teams wanted plates lifted, and he could not lift them, and so he was a third-year in a Third Division tunic who taught twelve-year-olds to argue with the floor. He did not mind it as much as people supposed. But the Home Line took its hold crews from hands with a second step, and Old Four had been eighteenth on a list for two years.
 
-On Wednesday week he would stand in a clay pit with sixteen people and a string of eight knots. One of the sixteen was a girl who had just done a new thing wrong in front of four hundred witnesses.
+On Wednesday week he would stand in a clay pit with sixteen people and a string of eight knots. One of the sixteen was a girl who had just done a new thing wrong and fallen over it.
 
 He ought to think about that, and he would, on the tram.
 
@@ -84,13 +84,9 @@ Noa had his tape. He had been to the board. He looked from the strip of paper to
 
 "We're three behind," said Jude. "If we sit on it, it lies in our half at time, and that's one. We lose by two instead of three."
 
-"So we take it home." Kiva pointed down the south row. "Along the posts. One post at a time. I plant at a post with my heel on its shoe, and that's a riser. Pru ties the gate across from oak to oak, so there aren't any ends. When it's clear, I let go and you two carry it four paces, and I walk, and I plant at the next. I never change doors. Nobody's ever in the air. And every time it changes hands, somebody says so. Out loud. *Yours. Mine.* So there's never a moment when it's nobody's."
+"So we take it home." Kiva pointed down the south row. "Along the posts. One post at a time. I plant at a post with my heel on its shoe, and that's a riser. Pru ties the gate across from oak to oak, so there aren't any ends. When it's clear, I let go and you two carry it four paces, and I walk, and I plant at the next. I never change doors. Nobody's ever in the air. And every time it changes hands, somebody calls it. *Yours. Mine.* So there's never a moment when it's nobody's."
 
-"That's four paces at a time," said Jude. "It's sixteen to the line from where Noa gets it."
-
-"Four goes."
-
-"With four still-doors on the other end of it."
+"That's four paces at a time," said Jude. "With four still-doors on the other end of it."
 
 "They have to come and take hold first. That's the part I like." She met his eye. "You said it on Monday. Our book says your own side ought to know first."
 
@@ -145,8 +141,6 @@ For the space of ten breaths, eight people in the New Lane looked at one another
 She gave the ground its weight back. Jude and Noa had the poles as her hands opened, and Donny came up off the brick and went west, four paces, at a walk. Pru's ward folded and rose again at the third posts. Kiva limped after it, and sat, and set her heel.
 
 "Mine."
-
-It was twelve paces to the line.
 
 Lowen Brask unfolded his arms. He said one word to his team, and all four came down the lane.
 
@@ -204,11 +198,11 @@ It was the first time she had ever put anyone down. She noticed that some while 
 
 "Yours!"
 
-"Ours," said Jude, and they had it up. Four paces. The second posts. Pru's plank dropped across the lane behind them and hummed.
+"Ours," said Jude, and they had it up, and down the lane to the second posts. Pru's plank dropped across the lane behind them and hummed.
 
 "Mine."
 
-Eight paces to the line.
+Kiva set her heel against the iron shoe of the post and felt the old oak take her.
 
 ---
 
@@ -238,7 +232,7 @@ Her right hand had slipped a finger's width. The left arm was shaking. He would 
 
 Kiva looked at the four of them.
 
-She looked properly, as she would have looked at a cell with a fault in it. Four people, leaning backward at the far end of a sandbag. All their weight was hung on those two poles. They were not standing on the brick. They were standing on her.
+She looked at them properly. Four people, leaning backward at the far end of a sandbag. All their weight was hung on those two poles. They were not standing on the brick. They were standing on her.
 
 *As a man leans on a door he expects to open.*
 
@@ -276,9 +270,7 @@ Jude Talley had started on the call.
 
 Kiva had the other. She had no door open at all. She was a girl on one good leg, hauling seventy kilos of sand backward with a first-year who was narrating.
 
-Ten paces.
-
-They made three of them. Then the litter stopped as if it had been nailed.
+They made three paces. Then the litter stopped as if it had been nailed.
 
 Lowen Brask had bent, unhurried, and taken the foot poles in his two hands, and let his weight go down. One still-door. Seven and a half. He looked along the length of Donny at her, and there was nothing unfriendly in it.
 
@@ -302,9 +294,7 @@ They went over the white line backward, the three of them, and fell down in a he
 
 "*Time,*" said the referee, a few seconds later, to a lane in which nobody could hear her.
 
-The board turned over.
-
-*CROOKED LINE 9. STONEHAND 8.*
+The board turned over, and Crooked Line had it by a point, and the western rail, where the first-years sat, had gone entirely quiet.
 
 ---
 
@@ -498,13 +488,13 @@ Between those two nights in the yard, on the Tuesday, there had been the second 
 
 They spent it at four, on the Kennel's brick, and it was the last thing Team Seven had left to spend but the sealed dram. Kiva had walked the floor, and set the borrowed sheet between the first tank and the second, and then she had stood up and said the thing she had been turning over since the lane.
 
-"When I call dark, I want it from everybody. Not inside three paces. The whole floor. Nothing lit anywhere till I say sealed."
+"When I call dark, I mean everybody. Not inside three paces. The whole floor. Nothing lit anywhere till I say sealed."
 
 "The rule's three," said Kellan.
 
 "The rule was three on the Sag Line. Dray's ash went forty and found a pump." She looked along the floor toward the grates. "The Pit's a bowl. I don't know what the air does in a bowl. And there's Saturday. We stopped feeding him. Every point they had came off one of us moving. When nobody ran and nothing changed, he had nothing to hunt, and he had to come to us."
 
-"That's a man," said Anwen. "At the weir they kept the wall lit. Ten paces off, the whole way through. You told me yourself Bettan says it likes a gate."
+"That's a man," said Anwen. "At the weir they kept the wall lit. Ten paces off, the whole way through. And Bettan told us to leave it something to lean on."
 
 "At the weir they had eight Home Line wards round the outside and a meadow. We'll have a floor and three teams of students." Kiva had her answer ready, and she gave it. "If nothing's lit, there's nothing for open ash to lean at. That's all I mean. It's the same thing. Give it nothing. And the string can have the lattice for its gate. That's what the one on the Sag did when we all went dark. It went and leaned on the hold like a cow."
 
@@ -518,7 +508,7 @@ So they did it her way. The husk that came up out of the dark was a plain one, f
 
 "Sealed."
 
-It was well inside the minute, and quicker than the first floor by a long way, and it weighed twenty-three and six-tenths, and there was no hair-bright line in a grain of it.
+It was quicker than the first floor by a long way, and it weighed twenty-three and six-tenths, and there was no hair-bright line in a grain of it.
 
 "Hm," said Warden Druce. He turned the bag's neck in his grey fingers. "Whole floor dark. Whose notion?"
 

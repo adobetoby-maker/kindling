@@ -4,9 +4,9 @@
 
 Below the lip of the race, the grey slid under another grating.
 
-"There's one way over, and it's a Stride." She had to shout it down forty paces of cinder, and the whole Pit heard. She found that she did not care. "I've both. One after the other. It isn't on my paper. I've tried it in the yard and missed every time. The last few didn't hurt. One held for a breath."
+"There's one way over, and it's a Stride." She had to shout it down forty paces of cinder. "I've both. One after the other. It isn't on my paper. I've tried it in the yard and missed every time. The last few didn't hurt. One held for a breath."
 
-It was the truest thing she had ever said, and it was a list of failures, and the whole Pit had heard it.
+It was the truest thing she had ever said, and it was a list of failures, and there was no time to be ashamed of it.
 
 "Dane!"
 
@@ -24,7 +24,7 @@ Orla was not in the first row. She had come down. Kiva saw her at the floor rail
 
 Vane did not take his eyes off the race. He spoke flat and quick, in the field voice that went to every corner of the floor.
 
-"Field direction. Rowan, K. One attempt at the south link, door to door, declared. Because nobody else on this ground can stand on it, and it'll be at the sump inside the minute." He did not stop. "And this, which is mine. The lid's not down. I said the lid first, and I'm opening that link with the doorway two-thirds clear, and the lattice goes when the blade lifts. Pumps before doorway. I've eight still-doors on the bar to stand in it. That's the foreman's trade, and I'll answer for it." His eyes came up. "You'll call your own off. I'm told you're good at it. If your first door isn't shut before your foot's down, you go in the ditch. Dray!"
+"Field direction. Rowan, K. One attempt at the south link, door to door, declared. Because nobody else on this ground can stand on it, and it'll be at the sump before the keeper's at his door." He did not stop. "And this, which is mine. The lid's not down. I said the lid first, and I'm opening that link with the doorway two-thirds clear, and the lattice goes when the blade lifts. Pumps before doorway. I've eight still-doors on the bar to stand in it. That's the foreman's trade, and I'll answer for it." His eyes came up. "You'll call your own off. I'm told you're good at it. If your first door isn't shut before your foot's down, you go in the ditch. Dray!"
 
 There was a movement at the reserves' rail.
 
@@ -48,7 +48,7 @@ It was thirteen paces to the lip of the sump.
 
 Kiva took them at a hobble that was nearly a run. The knee howled. She let it. She was not going to need it for anything but leaving the ground.
 
-She did not go to the end of the race. She went to a place on the brick lip a pace east of it, and stopped, and looked across.
+She went to a place on the brick lip a pace east of the race's end, and stopped, and looked across.
 
 Three paces of air. At the bottom of it, a man and a half down, two bars of bare copper ran down their ramp into the dark, and the grey had not reached them yet. Beyond, the wall went up sheer and yellow. The shelf was an iron grating a pace deep. The lever hung along the brick with its crossbar at the height of her eyes, and above it stood the two copper jaws with the blade bedded in them, wide as a pair of open hands.
 
@@ -76,7 +76,7 @@ The struts let go. She felt the metal run for home, up her legs and her ribs, an
 
 It lasted about as long as it takes to say her name. She had fallen through that gap in the yard more times than she liked.
 
-She did not listen for the iron. She would have been late.
+Listening for the iron would have made her late.
 
 She set the pan.
 
@@ -182,11 +182,11 @@ The Flask turned its face to the Graywater line, and walked north.
 
 For a moment she only stood.
 
-There was a very great deal the matter with her. She took it in order, as she would have read down a board. Her left arm hung from the shoulder like a wet towel, and the first two fingers were bone white. Her legs were shaking. There was something running over her lip.
+There was a very great deal the matter with her. She took it as it came. Her left arm hung from the shoulder like a wet towel, and the first two fingers were bone white. Her legs were shaking. There was something running over her lip.
 
 And the dram was gone.
 
-It was not all gone. But she could feel the place where it had been whole, half an hour ago, at a gate. A third of it was simply missing. It had not gone into the bound. A bound cost nothing. It had not gone into the stance. She had stood four minutes on a stance for a tenth.
+It was not all gone. But she could feel the place where it had been whole, half an hour ago, at a gate. A third of it was simply missing. A bound cost nothing, and a stance next to nothing; she had stood a whole carry on one for a tenth.
 
 It had gone at the top. It had gone in the gap, in the time it took to say her name, when she had shut one door and set the other and been nothing in between. Something had carried a Stride across that gap. Whatever it was had drunk a third of a dram to do it.
 
@@ -292,9 +292,9 @@ It came the whole length of the Pit, thin and cracked and unmistakable. *Rowan! 
 
 He could not turn round. The bar was across his chest.
 
-*She's telling everyone,* thought Perrin. *The whole Pit. She might have just told me.*
+*There she goes,* thought Perrin. *And I'm stuck on a mangle.*
 
-He did not hear what came after. He heard the lamps go.
+Whatever came after was lost under the lamps going.
 
 They went all together. One moment there was a ring of pale lights round the rim and a note in his back teeth that he had stopped noticing on Monday. The next there was neither. The note stopped as if it had been cut with scissors.
 
@@ -346,7 +346,7 @@ On the cinder outside, a piece of grey as long as his arm lay by itself. It twit
 
 "That's open," said somebody, stupidly. "Somebody ought to catch it."
 
-"That's sweepings," said Brask. "Let it lie. Don't any of you go lit near it." He had not taken his hands off the bar. "Stay planted. All of you. I'd like four minutes of standing on this before I believe it."
+"That's sweepings," said Brask. "Let it lie. Don't any of you go lit near it." He had not taken his hands off the bar. "Stay planted. All of you. Give me a good long while standing on this before I believe it."
 
 Perrin stood on it.
 
@@ -354,7 +354,7 @@ He had said *ow*. He was fairly sure that he had said it loudly. There was a hot
 
 A hand came down on his shoulder, broad and careful.
 
-"I'm telling you first," said Lowen Brask. "I'm going to ask you to stand here four minutes more, on those ribs, because you're the only one on this bar who didn't have to be told twice. After that I'll carry you to the healer myself."
+"I'm telling you first," said Lowen Brask. "I'm going to ask you to stand here a while longer, on those ribs, because you're the only one on this bar who didn't have to be told twice. After that I'll carry you to the healer myself."
 
 "I mind, you know."
 
@@ -454,7 +454,7 @@ She found it by ear. She stood under it with her fist dark and listened to it ri
 
 It went. But it had been lit for a full second. She had not been lit for a full second since the Ferren floods.
 
-"Two left," said Hollis. "The sit-down. I've no second blade, Rhea. Mine's at Brickfields with a broken wrist, and I'll not put a student under that."
+"Two left," said Hollis. "The sit-down. I've no second blade, Rhea. Mine's at Brickfields with a broken wrist, and I won't put a student under that."
 
 "No."
 
@@ -464,11 +464,11 @@ Two knots. The rule said two blades, together, or it would fall wherever it like
 
 She had cut two with one line twice in her life. Once it had not worked, and a catcher had lost a foot.
 
-"I want it turned," she said. "Broadside to me. Both knots in a row, edge on, so that one line goes through the pair. Mace, walk your wall round to the east. Slowly. Bettan, I want a double sheet under it, and I want your word and nobody else's."
+"I want it turned," she said. "Broadside to me. Both knots in a row, edge on, so that one line goes through the pair. Mace, walk your wall round to the east. Slowly. Bettan, a double sheet under it, and your word and nobody else's."
 
 "You'll have it when I've got it," said Bettan.
 
-It took the best part of a minute. The wall went round in an arc, a step at a time, and the low grey thing shuffled after it, turning. Rhea stood with her fist at her side and did nothing whatever in front of a full Pit. She had long since stopped minding that.
+It took the best part of a minute. The wall went round in an arc, a step at a time, and the low grey thing shuffled after it, turning. Rhea stood with her fist at her side and did nothing whatever. She had long since stopped minding how that looked.
 
 She had time to look south.
 
@@ -478,7 +478,7 @@ Her fist was closed at her collar.
 
 Rhea had been nineteen. She had been in brown water to her chest, in a culvert, in the dark, and a tall woman with a scarred jaw had got an arm round her and held on. With the other hand that woman had been gripping something at her own throat, hard, as a person grips a rail.
 
-She had never asked what Ilse Corran felt in her fist that night. She did not know what the girl felt in hers.
+She had never asked what Ilse Corran felt in her fist that night, or what the girl felt in hers.
 
 She knew what it looked like from across a floor.
 
@@ -496,7 +496,7 @@ Rhea let the metal run home. Her arm ached to the shoulder.
 
 Doran Mace came and stood by her while the ash was still open, and she did not look round at him.
 
-"That girl on the shelf," she said. "Not for draft. Not this year, and I'll say so to anyone who asks. But I want her team attached to us on the second step, if the board gives one, and I want them on the van for a night." She flexed the hand that had held the blade. "I'll take the shift myself."
+"That girl on the shelf," she said. "Not for draft. Not this year. But get her team attached to us on the second step, if the board gives one, and put them on the van for a night." She flexed the hand that had held the blade. "I'll take the shift myself."
 
 Mace looked at her for a long moment, and then he nodded.
 
@@ -504,7 +504,7 @@ Rhea walked to the west gate, where the stretcher was, and sat down on the step 
 
 ---
 
-The keeper came through his iron door a little over four minutes after he had left his stool.
+The keeper came through his iron door at last.
 
 He stood in the doorway with his keys in his fist, heaving like a bellows, and looked at two students on his shelf and a lever pinned level in its lower eye.
 
@@ -528,7 +528,7 @@ At the top, in the daylight, with the Brickfields road in front of them and the 
 
 "It was mine."
 
-"Yes." Dray seemed thrown by having it handed to her. She recovered. "I'd have pinned that lever for anybody. Get that straight. It's nothing to do with you."
+"Yes." Dray seemed thrown by having it handed to her. She recovered. "I'd have pinned that lever for anybody. Don't make anything of it. It's nothing to do with you."
 
 "I know. Thank you for calling it."
 
@@ -542,7 +542,7 @@ The disk was cooling. She could feel it go. By the time she had limped the lengt
 
 They had bagged the last of it before she reached the table.
 
-She did not see it done. She saw the floor afterward: a dark arena under a bright sky, with seven canvas bags in a row along the east wall and the Kiln shut behind its iron. Graywater's people were carrying their coats. A healer's cart stood at the west gate.
+All she saw was the floor afterward: a dark arena under a bright sky, with seven canvas bags in a row along the east wall and the Kiln shut behind its iron. Graywater's people were carrying their coats. A healer's cart stood at the west gate.
 
 Her own bag lay on the trestle where Perrin had set it down.
 
@@ -600,7 +600,7 @@ He did not wait to hear whether there was any.
 
 He had come up behind Bettan. He looked ten years older than he had at ten o'clock.
 
-"Subject to the grade," he said. "Fifty-one and a fifth, bagged on your own sheet, sealed inside the minute, nothing printed. The rest is for the board. I'll say this once." He looked at the four of them in turn. "I told you that I'd leave a gate, and I let you not. It was inside the rules. I didn't know a string could take a bus. Nobody did. That's mine as much as yours, and I'll be saying so in a room on Friday. The next part is mine alone. I said the lid first, and I sent a candidate to that lever with the lid a third down, knowing what the lattice would do. I'd weigh the pumps against that doorway the same way tomorrow. But Mr. Cade's ribs are in the sum, and they're mine to answer for."
+"Subject to the grade," he said. "Fifty-one and a fifth, bagged on your own sheet, sealed in good time, nothing printed. The rest is for the board. I'll say this once." He looked at the four of them in turn. "I told you that I'd leave a gate, and I let you not. It was inside the rules. I didn't know a string could take a bus. Nobody did. That's mine as much as yours. The next part is mine alone. I said the lid first, and I sent a candidate to that lever with the lid a third down, knowing what the lattice would do. I'd weigh the pumps against that doorway the same way tomorrow. But Mr. Cade's ribs are in the sum, and they're mine to answer for."
 
 "Brask told me first," said Perrin, from the cinder. "Before he asked. I'd recommend it."
 
@@ -618,7 +618,7 @@ She had no voice to answer him with.
 
 "It's sealed."
 
-"It's sealed for this. Her hand, inside the hour. I want it opened, all four of us agreed, now." She was already getting up. "Perrin?"
+"It's sealed for this. Her hand, now. It gets opened, all four of us agreed." She was already getting up. "Perrin?"
 
 "Agreed," said Perrin, from the ground. "Somebody help me up."
 

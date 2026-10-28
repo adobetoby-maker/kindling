@@ -86,7 +86,7 @@ The listening stopped. Four people knelt round a canvas bag on a brick floor and
 
 He came down from the lever. He walked round the four of them and the bag, slowly, with his grey fingers hooked in his apron, and then he stopped behind Kellan's shoulder and stayed there.
 
-"Sealed inside the minute, with a hair to spare. The cut was as clean as I've had on this floor. I'll weigh it, and I expect to be pleased." He waited. "Now, where was I standing, just then, while you were at it?"
+"Sealed, with a hair to spare. The cut was as clean as I've had on this floor. I'll weigh it, and I expect to be pleased." He waited. "Now, where was I standing, just then, while you were at it?"
 
 Nobody spoke.
 
@@ -102,7 +102,7 @@ Kiva looked at the place. It was a bare patch of brick. She had not known there 
 
 It was twenty-three and two-tenths on the scale. It was the best catch that Team Seven had ever made, and not a grain of it was theirs.
 
-Druce hefted the bag onto his shoulder and carried it off toward his shelf, and at the door Kiva heard him say, to nobody, "Curved. Again."
+Druce hefted the bag onto his shoulder and carried it off toward his shelf. At the door he stopped and looked back at her, as if there were a question he had decided not to ask yet, and then he went out without a word.
 
 ---
 
@@ -130,7 +130,7 @@ Sixty-odd candidates sat along the top of the bank in their coats, with the rive
 
 Below them, the Home Line had staked a square forty paces to a side. There were eight ward-holders on it instead of four, and their silver was so faint in the dawn that Kiva kept losing it and finding it again. Down the middle of the square, in a row, somebody had laid out eight purse sheets end to end, pale against the grass, like bedsheets on a drying green.
 
-"That's the ladder," said Kellan. He had a watch in his hand, his mother's, with a sweep for the seconds, and he did not seem to know he was holding it. "Laid flat. One sheet a rung. They mean to walk it down the row."
+"That's the ladder," said Kellan. "Laid flat. One sheet a rung. They mean to walk it down the row."
 
 Inside the square stood ten people in slate blue.
 
@@ -194,13 +194,13 @@ The skin stood by itself against the sky. It fell. Sixty drams came down the fro
 
 "Dark," said the square man.
 
-Kellan's thumb was white on the watch.
+Beside her, Kellan had gone very still.
 
 The line-hands had the corners up before Kiva had drawn a breath. The square man did not look at the Flask. That was the part she could not stop watching. Seven knots of it stood four paces from his back, blind, on six legs, and he looked at the canvas and the wind in the grass and his own two hands, and at nothing else, and the bag closed.
 
 "Sealed."
 
-Not half the minute gone, with a neck as thick as his thigh.
+Sealed already, with a neck as thick as his thigh.
 
 And all the while the four wards had not gone dark. They had drawn off ten paces down the row, beyond the next sheet, and stood there, lit and level. The headless thing swayed. Then it turned, slowly, with nothing to read by, and walked to the wall and leaned its blunt top against it, and was still.
 
@@ -250,15 +250,17 @@ Anwen looked up the bank.
 
 She could not help it. They were all up there in a row against the sky, small as birds on a wire. She found Perrin by his width, and Kellan by the way he sat, and between them a dark head, very still, leaning forward.
 
-Kiva was watching the way she watched a cell she meant to understand. She would have the wind, and the waits, and where every fall had landed. In a little over a fortnight she would stand in a pit with a canvas bag, and she would need somebody at the south hem who knew which way a cord crossed.
+Kiva was watching with the whole of her face. She would have the wind, and the waits, and where every fall had landed. In a little over a fortnight she would stand in a pit with a canvas bag, and she would need somebody at the south hem who knew which way a cord crossed.
 
-*I want it,* thought Anwen. She was nearly used to the thought by now. *I want it anyway. And I want to be at that hem.*
+*I want it,* thought Anwen. She was nearly used to the thought by now. *Anyway. And I mean to be at that hem as well.*
 
 She did not see, yet, how she was to have both.
 
 "Catcher?" said the tall woman, behind the grey column.
 
 "Now."
+
+The knot came down onto the sheet, and the wall in front of Anwen took the shock of it without a flicker, and Greta Stroud's shoulders steamed on in the cold.
 
 ---
 
@@ -292,9 +294,9 @@ The grass stood up. The square man's hand turned over.
 
 The white line went up and was gone.
 
-Kellan let out his breath as if he had been the one holding it. He looked at the watch. He looked at it for some time.
+Kellan let out his breath as if he had been the one holding it. He looked at his own right fist for some time.
 
-"She had the knot the whole of that," he said. "She didn't have the fall." He turned the watch face down on his knee. "I'd have cut straight off. I'd have been right about the knot, and it would have gone into the river."
+"She had the knot the whole of that," he said. "She didn't have the fall." He opened the fist and laid it flat on his knee. "I'd have cut straight off. I'd have been right about the knot, and it would have gone into the river."
 
 "You'd have asked," said Kiva.
 
@@ -304,7 +306,7 @@ She thought about a cinder path, and a hand that had started to come up.
 
 "You would now."
 
-He did not answer. But he put the watch away in his breast pocket, and buttoned the pocket, and did not take it out again until the end.
+He did not answer. But he did not take his eyes off the square man at the hem again until the end.
 
 They cut the fifth. It was while that rung was being bagged that she saw the other thing, and she nearly missed it, because it was so small.
 
@@ -330,21 +332,15 @@ A second blade had come in through the tape, a Home Line man with a red edge, an
 
 One white line and one red. It sat down. That was the only word for it. The legs went all at once, and the whole grey mass settled onto the last two sheets with a sound like a sigh, and four catchers were on it before it had finished falling.
 
-Kellan took the watch out again and pressed its stem.
-
-"Twelve minutes, near enough. Eight rungs, and seven of the cuts were hers." He was speaking carefully, as a person speaks who is reading out a figure he does not expect to be believed. "I watched her light, every one. All of it together wouldn't come to six seconds. Six seconds lit, in twelve minutes."
+"Eight rungs," said Kellan, "and seven of the cuts were hers." He was speaking carefully, as a person speaks who does not expect to be believed. "I watched for her light, every one. I hardly saw it. I'm lit longer than that warming up."
 
 "And nobody shouted," said Perrin.
 
 It was true. Kiva went back through it in her head and could not find one raised voice. There had been a Flask on a meadow with a river beside it, and the loudest thing she had heard was a man saying *step*.
 
-"I'd like to go home and be a baker," said Perrin. "I've thought it over. I'd be good. I'd carry the flour."
+Down on the grass, a Home Line officer was walking along the row of bags with a hand scale, hefting each one and setting it down, and nobody along the bank cheered when he had finished. There did not seem to be anything to cheer. It had only been done.
 
-Down on the grass, a Home Line officer was walking along the row of bags with a hand scale, hefting each. He called it up to the tape when he was done, and Kiva heard it.
-
-"Four hundred and forty-six. Of four-eighty."
-
-She tried to do the sum in tins and gave it up.
+"I'm going home to be a baker," said Perrin. "I've thought it over. I'd be good. I'd carry the flour."
 
 ---
 
@@ -384,15 +380,9 @@ Mara had the trunk plan spread on the kitchen table that night, held flat at the
 
 "Don't look at it like that," she said. "It's only tired. I had it on Brickfields drums from eight till four. They don't sing, those old cells. They grumble, and you have to lean in to hear what about." She nodded at the plan with her chin. "Cell nineteen's running a shade high. Point one eight. It was point one four when you were twelve. Same as mast six, near enough. Up a little every spring, and nobody's said so because nobody's had a hand on it."
 
-Kiva sat down opposite and turned the plan round to read it. She knew most of it by now from upside down. The long black bus. The twenty-four squares. The branch with its hinge. Down in one corner, in small print, there was a dotted line running away from the bank that she had not looked at before.
+Kiva sat down opposite. "There were iron plates in the meadow," she said. "By the weir. Square ones, set flush in the grass, in a line."
 
-"Feeder, weir sluice motors," she read. "Laid twenty-five eighty-eight. Runs under the meadow from the bank to the weir house. Inspection plates every twenty paces." She stopped. "Iron ones?"
-
-"I'd suppose so. What else would they be?"
-
-"Square. Set flush in the grass."
-
-Mara looked up.
+"There would be. There's a feeder under that meadow to the weir's sluice motors. Those are its covers." Mara looked up. "Why?"
 
 "The Flask stood on one," said Kiva. "This morning. After the fifth cut, when it was blind. Only for a breath or two. Then it went and leaned on the ward, same as the other times." She heard how it sounded. "It's probably nothing. It's flat there. Things stand on plates."
 
@@ -402,7 +392,7 @@ Mara looked up.
 
 "Then you've half of it. Don't go making up the other half because it's tidier." She took her hand out of the water and flexed it, and winced, and put it back. "Pass me that towel."
 
-Later, in her own room, Kiva lay on top of the blanket and went over the morning, the way Orla would make her go over it on the crate. Nobody had been hurt. Nothing had gone wrong that she could see. Four hundred and forty-six of four-eighty had gone into bags, and the best Edge in the district had been lit for less than six seconds and had waited a long while on the fourth rung with the knot in reach, because the catcher said *not yet*.
+Later, in her own room, Kiva lay on top of the blanket and thought about the morning. Nobody had been hurt. Nothing had gone wrong that she could see. The best Edge in the district had hardly been lit at all, and had waited a long while on the fourth rung with the knot in reach, because the catcher said *not yet*.
 
 Their catcher had never looked at it once. He had trusted four people to hold it and one to cut it, and he had looked at the sheet. The blade had asked him. Every time. And the wards had stayed lit ten paces off the whole way through, and the thing had gone and leaned on them. Bettan said it liked a gate.
 

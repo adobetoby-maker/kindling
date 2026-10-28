@@ -72,7 +72,7 @@ Kiva pulled the end through. She pressed the wax down with the heel of her right
 
 Somebody on the east terrace cheered, one voice, and was hushed.
 
-She should have felt it then. It was well inside the minute, on a full rung, with a skin, in front of the Placement Chair. But the little tap was still in her knees, fading as the bag settled, and she had learned on a plank bridge what came of feeling a thing through a cloth and saying nothing.
+She should have felt it then. It had been quick and clean, on a full rung, with a skin. But the little tap was still in her knees, fading as the bag settled, and she had learned on a plank bridge what came of feeling a thing through a cloth and saying nothing.
 
 "Foreman!"
 
@@ -106,7 +106,7 @@ It was a long way to the south end, and every pace of it went through the knee.
 
 The tinning table stood on the cinder in the south-east, five paces short of the sump. It was a plain deal trestle with a scale on it and a row of empty tins, and a young Circuit clerk in a grey apron who looked as though he had never touched ash that was not in a jar. Perrin let the bag down onto the boards with great care.
 
-"Don't pan it without me," he said. "I'm to go and mind a string. I'd like to see what fifty-odd looks like when it's ours." He straightened, with a hand on his side, and grinned at her, and went back up the floor at a trot.
+"Don't pan it without me," he said. "I'm to go and mind a string. I mean to see what fifty-odd looks like when it's ours." He straightened, with a hand on his side, and grinned at her, and went back up the floor at a trot.
 
 Kiva put both hands on the table. The knee was beating.
 
@@ -134,7 +134,7 @@ The lowest of its knots hung down between the legs. It hung slack. It brushed th
 
 She had thought that on a river bank, seventeen days ago, and not trusted it. She had said it at a kitchen table and been told that it was half a reading. She had said it again on a terrace, and had it answered by a woman who had knelt behind more strings than anybody in the Pit, and she had been glad of the answer.
 
-"That's ten paces," said Kiva. Nobody was near enough to hear but the clerk. "The Kiln's twenty-two. I set it twenty-two from the Kiln."
+"It's nearer than the Kiln," said Kiva. Nobody was near enough to hear but the clerk. "I set it for the Kiln."
 
 Loudest, they had all said. Vane had said it. She had said it herself, on a terrace in the sun, to fifteen people, and most of them had put up their hands.
 
@@ -210,6 +210,8 @@ He said it flatly, in a voice that went to every corner of the floor and did not
 
 "This is a response and it's mine. Students dark and off the race. Back to the east wall, all of you, and stand where I can see you. Graywater. You're in."
 
+Along the floor, sixteen students began to walk backward toward the east wall with their hands open, and not one of them took their eyes off the drain.
+
 ---
 
 They came through the west gate at a run.
@@ -258,9 +260,7 @@ Kiva saw Kellan come off the east wall.
 
 He did not light anything. He did not Stride. He ran, on his own feet, with his hands open, straight in under the flank of a seven-knot Flask to where a woman lay a pace from its leg. He went down on one knee and got her across his shoulders as a sack is got, and stood, and walked.
 
-"Carry," he said. She heard it. He had declared it, to nobody, because that was what one did.
-
-He took her north and west, toward the Graywater gate, and did not look round.
+"Carry," he said, to nobody in particular, and took her north and west, toward the Graywater gate, and did not look round.
 
 ---
 
@@ -298,7 +298,7 @@ It was moving. It came along the copper in the bottom of the race like water fin
 
 She watched it pass under a grating, and under the next. It went no faster than a man walks. It did not need to. She looked up the line to where the grey began, and down it to the sump, and there was not much iron left between.
 
-It would be at the sump inside the minute. The keeper wanted four.
+It would be at the sump long before an old man was at his door.
 
 She had watched a thing like this before, on a mezzanine with her palm on a drum and a needle climbing, and three people who would not be out of a pump room when it got to the top. She had been right then. It had not helped.
 
@@ -322,7 +322,7 @@ She was not going to do it. She saw that with relief. She was going to do the th
 
 Her voice cracked on it. The Pit took it and threw it up the terraces. Vane's head came round.
 
-"It's ahead of itself! The cords! They're in the race, and they're going for the sump!" She pointed. Her hand shook. "They'll be there inside a minute! The keeper's four!"
+"It's ahead of itself! The cords! They're in the race, and they're going for the sump!" She pointed. Her hand shook. "They'll be there before he is!"
 
 He looked. He looked down the line of iron as she had, and she watched him see what she had seen, and not like it.
 
@@ -335,3 +335,5 @@ They stopped.
 She could have said *the clerk.*
 
 "Rowan," said Kiva. "Seven. Catcher."
+
+The clerk took his hands down from his mouth and stared at her.

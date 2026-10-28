@@ -38,11 +38,7 @@ Nobody in the Low Lane moved. The mast ticked.
 
 She had not raised her voice. She did not need to in a cart shed.
 
-"Not in a lane. Not with a referee and a board and four hundred people. You've not landed one in my yard, Rowan. You've not come near. I'll not have you find out what a jam does on brick with a still-door's palm coming at you." She turned her head. "Captain. You'll want to know what you're hearing. She's trying to carry the speed of a Stride straight into a stance, with nothing between. If she ever does it, you'll have a fighter who arrives already planted. She's tried six times. She's fallen over six times."
-
-"Twice into a post," said Kiva.
-
-"Once into a post. The second was the ground." Orla's eyes came back to her. "I'm not forbidding the call. The call's lawful and your captain wants it. You'll use it the slow way, with a stop in the middle that a child could see. Tell me you will."
+"Not in a lane. Not with a referee and a board and a full gallery. You've not landed one in my yard, Rowan. You've not come near. I'll not have you find out what a jam does on brick with a still-door's palm coming at you." She turned her head. "Captain. You'll want to know what you're hearing. She's trying to carry the speed of a Stride straight into a stance, with nothing between. If she ever does it, you'll have a fighter who arrives already planted. She's tried it in my yard all week, and she's fallen over every time." Orla's eyes came back to her. "I'm not forbidding the call. The call's lawful and your captain wants it. You'll use it the slow way, with a stop in the middle that a child could see. Tell me you will."
 
 "I will."
 
@@ -54,7 +50,7 @@ Noa nearly dropped the tape.
 
 He read the mast afterward, on Orla's terms, which were that Kiva was to stand under the wire cage and do what she was told, with her back to the drum, and that he was to say nothing until she had finished.
 
-"I'll not have you watching a needle home," said Orla. "You've only just stopped watching the metal."
+"I won't have you watching a needle home," said Orla. "You've only just stopped watching the metal."
 
 The store had opened at noon, and the new week's thimble of ash was in her, warm and whole. She did the drill first, the three doors one after another, with a breath between, and heard the pen scratch behind her.
 
@@ -202,9 +198,9 @@ On Friday at eight she sat in the Placement Chair's office with her leg out, and
 
 She had not expected Dray to be good at it.
 
-"I'm not saying she'd mean to." The cropped red head was up. Dray had dressed for it, in a pressed Second Division tunic, and she spoke to Ysra and not once to Kiva. Her voice did not shake. "I don't think she meant to in the Cellhouse. That's my whole point. She took her hand off that drum, and the cell went on climbing by itself for half a minute, and it called husks. Nobody had seen a cell do that. Nobody's said since why it did." She laid a folded plan on the desk. "The Pit hasn't a bank of its own. It runs off the Ferren pumps by one branch. That's the Works' own plan. Anyone can ask for it. Twenty-four cells with the river behind them. Has anyone in this building asked what her doors do to a trunk?"
+"I'm not saying she'd mean to." The cropped red head was up. Dray had dressed for it, in a pressed Second Division tunic, and she spoke to Ysra and not once to Kiva. Her voice did not shake. "I don't think she meant to in the Cellhouse. That's my whole point. She took her hand off that drum, and the cell went on climbing by itself for half a minute, and it called husks. Nobody had seen a cell do that. Nobody's said since why it did." "The Pit hasn't a bank of its own. It runs off the Ferren pumps by one branch. I went over the road on Sunday and looked. Anyone could have. Twenty-four cells with the river behind them. Has anyone in this building asked what her doors do to a trunk?"
 
-Ysra looked at the plan for some time.
+Ysra did not answer her.
 
 "Sponsor," she said.
 
@@ -218,17 +214,17 @@ It was a fair hit. Kiva saw Orla take it.
 
 Kiva had lain awake on it, and had tried a dozen answers, and every one of them had begun with *but*.
 
-"She's right about the cell," she said. "I can't tell you why it called. I've asked, and nobody knows." She made herself go on, to the long plain face and not to the tunic beside her. "What I know is what was different. In the Cellhouse I had my hand on the drum and three doors open. On the Sag Line I'd nothing open at all, and I knelt beside eight drams with a husk walking past, and the pump that was fouled that day wasn't fouled by me." She felt Dray stiffen. She had not meant it as a blow. It was only where the fact lay. "I can't promise what a cell will do. I can promise where my hands are, and that I'll say so out loud first. That's all I've got. If it isn't enough, I'd rather be told now than on the day."
+"She's right about the cell," she said. "I can't tell you why it called. I've asked, and nobody knows." She made herself go on, to the long plain face and not to the tunic beside her. "What I know is what was different. In the Cellhouse I had my hand on the drum and three doors open. On the Sag Line I'd nothing open at all, and I knelt beside eight drams with a husk walking past, and the pump that was fouled that day wasn't fouled by me." She felt Dray stiffen. She had not meant it as a blow. It was only where the fact lay. "I can't promise what a cell will do. I can promise where my hands are, and that I'll call it before I open anything. That's all I've got. If it isn't enough, I'd rather be told now than on the day."
 
 Ysra Crest was silent for some time.
 
-"I've heard the objection," she said at last. "It is not upheld. I can't unseat a licensed catcher on a sponsor's certificate because a dozen people are uneasy. I'd have no roster left." She folded Dray's plan and handed it back. "But it has a fact in it, Miss Dray, and the fact is a good one, and you were the only person in the Compact who went and looked. So. Two conditions on the event. The catcher's mark for Team Seven will be set no nearer than twenty paces to the Kiln's lattice house. And the foreman will have the whole of this from me, and may unseat her on the morning for any cause he'll name to her."
+"I've heard the objection," she said at last. "It is not upheld. I can't unseat a licensed catcher on a sponsor's certificate because a dozen people are uneasy. I'd have no roster left. But it has a fact in it, Miss Dray, and the fact is a good one, and you were the only person in the Compact who went and looked. So. Two conditions on the event. The catcher's mark for Team Seven will be set no nearer than twenty paces to the Kiln's lattice house. And the foreman will have the whole of this from me, and may unseat her on the morning for any cause he'll name to her."
 
 "That's Vane," said Dray. "He passed her on the Sag."
 
-"He also failed you there. I shouldn't lean on his partiality in either direction." Ysra's voice did not change. "You may renew this on evidence. Not on signatures."
+"He also failed you there. I shouldn't lean on his partiality in either direction." Ysra's voice did not change. "You may renew this on evidence. Not on seconders."
 
-Selka Dray put the plan in her tunic.
+Selka Dray stood a moment longer, very straight.
 
 "Then I'll be at the Pit," she said. "I've a card that lets me stand on the floor. I'll go and stand where the evidence is going to be."
 
@@ -280,8 +276,6 @@ Mara sat beside Orla, with her gloves. Anwen and Kellan were behind them. Across
 
 "Bell," said the referee.
 
----
-
 Noa was gone before it stopped ringing.
 
 He had Donny by the foot poles in three bounds and dragged him west, four paces, to the fourth posts. Kiva came down the lane at her own pace. She took the head poles. She let her weight go down, and the old brick took it as it had taken everything else for three hundred years.
@@ -324,9 +318,9 @@ Idony Keld let go at once. She stepped back and stood with her arms hanging, a p
 
 "*Time!*"
 
-The board turned over. *CROOKED LINE 2. STONEHAND 3.* And under her name: *Dram, 0.10.*
+The board turned over. *CROOKED LINE 2. STONEHAND 3.*
 
-She had spent a tenth of a dram in four minutes and scored a point by not moving. It was the most efficient carry of her life. She had been of no more use in it than the mustache.
+She had scored a point by not moving and spent next to nothing doing it. It was the cheapest carry of her life. She had been of no more use in it than the mustache.
 
 ---
 
@@ -437,8 +431,6 @@ The hand came down.
 The board turned.
 
 *CROOKED LINE 4. STONEHAND 7.*
-
-*Rowan, K.: one change, declared. Dram, 0.44.*
 
 There was a silence along the western rail, where the first-years were. It did not last. Somebody up there laughed, the short surprised laugh of a person who has got what he came for.
 

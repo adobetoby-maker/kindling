@@ -92,7 +92,7 @@ pairs after a hand check. The "before" figure is a regex proxy and overcounts.
     gone", *Sealed*). It no longer runs on a chant.
   - Druce's Kennel-book entry is now spoken ("Curved. Again.").
   - Kiva at the weir watches rather than writes, and the counting-iron frame is gone.
-  - Kellan's watch is used once, at the end ("six seconds lit, in twelve minutes"). The
+  - (Superseded by fix round 1, §7: the watch is now cut.) Kellan's watch was used once, at the end. The
     folded paper is gone; he pockets the watch instead.
   - The clerk's slate is now an officer's hand scale. Mara's copy-and-read evening is now
     Mara with the trunk plan and a tired hand in warm water.
@@ -238,9 +238,9 @@ pairs after a hand check. The "before" figure is a regex proxy and overcounts.
 5. **Pit capacity.** My chapters no longer give the Pit a number. Ch 27, 38, 39, 40 and 41
    say "eleven hundred" six times, which would break the free-eleven cap. A later movement
    should drop the number or vary it.
-6. **Mara's "I signed a paper on an embankment six weeks ago"** (Ch 24) is kept as a prior
-   consent event from Movement Two. Movement Two should confirm that the beat survives
-   there.
+6. **Mara's "I signed a paper on an embankment six weeks ago"** (Ch 24) points to Movement
+   One, Ch 8:231 (she signs the form on the embankment). The beat is consistent with M1's
+   committed text.
 7. **Ch 17 Rusk** now says Mara "were at the Works door when it opened, to report
    yourself". It used to say she filed at the records office. If Movement One or Two keeps
    a "filing", it should say the same.
@@ -268,14 +268,63 @@ pairs after a hand check. The "before" figure is a regex proxy and overcounts.
   and 26 reveal stands.
 - **Rhea:** she asked Ysra in person for Seven to be attached, and "I'll take the shift
   myself" is spoken. Any later callback to a written draft card should change.
-- **Kellan's watch** (his mother's) appears only at the weir. Later chapters should not make
-  timing his habit.
+- **Kellan's watch** (his mother's) has been cut from Movement Three in fix round 1. It appears nowhere in Ch 17–24, so later chapters must not refer back to it.
 - **Rule Six** is still to be applied at 36, 37 (including 37:233 "One change, called to a
   count") and 39, per §8.7. The mechanic is set in Ch 19:11 and 255.
 - **Dray's "Thank you for calling it" / "Somebody had to"** (Ch 23) sits ahead of Dray
   calling Kiva's time in Ch 39 and 46.
 
-## 7. Commit
+## 7. Fix round 1 (verifier FAIL on sibling devices and caps)
+
+Brief §4b was read before this round. Before → after counts are over Ch 17–24, from
+`.foreman/scratch/m3-fix1-before.txt` and `m3-fix1-refrains-after.txt`.
+
+| §4b item / refrain | before | after | What changed |
+|---|---|---|---|
+| Witnessed-by-a-crowd payoff | 10 | 0 | "the whole Pit heard/had heard" (23:7, 23:9) cut. "In front of every assessor" (24:101), "Out loud. With the Chair in the front row" (24:137) and "in the hearing of the whole ground" (24:231) cut. Orla's "in front of the whole ground" (24:463) is now "your healer took me at my word". Vane's "I have the catcher's file" (21:341) is now "Mark's where the Chair wants it. I've no cause". "I'll be saying so in a room on Friday" (23:603) cut. "Asked that his own name stand first" (24:209) cut. Rhea's "I'll say so to anyone who asks" (23:499) cut. Also cut: Lowen's "in front of four hundred witnesses" (20:41), Anwen's "in front of sixteen people" (24), Kiva's "say so out loud first" (19:217) |
+| Read-backs | 2 | 0 | The conditions said back "one at a time" are cut. Kiva now says yes and visibly does not give her ready answer. Kellan's "went over it once more… Nobody had a figure wrong" is cut |
+| "That's the rule" (dream told that night) | 2 | 0 | Now "I'll tell you all of it tonight" / "You will", and she goes down "because she could not lie still with it" |
+| Kept-thing save | 1 | 0 | 24:51 is now "four people had agreed, in the time it took to say so, to spend what they had" |
+| Ritual question list | Druce's four questions, plus Ysra's findings and the Ch 24 title | 0 | Druce's four questions cut (17:167). Ysra's findings are plain sentences. Ch 24 is retitled *Attached*. Ch 17 no longer ends on the debrief's *Why*: Orla stops at "Who was hurt?"; Kiva's question is her own thought after the lamp goes out, with the movement's single post glance |
+| Distance countdowns | 6 | 0 | Cut: 20:89–91 "sixteen to the line / Four goes", 20:149 "twelve paces", 20:211 "Eight paces to the line", 20:279 "Ten paces". 21:371–375 "Twenty paces. Fifteen… Ten." is now the tread coming nearer |
+| Try tallies | 2 | 0 | 17:381 "Six goes. Two drops, three jams" is now "That's the lot". 19:41 "tried six times / fallen over six times / twice into a post" is now "she's fallen over every time" |
+| Watch reading settling a beat | Kellan's watch ×6 | 0 | The watch is cut from Ch 18. Rhea's economy is now Kellan's "I hardly saw it. I'm lit longer than that warming up". The weir tally ("446 of 480") is cut |
+| Documents as evidence | 4 | 0 | The *S. link* label (17:287) is no longer quoted; Ch 21's Kiva asks "Is it locked?" instead of reciting it. The feeder label is not read; Mara tells her what the plates are. Dray lays no plan on the desk; she "went over the road on Sunday and looked". "I've read your file" is now "The Chair sent for me… told me what the objection was" |
+| Number / board-line / declaration closes | 18.1, 18.6, 19.6, 20.4, 20.5, 22.3→22.4, 24.1 | 0 | 18.1 is now Druce looking back at the door. 18.6 is now Perrin's baker line. 19.6 is now the mustache thought, with no dram figure. 20.4 is now Kiva's heel taking the post. 20.5 is now the result in prose (no board line). 22.3 is now students walking back. 22.4 is now Kellan's action ("Carry" with no declared-to-nobody gloss). 22.5 is now the clerk's stare. 24.1 is now Orla walking off (no "Show me six"). One-word call closes are down to two (21.6 "Not yet", 23.1 "Go"): 18.5 got an action beat and 19.5 merged into 19.6. Ch 19's "*Rowan, K.: one change, declared. Dram, 0.44.*" board line is cut |
+| Simile tics (cell/board/reading) | 5 | 0 | Cut: 18:105, 18:253, 20:235, 23:185 "as she would have read down a board", and 24:61 "as it rested on a case she was reading" |
+| "inside the minute" | 9 | 1 | Varied: "quick", "in good time", "before the keeper's at his door". One kept: the Monday companies in Ch 21 |
+| "inside the hour" | 4 | 2 | Aske and the clerk keep it; Anwen's two are cut |
+| "four minutes" | 12 | 4 | Kept: the keeper's "Four minutes!" (Ch 22), the referee's carry length (Ch 19), Rhea's "three times in four minutes" at the weir (Ch 18), and "twenty-four minutes past ten" (Ch 24, a clock time the pattern also matches) |
+| "twenty-two" | 9 | 3 | The mark is now "two paces past your heel" and "further from the lattice than I'm told to be". Kept: Mara's "twenty-two minutes past ten" and Ysra's restatement of the time |
+| "four hundred" | 11 | 6 | The rest are "four hundredweight" (a fixed spec, twice), "four hundred and nineteen drams", Perrin's "four hundred kilos", and Kiva's "I've done that four hundred times" (once) |
+| "It likes a gate" | 3 | 2 | Bettan's original (Ch 18) and Rhea's echo (Ch 23); Anwen's in Ch 20 is now "leave it something to lean on" |
+| "went over it" | 4 | 1 | Now "turned it over", "thought about the morning", "told it plainly" |
+| "make a bill out of that" | 2 | 1 | Ch 24 is now "Let her send me a bill for that" |
+| "Get that straight" | 1 | 0 | Now "Don't make anything of it" |
+| "I'd like" | 15 | 3 | Two Perrin jokes and one other |
+| "I want" | 14 | 5 | Anwen's private *I want it*, Rhea's command, Jude, and two others |
+| "I'll not" | 11 | 7 | Now Orla's (4), Vane's (1) and Mara's (2) register; Jude, Anwen and the keeper switched to *won't* / other phrasing |
+| Ch 23 contrast pairs | 6 | 3 | 23:79, 23:189 and 23:297 rewritten in this round, along with the race-end, Rhea's fist and the after-floor pairs. Kept: "She did not wait for it…", "She did not pull…", and Rhea's "It had not broken… It had slid" |
+
+Item 8: the Ch 24 Order plant is kept. On Sunday Kiva now thinks of the pump-house door,
+opens her mouth to tell Orla, sees Orla's tired face, and does not. This is a choice, not a
+device.
+
+Re-run after this round. §6 and §8.5 expected-zero checks are all 0. Free nine: 1 (Noa,
+Ch 24). Fixed nines: 1. Free eleven: 0. Decimals: 2. Renames: 0. Contrasts are ≤3 per
+chapter. Output: `.foreman/scratch/m3-fix1-checks.txt`. Words: 48,107 → 47,702, and every
+chapter is within ±15% of base (Ch 18 5,106 → about 5,000; Ch 24 8,653 → about 8,020).
+
+Added dependencies:
+- **25:285.** Orla "had given her a bearer's book at the Home Line hall… a man who had found
+  another hand in a ledger". This contradicts Ch 24, where Orla offers only the watch and
+  Vane. Movement Four must rewrite it.
+- **25:35.** Noa's "The Chair's order says your consent in writing, every month" is a
+  written-consent record. Movement Four should make the consent spoken.
+- **Ch 25 and later:** nothing should call back to Druce's four questions, the *S. link*
+  label, Dray's plan, or Kellan's watch. All four are gone from Movement Three.
+
+## 8. Commit
 
 See the reply for the sha. Scratch outputs are in `.foreman/scratch/` and are not
 committed: `m3-before.txt`, `m3-after.txt` and `m3-checks.txt`.

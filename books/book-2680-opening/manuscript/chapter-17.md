@@ -16,7 +16,7 @@ Kiva looked at the four paces, which did not look like much to a person who had 
 
 "One bound," she said. "I can do three."
 
-"You can do three and land on a knee that's been strapped for a month. One. Low. You come down on the right." Orla's crooked face did not change. "And you'll want the words for how it goes wrong, because it will, and I'd like us to mean the same thing. If you shut the first door and stand there a while and then open the second, the speed's gone into your boots and the dirt. You've put the work down. That's a drop. If you open the second while the first is still in the doorway, they'll fight, and your line will tell you so. That's a jam. You've had one of those. It was on a run plate."
+"You can do three and land on a knee that's been strapped for a month. One. Low. You come down on the right." Orla's crooked face did not change. "And you'll want the words for how it goes wrong, because it will, and we'd best mean the same thing by them. If you shut the first door and stand there a while and then open the second, the speed's gone into your boots and the dirt. You've put the work down. That's a drop. If you open the second while the first is still in the doorway, they'll fight, and your line will tell you so. That's a jam. You've had one of those. It was on a run plate."
 
 "I know."
 
@@ -164,7 +164,7 @@ He looked along the rows.
 
 "What's the mark?" That was a Stonehand voice.
 
-"Fifty of your sixty, bagged while it's open, at Second or better. Nothing printed. Nothing fouled. Nobody hurt. And then the foreman asks the company four things before anybody goes home. Was it closed? Who was hurt? What still works? What was tinned?" Druce folded the knife. "It isn't a fight. You'll oblige me by knowing that before any of you goes near the Pit. A Handful's a fight, a short one. A Flask is a schedule. The hands that keep it are the catcher's, and the best blade in this room is going to spend most of that morning standing in the dark being told *not yet*."
+"Fifty of your sixty, bagged while it's open, at Second or better. Nothing printed. Nothing fouled. Nobody hurt." Druce folded the knife. "It isn't a fight. You'll oblige me by knowing that before any of you goes near the Pit. A Handful's a fight, a short one. A Flask is a schedule. The hands that keep it are the catcher's, and the best blade in this room is going to spend most of that morning standing in the dark being told *not yet*."
 
 Kellan sat down.
 
@@ -236,7 +236,7 @@ He turned to the window.
 
 "No," said Mara.
 
-"Mast six." Rusk did not look round. "You declined to recalibrate it. You told the depot why, and the depot sent you home for a week for your trouble. On the twenty-eighth it rang four minutes ahead of its neighbors, and a Home Line officer has taken the trouble to tell me what he did with the four minutes." Now he looked at her. "I spent a morning trying to decide whether that was skill or luck. Then I asked the depot what you'd said to them. You hadn't thought of the bell. You'd only refused to hide a line you didn't understand. I've concluded it was neither. It was a habit, and a good one."
+"Mast six." Rusk did not look round. "You declined to recalibrate it. You told the depot why, and the depot sent you home for a week for your trouble. On the twenty-eighth it rang ahead of its neighbors, and a Home Line officer has taken the trouble to tell me what he did with the time it gave him." Now he looked at her. "I spent a morning trying to decide whether that was skill or luck. Then I asked the depot what you'd said to them. You hadn't thought of the bell. You'd only refused to hide a line you didn't understand. I've concluded it was neither. It was a habit, and a good one."
 
 Mara said nothing. She had learned on a great many benches that the moment after praise was when the meter fell.
 
@@ -272,7 +272,7 @@ She took it. It was heavier than it looked.
 
 "The Brickfields trunk," said Mara. "That's the Ferren pump bank."
 
-"Twenty-four cells, three pumps, and a branch off to that clay hole the Circuit plays its games in. One link between them. I'd like to know whether the bank's been creeping as well, and since when." He was already drawing the next job toward him. "That's all. Take your cart round to the side door. The front steps are murder on the wheels."
+"Twenty-four cells, three pumps, and a branch off to that clay hole the Circuit plays its games in. One link between them. Find out whether the bank's been creeping as well, and since when." He was already drawing the next job toward him. "That's all. Take your cart round to the side door. The front steps are murder on the wheels."
 
 ---
 
@@ -282,15 +282,11 @@ She took it. It was heavier than it looked.
 
 "She would. She's a Rowan. You'd all thank a person for hitting you if he'd taken the trouble to aim."
 
-It was Thursday evening, and they were in the back room of the Pryce laundry, among the hampers, with the team's ash accounts open on an ironing board, while through the wall the big machines turned over and the air smelled of starch and hot linen. Kiva had come down from the flat with the taste of a quiet supper still in her mouth. Mara had eaten with the Works' plan of the trunk open beside her plate. It was a drawing of a bus, a long black line with twenty-four small squares on it, and one thin branch going off through a mark like a hinge.
+It was Thursday evening, and they were in the back room of the Pryce laundry, among the hampers, with the team's ash accounts open on an ironing board, while through the wall the big machines turned over and the air smelled of starch and hot linen. Kiva had come down from the flat with the taste of a quiet supper still in her mouth. Mara had eaten with the Works' plan of the trunk open beside her plate. It was a drawing of a bus, a long black line with twenty-four small squares on it, and one thin branch going off through a mark like a hinge. Kiva had looked at it upside down over the stew, and found she did not like the hinge.
 
-*S. link. Pinned and locked, 2661.*
+"Two floors," said Kellan. He had the figures in his head, as he always did. "Seven-tenths each, paid. We've nothing else to our name but the reserve, and that's sealed. So it's these two, and whatever the school gives us for nothing." He looked up. "The first tomorrow. A skinned one, if the Kennel's still throwing them, and I'd be surprised if it's stopped. I've met that skin twice in my life, and I was early the first time. I mean the clean one to be the habit."
 
-Kiva had read it upside down. She read most things upside down.
-
-"Two floors," said Kellan. He had the figures in his head, as he always did. "Seven-tenths each, paid. We've nothing else to our name but the reserve, and that's sealed. So it's these two, and whatever the school gives us for nothing." He looked up. "I'd like the first tomorrow. A skinned one, if the Kennel's still throwing them, and I'd be surprised if it's stopped. I've met that skin twice in my life, and I was early the first time. I'd like the clean one to be the habit."
-
-"And the sheet," said Anwen. "The warden will lend us one. I asked. If we're to bag sixty at the Pit, I'd like to have bagged twenty-four somewhere first. All four of us. I've never held a corner."
+"And the sheet," said Anwen. "The warden will lend us one. I asked. If we're to bag sixty at the Pit, we ought to have bagged twenty-four somewhere first. All four of us. I've never held a corner."
 
 "I've held four hundred kilos," said Perrin. "I expect a corner's within me."
 
@@ -378,28 +374,16 @@ It was Thursday. The store opened on Monday.
 
 Orla looked at her for a while across the yellow light. Then she bent, with a hand on her bad leg, and picked up the stick, and laid it across her knees.
 
-"Six goes," she said. "Two drops, three jams, and one that never left the ground. And four days now with nothing to spend." She did not say it harshly. "Go on, then. What went wrong?"
+"That's the lot," she said. "And four days now with nothing to spend." She did not say it harshly. "Go on, then. What went wrong?"
 
-"Everything, six times." Kiva sat down on the crate, because her knee had asked. "I shut the first and stopped, and then opened the second. That's a drop. I opened the second with the first still open. That's a jam. I leaned one into the other, and it was still a jam. And I ran dry in the air."
+"Everything." Kiva sat down on the crate, because her knee had asked. "I shut the first and stopped, and then opened the second. That's a drop. I opened the second with the first still open. That's a jam. I leaned one into the other, and it was still a jam. And I ran dry in the air."
 
 "Who was hurt?"
 
-"Me. The post. The knee, on the last one. The line, three times."
+"Me. The post. The knee, on the last one."
 
-"What did it cost?"
+Orla grunted. "And *I ran out* isn't a reason, mind. It's only what happened. Go home and think about the rest." She got up and took the lamp off its hook. "Monday."
 
-"The whole week's glass by Thursday. The drill never cost a tenth of it."
+The yard went dark round them, all but the line of tram lights along the top of the south wall. Kiva sat on with the cold coming up through the crate. Across the yard, against the faint glow on the wall, she could just make out the crooked post leaning out of its row, with the bar through its top.
 
-"Second go?"
-
-"Monday."
-
-"Why?"
-
-Kiva looked past her. Across the yard, the crooked post leaned out of its row, black against the lamp-glow on the wall, with the bar through its top.
-
-"I keep trying to do it with the doors," she said. "You say the work goes across and the doors don't. I don't know where the work is when it isn't in either one."
-
-"No," said Orla. "Nor do I. And *I ran out* isn't a reason, mind. It's only what happened." She got up, with the grunt she allowed herself after dark, and took the lamp off its hook. "Monday."
-
-The yard went dark round them, all but the line of tram lights along the top of the south wall. Kiva sat on with the cold coming up through the crate. It was the most honest answer she had, and it was a question, and there was nobody in Meridian she could take it to.
+She kept trying to do it with the doors. Orla said the work went across and the doors didn't. She did not know where the work was when it was not in either one, and there was nobody in Meridian she could take that to.

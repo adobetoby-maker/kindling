@@ -1,4 +1,4 @@
-# Chapter 24 — Kiva: What Was Tinned
+# Chapter 24 — Kiva: Attached
 
 Healer Aske had the coldest thumbs in Meridian, and on Wednesday morning they were in the back of a cart.
 
@@ -48,7 +48,7 @@ Greta Stroud had turned her head on the pillow, and her broken nose was very whi
 
 "Good," said Stroud, and shut her eyes.
 
-Kiva sat on the edge of the cot a little longer than she needed to, with her sleeve rolled and the chalky line drying on her arm. The wrapped hands lay on the blanket a yard from her own, and she looked at them, since nobody had told her not to, until she was sure that she would know them again. She had been eased inside the hour because four people had kept a dram sealed for exactly this. Somebody was going to ease those hands. She did not know who paid for that, or how such a thing was done, and she found that she meant to ask.
+Kiva sat on the edge of the cot a little longer than she needed to, with her sleeve rolled and the chalky line drying on her arm. The wrapped hands lay on the blanket a yard from her own, and she looked at them, since nobody had told her not to, until she was sure that she would know them again. She had been eased because four people had agreed, in the time it took to say so, to spend what they had. Somebody was going to ease those hands. She did not know who paid for that, or how such a thing was done, and she found that she meant to ask.
 
 They were waiting at the foot of the cart.
 
@@ -58,7 +58,7 @@ She told them.
 
 She had meant to choose her words, and there were not enough of them to choose among. She said that the disk had been warm. She said when she had first felt it, and for how long, and what her fist had been doing, and that it was cold again by the keeper's gate. Then she told them about the shelf going away.
 
-Mara's face did not change, any more than it had changed in a hallway at a quarter to three in the morning. Only her left hand moved, and came to rest flat on the canvas of the roll, as it rested on a case she was reading.
+Mara's face did not change, any more than it had changed in a hallway at a quarter to three in the morning. Only her left hand moved, and came to rest flat on the canvas of the roll.
 
 "Standing up," she said. "In daylight. Over an open sump."
 
@@ -66,9 +66,9 @@ Mara's face did not change, any more than it had changed in a hallway at a quart
 
 "Then I owe that girl a thing I don't know how to pay." She breathed. "The same as before?"
 
-"There was sound. I'll tell you all of it tonight. At the table. That's the rule."
+"There was sound. I'll tell you all of it tonight."
 
-"It is." Mara looked at her for a moment longer. "I was in the pump house. I had my hand on cell twelve. The bank went into step at twenty-two minutes past ten, all four-and-twenty, like a room full of clocks. It came out of it at twenty-four." Her hand was still flat on the roll. "Not one fouled. The pumps never dropped a stroke. I had my hand on it before I knew who'd done it."
+"You will." Mara looked at her for a moment longer. "I was in the pump house. I had my hand on cell twelve. The bank went into step at twenty-two minutes past ten, all four-and-twenty, like a room full of clocks. It came out of it at twenty-four." Her hand was still flat on the roll. "Not one fouled. The pumps never dropped a stroke. I had my hand on it before I knew who'd done it."
 
 Orla had said nothing at all. She was looking at the place where the cord crossed Kiva's collarbone, and her crooked face was perfectly still.
 
@@ -98,7 +98,9 @@ Orla nodded, very slowly, and did not put out her own hand to feel. Kiva noticed
 
 It was so prompt that Kiva nearly laughed, which set her nose off again.
 
-"I've seen it once," said Orla. "Once is an accident with good manners. You told a Home Line officer you'd missed every one, in front of every assessor in the district, and then you made the next. I'm prouder of the first half than I can easily say. But my name goes on things I can ask for twice." She turned toward the gate. "Show me six."
+"I've seen it once," said Orla. "Once is an accident with good manners. You told a Home Line officer you'd missed every one, with a string in the race and no time to dress it up, and then you made the next. I'm prouder of the first half than I can easily say. But my name goes on things I can ask for twice. Six of them, on a sanctioned mast."
+
+She turned toward the gate. Kiva watched her go, the stick finding the cinder a pace ahead of her each time, until a Graywater cart came between them.
 
 ---
 
@@ -110,7 +112,7 @@ There was only the note.
 
 She could not hum it, though she tried, quietly, with her teeth shut, and what came out was not it. But it was there, as the after-ring of a bell is there when the bell itself has stopped, one note that had been a great many.
 
-She got up at ten and went down the passage to the kitchen, because the rule in that house was the same night, and found that Mara had the lamp trimmed and two cups of water poured.
+She got up at ten and went down the passage to the kitchen, because she could not lie still with it, and found that Mara had the lamp trimmed and two cups of water poured.
 
 Kiva told it: the height, and the roads, and the lights that were all unlike, and then the notes, which were new, and how she had tried to find the nearest light and could not, and the lights touching, and the one note, and looking up.
 
@@ -134,13 +136,13 @@ The stove ticked, and Kiva drank the water that had been set out for her.
 
 "That I'd missed."
 
-"Every one of them. Out loud. With the Chair in the front row." Mara turned the cup slowly on the table. "I signed a paper on an embankment six weeks ago. I've wondered every night since whether I'd signed it because I believed you or because I couldn't bear to be the one who said no." She set the cup down. "And then a girl tells a full Pit exactly what she can't do, and is let do it by somebody whose business it is to decide. That's a meter, and a shutdown path, and a hand. I couldn't have asked for more if I'd drawn it up myself."
+"That you'd missed every try, and said so first, before anyone let you near it." Mara turned the cup slowly on the table. "I signed a paper on an embankment six weeks ago. I've wondered every night since whether I'd signed it because I believed you or because I couldn't bear to be the one who said no." She set the cup down. "And then a girl tells a full Pit exactly what she can't do, and is let do it by somebody whose business it is to decide. That's a meter, and a shutdown path, and a hand. I couldn't have asked for more if I'd drawn it up myself."
 
 "I was frightened."
 
 "I should hope so. So was I. I was across the road with my hand on a cell." She pushed the water jug nearer. "Drink that. Then go to bed. You've a sponsor to answer to on Sunday, and she'll want it plain."
 
-Kiva lay awake a long time with the window open on the Coper Street lamp and the cloth gone warm on her chest, and went over it in order, the way Orla would want it. The hour was easy, and so was the order: the Ember shut at the top, the pan set, the lever, the call, the pin, the wall given back its weight, and the still door shut behind it with nothing left in the doorway. Then the disk. *It began after I shut the still door,* she thought, and stopped, because it was not true, or she did not know that it was.
+Kiva lay awake a long time with the window open on the Coper Street lamp and the cloth gone warm on her chest, and turned it over. Most of it was easy: the Ember shut at the top, the pan set, the lever, the call, the pin, the wall given back its weight, and the still door shut behind it with nothing left in the doorway. Then the disk. *It began after I shut the still door,* she thought, and stopped, because it was not true, or she did not know that it was.
 
 She knew when her fingers had found it. She had put her hand up to the lines to learn whether they were burned, and the warmth had been lying there under them, as round and plain as a coin, and she had not been attending to that place a moment sooner, on an iron shelf with a Flask turning its face to her. It might have begun as her foot came down. It might have begun at the top of the bound. Orla had asked for what had happened, and all that had happened was that Kiva had felt it then.
 
@@ -154,7 +156,7 @@ Grader Halloran cut the first cord on Thursday morning and looked at what was in
 
 The Wren House grading room was as it had been a month ago, with no lamp or cell within thirty paces, and seven cups, and the long shelf of jars. Team Seven stood in a row before the bench as it had stood then, except that Perrin had been strapped again from the armpits to the hips and stood like a pillar. The weight agreed with the table, at fifty-one and two-tenths. The test tune, which had held a little over a minute on their Handful with a cinder in it, held this time until Kellan's hand had closed on the edge of the bench and stayed there, and went on holding after that.
 
-"First," said Halloran, and lifted her hand away. "By a clear margin. I've not graded a student rung First since the year my daughter was born. Caught on waxed canvas and bagged inside the minute. It would seem that somebody learned." She took up the comb.
+"First," said Halloran, and lifted her hand away. "By a clear margin. I've not graded a student rung First since the year my daughter was born. Caught on waxed canvas and bagged quick. It would seem that somebody learned." She took up the comb.
 
 She held the brass reeds over the open tin, as before, and Kiva watched the third from the left begin to shiver. Where a trace had given a faint hum, this sang, a clear thin note that filled the bench.
 
@@ -174,7 +176,7 @@ Nobody breathed.
 
 "Both times it was ash swept out of a cell that had been salted late. A tune leaves that. Something that's been made to keep step." She turned the comb a little in her careful fingers. "We call it *I.* For induction. I'd never thought to hold it over anything that came out of a rift." A pause. "This was cut and bagged before the string went near your race?"
 
-"Sealed inside the minute after the cut," said Kiva. "It was still on our sheet. It hadn't moved."
+"Sealed straight after the cut," said Kiva. "It was still on our sheet. It hadn't moved."
 
 "Then it brought that with it."
 
@@ -202,11 +204,11 @@ Ysra Crest gave the board's findings on Friday as she gave everything, from the 
 
 They were all in her office, where there were not chairs enough, so that Team Seven stood, and Orla sat by the window, and Hollis Vane leaned on the wall beside the door with his arms folded.
 
-"The foreman asks four things at the end of a response," said Ysra. "The board asked them too. *Was it closed.* The Kiln is on its lid. The branch was restored at four that afternoon under a Home Line wall, and the lattice took back what was behind it. The Pit is shut for a fortnight. *Who was hurt.* A chartered ward-holder, both hands, six weeks. Two students. *What still works.* The Ferren pumps. The board said that twice, and not because I asked it to. *What was tinned.* Four hundred and nineteen drams, of which fifty-one and a fifth were bagged by this team before anything went wrong."
+"The Kiln is on its lid," said Ysra. "The branch was restored at four that afternoon under a Home Line wall, and the lattice took back what was behind it. The Pit is shut for a fortnight. A chartered ward-holder has lost the use of both hands for six weeks, and two students are hurt. The Ferren pumps never stopped. The board said that twice, and not because I asked it to. Four hundred and nineteen drams came off that floor, and fifty-one and a fifth of them were bagged by this team before anything went wrong."
 
 She folded her hands on the desk.
 
-"The board finds as follows. The fifth company left no gate lit. That was inside the Circuit's rules and outside the Home Line's custom. The foreman told the company he would leave one, and let them choose. Neither the rules nor the custom foresaw a string that could take a bus." Her level eyes went to the door. "Officer Vane asked that his own name stand first in that finding. It does."
+"The board finds as follows. The fifth company left no gate lit. That was inside the Circuit's rules and outside the Home Line's custom. The foreman told the company he would leave one, and let them choose. Neither the rules nor the custom foresaw a string that could take a bus." Her level eyes went to the door.
 
 Vane said nothing, and inclined his head.
 
@@ -214,7 +216,7 @@ Vane said nothing, and inclined his head.
 
 "I don't," said Kiva.
 
-"No. I see that you don't." Ysra went on. "The second step. Your rung passed its mark, clean, at First. Your company failed the third of those questions until three professionals and a keeper put it right. The board will not grant a full step on that, and it will not withhold one from a team that bagged fifty-one. So it has invented something, which is the board's habit. *Second step, attached.* Each team of the fifth company may answer a Flask-yield call only as an attached recovery and support team, under a chartered crew, until it has stood one whole Flask under a foreman without remark."
+"No. I see that you don't." Ysra went on. "The second step. Your rung passed its mark, clean, at First. Your company lost its string to a drain until three professionals and a keeper put it right. The board will not grant a full step on that, and it will not withhold one from a team that bagged fifty-one. So it has invented something, which is the board's habit. *Second step, attached.* Each team of the fifth company may answer a Flask-yield call only as an attached recovery and support team, under a chartered crew, until it has stood one whole Flask under a foreman without remark."
 
 "Attached to whom?" said Kellan.
 
@@ -228,7 +230,7 @@ Anwen made a small sound. Kiva did not look at her.
 
 She looked at Kiva last.
 
-"Your conditions. Officer Vane struck the event at twenty-two minutes past ten. He gave you a field direction a minute later, with a reason, and your sponsor took the consequence upon herself in the hearing of the whole ground. Nothing that followed occurred in a sanctioned event. There is therefore no incident. I looked for one." A pause. "Your place is as it was. Your certificate is as it was. Your sponsor has added nothing to it, and has told me why, and I thought the reason sound."
+"Your conditions. Officer Vane struck the event at twenty-two minutes past ten. He gave you a field direction a minute later, with a reason, and your sponsor took the consequence upon herself. Nothing that followed occurred in a sanctioned event. There is therefore no incident. I looked for one." A pause. "Your place is as it was. Your certificate is as it was. Your sponsor has added nothing to it, and has told me why, and I thought the reason sound."
 
 "Six," said Orla, from the window.
 
@@ -286,7 +288,7 @@ There were feet on the stair.
 
 "Graded First," said Kellan, when the four of them were round the table and the cups were out. "And we've the team's share to divide. I've a notion how."
 
-"So have I," said Anwen. For once she went first. "Mine's short. Two drams sealed. Before anything. The same as last time, only twice, because we've seen what one's worth." Her eyes went to Kiva's left hand, lying on the table. "And not this ash. I heard that seventh reed, and I'll not seal a thing that keeps time for somebody's nerve. The reserve's share of our own Sag Handful is still at the Wren House; I asked. Ward-trace and nothing else. Two of ours go into the casualty stock, and two of that come out to us, at par. It stays ward. Nobody breathes on it."
+"So have I," said Anwen. For once she went first. "Mine's short. Two drams sealed. Before anything. The same as last time, only twice, because we've seen what one's worth." Her eyes went to Kiva's left hand, lying on the table. "And not this ash. I heard that seventh reed, and I won't seal a thing that keeps time for somebody's nerve. The reserve's share of our own Sag Handful is still at the Wren House; I asked. Ward-trace and nothing else. Two of ours go into the casualty stock, and two of that come out to us, at par. It stays ward. Nobody breathes on it."
 
 Nobody argued.
 
@@ -298,7 +300,7 @@ Kellan nodded. "That's three."
 
 Anwen had not said anything to that. She had turned her cup round once on the table, and when she spoke she spoke to the cup.
 
-"On the Tuesday, at the Kennel, I asked you about the gate. You answered me with the Sag." Her voice was perfectly level. "On the Thursday, at the Pit, I asked why they leave one. Nobody could say. And I put my hand up." She looked at Kiva then. "I'd stood two nights behind that wall and a morning at the weir. I knew more about a gate than anybody on those steps but the two who are paid for it. I asked you once in the Kennel and once in front of sixteen people, and both times you'd your answer ready before I'd finished."
+"On the Tuesday, at the Kennel, I asked you about the gate. You answered me with the Sag." Her voice was perfectly level. "On the Thursday, at the Pit, I asked why they leave one. Nobody could say. And I put my hand up." She looked at Kiva then. "I'd stood two nights behind that wall and a morning at the weir. I knew more about a gate than anybody on those steps but the two who are paid for it. I asked you once in the Kennel and once on the terrace, and both times you'd your answer ready before I'd finished."
 
 *I know they did,* Kiva had said. She could hear herself saying it. She had been rather pleased with how level it had sounded.
 
@@ -326,7 +328,7 @@ Kiva had her mouth open already.
 
 "It's a third of a dram a go. For a few seconds. Noa's shown me the tape. It's the worst Draw anybody's ever put on a sanctioned mast, and it went to open a lever. I can't ask you—"
 
-"You haven't asked. I've thought about it since Wednesday." He looked up. His face was as it had been in a cold room, saying *me.* "It's also the only thing anybody at this table can do that nobody else in the Compact can. I stood on that floor with a Flask in front of me and nothing to cut, and I carried a woman to a gate. I was glad to. It was what there was." He frowned. "You were the one thing on that ground that fitted. I'd like to know whether it was luck. Two drams is six goes, at that price. I'm told your sponsor wants six."
+"You haven't asked. I've thought about it since Wednesday." He looked up. His face was as it had been in a cold room, saying *me.* "It's also the only thing anybody at this table can do that nobody else in the Compact can. I stood on that floor with a Flask in front of me and nothing to cut, and I carried a woman to a gate. I was glad to. It was what there was." He frowned. "You were the one thing on that ground that fitted. I mean to know whether it was luck. Two drams is six goes, at that price. I'm told your sponsor wants six."
 
 "She does."
 
@@ -348,13 +350,11 @@ Perrin opened his mouth, and shut it again.
 
 "Then yes," said Anwen. "On three conditions. A sanctioned mast, every go. Orla on the crate. And Noa reads it after and never during." She almost smiled. "You taught me to set conditions."
 
-Kiva said them back to her, one at a time, so that the person who had set them could say whether that was what she had meant. Anwen said twice that it was, and once that it was not quite, and Kiva tried the third one again until it was.
+Kiva said yes to all three. She did not argue the third, though she had an answer ready, and she saw Anwen see her not give it.
 
 "That's eight," said Perrin. "One and six-tenths over."
 
 "Held," said Kiva. "Four-tenths a head, for the next time one of us is dry in a lane." She had run dry at the Terrace, on two hundredths, because she had asked for nothing. "I was wrong about that in the spring."
-
-Kellan went over it once more, the way he went over a load board: two sealed and changed at par for plain ward-trace; one to the infirmary; three for a sheet and poles; two for the yard, on Anwen's three conditions; one and six held. Nobody had a figure wrong.
 
 "The Halden man found me," said Kellan, when that was done. He did not look up. "On Thursday, outside the grading room. A license team of theirs, for the Regional. A stipend. He named the figure."
 
@@ -416,7 +416,7 @@ By every account, there had been nothing open at all when twenty-six hundredths 
 
 He did not know. He knew only what it cost to get it across.
 
-He went over the rest of it in his head, as he did most nights, the things that were probably nothing. The tears. The skins. The class. Her still door. A plate in a meadow. A seventh reed. And now a ring of dead lamps that had jumped, once, with no current in them, and a keeper who had gone round his own rim chalking every post and would not say why.
+He turned over the rest of it, as he did most nights, the things that were probably nothing. The tears. The skins. The class. Her still door. A plate in a meadow. A seventh reed. And now a ring of dead lamps that had jumped, once, with no current in them, and a keeper who had gone round his own rim chalking every post and would not say why.
 
 "Mr. Bexley?"
 
@@ -460,15 +460,15 @@ Orla was on her crate under the lamp, with the stick across her knees and her co
 
 "She's charged for the *opinion*?"
 
-"She has. I'd have charged more." Orla shifted the stick. "I told a Home Line officer it was mine, in front of the whole ground, and it seems that she was sitting in the fourth row. So she has. I've paid it. I'm told the leg came down on a wall, and that the wall has made no complaint, and that she and Aske have agreed the fortnight between them, which I gather is not a thing that happens often."
+"She has. I'd have charged more." Orla shifted the stick. "I told a Home Line officer it was mine, and it seems your healer took me at my word. I've paid it. I'm told the leg came down on a wall, and that the wall has made no complaint, and that she and Aske have agreed the fortnight between them, which I gather is not a thing that happens often."
 
 "I'll pay you back."
 
-"In what? You've no ash that's yours." The crooked face did not change. "You'll carry my crate in and out of that shed till the thirteenth. At a walk. I'd like to see anybody make a bill out of that." She nodded at the other crate. "Sit. Wednesday. Only what happened."
+"In what? You've no ash that's yours." The crooked face did not change. "You'll carry my crate in and out of that shed till the thirteenth. At a walk. Let her send me a bill for that." She nodded at the other crate. "Sit. Wednesday. Only what happened."
 
 Kiva sat with her leg out and told it.
 
-She told it in order, as she had gone over it on Wednesday night. The call. The Ember shut at the top. The pan set. Her foot on the iron, and nothing in the knee. The lever, the blade, the lamps, the thumb's width, Dray's weight. *Ember, cold. Hand, cold.* The wall given back its weight, and the still door shut behind it with nothing left in the doorway.
+She told it plainly. The call. The Ember shut at the top. The pan set. Her foot on the iron, and nothing in the knee. The lever, the blade, the lamps, the thumb's width, Dray's weight. *Ember, cold. Hand, cold.* The wall given back its weight, and the still door shut behind it with nothing left in the doorway.
 
 "And the disk," said Orla.
 
@@ -484,11 +484,15 @@ Kiva sat very still.
 
 "What did he say?"
 
-"He said that he'd been about to come and ask me." Orla nearly smiled. "Half the Line's people on that floor saw what you had at your collar on that shelf, and saw your fist on it. He says the watch will want you in front of it before the summer's out, and that he'd sooner you came because you asked than because you were sent for."
+"He said that he'd been about to come and ask me." Orla nearly smiled. "He saw what you had at your collar on that shelf, and your fist on it. He says the watch will want you in front of it before the summer's out, and that he'd sooner you came because you asked than because you were sent for."
 
 "Will they tell me why?"
 
-"I don't know what they'll tell you. I'm not promising you an answer, Rowan. I've asked old questions of old people before and come away no wiser." Orla sat back. "I'm telling you there's a room with people in it, and that for the first time I've a reason good enough to ask them to open the door. That'll do for tonight." A pause. "No. One more thing. What went wrong on Wednesday?"
+"I don't know what they'll tell you. I'm not promising you an answer, Rowan. I've asked old questions of old people before and come away no wiser." Orla sat back. "I'm telling you there's a room with people in it, and that for the first time I've a reason good enough to ask them to open the door. That'll do for tonight."
+
+Kiva thought of the pump-house door, and somebody from the hills asking whether she was at home of an evening. She opened her mouth to say it. Orla's face was tired and shut, and she found she did not want to watch what it would do. She closed her mouth again.
+
+"No," said Orla. "One more thing. What went wrong on Wednesday?"
 
 Kiva had expected that, and had not got it ready, and found that she was glad she had not.
 
