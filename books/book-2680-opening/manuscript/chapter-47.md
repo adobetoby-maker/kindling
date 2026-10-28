@@ -220,31 +220,35 @@ They had come back. The people of the hill's sixty-two houses stood on the wet s
 
 Kiva stood by the low wall. Aske had put the arm in a sling, more to keep it from being knocked than for any good that it would do.
 
-"Nobody goes from this cart till the cost's been said," said Vane. "That's the cart's rule now, and it's mine. What went wrong."
+"The Line's four, and then mine," said Vane. "Was it closed."
+
+"Shut," said Bettan, from the tail of the cart. She was a short broad woman with frost still in her eyebrows, and she had sewn a road together on her knees half the night. "From the foot to the sill. There's a stripe where it was, and it'll not open there again while I've the trade."
+
+"Who was hurt."
+
+"Rowan, catcher," said Healer Aske. "The left arm, without feeling to a hand above the elbow. I don't know for how long. Mrs. Rowan, the Works, the reading hand, starved; eased inside the hour. Cade, carry, two ribs sprung and not broken. A Works fitter's left glove, which I'm told was a loss to nobody."
+
+"What still works in the morning."
+
+"The bank," said Mara. She stood at the rail with her left hand held against her coat. "Out of step, and the pumps each on their own stroke. The School's core, raised again at noon. The sluice, shut, and opened at first light." She paused. "Not the top drum. A plank split with the frost under the first knot, and the best part of thirty drams went down into it. Its four streets are on boxes; the reserve says a month. Seven drums below it are in step still, each alone on an open link. The Works will take them out one in a day."
+
+"And eight cellars in the Hythe with a hand of water in each," said Lumb's voice, from somewhere in the crowd. He had come up on the tram. "I've been to every one. There's a coal merchant has a good deal to say."
+
+"What we tinned."
+
+"A hundred and ninety-two clean," said Pike. "Off what came up after the hem was down: three husks and a string of four that stood on end as a string ought. It reads as this year's ash reads, and no louder. And five hundred and sixty put by, red, on catchers' words and a comb, which nobody on this hill is going to burn a pinch of."
+
+"Then mine," said Vane. "What it cost, and to whom."
 
 Nobody answered at once. Then Vane did.
 
-"The one hole on the hill that could not be planked was left open, with a boy in it, to clear a gate. The thing went to it. The reason for leaving it was good, and I'd give the same order tomorrow, and it would still be what went wrong." He looked along the hill. "Who was hurt."
+"The one hole on the hill that could not be planked was left open, with a boy in it, to clear a gate. The thing went to it. I left it open. The reason was good, and I'd give the same order tomorrow, and the cost of it would still be mine." He did not look at the low wall. "And it cost a catcher her arm for as long as it pleases to keep it, and an operator her hand for a night, and four streets their lamps for a month. Those are theirs. I'll not have them rounded into a line about a good night's work."
 
-"Rowan, catcher," said Healer Aske, from the cart's tail. "The left arm, without feeling to a hand above the elbow. I don't know for how long. Mrs. Rowan, the Works, the reading hand, starved; eased inside the hour. Cade, carry, two ribs sprung and not broken. A Works fitter's left glove, which I'm told was a loss to nobody."
+He let it stand a moment. Then he turned to the bags.
 
-"What it cost."
+"Then the pot."
 
-"Eight cellars in the Hythe, a hand of water in each," said Lumb's voice, from somewhere in the crowd. He had come up on the tram. "I've been to each. There's a coal merchant has a good deal to say."
-
-"And the top drum," said Mara. She stood at the rail with her left hand held against her coat. "Fouled. A plank split with the frost under the first knot, and the best part of thirty drams went down into it. Its four streets are on boxes; the reserve says a month. Seven drums below it are in step still, each alone on an open link. The Works will take them out one in a day."
-
-"Second go."
-
-"I'd plank with oak, not deal," said Rusk. "And I'd have had a second lid cut for that shaft on Tuesday, and a man standing on it."
-
-"Why," said Vane.
-
-Nobody had an answer. He let it stand a moment, and then he nodded, as a man does when a thing has come out as he expected.
-
-"No more have I." He turned to the bags. "Then the pot."
-
-He shared it the Line's way, as he had on the cinders of the Pit, in the Pit's own parts, ground first. There was a hundred and ninety-two clean, off what had come up after the hem was down: three husks and a string of four that had stood on end as a string ought. It read as this year's ash read, and no louder. Half of it went into that hill's boxes and the Hythe's the same night. The rest went down the line to the casualty reserve, and the School, and the four teams that had stood it under their officers, in even shares.
+He shared it the Line's way, as he had on the cinders of the Pit, in the Pit's own parts, ground first. Half of the clean went into that hill's boxes and the Hythe's the same night. The rest went down the line to the casualty reserve, and the School, and the four teams that had stood it under their officers, in even shares.
 
 "The Halden four cut two of those knots and caught one, and draws the same as Twenty-Eight," said Vane, "whose blade called the time from a chair."
 
@@ -252,7 +256,7 @@ He shared it the Line's way, as he had on the cinders of the Pit, in the Pit's o
 
 "I'd have been astonished," said Foreman Birch, beside him. "And he tells me that he's given up being astonished."
 
-The red row stood along the foot of the wall, twelve bags of it, under catchers' tags. Five hundred and sixty drams of it had been put by on catchers' words and a comb, and nobody on the hill was going to burn a pinch.
+The red row stood along the foot of the wall, twelve bags of it, under catchers' tags.
 
 "She cried when she'd done it," said Pike.
 

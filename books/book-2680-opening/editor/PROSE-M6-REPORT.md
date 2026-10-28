@@ -125,8 +125,9 @@ because a fever is not a fault. Kiva: "The roof was off." Lumb: "You know it." K
 what the Warden told her Annick saw. Mara: older than you, wider. **423–426:** Mara tells Yeo the
 reader has one hand until the eleventh month and Saltmere must send somebody to be shown on a box;
 nothing is written. Vane's slate readout (timings, "four-and-twenty counts", the remarks column) is
-now the Home Line's debrief at the cart, cost said before anyone leaves (§5 beat 8), with the pot
-shared the Line's way. Pru's tag is a word said over a bag. The canvas book, the ledger older than
+now the Home Line's cart: the Line's four (Was it closed. Who was hurt. What still works in the
+morning. What we tinned.) and Vane's fifth from Ch. 27, *What it cost, and to whom* (§5 beat 8),
+then the pot shared the Line's way. Pru's tag is a word said over a bag. The canvas book, the ledger older than
 the School, E.K.'s 2471 line and "The watch sat yesterday" are cut; Kiva tells Vane once, on the
 infirmary step, *I did not ask it anything. It did not do anything.* (§5 beat 11). Noa's sheets
 and Yeo's wired column are spoken. Aske's "eleven weeks and four days. I've counted them" is gone.
@@ -228,7 +229,7 @@ junior in the dark: *Bettony has the bar! And me! We've got the bar!*
 | Read-backs ("one at a time", "once more") | 0 | Kellan's account read-backs cut (Ch. 41, 48) |
 | Counting as structure | 0 | |
 | Open-ash rule stated | 1 (Ch. 42, Pike) | fix 1 cut Ch. 43 "Inside the minute… open for about a minute" and Ch. 44 "open for the better part of a minute" |
-| Ritual question lists | 1 | the Home Line's debrief at the cart, Ch. 47 mid-chapter (seed §6.2); Anwen's two questions as Ch. 46's setup (Ch. 44) |
+| Ritual question lists | 1 | the Home Line's cart, Ch. 47 mid-chapter: the Line's four plus "What it cost, and to whom" (matches M4 Ch. 27:157; seed §6.2), not Orla's lane list; Anwen's two questions as Ch. 46's setup (Ch. 44) |
 | Documents as evidence | 0 | the Works' plan is looked at, not laid down as proof; the result board is canon |
 | Timing objects as arbiter | 0 | |
 | "aloud" / "out loud" | 19 → 0 | |
@@ -261,6 +262,13 @@ junior in the dark: *Bettony has the bar! And me! We've got the bar!*
     only "It" forms and was wrong; fix 1 also trimmed extra substitution contrasts in Ch. 41, 43, 44,
     45, 48. Ch. 45's house-number run broken up.
 11. Speech tics thinned (§7). Theme-word slip "remembered a tram" (Ch. 47) fixed.
+12. Coordinator addendum: Ch. 47's cart no longer runs Orla's lane questions ("What went wrong… Second
+    go… Why"). It runs the Home Line's four as set in M4 Ch. 27 (Was it closed / Who was hurt / What
+    still works in the morning / What we tinned) and Vane's fifth, "What it cost, and to whom," which
+    he answers himself (the open shaft is his; the arm, the hand and four streets' lamps are theirs).
+    The yield figures moved into "What we tinned"; the duplicate red-row sentence is cut. Kiva's
+    *I did not ask it anything. It did not do anything.* (Ch. 47, infirmary step) is unchanged and is
+    the book's first full use; M4 is rephrasing its Ch. 31 echo.
 
 Re-run after fix 1 on the seven chapters: banned 0; ledger/notebook/column 0; theme words 0;
 broad §6 lines 0; time in counts 0; counting habit 0; free nine 0; free eleven 0; renames 0; no
