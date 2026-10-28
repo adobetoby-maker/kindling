@@ -7,7 +7,9 @@ had left: nothing in the story is now about keeping, passing on, or preserving a
 in writing or by mouth. Pass 4 (ticket C2, this file §8) took counting out as a motif on
 the owner's ruling "look to remove counting as a motif" and "only cut the tics": the
 climax no longer resolves by a count, no character counts as a trait, and the *nine* /
-*eleven* refrains are budgeted; the system's readouts stay as flavor. Scope: planning and
+*eleven* refrains are budgeted; the system's readouts stay as flavor. Pass 5 (ticket R4,
+2026-10-28) applied five owner rulings: the Ch. 43 climax, three renames, and the Warden's
+one image (§7, §8.7). Scope: planning and
 canon documents only. No manuscript prose was touched; the prose pass is a separate ticket
 and works from §5, §6, and §8 of this file and from `universe/SEED-2680.md`.
 
@@ -92,7 +94,7 @@ chalk (*T-0*).
 | # | Where | Pass-1 beat | Decision | What happens instead | Chapters affected |
 |---|---|---|---|---|---|
 | 1 | Prologue 10 | Pencil line beside the printed reason | **R** | A first-year broke a collarbone on the ninth post in the dark. The committee (Halden-funded) votes, not closely, to run the School's lane lit and drop the call. The junior instructor's Turn: she says in the room that the boy ran it straight and silent because she had not made him call, and they vote to drop the call anyway. A student quotes the saying and laughs. The Home Line's foreman on the committee says the Line will keep running its own lanes dark; the chair says that is the Line's business. (One line of descent: the Home Line runs lanes dark in 2152, 2603, and 2680; the Order never does.) | Prologue 10; Ch. 43 |
-| 2 | Prologue 10 | Annick's notebook under a disputed card | **R** | On the stair afterward the Warden offers the junior a place at the Order's house and tells her why the Order trains one door for a lifetime: their master saw the sky come off. She gives the images in a few lines. Said as belief, to recruit. | Prologue 10; Ch. 3, 25, 26, 31 |
+| 2 | Prologue 10 | Annick's notebook under a disputed card | **R** | On the stair afterward the Warden offers the junior a place at the Order's house and tells her why the Order trains one door for a lifetime: their master saw the sky come off. She gives ONE broken-off image of Annick's dream and keeps the rest back, so Kiva's own dream (Snapshot 11) carries the images in full and is not spoiled (Owner ruled 2026-10-28). Said as belief, to recruit. | Prologue 10; Ch. 3, 25, 26, 31 |
 | 3 | Prologue 11 | *there isn't a column for this* | **R** | The assessor says to Mara's face that she has no name for what that was. | Prologue 11; Ch. 40 |
 | 4 | Ch. 3 | Field book issued, seven columns; the Annick catalog card | **R** | Orla's debrief at the lane after Kiva's first drill: *What went wrong. Who was hurt. What it cost. Second go. Why.* Mara's third word is *Hand*. Orla's private memory: she went to the Order in 2664 about her two-door boy and the Warden told her the Unroofing. | Ch. 3; the 22 chapters that close on a `Why:` entry now close on action or thought |
 | 5 | Ch. 8 | Mara's 2446 entry; Kiva copies three lines | **D** | No older lamp nights. Mara tells Kiva what she saw at the Kindling (every lamp in Eastbank out and back); the Pit later makes two. | Ch. 8, 14, 21 |
@@ -103,7 +105,7 @@ chalk (*T-0*).
 | 10 | Ch. 32 | The bearer's book; Ilse's written reason; Mara's *no* | **R** | Vane takes Kiva before the watch. The Ferren, who sat the watch in 2669, says what Corran said that day when she named a six-year-old (the stair, *Will they say why?*, a month for a better reason) and that Mara was asked, said no, and was gone round. Vane goes to Coper Street to say so. | Ch. 32 |
 | 11 | Ch. 33, 36 | Thirza Bly's line; the watch reads the cost | **D** | No earlier bearer's warmth; no weekly visits. Kiva tells Vane once, after the Old Yard (Ch. 47): *I did not ask it anything. It did not do anything.* | Ch. 33, 36 |
 | 12 | Ch. 40 | Ysra's *Witnessed* page | **R** | Ysra comes to the mast and reads Kiva's next crossing with her own eyes, and says so at the Chair under her own name. She grants Dray's mast rule aloud with Dray's name on it. | Ch. 40 |
-| 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house for the Works, dropping a float at each manhole and watching for it at the next; above the School's gate, where the Works' plan shows the main running straight, the float never comes, and she cannot say where the main goes. No count: she watches for a float that does not arrive. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar; the screw turns until the bar comes up hard against its stop; the shaft answers with a sound the whole yard hears, and under Kiva's hands the water lies still; at the manhole below the gate Mara's reading hand feels the rise and fall stop. *It's a gate.* Stopgate. No Reader, no manual, no sheet, no pencil line, and no count: the gate is found by a call, a feel, a sound, and a float that does not arrive (§8). Mara's *"Two to the bar. Nine turns"* in Ch. 44 becomes *"Two to the bar. Run it home."* **Ch. 43 also, the half sheet (lines 39, 47, 203):** Mara's "paper under seal," "I've put it down so that it can be wrong in front of everybody," the half sheet under the brass weight, and "That's my half sheet" are cut. **Replacement:** Mara says the assumption aloud to the bench, so it can be wrong in front of everybody: *that the water moves because the pumps move it; stop the pumps and the main lies still; then a bank may be quenched and filled fresh.* Examiner Rusk owns it as the whole of the Works' plan if the fence fails. After the box: *There. That's what I said at the bench. Stop the pumps and the main lies still. It doesn't.* The wrong belief is Rusk's plan and Mara's own, spoken, and corrected by the test. | Ch. 42, 43 |
+| 13 | Ch. 42-43 | The *Standard Lane Manual* and the recovered Home Line sheet | **R** | **Ch. 42 as written:** the ground under the cross "had never been anything but ground"; Mara cannot place the drain and expects "a sheet older than that plan"; Noa is going to the Library "about the post"; Mara goes back to her gully "to write down what she had not found"; Kiva thinks the post might be leaning *toward*. **Required cuts:** the sheet, the Library errand, the write-down line, and "longer than anybody had kept the reason." **Replacement:** Mara has been walking the Ferren main uphill from the pump house for the Works, dropping a float at each manhole and watching for it at the next; above the School's gate, where the Works' plan shows the main running straight, the float never comes, and she cannot say where the main goes. No count: she watches for a float that does not arrive. Keep *leaning toward*. **Ch. 43:** Vane runs Seven dark through the Old Yard lane as a Home Line drill (the Line runs its lanes dark); the call is *call the turn before the eighth; say who has the bar*; Perrin takes the bar because the call says so and asks why the post leans; Vane: *because the road isn't straight.* Kiva, planted at the ninth, feels water move under it. Two to the bar; the screw turns until the bar comes up hard against silt in the groove; the shaft answers with a sound the whole yard hears, and under Kiva's hands the water falters rather than lying still; at the manhole below the gate Mara's reading hand feels the rise and fall falter (Owner ruled 2026-10-28: Ch. 43 changes, Ch. 46 stands). *It's a gate.* The gate is found, not shut: the penstock stays hanging on its screw (Ch. 44:19), silt jams it (44:319), fitters have worked it since Tuesday (45:15), and Perrin and Lowen run it home in Ch. 46. Stopgate. No Reader, no manual, no sheet, no pencil line, and no count: the gate is found by a call, a feel, a sound, and a float that does not arrive (§8). Mara's *"Two to the bar. Nine turns"* in Ch. 44 becomes *"Two to the bar. Run it home."* **Ch. 43 also, the half sheet (lines 39, 47, 203):** Mara's "paper under seal," "I've put it down so that it can be wrong in front of everybody," the half sheet under the brass weight, and "That's my half sheet" are cut. **Replacement:** Mara says the assumption aloud to the bench, so it can be wrong in front of everybody: *that the water moves because the pumps move it; stop the pumps and the main lies still; then a bank may be quenched and filled fresh.* Examiner Rusk owns it as the whole of the Works' plan if the fence fails. After the box: *There. That's what I said at the bench. Stop the pumps and the main lies still. It doesn't.* The wrong belief is Rusk's plan and Mara's own, spoken, and corrected by the test. | Ch. 42, 43 |
 | 14 | Ch. 47-48 | The roll entry; the restored seventh column | **K** / **D** | **Ch. 48 hall scene (lines 5-161) as written:** more than seven in the watch room; River Flats' second motion; the roll; "write it where E.K. wrote the other"; the ledger turned so Kiva can see the line; the School answered "out of our own fourth edition"; the bursar's tenth edition and printer; Dray's request "fair-copied by a clerk"; the clerk's National Gates paper. **Direction:** this Thursday gathering is **not a sitting of the watch** (the watch sat in Ch. 32 and Ch. 33 and does not sit again). It is the Ferren, Vane, Orla, and Rhea at the hall. **Kept, one spoken moment:** the Ferren says to Kiva's face: *Rowan, K. Catcher. Hand as before. A Line foreman may call you at a line-hand's day rate, with your sponsor's leave.* No motion, no vote, no roll, no ledger. **Plate recognition (beat 7's cast):** the School's bursar brings the School's "plate" in its deal box; it is a plaster cast. The Reader, who has handled that cast for thirty years, lays it beside Kiva's and says it: a wider fifth ring, a flaw across the third; the School's is a cast taken by leave of a bearer; Kiva's is the plate of nine rings the first teachers carried, released by appointment. She says it; she does not produce an edition. **Cut:** every edition, printer, proof sheet, clerk's copy, and ledger. **Dray:** she says it to Kiva's face, on the Pit stair: the mast rule goes to Saltmere with her name on it; she objected twice and has not changed her mind; she would have seated her on the lid. **The result** is read on the boards, as it already is. **Ending (Old Yard):** Orla has fourteen juniors for the School's first dark run with the call since 2603; the junior with the plait says *Miss Dane says we're to run it. Dark. From the sheds* (cut "it's in the manual again"); Orla asks Kiva whether the juniors should be told why it leans; Kiva has her speech ready and does not give it: *Run it dark. Make them say who has the bar.* Then: *Anwen. My cuff.* The book ends on a junior in the dark saying who has the bar (the drill's own call), not on anyone counting (§8). | Ch. 47, 48 |
 
 Added beat, **Lumb (Ch. 47, lines 171-199 and 423-426 as written):** Lumb fetches the
@@ -185,7 +187,8 @@ head -1 prologue.md | grep -i "write it down"
 **Status: Owner approved 2026-10-28 ("Go").** The owner approved all nine decisions: the
 five story calls below (the record-motif changes), and four counting changes from §8.6:
 Kiva's control by the call said aloud rather than counting; the book ending on a junior
-saying who has the bar; Rule Nine renumbered and Team Eleven renamed; and the tournament
+saying who has the bar; the Circuit's numbered rule renumbered and a team renamed (both
+ruled again, with the new names, below); and the tournament
 name, *the Gates*, as the editor recommended (the gate found by a float, §8.6 item 1, is
 the same decision as story call 3 here). The rest of this section is kept as written for
 the record.
@@ -202,8 +205,9 @@ bearer's warmth, no weekly report, no roll, and the Thursday hall scene at the e
 a third sitting. (3) The post is found out by a drill, a float, and two hands on a bar:
 the Home Line runs Seven dark through the lane with its call *say who has the bar*, Kiva
 feels water move under the ninth post, Mara's float never comes through where the Works'
-plan says the main runs straight, and when the bar is run home the shaft answers with a
-sound and the water under the post lies still; no manual, no recovered sheet, no restored column, no count, and the
+plan says the main runs straight, and when the bar goes in it comes up hard against silt,
+the shaft answers with a sound, and the water under the post falters (the gate is found,
+and is run home by Perrin and Lowen in Ch. 46); no manual, no recovered sheet, no restored column, no count, and the
 School simply runs its lane dark with the call again. (4) The second dreamer is Old Lumb,
 alive, who had the dream himself forty years ago and says so once under the pumps in
 Chapter 47; the 2604 keeper's book is gone. (5) Mara reads and tunes the city's banks for
@@ -211,6 +215,24 @@ the Municipal Works and her third word to Kiva is *Hand*, not *Book*; the initia
 are dropped and the saying is a flat spoken line three times. Everything else (the Fall,
 the doors, the ranks, the ash, the team, the Pit, the Step, the fingers, the offer, the
 ending) stands as written.
+
+**Owner ruled 2026-10-28 (ticket R4):**
+
+1. **Ch. 43 against Ch. 46: change Ch. 43.** The bar comes up hard against silt, not its
+   stop; the water falters rather than lying still; Mara's hand feels the rise and fall
+   falter. The penstock stays hanging on its screw (Ch. 44:19), silt jams it (44:319),
+   fitters have worked it since Tuesday (45:15), Perrin and Lowen run it home in Ch. 46.
+2. **The building: the Placement Hall** (Ysra's building as Placement Chair). Owner ruled
+   2026-10-28.
+3. **The Circuit's numbered rule: Rule Six**, worded "A change called aloud is declared
+   when it is called." Numbered rules stay numbered (Rule Nineteen exists). Chapter 19 is
+   titled after it. Owner ruled 2026-10-28.
+4. **The team: Team Twenty-Two** (verified no collision). Owner ruled 2026-10-28.
+5. **The Warden on the stair (Prologue Snapshot 10)** gives ONE broken-off image of
+   Annick's dream and keeps the rest back, so Kiva's own dream in Snapshot 11 carries the
+   images in full. Owner-directed after the cold read, 2026-10-28.
+
+The prose pass applies 2 to 4 from the table in §8.7.
 
 Confirmations:
 
@@ -269,16 +291,22 @@ turns, nine turns, the shaft answers, Mara's count drops." The gate was found by
 After: Mara drops a float at each manhole and watches for it at the next; above the
 School's gate, where the Works' plan shows the main straight, the float never comes (a
 witnessed non-arrival, not a count). Kiva, planted at the ninth, feels water move under it
-(felt). Two to the bar; the screw turns until the bar comes up hard against its stop
-(felt by the two on the bar); the shaft answers with a sound the whole yard hears (heard);
-under Kiva's hands the water lies still (felt); at the manhole below, Mara's reading hand
-feels the rise and fall stop (felt; she is still the city's bank reader by job, and her
-instrument is her hand). *It's a gate.* "Nine turns" is gone from the seed, the plans, and
+(felt). Two to the bar; the screw turns until the bar comes up hard against silt in the
+groove (felt by the two on the bar); the shaft answers with a sound the whole yard hears
+(heard); under Kiva's hands the water falters rather than lying still (felt); at the
+manhole below, Mara's reading hand feels the rise and fall falter (felt; she is still the
+city's bank reader by job, and her instrument is her hand). *It's a gate.* (Revised by
+the owner's ruling of 2026-10-28; the first pass of this section had the bar coming up
+against its stop and the water lying still in Ch. 43, which Ch. 44 to 46 contradict.)
+"Nine turns" is gone from the seed, the plans, and
 the packets; the bar is "run home." It survives in `STATE_LEDGER.md` (Movement Six block,
 "The post" and "The Step" bullets) and in the manuscript (Ch. 44, 46), because the ledger
 mirrors the accepted prose; the ledger now carries a warning banner and pre-rewire pointers
-at those bullets, and is rewritten from surviving prose after the prose pass. Cause → effect is unchanged: the lane's call puts two on the bar, the bar
-shuts the penstock, the shut penstock takes the string's water, Stopgate stays dry.
+at those bullets, and is rewritten from surviving prose after the prose pass. Cause → effect, end to end: the lane's call puts two on the bar (Ch. 43); silt in the
+groove stops the bar short and the water only falters, which is how the gate is found and
+why it is not yet shut; the penstock hangs on its screw (Ch. 44:19) and silt jams it
+(44:319); fitters work it from Tuesday (45:15); Perrin and Lowen run it home (Ch. 46), the
+shut penstock takes the string's water, and Stopgate stays dry.
 
 ### 8.3 What else changed in canon
 
@@ -319,20 +347,20 @@ quantities are exempt but said only when the thing is on the page.
 
 | Chapter | count* | nine | eleven | decimals | per 1k | Required cuts |
 |---|---|---|---|---|---|---|
-| Ch. 46 | 23 | 6 | 6 | 0 | 4.8 | **The climax.** Kiva "was counting… counted on from her own six… *Seven. Eight. Nine.* The thing had fours"; "It's got a count. Don't keep it. Go in fives. I'll call them"; Wace and the still-doors counting back; Perrin hearing "two counts going" at the bar; the man in the apron counting turns "on his fingers like a child… One more, and it's in the groove." Rewire per 8.2: Kiva takes the *in* on the slack by feel and calls it (*Now*; *Plank*; *Wace, your end*), the still-doors answer the call not a number; Perrin and Lowen turn the bar until it comes up hard; the shaft answers with a sound; the water lies still. Cut every count. |
+| Ch. 46 | 23 | 6 | 6 | 0 | 4.8 | **The climax.** Kiva "was counting… counted on from her own six… *Seven. Eight. Nine.* The thing had fours"; "It's got a count. Don't keep it. Go in fives. I'll call them"; Wace and the still-doors counting back; Perrin hearing "two counts going" at the bar; the man in the apron counting turns "on his fingers like a child… One more, and it's in the groove." Rewire per 8.2: Kiva takes the *in* on the slack by feel and calls it (*Now*; *Plank*; *Wace, your end*), the still-doors answer the call not a number; Perrin and Lowen turn the bar until it comes up hard against its stop (the first time it does; in Ch. 43 it came up against silt); the shaft answers with a sound; the water lies still. Cut every count. |
 | Ch. 10 | 6 | 12 | 13 | 0 | 4.6 | "Nine" as Anwen's demanded hold figure ("I said nine"; "That's not nine"; "you'll get your nine") is a refrain built on a number: make the ask a thing ("the whole carry, with everything in her hands"), not a nine. "Eleven of them" on the bench, "eleven years of my handwriting," "a quarter to nine": trim to one each or cut. |
 | Ch. 39 | 23 | 3 | 4 | 0 | 4.6 | The Pit hold. "A knot to a hundred counts"; "hauls for four counts and eases for four"; Dray "I've been counting… Nine"; "Don't count her. Count yourself"; Brask calling fours, Kiva counting fives "on purpose." Same rewire as Ch. 46: the slack is felt and called, the rhythm is Brask's *in* / *out*, Dray's courage is a thing she says, not a number. Keep "it hauls and eases" as the spawn's rhythm. |
 | Ch. 43 | 22 | 6 | 1 | 0 | 4.2 | Kellan "had not counted the rivets" (good: keep as the one place counting is named, as something he stops doing); "*Count against it*… He counted in threes" → he takes the *in* on the slack; "I've sixty counts" / "Fresh ash is open for a slow sixty" → say the rule once in seconds; "She had called the count on every sheet" → "called the *in*"; "I called the *in* half a count late" → "late." |
 | Ch. 16 | 10 | 11 | 7 | 3 | 4.0 | Pru's "Eleven… Twelve" and "Nine taps! It took *nine*!"; Hold figures "three and eight… five and nine… four and nine… six and two" read off posts; "Nine to seven… eleven to three"; "eleven to six"; "Eleven hundredths in four minutes." The Hold figures off the posts, the lane results, and Kellan's 0.93 are readouts: keep them. Cut the tap-counting ("Eleven… Twelve"; "Nine taps! It took *nine*!") and vary the lane scores so *nine* and *eleven* stop recurring. |
 | Prologue | 5 | 14 | 8 | 0 | 1.6 | "Eleven years… Eleven forty-seven… eleven months… nine rows… nine hours… nine weeks… nine minutes… eleven degrees." Each era reaches for the same two numbers. Keep one age and one clock reading; vary or cut the rest. Rebuild per `PROLOGUE_PLAN.md` §5 anyway. |
-| Ch. 19 | 11 | 12 | 4 | 2 | 4.6 | Title *Rule Nine*, and the rule itself: "*A change called to a count is declared at the count*" is counting-as-theme in a rule of the Circuit. Renumber the rule and reword it ("A change called aloud is declared when it is called"); the mast rule later bears Dray's name anyway. "Nine. Nine hundredths"; "the first of nine"; "Nine tries. Nine misses"; "eleven signatures… eleven names… eleven people are uneasy"; "nine to a side." Trim to the fixed quantities (posts) and one objection figure. |
+| Ch. 19 | 11 | 12 | 4 | 2 | 4.6 | The title and the rule itself: "*A change called to a count is declared at the count*" is counting-as-theme in a rule of the Circuit. Owner ruled 2026-10-28: the rule is **Rule Six**, "A change called aloud is declared when it is called," and the chapter is retitled to match (§8.7); the mast rule later bears Dray's name anyway. "Nine. Nine hundredths"; "the first of nine"; "Nine tries. Nine misses"; "eleven signatures… eleven names… eleven people are uneasy"; "nine to a side." Trim to the fixed quantities (posts) and one objection figure. |
 | Ch. 30 | 25 | 1 | 0 | 0 | 4.3 | Rhea's night van: "a count of perhaps five… On a count… It's a school's count… four counts… sixty counts… a hundred counts… the longest hundred counts… the best count I've had… a pace every four counts… a count of ten." Convert every time-in-counts to seconds, breaths, or paces; keep "It's a school's count. I had it off a man who had it off them" only if the prose pass keeps one named count in the book (it is the best candidate: a professional borrowing a student drill). |
 | Ch. 24 | 10 | 7 | 8 | 16 | 2.9 | Densest decimals in the book (ash shares at the table, 0.31, "Nine and six-tenths… Graded First"). These are readouts at a spend/save/return decision: keep them; trim only where the page becomes a column of figures. "cell nine… Fourteen times… nine brass reeds… Eleven teams… from the ninth line to the thirty-first and counting… nine seconds… eleven" → one nine (the reeds are a fixed instrument; keep or cut once). Also §6 target 1. |
 | Ch. 13 | 13 | 7 | 5 | 1 | 3.2 | Kiva's field entries ("Count 60+, sweepings"; "Thirty-one in the count") go with §6 anyway. Mara: "You were counting. I could hear you. Thirty-eight, thirty-nine. And I thought, if she can count, she doesn't need me" → Mara hears her calling the thread cold, steady, and knows she does not need her. "nine hours" of watching. |
 | Ch. 11 | 10 | 13 | 1 | 1 | 3.9 | **The thesis line:** "It's the not counting. When I'm calling something, the calling's in the doorway. When I stop, the door's just standing there" → keep the second and third sentences; the method is calling, not counting. "Nine hundredths… eight or nine… two tears in nine days… her nine, with the furniture"; "Somebody ought to be counting that" (Noa) → "Somebody ought to be watching that." Cut "She's had it nine" counting the hold. |
 | Ch. 48 | 6 | 11 | 6 | 7 | 3.5 | "nine rings… nine grooves… Nine. And nine" (the plate: say it once when the Reader lays them side by side); "read it eleven times… corrected eleven times… a healer at eleven… drum twenty-nine"; "a junior counting three aloud" at the very end → she says who has the bar. Also §5 beat 14. |
 | Ch. 23 | 16 | 2 | 5 | 1 | 3.2 | "*Forty-eight,* said the part of her that was counting iron… *One,* said the part of her that had never stopped counting iron" (a frame of counting); "For one count she did not move"; "eleven hundred people." Replace the counting-iron frame with the thing itself (the lattice humming under her boots). |
-| Ch. 20 | 14 | 6 | 3 | 0 | 3.6 | Lowen "had planned for the count. If she called a change to a count…" (depends on Rule Nine's wording; follows Ch. 19's rewrite); "the nine black posts" (keep); "On your own count" → "When you choose." |
+| Ch. 20 | 14 | 6 | 3 | 0 | 3.6 | Lowen "had planned for the count. If she called a change to a count…" (depends on Rule Six's wording; follows Ch. 19's rewrite); "the nine black posts" (keep); "On your own count" → "When you choose." |
 | Ch. 35 | 12 | 6 | 3 | 8 | 3.7 | "She brought Aske the count on Wednesday morning. He wrote it in the column" (double motif: cut with §6); "since they were nine… the age of nine" (one); "eleven paces… nine years"; "I've had the counts" → "I've had the figures." Practice-glass decimals 0.94/0.63/0.32/0.01 are readouts: keep. |
 | Ch. 12 | 13 | 3 | 5 | 0 | 3.4 | The first kill drill: "She called it and went on counting… 'Count!'… Eleven. Twelve… Thirty-three. Thirty-nine… Inside the count, the catcher owns the floor… eleven days ago." Keep Druce's rule said once ("fresh ash is open for about a minute; inside that, the catcher owns the floor"); the drill's clock is Anwen's seal checks, not a chant. |
 | Ch. 44 | 11 | 6 | 3 | 1 | 3.6 | Mara: "*Two to the bar. Nine turns.* Let's see whether it remembers" → "*Two to the bar. Run it home.*"; "before the fitter had finished counting sixty" → "inside the minute"; "*I cut, and I count after, and I'm thought very honest for it*" (counting as a virtue: cut or make it "I cut, and I look after"); "nine of them lit… nine more who won't fall asleep… by nine on Tuesday." |
@@ -340,10 +368,9 @@ quantities are exempt but said only when the thing is on the page.
 | Ch. 18 | 13 | 3 | 3 | 0 | 3.7 | "*Count!* Dark! One. Two… Eleven. Twelve… Fifty-nine… Sixty… Fifty-eight's inside the count… at the count of thirty." The second drill repeats the first's chant: convert to seal checks and seconds; "since she was nine." |
 | Ch. 42, 36, 41, 40, 33, 28, 37, 21, 9, 34 | 6–12 each | 2–8 | 1–8 | 0–9 | 2–3 | Light touch: convert "N counts" to seconds; one nine and one eleven each at most; Ch. 41's "twenty minutes to nine" and "eleven of them" (Stopgate's wardens) are fine once; Ch. 40's eight elevens (the notch "eleven seconds," the hour) → "a dozen seconds" said once by Noa off the tape. |
 | Ch. 31, 47, 27, 17, 22, 1, 38, 29, 15 | 4–11 | 0–6 | 1–5 | 0–13 | 2 | Ch. 1's thirteen decimals are Mara's bank readings on page one: her job's flavor, keep them, sparse. Ch. 22 "She counted it, because she was counting everything" → cut the frame. Ch. 47 "nine rings" once. |
-| Ch. 45, 26, 8, 4, 3, 32, 25, 5, 7, 6, 2 | 0–4 | 2–5 | 0–6 | 0–5 | ≤1.9 | Near target. Ch. 3's six elevens (Team Eleven, the hour) → rename Team Eleven (it recurs only to repeat the number; five uses in the book) and vary the hour. |
+| Ch. 45, 26, 8, 4, 3, 32, 25, 5, 7, 6, 2 | 0–4 | 2–5 | 0–6 | 0–5 | ≤1.9 | Near target. Ch. 3's six elevens (the team, the hour) → apply the team rename in §8.7 (Team Twenty-Two; it recurs only to repeat the number) and vary the hour. |
 
-Also book-wide: rename **Team Eleven** (5 uses) and **Rule Nine** (10 uses, Ch. 19 title);
-the Pit notch "eleven seconds" (13 uses) becomes "about a dozen seconds," said off the tape;
+Also book-wide: apply the four renames in §8.7; the Pit notch "eleven seconds" (13 uses) becomes "about a dozen seconds," said off the tape;
 "nine seconds" for the first crossing (7 uses) becomes "a few seconds" except once where
 Noa reads it; "eleven hundredths" (7 uses) stays only inside Kellan's one 0.93 reading.
 
@@ -366,8 +393,8 @@ cat *.md | grep -oiE "\beleven\b[^.;]{0,30}" | grep -viE "^eleven (o'clock|in th
 cat *.md | grep -oiE "\beleven (o'clock|in the morning|at night|minutes)" | wc -l
 # Decimals are readouts and are not capped. Report only; expected not above the current 113.
 cat *.md | grep -oE "\b[0-9]+\.[0-9]+\b" | wc -l
-# Rule and team renamed. Expected: no match.
-grep -niE "rule nine|team eleven" *.md
+# Building, rule, and team renamed (§8.7). Expected: no match.
+grep -niE "measure hall|rule nine|team eleven" *.md
 # Closing lines. Expected: no chapter ends on a count.
 for f in *.md; do tail -3 "$f" | grep -qiE "\bcount|\b(one|two|three)\b\.?\*?$" && echo "$f"; done
 ```
@@ -380,7 +407,23 @@ and her hand is still the instrument. (2) Kiva's method of control is the call s
 not counting; the manuscript's "It's the not counting" and the fives-against-fours in the
 Pit and the Old Yard become taking the *in* on the slack by feel and calling it. That is
 the one change that touches how two set pieces are fought (Ch. 39, Ch. 46). (3) The book
-ends on a junior saying who has the bar, not counting three for courage. (4) Rule Nine is
-renumbered and reworded at the prose pass; Team Eleven is renamed. The tournament's name
+ends on a junior saying who has the bar, not counting three for courage. (4) The Circuit's
+numbered rule becomes Rule Six, reworded, at the prose pass; the team becomes Team
+Twenty-Two (both ruled 2026-10-28, §7). The tournament's name
 was not changed in pass 4; the owner picked *the Gates* on 2026-10-28 (three options are in
 `NAME-OPTIONS.md`), and ticket N1 applied it.
+
+### 8.7 Prose-pass rename list (Owner ruled 2026-10-28)
+
+The prose pass applies these. Counts are from `manuscript/` in this tree on 2026-10-28;
+run the grep first and trust it over the table.
+
+| Old | New | Chapters (uses) | Notes |
+|---|---|---|---|
+| Measure Hall (the building) | the Placement Hall | Ch. 1 (2: lines 5, 339), 4, 8 (3), 11, 14 (2), 16, 24, 26, 32, 33 (2), 35, 40, 41, 48 (2: lines 121, 211); 20 uses in 14 chapters | The owner's figure was 15 in 13; the grep gives 20 in 14. Capitalise "Placement Hall." Ch. 48:211 ("the Measure Hall steps") calls back to Ch. 1:339, where the steps run down to the plaza: keep both on the steps. This tree has no lowercase "placement hall" in Ch. 1; if one exists on the prose-pass branch, capitalise it. Leave Stonehand's "Hall" (bursary, second team) and the Home Line's hall (Ch. 48:181 "hall yard") alone. |
+| Rule Nine (the Circuit's home rule; title of Ch. 19) | Rule Six | Ch. 17 (2, "rule nine"), 18 (1), 19 (title + the rule line, "*Nine.* → *Six.*"), 20 (2, incl. "home rule nine" at 343), 36, 37, 39; 10 uses in 7 chapters | New wording, replacing "A change called to a count is declared at the count": **"A change called aloud is declared when it is called."** Retitle Ch. 19 *Rule Six*. Also reword the echoes of the old wording: Ch. 19:455 and 20:343 ("called to a count"), 37:233 ("One change, called to a count"), 20:15. Numbered rules stay numbered (Rule Fourteen, Ch. 26 and 32; Rule Nineteen, Ch. 39:115): do not renumber them. |
+| Team Eleven | Team Twenty-Two | Ch. 10 (2), 12 (1), 13 (2); 5 uses | Bare "Eleven" for the team (Ch. 10:389 "put Eleven back") becomes "Twenty-Two." No collision with Team Twenty-Eight (Dray's). Vary the hour in Ch. 3 separately (§8.4). |
+| Warden gives "a few of Annick's images" (Prologue 10) | ONE broken-off image, the rest held back | Prologue Snapshot 10 | Not a rename: a rebuild instruction for the prologue pass (`PROLOGUE_PLAN.md` §5 row 10). Kiva's dream in Snapshot 11 carries the images in full. |
+
+The Ch. 43 change (bar against silt, water falters) is a scene rewrite, not a rename; it is
+specified in §5 beat 13 and §8.2.

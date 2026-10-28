@@ -284,7 +284,9 @@ Story devices tagged `LOCKED 2680` below were provisional until the owner approv
   "why does it lean." Spoken three times in Book One, never printed, no lore around it.
 - **The Order's belief (`LOCKED 2680`):** the Even Hand believes the sky will come off and
   trains one door for a lifetime to be standing when it does. Its Warden says what Annick
-  saw, in Annick's images, to people the Order wants. The Halden house claims Annick's
+  saw, in Annick's images, to people the Order wants; to the junior instructor on the
+  stair in 2603 (Prologue Snapshot 10) it gives ONE broken-off image and keeps the rest
+  back, so Kiva's own dream in Snapshot 11 carries the images in full. The Halden house claims Annick's
   Ward patterns.
 - **The watch of seven (`LOCKED 2680`):** the Home Line's custom for the plate. A bearer
   names the next before the watch and says why, aloud; the watch witnesses and does not

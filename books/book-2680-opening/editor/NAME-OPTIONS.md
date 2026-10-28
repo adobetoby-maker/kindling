@@ -44,6 +44,24 @@ docstring, two commit messages and an error string) and the docstring of
 audio stems stay as they are (and `universe/ARCHIVE.md` line 50 still names the folder path).
 The manuscripts (Book One's 34 hits, Book Two's 69) are renamed at the prose pass.
 
+### Applied (ticket R4, 2026-10-28): three more renames, owner ruled
+
+Done on branch `feature/2680-rulings`. Unlike the Gates rename these were not options
+lists; the owner ruled the names directly. The canon docs carry the new names (the seed
+glossary, §12), and the prose pass applies them from the table in
+`MOTIF-BUDGET-REVISION.md` §8.7.
+
+| Was | Now | Manuscript uses (Book One) |
+|---|---|---|
+| Measure Hall (Ysra's building as Placement Chair) | the Placement Hall | 20 in 14 chapters |
+| Rule Nine (the Circuit's home rule; title of Ch. 19) | Rule Six, "A change called aloud is declared when it is called." | 10 in 7 chapters |
+| Team Eleven | Team Twenty-Two | 5 in Ch. 10, 12, 13 |
+
+Rule Six keeps the numbered-rule convention (Rule Fourteen and Rule Nineteen exist). Team
+Twenty-Two does not collide with Team Twenty-Eight. Book Two's manuscript and canon
+(`books/book-2680-national-measure/`) also say "Measure Hall"; that is the parallel Book
+Two ticket's, not this one.
+
 ## The three options
 
 | | Regional tier | National tier | The events | Said bare | Book Two title |

@@ -74,10 +74,13 @@ runs Seven dark through the Old Yard lane as a Home Line drill whose call is *ca
 turn before the eighth; say who has the bar*; Perrin takes the bar because the call says
 so and asks why the post leans, and Vane says *because the road isn't straight*. Kiva,
 planted at the ninth, feels water move under it. Two to the bar; the screw turns until the
-bar comes up hard against its stop; the shaft answers with a sound the whole yard hears,
-and under Kiva's hands the water lies still; at the manhole below the gate Mara's reading
-hand feels the rise and fall stop. *It's a gate.* Nobody counts anything: the gate is found
-by a call, a feel, a sound, and a float that does not arrive
+bar comes up hard against silt in the groove; the shaft answers with a sound the whole yard
+hears, and under Kiva's hands the water falters rather than lying still; at the manhole
+below the gate Mara's reading hand feels the rise and fall falter. *It's a gate.* The gate
+is found, not shut: the penstock stays hanging on its screw (Ch. 44), silt jams it (Ch. 44),
+fitters work it from Tuesday (Ch. 45), and Perrin and Lowen run it home in Ch. 46. Nobody
+counts anything: the gate is found by a call, a feel, a sound, and a float that does not
+arrive
 (`editor/MOTIF-BUDGET-REVISION.md` §5, beat 13, and §8).
 
 ## What this movement is for
