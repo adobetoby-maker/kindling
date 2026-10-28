@@ -6,7 +6,7 @@
 
 Ruth Achterberg was rinsing the last plate when the kitchen went white.
 
-It was not a flash, exactly, because a flash would have hurt. This was a slow, clean light that came in through the balcony door and lay across the floor tiles as if someone had opened a refrigerator the size of the sky. Then it faded, and the ordinary night came back, and the tap was still running. Ruth turned it off.
+A flash would have hurt. This was a slow, clean light that came in through the balcony door and lay across the floor tiles as if someone had opened a refrigerator the size of the sky. Then it faded, and the ordinary night came back, and the tap was still running. Ruth turned it off.
 
 "Mum," said Mina from the balcony. "Mum, come and look at this."
 
@@ -14,7 +14,7 @@ The apartment was on the ninth floor, and from the balcony you could see the riv
 
 "Up there," said Joel, and he pointed south and high.
 
-There was a point of light in the sky, far above where any aircraft flew and much too bright for a star at that height. It was not getting bigger so much as spreading. As Ruth watched, it opened into a soft white blur, and then the edges of the blur began to turn colors, red first and then a long, rippling green, like oil on water, that crawled across the south of the sky in folds.
+There was a point of light in the sky, far above where any aircraft flew and much too bright for a star at that height. As Ruth watched, it spread into a soft white blur, and then the edges of the blur began to turn colors, red first and then a long, rippling green, like oil on water, that crawled across the south of the sky in folds.
 
 There was no sound at all.
 
@@ -206,13 +206,13 @@ Her brother was seven. He was on his knees at the end of the row with his hands 
 
 Something came out of the tear.
 
-It did not climb out. It poured, the way wet sand pours out of a bucket, and slid onto the ground in a grey heap the size of a calf. Then the heap pulled itself up into a shape that had four thick legs, or something that worked like legs, and a front end that was lower than its back end. It did not have a face. It had a place where a face should go, and the place was turned toward Nico.
+It did not climb out. It poured, the way wet sand pours out of a bucket, and slid onto the ground in a grey heap the size of a calf. Then the heap pulled itself up into a shape that had four thick legs, or something that worked like legs, and a front end that was lower than its back end. Where its face should have been there was only a place for one, and the place was turned toward Nico.
 
 Pell's father was at the top of the field with the cart. She heard him shout her name, and she heard him start to run.
 
 The grey thing went for Nico.
 
-It was not fast. It moved like a man carrying something heavy, lurching and sure, but Nico was frozen on his knees, and Pell was eight rows away, and her father was a hundred paces off.
+It moved like a man carrying something heavy, slow and lurching and sure, but Nico was frozen on his knees, and Pell was eight rows away, and her father was a hundred paces off.
 
 Pell dropped the fork and ran.
 
@@ -220,7 +220,7 @@ She did not decide to do it. Afterward she tried to find the moment when she had
 
 The thing hit nothing.
 
-There was a sound like a hand slapping a wet window, and the grey thing stopped in the air an arm's length from her. It did not bounce. It just stopped, the way a bird stops against glass, and slid down onto the dirt.
+There was a sound like a hand slapping a wet window, and the grey thing stopped dead in the air an arm's length from her, the way a bird stops against glass, and slid down onto the dirt.
 
 Pell's hands were hot, and her palms burned as if she had grabbed a pot handle. Between her hands and the grey thing the air had gone thick and bright, and though she could not see anything there, she could feel it, like pushing against the bottom of a full bucket of water.
 
@@ -328,7 +328,7 @@ She hit the third post with her shoulder and the fifth with her face. She forgot
 
 On the third day the trainer let her near a patient.
 
-It was not a burned man. It was a Home Line hand whose cut foot had gone hot and swollen, and the trainer sat Oriel beside him in a shed with the shutters closed.
+The patient was a Home Line hand whose cut foot had gone hot and swollen, and the trainer sat Oriel beside him in a shed with the shutters closed.
 
 "Hands on him. Eyes shut. You read with your hands, in the dark, the way you found those posts. Tell me where you are as you go, so that if you go down, I know where to pick it up."
 
@@ -792,7 +792,7 @@ The Pellow Building was five stories of yellow brick with a crack over the door.
 
 It took him and his apprentice all morning to set it in the cellar. They bolted it to the floor and ran its heavy cables to the induction board on the wall, and from the board up through the building to a small steel cell box in every flat. The core would make the heat. Its pattern, impressed in the Halden yards by a Glory master Femi had never seen and never would, would hold the fission steady and spread its heat to the induction ring, and the ring would turn heat into current. The cell boxes in the flats would take that current and store it and give it out, and each one had its own meter and its own red handle.
 
-It was not magic in the old sense, the sense that meant a woman with her hands on a sick cow. It was a hundred and fifty years of hard, careful work, and a license fee, and a Works inspector willing to put his name to it.
+Magic, in the old sense, had meant a woman with her hands on a sick cow. This was a hundred and fifty years of hard, careful work, and a license fee, and a Works inspector willing to put his name to it.
 
 That was Femi's job.
 

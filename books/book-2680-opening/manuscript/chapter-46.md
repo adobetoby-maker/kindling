@@ -110,7 +110,7 @@ Anwen held her eyes. "Is that what's so? All of it?"
 
 Vane looked at her for a moment. Then he nodded, once, as if she had told him the wind had changed.
 
-"So am I," he said. "Do you take it?"
+"I'd begun the word before you said it," he said. "Do you take it?"
 
 "Yes."
 
@@ -156,7 +156,7 @@ She set it by its corners, wide, as she had learned to over a cistern. It went d
 
 There was a room underneath.
 
-It was not near. It was eight feet down, and bricked, and full of something that moved. Her stance found the top of it and rang, faintly, as a foot rings on a cellar flap. And through the brick came a pull and a give, slow and even, and it wanted her in step with it.
+It lay eight feet down, bricked, and full of something that moved. Her stance found the top of it and rang, faintly, as a foot rings on a cellar flap. And through the brick came a pull and a give, slow and even, and it wanted her in step with it.
 
 She shut the door. She had been open for less than a breath.
 
@@ -224,7 +224,7 @@ She went back to the lid.
 
 "*Out,*" said Selka Dray.
 
-Her voice was not strong. It was exact. It came across five paces of dark from a chair against a post, and it did not hurry.
+Her voice was thin, and exact. It came across five paces of dark from a chair against a post, and it did not hurry.
 
 Kiva put up her hands.
 
@@ -294,13 +294,11 @@ She did not look. She had her heel on the thing, and it was doing something she 
 
 It was pulling her into step.
 
-Every time it drew, her weight wanted to brace with it. Every time it gave, her weight wanted to sink. It was not strong, that part. It was patient. It was the same slow even beat that had come up through the brick, and she was going with it before she knew it, the way you fall into step with somebody on a pavement without meaning to. And each time she went with it, the corner sat a little heavier, and she was a little less herself and a little more one end of its line.
+Every time it drew, her weight wanted to brace with it. Every time it gave, her weight wanted to sink. That part had no strength in it, only patience. It was the same slow even beat that had come up through the brick, and she was going with it before she knew it, the way you fall into step with somebody on a pavement without meaning to. And each time she went with it, the corner sat a little heavier, and she was a little less herself and a little more one end of its line.
 
-She knew what that was. She had stood in her aunt's shop and watched a meter needle nod in time with the one beside it. She had heard the Ferren bank breathing with one breath for nineteen days.
+She had stood in her aunt's shop and watched a meter needle nod in time with the one beside it. She had heard the Ferren bank breathing with one breath for nineteen days.
 
-It was the Step. It was a bank falling into one engine. And she was a cell.
-
-*Then don't be in its bank.*
+*Don't nod.*
 
 She broke step.
 
@@ -418,7 +416,7 @@ She had planted it and given it away. He had heard her do that. She had stood on
 
 He did.
 
-It was not strength. He had no more of that. It was only that he stopped keeping any of himself back for afterward. The still door went down through the dirt, and the clay, and the old brick of the wall's footing, and the whole of the bottom of the School came up under his boots.
+He had no more strength. He only stopped keeping any of himself back for afterward. The still door went down through the dirt, and the clay, and the old brick of the wall's footing, and the whole of the bottom of the School came up under his boots.
 
 The screw shrieked.
 
@@ -452,7 +450,7 @@ Rusk had cell one. He had taken his coat off.
 
 The three pumps stood at the far end, turning. The long room was lit off its own bank, a row of lamps down the ceiling fed by the same twenty-four cells. Old Lumb, the keeper, sat on an upturned bucket beside the sump hatch with a notched stick down the hole and an oil lamp on the floor beside him, lit, though nobody needed it yet.
 
-"When they stop, the water comes up," he said. "It rained Sunday." He reached into the hatch and rapped a brass plate set in the sump wall, a foot over Mara's chalk. "When it's at that, it's at the sill, and then it's the Hythe's cellars, and I'll have a hundred people at my door in the morning with wet coal. I've told you that before."
+"When they stop, the water comes up," he said. "It rained Sunday." He reached into the hatch and rapped a brass plate set in the sump wall, a foot over Mara's chalk, green with age and stamped with the Works' mark. "When it's at the brass, it's at the sill, and then it's the Hythe's cellars, and I'll have a hundred people at my door in the morning with wet coal. I've told you that before."
 
 "I heard you the first time, Mr. Lumb."
 
@@ -518,7 +516,7 @@ It was a long way to send a word, and a long way back. She knelt at the hatch an
 
 Somewhere down the culvert, beyond the hatch, there was a sound that she did not like. It was water talking to itself in the dark. It had been a long way off when the pumps stopped. It was not so far now.
 
-"It's past your chalk, missus," said Lumb. He was not chatting any more.
+"It's past your chalk, missus," said Lumb. He was not chatting any more. "Two fingers off the brass."
 
 The sounder spoke.
 
@@ -586,7 +584,7 @@ Three pumps took their strokes in the long brick room, each in its own time, lik
 
 She was. She had it against her chest, with the right hand over it.
 
-It was white to the wrist. It did not hurt. It lay there like a thing that she was minding for somebody.
+It was white to the wrist, and painless. It lay there like a thing that she was minding for somebody.
 
 "That's starved," said the woman with the glass. She had come round the desk. She took the hand, quite briskly, and turned it to the lamp. "I've seen it on graders who hold a reed too long over a loud tin. It's not burned. It wants ward-trace, plain, inside the hour, or it'll sulk for a month." She frowned. "The shelf's pinches were plain of everything, ward and all, and a hand can't feed on that. There's not a pinch of plain ward-trace in Meridian. It's all had the hair in it since the thaw."
 
@@ -614,7 +612,7 @@ It came over the bottom wall. She could not see the street. She saw the brick, t
 
 Then the cord beside her boot lay down.
 
-It did not snap. It went loose, from her cross to the gate and away down a hill that she could not see, and the frost that hung from it came after, slowly, folding as it fell. The Old Yard was whole again. There was a post on the far side of where a wall had been, and two people sitting against the brick.
+It went loose without snapping, from her cross to the gate and away down a hill that she could not see, and the frost that hung from it came after, slowly, folding as it fell. The Old Yard was whole again. There was a post on the far side of where a wall had been, and two people sitting against the brick.
 
 And every window in the School showed a point of light.
 

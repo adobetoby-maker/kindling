@@ -269,3 +269,31 @@ free eleven 0; fixed nines (posts 1, grooves 1); fixed elevens 0; Rule Nine / Te
 0; no chapter closes on a count; banned phrasings 0; ledger/notebook/column 0; theme
 words 0; broad motif lines 0; decimals 0 / 8 / 0. Full output is in
 `.foreman/scratch/prose-pilot-fix1.txt`. That file is not committed.
+
+## 6. Polish round (after the Ch. 46 blind re-read, 2026-10-28)
+
+In the re-read, both readers preferred the fix-1 version of Ch. 46: the young reader
+7.6 vs 6.6, the editor 7.7 vs 6.5.
+
+Polish:
+- The explicit "It was the Step… And she was a cell. *Then don't be in its bank.*" is cut.
+  Two images remain, the nodding needle and the bank breathing with one breath. They are
+  followed by the thought *Don't nod.*, so the reader makes the link.
+- The pump-house clock has one sill marker. Lumb's brass plate is now green with age and
+  stamped with the Works' mark. The water climbs to "a hand below the sill," then "two
+  fingers off the brass," then "It's at the brass."
+- Vane's "I'd begun the word before you said it" is restored, now as a spoken line.
+
+"It was not X. It was Y." contrasts were cut to 3 in each file. The count includes "It
+did not X. It Y." forms.
+
+| File | fix 1 | polish |
+|---|---|---|
+| Ch. 46 | 8 (5 was-not + 3 did-not) | 3 (lines 251, 357, 661) |
+| Prologue | 8 (5 + 3) | 3 (two in the Kindling, one in Pell's tear) |
+
+One paragraph-split contrast remains in Ch. 46: "It did not throw her east. / It turned."
+It was kept as an action beat.
+
+§8.5 and §6 were re-run on the prologue and Ch. 46, and every expected-zero check is still
+0. Words: prologue 17,031, Ch. 46 7,970.
