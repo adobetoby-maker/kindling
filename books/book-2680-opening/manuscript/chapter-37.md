@@ -1,10 +1,10 @@
 # Chapter 37 — Kiva: Take a Corner
 
-Grader Halloran combed every dram that went through the fighters' door on Friday, and she did it as if she had been asked to count the hairs on a dog.
+Grader Halloran combed every dram that went through the fighters' door on Friday, and she did it as if she had been asked to go over a dog for fleas.
 
-There was a trestle across the passage. There were sixty-four glass thimbles on it in rows, each with a name, and she held the brass over them one at a time with her head a little on one side. The third reed sang over every one. The seventh touched its neighbor and came away.
+There was a trestle across the passage. There were rows of glass thimbles on it, each with a name, and she held the brass over them one at a time with her head a little on one side. The third reed sang over every one. The seventh touched its neighbor and came away.
 
-"Plain," she said. "A trace. Rowan, K." She pushed the thimble an inch toward its owner. "I've said that sixty-one times this morning, and I shall say it three more, and then I'm going to sit down."
+"Plain," she said. "A trace. Rowan, K." She pushed the thimble an inch toward its owner. "I've said that since seven this morning, and I shall go on saying it till dinner, and then I'm going to sit down."
 
 "Is it all a trace?" said Kiva.
 
@@ -14,13 +14,15 @@ There was a steward beyond her with a list. He looked at Kiva's cuff, and her st
 
 "What's on that?"
 
-She had the paper ready. He read it twice, down to the seven sets of initials, and then turned his list over to see whether there was anything on the back.
+"It's held of the Home Line," said Kiva. "The watch sat on it in the summer. It's not equipment, and nobody's to lay a hand on it but me."
 
-"*Not equipment,*" he said. "I've a column for equipment. I've a column for what isn't allowed. I've nowhere to put a thing that's neither." He scratched his ear with the pencil. "Who's that at the foot?"
+He looked at her for a while, and then at his list, and then turned the list over to see whether there was anything on the back.
 
-"Home Line. The watch."
+"I've a rule for equipment," he said. "I've a rule for what isn't allowed. I've no rule for a thing that's neither." He scratched his ear with the pencil. "The Home Line said that?"
 
-"Then it's theirs to be wrong about." He wrote something very small in the margin, and let her by.
+"Seven of them."
+
+"Then it's theirs to be wrong about." He let her by.
 
 She came out of the passage into the noise.
 
@@ -42,13 +44,13 @@ High on the rim, above the south tier, the Circuit's mast stood against the wind
 
 Jude came across from the referee's table with the draw in his fist.
 
-"Old Four," he said. "At ten, on the long axis. We've the north line." He looked round the four of them, and at Pru on the reserves' bench with her card. "I've watched Brask captain a lane three times this year, and he's never once done the same thing. So I've no plan. I've got a habit. Nobody runs. Everything's said aloud. If you see a thing, you say it in a carrying voice, and I'd sooner hear it wrong than not hear it."
+"Old Four," he said. "At ten, on the long axis. We've the north line." He looked round the four of them, and at Pru on the reserves' bench with her card. "I've watched Brask captain a lane three times this year, and he's never once done the same thing. So I've no plan. I've got a habit. Nobody runs. If you see a thing, you call it, in a carrying voice, and I'd sooner hear it wrong than not hear it."
 
 "That's my habit," said Kiva.
 
 "I know. I stole it in the spring." He showed the chipped tooth. "Rowan. What do you declare?"
 
-She had a card from a healer in her tunic. *One, in the week, if the lane wants it.*
+She had one go in her for the week, and Aske had been plain about what came after it.
 
 "Still," she said. "No change. I'll keep the other until I know it's wanted."
 
@@ -98,7 +100,7 @@ The wall slid off his shoulder. It went past her on the right, with Wace under t
 
 The litter went over the south line at two minutes and forty.
 
-"Four, nought," said Perrin, in the interval. He was grey, and his ribs were heaving. "I'd like to say I mind. I haven't the wind. I pushed that man with everything I own and it came out of the other one's boots."
+"Four, nought," said Perrin, in the interval. He was grey, and his ribs were heaving. "I'd say I minded. I haven't the wind. I pushed that man with everything I own and it came out of the other one's boots."
 
 "It's a lid crew," said Jude. "It's eight on a bar, with two."
 
@@ -120,9 +122,9 @@ A plank with a man at each end. Push one, and the other had it. So nobody could 
 
 "Which post?"
 
-"Brask. He's the one who calls the step." She had said it quietly. She said it again in a carrying voice, as Jude had asked, as she would have called a mark across a street. "*We take a corner! Brask's! I stop him where he stands! Jude, you'll have a count of two on his back, and you come from behind the wall!*"
+"Brask. He's the one who calls the step." She had said it quietly. She said it again in a carrying voice, as Jude had asked, as she would have called a mark across a street. "*We take a corner! Brask's! I stop him where he stands! Jude, you'll have his back for a breath, and you come from behind the wall!*"
 
-Several hundred people heard it. On the reserves' benches at the west side, Selka Dray had a notebook open on her knee, her cropped red head bent over it, and beside her a thin boy in Wren House green was watching the floor with his chin on his fist.
+Several hundred people heard it. On the reserves' benches at the west side, Selka Dray sat forward with her elbows on her knees and her cropped red head very still, and beside her a thin boy in Wren House green was watching the floor with his chin on his fist.
 
 "That's very loud," said Perrin.
 
@@ -142,7 +144,7 @@ The flag dropped. The floor boomed, three times. The box formed on the stud as i
 
 Edda's wall went out.
 
-It went out between one count and the next, clean, with nothing left hanging. Kiva knew that trick. Seven had played it on Stonehand in the spring, and Brask had lain on his back on the New Lane's brick and learned the other half of rule nine. He had not forgotten.
+It went out between one breath and the next, clean, with nothing left hanging. Kiva knew that trick. Seven had played it on Stonehand in the spring, and Brask had lain on his back on the New Lane's brick and learned the other half of Rule Six. He had not forgotten.
 
 Perrin and Jude had the whole of their weight on something that was no longer there. They went through it and down, one on his hands and the other on his face. A dropped wall throws whoever is leaning on it. Wace's palm was on Perrin's back, and Gower's dark blade was flat on Jude's shoulder, before either had got a knee under him.
 
@@ -170,7 +172,7 @@ Anwen laid her own ward against it, edge on, exactly where it was thinnest. She 
 
 The wall parted.
 
-Jude Talley had been on one knee for ten counts. He got up at eleven. He came through the place where a wall had been, behind Brask, who could not turn, and laid a dark blade across the square grey back as a man lays a rule across a plank.
+Jude Talley had been on one knee all that while. His down ran out. He came up and through the place where a wall had been, behind Brask, who could not turn, and laid a dark blade across the square grey back as a man lays a rule across a plank.
 
 "*Down!* Old Four!"
 
@@ -178,7 +180,7 @@ Brask knelt. He did it without hurry, and he looked up at Kiva as he went, and h
 
 "That's a corner," he said.
 
-For ten counts Old Four had no box. It had a ward with a hole in it, and a blade holding a dummy by the ankles, and one still-door who had been a post and had never been asked to be anything else. Perrin picked up the Alderman by the head. He had been told by a healer what he might lift and how high, and he held it at his waist and walked. Wace's open hand met Kiva's stop and got no farther. Gower let go of the feet to reach his blade, and that was a mistake, and he knew it at once.
+For the length of his down Old Four had no box. It had a ward with a hole in it, and a blade holding a dummy by the ankles, and one still-door who had been a post and had never been asked to be anything else. Perrin picked up the Alderman by the head. He had been told by a healer what he might lift and how high, and he held it at his waist and walked. Wace's open hand met Kiva's stop and got no farther. Gower let go of the feet to reach his blade, and that was a mistake, and he knew it at once.
 
 The Alderman went over the north line at three minutes and ten.
 
@@ -188,11 +190,11 @@ It was not over. Brask did not build a box in the third carry; he had seen it ta
 
 *Arrive before you're there.* It was his own trade. She had been taught it behind his back, and he had come to collect.
 
-His palm found her forearm, and then her shoulder. Two halves made a down. She knelt on the booming oak with her hands on her knees and counted ten, and felt four thousand people watching a girl with three doors be put down by a boy with one.
+His palm found her forearm, and then her shoulder. Two halves made a down. She knelt on the booming oak with her hands on her knees, and felt four thousand people watching a girl with three doors be put down by a boy with one.
 
 It did not matter. She found, kneeling there, that it truly did not. Jude had gone for Gower's feet, and had them, and Gower was kneeling too. Anwen had a plank across the lane with nothing behind it but nerve, and Perrin was walking a small piano home behind it a pace at a time, on the words *Yours* and *Mine.*
 
-The Alderman went over the north line with nine seconds on the clock.
+The Alderman went over the north line with the clock all but out.
 
 The grey braid went up.
 
@@ -200,7 +202,7 @@ The grey braid went up.
 
 The tiers made a noise like a wave coming up a shingle beach. Perrin sat down on the Alderman.
 
-Lowen Brask came across the floor while they were still getting their breath. He had his notebook in his hand, and he did not open it.
+Lowen Brask came across the floor while they were still getting their breath.
 
 "You called that from thirty paces," he said. "*Take a corner.* I heard it, and I thought, good, she's told me, I'll drop the wall on them. And I did, and it was worth two, and then you took the corner anyway." He shook his head. "I'd stood it all wrong. I'd put my best man on the end. You're supposed to put him in the middle."
 
@@ -210,13 +212,13 @@ Lowen Brask came across the floor while they were still getting their breath. He
 
 "What have I learned?"
 
-"How to break mine." He scratched his jaw. "A real one isn't a plank on two men. I stood a summer inside them. Take a ward-holder off a Home Line square and there isn't a gap. There's the other three, closer. It shuts on you like a gate." He put the notebook in his pocket. "I only say it because you said it so loud. Half this hall thinks that's the answer now."
+"How to break mine." He scratched his jaw. "A real one isn't a plank on two men. I stood a summer inside them. Take a ward-holder off a Home Line square and there isn't a gap. There's the other three, closer. It shuts on you like a gate." He looked up at the tiers. "I only say it because you called it so loud. Every captain in this hall's going home thinking that's the answer now."
 
 He went back to his four.
 
-Kiva watched him go. On the reserves' benches Selka Dray had shut her book.
+Kiva watched him go. On the reserves' benches Selka Dray had sat back, with her arms folded.
 
-She wrote it down in the interval, on her knee. She put it on the right, where things went that she did not yet understand the use of, and Jude called her for the draw before she had blotted it.
+Kiva turned what he had said over in the interval, and could not see what use it was to her, and put it away; and Jude called her for the draw before she had finished not seeing.
 
 ---
 
@@ -228,9 +230,9 @@ They did not need to. They had two blades. Kellan Renn stood on the left with hi
 
 It was what the lane wanted. She had known it since the draw. Two blades against one, and Jude a full second at the top; Seven could not win that by standing. The stop had to go to them. It had to be put down in front of Pettit, on the far side of a wall, where no still-door could walk.
 
-There was a card in her tunic.
+She had a week's go in her, and nothing after it.
 
-"Ember," she said. "One change, called to a count. Ember to still."
+"Ember," she said. "One change, called aloud. Ember to still."
 
 The white flag went up. High on the rim a small figure took the red one out of his belt and held it ready in his other hand.
 
@@ -254,25 +256,21 @@ The second carry was four minutes old by the clock over the north door when Pett
 
 He had twenty paces of clear oak and a wall beside him. Jude was on one knee. Perrin was the wrong side of Yarrow. It was exactly the moment, and it had been built for her, and she could see that it had been built.
 
-"*Rowan, changing on three! Ember, to still!*"
-
-"*One.*"
+"*Rowan, changing at the top! Ember, to still!*"
 
 The struts closed. She left the oak.
 
 It was a low bound, over the corner of Hesketh's wall, to a place four paces ahead of a running boy. She had made it six times on a mast, and a seventh as the back half of a longer thing. She could feel the pier that she meant to come down on.
 
-"*Two.*"
-
 She shut the Ember at the top, and waited for it.
 
 There was somebody beside her.
 
-He had gone up when she went up. He had been watching her knees, and he was a Fire, with the best feet in the school, and he had left the floor a quarter of a count after she did and arrived at the top a quarter of a count before. He was dark. He had been dark the whole way. He was turning in the air beside her as easily as a man turns on a stair.
+He had gone up when she went up. He had been watching her knees, and he was a Fire, with the best feet in the school, and he had left the floor a hair after she did and arrived at the top a hair before. He was dark. He had been dark the whole way. He was turning in the air beside her as easily as a man turns on a stair.
 
 She was nobody. That was the whole of the trouble. For the length of a short word there was nothing of hers open, and she could not have warded a feather.
 
-The flat of a dark blade lay down along her ribs. It was not a blow. It was hardly a touch. It was as gentle as a hand laid on a shoulder in a crowd.
+The flat of a dark blade lay down along her ribs. It was hardly a touch. It was as gentle as a hand laid on a shoulder in a crowd.
 
 "*Down!* Seven!"
 
@@ -296,21 +294,23 @@ There was a white flag at the rail of the south tier. He was holding it as high 
 
 "*Reader?*" That was the referee.
 
-"*A crossing begun!*" Noa's voice came down thin and cracked across the whole hall. "*Declared, and made on the count! Not landed! There's a cliff and nothing after it! It isn't a stack!*"
+"*A crossing begun!*" Noa's voice came down thin and cracked across the whole hall. "*Declared, and made when it was called! Not landed! There's a cliff and nothing after it! It isn't a stack!*"
 
-"Then it's a down, and no incident. Ten, Miss Rowan."
+"Then it's a down, and no incident. Kneel, Miss Rowan."
 
-She knelt for ten. Pettit had put the Alderman over the south line by the time she reached six.
+She knelt out her down. Pettit had put the Alderman over the south line before it was up.
 
 The third carry she fought on the still door and nothing else, and they took it three to nought, which was not enough. Jude got Kellan's forearm, for a half, and looked as pleased as if it had been a down.
 
 "Halden license, eight. Team Seven, six."
 
+Nobody on Seven's bench said anything, and for once Perrin did not try.
+
 ---
 
 Kellan came over while the tiers were still shouting.
 
-He had his cuff unlaced. There was sweat in his hair, and the black jacket was open at the neck, and he did not look like somebody who had won a quarter-final at the Regional Measure.
+He had his cuff unlaced. There was sweat in his hair, and the black jacket was open at the neck, and he did not look like somebody who had won a quarter-final at the Regional Gates.
 
 "I'd say I was sorry," he said. "I'm not, and you'd know."
 
@@ -320,7 +320,7 @@ He had his cuff unlaced. There was sweat in his hair, and the black jacket was o
 
 She showed him.
 
-The two fingers were white to the knuckle, and blue at the nails. They had been white for some minutes.
+The two fingers were white to the knuckle, and blue at the nails. They had been white since she hit the oak.
 
 "That didn't land," said Kellan slowly. "There wasn't a stance. Why is it—"
 
@@ -336,15 +336,15 @@ He stood quite still.
 
 "Yes."
 
-She watched it reach him. He had a column for most things. He had not had one for this. He had found the one moment in which she could not be touched and had touched her in it, fairly, as he had said that he would; and she had paid a quarter of a dram and a week's worth of hand, and he had taken a point for it in a game.
+She watched it reach him. He had a rule for most things. He had not had one for this. He had found the one moment in which she could not be touched and had touched her in it, fairly, as he had said that he would; and she had paid a quarter of a dram and a week's worth of hand, and he had taken a point for it in a game.
 
 "I didn't know it took the week whether you landed or not," he said. "Nobody on a floor ought to know that. I'd not have—" He stopped. "No. I would have. That's the worst of it. I'd have done exactly the same and felt sick first."
 
 "I'd have thought the less of you."
 
-"So you said." His jaw was tight. "You called it off. I heard you. I'd laid a blade on you at the top of a bound in front of the whole Compact, and you asked yourself the question and came down on your shoulder."
+"So you said." His jaw was tight. "You called it off. I heard you. I'd laid a blade on you at the top of a bound, and you asked yourself the question and came down on your shoulder."
 
-"It's the only part I'm certified to teach."
+"It's the only part I'm passed to teach."
 
 He nearly laughed. It did not get as far as his mouth.
 
@@ -352,13 +352,13 @@ He nearly laughed. It did not get as far as his mouth.
 
 He went back to the black and gold. A square man with a foreman's slate was waiting for him there, and said something, and clapped him on the arm.
 
-Orla counted in the passage under the north tier, with her back to the wall and the hand in both of hers. She stopped at three hundred.
+Orla held the hand in the passage under the north tier, with her back to the wall and the fingers in both of hers. The bell for the next lane went, and the one after, and she let go.
 
-"I'm not going on," she said. "I can see what it's doing. Sit there until it's done it."
+"I'm not going on holding it," she said. "I can see what it's doing. Sit somewhere until it's done it."
 
 It was nearly two hours.
 
-Kiva spent them in the west tier, in a seat on the aisle, with her left hand in her lap like a thing that she was minding for somebody. Orla sat beside her with the stick between her boots. Below them the lanes went down to their last two. Then the stewards cleared the oak, and wheeled out six trestles, and on each trestle they set a bank of six cells.
+Kiva spent them in the west tier, in a seat on the aisle, with her left hand in her lap where nobody could knock it. Orla sat beside her with the stick between her boots. Below them the lanes went down to their last two. Then the stewards cleared the oak, and wheeled out six trestles, and on each trestle they set a bank of six cells.
 
 "That's the Bench," said Kiva.
 
@@ -378,17 +378,15 @@ Kiva could not hear the words. She could hear that there were words. Anwen's han
 
 It took her four minutes and a little over. It was the third-best time on the day.
 
-"That's a wall-holder," said Orla. "That's somebody who's been told the end of a line is the worst place, and has gone and stood on it." She was silent a moment. "I'd like to have had her on that floor in '60. I'd like to have had anybody who said a thing aloud before they did it."
+"That's a wall-holder," said Orla. "That's somebody who's been told the end of a line is the worst place, and has gone and stood on it." She was silent a moment. "I'd have given a good deal to have her on that floor in '60. Or anybody who told the others what she was doing before she did it."
 
 "You've got her now."
 
-"I haven't. You have. And you've only got her because you knocked on a gatepost." The stick turned in the old hands. "What's the card say?"
+"I haven't. You have. And you've only got her because you knocked on a gatepost." The stick turned in the old hands. "And Aske?"
 
-Kiva did not need to take it out.
+"One in the week, if the lane wanted it," said Kiva. "Then nothing."
 
-"*One, in the week, if the lane wants it. Then nothing.*"
-
-"And the lane wanted it, and you spent it, and a boy in a black coat had the good of it." Orla did not say it harshly. "I'd have declared the same. I'll put that in my own book, so that it's not only in yours. Tomorrow you kneel. You set a mark and you call a count and you open nothing whatever."
+"And the lane wanted it, and you spent it, and a boy in a black coat had the good of it." Orla did not say it harshly. "I'd have declared the same. Tomorrow you kneel. You set a mark and you call the cord and you open nothing whatever."
 
 "I know."
 
@@ -402,4 +400,4 @@ The feeling had been back in her fingers since a little after five. It had come 
 
 She did not tell Orla that. Orla was watching the floor, where a steward was wheeling away the third trestle from the north door.
 
-She wrote it in the book instead, where it would be read.
+Kiva closed the hand on her knee, slowly, the way you close a gate you are not sure of, and watched the two fingers come last.
