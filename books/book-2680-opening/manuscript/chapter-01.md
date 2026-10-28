@@ -386,7 +386,7 @@ She stood up and put the last of the bun back into Perrin's hand.
 
 Anwen looked up at her. "Meaning what, exactly?"
 
-"Meaning I'm going home now, not tonight, and I'm putting that form in front of Mara. And then I'm going into the Cellhouse and doing something they can't defer."
+"Meaning I'm going home, and I'm putting that form in front of Mara before I lose my nerve. And then I'm going into the Cellhouse and doing something they can't defer."
 
 Perrin regarded the half bun in his hand. "That was a speech."
 

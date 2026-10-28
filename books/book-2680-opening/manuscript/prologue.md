@@ -74,7 +74,7 @@ Her father's watch was still running. It was an old wind-up thing with a cracked
 
 Quarter to twelve.
 
-When she came out of the kitchen with the candle, Joel was in the hall with the cupboard open. He had his work boots on and his tool roll under his arm, and he was holding the big rubber torch from the top shelf, which did not work either. He stood there with it as if he had forgotten what it was for.
+When she came out of the kitchen with the candle, Joel was in the hall with the cupboard open. He had his work boots on and his tool roll under his arm, and he was holding the big rubber flashlight from the top shelf, which did not work either. He stood there with it as if he had forgotten what it was for.
 
 "Where are you going?" said Mina.
 
@@ -100,7 +100,7 @@ Nobody answered him. Down the hall, whoever was at the elevator had stopped poun
 
 Joel looked at the door. Then he looked at Ben, in his pajamas, and at Saffi in her socks, and at the one candle.
 
-He put the torch down on the hall table.
+He put the flashlight down on the hall table.
 
 "In the morning," he said. "When it's light. There'll be somebody at Linden Road in the morning, and I'll be one of them." He sat down on the floor with his back against the front door and his boots still on, and he did not take them off.
 
@@ -170,7 +170,7 @@ Hollin did not raise his voice. "That fuel was crew three's. Every liter in that
 
 Teo had known it would come to this, and he had thought, running the machine, that he would have something to say. He did not.
 
-"Me," he said at last. "Tell him it was me. Tell him to his face, with my name on it. And tell him the girl's name."
+"Me," he said at last. "Tell him it was me. Use my name. And tell him the girl's name."
 
 "They'll have your card for this."
 
@@ -292,33 +292,33 @@ The director put Oriel Hask on the upriver barge with a purse of ash, a letter o
 
 "Learn the draw," he said, "and come home. Don't let them keep you for the slow part."
 
-Oriel was nineteen and the junior orderly at the Lowmarket infirmary. Lowmarket was ten days down the river from Meridian by barge, and where Meridian was the big station in the tech country, with its walls and its hardened lamps and its medicine, Lowmarket was a market town with a mud wharf, two churches, and an infirmary with one healer.
+Oriel was nineteen and the junior orderly at the Lowmarket infirmary, ten days down the river from Meridian. Meridian had walls and hardened lamps and medicine. Lowmarket had a mud wharf, two churches, and one healer.
 
 The healer was a hand-door Kindled named Brother Aldous, who could put his palm on a fever and draw it down like water out of a well. Two months ago a scavenger crew had come back down the river with their skin peeling, after a season picking through the empty towns across from the dead power station at Corbel Reach. Brother Aldous had tried to help them without knowing how, and now he was in a bed beside them, and his hands shook when he held a cup.
 
-Meridian's Home Line knew how. Everybody said so. So the director had paid for the barge, and Oriel had gone, because she was the one he could spare.
+Meridian's Home Line knew how. So the director had paid for the barge, and Oriel had gone, because she was the one he could spare.
 
 ---
 
 The trainer who met her at the south wall did not look at the letter.
 
-She was a lean woman of about forty with a burn scar across one cheek and her sleeves rolled to the elbow, and she led Oriel along the foot of the wall to a strip of packed earth between the wall and a row of sheds. Down the middle of it stood nine posts, thick and black and taller than a man. They were not in a straight row. They wandered a little, left and then right, the way a path wanders across a field. The last one stood out from the wall at a lean, with an iron bar run through its top.
+She was a lean woman of about forty with a burn scar across one cheek, and she led Oriel along the foot of the wall to a strip of packed earth between the wall and a row of sheds. Down the middle of it stood nine posts, thick and black and taller than a man. They were not in a straight row. They wandered a little, left and then right, the way a path wanders across a field. The last one stood out from the wall at a lean, with an iron bar run through its top.
 
 "Recall," said Oriel. "I've come to learn recall. For burns. The bad kind."
 
-"I know what you've come for. Everybody who comes up the river comes for that." The trainer nodded at the posts. "First you run the lane."
+"Everybody who comes up the river comes for that." The trainer nodded at the posts. "First you run the lane."
 
 "I'm not a fighter."
 
-"Nobody here is, the first week." The trainer handed her a strip of black cloth. "Tie that on. You run it dark. You keep your left hand out and touch each post as you pass. Before the eighth, you call the turn, out loud, so the one behind you hears it. At the last post you put your hands on the bar and say who has it."
+"Nobody here is, the first week." The trainer handed her a strip of black cloth. "Tie that on. You run it dark. Keep your left hand out and touch each post as you pass. Before the eighth, you call the turn, so the one behind you turns with you. At the last post you put your hands on the bar and say who has it."
 
 "Who has it?"
 
-"You, the first time. Say your name."
+"You, the first time."
 
 Oriel tied the cloth on.
 
-She hit the third post with her shoulder and the fifth with her face. She forgot to call the turn, and the boy behind her, who was perhaps fifteen and had been told to follow her, walked straight into her back. At the last post she found the iron bar by falling against it.
+She hit the third post with her shoulder and the fifth with her face. She forgot to call the turn, and the boy behind her walked straight into her back. At the last post she found the iron bar by falling against it.
 
 "Hask," she said, into the dark. "Hask has the bar."
 
@@ -326,23 +326,17 @@ She hit the third post with her shoulder and the fifth with her face. She forgot
 
 ---
 
-She ran it again and again that afternoon, and every run was worse than the one before, because she was tired. That night she lay on a cot in the Home Line's long hall with her hands throbbing and thought about the director.
-
 On the third day the trainer let her near a patient.
 
-It was not a burned man. It was a Home Line hand who had cut his foot on a scavenging job, and the cut had gone hot and swollen, and the trainer sat Oriel beside him in a shed with the shutters closed.
+It was not a burned man. It was a Home Line hand whose cut foot had gone hot and swollen, and the trainer sat Oriel beside him in a shed with the shutters closed.
 
-"Hands on him," she said. "Eyes shut. Tell me what you've got."
-
-"I don't—"
-
-"Say it. Out loud. That's the whole trick. You read with your hands, in the dark, the way you found those posts. And you say what you're doing while you do it, so that if you go down, the next one knows exactly where you were."
+"Hands on him. Eyes shut. You read with your hands, in the dark, the way you found those posts. Tell me where you are as you go, so that if you go down, I know where to pick it up."
 
 Oriel put her hands on the man's shin and shut her eyes.
 
-It was like the lane. She found nothing, and nothing, and then something. It was a heat that was not the heat of his leg. It sat in one place, low, like a coal in ash.
+It was like the lane. She found nothing, and nothing, and then something: a heat that was not the heat of his leg, sitting low, like a coal in ash.
 
-"There," she said. "Above the ankle. It's small. It's hot."
+"There. Above the ankle. It's small."
 
 "Good. Now don't do anything about it. Read the rest of him."
 
@@ -352,27 +346,25 @@ It was like the lane. She found nothing, and nothing, and then something. It was
 
 She read him for an hour. She was not allowed to draw anything.
 
-On the fifth day a bargeman found her at the wall with word from Lowmarket. The director said the crew was worse. One of them, Carrick, had stopped eating. The director said she was to come home on Thursday's barge with whatever she had.
+On the fifth day a bargeman found her at the wall with word from Lowmarket. The crew was worse. One of them, Carrick, had stopped eating. She was to come home on Thursday's barge with whatever she had.
 
-Oriel went to the trainer and told her.
+Oriel told the trainer.
 
-"Then go on Thursday," said the trainer. "You can draw. I've seen you. You'll get the worst of it out of them."
+"Then go on Thursday," said the trainer. "You can draw. You'll get the worst of it out of them."
 
 "And the rest?"
 
-"The rest is the slow part. Read it, draw it, spend the ash to pull it off you, vent it in the ground before it lodges in your own hands. Stop when the ash is out, or you're next." She said it flatly, as if she had said it a great many times. "You've got the draw. You haven't got the reading, and you haven't got the stopping. Those are four more days."
+"The rest is the slow part. Read it, draw it, spend the ash to pull it off you, vent it in the ground before it lodges in your own hands. Stop when the ash is out, or you're next." She said it flatly, as if she had said it a great many times. "You've got the draw. You haven't got the reading, and you haven't got the stopping."
 
-"He said not to let you keep me for the slow part."
+"He said not to let you keep me."
 
-"I'm not keeping you. The barge is on Thursday." The trainer turned back to the lane, where two boys in blindfolds were coming down it at a jog with their hands out. "Turn," said the first one, before the eighth post, and the second one turned with him.
-
-Oriel watched them reach the end. The second boy got there first and put both hands on the bar.
+"I'm not keeping you. The barge is on Thursday." The trainer turned back to the lane, where two boys in blindfolds were coming down it at a jog with their hands out. "Turn," said the first one, before the eighth post, and the second one turned with him. The second boy reached the end first and put both hands on the bar.
 
 "Dunn has the bar," he said.
 
 "Why does that one lean?" said Oriel.
 
-She had wanted to ask since the first day. It was the only post in the lane that stood out from the wall, and the only one with a bar through it, and it was black and split with age and bound with iron.
+She had wanted to ask since the first day. It was the only post that stood out from the wall, black and split with age and bound with iron.
 
 The trainer did not look round.
 
@@ -380,15 +372,11 @@ The trainer did not look round.
 
 Oriel waited for the rest of it. There was no rest of it. The trainer was already calling the boys back to the start.
 
-She did not go home on Thursday.
-
----
-
-That night by the long hall's fire, a girl from up the valley country said that her grandmother had told her the sky had a lid on it, and that the bombs in the Fall had cracked it, and that was why the tears came. Her grandmother had said that the people who first worked it out had been burned in their own houses for saying so.
+That night by the long hall's fire, a girl from up the valley country said that her grandmother had told her the sky had a lid on it, and that the bombs in the Fall had cracked it, and that was why the tears came.
 
 "Your grandmother says a great deal," said the trainer, from the bench by the door. She did not say that it was wrong.
 
-Oriel thought about the word *lid* for a long time. Then she thought about Carrick, who had stopped eating, and went to sleep.
+Oriel did not go home on Thursday.
 
 ---
 
@@ -396,21 +384,17 @@ She came home four days late.
 
 The director met her on the wharf. He was a big, tidy man who liked the infirmary to run like a clock, and he did not shout, but he walked very fast beside her up the hill.
 
-"Four days," he said.
-
-"Four days."
-
-"Aldous can't lift a spoon. Carrick—"
+"Aldous can't lift a spoon," he said. "Carrick—"
 
 "I know," said Oriel. "I'm here now."
 
-She did it in the long ward with the shutters closed, so that it was dark, which was how she had learned it. She put her hands on Carrick first, because he was the worst. She read him from the crown of his head to his feet before she drew anything, while the director stood in the doorway with his arms folded, and she said every part of it aloud.
+She did it in the long ward with the shutters closed, so that it was dark, which was how she had learned it. She put her hands on Carrick first, because he was the worst. She read him from the crown of his head to his feet before she drew anything, while the director stood in the doorway with his arms folded.
 
-"Reading. Chest. Long bones. It's gritty. It's in his thighs, both. Drawing now. Left hand. Spending."
+"Chest. Long bones. It's gritty. It's in his thighs, both. Drawing now."
 
 The ash in her left palm went from pale to dark. She knelt at the clay pit she had made them dig behind the ward and put both hands into the wet clay until they were clean.
 
-"Three drams," she said, when she came back in. "That's him. The others will be less. Aldous last, because he's the least, and because he'd want to be."
+"Three drams," she said, when she came back in. "The others will be less. Aldous last, because he's the least, and because he'd want to be."
 
 "That's most of what you took with you," said the director.
 
@@ -418,9 +402,7 @@ The ash in her left palm went from pale to dark. She knelt at the clay pit she h
 
 Carrick's hands did not come back. The skin of them stayed thin and shiny for the rest of his life, because what had already been done stayed done. But on the second morning he asked for bread, and on the fourth he ate it.
 
-The director came to the ward that evening and stood at the foot of Brother Aldous's bed, and watched him drink a cup of water with both hands and not spill any.
-
-"Four days," said the director again. But he said it differently.
+That evening the director came to the ward and stood at the foot of Brother Aldous's bed, and watched him drink a cup of water with both hands and not spill any. Then he went and fetched a second stool from the corridor, and set it beside Oriel's, and sat down on it, and did not go back to his office until the lamps were out.
 
 ---
 
@@ -510,7 +492,7 @@ Abel shut the crate.
 
 "Abel—"
 
-"You get the core panel, you come out at forty-one again. Maybe fifty, if the panel sticks. I clear you, and the tin's empty. And then I've got whatever I couldn't separate from you sitting in my own hands, and nothing to spend getting it out." He held up his palms, which were trembling. "Recall's not free. It's paid for. When the ash runs out, it gets paid for out of me, and if I keep going after that, I'm the next one on the cot."
+"You get the core panel, you come out with that needle twice as high. More, if the panel sticks. I clear you, and the tin's empty. And then I've got whatever I couldn't separate from you sitting in my own hands, and nothing to spend getting it out." He held up his palms, which were trembling. "Recall's not free. It's paid for. When the ash runs out, it gets paid for out of me, and if I keep going after that, I'm the next one on the cot."
 
 "It's three more minutes."
 
@@ -528,7 +510,7 @@ Then he stood up and turned toward the winch, and called it, loud enough for the
 
 At the winch, Dov straightened. "Abort, rotation five," he called back. "Heard."
 
-In the tent, Linnet lifted the cloth off her face and said it too, hoarsely, so that it had been said three times and nobody could pretend afterward that it had not.
+In the tent, Linnet lifted the cloth off her face, looked at the canvas over her for a moment, and put the cloth back.
 
 "That's not a failure," said Abel, more quietly. "That's the job. Six binders out. We went in and we came out, and now everybody knows we can. We come back in the autumn with forty tins and two more healers."
 
@@ -902,7 +884,7 @@ Hester moved the four little vials from the windowsill into the cupboard, one at
 
 Downstairs, in the cellar, Femi stood over the crate of cut cells for a while.
 
-Mr. Pask would be at the Works by morning, and the Works would want its test cell back or its price out of Femi's wages, and somebody in a good coat would ask him what he thought he was doing. He knew what he would say. He would say it to the man's face. A child's medicine was in that cupboard, and the cells came back clean or they did not come in, and the ash said *First* and was not.
+Mr. Pask would be at the Works by morning, and the Works would want its test cell back or its price out of Femi's wages, and somebody in a good coat would ask him what he thought he was doing. He found that he was not worried about what he would tell them. A child's medicine was in that cupboard. The ash said *First* and was not. He picked up one of the cut cans, weighed it in his palm a last time, and put it back in the crate with the others, lid down.
 
 It was dusk by the time he had the wagon loaded. Across the canal, the Lantern had come on, a long white wash of light along the far bank, the same as every evening of his life. Weighbridge Street was dark behind him, with oil lamps showing in a window here and there and the Pellow Building standing unlit over its new green core. He looked up to the second floor anyway. He could not see it from the street, but he knew it was there, behind a cupboard door in 2C: one small yellow light, on this side of the water.
 
@@ -1010,13 +992,9 @@ As they turned toward the hill, Tova rolled over and looked up the valley.
 
 The gravel bar was gone. There was only brown water where it had been, and a faint grey sheen spreading out on the current like smoke.
 
-Hob came and crouched beside her. He did not say anything for a while. Then he said it the way he would have to say it on the quay at Saltmere, to the standings board's face.
+Hob came and crouched beside her. He did not say anything for a while. He looked at the brown water where the gravel bar had been, and then he rubbed his face with both hands.
 
-"Barrel-yield killed at a quarter past six, all six of us on it. Rift closing. Spillway gates lost. Three people and a dog off a roof. One Barrel of clean ash, lost to the flood."
-
-"And when they ask why?"
-
-"They were on the roof." He rubbed his face. "The board will dock us for the ash. We'll be fourth this season. Maybe fifth."
+"The board will dock us for the ash," he said. "We'll be fourth this season. Maybe fifth."
 
 "I know."
 
@@ -1024,9 +1002,7 @@ Hob came and crouched beside her. He did not say anything for a while. Then he s
 
 "The water would have been at the roof in thirty."
 
-He held her eyes for a moment.
-
-"That's what I'll tell them," he said.
+He held her eyes for a moment. Then he took off his own jacket, which was dry, and went and put it round the shoulders of the woman from the roof, and came back and sat down by Tova on the wet deck without a word.
 
 Behind them, the crying had stopped. The little girl was sitting against the deck rail in somebody's company jacket, with both arms around the wet brown dog, and the two of them were watching the roof of their house get smaller behind the boat.
 
@@ -1088,7 +1064,7 @@ The Warden's hand went up against it, and Foreman Rudd's, and two lecturers' fro
 
 Foreman Rudd unfolded his arms.
 
-"The Line will go on running its own lanes dark," he said. "With the call. I'd like that said in this room, so nobody's surprised."
+"The Line will go on running its own lanes dark," he said. "With the call."
 
 "That is the Line's business," said Orme pleasantly. "Item four."
 
@@ -1106,7 +1082,7 @@ Marisol stopped. "Warden."
 
 "A place?"
 
-"At our house. In the hills." Sand said it simply, as if it were an ordinary thing to say to a stranger on a stair. "The Order would train you in your one door. Ward, I think. You'd give up the others. You'd give up most things. And you'd stay."
+"At our house. In the hills." Sand put it simply, as if it were an ordinary thing to say to a stranger on a stair. "The Order would train you in your one door. Ward, I think. You'd give up the others. You'd give up most things. And you'd stay."
 
 Marisol did not know what to say, so she said the true thing. "Why would I do that?"
 
@@ -1114,13 +1090,13 @@ Marisol did not know what to say, so she said the true thing. "Why would I do th
 
 "The woman on the flood-wall. In bronze."
 
-"She was ours. Our master. She reached Glory, which almost nobody does, and she held the Eastbank wall through the whole of a flood. And she had a dream, when she was fevered, the same dream, more than once." Sand's voice did not change. She might have been giving directions to the tram. "People coming from every road at once. Each with a different light. When they came close, their lights touched, and none of them could tell where one stopped. And the sky over them was not torn. It was not there. As if someone had taken the roof off a house in the night." She paused. "And what was above came down. Full. Paying attention. And every lamp in Meridian answered at once. Some went out. Some went white. One turned a color she had no word for."
+"She was ours. Our master. She reached Glory, which almost nobody does, and she held the Eastbank wall through the whole of a flood. And she had a dream, when she was fevered, the same dream, more than once." Sand's voice did not change. She might have been giving directions to the tram. "She saw the sky come off. Not torn. Gone. Like the roof off a house in the night." She stopped there, as if that were as far as anybody went on a stair. "There was more. She didn't tell it to strangers. Neither do I."
 
 The workmen in the yard had stopped for their lunch. It was very quiet on the stair.
 
 "That's what you believe?" said Marisol.
 
-"That's what we believe. That the sky will come off. That when it does, somebody had better be standing there who has spent a whole life on one door and knows exactly what it can hold." The Warden turned back to her. "We don't know when. We don't know what the people from every road are for. We train so that we're there."
+"That's what we believe. That the sky will come off. That when it does, somebody had better be standing there who has spent a whole life on one door and knows exactly what it can hold." The Warden turned back to her. "We don't know when. We don't know what comes after. We train so that we're there."
 
 "And you want me."
 
@@ -1352,7 +1328,7 @@ The disk lay in the middle of them. It was cold, but only ordinary cold now, lik
 
 The old woman from the bowl came over to them. She crouched slowly, with a hand on her knee, and considered Kiva for a long time.
 
-Then she turned to Mara, and said it to her face.
+Then she turned to Mara.
 
 "All three," she said. "Classification deferred. I'm sorry. I've been reading children on that bench for thirty years, and I have no name for what that was."
 

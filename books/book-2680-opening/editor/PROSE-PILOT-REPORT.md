@@ -177,3 +177,95 @@ into the Cellhouse and do something that a board could count.
 After: She stood up and put the last of the bun back into Perrin's hand. "I'm done waiting
 for a board to tell me what I am," she said. … "I'm going home now, not tonight, and I'm
 putting that form in front of Mara."
+
+## 5. Fix round 1 (after blind cold reads and verifier, 2026-10-28)
+
+The cold reads preferred the new prologue (7.1 vs 6.4) and the new Ch. 1 (7.0 vs 6.6).
+For Ch. 46 the editor narrowly preferred the old version (6.55 vs the new 6.7 overall).
+The verifier passed it with notes. This round changes the same three files.
+Renames are still waiting on the owner: Measure Hall, Rule Nine, Team Eleven, and the
+Ch. 43 gate state.
+
+**Said aloud stopped being the new record.** The fix cuts the "said aloud" witness
+device, the "to X's face" device, and "I'd like that said/known." No section now closes
+on any of them.
+
+Prologue:
+- "Said three times and nobody could pretend" is gone. Linnet puts the cloth back.
+- Hob's spoken company-book report is gone. He gives his dry jacket to the woman from
+  the roof.
+- "I'd like that said in this room" is gone.
+- Teo's "to his face" is gone.
+- Femi's "say it to the man's face" is gone. He puts the cut can back, lid down.
+- The assessor's "said it to her face" is gone.
+- Oriel's "said every part of it aloud" is gone. The director now ends the scene by
+  fetching a stool and sitting.
+
+Ch. 46:
+- "He said it aloud… the whole yard had it" now reads: the flat field voice.
+- "To my face" is gone.
+- "I'd like that said / It's said" is replaced by "I'm frightened." / Vane nods: "So am
+  I. Do you take it?"
+- "Every piece of it was said aloud" is gone.
+- Rhea's "I cut, and look after" becomes "I've cut first and asked the price after… It
+  seems I can ask it first."
+
+**The Ch. 46 tactic is restored, as rhythm with no numbers.**
+- The arm's pull and give tries to pull whoever holds it into step. It is the Step, the
+  same thing that coupled the Ferren bank. Kiva breaks step: she takes the weight down
+  late, off its beat, and never in the same place twice.
+- Dray calls the creature's time so that Kiva knows where not to be.
+- Kiva teaches the still-doors the same thing, and catches Moss nodding with it.
+- The pump house rhymes with it. Mara tunes so that no two cells take the same step, and
+  the lamps come back "one at a time, and not together."
+- Dray's last word becomes: "you never once came in on it… Once you nearly did."
+
+**The pump-house clock has no minute counts.**
+- Lumb's sill is a brass plate a foot over Mara's chalk.
+- The quench kills the room's own lamps, leaving two oil lamps. Mara's gutters and goes
+  out.
+- Down the culvert, water "talking to itself in the dark" gets nearer.
+- Lumb stops chatting, and his voice goes "thin and high" at the brass. It comes "back to
+  its own size" when the third pump draws.
+
+**Other fixes:**
+- Noa: "about a dozen" became a precise observation: he has laid the Pit tape on this one,
+  and "the notch sits on the Pit's notch, to the width of the pen."
+- Refrain counts in Ch. 46 (base → pilot → fix 1): "haul" 6 → 19 → 3. "The slack" 2 → 10
+  → 2. The new "beat" was held to 5.
+- The prologue Warden now gives one fragmentary image (the sky "gone. Like the roof off a
+  house in the night") and withholds the rest. Kiva's dream in snapshot 11 carries the
+  full images. This goes further than `PROLOGUE_PLAN.md` §5 row 10's "a few of Annick's
+  images," by the coordinator's direction.
+- The Oriel snapshot is trimmed 1,555 → 1,337 words (−14%). "Four days" now appears once,
+  where there were five.
+- Smaller fixes:
+  - The orphaned "forty-one again" now reads "that needle twice as high."
+  - Joel's torch is now a flashlight, matching Dabrowski's.
+  - Ch. 1 now reads "before I lose my nerve."
+  - Dray's "Early on." is gone.
+
+**Counts, base (9e79575) → pilot (ff3007f) → fix 1**
+
+| File | aloud | "said it" | to (his/her/…) face | I'd like that/it said/known | haul* | "the slack" | any slack |
+|---|---|---|---|---|---|---|---|
+| prologue | 1 → 1 → 0 | 0 → 7 → 2 | 0 → 2 → 0 | 0 → 1 → 0 | 1 → 1 → 1 | 0 → 0 → 0 | 1 → 1 → 1 |
+| ch. 1 | 0 → 0 → 0 | 2 → 3 → 3 | 1 → 1 → 1 | 0 → 0 → 0 | 0 → 0 → 0 | 0 → 0 → 0 | 0 → 0 → 0 |
+| ch. 46 | 2 → 2 → 0 | 3 → 5 → 4 | 0 → 1 → 0 | 2 → 3 → 2 | 6 → 19 → 3 | 2 → 10 → 2 | 4 → 17 → 3 |
+
+In the table, the "to X's face" regex misses possessive forms. Those were also cut: Femi's
+"to the man's face" and Hob's "to the standings board's face." Aske's "to the foreman's
+face" is the original line and is kept. Ch. 1's "to their faces" is original. Ch. 46's
+two "I'd like it known" are Perrin's original lines. The three "said it" in Ch. 1 are
+plain verbs and are original.
+
+Words after fix 1:
+- prologue 17,067 (+2.7% vs base)
+- Ch. 1 5,149 (−7.2%)
+- Ch. 46 7,995 (+10.5%; the tactic and the clock added scene)
+
+**§8.5 and §6 re-run** on all three files: time in counts 0; counting habit 0; free nine 0;
+free eleven 0; fixed nines (posts 1, grooves 1); fixed elevens 0; Rule Nine / Team Eleven
+0; no chapter closes on a count; banned phrasings 0; ledger/notebook/column 0; theme
+words 0; broad motif lines 0; decimals 0 / 8 / 0. Full output is in
+`.foreman/scratch/prose-pilot-fix1.txt`. That file is not committed.
