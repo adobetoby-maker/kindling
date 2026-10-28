@@ -110,7 +110,7 @@ Forty paces beyond the white tape, on the bank of the cut, stood a small brick h
 
 An old woman was standing on the berm behind the row of candidates, in a man's overcoat tied round the middle with string. She had been there since before sunrise, Kiva realized. She had taken her for one of the Home Line's people. She had a face like a walnut and a trowel sticking out of one pocket.
 
-"That's the allotment pump, and I'm the pump warden this year, for my sins. And that's my potato bed they've got their door hanging over, and my shed, and those are my bean poles." She did not sound angry. She sounded like somebody reading out an inventory after a flood. "Agnes Roake. Plot nineteen. I had four hundred seedlings pricked out to go in this week. They're in trays behind the shed. I'd be obliged if nobody trod on them."
+"That's the allotment pump, and I'm the pump warden this year, for my sins. And that's my potato bed they've got their door hanging over, and my shed, and those are my bean poles." She did not sound angry. She sounded the way people sound the morning after a flood. "Agnes Roake. Plot nineteen. I had four hundred seedlings pricked out to go in this week. They're in trays behind the shed. I'd be obliged if nobody trod on them."
 
 "I'll tell my team," said Kiva.
 
@@ -510,7 +510,7 @@ She sat down on the bank. After a moment she unlaced her own boots.
 
 "What stopped you?"
 
-"You were calling." Mara looked at the brown water. "I could hear you. Flat as a bench reading, the whole time that thing was walking at you. And I thought, if she can call it like that, she doesn't need me shouting about quench handles."
+"You were calling." Mara looked at the brown water. "I could hear you. Your voice never once went up, the whole time that thing was walking at you. And I thought, if she can call it like that, she doesn't need me shouting about quench handles."
 
 Kiva leaned against her. She had not done that since she was small. Her aunt's shoulder was thin and hard and smelled of machine oil, and it did not move.
 
@@ -528,4 +528,4 @@ The blue over the potato bed went grey, and then it was only air.
 
 Kiva put her hand to her chest, out of habit. Through her shirt the disk lay where it always lay. It was cold. She found that she had not expected it to be anything else, and that today, for once, the cold did not feel like a verdict.
 
-She had opened nothing at all. She had four tins.
+She had opened nothing at all. Beside her, Mara was still holding her own boots, and did not seem to be in any hurry to put them on.

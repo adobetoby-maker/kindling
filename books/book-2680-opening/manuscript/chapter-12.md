@@ -352,7 +352,7 @@ Kiva pressed the last lid. "Seal check."
 
 They weighed fifteen drams and three-tenths. It was under the mark by nearly five.
 
-"That's the skin," said Druce. "It goes off like a dropped lamp. I've not seen one tinned above sixteen." He said the next part to nobody. "Fourth this month."
+"That's the skin," said Druce. "It goes off like a dropped lamp. I've not seen one tinned above sixteen." He said the next part to nobody. "Another."
 
 "Warden." Kiva had not got up. She was still looking at the tins. "Some of it had something in it already. Before I touched it. Nobody was lit, I looked. It wasn't a print. It was only in a little of it, the part that came off the front." She tried to find the word, and could only find the one she had. "It felt curved."
 
@@ -363,6 +363,8 @@ Druce went very still.
 She said it again. He crouched, with a crack of the knees, pulled the glove off his right hand, and laid his grey fingertips flat on the lid of the last tin. He kept them there for a long while, with his eyes shut, the way Mara listened to a box.
 
 "Curved," he said at last, very quietly. "Yes. That's what I felt in Wednesday's tins, and called it nothing."
+
+He stood, and pulled the glove back on, and went to fetch the salt himself.
 
 ---
 
@@ -409,6 +411,8 @@ She folded her list once and put it in her coat, in the inside pocket. Kiva watc
 Anwen saw her thinking it.
 
 "Seven's whole," she said. "I told you so on Wednesday. I'm not going to keep telling you."
+
+Then she got up and went through to help her mother with the coppers, and left them the bread.
 
 ---
 

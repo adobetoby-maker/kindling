@@ -98,13 +98,13 @@ Moss had seized the foot poles again. He hauled. He was a great deal stronger th
 
 The litter did not move.
 
-From his knees, with the line judge's glass running beside him, Lowen Brask looked up at her. He was smiling. It was the slow, pleased, rueful smile of a teacher who has been caught out by a pupil.
+From his knees, Lowen Brask looked up at her. He was smiling. It was the slow, pleased, rueful smile of a teacher who has been caught out by a pupil.
 
 "You didn't look," he said.
 
 "Not this time."
 
-"No," said Brask, as if she had handed him something. He bowed his shaved head and waited out the glass.
+"No," said Brask, as if she had handed him something. He bowed his shaved head and knelt where he was, as patient as a man in a queue.
 
 ---
 
@@ -116,7 +116,7 @@ Keld got round Pru in the end. She did it by not going round at all. She put her
 
 "She had to *lean*!" said Pru, from her knees, in a voice of pure wonder. "Jude, did you see, she had to lean on it, nobody's ever had to lean on mine—"
 
-Then there were three of them on Old Tom's foot poles, because Brask had risen when his glass ran through and taken the left one, and Keld had come to help, and Kiva began to learn what her arms were made of.
+Then there were three of them on Old Tom's foot poles, because Brask had been waved up and taken the left one, and Keld had come to help, and Kiva began to learn what her arms were made of.
 
 She was not being moved. That was the strange part. The step had her heel and the sand had her knees. But the poles were only wood, and her hands were only hands, and three still-doors were trying to draw seventy kilos of sand out of her grip a hair at a time. Her fingers burned. The two slow ones on the left burned least, because they could not properly feel it, and she watched them, coldly, to be sure they had not opened without telling her.
 
@@ -178,7 +178,7 @@ The board turned over its figures for the last time.
 
 And beside her own name: *Dram, 0.98. No overspend.*
 
-A pinch left. She had spent the whole of the third carry standing still, and the board had barely moved.
+She let go of the poles and found that she could not open her left hand.
 
 ---
 
@@ -202,7 +202,7 @@ Kiva's would hardly close. Idony Keld took it anyway, briefly, and looked at the
 
 The referee had not moved from her table. When the gallery had begun to thin, she looked up at Kiva and gave the ruling to her across the sand, in the voice like a dropped crate, so that the girl would not have to come and ask for it.
 
-"Rowan, K., provisional. Door declared every carry. Three changes, each one declared, none before my flag. No undeclared change. No incident." She laid her hands flat on the table. "That's what I'll tell the Chair tonight. I had you in the Terrace Ring last month. You'd lit all three by the first touch, and you fell over a step. That's a different fighter, and I'll say so." She paused. "I'll tell you what else I'll say, since I don't talk behind people's backs. I told the Chair when she placed you that a fighter who has to be flagged from one door to the next isn't safe. She's supervised. I've seen nothing today to change my mind, and I'll tell her that too."
+"Rowan, K., provisional. Door declared every carry. Three changes, each one declared, none before my flag. No undeclared change. No incident." She laid her hands flat on the table. "I had you in the Terrace Ring last month. You'd lit all three by the first touch, and you fell over a step. That's a different fighter." She paused. "And the other thing, so you don't hear it from somebody else. I told the Chair when she placed you that a fighter who has to be flagged from one door to the next isn't safe. She's supervised. I've seen nothing today to change my mind."
 
 "We lost," said Kiva. It was all she could find.
 
@@ -214,7 +214,7 @@ She did not get to sit down. Noa Bexley was standing in front of her with an exp
 
 "Ask."
 
-"I want to read you. Not just the tape. Everything. Output, draw, how long each door takes to come back, what they do when they're shut." It came out in a rush. He had clearly said it to himself a good many times. "I think the bench has been wrong about you for four years, and I think I can show how. If I'm right, people will hear about it, and I want my name on it. Second. After yours. I'd rather say that now than have you find out later that I wanted it." He swallowed. "They're your doors. If you say no, I won't take any of it to anyone. I'll still read the tapes, because I can't not. But it stays with me."
+"I want to read you. Not just the tape. Everything. Output, draw, how long each door takes to come back, what they do when they're shut." It came out in a rush. He had clearly said it to himself a good many times. "I think the bench has been wrong about you for four years, and I think I can show how. If I'm right, people will hear about it, and I want my name on it. Second. After yours. Better I say that now than have you find out later that I wanted it." He swallowed. "They're your doors. If you say no, I won't take any of it to anyone. I'll still read the tapes, because I can't not. But it stays with me."
 
 Kiva looked at him. She thought about a quench box, and a tape pulled every night by order, and a clerk on a bench who had called out three point one.
 
@@ -280,7 +280,7 @@ She unrolled it along the bench under the lamp and stood at Noa's shoulder while
 
 The referee looked at it for longer than he had.
 
-"That's my board," she said. "My mast, my tape, my lane, and I cut it." She rolled it up again, slowly. "I'll tell the Chair I stood here and saw it."
+"That's my board," she said. "My mast, my tape, my lane, and I cut it." She rolled it up again, slowly, and put it inside her coat.
 
 Kiva let her arms hang. She was too tired to feel much of anything. But a thought had come to her, small and clear, and she turned it over with care, as she would a part she did not recognize.
 
@@ -306,7 +306,7 @@ Rhea was Edge only. She had been Edge only for twenty-three years, not by any ch
 
 They reached. It was the most natural thing in the world.
 
-The girl had stood at the foot of those steps for four minutes with a blade to hand and a ward to hand and a captain asking her, a pace away, why she did not use them. Rhea had been close enough to see her lips. *Because I can't get to it.* And she had gone on standing there, on the one door, with her left hand failing, until the glass ran out. And lost.
+The girl had stood at the foot of those steps for four minutes with a blade to hand and a ward to hand and a captain asking her, a pace away, why she did not use them. Rhea had been close enough to see her lips. *Because I can't get to it.* And she had gone on standing there, on the one door, with her left hand failing, until time was called. And lost.
 
 That was not a fighter either. But it was nearer to something Rhea could use.
 
@@ -326,7 +326,7 @@ They found her on the Hall steps at dusk, all three of them, because she could n
 
 Kellan had won. Crooked Line's first team had beaten Stonehand's by five points in the last lane of the card, and he had put four people down and been touched by none of them. He sat on the step below hers and told her so in two sentences, as a person might give the time.
 
-"Your third carry," he said. "I watched the board. You spent less in four minutes on those poles, with three of them pulling, than I spent in my best carry, and I wasn't holding anything. I've never been outspent downward by anyone in a sanctioned lane. I'd like to know how."
+"Your third carry," he said. "I watched the board. You spent less in four minutes on those poles, with three of them pulling, than I spent in my best carry, and I wasn't holding anything. I've never been outspent downward by anyone in a sanctioned lane. Tell me how."
 
 "I lost, Kellan."
 
@@ -334,7 +334,7 @@ Kellan had won. Crooked Line's first team had beaten Stonehand's by five points 
 
 "He says a lot of things. He's got one reading."
 
-"Then I'd like to see the next one," said Kellan.
+"Then show me the next one," said Kellan.
 
 Anwen had her coat on and a canvas bag at her feet.
 
@@ -428,7 +428,7 @@ Noa went red.
 
 When the door had shut, she did not at once go on.
 
-"You had better both hear what comes next, and what it rests on," said Ysra. "My own office tells me that I have signed more Fire readings this spring than in the ten before it put together, and that the middle of the entering class sits higher on Hold than anyone at my first bench has seen in forty years. So I have more first-years fit to try for a Flask than the calendar allowed for." She turned a pen over on the desk and did not pick it up. "Warden Druce and the Wren House graders tell me that the Kennel has thrown husks in the past month that it never threw in sixty years, and that one came off a real line on the twenty-eighth, and you caught it, Miss Rowan. The Home Line calls it a dirty spring, and has said so to the Compact board. More tears in the district since the thaw than in any spring my people can name. They want more licensed hands by midsummer than the calendar was going to give them."
+"You had better both hear what comes next, and what it rests on," said Ysra. "I have signed more Fire readings this spring than I am used to signing, and my first bench tells me this class stands longer on the posts than it can explain. So I have more first-years fit to try for a Flask than the calendar allowed for." She turned a pen over on the desk and did not pick it up. "Warden Druce and the Wren House graders tell me that the Kennel has thrown husks in the past month that it never threw in sixty years, and that one came off a real line on the twenty-eighth, and you caught it, Miss Rowan. The Home Line calls it a dirty spring, and has said so to the Compact board. More tears in the district since the thaw than in any spring my people can name. They want more licensed hands by midsummer than the calendar was going to give them."
 
 Orla had lifted her head.
 
@@ -437,6 +437,8 @@ Orla had lifted her head.
 "The Flask qualifiers," said Orla.
 
 "Were set for the last week of next month. They have been moved to the last week of this one. Every team holding a first step is on the list, in order of yield." Ysra's dry level voice did not change. "Twenty and eight-tenths puts Team Seven seventeenth of thirty-one. You are not last, Miss Rowan. I'd advise you not to enjoy it. A Flask is not a Handful with more ash in it, and you have three weeks."
+
+Orla looked at her bound knee, and then out of the window at the roofs, and did not say anything at all.
 
 ---
 
@@ -488,15 +490,13 @@ Kiva had not expected the last one tonight. She found it was there anyway, and t
 
 Orla said nothing for a while. The lamp hissed.
 
-"That's true," she said. "It isn't all of it. It'll do for a Monday." She reached for her stick. "Three weeks to a Flask. You'll kneel for it. I've nothing else to sign you for, and I won't until I see something. Now. Up. The knee can stand, and your arms can sulk. Once, and I'll time it."
+"That's true," she said. "It isn't all of it. It'll do for a Monday." She reached for her stick. "A Flask next. You'll kneel for it. I've nothing else to sign you for, and I won't until I see something. Now. Up. The knee can stand, and your arms can sulk. Once more, and let me watch it."
 
 Kiva stood in the lane.
 
 She raised her right fist and asked for Edge. The bar came, ugly and dark. She let the metal go, and did not watch it home. She breathed out. The ward, curved, leaning, folded. The weight of the old ground through her boots, taken and given back.
 
-"Eight and four," said Orla.
-
-It was two-tenths of a second. It was nothing, set beside a boy who could change his whole shape between one footfall and the next. But it had come down three times in a fortnight, and not once because she hurried.
+This time she did not feel the frame at all. It was a small thing, set beside a boy who could change his whole shape between one footfall and the next. But she had not hurried it, and it had come anyway.
 
 She put her hand inside her collar.
 

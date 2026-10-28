@@ -78,7 +78,7 @@ Nobody on the bench moved.
 
 He did not speak again until it had settled. He watched the tins go into the carrier. Then he stood at the glass with his grey fingers spread on the sill and looked at the steel door for a long moment, the way a man looks at a dog that has just bitten somebody.
 
-"That's three," he said, to nobody. "Third this month."
+"Third this month," he said, to nobody.
 
 "Was that a bad batch?" said one of the other catchers, a Wren House boy with a scared face. "Warden? Is the Kennel making bad ones?"
 
@@ -86,7 +86,7 @@ He did not speak again until it had settled. He watched the tins go into the car
 
 "Then what is it?"
 
-"It's the third one this month," said Druce. "When I know more than that, you'll hear it from me. Up you get. Next section's waiting."
+"I don't know," said Druce. "When I do, you'll hear it from me. Up you get. Next section's waiting."
 
 ---
 
@@ -226,7 +226,7 @@ It moved. She saw his shoulder turn before his arm did.
 
 "Left ribs," she said.
 
-She had not meant to say anything. It came out of her the way a reading came out of her at the bench, flat and automatic, called because the needle was there to be called. And the blow landed on her left ribs, exactly where she had said, and it hurt.
+She had not meant to say anything. It came out of her flat and automatic, the way a word comes out when you stub your toe. And the blow landed on her left ribs, exactly where she had said, and it hurt.
 
 The Ember door lifted. She felt it come up to the threshold, eager, with its hackles raised.
 
@@ -304,10 +304,6 @@ Kiva waited.
 
 "No. They've cut it in half and left me the half that's mending." Mara looked at the letter in her hand, and her left thumb moved across her right palm. "Tuning was a third of the money. A bit more in a bad winter. That regulator from Tallis Street, I can't touch that sort of thing now. They'll send it to somebody on the east bank who'll charge them double and miss the hurry." She put the letter on the bench, under the brass weight, where it could not be mistaken for a drawer. "But the van still comes. I can mend a meter and tell the city when its banks are drifting. It's half a loaf. I've eaten worse."
 
-"Until the ninth."
-
-"Until the ninth."
-
 "They want to know if Orla's signed."
 
 "They want to know if anyone who knows what they're about has said you're safe to stand near things. It's a fair question. It's the same one I asked." Mara came around the bench. "Turn round. Let me have that knot."
@@ -374,7 +370,7 @@ And she thought of Kiva on her knees on the settling floor, grey to the elbow, s
 
 "Until that bell rings. The third group's. After that Twenty-Two goes in with a Wren House reserve."
 
-"That's the same bell that calls Seven." She worked it through once, to be certain. "Then I'd like you to hold the seat until it rings. Not after. If Team Seven's whole when it rings, with all four certified, I go in with Seven. If it isn't, I go in with Twenty-Two, that morning, and I don't look back at it."
+"That's the same bell that calls Seven." She worked it through once, to be certain. "Then hold the seat until it rings. Not after. If Team Seven's whole when it rings, with all four certified, I go in with Seven. If it isn't, I go in with Twenty-Two, that morning, and I don't look back at it."
 
 Doran Mace leaned back in his chair. "That's having it both ways, Miss Pryce."
 
@@ -430,7 +426,7 @@ Nobody had expected it put quite so flatly. Perrin lowered his bun.
 
 Kiva did not know what to say to that. Nobody had ever chosen a worse place in a queue on principle and then shown her how he had got there.
 
-"And the quench," Kellan added, more quietly. "The board has my name on a failed run. I'd like a second go at the same thing with the same people. That's what a second go is for."
+"And the quench," Kellan added, more quietly. "The board has my name on a failed run. I mean to have a second go at the same thing with the same people. That's what a second go is for."
 
 "So Anwen's got one foot out of the door," said Perrin slowly, "and Kellan's got both feet in, on principle, and I've got hands like a pair of old cabbages." He looked from one to the other. "I notice that nobody has offered *me* a transfer. I'd have turned it down, mind. I'd have been very noble about it."
 

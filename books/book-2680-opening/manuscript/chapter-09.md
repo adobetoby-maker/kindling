@@ -76,7 +76,7 @@ The boy behind Pru was thin and dark, with mast ink on the side of his right han
 
 "You can ask."
 
-"Your draw at the bench was three point one. I looked at the board on Classification Day. But I pulled the Terrace Ring tape for your bout, and in the half after you stopped using two doors, your dram ran at about what Jude spends." He unwound a length of the tape from his hand and held it up to the window, as though the answer might be printed on it. "Those can't both be you. One of them's reading something else. I'd like to know which." He caught Jude's look. "Not today. I know. I only wanted to say it before I forgot how I'd put it."
+"Your draw at the bench was three point one. I looked at the board on Classification Day. But I pulled the Terrace Ring tape for your bout, and in the half after you stopped using two doors, your dram ran at about what Jude spends." He unwound a length of the tape from his hand and held it up to the window, as though the answer might be printed on it. "Those can't both be you. One of them's reading something else. I mean to find out which." He caught Jude's look. "Not today. I know. I only wanted to say it before I forgot how I'd put it."
 
 "He'll ask again," said Jude. "Every day. You're allowed to say no."
 
@@ -102,7 +102,7 @@ Kellan Renn sat at the far end with his back very straight and a First Division 
 
 Kiva did not have to ask. Kellan said it without turning his head.
 
-"The license is called in order of how the trials went. Forty teams. Team Two goes first, because it had the best trial, and we go last, because we had the worst." He said it the way he might have read out the weather. "The first twelve were licensed on Sunday and Monday, out at the Ferren culverts. There was a tear, and the Home Line held it open for a day and a half. Twelve teams. Mine would have been one of them." He paused. "It's a fair rule. I'd have made it the same way."
+"The license is called in order of how the trials went. Forty teams. Team Two goes first, because it had the best trial, and we go last, because we had the worst." He said it as if it had nothing to do with him. "The first twelve were licensed on Sunday and Monday, out at the Ferren culverts. There was a tear, and the Home Line held it open for a day and a half. Twelve teams. Mine would have been one of them." He paused. "It's a fair rule. I'd have made it the same way."
 
 "Doesn't make it taste better," said Perrin.
 
@@ -212,7 +212,7 @@ Nobody answered. They had not got as far as roles. Kiva opened her mouth to say 
 
 The dead husk was a bucket.
 
-Druce had a row of them along the back wall, filled with spent ash that had been quenched and dried and was as dead as sand, and he sent the teams down to the settling floor in fours and walked among them with a bucket on his hip. He did not say when he was going to tip it. He simply stopped somewhere, beside a tank or on a bridge or in the middle of somebody's argument, and poured a Handful of grey dust onto the brick and said, "Cut." On the table by the stair he had a sand glass as tall as a beer bottle, and a first-year turned it over every time he said the word.
+Druce had a row of them along the back wall, filled with spent ash that had been quenched and dried and was as dead as sand, and he sent the teams down to the settling floor in fours and walked among them with a bucket on his hip. He did not say when he was going to tip it. He simply stopped somewhere, beside a tank or on a bridge or in the middle of somebody's argument, and poured a Handful of grey dust onto the brick and said, "Cut."
 
 Team Seven had been given the brick beside the middle tank. The team on the next stretch watched Kiva shake out the cloth, and put their heads together, and then picked up their own kit and carried it across two plank bridges to the far wall. Druce saw them go. He let them.
 
@@ -228,7 +228,7 @@ She dropped to her knees. Her left knee told her at once what it thought of that
 
 The pans were worse. She could work one with her right hand, and she got the edge of it under the heap and drew it up, and the dust slid neatly off the far side because there was no second pan to stop it. She tried bracing the other against her boot. That was better. It was not good. By the time she had most of the heap on steel there was a grey fan of it spread across the brick where the cloth had rucked, and Perrin, who could not hold anything, was kneeling beside her with his bandaged hands in his lap, saying, "Left. More left. No, your left. That's a pan, Kiva, not a shovel."
 
-Behind her, on the table by the stair, the sand in the glass was more than half gone.
+Behind her, Druce had stopped watching the heap and was watching her hands, which she understood was not a good sign.
 
 She got the first tin between her knees and filled it. She pressed the lid. Then she had to wind the cord, and there was no way to wind a cord around a tin with one hand, so she brought her left hand out of the sling as far as the fingers and pinched the waxed end between her first finger and her thumb.
 
@@ -236,7 +236,7 @@ She could not feel it.
 
 She could see it. She could see her own finger and thumb closed on the cord. But the finger told her nothing at all, no bite of wax and no roughness, only a kind of thick dull pressure, as if she were holding the cord through the side of a boot. She wound it twice with her right hand and pulled it through the loop and did not know whether her left had kept the end tight or let it slide.
 
-"Settled," said Druce, when the glass ran out. "You finished a good while after that, which we won't discuss." He bent, picked up her tin, and turned it upside down.
+"Settled," said Druce, at about the time a live heap would have gone quiet under her. "You finished a good while after that, which we won't discuss." He bent, picked up her tin, and turned it upside down.
 
 The lid fell off. Six drams of dead grey dust poured onto the brick at her knees.
 
@@ -268,9 +268,9 @@ He stood and went away with his bucket, and a moment later she heard him say, so
 
 They came up the side stair at four, grey to the elbows, and sat on the Cellhouse steps in the sun because nobody had the strength to go anywhere else.
 
-On her last go of the afternoon she had beaten the sand, by about the width of a hair. She had sealed a dozen tins, and Anwen had put her thumb on each of them, and three had been loose.
+On her last go of the afternoon she had sealed the last tin before Druce said *settled*, by about the width of a hair. She had sealed a dozen tins, and Anwen had put her thumb on each of them, and three had been loose.
 
-"I have to tell you something," said Kellan. "All three of you. I'd rather you heard it from me."
+"I have to tell you something," said Kellan. "All three of you. Better you hear it from me."
 
 He had not sat down. He was standing two steps below them with his hands in his pockets, looking not at them but at the plaza, where the recruiters' awnings had been taken down and a man with a cart was sweeping up the last of the anniversary ribbon.
 

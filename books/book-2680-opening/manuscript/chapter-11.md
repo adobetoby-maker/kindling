@@ -290,7 +290,7 @@ There was still ash on the cloth. A scatter, a thin drift where the heap had sto
 
 The listening stopped.
 
-It did not fade. It was there and then it was not, as if every one of those turned heads had lost interest in the same instant and looked away. What lay on the cloth and the brick was only ash, grey and quiet and nobody's.
+It went all at once, as if every one of those turned heads had lost interest in the same instant and looked away. What lay on the cloth and the brick was only ash, grey and quiet and nobody's.
 
 The hand door, with nothing left to want, sagged, and she shut it, and it went.
 
@@ -368,13 +368,7 @@ She had not expected anything else. She had opened no doors that afternoon, and 
 
 She tucked it back and went up.
 
-That night the form lay on the kitchen table, and Mara stood over it with her glasses pushed up and did not pick it up.
-
-"Recovery only," she said.
-
-"Recovery only."
-
-"No doors near ash. No doors near cells. Reviewed after." Mara squared it with the edge of the table. "That's a meter, and a shutdown path, and a hand. Hers." She was quiet. "I'll take it to Examiner Rusk myself in the morning. I never thought to be carrying the Works something of Orla Dane's and be glad of it."
+That night the form lay on the kitchen table, and Mara stood over it with her glasses pushed up and did not pick it up. She read it where it lay, and squared it with the edge of the table. "That's a meter, and a shutdown path, and a hand. Hers." She was quiet. "I'll take it to Examiner Rusk myself in the morning. I never thought to be carrying the Works something of Orla Dane's and be glad of it."
 
 "She fell," said Kiva. "After the kill. Her knee went."
 

@@ -30,11 +30,15 @@ She cut the cords. She emptied the four tins, one after another, into a wide bra
 
 "Next?" said Kellan.
 
-"Grade. That's how clean, and how true." She took a pinch from the pan and dropped it into one of the seven small cups, which sat in a ring of bare copper wire. Beside the cups stood a grading glass, a sand glass as long as her hand with a red band and a blue band painted round its waist. She turned it. Then she laid two fingers on the wire, and Kiva felt the hand door stir, far off, and lie down again. It was the smallest tune she had ever felt anyone lay, a single plain shape no bigger than a thimble. "I put a test pattern on it and let go, and I watch how long it holds true before it starts to wander. Hold till the sand's through and it's First. Past the red, Second. Past the blue, Third. Under that it's road-lamp ash."
+"Grade. That's how clean, and how true." She took a pinch from the pan and dropped it into one of the seven small cups, which sat in a ring of bare copper wire, and turned the little banded glass at her elbow without looking at it. Then she laid two fingers on the wire, and Kiva felt the hand door stir, far off, and lie down again. It was the smallest tune she had ever felt anyone lay, a single plain shape no bigger than a thimble. "I put a test pattern on it and let go, and I watch how long it holds true before it starts to wander. First holds as long as I like. Second holds a good while. Third goes soft early. Under that it's road-lamp ash."
 
-The room was very still. Anwen's hand had shut on the edge of the slate bench. The sand ran down past the blue band, and Halloran's two fingers did not move. It ran down to the red band, and past it, and Kiva heard Anwen breathe out.
+The room was very still. Anwen's hand had shut on the edge of the slate bench, and Kiva knew what she was thinking, because she was thinking it too. Second or better, and there was a license, and a Graywater place, and Kellan off the bottom of a call. Third, and there was a pinch of a potato bed in every tin and nothing at all.
 
-It ran on for a while after that. Then Halloran's mouth tightened. "And there it goes," she said. "Second."
+Kiva could feel the little tune from where she stood. It sat in the cup like a coin on a table. It sat there while Halloran breathed in and out. It sat there long enough that Perrin shifted his weight and winced at his ribs, and long enough that Kiva heard Anwen let her breath go.
+
+Then one edge of it went soft, the way butter goes at the edge of a warm plate, and the shape began to slide.
+
+Halloran's mouth tightened. "And there it goes," she said. "Second."
 
 "What took it off First?" said Kellan. He asked it the way another boy might have asked who won a match.
 
@@ -74,13 +78,13 @@ Halloran did not say whether she believed a word of it. "Ward-trace," she said. 
 
 The shelf was at the far end of the room, between two windows.
 
-It ran from floor to ceiling, and it held hundreds of small stoppered jars, each with a pinch of grey in the bottom. They were sorted by yield and then by note, and the brass plates along the edge of each shelf said so. *FLASK, EDGE. FLASK, WARD. BARREL, STRIDE.*
+It ran from floor to ceiling, and it held hundreds of small stoppered jars, each with a pinch of grey in the bottom. They were sorted by yield and then by note, Flask above Handful, Barrel above Flask, edge and ward and stride in their own rows.
 
-The lowest shelf of all said *HANDFUL, PLAIN*, and it held a single enormous jar, the size of a bread crock.
+The lowest shelf of all held plain Handful ash, in a single enormous jar the size of a bread crock.
 
 Beside that crock, somebody had cleared a hand's width of bare wood. Four small jars stood in it, by themselves.
 
-"Kennel, the fourth," said Halloran, touching them in turn. "Kennel, the twelfth. Kennel, the seventeenth. Kennel, Saturday. That last one's yours as well, off the warden's floor, and I did it this morning." She folded her arms. "Four in a month, from one lattice that's given plain husks since my grandmother was a girl. The board's heard it from me for three weeks. Do you know what they said?"
+"Kennel, all of them," said Halloran, laying a finger on the nearest. "The first came up at the start of the month. The end one's yours as well, off the warden's floor, and I did it this morning." She folded her arms. "All this month, from one lattice that's given plain husks since my grandmother was a girl. The board's heard it from me for three weeks. Do you know what they said?"
 
 "That it's the lattice," said Kellan.
 
@@ -88,7 +92,7 @@ She looked at him sharply.
 
 "It's what I'd say, if I were sitting in an office and wanted it to be nothing," he said. "One tear. One sixty-year-old pattern holding it. If the pattern's begun to drift, every husk out of it would carry the drift. It's the cheapest explanation, and you can't disprove it with four jars from the same place."
 
-"No," said Halloran. "I can't." She nodded at the brass pan on the scale, at the end of the long room. "But that didn't come out of the Kennel. That came out of a hole in the air over an allotment, three miles from any lattice. It's the first field Handful I've ever heard sing." She let that stand a moment. "I'd like half a dram for this shelf. I can't require it. It comes out of your team share, not the city's, and I know what a first share is. But a jar on this shelf is something the board will have to come down here and listen to, with their own ears, on my comb. A word from me is something they can nod at."
+"No," said Halloran. "I can't." She nodded at the brass pan on the scale, at the end of the long room. "But that didn't come out of the Kennel. That came out of a hole in the air over an allotment, three miles from any lattice. It's the first field Handful I've ever heard sing." She let that stand a moment. "I'm asking for half a dram for this shelf. I can't require it. It comes out of your team share, not the city's, and I know what a first share is. But a jar on this shelf is something the board will have to answer. A word from me is something they can nod at."
 
 Nobody said anything. Half a dram did not sound like much. Kiva had spilled more than that off the edge of a cloth without noticing.
 
@@ -174,7 +178,7 @@ She had known all day what she wanted, and it was not on the wall list in the or
 
 Kiva turned to him. So did the others.
 
-"I was going to say so when it came round to me again." He was frowning at the grader's card. "Halloran's right about the board. A word from her, they can nod at and go to lunch. Half a dram on that comb, singing, they have to come down three flights and stand there and listen to with their own ears, and then decide what they think it is." He put one finger on the card. "Everything else on that list buys us something. That's the only half dram on this table that makes somebody else do something."
+"I was going to say so when it came round to me again." He was frowning at the grader's card. "Everything else on that list is for us. That one's for whether we're right. If the skin comes from the lattice, the comb will sing the same for every jar of it, and we've lost half a dram. If it doesn't, they'll have to stop calling it the lattice." He put one finger on the card. "Better to pay half a dram than be wrong in comfort."
 
 "So that's two for the shelf," said Anwen slowly, "from the two people at this table I'd have bet on to argue for floors and for herself."
 
@@ -190,7 +194,7 @@ It took them the rest of the pot. In the end it was Perrin who said it all throu
 
 "You'll run dry. In a team lane, three rounds, on one standard dram. You ran through nearly a whole one in a single bout in the Ring."
 
-"I know." Kiva had turned this over on the tram, all the way home. "And if I do, I ought to find that out on the sand, in front of a referee. Not have you three buy me out of it with ash you bled for. Saturday isn't Team Seven's. It's the Crooked Line third team's, and mine." She made herself say the rest. "If I need more ash than everyone else on that sand just to stay standing, then that's a true thing about me, and I'd rather know it than hide it."
+"I know." Kiva had turned this over on the tram, all the way home. "And if I do, I ought to find that out on the sand, where it happens. Not have you three buy me out of it with ash you bled for. Saturday isn't Team Seven's. It's the Crooked Line third team's, and mine." She made herself say the rest. "If I need more ash than everyone else on that sand just to stay standing, then that's a true thing about me, and I'd rather know it than hide it."
 
 Perrin gave a long sigh.
 
@@ -206,25 +210,17 @@ It did not feel like spending. It felt like setting a table for people who had n
 
 ---
 
-Noa Bexley had been in the basement of the Placement Hall since it opened, and he had not yet looked at a single roster.
+Noa Bexley had spent Tuesday afternoon at the Wren House hold posts, holding the rod for first-years, because the lane warden there owed Jude a favor and Jude had lent him Noa to pay it.
 
-The spring's results were up on the long board at the foot of the stairs, where everybody who came down looked at them. Noa was looking at the old man on the stool beside the board, who had sat at the Placement Chair's first bench on Classification Day for longer than Noa had been alive, and who came down at noon to eat his bread where he could see people reading his figures.
+He had done it the spring before as well. He knew what first-years did at the posts in their first month: they shook, and they guttered, and they went red, and they came off the plate early and apologized to the clerk. He had been one of them.
 
-"Hold," said Noa. "The middle of the class. Where does it usually sit?"
+These did not. Not all of them, and not by much. But a girl from the Weighbridge stood on the still plate until the clerk looked at her twice, and a boy with a stammer held his edge-light so long that the first-years behind him in the queue stopped talking. Noa went home with a feeling in his stomach he could not name, the kind you get when a tram takes a corner faster than it usually does.
 
-The old man chewed for a while. "Five and a bit," he said. "Five and three. Five and four, in a good year. Every year I've read, near enough."
+A strong year. That was what anyone would say, and they might be right. Three hundred people could throw up a strong year the way a handful of dice could throw up five sixes.
 
-"And this year?"
+He said it to Jude that evening in the Low Lane, while Jude was oiling the litter poles, because he wanted to hear how it sounded.
 
-"Six and one." He brushed crumbs off his knee. "I read it twice. I thought the bench was tired. It wasn't." He looked at Noa sideways. "Three of them Fire at seventeen, too, and Stonehand sent up more upper Flames than I'd have liked to see in one spring. Strong year. That's what they're saying upstairs."
-
-A strong year. That was what anyone would say, and they might be right. Three hundred people could throw up a freak middle the way a handful of dice could throw up five sixes.
-
-Noa thanked him and went up the stairs and out into the plaza, and found that he had stopped in the middle of it with people walking round him.
-
-He had a list in his head that he had not said to anybody. He said it to Jude that evening in the Low Lane, while Jude was oiling the litter poles, because he wanted to hear how it sounded out loud.
-
-"Two tears inside a fortnight, when a spring gives us four or five. Skinned Handfuls off the Kennel floor, four this month, and one in the field, and the warden says none before in sixty years. A reading off our own mast that I can't explain. And now this year's class sits higher on Hold, in the middle, than any year the old man's read." He stopped. "Things that are probably nothing."
+"Two tears inside a fortnight, when a spring gives us four or five. Skinned Handfuls off the Kennel floor, and one in the field, and the warden says he never saw one before this month. A reading off our own mast that I can't explain. And the first-years at the Wren House posts are holding longer than we did, and I don't mean me. I mean everybody." He stopped. "Things that are probably nothing."
 
 Jude went on oiling. "Do they go together?"
 
@@ -256,7 +252,7 @@ He had chalked the Long Terrace on the Low Lane's brick floor, a rectangle forty
 
 "They'll walk through it," said Pru. "I had one of them walk through it last year. He said *excuse me*."
 
-"They'll walk into it. That's a second and a half they're not walking into Noa. I take the touches." He put the pole to his own chest. "Every one of them that reaches for a handle has to open up to do it. That's my Kill. A point a time, and a turn of the line judge's glass on their knees for each." He looked at Kiva. "And you're on the litter. Still door, both hands on the poles, planted on top of him like a hen. They can't carry what they can't lift. I want you to be the heaviest thing on that sand."
+"They'll walk into it. That's a second and a half they're not walking into Noa. I take the touches." He put the pole to his own chest. "Every one of them that reaches for a handle has to open up to do it. That's my Kill. A point a time, and they kneel out for each." He looked at Kiva. "And you're on the litter. Still door, both hands on the poles, planted on top of him like a hen. They can't carry what they can't lift. I want you to be the heaviest thing on that sand."
 
 It was a good plan. She could see every part of it. It had four jobs in it, and each of them had been hers or her friends' on a brick floor that same month.
 
@@ -314,11 +310,11 @@ He went, with the old kit under one arm, and did not look back.
 
 At home, Mara was mending a kitchen meter at the bench, with her glasses on and the tweezers in her left hand.
 
-"Your Home Line man went to the Works office on Monday morning," she said, without looking up. "Stood at Rusk's counter in his boots with the mud still on them, and told him what my mast did on the twenty-eighth, and that he'd had a hold with a minute and a half in hand because of it. Rusk's clerk told me. She said Rusk didn't know where to put his hands." She set a hairspring with great care. "It isn't a license. It's a man saying a thing across a counter. I've known that to matter. We'll see on the ninth."
+"Your Home Line man went to the Works office on Monday morning," she said, without looking up. "Stood at Rusk's counter in his boots with the mud still on them, and told him what my mast did on the twenty-eighth, and that he'd had a hold with a minute and a half in hand because of it. Rusk's clerk told me. She said Rusk didn't know where to put his hands." She set a hairspring with great care. "It isn't a license. It's a man saying a thing across a counter. I've known that to matter. We'll see."
 
 That night, in the Old Yard, Orla sat on her crate with her knee bound in three thicknesses of flannel and made Kiva tell her the week.
 
-Kiva told it. The Kennel and the cold room and the Sag Line. The grader's sand glass, and the comb, and the kitchen table. Orla listened the way she always listened, with her eyes half shut and her stick across her knees, and did not interrupt until it was done.
+Kiva told it. The Kennel and the cold room and the Sag Line. The grader's room, and the comb, and the kitchen table. Orla listened the way she always listened, with her eyes half shut and her stick across her knees, and did not interrupt until it was done.
 
 "Stonehand, tomorrow," she said.
 
@@ -334,10 +330,8 @@ Kiva told it. The Kennel and the cold room and the Sag Line. The grader's sand g
 
 "I think you've a sanctioned meet with a referee and a draw board, and one incident ends your season and my standing, and you're to declare every door before you use it." Her crooked face was not unkind. "Lose it by the rules, Kiva. That's all I'll ask. Now do me the drill once before I'm too stiff to watch it."
 
-She did the drill, and did not watch the metal.
+She did the drill, and did not watch the metal, and felt the frame catch at her only once, on the way into the ward.
 
-"Eight and six," said Orla.
-
-Kiva waited for the rest of it. Orla only reached for her stick.
+Orla said nothing about it at all. She only reached for her stick.
 
 "Go home," she said. "Sleep, if you can. And strap that knee before you come down to breakfast, not after."
